@@ -3244,7 +3244,7 @@
 <programme start="20260518210000 +0000" stop="20260518230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 2. Tag</title>
 </programme>
-<programme start="20260517230000 +0000" stop="20260518010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260517232000 +0000" stop="20260518010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Seattle Storm @ Indiana Fever</title>
 </programme>
 <programme start="20260518010000 +0000" stop="20260518030000 +0000" channel="Sky Sport Top Event HD.skyde">

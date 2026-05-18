@@ -802,46 +802,46 @@
   <programme start="20260520020500 +0000" stop="20260520025500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Dereš (2)</title>
   </programme>
-  <programme start="20260520025500 +0000" stop="20260520034500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520025500 +0000" stop="20260520040000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (2)</title>
   </programme>
-  <programme start="20260520034500 +0000" stop="20260520043000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520040000 +0000" stop="20260520044500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (3)</title>
   </programme>
-  <programme start="20260520043000 +0000" stop="20260520045500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520044500 +0000" stop="20260520051000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H III (18)</title>
   </programme>
-  <programme start="20260520045500 +0000" stop="20260520054000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520051000 +0000" stop="20260520055500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra II (1)</title>
   </programme>
-  <programme start="20260520054000 +0000" stop="20260520063000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520055500 +0000" stop="20260520064000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra II (2)</title>
   </programme>
-  <programme start="20260520063000 +0000" stop="20260520072500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520064000 +0000" stop="20260520073500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger III (18)</title>
   </programme>
-  <programme start="20260520072500 +0000" stop="20260520082000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520073500 +0000" stop="20260520083000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger III (19)</title>
   </programme>
-  <programme start="20260520082000 +0000" stop="20260520105000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520083000 +0000" stop="20260520110000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Prípad Pelikán</title>
   </programme>
-  <programme start="20260520105000 +0000" stop="20260520113000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520110000 +0000" stop="20260520114000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána III (21)</title>
   </programme>
-  <programme start="20260520113000 +0000" stop="20260520122000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520114000 +0000" stop="20260520123000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána III (22)</title>
   </programme>
-  <programme start="20260520122000 +0000" stop="20260520132000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520123000 +0000" stop="20260520132500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra II (3)</title>
   </programme>
-  <programme start="20260520132000 +0000" stop="20260520142500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520132500 +0000" stop="20260520142500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra II (4)</title>
   </programme>
-  <programme start="20260520142500 +0000" stop="20260520152500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520142500 +0000" stop="20260520153000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 IX (1)</title>
   </programme>
-  <programme start="20260520152500 +0000" stop="20260520163000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260520153000 +0000" stop="20260520163000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 IX (2)</title>
   </programme>
   <programme start="20260520163000 +0000" stop="20260520172500 +0000" channel="Markíza Klasik.webtv.sk">
@@ -4769,7 +4769,7 @@
     <title lang="id">GarazTV</title>
   </programme>
   <programme start="20260520083000 +0000" stop="20260520090000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
+    <title lang="id">Zachytáme s Rybostrojem</title>
   </programme>
   <programme start="20260520090000 +0000" stop="20260520093000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DRIVE IT - Ondrej Macko</title>
@@ -4817,7 +4817,7 @@
     <title lang="id">Motoride</title>
   </programme>
   <programme start="20260520160000 +0000" stop="20260520163000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
+    <title lang="id">Za rybami světových moří</title>
   </programme>
   <programme start="20260520163000 +0000" stop="20260520170000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>
@@ -4849,7 +4849,10 @@
   <programme start="20260520213000 +0000" stop="20260520220000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260519220000 +0000" stop="20260520060000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260519203000 +0000" stop="20260519221500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">NEC Go Ahead Eagles</title>
+  </programme>
+  <programme start="20260519221500 +0000" stop="20260520060000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Nočné vysielanie</title>
   </programme>
   <programme start="20260520060000 +0000" stop="20260520063000 +0000" channel="Arena Sport 2.webtv.sk">
@@ -16849,8 +16852,11 @@
   <programme start="20260520001000 +0000" stop="20260520001500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pogoda</title>
   </programme>
-  <programme start="20260520001500 +0000" stop="20260520011000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260520001500 +0000" stop="20260520010000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Czas honoru - Powstanie (1)</title>
+  </programme>
+  <programme start="20260520010000 +0000" stop="20260520011000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Polacy Swiatu (83)</title>
   </programme>
   <programme start="20260520011000 +0000" stop="20260520021000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Stawka wieksza niz zycie (15/18)</title>
