@@ -574,6 +574,12 @@
     <programme start="20260518160000 +0000" stop="20260518160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
+    <programme start="20260517160000 +0000" stop="20260518160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260518160000 +0000" stop="20260519160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
     <programme start="20260517160000 +0000" stop="20260518112000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 18th May, Monday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>

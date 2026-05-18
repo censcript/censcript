@@ -15233,47 +15233,47 @@
   </programme>
   <programme start="20260517210000 +0000" stop="20260517223000 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - GROUP C - KOREA vs MALAYSIA - (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260517223000 +0000" stop="20260518000000 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - GROUP C - GROUP D - JAPAN vs THAILAND - (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518000000 +0000" stop="20260518013000 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - GROUP C - INDIA vs MALAYSIA - (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518013000 +0000" stop="20260518023000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Countdown - UFC 323: Dvalishvili vs Yan 2</title>
-    <desc lang="en">UFC 323 Countdown previews two title fights. In the main event, bantamweight king Merab Dvalishvili looks to defend his crown for the fourth time in 2025 against Petr Yan. In the co-main event, flyweight champion Alexandre Pantoja battles Joshua Van.???</desc>
+    <desc lang="en">UFC 323 Countdown previews two title fights. In the main event, bantamweight king Merab Dvalishvili looks to defend his crown for the fourth time in 2025 against Petr Yan. In the co-main event, flyweight champion Alexandre Pantoja battles Joshua Van.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518023000 +0000" stop="20260518040000 +0000" channel="unifisports1.unifitv">
     <title lang="en">(L) TM ISTAF World Cup 2026 - GROUP B - SINGAPORE vs MALAYSIA - (REGU)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518040000 +0000" stop="20260518053000 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - GROUP D - PHILIPPINES vs BRUNEI - (REGU)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518053000 +0000" stop="20260518070000 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - GROUP C - MYANMAR vs INDONESIA - (REGU)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518070000 +0000" stop="20260518083000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - 1st GROUP D vs 2nd GROUP A - (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - INDIA vs CHINESE TAIPEI - (QUADRANT)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518083000 +0000" stop="20260518100000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - 1st GROUP D vs 2nd GROUP A  - (REGU)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - THAILAND vs VIETNAM - (REGU)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518100000 +0000" stop="20260518110000 +0000" channel="unifisports1.unifitv">
@@ -15283,17 +15283,17 @@
   </programme>
   <programme start="20260518110000 +0000" stop="20260518120000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Unleashed - 1803 - Lightweight Title</title>
-    <desc lang="en">When Khabib Nurmagomedov retired from MMA, the UFC’s lightweight title was up for grabs. See the journey of the 155-pound belt following the Khabib Era on UFC Unleashed. Featuring Charles Oliveira, Dustin Poirier, Islam Makhachev, and more.</desc>
+    <desc lang="en">When Khabib Nurmagomedov retired from MMA, the UFC's lightweight title was up for grabs. See the journey of the 155-pound belt following the Khabib Era on UFC Unleashed. Featuring Charles Oliveira, Dustin Poirier, Islam Makhachev, and more.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518120000 +0000" stop="20260518133000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - 1st GROUP B vs 2nd GROUP C - (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - PHILIPPINES vs MALAYSIA - (QUADRANT)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518133000 +0000" stop="20260518150000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - 1st GROUP B vs 2nd GROUP C - (REGU)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - MALAYSIA vs PHILIPPINES - (REGU)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260518150000 +0000" stop="20260518210000 +0000" channel="unifisports1.unifitv">
@@ -15348,7 +15348,7 @@
     <category lang="en">Sailing</category>
   </programme>
   <programme start="20260517190000 +0000" stop="20260517213000 +0000" channel="spotv2.unifitv">
-    <title lang="en">16/5 2026 MLB Regular Season - New York Mets vs New York Yankees</title>
+    <title lang="en">2026 MLB Regular Season - New York Mets vs New York Yankees</title>
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
@@ -15412,7 +15412,7 @@
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260518153000 +0000" stop="20260518173000 +0000" channel="spotv2.unifitv">
+  <programme start="20260518153000 +0000" stop="20260518180000 +0000" channel="spotv2.unifitv">
     <title lang="en">25/26 A-League Men Semi Finals, Leg 2 - Newcastle Jets FC vs Sydney FC</title>
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>

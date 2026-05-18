@@ -1951,11 +1951,11 @@
     <programme start="20260518113000 +0000" stop="20260518133000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV 2025/26: Man United vs Nottingham Forest</title>
     </programme>
-    <programme start="20260518133000 +0000" stop="20260518140000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260518133000 +0000" stop="20260518141500 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV: Match Day Review 2025/26 Man United vs Nottingham Forest</title>
     </programme>
-    <programme start="20260518140000 +0000" stop="20260518143000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEL Final Preview</title>
+    <programme start="20260518141500 +0000" stop="20260518143000 +0000" channel="beIN Sports 3.starhub">
+        <title>Fergie Time Goals</title>
     </programme>
     <programme start="20260518143000 +0000" stop="20260518150000 +0000" channel="beIN Sports 3.starhub">
         <title>MD17 Preview</title>
@@ -3866,7 +3866,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260518010500 +0000" stop="20260518015100 +0000" channel="NHK World Premium HD.starhub">
-        <title>Project X: The Challengers-New Beginnings &quot;A World-renowned Luxury Sleeper Train&quot; (R)</title>
+        <title>Project X: The Challengers-New Beginnings &quot;A World-renowned Luxury Sleeper Train</title>
     </programme>
     <programme start="20260518015100 +0000" stop="20260518020500 +0000" channel="NHK World Premium HD.starhub">
         <title>Natural Grandeur of the East (R)</title>
@@ -3910,8 +3910,11 @@
     <programme start="20260518060000 +0000" stop="20260518061000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20260518061000 +0000" stop="20260518065500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260518061000 +0000" stop="20260518064500 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs of Our Generation (R)</title>
+    </programme>
+    <programme start="20260518064500 +0000" stop="20260518065500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20260518065500 +0000" stop="20260518090000 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 May Tournament at Ryogoku (B)</title>
@@ -3937,8 +3940,11 @@
     <programme start="20260518103000 +0000" stop="20260518105700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up</title>
     </programme>
-    <programme start="20260518105700 +0000" stop="20260518114300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Ramos Ruy in Hiroshima City, Hiroshima Prefecture&quot; Part 2</title>
+    <programme start="20260518105700 +0000" stop="20260518114000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Tsurube&#039;s Salute to Families &quot;Ramos Ruy in Hiroshima City, Hiroshima Prefecture&quot;</title>
+    </programme>
+    <programme start="20260518114000 +0000" stop="20260518114300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260518114300 +0000" stop="20260518114500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -6523,10 +6529,10 @@
     <programme start="20260518150900 +0000" stop="20260518164300 +0000" channel="TV5MONDE HD.starhub">
         <title>Mambar Pierrette</title>
     </programme>
-    <programme start="20260517150000 +0000" stop="20260517170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260517150000 +0000" stop="20260517174800 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Internazionali BNL d’Italia (1000) Final</title>
     </programme>
-    <programme start="20260517170000 +0000" stop="20260517180000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260517174800 +0000" stop="20260517180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>The Ring Master: Alexander Bublik</title>
     </programme>
     <programme start="20260517180000 +0000" stop="20260517190000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6895,14 +6901,23 @@
     <programme start="20260517174500 +0000" stop="20260517180000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Zero Waste Life</title>
     </programme>
-    <programme start="20260517180000 +0000" stop="20260517190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Documentary 360</title>
+    <programme start="20260517180000 +0000" stop="20260517185000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Egg Farming Family</title>
+    </programme>
+    <programme start="20260517185000 +0000" stop="20260517185500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>1/10: Married By Matching Apps</title>
+    </programme>
+    <programme start="20260517185500 +0000" stop="20260517190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Ramen Japan 5min.</title>
     </programme>
     <programme start="20260517190000 +0000" stop="20260517191000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
-    <programme start="20260517191000 +0000" stop="20260517200000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Showcase</title>
+    <programme start="20260517191000 +0000" stop="20260517195500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>Demolition Kingdom</title>
+    </programme>
+    <programme start="20260517195500 +0000" stop="20260517200000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
+        <title>National Parks of Japan</title>
     </programme>
     <programme start="20260517200000 +0000" stop="20260517201000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6935,7 +6950,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260517221000 +0000" stop="20260517222500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+        <title>Ramen Japan</title>
     </programme>
     <programme start="20260517222500 +0000" stop="20260517223000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Core Kyoto Mini</title>
@@ -8039,7 +8054,7 @@
         <title>Race</title>
     </programme>
     <programme start="20260518083000 +0000" stop="20260518090000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+        <title>Highlights Ep2</title>
     </programme>
     <programme start="20260518090000 +0000" stop="20260518093500 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
@@ -8050,7 +8065,7 @@
     <programme start="20260518103000 +0000" stop="20260518153000 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20260518153000 +0000" stop="20260518173000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260518153000 +0000" stop="20260518181300 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Semi Finals, Leg 2 Newcastle Jets FC vs Sydney FC</title>
     </programme>
     <programme start="20260517160000 +0000" stop="20260517170100 +0000" channel="Dragon TV.starhub">
@@ -8128,7 +8143,7 @@
     <programme start="20260518140800 +0000" stop="20260518143300 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260518143300 +0000" stop="20260518160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260518143300 +0000" stop="20260518170000 +0000" channel="Dragon TV.starhub">
         <title>Overtime No More</title>
     </programme>
     <programme start="20260517160000 +0000" stop="20260517163000 +0000" channel="Travelxp HD.starhub">

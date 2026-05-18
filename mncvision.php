@@ -1285,11 +1285,11 @@
 <programme start="20260518113000 +0000" stop="20260518133000 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV 2025/26: MUN Vs NFO</title>
 </programme>
-<programme start="20260518133000 +0000" stop="20260518140000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260518133000 +0000" stop="20260518141500 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV Match Day: MUN Vs NFO</title>
 </programme>
-<programme start="20260518140000 +0000" stop="20260518143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL/UECL Magazine Show &#039;25/26</title>
+<programme start="20260518141500 +0000" stop="20260518143000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Top Ten: Fergie Time Goals</title>
 </programme>
 <programme start="20260518143000 +0000" stop="20260518150000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL Magazine Show 2025/26</title>
@@ -1345,11 +1345,11 @@
 <programme start="20260518113000 +0000" stop="20260518133000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV 2025/26: MUN Vs NFO</title>
 </programme>
-<programme start="20260518133000 +0000" stop="20260518140000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260518133000 +0000" stop="20260518141500 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV Match Day: MUN Vs NFO</title>
 </programme>
-<programme start="20260518140000 +0000" stop="20260518143000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL/UECL Magazine Show &#039;25/26</title>
+<programme start="20260518141500 +0000" stop="20260518143000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Top Ten: Fergie Time Goals</title>
 </programme>
 <programme start="20260518143000 +0000" stop="20260518150000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL Magazine Show 2025/26</title>
@@ -6706,8 +6706,11 @@
 <programme start="20260518103000 +0000" stop="20260518105700 +0000" channel="NHK World Premium.mncvision">
     <title>Today&#039;s Close-Up</title>
 </programme>
-<programme start="20260518105700 +0000" stop="20260518114300 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260518105700 +0000" stop="20260518114000 +0000" channel="NHK World Premium.mncvision">
     <title>Tsurube&#039;s Salute To Families</title>
+</programme>
+<programme start="20260518114000 +0000" stop="20260518114300 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
 </programme>
 <programme start="20260518114300 +0000" stop="20260518114500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
@@ -6721,11 +6724,8 @@
 <programme start="20260518130000 +0000" stop="20260518134500 +0000" channel="NHK World Premium.mncvision">
     <title>Fountain Of Ancient Wisdom</title>
 </programme>
-<programme start="20260518134500 +0000" stop="20260518140000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260518134500 +0000" stop="20260518141500 +0000" channel="NHK World Premium.mncvision">
     <title>Radio Star, Ep 29</title>
-</programme>
-<programme start="20260518140000 +0000" stop="20260518143000 +0000" channel="NHK World Premium.mncvision">
-    <title>Program Director Kawashima S2</title>
 </programme>
 <programme start="20260517170000 +0000" stop="20260517170500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Peppa Pig</title>

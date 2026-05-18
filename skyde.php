@@ -2926,16 +2926,16 @@
 <programme start="20260518210000 +0000" stop="20260518220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20260517220000 +0000" stop="20260518000000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260517220500 +0000" stop="20260518000500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
 </programme>
-<programme start="20260518000000 +0000" stop="20260518020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260518000500 +0000" stop="20260518020500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: FC Schalke 04 - Eintracht Braunschweig, 34. Spieltag</title>
 </programme>
-<programme start="20260518020000 +0000" stop="20260518040000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260518020500 +0000" stop="20260518040500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
 </programme>
-<programme start="20260518040000 +0000" stop="20260518060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260518040500 +0000" stop="20260518060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: 1. FC Nürnberg - FC Schalke 04, tipico Topspiel der Woche, 33. Spieltag</title>
 </programme>
 <programme start="20260518060000 +0000" stop="20260518080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -3010,7 +3010,7 @@
 <programme start="20260518200000 +0000" stop="20260518220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen 2002 in Magny-Cours</title>
 </programme>
-<programme start="20260517230000 +0000" stop="20260518020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260517232000 +0000" stop="20260518020000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Amundi German Masters, 4. Tag in Hamburg (Deutschland)</title>
 </programme>
 <programme start="20260518020000 +0000" stop="20260518030000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3217,14 +3217,11 @@
 <programme start="20260518213000 +0000" stop="20260518233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Arsenal - FC Burnley, Match of the Week, 37. Spieltag</title>
 </programme>
-<programme start="20260517220000 +0000" stop="20260518003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
-</programme>
 <programme start="20260518003000 +0000" stop="20260518030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
 <programme start="20260518030000 +0000" stop="20260518050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 1. Tag</title>
+    <title>ATP 500: D.Dedura (GER) - F.Tiafoe (USA), Bitpanda Hamburg Open in Hamburg, 1. Tag</title>
 </programme>
 <programme start="20260518050000 +0000" stop="20260518073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
@@ -3233,7 +3230,7 @@
     <title>WTA 1000: Review Rom</title>
 </programme>
 <programme start="20260518080000 +0000" stop="20260518100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 1. Tag</title>
+    <title>ATP 500: D.Dedura (GER) - F.Tiafoe (USA), Bitpanda Hamburg Open in Hamburg, 1. Tag</title>
 </programme>
 <programme start="20260518100000 +0000" stop="20260518180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: Bitpanda Hamburg Open in Hamburg, 2. Tag</title>
@@ -3247,7 +3244,7 @@
 <programme start="20260518210000 +0000" stop="20260518230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 2. Tag</title>
 </programme>
-<programme start="20260517232000 +0000" stop="20260518010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260517230000 +0000" stop="20260518010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Seattle Storm @ Indiana Fever</title>
 </programme>
 <programme start="20260518010000 +0000" stop="20260518030000 +0000" channel="Sky Sport Top Event HD.skyde">
