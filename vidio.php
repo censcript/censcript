@@ -212,12 +212,12 @@
   <programme channel="204" start="20260518141500 +0000" stop="20260518171600 +0000">
     <title lang="id">The Icon Indonesia Top 12 Final</title>
     <desc lang="id">Talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air. Tayang setiap Senin pukul 21.15 WIB di SCTV.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/3gMQ2Hj-da6spleeBI1kbuKb7rM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078033/62abae.jpg"/>
   </programme>
   <programme channel="204" start="20260518141500 +0000" stop="20260518171600 +0000">
     <title lang="id">The Icon Indonesia Top 12 Final</title>
     <desc lang="id">Talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air. Tayang setiap Senin pukul 21.15 WIB di SCTV.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/3gMQ2Hj-da6spleeBI1kbuKb7rM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078033/62abae.jpg"/>
   </programme>
   <programme channel="204" start="20260518171600 +0000" stop="20260518183700 +0000">
     <title lang="id">FTV Utama "Semanguk Cinta Si Koki Ramen"</title>
@@ -249,7 +249,7 @@
   </programme>
   <programme channel="204" start="20260518220000 +0000" stop="20260518230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/ZNn6lfzUZPYAAkYDGj2xC9JCytw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5077986/56f751.jpg"/>
   </programme>
   <programme channel="204" start="20260518230000 +0000" stop="20260519000000 +0000">
     <title lang="id">Hot Shot</title>
@@ -258,36 +258,36 @@
   <programme channel="204" start="20260519000000 +0000" stop="20260519010000 +0000">
     <title lang="id">Tiba-Tiba Kuis</title>
     <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/j_uXQpqAyA2C-VEFhWkAzn-HEW4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5077996/efceef.jpg"/>
   </programme>
   <programme channel="204" start="20260519010000 +0000" stop="20260519030000 +0000">
     <title lang="id">SCTV FTV Pagi Spesial "Dosen Ayang Bikin Salting Brutal"</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/xvJUfWyrGD1l5ky0IWHkk7lXwXE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078044/a4f186.jpg"/>
   </programme>
   <programme channel="204" start="20260519030000 +0000" stop="20260519050000 +0000">
     <title lang="id">SCTV FTV Pagi "Kukira Gurame Ternyata Dia Yang Bikin Rame"</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/0HQaAe68Rux3RwfCe_wlaKkr-Y4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078045/41735f.jpg"/>
   </programme>
   <programme channel="204" start="20260519050000 +0000" stop="20260519053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/sbGaQMSMduiJRleStfAnGlACr1o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078003/be7992.jpg"/>
   </programme>
   <programme channel="204" start="20260519053000 +0000" stop="20260519070000 +0000">
     <title lang="id">SCTV FTV Siang "Cowok Tajir Bikin Hati Nggak Santuy"</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/uPH7IMFc0cQMPkFRpqu7OYz9_mo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078046/6fc4da.jpg"/>
   </programme>
   <programme channel="204" start="20260519070000 +0000" stop="20260519083000 +0000">
     <title lang="id">SCTV FTV Siang "Mau Pilih Kamu Tapi Gak Ada Di Menu"</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/YRuU5yJrdNgayV-VuX0hGIsfFEI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078047/368603.jpg"/>
   </programme>
   <programme channel="204" start="20260519083000 +0000" stop="20260519100000 +0000">
     <title lang="id">SCTV FTV Sore "Kutuklah Aku Dengan Cintamu, Pliss!"</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/8K2_rRTSyCv0xPW4R6hLxUFwhoM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078048/de9769.jpg"/>
   </programme>
   <programme channel="204" start="20260519100000 +0000" stop="20260519111500 +0000">
     <title lang="id">Sinetron Asmara Gen Z</title>
@@ -297,17 +297,17 @@
   <programme channel="204" start="20260519111500 +0000" stop="20260519124500 +0000">
     <title lang="id">Sinetron Istiqomah Cinta</title>
     <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/-2V0B4sFsUC3aE7oqdxOZBcuV5I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078020/91afe5.jpg"/>
   </programme>
   <programme channel="204" start="20260519124500 +0000" stop="20260519143000 +0000">
     <title lang="id">Sinetron Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/xlujTihtBvfoDVDpnEE-86xNEX4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078027/a20520.jpg"/>
   </programme>
   <programme channel="204" start="20260519143000 +0000" stop="20260519160000 +0000">
     <title lang="id">Sinetron Jejak Duka Diandra</title>
     <desc lang="id">Kisah cinta Diandra (Michelle Ziudith) dan Dimitri (Rio Dewanto) yang semula indah seketika berubah drastis setelah Yunita (Baiti Syaghaf), saudara tiri Diandra mengaku mencintai Dimitri. Dimitri terjebak dalam situasi sulit akibat ulah sang adik, Jupiter (Bizael) yang menuduh Dimitri melecehkan Yunita. Hubungan Dimitri dengan Diandra pun semakin merenggang. Tuduhan lainnya juga harus diterima Dimitri sebagai penyebab insiden kecelakaan seorang wanita. Posisi Dimitri semakin terpojok setelah Diandra yang diminta sebagai saksi justru tidak berpihak kepadanya hingga Dimitri mendapat sanksi mendekam di balik jeruji besi selama lima tahun. Lima tahun berlalu, Dimitri hidup bebas dan melanjutkan usaha sang ayah. Ia pun membuka kisah cinta baru dengan Melissa (Tasya Panggabean). Takdir pun berkata lain, pertemuan Dimitri dan Diandra kembali terjadi. Tayang setiap hari pukul 21.30 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/JNpERtPwvqK86LBUsvvbdhK1V6E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078049/de1b00.jpg"/>
   </programme>
   <programme channel="204" start="20260519160000 +0000" stop="20260519173000 +0000">
     <title lang="id">FTV Primetime "Kepincut Cinta Ob Handsome"</title>
@@ -848,7 +848,7 @@
   <programme channel="205" start="20260518120000 +0000" stop="20260518160000 +0000">
     <title lang="id">D' Academy 7 - Mega Konser Da7 X Slank</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/hiVzaXE-cwDuxNptt96C_MG89Wg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079045/e39b06.jpg"/>
   </programme>
   <programme channel="205" start="20260518160000 +0000" stop="20260518180000 +0000">
     <title lang="id">Mega Film Asia : Counter Attack</title>
@@ -863,12 +863,12 @@
   <programme channel="205" start="20260518180000 +0000" stop="20260518200000 +0000">
     <title lang="id">Mega Film Asia : Ip Man Kungfu Master</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/JjIreFHdLmWxHHdQVNYYSWgVQJ4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079047/cfcd3c.jpg"/>
   </programme>
   <programme channel="205" start="20260518200000 +0000" stop="20260518213000 +0000">
     <title lang="id">Mega Film Asia : Moscow Mission</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/ji9dAIvo2rwwsc9-fs1p_QGgZ6M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079048/1e54f7.jpg"/>
   </programme>
   <programme channel="205" start="20260518213000 +0000" stop="20260518230000 +0000">
     <title lang="id">Fokus Pagi</title>
@@ -2701,7 +2701,7 @@
   <programme channel="206" start="20260518103000 +0000" stop="20260518121300 +0000">
     <title lang="id">American Ninja Warrior Junior</title>
     <desc lang="id">American Ninja Warrior Junior</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/1LEZkUBTAqeD4MNtF_Ntb7-kwaw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075574/a66439.jpg"/>
   </programme>
   <programme channel="206" start="20260518121300 +0000" stop="20260518140600 +0000">
     <title lang="id">Proliga 2026</title>
@@ -2741,17 +2741,17 @@
   <programme channel="206" start="20260518231500 +0000" stop="20260519000000 +0000">
     <title lang="id">Liputan 6 Pagi Moji</title>
     <desc lang="id">Liputan 6 Pagi Moji</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/1YVqH7wiE0Xnbyml_xrRvZNZpvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075533/5cfba8.jpg"/>
   </programme>
   <programme channel="206" start="20260519000000 +0000" stop="20260519010000 +0000">
     <title lang="id">Bisik Pagi</title>
     <desc lang="id">Bisik Pagi</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/zCtQI69DETtv-b4XNOz3EFoVLgY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075540/1be775.jpg"/>
   </programme>
   <programme channel="206" start="20260519010000 +0000" stop="20260519020000 +0000">
     <title lang="id">Ungkap</title>
     <desc lang="id">Ungkap</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CJcXfhMFJHqlP_3dccy4PQq9lck=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075548/fcc2bc.jpg"/>
   </programme>
   <programme channel="206" start="20260519020000 +0000" stop="20260519035100 +0000">
     <title lang="id">Ungkap</title>
@@ -2771,7 +2771,7 @@
   <programme channel="206" start="20260519103000 +0000" stop="20260519121300 +0000">
     <title lang="id">American Ninja Warrior Junior</title>
     <desc lang="id">American Ninja Warrior Junior</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/9WVoWW-hnOQ8kfMnlparw04KvEY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075575/8eca79.jpg"/>
   </programme>
   <programme channel="206" start="20260519121300 +0000" stop="20260519144200 +0000">
     <title lang="id">Proliga 2026</title>
@@ -3359,7 +3359,7 @@
   </programme>
   <programme channel="777" start="20260518173000 +0000" stop="20260518180500 +0000">
     <title lang="id">Primetime News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/SbL-YkxCWUgcsZPestmsf6TH0S0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390346/ed6f7a.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/eXlG-xtJubMKNupJvzqhtjLbPcg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5060466/70f8fc.jpg"/>
   </programme>
   <programme channel="777" start="20260518180500 +0000" stop="20260518183000 +0000">
     <title lang="id">Metro Hari Ini</title>
@@ -10407,6 +10407,132 @@
     <desc lang="id">Bajing Ireng dan Jaka Sembung sama sama saling bahu membahu melawan penindasan Kompeni. Bajing Ireng merupakan pendekar wanita yang dermawan, merampok orang kaya dan hasilnya di dermakan kepada orang miskin.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
+  <programme channel="782" start="20260518181500 +0000" stop="20260518194500 +0000">
+    <title lang="id">Bioskop Asia: Code of Honour</title>
+    <desc lang="id">Kisah Kolonel Robert Sikes yang berjuang memberantas kejahatan di daerahnya, namun upayanya digagalkan oleh mantan anak buahnya, William Porter.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260518194500 +0000" stop="20260518220000 +0000">
+    <title lang="id">Mega Bollywood: Toilet: Ek Prem Katha</title>
+    <desc lang="id">Keshav jatuh cinta pada Jaya dan menikah dengannya. Namun, sang istri mengeluh karena tidak ada toilet di rumahnya. Keshav pun berusaha menenangkannya dengan beberapa perjanjian sementara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260518220000 +0000" stop="20260518230000 +0000">
+    <title lang="id">Ada Si Manis di Jembatan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260518230000 +0000" stop="20260519010000 +0000">
+    <title lang="id">Aini: Malaikat Tak Bersayap</title>
+    <desc lang="id">Aini, seorang gadis yang durhaka kepada ibunya. Perubahan sikap Aini terjadi setelah kehidupan dan pergaulannya yang mewah, berubah 180 derajat. Aini selalu mengacuhkan segala nasihat ibunya dan menjerumuskan diri ke dalam kemaksiatan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/f8cfLkU7QaEgqaGywfj4RlzNaV8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386215/78e8a2.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519010000 +0000" stop="20260519023000 +0000">
+    <title lang="id">Cinta &amp; Rahasia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519023000 +0000" stop="20260519055000 +0000">
+    <title lang="id">Mega Bollywood: Student of the Year 2</title>
+    <desc lang="id">Seorang siswa harus menghadapi para penindas dan mengatasi rintangan, baik akademis maupun romantis, untuk memenangkan piala Student of the Year yang didambakan di kampusnya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519055000 +0000" stop="20260519073000 +0000">
+    <title lang="id">Jhanak</title>
+    <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519073000 +0000" stop="20260519083000 +0000">
+    <title lang="id">Sayali</title>
+    <desc lang="id">Sayali, sosok perempuan muda pekerja keras yang memiliki impian besar untuk membahagiakan keluarganya dan meraih kehidupan yang lebih layak. Namun perjalanan hidupnya tidak mudah. Ia harus menghadapi berbagai persoalan mulai dari keterbatasan ekonomi hingga konflik keluarga yang terus menghampiri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519103000 +0000" stop="20260519120000 +0000">
+    <title lang="id">Vasudha</title>
+    <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519120000 +0000" stop="20260519141500 +0000">
+    <title lang="id">Sinema Spesial: Berkelana II</title>
+    <desc lang="id">Budi yang diusir tertabrak seorang pengendara motor. Kawan-kawannya menemukan Budi yang terluka. Budi dibawa pulang ke rumah pondokan mereka dan dirawat. Sementara itu, Ani, terus berusaha mencari Budi.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519141500 +0000" stop="20260519161500 +0000">
+    <title lang="id">Sinema Spesial: Gentayangan</title>
+    <desc lang="id">Usai dinyatakan bangkrut oleh pengadilan, Abimanyu Karindra terpaksa mengajak istri, kedua anak, serta adiknya yang bernama Sheila untuk tinggal di hotel peninggalan orang tua di sebuah lembah gunung.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519161500 +0000" stop="20260519170000 +0000">
+    <title lang="id">Sinema Laga Klasik: Pertarungan Iblis Merah</title>
+    <desc lang="id">Markoni yang menolak diajak kembali berbuat kejahatan oleh Aria Geni, bekas teman sekelompoknya, diserang habis-habisan. Harta Martoni dirampas, istri dan pembantunya dibunuh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519161500 +0000" stop="20260519170000 +0000">
+    <title lang="id">Sinema Laga Klasik: Pertarungan Iblis Merah</title>
+    <desc lang="id">Markoni yang menolak diajak kembali berbuat kejahatan oleh Aria Geni, bekas teman sekelompoknya, diserang habis-habisan. Harta Martoni dirampas, istri dan pembantunya dibunuh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519170000 +0000" stop="20260519180000 +0000">
+    <title lang="id">Sinema Laga Klasik: Pertarungan Iblis Merah</title>
+    <desc lang="id">Markoni yang menolak diajak kembali berbuat kejahatan oleh Aria Geni, bekas teman sekelompoknya, diserang habis-habisan. Harta Martoni dirampas, istri dan pembantunya dibunuh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519180000 +0000" stop="20260519194500 +0000">
+    <title lang="id">Bioskop Asia: Flaming Brothers</title>
+    <desc lang="id">Ketika Cheung Ho-tin bertemu Jenny, seorang penyanyi, ia memutuskan untuk meninggalkan saudara angkatnya, Alan, dan kehidupan kriminal mereka. Namun, ketika seorang musuh lama muncul kembali, keduanya bersatu kembali untuk melawan musuh bersama mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519194500 +0000" stop="20260519220000 +0000">
+    <title lang="id">Mega Bollywood: Total Dhamaal</title>
+    <desc lang="id">Ketika sebuah pesawat yang membawa harta karun pencuri jatuh di Janakpur, sekelompok orang eksentrik dan penipu kawakan bersaing satu sama lain untuk menemukannya terlebih dahulu.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519220000 +0000" stop="20260519230000 +0000">
+    <title lang="id">Ada Si Manis di Jembatan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260519230000 +0000" stop="20260520010000 +0000">
+    <title lang="id">Aini: Malaikat Tak Bersayap</title>
+    <desc lang="id">Aini, seorang gadis yang durhaka kepada ibunya. Perubahan sikap Aini terjadi setelah kehidupan dan pergaulannya yang mewah, berubah 180 derajat. Aini selalu mengacuhkan segala nasihat ibunya dan menjerumuskan diri ke dalam kemaksiatan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/f8cfLkU7QaEgqaGywfj4RlzNaV8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386215/78e8a2.jpg"/>
+  </programme>
+  <programme channel="782" start="20260520010000 +0000" stop="20260520023000 +0000">
+    <title lang="id">Cinta &amp; Rahasia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260520023000 +0000" stop="20260520060000 +0000">
+    <title lang="id">Mega Bollywood: Ek Tha Tiger</title>
+    <desc lang="id">Mata-mata top India, Tiger, dan kekasihnya, Zoya, bertarung melawan dunia gelap intelijen dan spionase yang melarang prajuritnya mencintai musuh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260520060000 +0000" stop="20260520073000 +0000">
+    <title lang="id">Jhanak</title>
+    <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260520073000 +0000" stop="20260520083000 +0000">
+    <title lang="id">Sayali</title>
+    <desc lang="id">Sayali, sosok perempuan muda pekerja keras yang memiliki impian besar untuk membahagiakan keluarganya dan meraih kehidupan yang lebih layak. Namun perjalanan hidupnya tidak mudah. Ia harus menghadapi berbagai persoalan mulai dari keterbatasan ekonomi hingga konflik keluarga yang terus menghampiri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260520103000 +0000" stop="20260520120000 +0000">
+    <title lang="id">Vasudha</title>
+    <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260520120000 +0000" stop="20260520141500 +0000">
+    <title lang="id">Sinema Spesial: Raja Dangdut</title>
+    <desc lang="id">Rhoma, penyanyi sukses dan mempunyai banyak penggemar. Salah satu penggemarnya, Ida sering kali berkirim surat kepadanya. Rhoma pun menaruh simpati dan jatuh cinta pada Ida. Ibu Rhoma menjodohkan Rhoma dengan Mira, gadis yang berasal dari keluarga ningrat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260520161500 +0000" stop="20260520170000 +0000">
+    <title lang="id">Sinema Laga Klasik: Si Rawing 2: Pilih Tanding</title>
+    <desc lang="id">Rawing dan Ki Debleng yang berhasil menyita barang hasil rampokan tetapi gagal menangkap perampoknya. ternyata perampoknya adalah Gempar, musuh lama Rawing.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260520161500 +0000" stop="20260520170000 +0000">
+    <title lang="id">Sinema Laga Klasik: Si Rawing 2: Pilih Tanding</title>
+    <desc lang="id">Rawing dan Ki Debleng yang berhasil menyita barang hasil rampokan tetapi gagal menangkap perampoknya. ternyata perampoknya adalah Gempar, musuh lama Rawing.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
   <programme channel="783" start="20260517160000 +0000" stop="20260517170000 +0000">
     <title lang="id">One Pride MMA FN89</title>
     <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
@@ -12449,7 +12575,7 @@
   </programme>
   <programme channel="8237" start="20260519010000 +0000" stop="20260519023000 +0000">
     <title lang="id">Tayo The Little Bus</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/KPjWmmxSknSJevgMdz2APzr4XMQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/55/622155.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/rGK43dayb6LBMvrFDWb8JprFJv8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078335/c760d2.jpg"/>
   </programme>
   <programme channel="8237" start="20260519023000 +0000" stop="20260519040000 +0000">
     <title lang="id">Katuri</title>
@@ -12458,7 +12584,7 @@
   </programme>
   <programme channel="8237" start="20260519040000 +0000" stop="20260519060000 +0000">
     <title lang="id">Pororo The Little Penguin</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/VoA_joxu-XWrR8X0icZBK_QhxaM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380862/bff933.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/-H_wcHlLnb_Djsb7H5zqQAkTX9M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078349/2eb8d3.jpg"/>
   </programme>
   <programme channel="8237" start="20260519060000 +0000" stop="20260519073000 +0000">
     <title lang="id">Bing</title>
@@ -12486,21 +12612,21 @@
   </programme>
   <programme channel="8237" start="20260519120000 +0000" stop="20260519140000 +0000">
     <title lang="id">Bioskop Keluarga Indonesia</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Fu1is_XwZa3oqlUcXJ1FUcD65so=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078387/235b62.jpg"/>
   </programme>
   <programme channel="8237" start="20260519140000 +0000" stop="20260519153000 +0000">
     <title lang="id">Pokemon</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/xP049bvXg7qvcaYJnAy0YrRzlkQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078395/64f4ce.jpg"/>
   </programme>
   <programme channel="8237" start="20260519153000 +0000" stop="20260519170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/YRBubUTextzQ71wJw-7B1_L6Y0E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078402/24b7b4.jpg"/>
   </programme>
   <programme channel="8237" start="20260519153000 +0000" stop="20260519170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/YRBubUTextzQ71wJw-7B1_L6Y0E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078402/24b7b4.jpg"/>
   </programme>
   <programme channel="8237" start="20260519170000 +0000" stop="20260519180000 +0000">
     <title lang="id">Plentis Kentus</title>
@@ -15342,10 +15468,10 @@
     <desc lang="id">Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20260521190000 +0000" stop="20260521225900 +0000">
-    <title lang="id">The CJ Cup Byron Nelson</title>
-    <desc lang="id">Round 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  <programme channel="18189" start="20260521190000 +0000" stop="20260521230000 +0000">
+    <title lang="id">Round 1 - The CJ Cup Byron Nelson 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - The CJ Cup Byron Nelson 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/eJbDCwqkFP8WBPujwof1a9-piHU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079646/3a3e62.jpg"/>
   </programme>
   <programme channel="18189" start="20260521230000 +0000" stop="20260521232900 +0000">
     <title lang="id">PGA TOUR CHAMPIONS</title>
@@ -15512,17 +15638,12 @@
     <desc lang="id">2009 Men's Singles Final Federer v Soderling</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260517200000 +0000" stop="20260517213000 +0000">
+  <programme channel="17875" start="20260517200000 +0000" stop="20260517224800 +0000">
     <title lang="id">Buenos Aires P1 Premier Padel - Finals</title>
     <desc lang="id">Nonton streaming pertandingan seru Buenos Aires P1 Premier Padel - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GX-7BgkO3htho8toZo2-EXd7fps=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075470/da8995.jpg"/>
   </programme>
-  <programme channel="17875" start="20260517213000 +0000" stop="20260517225000 +0000">
-    <title lang="id">Miami P1 Day 3 Match 5 : Premier Padel 2026</title>
-    <desc lang="id">Miami P1 Day 3 Match 5</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260517225000 +0000" stop="20260518001000 +0000">
+  <programme channel="17875" start="20260517224800 +0000" stop="20260518001000 +0000">
     <title lang="id">Miami P1 Day 3 Match 6 : Premier Padel 2026</title>
     <desc lang="id">Miami P1 Day 3 Match 6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -16255,6 +16376,553 @@
     <title lang="id">Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 2 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/iP-eaO4TIOs_VrTMRhbubWAnAcg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079416/aa6ad7.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260518173000 +0000" stop="20260518180000 +0000">
+    <title lang="id">Eps 15 : Sport Woman</title>
+    <desc lang="id">Eps 15</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260518180000 +0000" stop="20260518200000 +0000">
+    <title lang="id">JUVENTUS vs FIORENTINA : Serie A 2025/26</title>
+    <desc lang="id">JUVENTUS vs FIORENTINA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260518200000 +0000" stop="20260518220000 +0000">
+    <title lang="id">CAGLIARI vs TORINO : Serie A 2025/26</title>
+    <desc lang="id">CAGLIARI vs TORINO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260518220000 +0000" stop="20260519000000 +0000">
+    <title lang="id">UDINESE vs CREMONESE : Serie A 2025/26</title>
+    <desc lang="id">UDINESE vs CREMONESE</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519000000 +0000" stop="20260519003000 +0000">
+    <title lang="id">Eps 15 : NFL Extra</title>
+    <desc lang="id">Eps 15</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519003000 +0000" stop="20260519010000 +0000">
+    <title lang="id">INDIAN WELLS - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">INDIAN WELLS - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519010000 +0000" stop="20260519013000 +0000">
+    <title lang="id">Eps 10 : Sport Woman</title>
+    <desc lang="id">Eps 10</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519013000 +0000" stop="20260519033000 +0000">
+    <title lang="id">GENOA vs MILAN : Serie A 2025/26</title>
+    <desc lang="id">GENOA vs MILAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519033000 +0000" stop="20260519040000 +0000">
+    <title lang="id">Week 5 : NFL Game Day</title>
+    <desc lang="id">Week 5</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519040000 +0000" stop="20260519060000 +0000">
+    <title lang="id">SASSUOLO vs LECCE : Serie A 2025/26</title>
+    <desc lang="id">SASSUOLO vs LECCE</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519060000 +0000" stop="20260519080000 +0000">
+    <title lang="id">ROMA vs LAZIO : Serie A 2025/26</title>
+    <desc lang="id">ROMA vs LAZIO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519080000 +0000" stop="20260519083000 +0000">
+    <title lang="id">Eps 11 : Sport Woman</title>
+    <desc lang="id">Eps 11</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519083000 +0000" stop="20260519103000 +0000">
+    <title lang="id">{Match 6 - Internationaux de Strasbourg presented by Mammotion : {} - WTA 500</title>
+    <desc lang="id">{Match 6 - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519103000 +0000" stop="20260519123000 +0000">
+    <title lang="id">{Match 7 - Internationaux de Strasbourg presented by Mammotion : {} - WTA 500</title>
+    <desc lang="id">{Match 7 - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519123000 +0000" stop="20260519143000 +0000">
+    <title lang="id">{Match 8 - Internationaux de Strasbourg presented by Mammotion : {} - WTA 500</title>
+    <desc lang="id">{Match 8 - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519143000 +0000" stop="20260519150000 +0000">
+    <title lang="id">Eps 06 : Serie A 2025/26</title>
+    <desc lang="id">Eps 06</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519150000 +0000" stop="20260519153000 +0000">
+    <title lang="id">DUBAI - HIGHLIGHTS SHOW : DUBAI - HIGHLIGHTS SHOW</title>
+    <desc lang="id">DUBAI - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519153000 +0000" stop="20260519173000 +0000">
+    <title lang="id">Day 3 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/I9W8Lxnx-G4S59GXt232yIS08AU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079765/cfaabb.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519153000 +0000" stop="20260519173000 +0000">
+    <title lang="id">Day 3 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/I9W8Lxnx-G4S59GXt232yIS08AU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079765/cfaabb.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519173000 +0000" stop="20260519180000 +0000">
+    <title lang="id">Eps 16 : Sport Woman</title>
+    <desc lang="id">Eps 16</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519180000 +0000" stop="20260519200000 +0000">
+    <title lang="id">Quarterfinal - Internazionali BNL d'Italia : WTA 1000</title>
+    <desc lang="id">Quarterfinal - Internazionali BNL d'Italia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519200000 +0000" stop="20260519220000 +0000">
+    <title lang="id">Quarterfinal - Internazionali BNL d'Italia : WTA 1000</title>
+    <desc lang="id">Quarterfinal - Internazionali BNL d'Italia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260519220000 +0000" stop="20260520000000 +0000">
+    <title lang="id">Quarterfinal - Internazionali BNL d'Italia : WTA 1000</title>
+    <desc lang="id">Quarterfinal - Internazionali BNL d'Italia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520000000 +0000" stop="20260520003000 +0000">
+    <title lang="id">Eps 16 : NFL Extra</title>
+    <desc lang="id">Eps 16</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520003000 +0000" stop="20260520010000 +0000">
+    <title lang="id">DUBAI - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">DUBAI - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520010000 +0000" stop="20260520013000 +0000">
+    <title lang="id">Eps 11 : Sport Woman</title>
+    <desc lang="id">Eps 11</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520013000 +0000" stop="20260520033000 +0000">
+    <title lang="id">JUVENTUS vs FIORENTINA : Serie A 2025/26</title>
+    <desc lang="id">JUVENTUS vs FIORENTINA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520033000 +0000" stop="20260520040000 +0000">
+    <title lang="id">Week 4 : NFL Game Day</title>
+    <desc lang="id">Week 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520040000 +0000" stop="20260520060000 +0000">
+    <title lang="id">GENOA vs MILAN : Serie A 2025/26</title>
+    <desc lang="id">GENOA vs MILAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520060000 +0000" stop="20260520080000 +0000">
+    <title lang="id">PISA vs NAPOLI : Serie A 2025/26</title>
+    <desc lang="id">PISA vs NAPOLI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520080000 +0000" stop="20260520083000 +0000">
+    <title lang="id">Eps 12 : Sport Woman</title>
+    <desc lang="id">Eps 12</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520083000 +0000" stop="20260520143000 +0000">
+    <title lang="id">Day 4 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 4 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/T1kA7_qdIVJejnverJ2Z-5lsfCw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079766/04414a.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520143000 +0000" stop="20260520150000 +0000">
+    <title lang="id">Eps 07 : Sport Woman</title>
+    <desc lang="id">Eps 07</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520150000 +0000" stop="20260520153000 +0000">
+    <title lang="id">DOHA - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">DOHA - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520153000 +0000" stop="20260520173000 +0000">
+    <title lang="id">Day 4 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 4 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/RMiXi8XbQ85944Q02ijG1BvKDrw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079767/a553f3.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520153000 +0000" stop="20260520173000 +0000">
+    <title lang="id">Day 4 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 4 - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/RMiXi8XbQ85944Q02ijG1BvKDrw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079767/a553f3.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520173000 +0000" stop="20260520180000 +0000">
+    <title lang="id">Eps 17 : Sport Woman</title>
+    <desc lang="id">Eps 17</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520180000 +0000" stop="20260520200000 +0000">
+    <title lang="id">Quarterfinal - Internazionali BNL d'Italia : WTA 1000</title>
+    <desc lang="id">Quarterfinal - Internazionali BNL d'Italia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520200000 +0000" stop="20260520220000 +0000">
+    <title lang="id">Semifinal - Internazionali BNL d'Italia : WTA 1000</title>
+    <desc lang="id">Semifinal - Internazionali BNL d'Italia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260520220000 +0000" stop="20260521000000 +0000">
+    <title lang="id">Semifinal - Internazionali BNL d'Italia : WTA 1000</title>
+    <desc lang="id">Semifinal - Internazionali BNL d'Italia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521000000 +0000" stop="20260521003000 +0000">
+    <title lang="id">Eps 17 : NFL Extra</title>
+    <desc lang="id">Eps 17</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521003000 +0000" stop="20260521010000 +0000">
+    <title lang="id">DOHA - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">DOHA - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521010000 +0000" stop="20260521013000 +0000">
+    <title lang="id">Eps 12 : Sport Woman</title>
+    <desc lang="id">Eps 12</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521013000 +0000" stop="20260521033000 +0000">
+    <title lang="id">Match 1 - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Match 1 - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521033000 +0000" stop="20260521053000 +0000">
+    <title lang="id">Match 2 - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Match 2 - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521053000 +0000" stop="20260521073000 +0000">
+    <title lang="id">Match 3 - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Match 3 - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521073000 +0000" stop="20260521080000 +0000">
+    <title lang="id">Eps 13 : Sport Woman</title>
+    <desc lang="id">Eps 13</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521080000 +0000" stop="20260521083000 +0000">
+    <title lang="id">Full Impact - Round 37 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact - Round 37</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521083000 +0000" stop="20260521143000 +0000">
+    <title lang="id">Quarterfinals - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/0n4qtM3cZ9eRtM6rDOB5tL9TuNE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079768/ef4ef1.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521143000 +0000" stop="20260521150000 +0000">
+    <title lang="id">Eps 08 : Sport Woman</title>
+    <desc lang="id">Eps 08</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521150000 +0000" stop="20260521153000 +0000">
+    <title lang="id">MIAMI - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">MIAMI - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521153000 +0000" stop="20260521173000 +0000">
+    <title lang="id">Quarterfinals - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xxsjIKdQZqlaemKtX7Y9Ckee9GM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079769/cb3c69.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521153000 +0000" stop="20260521173000 +0000">
+    <title lang="id">Quarterfinals - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xxsjIKdQZqlaemKtX7Y9Ckee9GM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079769/cb3c69.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521173000 +0000" stop="20260521180000 +0000">
+    <title lang="id">Eps 18 : Sport Woman</title>
+    <desc lang="id">Eps 18</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521180000 +0000" stop="20260521200000 +0000">
+    <title lang="id">Quarterfinal - Internationaux de Strasbourg presented by Mammotion : WTA 500</title>
+    <desc lang="id">Quarterfinal - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521200000 +0000" stop="20260521220000 +0000">
+    <title lang="id">Quarterfinal - Internationaux de Strasbourg presented by Mammotion : WTA 500</title>
+    <desc lang="id">Quarterfinal - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260521220000 +0000" stop="20260522000000 +0000">
+    <title lang="id">Final - Internazionali BNL d'Italia : WTA 1000</title>
+    <desc lang="id">Final - Internazionali BNL d'Italia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522000000 +0000" stop="20260522003000 +0000">
+    <title lang="id">Eps 18 : NFL Extra</title>
+    <desc lang="id">Eps 18</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522003000 +0000" stop="20260522010000 +0000">
+    <title lang="id">MADRID - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">MADRID - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522010000 +0000" stop="20260522013000 +0000">
+    <title lang="id">Eps 13 : Sport Woman</title>
+    <desc lang="id">Eps 13</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522013000 +0000" stop="20260522033000 +0000">
+    <title lang="id">Quarterfinal - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Quarterfinal - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522033000 +0000" stop="20260522053000 +0000">
+    <title lang="id">Quarterfinal - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Quarterfinal - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522053000 +0000" stop="20260522073000 +0000">
+    <title lang="id">Quarterfinal - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Quarterfinal - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522073000 +0000" stop="20260522093000 +0000">
+    <title lang="id">Quarterfinal - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Quarterfinal - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522093000 +0000" stop="20260522100000 +0000">
+    <title lang="id">Eps 14 : Sport Woman</title>
+    <desc lang="id">Eps 14</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522100000 +0000" stop="20260522103000 +0000">
+    <title lang="id">Week 11 : NFL Extra</title>
+    <desc lang="id">Week 11</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522103000 +0000" stop="20260522123000 +0000">
+    <title lang="id">ROMA vs LAZIO : Serie A 2025/26</title>
+    <desc lang="id">ROMA vs LAZIO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522123000 +0000" stop="20260522163000 +0000">
+    <title lang="id">Semifinals - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinals - WTA 500: Internationaux de Strasbourg presented by Mammotion 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Wlfv8WoqEzuABwKCpLNblZoQiLw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079809/007d07.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522163000 +0000" stop="20260522173000 +0000">
+    <title lang="id">Eps 09 : Sport Woman</title>
+    <desc lang="id">Eps 09</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522163000 +0000" stop="20260522173000 +0000">
+    <title lang="id">Eps 09 : Sport Woman</title>
+    <desc lang="id">Eps 09</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522190000 +0000" stop="20260522210000 +0000">
+    <title lang="id">Quarterfinal - Internationaux de Strasbourg presented by Mammotion : WTA 500</title>
+    <desc lang="id">Quarterfinal - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522210000 +0000" stop="20260522230000 +0000">
+    <title lang="id">Semifinal - Internationaux de Strasbourg presented by Mammotion : WTA 500</title>
+    <desc lang="id">Semifinal - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260522230000 +0000" stop="20260523010000 +0000">
+    <title lang="id">Semifinal - Internationaux de Strasbourg presented by Mammotion : WTA 500</title>
+    <desc lang="id">Semifinal - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523010000 +0000" stop="20260523013000 +0000">
+    <title lang="id">Eps 14 : Sport Woman</title>
+    <desc lang="id">Eps 14</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523013000 +0000" stop="20260523033000 +0000">
+    <title lang="id">SASSUOLO vs LECCE : Serie A 2025/26</title>
+    <desc lang="id">SASSUOLO vs LECCE</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523033000 +0000" stop="20260523040000 +0000">
+    <title lang="id">Week 3 : NFL Game Day</title>
+    <desc lang="id">Week 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523040000 +0000" stop="20260523060000 +0000">
+    <title lang="id">Semifinal - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Semifinal - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523060000 +0000" stop="20260523080000 +0000">
+    <title lang="id">Semifinal - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Semifinal - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523080000 +0000" stop="20260523083000 +0000">
+    <title lang="id">Eps 15 : Sport Woman</title>
+    <desc lang="id">Eps 15</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523083000 +0000" stop="20260523090000 +0000">
+    <title lang="id">Week 12 : NFL Extra</title>
+    <desc lang="id">Week 12</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523090000 +0000" stop="20260523110000 +0000">
+    <title lang="id">GENOA vs MILAN : Serie A 2025/26</title>
+    <desc lang="id">GENOA vs MILAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523110000 +0000" stop="20260523113000 +0000">
+    <title lang="id">Full Impact - Round 37 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact - Round 37</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523113000 +0000" stop="20260523120000 +0000">
+    <title lang="id">Inside - Round 38 : Serie A 2025/26 - Magazine</title>
+    <desc lang="id">Inside - Round 38</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523120000 +0000" stop="20260523140000 +0000">
+    <title lang="id">{} Final - Internationaux de Strasbourg presented by Mammotion : {} - WTA 500</title>
+    <desc lang="id">{} Final - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523140000 +0000" stop="20260523143000 +0000">
+    <title lang="id">Eps 10 : Sport Woman</title>
+    <desc lang="id">Eps 10</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523143000 +0000" stop="20260523150000 +0000">
+    <title lang="id">Full Impact - Rouns 36 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact - Rouns 36</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523150000 +0000" stop="20260523153000 +0000">
+    <title lang="id">Inside - Round 38 : Serie A 2025/26 - Magazine</title>
+    <desc lang="id">Inside - Round 38</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523153000 +0000" stop="20260523154500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523170000 +0000" stop="20260523180000 +0000">
+    <title lang="id">TBA : Serie A 2025/26</title>
+    <desc lang="id">TBA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523180000 +0000" stop="20260523183000 +0000">
+    <title lang="id">Full Impact - Round 37 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact - Round 37</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523183000 +0000" stop="20260523205000 +0000">
+    <title lang="id">TBA : Serie A 2025/26</title>
+    <desc lang="id">TBA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523205000 +0000" stop="20260523210000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523210000 +0000" stop="20260523213000 +0000">
+    <title lang="id">DOHA - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">DOHA - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523213000 +0000" stop="20260523220000 +0000">
+    <title lang="id">INDIAN WELLS - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">INDIAN WELLS - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260523220000 +0000" stop="20260524000000 +0000">
+    <title lang="id">Final - Internationaux de Strasbourg presented by Mammotion : WTA 500</title>
+    <desc lang="id">Final - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524000000 +0000" stop="20260524003000 +0000">
+    <title lang="id">Eps 19 : NFL Extra</title>
+    <desc lang="id">Eps 19</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524003000 +0000" stop="20260524010000 +0000">
+    <title lang="id">MIAMI - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
+    <desc lang="id">MIAMI - HIGHLIGHTS SHOW</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524010000 +0000" stop="20260524013000 +0000">
+    <title lang="id">Eps 15 : Sport Woman</title>
+    <desc lang="id">Eps 15</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524013000 +0000" stop="20260524033000 +0000">
+    <title lang="id">TBA : Serie A 2025/26</title>
+    <desc lang="id">TBA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524033000 +0000" stop="20260524040000 +0000">
+    <title lang="id">Week 2 : NFL Game Day</title>
+    <desc lang="id">Week 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524040000 +0000" stop="20260524060000 +0000">
+    <title lang="id">Final - Grand Prix Sar La Princesse Lalla Meryem : WTA 250</title>
+    <desc lang="id">Final - Grand Prix Sar La Princesse Lalla Meryem</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524060000 +0000" stop="20260524080000 +0000">
+    <title lang="id">Final - Internationaux de Strasbourg presented by Mammotion : WTA 500</title>
+    <desc lang="id">Final - Internationaux de Strasbourg presented by Mammotion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524080000 +0000" stop="20260524083000 +0000">
+    <title lang="id">Eps 16 : Sport Woman</title>
+    <desc lang="id">Eps 16</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524083000 +0000" stop="20260524090000 +0000">
+    <title lang="id">Week 13 : NFL Extra</title>
+    <desc lang="id">Week 13</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524090000 +0000" stop="20260524110000 +0000">
+    <title lang="id">TBA : Serie A 2025/26</title>
+    <desc lang="id">TBA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524110000 +0000" stop="20260524130000 +0000">
+    <title lang="id">TBA : Serie A 2025/26</title>
+    <desc lang="id">TBA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524130000 +0000" stop="20260524150000 +0000">
+    <title lang="id">TBA : Serie A 2025/26</title>
+    <desc lang="id">TBA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524150000 +0000" stop="20260524153000 +0000">
+    <title lang="id">Full Impact - Round 37 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact - Round 37</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524153000 +0000" stop="20260524154500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260524154500 +0000" stop="20260524173000 +0000">
+    <title lang="id">TBA : Serie A 2025/26</title>
+    <desc lang="id">TBA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="18162" start="20260517170000 +0000" stop="20260517180000 +0000">
     <title lang="id">Kriminal +62</title>
@@ -17858,8 +18526,7 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260517170000 +0000" stop="20260517190000 +0000">
-    <title lang="id">Como Vs Inter : Serie A 2025/26</title>
-    <desc lang="id">COMO VS INTER</desc>
+    <title lang="id">Cagliari vs Torino: Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260517190000 +0000" stop="20260517205500 +0000">
@@ -18117,20 +18784,10 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">SASSUOLO VS COMO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260520100000 +0000" stop="20260520120000 +0000">
-    <title lang="id">Match 01 : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 01</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260520120000 +0000" stop="20260520140000 +0000">
-    <title lang="id">Match 02 : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 02</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260520140000 +0000" stop="20260520160000 +0000">
-    <title lang="id">Match 03 : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 03</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20260520100000 +0000" stop="20260520160000 +0000">
+    <title lang="id">Round of 16 - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round of 16 - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/122TkhiPPVUk1aqBFFCiuJOhGsI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079644/1d7756.jpg"/>
   </programme>
   <programme channel="6686" start="20260520160000 +0000" stop="20260520170000 +0000">
     <title lang="id">Highlight : Portuguese League 2025/26</title>
@@ -18207,35 +18864,15 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">VERONA VS MILAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260521100000 +0000" stop="20260521120000 +0000">
-    <title lang="id">Match 04 - Quarter Final : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 04 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20260521100000 +0000" stop="20260521180000 +0000">
+    <title lang="id">Quarterfinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/fBIIYT-yyCzWh9rb-VA7bgn2cK8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079647/8e4887.jpg"/>
   </programme>
-  <programme channel="6686" start="20260521120000 +0000" stop="20260521140000 +0000">
-    <title lang="id">Match 05 - Quarter Final : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 05 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260521140000 +0000" stop="20260521160000 +0000">
-    <title lang="id">Match 06 - Quarter Final : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 06 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260521160000 +0000" stop="20260521170000 +0000">
-    <title lang="id">Match 07 - Quarter Final : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 07 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260521160000 +0000" stop="20260521170000 +0000">
-    <title lang="id">Match 07 - Quarter Final : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 07 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260521170000 +0000" stop="20260521180000 +0000">
-    <title lang="id">Match 07 - Quarter Final : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 07 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20260521100000 +0000" stop="20260521180000 +0000">
+    <title lang="id">Quarterfinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/fBIIYT-yyCzWh9rb-VA7bgn2cK8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079647/8e4887.jpg"/>
   </programme>
   <programme channel="6686" start="20260521180000 +0000" stop="20260521190000 +0000">
     <title lang="id">Highlight : Dutch League Eredivisie 2025/26</title>
@@ -18307,15 +18944,10 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">AFC AJAX VS PSV EINDHOVEN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260522120000 +0000" stop="20260522140000 +0000">
-    <title lang="id">Match 08 - Semi Final : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 08 SEMI FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260522140000 +0000" stop="20260522160000 +0000">
-    <title lang="id">Match 09 - Semi Final : WTA 250 Grand Prix Sar La Princesse Lalla Meryem</title>
-    <desc lang="id">MATCH 09 SEMI FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20260522120000 +0000" stop="20260522160000 +0000">
+    <title lang="id">Semifinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_aTkjMcfI7Wsl4fHKwV7nRiIkY8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079648/a5403c.jpg"/>
   </programme>
   <programme channel="6686" start="20260522160000 +0000" stop="20260522163000 +0000">
     <title lang="id">Magazine - Inside Round 35 : Serie A 2025/26</title>
@@ -21327,10 +21959,10 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260519184500 +0000" stop="20260519212000 +0000">
-    <title lang="id">[LIVE] Chelsea vs Tottenham Hotspur : [LIVE] Premier League 2025/26</title>
-    <desc lang="id">Chelsea vs Tottenham Hotspur</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  <programme channel="9183" start="20260519191500 +0000" stop="20260519211500 +0000">
+    <title lang="id">Chelsea vs Tottenham - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Chelsea vs Tottenham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/wlRb2Sy8gASjVuEdTG-Fnojw038=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079602/ce28d8.jpg"/>
   </programme>
   <programme channel="9183" start="20260519212000 +0000" stop="20260519213000 +0000">
     <title lang="id">Filler</title>
@@ -26097,10 +26729,10 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260520174500 +0000" stop="20260520200000 +0000">
-    <title lang="id">Al Khaleej vs Al Ahli : 25/26 ROSHN Saudi League MW 34</title>
-    <desc lang="id">Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260520180000 +0000" stop="20260520200000 +0000">
+    <title lang="id">Al-Khaleej vs Al-Ahli - ROSHN Saudi League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Al-Khaleej vs Al-Ahli - ROSHN Saudi League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/g8pX35mhvbqB2un073XufMtqNXI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079645/2035fb.jpg"/>
   </programme>
   <programme channel="17139" start="20260520200000 +0000" stop="20260521000000 +0000">
     <title lang="id">Day 3 : 2026 LET: Amundi German Masters</title>
