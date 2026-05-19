@@ -15165,12 +15165,12 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260519120000 +0000" stop="20260519133000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) TM ISTAF World Cup 2026 - FINAL - WINNER 45 vs WINNER 46 - (QUADRANT)</title>
+    <title lang="en">(L) TM ISTAF World Cup 2026 - FINAL - INDIA vs MALAYSIA - (QUADRANT)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260519133000 +0000" stop="20260519150000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) TM ISTAF World Cup 2026 - FINAL - WINNER 47 vs WINNER 48 - (REGU)</title>
+    <title lang="en">(L) TM ISTAF World Cup 2026 - FINAL - THAILAND vs MYANMAR - (REGU)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>

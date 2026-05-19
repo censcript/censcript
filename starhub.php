@@ -3556,14 +3556,8 @@
     <programme start="20260519130000 +0000" stop="20260519140000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Evening Express (19/5/26)</title>
     </programme>
-    <programme start="20260519140000 +0000" stop="20260519143000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Chief Editor&#039;s Time (19/5/26)</title>
-    </programme>
-    <programme start="20260519143000 +0000" stop="20260519150000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>News Talk (19/5/26)</title>
-    </programme>
-    <programme start="20260519150000 +0000" stop="20260519153000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Phoenix Focus (19/5/26)</title>
+    <programme start="20260519140000 +0000" stop="20260519153000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>Phoenix Focus 2300 (19/5/26)</title>
     </programme>
     <programme start="20260519153000 +0000" stop="20260519160000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Chief Editor&#039;s Time (19/5/26)</title>

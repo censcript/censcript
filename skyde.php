@@ -3253,23 +3253,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260518221500 +0000" stop="20260518223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Torparade 34. Spieltag</title>
 </programme>
-<programme start="20260518223000 +0000" stop="20260518233000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260518223000 +0000" stop="20260518232500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20260518233000 +0000" stop="20260519000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260518232500 +0000" stop="20260519000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
 <programme start="20260519000000 +0000" stop="20260519003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260519003000 +0000" stop="20260519030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260519003000 +0000" stop="20260519035000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 1</title>
 </programme>
-<programme start="20260519030000 +0000" stop="20260519033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260519035000 +0000" stop="20260519043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime Post Show</title>
-</programme>
-<programme start="20260519033000 +0000" stop="20260519043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
 </programme>
 <programme start="20260519043000 +0000" stop="20260519044500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (34)</title>
@@ -3283,13 +3280,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260519053000 +0000" stop="20260519073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: FC Arsenal - FC Burnley, Match of the Week, 37. Spieltag</title>
 </programme>
-<programme start="20260519073000 +0000" stop="20260519093000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260519073000 +0000" stop="20260519092500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Montreal Canadiens @ Buffalo Sabres, Playoffs, 2. Runde, Spiel 7</title>
 </programme>
-<programme start="20260519093000 +0000" stop="20260519094500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260519092500 +0000" stop="20260519094000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Torparade 34. Spieltag</title>
 </programme>
-<programme start="20260519094500 +0000" stop="20260519100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260519094000 +0000" stop="20260519100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 34. Spieltag</title>
 </programme>
 <programme start="20260519100000 +0000" stop="20260519180000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3382,7 +3379,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260519081000 +0000" stop="20260519083000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live WTA</title>
 </programme>
-<programme start="20260519083000 +0000" stop="20260519193000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260519083000 +0000" stop="20260519173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Internationaux de Strasbourg in Straßburg (FRA), 3. Tag</title>
 </programme>
 <programme start="20260518234000 +0000" stop="20260519000000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -4120,22 +4117,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260519105500 +0000" stop="20260519123500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Regeln der Gewalt</title>
 </programme>
-<programme start="20260519123500 +0000" stop="20260519143500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260519123500 +0000" stop="20260519143000 +0000" channel="Warner TV Film HD.skyde">
     <title>Brennpunkt L.A. - Lethal Weapon 2</title>
 </programme>
-<programme start="20260519143500 +0000" stop="20260519161000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260519143000 +0000" stop="20260519161000 +0000" channel="Warner TV Film HD.skyde">
     <title>Judge Dredd</title>
 </programme>
 <programme start="20260519161000 +0000" stop="20260519181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Collateral</title>
 </programme>
-<programme start="20260519181500 +0000" stop="20260519200500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260519181500 +0000" stop="20260519200000 +0000" channel="Warner TV Film HD.skyde">
     <title>Jack Ryan: Shadow Recruit</title>
 </programme>
-<programme start="20260519200500 +0000" stop="20260519214500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260519200000 +0000" stop="20260519214500 +0000" channel="Warner TV Film HD.skyde">
     <title>Unstoppable: Außer Kontrolle</title>
 </programme>
-<programme start="20260519214500 +0000" stop="20260519235500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260519214500 +0000" stop="20260519235000 +0000" channel="Warner TV Film HD.skyde">
     <title>Star Trek</title>
 </programme>
 <programme start="20260518221000 +0000" stop="20260518234500 +0000" channel="Warner TV Serie HD.skyde">
