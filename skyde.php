@@ -3242,7 +3242,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 250: Gonet Geneva Open in Genf (SUI), 3. Tag</title>
 </programme>
 <programme start="20260519200000 +0000" stop="20260519220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: D. Altmaier (GER) - B. Shelton (USA), Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
+    <title>ATP 500: Topspiel, Bitpanda Hamburg Open in Hamburg, 3. Tag</title>
 </programme>
 <programme start="20260518220000 +0000" stop="20260518221500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 34. Spieltag</title>
@@ -3277,13 +3277,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260519053000 +0000" stop="20260519073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: FC Arsenal - FC Burnley, Match of the Week, 37. Spieltag</title>
 </programme>
-<programme start="20260519073000 +0000" stop="20260519092500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260519073000 +0000" stop="20260519093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Montreal Canadiens @ Buffalo Sabres, Playoffs, 2. Runde, Spiel 7</title>
 </programme>
-<programme start="20260519092500 +0000" stop="20260519094000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260519093000 +0000" stop="20260519094500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Torparade 34. Spieltag</title>
 </programme>
-<programme start="20260519094000 +0000" stop="20260519100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260519094500 +0000" stop="20260519100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 34. Spieltag</title>
 </programme>
 <programme start="20260519100000 +0000" stop="20260519180000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3358,19 +3358,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260519213000 +0000" stop="20260519233000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
 </programme>
-<programme start="20260518231000 +0000" stop="20260518233000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260518231000 +0000" stop="20260518232500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260518233000 +0000" stop="20260519000000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260518232500 +0000" stop="20260519000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
 <programme start="20260519000000 +0000" stop="20260519003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260519003000 +0000" stop="20260519030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260519003000 +0000" stop="20260519035000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 1</title>
 </programme>
-<programme start="20260519030000 +0000" stop="20260519070000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260519035000 +0000" stop="20260519045500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime Post Show</title>
 </programme>
 <programme start="20260519081000 +0000" stop="20260519083000 +0000" channel="Sky Sport 1 HD.skyde">
