@@ -6791,13 +6791,13 @@
         <title>Mandalika International Circuit, Indonesia</title>
     </programme>
     <programme start="20260520035000 +0000" stop="20260520051500 +0000" channel="beIN Sports HD.starhub">
-        <title>Ferrari Challenge North America 2026: Coppa Shell Race 2, Circuit of the America</title>
+        <title>Ferrari Challenge North America 2026: Coppa Shell Race 2, Circuit of the Americas</title>
     </programme>
     <programme start="20260520051500 +0000" stop="20260520063000 +0000" channel="beIN Sports HD.starhub">
-        <title>Ferrari Challenge North America 2026: Trofeo Pirelli Race 2, Circuit of the Amer</title>
+        <title>Ferrari Challenge North America 2026: Trofeo Pirelli Race 2, Circuit of the Americas</title>
     </programme>
     <programme start="20260520063000 +0000" stop="20260520073000 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA European Rally Championship 2026: Rally Sierra Morena SS10 Villanueva Del Re</title>
+        <title>FIA European Rally Championship 2026: Rally Sierra Morena SS10 Villanueva Del Rey 1</title>
     </programme>
     <programme start="20260520073000 +0000" stop="20260520080000 +0000" channel="beIN Sports HD.starhub">
         <title>Red Bull Ring</title>
