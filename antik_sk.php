@@ -1234,10 +1234,10 @@
   <programme start="20260520215000 +0000" stop="20260520220500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Highlighty Európskej a Konferenčnej ligy UEFA</title>
   </programme>
-  <programme start="20260520220500 +0000" stop="20260521001500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260520220500 +0000" stop="20260521005000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal CEV Liga Majstrov muži</title>
   </programme>
-  <programme start="20260521001500 +0000" stop="20260521015500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260521005000 +0000" stop="20260521015500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom muži</title>
   </programme>
   <programme start="20260521015500 +0000" stop="20260521034000 +0000" channel="JOJ Šport 2.webtv.sk">
