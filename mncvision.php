@@ -1661,7 +1661,7 @@
     <title>Jendela Dunia</title>
 </programme>
 <programme start="20260519140000 +0000" stop="20260519150000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Utama</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260519150000 +0000" stop="20260519160000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Malam</title>

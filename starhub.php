@@ -6908,7 +6908,7 @@
         <title>Mandalika International Circuit, Indonesia</title>
     </programme>
     <programme start="20260519155300 +0000" stop="20260519180000 +0000" channel="beIN Sports HD.starhub">
-        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Ivory Coast vs Uganda (Live)</title>
+        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Ivory Coast vs Uganda (L</title>
     </programme>
     <programme start="20260518152000 +0000" stop="20260518161500 +0000" channel="TestChannel2.starhub">
         <title>Golden City (Ep 851-900) VVD Mandarin</title>
