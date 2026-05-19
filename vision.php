@@ -652,9 +652,6 @@
 <programme start="20260519103000 +0000" stop="20260519120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260519120000 +0000" stop="20260519143000 +0000" channel="ANTV.vision">
-<title>Berkelana 2</title>
-</programme>
 <programme start="20260519143000 +0000" stop="20260519163000 +0000" channel="ANTV.vision">
 <title>Gentayangan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260520090000 +0000" stop="20260520090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260520090500 +0000" stop="20260520100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>
