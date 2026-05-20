@@ -1931,7 +1931,7 @@
         <title>Paris Marathon 2026: Race</title>
     </programme>
     <programme start="20260520020000 +0000" stop="20260520023000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South Africa</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South A</title>
     </programme>
     <programme start="20260520023000 +0000" stop="20260520043000 +0000" channel="beIN Sports 3.starhub">
         <title>TGL Season 2 (2026): Jupiter Links Golf Club vs Boston Common Golf</title>
@@ -1951,23 +1951,20 @@
     <programme start="20260520093000 +0000" stop="20260520113000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Women&#039;s Champions League 2025/26: Bayern vs Arsenal - MD3</title>
     </programme>
-    <programme start="20260520113000 +0000" stop="20260520120000 +0000" channel="beIN Sports 3.starhub">
-        <title>May</title>
-    </programme>
-    <programme start="20260520120000 +0000" stop="20260520130000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260520113000 +0000" stop="20260520123000 +0000" channel="beIN Sports 3.starhub">
         <title>Bermuda</title>
     </programme>
-    <programme start="20260520130000 +0000" stop="20260520133000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260520123000 +0000" stop="20260520130000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV Highlights 2025/26 Man United vs Liverpool</title>
     </programme>
-    <programme start="20260520133000 +0000" stop="20260520152500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260520130000 +0000" stop="20260520150000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV 2025/26: Man United vs Nottingham Forest</title>
     </programme>
-    <programme start="20260520152500 +0000" stop="20260520155300 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260520150000 +0000" stop="20260520155300 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV: Match Day Review 2025/26 Man United vs Nottingham Forest</title>
     </programme>
     <programme start="20260520155300 +0000" stop="20260520180000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Angola vs Mozambique (Live)</title>
+        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Angola vs Mozambique (Li</title>
     </programme>
     <programme start="20260519153000 +0000" stop="20260519163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -6562,7 +6559,10 @@
     <programme start="20260520150000 +0000" stop="20260520163100 +0000" channel="TV5MONDE HD.starhub">
         <title>Weekend in Luxembourg</title>
     </programme>
-    <programme start="20260519160000 +0000" stop="20260519174500 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260519100000 +0000" stop="20260519162000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>bitpanda Hamburg Open (500) Day 3 Rounds 1 &amp; 2</title>
+    </programme>
+    <programme start="20260519162000 +0000" stop="20260519174500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Open Capfinances Rouen Métropole (250) Final</title>
     </programme>
     <programme start="20260519174500 +0000" stop="20260519180000 +0000" channel="Hub Sports 1  HD.starhub">
