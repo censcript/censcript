@@ -566,7 +566,7 @@
         <title>(Live) East Asia Tonight</title>
     </programme>
     <programme start="20260520110000 +0000" stop="20260520120000 +0000" channel="CNA.mewatch">
-        <title>Rule Of Law For The Future</title>
+        <title>The SGLaw200 Youth Forum: Rule Of Law For The Future</title>
     </programme>
     <programme start="20260520120000 +0000" stop="20260520130000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Tonight</title>

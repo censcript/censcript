@@ -12582,11 +12582,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260519163300 +0000" stop="20260519170300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <title lang="en">Business of War</title>
+    <desc lang="en">Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260519170300 +0000" stop="20260519173300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12612,7 +12612,7 @@
   </programme>
   <programme start="20260519193300 +0000" stop="20260519200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Could the Iran war trigger the next global debt shock?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.30.</episode-num>
     <episode-num system="onscreen">S1E31</episode-num>
@@ -12678,10 +12678,10 @@
   </programme>
   <programme start="20260520033300 +0000" stop="20260520040300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Canada's Foreign Minister discusses tensions with the U.S, China's rise, Middle East instability and Canada's role in a fractured world order.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.472.</episode-num>
-    <episode-num system="onscreen">S1E473</episode-num>
+    <episode-num system="xmltv_ns">0.471.</episode-num>
+    <episode-num system="onscreen">S1E472</episode-num>
   </programme>
   <programme start="20260520040300 +0000" stop="20260520043300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12690,7 +12690,7 @@
   </programme>
   <programme start="20260520043300 +0000" stop="20260520050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">What's blocking a deal between Iran &amp; the U.S.?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <episode-num system="onscreen">S1E20</episode-num>
@@ -12714,7 +12714,7 @@
   </programme>
   <programme start="20260520063300 +0000" stop="20260520070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Could the Iran war trigger the next global debt shock?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.30.</episode-num>
     <episode-num system="onscreen">S1E31</episode-num>
@@ -12780,7 +12780,7 @@
   </programme>
   <programme start="20260520143300 +0000" stop="20260520150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Could the Iran war trigger the next global debt shock?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.30.</episode-num>
     <episode-num system="onscreen">S1E31</episode-num>
@@ -15003,7 +15003,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260520010000 +0000" stop="20260520023000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) TM ISTAF World Cup 2026 - GROUP D - INDONESIA vs BRUNEI - (TEAM)</title>
+    <title lang="en">(L) TM ISTAF World Cup 2026 - GROUP D - INDONESIA vs CHINA - (TEAM)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15013,12 +15013,12 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260520033000 +0000" stop="20260520050000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 - FINAL - WINNER 45 vs WINNER 46 - (QUADRANT)</title>
+    <title lang="en">TM ISTAF World Cup 2026 - FINAL - INDIA vs MALAYSIA - (QUADRANT)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260520050000 +0000" stop="20260520063000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 - FINAL - WINNER 47 vs WINNER 48 - (REGU)</title>
+    <title lang="en">TM ISTAF World Cup 2026 - FINAL - THAILAND vs MYANMAR - (REGU)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15047,19 +15047,14 @@
     <desc lang="en">UFC International Fight Week 2025 concludes with a stacked card that features a highly anticipated bout between Brazilian superstar Charles Oliveira and undefeated former featherweight king Ilia Topuria for the vacant Lightweight crown. Plus Ajexandre Pantoja defends his flyweight belt against Kai Kara-France and much more on UFC Reloaded</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260520120000 +0000" stop="20260520133000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260520120000 +0000" stop="20260520143000 +0000" channel="unifisports1.unifitv">
     <title lang="en">(L) TM ISTAF World Cup 2026 - GROUP D - CHINA vs BRUNEI - (TEAM)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260520133000 +0000" stop="20260520140000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Connected - 810 - UFC Connected 'Unbreakable: Zahabi Bros, Ultimate Access: Sharabutdin Magomedov, My Fight Week: Baisangur Susrkaev, Locked In: Joe Mazzulla, My Moment: Zhang Weili</title>
-    <desc lang="en">Inside Montreal's iconic Tristar Gym, we explore how the Zahabi brothers forged an unbreakable bond, shaped by discipline, loyalty, and the love of combat. We go behind the scenes to explore Shara Bullet Magomedov's transition from the octagon to the silver screen in his upcoming role in a new film produced by music stars Hit-Boy and Alchemist</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260520140000 +0000" stop="20260520200000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Allen vs. Costa - Main</title>
-    <desc lang="en">The action returns to Meta APEX in Las Vegas on May 17 with a fight card topped by a featherweight clash between “Almighty” Arnold Allen and Melquizael “The Dalmatian” Costa. A staple in the Top 10 aiming to defend his ground, Allen looks to rebound after a narrow decision loss to Jean Silva at UFC 324 and display the form that produced 10 straight wins to open his UFC tenure. One of the hottest fighters on the roster, Costa pushed his winning streak to six in February with a first-round stoppage win over veteran Dan Ige.</desc>
+  <programme start="20260520143000 +0000" stop="20260520200000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Della Maddalena vs. Prates</title>
+    <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan Devil” Zalal</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">

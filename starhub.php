@@ -1922,7 +1922,7 @@
         <title>May</title>
     </programme>
     <programme start="20260519213000 +0000" stop="20260519220000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoro</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros</title>
     </programme>
     <programme start="20260519220000 +0000" stop="20260519230000 +0000" channel="beIN Sports 3.starhub">
         <title>Van Nistelrooy</title>
@@ -3161,22 +3161,22 @@
         <title>News</title>
     </programme>
     <programme start="20260519163000 +0000" stop="20260519170000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>The toll of nuclear power on generations to come</title>
     </programme>
     <programme start="20260519170000 +0000" stop="20260519171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260519171500 +0000" stop="20260519173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Two doctors fight to stop the global C-section surge</title>
     </programme>
     <programme start="20260519173000 +0000" stop="20260519180000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>Electric Shift: Fuel Crisis Accelerates Global EV Race</title>
     </programme>
     <programme start="20260519180000 +0000" stop="20260519183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260519183000 +0000" stop="20260519190000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Kids lead climate action with a cross‑continental demo</title>
     </programme>
     <programme start="20260519190000 +0000" stop="20260519190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3185,10 +3185,10 @@
         <title>News</title>
     </programme>
     <programme start="20260519191500 +0000" stop="20260519193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Two doctors fight to stop the global C-section surge</title>
     </programme>
     <programme start="20260519193000 +0000" stop="20260519200000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>Unstoppable AI - the hope, the hype and the hazards</title>
     </programme>
     <programme start="20260519200000 +0000" stop="20260519203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3203,10 +3203,10 @@
         <title>News</title>
     </programme>
     <programme start="20260519211500 +0000" stop="20260519214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Next Level Hate - Far Right Extremism on Gaming Platforms</title>
     </programme>
     <programme start="20260519214500 +0000" stop="20260519220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Digital Sovereignty: Who Controls Our Data?</title>
     </programme>
     <programme start="20260519220000 +0000" stop="20260519220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3215,7 +3215,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260519223000 +0000" stop="20260519230000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Street Debate: Gender Based Violence in Uganda</title>
     </programme>
     <programme start="20260519230000 +0000" stop="20260519230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3224,7 +3224,7 @@
         <title>News</title>
     </programme>
     <programme start="20260519231500 +0000" stop="20260519233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Two doctors fight to stop the global C-section surge</title>
     </programme>
     <programme start="20260519233000 +0000" stop="20260520000000 +0000" channel="DW English HD.starhub">
         <title>The toll of nuclear power on generations to come</title>
@@ -5122,11 +5122,11 @@
     <programme start="20260519153500 +0000" stop="20260519180000 +0000" channel="SPOTV.starhub">
         <title>Shanghai</title>
     </programme>
-    <programme start="20260519180000 +0000" stop="20260519223000 +0000" channel="SPOTV.starhub">
+    <programme start="20260519180000 +0000" stop="20260519222000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20260519223000 +0000" stop="20260519230000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
+    <programme start="20260519222000 +0000" stop="20260519231500 +0000" channel="SPOTV.starhub">
+        <title>SBK Tissot Superpole Race</title>
     </programme>
     <programme start="20260519231500 +0000" stop="20260520024500 +0000" channel="SPOTV.starhub">
         <title>SPB/SSP/SBK Race 2</title>
