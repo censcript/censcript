@@ -1931,7 +1931,7 @@
         <title>Paris Marathon 2026: Race</title>
     </programme>
     <programme start="20260520020000 +0000" stop="20260520023000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South A</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South Africa</title>
     </programme>
     <programme start="20260520023000 +0000" stop="20260520043000 +0000" channel="beIN Sports 3.starhub">
         <title>TGL Season 2 (2026): Jupiter Links Golf Club vs Boston Common Golf</title>
@@ -1964,7 +1964,7 @@
         <title>MUTV: Match Day Review 2025/26 Man United vs Nottingham Forest</title>
     </programme>
     <programme start="20260520155300 +0000" stop="20260520180000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Angola vs Mozambique (Li</title>
+        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Angola vs Mozambique (Live)</title>
     </programme>
     <programme start="20260519153000 +0000" stop="20260519163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -3227,7 +3227,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20260519233000 +0000" stop="20260520000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>The toll of nuclear power on generations to come</title>
     </programme>
     <programme start="20260520000000 +0000" stop="20260520000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3236,7 +3236,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260520003000 +0000" stop="20260520010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Pakistan bets on fighter jet exports to boost its economy</title>
     </programme>
     <programme start="20260520010000 +0000" stop="20260520010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3254,7 +3254,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260520023000 +0000" stop="20260520030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>The toll of nuclear power on generations to come</title>
     </programme>
     <programme start="20260520030000 +0000" stop="20260520030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3263,10 +3263,10 @@
         <title>News</title>
     </programme>
     <programme start="20260520031500 +0000" stop="20260520033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Two doctors fight to stop the global C-section surge</title>
     </programme>
     <programme start="20260520033000 +0000" stop="20260520040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Kids lead climate action with a cross‑continental demo</title>
     </programme>
     <programme start="20260520040000 +0000" stop="20260520040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3284,7 +3284,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260520053000 +0000" stop="20260520060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Pakistan bets on fighter jet exports to boost its economy</title>
     </programme>
     <programme start="20260520060000 +0000" stop="20260520060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3293,10 +3293,10 @@
         <title>News</title>
     </programme>
     <programme start="20260520061500 +0000" stop="20260520063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Two doctors fight to stop the global C-section surge</title>
     </programme>
     <programme start="20260520063000 +0000" stop="20260520070000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>Voice and speech disorders</title>
     </programme>
     <programme start="20260520070000 +0000" stop="20260520070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3305,19 +3305,19 @@
         <title>News</title>
     </programme>
     <programme start="20260520071500 +0000" stop="20260520074500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Next Level Hate - Far Right Extremism on Gaming Platforms</title>
     </programme>
     <programme start="20260520074500 +0000" stop="20260520080000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Digital Sovereignty: Who Controls Our Data?</title>
     </programme>
     <programme start="20260520080000 +0000" stop="20260520080200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260520080200 +0000" stop="20260520083000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Street Debate: Gender Based Violence in Uganda</title>
     </programme>
     <programme start="20260520083000 +0000" stop="20260520090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Why environmental education works best outdoors</title>
     </programme>
     <programme start="20260520090000 +0000" stop="20260520090300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3325,17 +3325,17 @@
     <programme start="20260520090300 +0000" stop="20260520100000 +0000" channel="DW English HD.starhub">
         <title>AI - Death of the internet?</title>
     </programme>
-    <programme start="20260520100000 +0000" stop="20260520100200 +0000" channel="DW English HD.starhub">
+    <programme start="20260520100000 +0000" stop="20260520100300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260520100200 +0000" stop="20260520101500 +0000" channel="DW English HD.starhub">
+    <programme start="20260520100300 +0000" stop="20260520101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260520101500 +0000" stop="20260520104500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Next Level Hate - Far Right Extremism on Gaming Platforms</title>
     </programme>
     <programme start="20260520104500 +0000" stop="20260520110000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Digital Sovereignty: Who Controls Our Data?</title>
     </programme>
     <programme start="20260520110000 +0000" stop="20260520110200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3344,28 +3344,28 @@
         <title>Kiruna - A City Relocates</title>
     </programme>
     <programme start="20260520113000 +0000" stop="20260520120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Pakistan bets on fighter jet exports to boost its economy</title>
     </programme>
-    <programme start="20260520120000 +0000" stop="20260520120200 +0000" channel="DW English HD.starhub">
+    <programme start="20260520120000 +0000" stop="20260520120300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260520120200 +0000" stop="20260520121500 +0000" channel="DW English HD.starhub">
+    <programme start="20260520120300 +0000" stop="20260520121500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260520121500 +0000" stop="20260520130000 +0000" channel="DW English HD.starhub">
         <title>Beijing Spring - The Democracy Wall Movement in China</title>
     </programme>
-    <programme start="20260520130000 +0000" stop="20260520130200 +0000" channel="DW English HD.starhub">
+    <programme start="20260520130000 +0000" stop="20260520130300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260520130200 +0000" stop="20260520131500 +0000" channel="DW English HD.starhub">
+    <programme start="20260520130300 +0000" stop="20260520131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260520131500 +0000" stop="20260520133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Moldovan President Maia Sandu: &quot;Moldova committed to joining EU by 2030&quot;</title>
     </programme>
     <programme start="20260520133000 +0000" stop="20260520140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Kids lead climate action with a cross‑continental demo</title>
     </programme>
     <programme start="20260520140000 +0000" stop="20260520140300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3377,7 +3377,7 @@
         <title>News</title>
     </programme>
     <programme start="20260520153000 +0000" stop="20260520160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Why environmental education works best outdoors</title>
     </programme>
     <programme start="20260519160000 +0000" stop="20260519220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -8155,7 +8155,7 @@
     <programme start="20260520150000 +0000" stop="20260520153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260520153000 +0000" stop="20260520160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260520153000 +0000" stop="20260520170000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20260519160000 +0000" stop="20260519163000 +0000" channel="Travelxp HD.starhub">

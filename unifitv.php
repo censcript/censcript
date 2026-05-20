@@ -3210,14 +3210,14 @@
   <programme start="20260519161500 +0000" stop="20260519165500 +0000" channel="tvnhd.unifitv">
     <title lang="en">One Night Food Trip- International Edition</title>
     <desc lang="en">Stay tuned to this spin-off of “One Night Food Trip” toured by Korean and local celebrities and find out the delicacies you can't miss in different Asian countries!</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Food</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260519165500 +0000" stop="20260519172500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Chansung's Cooking</title>
     <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Food</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
@@ -3252,14 +3252,14 @@
   <programme start="20260519235500 +0000" stop="20260520003500 +0000" channel="tvnhd.unifitv">
     <title lang="en">One Night Food Trip- International Edition</title>
     <desc lang="en">Stay tuned to this spin-off of “One Night Food Trip” toured by Korean and local celebrities and find out the delicacies you can't miss in different Asian countries!</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Food</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260520003500 +0000" stop="20260520010500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Chansung's Cooking</title>
     <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Food</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>

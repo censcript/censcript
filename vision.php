@@ -113,10 +113,10 @@
 <title>DMD Panggung Rezeki (MNCTV)</title>
 </programme>
 <programme start="20260520160000 +0000" stop="20260520190000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260520190000 +0000" stop="20260520220000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260520220000 +0000" stop="20260520230000 +0000" channel="MNCTV.vision">
 <title>Siraman Qolbu</title>
@@ -137,7 +137,7 @@
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260521050000 +0000" stop="20260521070000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Pro Futsal League 2 (L)</title>
 </programme>
 <programme start="20260521070000 +0000" stop="20260521090000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
@@ -232,7 +232,10 @@
 <programme start="20260520040000 +0000" stop="20260520060000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260520060000 +0000" stop="20260520083000 +0000" channel="iNews.vision">
+<programme start="20260520060000 +0000" stop="20260520063000 +0000" channel="iNews.vision">
+<title>Speak After Lunch</title>
+</programme>
+<programme start="20260520063000 +0000" stop="20260520083000 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
 </programme>
 <programme start="20260520083000 +0000" stop="20260520093000 +0000" channel="iNews.vision">
@@ -639,9 +642,6 @@
 </programme>
 <programme start="20260520010000 +0000" stop="20260520023000 +0000" channel="ANTV.vision">
 <title>Cinta Dan Rahasia</title>
-</programme>
-<programme start="20260520023000 +0000" stop="20260520060000 +0000" channel="ANTV.vision">
-<title>Ek Tha Tiger</title>
 </programme>
 <programme start="20260520060000 +0000" stop="20260520073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
