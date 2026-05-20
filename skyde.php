@@ -2959,6 +2959,75 @@
 <programme start="20260520190000 +0000" stop="20260520220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Amundi German Masters, 2. Tag in Hamburg (Deutschland)</title>
 </programme>
+<programme start="20260519221500 +0000" stop="20260519224500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore - letzter Spieltag</title>
+</programme>
+<programme start="20260519224500 +0000" stop="20260520004500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Montreal Canadiens @ Buffalo Sabres, Playoffs, 2. Runde, Spiel 7</title>
+</programme>
+<programme start="20260520004500 +0000" stop="20260520014500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Katalonien</title>
+</programme>
+<programme start="20260520014500 +0000" stop="20260520024500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
+</programme>
+<programme start="20260520024500 +0000" stop="20260520030000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights MTL@BUF, Playoffs, 2. Runde, Spiel 7</title>
+</programme>
+<programme start="20260520030000 +0000" stop="20260520040000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Katalonien</title>
+</programme>
+<programme start="20260520040000 +0000" stop="20260520050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Cup Handover 2026</title>
+</programme>
+<programme start="20260520050000 +0000" stop="20260520073000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 1</title>
+</programme>
+<programme start="20260520073000 +0000" stop="20260520080000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore - letzter Spieltag</title>
+</programme>
+<programme start="20260520080000 +0000" stop="20260520090000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Katalonien</title>
+</programme>
+<programme start="20260520090000 +0000" stop="20260520094500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>World Surf League: Replay: Bonsoy Gold Coast Pro Finals Day</title>
+</programme>
+<programme start="20260520094500 +0000" stop="20260520100000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
+</programme>
+<programme start="20260520100000 +0000" stop="20260520120000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Cleveland Cavaliers @ New York Knicks, Eastern Conference Finals, Spiel 1</title>
+</programme>
+<programme start="20260520120000 +0000" stop="20260520130000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Katalonien</title>
+</programme>
+<programme start="20260520130000 +0000" stop="20260520150000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
+</programme>
+<programme start="20260520150000 +0000" stop="20260520153000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
+</programme>
+<programme start="20260520153000 +0000" stop="20260520160000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
+</programme>
+<programme start="20260520160000 +0000" stop="20260520170000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Cup Handover 2026</title>
+</programme>
+<programme start="20260520170000 +0000" stop="20260520190000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Cleveland Cavaliers @ New York Knicks, Eastern Conference Finals, Spiel 1</title>
+</programme>
+<programme start="20260520190000 +0000" stop="20260520193000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
+</programme>
+<programme start="20260520193000 +0000" stop="20260520200000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
+</programme>
+<programme start="20260520200000 +0000" stop="20260520210000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Katalonien</title>
+</programme>
+<programme start="20260520210000 +0000" stop="20260520220000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
+</programme>
 <programme start="20260519220000 +0000" stop="20260519230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
@@ -3244,11 +3313,8 @@
 <programme start="20260520081000 +0000" stop="20260520083000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live WTA</title>
 </programme>
-<programme start="20260520083000 +0000" stop="20260520200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260520083000 +0000" stop="20260520173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Internationaux de Strasbourg in Straßburg (FRA), 4. Tag</title>
-</programme>
-<programme start="20260520200000 +0000" stop="20260520232500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260520090000 +0000" stop="20260520090500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Test Sport 04</title>

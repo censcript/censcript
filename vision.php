@@ -655,9 +655,6 @@
 <programme start="20260520103000 +0000" stop="20260520120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260520143000 +0000" stop="20260520163000 +0000" channel="ANTV.vision">
-<title>Iblis Dalam Kandungan</title>
-</programme>
 <programme start="20260520163000 +0000" stop="20260520183000 +0000" channel="ANTV.vision">
 <title>Si Rawing 2</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260521073000 +0000" stop="20260521080000 +0000" channel="BTV.vision">
 <title>Indonesia Update Ototekno</title>
+</programme>
+<programme start="20260521080000 +0000" stop="20260521083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>
