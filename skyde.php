@@ -1216,8 +1216,8 @@
 <programme start="20260520200000 +0000" stop="20260520220000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX NEWS</title>
 </programme>
-<programme start="20260519222000 +0000" stop="20260519230000 +0000" channel="Motorvision+.skyde">
-    <title>Alpen Marathon</title>
+<programme start="20260519222000 +0000" stop="20260519224500 +0000" channel="Motorvision+.skyde">
+    <title>Super Cars</title>
 </programme>
 <programme start="20260519230000 +0000" stop="20260519233000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
@@ -1234,107 +1234,101 @@
 <programme start="20260520010000 +0000" stop="20260520012500 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260520012500 +0000" stop="20260520015000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520012500 +0000" stop="20260520014500 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260520015000 +0000" stop="20260520021500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520014500 +0000" stop="20260520021000 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260520021500 +0000" stop="20260520024500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520021000 +0000" stop="20260520023500 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260520024500 +0000" stop="20260520033500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520024500 +0000" stop="20260520031000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
+</programme>
+<programme start="20260520031000 +0000" stop="20260520033500 +0000" channel="Motorvision+.skyde">
+    <title>Abenteuer Allrad</title>
 </programme>
 <programme start="20260520033500 +0000" stop="20260520040000 +0000" channel="Motorvision+.skyde">
-    <title>Abenteuer Allrad</title>
+    <title>Classic Ride</title>
 </programme>
-<programme start="20260520040000 +0000" stop="20260520044700 +0000" channel="Motorvision+.skyde">
+<programme start="20260520040000 +0000" stop="20260520044500 +0000" channel="Motorvision+.skyde">
     <title>Spotted</title>
 </programme>
-<programme start="20260520044700 +0000" stop="20260520045000 +0000" channel="Motorvision+.skyde">
-    <title>Classic Ride</title>
-</programme>
-<programme start="20260520045000 +0000" stop="20260520052000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520044500 +0000" stop="20260520051000 +0000" channel="Motorvision+.skyde">
     <title>4x4 - Das Allrad Magazin</title>
 </programme>
-<programme start="20260520052000 +0000" stop="20260520055000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520051000 +0000" stop="20260520054000 +0000" channel="Motorvision+.skyde">
     <title>Cars + Life</title>
 </programme>
-<programme start="20260520055000 +0000" stop="20260520061500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520054000 +0000" stop="20260520060500 +0000" channel="Motorvision+.skyde">
     <title>Tuning - Tiefer geht`s nicht!</title>
 </programme>
-<programme start="20260520061500 +0000" stop="20260520064500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520060500 +0000" stop="20260520063500 +0000" channel="Motorvision+.skyde">
     <title>Stunt Heroes</title>
 </programme>
-<programme start="20260520064500 +0000" stop="20260520071000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520063500 +0000" stop="20260520065500 +0000" channel="Motorvision+.skyde">
     <title>Dumbest Stuff on Wheels</title>
 </programme>
-<programme start="20260520071000 +0000" stop="20260520074000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520065500 +0000" stop="20260520072500 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20260520074000 +0000" stop="20260520080500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520072500 +0000" stop="20260520075000 +0000" channel="Motorvision+.skyde">
     <title>Mission Mobility</title>
 </programme>
-<programme start="20260520080500 +0000" stop="20260520084000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520075000 +0000" stop="20260520082000 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
-<programme start="20260520084000 +0000" stop="20260520090500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520082000 +0000" stop="20260520085000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260520090500 +0000" stop="20260520093000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520085000 +0000" stop="20260520091500 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260520093000 +0000" stop="20260520100000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520091500 +0000" stop="20260520094500 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260520100000 +0000" stop="20260520102500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520094500 +0000" stop="20260520100500 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260520102500 +0000" stop="20260520105500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520100500 +0000" stop="20260520104000 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260520105500 +0000" stop="20260520112500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520104000 +0000" stop="20260520110500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260520112500 +0000" stop="20260520115000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520110500 +0000" stop="20260520113500 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
-<programme start="20260520115000 +0000" stop="20260520122000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520113500 +0000" stop="20260520120000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20260520122000 +0000" stop="20260520125000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520120000 +0000" stop="20260520123000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20260520125000 +0000" stop="20260520131500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520123000 +0000" stop="20260520125500 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20260520131500 +0000" stop="20260520134500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520125500 +0000" stop="20260520132500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260520134500 +0000" stop="20260520144000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520132500 +0000" stop="20260520141500 +0000" channel="Motorvision+.skyde">
     <title>Australian Superbike Championship 2024</title>
 </programme>
-<programme start="20260520144000 +0000" stop="20260520151000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520141500 +0000" stop="20260520144500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2026</title>
 </programme>
-<programme start="20260520151000 +0000" stop="20260520154000 +0000" channel="Motorvision+.skyde">
-    <title>FastZone 2026</title>
-</programme>
-<programme start="20260520154000 +0000" stop="20260520161000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520151500 +0000" stop="20260520154500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260520161000 +0000" stop="20260520163500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520154500 +0000" stop="20260520160500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260520163500 +0000" stop="20260520170500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520160500 +0000" stop="20260520163500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed - Unterwegs mit</title>
 </programme>
-<programme start="20260520170500 +0000" stop="20260520173000 +0000" channel="Motorvision+.skyde">
+<programme start="20260520163500 +0000" stop="20260520170000 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
-</programme>
-<programme start="20260520173000 +0000" stop="20260520180000 +0000" channel="Motorvision+.skyde">
-    <title>4x4 - Das Allrad Magazin</title>
 </programme>
 <programme start="20260520180000 +0000" stop="20260520184500 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
@@ -1342,16 +1336,16 @@
 <programme start="20260520184500 +0000" stop="20260520193500 +0000" channel="Motorvision+.skyde">
     <title>UIM E1 World Championship 2025</title>
 </programme>
-<programme start="20260520193500 +0000" stop="20260520202500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520193500 +0000" stop="20260520203000 +0000" channel="Motorvision+.skyde">
     <title>NZ Jetsprint Championship 2025</title>
 </programme>
-<programme start="20260520202500 +0000" stop="20260520212500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520203000 +0000" stop="20260520211500 +0000" channel="Motorvision+.skyde">
     <title>Australian Boat Racing 2026</title>
 </programme>
-<programme start="20260520212500 +0000" stop="20260520215500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520211500 +0000" stop="20260520214500 +0000" channel="Motorvision+.skyde">
     <title>UIM Aquabike World Championship 2025</title>
 </programme>
-<programme start="20260520215500 +0000" stop="20260520222500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520214500 +0000" stop="20260520221500 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2025</title>
 </programme>
 <programme start="20260519222000 +0000" stop="20260519224000 +0000" channel="Nick Jr..skyde">
@@ -2872,6 +2866,30 @@
 <programme start="20260520203500 +0000" stop="20260520223500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Testspiel: Rot-Weiss Frankfurt - Eintracht Frankfurt, Testspiel in Frankfurt</title>
 </programme>
+<programme start="20260505063000 +0000" stop="20260505083000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
+</programme>
+<programme start="20260505083000 +0000" stop="20260505103000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
+</programme>
+<programme start="20260505103000 +0000" stop="20260505123000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: FC Schalke 04 - Fortuna Düsseldorf, tipico Topspiel der Woche, 32. Spieltag</title>
+</programme>
+<programme start="20260505123000 +0000" stop="20260505143000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
+</programme>
+<programme start="20260505143000 +0000" stop="20260505163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
+</programme>
+<programme start="20260505163000 +0000" stop="20260505183000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: FC Schalke 04 - Fortuna Düsseldorf, tipico Topspiel der Woche, 32. Spieltag</title>
+</programme>
+<programme start="20260505183000 +0000" stop="20260505203000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
+</programme>
+<programme start="20260505203000 +0000" stop="20260505223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
+</programme>
 <programme start="20260519220000 +0000" stop="20260519230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell &amp; Shell AM - 1. Rennen in Spielberg</title>
 </programme>
@@ -3313,8 +3331,11 @@
 <programme start="20260520081000 +0000" stop="20260520083000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live WTA</title>
 </programme>
-<programme start="20260520083000 +0000" stop="20260520173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260520083000 +0000" stop="20260520183000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Internationaux de Strasbourg in Straßburg (FRA), 4. Tag</title>
+</programme>
+<programme start="20260520183000 +0000" stop="20260520232500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260520090000 +0000" stop="20260520090500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Test Sport 04</title>

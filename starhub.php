@@ -3229,6 +3229,150 @@
     <programme start="20260521000000 +0000" stop="20260521000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20260521000200 +0000" stop="20260521003000 +0000" channel="DW English HD.starhub">
+        <title>News in Review</title>
+    </programme>
+    <programme start="20260521003000 +0000" stop="20260521010000 +0000" channel="DW English HD.starhub">
+        <title>Art and Crisis</title>
+    </programme>
+    <programme start="20260521010000 +0000" stop="20260521010200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521010200 +0000" stop="20260521011500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521011500 +0000" stop="20260521020000 +0000" channel="DW English HD.starhub">
+        <title>Searching for Clues - Donations for Islamist Terrorism?</title>
+    </programme>
+    <programme start="20260521020000 +0000" stop="20260521020200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521020200 +0000" stop="20260521023000 +0000" channel="DW English HD.starhub">
+        <title>News in Review</title>
+    </programme>
+    <programme start="20260521023000 +0000" stop="20260521030000 +0000" channel="DW English HD.starhub">
+        <title>Pakistan bets on fighter jet exports to boost its economy</title>
+    </programme>
+    <programme start="20260521030000 +0000" stop="20260521030200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521030200 +0000" stop="20260521031500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521031500 +0000" stop="20260521033000 +0000" channel="DW English HD.starhub">
+        <title>Moldovan President Maia Sandu: &quot;Moldova committed to joining EU by 2030&quot;</title>
+    </programme>
+    <programme start="20260521033000 +0000" stop="20260521040000 +0000" channel="DW English HD.starhub">
+        <title>Why environmental education works best outdoors</title>
+    </programme>
+    <programme start="20260521040000 +0000" stop="20260521040200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521040200 +0000" stop="20260521041500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521041500 +0000" stop="20260521050000 +0000" channel="DW English HD.starhub">
+        <title>Searching for Clues - Donations for Islamist Terrorism?</title>
+    </programme>
+    <programme start="20260521050000 +0000" stop="20260521050200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521050200 +0000" stop="20260521053000 +0000" channel="DW English HD.starhub">
+        <title>News in Review</title>
+    </programme>
+    <programme start="20260521053000 +0000" stop="20260521060000 +0000" channel="DW English HD.starhub">
+        <title>Young Germans facing mental health crisis</title>
+    </programme>
+    <programme start="20260521060000 +0000" stop="20260521060200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521060200 +0000" stop="20260521061500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521061500 +0000" stop="20260521063000 +0000" channel="DW English HD.starhub">
+        <title>Moldovan President Maia Sandu: &quot;Moldova committed to joining EU by 2030&quot;</title>
+    </programme>
+    <programme start="20260521063000 +0000" stop="20260521070000 +0000" channel="DW English HD.starhub">
+        <title>Kiruna - A City Relocates</title>
+    </programme>
+    <programme start="20260521070000 +0000" stop="20260521070300 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521070300 +0000" stop="20260521080000 +0000" channel="DW English HD.starhub">
+        <title>AI - Death of the internet?</title>
+    </programme>
+    <programme start="20260521080000 +0000" stop="20260521080200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521080200 +0000" stop="20260521083000 +0000" channel="DW English HD.starhub">
+        <title>Pakistan bets on fighter jet exports to boost its economy</title>
+    </programme>
+    <programme start="20260521083000 +0000" stop="20260521090000 +0000" channel="DW English HD.starhub">
+        <title>Young Germans facing mental health crisis</title>
+    </programme>
+    <programme start="20260521090000 +0000" stop="20260521090200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521090200 +0000" stop="20260521091500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521091500 +0000" stop="20260521100000 +0000" channel="DW English HD.starhub">
+        <title>European Narcos - Part 1 - The Wealth of a Nation</title>
+    </programme>
+    <programme start="20260521100000 +0000" stop="20260521100200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521100200 +0000" stop="20260521101500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521101500 +0000" stop="20260521110000 +0000" channel="DW English HD.starhub">
+        <title>Searching for Clues - Donations for Islamist Terrorism?</title>
+    </programme>
+    <programme start="20260521110000 +0000" stop="20260521110200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521110200 +0000" stop="20260521111500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521111500 +0000" stop="20260521113000 +0000" channel="DW English HD.starhub">
+        <title>Blind Trust</title>
+    </programme>
+    <programme start="20260521113000 +0000" stop="20260521120000 +0000" channel="DW English HD.starhub">
+        <title>Young Germans facing mental health crisis</title>
+    </programme>
+    <programme start="20260521120000 +0000" stop="20260521120300 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521120300 +0000" stop="20260521130000 +0000" channel="DW English HD.starhub">
+        <title>AI - Death of the internet?</title>
+    </programme>
+    <programme start="20260521130000 +0000" stop="20260521130200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521130200 +0000" stop="20260521131500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521131500 +0000" stop="20260521133000 +0000" channel="DW English HD.starhub">
+        <title>Art Born of Pain: Frida Kahlo</title>
+    </programme>
+    <programme start="20260521133000 +0000" stop="20260521140000 +0000" channel="DW English HD.starhub">
+        <title>Electric Shift: Fuel Crisis Accelerates Global EV Race</title>
+    </programme>
+    <programme start="20260521140000 +0000" stop="20260521140200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521140200 +0000" stop="20260521141500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521141500 +0000" stop="20260521150000 +0000" channel="DW English HD.starhub">
+        <title>European Narcos - Part 1 - The Wealth of a Nation</title>
+    </programme>
+    <programme start="20260521150000 +0000" stop="20260521153000 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260521153000 +0000" stop="20260521160000 +0000" channel="DW English HD.starhub">
+        <title>Voice and speech disorders</title>
+    </programme>
     <programme start="20260520160000 +0000" stop="20260520220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
     </programme>

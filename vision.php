@@ -655,12 +655,6 @@
 <programme start="20260520103000 +0000" stop="20260520120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260520163000 +0000" stop="20260520183000 +0000" channel="ANTV.vision">
-<title>Si Rawing 2</title>
-</programme>
-<programme start="20260520183000 +0000" stop="20260520193000 +0000" channel="ANTV.vision">
-<title>The Inspector Wears Skirt</title>
-</programme>
 <programme start="20260520193000 +0000" stop="20260520220000 +0000" channel="ANTV.vision">
 <title>Kapoor &amp; Sons</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260521080000 +0000" stop="20260521083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260521083000 +0000" stop="20260521090000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260521090000 +0000" stop="20260521090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>
