@@ -733,10 +733,10 @@
     <programme start="20260520160000 +0000" stop="20260521110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 21st May, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20260519160000 +0000" stop="20260520130000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 20th May, Wednesday 9.00pm. ASEAN Shopee Cup 2025/2026 Final Leg 1</title>
+    <programme start="20260519160000 +0000" stop="20260520123500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 20th May, Wednesday 8.35pm. ASEAN Shopee Cup 2025/2026 Final Leg 1</title>
     </programme>
-    <programme start="20260520130000 +0000" stop="20260520150000 +0000" channel="Live 2.mewatch">
+    <programme start="20260520123500 +0000" stop="20260520150000 +0000" channel="Live 2.mewatch">
         <title>ASEAN Shopee Cup 2025/2026 Final Leg 1: Selangor FC vs Buriram United FC</title>
     </programme>
     <programme start="20260520150000 +0000" stop="20260520160000 +0000" channel="Live 2.mewatch">

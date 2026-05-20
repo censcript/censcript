@@ -2866,11 +2866,11 @@
 <programme start="20260520180000 +0000" stop="20260520193500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
 </programme>
-<programme start="20260520193500 +0000" stop="20260520213500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Testspiel: Rot-Weiss Frankfurt - Eintracht Frankfurt, Testspiel in Frankfurt</title>
+<programme start="20260520193500 +0000" stop="20260520203500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
 </programme>
-<programme start="20260520213500 +0000" stop="20260520223500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 34. Spieltag</title>
+<programme start="20260520203500 +0000" stop="20260520223500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Testspiel: Rot-Weiss Frankfurt - Eintracht Frankfurt, Testspiel in Frankfurt</title>
 </programme>
 <programme start="20260519220000 +0000" stop="20260519230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: Coppa Shell &amp; Shell AM - 1. Rennen in Spielberg</title>

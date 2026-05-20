@@ -1922,7 +1922,7 @@
         <title>May</title>
     </programme>
     <programme start="20260519213000 +0000" stop="20260519220000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoro</title>
     </programme>
     <programme start="20260519220000 +0000" stop="20260519230000 +0000" channel="beIN Sports 3.starhub">
         <title>Van Nistelrooy</title>
@@ -5128,13 +5128,10 @@
     <programme start="20260519223000 +0000" stop="20260519230000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260519230000 +0000" stop="20260520000000 +0000" channel="SPOTV.starhub">
-        <title>SBK Tissot Superpole Race</title>
-    </programme>
-    <programme start="20260520000000 +0000" stop="20260520040000 +0000" channel="SPOTV.starhub">
+    <programme start="20260519231500 +0000" stop="20260520024500 +0000" channel="SPOTV.starhub">
         <title>SPB/SSP/SBK Race 2</title>
     </programme>
-    <programme start="20260520040000 +0000" stop="20260520101000 +0000" channel="SPOTV.starhub">
+    <programme start="20260520024500 +0000" stop="20260520101000 +0000" channel="SPOTV.starhub">
         <title>Round 2</title>
     </programme>
     <programme start="20260520101000 +0000" stop="20260520153500 +0000" channel="SPOTV.starhub">

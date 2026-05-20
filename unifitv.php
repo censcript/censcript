@@ -481,7 +481,7 @@
   <programme start="20260519220000 +0000" stop="20260520000000 +0000" channel="degup.unifitv">
     <title lang="en">Ruthless</title>
     <desc lang="en">Seorang guru dengan masa lalu gelap bertindak ganas untuk menyelamatkan pelajarnya daripada sindiket jenayah.</desc>
-    <category lang="en">Action </category>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260520000000 +0000" stop="20260520020000 +0000" channel="degup.unifitv">
     <title lang="en">Dorm Melati</title>
@@ -4224,31 +4224,10 @@
     <episode-num system="xmltv_ns">3.20260519.</episode-num>
     <episode-num system="onscreen">S4E20260520</episode-num>
   </programme>
-  <programme start="20260520020300 +0000" stop="20260520023300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG HOT KITCHEN</title>
-    <desc lang="en">Senior commentator Cheng Jiannan invited famous political and economic figures to gather at "Hong Kong Hot Kitchen" to use current affairs as ingredients, to illustrate other things, to see the big picture from the small details, to use creativity as cooking skills, to turn depth into the right degree of heat, to butcher the cow like a butcher, and to analyze and decode.</desc>
-    <category lang="en">Food </category>
-    <episode-num system="xmltv_ns">0.20260519.</episode-num>
-    <episode-num system="onscreen">S1E20260520</episode-num>
-  </programme>
-  <programme start="20260520023300 +0000" stop="20260520030300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260519.</episode-num>
-    <episode-num system="onscreen">S1E20260520</episode-num>
-  </programme>
-  <programme start="20260520030300 +0000" stop="20260520033300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">NEWS DECODER</title>
-    <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">0.20260519.</episode-num>
-    <episode-num system="onscreen">S1E20260520</episode-num>
-  </programme>
-  <programme start="20260520033300 +0000" stop="20260520040300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA RESOURCES ZOOM IN</title>
-    <desc lang="en">Pay attention to current political topics, major social events and news hot spots. Dig out more facts and backgrounds. Analyze the early consequences of news events, the fate of characters, and present authoritative views.</desc>
-    <category lang="en">Factual</category>
+  <programme start="20260520020300 +0000" stop="20260520040300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">PHOENIX HONG KONG CHANNEL SPECIAL [CANTONESE]</title>
+    <desc lang="en">The channel bridges the gap between mainland China and global Cantonese communities. It is heavily utilized by international television providers, to deliver comprehensive, professional news and cultural entertainment to the Cantonese diaspora.</desc>
+    <category lang="en">News </category>
     <episode-num system="xmltv_ns">0.20260519.</episode-num>
     <episode-num system="onscreen">S1E20260520</episode-num>
   </programme>
@@ -4294,14 +4273,14 @@
     <episode-num system="xmltv_ns">3.20260519.</episode-num>
     <episode-num system="onscreen">S4E20260520</episode-num>
   </programme>
-  <programme start="20260520070300 +0000" stop="20260520073300 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260520070300 +0000" stop="20260520080000 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">HONG KONG HOT KITCHEN</title>
     <desc lang="en">Senior commentator Cheng Jiannan invited famous political and economic figures to gather at "Hong Kong Hot Kitchen" to use current affairs as ingredients, to illustrate other things, to see the big picture from the small details, to use creativity as cooking skills, to turn depth into the right degree of heat, to butcher the cow like a butcher, and to analyze and decode.</desc>
     <category lang="en">Food </category>
     <episode-num system="xmltv_ns">0.20260519.</episode-num>
     <episode-num system="onscreen">S1E20260520</episode-num>
   </programme>
-  <programme start="20260520073300 +0000" stop="20260520080300 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260520080000 +0000" stop="20260520080300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">NEWS DECODER</title>
     <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
     <category lang="en">Talk Show</category>
@@ -4309,9 +4288,9 @@
     <episode-num system="onscreen">S1E20260520</episode-num>
   </programme>
   <programme start="20260520080300 +0000" stop="20260520083300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">HOST HUNT (II) [MANDARIN]</title>
+    <desc lang="en">The media landscape is rapidly evolving, demanding that modern broadcasters be visually engaging, tech-savvy, multitalented, and globally minded. Host Hunt (II) opens its doors to aspiring media professionals, university students, and broadcast enthusiasts from around the world—with a dedicated spotlight on the Guangdong-Hong Kong-Macao Greater Bay Area.</desc>
+    <category lang="en">Talk Show</category>
     <episode-num system="xmltv_ns">0.20260519.</episode-num>
     <episode-num system="onscreen">S1E20260520</episode-num>
   </programme>
@@ -4336,24 +4315,17 @@
     <episode-num system="xmltv_ns">0.20260519.</episode-num>
     <episode-num system="onscreen">S1E20260520</episode-num>
   </programme>
-  <programme start="20260520100300 +0000" stop="20260520103000 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260520100300 +0000" stop="20260520105800 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">PHOENIX FOCUS 1800</title>
     <desc lang="en">Focusing on the global political issues and major social events. Phoenix Focus delivers news highlights to viewers, presenting authoritative views.</desc>
     <category lang="en">Politics</category>
     <episode-num system="xmltv_ns">0.20260519.</episode-num>
     <episode-num system="onscreen">S1E20260520</episode-num>
   </programme>
-  <programme start="20260520103000 +0000" stop="20260520103300 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260520105800 +0000" stop="20260520110300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">PHOENIX WEATHER FORECAST</title>
     <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
     <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260519.</episode-num>
-    <episode-num system="onscreen">S1E20260520</episode-num>
-  </programme>
-  <programme start="20260520103300 +0000" stop="20260520110300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">YILING NEWS TALK</title>
-    <desc lang="en">YILING NEWS TALK</desc>
-    <category lang="en">News </category>
     <episode-num system="xmltv_ns">0.20260519.</episode-num>
     <episode-num system="onscreen">S1E20260520</episode-num>
   </programme>
@@ -6353,11 +6325,9 @@
     <display-name>Warner TV HD</display-name>
   </channel>
   <programme start="20260519150500 +0000" stop="20260519185500 +0000" channel="warnertv.unifitv">
-    <title lang="en">Ben-Hur</title>
-    <desc lang="en">While seeking revenge, a rebellious Israelite prince crosses paths with Jesus Christ.</desc>
+    <title lang="en">Barry Lyndon</title>
+    <desc lang="en">An Irish rogue cheats his way to the top of 18th-century British society.</desc>
     <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260519185500 +0000" stop="20260519194500 +0000" channel="warnertv.unifitv">
     <title lang="en">Er</title>
@@ -10044,11 +10014,11 @@
     <episode-num system="onscreen">S4E402</episode-num>
   </programme>
   <programme start="20260520001000 +0000" stop="20260520003500 +0000" channel="nickjr.unifitv">
-    <title lang="en">Ben &amp; Holly's Little Kingdom</title>
-    <desc lang="en">Holly joins Ben at Elf School, where no magic should be used. Holly finds it hard until Nanny Plum uses magic to help her out.  A mole disturbs King Thistle's golf course, so a Gnome helps drive it away. Soon the Gnome is ordering the Elves around.</desc>
+    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <desc lang="en">Barbidou's beautiful roses mysteriously disappeared during the night.  Barbapapa decides to tell the barbababies about the time he went to explore the Arctic and the seabed.</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.108.</episode-num>
-    <episode-num system="onscreen">S1E109</episode-num>
+    <episode-num system="xmltv_ns">1.222.</episode-num>
+    <episode-num system="onscreen">S2E223</episode-num>
   </programme>
   <programme start="20260520003500 +0000" stop="20260520004000 +0000" channel="nickjr.unifitv">
     <title lang="en">Tim Rex in Space</title>
@@ -10232,12 +10202,33 @@
     <episode-num system="xmltv_ns">1.250.</episode-num>
     <episode-num system="onscreen">S2E251</episode-num>
   </programme>
-  <programme start="20260520073000 +0000" stop="20260520075500 +0000" channel="nickjr.unifitv">
-    <title lang="en">Ben &amp; Holly's Little Kingdom</title>
-    <desc lang="en">The Wise Old Elf teaches the elf children how to tell the time using a watch. Nanny Plum uses a dandelion clock to teach the fairy children.  Gaston's cave has a leaky roof, so Holly invites him to stay at the castle. But then Gaston takes over.</desc>
+  <programme start="20260520073000 +0000" stop="20260520073500 +0000" channel="nickjr.unifitv">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">The Carnival has come to town and it's a chance to see all sorts of exciting things! There is Mr. Bull's Jazz Band, Miss Rabbit as the Carnival Queen and even a very special appearance from Mr. Potato, showing off his very large balloon!</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.109.</episode-num>
-    <episode-num system="onscreen">S1E110</episode-num>
+    <episode-num system="xmltv_ns">6.742.</episode-num>
+    <episode-num system="onscreen">S7E743</episode-num>
+  </programme>
+  <programme start="20260520073500 +0000" stop="20260520074000 +0000" channel="nickjr.unifitv">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Dr. Brown Bear comes to visit the playgroup and teach all of the children what to do when there's been an accident.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">6.743.</episode-num>
+    <episode-num system="onscreen">S7E744</episode-num>
+  </programme>
+  <programme start="20260520074000 +0000" stop="20260520074500 +0000" channel="nickjr.unifitv">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">When Tiddles the Tortoise gets stuck in a tree, Pedro Pony has trouble trying to rescue him!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">6.744.</episode-num>
+    <episode-num system="onscreen">S7E745</episode-num>
+  </programme>
+  <programme start="20260520074500 +0000" stop="20260520075500 +0000" channel="nickjr.unifitv">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">Peppa takes Goldie the Goldfish for a visit to the vets and is surprised when she finds that there's a new road to be built over the building!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">6.745.</episode-num>
+    <episode-num system="onscreen">S7E746</episode-num>
   </programme>
   <programme start="20260520075500 +0000" stop="20260520081500 +0000" channel="nickjr.unifitv">
     <title lang="en">BARBAPAPA - One Big Happy Family!</title>
@@ -10394,11 +10385,11 @@
     <episode-num system="onscreen">S5E517</episode-num>
   </programme>
   <programme start="20260520140000 +0000" stop="20260520142000 +0000" channel="nickjr.unifitv">
-    <title lang="en">Ben &amp; Holly's Little Kingdom</title>
-    <desc lang="en">The Wise Old Elf teaches the elf children how to tell the time using a watch. Nanny Plum uses a dandelion clock to teach the fairy children.  Gaston's cave has a leaky roof, so Holly invites him to stay at the castle. But then Gaston takes over.</desc>
+    <title lang="en">Blaze and the Monster Machines</title>
+    <desc lang="en">Blaze, AJ, and lots of spectators have gathered to watch herds of dinosaurs march through Axle City! But Crusher pushes his way into the parade, scattering dinos everywhere. It's up to Blaze, AJ, and Zeg to find and rescue them!</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.109.</episode-num>
-    <episode-num system="onscreen">S1E110</episode-num>
+    <episode-num system="xmltv_ns">1.214.</episode-num>
+    <episode-num system="onscreen">S2E215</episode-num>
   </programme>
   <programme start="20260520142000 +0000" stop="20260520144500 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
@@ -15476,27 +15467,22 @@
     <desc lang="en">Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260520113000 +0000" stop="20260520120000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">The Sports Rundown - May</title>
-    <desc lang="en">A dynamic new series highlighting a wide range of team sports, combat sports, and exciting stadium action; delving into the personal narratives of athletes, exploring their journeys, struggles, and triumphant moments.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260520120000 +0000" stop="20260520130000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260520113000 +0000" stop="20260520123000 +0000" channel="beinsports3.unifitv">
     <title lang="en">SailGP Highlights - Bermuda</title>
     <desc lang="en">Catch up with highlights, review and behind-the-scenes action from the latest season of SailGP</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260520130000 +0000" stop="20260520133000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260520123000 +0000" stop="20260520130000 +0000" channel="beinsports3.unifitv">
     <title lang="en">MUTV Highlights - Man United vs Liverpool</title>
     <desc lang="en">Enjoy match highlights from Manchester United's Premier League, FA Cup and Carabao Cup games from MUTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260520133000 +0000" stop="20260520152500 +0000" channel="beinsports3.unifitv">
+  <programme start="20260520130000 +0000" stop="20260520150000 +0000" channel="beinsports3.unifitv">
     <title lang="en">MUTV - Man United vs Nottingham Forest</title>
     <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260520152500 +0000" stop="20260520155300 +0000" channel="beinsports3.unifitv">
+  <programme start="20260520150000 +0000" stop="20260520155300 +0000" channel="beinsports3.unifitv">
     <title lang="en">MUTV: Match Day Review - Man United vs Nottingham Forest</title>
     <desc lang="en">Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
     <category lang="en">Sports</category>
