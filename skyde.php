@@ -1246,8 +1246,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521200000 +0000" stop="20260521220000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX GROOVE</title>
 </programme>
-<programme start="20260520222500 +0000" stop="20260520230500 +0000" channel="Motorvision+.skyde">
+<programme start="20260520221500 +0000" stop="20260520223500 +0000" channel="Motorvision+.skyde">
     <title>P1 AquaX Championship 2024</title>
+</programme>
+<programme start="20260520223500 +0000" stop="20260520230500 +0000" channel="Motorvision+.skyde">
+    <title>UIM Aquabike World Championship 2024</title>
 </programme>
 <programme start="20260520230500 +0000" stop="20260520233500 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
@@ -1258,16 +1261,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521000500 +0000" stop="20260521003500 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260521003500 +0000" stop="20260521010000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521003500 +0000" stop="20260521010500 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260521010000 +0000" stop="20260521012500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521010500 +0000" stop="20260521013000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260521012500 +0000" stop="20260521015000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521013000 +0000" stop="20260521015500 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260521015000 +0000" stop="20260521021500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521015500 +0000" stop="20260521021500 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
 <programme start="20260521021500 +0000" stop="20260521024500 +0000" channel="Motorvision+.skyde">
@@ -1282,58 +1285,58 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521033500 +0000" stop="20260521040000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20260521040000 +0000" stop="20260521045000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521040000 +0000" stop="20260521044500 +0000" channel="Motorvision+.skyde">
     <title>Spotted</title>
 </programme>
-<programme start="20260521045000 +0000" stop="20260521051500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521044500 +0000" stop="20260521051500 +0000" channel="Motorvision+.skyde">
     <title>4x4 - Das Allrad Magazin</title>
 </programme>
-<programme start="20260521051500 +0000" stop="20260521054500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521051500 +0000" stop="20260521054000 +0000" channel="Motorvision+.skyde">
     <title>Cars + Life</title>
 </programme>
-<programme start="20260521054500 +0000" stop="20260521061500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521054000 +0000" stop="20260521060500 +0000" channel="Motorvision+.skyde">
     <title>Tuning - Tiefer geht`s nicht!</title>
 </programme>
-<programme start="20260521061500 +0000" stop="20260521064000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521060500 +0000" stop="20260521063500 +0000" channel="Motorvision+.skyde">
     <title>Stunt Heroes</title>
 </programme>
-<programme start="20260521064000 +0000" stop="20260521070500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521063500 +0000" stop="20260521070000 +0000" channel="Motorvision+.skyde">
     <title>Dumbest Stuff on Wheels</title>
 </programme>
-<programme start="20260521070500 +0000" stop="20260521073500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521070000 +0000" stop="20260521072500 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20260521073500 +0000" stop="20260521080000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521072500 +0000" stop="20260521075000 +0000" channel="Motorvision+.skyde">
     <title>Mission Mobility</title>
 </programme>
-<programme start="20260521080000 +0000" stop="20260521083000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521075000 +0000" stop="20260521082500 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
-<programme start="20260521083000 +0000" stop="20260521090000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521082500 +0000" stop="20260521085000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260521090000 +0000" stop="20260521092500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521085000 +0000" stop="20260521091500 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260521092500 +0000" stop="20260521095000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521091500 +0000" stop="20260521094000 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260521095000 +0000" stop="20260521101500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521094000 +0000" stop="20260521101000 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260521101500 +0000" stop="20260521104500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521101000 +0000" stop="20260521104000 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260521104500 +0000" stop="20260521111500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521104000 +0000" stop="20260521111000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260521111500 +0000" stop="20260521114000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521111000 +0000" stop="20260521113500 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
-<programme start="20260521114000 +0000" stop="20260521120500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521113500 +0000" stop="20260521120000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20260521120500 +0000" stop="20260521123500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521120000 +0000" stop="20260521123500 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
 <programme start="20260521123500 +0000" stop="20260521130500 +0000" channel="Motorvision+.skyde">
@@ -1342,44 +1345,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521130500 +0000" stop="20260521133000 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260521133000 +0000" stop="20260521142500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521133000 +0000" stop="20260521143000 +0000" channel="Motorvision+.skyde">
     <title>Australian Superbike Championship 2024</title>
 </programme>
-<programme start="20260521142500 +0000" stop="20260521151500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521143000 +0000" stop="20260521152000 +0000" channel="Motorvision+.skyde">
     <title>UIM E1 World Championship 2025</title>
 </programme>
-<programme start="20260521151500 +0000" stop="20260521160000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521152000 +0000" stop="20260521161500 +0000" channel="Motorvision+.skyde">
     <title>NZ Jetsprint Championship 2025</title>
 </programme>
-<programme start="20260521160000 +0000" stop="20260521165500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521161500 +0000" stop="20260521170000 +0000" channel="Motorvision+.skyde">
     <title>Australian Boat Racing 2026</title>
 </programme>
-<programme start="20260521165500 +0000" stop="20260521172500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521170000 +0000" stop="20260521173000 +0000" channel="Motorvision+.skyde">
     <title>UIM Aquabike World Championship 2025</title>
 </programme>
-<programme start="20260521172500 +0000" stop="20260521175500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521173000 +0000" stop="20260521180000 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2025</title>
 </programme>
-<programme start="20260521175500 +0000" stop="20260521184500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521180000 +0000" stop="20260521184500 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20260521184500 +0000" stop="20260521191500 +0000" channel="Motorvision+.skyde">
+<programme start="20260521184500 +0000" stop="20260521193500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260521191500 +0000" stop="20260521194500 +0000" channel="Motorvision+.skyde">
-    <title>Car History</title>
-</programme>
-<programme start="20260521194500 +0000" stop="20260521201000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521193500 +0000" stop="20260521200500 +0000" channel="Motorvision+.skyde">
     <title>Belcar Endurance Championship 2025</title>
 </programme>
-<programme start="20260521201000 +0000" stop="20260521210000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521200500 +0000" stop="20260521205500 +0000" channel="Motorvision+.skyde">
     <title>Pikes Peak International Hillclimb 2025</title>
 </programme>
-<programme start="20260521210000 +0000" stop="20260521213000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521205500 +0000" stop="20260521212000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260521213000 +0000" stop="20260521220000 +0000" channel="Motorvision+.skyde">
+<programme start="20260521212000 +0000" stop="20260521214500 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
+</programme>
+<programme start="20260521214500 +0000" stop="20260521221500 +0000" channel="Motorvision+.skyde">
+    <title>Car History</title>
 </programme>
 <programme start="20260520222000 +0000" stop="20260520224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
@@ -2503,73 +2506,79 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260520221000 +0000" stop="20260520223500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260520223500 +0000" stop="20260520230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260520225000 +0000" stop="20260520230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Golf: Sky Golf Cups Österreich</title>
+</programme>
+<programme start="20260520230000 +0000" stop="20260520232000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260520230000 +0000" stop="20260520233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260520232000 +0000" stop="20260520234000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
+</programme>
+<programme start="20260520234000 +0000" stop="20260521001000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20260520233000 +0000" stop="20260521000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521001000 +0000" stop="20260521004000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 29-32)</title>
 </programme>
-<programme start="20260521000000 +0000" stop="20260521003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521004000 +0000" stop="20260521011000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Sturm Graz (Runden 29-32)</title>
 </programme>
-<programme start="20260521003000 +0000" stop="20260521010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521011000 +0000" stop="20260521014000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
 </programme>
-<programme start="20260521010000 +0000" stop="20260521013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521014000 +0000" stop="20260521021000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Union Gurten</title>
 </programme>
-<programme start="20260521013000 +0000" stop="20260521020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521021000 +0000" stop="20260521024000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Austria Salzburg</title>
 </programme>
-<programme start="20260521020000 +0000" stop="20260521040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521024000 +0000" stop="20260521044000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - RZ Pellets WAC, Europacup-Playoffs, Halbfinale</title>
 </programme>
-<programme start="20260521040000 +0000" stop="20260521044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521044000 +0000" stop="20260521052500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die next Generation Show</title>
 </programme>
-<programme start="20260521044500 +0000" stop="20260521051000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521052500 +0000" stop="20260521054000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521051000 +0000" stop="20260521054000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521054000 +0000" stop="20260521061000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 29-32)</title>
 </programme>
-<programme start="20260521054000 +0000" stop="20260521060500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521061000 +0000" stop="20260521063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521060500 +0000" stop="20260521062000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521063000 +0000" stop="20260521064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
-<programme start="20260521062000 +0000" stop="20260521063500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521064500 +0000" stop="20260521070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
-<programme start="20260521063500 +0000" stop="20260521070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521070000 +0000" stop="20260521072000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521070000 +0000" stop="20260521073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521072000 +0000" stop="20260521075000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Glasner. Eine Sky Sport Austria Dokumentation</title>
 </programme>
-<programme start="20260521073000 +0000" stop="20260521075500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521075000 +0000" stop="20260521081000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521075500 +0000" stop="20260521081000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521081000 +0000" stop="20260521082000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: FAK - ASK, 32. Runde</title>
 </programme>
-<programme start="20260521081000 +0000" stop="20260521084000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521082000 +0000" stop="20260521085000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Sturm Graz (Runden 29-32)</title>
 </programme>
-<programme start="20260521084000 +0000" stop="20260521090500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521085000 +0000" stop="20260521091000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521090500 +0000" stop="20260521092000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521091000 +0000" stop="20260521092500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
-<programme start="20260521092000 +0000" stop="20260521093500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521092500 +0000" stop="20260521094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
-<programme start="20260521093500 +0000" stop="20260521100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521094000 +0000" stop="20260521100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3356,30 +3365,24 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>Live ATP 500: VF1, I.Buse (PER) - U.Humbert (FRA) VBitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
 <programme start="20260521120000 +0000" stop="20260521140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF2, Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+    <title>Live ATP 500: VF2, T.Paul (USA) - D.Altmaier (GER) Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
 <programme start="20260521140000 +0000" stop="20260521160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF3, Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
+    <title>Live ATP 500: VF3, A.Kovacevic (USA) - C.Carabelli (ARG) Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF4, Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
+    <title>Live ATP 500: VF4, L.Darderi (ITA) - A. De Minaur (AUST) Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
 </programme>
 <programme start="20260521180000 +0000" stop="20260521200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Gonet Geneva Open in Genf (SUI), Viertelfinals</title>
+    <title>Live ATP 250: A. Rinderknech (FRA) - A.Bublik Gonet Geneva Open in Genf (SUI), Viertelfinals</title>
 </programme>
 <programme start="20260521200000 +0000" stop="20260521220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>ATP 500: VF1, I.Buse (PER) - U.Humbert (FRA) VBitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
-<programme start="20260520220000 +0000" stop="20260520223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Polen! Alle Tore</title>
-</programme>
-<programme start="20260520223000 +0000" stop="20260520225500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
-</programme>
-<programme start="20260520225500 +0000" stop="20260520232500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260520224500 +0000" stop="20260520232500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
 </programme>
 <programme start="20260520232500 +0000" stop="20260521000000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3388,14 +3391,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521000000 +0000" stop="20260521003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260521003000 +0000" stop="20260521030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260521003000 +0000" stop="20260521031000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 2</title>
 </programme>
-<programme start="20260521030000 +0000" stop="20260521033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260521031000 +0000" stop="20260521040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime Post Show</title>
-</programme>
-<programme start="20260521033000 +0000" stop="20260521040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
 </programme>
 <programme start="20260521040000 +0000" stop="20260521060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
@@ -3410,16 +3410,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Highlights: GP Katalonien</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>Live ATP 500: VF1, I.Buse (PER) - U.Humbert (FRA) VBitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
 <programme start="20260521120000 +0000" stop="20260521140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF2, Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+    <title>Live ATP 500: VF2, T.Paul (USA) - D.Altmaier (GER) Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
 <programme start="20260521140000 +0000" stop="20260521160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF3, Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
+    <title>Live ATP 500: VF3, A.Kovacevic (USA) - C.Carabelli (ARG) Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521174500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF4, Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
+    <title>Live ATP 500: VF4, L.Darderi (ITA) - A. De Minaur (AUST) Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
 </programme>
 <programme start="20260521174500 +0000" stop="20260521210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
@@ -3465,12 +3465,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260521030000 +0000" stop="20260521080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime Post Show</title>
-</programme>
-<programme start="20260521081000 +0000" stop="20260521083000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live WTA</title>
-</programme>
-<programme start="20260521083000 +0000" stop="20260521173000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Internationaux de Strasbourg in Straßburg (FRA), 5. Tag</title>
 </programme>
 <programme start="20260520230000 +0000" stop="20260521010000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WNBA: Portland Fire @ Indiana Fever</title>

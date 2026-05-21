@@ -749,14 +749,20 @@
         <title>No Programme available now. Next Broadcast on 27th May, Wednesday 8.00pm. ASEAN Shopee Cup 2025/2026 Final Leg 2</title>
     </programme>
     <programme start="20260520160000 +0000" stop="20260521160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th May, Friday 8.30am. Causeway Challenge 2026</title>
+        <title>No Programme available now. Next Broadcast on 29th May, Friday 9.30am. Causeway Challenge 2026</title>
     </programme>
     <programme start="20260521160000 +0000" stop="20260522160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th May, Friday 8.30am. Causeway Challenge 2026</title>
+        <title>No Programme available now. Next Broadcast on 29th May, Friday 9.30am. Causeway Challenge 2026</title>
     </programme>
     <programme start="20260520160000 +0000" stop="20260521160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th May, Friday 8.30am. Causeway Challenge 2026</title>
+        <title>No Programme available now. Next Broadcast on 29th May, Friday 9.30am. Causeway Challenge 2026</title>
     </programme>
     <programme start="20260521160000 +0000" stop="20260522160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th May, Friday 8.30am. Causeway Challenge 2026</title>
+        <title>No Programme available now. Next Broadcast on 29th May, Friday 9.30am. Causeway Challenge 2027</title>
+    </programme>
+    <programme start="20260520160000 +0000" stop="20260521160000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 31st May, Sunday 7.20pm. Men’s &#039;A&#039; International Friendly: Singapore vs Mongolia</title>
+    </programme>
+    <programme start="20260521160000 +0000" stop="20260522160000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 31st May, Sunday 7.20pm. Men’s &#039;A&#039; International Friendly: Singapore vs Mongolia</title>
     </programme>

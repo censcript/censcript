@@ -1940,7 +1940,7 @@
         <title>UEL Final</title>
     </programme>
     <programme start="20260521020000 +0000" stop="20260521023000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoro</title>
     </programme>
     <programme start="20260521023000 +0000" stop="20260521043000 +0000" channel="beIN Sports 3.starhub">
         <title>TGL Season 2 (2026): Los Angeles Golf Club vs New York Golf Club</title>
@@ -6224,7 +6224,7 @@
         <title>Superman Returns</title>
     </programme>
     <programme start="20260520225500 +0000" stop="20260521002500 +0000" channel="HBO Signature HD.starhub">
-        <title>Superman Iv: The Quest For Peace</title>
+        <title>Superman IV: The Quest For Peace</title>
     </programme>
     <programme start="20260521002500 +0000" stop="20260521021000 +0000" channel="HBO Signature HD.starhub">
         <title>Fast &amp; Furious</title>
