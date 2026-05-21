@@ -3365,22 +3365,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF1, I.Buse (PER) - U.Humbert (FRA) VBitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>Live ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
 <programme start="20260521120000 +0000" stop="20260521140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF2, T.Paul (USA) - D.Altmaier (GER) Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+    <title>Live ATP 500: VF2, Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
 <programme start="20260521140000 +0000" stop="20260521160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF3, A.Kovacevic (USA) - C.Carabelli (ARG) Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
+    <title>Live ATP 500: VF3, Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF4, L.Darderi (ITA) - A. De Minaur (AUST) Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
+    <title>Live ATP 500: VF4, Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
 </programme>
 <programme start="20260521180000 +0000" stop="20260521200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: A. Rinderknech (FRA) - A.Bublik Gonet Geneva Open in Genf (SUI), Viertelfinals</title>
+    <title>Live ATP 250: Gonet Geneva Open in Genf (SUI), Viertelfinals</title>
 </programme>
 <programme start="20260521200000 +0000" stop="20260521220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: VF1, I.Buse (PER) - U.Humbert (FRA) VBitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
 <programme start="20260520224500 +0000" stop="20260520232500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
@@ -3394,8 +3394,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521003000 +0000" stop="20260521031000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 2</title>
 </programme>
-<programme start="20260521031000 +0000" stop="20260521040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260521031000 +0000" stop="20260521033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime Post Show</title>
+</programme>
+<programme start="20260521033000 +0000" stop="20260521040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20260521040000 +0000" stop="20260521060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
@@ -3410,16 +3413,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Highlights: GP Katalonien</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF1, I.Buse (PER) - U.Humbert (FRA) VBitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>Live ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
 <programme start="20260521120000 +0000" stop="20260521140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF2, T.Paul (USA) - D.Altmaier (GER) Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+    <title>Live ATP 500: VF2, Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
 <programme start="20260521140000 +0000" stop="20260521160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF3, A.Kovacevic (USA) - C.Carabelli (ARG) Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
+    <title>Live ATP 500: VF3, Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521174500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF4, L.Darderi (ITA) - A. De Minaur (AUST) Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
+    <title>Live ATP 500: VF4, Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
 </programme>
 <programme start="20260521174500 +0000" stop="20260521210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
@@ -3469,7 +3472,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260520230000 +0000" stop="20260521010000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WNBA: Portland Fire @ Indiana Fever</title>
 </programme>
-<programme start="20260521010000 +0000" stop="20260521080000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260521010000 +0000" stop="20260521034500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WNBA: Dallas Wings @ Chicago Sky</title>
 </programme>
 <programme start="20260521081000 +0000" stop="20260521083000 +0000" channel="Sky Sport 2 HD.skyde">
