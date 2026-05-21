@@ -4231,83 +4231,95 @@
 <programme start="20260521160000 +0000" stop="20260521163000 +0000" channel="Global Trekker HD.mncvision">
     <title>Bruce Willis: All American Hero</title>
 </programme>
-<programme start="20260520170000 +0000" stop="20260520190000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260520180000 +0000" stop="20260520190000 +0000" channel="GTV.mncvision">
+    <title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260520190000 +0000" stop="20260520220000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260520220000 +0000" stop="20260520230000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Ragam Pagi</title>
 </programme>
-<programme start="20260520230000 +0000" stop="20260521030000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260520230000 +0000" stop="20260521020000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260521020000 +0000" stop="20260521023000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260521023000 +0000" stop="20260521030000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260521030000 +0000" stop="20260521050000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260521050000 +0000" stop="20260521073000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260521050000 +0000" stop="20260521080000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260521073000 +0000" stop="20260521100000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260521080000 +0000" stop="20260521100000 +0000" channel="GTV.mncvision">
+    <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521110000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260521110000 +0000" stop="20260521120000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260521120000 +0000" stop="20260521133000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>New Family 100</title>
 </programme>
 <programme start="20260521133000 +0000" stop="20260521153000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Snow Monster</title>
 </programme>
-<programme start="20260521153000 +0000" stop="20260521163000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260521153000 +0000" stop="20260521160000 +0000" channel="GTV.mncvision">
+    <title>Untold Story: Experiment</title>
 </programme>
-<programme start="20260521163000 +0000" stop="20260520170000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260521160000 +0000" stop="20260521163000 +0000" channel="GTV.mncvision">
+    <title>Dendam</title>
 </programme>
-<programme start="20260520170000 +0000" stop="20260520190000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260520180000 +0000" stop="20260520190000 +0000" channel="GTV HD.mncvision">
+    <title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260520190000 +0000" stop="20260520220000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260520220000 +0000" stop="20260520230000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Ragam Pagi</title>
 </programme>
-<programme start="20260520230000 +0000" stop="20260521030000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260520230000 +0000" stop="20260521020000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260521020000 +0000" stop="20260521023000 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260521023000 +0000" stop="20260521030000 +0000" channel="GTV HD.mncvision">
+    <title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260521030000 +0000" stop="20260521050000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260521050000 +0000" stop="20260521073000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260521050000 +0000" stop="20260521080000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260521073000 +0000" stop="20260521100000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260521080000 +0000" stop="20260521100000 +0000" channel="GTV HD.mncvision">
+    <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521110000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260521110000 +0000" stop="20260521120000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260521120000 +0000" stop="20260521133000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>New Family 100</title>
 </programme>
 <programme start="20260521133000 +0000" stop="20260521153000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Snow Monster</title>
 </programme>
-<programme start="20260521153000 +0000" stop="20260521163000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260521153000 +0000" stop="20260521160000 +0000" channel="GTV HD.mncvision">
+    <title>Untold Story: Experiment</title>
 </programme>
-<programme start="20260521163000 +0000" stop="20260520170000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260521160000 +0000" stop="20260521163000 +0000" channel="GTV HD.mncvision">
+    <title>Dendam</title>
 </programme>
 <programme start="20260520173000 +0000" stop="20260520180000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Dagelan Mbah Minto</title>
@@ -7859,108 +7871,108 @@
     <title>Late Night With... S13, Ep 95</title>
 </programme>
 <programme start="20260520173600 +0000" stop="20260520184600 +0000" channel="SCTV.mncvision">
-    <title>Mantan Paling Kece Say Goodbye</title>
+    <title>Sesegar Cinta Tukang Jus Buah</title>
 </programme>
-<programme start="20260520184600 +0000" stop="20260520210600 +0000" channel="SCTV.mncvision">
+<programme start="20260520184600 +0000" stop="20260520211500 +0000" channel="SCTV.mncvision">
     <title>UEFA Europa League Final (L)</title>
 </programme>
-<programme start="20260520210600 +0000" stop="20260520213000 +0000" channel="SCTV.mncvision">
+<programme start="20260520211500 +0000" stop="20260520213400 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260520213000 +0000" stop="20260520220000 +0000" channel="SCTV.mncvision">
+<programme start="20260520213400 +0000" stop="20260520220000 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260520220000 +0000" stop="20260520230000 +0000" channel="SCTV.mncvision">
+<programme start="20260520220000 +0000" stop="20260520230100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260520230000 +0000" stop="20260521000000 +0000" channel="SCTV.mncvision">
+<programme start="20260520230100 +0000" stop="20260521001100 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260521000000 +0000" stop="20260521010000 +0000" channel="SCTV.mncvision">
+<programme start="20260521001100 +0000" stop="20260521011300 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260521010000 +0000" stop="20260521030000 +0000" channel="SCTV.mncvision">
+<programme start="20260521011300 +0000" stop="20260521025200 +0000" channel="SCTV.mncvision">
     <title>Hatiku Obviously Bukan Ban...</title>
 </programme>
-<programme start="20260521030000 +0000" stop="20260521050000 +0000" channel="SCTV.mncvision">
+<programme start="20260521025200 +0000" stop="20260521044500 +0000" channel="SCTV.mncvision">
     <title>Biar Tak Seumur, Cintaku...</title>
 </programme>
-<programme start="20260521050000 +0000" stop="20260521053000 +0000" channel="SCTV.mncvision">
+<programme start="20260521044500 +0000" stop="20260521051800 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260521053000 +0000" stop="20260521070000 +0000" channel="SCTV.mncvision">
+<programme start="20260521051800 +0000" stop="20260521065200 +0000" channel="SCTV.mncvision">
     <title>Jodohku Ternyata You Again</title>
 </programme>
-<programme start="20260521070000 +0000" stop="20260521083000 +0000" channel="SCTV.mncvision">
+<programme start="20260521065200 +0000" stop="20260521082600 +0000" channel="SCTV.mncvision">
     <title>Tak Semudah Itu Pak Bos</title>
 </programme>
-<programme start="20260521083000 +0000" stop="20260521100000 +0000" channel="SCTV.mncvision">
+<programme start="20260521082600 +0000" stop="20260521100000 +0000" channel="SCTV.mncvision">
     <title>Ras Cewek Terkuat Di Muka Bumi</title>
 </programme>
-<programme start="20260521100000 +0000" stop="20260521111500 +0000" channel="SCTV.mncvision">
+<programme start="20260521100000 +0000" stop="20260521112400 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260521111500 +0000" stop="20260521124500 +0000" channel="SCTV.mncvision">
+<programme start="20260521112400 +0000" stop="20260521131000 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260521124500 +0000" stop="20260521143000 +0000" channel="SCTV.mncvision">
+<programme start="20260521131000 +0000" stop="20260521143200 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260521143000 +0000" stop="20260521160000 +0000" channel="SCTV.mncvision">
+<programme start="20260521143200 +0000" stop="20260521160000 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521163000 +0000" channel="SCTV.mncvision">
     <title>Kita Pura-Pura Nikah Yuk</title>
 </programme>
 <programme start="20260520173600 +0000" stop="20260520184600 +0000" channel="SCTV HD.mncvision">
-    <title>Mantan Paling Kece Say Goodbye</title>
+    <title>Sesegar Cinta Tukang Jus Buah</title>
 </programme>
-<programme start="20260520184600 +0000" stop="20260520210600 +0000" channel="SCTV HD.mncvision">
+<programme start="20260520184600 +0000" stop="20260520211500 +0000" channel="SCTV HD.mncvision">
     <title>UEFA Europa League Final (L)</title>
 </programme>
-<programme start="20260520210600 +0000" stop="20260520213000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260520211500 +0000" stop="20260520213400 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260520213000 +0000" stop="20260520220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260520213400 +0000" stop="20260520220000 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260520220000 +0000" stop="20260520230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260520220000 +0000" stop="20260520230100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260520230000 +0000" stop="20260521000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260520230100 +0000" stop="20260521001100 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260521000000 +0000" stop="20260521010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521001100 +0000" stop="20260521011300 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260521010000 +0000" stop="20260521030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521011300 +0000" stop="20260521025200 +0000" channel="SCTV HD.mncvision">
     <title>Hatiku Obviously Bukan Ban...</title>
 </programme>
-<programme start="20260521030000 +0000" stop="20260521050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521025200 +0000" stop="20260521044500 +0000" channel="SCTV HD.mncvision">
     <title>Biar Tak Seumur, Cintaku...</title>
 </programme>
-<programme start="20260521050000 +0000" stop="20260521053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521044500 +0000" stop="20260521051800 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260521053000 +0000" stop="20260521070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521051800 +0000" stop="20260521065200 +0000" channel="SCTV HD.mncvision">
     <title>Jodohku Ternyata You Again</title>
 </programme>
-<programme start="20260521070000 +0000" stop="20260521083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521065200 +0000" stop="20260521082600 +0000" channel="SCTV HD.mncvision">
     <title>Tak Semudah Itu Pak Bos</title>
 </programme>
-<programme start="20260521083000 +0000" stop="20260521100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521082600 +0000" stop="20260521100000 +0000" channel="SCTV HD.mncvision">
     <title>Ras Cewek Terkuat Di Muka Bumi</title>
 </programme>
-<programme start="20260521100000 +0000" stop="20260521111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521100000 +0000" stop="20260521112400 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260521111500 +0000" stop="20260521124500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521112400 +0000" stop="20260521131000 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260521124500 +0000" stop="20260521143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521131000 +0000" stop="20260521143200 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260521143000 +0000" stop="20260521160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260521143200 +0000" stop="20260521160000 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521163000 +0000" channel="SCTV HD.mncvision">

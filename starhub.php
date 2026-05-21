@@ -6544,10 +6544,10 @@
     <programme start="20260521154700 +0000" stop="20260521161000 +0000" channel="TV5MONDE HD.starhub">
         <title>A French visit</title>
     </programme>
-    <programme start="20260520160000 +0000" stop="20260520180000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Internazionali BNL d’Italia (1000) Final</title>
+    <programme start="20260520100000 +0000" stop="20260520181800 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>bitpanda Hamburg Open (500) Day 4 Round 2</title>
     </programme>
-    <programme start="20260520180000 +0000" stop="20260520190000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260520181800 +0000" stop="20260520190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rio Open presented by Claro</title>
     </programme>
     <programme start="20260520190000 +0000" stop="20260520223000 +0000" channel="Hub Sports 1  HD.starhub">

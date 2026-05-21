@@ -14973,24 +14973,14 @@
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260521070000 +0000" stop="20260521083000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260521070000 +0000" stop="20260521093000 +0000" channel="unifisports1.unifitv">
     <title lang="en">(L) TM ISTAF World Cup 2026 - GROUP D - BRUNEI vs INDONESIA - (TEAM)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260521083000 +0000" stop="20260521090000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Connected - 810 - UFC Connected 'Unbreakable: Zahabi Bros, Ultimate Access: Sharabutdin Magomedov, My Fight Week: Baisangur Susrkaev, Locked In: Joe Mazzulla, My Moment: Zhang Weili</title>
-    <desc lang="en">Inside Montreal's iconic Tristar Gym, we explore how the Zahabi brothers forged an unbreakable bond, shaped by discipline, loyalty, and the love of combat. We go behind the scenes to explore Shara Bullet Magomedov's transition from the octagon to the silver screen in his upcoming role in a new film produced by music stars Hit-Boy and Alchemist</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260521090000 +0000" stop="20260521113000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260521093000 +0000" stop="20260521120000 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - GROUP B - MALAYSIA vs INDIA - (TEAM)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260521113000 +0000" stop="20260521120000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Connected - 901 - Unbreakable: Tabatha Ricci, Ultimate Access: Justin Gaethje &amp; Michael Chandler, My Moment: Alexander Volkanovski, Locked In: Paddy Pimblett</title>
-    <desc lang="en">Tabatha Ricci and Callum Walsh detail how their unbreakable bond is driving their success in combat sports. Justin Gaethje and Michael Chandler bring their competitive edge to the fairway. Alexander Volkanovski reflects on his unforgettable championship victory over Max Holloway at UFC 245. We lock in on Paddy Pimblett's favorite UFC superstars.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260521120000 +0000" stop="20260521143000 +0000" channel="unifisports1.unifitv">
@@ -15074,17 +15064,17 @@
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260521034500 +0000" stop="20260521070000 +0000" channel="spotv2.unifitv">
+  <programme start="20260521034500 +0000" stop="20260521065000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Longines Global Champions Tour, Madrid - Grand Prix of Madrid</title>
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20260521070000 +0000" stop="20260521090000 +0000" channel="spotv2.unifitv">
+  <programme start="20260521065000 +0000" stop="20260521085500 +0000" channel="spotv2.unifitv">
     <title lang="en">25/26 A-League Men Semi Finals, Leg 2 - Adelaide United vs Auckland FC</title>
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260521090000 +0000" stop="20260521121500 +0000" channel="spotv2.unifitv">
+  <programme start="20260521085500 +0000" stop="20260521121500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 6 Monster Energy Grand Prix of Catalunya - Free Practice 2/Qualifying</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
