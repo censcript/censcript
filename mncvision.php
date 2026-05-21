@@ -7679,7 +7679,7 @@
     <title>Terjebak Cinta Si Paling Cool</title>
 </programme>
 <programme start="20260521074500 +0000" stop="20260521090000 +0000" channel="RCTI.mncvision">
-    <title>Senyummu Semanis Boba...</title>
+    <title>Terjebak Cinta Si Paling Cool</title>
 </programme>
 <programme start="20260521090000 +0000" stop="20260521103000 +0000" channel="RCTI.mncvision">
     <title>Petaka Di Malam Kelam</title>
@@ -7730,7 +7730,7 @@
     <title>Terjebak Cinta Si Paling Cool</title>
 </programme>
 <programme start="20260521074500 +0000" stop="20260521090000 +0000" channel="RCTI HD.mncvision">
-    <title>Senyummu Semanis Boba...</title>
+    <title>Terjebak Cinta Si Paling Cool</title>
 </programme>
 <programme start="20260521090000 +0000" stop="20260521103000 +0000" channel="RCTI HD.mncvision">
     <title>Petaka Di Malam Kelam</title>
@@ -7907,7 +7907,7 @@
     <title>Tak Semudah Itu Pak Bos</title>
 </programme>
 <programme start="20260521082600 +0000" stop="20260521100000 +0000" channel="SCTV.mncvision">
-    <title>Ras Cewek Terkuat Di Muka Bumi</title>
+    <title>Bos Gue Kekasih Gue? Maaf...</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521112400 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
@@ -7922,7 +7922,7 @@
     <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521163000 +0000" channel="SCTV.mncvision">
-    <title>Kita Pura-Pura Nikah Yuk</title>
+    <title>Seblak Empire Hentikan...</title>
 </programme>
 <programme start="20260520173600 +0000" stop="20260520184600 +0000" channel="SCTV HD.mncvision">
     <title>Sesegar Cinta Tukang Jus Buah</title>
@@ -7961,7 +7961,7 @@
     <title>Tak Semudah Itu Pak Bos</title>
 </programme>
 <programme start="20260521082600 +0000" stop="20260521100000 +0000" channel="SCTV HD.mncvision">
-    <title>Ras Cewek Terkuat Di Muka Bumi</title>
+    <title>Bos Gue Kekasih Gue? Maaf...</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521112400 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
@@ -7976,7 +7976,7 @@
     <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521163000 +0000" channel="SCTV HD.mncvision">
-    <title>Kita Pura-Pura Nikah Yuk</title>
+    <title>Seblak Empire Hentikan...</title>
 </programme>
 <programme start="20260520170000 +0000" stop="20260520180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>

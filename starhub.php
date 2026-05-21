@@ -6749,7 +6749,7 @@
         <title>The Final: Freiburg vs Aston Villa</title>
     </programme>
     <programme start="20260520185500 +0000" stop="20260520210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Freiburg vs Aston Villa - Final (Live)</title>
+        <title>Freiburg vs Aston Villa - Final (Live)</title>
     </programme>
     <programme start="20260520210000 +0000" stop="20260520220000 +0000" channel="beIN Sports HD.starhub">
         <title>The Final: Freiburg vs Aston Villa</title>

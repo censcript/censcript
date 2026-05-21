@@ -3337,20 +3337,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521213000 +0000" stop="20260521220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Les Ferdinand (Newcastle 1995/96)</title>
 </programme>
-<programme start="20260520223000 +0000" stop="20260521003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Navarro (USA) - I. Jovic (USA), Internationaux de Strasbourg in Straßburg (FRA), 4. Tag</title>
-</programme>
-<programme start="20260521003000 +0000" stop="20260521030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
-</programme>
-<programme start="20260521030000 +0000" stop="20260521050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260520233000 +0000" stop="20260521013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
 </programme>
-<programme start="20260521050000 +0000" stop="20260521060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Rom</title>
+<programme start="20260521013000 +0000" stop="20260521040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
-<programme start="20260521060000 +0000" stop="20260521080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260521040000 +0000" stop="20260521060500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
+</programme>
+<programme start="20260521060500 +0000" stop="20260521073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Navarro (USA) - I. Jovic (USA), Internationaux de Strasbourg in Straßburg (FRA), 4. Tag</title>
+</programme>
+<programme start="20260521073000 +0000" stop="20260521080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20260521080000 +0000" stop="20260521100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
@@ -3465,6 +3465,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260521030000 +0000" stop="20260521080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime Post Show</title>
+</programme>
+<programme start="20260521081000 +0000" stop="20260521083000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Live WTA</title>
+</programme>
+<programme start="20260521083000 +0000" stop="20260521173000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: Internationaux de Strasbourg in Straßburg (FRA), 5. Tag</title>
 </programme>
 <programme start="20260520230000 +0000" stop="20260521010000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WNBA: Portland Fire @ Indiana Fever</title>

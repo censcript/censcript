@@ -5,7 +5,7 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260521023000 +0000" stop="20260521040000 +0000" channel="RCTI.vision">
-<title>Api Dendam Amuk Maurugul...</title>
+<title>Kembalinya Raden Kian...</title>
 </programme>
 <programme start="20260521040000 +0000" stop="20260521043000 +0000" channel="RCTI.vision">
 <title>Go Spot (RCTI)</title>
@@ -16,11 +16,14 @@
 <programme start="20260521050000 +0000" stop="20260521063000 +0000" channel="RCTI.vision">
 <title>Neng Cantik Like A Queen Di...</title>
 </programme>
-<programme start="20260521063000 +0000" stop="20260521090000 +0000" channel="RCTI.vision">
-<title>Mega Film TV</title>
+<programme start="20260521063000 +0000" stop="20260521074500 +0000" channel="RCTI.vision">
+<title>Terjebak Cinta Si Paling Cool</title>
+</programme>
+<programme start="20260521074500 +0000" stop="20260521090000 +0000" channel="RCTI.vision">
+<title>Senyummu Semanis Boba...</title>
 </programme>
 <programme start="20260521090000 +0000" stop="20260521103000 +0000" channel="RCTI.vision">
-<title>Mega Film TV</title>
+<title>Petaka Di Malam Kelam</title>
 </programme>
 <programme start="20260521103000 +0000" stop="20260521120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
@@ -38,46 +41,43 @@
 <title>Bukan Sekretaris Biasa</title>
 </programme>
 <programme start="20260521171500 +0000" stop="20260521183000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Bidadari Plus-Plus</title>
 </programme>
 <programme start="20260521183000 +0000" stop="20260521190000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Calo Cinta</title>
 </programme>
-<programme start="20260521190000 +0000" stop="20260521193000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260521190000 +0000" stop="20260521200000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260521193000 +0000" stop="20260521230000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260521200000 +0000" stop="20260521230000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S9</title>
 </programme>
 <programme start="20260521230000 +0000" stop="20260522010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Upin Ipin</title>
 </programme>
 <programme start="20260522010000 +0000" stop="20260522023000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Entong (RCTI)</title>
 </programme>
-<programme start="20260522023000 +0000" stop="20260522033000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260522023000 +0000" stop="20260522040000 +0000" channel="RCTI.vision">
+<title>Teror Geletuk Menghadang...</title>
 </programme>
-<programme start="20260522033000 +0000" stop="20260522043000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260522040000 +0000" stop="20260522043000 +0000" channel="RCTI.vision">
+<title>Go Spot (RCTI)</title>
 </programme>
 <programme start="20260522043000 +0000" stop="20260522050000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260522050000 +0000" stop="20260522063000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Pura-Pura Cuek Endingnya...</title>
 </programme>
-<programme start="20260522063000 +0000" stop="20260522073000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20260522073000 +0000" stop="20260522090000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260522063000 +0000" stop="20260522090000 +0000" channel="RCTI.vision">
+<title>Mega Film TV</title>
 </programme>
 <programme start="20260522090000 +0000" stop="20260522103000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Mega Film TV</title>
 </programme>
 <programme start="20260522103000 +0000" stop="20260522120000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun Deui</title>
 </programme>
 <programme start="20260521000000 +0000" stop="20260521004500 +0000" channel="MNCTV.vision">
 <title>Dora &amp; Sahabat</title>
@@ -637,9 +637,6 @@
 <programme start="20260521010000 +0000" stop="20260521023000 +0000" channel="ANTV.vision">
 <title>Cinta Dan Rahasia</title>
 </programme>
-<programme start="20260521023000 +0000" stop="20260521060000 +0000" channel="ANTV.vision">
-<title>Tiger Zinda Hai</title>
-</programme>
 <programme start="20260521060000 +0000" stop="20260521073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -956,7 +953,7 @@
 <title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20260521123000 +0000" stop="20260521133000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama</title>
+<title>Berita Utama (Live)</title>
 </programme>
 <programme start="20260521133000 +0000" stop="20260521143000 +0000" channel="Kompas TV.vision">
 <title>Rosi</title>
@@ -965,7 +962,7 @@
 <title>Kompas Malam</title>
 </programme>
 <programme start="20260521153000 +0000" stop="20260521160000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama (Live)</title>
+<title>Berita Utama</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521163000 +0000" channel="Kompas TV.vision">
 <title>Kompas Sport</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260522073000 +0000" stop="20260522080000 +0000" channel="BTV.vision">
 <title>Relasi</title>
+</programme>
+<programme start="20260522080000 +0000" stop="20260522083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>

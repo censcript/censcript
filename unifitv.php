@@ -14068,7 +14068,7 @@
   </channel>
   <programme start="20260520153300 +0000" stop="20260520160300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">An initiative in Pune takes the classroom outside, allowing children to turn environmental theory into hands-on experience. Plus: Tapping the potential of fungi.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14082,7 +14082,7 @@
   </programme>
   <programme start="20260520163300 +0000" stop="20260520170300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Once dismissed, Pakistan's fighter jet is now attracting billion dollar interest. But can jet exports really help to ease the country's debt burden?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14095,15 +14095,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260520171800 +0000" stop="20260520173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Interview</title>
+    <desc lang="en">Moldovan President Maia Sandu has received the European Order of Merit in the European Parliament. In an interview with DW and RFI, she spoke about her country's EU integration, Transnistria and Russia's war in Ukraine.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260520173300 +0000" stop="20260520180300 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">From Hitler memes to swastikas and "Sieg heil" salutes: online gamers can encounter all manner of Nazi content. Most platforms are subject to regulation - but far-right ideology is nonetheless able to spread in associated forums.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14137,15 +14137,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260520191800 +0000" stop="20260520193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Interview</title>
+    <desc lang="en">Moldovan President Maia Sandu has received the European Order of Merit in the European Parliament. In an interview with DW and RFI, she spoke about her country's EU integration, Transnistria and Russia's war in Ukraine.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260520193300 +0000" stop="20260520200300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">The UN calls gender-based violence a global human rights emergency—but in Uganda, it's daily reality. Nearly 95% of women in Uganda have experiencekd violence, perpetrators walk free, and silence is survival.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14194,7 +14194,7 @@
   </programme>
   <programme start="20260520223300 +0000" stop="20260520230300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Once dismissed, Pakistan's fighter jet is now attracting billion dollar interest. But can jet exports really help to ease the country's debt burden?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14214,18 +14214,18 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260520231800 +0000" stop="20260520233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Interview</title>
+    <desc lang="en">Moldovan President Maia Sandu has received the European Order of Merit in the European Parliament. In an interview with DW and RFI, she spoke about her country's EU integration, Transnistria and Russia's war in Ukraine.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260520233300 +0000" stop="20260521000300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Doctors in Germany are sounding the alarm as more children and teenagers need psychological help. +++ In Portugal's capital, Lisbon, there is a shortage of affordable housing — but protests are brewing.</desc>
     <category lang="en">Magazine</category>
-    <episode-num system="xmltv_ns">0.1925.</episode-num>
-    <episode-num system="onscreen">S1E1926</episode-num>
+    <episode-num system="xmltv_ns">0.2125.</episode-num>
+    <episode-num system="onscreen">S1E2126</episode-num>
   </programme>
   <programme start="20260521000300 +0000" stop="20260521000500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
@@ -14243,7 +14243,7 @@
   </programme>
   <programme start="20260521003300 +0000" stop="20260521010300 +0000" channel="dw.unifitv">
     <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Arts Unveiled</desc>
+    <desc lang="en">Scandals and spectacles at the Venice Biennale — the world's biggest art extravaganza. And how did Mexican artist Frida Kahlo become an icon for future generations?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14285,7 +14285,7 @@
   </programme>
   <programme start="20260521023300 +0000" stop="20260521030300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Once dismissed, Pakistan's fighter jet is now attracting billion dollar interest. But can jet exports really help to ease the country's debt burden?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14305,15 +14305,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521031800 +0000" stop="20260521033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Interview</title>
+    <desc lang="en">Moldovan President Maia Sandu has received the European Order of Merit in the European Parliament. In an interview with DW and RFI, she spoke about her country's EU integration, Transnistria and Russia's war in Ukraine.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521033300 +0000" stop="20260521040300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">An initiative in Pune takes the classroom outside, allowing children to turn environmental theory into hands-on experience. Plus: Tapping the potential of fungi.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14355,7 +14355,7 @@
   </programme>
   <programme start="20260521053300 +0000" stop="20260521060300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Doctors in Germany are sounding the alarm as more children and teenagers need psychological help. +++ In Portugal's capital, Lisbon, there is a shortage of affordable housing — but protests are brewing.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14375,8 +14375,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521061800 +0000" stop="20260521063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Interview</title>
+    <desc lang="en">Moldovan President Maia Sandu has received the European Order of Merit in the European Parliament. In an interview with DW and RFI, she spoke about her country's EU integration, Transnistria and Russia's war in Ukraine.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14411,14 +14411,14 @@
   </programme>
   <programme start="20260521080500 +0000" stop="20260521083300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Once dismissed, Pakistan's fighter jet is now attracting billion dollar interest. But can jet exports really help to ease the country's debt burden?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521083300 +0000" stop="20260521090300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Doctors in Germany are sounding the alarm as more children and teenagers need psychological help. +++ In Portugal's capital, Lisbon, there is a shortage of affordable housing — but protests are brewing.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14481,14 +14481,14 @@
   </programme>
   <programme start="20260521111800 +0000" stop="20260521113300 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">Stefan Orben is a marathon enthusiast and completely blind. To pursue his passion, he needs another person to guide him along the 42.195 kilometers. Luckily his fiancé Nico is happy to run with him. And that is not all - Stefan and Nico love helping others run. They hope more people will train to become running guides so that sport becomes open to all.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521113300 +0000" stop="20260521120300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Doctors in Germany are sounding the alarm as more children and teenagers need psychological help. +++ In Portugal's capital, Lisbon, there is a shortage of affordable housing — but protests are brewing.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14522,15 +14522,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521131800 +0000" stop="20260521133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">She may be the world's most famous female painter. Her house in Mexico is a place of pilgrimage: Frida Kahlo! She endured pain her entire life and died young. Today, she is still a cult figure. Why?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521133300 +0000" stop="20260521140300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">EVs are surging as fuel prices jump. European demand rises, China dominates supply and the US shifts toward electric. Plus: Sechaba Chabedi returns to the Roof of Africa and VW and MOIA test autonomous ridepooling.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14565,7 +14565,7 @@
   </programme>
   <programme start="20260521153300 +0000" stop="20260521160300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Our voice and the way we speak are as unique as we are. But what happens when something goes wrong? What helps with a hoarse voice? What exactly is the larynx—and what harms our vocal cords? And what causes stuttering? Find out on DW's health show.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
