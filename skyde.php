@@ -2503,82 +2503,85 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521213500 +0000" stop="20260521222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Freeway-Killer: Drei Serientäter, ein Muster</title>
 </programme>
-<programme start="20260520221000 +0000" stop="20260520223500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260520221000 +0000" stop="20260520222500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
+</programme>
+<programme start="20260520222500 +0000" stop="20260520223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
+</programme>
+<programme start="20260520223000 +0000" stop="20260520224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
+</programme>
+<programme start="20260520224500 +0000" stop="20260520225000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
 <programme start="20260520225000 +0000" stop="20260520230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Golf: Sky Golf Cups Österreich</title>
 </programme>
-<programme start="20260520230000 +0000" stop="20260520232000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
-</programme>
-<programme start="20260520232000 +0000" stop="20260520234000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
-</programme>
-<programme start="20260520234000 +0000" stop="20260521001000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260520230000 +0000" stop="20260520233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20260521001000 +0000" stop="20260521004000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260520233000 +0000" stop="20260521000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 29-32)</title>
 </programme>
-<programme start="20260521004000 +0000" stop="20260521011000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521000000 +0000" stop="20260521003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Sturm Graz (Runden 29-32)</title>
 </programme>
-<programme start="20260521011000 +0000" stop="20260521014000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521003000 +0000" stop="20260521010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
 </programme>
-<programme start="20260521014000 +0000" stop="20260521021000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521010000 +0000" stop="20260521013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Union Gurten</title>
 </programme>
-<programme start="20260521021000 +0000" stop="20260521024000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521013000 +0000" stop="20260521020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Heimspiel - Austria Salzburg</title>
 </programme>
-<programme start="20260521024000 +0000" stop="20260521044000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521020000 +0000" stop="20260521040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - RZ Pellets WAC, Europacup-Playoffs, Halbfinale</title>
 </programme>
-<programme start="20260521044000 +0000" stop="20260521052500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521040000 +0000" stop="20260521044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die next Generation Show</title>
 </programme>
-<programme start="20260521052500 +0000" stop="20260521054000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521044500 +0000" stop="20260521051000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521054000 +0000" stop="20260521061000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521051000 +0000" stop="20260521054000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 29-32)</title>
 </programme>
-<programme start="20260521061000 +0000" stop="20260521063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521054000 +0000" stop="20260521060500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521063000 +0000" stop="20260521064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521060500 +0000" stop="20260521062000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
-<programme start="20260521064500 +0000" stop="20260521070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521062000 +0000" stop="20260521063500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
-<programme start="20260521070000 +0000" stop="20260521072000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521063500 +0000" stop="20260521070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521072000 +0000" stop="20260521075000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521070000 +0000" stop="20260521073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Glasner. Eine Sky Sport Austria Dokumentation</title>
 </programme>
-<programme start="20260521075000 +0000" stop="20260521081000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521073000 +0000" stop="20260521075500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521081000 +0000" stop="20260521082000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521075500 +0000" stop="20260521081000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: FAK - ASK, 32. Runde</title>
 </programme>
-<programme start="20260521082000 +0000" stop="20260521085000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521081000 +0000" stop="20260521084000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Sturm Graz (Runden 29-32)</title>
 </programme>
-<programme start="20260521085000 +0000" stop="20260521091000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521084000 +0000" stop="20260521090500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
-<programme start="20260521091000 +0000" stop="20260521092500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521090500 +0000" stop="20260521092000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
-<programme start="20260521092500 +0000" stop="20260521094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521092000 +0000" stop="20260521093500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
-<programme start="20260521094000 +0000" stop="20260521100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260521093500 +0000" stop="20260521100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Highlights XXL: SCF - AVL, Finale 2026 in Istanbul (TUR)</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3365,22 +3368,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>Live ATP 500: I. Buse (PER) - U.Humbert (FRA). Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
 <programme start="20260521120000 +0000" stop="20260521140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF2, Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+    <title>Live ATP 500: D. Altmaier (GER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
 <programme start="20260521140000 +0000" stop="20260521160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF3, Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
+    <title>Live ATP 500: A. Kovacevic (USA) - C. Carabelli (ARG), Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF4, Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
+    <title>Live ATP 500: L. Darderi (ITA) - A. De Minaur (AUS), Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
 </programme>
 <programme start="20260521180000 +0000" stop="20260521200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Gonet Geneva Open in Genf (SUI), Viertelfinals</title>
+    <title>Live ATP 250: A.Bublik (KAZ) - A. Rinderknech (FRA), Gonet Geneva Open in Genf (SUI), Viertelfinals</title>
 </programme>
 <programme start="20260521200000 +0000" stop="20260521220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>ATP 500: I. Buse (PER) - U.Humbert (FRA). Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
 <programme start="20260520224500 +0000" stop="20260520232500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore - letzter Spieltag</title>
@@ -3394,11 +3397,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521003000 +0000" stop="20260521031000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 2</title>
 </programme>
-<programme start="20260521031000 +0000" stop="20260521033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260521031000 +0000" stop="20260521040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime Post Show</title>
-</programme>
-<programme start="20260521033000 +0000" stop="20260521040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
 </programme>
 <programme start="20260521040000 +0000" stop="20260521060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 500: Y. Hanfmann (GER) - L. Darderi (ARG), Bitpanda Hamburg Open in Hamburg, 4. Tag</title>
@@ -3413,16 +3413,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Highlights: GP Katalonien</title>
 </programme>
 <programme start="20260521100000 +0000" stop="20260521120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF1, Bitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
+    <title>Live ATP 500: VF1, I.Buse (PER) - U.Humbert (FRA) VBitpanda Hamburg Open in Hamburg, Viertelfinale 1</title>
 </programme>
 <programme start="20260521120000 +0000" stop="20260521140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF2, Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+    <title>Live ATP 500: VF2, T.Paul (USA) - D.Altmaier (GER) Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
 <programme start="20260521140000 +0000" stop="20260521160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF3, Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
+    <title>Live ATP 500: VF3, A.Kovacevic (USA) - C.Carabelli (ARG) Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
 </programme>
 <programme start="20260521160000 +0000" stop="20260521174500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF4, Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
+    <title>Live ATP 500: VF4, L.Darderi (ITA) - A. De Minaur (AUST) Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
 </programme>
 <programme start="20260521174500 +0000" stop="20260521210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
@@ -3463,10 +3463,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260521000000 +0000" stop="20260521003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260521003000 +0000" stop="20260521030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260521003000 +0000" stop="20260521031000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 2</title>
 </programme>
-<programme start="20260521030000 +0000" stop="20260521080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260521031000 +0000" stop="20260521041500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime Post Show</title>
 </programme>
 <programme start="20260520230000 +0000" stop="20260521010000 +0000" channel="Sky Sport 2 HD.skyde">

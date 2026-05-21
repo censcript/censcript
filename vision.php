@@ -664,15 +664,6 @@
 <programme start="20260521103000 +0000" stop="20260521120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260521120000 +0000" stop="20260521143000 +0000" channel="ANTV.vision">
-<title>Tabir Biru</title>
-</programme>
-<programme start="20260521143000 +0000" stop="20260521163000 +0000" channel="ANTV.vision">
-<title>Iblis Dalam Kandungan 2</title>
-</programme>
-<programme start="20260521163000 +0000" stop="20260521183000 +0000" channel="ANTV.vision">
-<title>Darah Perjaka</title>
-</programme>
 <programme start="20260521183000 +0000" stop="20260521193000 +0000" channel="ANTV.vision">
 <title>Point Of No Return</title>
 </programme>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260522050500 +0000" stop="20260522053000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260522053000 +0000" stop="20260522063000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20260522063000 +0000" stop="20260522070000 +0000" channel="BTV.vision">
+<title>Jendela Nusantara: Jawa Barat</title>
+</programme>
+<programme start="20260522070000 +0000" stop="20260522073000 +0000" channel="BTV.vision">
+<title>Asal Usul</title>
 </programme>
