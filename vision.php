@@ -223,7 +223,10 @@
 <programme start="20260522003000 +0000" stop="20260522010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
-<programme start="20260522010000 +0000" stop="20260522030000 +0000" channel="iNews.vision">
+<programme start="20260522010000 +0000" stop="20260522014500 +0000" channel="iNews.vision">
+<title>Lapor Polisi (L)</title>
+</programme>
+<programme start="20260522014500 +0000" stop="20260522030000 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
 </programme>
 <programme start="20260522030000 +0000" stop="20260522040000 +0000" channel="iNews.vision">
@@ -259,26 +262,32 @@
 <programme start="20260522160000 +0000" stop="20260522170000 +0000" channel="iNews.vision">
 <title>Inews Files (Live)</title>
 </programme>
-<programme start="20260522170000 +0000" stop="20260522190000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260522170000 +0000" stop="20260522173000 +0000" channel="iNews.vision">
+<title>iNews Sport</title>
 </programme>
-<programme start="20260522190000 +0000" stop="20260522210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260522173000 +0000" stop="20260522210000 +0000" channel="iNews.vision">
+<title>Breaking News</title>
 </programme>
 <programme start="20260522210000 +0000" stop="20260522211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Breaking News</title>
 </programme>
 <programme start="20260522211500 +0000" stop="20260522230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Pagi (Live)</title>
 </programme>
 <programme start="20260522230000 +0000" stop="20260522230200 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20260522230200 +0000" stop="20260523000000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
-<programme start="20260523000000 +0000" stop="20260523020000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260523000000 +0000" stop="20260523000300 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260523000300 +0000" stop="20260523003000 +0000" channel="iNews.vision">
+<title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260523003000 +0000" stop="20260523020000 +0000" channel="iNews.vision">
+<title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260523020000 +0000" stop="20260523043000 +0000" channel="iNews.vision">
 <title>iNews</title>
@@ -286,14 +295,14 @@
 <programme start="20260523043000 +0000" stop="20260523070000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260523070000 +0000" stop="20260523083000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260523070000 +0000" stop="20260523090000 +0000" channel="iNews.vision">
+<title>Breaking News: Konflik Timur Tengah</title>
 </programme>
-<programme start="20260523083000 +0000" stop="20260523100000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260523090000 +0000" stop="20260523100000 +0000" channel="iNews.vision">
+<title>Realita (L)</title>
 </programme>
 <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Sore (Live)</title>
 </programme>
 <programme start="20260522000000 +0000" stop="20260522003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -1423,11 +1432,8 @@
 <programme start="20260522230000 +0000" stop="20260522230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
 </programme>
-<programme start="20260522230300 +0000" stop="20260523000000 +0000" channel="BTV.vision">
+<programme start="20260522230300 +0000" stop="20260523003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20260523000000 +0000" stop="20260523003000 +0000" channel="BTV.vision">
-<title>30 Minutes With Mobizz</title>
 </programme>
 <programme start="20260523003000 +0000" stop="20260523010000 +0000" channel="BTV.vision">
 <title>FYI</title>
@@ -1490,11 +1496,5 @@
 <title>Persona</title>
 </programme>
 <programme start="20260521230000 +0000" stop="20260522010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260522010000 +0000" stop="20260522030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260522030000 +0000" stop="20260522050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
