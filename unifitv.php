@@ -1639,222 +1639,125 @@
   <programme start="20260521153000 +0000" stop="20260521160000 +0000" channel="tv9.unifitv">
     <title lang="en">SEEKERS (SS 8)</title>
     <desc lang="en">Episod ini Kru Seekers bersama Man Raja Lawak menyiasat sebuah rumah terbiar belasan tahun demi meninjau aktiviti paranormal. Sepanjang berada di sana, mereka mendengar bunyi tapak kaki, terhidu bau busuk, dan melihat kelibat hitam.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260521160000 +0000" stop="20260521170000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260521170000 +0000" stop="20260521175000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260521175000 +0000" stop="20260521175500 +0000" channel="tv9.unifitv">
     <title lang="en">KUIZ PACAK</title>
     <desc lang="en">Program yang menampilkan hos Fedtri Yahya akan melontarkan pelbagai soalan kuiz yang menguji pengetahuan agama dan dunia Islam.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
   </programme>
   <programme start="20260521175500 +0000" stop="20260521180000 +0000" channel="tv9.unifitv">
     <title lang="en">SENANG TERHIBUR SHORTS</title>
     <desc lang="en">Koleksi sedutan klip video dari rancangan hiburan.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
   </programme>
   <programme start="20260521180000 +0000" stop="20260521193000 +0000" channel="tv9.unifitv">
-    <title lang="en">AKU BELUM MAHU MATI</title>
-    <desc lang="en">Maria, wanita bekerjaya, tidak menitikberatkan soal agama dan agak cenderung mengumpul pelbagai jenis patung walaupun tidak digemari suaminya. Maria merasa dia masih muda dan tidak gemar apabila dinasihati Nora, rakan baiknya.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <title lang="en">DIA YANG TERPILIH</title>
+    <desc lang="en">Nur sering didera oleh kedua ibu saudaranya Maznah dan Mazura serta Ali, suami Mazura. Kebencian ini mungkin disebabkan Nur merupakan anak luar nikah akibat keterlanjuran ibunya. Hanya neneknya menjadi penyelamat Nor.</desc>
   </programme>
   <programme start="20260521193000 +0000" stop="20260521203000 +0000" channel="tv9.unifitv">
     <title lang="en">KOOL 101@TV9 (2026)</title>
-    <desc lang="en">KOOL 101@TV9 (2026)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.111.</episode-num>
-    <episode-num system="onscreen">S1E112</episode-num>
   </programme>
   <programme start="20260521203000 +0000" stop="20260521210000 +0000" channel="tv9.unifitv">
-    <title lang="en">SAMBAL (U) 17 X 30"</title>
-    <desc lang="en">Pak Tam berjumpa dengan Wak Parjo di warung Kedai Kopi untuk mendapatkan si Ribut. Wak Parjo menjual ubat guna-guna kepada Pak Tam untuk memikat Ribut. Bila berjumpa dengan Ribut, Pak Tam memasukkan ubat guna-guna.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
+    <title lang="en">BOONA &amp; BOONIE</title>
+    <desc lang="en">Boona dan Boonie mencari jalan untuk mengubah sikap Nyonya Mansor yang semakin kedekut. Mereka berpakat dengan Manisya untuk mencarikan jodoh untuk Nyonya Mansor. Ekoran itu Nyonya Mansur telah diperkenalkan dengan Razman.</desc>
   </programme>
   <programme start="20260521210000 +0000" stop="20260521220000 +0000" channel="tv9.unifitv">
     <title lang="en">MY #QURANTIME 2.0</title>
-    <desc lang="en">Episod ini memaparkan Syeikh Al-Qari Tirmizi Hj Ali memimpin bacaan Surah Al-Furqan Ayat 6 hingga Ayat 8 sementara Usataz Fazlur Ismail selaku hos tampil menterjemah dan mentadabbur ayat-ayat tersebut.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1254.</episode-num>
-    <episode-num system="onscreen">S1E1255</episode-num>
+    <desc lang="en">Episod ini menampilkan Sheikh Al-Qari Khairul Asyraaf memimpin bacaan Surah Al-Furqan Ayat 3 hingga Ayat 5 sementara Ustaz Fazlur Ismail selaku hos/pentadabbur tampil menterjemah dan mentadabbur ayat-ayat tersebut.</desc>
   </programme>
   <programme start="20260521220000 +0000" stop="20260521222000 +0000" channel="tv9.unifitv">
     <title lang="en">BACAAN YASIN 2025</title>
     <desc lang="en">Bacaan Surah Yasin</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521222000 +0000" stop="20260521223000 +0000" channel="tv9.unifitv">
     <title lang="en">KAPSUL SURAH (2018)</title>
     <desc lang="en">Bacaan SURAH AL-MULK serta terjemahannya.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260521223000 +0000" stop="20260521225000 +0000" channel="tv9.unifitv">
     <title lang="en">BACAAN YASIN 2025</title>
     <desc lang="en">Bacaan Surah Yasin</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260521225000 +0000" stop="20260522000000 +0000" channel="tv9.unifitv">
     <title lang="en">TANYALAH USTAZ (2025/2026) (WEEKDAY)</title>
-    <desc lang="en">TANYALAH USTAZ (2025/2026) (WEEKDAY)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.228.</episode-num>
-    <episode-num system="onscreen">S1E229</episode-num>
   </programme>
   <programme start="20260522000000 +0000" stop="20260522003000 +0000" channel="tv9.unifitv">
     <title lang="en">TANYALAH USTAZ (2025/2026) (WEEKDAY)</title>
-    <desc lang="en">TANYALAH USTAZ (2025/2026) (WEEKDAY)</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.228.</episode-num>
-    <episode-num system="onscreen">S1E229</episode-num>
   </programme>
   <programme start="20260522003000 +0000" stop="20260522013000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260522013000 +0000" stop="20260522023000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260522023000 +0000" stop="20260522033000 +0000" channel="tv9.unifitv">
     <title lang="en">NASI LEMAK KOPI O (JULY 2025 - JUNE 2026)</title>
     <desc lang="en">Nasi Lemak Kopi O is redefining your mornings with a fresh and contemporary twist. This cherished show is returning with an exciting new look in 2025 and a treasure trove of engaging content for both our devoted audiences and potential clients.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.140.</episode-num>
-    <episode-num system="onscreen">S1E141</episode-num>
   </programme>
   <programme start="20260522033000 +0000" stop="20260522040000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260522040000 +0000" stop="20260522050000 +0000" channel="tv9.unifitv">
     <title lang="en">MY #QURANTIME 2.0</title>
-    <desc lang="en">Episod ini menampilkan Syeikh Al-Qari Tirmizi Hj Ali memimpin bacaan Surah Al-Furqan Ayat 9 hingga Ayat 11 sementara Ustaz Fazlur Ismail selaku hos tampil menterjemah dan mentadabbur ayat-ayat tersebut.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1255.</episode-num>
-    <episode-num system="onscreen">S1E1256</episode-num>
+    <desc lang="en">Episod ini menampilkan Syeikh Al-Qari Tirmizi Hj Ali memimpin bacaan Surah Al-Furqan Ayat 9 hingga Ayat 11  sementara Ustaz Fazlur Ismail selaku hos tampil menterjemah dan mentadabbur ayat-ayat tersebut.</desc>
   </programme>
   <programme start="20260522050000 +0000" stop="20260522060000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260522060000 +0000" stop="20260522070000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260522070000 +0000" stop="20260522080000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260522080000 +0000" stop="20260522090000 +0000" channel="tv9.unifitv">
     <title lang="en">LAILA MAJNUN</title>
     <desc lang="en">Majnun berjaya memujuk ibunya dan bercadang membawa Laila menemui ibunya. Laila pula bersedih apabila kisah silamnya masih menjadi bualan orang-orang kampung. Pada hari yang dijanjikan Majnun membawa Laila berjumpa ibunya.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260522090000 +0000" stop="20260522093000 +0000" channel="tv9.unifitv">
     <title lang="en">COCOMELON</title>
     <desc lang="en">Animasi lagu dan puisi berima kanak-kanak.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
   </programme>
   <programme start="20260522093000 +0000" stop="20260522100000 +0000" channel="tv9.unifitv">
     <title lang="en">JUNGLE AGENT SEASON 1</title>
-    <desc lang="en">BAU YANG PELIK / KEDATANGAN UFO. Bau pelik meresap ke dalam hutan. Ejen hutan menyiasat untuk mengenal pasti sumbernya.  UFO misteri menculik 2 ekor anak itik menimbulkan ketakutan di dalam hutan.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <desc lang="en">BAU YANG PELIK / KEDATANGAN UFO.  Bau pelik meresap ke dalam hutan. Ejen hutan menyiasat untuk mengenal pasti sumbernya. // UFO misteri menculik 2 ekor anak itik menimbulkan ketakutan di dalam hutan.</desc>
   </programme>
   <programme start="20260522100000 +0000" stop="20260522103000 +0000" channel="tv9.unifitv">
     <title lang="en">EJEN ALI SEASON 2</title>
     <desc lang="en">Ali, Alicia dan Zass diselia Ejen Bakar melakukan tugasan pertama iaitu untuk mengatasi gangguan virus di stesen transit Taman Giara. Turut membantu ialah kucing bernama Comot.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260522103000 +0000" stop="20260522110000 +0000" channel="tv9.unifitv">
     <title lang="en">BLIPPI WONDERS</title>
-    <desc lang="en">FIREWORKS. Blippi mencari tahu mengapa bunga api berwarna-warni. Jawapannya adalah, bunga api mendapat warna berkilauan daripada penggunaan garam logam dan sebatian yang berbeza.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
+    <desc lang="en">FIREWORKS.  Blippi mencari tahu mengapa bunga api berwarna-warni. Jawapannya adalah, bunga api mendapat warna berkilauan daripada penggunaan garam logam dan sebatian yang berbeza.</desc>
   </programme>
   <programme start="20260522110000 +0000" stop="20260522115000 +0000" channel="tv9.unifitv">
     <title lang="en">BULETIN TV9 2025/2026</title>
-    <desc lang="en">BULETIN TV9 2025/2026</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.325.</episode-num>
-    <episode-num system="onscreen">S1E326</episode-num>
   </programme>
   <programme start="20260522115000 +0000" stop="20260522124000 +0000" channel="tv9.unifitv">
     <title lang="en">NASI LEMAK KOPI O (JULY 2025 - JUNE 2026)</title>
     <desc lang="en">Nasi Lemak Kopi O akan menghidupkan semula pagi anda dengan sentuhan baharu dan kontemporari. Rancangan ini akan kembali dengan penampilan baharu dan kandungan penuh menarik buat penonton setia kami.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.138.</episode-num>
-    <episode-num system="onscreen">S1E139</episode-num>
   </programme>
   <programme start="20260522124000 +0000" stop="20260522140000 +0000" channel="tv9.unifitv">
     <title lang="en">I CAN SEE YOUR VOICE MALAYSIA MUSIM KE 6</title>
     <desc lang="en">I Can See Your Voice Malaysia Musim ke 6 ini dihoskan oleh Izzue Islam dan Shiha Zikir. Di setiap episod, 6 penyanyi misteri akan dipersembahkan di hadapan penyanyi jemputan dan beliau perlu menyingkir penyamar di kalangan penyanyi sebenar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260522140000 +0000" stop="20260522143000 +0000" channel="tv9.unifitv">
     <title lang="en">BERSAMAMU 2025/2026</title>
     <desc lang="en">Sebuah program kemanusiaan yang menyelami dan memaparkan kehidupan individu dan keluarga daripada golongan yang kurang bernasib baik. Penonton boleh menyalurkan sumbangan melalui Tabung Bersamamu TV3.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.45.</episode-num>
-    <episode-num system="onscreen">S1E46</episode-num>
   </programme>
   <programme start="20260522143000 +0000" stop="20260522153000 +0000" channel="tv9.unifitv">
     <title lang="en">AL-KULLIYYAH 2018</title>
     <desc lang="en">AL-KULLIYYAH adalah program keagamaan yang menampilkan penceramah agama terkenal yang dijemput untuk membincangkan surah terpilih. Program ini dirakamkan di kawasan terbuka seperti taman.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260522153000 +0000" stop="20260522160000 +0000" channel="tv9.unifitv">
     <title lang="en">BY THE SEA 2018</title>
     <desc lang="en">Episod ini Haris berada dalam dilema mengenai lamarannya terhadap Alya. Di samping itu, perniagaan makanan dalam talian Lisa dan Lulu amat mendapat sambutan, tetapi Lisa kecewa kerana gagal memperoleh pinjaman bank serta bantuan ibunya.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260522160000 +0000" stop="20260522170000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
-    <category lang="en">Entertainment</category>
   </programme>
   <channel id="salamhd.unifitv">
     <display-name>Salam HD</display-name>
@@ -14849,9 +14752,29 @@
     <desc lang="en">Tabatha Ricci and Callum Walsh detail how their unbreakable bond is driving their success in combat sports. Justin Gaethje and Michael Chandler bring their competitive edge to the fairway. Alexander Volkanovski reflects on his unforgettable championship victory over Max Holloway at UFC 245. We lock in on Paddy Pimblett's favorite UFC superstars.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260522070000 +0000" stop="20260522083000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - 1st GROUP A vs 2nd GROUP D - (TEAM)</title>
+  <programme start="20260522070000 +0000" stop="20260522093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 1 - THAILAND vs BRUNIE- (TEAM)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260522093000 +0000" stop="20260522120000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">TM ISTAF World Cup 2026 - GROUP B - MYANMAR vs MALAYSIA - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260522120000 +0000" stop="20260522143000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) TM ISTAF World Cup 2026 - QUARTER-FINALS 3 - MALAYSIA vs JAPAN - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260522143000 +0000" stop="20260522150000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 2</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260522150000 +0000" stop="20260522210000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Allen vs. Costa - Main</title>
+    <desc lang="en">The action returns to Meta APEX in Las Vegas on May 17 with a fight card topped by a featherweight clash between “Almighty” Arnold Allen and Melquizael “The Dalmatian” Costa. A staple in the Top 10 aiming to defend his ground, Allen looks to rebound after a narrow decision loss to Jean Silva at UFC 324 and display the form that produced 10 straight wins to open his UFC tenure. One of the hottest fighters on the roster, Costa pushed his winning streak to six in February with a first-round stoppage win over veteran Dan Ige.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
@@ -14887,12 +14810,7 @@
     <desc lang="en">Elite cyclists take on one of the sport's most prestigious Grand Tours, battling across challenging stages, mountain climbs, and thrilling finishes for the famous pink jersey.</desc>
     <category lang="en">Cycling</category>
   </programme>
-  <programme start="20260522153500 +0000" stop="20260522160000 +0000" channel="spotv.unifitv">
-    <title lang="en">Ras Al-Khaimah Half Marathon 2026 - Highlights</title>
-    <desc lang="en">Elite runners and passionate amateurs take on the fast, scenic course in Ras Al-Khaimah, showcasing speed, stamina, and determination in this world-class half marathon.</desc>
-    <category lang="en">Athletics </category>
-  </programme>
-  <programme start="20260522160000 +0000" stop="20260522180000 +0000" channel="spotv.unifitv">
+  <programme start="20260522153500 +0000" stop="20260522180000 +0000" channel="spotv.unifitv">
     <title lang="en">25/26 ROSHN Saudi League MW 34 - Al Nassr vs Damac</title>
     <desc lang="en">Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
     <category lang="en">Football</category>

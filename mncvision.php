@@ -1958,7 +1958,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20260522060000 +0000" stop="20260522073000 +0000" channel="Celebrities TV.mncvision">
-    <title>Siti I Love You Bibeh</title>
+    <title>Mendadak Artis</title>
 </programme>
 <programme start="20260522073000 +0000" stop="20260522083000 +0000" channel="Celebrities TV.mncvision">
     <title>Hotman Paris Show</title>
@@ -2000,7 +2000,7 @@
     <title>Celebrity Top 10</title>
 </programme>
 <programme start="20260522163000 +0000" stop="20260521170000 +0000" channel="Celebrities TV.mncvision">
-    <title>Siti I Love You Bibeh</title>
+    <title>Mendadak Artis</title>
 </programme>
 <programme start="20260521173000 +0000" stop="20260521185500 +0000" channel="Celestial Movies.mncvision">
     <title>Oily Maniac</title>
@@ -3416,7 +3416,7 @@
     <title>Ada Tamu Gokil</title>
 </programme>
 <programme start="20260521210000 +0000" stop="20260521223000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Cine Food</title>
+    <title>Kecapit Cinta Kepiting</title>
 </programme>
 <programme start="20260521223000 +0000" stop="20260521230000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Let&#039;s Go</title>
@@ -3461,7 +3461,7 @@
     <title>Viral Kuliner</title>
 </programme>
 <programme start="20260522070000 +0000" stop="20260522083000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Cine Food</title>
+    <title>Cokelat Love Story</title>
 </programme>
 <programme start="20260522083000 +0000" stop="20260522090000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Kuliner Anak Nusantara</title>
@@ -3524,7 +3524,7 @@
     <title>Ada Tamu Gokil</title>
 </programme>
 <programme start="20260521210000 +0000" stop="20260521223000 +0000" channel="Food Travel HD.mncvision">
-    <title>Cine Food</title>
+    <title>Kecapit Cinta Kepiting</title>
 </programme>
 <programme start="20260521223000 +0000" stop="20260521230000 +0000" channel="Food Travel HD.mncvision">
     <title>Let&#039;s Go</title>
@@ -3569,7 +3569,7 @@
     <title>Viral Kuliner</title>
 </programme>
 <programme start="20260522070000 +0000" stop="20260522083000 +0000" channel="Food Travel HD.mncvision">
-    <title>Cine Food</title>
+    <title>Cokelat Love Story</title>
 </programme>
 <programme start="20260522083000 +0000" stop="20260522090000 +0000" channel="Food Travel HD.mncvision">
     <title>Kuliner Anak Nusantara</title>
@@ -8554,10 +8554,7 @@
 <programme start="20260522133000 +0000" stop="20260522153500 +0000" channel="SPOTV.mncvision">
     <title>Giro d&#039;Italia 2026 (L)</title>
 </programme>
-<programme start="20260522153500 +0000" stop="20260522160000 +0000" channel="SPOTV.mncvision">
-    <title>Ras Al-Khaimah Half Marathon</title>
-</programme>
-<programme start="20260522160000 +0000" stop="20260522163000 +0000" channel="SPOTV.mncvision">
+<programme start="20260522153500 +0000" stop="20260522160500 +0000" channel="SPOTV.mncvision">
     <title>25/26 ROSHN Saudi League</title>
 </programme>
 <programme start="20260521174500 +0000" stop="20260521200000 +0000" channel="SPOTV 2.mncvision">
@@ -8686,10 +8683,7 @@
 <programme start="20260522133000 +0000" stop="20260522153500 +0000" channel="SPOTV HD.mncvision">
     <title>Giro d&#039;Italia 2026 (L)</title>
 </programme>
-<programme start="20260522153500 +0000" stop="20260522160000 +0000" channel="SPOTV HD.mncvision">
-    <title>Ras Al-Khaimah Half Marathon</title>
-</programme>
-<programme start="20260522160000 +0000" stop="20260522163000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260522153500 +0000" stop="20260522160500 +0000" channel="SPOTV HD.mncvision">
     <title>25/26 ROSHN Saudi League</title>
 </programme>
 <programme start="20260521180500 +0000" stop="20260521194000 +0000" channel="Studio Universal.mncvision">
