@@ -649,9 +649,6 @@
 <programme start="20260522120000 +0000" stop="20260522143000 +0000" channel="ANTV.vision">
 <title>Menggapai Matahari</title>
 </programme>
-<programme start="20260522143000 +0000" stop="20260522163000 +0000" channel="ANTV.vision">
-<title>Kuntilanak: Cermin Keramat</title>
-</programme>
 <programme start="20260522163000 +0000" stop="20260522181500 +0000" channel="ANTV.vision">
 <title>Golok Setan</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Persona</title>
 </programme>
 <programme start="20260521230000 +0000" stop="20260522010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260522010000 +0000" stop="20260522030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
