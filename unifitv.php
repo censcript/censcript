@@ -3948,7 +3948,7 @@
   <programme start="20260522123500 +0000" stop="20260522130500 +0000" channel="cctv4hd.unifitv">
     <title lang="en">Across the Strait</title>
     <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
-    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.140.</episode-num>
     <episode-num system="onscreen">S1E141</episode-num>
   </programme>

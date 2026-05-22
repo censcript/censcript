@@ -3319,47 +3319,44 @@
 <programme start="20260522214500 +0000" stop="20260522220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Last Gasp - S. Aguero wins Manchester City&#039;s first Title</title>
 </programme>
-<programme start="20260521220000 +0000" stop="20260522000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: T.Paul (USA) - D.Altmaier (GER) Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+<programme start="20260521231500 +0000" stop="20260522005500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: T. Paul (USA) - D. Altmaier (GER), Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
-<programme start="20260522000000 +0000" stop="20260522020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260522005500 +0000" stop="20260522024500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - L. Fernandez (CAN), Internationaux de Strasbourg in Straßburg (FRA), 5. Tag</title>
 </programme>
-<programme start="20260522020000 +0000" stop="20260522040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A.Kovacevic (USA) - C.Carabelli (ARG) Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
+<programme start="20260522024500 +0000" stop="20260522050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Kovacevic (USA) - C. Carabelli (ARG), Bitpanda Hamburg Open in Hamburg, Viertelfinale 3</title>
 </programme>
-<programme start="20260522040000 +0000" stop="20260522060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: VF4, L.Darderi (ITA) - A. De Minaur (AUST) Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
+<programme start="20260522050000 +0000" stop="20260522064500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: L. Darderi (ITA) - A. De Minaur (AUS), Bitpanda Hamburg Open in Hamburg, Viertelfinale 4</title>
 </programme>
-<programme start="20260522060000 +0000" stop="20260522080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260522064500 +0000" stop="20260522084000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - L. Fernandez (CAN), Internationaux de Strasbourg in Straßburg (FRA), 5. Tag</title>
 </programme>
-<programme start="20260522080000 +0000" stop="20260522083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260522083000 +0000" stop="20260522103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: T.Paul (USA) - D.Altmaier (GER) Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
+<programme start="20260522084000 +0000" stop="20260522103000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: T. Paul (USA) - D. Altmaier (GER), Bitpanda Hamburg Open in Hamburg, Viertelfinale 2</title>
 </programme>
 <programme start="20260522103000 +0000" stop="20260522123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: V. Mboko (CAN) - L. Fernandez (CAN), Internationaux de Strasbourg in Straßburg (FRA), 5. Tag</title>
+    <title>Live ATP 500: J. Schnaitter (GER) / M. Wallner (GER) - S. Doumbia (FRA) / F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppel-Halbfinale</title>
 </programme>
 <programme start="20260522123000 +0000" stop="20260522133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF1, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
+    <title>Live WTA 500: E. Navarro (USA) - A. Li (USA), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
 </programme>
 <programme start="20260522133000 +0000" stop="20260522153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF1, Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
+    <title>Live ATP 500: A. Kovacevic (USA) - I. Buse (PER), Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
 </programme>
 <programme start="20260522153000 +0000" stop="20260522173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF2, Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
+    <title>Live ATP 500: A. De Minaur (AUS) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
 </programme>
 <programme start="20260522173000 +0000" stop="20260522193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
+    <title>WTA 500: E. Navarro (USA) - A. Li (USA), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
 </programme>
 <programme start="20260522193000 +0000" stop="20260522213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
+    <title>WTA 500: V. Mboko (CAN) - J. Cristian (ROU), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
 </programme>
 <programme start="20260522213000 +0000" stop="20260522233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
+    <title>ATP 500: A. Kovacevic (USA) - I. Buse (PER), Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
 </programme>
 <programme start="20260521222000 +0000" stop="20260521230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: FC St. Pauli - Saison 25-26</title>
@@ -3385,6 +3382,18 @@
 <programme start="20260522060000 +0000" stop="20260522080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - L. Fernandez (CAN), Internationaux de Strasbourg in Straßburg (FRA), 5. Tag</title>
 </programme>
+<programme start="20260522080000 +0000" stop="20260522083000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260522083000 +0000" stop="20260522103000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Montreal Canadiens @ Carolina Hurricanes, Playoffs, Eastern Conference Final, Spiel 1</title>
+</programme>
+<programme start="20260522103000 +0000" stop="20260522123000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 500: J. Schnaitter (GER) / M. Wallner (GER) - S. Doumbia (FRA) / F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppel-Halbfinale</title>
+</programme>
+<programme start="20260522123000 +0000" stop="20260522143000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 500: E. Navarro (USA) - A. Li (USA), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
+</programme>
 <programme start="20260522143000 +0000" stop="20260522173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live DFB-Pokal Junioren: VfL Wolfsburg U19 - VfB Stuttgart U19, Finale 2026 in Potsdam</title>
 </programme>
@@ -3400,14 +3409,23 @@
 <programme start="20260522214500 +0000" stop="20260522220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Top 20: Vettel Überholmanöver</title>
 </programme>
+<programme start="20260522121000 +0000" stop="20260522123000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20260522123000 +0000" stop="20260522143000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: HF1, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
+</programme>
+<programme start="20260522143000 +0000" stop="20260522163000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: HF2, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
+</programme>
 <programme start="20260522114000 +0000" stop="20260522120000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20260522120000 +0000" stop="20260522140000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 250: HF1, Gonet Geneva Open in Genf (SUI), Halbfinale 1</title>
+    <title>Live ATP 250: C. Ruud (NOR) - M. Navone (ARG), Gonet Geneva Open in Genf (SUI), Halbfinale 1</title>
 </programme>
 <programme start="20260522140000 +0000" stop="20260522200000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 250: HF2, Gonet Geneva Open in Genf (SUI), Halbfinale 2</title>
+    <title>Live ATP 250: L. Tien (USA) - A. Bublik (KAZ), Gonet Geneva Open in Genf (SUI), Halbfinale 2</title>
 </programme>
 <programme start="20260522121000 +0000" stop="20260522123000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
