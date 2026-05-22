@@ -2422,96 +2422,6 @@
 <programme start="20260522213500 +0000" stop="20260522220500 +0000" channel="Sky Showcase HD.skyde">
     <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
 </programme>
-<programme start="20260521221500 +0000" stop="20260521223500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Austria - Rapid (2017/2018)</title>
-</programme>
-<programme start="20260521223500 +0000" stop="20260521230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Torparade XXL (Runden 29-32)</title>
-</programme>
-<programme start="20260521230000 +0000" stop="20260522010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - RZ Pellets WAC, Europacup-Playoffs, Halbfinale</title>
-</programme>
-<programme start="20260522010000 +0000" stop="20260522030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: FC Arsenal - Atletico Madrid, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260522030000 +0000" stop="20260522033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
-</programme>
-<programme start="20260522033000 +0000" stop="20260522034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Golf: Sky Golf Cups Österreich</title>
-</programme>
-<programme start="20260522034500 +0000" stop="20260522054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - RZ Pellets WAC, Europacup-Playoffs, Halbfinale</title>
-</programme>
-<programme start="20260522054500 +0000" stop="20260522060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260522060000 +0000" stop="20260522061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260522061500 +0000" stop="20260522063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260522063000 +0000" stop="20260522074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DAB - Der Audiobeweis</title>
-</programme>
-<programme start="20260522074500 +0000" stop="20260522080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260522080000 +0000" stop="20260522083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 29-32)</title>
-</programme>
-<programme start="20260522083000 +0000" stop="20260522090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% LASK (Runden 29-32)</title>
-</programme>
-<programme start="20260522090000 +0000" stop="20260522110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - RZ Pellets WAC, Europacup-Playoffs, Halbfinale</title>
-</programme>
-<programme start="20260522110000 +0000" stop="20260522111500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260522111500 +0000" stop="20260522113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260522113000 +0000" stop="20260522114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260522114500 +0000" stop="20260522121500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
-</programme>
-<programme start="20260522121500 +0000" stop="20260522123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260522123000 +0000" stop="20260522143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - RZ Pellets WAC, Europacup-Playoffs, Halbfinale</title>
-</programme>
-<programme start="20260522143000 +0000" stop="20260522144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260522144500 +0000" stop="20260522150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260522150000 +0000" stop="20260522170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - RZ Pellets WAC, Europacup-Playoffs, Halbfinale</title>
-</programme>
-<programme start="20260522170000 +0000" stop="20260522200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Admiral BL: SV Oberbank Ried - SK Rapid, Europacup-Playoffs, Finale Hinspiel</title>
-</programme>
-<programme start="20260522200000 +0000" stop="20260522203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260522203000 +0000" stop="20260522204500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260522204500 +0000" stop="20260522211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260522211500 +0000" stop="20260522213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260522213000 +0000" stop="20260522233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - SK Rapid, Europacup-Playoffs, Finale Hinspiel</title>
-</programme>
 <programme start="20260522131000 +0000" stop="20260522133000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
@@ -2875,44 +2785,20 @@
 <programme start="20260522210000 +0000" stop="20260522230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Rot-Weiss Essen - SpVgg Greuther Fürth, Relegation Hinspiel</title>
 </programme>
-<programme start="20260521223500 +0000" stop="20260522003500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
+<programme start="20260205000000 +0000" stop="20260205020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: 1. FC Kaiserslautern - SV Elversberg, tipico Topspiel der Woche, 20. Spieltag</title>
 </programme>
-<programme start="20260522003500 +0000" stop="20260522023500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
+<programme start="20260205020000 +0000" stop="20260205040000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Eintracht Frankfurt - Bayer Leverkusen, 20. Spieltag</title>
 </programme>
-<programme start="20260522023500 +0000" stop="20260522041000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
+<programme start="20260205040000 +0000" stop="20260205060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Hamburger SV - FC Bayern München, tipico Topspiel der Woche, 20. Spieltag</title>
 </programme>
-<programme start="20260522041000 +0000" stop="20260522061000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
+<programme start="20260205060000 +0000" stop="20260205080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: 1. FC Köln - VfL Wolfsburg, Flutlicht-Freitag, 20. Spieltag</title>
 </programme>
-<programme start="20260522061000 +0000" stop="20260522081000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: FC Schalke 04 - Eintracht Braunschweig, 34. Spieltag</title>
-</programme>
-<programme start="20260522081000 +0000" stop="20260522101000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
-</programme>
-<programme start="20260522101000 +0000" stop="20260522114500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
-</programme>
-<programme start="20260522114500 +0000" stop="20260522134500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
-</programme>
-<programme start="20260522134500 +0000" stop="20260522154500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
-</programme>
-<programme start="20260522154500 +0000" stop="20260522174500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: FC Schalke 04 - Eintracht Braunschweig, 34. Spieltag</title>
-</programme>
-<programme start="20260522174500 +0000" stop="20260522194500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
-</programme>
-<programme start="20260522194500 +0000" stop="20260522212000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
-</programme>
-<programme start="20260522212000 +0000" stop="20260522232000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
+<programme start="20260205080000 +0000" stop="20260205081500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>Info: UHD</title>
 </programme>
 <programme start="20260522172500 +0000" stop="20260522174500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
@@ -3385,14 +3271,11 @@
 <programme start="20260522083000 +0000" stop="20260522103000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Montreal Canadiens @ Carolina Hurricanes, Playoffs, Eastern Conference Final, Spiel 1</title>
 </programme>
-<programme start="20260522103000 +0000" stop="20260522124500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260522103000 +0000" stop="20260522123000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: J. Schnaitter (GER) / M. Wallner (GER) - S. Doumbia (FRA) / F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppel-Halbfinale</title>
 </programme>
-<programme start="20260522124500 +0000" stop="20260522133000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260522123000 +0000" stop="20260522143000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: E. Navarro (USA) - A. Li (USA), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
-</programme>
-<programme start="20260522133000 +0000" stop="20260522143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: A. Kovacevic (USA) - I. Buse (PER), Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
 </programme>
 <programme start="20260522143000 +0000" stop="20260522173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live DFB-Pokal Junioren: VfL Wolfsburg U19 - VfB Stuttgart U19, Finale 2026 in Potsdam</title>
@@ -3412,20 +3295,20 @@
 <programme start="20260522114000 +0000" stop="20260522120000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260522120000 +0000" stop="20260522140500 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260522120000 +0000" stop="20260522140000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: C. Ruud (NOR) - M. Navone (ARG), Gonet Geneva Open in Genf (SUI), Halbfinale 1</title>
 </programme>
-<programme start="20260522140500 +0000" stop="20260522200000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260522140000 +0000" stop="20260522200000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 250: L. Tien (USA) - A. Bublik (KAZ), Gonet Geneva Open in Genf (SUI), Halbfinale 2</title>
 </programme>
 <programme start="20260522121000 +0000" stop="20260522123000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260522123000 +0000" stop="20260522143000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live WTA 500: HF1, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
+    <title>Live WTA 500: E. Navarro (USA) - A. Li (USA), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 1</title>
 </programme>
 <programme start="20260522143000 +0000" stop="20260522200000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live WTA 500: HF2, Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
+    <title>Live WTA 500: V. Mboko (CAN) - J. Cristian (ROU), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
 </programme>
 <programme start="20260522090000 +0000" stop="20260522090500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Test Sport 04</title>
