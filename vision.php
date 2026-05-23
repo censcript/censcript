@@ -532,9 +532,6 @@
 <programme start="20260523154500 +0000" stop="20260523163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260523163000 +0000" stop="20260523181500 +0000" channel="Trans 7.vision">
-<title>Tipu Daya Cinta</title>
-</programme>
 <programme start="20260523181500 +0000" stop="20260523190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -607,9 +604,6 @@
 <programme start="20260523010000 +0000" stop="20260523023000 +0000" channel="ANTV.vision">
 <title>Cinta Dan Rahasia</title>
 </programme>
-<programme start="20260523023000 +0000" stop="20260523060000 +0000" channel="ANTV.vision">
-<title>Pyaar To Hona Hi Tha</title>
-</programme>
 <programme start="20260523060000 +0000" stop="20260523073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -624,15 +618,6 @@
 </programme>
 <programme start="20260523120000 +0000" stop="20260523143000 +0000" channel="ANTV.vision">
 <title>Menggapai Matahari 2</title>
-</programme>
-<programme start="20260523143000 +0000" stop="20260523163000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 2: Mangkujiwo</title>
-</programme>
-<programme start="20260523163000 +0000" stop="20260523183000 +0000" channel="ANTV.vision">
-<title>Primitif</title>
-</programme>
-<programme start="20260523183000 +0000" stop="20260523193000 +0000" channel="ANTV.vision">
-<title>Looking For Mister Perfect</title>
 </programme>
 <programme start="20260523193000 +0000" stop="20260523220000 +0000" channel="ANTV.vision">
 <title>Ta Ra Rum Pum</title>
@@ -784,9 +769,6 @@
 <programme start="20260523010000 +0000" stop="20260523013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260523013000 +0000" stop="20260523020000 +0000" channel="TVOne.vision">
-<title>Umroh Bersama UAS</title>
-</programme>
 <programme start="20260523020000 +0000" stop="20260523040000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
@@ -807,9 +789,6 @@
 </programme>
 <programme start="20260523110000 +0000" stop="20260523125700 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260523125700 +0000" stop="20260523130000 +0000" channel="TVOne.vision">
-<title>Kabar Terkini</title>
 </programme>
 <programme start="20260523130000 +0000" stop="20260523140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1496,5 +1475,26 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260523000000 +0000" stop="20260523030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523030000 +0000" stop="20260523060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523060000 +0000" stop="20260523090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523090000 +0000" stop="20260523120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523120000 +0000" stop="20260523150000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523150000 +0000" stop="20260523180000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523180000 +0000" stop="20260523210000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523210000 +0000" stop="20260524000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

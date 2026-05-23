@@ -2969,20 +2969,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: FC Southampton - FC Middlesbrough, Playoffs Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260523140000 +0000" stop="20260523171500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523140000 +0000" stop="20260523170000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Live EFL: Hull City - FC Middlesbrough, Playoff-Finale in Wembley</title>
 </programme>
-<programme start="20260523171500 +0000" stop="20260523173000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523170000 +0000" stop="20260523171500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Pep Guardiola: How one man changed the Premier League forever</title>
 </programme>
-<programme start="20260523173000 +0000" stop="20260523200000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523171500 +0000" stop="20260523194500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Hull City - FC Middlesbrough, Playoff-Finale in Wembley</title>
 </programme>
-<programme start="20260523200000 +0000" stop="20260523203000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523194500 +0000" stop="20260523201500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - BUR, 37. Spieltag</title>
 </programme>
-<programme start="20260523203000 +0000" stop="20260523210000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523201500 +0000" stop="20260523204500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BOU - MCI, 37. Spieltag</title>
+</programme>
+<programme start="20260523204500 +0000" stop="20260523210000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Pep Guardiola: How one man changed the Premier League forever</title>
 </programme>
 <programme start="20260523210000 +0000" stop="20260523213000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: 90in30: Hull City - FC Middlesbrough, Playoffs Finale</title>
@@ -3008,26 +3011,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523073000 +0000" stop="20260523093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. De Minaur (AUS) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
 </programme>
-<programme start="20260523093000 +0000" stop="20260523160000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523093000 +0000" stop="20260523153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP: Final-Konferenz Hamburg &amp; Genf</title>
 </programme>
-<programme start="20260523160000 +0000" stop="20260523163000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523153000 +0000" stop="20260523160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260523163000 +0000" stop="20260523173000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523160000 +0000" stop="20260523170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20260523173000 +0000" stop="20260523193000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523170000 +0000" stop="20260523193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
 <programme start="20260523193000 +0000" stop="20260523220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
-<programme start="20260522220000 +0000" stop="20260522224000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260522221500 +0000" stop="20260522225500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1 Academy: Qualifying - GP Kanada</title>
-</programme>
-<programme start="20260522224000 +0000" stop="20260522225500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, MTL@CAR, Playoffs, Eastern Conference Final, Spiel 1</title>
 </programme>
 <programme start="20260522225500 +0000" stop="20260522232500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 26. Spieltag komplett - letzter Spieltag</title>
@@ -3038,25 +3038,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523000000 +0000" stop="20260523003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260523003000 +0000" stop="20260523030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523003000 +0000" stop="20260523033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 3</title>
 </programme>
-<programme start="20260523030000 +0000" stop="20260523033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523033000 +0000" stop="20260523041500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260523033000 +0000" stop="20260523040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Preview, 38. Spieltag</title>
-</programme>
-<programme start="20260523040000 +0000" stop="20260523050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523041500 +0000" stop="20260523051500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Sprint Qualifying - GP Kanada</title>
 </programme>
-<programme start="20260523050000 +0000" stop="20260523070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523051500 +0000" stop="20260523071000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Rot-Weiss Essen - SpVgg Greuther Fürth, Relegation Hinspiel</title>
 </programme>
-<programme start="20260523070000 +0000" stop="20260523073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523071000 +0000" stop="20260523074000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
-<programme start="20260523073000 +0000" stop="20260523093000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523074000 +0000" stop="20260523093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Vegas Golden Knights @ Colorado Avalanche, Playoffs, Western Conference Final, Spiel 2</title>
 </programme>
 <programme start="20260523093000 +0000" stop="20260523140000 +0000" channel="Sky Sport Top Event HD.skyde">
