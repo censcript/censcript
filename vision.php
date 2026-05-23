@@ -607,9 +607,6 @@
 <programme start="20260523010000 +0000" stop="20260523023000 +0000" channel="ANTV.vision">
 <title>Cinta Dan Rahasia</title>
 </programme>
-<programme start="20260523023000 +0000" stop="20260523060000 +0000" channel="ANTV.vision">
-<title>Pyaar To Hona Hi Tha</title>
-</programme>
 <programme start="20260523060000 +0000" stop="20260523073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260523030000 +0000" stop="20260523060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523060000 +0000" stop="20260523090000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

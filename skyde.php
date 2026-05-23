@@ -2657,20 +2657,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523074500 +0000" stop="20260523080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260522220000 +0000" stop="20260522224000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260522221500 +0000" stop="20260522225500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: Qualifying - GP Kanada</title>
 </programme>
-<programme start="20260522224000 +0000" stop="20260522230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260522225500 +0000" stop="20260522231500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Lando Norris&#039; Journey to F1 World Champion</title>
 </programme>
-<programme start="20260522230000 +0000" stop="20260523000000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260522231500 +0000" stop="20260523001500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint Qualifying - GP Kanada</title>
 </programme>
-<programme start="20260523000000 +0000" stop="20260523013000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260523001500 +0000" stop="20260523020000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 1. Freies Training - GP Kanada</title>
-</programme>
-<programme start="20260523013000 +0000" stop="20260523020000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: 2025: Most Dramatic Moments</title>
 </programme>
 <programme start="20260523020000 +0000" stop="20260523040000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Miami</title>
@@ -3026,11 +3023,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523193000 +0000" stop="20260523220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
-<programme start="20260522220000 +0000" stop="20260522224000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260522221500 +0000" stop="20260522225500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1 Academy: Qualifying - GP Kanada</title>
-</programme>
-<programme start="20260522224000 +0000" stop="20260522225500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, MTL@CAR, Playoffs, Eastern Conference Final, Spiel 1</title>
 </programme>
 <programme start="20260522225500 +0000" stop="20260522232500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 26. Spieltag komplett - letzter Spieltag</title>
@@ -3041,16 +3035,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523000000 +0000" stop="20260523003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260523003000 +0000" stop="20260523030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523003000 +0000" stop="20260523033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 3</title>
 </programme>
-<programme start="20260523030000 +0000" stop="20260523033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523033000 +0000" stop="20260523041500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260523033000 +0000" stop="20260523040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Preview, 38. Spieltag</title>
-</programme>
-<programme start="20260523040000 +0000" stop="20260523050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523041500 +0000" stop="20260523050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Sprint Qualifying - GP Kanada</title>
 </programme>
 <programme start="20260523050000 +0000" stop="20260523070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3116,8 +3107,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523114000 +0000" stop="20260523120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260523120000 +0000" stop="20260523163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
+<programme start="20260523120000 +0000" stop="20260523143000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: Finale, Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
 <programme start="20260523124000 +0000" stop="20260523130000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
@@ -3128,14 +3119,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523091000 +0000" stop="20260523093000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260523093000 +0000" stop="20260523120000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: Doppelfinale, Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+<programme start="20260523093000 +0000" stop="20260523123000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 500: K. Krawietz (GER)/ T. Puetz (GER) - S. Doumbia (FRA)/ F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
 </programme>
-<programme start="20260523121000 +0000" stop="20260523123000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Es folgt: Live Tennis ATP Tour</title>
-</programme>
-<programme start="20260523123000 +0000" stop="20260523150000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
+<programme start="20260523123000 +0000" stop="20260523170000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20260523162500 +0000" stop="20260523164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>

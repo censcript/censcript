@@ -6589,7 +6589,7 @@
     <programme start="20260522173000 +0000" stop="20260522180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Season 4 Episode 3</title>
     </programme>
-    <programme start="20260522180000 +0000" stop="20260522190000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260522180700 +0000" stop="20260522190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BMW Open</title>
     </programme>
     <programme start="20260522190000 +0000" stop="20260522223000 +0000" channel="Hub Sports 1  HD.starhub">
