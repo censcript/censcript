@@ -802,9 +802,6 @@
 <programme start="20260523110000 +0000" stop="20260523125700 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260523125700 +0000" stop="20260523130000 +0000" channel="TVOne.vision">
-<title>Kabar Terkini</title>
-</programme>
 <programme start="20260523130000 +0000" stop="20260523140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260523060000 +0000" stop="20260523090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523090000 +0000" stop="20260523120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

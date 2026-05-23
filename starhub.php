@@ -4787,7 +4787,7 @@
         <title>Siragadikka Aasai</title>
     </programme>
     <programme start="20260523070000 +0000" stop="20260523073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Dhanam - Ungalil Oruthi</title>
+        <title>Cooku With Comali S7 - Special Roast</title>
     </programme>
     <programme start="20260523073000 +0000" stop="20260523080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
