@@ -980,17 +980,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523060000 +0000" stop="20260523064500 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team: Folge 9 - Neue Perspektiven</title>
 </programme>
-<programme start="20260523064500 +0000" stop="20260523071500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260523064500 +0000" stop="20260523072500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260523071500 +0000" stop="20260523091000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260523072500 +0000" stop="20260523091000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC Bayern München - 1. FC Köln</title>
 </programme>
-<programme start="20260523091000 +0000" stop="20260523105000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260523091000 +0000" stop="20260523110000 +0000" channel="DAZN 1 HD.skyde">
     <title>Hungarian Darts Trophy: Niko Springer - VF, HF &amp; Finale 2025</title>
-</programme>
-<programme start="20260523105000 +0000" stop="20260523110000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260523110000 +0000" stop="20260523143000 +0000" channel="DAZN 1 HD.skyde">
     <title>International Darts Open: Tag 2 - Session 1</title>
@@ -1001,16 +998,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523152000 +0000" stop="20260523155500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260523155500 +0000" stop="20260523164500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Her Element by Laura Wontorra: Episode 2</title>
+<programme start="20260523155500 +0000" stop="20260523181000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Serie A 25/26: FC Bologna - Inter Mailand</title>
 </programme>
-<programme start="20260523164500 +0000" stop="20260523173500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Her Element by Laura Wontorra: Episode 3</title>
-</programme>
-<programme start="20260523173500 +0000" stop="20260523182500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Her Element by Laura Wontorra: Episode 4</title>
-</programme>
-<programme start="20260523182500 +0000" stop="20260523185500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260523181000 +0000" stop="20260523185500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260523185500 +0000" stop="20260523211000 +0000" channel="DAZN 1 HD.skyde">
@@ -3149,7 +3140,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523162500 +0000" stop="20260523164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>
 </programme>
-<programme start="20260523164500 +0000" stop="20260523223000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260523164500 +0000" stop="20260523210000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
 <programme start="20260522223000 +0000" stop="20260522231500 +0000" channel="SYFY HD.skyde">

@@ -784,9 +784,6 @@
 <programme start="20260523010000 +0000" stop="20260523013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260523013000 +0000" stop="20260523020000 +0000" channel="TVOne.vision">
-<title>Umroh Bersama UAS</title>
-</programme>
 <programme start="20260523020000 +0000" stop="20260523040000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260523000000 +0000" stop="20260523030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523030000 +0000" stop="20260523060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

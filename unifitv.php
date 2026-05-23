@@ -1644,118 +1644,208 @@
   <programme start="20260522153000 +0000" stop="20260522160000 +0000" channel="tv9.unifitv">
     <title lang="en">BY THE SEA 2018</title>
     <desc lang="en">Episod ini Haris berada dalam dilema mengenai lamarannya terhadap Alya. Di samping itu, perniagaan makanan dalam talian Lisa dan Lulu amat mendapat sambutan, tetapi Lisa kecewa kerana gagal memperoleh pinjaman bank serta bantuan ibunya.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260522160000 +0000" stop="20260522170000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260522170000 +0000" stop="20260522175000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260522175000 +0000" stop="20260522175500 +0000" channel="tv9.unifitv">
     <title lang="en">KUIZ PACAK</title>
     <desc lang="en">Program yang menampilkan hos Fedtri Yahya akan melontarkan pelbagai soalan kuiz yang menguji pengetahuan agama dan dunia Islam.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <episode-num system="onscreen">S1E27</episode-num>
   </programme>
   <programme start="20260522175500 +0000" stop="20260522180000 +0000" channel="tv9.unifitv">
     <title lang="en">SENANG TERHIBUR SHORTS</title>
     <desc lang="en">Koleksi sedutan klip video dari rancangan hiburan.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.36.</episode-num>
+    <episode-num system="onscreen">S1E37</episode-num>
   </programme>
   <programme start="20260522180000 +0000" stop="20260522193000 +0000" channel="tv9.unifitv">
-    <title lang="en">AKU BELUM MAHU MATI</title>
-    <desc lang="en">Maria, wanita bekerjaya, tidak menitikberatkan soal agama dan agak cenderung mengumpul pelbagai jenis patung walaupun tidak digemari suaminya. Maria merasa dia masih muda dan tidak gemar apabila dinasihati Nora, rakan baiknya.</desc>
+    <title lang="en">GENG KAMPUNG PISANG</title>
+    <desc lang="en">Dua pemuda, AG dan Faizal bermusuhan sejak kecil. Apabila meningkat remaja, mereka berkawan baik selepas berniaga lemang untuk sebuah syarikat. Mereka sama-sama meminati anak gadis majikan mereka bernama Sherry.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260522193000 +0000" stop="20260522203000 +0000" channel="tv9.unifitv">
     <title lang="en">KOOL 101@TV9 (2026)</title>
+    <desc lang="en">KOOL 101@TV9 (2026)</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.112.</episode-num>
+    <episode-num system="onscreen">S1E113</episode-num>
   </programme>
   <programme start="20260522203000 +0000" stop="20260522210000 +0000" channel="tv9.unifitv">
-    <title lang="en">SAMBAL (U) 17 X 30"</title>
-    <desc lang="en">Pak Tam berjumpa dengan Wak Parjo di warung Kedai Kopi untuk mendapatkan si Ribut. Wak Parjo menjual ubat guna-guna kepada Pak Tam untuk memikat Ribut. Bila berjumpa dengan Ribut, Pak Tam memasukkan ubat guna-guna.</desc>
+    <title lang="en">SEMBANG TERAPI</title>
+    <desc lang="en">Perbincangan antara para peserta berkaitan topik topik harian yang menarik. Sesuai untuk tontonan para remaja yang dahagakan ilmu pengetahuan.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260522210000 +0000" stop="20260522220000 +0000" channel="tv9.unifitv">
     <title lang="en">MY #QURANTIME 2.0</title>
-    <desc lang="en">Episod ini memaparkan Syeikh Al-Qari Tirmizi Hj Ali memimpin bacaan Surah Al-Furqan Ayat 6 hingga Ayat 8  sementara Usataz Fazlur Ismail selaku hos tampil menterjemah dan mentadabbur ayat-ayat tersebut.</desc>
+    <desc lang="en">Episod ini menampilkan Syeikh Al-Qari Tirmizi Hj Ali memimpin bacaan Surah Al-Furqan Ayat 9 hingga Ayat 11 sementara Ustaz Fazlur Ismail selaku hos tampil menterjemah dan mentadabbur ayat-ayat tersebut.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1255.</episode-num>
+    <episode-num system="onscreen">S1E1256</episode-num>
   </programme>
   <programme start="20260522220000 +0000" stop="20260522222000 +0000" channel="tv9.unifitv">
     <title lang="en">BACAAN YASIN 2025</title>
     <desc lang="en">Bacaan Surah Yasin</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260522222000 +0000" stop="20260522223000 +0000" channel="tv9.unifitv">
     <title lang="en">KAPSUL SURAH (2018)</title>
     <desc lang="en">Bacaan SURAH AL-MULK serta terjemahannya.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260522223000 +0000" stop="20260522225000 +0000" channel="tv9.unifitv">
     <title lang="en">BACAAN YASIN 2025</title>
     <desc lang="en">Bacaan Surah Yasin</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260522225000 +0000" stop="20260523003000 +0000" channel="tv9.unifitv">
     <title lang="en">TANYALAH USTAZ 2026 (SAT &amp; SUN) : JAN - DEC</title>
+    <desc lang="en">TANYALAH USTAZ 2026 (SAT &amp; SUN) : JAN - DEC</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.34.</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
   </programme>
   <programme start="20260523003000 +0000" stop="20260523013000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260523013000 +0000" stop="20260523023000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260523023000 +0000" stop="20260523033000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260523033000 +0000" stop="20260523040000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260523040000 +0000" stop="20260523050000 +0000" channel="tv9.unifitv">
     <title lang="en">MY #QURANTIME 2.0</title>
-    <desc lang="en">Episod ini menampilkan Syeikh Al-Qari Tirmizi Hj Ali bersama-sama Ustaz Hj Fazlur  serta Ustaz Abdullah Bukhari Abdul Rahim selaku pentadabbur jemputan mengulangkaji surah Al-Nur dan surah Al-Furqan.</desc>
+    <desc lang="en">Episod ini menampilkan Syeikh Al-Qari Tirmizi Hj Ali bersama-sama Ustaz Hj Fazlur serta Ustaz Abdullah Bukhari Abdul Rahim selaku pentadabbur jemputan mengulangkaji surah Al-Nur dan surah Al-Furqan.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1256.</episode-num>
+    <episode-num system="onscreen">S1E1257</episode-num>
   </programme>
   <programme start="20260523050000 +0000" stop="20260523060000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260523060000 +0000" stop="20260523073000 +0000" channel="tv9.unifitv">
     <title lang="en">GENG KAMPUNG PISANG</title>
     <desc lang="en">Dua pemuda, AG dan Faizal bermusuhan sejak kecil. Apabila meningkat remaja, mereka berkawan baik selepas berniaga lemang untuk sebuah syarikat. Mereka sama-sama meminati anak gadis majikan mereka bernama Sherry.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260523073000 +0000" stop="20260523083000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260523083000 +0000" stop="20260523090000 +0000" channel="tv9.unifitv">
     <title lang="en">CINTA ANTARA BENUA</title>
     <desc lang="en">Mereka berempat menjalani kehidupan harian seperti. JR, Wahid, Halimah dan Siti sering bersama dan hubungan mereka semakin akrab. Sesekali Zed menghubungi Halimah dan berbuat biasa dan tentang pengajian masing-masing.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260523090000 +0000" stop="20260523093000 +0000" channel="tv9.unifitv">
     <title lang="en">COCOMELON</title>
     <desc lang="en">Animasi lagu dan puisi berima kanak-kanak.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <episode-num system="onscreen">S1E43</episode-num>
   </programme>
   <programme start="20260523093000 +0000" stop="20260523100000 +0000" channel="tv9.unifitv">
     <title lang="en">GO GO DINO SEASON 3</title>
-    <desc lang="en">Gogo Dino Explorers menemui sepasang dinosaur Struthiomimus yang sensitif dan keletihan dalam penerokaan mereka. // Semasa meneroka tepi laut, Gogo Dinos bertemu Encik Orthoceras yang sopan dan menunduk untuk bersalam pada semua.</desc>
+    <desc lang="en">Gogo Dino Explorers menemui sepasang dinosaur Struthiomimus yang sensitif dan keletihan dalam penerokaan mereka.  Semasa meneroka tepi laut, Gogo Dinos bertemu Encik Orthoceras yang sopan dan menunduk untuk bersalam pada semua.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260523100000 +0000" stop="20260523103000 +0000" channel="tv9.unifitv">
     <title lang="en">EJEN ALI SEASON 2</title>
     <desc lang="en">Ali, Alicia serta Ejen Bakar diarahkan untuk memusnahkan Analogman yang kini telah melakukan 4 kali serangan bertujuan memusnahkan pusat teknologi.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260523103000 +0000" stop="20260523110000 +0000" channel="tv9.unifitv">
     <title lang="en">BLIPPI WONDERS</title>
-    <desc lang="en">TRICK OR TREAT.  Blippi dan D.BO cuba mencari tahu daripada seekor rakun tentang taktik mendapatkan hadiah atau helah semasa Halloween. Halloween adalah percutian kegemaran mereka semua kerana mereka akan mendapat hadiah percuma.</desc>
+    <desc lang="en">TRICK OR TREAT. Blippi dan D.BO cuba mencari tahu daripada seekor rakun tentang taktik mendapatkan hadiah atau helah semasa Halloween. Halloween adalah percutian kegemaran mereka semua kerana mereka akan mendapat hadiah percuma.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <episode-num system="onscreen">S1E43</episode-num>
   </programme>
   <programme start="20260523110000 +0000" stop="20260523115000 +0000" channel="tv9.unifitv">
     <title lang="en">BULETIN TV9 2025/2026</title>
+    <desc lang="en">BULETIN TV9 2025/2026</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.326.</episode-num>
+    <episode-num system="onscreen">S1E327</episode-num>
   </programme>
   <programme start="20260523115000 +0000" stop="20260523124000 +0000" channel="tv9.unifitv">
     <title lang="en">NASI LEMAK KOPI O (JULY 2025 - JUNE 2026)</title>
     <desc lang="en">Nasi Lemak Kopi O akan menghidupkan semula pagi anda dengan sentuhan baharu dan kontemporari. Rancangan ini akan kembali dengan penampilan baharu dan kandungan penuh menarik buat penonton setia kami.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.139.</episode-num>
+    <episode-num system="onscreen">S1E140</episode-num>
   </programme>
   <programme start="20260523124000 +0000" stop="20260523143000 +0000" channel="tv9.unifitv">
     <title lang="en">HOMESTAY BERHANTU</title>
     <desc lang="en">Salman menerima wasiat sebuah rumah lama di sebuah kampung, berpakat dengan dua rakannya, Din dan Acik untuk menjadikan rumah itu sebagai homestay. Setelah rumah itu diserahkan oleh peguam, mereka mula diserang hantu.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260523143000 +0000" stop="20260523153000 +0000" channel="tv9.unifitv">
     <title lang="en">SAKA</title>
-    <desc lang="en">BATU GAJAH.  Wahid memberitahu Pak Nordin yang Jonghos akan menangkap Isma di Muzium Palembang. Lia pula memberitahu Isma mereka perlu ke muzium untuk mendapatkan sesuatu dari ukiran patung Batu Gajah di sana yang berusia 2000 tahun.</desc>
+    <desc lang="en">BATU GAJAH. Wahid memberitahu Pak Nordin yang Jonghos akan menangkap Isma di Muzium Palembang. Lia pula memberitahu Isma mereka perlu ke muzium untuk mendapatkan sesuatu dari ukiran patung Batu Gajah di sana yang berusia 2000 tahun.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260523153000 +0000" stop="20260523160000 +0000" channel="tv9.unifitv">
     <title lang="en">BIKIN PANAS</title>
     <desc lang="en">Episod ini Siti Elizad dan Ieda Moin bersaing menyediakan Kari Kepala Ikan untuk memenuhi citarasa juri misteri, Arja Lee. Mereka turut diuji dengan kuiz pengetahuan am serta cabaran ketangkasan sebelum Elizad dinobatkan sebagai pemenang.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260523160000 +0000" stop="20260523170000 +0000" channel="tv9.unifitv">
     <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <channel id="salamhd.unifitv">
     <display-name>Salam HD</display-name>
