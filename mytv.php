@@ -56,7 +56,7 @@
         <title> Thời sự</title>
     </programme>
     <programme start="20260523085900 +0000" stop="20260523091500 +0000" channel="VTV1 HD.mytv">
-        <title> Du lịch Việt Nam</title>
+        <title> Sự kiện và bình luận</title>
     </programme>
     <programme start="20260523091500 +0000" stop="20260523094800 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống : Giấc mơ vượt đỉnh núi</title>
@@ -148,23 +148,23 @@
     <programme start="20260523194000 +0000" stop="20260523195500 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tin</title>
     </programme>
-    <programme start="20260523195500 +0000" stop="20260523200000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260523195500 +0000" stop="20260523195800 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam : Pháo đất biết bay Hoành Từ Hưng Yên</title>
     </programme>
-    <programme start="20260523200000 +0000" stop="20260523200500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260523195800 +0000" stop="20260523200500 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe</title>
     </programme>
     <programme start="20260523200500 +0000" stop="20260523201000 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình trực tiếp : Chương trình nghệ thuật : Ngày mai tươi sáng</title>
     </programme>
-    <programme start="20260523201000 +0000" stop="20260523212000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260523201000 +0000" stop="20260523213000 +0000" channel="VTV1 HD.mytv">
         <title> Diễn đàn 68</title>
     </programme>
-    <programme start="20260523212000 +0000" stop="20260523214500 +0000" channel="VTV1 HD.mytv">
-        <title> Ánh sáng tri thức : Chắp cánh ước mơ</title>
+    <programme start="20260523213000 +0000" stop="20260523214500 +0000" channel="VTV1 HD.mytv">
+        <title> Ánh sáng tri thức -Chắp cánh ước mơ</title>
     </programme>
     <programme start="20260523214500 +0000" stop="20260523220000 +0000" channel="VTV1 HD.mytv">
-        <title> Câu chuyện quốc tế : Virus Hanta và những điều chưa biết</title>
+        <title> Câu chuyện quốc tế - Virus Hanta và những điều chưa biết</title>
     </programme>
     <programme start="20260523220000 +0000" stop="20260523221500 +0000" channel="VTV1 HD.mytv">
         <title> Văn học nghệ thuật : Vương Trọng - Thơ để chuyển tải nỗi lòng</title>
