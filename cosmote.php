@@ -134,8 +134,8 @@
     <title>Football: Parma - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260524023000 +0700" stop="20260524050000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Hull City - Middlesbrough</title>
+<programme start="20260525054500 +0700" stop="20260525061500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S1 E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260524050000 +0700" stop="20260524053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -200,10 +200,6 @@
 </programme>
 <programme start="20260525034500 +0700" stop="20260525061500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Bolton Wanderers - Stockport County</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260524013000 +0700" stop="20260524042000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: San Antonio Spurs - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260524042000 +0700" stop="20260524062000 +0700" channel="COSMOTE Sport 4 HD">
@@ -272,10 +268,6 @@
 </programme>
 <programme start="20260525040000 +0700" stop="20260525060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Aquila Basket Trento - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260524030000 +0700" stop="20260524042500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260524042500 +0700" stop="20260524070500 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,6 +362,10 @@
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260525051500 +0700" stop="20260525061000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260524030000 +0700" stop="20260524081000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2026</title>
     <desc>Live: Tidak</desc>
@@ -434,6 +430,10 @@
     <title>Tennis: Mariano Navone - Learner Tien</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260525053000 +0700" stop="20260525063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP Masters 1000 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260524040000 +0700" stop="20260524060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -493,6 +493,10 @@
 <programme start="20260525023000 +0700" stop="20260525050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: N.Y. Liberty - Dallas Wings (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260525050000 +0700" stop="20260525060000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260524040000 +0700" stop="20260524060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
