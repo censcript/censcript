@@ -2969,23 +2969,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: FC Southampton - FC Middlesbrough, Playoffs Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260523140000 +0000" stop="20260523170000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523140000 +0000" stop="20260523171500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Live EFL: Hull City - FC Middlesbrough, Playoff-Finale in Wembley</title>
 </programme>
-<programme start="20260523170000 +0000" stop="20260523171500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523171500 +0000" stop="20260523173000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Pep Guardiola: How one man changed the Premier League forever</title>
 </programme>
-<programme start="20260523171500 +0000" stop="20260523194500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523173000 +0000" stop="20260523200000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Hull City - FC Middlesbrough, Playoff-Finale in Wembley</title>
 </programme>
-<programme start="20260523194500 +0000" stop="20260523201500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523200000 +0000" stop="20260523203000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - BUR, 37. Spieltag</title>
 </programme>
-<programme start="20260523201500 +0000" stop="20260523204500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260523203000 +0000" stop="20260523210000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BOU - MCI, 37. Spieltag</title>
-</programme>
-<programme start="20260523204500 +0000" stop="20260523210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Pep Guardiola: How one man changed the Premier League forever</title>
 </programme>
 <programme start="20260523210000 +0000" stop="20260523213000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: 90in30: Hull City - FC Middlesbrough, Playoffs Finale</title>
@@ -3011,16 +3008,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523073000 +0000" stop="20260523093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. De Minaur (AUS) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
 </programme>
-<programme start="20260523093000 +0000" stop="20260523153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523093000 +0000" stop="20260523160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP: Final-Konferenz Hamburg &amp; Genf</title>
 </programme>
-<programme start="20260523153000 +0000" stop="20260523160000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523160000 +0000" stop="20260523163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260523160000 +0000" stop="20260523170000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523163000 +0000" stop="20260523173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20260523170000 +0000" stop="20260523193000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523173000 +0000" stop="20260523193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
 <programme start="20260523193000 +0000" stop="20260523220000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3116,8 +3113,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523114000 +0000" stop="20260523120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260523120000 +0000" stop="20260523143000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Finale, Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
+<programme start="20260523120000 +0000" stop="20260523163000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
 <programme start="20260523124000 +0000" stop="20260523130000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
@@ -3129,15 +3126,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20260523093000 +0000" stop="20260523123000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: Doppelfinale, Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+    <title>Live ATP 500: K. Krawietz (GER)/ T. Puetz (GER) - S. Doumbia (FRA)/ F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
 </programme>
 <programme start="20260523123000 +0000" stop="20260523170000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
+    <title>Live ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20260523162500 +0000" stop="20260523164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>
 </programme>
-<programme start="20260523164500 +0000" stop="20260523210000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260523164500 +0000" stop="20260523223000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
 <programme start="20260522223000 +0000" stop="20260522231500 +0000" channel="SYFY HD.skyde">

@@ -4669,8 +4669,11 @@
     <programme start="20260524060000 +0000" stop="20260524073000 +0000" channel="Vijay TV HD.starhub">
         <title>Andakakasam S04</title>
     </programme>
-    <programme start="20260524073000 +0000" stop="20260524103000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+    <programme start="20260524073000 +0000" stop="20260524100000 +0000" channel="Vijay TV HD.starhub">
+        <title>Lucky The Super Star</title>
+    </programme>
+    <programme start="20260524100000 +0000" stop="20260524103000 +0000" channel="Vijay TV HD.starhub">
+        <title>Cooku With Comali S7 - Special Roast</title>
     </programme>
     <programme start="20260524103000 +0000" stop="20260524120000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S11</title>
@@ -4681,7 +4684,7 @@
     <programme start="20260524133000 +0000" stop="20260524150000 +0000" channel="Vijay TV HD.starhub">
         <title>Cooku With Comali S07 - Double Trouble</title>
     </programme>
-    <programme start="20260524150000 +0000" stop="20260524160000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260524150000 +0000" stop="20260524163000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S11</title>
     </programme>
     <programme start="20260523160000 +0000" stop="20260523163000 +0000" channel="Asianet.starhub">
