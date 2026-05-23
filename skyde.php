@@ -2561,7 +2561,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523091000 +0000" stop="20260523093000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260523093000 +0000" stop="20260523153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260523093000 +0000" stop="20260523173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP: Final-Konferenz Hamburg &amp; Genf</title>
 </programme>
 <programme start="20260522230000 +0000" stop="20260523010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2993,16 +2993,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523213000 +0000" stop="20260523220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: AVL - LIV, 37. Spieltag</title>
 </programme>
-<programme start="20260522233000 +0000" stop="20260523013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260522225000 +0000" stop="20260523001000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Kovacevic (USA) - I. Buse (PER), Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
+</programme>
+<programme start="20260523001000 +0000" stop="20260523021000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. De Minaur (AUS) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
 </programme>
-<programme start="20260523013000 +0000" stop="20260523033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523021000 +0000" stop="20260523041000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: C. Ruud (NOR) - M. Navone (ARG), Gonet Geneva Open in Genf (SUI), Halbfinale 1</title>
 </programme>
-<programme start="20260523033000 +0000" stop="20260523053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523041000 +0000" stop="20260523060500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: L. Tien (USA) - A. Bublik (KAZ), Gonet Geneva Open in Genf (SUI), Halbfinale 2</title>
 </programme>
-<programme start="20260523053000 +0000" stop="20260523073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260523060500 +0000" stop="20260523073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Kovacevic (USA) - I. Buse (PER), Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
 </programme>
 <programme start="20260523073000 +0000" stop="20260523093000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3018,10 +3021,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Rom</title>
 </programme>
 <programme start="20260523170000 +0000" stop="20260523193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
+    <title>WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
 <programme start="20260523193000 +0000" stop="20260523220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
+    <title>ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20260522221500 +0000" stop="20260522225500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1 Academy: Qualifying - GP Kanada</title>
@@ -3035,13 +3038,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523000000 +0000" stop="20260523003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260523003000 +0000" stop="20260523033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523003000 +0000" stop="20260523030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 3</title>
 </programme>
-<programme start="20260523033000 +0000" stop="20260523041500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523030000 +0000" stop="20260523033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260523041500 +0000" stop="20260523050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523033000 +0000" stop="20260523040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Preview, 38. Spieltag</title>
+</programme>
+<programme start="20260523040000 +0000" stop="20260523050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Sprint Qualifying - GP Kanada</title>
 </programme>
 <programme start="20260523050000 +0000" stop="20260523070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3098,17 +3104,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523000000 +0000" stop="20260523003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260523003000 +0000" stop="20260523030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260523003000 +0000" stop="20260523033000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 3</title>
 </programme>
-<programme start="20260523030000 +0000" stop="20260523080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260523033000 +0000" stop="20260523042500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260523114000 +0000" stop="20260523120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260523120000 +0000" stop="20260523143000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: Finale, Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
+<programme start="20260523120000 +0000" stop="20260523163000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
 <programme start="20260523124000 +0000" stop="20260523130000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
@@ -3119,11 +3125,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523091000 +0000" stop="20260523093000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260523093000 +0000" stop="20260523123000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: K. Krawietz (GER)/ T. Puetz (GER) - S. Doumbia (FRA)/ F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+<programme start="20260523093000 +0000" stop="20260523120000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 500: Doppelfinale, Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
 </programme>
-<programme start="20260523123000 +0000" stop="20260523170000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
+<programme start="20260523121000 +0000" stop="20260523123000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Es folgt: Live Tennis ATP Tour</title>
+</programme>
+<programme start="20260523123000 +0000" stop="20260523150000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Live ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20260523162500 +0000" stop="20260523164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>

@@ -1634,9 +1634,11 @@
     <episode-num system="onscreen">S9E12</episode-num>
   </programme>
   <programme start="20260523150000 +0000" stop="20260523163000 +0000" channel="8tv.unifitv">
-    <title lang="en">WOW SHOP</title>
-    <desc lang="en">WOW SHOP</desc>
+    <title lang="en">HEALING HEROES</title>
+    <desc lang="en">Ren Hui dan Hao Nao melibatkan Zhi Peng dan You Yu dalam aktiviti merangsang minda. Cai Ruan yang bekerja sebagai pengasuh, mengalami tekanan mental kerana sering mendengar tangisan bayi dalam mimpinya.</desc>
     <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <episode-num system="onscreen">S1E45</episode-num>
   </programme>
   <channel id="tv9.unifitv">
     <display-name>TV9</display-name>
