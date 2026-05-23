@@ -622,9 +622,6 @@
 <programme start="20260523120000 +0000" stop="20260523143000 +0000" channel="ANTV.vision">
 <title>Menggapai Matahari 2</title>
 </programme>
-<programme start="20260523143000 +0000" stop="20260523163000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 2: Mangkujiwo</title>
-</programme>
 <programme start="20260523163000 +0000" stop="20260523183000 +0000" channel="ANTV.vision">
 <title>Primitif</title>
 </programme>
@@ -801,9 +798,6 @@
 </programme>
 <programme start="20260523110000 +0000" stop="20260523125700 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260523125700 +0000" stop="20260523130000 +0000" channel="TVOne.vision">
-<title>Kabar Terkini</title>
 </programme>
 <programme start="20260523130000 +0000" stop="20260523140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1496,5 +1490,11 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260523060000 +0000" stop="20260523090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523090000 +0000" stop="20260523120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260523120000 +0000" stop="20260523150000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

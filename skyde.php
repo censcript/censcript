@@ -2561,7 +2561,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523091000 +0000" stop="20260523093000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260523093000 +0000" stop="20260523153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260523093000 +0000" stop="20260523173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP: Final-Konferenz Hamburg &amp; Genf</title>
 </programme>
 <programme start="20260522230000 +0000" stop="20260523010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3116,8 +3116,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523114000 +0000" stop="20260523120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260523120000 +0000" stop="20260523163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
+<programme start="20260523120000 +0000" stop="20260523143000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: Finale, Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
 <programme start="20260523124000 +0000" stop="20260523130000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
@@ -3129,15 +3129,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20260523093000 +0000" stop="20260523123000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: K. Krawietz (GER)/ T. Puetz (GER) - S. Doumbia (FRA)/ F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+    <title>Live ATP 500: Doppelfinale, Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
 </programme>
 <programme start="20260523123000 +0000" stop="20260523170000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
+    <title>Live ATP 500: Finale, Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20260523162500 +0000" stop="20260523164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>
 </programme>
-<programme start="20260523164500 +0000" stop="20260523223000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260523164500 +0000" stop="20260523210000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
 <programme start="20260522223000 +0000" stop="20260522231500 +0000" channel="SYFY HD.skyde">
