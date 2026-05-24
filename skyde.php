@@ -3082,7 +3082,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524180000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524183000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Crystal Palace - FC Arsenal, 38. Spieltag</title>
 </programme>
 <programme start="20260524184000 +0000" stop="20260524190000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3091,7 +3091,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524190000 +0000" stop="20260524193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Pre-Show</title>
 </programme>
-<programme start="20260524193000 +0000" stop="20260524220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260524193000 +0000" stop="20260524223500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Dallas Wings @ New York Liberty</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3145,7 +3145,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524113000 +0000" stop="20260524115000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Es folgt: LIVE EFL</title>
 </programme>
-<programme start="20260524115000 +0000" stop="20260524144500 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20260524115000 +0000" stop="20260524160000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live EFL: Bolton Wanderers - Stockport County, Playoff-Finale in Wembley</title>
 </programme>
 <programme start="20260523223500 +0000" stop="20260523232000 +0000" channel="SYFY HD.skyde">

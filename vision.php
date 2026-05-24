@@ -553,9 +553,6 @@
 <programme start="20260524154500 +0000" stop="20260524163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260524163000 +0000" stop="20260524181500 +0000" channel="Trans 7.vision">
-<title>Dracin: Tipu Daya Cinta</title>
-</programme>
 <programme start="20260524181500 +0000" stop="20260524190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260525030000 +0000" stop="20260525060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260525060000 +0000" stop="20260525090000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
