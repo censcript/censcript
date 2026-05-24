@@ -2623,11 +2623,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524213500 +0000" stop="20260524233500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
 </programme>
-<programme start="20260523220000 +0000" stop="20260523224500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260523220000 +0000" stop="20260523230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 2. Rennen - GP Kanada</title>
-</programme>
-<programme start="20260523224500 +0000" stop="20260523230000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Top 20: Spektakuläre Abflüge</title>
 </programme>
 <programme start="20260523230000 +0000" stop="20260524003000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Kanada</title>
@@ -3022,7 +3019,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524214500 +0000" stop="20260524223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Kanada</title>
 </programme>
-<programme start="20260523223500 +0000" stop="20260524010500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260523230000 +0000" stop="20260524013500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
 <programme start="20260524010500 +0000" stop="20260524013500 +0000" channel="Sky Sport UHD.skyde">
@@ -3088,7 +3085,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524183000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Crystal Palace - FC Arsenal, 38. Spieltag</title>
 </programme>
 <programme start="20260524184000 +0000" stop="20260524190000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3097,7 +3094,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524190000 +0000" stop="20260524193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Pre-Show</title>
 </programme>
-<programme start="20260524193000 +0000" stop="20260524223500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260524193000 +0000" stop="20260524220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Dallas Wings @ New York Liberty</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3109,7 +3106,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live PL: West Ham United - Leeds United, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3121,7 +3118,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: Nottingham Forest - AFC Bournemouth, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3149,9 +3146,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live PL: FC Fulham - Newcastle United, 38. Spieltag</title>
 </programme>
 <programme start="20260524113000 +0000" stop="20260524115000 +0000" channel="Sky Sport 10 HD.skyde">
-    <title>Es folgt: LIVE EFL</title>
+    <title>PL: Es folgt</title>
 </programme>
-<programme start="20260524115000 +0000" stop="20260524160000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20260524115000 +0000" stop="20260524140000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live EFL: Bolton Wanderers - Stockport County, Playoff-Finale in Wembley</title>
 </programme>
 <programme start="20260523223500 +0000" stop="20260523232000 +0000" channel="SYFY HD.skyde">

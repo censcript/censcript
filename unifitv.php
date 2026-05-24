@@ -14869,24 +14869,24 @@
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
   </channel>
-  <programme start="20260523150000 +0000" stop="20260523160000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Countdown - UFC 325: Volkanovski vs Lopes 2</title>
-    <desc lang="en">UFC 325 Countdown takes an inside look at the promotion’s return to Sydney, where featherweight king Alexander “The Great” Volkanovski squares off with Diego Lopes in a rematch. Plus, lightweights collide as Dan Hooker battles Benoit Saint Denis.??</desc>
+  <programme start="20260523120000 +0000" stop="20260523170000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) TM ISTAF World Cup 2026 - FINAL - MALAYSIA vs THAILAND - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523220000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260523170000 +0000" stop="20260523230000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Allen vs. Costa - Main</title>
     <desc lang="en">The action returns to Meta APEX in Las Vegas on May 17 with a fight card topped by a featherweight clash between “Almighty” Arnold Allen and Melquizael “The Dalmatian” Costa. A staple in the Top 10 aiming to defend his ground, Allen looks to rebound after a narrow decision loss to Jean Silva at UFC 324 and display the form that produced 10 straight wins to open his UFC tenure. One of the hottest fighters on the roster, Costa pushed his winning streak to six in February with a first-round stoppage win over veteran Dan Ige.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260523220000 +0000" stop="20260524003000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 - QUARTER-FINALS 3 - MALAYSIA vs JAPAN - (TEAM)</title>
+  <programme start="20260523230000 +0000" stop="20260524013000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">TM ISTAF World Cup 2026 - SEMI-FINALS 1 - MALAYSIA vs INDONESIA - (TEAM)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260524003000 +0000" stop="20260524020000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 - FINAL - INDIA vs MALAYSIA - (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+  <programme start="20260524013000 +0000" stop="20260524020000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Connected - 801 - UFC Connected "Origins: Themba Gorimbo, Unbreakable: Njokuani Brothers, Warrior Code: Dricus du Plessis</title>
+    <desc lang="en">UFC welterweight Themba Gorimbo reveals how he overcame a life of hardship and adversity, from the trenches of the African gold mines to the biggest stage in MMA.  Chidi Njokuani details his life-long journey to the octagon under the guidance and mentorship of his brother Anthony Njokuani, former UFC lightweight contender.  UFC Middleweight Champion Dricus du Plessis reveals his keys to success in the octagon.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260524020000 +0000" stop="20260524020500 +0000" channel="unifisports1.unifitv">

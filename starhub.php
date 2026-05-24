@@ -2050,8 +2050,11 @@
     <programme start="20260524064500 +0000" stop="20260524070000 +0000" channel="CNN HD.starhub">
         <title>Watches and Wonders</title>
     </programme>
-    <programme start="20260524070000 +0000" stop="20260524080000 +0000" channel="CNN HD.starhub">
+    <programme start="20260524070000 +0000" stop="20260524073000 +0000" channel="CNN HD.starhub">
         <title>Sunday, May 24, 2026 3am ET</title>
+    </programme>
+    <programme start="20260524073000 +0000" stop="20260524080000 +0000" channel="CNN HD.starhub">
+        <title>Angola</title>
     </programme>
     <programme start="20260524080000 +0000" stop="20260524090000 +0000" channel="CNN HD.starhub">
         <title>Sunday, May 24, 2026 4am ET</title>
@@ -7726,7 +7729,7 @@
     <programme start="20260523213000 +0000" stop="20260523233000 +0000" channel="Asianet Movies.starhub">
         <title>Kilipoyi</title>
     </programme>
-    <programme start="20260523233000 +0000" stop="20260524013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260523232000 +0000" stop="20260524013000 +0000" channel="Asianet Movies.starhub">
         <title>Viswaroopam 2</title>
     </programme>
     <programme start="20260524013000 +0000" stop="20260524043000 +0000" channel="Asianet Movies.starhub">
@@ -7741,7 +7744,7 @@
     <programme start="20260524103000 +0000" stop="20260524133000 +0000" channel="Asianet Movies.starhub">
         <title>Lucky Baskhar</title>
     </programme>
-    <programme start="20260524133000 +0000" stop="20260524160000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260524133000 +0000" stop="20260524160500 +0000" channel="Asianet Movies.starhub">
         <title>Padakkalam</title>
     </programme>
     <programme start="20260523160000 +0000" stop="20260523163000 +0000" channel="Astro Warna HD.starhub">
