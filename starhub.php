@@ -2326,7 +2326,7 @@
     <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="Cinema One Global.starhub">
         <title>Biyudo Si Daddy, Biyuda Si Mommy</title>
     </programme>
-    <programme start="20260523143000 +0000" stop="20260523163000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260523145400 +0000" stop="20260523163000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>SF: Chelsea vs Leeds United AFC</title>
     </programme>
     <programme start="20260523163000 +0000" stop="20260523193000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -6412,7 +6412,10 @@
     <programme start="20260524150400 +0000" stop="20260524170900 +0000" channel="TV5MONDE HD.starhub">
         <title>Envoye Special</title>
     </programme>
-    <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260523123000 +0000" stop="20260523161200 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>bitpanda Hamburg Open (500) Final</title>
+    </programme>
+    <programme start="20260523161200 +0000" stop="20260523180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Internazionali BNL d’Italia (1000) Final</title>
     </programme>
     <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="Hub Sports 1  HD.starhub">
