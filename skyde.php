@@ -2548,83 +2548,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524211500 +0000" stop="20260524220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (SV Fohnsdorf)</title>
 </programme>
-<programme start="20260523221500 +0000" stop="20260523224500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (2)</title>
-</programme>
-<programme start="20260523224500 +0000" stop="20260523231500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (3)</title>
-</programme>
-<programme start="20260523231500 +0000" stop="20260524001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 34. Spieltag</title>
-</programme>
-<programme start="20260524001500 +0000" stop="20260524021500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
-</programme>
-<programme start="20260524021500 +0000" stop="20260524041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Rot-Weiss Essen - SpVgg Greuther Fürth, Relegation Hinspiel</title>
-</programme>
-<programme start="20260524041500 +0000" stop="20260524044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20260524044500 +0000" stop="20260524050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (34)</title>
-</programme>
-<programme start="20260524050000 +0000" stop="20260524070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
-</programme>
-<programme start="20260524070000 +0000" stop="20260524073000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (1)</title>
-</programme>
-<programme start="20260524073000 +0000" stop="20260524080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (2)</title>
-</programme>
-<programme start="20260524080000 +0000" stop="20260524083000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (3)</title>
-</programme>
-<programme start="20260524083000 +0000" stop="20260524090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20260524090000 +0000" stop="20260524110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>DFB-Nachwuchsliga: SC Paderborn 07 U19 - 1. FC Köln U19, Halbfinale</title>
-</programme>
-<programme start="20260524110000 +0000" stop="20260524114000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfB Stuttgart - Saison 25-26</title>
-</programme>
-<programme start="20260524114000 +0000" stop="20260524122000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Borussia Dortmund - Saison 25-26</title>
-</programme>
-<programme start="20260524122000 +0000" stop="20260524130000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: FC Schalke 04 - Saison 25-26</title>
-</programme>
-<programme start="20260524130000 +0000" stop="20260524150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>DFB-Nachwuchsliga: TSG Hoffenheim U19 - 1. FSV Mainz 05 U19, Halbfinale</title>
-</programme>
-<programme start="20260524150000 +0000" stop="20260524163500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
-</programme>
-<programme start="20260524163500 +0000" stop="20260524170500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Report - Bayern Unleashed - Records In Red</title>
-</programme>
-<programme start="20260524170500 +0000" stop="20260524180500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 34. Spieltag</title>
-</programme>
-<programme start="20260524180500 +0000" stop="20260524183500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (1)</title>
-</programme>
-<programme start="20260524183500 +0000" stop="20260524190500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (2)</title>
-</programme>
-<programme start="20260524190500 +0000" stop="20260524193500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (3)</title>
-</programme>
-<programme start="20260524193500 +0000" stop="20260524213500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Rot-Weiss Essen - SpVgg Greuther Fürth, Relegation Hinspiel</title>
-</programme>
-<programme start="20260524213500 +0000" stop="20260524233500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
-</programme>
-<programme start="20260523220000 +0000" stop="20260523230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260523220000 +0000" stop="20260523224500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 2. Rennen - GP Kanada</title>
+</programme>
+<programme start="20260523224500 +0000" stop="20260523230000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Top 20: Spektakuläre Abflüge</title>
 </programme>
 <programme start="20260523230000 +0000" stop="20260524003000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Kanada</title>
@@ -2767,14 +2695,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524050000 +0000" stop="20260524070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Montreal Canadiens @ Carolina Hurricanes, Playoffs, Eastern Conference Final, Spiel 2</title>
 </programme>
-<programme start="20260524070000 +0000" stop="20260524093000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260524070000 +0000" stop="20260524091500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
-<programme start="20260524093000 +0000" stop="20260524113000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260524091500 +0000" stop="20260524114500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: New York Knicks @ Cleveland Cavaliers, Eastern Conference Finals, Spiel 3</title>
-</programme>
-<programme start="20260524113000 +0000" stop="20260524114500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Best battles 2025</title>
 </programme>
 <programme start="20260524114500 +0000" stop="20260524124500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Conference Final Edition</title>
@@ -2977,8 +2902,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524193000 +0000" stop="20260524220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
-<programme start="20260523220000 +0000" stop="20260523230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260523220000 +0000" stop="20260523224500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1 Academy: 2. Rennen - GP Kanada</title>
+</programme>
+<programme start="20260523224500 +0000" stop="20260523230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, VGK@COL, Playoffs, Western Conference Final, Spiel 2</title>
 </programme>
 <programme start="20260523230000 +0000" stop="20260524020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Carolina Hurricanes, Playoffs, Eastern Conference Final, Spiel 2</title>
@@ -3124,7 +3052,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - Manchester United, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 7 HD.skyde">
@@ -3136,7 +3064,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: Manchester City - Aston Villa, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 9 HD.skyde">
