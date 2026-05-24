@@ -2623,11 +2623,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524213500 +0000" stop="20260524233500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
 </programme>
-<programme start="20260523220000 +0000" stop="20260523224500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260523220000 +0000" stop="20260523230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 2. Rennen - GP Kanada</title>
-</programme>
-<programme start="20260523224500 +0000" stop="20260523230000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Top 20: Spektakuläre Abflüge</title>
 </programme>
 <programme start="20260523230000 +0000" stop="20260524003000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Kanada</title>
@@ -2770,14 +2767,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524050000 +0000" stop="20260524070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Montreal Canadiens @ Carolina Hurricanes, Playoffs, Eastern Conference Final, Spiel 2</title>
 </programme>
-<programme start="20260524070000 +0000" stop="20260524093000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260524070000 +0000" stop="20260524091500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
-<programme start="20260524093000 +0000" stop="20260524113000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260524091500 +0000" stop="20260524114500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: New York Knicks @ Cleveland Cavaliers, Eastern Conference Finals, Spiel 3</title>
-</programme>
-<programme start="20260524113000 +0000" stop="20260524114500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Best battles 2025</title>
 </programme>
 <programme start="20260524114500 +0000" stop="20260524124500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Conference Final Edition</title>
@@ -3088,7 +3082,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524183000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Crystal Palace - FC Arsenal, 38. Spieltag</title>
 </programme>
 <programme start="20260524184000 +0000" stop="20260524190000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3097,7 +3091,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524190000 +0000" stop="20260524193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Pre-Show</title>
 </programme>
-<programme start="20260524193000 +0000" stop="20260524223500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260524193000 +0000" stop="20260524220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Dallas Wings @ New York Liberty</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3151,7 +3145,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524113000 +0000" stop="20260524115000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Es folgt: LIVE EFL</title>
 </programme>
-<programme start="20260524115000 +0000" stop="20260524160000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20260524115000 +0000" stop="20260524144500 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live EFL: Bolton Wanderers - Stockport County, Playoff-Finale in Wembley</title>
 </programme>
 <programme start="20260523223500 +0000" stop="20260523232000 +0000" channel="SYFY HD.skyde">

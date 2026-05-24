@@ -637,12 +637,6 @@
 <programme start="20260524083000 +0000" stop="20260524113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260524113000 +0000" stop="20260524140000 +0000" channel="ANTV.vision">
-<title>Camelia</title>
-</programme>
-<programme start="20260524140000 +0000" stop="20260524153000 +0000" channel="ANTV.vision">
-<title>Jurus Dewa Naga</title>
-</programme>
 <programme start="20260524153000 +0000" stop="20260524181500 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260524210000 +0000" stop="20260525000000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260525000000 +0000" stop="20260525030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260525030000 +0000" stop="20260525060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
