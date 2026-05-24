@@ -3100,7 +3100,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: Tottenham Hotspur - FC Everton, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3130,13 +3130,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: AFC Sunderland - FC Chelsea, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: Manchester City - Aston Villa, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 9 HD.skyde">
