@@ -2623,11 +2623,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524213500 +0000" stop="20260524233500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
 </programme>
-<programme start="20260523220000 +0000" stop="20260523224500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260523220000 +0000" stop="20260523230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: 2. Rennen - GP Kanada</title>
-</programme>
-<programme start="20260523224500 +0000" stop="20260523230000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Top 20: Spektakuläre Abflüge</title>
 </programme>
 <programme start="20260523230000 +0000" stop="20260524003000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Kanada</title>
@@ -2751,9 +2748,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260524213000 +0000" stop="20260524223000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Aramco Championship</title>
-</programme>
-<programme start="20260523224500 +0000" stop="20260523230000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, VGK@COL, Playoffs, Western Conference Final, Spiel 2</title>
 </programme>
 <programme start="20260523230000 +0000" stop="20260524020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Carolina Hurricanes, Playoffs, Eastern Conference Final, Spiel 2</title>
@@ -2950,8 +2944,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260523220000 +0000" stop="20260524003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: M. Navone (ARG) - L. Tien (USA), Gonet Geneva Open in Genf (SUI), Finale</title>
 </programme>
-<programme start="20260524003000 +0000" stop="20260524030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260524003000 +0000" stop="20260524023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: K. Krawietz (GER) / T. Puetz (GER) - S. Doumbia (FRA) / F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+</programme>
+<programme start="20260524023000 +0000" stop="20260524030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20260524030000 +0000" stop="20260524053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
@@ -2965,8 +2962,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524103000 +0000" stop="20260524130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
-<programme start="20260524130000 +0000" stop="20260524150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260524130000 +0000" stop="20260524143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Kovacevic (USA) - I. Buse (PER), Bitpanda Hamburg Open in Hamburg, Halbfinale 1</title>
+</programme>
+<programme start="20260524143000 +0000" stop="20260524150000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. De Minaur (AUS) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Halbfinale 2</title>
@@ -3019,7 +3019,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524214500 +0000" stop="20260524223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Kanada</title>
 </programme>
-<programme start="20260523223500 +0000" stop="20260524010500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260523230000 +0000" stop="20260524013500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
 <programme start="20260524010500 +0000" stop="20260524013500 +0000" channel="Sky Sport UHD.skyde">
@@ -3100,7 +3100,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: Tottenham Hotspur - FC Everton, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3124,13 +3124,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - Manchester United, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260524145000 +0000" stop="20260524173000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: AFC Sunderland - FC Chelsea, 38. Spieltag</title>
 </programme>
 <programme start="20260524143000 +0000" stop="20260524145000 +0000" channel="Sky Sport 8 HD.skyde">
@@ -3146,9 +3146,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live PL: FC Fulham - Newcastle United, 38. Spieltag</title>
 </programme>
 <programme start="20260524113000 +0000" stop="20260524115000 +0000" channel="Sky Sport 10 HD.skyde">
-    <title>PL: Es folgt</title>
+    <title>Es folgt: LIVE EFL</title>
 </programme>
-<programme start="20260524115000 +0000" stop="20260524140000 +0000" channel="Sky Sport 10 HD.skyde">
+<programme start="20260524115000 +0000" stop="20260524160000 +0000" channel="Sky Sport 10 HD.skyde">
     <title>Live EFL: Bolton Wanderers - Stockport County, Playoff-Finale in Wembley</title>
 </programme>
 <programme start="20260523223500 +0000" stop="20260523232000 +0000" channel="SYFY HD.skyde">
