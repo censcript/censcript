@@ -3249,9 +3249,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525091000 +0000" stop="20260525093000 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260524223500 +0000" stop="20260524225500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live NBA</title>
-</programme>
 <programme start="20260524225500 +0000" stop="20260525000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Pre Show</title>
 </programme>
