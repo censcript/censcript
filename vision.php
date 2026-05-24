@@ -628,9 +628,6 @@
 <programme start="20260524010000 +0000" stop="20260524023000 +0000" channel="ANTV.vision">
 <title>Cinta Dan Rahasia</title>
 </programme>
-<programme start="20260524023000 +0000" stop="20260524060000 +0000" channel="ANTV.vision">
-<title>Ishq</title>
-</programme>
 <programme start="20260524060000 +0000" stop="20260524073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260524180000 +0000" stop="20260524210000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260524210000 +0000" stop="20260525000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

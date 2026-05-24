@@ -7118,7 +7118,7 @@
         <title>Nazranaa Diaries S05</title>
     </programme>
     <programme start="20260524043000 +0000" stop="20260524050000 +0000" channel="COLORS.starhub">
-        <title>The Legend Of Hanuman S03</title>
+        <title>Seher Hone Ko Hai</title>
     </programme>
     <programme start="20260524050000 +0000" stop="20260524053000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
@@ -7145,7 +7145,7 @@
         <title>Nazranaa Diaries S05</title>
     </programme>
     <programme start="20260524103000 +0000" stop="20260524110000 +0000" channel="COLORS.starhub">
-        <title>The Legend Of Hanuman S03</title>
+        <title>Seher Hone Ko Hai</title>
     </programme>
     <programme start="20260524110000 +0000" stop="20260524113000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
@@ -7723,10 +7723,10 @@
     <programme start="20260523163000 +0000" stop="20260523193000 +0000" channel="Asianet Movies.starhub">
         <title>Bangalore Days</title>
     </programme>
-    <programme start="20260523193000 +0000" stop="20260523213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260523193000 +0000" stop="20260523214500 +0000" channel="Asianet Movies.starhub">
         <title>Varathan</title>
     </programme>
-    <programme start="20260523213000 +0000" stop="20260523233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260523214500 +0000" stop="20260523232000 +0000" channel="Asianet Movies.starhub">
         <title>Kilipoyi</title>
     </programme>
     <programme start="20260523232000 +0000" stop="20260524013000 +0000" channel="Asianet Movies.starhub">
