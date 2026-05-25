@@ -2799,28 +2799,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525174500 +0000" stop="20260525223000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260524223000 +0000" stop="20260524230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260524220000 +0000" stop="20260524224000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live F1: Analysen &amp; Interviews - GP Kanada</title>
+</programme>
+<programme start="20260524224000 +0000" stop="20260524231000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Kanada</title>
 </programme>
-<programme start="20260524230000 +0000" stop="20260524233000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260524231000 +0000" stop="20260524234000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Kanada</title>
 </programme>
-<programme start="20260524233000 +0000" stop="20260525023000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260524234000 +0000" stop="20260525024500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 110th Indianapolis 500</title>
 </programme>
-<programme start="20260525023000 +0000" stop="20260525033000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525024500 +0000" stop="20260525034500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Kanada</title>
 </programme>
-<programme start="20260525033000 +0000" stop="20260525040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525034500 +0000" stop="20260525041500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Best Team Radio Moments Of 2025</title>
 </programme>
-<programme start="20260525040000 +0000" stop="20260525053000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525041500 +0000" stop="20260525053500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 1. Freies Training - GP Kanada</title>
 </programme>
-<programme start="20260525053000 +0000" stop="20260525063000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525053500 +0000" stop="20260525063500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint Qualifying - GP Kanada</title>
 </programme>
-<programme start="20260525063000 +0000" stop="20260525073000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525063500 +0000" stop="20260525073000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP Kanada</title>
 </programme>
 <programme start="20260525073000 +0000" stop="20260525090000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2907,10 +2910,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525190000 +0000" stop="20260525220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Maekyung Open Golf Championship, 4. Tag in Seongnam-si (Südkorea)</title>
 </programme>
-<programme start="20260524224500 +0000" stop="20260524234500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Stanley Cup Conference Final Edition</title>
-</programme>
-<programme start="20260524234500 +0000" stop="20260525000000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260524234000 +0000" stop="20260525000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, MTL@CAR, Playoffs, Eastern Conference Final, Spiel 2</title>
 </programme>
 <programme start="20260525000000 +0000" stop="20260525030000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3021,10 +3021,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260524233000 +0000" stop="20260525000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: TOT - EVE, 38. Spieltag</title>
 </programme>
-<programme start="20260525000000 +0000" stop="20260525003000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260525000000 +0000" stop="20260525002500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: WHU - LEE, 38. Spieltag</title>
 </programme>
-<programme start="20260525003000 +0000" stop="20260525023000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260525002500 +0000" stop="20260525023000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Burnley - Wolverhampton Wanderers, 38. Spieltag</title>
 </programme>
 <programme start="20260525023000 +0000" stop="20260525030000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3222,13 +3222,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525214500 +0000" stop="20260525221500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: 90in30: Hull City - FC Middlesbrough, Playoffs Finale</title>
 </programme>
-<programme start="20260524223000 +0000" stop="20260524230000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260524220000 +0000" stop="20260524224500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Live F1: Analysen &amp; Interviews - GP Kanada</title>
+</programme>
+<programme start="20260524224500 +0000" stop="20260524231500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Kanada</title>
 </programme>
-<programme start="20260524230000 +0000" stop="20260524233000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260524231500 +0000" stop="20260524234500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Kanada</title>
 </programme>
-<programme start="20260524233000 +0000" stop="20260525020000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260524234500 +0000" stop="20260525020000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
 <programme start="20260525020000 +0000" stop="20260525040000 +0000" channel="Sky Sport UHD.skyde">
@@ -3260,294 +3263,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260525030000 +0000" stop="20260525080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
-</programme>
-<programme start="20260525090000 +0000" stop="20260525090500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525090500 +0000" stop="20260525091000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525091000 +0000" stop="20260525091500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525091500 +0000" stop="20260525092000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525092000 +0000" stop="20260525092500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525092500 +0000" stop="20260525093000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525093000 +0000" stop="20260525093500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525093500 +0000" stop="20260525094000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525094000 +0000" stop="20260525094500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525094500 +0000" stop="20260525095000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525095000 +0000" stop="20260525095500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525095500 +0000" stop="20260525100000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525100000 +0000" stop="20260525100500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525100500 +0000" stop="20260525101000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525101000 +0000" stop="20260525101500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525101500 +0000" stop="20260525102000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525102000 +0000" stop="20260525102500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525102500 +0000" stop="20260525103000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525103000 +0000" stop="20260525103500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525103500 +0000" stop="20260525104000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525104000 +0000" stop="20260525104500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525104500 +0000" stop="20260525105000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525105000 +0000" stop="20260525105500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525105500 +0000" stop="20260525110000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525110000 +0000" stop="20260525110500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525110500 +0000" stop="20260525111000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525111000 +0000" stop="20260525111500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525111500 +0000" stop="20260525112000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525112000 +0000" stop="20260525112500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525112500 +0000" stop="20260525113000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525113000 +0000" stop="20260525113500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525113500 +0000" stop="20260525114000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525114000 +0000" stop="20260525114500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525114500 +0000" stop="20260525115000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525115000 +0000" stop="20260525115500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525115500 +0000" stop="20260525120000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525120000 +0000" stop="20260525120500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525120500 +0000" stop="20260525121000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525121000 +0000" stop="20260525121500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525121500 +0000" stop="20260525122000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525122000 +0000" stop="20260525122500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525122500 +0000" stop="20260525123000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525123000 +0000" stop="20260525123500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525123500 +0000" stop="20260525124000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525124000 +0000" stop="20260525124500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525124500 +0000" stop="20260525125000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525125000 +0000" stop="20260525125500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525125500 +0000" stop="20260525130000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525130000 +0000" stop="20260525130500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525130500 +0000" stop="20260525131000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525131000 +0000" stop="20260525131500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525131500 +0000" stop="20260525132000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525132000 +0000" stop="20260525132500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525132500 +0000" stop="20260525133000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525133000 +0000" stop="20260525133500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525133500 +0000" stop="20260525134000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525134000 +0000" stop="20260525134500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525134500 +0000" stop="20260525135000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525135000 +0000" stop="20260525135500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525135500 +0000" stop="20260525140000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525140000 +0000" stop="20260525140500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525140500 +0000" stop="20260525141000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525141000 +0000" stop="20260525141500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525141500 +0000" stop="20260525142000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525142000 +0000" stop="20260525142500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525142500 +0000" stop="20260525143000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525143000 +0000" stop="20260525143500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525143500 +0000" stop="20260525144000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525144000 +0000" stop="20260525144500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525144500 +0000" stop="20260525145000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525145000 +0000" stop="20260525145500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525145500 +0000" stop="20260525150000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525150000 +0000" stop="20260525150500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525150500 +0000" stop="20260525151000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525151000 +0000" stop="20260525151500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525151500 +0000" stop="20260525152000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525152000 +0000" stop="20260525152500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525152500 +0000" stop="20260525153000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525153000 +0000" stop="20260525153500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525153500 +0000" stop="20260525154000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525154000 +0000" stop="20260525154500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525154500 +0000" stop="20260525155000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525155000 +0000" stop="20260525155500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525155500 +0000" stop="20260525160000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525160000 +0000" stop="20260525160500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525160500 +0000" stop="20260525161000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525161000 +0000" stop="20260525161500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525161500 +0000" stop="20260525162000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525162000 +0000" stop="20260525162500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525162500 +0000" stop="20260525163000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525163000 +0000" stop="20260525163500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525163500 +0000" stop="20260525164000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260525164000 +0000" stop="20260525164500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04</title>
-</programme>
-<programme start="20260525164500 +0000" stop="20260525165000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test Sport 04 with BO-DE</title>
-</programme>
-<programme start="20260525165000 +0000" stop="20260525165500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-AU</title>
-</programme>
-<programme start="20260525165500 +0000" stop="20260525170000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Test SPORT 04 with BO-ALLGEMEIN</title>
 </programme>
 <programme start="20260524222500 +0000" stop="20260525000000 +0000" channel="SYFY HD.skyde">
     <title>Stirb Langsam - Ein guter Tag zum Sterben</title>

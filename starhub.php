@@ -1543,7 +1543,7 @@
     <programme start="20260525140000 +0000" stop="20260525143000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260525143000 +0000" stop="20260525173000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260525143000 +0000" stop="20260525160000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Sema Thimiru</title>
     </programme>
     <programme start="20260524160000 +0000" stop="20260524170000 +0000" channel="TVBS Asia.starhub">
@@ -3832,8 +3832,11 @@
     <programme start="20260525010000 +0000" stop="20260525010500 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20260525010500 +0000" stop="20260525020500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260525010500 +0000" stop="20260525020400 +0000" channel="NHK World Premium HD.starhub">
         <title>BS Special &quot;Dull Gray Diamonds&quot; (R)</title>
+    </programme>
+    <programme start="20260525020400 +0000" stop="20260525020500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20260525020500 +0000" stop="20260525025000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama 10 &quot;Mojiko Tenderness Brothers&quot; Ep. 4 (R)</title>
@@ -3920,7 +3923,7 @@
         <title>Today&#039;s Close-up</title>
     </programme>
     <programme start="20260525105700 +0000" stop="20260525114300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot; Part 1</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot;</title>
     </programme>
     <programme start="20260525114300 +0000" stop="20260525114500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -8014,10 +8017,10 @@
     <programme start="20260525091500 +0000" stop="20260525103000 +0000" channel="SPOTV2.starhub">
         <title>Race 15</title>
     </programme>
-    <programme start="20260525103000 +0000" stop="20260525120000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260525103000 +0000" stop="20260525121800 +0000" channel="SPOTV2.starhub">
         <title>Race 16</title>
     </programme>
-    <programme start="20260525120000 +0000" stop="20260525130000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260525121800 +0000" stop="20260525130000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
     <programme start="20260525130000 +0000" stop="20260525153000 +0000" channel="SPOTV2.starhub">
@@ -8095,7 +8098,7 @@
     <programme start="20260525133000 +0000" stop="20260525140000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260525140000 +0000" stop="20260525163000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260525140000 +0000" stop="20260525160000 +0000" channel="Dragon TV.starhub">
         <title>Overtime no more</title>
     </programme>
     <programme start="20260524160000 +0000" stop="20260524163000 +0000" channel="Travelxp HD.starhub">

@@ -3303,15 +3303,12 @@
   <channel id="tvbjade.unifitv">
     <display-name>TVB Jade</display-name>
   </channel>
-  <programme start="20260524153500 +0000" stop="20260524160000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">TBC</desc>
+  <programme start="20260524153500 +0000" stop="20260524163500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">J Music 2026</title>
+    <desc lang="en">J Music is dedicated to creating a high-quality music platform, providing singers with opportunities to showcase their musical talents while allowing music fans to gain a deeper understanding of their musical stories. The program invites popular singers as guests, who personally select their favorite new and old works, perform them live, and share their favorite tracks. New faces in the music scene will also appear, showcasing their musical potential through interactive exchanges. Furthermore, each episode closely follows the latest developments on the Jade Solid Gold Chart, featuring music videos and interviews with various singers, songwriters, and producers, who discuss their work and the people and events within the music industry.</desc>
     <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260524160000 +0000" stop="20260524163500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Cheung Chau Bun Festival (Live)</title>
-    <desc lang="en">Every year during the Buddha's Birthday public holiday, TVB Jade broadcasts a highly anticipated live television special direct from the Pak Tai Temple Playground on Cheung Chau Island. The program brings the late-night climax of the week-long Tai Ping Ching Chiu (Festival of Great Peace) straight into the homes of millions of viewers across Hong Kong and overseas, providing an administrative, front-row look at one of the region's most spectacular cultural traditions.</desc>
-    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.107.</episode-num>
+    <episode-num system="onscreen">S1E108</episode-num>
   </programme>
   <programme start="20260524163500 +0000" stop="20260524173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Super Trio Returns</title>
@@ -3397,7 +3394,7 @@
   </programme>
   <programme start="20260525020500 +0000" stop="20260525023500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Don't You Know Life is a Journey? &amp; What's On Today</title>
-    <desc lang="en">The story revolves around Zhuo Nan, a seasoned but disillusioned corporate consultant who believes that life is a series of calculated risks and predictable outcomes. His worldview is challenged when he is forced to collaborate with Lin Xiao, an idealistic junior who lives by the motto that "the journey matters more than the destination."</desc>
+    <desc lang="en">On life's journey, everyone writes their own chapter. "Life's a Journey" takes a close look at real people, showcasing their choices and struggles between family, career, and ideals. Host Zhou Yiwei guides viewers to appreciate not just scenery, but diverse life stories. There's a Hong Kong conservationist who went to Sichuan to quietly protect giant pandas; a "Northeastern grandmother" who broke traditional taboos to become a "queen" of SM-themed sex toys; and in Seoul, a trainee who sacrificed his youth for stage performance opportunities. Each person's experience demonstrates the diverse possibilities of life, and the program, through its warm narrative and cinematic lens, prompts viewers to reflect on life.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -3460,7 +3457,7 @@
   </programme>
   <programme start="20260525073500 +0000" stop="20260525080500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Don't You Know Life is a Journey?</title>
-    <desc lang="en">The story revolves around Zhuo Nan, a seasoned but disillusioned corporate consultant who believes that life is a series of calculated risks and predictable outcomes. His worldview is challenged when he is forced to collaborate with Lin Xiao, an idealistic junior who lives by the motto that "the journey matters more than the destination."</desc>
+    <desc lang="en">On life's journey, everyone writes their own chapter. "Life's a Journey" takes a close look at real people, showcasing their choices and struggles between family, career, and ideals. Host Zhou Yiwei guides viewers to appreciate not just scenery, but diverse life stories. There's a Hong Kong conservationist who went to Sichuan to quietly protect giant pandas; a "Northeastern grandmother" who broke traditional taboos to become a "queen" of SM-themed sex toys; and in Seoul, a trainee who sacrificed his youth for stage performance opportunities. Each person's experience demonstrates the diverse possibilities of life, and the program, through its warm narrative and cinematic lens, prompts viewers to reflect on life.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -3528,7 +3525,7 @@
   </programme>
   <programme start="20260525143500 +0000" stop="20260525150500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Don't You Know Life is a Journey?</title>
-    <desc lang="en">The story revolves around Zhuo Nan, a seasoned but disillusioned corporate consultant who believes that life is a series of calculated risks and predictable outcomes. His worldview is challenged when he is forced to collaborate with Lin Xiao, an idealistic junior who lives by the motto that "the journey matters more than the destination."</desc>
+    <desc lang="en">On life's journey, everyone writes their own chapter. "Life's a Journey" takes a close look at real people, showcasing their choices and struggles between family, career, and ideals. Host Zhou Yiwei guides viewers to appreciate not just scenery, but diverse life stories. There's a Hong Kong conservationist who went to Sichuan to quietly protect giant pandas; a "Northeastern grandmother" who broke traditional taboos to become a "queen" of SM-themed sex toys; and in Seoul, a trainee who sacrificed his youth for stage performance opportunities. Each person's experience demonstrates the diverse possibilities of life, and the program, through its warm narrative and cinematic lens, prompts viewers to reflect on life.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -14695,11 +14692,11 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260524171500 +0000" stop="20260524173000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Entertainment</title>
+    <desc lang="en">Huge crowds navigate Shibuya's scramble crossing without colliding. How? Murakami Hisashi, studying how animals move in groups, found a clue. Can amazing collective behavior shed light on life itself?</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4010.</episode-num>
-    <episode-num system="onscreen">S1E4011</episode-num>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
   </programme>
   <programme start="20260524173000 +0000" stop="20260524173500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Core Kyoto Mini</title>
@@ -14709,8 +14706,8 @@
     <episode-num system="onscreen">S1E6024</episode-num>
   </programme>
   <programme start="20260524173500 +0000" stop="20260524190500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Demolition Kingdom</title>
+    <desc lang="en">With a Guinness World Record as the largest wooden architectural structure, the Grand Ring was built from enough wood for 1,000 houses. We watch as it is carefully taken apart to be reused elsewhere.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5000.</episode-num>
     <episode-num system="onscreen">S1E5001</episode-num>
@@ -14721,11 +14718,11 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260524191500 +0000" stop="20260524200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Showcase</title>
-    <desc lang="en">This programme covers a variety of genres, including pilot episodes of newly-developed programmes and special features.</desc>
+    <title lang="en">Railway Kingdom Japan: Shinkansen</title>
+    <desc lang="en">The shinkansen is world-renowned for exceptional on-time performance - we explore the skilled drivers and equipment that make it possible through history and into a future of self-driving trains.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3013.</episode-num>
-    <episode-num system="onscreen">S1E3014</episode-num>
+    <episode-num system="xmltv_ns">0.5000.</episode-num>
+    <episode-num system="onscreen">S1E5001</episode-num>
   </programme>
   <programme start="20260524200500 +0000" stop="20260524201500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14753,7 +14750,7 @@
   </programme>
   <programme start="20260524211500 +0000" stop="20260524214500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">J-Melo</title>
-    <desc lang="en">Japan's exciting music scene, with pop, rock, traditional, live performances, artist interviews, all the latest news, video releases and more!</desc>
+    <desc lang="en">Join May J. for great Japanese music! This time, DJ Night Tempo (the driving force behind a worldwide city pop boom) and up-and-coming indie rock band MEminor are in the studio to chat and perform.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2003.</episode-num>
     <episode-num system="onscreen">S1E2004</episode-num>
@@ -14785,11 +14782,11 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260524221500 +0000" stop="20260524223000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Entertainment</title>
+    <desc lang="en">Huge crowds navigate Shibuya's scramble crossing without colliding. How? Murakami Hisashi, studying how animals move in groups, found a clue. Can amazing collective behavior shed light on life itself?</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4010.</episode-num>
-    <episode-num system="onscreen">S1E4011</episode-num>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
   </programme>
   <programme start="20260524223000 +0000" stop="20260524223500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Core Kyoto Mini</title>
@@ -14807,7 +14804,7 @@
   </programme>
   <programme start="20260524225000 +0000" stop="20260524230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Zero Waste Life</title>
-    <desc lang="en">Meet people around Japan who strive for a life without waste under the traditional philosophy of 'mottainai', which values cherishing the things we have.</desc>
+    <desc lang="en">Substandard fabric from Himei Akira's dye works is now being made into a new composite material - with its woodgrain pattern, it's useful in everything from furniture to small accessories.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2092.</episode-num>
     <episode-num system="onscreen">S1E2093</episode-num>
@@ -14833,7 +14830,7 @@
   </programme>
   <programme start="20260524233500 +0000" stop="20260525000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from May 24, Day 15 of the Grand Sumo Tournament in Tokyo.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
@@ -14852,7 +14849,7 @@
   </programme>
   <programme start="20260525002000 +0000" stop="20260525003000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">Global warming has raised sea temperatures and amplified powerful typhoons worldwide - we report on their impacts and explore the mechanisms and causes of their intensification with experts.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -14866,7 +14863,7 @@
   </programme>
   <programme start="20260525003500 +0000" stop="20260525010000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">The team explores a factory in Saitama making globes for educational use and much more besides. See the skill it takes to turn flat maps into spherical globes - and what in the world is an "AR globe"?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
@@ -14892,7 +14889,7 @@
   </programme>
   <programme start="20260525012000 +0000" stop="20260525013500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Safe Journey in Japan: The number of visitors to Japan is rising, but many do not know what to do during an earthquake, tsunami or typhoon - what technologies could protect visitors from disasters?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
@@ -14913,14 +14910,14 @@
   </programme>
   <programme start="20260525015000 +0000" stop="20260525020000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Introducing an artist who adorns Japanese kimonos with classic Hungarian embroidery. What kind of beautiful works are created by this unusual fusion of two cultural traditions?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260525020000 +0000" stop="20260525020500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">In May, NHK World-Japan showcases Japanese technology, through regular programmes like Japan's Top Inventions and Japan Railway Journal, and a special newly translated to English: Project X.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -14944,7 +14941,7 @@
   </programme>
   <programme start="20260525033500 +0000" stop="20260525040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Biz Stream</title>
-    <desc lang="en">This programme focuses on the latest Japanese business trends, corporate strategies and technologies - we look behind the scenes and discuss their global impact from various perspectives.</desc>
+    <desc lang="en">Catering to the Child at Heart: This episode features services specifically tailored to the growing wants and needs of the "kidult" market.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2073.</episode-num>
     <episode-num system="onscreen">S1E2074</episode-num>
@@ -14956,7 +14953,7 @@
   </programme>
   <programme start="20260525043500 +0000" stop="20260525050500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from May 24, Day 15 of the Grand Sumo Tournament in Tokyo.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
@@ -14968,7 +14965,7 @@
   </programme>
   <programme start="20260525053500 +0000" stop="20260525060000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">The team explores a factory in Saitama making globes for educational use and much more besides. See the skill it takes to turn flat maps into spherical globes - and what in the world is an "AR globe"?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
@@ -15001,14 +14998,14 @@
   </programme>
   <programme start="20260525065000 +0000" stop="20260525070000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Introducing an artist who adorns Japanese kimonos with classic Hungarian embroidery. What kind of beautiful works are created by this unusual fusion of two cultural traditions?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260525070000 +0000" stop="20260525070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">In May, NHK World-Japan showcases Japanese technology, through regular programmes like Japan's Top Inventions and Japan Railway Journal, and a special newly translated to English: Project X.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15032,7 +15029,7 @@
   </programme>
   <programme start="20260525083500 +0000" stop="20260525090500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from May 24, Day 15 of the Grand Sumo Tournament in Tokyo.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
@@ -15044,7 +15041,7 @@
   </programme>
   <programme start="20260525093500 +0000" stop="20260525100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Journeys in Japan</title>
-    <desc lang="en">English-speaking visitors travel the length of Japan, exploring the local culture, meeting the people and offering travel hints rarely found in guidebooks.</desc>
+    <desc lang="en">Alfie Goodrich heads to dynamic Osaka to savour its food culture, the waterways that made the city a commercial hub, its architecture and the wonderfully outgoing people who make the city so fun.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2006.</episode-num>
     <episode-num system="onscreen">S1E2007</episode-num>
@@ -15056,7 +15053,7 @@
   </programme>
   <programme start="20260525103500 +0000" stop="20260525110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">The team explores a factory in Saitama making globes for educational use and much more besides. See the skill it takes to turn flat maps into spherical globes - and what in the world is an "AR globe"?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
@@ -15075,21 +15072,21 @@
   </programme>
   <programme start="20260525113300 +0000" stop="20260525114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Niizawa Iwao has won first place for four straight years in two globally influential sake awards. He talks about brewing sake that serves as a supporting player to make meals taste even better.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260525114800 +0000" stop="20260525120000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Introducing an artist who adorns Japanese kimonos with classic Hungarian embroidery. What kind of beautiful works are created by this unusual fusion of two cultural traditions?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260525120000 +0000" stop="20260525120500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">In May, NHK World-Japan showcases Japanese technology, through regular programmes like Japan's Top Inventions and Japan Railway Journal, and a special newly translated to English: Project X.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15101,7 +15098,7 @@
   </programme>
   <programme start="20260525123500 +0000" stop="20260525130500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dive in Tokyo</title>
-    <desc lang="en">Tokyo: a place where both tradition and the latest trends coexist. Join us on a journey to historic old towns and encounter many fun surprises along the way!</desc>
+    <desc lang="en">The island of Hachijojima is a tourist destination that once served as a penal colon - we learn how the elements and the arrival of exiles and castaways helped shape unique industries and culture.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2101.</episode-num>
     <episode-num system="onscreen">S1E2102</episode-num>
@@ -15125,7 +15122,7 @@
   </programme>
   <programme start="20260525143500 +0000" stop="20260525150500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">Japan is a world leader in health care; this programme explores cutting-edge Japanese medical technologies and tips for a healthy lifestyle.</desc>
+    <desc lang="en">Japanese researchers have developed a science-backed strength-training method that helps maintain fitness without strain. It's a simple form of eccentric training, just five counts over three seconds.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2049.</episode-num>
     <episode-num system="onscreen">S1E2050</episode-num>
@@ -15137,7 +15134,7 @@
   </programme>
   <programme start="20260525153500 +0000" stop="20260525160000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">The team explores a factory in Saitama making globes for educational use and much more besides. See the skill it takes to turn flat maps into spherical globes - and what in the world is an "AR globe"?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
@@ -15358,12 +15355,12 @@
     <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260525103000 +0000" stop="20260525120000 +0000" channel="spotv2.unifitv">
+  <programme start="20260525103000 +0000" stop="20260525121800 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Supercars: Tyrepower Tasmania Super 440 - Race 16</title>
     <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260525120000 +0000" stop="20260525130000 +0000" channel="spotv2.unifitv">
+  <programme start="20260525121800 +0000" stop="20260525130000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 6 Monster Energy Grand Prix of Catalunya - Highlights</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>

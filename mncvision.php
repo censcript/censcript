@@ -4819,13 +4819,7 @@
 <programme start="20260525140000 +0000" stop="20260525140300 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260525140300 +0000" stop="20260525150000 +0000" channel="iNews.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
-</programme>
-<programme start="20260525150000 +0000" stop="20260525153000 +0000" channel="iNews.mncvision">
-    <title>30 Menit Kabinet Merah Putih</title>
-</programme>
-<programme start="20260525153000 +0000" stop="20260525160000 +0000" channel="iNews.mncvision">
+<programme start="20260525140300 +0000" stop="20260525143300 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260524170000 +0000" stop="20260524173000 +0000" channel="iNews HD.mncvision">
@@ -4897,13 +4891,7 @@
 <programme start="20260525140000 +0000" stop="20260525140300 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260525140300 +0000" stop="20260525150000 +0000" channel="iNews HD.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
-</programme>
-<programme start="20260525150000 +0000" stop="20260525153000 +0000" channel="iNews HD.mncvision">
-    <title>30 Menit Kabinet Merah Putih</title>
-</programme>
-<programme start="20260525153000 +0000" stop="20260525160000 +0000" channel="iNews HD.mncvision">
+<programme start="20260525140300 +0000" stop="20260525143300 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260524220000 +0000" stop="20260524223000 +0000" channel="JAKTV.mncvision">
@@ -6202,8 +6190,11 @@
 <programme start="20260525130000 +0000" stop="20260525140000 +0000" channel="Music TV.mncvision">
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
-<programme start="20260525140000 +0000" stop="20260525150000 +0000" channel="Music TV.mncvision">
-    <title>Dahsyat</title>
+<programme start="20260525140000 +0000" stop="20260525143000 +0000" channel="Music TV.mncvision">
+    <title>Life Music Special</title>
+</programme>
+<programme start="20260525143000 +0000" stop="20260525150000 +0000" channel="Music TV.mncvision">
+    <title>Di Balik Lagu</title>
 </programme>
 <programme start="20260525150000 +0000" stop="20260525163000 +0000" channel="Music TV.mncvision">
     <title>The Next Didi Kempot</title>
@@ -6259,8 +6250,11 @@
 <programme start="20260525130000 +0000" stop="20260525140000 +0000" channel="Music TV HD.mncvision">
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
-<programme start="20260525140000 +0000" stop="20260525150000 +0000" channel="Music TV HD.mncvision">
-    <title>Dahsyat</title>
+<programme start="20260525140000 +0000" stop="20260525143000 +0000" channel="Music TV HD.mncvision">
+    <title>Life Music Special</title>
+</programme>
+<programme start="20260525143000 +0000" stop="20260525150000 +0000" channel="Music TV HD.mncvision">
+    <title>Di Balik Lagu</title>
 </programme>
 <programme start="20260525150000 +0000" stop="20260525163000 +0000" channel="Music TV HD.mncvision">
     <title>The Next Didi Kempot</title>
@@ -8449,10 +8443,10 @@
 <programme start="20260525091500 +0000" stop="20260525103000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 Tyrepower Tasmania Super</title>
 </programme>
-<programme start="20260525103000 +0000" stop="20260525120000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260525103000 +0000" stop="20260525121800 +0000" channel="SPOTV 2.mncvision">
     <title>2026 Tyrepower Tasmania Super</title>
 </programme>
-<programme start="20260525120000 +0000" stop="20260525130000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260525121800 +0000" stop="20260525130000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 MotoGP Of Catalunya</title>
 </programme>
 <programme start="20260525130000 +0000" stop="20260525153000 +0000" channel="SPOTV 2.mncvision">
@@ -8488,10 +8482,10 @@
 <programme start="20260525091500 +0000" stop="20260525103000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 Tyrepower Tasmania Super</title>
 </programme>
-<programme start="20260525103000 +0000" stop="20260525120000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260525103000 +0000" stop="20260525121800 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 Tyrepower Tasmania Super</title>
 </programme>
-<programme start="20260525120000 +0000" stop="20260525130000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260525121800 +0000" stop="20260525130000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 MotoGP Of Catalunya</title>
 </programme>
 <programme start="20260525130000 +0000" stop="20260525153000 +0000" channel="SPOTV 2 HD.mncvision">
