@@ -3818,7 +3818,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260525191500 +0000" stop="20260525200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot; Part 1 (R)</title>
     </programme>
     <programme start="20260525200000 +0000" stop="20260525201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
