@@ -658,9 +658,6 @@
 <programme start="20260525103000 +0000" stop="20260525120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260525183000 +0000" stop="20260525193000 +0000" channel="ANTV.vision">
-<title>Young &amp; Dangerous: The Prequel</title>
-</programme>
 <programme start="20260525193000 +0000" stop="20260525220000 +0000" channel="ANTV.vision">
 <title>Swades</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260525090000 +0000" stop="20260525110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260525110000 +0000" stop="20260525130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

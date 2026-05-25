@@ -3857,7 +3857,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260526010500 +0000" stop="20260526015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot; Part 1 (R)</title>
     </programme>
     <programme start="20260526015000 +0000" stop="20260526021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -3971,7 +3971,7 @@
         <title>Drama 10 &quot;Mojiko Tenderness Brothers&quot; Ep. 5</title>
     </programme>
     <programme start="20260526134500 +0000" stop="20260526140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Hoshi Shinichi&#039;s Short Story: The Department of Sustainable</title>
+        <title>Night Drama Serial &quot;Hoshi Shinichi&#039;s Short Story: The Department of Sustainable Living&quot; Encore</title>
     </programme>
     <programme start="20260526140000 +0000" stop="20260526143000 +0000" channel="NHK World Premium HD.starhub">
         <title>The Winning Meals of Great Historical Figures &quot;Okubo Toshimichi&quot;</title>

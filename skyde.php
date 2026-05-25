@@ -2799,31 +2799,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525174500 +0000" stop="20260525223000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260524220000 +0000" stop="20260524224500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260524220000 +0000" stop="20260524224000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Kanada</title>
 </programme>
-<programme start="20260524224500 +0000" stop="20260524231500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260524224000 +0000" stop="20260524231000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Kanada</title>
 </programme>
-<programme start="20260524231500 +0000" stop="20260524234500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260524231000 +0000" stop="20260524234000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Kanada</title>
 </programme>
-<programme start="20260524234500 +0000" stop="20260525023000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260524234000 +0000" stop="20260525024500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 110th Indianapolis 500</title>
 </programme>
-<programme start="20260525023000 +0000" stop="20260525033000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525024500 +0000" stop="20260525034500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Kanada</title>
 </programme>
-<programme start="20260525033000 +0000" stop="20260525040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525034500 +0000" stop="20260525041500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Best Team Radio Moments Of 2025</title>
 </programme>
-<programme start="20260525040000 +0000" stop="20260525053000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525041500 +0000" stop="20260525053500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 1. Freies Training - GP Kanada</title>
 </programme>
-<programme start="20260525053000 +0000" stop="20260525063000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525053500 +0000" stop="20260525063500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint Qualifying - GP Kanada</title>
 </programme>
-<programme start="20260525063000 +0000" stop="20260525073000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260525063500 +0000" stop="20260525073000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP Kanada</title>
 </programme>
 <programme start="20260525073000 +0000" stop="20260525090000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2909,57 +2909,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260525190000 +0000" stop="20260525220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Maekyung Open Golf Championship, 4. Tag in Seongnam-si (Südkorea)</title>
-</programme>
-<programme start="20260524234000 +0000" stop="20260525000000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, MTL@CAR, Playoffs, Eastern Conference Final, Spiel 2</title>
-</programme>
-<programme start="20260525000000 +0000" stop="20260525030000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NHL: Colorado Avalanche @ Vegas Golden Knights, Playoffs, Western Conference Final, Spiel 3</title>
-</programme>
-<programme start="20260525030000 +0000" stop="20260525033000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: On Fire</title>
-</programme>
-<programme start="20260525033000 +0000" stop="20260525040000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20260525040000 +0000" stop="20260525050000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Sprint - GP Katalonien</title>
-</programme>
-<programme start="20260525050000 +0000" stop="20260525070000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Colorado Avalanche @ Vegas Golden Knights, Playoffs, Western Conference Final, Spiel 3</title>
-</programme>
-<programme start="20260525070000 +0000" stop="20260525093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 4</title>
-</programme>
-<programme start="20260525093000 +0000" stop="20260525094500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, COL@VGK, Playoffs, Western Conference Final, Spiel 3</title>
-</programme>
-<programme start="20260525094500 +0000" stop="20260525100000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Highlights XXL: FC Bayern München - VfB Stuttgart, Finale 2026</title>
-</programme>
-<programme start="20260525100000 +0000" stop="20260525120000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Colorado Avalanche @ Vegas Golden Knights, Playoffs, Western Conference Final, Spiel 3</title>
-</programme>
-<programme start="20260525120000 +0000" stop="20260525130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Stanley Cup Conference Final Edition</title>
-</programme>
-<programme start="20260525130000 +0000" stop="20260525134500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>World Surf League: Highlights 2026 Margaret River Pro</title>
-</programme>
-<programme start="20260525134500 +0000" stop="20260525154500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>WNBA: Dallas Wings @ New York Liberty</title>
-</programme>
-<programme start="20260525154500 +0000" stop="20260525164500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Rennen - GP Katalonien</title>
-</programme>
-<programme start="20260525164500 +0000" stop="20260525191500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
-</programme>
-<programme start="20260525191500 +0000" stop="20260525200000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>World Surf League: Highlights 2026 Margaret River Pro</title>
-</programme>
-<programme start="20260525200000 +0000" stop="20260525223000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 4</title>
 </programme>
 <programme start="20260524220000 +0000" stop="20260525040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3087,16 +3036,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525132000 +0000" stop="20260525135000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: LIV - BRE, 38. Spieltag</title>
 </programme>
-<programme start="20260525135000 +0000" stop="20260525160000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260525135000 +0000" stop="20260525163000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Live EFL: Notts County - Salford City, Playoff-Finale in Wembley</title>
 </programme>
-<programme start="20260525160000 +0000" stop="20260525161500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260525163000 +0000" stop="20260525164500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Under The Skin: Arsenal - The Champions Path</title>
 </programme>
-<programme start="20260525161500 +0000" stop="20260525163000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260525164500 +0000" stop="20260525170000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Under The Skin: Arsenal - The Champions Path</title>
 </programme>
-<programme start="20260525163000 +0000" stop="20260525173000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260525170000 +0000" stop="20260525173000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review, 38. Spieltag</title>
 </programme>
 <programme start="20260525173000 +0000" stop="20260525193000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3162,16 +3111,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525213000 +0000" stop="20260525223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260524220000 +0000" stop="20260524224500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260524220000 +0000" stop="20260524224000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Kanada</title>
 </programme>
-<programme start="20260524224500 +0000" stop="20260524231500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260524224000 +0000" stop="20260524231000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Kanada</title>
 </programme>
-<programme start="20260524231500 +0000" stop="20260524234500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260524231000 +0000" stop="20260524234000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Kanada</title>
 </programme>
-<programme start="20260524234500 +0000" stop="20260525000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260524234000 +0000" stop="20260525000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Pre Show</title>
 </programme>
 <programme start="20260525000000 +0000" stop="20260525030000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3254,9 +3203,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260525091000 +0000" stop="20260525093000 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
-</programme>
-<programme start="20260524223500 +0000" stop="20260524225500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live NBA</title>
 </programme>
 <programme start="20260524225500 +0000" stop="20260525000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Pre Show</title>
