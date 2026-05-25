@@ -493,22 +493,22 @@
   <programme start="20260527214500 +0000" stop="20260527231500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hádzaná - Niké handball extraliga - Niké Handball Extraliga 2025/26 (playoff): finále 2. zápas</title>
   </programme>
-  <programme start="20260526210500 +0000" stop="20260526222500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260526210000 +0000" stop="20260526222000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Odznak Vysočina III (1)</title>
   </programme>
-  <programme start="20260526222500 +0000" stop="20260526232000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260526222000 +0000" stop="20260526231000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista III (21)</title>
   </programme>
-  <programme start="20260526232000 +0000" stop="20260527000500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260526231000 +0000" stop="20260526235500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista III (22)</title>
   </programme>
-  <programme start="20260527000500 +0000" stop="20260527012000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260526235500 +0000" stop="20260527010000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260527012000 +0000" stop="20260527020000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260527010000 +0000" stop="20260527014500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady (2)</title>
   </programme>
-  <programme start="20260527020000 +0000" stop="20260527030000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260527014500 +0000" stop="20260527030000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (13)</title>
   </programme>
   <programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="Markíza.webtv.sk">
@@ -655,25 +655,22 @@
   <programme start="20260527211000 +0000" stop="20260527223500 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Tiene v hmle II (9)</title>
   </programme>
-  <programme start="20260526205500 +0000" stop="20260526220500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Policie Modrava I (6)</title>
-  </programme>
-  <programme start="20260526220500 +0000" stop="20260526232500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260526220000 +0000" stop="20260526232000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Odznak Vysočina III (1)</title>
   </programme>
-  <programme start="20260526232500 +0000" stop="20260527002000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260526232000 +0000" stop="20260527001000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Mentalista III (21)</title>
   </programme>
-  <programme start="20260527002000 +0000" stop="20260527010500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260527001000 +0000" stop="20260527005500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Mentalista III (22)</title>
   </programme>
-  <programme start="20260527010500 +0000" stop="20260527022000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260527005500 +0000" stop="20260527020000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260527022000 +0000" stop="20260527030000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260527020000 +0000" stop="20260527024500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Susedské prípady (2)</title>
   </programme>
-  <programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260527024500 +0000" stop="20260527040000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Rodinné prípady (13)</title>
   </programme>
   <programme start="20260527040000 +0000" stop="20260527050000 +0000" channel="Markíza +1.webtv.sk">
@@ -826,55 +823,58 @@
   <programme start="20260526232000 +0000" stop="20260526234500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Anderov rebrinák (14)</title>
   </programme>
-  <programme start="20260526234500 +0000" stop="20260527022000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260526234500 +0000" stop="20260527022500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Sedem s r.o. (28)</title>
   </programme>
-  <programme start="20260527022000 +0000" stop="20260527031000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527022500 +0000" stop="20260527031000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Dereš (9)</title>
   </programme>
   <programme start="20260527031000 +0000" stop="20260527040000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (9)</title>
   </programme>
-  <programme start="20260527040000 +0000" stop="20260527044500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527040000 +0000" stop="20260527045000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (10)</title>
   </programme>
-  <programme start="20260527044500 +0000" stop="20260527051000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527045000 +0000" stop="20260527051000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Alf I (12)</title>
+  </programme>
+  <programme start="20260527051000 +0000" stop="20260527053500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H IV (1)</title>
   </programme>
-  <programme start="20260527051000 +0000" stop="20260527055500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527053500 +0000" stop="20260527062000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra II (11)</title>
   </programme>
-  <programme start="20260527055500 +0000" stop="20260527070000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527062000 +0000" stop="20260527072500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra II (12)</title>
   </programme>
-  <programme start="20260527070000 +0000" stop="20260527074500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527072500 +0000" stop="20260527081000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger IV (2)</title>
   </programme>
-  <programme start="20260527074500 +0000" stop="20260527084500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527081000 +0000" stop="20260527091000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger IV (3)</title>
   </programme>
-  <programme start="20260527084500 +0000" stop="20260527104500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527091000 +0000" stop="20260527111500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Tootsie</title>
   </programme>
-  <programme start="20260527104500 +0000" stop="20260527113000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527111500 +0000" stop="20260527115500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána IV (9)</title>
   </programme>
-  <programme start="20260527113000 +0000" stop="20260527122000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527115500 +0000" stop="20260527124500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána IV (10)</title>
   </programme>
-  <programme start="20260527122000 +0000" stop="20260527132000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527124500 +0000" stop="20260527134000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra II (13)</title>
   </programme>
-  <programme start="20260527132000 +0000" stop="20260527142500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527134000 +0000" stop="20260527143500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra II (14)</title>
   </programme>
-  <programme start="20260527142500 +0000" stop="20260527152500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527143500 +0000" stop="20260527153000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 IX (11)</title>
   </programme>
-  <programme start="20260527152500 +0000" stop="20260527162500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527153000 +0000" stop="20260527163000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 IX (12)</title>
   </programme>
-  <programme start="20260527162500 +0000" stop="20260527172500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527163000 +0000" stop="20260527172500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger IV (4)</title>
   </programme>
   <programme start="20260527172500 +0000" stop="20260527182500 +0000" channel="Markíza Klasik.webtv.sk">
@@ -883,10 +883,10 @@
   <programme start="20260527182500 +0000" stop="20260527190000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H IV (2)</title>
   </programme>
-  <programme start="20260527190000 +0000" stop="20260527211000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527190000 +0000" stop="20260527210500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Eso es</title>
   </programme>
-  <programme start="20260527211000 +0000" stop="20260527214000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260527210500 +0000" stop="20260527214000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H IV (2)</title>
   </programme>
   <programme start="20260527214000 +0000" stop="20260527223000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -5189,7 +5189,7 @@
     <title lang="id">Jezdectví: Grand Slam v Cáchách</title>
   </programme>
   <programme start="20260527090000 +0000" stop="20260527100000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Cyklistika: Dreaming in Oink</title>
+    <title lang="id">Cyklistika: Giro d’Italia</title>
   </programme>
   <programme start="20260527100000 +0000" stop="20260527154500 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Cyklistika: Giro d’Italia</title>
