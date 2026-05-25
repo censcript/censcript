@@ -3162,13 +3162,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525213000 +0000" stop="20260525223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260524223000 +0000" stop="20260524230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260524220000 +0000" stop="20260524224000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Analysen &amp; Interviews - GP Kanada</title>
+</programme>
+<programme start="20260524224000 +0000" stop="20260524231000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Kanada</title>
 </programme>
-<programme start="20260524230000 +0000" stop="20260524233000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260524231000 +0000" stop="20260524234000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Kanada</title>
 </programme>
-<programme start="20260524233000 +0000" stop="20260525000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260524234000 +0000" stop="20260525000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Pre Show</title>
 </programme>
 <programme start="20260525000000 +0000" stop="20260525030000 +0000" channel="Sky Sport Top Event HD.skyde">
