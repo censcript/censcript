@@ -2464,19 +2464,10 @@
     <programme start="20260525141500 +0000" stop="20260525161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
     </programme>
-    <programme start="20260524145000 +0000" stop="20260524170000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260524145000 +0000" stop="20260524185600 +0000" channel="Hub Premier 2 HD.starhub">
         <title>Premier League 2025/26</title>
     </programme>
-    <programme start="20260524170000 +0000" stop="20260524173000 +0000" channel="Hub Premier 2 HD.starhub">
-        <title>PL Rewind 2025/26</title>
-    </programme>
-    <programme start="20260524173000 +0000" stop="20260524180000 +0000" channel="Hub Premier 2 HD.starhub">
-        <title>PL Stories 2025/26</title>
-    </programme>
-    <programme start="20260524180000 +0000" stop="20260524183000 +0000" channel="Hub Premier 2 HD.starhub">
-        <title>The Big Interview 2025/26</title>
-    </programme>
-    <programme start="20260524183000 +0000" stop="20260524190000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260524185600 +0000" stop="20260524190000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>PL Rewind 2025/26</title>
     </programme>
     <programme start="20260524190000 +0000" stop="20260524210000 +0000" channel="Hub Premier 2 HD.starhub">
