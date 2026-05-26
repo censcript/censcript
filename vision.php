@@ -628,9 +628,6 @@
 <programme start="20260526163000 +0000" stop="20260526183000 +0000" channel="ANTV.vision">
 <title>Darah Perjaka</title>
 </programme>
-<programme start="20260526183000 +0000" stop="20260526193000 +0000" channel="ANTV.vision">
-<title>Dragon Chronicles: The Meidens</title>
-</programme>
 <programme start="20260526193000 +0000" stop="20260526220000 +0000" channel="ANTV.vision">
 <title>Aladin</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260526210000 +0000" stop="20260527000000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260527000000 +0000" stop="20260527030000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
