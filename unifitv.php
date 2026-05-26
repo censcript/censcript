@@ -3327,7 +3327,7 @@
   <programme start="20260525143500 +0000" stop="20260525161500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Handsome Guys</title>
     <desc lang="en">The cast travels across South Korea, discovering unique culture, nature, magical places, and fascinating people. Each episode features different guests, joining in the joyful journey.</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.21.</episode-num>
     <episode-num system="onscreen">S1E22</episode-num>
   </programme>
@@ -3341,7 +3341,7 @@
   <programme start="20260525175500 +0000" stop="20260525204500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Stage Fighter</title>
     <desc lang="en">Stage Fighter is a survival program for male dancers to compete in ballet, modern dance and Korean traditional dance genres. They will present spectacular performances with unique style.</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Food</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
@@ -3355,14 +3355,14 @@
   <programme start="20260525212500 +0000" stop="20260525220500 +0000" channel="tvnhd.unifitv">
     <title lang="en">One Night Food Trip- International Edition</title>
     <desc lang="en">Stay tuned to this spin-off of “One Night Food Trip” toured by Korean and local celebrities and find out the delicacies you can't miss in different Asian countries!</desc>
-    <category lang="en">Food</category>
+    <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260525220500 +0000" stop="20260525232500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Crazy Tour</title>
     <desc lang="en">4 mad men, starving for dopamine and thrills, are setting off in search of the 'craziest' challenges hidden around the world.</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
@@ -3383,28 +3383,28 @@
   <programme start="20260526012500 +0000" stop="20260526030500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Six Singles Under One Roof</title>
     <desc lang="en">Six single celebrities in their 40s choose co-living in Gugi-dong as “Life Mates,” sharing laughter, challenges, and fresh memories while redefining modern family through friendship.</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Food</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260526030500 +0000" stop="20260526042000 +0000" channel="tvnhd.unifitv">
     <title lang="en">Our Universe</title>
     <desc lang="en">Following the accidental death of their older siblings, two in-laws who share a mutual dislike become the guardians of their 20-month-old nephew, Woo-joo.</desc>
-    <category lang="en">Drama</category>
+    <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260526042000 +0000" stop="20260526053500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Our Universe</title>
     <desc lang="en">Following the accidental death of their older siblings, two in-laws who share a mutual dislike become the guardians of their 20-month-old nephew, Woo-joo.</desc>
-    <category lang="en">Drama</category>
+    <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260526053500 +0000" stop="20260526071500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Rented in Finland</title>
     <desc lang="en">Lee Je-hoon, Lee Dong-hwi, Cha Eun-woo, and Kwak Dong-yeon will leave their urban lives behind to experience the serene and picturesque rural life in Finland.</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
@@ -3418,7 +3418,7 @@
   <programme start="20260526100500 +0000" stop="20260526102500 +0000" channel="tvnhd.unifitv">
     <title lang="en">You Can Cook With Sam Kim</title>
     <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <category lang="en">Food</category>
+    <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.16.</episode-num>
     <episode-num system="onscreen">S1E17</episode-num>
   </programme>
@@ -3446,7 +3446,7 @@
   <programme start="20260526143500 +0000" stop="20260526161500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Six Singles Under One Roof</title>
     <desc lang="en">Six single celebrities in their 40s choose co-living in Gugi-dong as “Life Mates,” sharing laughter, challenges, and fresh memories while redefining modern family through friendship.</desc>
-    <category lang="en">Variety</category>
+    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>

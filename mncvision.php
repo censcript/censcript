@@ -164,7 +164,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260526083000 +0000" stop="20260526090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness: Imade</title>
+    <title>Witness: Not In My Name</title>
 </programme>
 <programme start="20260526090000 +0000" stop="20260526093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -8411,7 +8411,7 @@
     <title>25/26 Scottish Premiership</title>
 </programme>
 <programme start="20260526101500 +0000" stop="20260526110500 +0000" channel="SPOTV.mncvision">
-    <title>2026 Hyundai Archery World Cup</title>
+    <title>Hyundai Archery World Cup HL</title>
 </programme>
 <programme start="20260526110500 +0000" stop="20260526113500 +0000" channel="SPOTV.mncvision">
     <title>Champions Of The Water 2026</title>
@@ -8525,7 +8525,7 @@
     <title>25/26 Scottish Premiership</title>
 </programme>
 <programme start="20260526101500 +0000" stop="20260526110500 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 Hyundai Archery World Cup</title>
+    <title>Hyundai Archery World Cup HL</title>
 </programme>
 <programme start="20260526110500 +0000" stop="20260526113500 +0000" channel="SPOTV HD.mncvision">
     <title>Champions Of The Water 2026</title>

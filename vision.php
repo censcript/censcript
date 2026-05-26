@@ -235,25 +235,19 @@
 <programme start="20260526093000 +0000" stop="20260526120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20260526120000 +0000" stop="20260526140300 +0000" channel="iNews.vision">
+<programme start="20260526120000 +0000" stop="20260526140000 +0000" channel="iNews.vision">
 <title>Rakyat Bersuara (iNews)</title>
 </programme>
-<programme start="20260526140300 +0000" stop="20260526141500 +0000" channel="iNews.vision">
+<programme start="20260526140000 +0000" stop="20260526140300 +0000" channel="iNews.vision">
 <title>iNews Terkini</title>
 </programme>
-<programme start="20260526141500 +0000" stop="20260526170000 +0000" channel="iNews.vision">
+<programme start="20260526140300 +0000" stop="20260526170000 +0000" channel="iNews.vision">
 <title>Breaking News: Puncak Ibadah Haji 2026 &amp; Konflik Timur Tengah</title>
 </programme>
 <programme start="20260526170000 +0000" stop="20260526173000 +0000" channel="iNews.vision">
 <title>iNews Sport</title>
 </programme>
-<programme start="20260526173000 +0000" stop="20260526183000 +0000" channel="iNews.vision">
-<title>Breaking News</title>
-</programme>
-<programme start="20260526183000 +0000" stop="20260526190000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260526190000 +0000" stop="20260526210000 +0000" channel="iNews.vision">
+<programme start="20260526173000 +0000" stop="20260526210000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
 <programme start="20260526210000 +0000" stop="20260526211500 +0000" channel="iNews.vision">
@@ -618,9 +612,6 @@
 </programme>
 <programme start="20260526010000 +0000" stop="20260526023000 +0000" channel="ANTV.vision">
 <title>Cinta Dan Rahasia</title>
-</programme>
-<programme start="20260526023000 +0000" stop="20260526060000 +0000" channel="ANTV.vision">
-<title>Chennai Express</title>
 </programme>
 <programme start="20260526060000 +0000" stop="20260526073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1487,14 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260526060000 +0000" stop="20260526090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260526090000 +0000" stop="20260526120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260526120000 +0000" stop="20260526150000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260526150000 +0000" stop="20260526180000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

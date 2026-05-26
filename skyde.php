@@ -2816,16 +2816,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260526165500 +0000" stop="20260526170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Test Austria 04 with BO-ALLGEMEIN</title>
 </programme>
-<programme start="20260525223000 +0000" stop="20260526003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260525221500 +0000" stop="20260525231500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Transfer Update: Die Show XXL</title>
+</programme>
+<programme start="20260525231500 +0000" stop="20260526011500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260526003000 +0000" stop="20260526023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260526011500 +0000" stop="20260526030500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
 </programme>
-<programme start="20260526023000 +0000" stop="20260526030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Road to the Americas (1)</title>
-</programme>
-<programme start="20260526030000 +0000" stop="20260526033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260526030500 +0000" stop="20260526033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Road to the Americas (2)</title>
 </programme>
 <programme start="20260526033000 +0000" stop="20260526040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2864,40 +2864,37 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260526213000 +0000" stop="20260526233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260525221500 +0000" stop="20260526002000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
-</programme>
-<programme start="20260526002000 +0000" stop="20260526023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260525233000 +0000" stop="20260526013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260526023000 +0000" stop="20260526050000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526013000 +0000" stop="20260526033000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
 </programme>
 <programme start="20260526033000 +0000" stop="20260526034500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260526050000 +0000" stop="20260526071000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526034500 +0000" stop="20260526054500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
 <programme start="20260526053000 +0000" stop="20260526054500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260526071000 +0000" stop="20260526092000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526054500 +0000" stop="20260526074500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
 </programme>
-<programme start="20260526092000 +0000" stop="20260526112500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526074500 +0000" stop="20260526094500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260526112500 +0000" stop="20260526133500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526094500 +0000" stop="20260526114500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
 </programme>
 <programme start="20260526114500 +0000" stop="20260526134500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260526133500 +0000" stop="20260526154000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526134500 +0000" stop="20260526154500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: FC Schalke 04 - Eintracht Braunschweig, 34. Spieltag</title>
 </programme>
-<programme start="20260526154000 +0000" stop="20260526174500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526154500 +0000" stop="20260526174500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
 <programme start="20260526174500 +0000" stop="20260526213000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -2909,7 +2906,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260526172500 +0000" stop="20260526174500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260526174500 +0000" stop="20260526213000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260526174500 +0000" stop="20260526223000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - Rot-Weiss Essen, Relegation Rückspiel</title>
 </programme>
 <programme start="20260525230000 +0000" stop="20260526000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3026,23 +3023,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260525230000 +0000" stop="20260526000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Conference Final Edition</title>
 </programme>
-<programme start="20260526000000 +0000" stop="20260526030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260526000000 +0000" stop="20260526033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Montreal Canadiens, Playoffs, Eastern Conference Final, Spiel 3</title>
 </programme>
-<programme start="20260526030000 +0000" stop="20260526040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260526033000 +0000" stop="20260526043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
 </programme>
-<programme start="20260526040000 +0000" stop="20260526050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260526043000 +0000" stop="20260526053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Katalonien</title>
 </programme>
-<programme start="20260526050000 +0000" stop="20260526070000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260526053000 +0000" stop="20260526073000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Carolina Hurricanes @ Montreal Canadiens, Playoffs, Eastern Conference Final, Spiel 3</title>
 </programme>
-<programme start="20260526070000 +0000" stop="20260526090000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260526073000 +0000" stop="20260526093000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WNBA: Portland Fire @ New York Liberty</title>
-</programme>
-<programme start="20260526090000 +0000" stop="20260526093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 26. Spieltag komplett - letzter Spieltag</title>
 </programme>
 <programme start="20260526093000 +0000" stop="20260526094500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, CAR@MTL, Playoffs, Eastern Conference Final, Spiel 3</title>
@@ -3215,6 +3209,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260526210000 +0000" stop="20260526213000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: 90in30: Hull City - FC Middlesbrough, Playoffs Finale</title>
 </programme>
+<programme start="20260526213000 +0000" stop="20260526233000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Nottingham Forest - AFC Bournemouth, 38. Spieltag</title>
+</programme>
 <programme start="20260525223000 +0000" stop="20260526010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
 </programme>
@@ -3305,8 +3302,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260526060000 +0000" stop="20260526083000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
-<programme start="20260525234000 +0000" stop="20260526000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE WNBA</title>
+<programme start="20260525224000 +0000" stop="20260526000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE WNBA ab 02:00</title>
 </programme>
 <programme start="20260526000000 +0000" stop="20260526080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Portland Fire @ New York Liberty</title>
