@@ -4771,10 +4771,10 @@
 <programme start="20260526060000 +0000" stop="20260526083000 +0000" channel="iNews.mncvision">
     <title>Puncak Ibadah Haji 2026 (L)</title>
 </programme>
-<programme start="20260526083000 +0000" stop="20260526093000 +0000" channel="iNews.mncvision">
+<programme start="20260526083000 +0000" stop="20260526100000 +0000" channel="iNews.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20260526093000 +0000" stop="20260526120000 +0000" channel="iNews.mncvision">
+<programme start="20260526100000 +0000" stop="20260526120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20260526120000 +0000" stop="20260526140000 +0000" channel="iNews.mncvision">
@@ -4783,8 +4783,11 @@
 <programme start="20260526140000 +0000" stop="20260526140300 +0000" channel="iNews.mncvision">
     <title>iNews Terkini</title>
 </programme>
-<programme start="20260526140300 +0000" stop="20260526143300 +0000" channel="iNews.mncvision">
+<programme start="20260526140300 +0000" stop="20260526150000 +0000" channel="iNews.mncvision">
     <title>Puncak Ibadah Haji 2026 (L)</title>
+</programme>
+<programme start="20260526150000 +0000" stop="20260526153000 +0000" channel="iNews.mncvision">
+    <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260525170000 +0000" stop="20260525173000 +0000" channel="iNews HD.mncvision">
     <title>E-Max</title>
@@ -4834,10 +4837,10 @@
 <programme start="20260526060000 +0000" stop="20260526083000 +0000" channel="iNews HD.mncvision">
     <title>Puncak Ibadah Haji 2026 (L)</title>
 </programme>
-<programme start="20260526083000 +0000" stop="20260526093000 +0000" channel="iNews HD.mncvision">
+<programme start="20260526083000 +0000" stop="20260526100000 +0000" channel="iNews HD.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20260526093000 +0000" stop="20260526120000 +0000" channel="iNews HD.mncvision">
+<programme start="20260526100000 +0000" stop="20260526120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
 <programme start="20260526120000 +0000" stop="20260526140000 +0000" channel="iNews HD.mncvision">
@@ -4846,8 +4849,11 @@
 <programme start="20260526140000 +0000" stop="20260526140300 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini</title>
 </programme>
-<programme start="20260526140300 +0000" stop="20260526143300 +0000" channel="iNews HD.mncvision">
+<programme start="20260526140300 +0000" stop="20260526150000 +0000" channel="iNews HD.mncvision">
     <title>Puncak Ibadah Haji 2026 (L)</title>
+</programme>
+<programme start="20260526150000 +0000" stop="20260526153000 +0000" channel="iNews HD.mncvision">
+    <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260525220000 +0000" stop="20260525223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>

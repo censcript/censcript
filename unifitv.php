@@ -785,14 +785,9 @@
     <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260526100000 +0000" stop="20260526113000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung: Salam Baitullah 2026 Khas Hari Wukuf</title>
-    <desc lang="en">Siaran Langsung: Salam Baitullah 2026 Khas Hari Wukuf</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260526113000 +0000" stop="20260526114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Promo / PSA / Kapsul</title>
-    <desc lang="en">Promo / PSA / Kapsul</desc>
+  <programme start="20260526100000 +0000" stop="20260526114400 +0000" channel="tv1.unifitv">
+    <title lang="en">LIVE : SALAM BAITULLAH</title>
+    <desc lang="en">Sebuah rancangan memaparkan perkongsian topik serta liputan terkini dari Mekah sempena musim Haji 2026M/1447H.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260526114400 +0000" stop="20260526120000 +0000" channel="tv1.unifitv">
@@ -810,29 +805,17 @@
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260526130000 +0000" stop="20260526145500 +0000" channel="tv1.unifitv">
+  <programme start="20260526130000 +0000" stop="20260526144500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : SALAM BAITULLAH</title>
     <desc lang="en">Sebuah rancangan memaparkan perkongsian topik serta liputan terkini dari Mekah sempena musim Haji 2026M/1447H.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
-  <programme start="20260526145500 +0000" stop="20260526150000 +0000" channel="tv1.unifitv">
-    <title lang="en">Takbir Raya</title>
-    <desc lang="en">Takbir Raya</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260526150000 +0000" stop="20260526154500 +0000" channel="tv1.unifitv">
+  <programme start="20260526144500 +0000" stop="20260526160000 +0000" channel="tv1.unifitv">
     <title lang="en">Kelas 3 Cempaka</title>
     <desc lang="en">Saksikan lakonan Hanis Kamal Bakar, Ahmad Ezzrin Loy, Natasha Elyzza, Fimie Don, Iss Iswandi, Anis Shahfri, Fynnaz Razak, Syafeek Kahar, El Faeza Ul Haq, Zain Hamid, Kuna Muzani, GBob, Pak Tam, Khairi Khamis, Buzen Hashim, Rahim Omar, Keena Mentro, Aprena Manrose, DIlla Razak, Amelia Cheah, Ayie SYJ.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260526154500 +0000" stop="20260526160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Takbir Raya</title>
-    <desc lang="en">Takbir Raya</desc>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20260526160000 +0000" stop="20260526163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -12654,7 +12637,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260525193300 +0000" stop="20260525200300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Global Populatio</title>
+    <title lang="en">The Population Bust : Baby Boomers</title>
     <desc lang="en">As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
     <category lang="en">News</category>
   </programme>
@@ -12754,7 +12737,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260526063300 +0000" stop="20260526070300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Global Populatio</title>
+    <title lang="en">The Population Bust : Baby Boomers</title>
     <desc lang="en">As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
     <category lang="en">News</category>
   </programme>
@@ -12818,7 +12801,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260526143300 +0000" stop="20260526150300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Global Populatio</title>
+    <title lang="en">The Population Bust : Baby Boomers</title>
     <desc lang="en">As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
     <category lang="en">News</category>
   </programme>

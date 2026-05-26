@@ -4775,7 +4775,7 @@
     <title lang="id">GarazTV</title>
   </programme>
   <programme start="20260528083000 +0000" stop="20260528090000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
+    <title lang="id">Za rybami světových moří</title>
   </programme>
   <programme start="20260528090000 +0000" stop="20260528093000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DRIVE IT - Ondrej Macko</title>
@@ -4823,7 +4823,7 @@
     <title lang="id">Motoride</title>
   </programme>
   <programme start="20260528160000 +0000" stop="20260528163000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
+    <title lang="id">Zachytáme s Rybostrojem</title>
   </programme>
   <programme start="20260528163000 +0000" stop="20260528170000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>

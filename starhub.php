@@ -5183,7 +5183,7 @@
         <title>Compound Highlights</title>
     </programme>
     <programme start="20260525185500 +0000" stop="20260525210000 +0000" channel="SPOTV.starhub">
-        <title>25/26 Scottish Premiership Play-off Final 2nd Leg: St Mirren vs Partick Thistle (Live)</title>
+        <title>25/26 Scottish Premiership Play-off Final 2nd Leg: St Mirren vs Partick Thistle</title>
     </programme>
     <programme start="20260525210000 +0000" stop="20260525230500 +0000" channel="SPOTV.starhub">
         <title>Shanghai</title>
