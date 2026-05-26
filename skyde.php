@@ -2864,37 +2864,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260526213000 +0000" stop="20260526233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260525233000 +0000" stop="20260526013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260525221500 +0000" stop="20260526002000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
+</programme>
+<programme start="20260526002000 +0000" stop="20260526023000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260526013000 +0000" stop="20260526033000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526023000 +0000" stop="20260526050000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
 </programme>
 <programme start="20260526033000 +0000" stop="20260526034500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260526034500 +0000" stop="20260526054500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526050000 +0000" stop="20260526071000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
 <programme start="20260526053000 +0000" stop="20260526054500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260526054500 +0000" stop="20260526074500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526071000 +0000" stop="20260526092000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: VfL Wolfsburg - SC Paderborn 07, Relegation Hinspiel</title>
 </programme>
-<programme start="20260526074500 +0000" stop="20260526094500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526092000 +0000" stop="20260526112500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260526094500 +0000" stop="20260526114500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526112500 +0000" stop="20260526133500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
 </programme>
 <programme start="20260526114500 +0000" stop="20260526134500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
-<programme start="20260526134500 +0000" stop="20260526154500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526133500 +0000" stop="20260526154000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: FC Schalke 04 - Eintracht Braunschweig, 34. Spieltag</title>
 </programme>
-<programme start="20260526154500 +0000" stop="20260526174500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260526154000 +0000" stop="20260526174500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Paderborn 07 - VfL Wolfsburg, Relegation Rückspiel</title>
 </programme>
 <programme start="20260526174500 +0000" stop="20260526213000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -3211,9 +3214,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260526210000 +0000" stop="20260526213000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: 90in30: Hull City - FC Middlesbrough, Playoffs Finale</title>
-</programme>
-<programme start="20260526213000 +0000" stop="20260526233000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Nottingham Forest - AFC Bournemouth, 38. Spieltag</title>
 </programme>
 <programme start="20260525223000 +0000" stop="20260526010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>United Cup: B. Bencic (SUI) - I. Swiatek (POL), Finale in Sydney (AUS), Damen Einzel</title>
