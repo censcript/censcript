@@ -625,12 +625,6 @@
 <programme start="20260526103000 +0000" stop="20260526120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260526120000 +0000" stop="20260526143000 +0000" channel="ANTV.vision">
-<title>Perjuangan &amp; Doa</title>
-</programme>
-<programme start="20260526143000 +0000" stop="20260526163000 +0000" channel="ANTV.vision">
-<title>Almarhum</title>
-</programme>
 <programme start="20260526163000 +0000" stop="20260526183000 +0000" channel="ANTV.vision">
 <title>Darah Perjaka</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260526150000 +0000" stop="20260526180000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260526180000 +0000" stop="20260526210000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260526210000 +0000" stop="20260527000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
