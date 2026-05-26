@@ -395,7 +395,7 @@
     <title lang="id">Komentáre dňa</title>
   </programme>
   <programme start="20260527214500 +0000" stop="20260527231500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hádzaná - Niké handball extraliga - Niké Handball Extraliga 2025/26 (playoff): finále 2. zápas</title>
+    <title lang="id">Hádzaná - Niké handball extraliga - Niké Handball Extraliga 2025/26 (playoff): finále 2. zápas HK Bojnice - Tatran Prešov</title>
   </programme>
   <programme start="20260527231500 +0000" stop="20260527234000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Cesta na MS 2026</title>
@@ -443,7 +443,7 @@
     <title lang="id">Malý futbal - ME 2026 - EMF EURO 2026 (Bratislava): Slovensko - Grécko (skupina A)</title>
   </programme>
   <programme start="20260528072000 +0000" stop="20260528085500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hádzaná - Niké handball extraliga - Niké Handball Extraliga 2025/26 (playoff): finále 2. zápas</title>
+    <title lang="id">Hádzaná - Niké handball extraliga - Niké Handball Extraliga 2025/26 (playoff): finále 2. zápas HK Bojnice - Tatran Prešov</title>
   </programme>
   <programme start="20260528085500 +0000" stop="20260528101000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Malý futbal - ME 2026</title>

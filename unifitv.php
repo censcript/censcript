@@ -1284,12 +1284,17 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="tv3.unifitv">
-    <title lang="en">KEKASIHKU SERU</title>
-    <desc lang="en">Marisa terkejut ketika tiba di klinik Dr Hakim bila melihat doktor yang merawat ibunya Mas Ayu itu mati ditikam oleh orang yang tidak diketahui. Kawan Marisa mendapat tahu ada orang sedang mencari Marisa.</desc>
+  <programme start="20260526150000 +0000" stop="20260526153000 +0000" channel="tv3.unifitv">
+    <title lang="en">CAHAYA IMPIAN</title>
+    <desc lang="en">CAHAYA IMPIAN</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260526153000 +0000" stop="20260526160000 +0000" channel="tv3.unifitv">
+    <title lang="en">ISTIMEWA MAJALAH 3 (2026)</title>
+    <desc lang="en">ISTIMEWA MAJALAH 3 (2026)</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260526160000 +0000" stop="20260526163000 +0000" channel="tv3.unifitv">
     <title lang="en">NIGHTLINE (2025/2026)</title>
