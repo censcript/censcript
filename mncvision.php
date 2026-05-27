@@ -1,4 +1,96 @@
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260526170000 +0000" stop="20260526173000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20260526173000 +0000" stop="20260526183000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20260526183000 +0000" stop="20260526190000 +0000" channel="ABC Australia.mncvision">
+    <title>Dr. Karl&#039;s How Things Work</title>
+</programme>
+<programme start="20260526190000 +0000" stop="20260526200000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260526200000 +0000" stop="20260526210000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260526210000 +0000" stop="20260526230000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260526230000 +0000" stop="20260527020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20260527020000 +0000" stop="20260527023000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20260527023000 +0000" stop="20260527030000 +0000" channel="ABC Australia.mncvision">
+    <title>Landline</title>
+</programme>
+<programme start="20260527030000 +0000" stop="20260527034500 +0000" channel="ABC Australia.mncvision">
+    <title>Four Corners</title>
+</programme>
+<programme start="20260527034500 +0000" stop="20260527040500 +0000" channel="ABC Australia.mncvision">
+    <title>Media Watch</title>
+</programme>
+<programme start="20260527040500 +0000" stop="20260527043500 +0000" channel="ABC Australia.mncvision">
+    <title>Dr. Karl&#039;s How Things Work</title>
+</programme>
+<programme start="20260527043500 +0000" stop="20260527053500 +0000" channel="ABC Australia.mncvision">
+    <title>Restoration Australia</title>
+</programme>
+<programme start="20260527053500 +0000" stop="20260527060000 +0000" channel="ABC Australia.mncvision">
+    <title>Larapinta</title>
+</programme>
+<programme start="20260527060000 +0000" stop="20260527070000 +0000" channel="ABC Australia.mncvision">
+    <title>The Truth About Fasting</title>
+</programme>
+<programme start="20260527070000 +0000" stop="20260527080000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News With Joe O&#039;Brien</title>
+</programme>
+<programme start="20260527080000 +0000" stop="20260527083000 +0000" channel="ABC Australia.mncvision">
+    <title>A Bite To Eat With Alice</title>
+</programme>
+<programme start="20260527083000 +0000" stop="20260527090000 +0000" channel="ABC Australia.mncvision">
+    <title>That Pacific Sports Show</title>
+</programme>
+<programme start="20260527090000 +0000" stop="20260527093000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20260527093000 +0000" stop="20260527100000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20260527100000 +0000" stop="20260527110000 +0000" channel="ABC Australia.mncvision">
+    <title>Restoration Australia</title>
+</programme>
+<programme start="20260527110000 +0000" stop="20260527115500 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260527115500 +0000" stop="20260527124500 +0000" channel="ABC Australia.mncvision">
+    <title>Four Corners</title>
+</programme>
+<programme start="20260527124500 +0000" stop="20260527130000 +0000" channel="ABC Australia.mncvision">
+    <title>Media Watch</title>
+</programme>
+<programme start="20260527130000 +0000" stop="20260527133500 +0000" channel="ABC Australia.mncvision">
+    <title>Stuff The British Stole</title>
+</programme>
+<programme start="20260527133500 +0000" stop="20260527140000 +0000" channel="ABC Australia.mncvision">
+    <title>Larapinta</title>
+</programme>
+<programme start="20260527140000 +0000" stop="20260527141500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20260527141500 +0000" stop="20260527143000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20260527143000 +0000" stop="20260527150000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20260527150000 +0000" stop="20260527160000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260527160000 +0000" stop="20260527163000 +0000" channel="ABC Australia.mncvision">
+    <title>Restoration Australia</title>
+</programme>
 <programme start="20260526170000 +0000" stop="20260526173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -1685,7 +1777,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260527001500 +0000" stop="20260527004500 +0000" channel="CBeebies.mncvision">
     <title>Andy&#039;s Safari Adv. S1, Ep 12</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260526181000 +0000" stop="20260526194500 +0000" channel="CCM.mncvision">
+    <title>Brotherhood</title>
+</programme>
+<programme start="20260526194500 +0000" stop="20260526213000 +0000" channel="CCM.mncvision">
+    <title>Crazy Nuts Of Kung Fu</title>
+</programme>
+<programme start="20260526213000 +0000" stop="20260526231500 +0000" channel="CCM.mncvision">
+    <title>The Shadow Boxing</title>
+</programme>
+<programme start="20260526231500 +0000" stop="20260527005000 +0000" channel="CCM.mncvision">
+    <title>Melody Of Love</title>
+</programme>
+<programme start="20260527005000 +0000" stop="20260527022500 +0000" channel="CCM.mncvision">
+    <title>Swordsman And Enchantress</title>
+</programme>
+<programme start="20260527022500 +0000" stop="20260527040000 +0000" channel="CCM.mncvision">
+    <title>The Snake Prince</title>
+</programme>
+<programme start="20260527040000 +0000" stop="20260527054500 +0000" channel="CCM.mncvision">
+    <title>Ghosts Galore</title>
+</programme>
+<programme start="20260527054500 +0000" stop="20260527074000 +0000" channel="CCM.mncvision">
+    <title>The Venus&#039; Tear Diamond</title>
+</programme>
+<programme start="20260527074000 +0000" stop="20260527092000 +0000" channel="CCM.mncvision">
+    <title>Martial Arts Of Shaolin</title>
+</programme>
+<programme start="20260527092000 +0000" stop="20260527111000 +0000" channel="CCM.mncvision">
+    <title>The Lotus Lamp</title>
+</programme>
+<programme start="20260527111000 +0000" stop="20260527130000 +0000" channel="CCM.mncvision">
+    <title>Return Of One-Armed Swordsman</title>
+</programme>
+<programme start="20260527130000 +0000" stop="20260527144000 +0000" channel="CCM.mncvision">
+    <title>Face To Face</title>
+</programme>
+<programme start="20260527144000 +0000" stop="20260527160000 +0000" channel="CCM.mncvision">
+    <title>The Imperial Tomb Raiders</title>
+</programme>
+<programme start="20260527160000 +0000" stop="20260527163000 +0000" channel="CCM.mncvision">
+    <title>Love With The Perfect Stranger</title>
+</programme>
 <programme start="20260526180000 +0000" stop="20260526190000 +0000" channel="Celebrities TV.mncvision">
     <title>Lebih Syantik</title>
 </programme>
@@ -7323,9 +7456,180 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260527160000 +0000" stop="20260527163000 +0000" channel="RCTI HD.mncvision">
     <title>Teror Mia</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260526170000 +0000" stop="20260526184500 +0000" channel="Rock Action.mncvision">
+    <title>Blood On The Crown</title>
+</programme>
+<programme start="20260526184500 +0000" stop="20260526204500 +0000" channel="Rock Action.mncvision">
+    <title>Transcendence</title>
+</programme>
+<programme start="20260526204500 +0000" stop="20260526224500 +0000" channel="Rock Action.mncvision">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20260526224500 +0000" stop="20260527005000 +0000" channel="Rock Action.mncvision">
+    <title>Battleship</title>
+</programme>
+<programme start="20260527005000 +0000" stop="20260527025500 +0000" channel="Rock Action.mncvision">
+    <title>Godzilla Minus One</title>
+</programme>
+<programme start="20260527025500 +0000" stop="20260527045500 +0000" channel="Rock Action.mncvision">
+    <title>Miami Vice</title>
+</programme>
+<programme start="20260527045500 +0000" stop="20260527070000 +0000" channel="Rock Action.mncvision">
+    <title>Battleship</title>
+</programme>
+<programme start="20260527070000 +0000" stop="20260527085000 +0000" channel="Rock Action.mncvision">
+    <title>U-571</title>
+</programme>
+<programme start="20260527085000 +0000" stop="20260527105500 +0000" channel="Rock Action.mncvision">
+    <title>The Woman King</title>
+</programme>
+<programme start="20260527105500 +0000" stop="20260527125500 +0000" channel="Rock Action.mncvision">
+    <title>Jason Bourne</title>
+</programme>
+<programme start="20260527125500 +0000" stop="20260527145000 +0000" channel="Rock Action.mncvision">
+    <title>Transcendence</title>
+</programme>
+<programme start="20260527145000 +0000" stop="20260527152000 +0000" channel="Rock Action.mncvision">
+    <title>The Hateful Eight</title>
+</programme>
+<programme start="20260526173000 +0000" stop="20260526183500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time S2, Ep 2</title>
+</programme>
+<programme start="20260526183500 +0000" stop="20260526194000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time S2, Ep 3</title>
+</programme>
+<programme start="20260526194000 +0000" stop="20260526203500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S5, Ep 3</title>
+</programme>
+<programme start="20260526203500 +0000" stop="20260526213000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S5, Ep 4</title>
+</programme>
+<programme start="20260526213000 +0000" stop="20260526220000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai, Ep 8</title>
+</programme>
+<programme start="20260526220000 +0000" stop="20260526224500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 97</title>
+</programme>
+<programme start="20260526224500 +0000" stop="20260526233000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 95</title>
+</programme>
+<programme start="20260526233000 +0000" stop="20260527000000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai, Ep 8</title>
+</programme>
+<programme start="20260527000000 +0000" stop="20260527010500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time S2, Ep 2</title>
+</programme>
+<programme start="20260527010500 +0000" stop="20260527021500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time S2, Ep 3</title>
+</programme>
+<programme start="20260527021500 +0000" stop="20260527032000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time S2, Ep 2</title>
+</programme>
+<programme start="20260527032000 +0000" stop="20260527040500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Below Deck Down Under, Ep 3</title>
+</programme>
+<programme start="20260527040500 +0000" stop="20260527045000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 95</title>
+</programme>
+<programme start="20260527045000 +0000" stop="20260527053500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 97</title>
+</programme>
+<programme start="20260527053500 +0000" stop="20260527063000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S5, Ep 5</title>
+</programme>
+<programme start="20260527063000 +0000" stop="20260527072500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S5, Ep 6</title>
+</programme>
+<programme start="20260527072500 +0000" stop="20260527081500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S5, Ep 7</title>
+</programme>
+<programme start="20260527081500 +0000" stop="20260527085500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Good Fight S5, Ep 8</title>
+</programme>
+<programme start="20260527085500 +0000" stop="20260527103000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarian: Judas Chalice</title>
+</programme>
+<programme start="20260527103000 +0000" stop="20260527113000 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands, Ep 4</title>
+</programme>
+<programme start="20260527113000 +0000" stop="20260527123000 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands, Ep 5</title>
+</programme>
+<programme start="20260527123000 +0000" stop="20260527133000 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands, Ep 4</title>
+</programme>
+<programme start="20260527133000 +0000" stop="20260527143000 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands, Ep 5</title>
+</programme>
+<programme start="20260527143000 +0000" stop="20260527151500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Buried In Backyard S6, Ep 11</title>
+</programme>
+<programme start="20260527151500 +0000" stop="20260527160000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 96</title>
+</programme>
+<programme start="20260527160000 +0000" stop="20260527164500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 98</title>
+</programme>
+<programme start="20260527164500 +0000" stop="20260526171500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Buried In Backyard S6, Ep 11</title>
+</programme>
+<programme start="20260526183000 +0000" stop="20260526195000 +0000" channel="SCTV.mncvision">
+    <title>Cintaku Di Rumah Petak</title>
+</programme>
+<programme start="20260526195000 +0000" stop="20260526210600 +0000" channel="SCTV.mncvision">
+    <title>Dari Gunung Jatuh Ke Hati</title>
+</programme>
+<programme start="20260526210600 +0000" stop="20260526213000 +0000" channel="SCTV.mncvision">
+    <title>Barakallah</title>
+</programme>
+<programme start="20260526213000 +0000" stop="20260526220000 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
+</programme>
+<programme start="20260526220000 +0000" stop="20260526230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260526230000 +0000" stop="20260526234500 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
+</programme>
+<programme start="20260526234500 +0000" stop="20260527003000 +0000" channel="SCTV.mncvision">
+    <title>Salat Idul Adha (L)</title>
+</programme>
+<programme start="20260527003000 +0000" stop="20260527013000 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260527013000 +0000" stop="20260527030000 +0000" channel="SCTV.mncvision">
+    <title>Cinta Miss Kambing Lo Jual...</title>
+</programme>
+<programme start="20260527030000 +0000" stop="20260527050000 +0000" channel="SCTV.mncvision">
+    <title>Jodoh Cewek Sapi Kena Cancel</title>
+</programme>
+<programme start="20260527050000 +0000" stop="20260527053000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260527053000 +0000" stop="20260527070000 +0000" channel="SCTV.mncvision">
+    <title>Siang Dibikin Salting Malam...</title>
+</programme>
+<programme start="20260527070000 +0000" stop="20260527083000 +0000" channel="SCTV.mncvision">
+    <title>Gadis Sosis So Sweet</title>
+</programme>
+<programme start="20260527083000 +0000" stop="20260527100000 +0000" channel="SCTV.mncvision">
+    <title>Salfok Sama Neng Domba Satu Ini</title>
+</programme>
+<programme start="20260527100000 +0000" stop="20260527112500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20260527112500 +0000" stop="20260527131000 +0000" channel="SCTV.mncvision">
+    <title>Istiqomah Cinta</title>
+</programme>
+<programme start="20260527131000 +0000" stop="20260527143500 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20260527143500 +0000" stop="20260527160000 +0000" channel="SCTV.mncvision">
+    <title>Jejak Duka Diandra</title>
+</programme>
+<programme start="20260527160000 +0000" stop="20260527163000 +0000" channel="SCTV.mncvision">
+    <title>Sunan Kalijaga &amp; Syech Siti...</title>
+</programme>
 <programme start="20260526183000 +0000" stop="20260526195000 +0000" channel="SCTV HD.mncvision">
     <title>Cintaku Di Rumah Petak</title>
 </programme>

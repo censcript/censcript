@@ -2497,6 +2497,9 @@
 <programme start="20260527090000 +0000" stop="20260527110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Arsenal - Atletico Madrid, Halbfinale Rückspiel</title>
 </programme>
+<programme start="20260527110000 +0000" stop="20260527113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: FAK - ASK, 32. Runde</title>
+</programme>
 <programme start="20260527113000 +0000" stop="20260527114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
@@ -2530,6 +2533,9 @@
 <programme start="20260527183000 +0000" stop="20260527184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
 </programme>
+<programme start="20260527184500 +0000" stop="20260527191500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: FAK - ASK, 32. Runde</title>
+</programme>
 <programme start="20260527191500 +0000" stop="20260527193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
 </programme>
@@ -2552,7 +2558,7 @@
     <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
 </programme>
 <programme start="20260527214500 +0000" stop="20260527221000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA ECL: Highlights XXL: CRY - RAY, Finale 2025 in Leipzig (GER)</title>
+    <title>UEFA ECL: Highlights XXL: CRY - RAY, Finale 2026 in Leipzig (GER)</title>
 </programme>
 <programme start="20260527090000 +0000" stop="20260527090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Test Austria 04</title>
@@ -3340,8 +3346,8 @@
 <programme start="20260527214500 +0000" stop="20260527221500 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (6)</title>
 </programme>
-<programme start="20260526230500 +0000" stop="20260526232500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live NBA</title>
+<programme start="20260526220000 +0000" stop="20260526232500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt ab 01:25 Live NBA</title>
 </programme>
 <programme start="20260526232500 +0000" stop="20260527000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -4045,10 +4051,10 @@
 <programme start="20260527091500 +0000" stop="20260527110500 +0000" channel="Warner TV Film.skyde">
     <title>Ivanhoe</title>
 </programme>
-<programme start="20260527110500 +0000" stop="20260527140500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260527110500 +0000" stop="20260527140000 +0000" channel="Warner TV Film.skyde">
     <title>Braveheart</title>
 </programme>
-<programme start="20260527140500 +0000" stop="20260527162500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260527140000 +0000" stop="20260527162500 +0000" channel="Warner TV Film.skyde">
     <title>Forrest Gump</title>
 </programme>
 <programme start="20260527162500 +0000" stop="20260527181500 +0000" channel="Warner TV Film.skyde">

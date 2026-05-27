@@ -631,12 +631,6 @@
 <programme start="20260528114500 +0000" stop="20260528121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260526234500 +0000" stop="20260527023000 +0000" channel="ANTV.vision">
-<title>Atas Boleh Bawah Boleh</title>
-</programme>
-<programme start="20260527023000 +0000" stop="20260527060000 +0000" channel="ANTV.vision">
-<title>Mohabbatein</title>
-</programme>
 <programme start="20260527060000 +0000" stop="20260527073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260527130000 +0000" stop="20260527150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260527150000 +0000" stop="20260527170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260527170000 +0000" stop="20260527190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
