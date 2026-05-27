@@ -3973,6 +3973,228 @@
     <programme start="20260528233408 +0000" stop="20260528235959 +0000" channel="988045.shahid">
         <title>Hadeeth Al Maraya Episode 3</title>
     </programme>
+    <programme start="20260527000000 +0000" stop="20260527000335 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 28</title>
+    </programme>
+    <programme start="20260527000335 +0000" stop="20260527003836 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 29</title>
+    </programme>
+    <programme start="20260527003836 +0000" stop="20260527010741 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 30</title>
+    </programme>
+    <programme start="20260527010741 +0000" stop="20260527015039 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 21</title>
+    </programme>
+    <programme start="20260527015039 +0000" stop="20260527022543 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 22</title>
+    </programme>
+    <programme start="20260527022543 +0000" stop="20260527030141 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 23</title>
+    </programme>
+    <programme start="20260527030141 +0000" stop="20260527033245 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 24</title>
+    </programme>
+    <programme start="20260527033245 +0000" stop="20260527041414 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 25</title>
+    </programme>
+    <programme start="20260527041414 +0000" stop="20260527044812 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 26</title>
+    </programme>
+    <programme start="20260527044812 +0000" stop="20260527052315 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 27</title>
+    </programme>
+    <programme start="20260527052315 +0000" stop="20260527055714 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 28</title>
+    </programme>
+    <programme start="20260527055714 +0000" stop="20260527063216 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 29</title>
+    </programme>
+    <programme start="20260527063216 +0000" stop="20260527070121 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 30</title>
+    </programme>
+    <programme start="20260527070121 +0000" stop="20260527074419 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 21</title>
+    </programme>
+    <programme start="20260527074419 +0000" stop="20260527081923 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 22</title>
+    </programme>
+    <programme start="20260527081923 +0000" stop="20260527085521 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 23</title>
+    </programme>
+    <programme start="20260527085521 +0000" stop="20260527092625 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 24</title>
+    </programme>
+    <programme start="20260527092625 +0000" stop="20260527100754 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 25</title>
+    </programme>
+    <programme start="20260527100754 +0000" stop="20260527104152 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 26</title>
+    </programme>
+    <programme start="20260527104152 +0000" stop="20260527111655 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 27</title>
+    </programme>
+    <programme start="20260527111655 +0000" stop="20260527115054 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 28</title>
+    </programme>
+    <programme start="20260527115054 +0000" stop="20260527122556 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 29</title>
+    </programme>
+    <programme start="20260527122556 +0000" stop="20260527125509 +0000" channel="992538.shahid">
+        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 30</title>
+    </programme>
+    <programme start="20260527125509 +0000" stop="20260527134107 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
+    </programme>
+    <programme start="20260527134107 +0000" stop="20260527142314 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
+    </programme>
+    <programme start="20260527142314 +0000" stop="20260527150506 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
+    </programme>
+    <programme start="20260527150506 +0000" stop="20260527154740 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
+    </programme>
+    <programme start="20260527154740 +0000" stop="20260527162850 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
+    </programme>
+    <programme start="20260527162850 +0000" stop="20260527171001 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
+    </programme>
+    <programme start="20260527171001 +0000" stop="20260527175043 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
+    </programme>
+    <programme start="20260527175043 +0000" stop="20260527183202 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
+    </programme>
+    <programme start="20260527183202 +0000" stop="20260527191300 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
+    </programme>
+    <programme start="20260527191300 +0000" stop="20260527195347 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
+    </programme>
+    <programme start="20260527195347 +0000" stop="20260527203935 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
+    </programme>
+    <programme start="20260527203935 +0000" stop="20260527212142 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
+    </programme>
+    <programme start="20260527212142 +0000" stop="20260527220343 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
+    </programme>
+    <programme start="20260527220343 +0000" stop="20260527224608 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
+    </programme>
+    <programme start="20260527224608 +0000" stop="20260527232747 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
+    </programme>
+    <programme start="20260527232747 +0000" stop="20260528000909 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
+    </programme>
+    <programme start="20260528000909 +0000" stop="20260528005000 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
+    </programme>
+    <programme start="20260528005000 +0000" stop="20260528013119 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
+    </programme>
+    <programme start="20260528013119 +0000" stop="20260528021157 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
+    </programme>
+    <programme start="20260528021157 +0000" stop="20260528025244 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
+    </programme>
+    <programme start="20260528025244 +0000" stop="20260528033853 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
+    </programme>
+    <programme start="20260528033853 +0000" stop="20260528042059 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
+    </programme>
+    <programme start="20260528042059 +0000" stop="20260528050241 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
+    </programme>
+    <programme start="20260528050241 +0000" stop="20260528054525 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
+    </programme>
+    <programme start="20260528054525 +0000" stop="20260528062645 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
+    </programme>
+    <programme start="20260528062645 +0000" stop="20260528070756 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
+    </programme>
+    <programme start="20260528070756 +0000" stop="20260528074848 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
+    </programme>
+    <programme start="20260528074848 +0000" stop="20260528083037 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
+    </programme>
+    <programme start="20260528083037 +0000" stop="20260528091105 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
+    </programme>
+    <programme start="20260528091105 +0000" stop="20260528095203 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
+    </programme>
+    <programme start="20260528095203 +0000" stop="20260528103740 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
+    </programme>
+    <programme start="20260528103740 +0000" stop="20260528111937 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
+    </programme>
+    <programme start="20260528111937 +0000" stop="20260528120108 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
+    </programme>
+    <programme start="20260528120108 +0000" stop="20260528124343 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
+    </programme>
+    <programme start="20260528124343 +0000" stop="20260528132451 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
+    </programme>
+    <programme start="20260528132451 +0000" stop="20260528140614 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
+    </programme>
+    <programme start="20260528140614 +0000" stop="20260528144655 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
+    </programme>
+    <programme start="20260528144655 +0000" stop="20260528152834 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
+    </programme>
+    <programme start="20260528152834 +0000" stop="20260528160902 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
+    </programme>
+    <programme start="20260528160902 +0000" stop="20260528164950 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
+    </programme>
+    <programme start="20260528164950 +0000" stop="20260528173134 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 11</title>
+    </programme>
+    <programme start="20260528173134 +0000" stop="20260528181419 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 12</title>
+    </programme>
+    <programme start="20260528181419 +0000" stop="20260528185552 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 13</title>
+    </programme>
+    <programme start="20260528185552 +0000" stop="20260528193829 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 14</title>
+    </programme>
+    <programme start="20260528193829 +0000" stop="20260528201902 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 15</title>
+    </programme>
+    <programme start="20260528201902 +0000" stop="20260528210134 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 16</title>
+    </programme>
+    <programme start="20260528210134 +0000" stop="20260528214426 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 17</title>
+    </programme>
+    <programme start="20260528214426 +0000" stop="20260528222424 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 18</title>
+    </programme>
+    <programme start="20260528222424 +0000" stop="20260528230627 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 19</title>
+    </programme>
+    <programme start="20260528230627 +0000" stop="20260528234715 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 20</title>
+    </programme>
+    <programme start="20260528234715 +0000" stop="20260528235959 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 11</title>
+    </programme>
     <programme start="20260527000000 +0000" stop="20260527004004 +0000" channel="976272.shahid">
         <title>El Kebeer Awi Season 7 Episode 20</title>
     </programme>
@@ -4246,228 +4468,6 @@
     <programme start="20260528234420 +0000" stop="20260528235959 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 4 Episode 20</title>
     </programme>
-    <programme start="20260527000000 +0000" stop="20260527000335 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 28</title>
-    </programme>
-    <programme start="20260527000335 +0000" stop="20260527003836 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 29</title>
-    </programme>
-    <programme start="20260527003836 +0000" stop="20260527010741 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 30</title>
-    </programme>
-    <programme start="20260527010741 +0000" stop="20260527015039 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 21</title>
-    </programme>
-    <programme start="20260527015039 +0000" stop="20260527022543 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 22</title>
-    </programme>
-    <programme start="20260527022543 +0000" stop="20260527030141 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 23</title>
-    </programme>
-    <programme start="20260527030141 +0000" stop="20260527033245 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 24</title>
-    </programme>
-    <programme start="20260527033245 +0000" stop="20260527041414 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 25</title>
-    </programme>
-    <programme start="20260527041414 +0000" stop="20260527044812 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 26</title>
-    </programme>
-    <programme start="20260527044812 +0000" stop="20260527052315 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 27</title>
-    </programme>
-    <programme start="20260527052315 +0000" stop="20260527055714 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 28</title>
-    </programme>
-    <programme start="20260527055714 +0000" stop="20260527063216 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 29</title>
-    </programme>
-    <programme start="20260527063216 +0000" stop="20260527070121 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 30</title>
-    </programme>
-    <programme start="20260527070121 +0000" stop="20260527074419 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 21</title>
-    </programme>
-    <programme start="20260527074419 +0000" stop="20260527081923 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 22</title>
-    </programme>
-    <programme start="20260527081923 +0000" stop="20260527085521 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 23</title>
-    </programme>
-    <programme start="20260527085521 +0000" stop="20260527092625 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 24</title>
-    </programme>
-    <programme start="20260527092625 +0000" stop="20260527100754 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 25</title>
-    </programme>
-    <programme start="20260527100754 +0000" stop="20260527104152 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 26</title>
-    </programme>
-    <programme start="20260527104152 +0000" stop="20260527111655 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 27</title>
-    </programme>
-    <programme start="20260527111655 +0000" stop="20260527115054 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 28</title>
-    </programme>
-    <programme start="20260527115054 +0000" stop="20260527122556 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 29</title>
-    </programme>
-    <programme start="20260527122556 +0000" stop="20260527125509 +0000" channel="992538.shahid">
-        <title>Al Le&#039;ba: Al Le’b Maa Al Kobar Season 3 Episode 30</title>
-    </programme>
-    <programme start="20260527125509 +0000" stop="20260527134107 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
-    </programme>
-    <programme start="20260527134107 +0000" stop="20260527142314 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
-    </programme>
-    <programme start="20260527142314 +0000" stop="20260527150506 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
-    </programme>
-    <programme start="20260527150506 +0000" stop="20260527154740 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
-    </programme>
-    <programme start="20260527154740 +0000" stop="20260527162850 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
-    </programme>
-    <programme start="20260527162850 +0000" stop="20260527171001 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
-    </programme>
-    <programme start="20260527171001 +0000" stop="20260527175043 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
-    </programme>
-    <programme start="20260527175043 +0000" stop="20260527183202 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
-    </programme>
-    <programme start="20260527183202 +0000" stop="20260527191300 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
-    </programme>
-    <programme start="20260527191300 +0000" stop="20260527195347 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
-    </programme>
-    <programme start="20260527195347 +0000" stop="20260527203935 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
-    </programme>
-    <programme start="20260527203935 +0000" stop="20260527212142 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
-    </programme>
-    <programme start="20260527212142 +0000" stop="20260527220343 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
-    </programme>
-    <programme start="20260527220343 +0000" stop="20260527224608 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
-    </programme>
-    <programme start="20260527224608 +0000" stop="20260527232747 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
-    </programme>
-    <programme start="20260527232747 +0000" stop="20260528000909 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
-    </programme>
-    <programme start="20260528000909 +0000" stop="20260528005000 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
-    </programme>
-    <programme start="20260528005000 +0000" stop="20260528013119 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
-    </programme>
-    <programme start="20260528013119 +0000" stop="20260528021157 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
-    </programme>
-    <programme start="20260528021157 +0000" stop="20260528025244 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
-    </programme>
-    <programme start="20260528025244 +0000" stop="20260528033853 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
-    </programme>
-    <programme start="20260528033853 +0000" stop="20260528042059 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
-    </programme>
-    <programme start="20260528042059 +0000" stop="20260528050241 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
-    </programme>
-    <programme start="20260528050241 +0000" stop="20260528054525 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
-    </programme>
-    <programme start="20260528054525 +0000" stop="20260528062645 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
-    </programme>
-    <programme start="20260528062645 +0000" stop="20260528070756 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
-    </programme>
-    <programme start="20260528070756 +0000" stop="20260528074848 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
-    </programme>
-    <programme start="20260528074848 +0000" stop="20260528083037 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
-    </programme>
-    <programme start="20260528083037 +0000" stop="20260528091105 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
-    </programme>
-    <programme start="20260528091105 +0000" stop="20260528095203 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
-    </programme>
-    <programme start="20260528095203 +0000" stop="20260528103740 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
-    </programme>
-    <programme start="20260528103740 +0000" stop="20260528111937 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
-    </programme>
-    <programme start="20260528111937 +0000" stop="20260528120108 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
-    </programme>
-    <programme start="20260528120108 +0000" stop="20260528124343 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
-    </programme>
-    <programme start="20260528124343 +0000" stop="20260528132451 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
-    </programme>
-    <programme start="20260528132451 +0000" stop="20260528140614 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
-    </programme>
-    <programme start="20260528140614 +0000" stop="20260528144655 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
-    </programme>
-    <programme start="20260528144655 +0000" stop="20260528152834 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
-    </programme>
-    <programme start="20260528152834 +0000" stop="20260528160902 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
-    </programme>
-    <programme start="20260528160902 +0000" stop="20260528164950 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
-    </programme>
-    <programme start="20260528164950 +0000" stop="20260528173134 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 11</title>
-    </programme>
-    <programme start="20260528173134 +0000" stop="20260528181419 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 12</title>
-    </programme>
-    <programme start="20260528181419 +0000" stop="20260528185552 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 13</title>
-    </programme>
-    <programme start="20260528185552 +0000" stop="20260528193829 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 14</title>
-    </programme>
-    <programme start="20260528193829 +0000" stop="20260528201902 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 15</title>
-    </programme>
-    <programme start="20260528201902 +0000" stop="20260528210134 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 16</title>
-    </programme>
-    <programme start="20260528210134 +0000" stop="20260528214426 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 17</title>
-    </programme>
-    <programme start="20260528214426 +0000" stop="20260528222424 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 18</title>
-    </programme>
-    <programme start="20260528222424 +0000" stop="20260528230627 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 19</title>
-    </programme>
-    <programme start="20260528230627 +0000" stop="20260528234715 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 20</title>
-    </programme>
-    <programme start="20260528234715 +0000" stop="20260528235959 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 11</title>
-    </programme>
     <programme start="20260527000000 +0000" stop="20260528235959 +0000" channel="49922763891977.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -4705,6 +4705,111 @@
     <programme start="20260527000000 +0000" stop="20260528235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260527000000 +0000" stop="20260527003000 +0000" channel="995495.shahid">
+        <title>Lamiyyat Al Arab Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260527003000 +0000" stop="20260527013000 +0000" channel="995495.shahid">
+        <title>Najahat Saudia Season 1 Episode 8</title>
+    </programme>
+    <programme start="20260527013000 +0000" stop="20260527025000 +0000" channel="995495.shahid">
+        <title>Al Mohawara Season 1 Episode 8</title>
+    </programme>
+    <programme start="20260527025000 +0000" stop="20260527034000 +0000" channel="995495.shahid">
+        <title>Salat Eid Al Adha</title>
+    </programme>
+    <programme start="20260527034000 +0000" stop="20260527051100 +0000" channel="995495.shahid">
+        <title>Ithnayniyyat Al Riyadh Season 3 Episode 12</title>
+    </programme>
+    <programme start="20260527051100 +0000" stop="20260527060000 +0000" channel="995495.shahid">
+        <title>Ask Thamer Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260527060000 +0000" stop="20260527071000 +0000" channel="995495.shahid">
+        <title>Athb Al Kalam Season 2 Episode 10</title>
+    </programme>
+    <programme start="20260527071000 +0000" stop="20260527083000 +0000" channel="995495.shahid">
+        <title>Al Mohawara Season 1 Episode 8</title>
+    </programme>
+    <programme start="20260527083000 +0000" stop="20260527092800 +0000" channel="995495.shahid">
+        <title>Najahat Saudia Season 1 Episode 7</title>
+    </programme>
+    <programme start="20260527092800 +0000" stop="20260527103000 +0000" channel="995495.shahid">
+        <title>Lamiyyat Al Arab Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260527103000 +0000" stop="20260527105500 +0000" channel="995495.shahid">
+        <title>Ask Thamer Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260527105500 +0000" stop="20260527114500 +0000" channel="995495.shahid">
+        <title>Podcast 1949 Season 3 Episode 9</title>
+    </programme>
+    <programme start="20260527114500 +0000" stop="20260527130000 +0000" channel="995495.shahid">
+        <title>Ithnayniyyat Al Riyadh Season 3 Episode 12</title>
+    </programme>
+    <programme start="20260527130000 +0000" stop="20260527160000 +0000" channel="995495.shahid">
+        <title>Murahiq Fi Al Khamseen</title>
+    </programme>
+    <programme start="20260527160000 +0000" stop="20260527180500 +0000" channel="995495.shahid">
+        <title>Marvels Of Saudi Orchestra</title>
+    </programme>
+    <programme start="20260527180500 +0000" stop="20260527191000 +0000" channel="995495.shahid">
+        <title>Shurhuban</title>
+    </programme>
+    <programme start="20260527191000 +0000" stop="20260527200000 +0000" channel="995495.shahid">
+        <title>Horras Al Hoqoul</title>
+    </programme>
+    <programme start="20260527200000 +0000" stop="20260527204900 +0000" channel="995495.shahid">
+        <title>London Symphony Orchestra: Jonathon Heyward Conducts Stravinsky &amp; Dvořák</title>
+    </programme>
+    <programme start="20260527204900 +0000" stop="20260527220000 +0000" channel="995495.shahid">
+        <title>London Symphony Orchestra: Jonathon Heyward Conducts Stravinsky &amp; Dvořák</title>
+    </programme>
+    <programme start="20260527220000 +0000" stop="20260528005500 +0000" channel="995495.shahid">
+        <title>Murahiq Fi Al Khamseen</title>
+    </programme>
+    <programme start="20260528005500 +0000" stop="20260528031000 +0000" channel="995495.shahid">
+        <title>Marvels Of Saudi Orchestra</title>
+    </programme>
+    <programme start="20260528031000 +0000" stop="20260528041500 +0000" channel="995495.shahid">
+        <title>Shurhuban</title>
+    </programme>
+    <programme start="20260528041500 +0000" stop="20260528050000 +0000" channel="995495.shahid">
+        <title>Horras Al Hoqoul</title>
+    </programme>
+    <programme start="20260528050000 +0000" stop="20260528054800 +0000" channel="995495.shahid">
+        <title>London Symphony Orchestra: Jonathon Heyward Conducts Stravinsky &amp; Dvořák</title>
+    </programme>
+    <programme start="20260528054800 +0000" stop="20260528070100 +0000" channel="995495.shahid">
+        <title>London Symphony Orchestra: Jonathon Heyward Conducts Stravinsky &amp; Dvořák</title>
+    </programme>
+    <programme start="20260528070100 +0000" stop="20260528101000 +0000" channel="995495.shahid">
+        <title>Murahiq Fi Al Khamseen</title>
+    </programme>
+    <programme start="20260528101000 +0000" stop="20260528121500 +0000" channel="995495.shahid">
+        <title>Marvels Of Saudi Orchestra</title>
+    </programme>
+    <programme start="20260528121500 +0000" stop="20260528132500 +0000" channel="995495.shahid">
+        <title>Shurhuban</title>
+    </programme>
+    <programme start="20260528132500 +0000" stop="20260528160000 +0000" channel="995495.shahid">
+        <title>Al Theeb Fi Al Gleeb</title>
+    </programme>
+    <programme start="20260528160000 +0000" stop="20260528181000 +0000" channel="995495.shahid">
+        <title>Marvels Of Saudi Orchestra</title>
+    </programme>
+    <programme start="20260528181000 +0000" stop="20260528192500 +0000" channel="995495.shahid">
+        <title>Ghayma</title>
+    </programme>
+    <programme start="20260528192500 +0000" stop="20260528201500 +0000" channel="995495.shahid">
+        <title>Al Na’ishoun</title>
+    </programme>
+    <programme start="20260528201500 +0000" stop="20260528210400 +0000" channel="995495.shahid">
+        <title>London Symphony Orchestra: Stravinsky Ballets</title>
+    </programme>
+    <programme start="20260528210400 +0000" stop="20260528215500 +0000" channel="995495.shahid">
+        <title>London Symphony Orchestra: Stravinsky Ballets</title>
+    </programme>
+    <programme start="20260528215500 +0000" stop="20260528235959 +0000" channel="995495.shahid">
+        <title>Al Theeb Fi Al Gleeb</title>
+    </programme>
     <programme start="20260527000000 +0000" stop="20260527011655 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 2 Episode 8</title>
     </programme>
@@ -4815,111 +4920,6 @@
     </programme>
     <programme start="20260528225510 +0000" stop="20260528235959 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260527000000 +0000" stop="20260527003000 +0000" channel="995495.shahid">
-        <title>Lamiyyat Al Arab Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260527003000 +0000" stop="20260527013000 +0000" channel="995495.shahid">
-        <title>Najahat Saudia Season 1 Episode 8</title>
-    </programme>
-    <programme start="20260527013000 +0000" stop="20260527025000 +0000" channel="995495.shahid">
-        <title>Al Mohawara Season 1 Episode 8</title>
-    </programme>
-    <programme start="20260527025000 +0000" stop="20260527034000 +0000" channel="995495.shahid">
-        <title>Salat Eid Al Adha</title>
-    </programme>
-    <programme start="20260527034000 +0000" stop="20260527051100 +0000" channel="995495.shahid">
-        <title>Ithnayniyyat Al Riyadh Season 3 Episode 12</title>
-    </programme>
-    <programme start="20260527051100 +0000" stop="20260527060000 +0000" channel="995495.shahid">
-        <title>Ask Thamer Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260527060000 +0000" stop="20260527071000 +0000" channel="995495.shahid">
-        <title>Athb Al Kalam Season 2 Episode 10</title>
-    </programme>
-    <programme start="20260527071000 +0000" stop="20260527083000 +0000" channel="995495.shahid">
-        <title>Al Mohawara Season 1 Episode 8</title>
-    </programme>
-    <programme start="20260527083000 +0000" stop="20260527092800 +0000" channel="995495.shahid">
-        <title>Najahat Saudia Season 1 Episode 7</title>
-    </programme>
-    <programme start="20260527092800 +0000" stop="20260527103000 +0000" channel="995495.shahid">
-        <title>Lamiyyat Al Arab Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260527103000 +0000" stop="20260527105500 +0000" channel="995495.shahid">
-        <title>Ask Thamer Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260527105500 +0000" stop="20260527114500 +0000" channel="995495.shahid">
-        <title>Podcast 1949 Season 3 Episode 9</title>
-    </programme>
-    <programme start="20260527114500 +0000" stop="20260527130000 +0000" channel="995495.shahid">
-        <title>Ithnayniyyat Al Riyadh Season 3 Episode 12</title>
-    </programme>
-    <programme start="20260527130000 +0000" stop="20260527160000 +0000" channel="995495.shahid">
-        <title>Murahiq Fi Al Khamseen</title>
-    </programme>
-    <programme start="20260527160000 +0000" stop="20260527180500 +0000" channel="995495.shahid">
-        <title>Marvels Of Saudi Orchestra</title>
-    </programme>
-    <programme start="20260527180500 +0000" stop="20260527191000 +0000" channel="995495.shahid">
-        <title>Shurhuban</title>
-    </programme>
-    <programme start="20260527191000 +0000" stop="20260527200000 +0000" channel="995495.shahid">
-        <title>Horras Al Hoqoul</title>
-    </programme>
-    <programme start="20260527200000 +0000" stop="20260527204900 +0000" channel="995495.shahid">
-        <title>London Symphony Orchestra: Jonathon Heyward Conducts Stravinsky &amp; Dvořák</title>
-    </programme>
-    <programme start="20260527204900 +0000" stop="20260527220000 +0000" channel="995495.shahid">
-        <title>London Symphony Orchestra: Jonathon Heyward Conducts Stravinsky &amp; Dvořák</title>
-    </programme>
-    <programme start="20260527220000 +0000" stop="20260528005500 +0000" channel="995495.shahid">
-        <title>Murahiq Fi Al Khamseen</title>
-    </programme>
-    <programme start="20260528005500 +0000" stop="20260528031000 +0000" channel="995495.shahid">
-        <title>Marvels Of Saudi Orchestra</title>
-    </programme>
-    <programme start="20260528031000 +0000" stop="20260528041500 +0000" channel="995495.shahid">
-        <title>Shurhuban</title>
-    </programme>
-    <programme start="20260528041500 +0000" stop="20260528050000 +0000" channel="995495.shahid">
-        <title>Horras Al Hoqoul</title>
-    </programme>
-    <programme start="20260528050000 +0000" stop="20260528054800 +0000" channel="995495.shahid">
-        <title>London Symphony Orchestra: Jonathon Heyward Conducts Stravinsky &amp; Dvořák</title>
-    </programme>
-    <programme start="20260528054800 +0000" stop="20260528070100 +0000" channel="995495.shahid">
-        <title>London Symphony Orchestra: Jonathon Heyward Conducts Stravinsky &amp; Dvořák</title>
-    </programme>
-    <programme start="20260528070100 +0000" stop="20260528101000 +0000" channel="995495.shahid">
-        <title>Murahiq Fi Al Khamseen</title>
-    </programme>
-    <programme start="20260528101000 +0000" stop="20260528121500 +0000" channel="995495.shahid">
-        <title>Marvels Of Saudi Orchestra</title>
-    </programme>
-    <programme start="20260528121500 +0000" stop="20260528132500 +0000" channel="995495.shahid">
-        <title>Shurhuban</title>
-    </programme>
-    <programme start="20260528132500 +0000" stop="20260528160000 +0000" channel="995495.shahid">
-        <title>Al Theeb Fi Al Gleeb</title>
-    </programme>
-    <programme start="20260528160000 +0000" stop="20260528181000 +0000" channel="995495.shahid">
-        <title>Marvels Of Saudi Orchestra</title>
-    </programme>
-    <programme start="20260528181000 +0000" stop="20260528192500 +0000" channel="995495.shahid">
-        <title>Ghayma</title>
-    </programme>
-    <programme start="20260528192500 +0000" stop="20260528201500 +0000" channel="995495.shahid">
-        <title>Al Na’ishoun</title>
-    </programme>
-    <programme start="20260528201500 +0000" stop="20260528210400 +0000" channel="995495.shahid">
-        <title>London Symphony Orchestra: Stravinsky Ballets</title>
-    </programme>
-    <programme start="20260528210400 +0000" stop="20260528215500 +0000" channel="995495.shahid">
-        <title>London Symphony Orchestra: Stravinsky Ballets</title>
-    </programme>
-    <programme start="20260528215500 +0000" stop="20260528235959 +0000" channel="995495.shahid">
-        <title>Al Theeb Fi Al Gleeb</title>
     </programme>
     <programme start="20260527000000 +0000" stop="20260528235959 +0000" channel="1005232.shahid">
         <title>TV guide is not available</title>

@@ -2642,13 +2642,13 @@
         <title>My Dearest Part 2</title>
     </programme>
     <programme start="20260526160000 +0000" stop="20260526163000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+        <title>Puthu Vasantham</title>
     </programme>
     <programme start="20260526163000 +0000" stop="20260526230000 +0000" channel="Sun TV.starhub">
-        <title>SONGS</title>
+        <title>Songs</title>
     </programme>
     <programme start="20260526230000 +0000" stop="20260526233000 +0000" channel="Sun TV.starhub">
-        <title>NEWS</title>
+        <title>News</title>
     </programme>
     <programme start="20260526233000 +0000" stop="20260527000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
@@ -2675,28 +2675,28 @@
         <title>Thulasi</title>
     </programme>
     <programme start="20260527050000 +0000" stop="20260527053000 +0000" channel="Sun TV.starhub">
-        <title>VINODHINI</title>
+        <title>Vinodhini</title>
     </programme>
     <programme start="20260527053000 +0000" stop="20260527060000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+        <title>Puthu Vasantham</title>
     </programme>
     <programme start="20260527060000 +0000" stop="20260527063000 +0000" channel="Sun TV.starhub">
-        <title>LAKSHMI</title>
+        <title>Lakshmi</title>
     </programme>
     <programme start="20260527063000 +0000" stop="20260527070000 +0000" channel="Sun TV.starhub">
-        <title>IRU MALARGAL</title>
+        <title>Iru Malargal</title>
     </programme>
     <programme start="20260527070000 +0000" stop="20260527073000 +0000" channel="Sun TV.starhub">
-        <title>AADUKALAM</title>
+        <title>Aadukalam</title>
     </programme>
     <programme start="20260527073000 +0000" stop="20260527080000 +0000" channel="Sun TV.starhub">
-        <title>Movie-BAGAVATHI</title>
+        <title>Movie - Bagavathi</title>
     </programme>
     <programme start="20260527080000 +0000" stop="20260527083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260527083000 +0000" stop="20260527103000 +0000" channel="Sun TV.starhub">
-        <title>Movie contd - BAGAVATHI</title>
+        <title>Movie Contd - Bagavathi</title>
     </programme>
     <programme start="20260527103000 +0000" stop="20260527110000 +0000" channel="Sun TV.starhub">
         <title>Chellame Chellame</title>
@@ -2720,13 +2720,13 @@
         <title>Singapenne</title>
     </programme>
     <programme start="20260527143000 +0000" stop="20260527150000 +0000" channel="Sun TV.starhub">
-        <title>ETHIRNEECHAL THODARGIRADHU</title>
+        <title>Ethirneechal Thodargiradhu</title>
     </programme>
     <programme start="20260527150000 +0000" stop="20260527153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
     <programme start="20260527153000 +0000" stop="20260527160000 +0000" channel="Sun TV.starhub">
-        <title>IRU MALARGAL</title>
+        <title>Iru Malargal</title>
     </programme>
     <programme start="20260526160000 +0000" stop="20260526163000 +0000" channel="Zee Tamil.starhub">
         <title>Veera</title>

@@ -826,9 +826,6 @@
 <programme start="20260527124500 +0000" stop="20260527130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
-<programme start="20260527130000 +0000" stop="20260527133000 +0000" channel="TVOne.vision">
-<title>Indonesia Berzikir</title>
-</programme>
 <programme start="20260527133000 +0000" stop="20260527143000 +0000" channel="TVOne.vision">
 <title>Idul Adha: Gema Persaudaraan</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260527170000 +0000" stop="20260527190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260527190000 +0000" stop="20260527210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
