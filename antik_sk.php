@@ -3769,10 +3769,10 @@
   <programme start="20260529145000 +0000" stop="20260529150500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">DVA3</title>
   </programme>
-  <programme start="20260529150500 +0000" stop="20260529152100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260529150500 +0000" stop="20260529152000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Terčin zvířecí svět</title>
   </programme>
-  <programme start="20260529152100 +0000" stop="20260529155000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260529152000 +0000" stop="20260529155000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kouzelná školka</title>
   </programme>
   <programme start="20260529155000 +0000" stop="20260529161500 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3802,10 +3802,10 @@
   <programme start="20260529180000 +0000" stop="20260529181300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Události v kultuře</title>
   </programme>
-  <programme start="20260529181300 +0000" stop="20260529181500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260529181300 +0000" stop="20260529181600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Echo Pražského jara 2026</title>
   </programme>
-  <programme start="20260529181500 +0000" stop="20260529184500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260529181600 +0000" stop="20260529184500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ikony Kamila Střihavky (7/10)</title>
   </programme>
   <programme start="20260529184500 +0000" stop="20260529193600 +0000" channel="ČT :D - ČT art.webtv.sk">

@@ -2497,6 +2497,9 @@
 <programme start="20260527090000 +0000" stop="20260527110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Arsenal - Atletico Madrid, Halbfinale Rückspiel</title>
 </programme>
+<programme start="20260527110000 +0000" stop="20260527113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: FAK - ASK, 32. Runde</title>
+</programme>
 <programme start="20260527113000 +0000" stop="20260527114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
@@ -2529,6 +2532,9 @@
 </programme>
 <programme start="20260527183000 +0000" stop="20260527184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
+</programme>
+<programme start="20260527184500 +0000" stop="20260527191500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: FAK - ASK, 32. Runde</title>
 </programme>
 <programme start="20260527191500 +0000" stop="20260527193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
@@ -3268,13 +3274,10 @@
 <programme start="20260527003000 +0000" stop="20260527032000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 5</title>
 </programme>
-<programme start="20260527032000 +0000" stop="20260527033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260527032000 +0000" stop="20260527041000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260527033000 +0000" stop="20260527040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Netbusters, 38. Spieltag</title>
-</programme>
-<programme start="20260527040000 +0000" stop="20260527060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260527041000 +0000" stop="20260527060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Rot-Weiss Essen - SpVgg Greuther Fürth, Relegation Hinspiel</title>
 </programme>
 <programme start="20260527060000 +0000" stop="20260527080000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3340,8 +3343,8 @@
 <programme start="20260527214500 +0000" stop="20260527221500 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (6)</title>
 </programme>
-<programme start="20260526220000 +0000" stop="20260526232500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt ab 01:25 Live NBA</title>
+<programme start="20260526230500 +0000" stop="20260526232500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Live NBA</title>
 </programme>
 <programme start="20260526232500 +0000" stop="20260527000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3349,10 +3352,10 @@
 <programme start="20260527000000 +0000" stop="20260527003000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260527003000 +0000" stop="20260527032000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260527003000 +0000" stop="20260527030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Oklahoma City Thunder, Western Conference Finals, Spiel 5</title>
 </programme>
-<programme start="20260527032000 +0000" stop="20260527043000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260527030000 +0000" stop="20260527080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260527090000 +0000" stop="20260527090500 +0000" channel="Sky Sport 4 HD.skyde">
