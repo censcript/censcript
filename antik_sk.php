@@ -487,22 +487,22 @@
   <programme start="20260529213100 +0000" stop="20260529230000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hádzaná - MOL liga - MOL liga 2025/26 (nadstavba, 6. kolo): HK Slovan Duslo Šaľa - HC DAC Dunajská Streda</title>
   </programme>
-  <programme start="20260528211000 +0000" stop="20260528223000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260528210500 +0000" stop="20260528222500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Odznak Vysočina III (2)</title>
   </programme>
-  <programme start="20260528223000 +0000" stop="20260528232500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260528222500 +0000" stop="20260528231500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista IV (1)</title>
   </programme>
-  <programme start="20260528232500 +0000" stop="20260529001000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260528231500 +0000" stop="20260529000000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista IV (2)</title>
   </programme>
-  <programme start="20260529001000 +0000" stop="20260529013000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260529000000 +0000" stop="20260529011500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260529013000 +0000" stop="20260529021500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260529011500 +0000" stop="20260529015500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady (4)</title>
   </programme>
-  <programme start="20260529021500 +0000" stop="20260529030000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260529015500 +0000" stop="20260529030000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (2)</title>
   </programme>
   <programme start="20260529030000 +0000" stop="20260529040000 +0000" channel="Markíza.webtv.sk">
@@ -562,13 +562,13 @@
   <programme start="20260529181500 +0000" stop="20260529183000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
-  <programme start="20260529183000 +0000" stop="20260529195000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260529183000 +0000" stop="20260529194000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Ruža pre nevestu IV (23)</title>
   </programme>
-  <programme start="20260529195000 +0000" stop="20260529211000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260529194000 +0000" stop="20260529211500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Ruža pre nevestu IV (24)</title>
   </programme>
-  <programme start="20260529211000 +0000" stop="20260529231000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260529211500 +0000" stop="20260529230500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Týždeň bez záväzkov</title>
   </programme>
   <programme start="20260528212000 +0000" stop="20260528223000 +0000" channel="JOJ.webtv.sk">
@@ -655,25 +655,25 @@
   <programme start="20260529213000 +0000" stop="20260529232000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Bastardi: Reparát</title>
   </programme>
-  <programme start="20260528205500 +0000" stop="20260528221000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260528205500 +0000" stop="20260528220500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Policie Modrava I (7)</title>
   </programme>
-  <programme start="20260528221000 +0000" stop="20260528233000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260528220500 +0000" stop="20260528232500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Odznak Vysočina III (2)</title>
   </programme>
-  <programme start="20260528233000 +0000" stop="20260529002500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260528232500 +0000" stop="20260529001500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Mentalista IV (1)</title>
   </programme>
-  <programme start="20260529002500 +0000" stop="20260529011000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260529001500 +0000" stop="20260529010000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Mentalista IV (2)</title>
   </programme>
-  <programme start="20260529011000 +0000" stop="20260529023000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260529010000 +0000" stop="20260529021500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260529023000 +0000" stop="20260529031500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260529021500 +0000" stop="20260529025500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Susedské prípady (4)</title>
   </programme>
-  <programme start="20260529031500 +0000" stop="20260529040000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260529025500 +0000" stop="20260529040000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Rodinné prípady (2)</title>
   </programme>
   <programme start="20260529040000 +0000" stop="20260529050000 +0000" channel="Markíza +1.webtv.sk">
@@ -733,10 +733,10 @@
   <programme start="20260529191500 +0000" stop="20260529193000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
-  <programme start="20260529193000 +0000" stop="20260529205000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260529193000 +0000" stop="20260529204000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Ruža pre nevestu IV (23)</title>
   </programme>
-  <programme start="20260529205000 +0000" stop="20260529221000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260529204000 +0000" stop="20260529221500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Ruža pre nevestu IV (24)</title>
   </programme>
   <programme start="20260528185500 +0000" stop="20260528222000 +0000" channel="JOJ +1.webtv.sk">
@@ -1093,67 +1093,67 @@
   <programme start="20260529210500 +0000" stop="20260529223500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zachránené životy (207)</title>
   </programme>
-  <programme start="20260528215000 +0000" stop="20260528223000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260528213500 +0000" stop="20260528221500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti VI (16)</title>
   </programme>
-  <programme start="20260528223000 +0000" stop="20260528231000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260528221500 +0000" stop="20260528230000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XII (21)</title>
   </programme>
-  <programme start="20260528231000 +0000" stop="20260528235000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260528230000 +0000" stop="20260528234000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XII (22)</title>
   </programme>
-  <programme start="20260528235000 +0000" stop="20260529003000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260528234000 +0000" stop="20260529002000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS: Hawaii I (15)</title>
   </programme>
-  <programme start="20260529003000 +0000" stop="20260529011000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529002000 +0000" stop="20260529010000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS: Hawaii I (16)</title>
   </programme>
-  <programme start="20260529011000 +0000" stop="20260529025000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529010000 +0000" stop="20260529030000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">112 (22)</title>
   </programme>
-  <programme start="20260529025000 +0000" stop="20260529034000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529030000 +0000" stop="20260529035000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (4)</title>
   </programme>
-  <programme start="20260529034000 +0000" stop="20260529042500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529035000 +0000" stop="20260529043000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (20)</title>
   </programme>
-  <programme start="20260529042500 +0000" stop="20260529050500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529043000 +0000" stop="20260529051500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (21)</title>
   </programme>
-  <programme start="20260529050500 +0000" stop="20260529055000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529051500 +0000" stop="20260529060000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (15)</title>
   </programme>
-  <programme start="20260529055000 +0000" stop="20260529063000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529060000 +0000" stop="20260529063500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS: Hawaii I (15)</title>
   </programme>
-  <programme start="20260529063000 +0000" stop="20260529071000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529063500 +0000" stop="20260529072000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS: Hawaii I (16)</title>
   </programme>
-  <programme start="20260529071000 +0000" stop="20260529080500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529072000 +0000" stop="20260529081500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Mentalista IV (1)</title>
   </programme>
-  <programme start="20260529080500 +0000" stop="20260529084500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529081500 +0000" stop="20260529085500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Mentalista IV (2)</title>
   </programme>
-  <programme start="20260529084500 +0000" stop="20260529092500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529085500 +0000" stop="20260529093500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XII (21)</title>
   </programme>
-  <programme start="20260529092500 +0000" stop="20260529100500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529093500 +0000" stop="20260529101500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XII (22)</title>
   </programme>
-  <programme start="20260529100500 +0000" stop="20260529105000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529101500 +0000" stop="20260529105500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (22)</title>
   </programme>
-  <programme start="20260529105000 +0000" stop="20260529120500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529105500 +0000" stop="20260529121500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (23)</title>
   </programme>
-  <programme start="20260529120500 +0000" stop="20260529130000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529121500 +0000" stop="20260529130000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">V mene zákona (19)</title>
   </programme>
-  <programme start="20260529130000 +0000" stop="20260529141000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529130000 +0000" stop="20260529141500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti VI (17)</title>
   </programme>
-  <programme start="20260529141000 +0000" stop="20260529150000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529141500 +0000" stop="20260529150000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti VI (18)</title>
   </programme>
   <programme start="20260529150000 +0000" stop="20260529160500 +0000" channel="Markíza Krimi.webtv.sk">
@@ -1162,20 +1162,23 @@
   <programme start="20260529160500 +0000" stop="20260529170000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Mentalista IV (4)</title>
   </programme>
-  <programme start="20260529170000 +0000" stop="20260529175500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529170000 +0000" stop="20260529180000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XII (23)</title>
   </programme>
-  <programme start="20260529175500 +0000" stop="20260529185500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529180000 +0000" stop="20260529185500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XII (24)</title>
   </programme>
   <programme start="20260529185500 +0000" stop="20260529195500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti IV (16)</title>
   </programme>
-  <programme start="20260529195500 +0000" stop="20260529210000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529195500 +0000" stop="20260529205500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti IV (17)</title>
   </programme>
-  <programme start="20260529210000 +0000" stop="20260529220000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260529205500 +0000" stop="20260529215500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti VI (17)</title>
+  </programme>
+  <programme start="20260529215500 +0000" stop="20260529223500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Kosti VI (18)</title>
   </programme>
   <programme start="20260528210500 +0000" stop="20260528230000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Preteky s časom</title>
@@ -1282,13 +1285,13 @@
   <programme start="20260529200000 +0000" stop="20260529224000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Footgolf</title>
   </programme>
-  <programme start="20260528194000 +0000" stop="20260528221500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260528195000 +0000" stop="20260528221000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal - Európska liga</title>
   </programme>
-  <programme start="20260528221500 +0000" stop="20260528233500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260528221000 +0000" stop="20260528232000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
-  <programme start="20260528233500 +0000" stop="20260529011500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260528232000 +0000" stop="20260529011500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
   <programme start="20260529011500 +0000" stop="20260529023000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -2797,8 +2800,11 @@
   <programme start="20260529164500 +0000" stop="20260529170000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">TELESHOPPING</title>
   </programme>
-  <programme start="20260529170000 +0000" stop="20260529184500 +0000" channel="PREMIUM.webtv.sk">
+  <programme start="20260529170000 +0000" stop="20260529181500 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">PREMIUM MELODIE</title>
+  </programme>
+  <programme start="20260529181500 +0000" stop="20260529184500 +0000" channel="PREMIUM.webtv.sk">
+    <title lang="id">PREMIUM COUNTRY</title>
   </programme>
   <programme start="20260529184500 +0000" stop="20260529190000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">TELESHOPPING</title>
@@ -2813,7 +2819,7 @@
     <title lang="id">VSTÁVÁME S DECHOVKOU</title>
   </programme>
   <programme start="20260529050000 +0000" stop="20260529060000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ŠLÁGRMIX</title>
+    <title lang="id">HITPANORAMA</title>
   </programme>
   <programme start="20260529060000 +0000" stop="20260529070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
@@ -2833,11 +2839,11 @@
   <programme start="20260529130000 +0000" stop="20260529143000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20260529143000 +0000" stop="20260529160000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260529143000 +0000" stop="20260529175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">LATTÉ O PŮL PÁTÉ</title>
   </programme>
-  <programme start="20260529160000 +0000" stop="20260529182000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PODVEČERNÍ ZÁBAVA</title>
+  <programme start="20260529175000 +0000" stop="20260529182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260529182000 +0000" stop="20260529220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
@@ -4910,7 +4916,7 @@
     <title lang="id">Výběrová auta</title>
   </programme>
   <programme start="20260529113000 +0000" stop="20260529121500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Záchrancovia klasických áut</title>
+    <title lang="id">Celebritné preteky na kolesách</title>
   </programme>
   <programme start="20260529121500 +0000" stop="20260529124500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
@@ -4951,8 +4957,14 @@
   <programme start="20260529191500 +0000" stop="20260529200000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Martin z Martina</title>
   </programme>
-  <programme start="20260529200000 +0000" stop="20260529220000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Sc Heerenveen - AFC Ajax</title>
+  <programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
+  </programme>
+  <programme start="20260529203000 +0000" stop="20260529210000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Výběrová auta</title>
+  </programme>
+  <programme start="20260529210000 +0000" stop="20260529220000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
   </programme>
   <programme start="20260528212000 +0000" stop="20260528230500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Montreal Canadiens - Carolina Hurricanes</title>
@@ -16633,10 +16645,10 @@
   <programme start="20260529012000 +0000" stop="20260529015000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260529015000 +0000" stop="20260529015800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260529015000 +0000" stop="20260529015700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260529015800 +0000" stop="20260529022900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260529015700 +0000" stop="20260529022900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia V (54)</title>
   </programme>
   <programme start="20260529022900 +0000" stop="20260529025600 +0000" channel="TVP Info.webtv.sk">
@@ -16789,11 +16801,11 @@
   <programme start="20260529160000 +0000" stop="20260529163000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama 18.00</title>
   </programme>
-  <programme start="20260529163000 +0000" stop="20260529171000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Forum (1474)</title>
-  </programme>
-  <programme start="20260529171000 +0000" stop="20260529172800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260529163000 +0000" stop="20260529170000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
+  </programme>
+  <programme start="20260529170000 +0000" stop="20260529172800 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info. (1834)</title>
   </programme>
   <programme start="20260529172800 +0000" stop="20260529173000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Sprawdzam to Extra (15)</title>
@@ -18311,7 +18323,7 @@
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260529203000 +0000" stop="20260529210000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Program to be Announced</title>
+    <title lang="id">Iran, Israel and the Bomb</title>
   </programme>
   <programme start="20260529210000 +0000" stop="20260529220000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
