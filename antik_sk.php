@@ -1249,16 +1249,16 @@
   <programme start="20260529001000 +0000" stop="20260529023000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260529023000 +0000" stop="20260529031500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260529023000 +0000" stop="20260529030000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Sumár dňa 2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260529031500 +0000" stop="20260529052500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260529030000 +0000" stop="20260529051000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260529052500 +0000" stop="20260529060000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260529051000 +0000" stop="20260529054000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Sumár dňa 2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260529060000 +0000" stop="20260529082500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260529054000 +0000" stop="20260529082500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260529082500 +0000" stop="20260529104000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1282,7 +1282,7 @@
   <programme start="20260529165500 +0000" stop="20260529200000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20260529200000 +0000" stop="20260529224000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260529200000 +0000" stop="20260529221000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Footgolf</title>
   </programme>
   <programme start="20260528195000 +0000" stop="20260528221000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -5021,10 +5021,13 @@
     <title lang="id">NHL play-off</title>
   </programme>
   <programme start="20260528213000 +0000" stop="20260528233000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">New York Knicks - Cleveland Cavaliers</title>
-  </programme>
-  <programme start="20260528233000 +0000" stop="20260529013000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Oklahoma City Thunder - San Antonio Spurs</title>
+  </programme>
+  <programme start="20260528233000 +0000" stop="20260529011000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">FC Rouen - Stade Lavallois</title>
+  </programme>
+  <programme start="20260529011000 +0000" stop="20260529013000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Karate Grand Prix Hradec Králové 2026</title>
   </programme>
   <programme start="20260529013000 +0000" stop="20260529014500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">DFB-Pokal Highlights (7)</title>
@@ -5045,7 +5048,7 @@
     <title lang="id">San Antonio Spurs - Oklahoma City Thunder</title>
   </programme>
   <programme start="20260529120000 +0000" stop="20260529140000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">New York Knicks - Cleveland Cavaliers</title>
+    <title lang="id">RC Lens - OGC Nice</title>
   </programme>
   <programme start="20260529140000 +0000" stop="20260529143000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Swatch Nines Snow - THE FULL STORY</title>
