@@ -983,10 +983,10 @@
     <title>Sendepause</title>
 </programme>
 <programme start="20260527060000 +0000" stop="20260527080000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga 25/26: TBC - TBC</title>
+    <title>Bundesliga 25/26: FC St. Pauli - VFL Wolfsburg</title>
 </programme>
 <programme start="20260527080000 +0000" stop="20260527095500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Fußball 25/26: TBC - TBC</title>
+    <title>Bundesliga 25/26: FC Bayern München - 1. FC Köln</title>
 </programme>
 <programme start="20260527095500 +0000" stop="20260527102500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -1007,13 +1007,13 @@
     <title>Serie A Highlightshow 25/26: 38. Spieltag</title>
 </programme>
 <programme start="20260527133000 +0000" stop="20260527152500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Fußball 25/26: TBC - TBC</title>
+    <title>Serie A 25/26: FC Bologna - Inter Mailand</title>
 </programme>
 <programme start="20260527152500 +0000" stop="20260527153000 +0000" channel="DAZN 2 HD.skyde">
     <title>Fußball 25/26: TBC - TBC</title>
 </programme>
 <programme start="20260527153000 +0000" stop="20260527173000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Fußball 25/26: TBC - TBC</title>
+    <title>LaLiga 25/26: FC Valencia - FC Barcelona</title>
 </programme>
 <programme start="20260527173000 +0000" stop="20260527180500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -1022,7 +1022,7 @@
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 26. Spieltag</title>
 </programme>
 <programme start="20260527183500 +0000" stop="20260527203500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga 25/26: TBC - TBC</title>
+    <title>Serie A 25/26: FC Bologna - Inter Mailand</title>
 </programme>
 <programme start="20260527203500 +0000" stop="20260527213000 +0000" channel="DAZN 2 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 1</title>
@@ -4081,10 +4081,10 @@
 <programme start="20260527091500 +0000" stop="20260527110500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ivanhoe</title>
 </programme>
-<programme start="20260527110500 +0000" stop="20260527140500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260527110500 +0000" stop="20260527140000 +0000" channel="Warner TV Film HD.skyde">
     <title>Braveheart</title>
 </programme>
-<programme start="20260527140500 +0000" stop="20260527162500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260527140000 +0000" stop="20260527162500 +0000" channel="Warner TV Film HD.skyde">
     <title>Forrest Gump</title>
 </programme>
 <programme start="20260527162500 +0000" stop="20260527181500 +0000" channel="Warner TV Film HD.skyde">
