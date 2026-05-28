@@ -2609,6 +2609,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529120000 +0000" stop="20260529140000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>TEST: BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
+<programme start="20260529120000 +0000" stop="20260529140000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+    <title>TEST: BL: Bayer Leverkusen - VfL Wolfsburg, 28. Spieltag</title>
+</programme>
 <programme start="20260529120000 +0000" stop="20260529140000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
@@ -2646,7 +2649,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Chasing the Dream: Welcome to Miami!</title>
 </programme>
 <programme start="20260529121500 +0000" stop="20260529123000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 4. Episode 2026</title>
+    <title>Chasing the Dream: O Canada!</title>
 </programme>
 <programme start="20260529123000 +0000" stop="20260529153000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 110th Indianapolis 500</title>
@@ -2692,6 +2695,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260529110000 +0000" stop="20260529140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südkorea, 2. Tag in Busan</title>
+</programme>
+<programme start="20260529140000 +0000" stop="20260529150000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: McIlroy&#039;s Masterpiece</title>
 </programme>
 <programme start="20260529150000 +0000" stop="20260529160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Amundi German Masters</title>
@@ -2807,10 +2813,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529093000 +0000" stop="20260529100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Transfer Update: Die Show</title>
 </programme>
-<programme start="20260529100000 +0000" stop="20260529110000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260529100000 +0000" stop="20260529113000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20260529110000 +0000" stop="20260529120000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260529113000 +0000" stop="20260529120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: DFB-PK</title>
 </programme>
 <programme start="20260529120000 +0000" stop="20260529130000 +0000" channel="Sky Sport News HD.skyde">
@@ -2858,11 +2864,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529013000 +0000" stop="20260529023000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: GOATS (German Stars)</title>
 </programme>
-<programme start="20260529023000 +0000" stop="20260529043000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260529023000 +0000" stop="20260529050000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Hull City - FC Middlesbrough, Playoff-Finale in Wembley</title>
-</programme>
-<programme start="20260529043000 +0000" stop="20260529050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BRI - MUN, 38. Spieltag</title>
 </programme>
 <programme start="20260529050000 +0000" stop="20260529053000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Aaron Ramsey - My Arsenal Years</title>
@@ -2960,13 +2963,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529003000 +0000" stop="20260529033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - J. Cristian (ROU), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
 </programme>
-<programme start="20260529033000 +0000" stop="20260529053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260529033000 +0000" stop="20260529054500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
-<programme start="20260529053000 +0000" stop="20260529060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260529054500 +0000" stop="20260529061500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260529060000 +0000" stop="20260529080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260529061500 +0000" stop="20260529080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20260529080000 +0000" stop="20260529100000 +0000" channel="Sky Sport Tennis HD.skyde">
