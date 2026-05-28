@@ -1907,7 +1907,7 @@
         <title>Roland Garros 2026 (2): Day 5 (Live)</title>
     </programme>
     <programme start="20260528200000 +0000" stop="20260528203000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs C</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Cameroon</title>
     </programme>
     <programme start="20260528203000 +0000" stop="20260528210000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Angola vs Egypt</title>

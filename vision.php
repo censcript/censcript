@@ -667,12 +667,6 @@
 <programme start="20260528103000 +0000" stop="20260528120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260528163000 +0000" stop="20260528183000 +0000" channel="ANTV.vision">
-<title>Jaka Tuak</title>
-</programme>
-<programme start="20260528183000 +0000" stop="20260528193000 +0000" channel="ANTV.vision">
-<title>Scared</title>
-</programme>
 <programme start="20260528193000 +0000" stop="20260528220000 +0000" channel="ANTV.vision">
 <title>Chaahat</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260529073000 +0000" stop="20260529080000 +0000" channel="BTV.vision">
 <title>Relasi</title>
+</programme>
+<programme start="20260529080000 +0000" stop="20260529083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
+</programme>
+<programme start="20260529083000 +0000" stop="20260529090000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
 </programme>

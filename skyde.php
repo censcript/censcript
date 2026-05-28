@@ -2613,294 +2613,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260528210000 +0000" stop="20260528230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Rapid - SV Oberbank Ried, Europacup-Playoffs, Finale Rückspiel</title>
 </programme>
-<programme start="20260528090000 +0000" stop="20260528090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528090500 +0000" stop="20260528091000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528091000 +0000" stop="20260528091500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528091500 +0000" stop="20260528092000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528092000 +0000" stop="20260528092500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528092500 +0000" stop="20260528093000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528093000 +0000" stop="20260528093500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528093500 +0000" stop="20260528094000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528094000 +0000" stop="20260528094500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528094500 +0000" stop="20260528095000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528095000 +0000" stop="20260528095500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528095500 +0000" stop="20260528100000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528100000 +0000" stop="20260528100500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528100500 +0000" stop="20260528101000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528101000 +0000" stop="20260528101500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528101500 +0000" stop="20260528102000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528102000 +0000" stop="20260528102500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528102500 +0000" stop="20260528103000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528103000 +0000" stop="20260528103500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528103500 +0000" stop="20260528104000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528104000 +0000" stop="20260528104500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528104500 +0000" stop="20260528105000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528105000 +0000" stop="20260528105500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528105500 +0000" stop="20260528110000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528110000 +0000" stop="20260528110500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528110500 +0000" stop="20260528111000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528111000 +0000" stop="20260528111500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528111500 +0000" stop="20260528112000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528112000 +0000" stop="20260528112500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528112500 +0000" stop="20260528113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528113000 +0000" stop="20260528113500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528113500 +0000" stop="20260528114000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528114000 +0000" stop="20260528114500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528114500 +0000" stop="20260528115000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528115000 +0000" stop="20260528115500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528115500 +0000" stop="20260528120000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528120000 +0000" stop="20260528120500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528120500 +0000" stop="20260528121000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528121000 +0000" stop="20260528121500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528121500 +0000" stop="20260528122000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528122000 +0000" stop="20260528122500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528122500 +0000" stop="20260528123000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528123000 +0000" stop="20260528123500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528123500 +0000" stop="20260528124000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528124000 +0000" stop="20260528124500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528124500 +0000" stop="20260528125000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528125000 +0000" stop="20260528125500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528125500 +0000" stop="20260528130000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528130000 +0000" stop="20260528130500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528130500 +0000" stop="20260528131000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528131000 +0000" stop="20260528131500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528131500 +0000" stop="20260528132000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528132000 +0000" stop="20260528132500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528132500 +0000" stop="20260528133000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528133000 +0000" stop="20260528133500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528133500 +0000" stop="20260528134000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528134000 +0000" stop="20260528134500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528134500 +0000" stop="20260528135000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528135000 +0000" stop="20260528135500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528135500 +0000" stop="20260528140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528140000 +0000" stop="20260528140500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528140500 +0000" stop="20260528141000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528141000 +0000" stop="20260528141500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528141500 +0000" stop="20260528142000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528142000 +0000" stop="20260528142500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528142500 +0000" stop="20260528143000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528143000 +0000" stop="20260528143500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528143500 +0000" stop="20260528144000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528144000 +0000" stop="20260528144500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528144500 +0000" stop="20260528145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528145000 +0000" stop="20260528145500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528145500 +0000" stop="20260528150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528150000 +0000" stop="20260528150500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528150500 +0000" stop="20260528151000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528151000 +0000" stop="20260528151500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528151500 +0000" stop="20260528152000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528152000 +0000" stop="20260528152500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528152500 +0000" stop="20260528153000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528153000 +0000" stop="20260528153500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528153500 +0000" stop="20260528154000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528154000 +0000" stop="20260528154500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528154500 +0000" stop="20260528155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528155000 +0000" stop="20260528155500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528155500 +0000" stop="20260528160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528160000 +0000" stop="20260528160500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528160500 +0000" stop="20260528161000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528161000 +0000" stop="20260528161500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528161500 +0000" stop="20260528162000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528162000 +0000" stop="20260528162500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528162500 +0000" stop="20260528163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528163000 +0000" stop="20260528163500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528163500 +0000" stop="20260528164000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260528164000 +0000" stop="20260528164500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260528164500 +0000" stop="20260528165000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260528165000 +0000" stop="20260528165500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260528165500 +0000" stop="20260528170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
 <programme start="20260527224500 +0000" stop="20260527231500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Road to the Americas (3)</title>
 </programme>
@@ -3180,22 +2892,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260528080000 +0000" stop="20260528090000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Saisonrückblick 2025/26</title>
 </programme>
-<programme start="20260528090000 +0000" stop="20260528091500 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260528090000 +0000" stop="20260528093000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: DFB-Training</title>
-</programme>
-<programme start="20260528091500 +0000" stop="20260528093000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20260528093000 +0000" stop="20260528100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Primetime Spezial - Road to New York</title>
 </programme>
-<programme start="20260528100000 +0000" stop="20260528113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20260528113000 +0000" stop="20260528120000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: DFB-PK</title>
-</programme>
-<programme start="20260528120000 +0000" stop="20260528130000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260528100000 +0000" stop="20260528130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
 <programme start="20260528130000 +0000" stop="20260528160000 +0000" channel="Sky Sport News HD.skyde">
@@ -3210,8 +2913,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260528170000 +0000" stop="20260528173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime Spezial - Road to New York</title>
 </programme>
-<programme start="20260528173000 +0000" stop="20260528183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260528173000 +0000" stop="20260528180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20260528180000 +0000" stop="20260528183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Glasner. Eine Sky Sport Austria Dokumentation</title>
 </programme>
 <programme start="20260528183000 +0000" stop="20260528193000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
@@ -3483,13 +3189,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260528193000 +0000" stop="20260528220000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
-<programme start="20260527224000 +0000" stop="20260527230000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live WNBA</title>
-</programme>
 <programme start="20260527230000 +0000" stop="20260528010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Phoenix Mercury @ New York Liberty</title>
 </programme>
-<programme start="20260528010000 +0000" stop="20260528080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260528010000 +0000" stop="20260528040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Atlanta Dream @ Minnesota Lynx</title>
 </programme>
 <programme start="20260528090000 +0000" stop="20260528090500 +0000" channel="Sky Sport 4 HD.skyde">
