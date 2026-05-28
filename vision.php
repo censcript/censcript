@@ -634,9 +634,6 @@
 <programme start="20260527230000 +0000" stop="20260528003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260528003000 +0000" stop="20260528023000 +0000" channel="ANTV.vision">
-<title>Sabar Dulu Dong</title>
-</programme>
 <programme start="20260528023000 +0000" stop="20260528060000 +0000" channel="ANTV.vision">
 <title>Dilwale Dulhania Le Jayenge</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260529090000 +0000" stop="20260529090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260529090500 +0000" stop="20260529100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>

@@ -14137,9 +14137,9 @@
     <category lang="en">Current Affairs</category>
   </programme>
   <programme start="20260528123000 +0000" stop="20260528130000 +0000" channel="bernamatv.unifitv">
-    <title lang="en">Sukan+ Close Up</title>
-    <desc lang="en">Program ini mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
-    <category lang="en">Current Affairs</category>
+    <title lang="en">Seruan Suchi</title>
+    <desc lang="en">Dokumentari klasik SERUAN SUCHI (1965) mengisahkan tentang ibadah haji yang dilaksanakan pada tahun 1965. Seramai 5 ribu jemaah haji Malaysia berangkat menunaikan ibadah haji pada tahun ini antaranya termasuklah SPB YDP Agong Tuanku Syed Putra ibni Al-Marhum Syed Hassan Jamalulail dan Raja Permaisuri Agong.</desc>
+    <category lang="en">Religious</category>
   </programme>
   <programme start="20260528130000 +0000" stop="20260528140000 +0000" channel="bernamatv.unifitv">
     <title lang="en">Ruang Bicara</title>

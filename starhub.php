@@ -7430,7 +7430,7 @@
         <title>Verified Live</title>
     </programme>
     <programme start="20260527154000 +0000" stop="20260527164000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Try Time NRL Try Time</title>
+        <title>NRL Try Time</title>
     </programme>
     <programme start="20260527164000 +0000" stop="20260527184000 +0000" channel="Premier Sports.starhub">
         <title>Challenge Cup Montpellier v Ulster</title>
@@ -7457,7 +7457,7 @@
         <title>NRL Cowboys v Rabbitohs</title>
     </programme>
     <programme start="20260528050000 +0000" stop="20260528060000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Try Time NRL Try Time</title>
+        <title>NRL Try Time</title>
     </programme>
     <programme start="20260528060000 +0000" stop="20260528075000 +0000" channel="Premier Sports.starhub">
         <title>Super League Leigh v Hull</title>
@@ -7852,22 +7852,25 @@
     <programme start="20260528152000 +0000" stop="20260528163000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2026)</title>
     </programme>
-    <programme start="20260527133000 +0000" stop="20260527163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260527133000 +0000" stop="20260527162500 +0000" channel="Asianet Movies.starhub">
         <title>Manjummel Boys</title>
     </programme>
-    <programme start="20260527163000 +0000" stop="20260527193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260527162500 +0000" stop="20260527185500 +0000" channel="Asianet Movies.starhub">
         <title>Forensic</title>
     </programme>
-    <programme start="20260527193000 +0000" stop="20260527213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260527185500 +0000" stop="20260527211500 +0000" channel="Asianet Movies.starhub">
         <title>Gods Own Country</title>
     </programme>
-    <programme start="20260527213000 +0000" stop="20260527233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260527211500 +0000" stop="20260527233000 +0000" channel="Asianet Movies.starhub">
         <title>Hotel California</title>
     </programme>
     <programme start="20260527233000 +0000" stop="20260528013000 +0000" channel="Asianet Movies.starhub">
         <title>Romeo</title>
     </programme>
-    <programme start="20260528013000 +0000" stop="20260528043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260528013000 +0000" stop="20260528015000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika II</title>
+    </programme>
+    <programme start="20260528015000 +0000" stop="20260528043000 +0000" channel="Asianet Movies.starhub">
         <title>Aravindhante Athidhikal</title>
     </programme>
     <programme start="20260528043000 +0000" stop="20260528073000 +0000" channel="Asianet Movies.starhub">

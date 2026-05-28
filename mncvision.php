@@ -7462,11 +7462,11 @@
 <programme start="20260528043000 +0000" stop="20260528050000 +0000" channel="RCTI.mncvision">
     <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260528050000 +0000" stop="20260528070000 +0000" channel="RCTI.mncvision">
+<programme start="20260528050000 +0000" stop="20260528063000 +0000" channel="RCTI.mncvision">
     <title>Iiihhh Serrreemm</title>
 </programme>
-<programme start="20260528070000 +0000" stop="20260528090000 +0000" channel="RCTI.mncvision">
-    <title>Lukisan Berdarah</title>
+<programme start="20260528063000 +0000" stop="20260528090000 +0000" channel="RCTI.mncvision">
+    <title>Iiihhh Serrreemm</title>
 </programme>
 <programme start="20260528090000 +0000" stop="20260528103000 +0000" channel="RCTI.mncvision">
     <title>Takut Gak Sih</title>
@@ -7513,11 +7513,11 @@
 <programme start="20260528043000 +0000" stop="20260528050000 +0000" channel="RCTI HD.mncvision">
     <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260528050000 +0000" stop="20260528070000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260528050000 +0000" stop="20260528063000 +0000" channel="RCTI HD.mncvision">
     <title>Iiihhh Serrreemm</title>
 </programme>
-<programme start="20260528070000 +0000" stop="20260528090000 +0000" channel="RCTI HD.mncvision">
-    <title>Lukisan Berdarah</title>
+<programme start="20260528063000 +0000" stop="20260528090000 +0000" channel="RCTI HD.mncvision">
+    <title>Iiihhh Serrreemm</title>
 </programme>
 <programme start="20260528090000 +0000" stop="20260528103000 +0000" channel="RCTI HD.mncvision">
     <title>Takut Gak Sih</title>
