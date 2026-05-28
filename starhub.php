@@ -1943,7 +1943,7 @@
         <title>MD17 Preview</title>
     </programme>
     <programme start="20260527233000 +0000" stop="20260528013000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2025/26: Freiburg vs Aston Villa - Final</title>
+        <title>Freiburg vs Aston Villa - Final</title>
     </programme>
     <programme start="20260528013000 +0000" stop="20260528023000 +0000" channel="beIN Sports 3.starhub">
         <title>UEL Final</title>
@@ -3851,7 +3851,7 @@
         <title>Health for Today (R)</title>
     </programme>
     <programme start="20260528062500 +0000" stop="20260528064000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Hoshi Shinichi&#039;s Short Story: The Man Who Came From Earth&quot; Encore (R)</title>
+        <title>Night Drama Serial &quot;Hoshi Shinichi&#039;s Short Story: The Man Who Came From Earth&quot; E</title>
     </programme>
     <programme start="20260528064000 +0000" stop="20260528065000 +0000" channel="NHK World Premium HD.starhub">
         <title>Points at Issue</title>
@@ -3913,8 +3913,11 @@
     <programme start="20260528130000 +0000" stop="20260528134500 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs of Our Generation</title>
     </programme>
-    <programme start="20260528134500 +0000" stop="20260528143000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260528134500 +0000" stop="20260528140000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Drama Serial &quot;Hoshi Shinichi&#039;s Short Story: Insomnia&quot; Encore（Final）</title>
+    </programme>
+    <programme start="20260528140000 +0000" stop="20260528143000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Tokoro-san&#039;s Pursuit of Truth (R)</title>
     </programme>
     <programme start="20260528143000 +0000" stop="20260528144000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Commentary</title>

@@ -15298,13 +15298,18 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260528015500 +0000" stop="20260528020000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
-    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260528020000 +0000" stop="20260528043000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260528020000 +0000" stop="20260528042500 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - GROUP B - MYANMAR vs MALAYSIA - (TEAM)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528042500 +0000" stop="20260528043000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260528043000 +0000" stop="20260528055500 +0000" channel="unifisports1.unifitv">
@@ -15313,8 +15318,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260528055500 +0000" stop="20260528060000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
-    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260528060000 +0000" stop="20260528083000 +0000" channel="unifisports1.unifitv">

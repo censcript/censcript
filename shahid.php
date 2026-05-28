@@ -1528,9 +1528,6 @@
     <programme start="20260528000000 +0000" stop="20260529235959 +0000" channel="49922904934759.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260528000000 +0000" stop="20260529235959 +0000" channel="49923088781412.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260528000000 +0000" stop="20260528000500 +0000" channel="862837.shahid">
         <title>Akhbar Asharq </title>
     </programme>
@@ -1899,6 +1896,9 @@
     </programme>
     <programme start="20260530000000 +0000" stop="20260529235959 +0000" channel="862837.shahid">
         <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260528000000 +0000" stop="20260529235959 +0000" channel="49923088781412.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260528000000 +0000" stop="20260529235959 +0000" channel="49922763891977.shahid">
         <title>TV guide is not available</title>
