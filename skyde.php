@@ -2899,7 +2899,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20260528093000 +0000" stop="20260528100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Primetime Spezial - Road to New York</title>
+    <title>Live Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20260528100000 +0000" stop="20260528113000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -3194,6 +3194,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260528193000 +0000" stop="20260528220000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
+</programme>
+<programme start="20260527224000 +0000" stop="20260527230000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Live WNBA</title>
 </programme>
 <programme start="20260527230000 +0000" stop="20260528010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Phoenix Mercury @ New York Liberty</title>

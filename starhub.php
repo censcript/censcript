@@ -6764,7 +6764,7 @@
         <title>The Final: Crystal Palace vs Rayo Vallecano</title>
     </programme>
     <programme start="20260527185500 +0000" stop="20260527210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Conference League 2025/26: Crystal Palace vs Rayo Vallecano - Final (Live)</title>
+        <title>Crystal Palace vs Rayo Vallecano - Final (Live)</title>
     </programme>
     <programme start="20260527210000 +0000" stop="20260527220000 +0000" channel="beIN Sports HD.starhub">
         <title>The Final: Crystal Palace vs Rayo Vallecano</title>

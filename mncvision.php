@@ -394,13 +394,13 @@
 <programme start="20260528060000 +0000" stop="20260528073000 +0000" channel="ANTV.mncvision">
     <title>Jhanak</title>
 </programme>
-<programme start="20260528073000 +0000" stop="20260528083000 +0000" channel="ANTV.mncvision">
+<programme start="20260528073000 +0000" stop="20260528090000 +0000" channel="ANTV.mncvision">
     <title>Sayali</title>
 </programme>
-<programme start="20260528083000 +0000" stop="20260528103000 +0000" channel="ANTV.mncvision">
+<programme start="20260528090000 +0000" stop="20260528110000 +0000" channel="ANTV.mncvision">
     <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260528103000 +0000" stop="20260528120000 +0000" channel="ANTV.mncvision">
+<programme start="20260528110000 +0000" stop="20260528120000 +0000" channel="ANTV.mncvision">
     <title>Vasudha</title>
 </programme>
 <programme start="20260528120000 +0000" stop="20260528143000 +0000" channel="ANTV.mncvision">
@@ -6211,16 +6211,22 @@
 <programme start="20260527233000 +0000" stop="20260528004500 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu, Ust. Dhanu</title>
 </programme>
-<programme start="20260528004500 +0000" stop="20260528014500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260528004500 +0000" stop="20260528013000 +0000" channel="Muslim TV.mncvision">
     <title>Kun Anta S2</title>
 </programme>
-<programme start="20260528014500 +0000" stop="20260528021500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260528013000 +0000" stop="20260528020000 +0000" channel="Muslim TV.mncvision">
     <title>World Of Moslem</title>
 </programme>
-<programme start="20260528021500 +0000" stop="20260528034500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260528020000 +0000" stop="20260528030000 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S2</title>
 </programme>
-<programme start="20260528034500 +0000" stop="20260528053000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260528030000 +0000" stop="20260528040000 +0000" channel="Muslim TV.mncvision">
+    <title>Aku Mencintaimu Karena Allah</title>
+</programme>
+<programme start="20260528040000 +0000" stop="20260528041500 +0000" channel="Muslim TV.mncvision">
+    <title>Kabar Haji 2026</title>
+</programme>
+<programme start="20260528041500 +0000" stop="20260528053000 +0000" channel="Muslim TV.mncvision">
     <title>Festival Hafiz Indonesia Spc.</title>
 </programme>
 <programme start="20260528053000 +0000" stop="20260528070000 +0000" channel="Muslim TV.mncvision">
@@ -6235,11 +6241,14 @@
 <programme start="20260528093000 +0000" stop="20260528103000 +0000" channel="Muslim TV.mncvision">
     <title>Lentera Hati Spesial Idul Adha</title>
 </programme>
-<programme start="20260528103000 +0000" stop="20260528114500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260528103000 +0000" stop="20260528112000 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S2</title>
 </programme>
-<programme start="20260528114500 +0000" stop="20260528130000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260528112000 +0000" stop="20260528123500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S2</title>
+</programme>
+<programme start="20260528123500 +0000" stop="20260528130000 +0000" channel="Muslim TV.mncvision">
+    <title>Kabar Haji 2026</title>
 </programme>
 <programme start="20260528130000 +0000" stop="20260528140000 +0000" channel="Muslim TV.mncvision">
     <title>99 Nama Cinta</title>
@@ -7666,52 +7675,52 @@
 <programme start="20260527210600 +0000" stop="20260527213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260527213000 +0000" stop="20260527220000 +0000" channel="SCTV.mncvision">
+<programme start="20260527213000 +0000" stop="20260527215600 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260527220000 +0000" stop="20260527230000 +0000" channel="SCTV.mncvision">
+<programme start="20260527215600 +0000" stop="20260527230600 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260527230000 +0000" stop="20260528000000 +0000" channel="SCTV.mncvision">
+<programme start="20260527230600 +0000" stop="20260528001100 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260528000000 +0000" stop="20260528010000 +0000" channel="SCTV.mncvision">
+<programme start="20260528001100 +0000" stop="20260528010700 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260528010000 +0000" stop="20260528030000 +0000" channel="SCTV.mncvision">
+<programme start="20260528010700 +0000" stop="20260528024700 +0000" channel="SCTV.mncvision">
     <title>Cintaku Zonk Ke Pelaminan</title>
 </programme>
-<programme start="20260528030000 +0000" stop="20260528050000 +0000" channel="SCTV.mncvision">
+<programme start="20260528024700 +0000" stop="20260528044500 +0000" channel="SCTV.mncvision">
     <title>Cowok Goat Bikin Terheran-Heran</title>
 </programme>
-<programme start="20260528050000 +0000" stop="20260528053000 +0000" channel="SCTV.mncvision">
+<programme start="20260528044500 +0000" stop="20260528051900 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260528053000 +0000" stop="20260528070000 +0000" channel="SCTV.mncvision">
+<programme start="20260528051900 +0000" stop="20260528065300 +0000" channel="SCTV.mncvision">
     <title>Cocoklogi Jadi Cocok Beneran</title>
 </programme>
-<programme start="20260528070000 +0000" stop="20260528083000 +0000" channel="SCTV.mncvision">
+<programme start="20260528065300 +0000" stop="20260528082600 +0000" channel="SCTV.mncvision">
     <title>Ilmu Padi Mbakku Makin...</title>
 </programme>
-<programme start="20260528083000 +0000" stop="20260528100000 +0000" channel="SCTV.mncvision">
+<programme start="20260528082600 +0000" stop="20260528100000 +0000" channel="SCTV.mncvision">
     <title>Benih Nangka Berbuah Cinta</title>
 </programme>
 <programme start="20260528100000 +0000" stop="20260528112500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260528112500 +0000" stop="20260528131000 +0000" channel="SCTV.mncvision">
+<programme start="20260528112500 +0000" stop="20260528130900 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260528131000 +0000" stop="20260528143500 +0000" channel="SCTV.mncvision">
+<programme start="20260528130900 +0000" stop="20260528143000 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260528143500 +0000" stop="20260528160000 +0000" channel="SCTV.mncvision">
+<programme start="20260528143000 +0000" stop="20260528160000 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260528160000 +0000" stop="20260528163000 +0000" channel="SCTV.mncvision">
+<programme start="20260528160000 +0000" stop="20260528162100 +0000" channel="SCTV.mncvision">
     <title>Reset Ekonomi 1998</title>
 </programme>
-<programme start="20260528163000 +0000" stop="20260527170000 +0000" channel="SCTV.mncvision">
+<programme start="20260528162100 +0000" stop="20260528165100 +0000" channel="SCTV.mncvision">
     <title>Aku Deketin Kamu, Kamu...</title>
 </programme>
 <programme start="20260527174500 +0000" stop="20260527184500 +0000" channel="SCTV HD.mncvision">
@@ -7726,52 +7735,52 @@
 <programme start="20260527210600 +0000" stop="20260527213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260527213000 +0000" stop="20260527220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260527213000 +0000" stop="20260527215600 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260527220000 +0000" stop="20260527230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260527215600 +0000" stop="20260527230600 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260527230000 +0000" stop="20260528000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260527230600 +0000" stop="20260528001100 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260528000000 +0000" stop="20260528010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528001100 +0000" stop="20260528010700 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260528010000 +0000" stop="20260528030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528010700 +0000" stop="20260528024700 +0000" channel="SCTV HD.mncvision">
     <title>Cintaku Zonk Ke Pelaminan</title>
 </programme>
-<programme start="20260528030000 +0000" stop="20260528050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528024700 +0000" stop="20260528044500 +0000" channel="SCTV HD.mncvision">
     <title>Cowok Goat Bikin Terheran-Heran</title>
 </programme>
-<programme start="20260528050000 +0000" stop="20260528053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528044500 +0000" stop="20260528051900 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260528053000 +0000" stop="20260528070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528051900 +0000" stop="20260528065300 +0000" channel="SCTV HD.mncvision">
     <title>Cocoklogi Jadi Cocok Beneran</title>
 </programme>
-<programme start="20260528070000 +0000" stop="20260528083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528065300 +0000" stop="20260528082600 +0000" channel="SCTV HD.mncvision">
     <title>Ilmu Padi Mbakku Makin...</title>
 </programme>
-<programme start="20260528083000 +0000" stop="20260528100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528082600 +0000" stop="20260528100000 +0000" channel="SCTV HD.mncvision">
     <title>Benih Nangka Berbuah Cinta</title>
 </programme>
 <programme start="20260528100000 +0000" stop="20260528112500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260528112500 +0000" stop="20260528131000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528112500 +0000" stop="20260528130900 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260528131000 +0000" stop="20260528143500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528130900 +0000" stop="20260528143000 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260528143500 +0000" stop="20260528160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528143000 +0000" stop="20260528160000 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260528160000 +0000" stop="20260528163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528160000 +0000" stop="20260528162100 +0000" channel="SCTV HD.mncvision">
     <title>Reset Ekonomi 1998</title>
 </programme>
-<programme start="20260528163000 +0000" stop="20260527170000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528162100 +0000" stop="20260528165100 +0000" channel="SCTV HD.mncvision">
     <title>Aku Deketin Kamu, Kamu...</title>
 </programme>
 <programme start="20260527170000 +0000" stop="20260527180000 +0000" channel="Sindo News TV.mncvision">

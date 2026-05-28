@@ -89,7 +89,7 @@
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260528050000 +0000" stop="20260528070000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Pro Futsal League 2 (L)</title>
 </programme>
 <programme start="20260528070000 +0000" stop="20260528090000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
@@ -113,43 +113,43 @@
 <title>Suparman Reborn</title>
 </programme>
 <programme start="20260528190000 +0000" stop="20260528220000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20260528220000 +0000" stop="20260528231500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Siraman Qolbu</title>
 </programme>
 <programme start="20260528231500 +0000" stop="20260529000000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko</title>
 </programme>
 <programme start="20260529000000 +0000" stop="20260529004500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Dora &amp; Sahabat</title>
 </programme>
 <programme start="20260529004500 +0000" stop="20260529010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260529010000 +0000" stop="20260529041500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260529041500 +0000" stop="20260529044500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Siang</title>
 </programme>
 <programme start="20260529044500 +0000" stop="20260529051500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Seleb On News</title>
 </programme>
 <programme start="20260529051500 +0000" stop="20260529070000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260529070000 +0000" stop="20260529090000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260529090000 +0000" stop="20260529103000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260529103000 +0000" stop="20260529113000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260529113000 +0000" stop="20260529123000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Entong</title>
 </programme>
 <programme start="20260527230000 +0000" stop="20260528020000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
@@ -633,9 +633,6 @@
 </programme>
 <programme start="20260527230000 +0000" stop="20260528003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20260528023000 +0000" stop="20260528060000 +0000" channel="ANTV.vision">
-<title>Dilwale Dulhania Le Jayenge</title>
 </programme>
 <programme start="20260528060000 +0000" stop="20260528073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260529090500 +0000" stop="20260529100000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260529100000 +0000" stop="20260529103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
 </programme>

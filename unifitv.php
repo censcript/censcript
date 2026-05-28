@@ -3923,11 +3923,11 @@
     <episode-num system="onscreen">S1E36</episode-num>
   </programme>
   <programme start="20260528083500 +0000" stop="20260528090500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Lo And Behold</title>
-    <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHU</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2602.</episode-num>
-    <episode-num system="onscreen">S1E2603</episode-num>
+    <title lang="en">Shock Mystery (Sr.2)</title>
+    <desc lang="en">Human beings are innately curious about the unknown. Some even believe that not everything in life can be explained solely by scientific or physical phenomena. Even when there appears to be an acceptable answer on the surface, it may not fully resolve all our questions. The production team of " Shock Mystery" has collected hundreds of strange and unusual cases from around the world, most of which cannot be explained from the perspectives commonly accepted by people—unless supernatural phenomena truly exist in our world! This program will introduce you to incredible mysteries that not only existed in the past but still persist today!</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.89.</episode-num>
+    <episode-num system="onscreen">S1E90</episode-num>
   </programme>
   <programme start="20260528090500 +0000" stop="20260528093500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Boys Club</title>
@@ -15295,6 +15295,61 @@
   <programme start="20260527200000 +0000" stop="20260528015500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 328: Chimaev vs. Strickland - Main</title>
     <desc lang="en">Two titles are on the line when UFC returns to Prudential Center in Newark, New Jersey on Saturday, May 10 for UFC 328. In the main event, undefeated champion Khamzat Chimaev defends the middleweight title for the first time since winning it last August in a clash with former titleholder Sean Strickland. In the co-main event, flyweight champion Joshua “The Fearless” Van defends his title against Japanese contender Tatsuro “The Best” Taira in the first UFC championship fight between competitors born in the 21st century.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528015500 +0000" stop="20260528020000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528020000 +0000" stop="20260528043000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">TM ISTAF World Cup 2026 - GROUP B - MYANMAR vs MALAYSIA - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528043000 +0000" stop="20260528055500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">TM ISTAF World Cup 2026 - FINAL - INDIA vs MALAYSIA - (QUADRANT)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528055500 +0000" stop="20260528060000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528060000 +0000" stop="20260528083000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 318: Holloway vs Poirier 3</title>
+    <desc lang="en">It's a memorable night in New Orleans, Louisiana, when Lafayette native Dustin Poirier makes his final walk to the Octagon, hoping to go three for three against Max Holloway, with the BMF title on the line. This one for the history books and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528083000 +0000" stop="20260528090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 3</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528090000 +0000" stop="20260528093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 10</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528093000 +0000" stop="20260528100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1002: Usman vs. Covington 2</title>
+    <desc lang="en">UFC 268 was headlined by the heated rematch between welterweight king Kamaru “The Nigerian Nightmare” Usman and Colby “Chaos” Covington. Relive their incredible battle with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528100000 +0000" stop="20260528135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) Road to UFC Season 5 Round 16 - Day 1</title>
+    <desc lang="en">Road to UFC Season 5 is the 2026 cycle of the Ultimate Fighting Championship’s ground-breaking "win-and-advance" MMA tournament. It gives top mixed martial arts prospects from the Asia-Pacific region a direct pathway to earn a coveted, multi-fight UFC contract</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528135500 +0000" stop="20260528140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260528140000 +0000" stop="20260528195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Allen vs. Costa - Main</title>
+    <desc lang="en">The action returns to Meta APEX in Las Vegas on May 17 with a fight card topped by a featherweight clash between “Almighty” Arnold Allen and Melquizael “The Dalmatian” Costa. A staple in the Top 10 aiming to defend his ground, Allen looks to rebound after a narrow decision loss to Jean Silva at UFC 324 and display the form that produced 10 straight wins to open his UFC tenure. One of the hottest fighters on the roster, Costa pushed his winning streak to six in February with a first-round stoppage win over veteran Dan Ige.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
