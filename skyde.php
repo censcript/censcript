@@ -3011,19 +3011,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529000000 +0000" stop="20260529003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260529003000 +0000" stop="20260529030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529003000 +0000" stop="20260529030500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 6</title>
 </programme>
-<programme start="20260529030000 +0000" stop="20260529033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529030500 +0000" stop="20260529040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260529033000 +0000" stop="20260529040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen Kompakt - GP Kanada</title>
-</programme>
-<programme start="20260529040000 +0000" stop="20260529090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529040000 +0000" stop="20260529091500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Südkorea, 2. Tag in Busan</title>
 </programme>
-<programme start="20260529090000 +0000" stop="20260529094500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529091500 +0000" stop="20260529094500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Italien</title>
 </programme>
 <programme start="20260529094500 +0000" stop="20260529100000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3041,19 +3038,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529115500 +0000" stop="20260529125000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: Training - GP Italien</title>
 </programme>
-<programme start="20260529125000 +0000" stop="20260529141500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529125000 +0000" stop="20260529142000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Training - GP Italien</title>
 </programme>
-<programme start="20260529141500 +0000" stop="20260529144500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529142000 +0000" stop="20260529144500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Jorge Martin - From heaven to hell</title>
 </programme>
 <programme start="20260529144500 +0000" stop="20260529150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Best battles 2025</title>
 </programme>
-<programme start="20260529150000 +0000" stop="20260529153500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529150000 +0000" stop="20260529154000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live HDBWC: Qualifying - GP Italien</title>
 </programme>
-<programme start="20260529153500 +0000" stop="20260529160000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529154000 +0000" stop="20260529160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Fabio Quartararo - The redemption road</title>
 </programme>
 <programme start="20260529160000 +0000" stop="20260529190000 +0000" channel="Sky Sport Top Event HD.skyde">

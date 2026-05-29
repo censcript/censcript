@@ -1874,10 +1874,10 @@
         <title>Roland Garros 2026 (2): Day 6 (Live)</title>
     </programme>
     <programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zimbabwe vs Sout</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zimbabwe vs South Africa</title>
     </programme>
     <programme start="20260529203000 +0000" stop="20260529210000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Morocc</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Morocco</title>
     </programme>
     <programme start="20260529210000 +0000" stop="20260529213000 +0000" channel="beIN Sports 3.starhub">
         <title>Cape Epic Recap: Stage 5 - 7 &amp; 4Islands Preview</title>
@@ -3146,22 +3146,22 @@
         <title>News</title>
     </programme>
     <programme start="20260529163000 +0000" stop="20260529170000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>When bears stop sleeping: A climate story from Ladakh</title>
     </programme>
     <programme start="20260529170000 +0000" stop="20260529171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260529171500 +0000" stop="20260529173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Too many tourists? How Madeira deals with the crowds</title>
     </programme>
     <programme start="20260529173000 +0000" stop="20260529180000 +0000" channel="DW English HD.starhub">
-        <title>Modern African Lifestyle</title>
+        <title>Bringing the pulse of modern Africa alive</title>
     </programme>
     <programme start="20260529180000 +0000" stop="20260529183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260529183000 +0000" stop="20260529190000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Will Germany stand up to the big tech Bros?</title>
     </programme>
     <programme start="20260529190000 +0000" stop="20260529190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3170,10 +3170,10 @@
         <title>News</title>
     </programme>
     <programme start="20260529191500 +0000" stop="20260529193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Too many tourists? How Madeira deals with the crowds</title>
     </programme>
     <programme start="20260529193000 +0000" stop="20260529200000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Hidden battles beneath the waves</title>
     </programme>
     <programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3197,7 +3197,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260529223000 +0000" stop="20260529230000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>When bears stop sleeping: A climate story from Ladakh</title>
     </programme>
     <programme start="20260529230000 +0000" stop="20260529230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3206,10 +3206,10 @@
         <title>News</title>
     </programme>
     <programme start="20260529231500 +0000" stop="20260529233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Too many tourists? How Madeira deals with the crowds</title>
     </programme>
     <programme start="20260529233000 +0000" stop="20260530000000 +0000" channel="DW English HD.starhub">
-        <title>Africa</title>
+        <title>Will Germany stand up to the big tech Bros?</title>
     </programme>
     <programme start="20260530000000 +0000" stop="20260530000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6776,7 +6776,7 @@
         <title>MD17 Preview</title>
     </programme>
     <programme start="20260529183000 +0000" stop="20260529190000 +0000" channel="beIN Sports HD.starhub">
-        <title>Mini Match - UEFA Champions League 2025/26: Arsenal vs Atletico Madrid - SF, 2nd</title>
+        <title>Mini Match - UEFA Champions League 2025/26: Arsenal vs Atletico Madrid - SF, 2nd Leg</title>
     </programme>
     <programme start="20260529190000 +0000" stop="20260529193000 +0000" channel="beIN Sports HD.starhub">
         <title>Mini Match - UEFA Champions League 2025/26: Bayern vs PSG - SF, 2nd Leg</title>
@@ -6794,22 +6794,22 @@
         <title>HSBC SVNS World Championships 2026: USA vs Fiji - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260529215500 +0000" stop="20260529222000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs South Africa - Pool Stage, Vall</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs South Africa - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260529222000 +0000" stop="20260529224500 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: New Zealand vs Uruguay - Pool Stage, Vallado</title>
+        <title>HSBC SVNS World Championships 2026: New Zealand vs Uruguay - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260529224500 +0000" stop="20260529231000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Argentina vs Germany - Pool Stage, Valladoli</title>
+        <title>HSBC SVNS World Championships 2026: Argentina vs Germany - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260529231000 +0000" stop="20260529233500 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Japan vs Brazil - Pool Stage, Valladolid - W</title>
+        <title>HSBC SVNS World Championships 2026: Japan vs Brazil - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260529233500 +0000" stop="20260530000000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: New Zealand vs Argentina - Pool Stage, Valla</title>
+        <title>HSBC SVNS World Championships 2026: New Zealand vs Argentina - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530000000 +0000" stop="20260530002500 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs Kenya - Pool Stage, Valladolid</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs Kenya - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530002500 +0000" stop="20260530005000 +0000" channel="beIN Sports HD.starhub">
         <title>HSBC SVNS World Championships 2026: South Africa vs Great Britain - Pool Stage,</title>
