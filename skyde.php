@@ -2478,7 +2478,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
 <programme start="20260529193000 +0000" stop="20260529200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: SCR - RIE, Europacup-Playoffs, Finale Rückspiel</title>
+    <title>Admiral BL: 90in30: FAK - ASK, 32. Runde</title>
 </programme>
 <programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -3038,19 +3038,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529115500 +0000" stop="20260529125000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: Training - GP Italien</title>
 </programme>
-<programme start="20260529125000 +0000" stop="20260529142000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529125000 +0000" stop="20260529141500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Training - GP Italien</title>
 </programme>
-<programme start="20260529142000 +0000" stop="20260529144500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529141500 +0000" stop="20260529144500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Jorge Martin - From heaven to hell</title>
 </programme>
 <programme start="20260529144500 +0000" stop="20260529150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Best battles 2025</title>
 </programme>
-<programme start="20260529150000 +0000" stop="20260529154000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529150000 +0000" stop="20260529153500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live HDBWC: Qualifying - GP Italien</title>
 </programme>
-<programme start="20260529154000 +0000" stop="20260529160000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260529153500 +0000" stop="20260529160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Fabio Quartararo - The redemption road</title>
 </programme>
 <programme start="20260529160000 +0000" stop="20260529190000 +0000" channel="Sky Sport Top Event HD.skyde">

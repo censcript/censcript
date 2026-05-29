@@ -1895,49 +1895,49 @@
         <title>ONE Friday Fights 2026: OFF 156</title>
     </programme>
     <programme start="20260530023500 +0000" stop="20260530030000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: France vs Great Britain - Pool Stage, Vallad</title>
+        <title>HSBC SVNS World Championships 2026: France vs Great Britain - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530030000 +0000" stop="20260530032500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Fiji vs France - Pool Stage, Valladolid - Me</title>
+        <title>HSBC SVNS World Championships 2026: Fiji vs France - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530032500 +0000" stop="20260530035000 +0000" channel="beIN Sports 3.starhub">
         <title>HSBC SVNS World Championships 2026: Spain vs USA - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530035000 +0000" stop="20260530041500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: USA vs South Africa - Pool Stage, Valladolid</title>
+        <title>HSBC SVNS World Championships 2026: USA vs South Africa - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530041500 +0000" stop="20260530044000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs Fiji - Pool Stage, Valladolid -</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs Fiji - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530044000 +0000" stop="20260530050500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: New Zealand vs Germany - Pool Stage, Vallado</title>
+        <title>HSBC SVNS World Championships 2026: New Zealand vs Germany - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530050500 +0000" stop="20260530053000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Argentina vs Uruguay - Pool Stage, Valladoli</title>
+        <title>HSBC SVNS World Championships 2026: Argentina vs Uruguay - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530053000 +0000" stop="20260530055500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Japan vs Argentina - Pool Stage, Valladolid</title>
+        <title>HSBC SVNS World Championships 2026: Japan vs Argentina - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530055500 +0000" stop="20260530062000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: New Zealand vs Brazil - Pool Stage, Valladol</title>
+        <title>HSBC SVNS World Championships 2026: New Zealand vs Brazil - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530062000 +0000" stop="20260530064500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs Great Britain - Pool Stage, Val</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs Great Britain - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530064500 +0000" stop="20260530071000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Kenya - Pool Stage, Valladol</title>
+        <title>HSBC SVNS World Championships 2026: South Africa vs Kenya - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530071000 +0000" stop="20260530073500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Canada vs Great Britain - Pool Stage, Vallad</title>
+        <title>HSBC SVNS World Championships 2026: Canada vs Great Britain - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530073500 +0000" stop="20260530080000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: France vs Spain - Pool Stage, Valladolid - W</title>
+        <title>HSBC SVNS World Championships 2026: France vs Spain - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530080000 +0000" stop="20260530082500 +0000" channel="beIN Sports 3.starhub">
         <title>HSBC SVNS World Championships 2026: Fiji vs USA - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530082500 +0000" stop="20260530085500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Spain vs France - Pool Stage, Valladolid - M</title>
+        <title>HSBC SVNS World Championships 2026: Spain vs France - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530085500 +0000" stop="20260530200000 +0000" channel="beIN Sports 3.starhub">
         <title>Roland Garros 2026 (2): Day 7 (Live)</title>
@@ -3218,7 +3218,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260530003000 +0000" stop="20260530010000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>A female stunt rider defies gravity and India&#039;s social norms</title>
     </programme>
     <programme start="20260530010000 +0000" stop="20260530010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3227,16 +3227,16 @@
         <title>News</title>
     </programme>
     <programme start="20260530011500 +0000" stop="20260530013000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Is China spying on Europe?</title>
     </programme>
     <programme start="20260530013000 +0000" stop="20260530020000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>Labs turn to robots to cut costs of cancer cell therapy</title>
     </programme>
     <programme start="20260530020000 +0000" stop="20260530020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260530020200 +0000" stop="20260530021500 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How technology can save health care</title>
     </programme>
     <programme start="20260530021500 +0000" stop="20260530030000 +0000" channel="DW English HD.starhub">
         <title>European Narcos - Part 2 - The Weakness of States</title>
@@ -3248,10 +3248,10 @@
         <title>News</title>
     </programme>
     <programme start="20260530031500 +0000" stop="20260530033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Too many tourists? How Madeira deals with the crowds</title>
     </programme>
     <programme start="20260530033000 +0000" stop="20260530040000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>President of conflict: Are Trumps tactics going too far?</title>
     </programme>
     <programme start="20260530040000 +0000" stop="20260530040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3260,7 +3260,7 @@
         <title>News</title>
     </programme>
     <programme start="20260530041500 +0000" stop="20260530043000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How technology can save health care</title>
     </programme>
     <programme start="20260530043000 +0000" stop="20260530050000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3269,10 +3269,10 @@
         <title>News</title>
     </programme>
     <programme start="20260530050200 +0000" stop="20260530053000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Master of Minds: Sigmund Freud Explained</title>
     </programme>
     <programme start="20260530053000 +0000" stop="20260530060000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Nigeria&#039;s Housing Crisis</title>
     </programme>
     <programme start="20260530060000 +0000" stop="20260530060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3281,10 +3281,10 @@
         <title>News</title>
     </programme>
     <programme start="20260530061500 +0000" stop="20260530063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Too many tourists? How Madeira deals with the crowds</title>
     </programme>
     <programme start="20260530063000 +0000" stop="20260530070000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>Will Germany stand up to the big tech Bros?</title>
     </programme>
     <programme start="20260530070000 +0000" stop="20260530070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3293,15 +3293,15 @@
         <title>News</title>
     </programme>
     <programme start="20260530071500 +0000" stop="20260530073000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>One last wave - Chilean surfer standing up to cancer</title>
     </programme>
     <programme start="20260530073000 +0000" stop="20260530080000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>Labs turn to robots to cut costs of cancer cell therapy</title>
     </programme>
-    <programme start="20260530080000 +0000" stop="20260530080300 +0000" channel="DW English HD.starhub">
+    <programme start="20260530080000 +0000" stop="20260530080200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260530080300 +0000" stop="20260530090000 +0000" channel="DW English HD.starhub">
+    <programme start="20260530080200 +0000" stop="20260530090000 +0000" channel="DW English HD.starhub">
         <title>Young and Lonely - Ways Out of Isolation</title>
     </programme>
     <programme start="20260530090000 +0000" stop="20260530090200 +0000" channel="DW English HD.starhub">
@@ -3314,19 +3314,19 @@
         <title>On Location</title>
     </programme>
     <programme start="20260530093000 +0000" stop="20260530100000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>The key to your immune and lymphatic system</title>
     </programme>
     <programme start="20260530100000 +0000" stop="20260530100200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260530100200 +0000" stop="20260530101500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>100 Years of Marilyn Monroe</title>
     </programme>
     <programme start="20260530101500 +0000" stop="20260530103000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How technology can save health care</title>
     </programme>
     <programme start="20260530103000 +0000" stop="20260530110000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Master of Minds: Sigmund Freud Explained</title>
     </programme>
     <programme start="20260530110000 +0000" stop="20260530110300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3341,7 @@
         <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260530121500 +0000" stop="20260530123000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How technology can save health care</title>
     </programme>
     <programme start="20260530123000 +0000" stop="20260530130000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3350,7 +3350,7 @@
         <title>News</title>
     </programme>
     <programme start="20260530130200 +0000" stop="20260530131500 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>One last wave - Chilean surfer standing up to cancer</title>
     </programme>
     <programme start="20260530131500 +0000" stop="20260530140000 +0000" channel="DW English HD.starhub">
         <title>India - Economic Miracle or Mirage?</title>
@@ -3359,19 +3359,19 @@
         <title>News</title>
     </programme>
     <programme start="20260530140200 +0000" stop="20260530141500 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>100 Years of Marilyn Monroe</title>
     </programme>
     <programme start="20260530141500 +0000" stop="20260530143000 +0000" channel="DW English HD.starhub">
         <title>On Location</title>
     </programme>
     <programme start="20260530143000 +0000" stop="20260530150000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Nigeria&#039;s Housing Crisis</title>
     </programme>
     <programme start="20260530150000 +0000" stop="20260530151500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260530151500 +0000" stop="20260530153000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Pioneers</title>
     </programme>
     <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -6812,10 +6812,10 @@
         <title>HSBC SVNS World Championships 2026: Australia vs Kenya - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530002500 +0000" stop="20260530005000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Great Britain - Pool Stage,</title>
+        <title>HSBC SVNS World Championships 2026: South Africa vs Great Britain - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530005000 +0000" stop="20260530011500 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Canada vs Spain - Pool Stage, Valladolid - W</title>
+        <title>HSBC SVNS World Championships 2026: Canada vs Spain - Pool Stage, Valladolid - Women</title>
     </programme>
     <programme start="20260530011500 +0000" stop="20260530013000 +0000" channel="beIN Sports HD.starhub">
         <title>Montreal, Canada</title>
