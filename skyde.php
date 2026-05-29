@@ -2720,19 +2720,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529000000 +0000" stop="20260529003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260529003000 +0000" stop="20260529030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260529003000 +0000" stop="20260529030500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 6</title>
 </programme>
-<programme start="20260529030000 +0000" stop="20260529033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260529030500 +0000" stop="20260529034500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260529033000 +0000" stop="20260529042500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260529034500 +0000" stop="20260529043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP Katalonien</title>
 </programme>
-<programme start="20260529042500 +0000" stop="20260529062500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260529043000 +0000" stop="20260529062000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: New York Knicks @ Cleveland Cavaliers, Eastern Conference Finals, Spiel 4</title>
 </programme>
-<programme start="20260529062500 +0000" stop="20260529065500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260529062000 +0000" stop="20260529065500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Pressekonferenz Fahrer - GP Italien</title>
 </programme>
 <programme start="20260529065500 +0000" stop="20260529074000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2783,8 +2783,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529171500 +0000" stop="20260529180000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Raglan Pro Finals Day</title>
 </programme>
-<programme start="20260529180000 +0000" stop="20260529203000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260529180000 +0000" stop="20260529200000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 6</title>
+</programme>
+<programme start="20260529200000 +0000" stop="20260529203000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Action</title>
 </programme>
 <programme start="20260529203000 +0000" stop="20260529214000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: 1. Freies Training - GP Italien</title>
