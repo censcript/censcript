@@ -6004,6 +6004,42 @@
     <programme start="20260530000000 +0000" stop="20260531235959 +0000" channel="986346.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260530000000 +0000" stop="20260530025800 +0000" channel="414449.shahid">
+        <title>Ahbab</title>
+    </programme>
+    <programme start="20260530025800 +0000" stop="20260530060000 +0000" channel="414449.shahid">
+        <title>Sabahkom Wanasah</title>
+    </programme>
+    <programme start="20260530060000 +0000" stop="20260530193000 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260530193000 +0000" stop="20260530210600 +0000" channel="414449.shahid">
+        <title>Hafalat Dubai: Nawal Al Kuwaitiya</title>
+    </programme>
+    <programme start="20260530210600 +0000" stop="20260531060000 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260531060000 +0000" stop="20260531070300 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
+    </programme>
+    <programme start="20260531070300 +0000" stop="20260531115600 +0000" channel="414449.shahid">
+        <title>Ahbab</title>
+    </programme>
+    <programme start="20260531115600 +0000" stop="20260531125400 +0000" channel="414449.shahid">
+        <title>Ala Al Bal</title>
+    </programme>
+    <programme start="20260531125400 +0000" stop="20260531165800 +0000" channel="414449.shahid">
+        <title>Ahla Al Aghani</title>
+    </programme>
+    <programme start="20260531165800 +0000" stop="20260531185900 +0000" channel="414449.shahid">
+        <title>Ahla Al Hafalat</title>
+    </programme>
+    <programme start="20260531185900 +0000" stop="20260531225500 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
+    <programme start="20260531225500 +0000" stop="20260531235959 +0000" channel="414449.shahid">
+        <title>Al Jalsa Helwa</title>
+    </programme>
     <programme start="20260530000000 +0000" stop="20260530003841 +0000" channel="988045.shahid">
         <title>Maraya 97 Episode 6</title>
     </programme>
@@ -6180,42 +6216,6 @@
     </programme>
     <programme start="20260531232921 +0000" stop="20260531235959 +0000" channel="988045.shahid">
         <title>Hakaya Al Maraya Episode 7</title>
-    </programme>
-    <programme start="20260530000000 +0000" stop="20260530025800 +0000" channel="414449.shahid">
-        <title>Ahbab</title>
-    </programme>
-    <programme start="20260530025800 +0000" stop="20260530060000 +0000" channel="414449.shahid">
-        <title>Sabahkom Wanasah</title>
-    </programme>
-    <programme start="20260530060000 +0000" stop="20260530193000 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260530193000 +0000" stop="20260530210600 +0000" channel="414449.shahid">
-        <title>Hafalat Dubai: Nawal Al Kuwaitiya</title>
-    </programme>
-    <programme start="20260530210600 +0000" stop="20260531060000 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260531060000 +0000" stop="20260531070300 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
-    <programme start="20260531070300 +0000" stop="20260531115600 +0000" channel="414449.shahid">
-        <title>Ahbab</title>
-    </programme>
-    <programme start="20260531115600 +0000" stop="20260531125400 +0000" channel="414449.shahid">
-        <title>Ala Al Bal</title>
-    </programme>
-    <programme start="20260531125400 +0000" stop="20260531165800 +0000" channel="414449.shahid">
-        <title>Ahla Al Aghani</title>
-    </programme>
-    <programme start="20260531165800 +0000" stop="20260531185900 +0000" channel="414449.shahid">
-        <title>Ahla Al Hafalat</title>
-    </programme>
-    <programme start="20260531185900 +0000" stop="20260531225500 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
-    </programme>
-    <programme start="20260531225500 +0000" stop="20260531235959 +0000" channel="414449.shahid">
-        <title>Al Jalsa Helwa</title>
     </programme>
     <programme start="20260530000000 +0000" stop="20260531235959 +0000" channel="49922904934759.shahid">
         <title>TV guide is not available</title>
@@ -6544,6 +6544,9 @@
     <programme start="20260530000000 +0000" stop="20260531235959 +0000" channel="49923086914927.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260530000000 +0000" stop="20260531235959 +0000" channel="1029746.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260530000000 +0000" stop="20260530000000 +0000" channel="387251.shahid">
         <title>El Le&#039;ba: Dawri El Abtal  </title>
     </programme>
@@ -6762,9 +6765,6 @@
     </programme>
     <programme start="20260601000000 +0000" stop="20260531235959 +0000" channel="387251.shahid">
         <title>Khalti Qomashah Season 1 Episode 13</title>
-    </programme>
-    <programme start="20260530000000 +0000" stop="20260531235959 +0000" channel="1029746.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260530000000 +0000" stop="20260531235959 +0000" channel="986014.shahid">
         <title>TV guide is not available</title>
