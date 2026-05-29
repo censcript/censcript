@@ -977,45 +977,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529213500 +0000" stop="20260529220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Let&#039;s go Ballin&#039;: Episode 3</title>
 </programme>
-<programme start="20260528220000 +0000" stop="20260529060000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260529060000 +0000" stop="20260529080000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga 25/26: FC Bayern München - 1. FC Köln</title>
-</programme>
-<programme start="20260529080000 +0000" stop="20260529084000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260529084000 +0000" stop="20260529103000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Hungarian Darts Trophy: Niko Springer - VF, HF &amp; Finale 2025</title>
-</programme>
-<programme start="20260529103000 +0000" stop="20260529110000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260529110000 +0000" stop="20260529130000 +0000" channel="DAZN 2 HD.skyde">
-    <title>LaLiga 25/26: FC Valencia - FC Barcelona</title>
-</programme>
-<programme start="20260529130000 +0000" stop="20260529141500 +0000" channel="DAZN 2 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 34. Spieltag</title>
-</programme>
-<programme start="20260529141500 +0000" stop="20260529144000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260529144000 +0000" stop="20260529154000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Darts-WM 2026 I Gabriel Clemens - Luke Humphries (3. Runde)</title>
-</programme>
-<programme start="20260529154000 +0000" stop="20260529170000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Martin Schindler - Austrian Darts Open 2025</title>
-</programme>
-<programme start="20260529170000 +0000" stop="20260529204000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Baltic Sea Darts Open: Tag 1 - Session 2</title>
-</programme>
-<programme start="20260529204000 +0000" stop="20260529213000 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 25/26: 38. Spieltag</title>
-</programme>
-<programme start="20260529213000 +0000" stop="20260529220000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
 <programme start="20260528222500 +0000" stop="20260528231000 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
@@ -2649,7 +2610,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Chasing the Dream: Welcome to Miami!</title>
 </programme>
 <programme start="20260529121500 +0000" stop="20260529123000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: O Canada!</title>
+    <title>Chasing the Dream: 4. Episode 2026</title>
 </programme>
 <programme start="20260529123000 +0000" stop="20260529153000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: The 110th Indianapolis 500</title>
@@ -2720,10 +2681,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529000000 +0000" stop="20260529003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Pre-Show</title>
 </programme>
-<programme start="20260529003000 +0000" stop="20260529030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260529003000 +0000" stop="20260529030500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ San Antonio Spurs, Western Conference Finals, Spiel 6</title>
 </programme>
-<programme start="20260529030000 +0000" stop="20260529033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260529030500 +0000" stop="20260529033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260529033000 +0000" stop="20260529042500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2864,8 +2825,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529013000 +0000" stop="20260529023000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: GOATS (German Stars)</title>
 </programme>
-<programme start="20260529023000 +0000" stop="20260529050000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260529023000 +0000" stop="20260529043000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Hull City - FC Middlesbrough, Playoff-Finale in Wembley</title>
+</programme>
+<programme start="20260529043000 +0000" stop="20260529050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: BRI - MUN, 38. Spieltag</title>
 </programme>
 <programme start="20260529050000 +0000" stop="20260529053000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Aaron Ramsey - My Arsenal Years</title>

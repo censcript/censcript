@@ -1,72 +1,4 @@
-<programme start="20260528172500 +0000" stop="20260528183500 +0000" channel="ABC Australia.mncvision">
-    <title>National Press Club Address</title>
-</programme>
-<programme start="20260528183500 +0000" stop="20260528190000 +0000" channel="ABC Australia.mncvision">
-    <title>Bondi Rescue</title>
-</programme>
-<programme start="20260528190000 +0000" stop="20260528200000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20260528200000 +0000" stop="20260528210000 +0000" channel="ABC Australia.mncvision">
-    <title>News Breakfast</title>
-</programme>
-<programme start="20260528210000 +0000" stop="20260528230000 +0000" channel="ABC Australia.mncvision">
-    <title>News Breakfast</title>
-</programme>
-<programme start="20260528230000 +0000" stop="20260529020000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News Mornings</title>
-</programme>
-<programme start="20260529020000 +0000" stop="20260529030000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News At Noon</title>
-</programme>
-<programme start="20260529030000 +0000" stop="20260529040000 +0000" channel="ABC Australia.mncvision">
-    <title>Gardening Australia</title>
-</programme>
-<programme start="20260529040000 +0000" stop="20260529043000 +0000" channel="ABC Australia.mncvision">
-    <title>Island Echoes With N. Bero</title>
-</programme>
-<programme start="20260529043000 +0000" stop="20260529045500 +0000" channel="ABC Australia.mncvision">
-    <title>Field To Feast</title>
-</programme>
-<programme start="20260529045500 +0000" stop="20260529060000 +0000" channel="ABC Australia.mncvision">
-    <title>That Pacific Sports Show</title>
-</programme>
-<programme start="20260529060000 +0000" stop="20260529070000 +0000" channel="ABC Australia.mncvision">
-    <title>The Mission</title>
-</programme>
-<programme start="20260529070000 +0000" stop="20260529080000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News With Joe O&#039;Brien</title>
-</programme>
-<programme start="20260529080000 +0000" stop="20260529090000 +0000" channel="ABC Australia.mncvision">
-    <title>Gardening Australia</title>
-</programme>
-<programme start="20260529090000 +0000" stop="20260529093000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC National News</title>
-</programme>
-<programme start="20260529093000 +0000" stop="20260529123000 +0000" channel="ABC Australia.mncvision">
-    <title>AFL: Carlton Vs Geelong</title>
-</programme>
-<programme start="20260529123000 +0000" stop="20260529132500 +0000" channel="ABC Australia.mncvision">
-    <title>The Mission</title>
-</programme>
-<programme start="20260529132500 +0000" stop="20260529140000 +0000" channel="ABC Australia.mncvision">
-    <title>Australian Story</title>
-</programme>
-<programme start="20260529140000 +0000" stop="20260529143000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC Late News</title>
-</programme>
-<programme start="20260529143000 +0000" stop="20260529150000 +0000" channel="ABC Australia.mncvision">
-    <title>Asia News Week</title>
-</programme>
-<programme start="20260529150000 +0000" stop="20260529153000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20260529153000 +0000" stop="20260529163000 +0000" channel="ABC Australia.mncvision">
-    <title>Gardening Australia</title>
-</programme>
-<programme start="20260529163000 +0000" stop="20260528170000 +0000" channel="ABC Australia.mncvision">
-    <title>Island Echoes With N. Bero</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260528170000 +0000" stop="20260528173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -880,201 +812,8 @@
 <programme start="20260529164000 +0000" stop="20260528171000 +0000" channel="BBC Earth HD.mncvision">
     <title>Griff&#039;s Canadian Adv. S1, Ep 6</title>
 </programme>
-<programme start="20260528170000 +0000" stop="20260528173000 +0000" channel="BBC World News.mncvision">
-    <title>World Today With M. Moshiri</title>
-</programme>
-<programme start="20260528173000 +0000" stop="20260528174500 +0000" channel="BBC World News.mncvision">
-    <title>The Iran War Today</title>
-</programme>
-<programme start="20260528174500 +0000" stop="20260528180000 +0000" channel="BBC World News.mncvision">
-    <title>World Today With M. Moshiri</title>
-</programme>
-<programme start="20260528180000 +0000" stop="20260528183000 +0000" channel="BBC World News.mncvision">
-    <title>World Today With M. Moshiri</title>
-</programme>
-<programme start="20260528183000 +0000" stop="20260528190000 +0000" channel="BBC World News.mncvision">
-    <title>World Today With M. Moshiri</title>
-</programme>
-<programme start="20260528190000 +0000" stop="20260528193000 +0000" channel="BBC World News.mncvision">
-    <title>The Context USA</title>
-</programme>
-<programme start="20260528193000 +0000" stop="20260528200000 +0000" channel="BBC World News.mncvision">
-    <title>The Context USA</title>
-</programme>
-<programme start="20260528200000 +0000" stop="20260528203000 +0000" channel="BBC World News.mncvision">
-    <title>The Context</title>
-</programme>
-<programme start="20260528203000 +0000" stop="20260528210000 +0000" channel="BBC World News.mncvision">
-    <title>The Context</title>
-</programme>
-<programme start="20260528210000 +0000" stop="20260528213000 +0000" channel="BBC World News.mncvision">
-    <title>BBC World News America</title>
-</programme>
-<programme start="20260528213000 +0000" stop="20260528220000 +0000" channel="BBC World News.mncvision">
-    <title>Newsnight</title>
-</programme>
-<programme start="20260528220000 +0000" stop="20260528230000 +0000" channel="BBC World News.mncvision">
-    <title>BBC World News America</title>
-</programme>
-<programme start="20260528230000 +0000" stop="20260528233000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260528233000 +0000" stop="20260529000000 +0000" channel="BBC World News.mncvision">
-    <title>Newscast</title>
-</programme>
-<programme start="20260529000000 +0000" stop="20260529003000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529003000 +0000" stop="20260529010000 +0000" channel="BBC World News.mncvision">
-    <title>The Media Show</title>
-</programme>
-<programme start="20260529010000 +0000" stop="20260529013000 +0000" channel="BBC World News.mncvision">
-    <title>Newsday</title>
-</programme>
-<programme start="20260529013000 +0000" stop="20260529014500 +0000" channel="BBC World News.mncvision">
-    <title>Business Today</title>
-</programme>
-<programme start="20260529014500 +0000" stop="20260529020000 +0000" channel="BBC World News.mncvision">
-    <title>BBC Sport</title>
-</programme>
-<programme start="20260529020000 +0000" stop="20260529023000 +0000" channel="BBC World News.mncvision">
-    <title>Newsday</title>
-</programme>
-<programme start="20260529023000 +0000" stop="20260529024500 +0000" channel="BBC World News.mncvision">
-    <title>Business Today</title>
-</programme>
-<programme start="20260529024500 +0000" stop="20260529030000 +0000" channel="BBC World News.mncvision">
-    <title>BBC Sport</title>
-</programme>
-<programme start="20260529030000 +0000" stop="20260529033000 +0000" channel="BBC World News.mncvision">
-    <title>Newsday</title>
-</programme>
-<programme start="20260529033000 +0000" stop="20260529034500 +0000" channel="BBC World News.mncvision">
-    <title>Business Today</title>
-</programme>
-<programme start="20260529034500 +0000" stop="20260529040000 +0000" channel="BBC World News.mncvision">
-    <title>BBC Sport</title>
-</programme>
-<programme start="20260529040000 +0000" stop="20260529043000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529043000 +0000" stop="20260529050000 +0000" channel="BBC World News.mncvision">
-    <title>Business Today</title>
-</programme>
-<programme start="20260529050000 +0000" stop="20260529053000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529053000 +0000" stop="20260529060000 +0000" channel="BBC World News.mncvision">
-    <title>Business Today</title>
-</programme>
-<programme start="20260529060000 +0000" stop="20260529063000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529063000 +0000" stop="20260529070000 +0000" channel="BBC World News.mncvision">
-    <title>Business Today</title>
-</programme>
-<programme start="20260529070000 +0000" stop="20260529073000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529073000 +0000" stop="20260529080000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529080000 +0000" stop="20260529083000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529083000 +0000" stop="20260529090000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529090000 +0000" stop="20260529093000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529093000 +0000" stop="20260529100000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529100000 +0000" stop="20260529103000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529103000 +0000" stop="20260529104500 +0000" channel="BBC World News.mncvision">
-    <title>Business Today</title>
-</programme>
-<programme start="20260529104500 +0000" stop="20260529110000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News</title>
-</programme>
-<programme start="20260529110000 +0000" stop="20260529113000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260529113000 +0000" stop="20260529120000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260529120000 +0000" stop="20260529123000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260529123000 +0000" stop="20260529130000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260529130000 +0000" stop="20260529133000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260529133000 +0000" stop="20260529134500 +0000" channel="BBC World News.mncvision">
-    <title>Business Today: NYSE</title>
-</programme>
-<programme start="20260529134500 +0000" stop="20260529140000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260529140000 +0000" stop="20260529143000 +0000" channel="BBC World News.mncvision">
-    <title>Verified Live</title>
-</programme>
-<programme start="20260529143000 +0000" stop="20260529150000 +0000" channel="BBC World News.mncvision">
-    <title>Verified Live</title>
-</programme>
-<programme start="20260529150000 +0000" stop="20260529153000 +0000" channel="BBC World News.mncvision">
-    <title>Verified Live</title>
-</programme>
-<programme start="20260528200000 +0000" stop="20260528203000 +0000" channel="beIN Sports 1.mncvision">
-    <title>This Is Paris 2025/26, Ep 37</title>
-</programme>
-<programme start="20260528203000 +0000" stop="20260528210000 +0000" channel="beIN Sports 1.mncvision">
-    <title>F1 Academy HL 2026: Canada</title>
-</programme>
-<programme start="20260528210000 +0000" stop="20260528213000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Mini Match LaLiga: BET Vs LEV</title>
-</programme>
-<programme start="20260528213000 +0000" stop="20260528220000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Mini Match LaLiga: VIL Vs ATM</title>
-</programme>
-<programme start="20260528220000 +0000" stop="20260529000000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LFCTV 2025/26: LIV Vs BRE</title>
-</programme>
-<programme start="20260529000000 +0000" stop="20260529010000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LFC Trending 2025/26, Ep 42</title>
-</programme>
-<programme start="20260529010000 +0000" stop="20260529013000 +0000" channel="beIN Sports 1.mncvision">
-    <title>F1 Academy HL 2026: Canada</title>
-</programme>
-<programme start="20260529013000 +0000" stop="20260529033000 +0000" channel="beIN Sports 1.mncvision">
-    <title>U-17 AFCON 2026: EGY Vs TAN</title>
-</programme>
-<programme start="20260529033000 +0000" stop="20260529055000 +0000" channel="beIN Sports 1.mncvision">
-    <title>U-17 AFCON 2026: SEN Vs MAR</title>
-</programme>
-<programme start="20260529055000 +0000" stop="20260529065000 +0000" channel="beIN Sports 1.mncvision">
-    <title>DTM HL 2026: Zandvoort</title>
-</programme>
-<programme start="20260529065000 +0000" stop="20260529084000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2 2025/26: VLD Vs DEP</title>
-</programme>
-<programme start="20260529084000 +0000" stop="20260529085500 +0000" channel="beIN Sports 1.mncvision">
-    <title>Chasing The Dream 8: Montreal</title>
-</programme>
-<programme start="20260529085500 +0000" stop="20260529130000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Roland Garros 2026: Day 6 (L)</title>
-</programme>
-<programme start="20260529130000 +0000" stop="20260529163000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Roland Garros 2026: Day 6 (L)</title>
-</programme>
-<programme start="20260529163000 +0000" stop="20260528170000 +0000" channel="beIN Sports 1.mncvision">
-    <title>UCL Preview Show 2025/26 (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260528200000 +0000" stop="20260528203000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>This Is Paris 2025/26, Ep 37</title>
 </programme>
@@ -1120,120 +859,9 @@
 <programme start="20260529163000 +0000" stop="20260528170000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>UCL Preview Show 2025/26 (L)</title>
 </programme>
-<programme start="20260528181500 +0000" stop="20260528203000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Roland Garros 2026: Night 5 (L)</title>
-</programme>
-<programme start="20260528203000 +0000" stop="20260528220000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 1</title>
-</programme>
-<programme start="20260528220000 +0000" stop="20260529000000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 2</title>
-</programme>
-<programme start="20260529000000 +0000" stop="20260529013000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 3</title>
-</programme>
-<programme start="20260529013000 +0000" stop="20260529023000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Roland Garros Highlights 2026</title>
-</programme>
-<programme start="20260529023000 +0000" stop="20260529043000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 2</title>
-</programme>
-<programme start="20260529043000 +0000" stop="20260529060000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 1</title>
-</programme>
-<programme start="20260529060000 +0000" stop="20260529075500 +0000" channel="beIN Sports 2.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 4</title>
-</programme>
-<programme start="20260529075500 +0000" stop="20260529085500 +0000" channel="beIN Sports 2.mncvision">
-    <title>Roland Garros Highlights 2026</title>
-</programme>
-<programme start="20260529085500 +0000" stop="20260529133000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Roland Garros 2026: Day 6 (L)</title>
-</programme>
-<programme start="20260529133000 +0000" stop="20260529140000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Roland Garros 2026: Day 6 (L)</title>
-</programme>
-<programme start="20260528181500 +0000" stop="20260528203000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros 2026: Night 5 (L)</title>
-</programme>
-<programme start="20260528203000 +0000" stop="20260528220000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 1</title>
-</programme>
-<programme start="20260528220000 +0000" stop="20260529000000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 2</title>
-</programme>
-<programme start="20260529000000 +0000" stop="20260529013000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 3</title>
-</programme>
-<programme start="20260529013000 +0000" stop="20260529023000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros Highlights 2026</title>
-</programme>
-<programme start="20260529023000 +0000" stop="20260529043000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 2</title>
-</programme>
-<programme start="20260529043000 +0000" stop="20260529060000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 1</title>
-</programme>
-<programme start="20260529060000 +0000" stop="20260529075500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of RG 2026: Day 5 Match 4</title>
-</programme>
-<programme start="20260529075500 +0000" stop="20260529085500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros Highlights 2026</title>
-</programme>
-<programme start="20260529085500 +0000" stop="20260529133000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros 2026: Day 6 (L)</title>
-</programme>
-<programme start="20260529133000 +0000" stop="20260529140000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Roland Garros 2026: Day 6 (L)</title>
-</programme>
-<programme start="20260528200000 +0000" stop="20260528203000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Mini Match AFCON: CIV Vs CMR</title>
-</programme>
-<programme start="20260528203000 +0000" stop="20260528210000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Mini Match AFCON: ANG Vs EGY</title>
-</programme>
-<programme start="20260528210000 +0000" stop="20260528220000 +0000" channel="beIN Sports 3.mncvision">
-    <title>FEI North American League</title>
-</programme>
-<programme start="20260528220000 +0000" stop="20260528230000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Specials: How We Won</title>
-</programme>
-<programme start="20260528230000 +0000" stop="20260529000000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Classic Matches: FCB Vs INT</title>
-</programme>
-<programme start="20260529000000 +0000" stop="20260529020000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UECL 2025/26: CRY Vs RAY</title>
-</programme>
-<programme start="20260529020000 +0000" stop="20260529030000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
-</programme>
-<programme start="20260529030000 +0000" stop="20260529033000 +0000" channel="beIN Sports 3.mncvision">
-    <title>The Outdoor Sports Show 2026</title>
-</programme>
-<programme start="20260529033000 +0000" stop="20260529040000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Magazine Show 2025/26</title>
-</programme>
-<programme start="20260529040000 +0000" stop="20260529050000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
-</programme>
-<programme start="20260529050000 +0000" stop="20260529070000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL 2025/26: ARS Vs ATM</title>
-</programme>
-<programme start="20260529070000 +0000" stop="20260529073000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Specials: Ronaldo &amp; Muller</title>
-</programme>
-<programme start="20260529073000 +0000" stop="20260529080000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Magazine Show 2025/26</title>
-</programme>
-<programme start="20260529080000 +0000" stop="20260529085500 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Classic Matches: INT Vs ARS</title>
-</programme>
-<programme start="20260529085500 +0000" stop="20260529143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Roland Garros 2026: Day 6 (L)</title>
-</programme>
-<programme start="20260529143000 +0000" stop="20260529150000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Roland Garros 2026: Day 6 (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260528200000 +0000" stop="20260528203000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Mini Match AFCON: CIV Vs CMR</title>
 </programme>
@@ -1315,39 +943,7 @@
 <programme start="20260529150000 +0000" stop="20260529153000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
 </programme>
-<programme start="20260528170000 +0000" stop="20260528200000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260528200000 +0000" stop="20260528220000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260528220000 +0000" stop="20260529010000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260529010000 +0000" stop="20260529030000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260529030000 +0000" stop="20260529050000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260529050000 +0000" stop="20260529070000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260529070000 +0000" stop="20260529090000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260529090000 +0000" stop="20260529110000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260529110000 +0000" stop="20260529130000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260529130000 +0000" stop="20260529150000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20260529150000 +0000" stop="20260529153000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260528170000 +0000" stop="20260528180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg: Balance Of Power</title>
 </programme>
@@ -7639,56 +7235,59 @@
 <programme start="20260528190300 +0000" stop="20260528200500 +0000" channel="SCTV.mncvision">
     <title>7 Pertanda Cinta</title>
 </programme>
-<programme start="20260528200500 +0000" stop="20260528210600 +0000" channel="SCTV.mncvision">
+<programme start="20260528200500 +0000" stop="20260528210800 +0000" channel="SCTV.mncvision">
     <title>Tendangan Cinta Naila</title>
 </programme>
-<programme start="20260528210600 +0000" stop="20260528213000 +0000" channel="SCTV.mncvision">
+<programme start="20260528210800 +0000" stop="20260528213300 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260528213000 +0000" stop="20260528220000 +0000" channel="SCTV.mncvision">
+<programme start="20260528213300 +0000" stop="20260528215700 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260528220000 +0000" stop="20260528230000 +0000" channel="SCTV.mncvision">
+<programme start="20260528215700 +0000" stop="20260528230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260528230000 +0000" stop="20260529000000 +0000" channel="SCTV.mncvision">
+<programme start="20260528230000 +0000" stop="20260529000200 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260529000000 +0000" stop="20260529010000 +0000" channel="SCTV.mncvision">
+<programme start="20260529000200 +0000" stop="20260529005400 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260529010000 +0000" stop="20260529030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi Spesial</title>
+<programme start="20260529005400 +0000" stop="20260529021000 +0000" channel="SCTV.mncvision">
+    <title>Wasiat Not Play-Play Kena...</title>
 </programme>
-<programme start="20260529030000 +0000" stop="20260529050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260529021000 +0000" stop="20260529031000 +0000" channel="SCTV.mncvision">
+    <title>Terjebak Cinta Adik Kakak...</title>
 </programme>
-<programme start="20260529050000 +0000" stop="20260529053000 +0000" channel="SCTV.mncvision">
+<programme start="20260529031000 +0000" stop="20260529045800 +0000" channel="SCTV.mncvision">
+    <title>Reuni Alumni Hati, Lupa Nama...</title>
+</programme>
+<programme start="20260529045800 +0000" stop="20260529053300 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260529053000 +0000" stop="20260529070000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Siang</title>
+<programme start="20260529053300 +0000" stop="20260529070500 +0000" channel="SCTV.mncvision">
+    <title>Cinta Bersemi Di Klinik 24 Jam</title>
 </programme>
-<programme start="20260529070000 +0000" stop="20260529083000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Siang</title>
+<programme start="20260529070500 +0000" stop="20260529083200 +0000" channel="SCTV.mncvision">
+    <title>Anak Sultan Lagi Jatuh Cinta</title>
 </programme>
-<programme start="20260529083000 +0000" stop="20260529100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Sore</title>
+<programme start="20260529083200 +0000" stop="20260529100000 +0000" channel="SCTV.mncvision">
+    <title>Sayangku Tidak Hanya Sekedar...</title>
 </programme>
-<programme start="20260529100000 +0000" stop="20260529112500 +0000" channel="SCTV.mncvision">
+<programme start="20260529100000 +0000" stop="20260529112300 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260529112500 +0000" stop="20260529131000 +0000" channel="SCTV.mncvision">
+<programme start="20260529112300 +0000" stop="20260529131000 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260529131000 +0000" stop="20260529143500 +0000" channel="SCTV.mncvision">
+<programme start="20260529131000 +0000" stop="20260529143200 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260529143500 +0000" stop="20260529160000 +0000" channel="SCTV.mncvision">
+<programme start="20260529143200 +0000" stop="20260529160100 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260529160000 +0000" stop="20260529163000 +0000" channel="SCTV.mncvision">
-    <title>FTV Primetime</title>
+<programme start="20260529160100 +0000" stop="20260529163100 +0000" channel="SCTV.mncvision">
+    <title>Security Penjaga Dosen Cantik</title>
 </programme>
 <programme start="20260528175300 +0000" stop="20260528190300 +0000" channel="SCTV HD.mncvision">
     <title>Ketemu Cinta Gara-Gara Sapi</title>
@@ -7696,56 +7295,59 @@
 <programme start="20260528190300 +0000" stop="20260528200500 +0000" channel="SCTV HD.mncvision">
     <title>7 Pertanda Cinta</title>
 </programme>
-<programme start="20260528200500 +0000" stop="20260528210600 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528200500 +0000" stop="20260528210800 +0000" channel="SCTV HD.mncvision">
     <title>Tendangan Cinta Naila</title>
 </programme>
-<programme start="20260528210600 +0000" stop="20260528213000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528210800 +0000" stop="20260528213300 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260528213000 +0000" stop="20260528220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528213300 +0000" stop="20260528215700 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260528220000 +0000" stop="20260528230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528215700 +0000" stop="20260528230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260528230000 +0000" stop="20260529000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260528230000 +0000" stop="20260529000200 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260529000000 +0000" stop="20260529010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260529000200 +0000" stop="20260529005400 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260529010000 +0000" stop="20260529030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi Spesial</title>
+<programme start="20260529005400 +0000" stop="20260529021000 +0000" channel="SCTV HD.mncvision">
+    <title>Wasiat Not Play-Play Kena...</title>
 </programme>
-<programme start="20260529030000 +0000" stop="20260529050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260529021000 +0000" stop="20260529031000 +0000" channel="SCTV HD.mncvision">
+    <title>Terjebak Cinta Adik Kakak...</title>
 </programme>
-<programme start="20260529050000 +0000" stop="20260529053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260529031000 +0000" stop="20260529045800 +0000" channel="SCTV HD.mncvision">
+    <title>Reuni Alumni Hati, Lupa Nama...</title>
+</programme>
+<programme start="20260529045800 +0000" stop="20260529053300 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260529053000 +0000" stop="20260529070000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Siang</title>
+<programme start="20260529053300 +0000" stop="20260529070500 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Bersemi Di Klinik 24 Jam</title>
 </programme>
-<programme start="20260529070000 +0000" stop="20260529083000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Siang</title>
+<programme start="20260529070500 +0000" stop="20260529083200 +0000" channel="SCTV HD.mncvision">
+    <title>Anak Sultan Lagi Jatuh Cinta</title>
 </programme>
-<programme start="20260529083000 +0000" stop="20260529100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Sore</title>
+<programme start="20260529083200 +0000" stop="20260529100000 +0000" channel="SCTV HD.mncvision">
+    <title>Sayangku Tidak Hanya Sekedar...</title>
 </programme>
-<programme start="20260529100000 +0000" stop="20260529112500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260529100000 +0000" stop="20260529112300 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260529112500 +0000" stop="20260529131000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260529112300 +0000" stop="20260529131000 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260529131000 +0000" stop="20260529143500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260529131000 +0000" stop="20260529143200 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260529143500 +0000" stop="20260529160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260529143200 +0000" stop="20260529160100 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260529160000 +0000" stop="20260529163000 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Primetime</title>
+<programme start="20260529160100 +0000" stop="20260529163100 +0000" channel="SCTV HD.mncvision">
+    <title>Security Penjaga Dosen Cantik</title>
 </programme>
 <programme start="20260528170000 +0000" stop="20260528180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>

@@ -6800,7 +6800,7 @@
         <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Egypt vs Tanzania - SF 1</title>
     </programme>
     <programme start="20260529033000 +0000" stop="20260529055000 +0000" channel="beIN Sports HD.starhub">
-        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Morocco - SF</title>
+        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Morocco - SF 2</title>
     </programme>
     <programme start="20260529055000 +0000" stop="20260529065000 +0000" channel="beIN Sports HD.starhub">
         <title>Zandvoort</title>

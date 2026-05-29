@@ -961,68 +961,71 @@
 <programme start="20260529163000 +0000" stop="20260529170000 +0000" channel="Kompas TV.vision">
 <title>Kilas Kompas</title>
 </programme>
-<programme start="20260529170000 +0000" stop="20260529180000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260529170000 +0000" stop="20260529190000 +0000" channel="Kompas TV.vision">
+<title>Breaking News</title>
 </programme>
-<programme start="20260529180000 +0000" stop="20260529193000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260529190000 +0000" stop="20260529193000 +0000" channel="Kompas TV.vision">
+<title>Berita Utama</title>
 </programme>
 <programme start="20260529193000 +0000" stop="20260529203000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Malam</title>
 </programme>
 <programme start="20260529203000 +0000" stop="20260529210000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kalam Hati</title>
 </programme>
 <programme start="20260529210000 +0000" stop="20260529213000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Borgol</title>
 </programme>
 <programme start="20260529213000 +0000" stop="20260529233000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Pagi Akhir Pekan</title>
 </programme>
 <programme start="20260529233000 +0000" stop="20260530000000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Jurnal Nusantara</title>
 </programme>
 <programme start="20260530000000 +0000" stop="20260530013000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sapa Indonesia Pagi</title>
 </programme>
 <programme start="20260530013000 +0000" stop="20260530020000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Sport</title>
 </programme>
 <programme start="20260530020000 +0000" stop="20260530023000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Sustenesia</title>
 </programme>
 <programme start="20260530023000 +0000" stop="20260530030000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Pop News</title>
 </programme>
 <programme start="20260530030000 +0000" stop="20260530033000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Berita Utama</title>
 </programme>
 <programme start="20260530033000 +0000" stop="20260530040000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Cerita Rasa</title>
 </programme>
 <programme start="20260530040000 +0000" stop="20260530050000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Siang</title>
 </programme>
 <programme start="20260530050000 +0000" stop="20260530053000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Borgol</title>
 </programme>
 <programme start="20260530053000 +0000" stop="20260530060000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>News Or Hoax</title>
 </programme>
 <programme start="20260530060000 +0000" stop="20260530070000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Dipo Investigasi</title>
 </programme>
 <programme start="20260530070000 +0000" stop="20260530080000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Lebih Dekat Dengan</title>
 </programme>
 <programme start="20260530080000 +0000" stop="20260530090000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Cerita Militer On Sail</title>
 </programme>
 <programme start="20260530090000 +0000" stop="20260530110000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<title>Kompas Petang</title>
 </programme>
-<programme start="20260530110000 +0000" stop="20260530120000 +0000" channel="Kompas TV.vision">
-<title>Kompas TV</title>
+<programme start="20260530110000 +0000" stop="20260530113000 +0000" channel="Kompas TV.vision">
+<title>Pop News</title>
+</programme>
+<programme start="20260530113000 +0000" stop="20260530123000 +0000" channel="Kompas TV.vision">
+<title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20260529000000 +0000" stop="20260529000500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260530083000 +0000" stop="20260530100000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260530100000 +0000" stop="20260530104500 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
 </programme>
