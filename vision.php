@@ -454,16 +454,13 @@
 <programme start="20260529114500 +0000" stop="20260529130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260529130000 +0000" stop="20260529140000 +0000" channel="Trans TV.vision">
-<title>Dunia Punya Cerita</title>
+<programme start="20260529130000 +0000" stop="20260529150000 +0000" channel="Trans TV.vision">
+<title>Bioskop Spesial Trans TV</title>
 </programme>
-<programme start="20260529140000 +0000" stop="20260529160000 +0000" channel="Trans TV.vision">
+<programme start="20260529150000 +0000" stop="20260529170000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260529160000 +0000" stop="20260529180000 +0000" channel="Trans TV.vision">
-<title>Bioskop Trans TV</title>
-</programme>
-<programme start="20260529180000 +0000" stop="20260529220000 +0000" channel="Trans TV.vision">
+<programme start="20260529190000 +0000" stop="20260529220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20260529220000 +0000" stop="20260529233000 +0000" channel="Trans TV.vision">
@@ -472,10 +469,10 @@
 <programme start="20260529233000 +0000" stop="20260530003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
 </programme>
-<programme start="20260530003000 +0000" stop="20260530013000 +0000" channel="Trans TV.vision">
+<programme start="20260530003000 +0000" stop="20260530020000 +0000" channel="Trans TV.vision">
 <title>Kajian Hati</title>
 </programme>
-<programme start="20260530013000 +0000" stop="20260530033000 +0000" channel="Trans TV.vision">
+<programme start="20260530020000 +0000" stop="20260530033000 +0000" channel="Trans TV.vision">
 <title>Ambyar In Weekend</title>
 </programme>
 <programme start="20260530033000 +0000" stop="20260530043000 +0000" channel="Trans TV.vision">
@@ -484,23 +481,14 @@
 <programme start="20260530043000 +0000" stop="20260530053000 +0000" channel="Trans TV.vision">
 <title>Spill DD Tea</title>
 </programme>
-<programme start="20260530053000 +0000" stop="20260530070000 +0000" channel="Trans TV.vision">
+<programme start="20260530053000 +0000" stop="20260530063000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
-<programme start="20260530070000 +0000" stop="20260530080000 +0000" channel="Trans TV.vision">
-<title>Rumpi Hot Of The Week</title>
+<programme start="20260530063000 +0000" stop="20260530070000 +0000" channel="Trans TV.vision">
+<title>Masak Anti Ribet</title>
 </programme>
-<programme start="20260530080000 +0000" stop="20260530090000 +0000" channel="Trans TV.vision">
-<title>Insert Investigasi</title>
-</programme>
-<programme start="20260530090000 +0000" stop="20260530100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
-<programme start="20260530100000 +0000" stop="20260530110000 +0000" channel="Trans TV.vision">
-<title>Bikin Laper</title>
-</programme>
-<programme start="20260530110000 +0000" stop="20260530120000 +0000" channel="Trans TV.vision">
-<title>Monitor Ketua</title>
+<programme start="20260530110000 +0000" stop="20260530121500 +0000" channel="Trans TV.vision">
+<title>Insert Story</title>
 </programme>
 <programme start="20260528233000 +0000" stop="20260529003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260530083000 +0000" stop="20260530100000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260530100000 +0000" stop="20260530104500 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
+</programme>
+<programme start="20260530104500 +0000" stop="20260530113000 +0000" channel="BTV.vision">
+<title>Dunia Alam</title>
+</programme>
+<programme start="20260530113000 +0000" stop="20260530120000 +0000" channel="BTV.vision">
+<title>Persona</title>
+</programme>
+<programme start="20260528230000 +0000" stop="20260529010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
