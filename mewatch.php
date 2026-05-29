@@ -571,7 +571,7 @@
     <programme start="20260529150000 +0000" stop="20260529160000 +0000" channel="CNA.mewatch">
         <title>Insight - EP 31</title>
     </programme>
-    <programme start="20260529160000 +0000" stop="20260529160300 +0000" channel="CNA.mewatch">
+    <programme start="20260529160000 +0000" stop="20260529220000 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
     <programme start="20260528160000 +0000" stop="20260529040000 +0000" channel="Oktolidays.mewatch">

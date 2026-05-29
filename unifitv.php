@@ -15530,18 +15530,13 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260529013000 +0000" stop="20260529033000 +0000" channel="beinsports.unifitv">
-    <title lang="en">AFCON U17 - Egypt vs Tanzania - SF 1</title>
+    <title lang="en">AFCON U17 - Semi Final 1</title>
     <desc lang="en">beIN SPORTS brings you coverage from the 16th edition of the U-17 Africa Cup of Nations hosted by Morocco. The top 10 teams will qualify for the 2026 FIFA U-17 World Cup in Qatar as the CAF representatives.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260529033000 +0000" stop="20260529052000 +0000" channel="beinsports.unifitv">
-    <title lang="en">AFCON U17 - Senegal vs Morocco - SF 2</title>
+  <programme start="20260529033000 +0000" stop="20260529055000 +0000" channel="beinsports.unifitv">
+    <title lang="en">AFCON U17 - Semi Final 2</title>
     <desc lang="en">beIN SPORTS brings you coverage from the 16th edition of the U-17 Africa Cup of Nations hosted by Morocco. The top 10 teams will qualify for the 2026 FIFA U-17 World Cup in Qatar as the CAF representatives.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260529052000 +0000" stop="20260529055000 +0000" channel="beinsports.unifitv">
-    <title lang="en">This Is Paris - Episode Number 37</title>
-    <desc lang="en">An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260529055000 +0000" stop="20260529065000 +0000" channel="beinsports.unifitv">

@@ -392,13 +392,13 @@
     <title>Vasudha</title>
 </programme>
 <programme start="20260529120000 +0000" stop="20260529143000 +0000" channel="ANTV.mncvision">
-    <title>Sebuah Pengorbanan</title>
+    <title>Pengorbanan</title>
 </programme>
 <programme start="20260529143000 +0000" stop="20260529163000 +0000" channel="ANTV.mncvision">
-    <title>Ranjang Setan</title>
+    <title>Pulau Hantu</title>
 </programme>
 <programme start="20260529163000 +0000" stop="20260528170000 +0000" channel="ANTV.mncvision">
-    <title>Tarzan Raja Rimba</title>
+    <title>Pendekar Ksatria</title>
 </programme>
 <programme start="20260528170000 +0000" stop="20260528180000 +0000" channel="Arirang.mncvision">
     <title>Simply K-Pop Gateway To Korea</title>
@@ -1054,11 +1054,8 @@
 <programme start="20260529013000 +0000" stop="20260529033000 +0000" channel="beIN Sports 1.mncvision">
     <title>U-17 AFCON 2026: EGY Vs TAN</title>
 </programme>
-<programme start="20260529033000 +0000" stop="20260529052000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260529033000 +0000" stop="20260529055000 +0000" channel="beIN Sports 1.mncvision">
     <title>U-17 AFCON 2026: SEN Vs MAR</title>
-</programme>
-<programme start="20260529052000 +0000" stop="20260529055000 +0000" channel="beIN Sports 1.mncvision">
-    <title>This Is Paris 2025/26, Ep 37</title>
 </programme>
 <programme start="20260529055000 +0000" stop="20260529065000 +0000" channel="beIN Sports 1.mncvision">
     <title>DTM HL 2026: Zandvoort</title>
@@ -1102,11 +1099,8 @@
 <programme start="20260529013000 +0000" stop="20260529033000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>U-17 AFCON 2026: EGY Vs TAN</title>
 </programme>
-<programme start="20260529033000 +0000" stop="20260529052000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260529033000 +0000" stop="20260529055000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>U-17 AFCON 2026: SEN Vs MAR</title>
-</programme>
-<programme start="20260529052000 +0000" stop="20260529055000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>This Is Paris 2025/26, Ep 37</title>
 </programme>
 <programme start="20260529055000 +0000" stop="20260529065000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>DTM HL 2026: Zandvoort</title>

@@ -6799,11 +6799,8 @@
     <programme start="20260529013000 +0000" stop="20260529033000 +0000" channel="beIN Sports HD.starhub">
         <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Egypt vs Tanzania - SF 1</title>
     </programme>
-    <programme start="20260529033000 +0000" stop="20260529052000 +0000" channel="beIN Sports HD.starhub">
-        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Morocco - SF 2</title>
-    </programme>
-    <programme start="20260529052000 +0000" stop="20260529055000 +0000" channel="beIN Sports HD.starhub">
-        <title>This Is Paris 2025/26</title>
+    <programme start="20260529033000 +0000" stop="20260529055000 +0000" channel="beIN Sports HD.starhub">
+        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Morocco - SF</title>
     </programme>
     <programme start="20260529055000 +0000" stop="20260529065000 +0000" channel="beIN Sports HD.starhub">
         <title>Zandvoort</title>
@@ -7307,13 +7304,13 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260528233000 +0000" stop="20260529000000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Building My Body</title>
     </programme>
     <programme start="20260529000000 +0000" stop="20260529003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
     <programme start="20260529003000 +0000" stop="20260529010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Filming Inside El Salvador&#039;s Mega-Prison</title>
     </programme>
     <programme start="20260529010000 +0000" stop="20260529013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>

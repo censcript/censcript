@@ -2697,7 +2697,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>LIV Golf: Südkorea, 2. Tag in Busan</title>
 </programme>
 <programme start="20260529140000 +0000" stop="20260529150000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: McIlroy&#039;s Masterpiece</title>
+    <title>Asian Tour: Highlights Korea Open Golf Championship</title>
 </programme>
 <programme start="20260529150000 +0000" stop="20260529160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Amundi German Masters</title>
@@ -2813,10 +2813,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529093000 +0000" stop="20260529100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Transfer Update: Die Show</title>
 </programme>
-<programme start="20260529100000 +0000" stop="20260529113000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260529100000 +0000" stop="20260529110000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20260529113000 +0000" stop="20260529120000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260529110000 +0000" stop="20260529120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: DFB-PK</title>
 </programme>
 <programme start="20260529120000 +0000" stop="20260529130000 +0000" channel="Sky Sport News HD.skyde">
@@ -2963,13 +2963,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260529003000 +0000" stop="20260529033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - J. Cristian (ROU), Internationaux de Strasbourg in Straßburg (FRA), Halbfinale 2</title>
 </programme>
-<programme start="20260529033000 +0000" stop="20260529054500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260529033000 +0000" stop="20260529053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Mboko (CAN) - E. Navarro (USA), Internationaux de Strasbourg in Straßburg (FRA), Finale</title>
 </programme>
-<programme start="20260529054500 +0000" stop="20260529061500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260529053000 +0000" stop="20260529060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260529061500 +0000" stop="20260529080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260529060000 +0000" stop="20260529080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20260529080000 +0000" stop="20260529100000 +0000" channel="Sky Sport Tennis HD.skyde">
