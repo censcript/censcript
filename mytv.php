@@ -112,19 +112,19 @@
     <programme start="20260530153600 +0000" stop="20260530154100 +0000" channel="VTV1 HD.mytv">
         <title> Thương hiệu quốc gia Việt Nam: Du lịch Việt Nam trong bối cảnh mới </title>
     </programme>
-    <programme start="20260530154100 +0000" stop="20260530155500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530154100 +0000" stop="20260530155300 +0000" channel="VTV1 HD.mytv">
         <title> Về quê </title>
     </programme>
-    <programme start="20260530155500 +0000" stop="20260530160000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530155300 +0000" stop="20260530160000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260530160000 +0000" stop="20260530161500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530160000 +0000" stop="20260530161200 +0000" channel="VTV1 HD.mytv">
         <title> Văn hoá CAND: Tiếp lửa thao trường - Phần 2 </title>
     </programme>
-    <programme start="20260530161500 +0000" stop="20260530164500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530161200 +0000" stop="20260530164200 +0000" channel="VTV1 HD.mytv">
         <title> Vì cộng đồng: Mạch nguồn quan họ </title>
     </programme>
-    <programme start="20260530164500 +0000" stop="20260530170000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530164200 +0000" stop="20260530170000 +0000" channel="VTV1 HD.mytv">
         <title> Nhật ký người Việt: Phụ nữ Việt chinh phục đỉnh Everest </title>
     </programme>
     <programme start="20260530170000 +0000" stop="20260530170500 +0000" channel="VTV1 HD.mytv">
@@ -148,28 +148,28 @@
     <programme start="20260530194000 +0000" stop="20260530195500 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tin </title>
     </programme>
-    <programme start="20260530195500 +0000" stop="20260530200000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530195500 +0000" stop="20260530195900 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Đến Tây Ninh tìm về món chay </title>
     </programme>
-    <programme start="20260530200000 +0000" stop="20260530200500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530195900 +0000" stop="20260530200400 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe </title>
     </programme>
-    <programme start="20260530200500 +0000" stop="20260530201000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530200400 +0000" stop="20260530201100 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình trực tiếp: Khai mạc Lễ hội Pháo hoa quốc tế Đà Nẵng </title>
     </programme>
-    <programme start="20260530201000 +0000" stop="20260530215000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530201100 +0000" stop="20260530215100 +0000" channel="VTV1 HD.mytv">
         <title> Ánh sáng tri thức: Mắt nói </title>
     </programme>
-    <programme start="20260530215000 +0000" stop="20260530220500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530215100 +0000" stop="20260530220800 +0000" channel="VTV1 HD.mytv">
         <title> Câu chuyện quốc tế: Khi AI bước vào thế giới thời trang </title>
     </programme>
-    <programme start="20260530220500 +0000" stop="20260530222000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530220800 +0000" stop="20260530222000 +0000" channel="VTV1 HD.mytv">
         <title> Văn học nghệ thuật: Những nốt nhạc truyền đời </title>
     </programme>
-    <programme start="20260530222000 +0000" stop="20260530225000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530222000 +0000" stop="20260530224900 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống: Hành trình kỳ diệu </title>
     </programme>
-    <programme start="20260530225000 +0000" stop="20260530230000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530224900 +0000" stop="20260530230000 +0000" channel="VTV1 HD.mytv">
         <title> Bản tin </title>
     </programme>
     <programme start="20260530230000 +0000" stop="20260530231500 +0000" channel="VTV1 HD.mytv">
