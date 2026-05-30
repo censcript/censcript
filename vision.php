@@ -88,9 +88,6 @@
 <programme start="20260530043000 +0000" stop="20260530070000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260530070000 +0000" stop="20260530090000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
-</programme>
 <programme start="20260530090000 +0000" stop="20260530103000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
@@ -114,9 +111,6 @@
 </programme>
 <programme start="20260530200000 +0000" stop="20260530203000 +0000" channel="MNCTV.vision">
 <title>Bimbingan Rohani Budha</title>
-</programme>
-<programme start="20260530203000 +0000" stop="20260530230000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
 </programme>
 <programme start="20260530230000 +0000" stop="20260530231500 +0000" channel="MNCTV.vision">
 <title>CoComelon</title>
@@ -693,9 +687,6 @@
 </programme>
 <programme start="20260530010000 +0000" stop="20260530013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20260530013000 +0000" stop="20260530020000 +0000" channel="TVOne.vision">
-<title>Mata Indonesia</title>
 </programme>
 <programme start="20260530020000 +0000" stop="20260530023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260531030000 +0000" stop="20260531033000 +0000" channel="DAAI TV.vision">
 <title>Hati Ke Hati</title>
+</programme>
+<programme start="20260531033000 +0000" stop="20260531040000 +0000" channel="DAAI TV.vision">
+<title>Vegetarian Kitchen</title>
+</programme>
+<programme start="20260531040000 +0000" stop="20260531050000 +0000" channel="DAAI TV.vision">
+<title>Saat Terindah</title>
+</programme>
+<programme start="20260531050000 +0000" stop="20260531053000 +0000" channel="DAAI TV.vision">
+<title>DAAI Mandarin</title>
 </programme>

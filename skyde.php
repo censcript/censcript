@@ -1429,38 +1429,41 @@
 <programme start="20260530034000 +0000" stop="20260530040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260530040000 +0000" stop="20260530042500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530040000 +0000" stop="20260530042000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260530042500 +0000" stop="20260530044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530042000 +0000" stop="20260530044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260530044500 +0000" stop="20260530051000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530044500 +0000" stop="20260530050500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260530051000 +0000" stop="20260530053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530050500 +0000" stop="20260530053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260530053000 +0000" stop="20260530055500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530053000 +0000" stop="20260530055000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260530055500 +0000" stop="20260530062000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530055000 +0000" stop="20260530061500 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
-<programme start="20260530062000 +0000" stop="20260530064000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530061500 +0000" stop="20260530063500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260530064000 +0000" stop="20260530065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530063500 +0000" stop="20260530065000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260530065000 +0000" stop="20260530070000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530065000 +0000" stop="20260530065500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260530070000 +0000" stop="20260530070500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530065500 +0000" stop="20260530070500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260530070500 +0000" stop="20260530071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530070500 +0000" stop="20260530071000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
+</programme>
+<programme start="20260530071000 +0000" stop="20260530071500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260530071500 +0000" stop="20260530072000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -1468,10 +1471,10 @@
 <programme start="20260530072000 +0000" stop="20260530072500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260530072500 +0000" stop="20260530072600 +0000" channel="Nick Jr..skyde">
+<programme start="20260530072500 +0000" stop="20260530073000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260530072600 +0000" stop="20260530073500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530073000 +0000" stop="20260530073500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260530073500 +0000" stop="20260530074000 +0000" channel="Nick Jr..skyde">
@@ -1480,10 +1483,7 @@
 <programme start="20260530074000 +0000" stop="20260530074500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260530074500 +0000" stop="20260530074600 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20260530074600 +0000" stop="20260530075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530074500 +0000" stop="20260530075500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260530075500 +0000" stop="20260530081500 +0000" channel="Nick Jr..skyde">
@@ -1528,14 +1528,17 @@
 <programme start="20260530123000 +0000" stop="20260530124000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260530124000 +0000" stop="20260530130500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530124000 +0000" stop="20260530130000 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260530130500 +0000" stop="20260530131500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530130000 +0000" stop="20260530131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260530131500 +0000" stop="20260530134000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530131500 +0000" stop="20260530133500 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
+</programme>
+<programme start="20260530133500 +0000" stop="20260530134000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260530134000 +0000" stop="20260530134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -1543,49 +1546,46 @@
 <programme start="20260530134500 +0000" stop="20260530135000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260530135000 +0000" stop="20260530135100 +0000" channel="Nick Jr..skyde">
+<programme start="20260530135000 +0000" stop="20260530135500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260530135100 +0000" stop="20260530135500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530135500 +0000" stop="20260530140000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260530135500 +0000" stop="20260530140500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20260530140500 +0000" stop="20260530142500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530140000 +0000" stop="20260530142000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260530142500 +0000" stop="20260530145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530142000 +0000" stop="20260530144500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260530145000 +0000" stop="20260530150000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530144500 +0000" stop="20260530150000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260530150000 +0000" stop="20260530152500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530150000 +0000" stop="20260530152000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260530152500 +0000" stop="20260530153500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530152000 +0000" stop="20260530153000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260530153500 +0000" stop="20260530160000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530153000 +0000" stop="20260530155500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260530160000 +0000" stop="20260530162000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530155500 +0000" stop="20260530161500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260530162000 +0000" stop="20260530163000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530161500 +0000" stop="20260530163000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260530163000 +0000" stop="20260530164000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530163000 +0000" stop="20260530163500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260530164000 +0000" stop="20260530164500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530163500 +0000" stop="20260530164500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260530164500 +0000" stop="20260530165500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530164500 +0000" stop="20260530165000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260530165500 +0000" stop="20260530170000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530165000 +0000" stop="20260530170000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260530170000 +0000" stop="20260530170500 +0000" channel="Nick Jr..skyde">
@@ -1606,43 +1606,46 @@
 <programme start="20260530172500 +0000" stop="20260530173000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260530173000 +0000" stop="20260530175500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530173000 +0000" stop="20260530175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260530175500 +0000" stop="20260530180500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530175000 +0000" stop="20260530180000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260530180500 +0000" stop="20260530182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530180000 +0000" stop="20260530182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260530182500 +0000" stop="20260530185000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530182500 +0000" stop="20260530184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260530185000 +0000" stop="20260530190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530184500 +0000" stop="20260530190000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260530190000 +0000" stop="20260530192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530190000 +0000" stop="20260530192000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260530192500 +0000" stop="20260530194500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530192000 +0000" stop="20260530194500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260530194500 +0000" stop="20260530201000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530194500 +0000" stop="20260530200500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260530201000 +0000" stop="20260530203000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530200500 +0000" stop="20260530202500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260530203000 +0000" stop="20260530205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530202500 +0000" stop="20260530205000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260530205000 +0000" stop="20260530211500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530205000 +0000" stop="20260530211000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260530211500 +0000" stop="20260530213500 +0000" channel="Nick Jr..skyde">
+<programme start="20260530211000 +0000" stop="20260530213500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260530213500 +0000" stop="20260530220000 +0000" channel="Nick Jr..skyde">
+<programme start="20260530213500 +0000" stop="20260530215500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20260530215500 +0000" stop="20260530222000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260529221500 +0000" stop="20260529234500 +0000" channel="Romance TV HD.skyde">
@@ -1897,95 +1900,89 @@
 <programme start="20260530203500 +0000" stop="20260530222500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>The Long Walk - Todesmarsch</title>
 </programme>
-<programme start="20260607224000 +0000" stop="20260607232000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260529224000 +0000" stop="20260529234000 +0000" channel="Sky Crime HD.skyde">
+    <title>Last Call Killer: Todesangst im queeren New York</title>
+</programme>
+<programme start="20260529234000 +0000" stop="20260530011000 +0000" channel="Sky Crime HD.skyde">
+    <title>Leiche im Schnee: Der Mord an Joanna Yeates</title>
+</programme>
+<programme start="20260530011000 +0000" stop="20260530015500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Lady Killers</title>
+</programme>
+<programme start="20260530015500 +0000" stop="20260530024000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Lady Killers</title>
+</programme>
+<programme start="20260530024000 +0000" stop="20260530034500 +0000" channel="Sky Crime HD.skyde">
+    <title>Wrong Man</title>
+</programme>
+<programme start="20260530034500 +0000" stop="20260530043000 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530043000 +0000" stop="20260530051500 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530051500 +0000" stop="20260530060000 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530060000 +0000" stop="20260530064500 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530064500 +0000" stop="20260530073500 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530073500 +0000" stop="20260530082000 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530082000 +0000" stop="20260530090500 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530090500 +0000" stop="20260530095000 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530095000 +0000" stop="20260530104000 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530104000 +0000" stop="20260530112500 +0000" channel="Sky Crime HD.skyde">
+    <title>Diabolical - Teuflische Morde</title>
+</programme>
+<programme start="20260530112500 +0000" stop="20260530121500 +0000" channel="Sky Crime HD.skyde">
+    <title>See No Evil</title>
+</programme>
+<programme start="20260530121500 +0000" stop="20260530130500 +0000" channel="Sky Crime HD.skyde">
+    <title>See No Evil</title>
+</programme>
+<programme start="20260530130500 +0000" stop="20260530135000 +0000" channel="Sky Crime HD.skyde">
+    <title>See No Evil</title>
+</programme>
+<programme start="20260530135000 +0000" stop="20260530144000 +0000" channel="Sky Crime HD.skyde">
+    <title>See No Evil</title>
+</programme>
+<programme start="20260530144000 +0000" stop="20260530153000 +0000" channel="Sky Crime HD.skyde">
+    <title>See No Evil</title>
+</programme>
+<programme start="20260530153000 +0000" stop="20260530162000 +0000" channel="Sky Crime HD.skyde">
+    <title>See No Evil</title>
+</programme>
+<programme start="20260530162000 +0000" stop="20260530171000 +0000" channel="Sky Crime HD.skyde">
+    <title>See No Evil</title>
+</programme>
+<programme start="20260530171000 +0000" stop="20260530175500 +0000" channel="Sky Crime HD.skyde">
     <title>A Plan to Kill</title>
 </programme>
-<programme start="20260607232000 +0000" stop="20260608000000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260530175500 +0000" stop="20260530184500 +0000" channel="Sky Crime HD.skyde">
     <title>A Plan to Kill</title>
 </programme>
-<programme start="20260608000000 +0000" stop="20260608004500 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit meinem Mörder</title>
+<programme start="20260530184500 +0000" stop="20260530193000 +0000" channel="Sky Crime HD.skyde">
+    <title>Im Bett mit einem Serienkiller</title>
 </programme>
-<programme start="20260608004500 +0000" stop="20260608013000 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit meinem Mörder</title>
+<programme start="20260530193000 +0000" stop="20260530202000 +0000" channel="Sky Crime HD.skyde">
+    <title>Im Bett mit einem Serienkiller</title>
 </programme>
-<programme start="20260608013000 +0000" stop="20260608022000 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit meinem Mörder</title>
+<programme start="20260530202000 +0000" stop="20260530215500 +0000" channel="Sky Crime HD.skyde">
+    <title>Leiche im Schnee: Der Mord an Joanna Yeates</title>
 </programme>
-<programme start="20260608022000 +0000" stop="20260608024500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260608024500 +0000" stop="20260608030500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260608030500 +0000" stop="20260608035500 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliches Begehren</title>
-</programme>
-<programme start="20260608035500 +0000" stop="20260608045000 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliches Begehren</title>
-</programme>
-<programme start="20260608045000 +0000" stop="20260608054500 +0000" channel="Sky Crime HD.skyde">
-    <title>Auf der Spur des Verbrechens - Forensiker im Einsatz</title>
-</programme>
-<programme start="20260608054500 +0000" stop="20260608063000 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260608063000 +0000" stop="20260608071500 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260608071500 +0000" stop="20260608081000 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliches Begehren</title>
-</programme>
-<programme start="20260608081000 +0000" stop="20260608090000 +0000" channel="Sky Crime HD.skyde">
-    <title>Tödliches Begehren</title>
-</programme>
-<programme start="20260608090000 +0000" stop="20260608095500 +0000" channel="Sky Crime HD.skyde">
-    <title>Blutige Familienbande</title>
-</programme>
-<programme start="20260608095500 +0000" stop="20260608104500 +0000" channel="Sky Crime HD.skyde">
-    <title>Blutige Familienbande</title>
-</programme>
-<programme start="20260608104500 +0000" stop="20260608113500 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer on the Line - Notruf Mord</title>
-</programme>
-<programme start="20260608113500 +0000" stop="20260608122000 +0000" channel="Sky Crime HD.skyde">
-    <title>Killer on the Line - Notruf Mord</title>
-</programme>
-<programme start="20260608122000 +0000" stop="20260608130500 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260608130500 +0000" stop="20260608135000 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260608135000 +0000" stop="20260608150500 +0000" channel="Sky Crime HD.skyde">
-    <title>Cold Case Investigators</title>
-</programme>
-<programme start="20260608150500 +0000" stop="20260608155500 +0000" channel="Sky Crime HD.skyde">
-    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
-</programme>
-<programme start="20260608155500 +0000" stop="20260608164000 +0000" channel="Sky Crime HD.skyde">
-    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
-</programme>
-<programme start="20260608164000 +0000" stop="20260608172500 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260608172500 +0000" stop="20260608181500 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260608181500 +0000" stop="20260608190000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Murders of Atlanta</title>
-</programme>
-<programme start="20260608190000 +0000" stop="20260608194500 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Murders of Atlanta</title>
-</programme>
-<programme start="20260608194500 +0000" stop="20260608204000 +0000" channel="Sky Crime HD.skyde">
-    <title>Phil Spector - Musikgenie und Mörder</title>
-</programme>
-<programme start="20260608204000 +0000" stop="20260608214000 +0000" channel="Sky Crime HD.skyde">
-    <title>Phil Spector - Musikgenie und Mörder</title>
-</programme>
-<programme start="20260608214000 +0000" stop="20260608225500 +0000" channel="Sky Crime HD.skyde">
-    <title>Cold Case Investigators</title>
+<programme start="20260530215500 +0000" stop="20260530224000 +0000" channel="Sky Crime HD.skyde">
+    <title>Mein (fast) perfektes Verbrechen</title>
 </programme>
 <programme start="20260529223000 +0000" stop="20260529231500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hochsee Cowboys</title>
@@ -2791,10 +2788,10 @@
 <programme start="20260530084500 +0000" stop="20260530100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Qualifying - GP Italien</title>
 </programme>
-<programme start="20260530100000 +0000" stop="20260530104000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260530100000 +0000" stop="20260530104500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live HDBWC: 1. Rennen - GP Italien</title>
 </programme>
-<programme start="20260530104000 +0000" stop="20260530113500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260530104500 +0000" stop="20260530113500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: Qualifying - GP Italien</title>
 </programme>
 <programme start="20260530113500 +0000" stop="20260530123000 +0000" channel="Sky Sport Mix HD.skyde">
