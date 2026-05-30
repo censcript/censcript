@@ -1897,89 +1897,95 @@
 <programme start="20260530203500 +0000" stop="20260530222500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>The Long Walk - Todesmarsch</title>
 </programme>
-<programme start="20260529224000 +0000" stop="20260529234000 +0000" channel="Sky Crime HD.skyde">
-    <title>Last Call Killer: Todesangst im queeren New York</title>
-</programme>
-<programme start="20260529234000 +0000" stop="20260530011000 +0000" channel="Sky Crime HD.skyde">
-    <title>Leiche im Schnee: Der Mord an Joanna Yeates</title>
-</programme>
-<programme start="20260530011000 +0000" stop="20260530015500 +0000" channel="Sky Crime HD.skyde">
-    <title>The Lady Killers</title>
-</programme>
-<programme start="20260530015500 +0000" stop="20260530024000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Lady Killers</title>
-</programme>
-<programme start="20260530024000 +0000" stop="20260530034500 +0000" channel="Sky Crime HD.skyde">
-    <title>Wrong Man</title>
-</programme>
-<programme start="20260530034500 +0000" stop="20260530043000 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530043000 +0000" stop="20260530051500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530051500 +0000" stop="20260530060000 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530060000 +0000" stop="20260530064500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530064500 +0000" stop="20260530073500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530073500 +0000" stop="20260530082000 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530082000 +0000" stop="20260530090500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530090500 +0000" stop="20260530095000 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530095000 +0000" stop="20260530104000 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530104000 +0000" stop="20260530112500 +0000" channel="Sky Crime HD.skyde">
-    <title>Diabolical - Teuflische Morde</title>
-</programme>
-<programme start="20260530112500 +0000" stop="20260530121500 +0000" channel="Sky Crime HD.skyde">
-    <title>See No Evil</title>
-</programme>
-<programme start="20260530121500 +0000" stop="20260530130500 +0000" channel="Sky Crime HD.skyde">
-    <title>See No Evil</title>
-</programme>
-<programme start="20260530130500 +0000" stop="20260530135000 +0000" channel="Sky Crime HD.skyde">
-    <title>See No Evil</title>
-</programme>
-<programme start="20260530135000 +0000" stop="20260530144000 +0000" channel="Sky Crime HD.skyde">
-    <title>See No Evil</title>
-</programme>
-<programme start="20260530144000 +0000" stop="20260530153000 +0000" channel="Sky Crime HD.skyde">
-    <title>See No Evil</title>
-</programme>
-<programme start="20260530153000 +0000" stop="20260530162000 +0000" channel="Sky Crime HD.skyde">
-    <title>See No Evil</title>
-</programme>
-<programme start="20260530162000 +0000" stop="20260530171000 +0000" channel="Sky Crime HD.skyde">
-    <title>See No Evil</title>
-</programme>
-<programme start="20260530171000 +0000" stop="20260530175500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260607224000 +0000" stop="20260607232000 +0000" channel="Sky Crime HD.skyde">
     <title>A Plan to Kill</title>
 </programme>
-<programme start="20260530175500 +0000" stop="20260530184500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260607232000 +0000" stop="20260608000000 +0000" channel="Sky Crime HD.skyde">
     <title>A Plan to Kill</title>
 </programme>
-<programme start="20260530184500 +0000" stop="20260530193000 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit einem Serienkiller</title>
+<programme start="20260608000000 +0000" stop="20260608004500 +0000" channel="Sky Crime HD.skyde">
+    <title>Im Bett mit meinem Mörder</title>
 </programme>
-<programme start="20260530193000 +0000" stop="20260530202000 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit einem Serienkiller</title>
+<programme start="20260608004500 +0000" stop="20260608013000 +0000" channel="Sky Crime HD.skyde">
+    <title>Im Bett mit meinem Mörder</title>
 </programme>
-<programme start="20260530202000 +0000" stop="20260530215500 +0000" channel="Sky Crime HD.skyde">
-    <title>Leiche im Schnee: Der Mord an Joanna Yeates</title>
+<programme start="20260608013000 +0000" stop="20260608022000 +0000" channel="Sky Crime HD.skyde">
+    <title>Im Bett mit meinem Mörder</title>
 </programme>
-<programme start="20260530215500 +0000" stop="20260530224000 +0000" channel="Sky Crime HD.skyde">
-    <title>Mein (fast) perfektes Verbrechen</title>
+<programme start="20260608022000 +0000" stop="20260608024500 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
+</programme>
+<programme start="20260608024500 +0000" stop="20260608030500 +0000" channel="Sky Crime HD.skyde">
+    <title>Inside FBI - Die härtesten Fälle</title>
+</programme>
+<programme start="20260608030500 +0000" stop="20260608035500 +0000" channel="Sky Crime HD.skyde">
+    <title>Tödliches Begehren</title>
+</programme>
+<programme start="20260608035500 +0000" stop="20260608045000 +0000" channel="Sky Crime HD.skyde">
+    <title>Tödliches Begehren</title>
+</programme>
+<programme start="20260608045000 +0000" stop="20260608054500 +0000" channel="Sky Crime HD.skyde">
+    <title>Auf der Spur des Verbrechens - Forensiker im Einsatz</title>
+</programme>
+<programme start="20260608054500 +0000" stop="20260608063000 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260608063000 +0000" stop="20260608071500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260608071500 +0000" stop="20260608081000 +0000" channel="Sky Crime HD.skyde">
+    <title>Tödliches Begehren</title>
+</programme>
+<programme start="20260608081000 +0000" stop="20260608090000 +0000" channel="Sky Crime HD.skyde">
+    <title>Tödliches Begehren</title>
+</programme>
+<programme start="20260608090000 +0000" stop="20260608095500 +0000" channel="Sky Crime HD.skyde">
+    <title>Blutige Familienbande</title>
+</programme>
+<programme start="20260608095500 +0000" stop="20260608104500 +0000" channel="Sky Crime HD.skyde">
+    <title>Blutige Familienbande</title>
+</programme>
+<programme start="20260608104500 +0000" stop="20260608113500 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20260608113500 +0000" stop="20260608122000 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20260608122000 +0000" stop="20260608130500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260608130500 +0000" stop="20260608135000 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260608135000 +0000" stop="20260608150500 +0000" channel="Sky Crime HD.skyde">
+    <title>Cold Case Investigators</title>
+</programme>
+<programme start="20260608150500 +0000" stop="20260608155500 +0000" channel="Sky Crime HD.skyde">
+    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
+</programme>
+<programme start="20260608155500 +0000" stop="20260608164000 +0000" channel="Sky Crime HD.skyde">
+    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
+</programme>
+<programme start="20260608164000 +0000" stop="20260608172500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260608172500 +0000" stop="20260608181500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260608181500 +0000" stop="20260608190000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
+<programme start="20260608190000 +0000" stop="20260608194500 +0000" channel="Sky Crime HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
+<programme start="20260608194500 +0000" stop="20260608204000 +0000" channel="Sky Crime HD.skyde">
+    <title>Phil Spector - Musikgenie und Mörder</title>
+</programme>
+<programme start="20260608204000 +0000" stop="20260608214000 +0000" channel="Sky Crime HD.skyde">
+    <title>Phil Spector - Musikgenie und Mörder</title>
+</programme>
+<programme start="20260608214000 +0000" stop="20260608225500 +0000" channel="Sky Crime HD.skyde">
+    <title>Cold Case Investigators</title>
 </programme>
 <programme start="20260529223000 +0000" stop="20260529231500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hochsee Cowboys</title>
