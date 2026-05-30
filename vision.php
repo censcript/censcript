@@ -1,14 +1,29 @@
 <programme start="20260529230000 +0000" stop="20260530010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260531013000 +0000" stop="20260531030000 +0000" channel="RCTI.vision">
+<programme start="20260530010000 +0000" stop="20260530033000 +0000" channel="RCTI.vision">
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260530033000 +0000" stop="20260530050000 +0000" channel="RCTI.vision">
 <title>Kiko In The Deep Sea</title>
 </programme>
+<programme start="20260530050000 +0000" stop="20260530063000 +0000" channel="RCTI.vision">
+<title>Iiihhh Serrreemm</title>
+</programme>
 <programme start="20260530063000 +0000" stop="20260530090000 +0000" channel="RCTI.vision">
 <title>Iiihhh Serrreemm</title>
+</programme>
+<programme start="20260530090000 +0000" stop="20260530103000 +0000" channel="RCTI.vision">
+<title>Takut Gak Sih</title>
+</programme>
+<programme start="20260530103000 +0000" stop="20260530120000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun Deui</title>
+</programme>
+<programme start="20260530120000 +0000" stop="20260530133000 +0000" channel="RCTI.vision">
+<title>Terikat Janji (RCTI)</title>
+</programme>
+<programme start="20260530133000 +0000" stop="20260530144500 +0000" channel="RCTI.vision">
+<title>Turun Ranjang (RCTI)</title>
 </programme>
 <programme start="20260530144500 +0000" stop="20260530160000 +0000" channel="RCTI.vision">
 <title>Liontin Kirana</title>
@@ -22,6 +37,9 @@
 <programme start="20260530183000 +0000" stop="20260530190000 +0000" channel="RCTI.vision">
 <title>Eat, Pray &amp; Love</title>
 </programme>
+<programme start="20260530190000 +0000" stop="20260530200000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
+</programme>
 <programme start="20260530200000 +0000" stop="20260530203000 +0000" channel="RCTI.vision">
 <title>Mujizat Itu Nyata</title>
 </programme>
@@ -34,11 +52,17 @@
 <programme start="20260531010000 +0000" stop="20260531013000 +0000" channel="RCTI.vision">
 <title>Titus The Detective</title>
 </programme>
+<programme start="20260531013000 +0000" stop="20260531030000 +0000" channel="RCTI.vision">
+<title>Entong (RCTI)</title>
+</programme>
 <programme start="20260531030000 +0000" stop="20260531033000 +0000" channel="RCTI.vision">
 <title>Kiko</title>
 </programme>
 <programme start="20260531033000 +0000" stop="20260531050000 +0000" channel="RCTI.vision">
 <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260531050000 +0000" stop="20260531063000 +0000" channel="RCTI.vision">
+<title>Iiihhh Serrreemm</title>
 </programme>
 <programme start="20260531063000 +0000" stop="20260531090000 +0000" channel="RCTI.vision">
 <title>Iiihhh Serrreemm</title>

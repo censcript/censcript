@@ -37,49 +37,49 @@
     <programme start="20260530051100 +0000" stop="20260530053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260530053000 +0000" stop="20260530070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530053000 +0000" stop="20260530065900 +0000" channel="VTV1 HD.mytv">
         <title> Tiêu điểm chính sách </title>
     </programme>
-    <programme start="20260530070000 +0000" stop="20260530071500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530065900 +0000" stop="20260530071700 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>
     </programme>
-    <programme start="20260530071500 +0000" stop="20260530073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530071700 +0000" stop="20260530072900 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
-    <programme start="20260530073000 +0000" stop="20260530081500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530072900 +0000" stop="20260530081500 +0000" channel="VTV1 HD.mytv">
         <title> Sách hay thay đổi cuộc đời </title>
     </programme>
     <programme start="20260530081500 +0000" stop="20260530083000 +0000" channel="VTV1 HD.mytv">
         <title> Tạp chí Kinh tế cuối tuần </title>
     </programme>
-    <programme start="20260530083000 +0000" stop="20260530090000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530083000 +0000" stop="20260530085900 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260530090000 +0000" stop="20260530090500 +0000" channel="VTV1 HD.mytv">
-        <title> Du lịch Việt Nam </title>
-    </programme>
-    <programme start="20260530090500 +0000" stop="20260530091500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530085900 +0000" stop="20260530091500 +0000" channel="VTV1 HD.mytv">
         <title> Sự kiện và bình luận </title>
     </programme>
-    <programme start="20260530091500 +0000" stop="20260530094500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530091500 +0000" stop="20260530091600 +0000" channel="VTV1 HD.mytv">
+        <title> Du lịch Việt Nam </title>
+    </programme>
+    <programme start="20260530091600 +0000" stop="20260530094500 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống: Hành trình kỳ diệu </title>
     </programme>
-    <programme start="20260530094500 +0000" stop="20260530100000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530094500 +0000" stop="20260530095800 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tựa cuộc sống </title>
     </programme>
-    <programme start="20260530100000 +0000" stop="20260530103000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530095800 +0000" stop="20260530102900 +0000" channel="VTV1 HD.mytv">
         <title> Tương lai xanh: Mạnh tay xử lý ô nhiễm môi trường </title>
     </programme>
-    <programme start="20260530103000 +0000" stop="20260530110000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530102900 +0000" stop="20260530110000 +0000" channel="VTV1 HD.mytv">
         <title> Sống an toàn </title>
     </programme>
-    <programme start="20260530110000 +0000" stop="20260530113000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530110000 +0000" stop="20260530112900 +0000" channel="VTV1 HD.mytv">
         <title> Cuộc sống số </title>
     </programme>
-    <programme start="20260530113000 +0000" stop="20260530114500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530112900 +0000" stop="20260530114200 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20260530114500 +0000" stop="20260530120000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530114200 +0000" stop="20260530120000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
     <programme start="20260530120000 +0000" stop="20260530124000 +0000" channel="VTV1 HD.mytv">
