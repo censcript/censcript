@@ -82,37 +82,37 @@
     <programme start="20260530114200 +0000" stop="20260530120000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260530120000 +0000" stop="20260530124000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530120000 +0000" stop="20260530123900 +0000" channel="VTV1 HD.mytv">
         <title> Sự lựa chọn </title>
     </programme>
-    <programme start="20260530124000 +0000" stop="20260530125500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530123900 +0000" stop="20260530130200 +0000" channel="VTV1 HD.mytv">
         <title> Cặp lá yêu thương </title>
     </programme>
-    <programme start="20260530125500 +0000" stop="20260530130000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530130200 +0000" stop="20260530130900 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe - Dinh dưỡng cho người Việt </title>
     </programme>
-    <programme start="20260530130000 +0000" stop="20260530134500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530130900 +0000" stop="20260530135500 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Làng cổ bên dòng sông Mã </title>
     </programme>
-    <programme start="20260530134500 +0000" stop="20260530140000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530135500 +0000" stop="20260530140700 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20260530140000 +0000" stop="20260530141500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530140700 +0000" stop="20260530142200 +0000" channel="VTV1 HD.mytv">
         <title> Học và làm theo Bác: Mô hình Vinh danh dưới lá cờ </title>
     </programme>
-    <programme start="20260530141500 +0000" stop="20260530143000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530142200 +0000" stop="20260530143800 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu: Hồ Chí Minh - Người kiến tạo nền văn hóa mới của dân tộc Việt Nam </title>
     </programme>
-    <programme start="20260530143000 +0000" stop="20260530150000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530143800 +0000" stop="20260530150800 +0000" channel="VTV1 HD.mytv">
         <title> Doanh nghiệp - Doanh nhân: Bảo vệ quyền sở hữu trí tuệ </title>
     </programme>
-    <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530150800 +0000" stop="20260530153600 +0000" channel="VTV1 HD.mytv">
         <title> Trái tim cho em </title>
     </programme>
-    <programme start="20260530153000 +0000" stop="20260530154000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530153600 +0000" stop="20260530154100 +0000" channel="VTV1 HD.mytv">
         <title> Thương hiệu quốc gia Việt Nam: Du lịch Việt Nam trong bối cảnh mới </title>
     </programme>
-    <programme start="20260530154000 +0000" stop="20260530155500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260530154100 +0000" stop="20260530155500 +0000" channel="VTV1 HD.mytv">
         <title> Về quê </title>
     </programme>
     <programme start="20260530155500 +0000" stop="20260530160000 +0000" channel="VTV1 HD.mytv">

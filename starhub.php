@@ -1972,8 +1972,8 @@
     <programme start="20260529170000 +0000" stop="20260529200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Trip</title>
     </programme>
-    <programme start="20260529200000 +0000" stop="20260529220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260529200000 +0000" stop="20260529223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Manjal Veyil</title>
     </programme>
     <programme start="20260529223000 +0000" stop="20260530010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Markandeyan</title>
@@ -7732,11 +7732,17 @@
     <programme start="20260529133000 +0000" stop="20260529165500 +0000" channel="Asianet Movies.starhub">
         <title>Empuraan</title>
     </programme>
-    <programme start="20260529165500 +0000" stop="20260529201000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260529165500 +0000" stop="20260529170000 +0000" channel="Asianet Movies.starhub">
         <title>Srungaravelan</title>
     </programme>
-    <programme start="20260529201000 +0000" stop="20260529225500 +0000" channel="Asianet Movies.starhub">
-        <title>Iruvattam Manavatty</title>
+    <programme start="20260529170000 +0000" stop="20260529193000 +0000" channel="Asianet Movies.starhub">
+        <title>Sookshmadarshini</title>
+    </programme>
+    <programme start="20260529193000 +0000" stop="20260529213000 +0000" channel="Asianet Movies.starhub">
+        <title>Oru Thekkan Thallu Kesu</title>
+    </programme>
+    <programme start="20260529213000 +0000" stop="20260529233000 +0000" channel="Asianet Movies.starhub">
+        <title>Kilipoyi</title>
     </programme>
     <programme start="20260529233000 +0000" stop="20260530013000 +0000" channel="Asianet Movies.starhub">
         <title>Liger</title>
