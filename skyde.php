@@ -1858,6 +1858,45 @@
 <programme start="20260530205000 +0000" stop="20260530223500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Octagon - Die Rache der Ninja</title>
 </programme>
+<programme start="20260529232500 +0000" stop="20260530010000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Dead Shot - Einsame Rache</title>
+</programme>
+<programme start="20260530010000 +0000" stop="20260530022500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Hallow Road</title>
+</programme>
+<programme start="20260530022500 +0000" stop="20260530041000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Wedding Banquet</title>
+</programme>
+<programme start="20260530041000 +0000" stop="20260530054000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Woman in the Yard</title>
+</programme>
+<programme start="20260530054000 +0000" stop="20260530071500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Sneaks - Auf die Sohlen, fertig, los!</title>
+</programme>
+<programme start="20260530071500 +0000" stop="20260530090500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Final Destination 6: Bloodlines</title>
+</programme>
+<programme start="20260530090500 +0000" stop="20260530105000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Die Schule der magischen Tiere 4</title>
+</programme>
+<programme start="20260530105000 +0000" stop="20260530131000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Planet der Affen: New Kingdom</title>
+</programme>
+<programme start="20260530131000 +0000" stop="20260530144500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Die Schlümpfe - Der große Kinofilm</title>
+</programme>
+<programme start="20260530144500 +0000" stop="20260530163000 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Riff Raff - Verbrechen ist Familiensache</title>
+</programme>
+<programme start="20260530163000 +0000" stop="20260530181500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Die Schule der magischen Tiere 4</title>
+</programme>
+<programme start="20260530181500 +0000" stop="20260530203500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>Planet der Affen: New Kingdom</title>
+</programme>
+<programme start="20260530203500 +0000" stop="20260530222500 +0000" channel="Sky Cinema Premiere HD.skyde">
+    <title>The Long Walk - Todesmarsch</title>
+</programme>
 <programme start="20260529224000 +0000" stop="20260529234000 +0000" channel="Sky Crime HD.skyde">
     <title>Last Call Killer: Todesangst im queeren New York</title>
 </programme>
@@ -3031,10 +3070,10 @@
 <programme start="20260530090000 +0000" stop="20260530100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Qualifying - GP Italien</title>
 </programme>
-<programme start="20260530100000 +0000" stop="20260530104000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260530100000 +0000" stop="20260530104500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live HDBWC: 1. Rennen - GP Italien</title>
 </programme>
-<programme start="20260530104000 +0000" stop="20260530113500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260530104500 +0000" stop="20260530113500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: Qualifying - GP Italien</title>
 </programme>
 <programme start="20260530113500 +0000" stop="20260530123000 +0000" channel="Sky Sport Top Event HD.skyde">
