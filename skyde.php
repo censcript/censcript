@@ -2389,11 +2389,8 @@
 <programme start="20260531215000 +0000" stop="20260531232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Leiche im Schnee: Der Mord an Joanna Yeates</title>
 </programme>
-<programme start="20260530223000 +0000" stop="20260530225500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260530230000 +0000" stop="20260530232000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% RB Salzburg (Runden 29-32)</title>
-</programme>
-<programme start="20260530225500 +0000" stop="20260530232000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Austria Wien (Runden 29-32)</title>
 </programme>
 <programme start="20260530232000 +0000" stop="20260530234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Rapid (Runden 29-32)</title>
@@ -2623,7 +2620,7 @@
 <programme start="20260531203500 +0000" stop="20260531220500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Forum8 Rally Japan - SS20 Lake Mikawako 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20260530223000 +0000" stop="20260531013000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260530223500 +0000" stop="20260531013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südkorea, 3. Tag in Busan</title>
 </programme>
 <programme start="20260531013000 +0000" stop="20260531021500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2644,25 +2641,25 @@
 <programme start="20260531034500 +0000" stop="20260531040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (5)</title>
 </programme>
-<programme start="20260531040000 +0000" stop="20260531090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260531040000 +0000" stop="20260531093500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Südkorea, 4. Tag in Busan</title>
 </programme>
-<programme start="20260531090000 +0000" stop="20260531120000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260531093500 +0000" stop="20260531115500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: ShopRite LPGA Classic presented by Acer, 2. Tag in Galloway, NJ (USA)</title>
 </programme>
-<programme start="20260531120000 +0000" stop="20260531150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260531115500 +0000" stop="20260531145500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südkorea, 4. Tag in Busan</title>
 </programme>
-<programme start="20260531150000 +0000" stop="20260531154500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260531145500 +0000" stop="20260531154000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (11)</title>
 </programme>
-<programme start="20260531154500 +0000" stop="20260531163000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260531154000 +0000" stop="20260531162500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: US Women&#039;s Open - Official Film 2021</title>
 </programme>
-<programme start="20260531163000 +0000" stop="20260531171500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260531162500 +0000" stop="20260531171000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: US Women&#039;s Open - Official Film 2023</title>
 </programme>
-<programme start="20260531171500 +0000" stop="20260531180000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260531171000 +0000" stop="20260531180000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: US Women&#039;s Open - Official Film 2025 (Maja Stark)</title>
 </programme>
 <programme start="20260531180000 +0000" stop="20260531210000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2749,10 +2746,10 @@
 <programme start="20260531103000 +0000" stop="20260531104500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20260531104500 +0000" stop="20260531133000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260531104500 +0000" stop="20260531134500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live DFB-Nachwuchsliga: TSG Hoffenheim U19 - 1. FC Köln U19, Finale</title>
 </programme>
-<programme start="20260531133000 +0000" stop="20260531160000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260531134500 +0000" stop="20260531160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
 <programme start="20260531160000 +0000" stop="20260531170000 +0000" channel="Sky Sport News HD.skyde">
@@ -2949,12 +2946,6 @@
 </programme>
 <programme start="20260531203000 +0000" stop="20260531223500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: K. Krawietz (GER) / T. Puetz (GER) - S. Doumbia (FRA) / F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
-</programme>
-<programme start="20260530223000 +0000" stop="20260530224500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, MTL@CAR, Playoffs, Eastern Conference Final, Spiel 5</title>
-</programme>
-<programme start="20260530224500 +0000" stop="20260530225500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Highlights 2025</title>
 </programme>
 <programme start="20260530225500 +0000" stop="20260531000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
