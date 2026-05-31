@@ -1685,31 +1685,31 @@
         <title>Roland Garros 2026 (2): Day 7 (Live)</title>
     </programme>
     <programme start="20260530200000 +0000" stop="20260530202500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Fiji vs South Africa - Pool Stage, Valladolid - Women</title>
+        <title>HSBC SVNS World Championships 2026: Fiji vs South Africa - Pool Stage, Valladoli</title>
     </programme>
     <programme start="20260530202500 +0000" stop="20260530205000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs USA - Pool Stage, Valladolid - Women</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs USA - Pool Stage, Valladolid -</title>
     </programme>
     <programme start="20260530205000 +0000" stop="20260530211500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Brazil vs Argentina - Pool Stage, Valladolid - Women</title>
+        <title>HSBC SVNS World Championships 2026: Brazil vs Argentina - Pool Stage, Valladolid</title>
     </programme>
     <programme start="20260530211500 +0000" stop="20260530214000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: New Zealand vs Japan - Pool Stage, Valladolid - Women</title>
+        <title>HSBC SVNS World Championships 2026: New Zealand vs Japan - Pool Stage, Valladoli</title>
     </programme>
     <programme start="20260530214000 +0000" stop="20260530220500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Spain vs Great Britain - Pool Stage, Valladolid - Women</title>
+        <title>HSBC SVNS World Championships 2026: Spain vs Great Britain - Pool Stage, Vallado</title>
     </programme>
     <programme start="20260530220500 +0000" stop="20260530223000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: France vs Canada - Pool Stage, Valladolid - Women</title>
+        <title>HSBC SVNS World Championships 2026: France vs Canada - Pool Stage, Valladolid -</title>
     </programme>
     <programme start="20260530223000 +0000" stop="20260530225500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Uruguay vs Germany - Pool Stage, Valladolid - Men</title>
+        <title>HSBC SVNS World Championships 2026: Uruguay vs Germany - Pool Stage, Valladolid</title>
     </programme>
     <programme start="20260530225500 +0000" stop="20260530232000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Argentina vs New Zealand - Pool Stage, Valladolid - Men</title>
+        <title>HSBC SVNS World Championships 2026: Argentina vs New Zealand - Pool Stage, Valla</title>
     </programme>
     <programme start="20260530232000 +0000" stop="20260530234500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Kenya vs Great Britain - Pool Stage, Valladolid - Men</title>
+        <title>HSBC SVNS World Championships 2026: Kenya vs Great Britain - Pool Stage, Vallado</title>
     </programme>
     <programme start="20260530234500 +0000" stop="20260531001000 +0000" channel="beIN Sports 3.starhub">
         <title>HSBC SVNS World Championships 2026: South Africa vs Australia - Pool Stage, Vall</title>
@@ -6548,7 +6548,7 @@
         <title>HSBC SVNS World Championships 2026: 9th Place SF1, Valladolid - Women</title>
     </programme>
     <programme start="20260531050000 +0000" stop="20260531063000 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA World Rally Championship 2026: Rally Japan SS20 Lake Mikawako 2 - Wolf PS (L</title>
+        <title>FIA World Rally Championship 2026: Rally Japan SS20 Lake Mikawako 2 - Wolf PS (Live)</title>
     </programme>
     <programme start="20260531063000 +0000" stop="20260531070000 +0000" channel="beIN Sports HD.starhub">
         <title>Royal Rally of Scandinavia</title>
