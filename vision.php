@@ -409,6 +409,9 @@
 <programme start="20260531121500 +0000" stop="20260531131500 +0000" channel="Trans TV.vision">
 <title>Monitor Ketua</title>
 </programme>
+<programme start="20260531131500 +0000" stop="20260531151500 +0000" channel="Trans TV.vision">
+<title>Bioskop Spesial Trans TV</title>
+</programme>
 <programme start="20260531171500 +0000" stop="20260531191500 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -585,6 +588,9 @@
 </programme>
 <programme start="20260531090000 +0000" stop="20260531113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260531113000 +0000" stop="20260531140000 +0000" channel="ANTV.vision">
+<title>Jaka Swara</title>
 </programme>
 <programme start="20260531140000 +0000" stop="20260531160000 +0000" channel="ANTV.vision">
 <title>Mata Batin 2</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260531123000 +0000" stop="20260531124500 +0000" channel="DAAI TV.vision">
 <title>Jejak Cinta Kasih</title>
-</programme>
-<programme start="20260531124500 +0000" stop="20260531130000 +0000" channel="DAAI TV.vision">
-<title>Tzu Chi Inside</title>
-</programme>
-<programme start="20260531130000 +0000" stop="20260531140000 +0000" channel="DAAI TV.vision">
-<title>Pengabdian Seorang Dokter</title>
 </programme>
