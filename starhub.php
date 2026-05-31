@@ -6499,11 +6499,8 @@
     <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="Sky News HD.starhub">
         <title>Trevor Phillips: Highlights</title>
     </programme>
-    <programme start="20260530155500 +0000" stop="20260530180000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2025/26: PSG vs Arsenal - Final (Live)</title>
-    </programme>
-    <programme start="20260530180000 +0000" stop="20260530193000 +0000" channel="beIN Sports HD.starhub">
-        <title>The Final: PSG vs Arsenal</title>
+    <programme start="20260530155500 +0000" stop="20260530193000 +0000" channel="beIN Sports HD.starhub">
+        <title>PSG vs Arsenal - Final (Live)</title>
     </programme>
     <programme start="20260530193000 +0000" stop="20260530210000 +0000" channel="beIN Sports HD.starhub">
         <title>New York, USA Day 1</title>
@@ -7591,38 +7588,35 @@
     <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="ABC Australia HD.starhub">
         <title>Woomera Detention Centre Breakout</title>
     </programme>
-    <programme start="20260530133000 +0000" stop="20260530170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260530133000 +0000" stop="20260530163000 +0000" channel="Asianet Movies.starhub">
         <title>Bro Daddy</title>
     </programme>
-    <programme start="20260530170000 +0000" stop="20260530193000 +0000" channel="Asianet Movies.starhub">
-        <title>Ponman</title>
+    <programme start="20260530163000 +0000" stop="20260530191000 +0000" channel="Asianet Movies.starhub">
+        <title>Sookshmadarshini</title>
     </programme>
-    <programme start="20260530193000 +0000" stop="20260530213000 +0000" channel="Asianet Movies.starhub">
-        <title>Joji</title>
+    <programme start="20260530191000 +0000" stop="20260530214500 +0000" channel="Asianet Movies.starhub">
+        <title>Oru Thekkan Thallu Kesu</title>
     </programme>
-    <programme start="20260530213000 +0000" stop="20260530233000 +0000" channel="Asianet Movies.starhub">
-        <title>Cheriya Kallnum Valiya Polisum</title>
+    <programme start="20260530214500 +0000" stop="20260530232000 +0000" channel="Asianet Movies.starhub">
+        <title>Kilipoyi</title>
     </programme>
-    <programme start="20260530233000 +0000" stop="20260531013000 +0000" channel="Asianet Movies.starhub">
-        <title>Jai Sulthan</title>
+    <programme start="20260530232000 +0000" stop="20260531013000 +0000" channel="Asianet Movies.starhub">
+        <title>Liger</title>
     </programme>
-    <programme start="20260531013000 +0000" stop="20260531033000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260531013000 +0000" stop="20260531043000 +0000" channel="Asianet Movies.starhub">
+        <title>Home</title>
     </programme>
-    <programme start="20260531033000 +0000" stop="20260531063000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260531043000 +0000" stop="20260531073000 +0000" channel="Asianet Movies.starhub">
+        <title>Neyyattinkara Gopante Aaraattu</title>
     </programme>
-    <programme start="20260531063000 +0000" stop="20260531093000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260531073000 +0000" stop="20260531103000 +0000" channel="Asianet Movies.starhub">
+        <title>Hridayam</title>
     </programme>
-    <programme start="20260531093000 +0000" stop="20260531123000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260531103000 +0000" stop="20260531133000 +0000" channel="Asianet Movies.starhub">
+        <title>Bahubali 2: The Conclusion</title>
     </programme>
-    <programme start="20260531123000 +0000" stop="20260531153000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20260531153000 +0000" stop="20260531170000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260531133000 +0000" stop="20260531170000 +0000" channel="Asianet Movies.starhub">
+        <title>Bro Daddy</title>
     </programme>
     <programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="Astro Warna HD.starhub">
         <title>Opera Sabun Boboi</title>
