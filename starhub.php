@@ -1772,34 +1772,34 @@
         <title>Roland Garros 2026 (2): Day 8 (Live)</title>
     </programme>
     <programme start="20260531200000 +0000" stop="20260531202500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs New Zealand - Cup SF1, Valladol</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs New Zealand - Cup SF1, Valladolid - Women</title>
     </programme>
     <programme start="20260531202500 +0000" stop="20260531205000 +0000" channel="beIN Sports 3.starhub">
         <title>HSBC SVNS World Championships 2026: Canada vs USA - Cup SF2, Valladolid - Women</title>
     </programme>
     <programme start="20260531205000 +0000" stop="20260531211500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Fiji vs Australia - Cup SF1, Valladolid - Me</title>
+        <title>HSBC SVNS World Championships 2026: Fiji vs Australia - Cup SF1, Valladolid - Men</title>
     </programme>
     <programme start="20260531211500 +0000" stop="20260531214000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Argentina - Cup SF2, Vallado</title>
+        <title>HSBC SVNS World Championships 2026: South Africa vs Argentina - Cup SF2, Valladolid - Men</title>
     </programme>
     <programme start="20260531214000 +0000" stop="20260531220500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Argentina vs Great Britain -11th Place Play-</title>
+        <title>HSBC SVNS World Championships 2026: Argentina vs Great Britain -11th Place Play-Off,Valladolid-Wome</title>
     </programme>
     <programme start="20260531220500 +0000" stop="20260531223000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Great Britain vs Uruguay - 11th Place Play-O</title>
+        <title>HSBC SVNS World Championships 2026: Great Britain vs Uruguay - 11th Place Play-Off, Valladolid - Me</title>
     </programme>
     <programme start="20260531223000 +0000" stop="20260531225500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Brazil - 9th Place Play-Off,</title>
+        <title>HSBC SVNS World Championships 2026: South Africa vs Brazil - 9th Place Play-Off, Valladolid - Women</title>
     </programme>
     <programme start="20260531225500 +0000" stop="20260531232000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: USA vs Germany - 9th Place Play-Off, Vallado</title>
+        <title>HSBC SVNS World Championships 2026: USA vs Germany - 9th Place Play-Off, Valladolid - Men</title>
     </programme>
     <programme start="20260531232000 +0000" stop="20260531234500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Fiji vs Spain - 7th Place Play-Off, Valladol</title>
+        <title>HSBC SVNS World Championships 2026: Fiji vs Spain - 7th Place Play-Off, Valladolid - Women</title>
     </programme>
     <programme start="20260531234500 +0000" stop="20260601001000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: France vs Kenya - 7th Place Play-Off, Vallad</title>
+        <title>HSBC SVNS World Championships 2026: France vs Kenya - 7th Place Play-Off, Valladolid - Men</title>
     </programme>
     <programme start="20260601001000 +0000" stop="20260601003500 +0000" channel="beIN Sports 3.starhub">
         <title>HSBC SVNS World Championships 2026: France vs Japan - 5th Place Play-Off, Vallad</title>
