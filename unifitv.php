@@ -13523,7 +13523,7 @@
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
   </programme>
-  <programme start="20260531090000 +0000" stop="20260531210000 +0000" channel="parlimenmalaysia.unifitv">
+  <programme start="20260531090000 +0000" stop="20260531160000 +0000" channel="parlimenmalaysia.unifitv">
     <title lang="en">Siaran Tamat</title>
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>

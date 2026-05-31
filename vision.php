@@ -191,10 +191,10 @@
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260601100000 +0000" stop="20260601110000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260601110000 +0000" stop="20260601120000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260531000000 +0000" stop="20260531000300 +0000" channel="iNews.vision">
 <title>iNews Terkini (L)</title>
@@ -736,19 +736,13 @@
 <programme start="20260601110000 +0000" stop="20260601123000 +0000" channel="RTV.vision">
 <title>BoBoiBoy Galaxy</title>
 </programme>
-<programme start="20260531170000 +0000" stop="20260531193000 +0000" channel="TVOne.vision">
+<programme start="20260531170000 +0000" stop="20260531190000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260531193000 +0000" stop="20260531200000 +0000" channel="TVOne.vision">
+<programme start="20260531190000 +0000" stop="20260531203000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260531200000 +0000" stop="20260531203000 +0000" channel="TVOne.vision">
-<title>TV One</title>
-</programme>
-<programme start="20260531203000 +0000" stop="20260531210000 +0000" channel="TVOne.vision">
-<title>TV One</title>
-</programme>
-<programme start="20260531210000 +0000" stop="20260531213000 +0000" channel="TVOne.vision">
+<programme start="20260531203000 +0000" stop="20260531213000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
 <programme start="20260531213000 +0000" stop="20260531230000 +0000" channel="TVOne.vision">
@@ -757,19 +751,16 @@
 <programme start="20260531230000 +0000" stop="20260531233000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260531233000 +0000" stop="20260601010000 +0000" channel="TVOne.vision">
+<programme start="20260531233000 +0000" stop="20260601013000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260601010000 +0000" stop="20260601020000 +0000" channel="TVOne.vision">
+<programme start="20260601013000 +0000" stop="20260601020000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
 <programme start="20260601020000 +0000" stop="20260601023000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260601023000 +0000" stop="20260601030000 +0000" channel="TVOne.vision">
-<title>TV One</title>
-</programme>
-<programme start="20260601030000 +0000" stop="20260601033000 +0000" channel="TVOne.vision">
+<programme start="20260601023000 +0000" stop="20260601033000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
 <programme start="20260601033000 +0000" stop="20260601040000 +0000" channel="TVOne.vision">
@@ -778,16 +769,19 @@
 <programme start="20260601040000 +0000" stop="20260601053000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260601053000 +0000" stop="20260601070000 +0000" channel="TVOne.vision">
+<programme start="20260601053000 +0000" stop="20260601060000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260601070000 +0000" stop="20260601073000 +0000" channel="TVOne.vision">
+<programme start="20260601060000 +0000" stop="20260601070000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260601073000 +0000" stop="20260601080000 +0000" channel="TVOne.vision">
+<programme start="20260601070000 +0000" stop="20260601080000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
-<programme start="20260601080000 +0000" stop="20260601090000 +0000" channel="TVOne.vision">
+<programme start="20260601080000 +0000" stop="20260601083000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260601083000 +0000" stop="20260601090000 +0000" channel="TVOne.vision">
 <title>TV One</title>
 </programme>
 <programme start="20260601090000 +0000" stop="20260601110000 +0000" channel="TVOne.vision">
@@ -1054,10 +1048,7 @@
 <programme start="20260531180500 +0000" stop="20260531183000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260531183000 +0000" stop="20260531184500 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260531184500 +0000" stop="20260531190000 +0000" channel="Metro TV.vision">
+<programme start="20260531183000 +0000" stop="20260531190000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
 <programme start="20260531190000 +0000" stop="20260531190500 +0000" channel="Metro TV.vision">
@@ -1096,10 +1087,7 @@
 <programme start="20260531223000 +0000" stop="20260531230000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260531230000 +0000" stop="20260531230500 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260531230500 +0000" stop="20260531233000 +0000" channel="Metro TV.vision">
+<programme start="20260531230000 +0000" stop="20260531233000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
 <programme start="20260531233000 +0000" stop="20260601000000 +0000" channel="Metro TV.vision">
@@ -1120,10 +1108,7 @@
 <programme start="20260601010500 +0000" stop="20260601013000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260601013000 +0000" stop="20260601015500 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260601015500 +0000" stop="20260601020000 +0000" channel="Metro TV.vision">
+<programme start="20260601013000 +0000" stop="20260601020000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
 <programme start="20260601020000 +0000" stop="20260601020500 +0000" channel="Metro TV.vision">
@@ -1156,46 +1141,28 @@
 <programme start="20260601050000 +0000" stop="20260601053000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260601053000 +0000" stop="20260601055500 +0000" channel="Metro TV.vision">
+<programme start="20260601053000 +0000" stop="20260601060000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260601055500 +0000" stop="20260601060000 +0000" channel="Metro TV.vision">
+<programme start="20260601060000 +0000" stop="20260601063000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260601060000 +0000" stop="20260601062500 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260601062500 +0000" stop="20260601063000 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260601063000 +0000" stop="20260601065500 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260601065500 +0000" stop="20260601070000 +0000" channel="Metro TV.vision">
+<programme start="20260601063000 +0000" stop="20260601070000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
 <programme start="20260601070000 +0000" stop="20260601070500 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260601070500 +0000" stop="20260601072500 +0000" channel="Metro TV.vision">
+<programme start="20260601070500 +0000" stop="20260601073000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260601072500 +0000" stop="20260601073000 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260601073000 +0000" stop="20260601075500 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260601075500 +0000" stop="20260601080000 +0000" channel="Metro TV.vision">
+<programme start="20260601073000 +0000" stop="20260601080000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
 <programme start="20260601080000 +0000" stop="20260601080500 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
-<programme start="20260601080500 +0000" stop="20260601082500 +0000" channel="Metro TV.vision">
-<title>Metro TV</title>
-</programme>
-<programme start="20260601082500 +0000" stop="20260601083000 +0000" channel="Metro TV.vision">
+<programme start="20260601080500 +0000" stop="20260601083000 +0000" channel="Metro TV.vision">
 <title>Metro TV</title>
 </programme>
 <programme start="20260601083000 +0000" stop="20260601090000 +0000" channel="Metro TV.vision">
@@ -1497,4 +1464,37 @@
 </programme>
 <programme start="20260531063000 +0000" stop="20260531070000 +0000" channel="DAAI TV.vision">
 <title>Tek Tok</title>
+</programme>
+<programme start="20260531070000 +0000" stop="20260531073000 +0000" channel="DAAI TV.vision">
+<title>Cahaya Dharma Nusantara</title>
+</programme>
+<programme start="20260531073000 +0000" stop="20260531080000 +0000" channel="DAAI TV.vision">
+<title>Cerita Dan Rasa</title>
+</programme>
+<programme start="20260531080000 +0000" stop="20260531090000 +0000" channel="DAAI TV.vision">
+<title>Pengabdian Seorang Dokter</title>
+</programme>
+<programme start="20260531090000 +0000" stop="20260531093000 +0000" channel="DAAI TV.vision">
+<title>Cerita Sahabat</title>
+</programme>
+<programme start="20260531093000 +0000" stop="20260531093800 +0000" channel="DAAI TV.vision">
+<title>Kisah Kebaikan</title>
+</programme>
+<programme start="20260531093800 +0000" stop="20260531094500 +0000" channel="DAAI TV.vision">
+<title>Bitan &amp; Friends</title>
+</programme>
+<programme start="20260531094500 +0000" stop="20260531100000 +0000" channel="DAAI TV.vision">
+<title>Pinocchio &amp; Friends</title>
+</programme>
+<programme start="20260531100000 +0000" stop="20260531103000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20260531103000 +0000" stop="20260531110000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260531110000 +0000" stop="20260531113000 +0000" channel="DAAI TV.vision">
+<title>Anak Indonesia</title>
+</programme>
+<programme start="20260531113000 +0000" stop="20260531120000 +0000" channel="DAAI TV.vision">
+<title>Voice Of DAAI</title>
 </programme>

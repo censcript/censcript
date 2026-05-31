@@ -1712,7 +1712,7 @@
         <title>HSBC SVNS World Championships 2026: Kenya vs Great Britain - Pool Stage, Valladolid - Men</title>
     </programme>
     <programme start="20260530234500 +0000" stop="20260531001000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Australia - Pool Stage, Valladolid - Men</title>
+        <title>HSBC SVNS World Championships 2026: South Africa vs Australia - Pool Stage, Vall</title>
     </programme>
     <programme start="20260531001000 +0000" stop="20260531003500 +0000" channel="beIN Sports 3.starhub">
         <title>HSBC SVNS World Championships 2026: France vs USA - Pool Stage, Valladolid - Men</title>
@@ -1720,23 +1720,20 @@
     <programme start="20260531003500 +0000" stop="20260531010000 +0000" channel="beIN Sports 3.starhub">
         <title>HSBC SVNS World Championships 2026: Spain vs Fiji - Pool Stage, Valladolid - Men</title>
     </programme>
-    <programme start="20260531010000 +0000" stop="20260531030000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260531010000 +0000" stop="20260531033000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: PSG vs Arsenal - Final</title>
     </programme>
-    <programme start="20260531030000 +0000" stop="20260531040000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260531033000 +0000" stop="20260531043000 +0000" channel="beIN Sports 3.starhub">
         <title>Final</title>
     </programme>
-    <programme start="20260531040000 +0000" stop="20260531043000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260531043000 +0000" stop="20260531050000 +0000" channel="beIN Sports 3.starhub">
         <title>Racing On The Edge S6</title>
     </programme>
-    <programme start="20260531043000 +0000" stop="20260531053000 +0000" channel="beIN Sports 3.starhub">
-        <title>UECL Final</title>
-    </programme>
-    <programme start="20260531053000 +0000" stop="20260531060000 +0000" channel="beIN Sports 3.starhub">
-        <title>Cape Epic Recap: Stage 5 - 7 &amp; 4Islands Preview</title>
-    </programme>
-    <programme start="20260531060000 +0000" stop="20260531080000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260531050000 +0000" stop="20260531074500 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: PSG vs Arsenal - Final</title>
+    </programme>
+    <programme start="20260531074500 +0000" stop="20260531080000 +0000" channel="beIN Sports 3.starhub">
+        <title>Michael Carrick</title>
     </programme>
     <programme start="20260531080000 +0000" stop="20260531085500 +0000" channel="beIN Sports 3.starhub">
         <title>Final</title>
@@ -6551,7 +6548,7 @@
         <title>HSBC SVNS World Championships 2026: 9th Place SF1, Valladolid - Women</title>
     </programme>
     <programme start="20260531050000 +0000" stop="20260531063000 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA World Rally Championship 2026: Rally Japan SS20 Lake Mikawako 2 - Wolf PS (Live)</title>
+        <title>FIA World Rally Championship 2026: Rally Japan SS20 Lake Mikawako 2 - Wolf PS (L</title>
     </programme>
     <programme start="20260531063000 +0000" stop="20260531070000 +0000" channel="beIN Sports HD.starhub">
         <title>Royal Rally of Scandinavia</title>
@@ -6571,7 +6568,7 @@
     <programme start="20260531084500 +0000" stop="20260531085500 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga GOALITOS</title>
     </programme>
-    <programme start="20260531085500 +0000" stop="20260531200000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260531085500 +0000" stop="20260531170000 +0000" channel="beIN Sports HD.starhub">
         <title>Roland Garros 2026 (3): Day 8 (Live)</title>
     </programme>
     <programme start="20260530150000 +0000" stop="20260530161500 +0000" channel="TestChannel2.starhub">

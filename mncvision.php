@@ -220,42 +220,7 @@
 <programme start="20260531163000 +0000" stop="20260530170000 +0000" channel="Al Jazeera English.mncvision">
     <title>101 East: Pawns Of War</title>
 </programme>
-<programme start="20260530170000 +0000" stop="20260530190000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260530190000 +0000" stop="20260530210000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260530210000 +0000" stop="20260530230000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260530230000 +0000" stop="20260531010000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260531010000 +0000" stop="20260531030000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260531030000 +0000" stop="20260531050000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260531050000 +0000" stop="20260531070000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260531070000 +0000" stop="20260531090000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260531090000 +0000" stop="20260531110000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260531110000 +0000" stop="20260531130000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260531130000 +0000" stop="20260531150000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
-<programme start="20260531150000 +0000" stop="20260531153000 +0000" channel="Al Quran Al Kareem.mncvision">
-    <title>Live From Mekkah</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260530170000 +0000" stop="20260530173000 +0000" channel="Animax.mncvision">
     <title>Magic Maker, Ep 3</title>
 </programme>
@@ -4945,102 +4910,7 @@
 <programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="JAKTV.mncvision">
     <title>The Youth Doctor</title>
 </programme>
-<programme start="20260530170000 +0000" stop="20260530180000 +0000" channel="Kids TV.mncvision">
-    <title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260530180000 +0000" stop="20260530183000 +0000" channel="Kids TV.mncvision">
-    <title>Yameme</title>
-</programme>
-<programme start="20260530183000 +0000" stop="20260530190000 +0000" channel="Kids TV.mncvision">
-    <title>Kamp Koral</title>
-</programme>
-<programme start="20260530190000 +0000" stop="20260530193000 +0000" channel="Kids TV.mncvision">
-    <title>I Can Do It</title>
-</programme>
-<programme start="20260530193000 +0000" stop="20260530200000 +0000" channel="Kids TV.mncvision">
-    <title>Backkom S5</title>
-</programme>
-<programme start="20260530200000 +0000" stop="20260530203000 +0000" channel="Kids TV.mncvision">
-    <title>Dora S1</title>
-</programme>
-<programme start="20260530203000 +0000" stop="20260530210000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol S1</title>
-</programme>
-<programme start="20260530210000 +0000" stop="20260530213000 +0000" channel="Kids TV.mncvision">
-    <title>Rubble &amp; Crew</title>
-</programme>
-<programme start="20260530213000 +0000" stop="20260530220000 +0000" channel="Kids TV.mncvision">
-    <title>The Patrick Star Show</title>
-</programme>
-<programme start="20260530220000 +0000" stop="20260530230000 +0000" channel="Kids TV.mncvision">
-    <title>Kiko S4</title>
-</programme>
-<programme start="20260530230000 +0000" stop="20260530233000 +0000" channel="Kids TV.mncvision">
-    <title>I Can Do It</title>
-</programme>
-<programme start="20260530233000 +0000" stop="20260531000000 +0000" channel="Kids TV.mncvision">
-    <title>Kamen Rider ZEZTZ</title>
-</programme>
-<programme start="20260531000000 +0000" stop="20260531003000 +0000" channel="Kids TV.mncvision">
-    <title>Happy Time</title>
-</programme>
-<programme start="20260531003000 +0000" stop="20260531010000 +0000" channel="Kids TV.mncvision">
-    <title>Nina Bobo</title>
-</programme>
-<programme start="20260531010000 +0000" stop="20260531043000 +0000" channel="Kids TV.mncvision">
-    <title>Sahabat Selamanya Upin &amp; Ipin</title>
-</programme>
-<programme start="20260531043000 +0000" stop="20260531050000 +0000" channel="Kids TV.mncvision">
-    <title>K-Pop English</title>
-</programme>
-<programme start="20260531050000 +0000" stop="20260531060000 +0000" channel="Kids TV.mncvision">
-    <title>Kiko S4</title>
-</programme>
-<programme start="20260531060000 +0000" stop="20260531073000 +0000" channel="Kids TV.mncvision">
-    <title>Kids Movie Special</title>
-</programme>
-<programme start="20260531073000 +0000" stop="20260531083000 +0000" channel="Kids TV.mncvision">
-    <title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260531083000 +0000" stop="20260531090000 +0000" channel="Kids TV.mncvision">
-    <title>Happy Time</title>
-</programme>
-<programme start="20260531090000 +0000" stop="20260531093000 +0000" channel="Kids TV.mncvision">
-    <title>Nina Bobo</title>
-</programme>
-<programme start="20260531093000 +0000" stop="20260531103000 +0000" channel="Kids TV.mncvision">
-    <title>Kiko S4</title>
-</programme>
-<programme start="20260531103000 +0000" stop="20260531110000 +0000" channel="Kids TV.mncvision">
-    <title>Kamen Rider ZEZTZ</title>
-</programme>
-<programme start="20260531110000 +0000" stop="20260531113000 +0000" channel="Kids TV.mncvision">
-    <title>Blippi Visits</title>
-</programme>
-<programme start="20260531113000 +0000" stop="20260531120000 +0000" channel="Kids TV.mncvision">
-    <title>Titus The Detective</title>
-</programme>
-<programme start="20260531120000 +0000" stop="20260531123000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol S1</title>
-</programme>
-<programme start="20260531123000 +0000" stop="20260531130000 +0000" channel="Kids TV.mncvision">
-    <title>The Patrick Star Show</title>
-</programme>
-<programme start="20260531130000 +0000" stop="20260531133000 +0000" channel="Kids TV.mncvision">
-    <title>Thomas &amp; Friends S21</title>
-</programme>
-<programme start="20260531133000 +0000" stop="20260531140000 +0000" channel="Kids TV.mncvision">
-    <title>Dora S1</title>
-</programme>
-<programme start="20260531140000 +0000" stop="20260531153000 +0000" channel="Kids TV.mncvision">
-    <title>Kids Movie Special</title>
-</programme>
-<programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="Kids TV.mncvision">
-    <title>K-Pop English</title>
-</programme>
-<programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="Kids TV.mncvision">
-    <title>Iiihhh Serrreemm</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260530170000 +0000" stop="20260530180000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
@@ -5254,90 +5124,7 @@
 <programme start="20260531163000 +0000" stop="20260530170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-<programme start="20260530173000 +0000" stop="20260530183000 +0000" channel="LIFE.mncvision">
-    <title>Daily Show</title>
-</programme>
-<programme start="20260530183000 +0000" stop="20260530193000 +0000" channel="LIFE.mncvision">
-    <title>Suara Alfa Omega</title>
-</programme>
-<programme start="20260530193000 +0000" stop="20260530203000 +0000" channel="LIFE.mncvision">
-    <title>Glow Series</title>
-</programme>
-<programme start="20260530203000 +0000" stop="20260530210000 +0000" channel="LIFE.mncvision">
-    <title>Sentuhan Kasih</title>
-</programme>
-<programme start="20260530210000 +0000" stop="20260530213000 +0000" channel="LIFE.mncvision">
-    <title>Voice Of Life</title>
-</programme>
-<programme start="20260530213000 +0000" stop="20260530223000 +0000" channel="LIFE.mncvision">
-    <title>Glow Series</title>
-</programme>
-<programme start="20260530223000 +0000" stop="20260530230000 +0000" channel="LIFE.mncvision">
-    <title>Life Music</title>
-</programme>
-<programme start="20260530230000 +0000" stop="20260531000000 +0000" channel="LIFE.mncvision">
-    <title>Sekolah Minggu Gembira</title>
-</programme>
-<programme start="20260531000000 +0000" stop="20260531001500 +0000" channel="LIFE.mncvision">
-    <title>Life Music</title>
-</programme>
-<programme start="20260531001500 +0000" stop="20260531014500 +0000" channel="LIFE.mncvision">
-    <title>Ibadah GMS Surabaya Barat (L)</title>
-</programme>
-<programme start="20260531014500 +0000" stop="20260531020000 +0000" channel="LIFE.mncvision">
-    <title>Life Music</title>
-</programme>
-<programme start="20260531020000 +0000" stop="20260531033000 +0000" channel="LIFE.mncvision">
-    <title>Misa St. Gregorius Agung (L)</title>
-</programme>
-<programme start="20260531033000 +0000" stop="20260531034500 +0000" channel="LIFE.mncvision">
-    <title>Life Music</title>
-</programme>
-<programme start="20260531034500 +0000" stop="20260531041500 +0000" channel="LIFE.mncvision">
-    <title>Mujizat Itu Nyata</title>
-</programme>
-<programme start="20260531041500 +0000" stop="20260531054500 +0000" channel="LIFE.mncvision">
-    <title>Ibadah Minggu GSKI Jakarta (L)</title>
-</programme>
-<programme start="20260531054500 +0000" stop="20260531061500 +0000" channel="LIFE.mncvision">
-    <title>Way Out</title>
-</programme>
-<programme start="20260531061500 +0000" stop="20260531074500 +0000" channel="LIFE.mncvision">
-    <title>Ibadah GBI Mawar Saron (L)</title>
-</programme>
-<programme start="20260531074500 +0000" stop="20260531081500 +0000" channel="LIFE.mncvision">
-    <title>Mujizat Itu Nyata</title>
-</programme>
-<programme start="20260531081500 +0000" stop="20260531094500 +0000" channel="LIFE.mncvision">
-    <title>Ibadah GBI Ecclesia (L)</title>
-</programme>
-<programme start="20260531094500 +0000" stop="20260531101500 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20260531101500 +0000" stop="20260531114500 +0000" channel="LIFE.mncvision">
-    <title>Ibadah Gereja Bahtera (L)</title>
-</programme>
-<programme start="20260531114500 +0000" stop="20260531121500 +0000" channel="LIFE.mncvision">
-    <title>Praise And Worship</title>
-</programme>
-<programme start="20260531121500 +0000" stop="20260531134500 +0000" channel="LIFE.mncvision">
-    <title>Ibadah Gibeon Church (L)</title>
-</programme>
-<programme start="20260531134500 +0000" stop="20260531141500 +0000" channel="LIFE.mncvision">
-    <title>Praise And Worship</title>
-</programme>
-<programme start="20260531141500 +0000" stop="20260531154500 +0000" channel="LIFE.mncvision">
-    <title>Ibadah Gereja Tiberias (L)</title>
-</programme>
-<programme start="20260531154500 +0000" stop="20260531160000 +0000" channel="LIFE.mncvision">
-    <title>Life Music</title>
-</programme>
-<programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="LIFE.mncvision">
-    <title>Sentuhan Kasih</title>
-</programme>
-<programme start="20260531163000 +0000" stop="20260530170000 +0000" channel="LIFE.mncvision">
-    <title>Building A Better You</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260530171000 +0000" stop="20260530184500 +0000" channel="Lifetime.mncvision">
     <title>The Venice Murders</title>
 </programme>
@@ -5788,54 +5575,7 @@
 <programme start="20260531090000 +0000" stop="20260531093000 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>
 </programme>
-<programme start="20260530170000 +0000" stop="20260530190000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20260530190000 +0000" stop="20260530200000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20260530200000 +0000" stop="20260530203000 +0000" channel="MNCTV.mncvision">
-    <title>Bimbingan Rohani Budha</title>
-</programme>
-<programme start="20260530203000 +0000" stop="20260530230000 +0000" channel="MNCTV.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20260530230000 +0000" stop="20260530231500 +0000" channel="MNCTV.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20260530231500 +0000" stop="20260530234500 +0000" channel="MNCTV.mncvision">
-    <title>Bima S</title>
-</programme>
-<programme start="20260530234500 +0000" stop="20260531001500 +0000" channel="MNCTV.mncvision">
-    <title>Titus The Detective</title>
-</programme>
-<programme start="20260531001500 +0000" stop="20260531010000 +0000" channel="MNCTV.mncvision">
-    <title>Dora &amp; Sahabat</title>
-</programme>
-<programme start="20260531010000 +0000" stop="20260531043000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260531043000 +0000" stop="20260531070000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260531070000 +0000" stop="20260531090000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260531090000 +0000" stop="20260531103000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260531103000 +0000" stop="20260531120000 +0000" channel="MNCTV.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260531120000 +0000" stop="20260531130000 +0000" channel="MNCTV.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20260531130000 +0000" stop="20260531160000 +0000" channel="MNCTV.mncvision">
-    <title>RTKR Panggung Rezeki</title>
-</programme>
-<programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="MNCTV.mncvision">
-    <title>Bad Parenting</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260530170000 +0000" stop="20260530190000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
 </programme>

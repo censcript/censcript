@@ -2389,9 +2389,6 @@
 <programme start="20260531215000 +0000" stop="20260531232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Leiche im Schnee: Der Mord an Joanna Yeates</title>
 </programme>
-<programme start="20260530221500 +0000" stop="20260530223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - ARS, Finale 2026 in Budapest</title>
-</programme>
 <programme start="20260530223000 +0000" stop="20260530225500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% RB Salzburg (Runden 29-32)</title>
 </programme>
@@ -2952,6 +2949,12 @@
 </programme>
 <programme start="20260531203000 +0000" stop="20260531223500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: K. Krawietz (GER) / T. Puetz (GER) - S. Doumbia (FRA) / F. Reboul (FRA), Bitpanda Hamburg Open in Hamburg, Doppelfinale</title>
+</programme>
+<programme start="20260530223000 +0000" stop="20260530224500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, MTL@CAR, Playoffs, Eastern Conference Final, Spiel 5</title>
+</programme>
+<programme start="20260530224500 +0000" stop="20260530225500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>MotoGP: Highlights 2025</title>
 </programme>
 <programme start="20260530225500 +0000" stop="20260531000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
