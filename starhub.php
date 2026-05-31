@@ -2291,7 +2291,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20260531100000 +0000" stop="20260531160000 +0000" channel="Hub Sports 5 HD.starhub">
-        <title>End of Transmission</title>
+        <title>ENDD of TRANSmission</title>
     </programme>
     <programme start="20260530153000 +0000" stop="20260530175500 +0000" channel="AXN HD.starhub">
         <title>Bullet Train</title>

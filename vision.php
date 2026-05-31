@@ -484,17 +484,11 @@
 <programme start="20260531081500 +0000" stop="20260531090000 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
-<programme start="20260531090000 +0000" stop="20260531100000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Italy GP</title>
-</programme>
 <programme start="20260531100000 +0000" stop="20260531110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
 <programme start="20260531110000 +0000" stop="20260531114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
-</programme>
-<programme start="20260531114500 +0000" stop="20260531130000 +0000" channel="Trans 7.vision">
-<title>MotoGP Italy GP</title>
 </programme>
 <programme start="20260531130000 +0000" stop="20260531143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260531113000 +0000" stop="20260531120000 +0000" channel="DAAI TV.vision">
 <title>Voice Of DAAI</title>
+</programme>
+<programme start="20260531120000 +0000" stop="20260531123000 +0000" channel="DAAI TV.vision">
+<title>DAAI Talk</title>
+</programme>
+<programme start="20260531123000 +0000" stop="20260531124500 +0000" channel="DAAI TV.vision">
+<title>Jejak Cinta Kasih</title>
 </programme>

@@ -2389,9 +2389,6 @@
 <programme start="20260531215000 +0000" stop="20260531232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Leiche im Schnee: Der Mord an Joanna Yeates</title>
 </programme>
-<programme start="20260530221500 +0000" stop="20260530223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - ARS, Finale 2026 in Budapest</title>
-</programme>
 <programme start="20260530223000 +0000" stop="20260530225500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% RB Salzburg (Runden 29-32)</title>
 </programme>
@@ -2626,7 +2623,7 @@
 <programme start="20260531203500 +0000" stop="20260531220500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Forum8 Rally Japan - SS20 Lake Mikawako 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20260530223500 +0000" stop="20260531013000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260530223000 +0000" stop="20260531013000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südkorea, 3. Tag in Busan</title>
 </programme>
 <programme start="20260531013000 +0000" stop="20260531021500 +0000" channel="Sky Sport Golf HD.skyde">
