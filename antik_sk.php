@@ -820,16 +820,16 @@
   <programme start="20260602224500 +0000" stop="20260602232500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger IV (13)</title>
   </programme>
-  <programme start="20260602232500 +0000" stop="20260602235000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260602232500 +0000" stop="20260602234500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Anderov rebrinák (19)</title>
   </programme>
-  <programme start="20260602235000 +0000" stop="20260603022000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260602234500 +0000" stop="20260603022000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Sedem s r.o. (12)</title>
   </programme>
-  <programme start="20260603022000 +0000" stop="20260603031000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260603022000 +0000" stop="20260603030500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Dereš (8)</title>
   </programme>
-  <programme start="20260603031000 +0000" stop="20260603040000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260603030500 +0000" stop="20260603040000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (5)</title>
   </programme>
   <programme start="20260603040000 +0000" stop="20260603045000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -871,10 +871,10 @@
   <programme start="20260603152500 +0000" stop="20260603163000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 X (6)</title>
   </programme>
-  <programme start="20260603163000 +0000" stop="20260603173000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260603163000 +0000" stop="20260603172500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger IV (14)</title>
   </programme>
-  <programme start="20260603173000 +0000" stop="20260603182500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260603172500 +0000" stop="20260603182500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger IV (15)</title>
   </programme>
   <programme start="20260603182500 +0000" stop="20260603190000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -985,28 +985,28 @@
   <programme start="20260603211500 +0000" stop="20260603231500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">13 minút: Vo víre tornáda</title>
   </programme>
-  <programme start="20260602215500 +0000" stop="20260602224500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260602215000 +0000" stop="20260602223500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Rany z lásky (213)</title>
   </programme>
-  <programme start="20260602224500 +0000" stop="20260602232500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260602223500 +0000" stop="20260602231500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Rany z lásky (214)</title>
   </programme>
-  <programme start="20260602232500 +0000" stop="20260603001000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260602231500 +0000" stop="20260603000500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (47)</title>
   </programme>
-  <programme start="20260603001000 +0000" stop="20260603005000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260603000500 +0000" stop="20260603004000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (48)</title>
   </programme>
-  <programme start="20260603005000 +0000" stop="20260603013000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260603004000 +0000" stop="20260603012000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire VII (21)</title>
   </programme>
-  <programme start="20260603013000 +0000" stop="20260603020000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260603012000 +0000" stop="20260603015000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260603020000 +0000" stop="20260603031000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Adela show (47)</title>
+  <programme start="20260603015000 +0000" stop="20260603030500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Adela show (46)</title>
   </programme>
-  <programme start="20260603031000 +0000" stop="20260603040000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260603030500 +0000" stop="20260603040000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Oteckovia IV (49)</title>
   </programme>
   <programme start="20260603040000 +0000" stop="20260603045500 +0000" channel="Doma.webtv.sk">
@@ -1228,7 +1228,7 @@
   <programme start="20260603203500 +0000" stop="20260603223500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Hlboko v gangu</title>
   </programme>
-  <programme start="20260602220000 +0000" stop="20260603004000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260602213000 +0000" stop="20260603004000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260603004000 +0000" stop="20260603030000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1249,11 +1249,8 @@
   <programme start="20260603100500 +0000" stop="20260603114000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260603114000 +0000" stop="20260603143000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260603114000 +0000" stop="20260603165000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Gold Continental Tour</title>
-  </programme>
-  <programme start="20260603143000 +0000" stop="20260603165000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
   <programme start="20260603165000 +0000" stop="20260603200000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
@@ -5482,25 +5479,25 @@
   <programme start="20260603210000 +0000" stop="20260603220000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Highlights z turnaje G4D Tour 2026</title>
   </programme>
-  <programme start="20260602220000 +0000" stop="20260602224500 +0000" channel="National Geographic Channel.webtv.sk">
+  <programme start="20260602220000 +0000" stop="20260602224800 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Pohled zevnitř: Severní Korea: Tři Kimové I (3)</title>
   </programme>
-  <programme start="20260602224500 +0000" stop="20260602233000 +0000" channel="National Geographic Channel.webtv.sk">
+  <programme start="20260602224800 +0000" stop="20260602233600 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Pohled zevnitř: Severní Korea: Tři Kimové I (4)</title>
   </programme>
-  <programme start="20260602233000 +0000" stop="20260603001500 +0000" channel="National Geographic Channel.webtv.sk">
+  <programme start="20260602233600 +0000" stop="20260603002100 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Zákulisí letiště Sydney I (2)</title>
   </programme>
-  <programme start="20260603001500 +0000" stop="20260603010000 +0000" channel="National Geographic Channel.webtv.sk">
+  <programme start="20260603002100 +0000" stop="20260603010100 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Poslední rybí titáni III (7)</title>
   </programme>
-  <programme start="20260603010000 +0000" stop="20260603014500 +0000" channel="National Geographic Channel.webtv.sk">
+  <programme start="20260603010100 +0000" stop="20260603014500 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Život na severu I (2)</title>
   </programme>
-  <programme start="20260603014500 +0000" stop="20260603023000 +0000" channel="National Geographic Channel.webtv.sk">
+  <programme start="20260603014500 +0000" stop="20260603022900 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Jak chytit pašeráka V (5)</title>
   </programme>
-  <programme start="20260603023000 +0000" stop="20260603031500 +0000" channel="National Geographic Channel.webtv.sk">
+  <programme start="20260603022900 +0000" stop="20260603031500 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Jedinečné letiště v Dubaji I (2)</title>
   </programme>
   <programme start="20260603031500 +0000" stop="20260603040000 +0000" channel="National Geographic Channel.webtv.sk">
@@ -5575,37 +5572,40 @@
   <programme start="20260603010100 +0000" stop="20260603014600 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Královna rychlosti</title>
   </programme>
-  <programme start="20260603014600 +0000" stop="20260603023100 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603014600 +0000" stop="20260603023200 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Království rysa iberského I (2)</title>
   </programme>
-  <programme start="20260603023100 +0000" stop="20260603031700 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603023200 +0000" stop="20260603031600 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Tajemství asijské divočiny I (1)</title>
   </programme>
-  <programme start="20260603031700 +0000" stop="20260603040100 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603031600 +0000" stop="20260603033800 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Kdy a proč žraloci útočí I (6)</title>
   </programme>
-  <programme start="20260603040100 +0000" stop="20260603044700 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603033800 +0000" stop="20260603040000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Kdy a proč žraloci útočí I (5)</title>
+  </programme>
+  <programme start="20260603040000 +0000" stop="20260603044500 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Cecil, lví král</title>
   </programme>
-  <programme start="20260603044700 +0000" stop="20260603050900 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603044500 +0000" stop="20260603050700 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Kdy a proč žraloci útočí I (7)</title>
   </programme>
-  <programme start="20260603050900 +0000" stop="20260603053100 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603050700 +0000" stop="20260603052800 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Kdy a proč žraloci útočí I (8)</title>
   </programme>
-  <programme start="20260603053100 +0000" stop="20260603061700 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603052800 +0000" stop="20260603061500 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Útok velkých koček</title>
   </programme>
-  <programme start="20260603061700 +0000" stop="20260603070200 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603061500 +0000" stop="20260603070000 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Královna rychlosti</title>
   </programme>
-  <programme start="20260603070200 +0000" stop="20260603074700 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603070000 +0000" stop="20260603074500 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Cecil, lví král</title>
   </programme>
-  <programme start="20260603074700 +0000" stop="20260603083300 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603074500 +0000" stop="20260603083100 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Útok velkých koček</title>
   </programme>
-  <programme start="20260603083300 +0000" stop="20260603091800 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603083100 +0000" stop="20260603091800 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Královna rychlosti</title>
   </programme>
   <programme start="20260603091800 +0000" stop="20260603100400 +0000" channel="National Geographic Wild.webtv.sk">
@@ -5617,10 +5617,10 @@
   <programme start="20260603104900 +0000" stop="20260603113400 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Cecil, lví král</title>
   </programme>
-  <programme start="20260603113400 +0000" stop="20260603121700 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603113400 +0000" stop="20260603121800 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Návrat predátorů</title>
   </programme>
-  <programme start="20260603121700 +0000" stop="20260603130300 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260603121800 +0000" stop="20260603130300 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Lovci z divočiny: Afričtí zabijáci XCIX (1)</title>
   </programme>
   <programme start="20260603130300 +0000" stop="20260603134700 +0000" channel="National Geographic Wild.webtv.sk">
