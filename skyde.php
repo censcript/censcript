@@ -941,22 +941,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260601063500 +0000" stop="20260601070500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260601070500 +0000" stop="20260601090000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260601070500 +0000" stop="20260601091000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Valencia - FC Barcelona</title>
 </programme>
-<programme start="20260601090000 +0000" stop="20260601093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260601091000 +0000" stop="20260601094000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260601093000 +0000" stop="20260601112500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260601094000 +0000" stop="20260601114500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC St. Pauli - VFL Wolfsburg</title>
 </programme>
-<programme start="20260601112500 +0000" stop="20260601115500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260601115500 +0000" stop="20260601122500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260601114500 +0000" stop="20260601121500 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A Highlightshow 25/26: 38. Spieltag</title>
 </programme>
-<programme start="20260601122500 +0000" stop="20260601131000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260601121500 +0000" stop="20260601131000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 38. Spieltag</title>
 </programme>
 <programme start="20260601131000 +0000" stop="20260601150500 +0000" channel="DAZN 1 HD.skyde">
@@ -980,10 +977,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260601165000 +0000" stop="20260601190000 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Norwegen - Schweden</title>
 </programme>
-<programme start="20260601190000 +0000" stop="20260601194500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260601190000 +0000" stop="20260601193000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260601193000 +0000" stop="20260601201500 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team: Folge 9 - Neue Perspektiven</title>
 </programme>
-<programme start="20260601194500 +0000" stop="20260601220000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260601201500 +0000" stop="20260601220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Deutschland - Finnland</title>
 </programme>
 <programme start="20260531220000 +0000" stop="20260601060000 +0000" channel="DAZN 2 HD.skyde">

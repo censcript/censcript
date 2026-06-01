@@ -607,12 +607,6 @@
 <programme start="20260601090000 +0000" stop="20260601113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260601113000 +0000" stop="20260601140000 +0000" channel="ANTV.vision">
-<title>Begadang Karena Penasaran</title>
-</programme>
-<programme start="20260601140000 +0000" stop="20260601160000 +0000" channel="ANTV.vision">
-<title>Mata Batin</title>
-</programme>
 <programme start="20260601160000 +0000" stop="20260601180000 +0000" channel="ANTV.vision">
 <title>Sengatan Kobra</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260601040000 +0000" stop="20260601050000 +0000" channel="DAAI TV.vision">
 <title>Senyuman Bunga Matahari</title>
+</programme>
+<programme start="20260601050000 +0000" stop="20260601060000 +0000" channel="DAAI TV.vision">
+<title>Halo Indonesia</title>
+</programme>
+<programme start="20260601070000 +0000" stop="20260601073000 +0000" channel="DAAI TV.vision">
+<title>Bingkai Sumatera</title>
 </programme>
