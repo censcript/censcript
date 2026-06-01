@@ -1802,10 +1802,10 @@
         <title>HSBC SVNS World Championships 2026: France vs Kenya - 7th Place Play-Off, Valladolid - Men</title>
     </programme>
     <programme start="20260601001000 +0000" stop="20260601003500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: France vs Japan - 5th Place Play-Off, Vallad</title>
+        <title>HSBC SVNS World Championships 2026: France vs Japan - 5th Place Play-Off, Valladolid - Women</title>
     </programme>
     <programme start="20260601003500 +0000" stop="20260601010000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Spain vs New Zealand - 5th Place Play-Off, V</title>
+        <title>HSBC SVNS World Championships 2026: Spain vs New Zealand - 5th Place Play-Off, Valladolid - Men</title>
     </programme>
     <programme start="20260601010000 +0000" stop="20260601012500 +0000" channel="beIN Sports 3.starhub">
         <title>HSBC SVNS World Championships 2026: 3rd Place Play-Off, Valladolid - Women</title>
