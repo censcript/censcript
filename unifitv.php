@@ -15076,38 +15076,33 @@
     <desc lang="en">Europe's top archers compete for continental glory, showcasing precision, focus, and skill in high-stakes individual and team competition.</desc>
     <category lang="en">Archery</category>
   </programme>
-  <programme start="20260531181000 +0000" stop="20260531210000 +0000" channel="spotv.unifitv">
+  <programme start="20260531181000 +0000" stop="20260531213000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 Ice Hockey World Championship, Switzerland - Gold Medal Game</title>
     <desc lang="en">The world's top national teams compete in Switzerland for ice hockey glory, delivering fast-paced action, fierce rivalries, and championship drama on the international stage.</desc>
     <category lang="en">Ice Hockey</category>
   </programme>
-  <programme start="20260531210000 +0000" stop="20260531230000 +0000" channel="spotv.unifitv">
+  <programme start="20260531213000 +0000" stop="20260531233000 +0000" channel="spotv.unifitv">
     <title lang="en">25/26 ROSHN Saudi League MW 34 - Al Fayha vs Al Hilal</title>
     <desc lang="en">Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260531230000 +0000" stop="20260601040000 +0000" channel="spotv.unifitv">
+  <programme start="20260531233000 +0000" stop="20260601043500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WTCS, Alghero - Elite Women's and Men's Race</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
     <category lang="en">Triathlon</category>
   </programme>
-  <programme start="20260601040000 +0000" stop="20260601050000 +0000" channel="spotv.unifitv">
+  <programme start="20260601043500 +0000" stop="20260601052800 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WSL Inside Pro Surfing - Margaret River Pro</title>
     <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <category lang="en">Surfing</category>
   </programme>
-  <programme start="20260601050000 +0000" stop="20260601090000 +0000" channel="spotv.unifitv">
+  <programme start="20260601052800 +0000" stop="20260601093000 +0000" channel="spotv.unifitv">
     <title lang="en">Giro d'Italia 2026 - Stage 21</title>
     <desc lang="en">Elite cyclists take on one of the sport's most prestigious Grand Tours, battling across challenging stages, mountain climbs, and thrilling finishes for the famous pink jersey.</desc>
     <category lang="en">Cycling</category>
   </programme>
-  <programme start="20260601090000 +0000" stop="20260601100000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 European Archery Championships, Antalya (TUR) - Compound Highlights</title>
-    <desc lang="en">Europe's top archers compete for continental glory, showcasing precision, focus, and skill in high-stakes individual and team competition.</desc>
-    <category lang="en">Archery</category>
-  </programme>
-  <programme start="20260601100000 +0000" stop="20260601110000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 European Archery Championships, Antalya (TUR) - Recurve Highlights</title>
+  <programme start="20260601093000 +0000" stop="20260601110000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 European Archery Championships, Antalya (TUR) - Recurve Teams</title>
     <desc lang="en">Europe's top archers compete for continental glory, showcasing precision, focus, and skill in high-stakes individual and team competition.</desc>
     <category lang="en">Archery</category>
   </programme>
@@ -15414,7 +15409,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260601040000 +0000" stop="20260601060000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Champions League - PSG vs Arsenal - Final</title>
+    <title lang="en">UEFA Champions League - Freiburg vs Aston Villa - Final</title>
     <desc lang="en">The most prestigious tournament in the world contested by top-division elite European clubs</desc>
     <category lang="en">Sports</category>
   </programme>

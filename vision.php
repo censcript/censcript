@@ -598,9 +598,6 @@
 <programme start="20260601010000 +0000" stop="20260601023000 +0000" channel="ANTV.vision">
 <title>Cinta Dan Rahasia</title>
 </programme>
-<programme start="20260601023000 +0000" stop="20260601060000 +0000" channel="ANTV.vision">
-<title>Main Hoon Na</title>
-</programme>
 <programme start="20260601060000 +0000" stop="20260601073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260601034500 +0000" stop="20260601040000 +0000" channel="DAAI TV.vision">
 <title>Vegetarian Living</title>
+</programme>
+<programme start="20260601040000 +0000" stop="20260601050000 +0000" channel="DAAI TV.vision">
+<title>Senyuman Bunga Matahari</title>
 </programme>

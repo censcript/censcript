@@ -6758,7 +6758,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260531221000 +0000" stop="20260531222500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+        <title>Laugh Then Think</title>
     </programme>
     <programme start="20260531222500 +0000" stop="20260531223000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Core Kyoto Mini</title>
