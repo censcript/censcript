@@ -607,12 +607,6 @@
 <programme start="20260601090000 +0000" stop="20260601113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260601160000 +0000" stop="20260601180000 +0000" channel="ANTV.vision">
-<title>Sengatan Kobra</title>
-</programme>
-<programme start="20260601180000 +0000" stop="20260601193000 +0000" channel="ANTV.vision">
-<title>Best Of The Best</title>
-</programme>
 <programme start="20260601193000 +0000" stop="20260601220000 +0000" channel="ANTV.vision">
 <title>Hum Hai Rahi Pyar Ke</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260601070000 +0000" stop="20260601073000 +0000" channel="DAAI TV.vision">
 <title>Bingkai Sumatera</title>
+</programme>
+<programme start="20260601073000 +0000" stop="20260601080000 +0000" channel="DAAI TV.vision">
+<title>Bumiku Satu</title>
+</programme>
+<programme start="20260601080000 +0000" stop="20260601090000 +0000" channel="DAAI TV.vision">
+<title>Mama Moon</title>
 </programme>

@@ -977,9 +977,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260601165000 +0000" stop="20260601190000 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Norwegen - Schweden</title>
 </programme>
-<programme start="20260601190000 +0000" stop="20260601193000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
 <programme start="20260601193000 +0000" stop="20260601201500 +0000" channel="DAZN 1 HD.skyde">
     <title>VfB in Team: Folge 9 - Neue Perspektiven</title>
 </programme>
@@ -1022,14 +1019,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260601152500 +0000" stop="20260601153500 +0000" channel="DAZN 2 HD.skyde">
     <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 6</title>
 </programme>
-<programme start="20260601153500 +0000" stop="20260601155500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260601153500 +0000" stop="20260601160000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260601155500 +0000" stop="20260601163000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260601163000 +0000" stop="20260601172000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260601160000 +0000" stop="20260601165400 +0000" channel="DAZN 2 HD.skyde">
     <title>VfB in Team: Folge 9 - Neue Perspektiven</title>
+</programme>
+<programme start="20260601165400 +0000" stop="20260601172000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260601172000 +0000" stop="20260601193000 +0000" channel="DAZN 2 HD.skyde">
     <title>Freundschaftsspiele: Türkei - Nordmazedonien</title>
