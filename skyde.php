@@ -1350,262 +1350,277 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260602214000 +0000" stop="20260602223000 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
 </programme>
-<programme start="20260531220000 +0000" stop="20260531222000 +0000" channel="Nick Jr..skyde">
+<programme start="20260601220000 +0000" stop="20260601222000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260531222000 +0000" stop="20260531224500 +0000" channel="Nick Jr..skyde">
+<programme start="20260601222000 +0000" stop="20260601224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260531224500 +0000" stop="20260531230500 +0000" channel="Nick Jr..skyde">
+<programme start="20260601224000 +0000" stop="20260601230500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260531230500 +0000" stop="20260531232500 +0000" channel="Nick Jr..skyde">
+<programme start="20260601230500 +0000" stop="20260601232500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260531232500 +0000" stop="20260531235000 +0000" channel="Nick Jr..skyde">
+<programme start="20260601232500 +0000" stop="20260601235000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260531235000 +0000" stop="20260601001500 +0000" channel="Nick Jr..skyde">
+<programme start="20260601235000 +0000" stop="20260602001500 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
-<programme start="20260601001500 +0000" stop="20260601003500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602001500 +0000" stop="20260602003500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601003500 +0000" stop="20260601004500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602003500 +0000" stop="20260602010000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260601004500 +0000" stop="20260601005000 +0000" channel="Nick Jr..skyde">
-    <title>Tim Rex im All</title>
-</programme>
-<programme start="20260601005000 +0000" stop="20260601010000 +0000" channel="Nick Jr..skyde">
-    <title>Tim Rex im All</title>
-</programme>
-<programme start="20260601010000 +0000" stop="20260601012500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602010000 +0000" stop="20260602012000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601012500 +0000" stop="20260601014500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602012000 +0000" stop="20260602014500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601014500 +0000" stop="20260601021000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602014500 +0000" stop="20260602020500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260601021000 +0000" stop="20260601023000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602020500 +0000" stop="20260602023000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260601023000 +0000" stop="20260601025000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602023000 +0000" stop="20260602025000 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260601025000 +0000" stop="20260601031500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602025000 +0000" stop="20260602031500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601031500 +0000" stop="20260601034000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602031500 +0000" stop="20260602034000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601034000 +0000" stop="20260601040000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602034000 +0000" stop="20260602040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260601040000 +0000" stop="20260601042500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602040000 +0000" stop="20260602042000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260601042500 +0000" stop="20260601044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602042000 +0000" stop="20260602044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260601044500 +0000" stop="20260601051000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602044500 +0000" stop="20260602050500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601051000 +0000" stop="20260601053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602050500 +0000" stop="20260602053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601053000 +0000" stop="20260601055500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602053000 +0000" stop="20260602055000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260601055500 +0000" stop="20260601062000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602055000 +0000" stop="20260602061500 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
-<programme start="20260601062000 +0000" stop="20260601064000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602061500 +0000" stop="20260602063500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260601064000 +0000" stop="20260601065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602063500 +0000" stop="20260602065000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260601065000 +0000" stop="20260601071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602065000 +0000" stop="20260602065500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260601071500 +0000" stop="20260601072000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602065500 +0000" stop="20260602070500 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20260602070500 +0000" stop="20260602071000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20260602071000 +0000" stop="20260602071500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601072000 +0000" stop="20260601072500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602071500 +0000" stop="20260602072000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601072500 +0000" stop="20260601073000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602072000 +0000" stop="20260602072500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601073000 +0000" stop="20260601073500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602072500 +0000" stop="20260602073000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601073500 +0000" stop="20260601074000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602073000 +0000" stop="20260602073500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601074000 +0000" stop="20260601074500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602073500 +0000" stop="20260602074000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601074500 +0000" stop="20260601075000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602074000 +0000" stop="20260602074500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601075000 +0000" stop="20260601075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602074500 +0000" stop="20260602075500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601075500 +0000" stop="20260601081500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602075500 +0000" stop="20260602081500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601081500 +0000" stop="20260601084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602081500 +0000" stop="20260602084000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601084000 +0000" stop="20260601090000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602084000 +0000" stop="20260602090000 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260601090000 +0000" stop="20260601092500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602090000 +0000" stop="20260602092500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260601092500 +0000" stop="20260601094500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602092500 +0000" stop="20260602094500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260601094500 +0000" stop="20260601100500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602094500 +0000" stop="20260602101000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601100500 +0000" stop="20260601103000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602101000 +0000" stop="20260602103000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601103000 +0000" stop="20260601105500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602103000 +0000" stop="20260602105500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260601105500 +0000" stop="20260601111500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602105500 +0000" stop="20260602111500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260601111500 +0000" stop="20260601114000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602111500 +0000" stop="20260602114000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601114000 +0000" stop="20260601120000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602114000 +0000" stop="20260602120000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601120000 +0000" stop="20260601122500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602120000 +0000" stop="20260602121000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260601122500 +0000" stop="20260601123000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602121000 +0000" stop="20260602121500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260601123000 +0000" stop="20260601124000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602121500 +0000" stop="20260602122500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260601124000 +0000" stop="20260601130000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602122500 +0000" stop="20260602123000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20260602123000 +0000" stop="20260602124000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20260602124000 +0000" stop="20260602130500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260601130000 +0000" stop="20260601131500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602130500 +0000" stop="20260602131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260601131500 +0000" stop="20260601134000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602131500 +0000" stop="20260602133500 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
-<programme start="20260601134000 +0000" stop="20260601134100 +0000" channel="Nick Jr..skyde">
+<programme start="20260602133500 +0000" stop="20260602134000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601134100 +0000" stop="20260601134500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602134000 +0000" stop="20260602134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601134500 +0000" stop="20260601135000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602134500 +0000" stop="20260602135000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601135000 +0000" stop="20260601135500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602135000 +0000" stop="20260602135500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601135500 +0000" stop="20260601140500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602135500 +0000" stop="20260602140000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601140500 +0000" stop="20260601142500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602140000 +0000" stop="20260602142000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260601142500 +0000" stop="20260601145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602142000 +0000" stop="20260602144500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260601145000 +0000" stop="20260601150000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602144500 +0000" stop="20260602150000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260601150000 +0000" stop="20260601152500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602150000 +0000" stop="20260602152000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601152500 +0000" stop="20260601153500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602152000 +0000" stop="20260602153000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601153500 +0000" stop="20260601155500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602153000 +0000" stop="20260602155500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260601155500 +0000" stop="20260601162000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602155500 +0000" stop="20260602161500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601162000 +0000" stop="20260601163000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602161500 +0000" stop="20260602163000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601163000 +0000" stop="20260601165000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602163000 +0000" stop="20260602163500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260601165000 +0000" stop="20260601170000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602163500 +0000" stop="20260602164500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260601170000 +0000" stop="20260601170500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602164500 +0000" stop="20260602165000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20260602165000 +0000" stop="20260602170000 +0000" channel="Nick Jr..skyde">
+    <title>Tim Rex im All</title>
+</programme>
+<programme start="20260602170000 +0000" stop="20260602170500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601170500 +0000" stop="20260601171000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602170500 +0000" stop="20260602171000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601171000 +0000" stop="20260601171500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602171000 +0000" stop="20260602171500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601171500 +0000" stop="20260601172000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602171500 +0000" stop="20260602172000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601172000 +0000" stop="20260601172500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602172000 +0000" stop="20260602172500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601172500 +0000" stop="20260601173000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602172500 +0000" stop="20260602173000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260601173000 +0000" stop="20260601175500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602173000 +0000" stop="20260602175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601175500 +0000" stop="20260601180500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602175000 +0000" stop="20260602180000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601180500 +0000" stop="20260601182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602180000 +0000" stop="20260602182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260601182500 +0000" stop="20260601185000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602182500 +0000" stop="20260602184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260601185000 +0000" stop="20260601190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602184500 +0000" stop="20260602190000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260601190000 +0000" stop="20260601192000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602190000 +0000" stop="20260602192000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601192000 +0000" stop="20260601194500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602192000 +0000" stop="20260602194500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260601194500 +0000" stop="20260601200500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602194500 +0000" stop="20260602200500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260601200500 +0000" stop="20260601203000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602200500 +0000" stop="20260602202500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260601203000 +0000" stop="20260601205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602202500 +0000" stop="20260602205000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601205000 +0000" stop="20260601211000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602205000 +0000" stop="20260602211000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601211000 +0000" stop="20260601213500 +0000" channel="Nick Jr..skyde">
+<programme start="20260602211000 +0000" stop="20260602213500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260601213500 +0000" stop="20260601220000 +0000" channel="Nick Jr..skyde">
+<programme start="20260602213500 +0000" stop="20260602215500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20260602215500 +0000" stop="20260602222000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260601221500 +0000" stop="20260601234500 +0000" channel="Romance TV HD.skyde">
@@ -3375,73 +3390,73 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260602040000 +0000" stop="20260602042500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260602042500 +0000" stop="20260602045000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602042500 +0000" stop="20260602045500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260602045000 +0000" stop="20260602051500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602045500 +0000" stop="20260602052000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260602051500 +0000" stop="20260602054000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602052000 +0000" stop="20260602054500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260602054000 +0000" stop="20260602060500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602054500 +0000" stop="20260602061000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260602060500 +0000" stop="20260602063000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602061000 +0000" stop="20260602063500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260602063000 +0000" stop="20260602070000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602063500 +0000" stop="20260602070500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260602070000 +0000" stop="20260602072500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602070500 +0000" stop="20260602073000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260602072500 +0000" stop="20260602075500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602073000 +0000" stop="20260602080000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260602075500 +0000" stop="20260602082000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602080000 +0000" stop="20260602082500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260602082000 +0000" stop="20260602084500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602082500 +0000" stop="20260602085000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260602084500 +0000" stop="20260602091000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602085000 +0000" stop="20260602091500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260602091000 +0000" stop="20260602093500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602091500 +0000" stop="20260602094000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260602093500 +0000" stop="20260602100000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602094000 +0000" stop="20260602100500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260602100000 +0000" stop="20260602102500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602100500 +0000" stop="20260602103000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260602102500 +0000" stop="20260602105000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602103000 +0000" stop="20260602105500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260602105000 +0000" stop="20260602111500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602105500 +0000" stop="20260602112000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260602111500 +0000" stop="20260602114000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602112000 +0000" stop="20260602114500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260602114000 +0000" stop="20260602120500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602114500 +0000" stop="20260602121000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260602120500 +0000" stop="20260602123000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602121000 +0000" stop="20260602123500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260602123000 +0000" stop="20260602125500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602123500 +0000" stop="20260602130000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260602125500 +0000" stop="20260602132000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602130000 +0000" stop="20260602132500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260602132000 +0000" stop="20260602134500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602132500 +0000" stop="20260602135000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260602134500 +0000" stop="20260602141000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602135000 +0000" stop="20260602141000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260602141000 +0000" stop="20260602143500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3453,10 +3468,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260602150000 +0000" stop="20260602152500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260602152500 +0000" stop="20260602155500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602152500 +0000" stop="20260602155000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260602155500 +0000" stop="20260602162000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602155000 +0000" stop="20260602162000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>St. Denis Medical</title>
 </programme>
 <programme start="20260602162000 +0000" stop="20260602164500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3468,40 +3483,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260602170500 +0000" stop="20260602173000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260602173000 +0000" stop="20260602175000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602173000 +0000" stop="20260602175500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260602175000 +0000" stop="20260602181500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602175500 +0000" stop="20260602181500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260602181500 +0000" stop="20260602183500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602181500 +0000" stop="20260602184000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260602183500 +0000" stop="20260602190000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602184000 +0000" stop="20260602190500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260602190000 +0000" stop="20260602192500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602190500 +0000" stop="20260602193000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260602192500 +0000" stop="20260602195000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602193000 +0000" stop="20260602195500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260602195000 +0000" stop="20260602201500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602195500 +0000" stop="20260602202000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260602201500 +0000" stop="20260602204000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602202000 +0000" stop="20260602204500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260602204000 +0000" stop="20260602210500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602204500 +0000" stop="20260602211000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260602210500 +0000" stop="20260602212000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602211000 +0000" stop="20260602212000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260602212000 +0000" stop="20260602213000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602212000 +0000" stop="20260602213500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260602213000 +0000" stop="20260602214500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260602213500 +0000" stop="20260602214500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20260602214500 +0000" stop="20260602220000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3612,10 +3627,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260602030500 +0000" stop="20260602035000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260602035000 +0000" stop="20260602044000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260602035000 +0000" stop="20260602044500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260602044000 +0000" stop="20260602053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260602044500 +0000" stop="20260602053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260602053500 +0000" stop="20260602063000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3651,10 +3666,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260602134000 +0000" stop="20260602142500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260602142500 +0000" stop="20260602151000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260602142500 +0000" stop="20260602151500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260602151000 +0000" stop="20260602155500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260602151500 +0000" stop="20260602155500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260602155500 +0000" stop="20260602164500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3678,6 +3693,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260602203000 +0000" stop="20260602211500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260602211500 +0000" stop="20260602220500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260602211500 +0000" stop="20260602220000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>

@@ -3671,7 +3671,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260602010500 +0000" stop="20260602015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot; Part 2 (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot;</title>
     </programme>
     <programme start="20260602015000 +0000" stop="20260602021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -3722,7 +3722,7 @@
         <title>Health for Today (R)</title>
     </programme>
     <programme start="20260602062500 +0000" stop="20260602064000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Midnight Taxi&quot; (R)</title>
+        <title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 1（New） (R)</title>
     </programme>
     <programme start="20260602064000 +0000" stop="20260602065000 +0000" channel="NHK World Premium HD.starhub">
         <title>Points at Issue</title>
@@ -3782,7 +3782,7 @@
         <title>Drama 10 &quot;Mojiko Tenderness Brothers&quot; Ep. 6</title>
     </programme>
     <programme start="20260602134500 +0000" stop="20260602140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Midnight Taxi&quot;</title>
+        <title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 2</title>
     </programme>
     <programme start="20260602140000 +0000" stop="20260602143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Neighbor&#039;s Nurturing Session &quot;How to Receive Child Support&quot;</title>
@@ -4987,19 +4987,19 @@
     <programme start="20260601180000 +0000" stop="20260601230000 +0000" channel="SPOTV.starhub">
         <title>Round 1</title>
     </programme>
-    <programme start="20260601230000 +0000" stop="20260602000000 +0000" channel="SPOTV.starhub">
+    <programme start="20260601230000 +0000" stop="20260602001000 +0000" channel="SPOTV.starhub">
         <title>SBK FP1</title>
     </programme>
-    <programme start="20260602000000 +0000" stop="20260602023000 +0000" channel="SPOTV.starhub">
+    <programme start="20260602001000 +0000" stop="20260602025000 +0000" channel="SPOTV.starhub">
         <title>SSP Superpole/SBK FP2/SPB Superpole</title>
     </programme>
-    <programme start="20260602023000 +0000" stop="20260602033000 +0000" channel="SPOTV.starhub">
+    <programme start="20260602025000 +0000" stop="20260602033000 +0000" channel="SPOTV.starhub">
         <title>SBK FP3</title>
     </programme>
-    <programme start="20260602033000 +0000" stop="20260602043000 +0000" channel="SPOTV.starhub">
+    <programme start="20260602033000 +0000" stop="20260602041500 +0000" channel="SPOTV.starhub">
         <title>SBK Tissot Superpole</title>
     </programme>
-    <programme start="20260602043000 +0000" stop="20260602080000 +0000" channel="SPOTV.starhub">
+    <programme start="20260602041500 +0000" stop="20260602080000 +0000" channel="SPOTV.starhub">
         <title>SSP/SBK/SPB Race 1</title>
     </programme>
     <programme start="20260602080000 +0000" stop="20260602090000 +0000" channel="SPOTV.starhub">
@@ -5009,7 +5009,7 @@
         <title>SPB/SSP/SBK Race 2</title>
     </programme>
     <programme start="20260602123000 +0000" stop="20260602173000 +0000" channel="SPOTV.starhub">
-        <title>Elite Women&#039;s and Men&#039;s Race</title>
+        <title>Women&#039;s and Men&#039;s Race</title>
     </programme>
     <programme start="20260601153500 +0000" stop="20260601163000 +0000" channel="KBS World HD.starhub">
         <title>Jang Youngsil: The Greatest Scientist of Joseon</title>
