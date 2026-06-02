@@ -3595,14 +3595,14 @@
     <programme start="20260601154500 +0000" stop="20260601161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Child-Rearing Hints &amp; Tips</title>
     </programme>
-    <programme start="20260601161500 +0000" stop="20260601164000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260601161500 +0000" stop="20260601162000 +0000" channel="NHK World Premium HD.starhub">
         <title>Gretel&#039;s Magical Oven</title>
     </programme>
-    <programme start="20260601164000 +0000" stop="20260601170500 +0000" channel="NHK World Premium HD.starhub">
-        <title>HAYAUTA: Songs for Fresh Morning</title>
+    <programme start="20260601162000 +0000" stop="20260601164500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Gretel&#039;s Magical Oven</title>
     </programme>
-    <programme start="20260601170500 +0000" stop="20260601171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+    <programme start="20260601164500 +0000" stop="20260601171000 +0000" channel="NHK World Premium HD.starhub">
+        <title>HAYAUTA: Songs for Fresh Morning</title>
     </programme>
     <programme start="20260601171000 +0000" stop="20260601173000 +0000" channel="NHK World Premium HD.starhub">
         <title>French in a Happy Mood</title>
@@ -3632,7 +3632,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260601191500 +0000" stop="20260601200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot; Part 2 (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot;</title>
     </programme>
     <programme start="20260601200000 +0000" stop="20260601201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -3671,7 +3671,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260602010500 +0000" stop="20260602015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot; Part 2 (R)</title>
     </programme>
     <programme start="20260602015000 +0000" stop="20260602021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -6670,8 +6670,8 @@
     <programme start="20260602085500 +0000" stop="20260602153000 +0000" channel="beIN Sports HD.starhub">
         <title>Roland Garros 2026 (3): Day 10 (Live)</title>
     </programme>
-    <programme start="20260602153000 +0000" stop="20260602160000 +0000" channel="beIN Sports HD.starhub">
-        <title>Premier Padel 2026 (Join In Progress): Italy Major Day 1 Match 5 (Live)</title>
+    <programme start="20260602153000 +0000" stop="20260602170000 +0000" channel="beIN Sports HD.starhub">
+        <title>Premier Padel 2026: Italy Major Day 1 Match 6 (Live)</title>
     </programme>
     <programme start="20260601152000 +0000" stop="20260601161500 +0000" channel="TestChannel2.starhub">
         <title>Golden City (Ep 851-900) VVD Mandarin</title>
@@ -7822,13 +7822,13 @@
     <programme start="20260601133000 +0000" stop="20260601163000 +0000" channel="Asianet Movies.starhub">
         <title>Geetha Govindam</title>
     </programme>
-    <programme start="20260601163000 +0000" stop="20260601193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260601163000 +0000" stop="20260601185500 +0000" channel="Asianet Movies.starhub">
         <title>Rifle club</title>
     </programme>
-    <programme start="20260601193000 +0000" stop="20260601213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260601185500 +0000" stop="20260601205500 +0000" channel="Asianet Movies.starhub">
         <title>Sadirsha Vakyam 24:29</title>
     </programme>
-    <programme start="20260601213000 +0000" stop="20260601233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260601205500 +0000" stop="20260601233000 +0000" channel="Asianet Movies.starhub">
         <title>Ennu Ninte Moideen</title>
     </programme>
     <programme start="20260601233000 +0000" stop="20260602013000 +0000" channel="Asianet Movies.starhub">
@@ -7960,7 +7960,7 @@
     <programme start="20260601221500 +0000" stop="20260601231500 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20260601231500 +0000" stop="20260602014000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260601235500 +0000" stop="20260602014000 +0000" channel="SPOTV2.starhub">
         <title>30/5 2026 MLB Regular Season Los Angeles Dodgers vs Philadelphia Phillies</title>
     </programme>
     <programme start="20260602014000 +0000" stop="20260602044500 +0000" channel="SPOTV2.starhub">
@@ -7969,16 +7969,16 @@
     <programme start="20260602044500 +0000" stop="20260602090000 +0000" channel="SPOTV2.starhub">
         <title>Elite Women&#039;s Race</title>
     </programme>
-    <programme start="20260602090000 +0000" stop="20260602103000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260602090000 +0000" stop="20260602111000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Race</title>
     </programme>
-    <programme start="20260602103000 +0000" stop="20260602120000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260602111000 +0000" stop="20260602124000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Race</title>
     </programme>
-    <programme start="20260602120000 +0000" stop="20260602143000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260602124000 +0000" stop="20260602142000 +0000" channel="SPOTV2.starhub">
         <title>30/5 2026 MLB Regular Season Los Angeles Dodgers vs Philadelphia Phillies</title>
     </programme>
-    <programme start="20260602143000 +0000" stop="20260602173000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260602142000 +0000" stop="20260602172500 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 1</title>
     </programme>
     <programme start="20260601160000 +0000" stop="20260601162200 +0000" channel="Dragon TV.starhub">
@@ -7996,59 +7996,59 @@
     <programme start="20260601223500 +0000" stop="20260601230000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260601230000 +0000" stop="20260602010000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260601230000 +0000" stop="20260602000000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20260602010000 +0000" stop="20260602015900 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602000000 +0000" stop="20260602023000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260602015900 +0000" stop="20260602040000 +0000" channel="Dragon TV.starhub">
-        <title>THE CITY OF MUSICALS</title>
+    <programme start="20260602023000 +0000" stop="20260602040000 +0000" channel="Dragon TV.starhub">
+        <title>the city of musicals</title>
     </programme>
-    <programme start="20260602040000 +0000" stop="20260602042700 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602040000 +0000" stop="20260602043000 +0000" channel="Dragon TV.starhub">
         <title>MIDDAY NEWS</title>
     </programme>
-    <programme start="20260602042700 +0000" stop="20260602061000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602043000 +0000" stop="20260602060000 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20260602061000 +0000" stop="20260602064900 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602060000 +0000" stop="20260602063000 +0000" channel="Dragon TV.starhub">
         <title>CHINA Now</title>
     </programme>
-    <programme start="20260602064900 +0000" stop="20260602072000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602063000 +0000" stop="20260602070000 +0000" channel="Dragon TV.starhub">
         <title>Next Station</title>
     </programme>
-    <programme start="20260602072000 +0000" stop="20260602090900 +0000" channel="Dragon TV.starhub">
-        <title>THE CITY OF MUSICALS</title>
+    <programme start="20260602070000 +0000" stop="20260602090000 +0000" channel="Dragon TV.starhub">
+        <title>the city of musicals</title>
     </programme>
-    <programme start="20260602090900 +0000" stop="20260602093400 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602090000 +0000" stop="20260602093500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20260602093400 +0000" stop="20260602100000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602093500 +0000" stop="20260602100000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260602100000 +0000" stop="20260602105800 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602100000 +0000" stop="20260602110000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20260602105800 +0000" stop="20260602113800 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602110000 +0000" stop="20260602114000 +0000" channel="Dragon TV.starhub">
         <title>CHINA Now</title>
     </programme>
-    <programme start="20260602113800 +0000" stop="20260602120300 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602114000 +0000" stop="20260602120000 +0000" channel="Dragon TV.starhub">
         <title>Next Station</title>
     </programme>
-    <programme start="20260602120300 +0000" stop="20260602130200 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602120000 +0000" stop="20260602130000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260602130200 +0000" stop="20260602135200 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602130000 +0000" stop="20260602140000 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20260602135200 +0000" stop="20260602141700 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602140000 +0000" stop="20260602143000 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20260602141700 +0000" stop="20260602144200 +0000" channel="Dragon TV.starhub">
+    <programme start="20260602143000 +0000" stop="20260602150000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260602144200 +0000" stop="20260602160000 +0000" channel="Dragon TV.starhub">
-        <title>THE CITY OF MUSICALS</title>
+    <programme start="20260602150000 +0000" stop="20260602170000 +0000" channel="Dragon TV.starhub">
+        <title>the city of musicals</title>
     </programme>
     <programme start="20260601160000 +0000" stop="20260601163000 +0000" channel="Travelxp HD.starhub">
         <title>Thimpu</title>

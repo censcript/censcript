@@ -1102,9 +1102,6 @@
 <programme start="20260602153000 +0000" stop="20260602160000 +0000" channel="beIN Sports 1.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
 </programme>
-<programme start="20260602160000 +0000" stop="20260602163000 +0000" channel="beIN Sports 1.mncvision">
-    <title>Premier Padel 2026: Italy (L)</title>
-</programme>
 <programme start="20260601200000 +0000" stop="20260601210000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Ferrari Challenge Europe Race</title>
 </programme>
@@ -1148,9 +1145,6 @@
     <title>Roland Garros 2026: Day 10 (L)</title>
 </programme>
 <programme start="20260602153000 +0000" stop="20260602160000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Premier Padel 2026: Italy (L)</title>
-</programme>
-<programme start="20260602160000 +0000" stop="20260602163000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
 </programme>
 <programme start="20260601181500 +0000" stop="20260601203000 +0000" channel="beIN Sports 2.mncvision">
