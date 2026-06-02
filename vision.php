@@ -4,11 +4,8 @@
 <programme start="20260602010000 +0000" stop="20260602020000 +0000" channel="RCTI.vision">
 <title>Entong (RCTI)</title>
 </programme>
-<programme start="20260602020000 +0000" stop="20260602070000 +0000" channel="RCTI.vision">
-<title>Polytron Indonesia Open (L)</title>
-</programme>
-<programme start="20260602070000 +0000" stop="20260602120000 +0000" channel="RCTI.vision">
-<title>Polytron Indonesia Open (L)</title>
+<programme start="20260602020000 +0000" stop="20260602120000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
 <programme start="20260602120000 +0000" stop="20260602133000 +0000" channel="RCTI.vision">
 <title>Terikat Janji (RCTI)</title>
@@ -20,16 +17,13 @@
 <title>Ikatan Dendam</title>
 </programme>
 <programme start="20260602154500 +0000" stop="20260602180000 +0000" channel="RCTI.vision">
-<title>Sportacular Int&#039;l Match (L)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260602180000 +0000" stop="20260602183000 +0000" channel="RCTI.vision">
-<title>Jodoh Di Bengkel Cinta...</title>
+<title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260602183000 +0000" stop="20260602190000 +0000" channel="RCTI.vision">
-<title>Sportacular Int&#039;l Match (L)</title>
-</programme>
-<programme start="20260602190000 +0000" stop="20260602204500 +0000" channel="RCTI.vision">
-<title>Sportacular Int&#039;l Match</title>
+<programme start="20260602183000 +0000" stop="20260602204500 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
 <programme start="20260602204500 +0000" stop="20260602230000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
@@ -40,11 +34,8 @@
 <programme start="20260603010000 +0000" stop="20260603020000 +0000" channel="RCTI.vision">
 <title>Entong (RCTI)</title>
 </programme>
-<programme start="20260603020000 +0000" stop="20260603070000 +0000" channel="RCTI.vision">
-<title>Polytron Indonesia Open (L)</title>
-</programme>
-<programme start="20260603070000 +0000" stop="20260603120000 +0000" channel="RCTI.vision">
-<title>Polytron Indonesia Open (L)</title>
+<programme start="20260603020000 +0000" stop="20260603120000 +0000" channel="RCTI.vision">
+<title>RCTI</title>
 </programme>
 <programme start="20260602000000 +0000" stop="20260602004500 +0000" channel="MNCTV.vision">
 <title>Dora &amp; Sahabat</title>
@@ -203,7 +194,7 @@
 <title>Lapor Polisi (L)</title>
 </programme>
 <programme start="20260602014500 +0000" stop="20260602120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Polytron Indonesia Open &#039;26 (L)</title>
 </programme>
 <programme start="20260602120000 +0000" stop="20260602140000 +0000" channel="iNews.vision">
 <title>Rakyat Bersuara (iNews)</title>
@@ -248,7 +239,7 @@
 <title>Lapor Polisi (L)</title>
 </programme>
 <programme start="20260603014500 +0000" stop="20260603120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Polytron Indonesia Open &#039;26 (L)</title>
 </programme>
 <programme start="20260602000000 +0000" stop="20260602003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -269,13 +260,13 @@
 <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20260602053000 +0000" stop="20260602063000 +0000" channel="SindoNews.vision">
-<title>SINDO Today</title>
+<title>iNews Today</title>
 </programme>
 <programme start="20260602063000 +0000" stop="20260602070000 +0000" channel="SindoNews.vision">
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260602070000 +0000" stop="20260602083000 +0000" channel="SindoNews.vision">
-<title>SINDO Siang</title>
+<title>iNews Siang</title>
 </programme>
 <programme start="20260602083000 +0000" stop="20260602093000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
@@ -301,17 +292,17 @@
 <programme start="20260602163000 +0000" stop="20260602170000 +0000" channel="SindoNews.vision">
 <title>OMG</title>
 </programme>
-<programme start="20260602170000 +0000" stop="20260602183000 +0000" channel="SindoNews.vision">
-<title>SINDO Prime</title>
+<programme start="20260602170000 +0000" stop="20260602180000 +0000" channel="SindoNews.vision">
+<title>iNews Sore</title>
+</programme>
+<programme start="20260602180000 +0000" stop="20260602183000 +0000" channel="SindoNews.vision">
+<title>iNews Sport</title>
 </programme>
 <programme start="20260602183000 +0000" stop="20260602200000 +0000" channel="SindoNews.vision">
 <title>SINDO Breaking News</title>
 </programme>
-<programme start="20260602200000 +0000" stop="20260602203000 +0000" channel="SindoNews.vision">
+<programme start="20260602200000 +0000" stop="20260602210000 +0000" channel="SindoNews.vision">
 <title>iNews Malam</title>
-</programme>
-<programme start="20260602203000 +0000" stop="20260602210000 +0000" channel="SindoNews.vision">
-<title>Special Report</title>
 </programme>
 <programme start="20260602210000 +0000" stop="20260602220000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
@@ -323,7 +314,7 @@
 <title>SINDO Files</title>
 </programme>
 <programme start="20260603000000 +0000" stop="20260603003000 +0000" channel="SindoNews.vision">
-<title>OMG</title>
+<title>iNews Today</title>
 </programme>
 <programme start="20260603003000 +0000" stop="20260603020000 +0000" channel="SindoNews.vision">
 <title>SINDO Today</title>
@@ -341,13 +332,13 @@
 <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20260603053000 +0000" stop="20260603063000 +0000" channel="SindoNews.vision">
-<title>SINDO Today</title>
+<title>iNews Today</title>
 </programme>
 <programme start="20260603063000 +0000" stop="20260603070000 +0000" channel="SindoNews.vision">
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260603070000 +0000" stop="20260603083000 +0000" channel="SindoNews.vision">
-<title>SINDO Siang</title>
+<title>iNews Siang</title>
 </programme>
 <programme start="20260603083000 +0000" stop="20260603093000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
@@ -365,7 +356,7 @@
 <title>Kajian Hati</title>
 </programme>
 <programme start="20260602013000 +0000" stop="20260602033000 +0000" channel="Trans TV.vision">
-<title>Pagi-Pagi Ambyar</title>
+<title>Ambyar In Weekend</title>
 </programme>
 <programme start="20260602033000 +0000" stop="20260602043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
@@ -374,7 +365,7 @@
 <title>Spill DD Tea</title>
 </programme>
 <programme start="20260602053000 +0000" stop="20260602070000 +0000" channel="Trans TV.vision">
-<title>Brownis (Obrowlan Manis)</title>
+<title>Brownis On The Weekend</title>
 </programme>
 <programme start="20260602070000 +0000" stop="20260602080000 +0000" channel="Trans TV.vision">
 <title>Rumpi Hot Of The Week</title>
@@ -416,7 +407,7 @@
 <title>Kajian Hati</title>
 </programme>
 <programme start="20260603013000 +0000" stop="20260603033000 +0000" channel="Trans TV.vision">
-<title>Pagi-Pagi Ambyar</title>
+<title>Ambyar In Weekend</title>
 </programme>
 <programme start="20260603033000 +0000" stop="20260603043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
@@ -425,7 +416,7 @@
 <title>Spill DD Tea</title>
 </programme>
 <programme start="20260603053000 +0000" stop="20260603070000 +0000" channel="Trans TV.vision">
-<title>Brownis (Obrowlan Manis)</title>
+<title>Brownis On The Weekend</title>
 </programme>
 <programme start="20260603070000 +0000" stop="20260603080000 +0000" channel="Trans TV.vision">
 <title>Rumpi Hot Of The Week</title>
@@ -592,6 +583,9 @@
 <programme start="20260602090000 +0000" stop="20260602113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
+<programme start="20260602113000 +0000" stop="20260602140000 +0000" channel="ANTV.vision">
+<title>Goyang Dangdut</title>
+</programme>
 <programme start="20260602140000 +0000" stop="20260602160000 +0000" channel="ANTV.vision">
 <title>Mata Batin 2</title>
 </programme>
@@ -626,7 +620,7 @@
 <title>Teri Meri Doriyaann</title>
 </programme>
 <programme start="20260603113000 +0000" stop="20260603133000 +0000" channel="ANTV.vision">
-<title>Khana</title>
+<title>Malin Kundang</title>
 </programme>
 <programme start="20260601233000 +0000" stop="20260602013000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260602080000 +0000" stop="20260602090000 +0000" channel="DAAI TV.vision">
 <title>Mama Moon</title>
+</programme>
+<programme start="20260602090000 +0000" stop="20260602093000 +0000" channel="DAAI TV.vision">
+<title>Keliling Dunia Anak</title>
+</programme>
+<programme start="20260602093000 +0000" stop="20260602094500 +0000" channel="DAAI TV.vision">
+<title>Pinocchio &amp; Friends</title>
 </programme>

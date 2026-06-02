@@ -2739,10 +2739,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260601230000 +0000" stop="20260602000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20260602000000 +0000" stop="20260602023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260602000000 +0000" stop="20260602021500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Seattle Storm @ Dallas Wings</title>
 </programme>
-<programme start="20260602023000 +0000" stop="20260602043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260602021500 +0000" stop="20260602043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Minnesota Lynx @ Phoenix Mercury</title>
 </programme>
 <programme start="20260602043000 +0000" stop="20260602070000 +0000" channel="Sky Sport Mix HD.skyde">
