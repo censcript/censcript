@@ -592,9 +592,6 @@
 <programme start="20260602090000 +0000" stop="20260602113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260602113000 +0000" stop="20260602140000 +0000" channel="ANTV.vision">
-<title>Goyang Dangdut</title>
-</programme>
 <programme start="20260602140000 +0000" stop="20260602160000 +0000" channel="ANTV.vision">
 <title>Mata Batin 2</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260602073000 +0000" stop="20260602080000 +0000" channel="DAAI TV.vision">
 <title>Bumiku Satu</title>
+</programme>
+<programme start="20260602080000 +0000" stop="20260602090000 +0000" channel="DAAI TV.vision">
+<title>Mama Moon</title>
 </programme>

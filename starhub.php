@@ -3632,7 +3632,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260601191500 +0000" stop="20260601200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Gekidan Hitori in Tatsuno City, Hyogo Prefecture&quot; Part 2 (R)</title>
     </programme>
     <programme start="20260601200000 +0000" stop="20260601201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -7951,13 +7951,16 @@
     <programme start="20260601153000 +0000" stop="20260601180000 +0000" channel="SPOTV2.starhub">
         <title>29/5 2026 MLB Regular Season Texas Rangers vs Houston Astros</title>
     </programme>
-    <programme start="20260601180000 +0000" stop="20260601211500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260601180000 +0000" stop="20260601212000 +0000" channel="SPOTV2.starhub">
         <title>Practice</title>
     </programme>
-    <programme start="20260601211500 +0000" stop="20260601221500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260601212000 +0000" stop="20260601221500 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20260601221500 +0000" stop="20260601231500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260601221500 +0000" stop="20260601230500 +0000" channel="SPOTV2.starhub">
+        <title>Race 1</title>
+    </programme>
+    <programme start="20260601230500 +0000" stop="20260601235500 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
     <programme start="20260601235500 +0000" stop="20260602014000 +0000" channel="SPOTV2.starhub">
@@ -7990,10 +7993,10 @@
     <programme start="20260601170000 +0000" stop="20260601220000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20260601220000 +0000" stop="20260601223500 +0000" channel="Dragon TV.starhub">
+    <programme start="20260601220000 +0000" stop="20260601223000 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20260601223500 +0000" stop="20260601230000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260601223000 +0000" stop="20260601230000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20260601230000 +0000" stop="20260602000000 +0000" channel="Dragon TV.starhub">
