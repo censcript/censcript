@@ -7993,7 +7993,7 @@
     <programme start="20260603150000 +0000" stop="20260603153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260603153000 +0000" stop="20260603170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260603153000 +0000" stop="20260603160000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20260602160000 +0000" stop="20260602163000 +0000" channel="Travelxp HD.starhub">
