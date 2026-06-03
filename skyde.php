@@ -3061,51 +3061,6 @@
 <programme start="20260603213000 +0000" stop="20260603220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Dietmar Hamann - My Liverpool Years</title>
 </programme>
-<programme start="20260602230000 +0000" stop="20260603013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
-</programme>
-<programme start="20260603013000 +0000" stop="20260603040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: M. Navone (ARG) - L. Tien (USA), Gonet Geneva Open in Genf (SUI), Finale</title>
-</programme>
-<programme start="20260603040000 +0000" stop="20260603044500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Tennis: Ljubo - The man saved by Tennis, Teil 1</title>
-</programme>
-<programme start="20260603044500 +0000" stop="20260603053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Tennis: Ljubo - The man saved by Tennis, Teil 2</title>
-</programme>
-<programme start="20260603053000 +0000" stop="20260603060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260603060000 +0000" stop="20260603080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. De Minaur (AUS) - F. Auger-Aliassime (CAN), ABN AMRO Open in Rotterdam (NLD), Finale</title>
-</programme>
-<programme start="20260603080000 +0000" stop="20260603090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Rotterdam</title>
-</programme>
-<programme start="20260603090000 +0000" stop="20260603111500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: B. Shelton (USA) - T. Fritz (USA), Dallas Open in Dallas (USA), Finale</title>
-</programme>
-<programme start="20260603111500 +0000" stop="20260603121500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Dallas</title>
-</programme>
-<programme start="20260603121500 +0000" stop="20260603140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: C. Alcaraz (ESP) - A. Fils (FRA), Qatar ExxonMobil Open in Doha (Katar), Finale</title>
-</programme>
-<programme start="20260603140000 +0000" stop="20260603150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Doha</title>
-</programme>
-<programme start="20260603150000 +0000" stop="20260603173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: T. Etcheverry (ARG) - A. Tabilo (CHI), Rio Open in Rio de Janeiro (BRA), Finale</title>
-</programme>
-<programme start="20260603173000 +0000" stop="20260603183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Rio</title>
-</programme>
-<programme start="20260603183000 +0000" stop="20260603210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
-</programme>
-<programme start="20260603210000 +0000" stop="20260603220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Acapulco</title>
-</programme>
 <programme start="20260602220000 +0000" stop="20260602234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition: Media Day Re-Cap</title>
 </programme>

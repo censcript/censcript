@@ -1146,8 +1146,8 @@
     <episode-num system="onscreen">S1E34</episode-num>
   </programme>
   <programme start="20260603110000 +0000" stop="20260603120000 +0000" channel="tv3.unifitv">
-    <title lang="en">YES! CAPTAIN ZUL AARYAN</title>
-    <desc lang="en">YES! CAPTAIN ZUL AARYAN</desc>
+    <title lang="en">LUKA DI HUJUNG SETIA</title>
+    <desc lang="en">Dhia ingin bekerja di Kuala Lumpur selama enam bulan demi menambah pendapatan, namun ditentang oleh Irsyad demi kebaikan anak mereka. Konflik kewangan serta tanggungjawab keluarga ini menyebabkan hubungan mereka menjadi dingin. Nuha begitu kecewa apabila rawatan IVF yang dijalaninya  gagal. Faris cuba memahami dan beri sokongan. Ibu Nuha, Kasmah, bimbang tetapi hanya mampu memberi nasihat. Nuha juga dilihat mengelak untuk mengikut Faris dengan aktivitinya. Razlan terus terlibat dengan dadah dan mencuri wang Dhia, mencetuskan konflik keluarga serta menambah tekanan kepada Irsyad.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -5381,6 +5381,8 @@
     <title lang="en">Parijatham</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
   </programme>
   <programme start="20260603033000 +0000" stop="20260603040000 +0000" channel="unknown.unifitv">
     <title lang="en">Salangai Oli</title>
@@ -13738,7 +13740,7 @@
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
   </programme>
-  <programme start="20260602160000 +0000" stop="20260603040000 +0000" channel="parlimenmalaysia.unifitv">
+  <programme start="20260602160000 +0000" stop="20260602160000 +0000" channel="parlimenmalaysia.unifitv">
     <title lang="en">Siaran Tamat</title>
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
@@ -13748,7 +13750,7 @@
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
   </programme>
-  <programme start="20260603160000 +0000" stop="20260604040000 +0000" channel="parlimenmalaysia.unifitv">
+  <programme start="20260603160000 +0000" stop="20260603160000 +0000" channel="parlimenmalaysia.unifitv">
     <title lang="en">Siaran Tamat</title>
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>

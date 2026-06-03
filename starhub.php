@@ -1808,10 +1808,10 @@
         <title>UCL Classic Matches Barcelona vs Arsenal (2005/06)</title>
     </programme>
     <programme start="20260602185300 +0000" stop="20260602210000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Tanzania - Final (Live)</title>
+        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Tanzania - Fi</title>
     </programme>
     <programme start="20260602210000 +0000" stop="20260602213000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Ivory Coast</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Ivory C</title>
     </programme>
     <programme start="20260602213000 +0000" stop="20260602220000 +0000" channel="beIN Sports 3.starhub">
         <title>La Fleche Wallone</title>
@@ -2960,22 +2960,22 @@
         <title>News</title>
     </programme>
     <programme start="20260602163000 +0000" stop="20260602170000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Toxic Beauty - Inside India&#039;s polluted marble dump</title>
     </programme>
     <programme start="20260602170000 +0000" stop="20260602171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260602171500 +0000" stop="20260602173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Cuba is not a country that you should underestimate, Fidel Castro&#039;s daughter tells DW</title>
     </programme>
     <programme start="20260602173000 +0000" stop="20260602180000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>A female stunt rider defies gravity and India&#039;s social norms</title>
     </programme>
     <programme start="20260602180000 +0000" stop="20260602183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260602183000 +0000" stop="20260602190000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Hidden battles beneath the waves</title>
     </programme>
     <programme start="20260602190000 +0000" stop="20260602190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -2984,10 +2984,10 @@
         <title>News</title>
     </programme>
     <programme start="20260602191500 +0000" stop="20260602193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Cuba is not a country that you should underestimate, Fidel Castro&#039;s daughter tells DW</title>
     </programme>
     <programme start="20260602193000 +0000" stop="20260602200000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>Labs turn to robots to cut costs of cancer cell therapy</title>
     </programme>
     <programme start="20260602200000 +0000" stop="20260602203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3002,10 +3002,10 @@
         <title>News</title>
     </programme>
     <programme start="20260602211500 +0000" stop="20260602214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Homelessness in Berlin - Neighbors with Nowhere to Live</title>
     </programme>
     <programme start="20260602214500 +0000" stop="20260602220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How technology can save health care</title>
     </programme>
     <programme start="20260602220000 +0000" stop="20260602220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3014,7 +3014,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260602223000 +0000" stop="20260602230000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Nigeria&#039;s Housing Crisis</title>
     </programme>
     <programme start="20260602230000 +0000" stop="20260602230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3023,10 +3023,10 @@
         <title>News</title>
     </programme>
     <programme start="20260602231500 +0000" stop="20260602233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Cuba is not a country that you should underestimate, Fidel Castro&#039;s daughter tells DW</title>
     </programme>
     <programme start="20260602233000 +0000" stop="20260603000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Toxic Beauty - Inside India&#039;s polluted marble dump</title>
     </programme>
     <programme start="20260603000000 +0000" stop="20260603000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3035,7 +3035,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260603003000 +0000" stop="20260603010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Sleep Instead of Flying: The Real Economics of Night Trains</title>
     </programme>
     <programme start="20260603010000 +0000" stop="20260603010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3044,7 +3044,7 @@
         <title>News</title>
     </programme>
     <programme start="20260603011500 +0000" stop="20260603020000 +0000" channel="DW English HD.starhub">
-        <title>The Chinese Dream-24 Hours in Young China-Ep 1:A Day with Paintboxers,Influencers,and Millionaires</title>
+        <title>The Chinese Dream - 24 Hours in Young China Ep 1:A Day with Paintboxers, Influencers, &amp; Millionaires</title>
     </programme>
     <programme start="20260603020000 +0000" stop="20260603020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3053,7 +3053,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260603023000 +0000" stop="20260603030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Toxic Beauty - Inside India&#039;s polluted marble dump</title>
     </programme>
     <programme start="20260603030000 +0000" stop="20260603030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3062,10 +3062,10 @@
         <title>News</title>
     </programme>
     <programme start="20260603031500 +0000" stop="20260603033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Cuba is not a country that you should underestimate, Fidel Castro&#039;s daughter tells DW</title>
     </programme>
     <programme start="20260603033000 +0000" stop="20260603040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Hidden battles beneath the waves</title>
     </programme>
     <programme start="20260603040000 +0000" stop="20260603040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3074,7 +3074,7 @@
         <title>News</title>
     </programme>
     <programme start="20260603041500 +0000" stop="20260603050000 +0000" channel="DW English HD.starhub">
-        <title>The Chinese Dream-24 Hours in Young China-Ep 1:A Day with Paintboxers,Influencers,and Millionaires</title>
+        <title>The Chinese Dream - 24 Hours in Young China Ep 1:A Day with Paintboxers, Influencers, &amp; Millionaires</title>
     </programme>
     <programme start="20260603050000 +0000" stop="20260603050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3083,7 +3083,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260603053000 +0000" stop="20260603060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Sleep Instead of Flying: The Real Economics of Night Trains</title>
     </programme>
     <programme start="20260603060000 +0000" stop="20260603060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3092,10 +3092,10 @@
         <title>News</title>
     </programme>
     <programme start="20260603061500 +0000" stop="20260603063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Cuba is not a country that you should underestimate, Fidel Castro&#039;s daughter tells DW</title>
     </programme>
     <programme start="20260603063000 +0000" stop="20260603070000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>The key to your immune and lymphatic system</title>
     </programme>
     <programme start="20260603070000 +0000" stop="20260603070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3104,19 +3104,19 @@
         <title>News</title>
     </programme>
     <programme start="20260603071500 +0000" stop="20260603074500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Homelessness in Berlin - Neighbors with Nowhere to Live</title>
     </programme>
     <programme start="20260603074500 +0000" stop="20260603080000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How technology can save health care</title>
     </programme>
     <programme start="20260603080000 +0000" stop="20260603080200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260603080200 +0000" stop="20260603083000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Nigeria&#039;s Housing Crisis</title>
     </programme>
     <programme start="20260603083000 +0000" stop="20260603090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>When bears stop sleeping: A climate story from Ladakh</title>
     </programme>
     <programme start="20260603090000 +0000" stop="20260603090300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3131,10 +3131,10 @@
         <title>News</title>
     </programme>
     <programme start="20260603101500 +0000" stop="20260603104500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Homelessness in Berlin - Neighbors with Nowhere to Live</title>
     </programme>
     <programme start="20260603104500 +0000" stop="20260603110000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How technology can save health care</title>
     </programme>
     <programme start="20260603110000 +0000" stop="20260603110200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3143,7 +3143,7 @@
         <title>Last Refuge from Deportation - Church Asylum Under Scrutiny</title>
     </programme>
     <programme start="20260603113000 +0000" stop="20260603120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Sleep Instead of Flying: The Real Economics of Night Trains</title>
     </programme>
     <programme start="20260603120000 +0000" stop="20260603120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3161,10 +3161,10 @@
         <title>News</title>
     </programme>
     <programme start="20260603131500 +0000" stop="20260603133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Kazakhstan&#039;s balancing act between Russia and China</title>
     </programme>
     <programme start="20260603133000 +0000" stop="20260603140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Hidden battles beneath the waves</title>
     </programme>
     <programme start="20260603140000 +0000" stop="20260603140300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3176,7 +3176,7 @@
         <title>News</title>
     </programme>
     <programme start="20260603153000 +0000" stop="20260603160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>When bears stop sleeping: A climate story from Ladakh</title>
     </programme>
     <programme start="20260602160000 +0000" stop="20260602220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -7916,7 +7916,7 @@
         <title>Qualifying/Sprint</title>
     </programme>
     <programme start="20260603150000 +0000" stop="20260603173000 +0000" channel="SPOTV2.starhub">
-        <title>31/5 2026 MLB Regular Season Los Angeles Dodgers vs Philadelphia Phillies</title>
+        <title>Los Angeles Dodgers vs Philadelphia Phillies</title>
     </programme>
     <programme start="20260602150000 +0000" stop="20260602170000 +0000" channel="Dragon TV.starhub">
         <title>the city of musicals</title>
