@@ -5,10 +5,10 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260603020000 +0000" stop="20260603070000 +0000" channel="RCTI.vision">
-<title>Polytron Indonesia Open (L)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260603070000 +0000" stop="20260603120000 +0000" channel="RCTI.vision">
-<title>Polytron Indonesia Open (L)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260603120000 +0000" stop="20260603133000 +0000" channel="RCTI.vision">
 <title>Terikat Janji (RCTI)</title>
@@ -26,10 +26,10 @@
 <title>Cinta Tak Kenal Usia</title>
 </programme>
 <programme start="20260603183000 +0000" stop="20260603190000 +0000" channel="RCTI.vision">
-<title>Sportacular Int&#039;l Match (L)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260603190000 +0000" stop="20260603204500 +0000" channel="RCTI.vision">
-<title>Sportacular Int&#039;l Match</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260603204500 +0000" stop="20260603230000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
@@ -41,10 +41,10 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260604020000 +0000" stop="20260604070000 +0000" channel="RCTI.vision">
-<title>Polytron Indonesia Open (L)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260604070000 +0000" stop="20260604120000 +0000" channel="RCTI.vision">
-<title>Polytron Indonesia Open (L)</title>
+<title>RCTI</title>
 </programme>
 <programme start="20260603000000 +0000" stop="20260603004500 +0000" channel="MNCTV.vision">
 <title>Dora &amp; Sahabat</title>
@@ -603,12 +603,6 @@
 </programme>
 <programme start="20260603090000 +0000" stop="20260603113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260603133000 +0000" stop="20260603153000 +0000" channel="ANTV.vision">
-<title>Makin Lama Makin Asik</title>
-</programme>
-<programme start="20260603153000 +0000" stop="20260603173000 +0000" channel="ANTV.vision">
-<title>The Doll</title>
 </programme>
 <programme start="20260603173000 +0000" stop="20260603193000 +0000" channel="ANTV.vision">
 <title>Best Of The Best 3</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260604110000 +0000" stop="20260604130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260603000000 +0000" stop="20260603003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
+</programme>
+<programme start="20260603003000 +0000" stop="20260603010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
 </programme>
