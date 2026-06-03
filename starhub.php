@@ -1808,10 +1808,10 @@
         <title>UCL Classic Matches Barcelona vs Arsenal (2005/06)</title>
     </programme>
     <programme start="20260602185300 +0000" stop="20260602210000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Tanzania - Fi</title>
+        <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Tanzania - Final (Live)</title>
     </programme>
     <programme start="20260602210000 +0000" stop="20260602213000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Ivory C</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Ivory Coast</title>
     </programme>
     <programme start="20260602213000 +0000" stop="20260602220000 +0000" channel="beIN Sports 3.starhub">
         <title>La Fleche Wallone</title>
@@ -6650,7 +6650,7 @@
         <title>LaLiga 2 2025/26: Deportivo vs Las Palmas</title>
     </programme>
     <programme start="20260603065000 +0000" stop="20260603075000 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA European Rally Championship 2026: Royal Rally of Scandinavia SS 16 Olme 2 - PS</title>
+        <title>FIA European Rally Championship 2026: Royal Rally of Scandinavia SS 16 Olme 2 -</title>
     </programme>
     <programme start="20260603075000 +0000" stop="20260603082000 +0000" channel="beIN Sports HD.starhub">
         <title>Zandvoort</title>
@@ -7993,7 +7993,7 @@
     <programme start="20260603150000 +0000" stop="20260603153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260603153000 +0000" stop="20260603160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260603153000 +0000" stop="20260603170000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20260602160000 +0000" stop="20260602163000 +0000" channel="Travelxp HD.starhub">
