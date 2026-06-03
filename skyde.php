@@ -979,58 +979,46 @@
 <programme start="20260603211500 +0000" stop="20260603220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 2</title>
 </programme>
-<programme start="20260602220000 +0000" stop="20260603060000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260605220000 +0000" stop="20260606060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20260603060000 +0000" stop="20260603075500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Norwegen - Schweden</title>
+<programme start="20260606060000 +0000" stop="20260606075500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Freundschaftsspiele: Frankreich - Elfenbeinküste</title>
 </programme>
-<programme start="20260603075500 +0000" stop="20260603081500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260606075500 +0000" stop="20260606095500 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: FC Barcelona - Real Madrid</title>
+</programme>
+<programme start="20260606095500 +0000" stop="20260606105000 +0000" channel="DAZN 2 HD.skyde">
+    <title>3. Liga Highlightshow 25/26: 34. Spieltag</title>
+</programme>
+<programme start="20260606105000 +0000" stop="20260606115000 +0000" channel="DAZN 2 HD.skyde">
+    <title>3. Liga Highlightshow 25/26: 35. Spieltag</title>
+</programme>
+<programme start="20260606115000 +0000" stop="20260606140000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Freundschaftsspiele: Portugal - Chile</title>
+</programme>
+<programme start="20260606140000 +0000" stop="20260606143500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260603081500 +0000" stop="20260603093500 +0000" channel="DAZN 2 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 34. Spieltag</title>
+<programme start="20260606143500 +0000" stop="20260606153500 +0000" channel="DAZN 2 HD.skyde">
+    <title>3. Liga Highlightshow 25/26: 36. Spieltag</title>
 </programme>
-<programme start="20260603093500 +0000" stop="20260603100000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260606153500 +0000" stop="20260606163000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Darts Features: Darts-WM 2026 I Gabriel Clemens - Luke Humphries (3. Runde)</title>
+</programme>
+<programme start="20260606163000 +0000" stop="20260606170000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260603100000 +0000" stop="20260603103500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 1</title>
+<programme start="20260606170000 +0000" stop="20260606203000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Nordic Darts Masters: Tag 2</title>
 </programme>
-<programme start="20260603103500 +0000" stop="20260603111000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 2</title>
-</programme>
-<programme start="20260603111000 +0000" stop="20260603114000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 3</title>
-</programme>
-<programme start="20260603114000 +0000" stop="20260603134000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Kroatien - Belgien</title>
-</programme>
-<programme start="20260603134000 +0000" stop="20260603141500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 4</title>
-</programme>
-<programme start="20260603141500 +0000" stop="20260603145000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 5</title>
-</programme>
-<programme start="20260603145000 +0000" stop="20260603152000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 6</title>
-</programme>
-<programme start="20260603152000 +0000" stop="20260603171500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Deutschland - Finnland</title>
-</programme>
-<programme start="20260603171500 +0000" stop="20260603180000 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 25/26: 38. Spieltag</title>
-</programme>
-<programme start="20260603180000 +0000" stop="20260603183500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260606203000 +0000" stop="20260606205500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260603183500 +0000" stop="20260603204500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Luxembourg - Italien</title>
+<programme start="20260606205500 +0000" stop="20260606213000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Darts Features: World Cup of Darts 2025 I Deutschland - England</title>
 </programme>
-<programme start="20260603204500 +0000" stop="20260603213000 +0000" channel="DAZN 2 HD.skyde">
-    <title>VfB in Team: Folge 9 - Neue Perspektiven</title>
-</programme>
-<programme start="20260603213000 +0000" stop="20260603220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260606213000 +0000" stop="20260606220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260602222500 +0000" stop="20260602225500 +0000" channel="Heimatkanal.skyde">
@@ -1402,41 +1390,38 @@
 <programme start="20260603034000 +0000" stop="20260603040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260603040000 +0000" stop="20260603042000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603040000 +0000" stop="20260603042500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260603042000 +0000" stop="20260603044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603042500 +0000" stop="20260603044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260603044500 +0000" stop="20260603050500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603044500 +0000" stop="20260603051000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260603050500 +0000" stop="20260603053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603051000 +0000" stop="20260603053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260603053000 +0000" stop="20260603055000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603053000 +0000" stop="20260603055500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260603055000 +0000" stop="20260603061500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603055500 +0000" stop="20260603062000 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
-<programme start="20260603061500 +0000" stop="20260603063500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603062000 +0000" stop="20260603064000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260603063500 +0000" stop="20260603065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603064000 +0000" stop="20260603065000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260603065000 +0000" stop="20260603065500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603065000 +0000" stop="20260603070000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260603065500 +0000" stop="20260603070500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603070000 +0000" stop="20260603070500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260603070500 +0000" stop="20260603071000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603070500 +0000" stop="20260603071500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
-</programme>
-<programme start="20260603071000 +0000" stop="20260603071500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260603071500 +0000" stop="20260603072000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -1456,7 +1441,10 @@
 <programme start="20260603074000 +0000" stop="20260603074500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260603074500 +0000" stop="20260603075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603074500 +0000" stop="20260603075000 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260603075000 +0000" stop="20260603075500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260603075500 +0000" stop="20260603081500 +0000" channel="Nick Jr..skyde">
@@ -1507,10 +1495,10 @@
 <programme start="20260603123000 +0000" stop="20260603124000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260603124000 +0000" stop="20260603130500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603124000 +0000" stop="20260603130000 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260603130500 +0000" stop="20260603131500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603130000 +0000" stop="20260603131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20260603131500 +0000" stop="20260603133500 +0000" channel="Nick Jr..skyde">
@@ -1531,40 +1519,40 @@
 <programme start="20260603135500 +0000" stop="20260603140000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260603140000 +0000" stop="20260603142000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603140000 +0000" stop="20260603142500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260603142000 +0000" stop="20260603144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603142500 +0000" stop="20260603145000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260603144500 +0000" stop="20260603150000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603145000 +0000" stop="20260603150000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260603150000 +0000" stop="20260603152000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260603152000 +0000" stop="20260603153000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603152000 +0000" stop="20260603153500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260603153000 +0000" stop="20260603155500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603153500 +0000" stop="20260603155500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260603155500 +0000" stop="20260603161500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603155500 +0000" stop="20260603162000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260603161500 +0000" stop="20260603163000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603162000 +0000" stop="20260603163000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260603163000 +0000" stop="20260603163500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603163000 +0000" stop="20260603164000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260603163500 +0000" stop="20260603164500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603164000 +0000" stop="20260603164500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260603164500 +0000" stop="20260603165000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603164500 +0000" stop="20260603165500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260603165000 +0000" stop="20260603170000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603165500 +0000" stop="20260603170000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260603170000 +0000" stop="20260603170500 +0000" channel="Nick Jr..skyde">
@@ -1585,19 +1573,19 @@
 <programme start="20260603172500 +0000" stop="20260603173000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260603173000 +0000" stop="20260603175000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603173000 +0000" stop="20260603175500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260603175000 +0000" stop="20260603180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603175500 +0000" stop="20260603180500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260603180000 +0000" stop="20260603182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603180500 +0000" stop="20260603182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260603182500 +0000" stop="20260603184500 +0000" channel="Nick Jr..skyde">
+<programme start="20260603182500 +0000" stop="20260603185000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260603184500 +0000" stop="20260603190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260603185000 +0000" stop="20260603190000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260603190000 +0000" stop="20260603192000 +0000" channel="Nick Jr..skyde">
@@ -2686,8 +2674,14 @@
 <programme start="20260603073000 +0000" stop="20260603093000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia M&#039;gladbach - FC Bayern München, 8. Spieltag</title>
 </programme>
+<programme start="20260603073000 +0000" stop="20260603094500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Borussia Dortmund - 1. FC Köln, tipico Topspiel der Woche, 8. Spieltag</title>
+</programme>
 <programme start="20260603093000 +0000" stop="20260603113000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - 1. FC Köln, tipico Topspiel der Woche, 8. Spieltag</title>
+</programme>
+<programme start="20260603094500 +0000" stop="20260603113000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC Bayern München - Bayer Leverkusen, tipico Topspiel der Woche, 9. Spieltag</title>
 </programme>
 <programme start="20260603113000 +0000" stop="20260603133000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Augsburg - Borussia Dortmund, Flutlicht-Freitag, 9. Spieltag</title>
@@ -2884,13 +2878,10 @@
 <programme start="20260603190000 +0000" stop="20260603191500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 1</title>
 </programme>
-<programme start="20260603191500 +0000" stop="20260603194500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 26. Spieltag komplett - letzter Spieltag</title>
-</programme>
-<programme start="20260603194500 +0000" stop="20260603214500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260603191500 +0000" stop="20260603211500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Vegas Golden Knights @ Carolina Hurricanes, Stanley Cup Final, Spiel 1</title>
 </programme>
-<programme start="20260603214500 +0000" stop="20260603224500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260603211500 +0000" stop="20260603221500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition: Post Game Edition</title>
 </programme>
 <programme start="20260602220000 +0000" stop="20260603040000 +0000" channel="Sky Sport News HD.skyde">
@@ -3089,7 +3080,7 @@
     <title>ATP 500: Review Dallas</title>
 </programme>
 <programme start="20260603121500 +0000" stop="20260603140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: C. Alcaraz (ESP) - A. Fils (FRA), Qatar ExxonMobil Open in Doha (Katar), Finale</title>
+    <title>ATP 500: A. Fils (FRA) - A. Rublev, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
 </programme>
 <programme start="20260603140000 +0000" stop="20260603150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Doha</title>
@@ -3169,11 +3160,11 @@
 <programme start="20260603200000 +0000" stop="20260603204000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: 1. FC Kaiserslautern - Saison 25-26</title>
 </programme>
-<programme start="20260603204000 +0000" stop="20260603212000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260603204000 +0000" stop="20260603213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Karlsruher SC - Saison 25-26</title>
 </programme>
-<programme start="20260603212000 +0000" stop="20260603220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Hannover 96 - Saison 25-26</title>
+<programme start="20260603213000 +0000" stop="20260603233000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Vegas Golden Knights @ Carolina Hurricanes, Stanley Cup Final, Spiel 1</title>
 </programme>
 <programme start="20260602225500 +0000" stop="20260603005500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Kanada</title>
@@ -3724,10 +3715,10 @@
 <programme start="20260603181500 +0000" stop="20260603190000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20260603190000 +0000" stop="20260603194500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260603190000 +0000" stop="20260603195000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20260603194500 +0000" stop="20260603203500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260603195000 +0000" stop="20260603203500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
 <programme start="20260603203500 +0000" stop="20260603212000 +0000" channel="Warner TV Serie HD.skyde">

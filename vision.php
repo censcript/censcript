@@ -604,9 +604,6 @@
 <programme start="20260603090000 +0000" stop="20260603113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260603173000 +0000" stop="20260603193000 +0000" channel="ANTV.vision">
-<title>Best Of The Best 3</title>
-</programme>
 <programme start="20260603193000 +0000" stop="20260603220000 +0000" channel="ANTV.vision">
 <title>Ae Dil Hai Mushkil</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260603003000 +0000" stop="20260603010000 +0000" channel="DAAI TV.vision">
 <title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260603010000 +0000" stop="20260603013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
 </programme>
