@@ -15331,7 +15331,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260604121500 +0000" stop="20260604124500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros Mini - Episode Number 28</title>
+    <title lang="en">Roland Garros Mini - Women's Singles QF Svitolina v Kostyuk</title>
     <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>

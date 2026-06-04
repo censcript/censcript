@@ -1825,14 +1825,17 @@
     <programme start="20260604060000 +0000" stop="20260604073000 +0000" channel="beIN Sports 3.starhub">
         <title>Premier Padel 2026: Italy Major Day 2 Match 5</title>
     </programme>
-    <programme start="20260604073000 +0000" stop="20260604090000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260604073000 +0000" stop="20260604084500 +0000" channel="beIN Sports 3.starhub">
         <title>Premier Padel 2026: Italy Major Day 2 Match 1</title>
     </programme>
-    <programme start="20260604090000 +0000" stop="20260604095500 +0000" channel="beIN Sports 3.starhub">
-        <title>UECL Final</title>
+    <programme start="20260604084500 +0000" stop="20260604085500 +0000" channel="beIN Sports 3.starhub">
+        <title>Top 20 David Beckham Goals</title>
     </programme>
-    <programme start="20260604095500 +0000" stop="20260604160000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260604085500 +0000" stop="20260604150000 +0000" channel="beIN Sports 3.starhub">
         <title>Roland Garros 2026 (3): Day 12 (Live)</title>
+    </programme>
+    <programme start="20260604150000 +0000" stop="20260604163000 +0000" channel="beIN Sports 3.starhub">
+        <title>Premier Padel 2026: Italy Major Day 3 Match 4 (Live)</title>
     </programme>
     <programme start="20260603153000 +0000" stop="20260603163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -7774,7 +7777,7 @@
     <programme start="20260603213000 +0000" stop="20260603233000 +0000" channel="Asianet Movies.starhub">
         <title>Leela</title>
     </programme>
-    <programme start="20260603233000 +0000" stop="20260604013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260603232000 +0000" stop="20260604013000 +0000" channel="Asianet Movies.starhub">
         <title>Bharya athra pora</title>
     </programme>
     <programme start="20260604013000 +0000" stop="20260604043000 +0000" channel="Asianet Movies.starhub">
@@ -7789,7 +7792,7 @@
     <programme start="20260604103000 +0000" stop="20260604133000 +0000" channel="Asianet Movies.starhub">
         <title>June</title>
     </programme>
-    <programme start="20260604133000 +0000" stop="20260604170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260604133000 +0000" stop="20260604164000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Marubhoomikkadha</title>
     </programme>
     <programme start="20260603160000 +0000" stop="20260603170000 +0000" channel="Astro Warna HD.starhub">

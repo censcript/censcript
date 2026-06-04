@@ -1375,20 +1375,20 @@
 <programme start="20260604060000 +0000" stop="20260604073000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Italy</title>
 </programme>
-<programme start="20260604073000 +0000" stop="20260604090000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260604073000 +0000" stop="20260604084500 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Italy</title>
 </programme>
-<programme start="20260604090000 +0000" stop="20260604095500 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
+<programme start="20260604084500 +0000" stop="20260604085500 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Top 20 Goals: Beckham</title>
 </programme>
-<programme start="20260604095500 +0000" stop="20260604130000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260604085500 +0000" stop="20260604130000 +0000" channel="beIN Sports 3.mncvision">
     <title>Roland Garros 2026: Day 12 (L)</title>
 </programme>
-<programme start="20260604130000 +0000" stop="20260604160000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260604130000 +0000" stop="20260604150000 +0000" channel="beIN Sports 3.mncvision">
     <title>Roland Garros 2026: Day 12 (L)</title>
 </programme>
-<programme start="20260604160000 +0000" stop="20260604163000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Inside Sailing 2026: June</title>
+<programme start="20260604150000 +0000" stop="20260604163000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2026: Italy (L)</title>
 </programme>
 <programme start="20260604163000 +0000" stop="20260603170000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
@@ -1432,20 +1432,20 @@
 <programme start="20260604060000 +0000" stop="20260604073000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Italy</title>
 </programme>
-<programme start="20260604073000 +0000" stop="20260604090000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260604073000 +0000" stop="20260604084500 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Italy</title>
 </programme>
-<programme start="20260604090000 +0000" stop="20260604095500 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
+<programme start="20260604084500 +0000" stop="20260604085500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Top 20 Goals: Beckham</title>
 </programme>
-<programme start="20260604095500 +0000" stop="20260604130000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260604085500 +0000" stop="20260604130000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Roland Garros 2026: Day 12 (L)</title>
 </programme>
-<programme start="20260604130000 +0000" stop="20260604160000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260604130000 +0000" stop="20260604150000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Roland Garros 2026: Day 12 (L)</title>
 </programme>
-<programme start="20260604160000 +0000" stop="20260604163000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>Inside Sailing 2026: June</title>
+<programme start="20260604150000 +0000" stop="20260604163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2026: Italy (L)</title>
 </programme>
 <programme start="20260604163000 +0000" stop="20260603170000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
@@ -7696,31 +7696,31 @@
 <programme start="20260604010000 +0000" stop="20260604030000 +0000" channel="SCTV.mncvision">
     <title>Prewedding Hasil Giveaway</title>
 </programme>
-<programme start="20260604030000 +0000" stop="20260604050000 +0000" channel="SCTV.mncvision">
+<programme start="20260604030000 +0000" stop="20260604044600 +0000" channel="SCTV.mncvision">
     <title>Mantan Koki Bikin Jatuh Hati</title>
 </programme>
-<programme start="20260604050000 +0000" stop="20260604053000 +0000" channel="SCTV.mncvision">
+<programme start="20260604044600 +0000" stop="20260604052000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260604053000 +0000" stop="20260604070000 +0000" channel="SCTV.mncvision">
+<programme start="20260604052000 +0000" stop="20260604065100 +0000" channel="SCTV.mncvision">
     <title>Jadi Bos Jangan Galak-Galak</title>
 </programme>
-<programme start="20260604070000 +0000" stop="20260604083000 +0000" channel="SCTV.mncvision">
+<programme start="20260604065100 +0000" stop="20260604082000 +0000" channel="SCTV.mncvision">
     <title>Bumbu Cinta Diracik Oleh...</title>
 </programme>
-<programme start="20260604083000 +0000" stop="20260604100000 +0000" channel="SCTV.mncvision">
+<programme start="20260604082000 +0000" stop="20260604095000 +0000" channel="SCTV.mncvision">
     <title>Paket Liburan Miss Gengsi</title>
 </programme>
-<programme start="20260604100000 +0000" stop="20260604110000 +0000" channel="SCTV.mncvision">
+<programme start="20260604095000 +0000" stop="20260604105300 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260604110000 +0000" stop="20260604130000 +0000" channel="SCTV.mncvision">
+<programme start="20260604105300 +0000" stop="20260604120000 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260604130000 +0000" stop="20260604150000 +0000" channel="SCTV.mncvision">
+<programme start="20260604120000 +0000" stop="20260604154000 +0000" channel="SCTV.mncvision">
     <title>Asean U19 Boys&#039; C&#039;ship 2026 (L)</title>
 </programme>
-<programme start="20260604150000 +0000" stop="20260604153000 +0000" channel="SCTV.mncvision">
+<programme start="20260604154000 +0000" stop="20260604161000 +0000" channel="SCTV.mncvision">
     <title>Actually Aku Tresno Kowe</title>
 </programme>
 <programme start="20260603173400 +0000" stop="20260603184900 +0000" channel="SCTV HD.mncvision">
@@ -7750,31 +7750,31 @@
 <programme start="20260604010000 +0000" stop="20260604030000 +0000" channel="SCTV HD.mncvision">
     <title>Prewedding Hasil Giveaway</title>
 </programme>
-<programme start="20260604030000 +0000" stop="20260604050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604030000 +0000" stop="20260604044600 +0000" channel="SCTV HD.mncvision">
     <title>Mantan Koki Bikin Jatuh Hati</title>
 </programme>
-<programme start="20260604050000 +0000" stop="20260604053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604044600 +0000" stop="20260604052000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260604053000 +0000" stop="20260604070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604052000 +0000" stop="20260604065100 +0000" channel="SCTV HD.mncvision">
     <title>Jadi Bos Jangan Galak-Galak</title>
 </programme>
-<programme start="20260604070000 +0000" stop="20260604083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604065100 +0000" stop="20260604082000 +0000" channel="SCTV HD.mncvision">
     <title>Bumbu Cinta Diracik Oleh...</title>
 </programme>
-<programme start="20260604083000 +0000" stop="20260604100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604082000 +0000" stop="20260604095000 +0000" channel="SCTV HD.mncvision">
     <title>Paket Liburan Miss Gengsi</title>
 </programme>
-<programme start="20260604100000 +0000" stop="20260604110000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604095000 +0000" stop="20260604105300 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260604110000 +0000" stop="20260604130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604105300 +0000" stop="20260604120000 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260604130000 +0000" stop="20260604150000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604120000 +0000" stop="20260604154000 +0000" channel="SCTV HD.mncvision">
     <title>Asean U19 Boys&#039; C&#039;ship 2026 (L)</title>
 </programme>
-<programme start="20260604150000 +0000" stop="20260604153000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260604154000 +0000" stop="20260604161000 +0000" channel="SCTV HD.mncvision">
     <title>Actually Aku Tresno Kowe</title>
 </programme>
 <programme start="20260603170000 +0000" stop="20260603180000 +0000" channel="Sindo News TV.mncvision">
