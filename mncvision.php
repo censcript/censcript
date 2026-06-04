@@ -2297,52 +2297,52 @@
     <title>CGTN Documentary</title>
 </programme>
 <programme start="20260604060000 +0000" stop="20260604070000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>One City, One Flavor</title>
 </programme>
 <programme start="20260604070000 +0000" stop="20260604073000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Pastures New, Ep 2</title>
 </programme>
 <programme start="20260604073000 +0000" stop="20260604080000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Attention Factory</title>
 </programme>
 <programme start="20260604080000 +0000" stop="20260604090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Tales Of The Tarim River, Ep 3</title>
 </programme>
 <programme start="20260604090000 +0000" stop="20260604093000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Life Beside The Jiaohe Ruins</title>
 </programme>
 <programme start="20260604093000 +0000" stop="20260604100000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Village Experts S2, Ep 4</title>
 </programme>
 <programme start="20260604100000 +0000" stop="20260604110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Eastern Inspiration, Ep 1</title>
 </programme>
 <programme start="20260604110000 +0000" stop="20260604113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Along The Nanming River, Ep 2</title>
 </programme>
 <programme start="20260604113000 +0000" stop="20260604120000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Collecting Good Old Days, Ep 4</title>
 </programme>
 <programme start="20260604120000 +0000" stop="20260604130000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>One City, One Flavor</title>
 </programme>
 <programme start="20260604130000 +0000" stop="20260604133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Pastures New, Ep 2</title>
 </programme>
 <programme start="20260604133000 +0000" stop="20260604140000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Attention Factory</title>
 </programme>
 <programme start="20260604140000 +0000" stop="20260604150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Tales Of The Tarim River, Ep 3</title>
 </programme>
 <programme start="20260604150000 +0000" stop="20260604153000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Life Beside The Jiaohe Ruins</title>
 </programme>
 <programme start="20260604153000 +0000" stop="20260604160000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Village Experts S2, Ep 4</title>
 </programme>
 <programme start="20260604160000 +0000" stop="20260604163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Eastern Inspiration, Ep 1</title>
 </programme>
 <programme start="20260603170000 +0000" stop="20260603180000 +0000" channel="Channel News Asia.mncvision">
     <title>Woodlands Checkpoint, Ep 1</title>

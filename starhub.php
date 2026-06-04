@@ -1793,7 +1793,7 @@
         <title>Premier Padel 2026: Italy Major Day 2 Match 1</title>
     </programme>
     <programme start="20260603200000 +0000" stop="20260603203000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Mozambique vs Cameroon</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Mozambique vs Ca</title>
     </programme>
     <programme start="20260603203000 +0000" stop="20260603210000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Senegal vs Sudan</title>
@@ -7768,13 +7768,13 @@
     <programme start="20260603133000 +0000" stop="20260603170000 +0000" channel="Asianet Movies.starhub">
         <title>12th Man</title>
     </programme>
-    <programme start="20260603170000 +0000" stop="20260603193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260603170000 +0000" stop="20260603190000 +0000" channel="Asianet Movies.starhub">
         <title>In Ghost House Inn</title>
     </programme>
-    <programme start="20260603193000 +0000" stop="20260603213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260603190000 +0000" stop="20260603214500 +0000" channel="Asianet Movies.starhub">
         <title>Pullippulikalum Aattinkuttiyum</title>
     </programme>
-    <programme start="20260603213000 +0000" stop="20260603233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260603214500 +0000" stop="20260603232000 +0000" channel="Asianet Movies.starhub">
         <title>Leela</title>
     </programme>
     <programme start="20260603232000 +0000" stop="20260604013000 +0000" channel="Asianet Movies.starhub">
@@ -8014,7 +8014,7 @@
     <programme start="20260604153000 +0000" stop="20260604155500 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260604155500 +0000" stop="20260604160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260604155500 +0000" stop="20260604170000 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
     <programme start="20260603160000 +0000" stop="20260603163000 +0000" channel="Travelxp HD.starhub">

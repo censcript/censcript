@@ -1764,45 +1764,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260604215000 +0000" stop="20260604224000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Regime</title>
 </programme>
-<programme start="20260603233500 +0000" stop="20260604011500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Nun</title>
-</programme>
-<programme start="20260604011500 +0000" stop="20260604032000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Saw X</title>
-</programme>
-<programme start="20260604032000 +0000" stop="20260604052500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Escape Plan</title>
-</programme>
-<programme start="20260604052500 +0000" stop="20260604072000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Annabelle 2</title>
-</programme>
-<programme start="20260604072000 +0000" stop="20260604085500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Final Destination 2</title>
-</programme>
-<programme start="20260604085500 +0000" stop="20260604103500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>From Dusk Till Dawn 3: The Hangman&#039;s Daughter</title>
-</programme>
-<programme start="20260604103500 +0000" stop="20260604125000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Stirb langsam</title>
-</programme>
-<programme start="20260604125000 +0000" stop="20260604144000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Disturbia</title>
-</programme>
-<programme start="20260604144000 +0000" stop="20260604163000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>24 Stunden Angst</title>
-</programme>
-<programme start="20260604163000 +0000" stop="20260604181500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Conan - Der Zerstörer</title>
-</programme>
-<programme start="20260604181500 +0000" stop="20260604200500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Geballte Ladung - Double Impact</title>
-</programme>
-<programme start="20260604200500 +0000" stop="20260604213500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Cyborg</title>
-</programme>
-<programme start="20260604213500 +0000" stop="20260604234000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Stirb Langsam 2</title>
-</programme>
 <programme start="20260603230000 +0000" stop="20260604013000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Vierzig Wagen westwärts</title>
 </programme>
@@ -1983,101 +1944,101 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260604213000 +0000" stop="20260604220000 +0000" channel="Sky Crime HD.skyde">
     <title>Inside FBI - Die härtesten Fälle</title>
 </programme>
-<programme start="20260602222000 +0000" stop="20260602230000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260603222000 +0000" stop="20260603230500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hochsee Cowboys</title>
 </programme>
-<programme start="20260602230000 +0000" stop="20260602234500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260603230500 +0000" stop="20260603235000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hochsee Cowboys</title>
 </programme>
-<programme start="20260602234500 +0000" stop="20260603003000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260603235000 +0000" stop="20260604003000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260603003000 +0000" stop="20260603011500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604003000 +0000" stop="20260604011500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260603011500 +0000" stop="20260603014000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604011500 +0000" stop="20260604014500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Bob Ross: The Joy of Painting</title>
 </programme>
-<programme start="20260603014000 +0000" stop="20260603021000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604014500 +0000" stop="20260604021500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Bob Ross: The Joy of Painting</title>
 </programme>
-<programme start="20260603021000 +0000" stop="20260603024000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604021500 +0000" stop="20260604024500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Bob Ross: The Joy of Painting</title>
 </programme>
-<programme start="20260603024000 +0000" stop="20260603030500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604024500 +0000" stop="20260604031500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Bob Ross: The Joy of Painting</title>
 </programme>
-<programme start="20260603030500 +0000" stop="20260603034500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604031500 +0000" stop="20260604035000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Unsealed: Alien Files</title>
 </programme>
-<programme start="20260603034500 +0000" stop="20260603041000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604035000 +0000" stop="20260604041500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Unsealed: Alien Files</title>
 </programme>
-<programme start="20260603041000 +0000" stop="20260603050000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20260603050000 +0000" stop="20260603055500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20260603055500 +0000" stop="20260603064500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20260603064500 +0000" stop="20260603073500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20260603073500 +0000" stop="20260603082500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260603082500 +0000" stop="20260603091500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260603091500 +0000" stop="20260603100500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604041500 +0000" stop="20260604050500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Geheimakte Nazi-Wissenschaft</title>
 </programme>
-<programme start="20260603100500 +0000" stop="20260603105500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604050500 +0000" stop="20260604055500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Geheimakte Nazi-Wissenschaft</title>
 </programme>
-<programme start="20260603105500 +0000" stop="20260603114500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604055500 +0000" stop="20260604064500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Geheimakte Nazi-Wissenschaft</title>
 </programme>
-<programme start="20260603114500 +0000" stop="20260603123500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604064500 +0000" stop="20260604073500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Geheimakte Nazi-Wissenschaft</title>
 </programme>
-<programme start="20260603123500 +0000" stop="20260603132000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260603132000 +0000" stop="20260603141000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260603141000 +0000" stop="20260603145500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260603145500 +0000" stop="20260603154500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260603154500 +0000" stop="20260603163000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604073500 +0000" stop="20260604082500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260603163000 +0000" stop="20260603172000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604082500 +0000" stop="20260604091000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260603172000 +0000" stop="20260603181000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260603181000 +0000" stop="20260603190000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260603190000 +0000" stop="20260603195000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604091000 +0000" stop="20260604100500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Wetterwahnsinn weltweit</title>
 </programme>
-<programme start="20260603195000 +0000" stop="20260603204000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604100500 +0000" stop="20260604105500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Tschernobyl - Chronik einer Katastrophe</title>
 </programme>
-<programme start="20260603204000 +0000" stop="20260603213000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604105500 +0000" stop="20260604114500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Tschernobyl - Chronik einer Katastrophe</title>
 </programme>
-<programme start="20260603213000 +0000" stop="20260603222000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260604114500 +0000" stop="20260604123500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Tschernobyl - Chronik einer Katastrophe</title>
+</programme>
+<programme start="20260604123500 +0000" stop="20260604132000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Hochsee Cowboys</title>
+</programme>
+<programme start="20260604132000 +0000" stop="20260604141000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Hochsee Cowboys</title>
+</programme>
+<programme start="20260604141000 +0000" stop="20260604145500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Hochsee Cowboys</title>
+</programme>
+<programme start="20260604145500 +0000" stop="20260604154500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Hochsee Cowboys</title>
+</programme>
+<programme start="20260604154500 +0000" stop="20260604163000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20260604163000 +0000" stop="20260604172000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20260604172000 +0000" stop="20260604181000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20260604181000 +0000" stop="20260604190000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
+</programme>
+<programme start="20260604190000 +0000" stop="20260604195000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Kennedy, Sinatra und die Mafia</title>
+</programme>
+<programme start="20260604195000 +0000" stop="20260604204000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Kennedy, Sinatra und die Mafia</title>
+</programme>
+<programme start="20260604204000 +0000" stop="20260604214500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Surveilled - Staatliche Kontrolle im digitalen Zeitalter</title>
+</programme>
+<programme start="20260604214500 +0000" stop="20260604223500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Hochsee Cowboys</title>
 </programme>
 <programme start="20260603221000 +0000" stop="20260603225500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
@@ -2169,101 +2130,92 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260604212500 +0000" stop="20260604221000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260605225000 +0000" stop="20260605233500 +0000" channel="Sky Nature HD.skyde">
-    <title>Unsere Erde im Wandel - Flüsse in Not</title>
+<programme start="20260603222000 +0000" stop="20260603230500 +0000" channel="Sky Nature HD.skyde">
+    <title>Taronga Zoo Hautnah</title>
 </programme>
-<programme start="20260605233500 +0000" stop="20260606002500 +0000" channel="Sky Nature HD.skyde">
-    <title>Inside Greenpeace - Was braucht es, um die Welt zu retten?</title>
+<programme start="20260603230500 +0000" stop="20260603235000 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
 </programme>
-<programme start="20260606002500 +0000" stop="20260606012000 +0000" channel="Sky Nature HD.skyde">
-    <title>Inside Greenpeace - Was braucht es, um die Welt zu retten?</title>
+<programme start="20260603235000 +0000" stop="20260604003500 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
 </programme>
-<programme start="20260606012000 +0000" stop="20260606021000 +0000" channel="Sky Nature HD.skyde">
-    <title>Inside Greenpeace - Was braucht es, um die Welt zu retten?</title>
+<programme start="20260604003500 +0000" stop="20260604012000 +0000" channel="Sky Nature HD.skyde">
+    <title>Zoo und so - Tierisch wild: Best of</title>
 </programme>
-<programme start="20260606021000 +0000" stop="20260606030500 +0000" channel="Sky Nature HD.skyde">
-    <title>Inside Greenpeace - Was braucht es, um die Welt zu retten?</title>
+<programme start="20260604012000 +0000" stop="20260604020500 +0000" channel="Sky Nature HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
 </programme>
-<programme start="20260606030500 +0000" stop="20260606040000 +0000" channel="Sky Nature HD.skyde">
-    <title>Inside Greenpeace - Was braucht es, um die Welt zu retten?</title>
+<programme start="20260604020500 +0000" stop="20260604030000 +0000" channel="Sky Nature HD.skyde">
+    <title>Helden der Evolution</title>
 </programme>
-<programme start="20260606040000 +0000" stop="20260606043000 +0000" channel="Sky Nature HD.skyde">
-    <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
+<programme start="20260604030000 +0000" stop="20260604035500 +0000" channel="Sky Nature HD.skyde">
+    <title>Helden der Evolution</title>
 </programme>
-<programme start="20260606043000 +0000" stop="20260606050500 +0000" channel="Sky Nature HD.skyde">
-    <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
+<programme start="20260604035500 +0000" stop="20260604044000 +0000" channel="Sky Nature HD.skyde">
+    <title>San Diego Zoo</title>
 </programme>
-<programme start="20260606050500 +0000" stop="20260606053500 +0000" channel="Sky Nature HD.skyde">
-    <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
+<programme start="20260604044000 +0000" stop="20260604053000 +0000" channel="Sky Nature HD.skyde">
+    <title>San Diego Zoo</title>
 </programme>
-<programme start="20260606053500 +0000" stop="20260606060500 +0000" channel="Sky Nature HD.skyde">
+<programme start="20260604053000 +0000" stop="20260604062000 +0000" channel="Sky Nature HD.skyde">
+    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
+</programme>
+<programme start="20260604062000 +0000" stop="20260604071000 +0000" channel="Sky Nature HD.skyde">
+    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
+</programme>
+<programme start="20260604071000 +0000" stop="20260604073500 +0000" channel="Sky Nature HD.skyde">
     <title>Angriff und Verteidigung</title>
 </programme>
-<programme start="20260606060500 +0000" stop="20260606063000 +0000" channel="Sky Nature HD.skyde">
-    <title>Angriff und Verteidigung</title>
+<programme start="20260604073500 +0000" stop="20260604083000 +0000" channel="Sky Nature HD.skyde">
+    <title>24 Stunden Wildnis</title>
 </programme>
-<programme start="20260606063000 +0000" stop="20260606065500 +0000" channel="Sky Nature HD.skyde">
-    <title>Angriff und Verteidigung</title>
+<programme start="20260604083000 +0000" stop="20260604092500 +0000" channel="Sky Nature HD.skyde">
+    <title>24 Stunden Wildnis</title>
 </programme>
-<programme start="20260606065500 +0000" stop="20260606072500 +0000" channel="Sky Nature HD.skyde">
-    <title>Angriff und Verteidigung</title>
+<programme start="20260604092500 +0000" stop="20260604101500 +0000" channel="Sky Nature HD.skyde">
+    <title>Expedition am Limit: Behind the Scenes</title>
 </programme>
-<programme start="20260606072500 +0000" stop="20260606075000 +0000" channel="Sky Nature HD.skyde">
-    <title>Angriff und Verteidigung</title>
+<programme start="20260604101500 +0000" stop="20260604111500 +0000" channel="Sky Nature HD.skyde">
+    <title>Expedition am Limit: Behind the Scenes</title>
 </programme>
-<programme start="20260606075000 +0000" stop="20260606081500 +0000" channel="Sky Nature HD.skyde">
-    <title>Angriff und Verteidigung</title>
+<programme start="20260604111500 +0000" stop="20260604121000 +0000" channel="Sky Nature HD.skyde">
+    <title>Die afrikanische Savanne - Ein einzigartiger Lebensraum</title>
 </programme>
-<programme start="20260606081500 +0000" stop="20260606091500 +0000" channel="Sky Nature HD.skyde">
-    <title>Der Ozean - Oase des Lebens</title>
+<programme start="20260604121000 +0000" stop="20260604130500 +0000" channel="Sky Nature HD.skyde">
+    <title>Die afrikanische Savanne - Ein einzigartiger Lebensraum</title>
 </programme>
-<programme start="20260606091500 +0000" stop="20260606100000 +0000" channel="Sky Nature HD.skyde">
-    <title>Italiens wilde Schönheit</title>
+<programme start="20260604130500 +0000" stop="20260604140000 +0000" channel="Sky Nature HD.skyde">
+    <title>24 Stunden Wildnis</title>
 </programme>
-<programme start="20260606100000 +0000" stop="20260606105000 +0000" channel="Sky Nature HD.skyde">
-    <title>Italiens wilde Schönheit</title>
+<programme start="20260604140000 +0000" stop="20260604145500 +0000" channel="Sky Nature HD.skyde">
+    <title>24 Stunden Wildnis</title>
 </programme>
-<programme start="20260606105000 +0000" stop="20260606114500 +0000" channel="Sky Nature HD.skyde">
-    <title>Das Wunder der Wiederkehr</title>
+<programme start="20260604145500 +0000" stop="20260604154500 +0000" channel="Sky Nature HD.skyde">
+    <title>Raubtiere der Karpaten</title>
 </programme>
-<programme start="20260606114500 +0000" stop="20260606123500 +0000" channel="Sky Nature HD.skyde">
-    <title>Terra X: Abenteuer Südsee</title>
+<programme start="20260604154500 +0000" stop="20260604163500 +0000" channel="Sky Nature HD.skyde">
+    <title>Raubtiere der Karpaten</title>
 </programme>
-<programme start="20260606123500 +0000" stop="20260606132000 +0000" channel="Sky Nature HD.skyde">
+<programme start="20260604163500 +0000" stop="20260604172500 +0000" channel="Sky Nature HD.skyde">
+    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
+</programme>
+<programme start="20260604172500 +0000" stop="20260604181500 +0000" channel="Sky Nature HD.skyde">
+    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
+</programme>
+<programme start="20260604181500 +0000" stop="20260604190000 +0000" channel="Sky Nature HD.skyde">
     <title>Terra X: Supercodes - Die geheimen Formeln der Natur</title>
 </programme>
-<programme start="20260606132000 +0000" stop="20260606141000 +0000" channel="Sky Nature HD.skyde">
+<programme start="20260604190000 +0000" stop="20260604195000 +0000" channel="Sky Nature HD.skyde">
     <title>Terra X: Supercodes - Die geheimen Formeln der Natur</title>
 </programme>
-<programme start="20260606141000 +0000" stop="20260606150000 +0000" channel="Sky Nature HD.skyde">
+<programme start="20260604195000 +0000" stop="20260604204000 +0000" channel="Sky Nature HD.skyde">
     <title>Terra X: Die Buschflieger - Abenteuer am Himmel</title>
 </programme>
-<programme start="20260606150000 +0000" stop="20260606154500 +0000" channel="Sky Nature HD.skyde">
-    <title>Taronga Zoo Hautnah</title>
+<programme start="20260604204000 +0000" stop="20260604213000 +0000" channel="Sky Nature HD.skyde">
+    <title>Terra X: Abenteuer Südsee</title>
 </programme>
-<programme start="20260606154500 +0000" stop="20260606163500 +0000" channel="Sky Nature HD.skyde">
-    <title>Taronga Zoo Hautnah</title>
-</programme>
-<programme start="20260606163500 +0000" stop="20260606172500 +0000" channel="Sky Nature HD.skyde">
-    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20260606172500 +0000" stop="20260606181500 +0000" channel="Sky Nature HD.skyde">
-    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
-</programme>
-<programme start="20260606181500 +0000" stop="20260606191000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die afrikanische Savanne - Ein einzigartiger Lebensraum</title>
-</programme>
-<programme start="20260606191000 +0000" stop="20260606200500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die afrikanische Savanne - Ein einzigartiger Lebensraum</title>
-</programme>
-<programme start="20260606200500 +0000" stop="20260606210000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die afrikanische Tierwelt - Leben und Überleben</title>
-</programme>
-<programme start="20260606210000 +0000" stop="20260606215500 +0000" channel="Sky Nature HD.skyde">
-    <title>Schimpansen im Kongo mit Jane Goodall</title>
-</programme>
-<programme start="20260606215500 +0000" stop="20260606225000 +0000" channel="Sky Nature HD.skyde">
-    <title>Schimpansen im Kongo mit Jane Goodall</title>
+<programme start="20260604213000 +0000" stop="20260604222500 +0000" channel="Sky Nature HD.skyde">
+    <title>Tasmanien - Eine Insel steht Kopf</title>
 </programme>
 <programme start="20260603220500 +0000" stop="20260603225000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
