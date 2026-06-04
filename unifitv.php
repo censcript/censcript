@@ -14565,11 +14565,11 @@
     <episode-num system="onscreen">S1E6023</episode-num>
   </programme>
   <programme start="20260603185300 +0000" stop="20260603190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">One in Every Japanese</title>
-    <desc lang="en">1 in 156 Japanese are transgender - in a society still lacking in understanding, we talk to transgender people about work, marriage and leisure as they try to live their normal daily lives.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6064.</episode-num>
-    <episode-num system="onscreen">S1E6065</episode-num>
+    <title lang="en">HELLO! NHK WORLD JAPAN</title>
+    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2103.</episode-num>
+    <episode-num system="onscreen">S1E2104</episode-num>
   </programme>
   <programme start="20260603190000 +0000" stop="20260603190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
@@ -15359,7 +15359,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260603183000 +0000" stop="20260603200000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Premier Padel - Italy Major Day 2 Match 6 (L)</title>
+    <title lang="en">Premier Padel - Italy Major Day 2 Match 1</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15418,19 +15418,24 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260604073000 +0000" stop="20260604090000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Premier Padel - Italy Major Day 2 Match 6</title>
+  <programme start="20260604073000 +0000" stop="20260604084500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Premier Padel - Italy Major Day 2 Match 1</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260604090000 +0000" stop="20260604095500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Europa/Conference League Highlights - UECL Final</title>
-    <desc lang="en">Don't miss any of the action with the official UEFA Europa &amp; Conference League highlights show</desc>
+  <programme start="20260604084500 +0000" stop="20260604085500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: Top Ten - Top 20 David Beckham Goals</title>
+    <desc lang="en">Catch our collection of Manchester United Top Tens: Goals, matches moments and more, from the Red Devils MUTV archives.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260604095500 +0000" stop="20260604160000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260604085500 +0000" stop="20260604150000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Roland Garros - Day 12 (L)</title>
     <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260604150000 +0000" stop="20260604160000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Premier Padel - Italy Major Day 3 Match 4</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260604160000 +0000" stop="20260604163000 +0000" channel="beinsports3.unifitv">

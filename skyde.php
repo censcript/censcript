@@ -1764,6 +1764,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260604215000 +0000" stop="20260604224000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Regime</title>
 </programme>
+<programme start="20260603233500 +0000" stop="20260604011500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Nun</title>
+</programme>
+<programme start="20260604011500 +0000" stop="20260604032000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Saw X</title>
+</programme>
+<programme start="20260604032000 +0000" stop="20260604052500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Escape Plan</title>
+</programme>
+<programme start="20260604052500 +0000" stop="20260604072000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Annabelle 2</title>
+</programme>
+<programme start="20260604072000 +0000" stop="20260604085500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Final Destination 2</title>
+</programme>
+<programme start="20260604085500 +0000" stop="20260604103500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>From Dusk Till Dawn 3: The Hangman&#039;s Daughter</title>
+</programme>
+<programme start="20260604103500 +0000" stop="20260604125000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Stirb langsam</title>
+</programme>
+<programme start="20260604125000 +0000" stop="20260604144000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Disturbia</title>
+</programme>
+<programme start="20260604144000 +0000" stop="20260604163000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>24 Stunden Angst</title>
+</programme>
+<programme start="20260604163000 +0000" stop="20260604181500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Conan - Der Zerstörer</title>
+</programme>
+<programme start="20260604181500 +0000" stop="20260604200500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Geballte Ladung - Double Impact</title>
+</programme>
+<programme start="20260604200500 +0000" stop="20260604213500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Cyborg</title>
+</programme>
+<programme start="20260604213500 +0000" stop="20260604234000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Stirb Langsam 2</title>
+</programme>
 <programme start="20260603230000 +0000" stop="20260604013000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Vierzig Wagen westwärts</title>
 </programme>
@@ -2415,134 +2454,149 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260604212000 +0000" stop="20260604221000 +0000" channel="Sky Showcase HD.skyde">
     <title>Morden im Norden</title>
 </programme>
-<programme start="20260603234500 +0000" stop="20260604001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Best Of)</title>
+<programme start="20260602222000 +0000" stop="20260602224000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Salzburg - Sturm (2012/2013)</title>
 </programme>
-<programme start="20260604001500 +0000" stop="20260604004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
+<programme start="20260602224000 +0000" stop="20260602230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Bundesliga Classic: Admira - Salzburg (2012/2013)</title>
 </programme>
-<programme start="20260604004500 +0000" stop="20260604013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show</title>
+<programme start="20260602230000 +0000" stop="20260603013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Paris Saint-Germain - FC Arsenal, Finale in Budapest (Ungarn)</title>
 </programme>
-<programme start="20260604013000 +0000" stop="20260604021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (SV Fohnsdorf)</title>
+<programme start="20260603013000 +0000" stop="20260603033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - SV Oberbank Ried, Europacup-Playoffs, Finale Rückspiel</title>
 </programme>
-<programme start="20260604021500 +0000" stop="20260604030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig Spezial mit Toni Polster - Die Next Generation Show</title>
+<programme start="20260603033000 +0000" stop="20260603040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
 </programme>
-<programme start="20260604030000 +0000" stop="20260604040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260603040000 +0000" stop="20260603042500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 1-4)</title>
+</programme>
+<programme start="20260603042500 +0000" stop="20260603045000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 5-8)</title>
+</programme>
+<programme start="20260603045000 +0000" stop="20260603051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 9-12)</title>
+</programme>
+<programme start="20260603051500 +0000" stop="20260603054000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 13-16)</title>
+</programme>
+<programme start="20260603054000 +0000" stop="20260603060500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (17-20)</title>
+</programme>
+<programme start="20260603060500 +0000" stop="20260603062500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 21-24)</title>
+</programme>
+<programme start="20260603062500 +0000" stop="20260603065000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 25-28)</title>
+</programme>
+<programme start="20260603065000 +0000" stop="20260603071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 29-32)</title>
+</programme>
+<programme start="20260603071500 +0000" stop="20260603074000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 1-4)</title>
+</programme>
+<programme start="20260603074000 +0000" stop="20260603080500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 5-8)</title>
+</programme>
+<programme start="20260603080500 +0000" stop="20260603083500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 9-12)</title>
+</programme>
+<programme start="20260603083500 +0000" stop="20260603090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 13-16)</title>
+</programme>
+<programme start="20260603090000 +0000" stop="20260603092000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 17-20)</title>
+</programme>
+<programme start="20260603092000 +0000" stop="20260603094500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 21-24)</title>
+</programme>
+<programme start="20260603094500 +0000" stop="20260603101000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 25-28)</title>
+</programme>
+<programme start="20260603101000 +0000" stop="20260603103500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Rapid (Runden 29-32)</title>
+</programme>
+<programme start="20260603103500 +0000" stop="20260603110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 1-4)</title>
+</programme>
+<programme start="20260603110000 +0000" stop="20260603112500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 5-8)</title>
+</programme>
+<programme start="20260603112500 +0000" stop="20260603115000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 9-12)</title>
+</programme>
+<programme start="20260603115000 +0000" stop="20260603121000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 13-16)</title>
+</programme>
+<programme start="20260603121000 +0000" stop="20260603123500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 17-20)</title>
+</programme>
+<programme start="20260603123500 +0000" stop="20260603130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 21-24)</title>
+</programme>
+<programme start="20260603130000 +0000" stop="20260603132500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 25-28)</title>
+</programme>
+<programme start="20260603132500 +0000" stop="20260603135000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Austria Wien (Runden 29-32)</title>
+</programme>
+<programme start="20260603135000 +0000" stop="20260603141500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 1-4)</title>
+</programme>
+<programme start="20260603141500 +0000" stop="20260603144000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 5-8)</title>
+</programme>
+<programme start="20260603144000 +0000" stop="20260603150500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 9-12)</title>
+</programme>
+<programme start="20260603150500 +0000" stop="20260603153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 13-16)</title>
+</programme>
+<programme start="20260603153000 +0000" stop="20260603155000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 17-20)</title>
+</programme>
+<programme start="20260603155000 +0000" stop="20260603161000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 21-24)</title>
+</programme>
+<programme start="20260603161000 +0000" stop="20260603163500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 25-28)</title>
+</programme>
+<programme start="20260603163500 +0000" stop="20260603170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Sturm Graz (Runden 29-32)</title>
+</programme>
+<programme start="20260603170000 +0000" stop="20260603172500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% LASK (Runden 1-4)</title>
+</programme>
+<programme start="20260603172500 +0000" stop="20260603175000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% Lask (Runden 5-8)</title>
+</programme>
+<programme start="20260603175000 +0000" stop="20260603181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% LASK (Runden 9-12)</title>
+</programme>
+<programme start="20260603181500 +0000" stop="20260603184000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% LASK (Runden 13-16)</title>
+</programme>
+<programme start="20260603184000 +0000" stop="20260603190500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% LASK (Runden 17-20)</title>
+</programme>
+<programme start="20260603190500 +0000" stop="20260603192500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% LASK (Runden 21-24)</title>
+</programme>
+<programme start="20260603192500 +0000" stop="20260603195000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% LASK (Runden 25-28)</title>
+</programme>
+<programme start="20260603195000 +0000" stop="20260603201500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% LASK (Runden 29-32)</title>
+</programme>
+<programme start="20260603201500 +0000" stop="20260603211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
-<programme start="20260604040000 +0000" stop="20260604044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USC Kirchberg am Wagram)</title>
-</programme>
-<programme start="20260604044500 +0000" stop="20260604053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
-</programme>
-<programme start="20260604053000 +0000" stop="20260604054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Golf: Sky Golf Cups Österreich</title>
-</programme>
-<programme start="20260604054500 +0000" stop="20260604063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USV Pressbaum)</title>
-</programme>
-<programme start="20260604063000 +0000" stop="20260604064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - ARS, Finale 2026 in Budapest</title>
-</programme>
-<programme start="20260604064500 +0000" stop="20260604073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig Spezial mit Toni Polster - Die Next Generation Show</title>
-</programme>
-<programme start="20260604073000 +0000" stop="20260604081500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show</title>
-</programme>
-<programme start="20260604081500 +0000" stop="20260604084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
-</programme>
-<programme start="20260604084500 +0000" stop="20260604094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Saisonrückblick</title>
-</programme>
-<programme start="20260604094000 +0000" stop="20260604095500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - ARS, Finale 2026 in Budapest</title>
-</programme>
-<programme start="20260604095500 +0000" stop="20260604101000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604101000 +0000" stop="20260604102500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604102500 +0000" stop="20260604104000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604104000 +0000" stop="20260604105500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604105500 +0000" stop="20260604111000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604111000 +0000" stop="20260604112500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604112500 +0000" stop="20260604122000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live F3: Training - GP Monaco</title>
-</programme>
-<programme start="20260604122000 +0000" stop="20260604130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Doku: Ralf &amp; Étienne: Wir sagen Ja</title>
-</programme>
-<programme start="20260604130000 +0000" stop="20260604135500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live F2: Training - GP Monaco</title>
-</programme>
-<programme start="20260604135500 +0000" stop="20260604144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: Saisonrückblick</title>
-</programme>
-<programme start="20260604144500 +0000" stop="20260604151500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
-</programme>
-<programme start="20260604151500 +0000" stop="20260604153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - ARS, Finale 2026 in Budapest</title>
-</programme>
-<programme start="20260604153000 +0000" stop="20260604154500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604154500 +0000" stop="20260604160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604160000 +0000" stop="20260604161500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604161500 +0000" stop="20260604163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604163000 +0000" stop="20260604164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604164500 +0000" stop="20260604170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: DIE Rapid. Mut. Wille. Aufstieg.</title>
-</programme>
-<programme start="20260604170000 +0000" stop="20260604174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show</title>
-</programme>
-<programme start="20260604174500 +0000" stop="20260604181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Johannes Aigner)</title>
-</programme>
-<programme start="20260604181500 +0000" stop="20260604191000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA ECL: Saisonrückblick</title>
-</programme>
-<programme start="20260604191000 +0000" stop="20260604192500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - ARS, Finale 2026 in Budapest</title>
-</programme>
-<programme start="20260604192500 +0000" stop="20260604195500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260603211500 +0000" stop="20260603214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20260604195500 +0000" stop="20260604202500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
-</programme>
-<programme start="20260604202500 +0000" stop="20260604204500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Bundesliga Classic: Austria - Rapid (2018/2019)</title>
-</programme>
-<programme start="20260604204500 +0000" stop="20260604210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - ARS, Finale 2026 in Budapest</title>
-</programme>
-<programme start="20260604210000 +0000" stop="20260604220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA ECL: Saisonrückblick</title>
+<programme start="20260603214500 +0000" stop="20260603234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - SV Oberbank Ried, Europacup-Playoffs, Finale Rückspiel</title>
 </programme>
 <programme start="20260603230000 +0000" stop="20260603234000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Arminia Bielefeld - Saison 25-26</title>

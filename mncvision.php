@@ -8044,10 +8044,7 @@
 <programme start="20260604000000 +0000" stop="20260604020000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026: Women</title>
 </programme>
-<programme start="20260604020000 +0000" stop="20260604070000 +0000" channel="Sportstars.mncvision">
-    <title>Polytron Indonesia Open (L)</title>
-</programme>
-<programme start="20260604070000 +0000" stop="20260604120000 +0000" channel="Sportstars.mncvision">
+<programme start="20260604020000 +0000" stop="20260604120000 +0000" channel="Sportstars.mncvision">
     <title>Polytron Indonesia Open (L)</title>
 </programme>
 <programme start="20260604120000 +0000" stop="20260604130000 +0000" channel="Sportstars.mncvision">
@@ -8296,10 +8293,7 @@
 <programme start="20260604000000 +0000" stop="20260604020000 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026: Women</title>
 </programme>
-<programme start="20260604020000 +0000" stop="20260604070000 +0000" channel="Sportstars HD.mncvision">
-    <title>Polytron Indonesia Open (L)</title>
-</programme>
-<programme start="20260604070000 +0000" stop="20260604120000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20260604020000 +0000" stop="20260604120000 +0000" channel="Sportstars HD.mncvision">
     <title>Polytron Indonesia Open (L)</title>
 </programme>
 <programme start="20260604120000 +0000" stop="20260604130000 +0000" channel="Sportstars HD.mncvision">
