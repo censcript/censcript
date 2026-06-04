@@ -2676,7 +2676,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260604120000 +0000" stop="20260604140000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: BL: Bayer Leverkusen - VfL Wolfsburg, 28. Spieltag</title>
 </programme>
-<programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20260604120000 +0000" stop="20260604140000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>TEST: BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
 <programme start="20260603222000 +0000" stop="20260603230000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3126,59 +3126,68 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260604210000 +0000" stop="20260604233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
-<programme start="20260603233000 +0000" stop="20260604020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WNBA: Toronto Tempo @ New York Liberty</title>
+<programme start="20260606220000 +0000" stop="20260606234500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: US Women&#039;s Open, 3. Tag in Pacific Palisades, CA (USA)</title>
 </programme>
-<programme start="20260604020000 +0000" stop="20260604043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WNBA: Phoenix Mercury @ Seattle Storm</title>
+<programme start="20260606234500 +0000" stop="20260607031500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 3</title>
 </programme>
-<programme start="20260604043000 +0000" stop="20260604050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20260607031500 +0000" stop="20260607041500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>MotoGP: Qualifying - GP Ungarn</title>
 </programme>
-<programme start="20260604050000 +0000" stop="20260604070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Vegas Golden Knights @ Carolina Hurricanes, Stanley Cup Final, Spiel 1</title>
+<programme start="20260607041500 +0000" stop="20260607051500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>MotoGP: Sprint - GP Ungarn</title>
 </programme>
-<programme start="20260604070000 +0000" stop="20260604074000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Arminia Bielefeld - Saison 25-26</title>
+<programme start="20260607051500 +0000" stop="20260607052500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>MotoGP: Alex Marquez - Best Moments 2025</title>
 </programme>
-<programme start="20260604074000 +0000" stop="20260604082000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Holstein Kiel - Saison 25-26</title>
+<programme start="20260607052500 +0000" stop="20260607053500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>MotoGP: Marc Marquez - Best Moments 2025</title>
 </programme>
-<programme start="20260604082000 +0000" stop="20260604090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: VfL Bochum - Saison 25-26</title>
+<programme start="20260607053500 +0000" stop="20260607064500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F3: 2. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260604090000 +0000" stop="20260604094000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: SpVgg Greuther Fürth - Saison 25-26</title>
+<programme start="20260607064500 +0000" stop="20260607071500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1 Academy: Weekend Wrapped - GP Kanada</title>
 </programme>
-<programme start="20260604094000 +0000" stop="20260604102000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: SV Darmstadt 98 - Saison 25-26</title>
+<programme start="20260607071500 +0000" stop="20260607084000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F2: 2. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260604102000 +0000" stop="20260604110000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: 1. FC Nürnberg - Saison 25-26</title>
+<programme start="20260607084000 +0000" stop="20260607100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto3: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20260604110000 +0000" stop="20260604111500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>DFB-Pokal: Highlights XXL: FC Bayern München - VfB Stuttgart, Finale 2026</title>
+<programme start="20260607100000 +0000" stop="20260607111500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto2: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20260604111500 +0000" stop="20260604112500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>MotoGP: Best saves 2025</title>
+<programme start="20260607111500 +0000" stop="20260607125500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live MotoGP: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20260604112500 +0000" stop="20260604122000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F3: Training - GP Monaco</title>
+<programme start="20260607125500 +0000" stop="20260607150000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Rennen - GP Monaco</title>
 </programme>
-<programme start="20260604122000 +0000" stop="20260604130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live LIV Golf: Andalusien, 1. Tag in Sotogrande</title>
+<programme start="20260607150000 +0000" stop="20260607154500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Analysen &amp; Interviews - GP Monaco</title>
 </programme>
-<programme start="20260604130000 +0000" stop="20260604135500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F2: Training - GP Monaco</title>
+<programme start="20260607154500 +0000" stop="20260607161500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Pressekonferenz Rennen - GP Monaco</title>
 </programme>
-<programme start="20260604135500 +0000" stop="20260604160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live LIV Golf: Andalusien, 1. Tag in Sotogrande</title>
+<programme start="20260607161500 +0000" stop="20260607164500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
 </programme>
-<programme start="20260604160000 +0000" stop="20260604180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 1</title>
+<programme start="20260607164500 +0000" stop="20260607174500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>MotoGP: Rennen - GP Ungarn</title>
 </programme>
-<programme start="20260604180000 +0000" stop="20260604234500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: US Women&#039;s Open, 1. Tag in Pacific Palisades, CA (USA)</title>
+<programme start="20260607174500 +0000" stop="20260607181500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Rennen Kompakt - GP Monaco</title>
+</programme>
+<programme start="20260607181500 +0000" stop="20260607184500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
+</programme>
+<programme start="20260607184500 +0000" stop="20260607190000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 3</title>
+</programme>
+<programme start="20260607190000 +0000" stop="20260608000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: US Women&#039;s Open, 4. Tag in Pacific Palisades, CA (USA)</title>
 </programme>
 <programme start="20260604061500 +0000" stop="20260604064500 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>

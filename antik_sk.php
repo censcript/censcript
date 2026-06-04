@@ -16712,13 +16712,13 @@
     <title lang="id">Главное</title>
   </programme>
   <programme start="20260605223000 +0000" stop="20260605230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">Перекресток: Краматорск</title>
   </programme>
   <programme start="20260605230000 +0000" stop="20260605233000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Азия 360</title>
+    <title lang="id">Азия 360: Жизнь на краю</title>
   </programme>
   <programme start="20260605233000 +0000" stop="20260606000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Нью-Йорк, New York</title>
+    <title lang="id">Нью-Йорк, New York: Винодельня на</title>
   </programme>
   <programme start="20260606000000 +0000" stop="20260606020000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино: Специальная военная чеченская. 1 серия</title>
@@ -16730,7 +16730,7 @@
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20260606033000 +0000" stop="20260606040000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW.Интервью</title>
+    <title lang="id">DW. #вТPЕНДde: Игорь ЯКОВЕНКО</title>
   </programme>
   <programme start="20260606040000 +0000" stop="20260606050000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">VOTVOT</title>
@@ -16742,13 +16742,13 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">Ждем в гости: Магнитные пески</title>
   </programme>
   <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20260606083000 +0000" stop="20260606090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW.Интервью</title>
+    <title lang="id">DW. #вТPЕНДde: Игорь ЯКОВЕНКО</title>
   </programme>
   <programme start="20260606090000 +0000" stop="20260606103000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">VOTVOT</title>
@@ -16757,10 +16757,10 @@
     <title lang="id">DW. Европа в фокусе</title>
   </programme>
   <programme start="20260606110000 +0000" stop="20260606113000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">Ждем в гости: Магнитные пески</title>
   </programme>
   <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекрёсток</title>
+    <title lang="id">Перекресток: Краматорск</title>
   </programme>
   <programme start="20260606120000 +0000" stop="20260606140000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино: Специальная военная чеченская. 1 серия</title>
