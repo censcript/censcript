@@ -604,12 +604,6 @@
 <programme start="20260604090000 +0000" stop="20260604113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260604113000 +0000" stop="20260604133000 +0000" channel="ANTV.vision">
-<title>Mandala Dari Sungai Ular</title>
-</programme>
-<programme start="20260604133000 +0000" stop="20260604153000 +0000" channel="ANTV.vision">
-<title>Saya Duluan Dong</title>
-</programme>
 <programme start="20260604153000 +0000" stop="20260604173000 +0000" channel="ANTV.vision">
 <title>The Doll 2</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260605110000 +0000" stop="20260605130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260604000000 +0000" stop="20260604003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
+</programme>
+<programme start="20260604003000 +0000" stop="20260604010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
 </programme>
