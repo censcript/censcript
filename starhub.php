@@ -1754,34 +1754,34 @@
         <title>Racing On The Edge S6</title>
     </programme>
     <programme start="20260606075500 +0000" stop="20260606082000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: USA vs Uruguay - Pool Stage, Bordeaux - Men</title>
+        <title>HSBC SVNS World Championships 2026: USA vs Uruguay - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260606082000 +0000" stop="20260606084200 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs Spain - Pool Stage, Bordeaux -</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs Spain - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260606084200 +0000" stop="20260606090400 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Kenya vs Great Britain - Pool Stage, Bordeau</title>
+        <title>HSBC SVNS World Championships 2026: Kenya vs Great Britain - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260606090400 +0000" stop="20260606092600 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Fiji - Pool Stage, Bordeaux</title>
+        <title>HSBC SVNS World Championships 2026: South Africa vs Fiji - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260606092600 +0000" stop="20260606094800 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Argentina vs New Zealand - Pool Stage, Borde</title>
+        <title>HSBC SVNS World Championships 2026: Argentina vs New Zealand - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260606094800 +0000" stop="20260606101500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: France vs Germany - Pool Stage, Bordeaux - M</title>
+        <title>HSBC SVNS World Championships 2026: France vs Germany - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260606101500 +0000" stop="20260606104500 +0000" channel="beIN Sports 3.starhub">
         <title>Documentary</title>
     </programme>
     <programme start="20260606104500 +0000" stop="20260606110800 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Spain vs Great Britain - Pool Stage, Bordeau</title>
+        <title>HSBC SVNS World Championships 2026: Spain vs Great Britain - Pool Stage, Bordeaux - Women (Live)</title>
     </programme>
     <programme start="20260606110800 +0000" stop="20260606113000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: USA vs Canada - Pool Stage, Bordeaux - Women</title>
+        <title>HSBC SVNS World Championships 2026: USA vs Canada - Pool Stage, Bordeaux - Women (Live)</title>
     </programme>
     <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Fiji vs Brazil - Pool Stage, Bordeaux - Wome</title>
+        <title>HSBC SVNS World Championships 2026: Fiji vs Brazil - Pool Stage, Bordeaux - Women (Live)</title>
     </programme>
     <programme start="20260606120000 +0000" stop="20260606133000 +0000" channel="beIN Sports 3.starhub">
         <title>Premier Padel 2026: Italy Major Day 5 SF1 - Women (Live)</title>
@@ -6722,19 +6722,19 @@
         <title>HSBC SVNS World Championships 2026: Japan vs Brazil - Pool Stage, Bordeaux - Women</title>
     </programme>
     <programme start="20260606000500 +0000" stop="20260606003000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs Fiji - Pool Stage, Bordeaux - W</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs Fiji - Pool Stage, Bordeaux - Women</title>
     </programme>
     <programme start="20260606003000 +0000" stop="20260606005500 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: New Zealand vs South Africa - Pool Stage, Bo</title>
+        <title>HSBC SVNS World Championships 2026: New Zealand vs South Africa - Pool Stage, Bordeaux - Women</title>
     </programme>
     <programme start="20260606005500 +0000" stop="20260606012000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: France vs Argentina - Pool Stage, Bordeaux -</title>
+        <title>HSBC SVNS World Championships 2026: France vs Argentina - Pool Stage, Bordeaux - Women</title>
     </programme>
     <programme start="20260606012000 +0000" stop="20260606022000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Pract</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Practice 1</title>
     </programme>
     <programme start="20260606022000 +0000" stop="20260606032000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Pract</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Practice 2</title>
     </programme>
     <programme start="20260606032000 +0000" stop="20260606035000 +0000" channel="beIN Sports HD.starhub">
         <title>This Is Paris 2025/26</title>
@@ -6752,10 +6752,10 @@
         <title>FIA Formula 2 Championship Qualifying 2026: Monte Carlo, Monaco</title>
     </programme>
     <programme start="20260606064000 +0000" stop="20260606074000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Pract</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Practice 1</title>
     </programme>
     <programme start="20260606074000 +0000" stop="20260606084000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Pract</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Practice 2</title>
     </programme>
     <programme start="20260606084000 +0000" stop="20260606093000 +0000" channel="beIN Sports HD.starhub">
         <title>FIA Formula 3 Championship Sprint 2026: Monte Carlo, Monaco (Live)</title>
@@ -6770,7 +6770,7 @@
         <title>Montreal, Canada</title>
     </programme>
     <programme start="20260606102500 +0000" stop="20260606113000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Pract</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Practice 3 (Live)</title>
     </programme>
     <programme start="20260606113000 +0000" stop="20260606114000 +0000" channel="beIN Sports HD.starhub">
         <title>Kylian Mbappe</title>
@@ -6788,7 +6788,7 @@
         <title>FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026</title>
     </programme>
     <programme start="20260606135500 +0000" stop="20260606150000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Qualifying 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 (Li</title>
+        <title>Formula 1 Qualifying 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 (Live)</title>
     </programme>
     <programme start="20260606150000 +0000" stop="20260606160000 +0000" channel="beIN Sports HD.starhub">
         <title>FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026</title>
@@ -7304,7 +7304,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Compilation Programme</title>
     </programme>
     <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7322,7 +7322,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260606033000 +0000" stop="20260606040000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Inside Rafa Nadal&#039;s Netflix Show</title>
     </programme>
     <programme start="20260606040000 +0000" stop="20260606043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7334,13 +7334,13 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260606053000 +0000" stop="20260606060000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>The Dawn of the AI World Cup</title>
     </programme>
     <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
     <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Compilation Programme</title>
     </programme>
     <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7379,13 +7379,13 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260606133000 +0000" stop="20260606140000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>The Dawn of the AI World Cup</title>
     </programme>
     <programme start="20260606140000 +0000" stop="20260606143000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
     <programme start="20260606143000 +0000" stop="20260606150000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Inside Rafa Nadal&#039;s Netflix Show</title>
     </programme>
     <programme start="20260606150000 +0000" stop="20260606153000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

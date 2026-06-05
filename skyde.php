@@ -1901,104 +1901,89 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260605201000 +0000" stop="20260605220000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Afterburn</title>
 </programme>
-<programme start="20260603220500 +0000" stop="20260603225500 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Freeway-Killer: Drei Serientäter, ein Muster</title>
-</programme>
-<programme start="20260603225500 +0000" stop="20260604000000 +0000" channel="Sky Crime HD.skyde">
-    <title>Die Toten unter der Veranda: Mord in der Vorstadt</title>
-</programme>
-<programme start="20260604000000 +0000" stop="20260604002500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260604220000 +0000" stop="20260604222500 +0000" channel="Sky Crime HD.skyde">
     <title>Inside FBI - Die härtesten Fälle</title>
 </programme>
-<programme start="20260604002500 +0000" stop="20260604005000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
+<programme start="20260604222500 +0000" stop="20260605000000 +0000" channel="Sky Crime HD.skyde">
+    <title>Leiche im Schnee: Der Mord an Joanna Yeates</title>
 </programme>
-<programme start="20260604005000 +0000" stop="20260604011500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260604011500 +0000" stop="20260604014000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260604014000 +0000" stop="20260604023000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Lady Killers</title>
-</programme>
-<programme start="20260604023000 +0000" stop="20260604031000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Lady Killers</title>
-</programme>
-<programme start="20260604031000 +0000" stop="20260604040500 +0000" channel="Sky Crime HD.skyde">
-    <title>Wrong Man</title>
-</programme>
-<programme start="20260604040500 +0000" stop="20260604050000 +0000" channel="Sky Crime HD.skyde">
-    <title>Wrong Man</title>
-</programme>
-<programme start="20260604050000 +0000" stop="20260604054500 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260604054500 +0000" stop="20260604063000 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260604063000 +0000" stop="20260604072000 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit meinem Mörder</title>
-</programme>
-<programme start="20260604072000 +0000" stop="20260604081000 +0000" channel="Sky Crime HD.skyde">
-    <title>Im Bett mit meinem Mörder</title>
-</programme>
-<programme start="20260604081000 +0000" stop="20260604090500 +0000" channel="Sky Crime HD.skyde">
-    <title>Blutige Familienbande</title>
-</programme>
-<programme start="20260604090500 +0000" stop="20260604100000 +0000" channel="Sky Crime HD.skyde">
-    <title>Blutige Familienbande</title>
-</programme>
-<programme start="20260604100000 +0000" stop="20260604104500 +0000" channel="Sky Crime HD.skyde">
-    <title>The Lady Killers</title>
-</programme>
-<programme start="20260604104500 +0000" stop="20260604113500 +0000" channel="Sky Crime HD.skyde">
-    <title>The Lady Killers</title>
-</programme>
-<programme start="20260604113500 +0000" stop="20260604122000 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260604122000 +0000" stop="20260604130500 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260604130500 +0000" stop="20260604133500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260604133500 +0000" stop="20260604140500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260604140500 +0000" stop="20260604143500 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260604143500 +0000" stop="20260604150000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
-</programme>
-<programme start="20260604150000 +0000" stop="20260604155500 +0000" channel="Sky Crime HD.skyde">
-    <title>Blutige Familienbande</title>
-</programme>
-<programme start="20260604155500 +0000" stop="20260604164500 +0000" channel="Sky Crime HD.skyde">
-    <title>Blutige Familienbande</title>
-</programme>
-<programme start="20260604164500 +0000" stop="20260604181500 +0000" channel="Sky Crime HD.skyde">
-    <title>Prosecuting Evil with Kelly Siegler</title>
-</programme>
-<programme start="20260604181500 +0000" stop="20260604190000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260605000000 +0000" stop="20260605004000 +0000" channel="Sky Crime HD.skyde">
     <title>Citizen Detective: Im Auftrag der Toten</title>
 </programme>
-<programme start="20260604190000 +0000" stop="20260604194500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260605004000 +0000" stop="20260605012500 +0000" channel="Sky Crime HD.skyde">
     <title>Citizen Detective: Im Auftrag der Toten</title>
 </programme>
-<programme start="20260604194500 +0000" stop="20260604203000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260605012500 +0000" stop="20260605020500 +0000" channel="Sky Crime HD.skyde">
     <title>Citizen Detective: Im Auftrag der Toten</title>
 </programme>
-<programme start="20260604203000 +0000" stop="20260604210000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
+<programme start="20260605020500 +0000" stop="20260605025000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Lady Killers</title>
 </programme>
-<programme start="20260604210000 +0000" stop="20260604213000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
+<programme start="20260605025000 +0000" stop="20260605035000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Lady Killers</title>
 </programme>
-<programme start="20260604213000 +0000" stop="20260604220000 +0000" channel="Sky Crime HD.skyde">
-    <title>Inside FBI - Die härtesten Fälle</title>
+<programme start="20260605035000 +0000" stop="20260605044000 +0000" channel="Sky Crime HD.skyde">
+    <title>Putins Männer fürs Grobe - Spezialeinheiten in Russland</title>
+</programme>
+<programme start="20260605044000 +0000" stop="20260605060500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260605060500 +0000" stop="20260605070000 +0000" channel="Sky Crime HD.skyde">
+    <title>Tödliches Begehren</title>
+</programme>
+<programme start="20260605070000 +0000" stop="20260605075000 +0000" channel="Sky Crime HD.skyde">
+    <title>Tödliches Begehren</title>
+</programme>
+<programme start="20260605075000 +0000" stop="20260605084500 +0000" channel="Sky Crime HD.skyde">
+    <title>Blutige Familienbande</title>
+</programme>
+<programme start="20260605084500 +0000" stop="20260605093500 +0000" channel="Sky Crime HD.skyde">
+    <title>Blutige Familienbande</title>
+</programme>
+<programme start="20260605093500 +0000" stop="20260605102500 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20260605102500 +0000" stop="20260605111000 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20260605111000 +0000" stop="20260605123500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260605123500 +0000" stop="20260605132500 +0000" channel="Sky Crime HD.skyde">
+    <title>Citizen Detective: Im Auftrag der Toten</title>
+</programme>
+<programme start="20260605132500 +0000" stop="20260605141000 +0000" channel="Sky Crime HD.skyde">
+    <title>Citizen Detective: Im Auftrag der Toten</title>
+</programme>
+<programme start="20260605141000 +0000" stop="20260605145500 +0000" channel="Sky Crime HD.skyde">
+    <title>Citizen Detective: Im Auftrag der Toten</title>
+</programme>
+<programme start="20260605145500 +0000" stop="20260605155000 +0000" channel="Sky Crime HD.skyde">
+    <title>Blutige Familienbande</title>
+</programme>
+<programme start="20260605155000 +0000" stop="20260605164000 +0000" channel="Sky Crime HD.skyde">
+    <title>Blutige Familienbande</title>
+</programme>
+<programme start="20260605164000 +0000" stop="20260605172500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260605172500 +0000" stop="20260605181500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260605181500 +0000" stop="20260605192000 +0000" channel="Sky Crime HD.skyde">
+    <title>Cold Case Investigators</title>
+</programme>
+<programme start="20260605192000 +0000" stop="20260605201000 +0000" channel="Sky Crime HD.skyde">
+    <title>Citizen Detective: Im Auftrag der Toten</title>
+</programme>
+<programme start="20260605201000 +0000" stop="20260605205500 +0000" channel="Sky Crime HD.skyde">
+    <title>Citizen Detective: Im Auftrag der Toten</title>
+</programme>
+<programme start="20260605205500 +0000" stop="20260605214500 +0000" channel="Sky Crime HD.skyde">
+    <title>Citizen Detective: Im Auftrag der Toten</title>
+</programme>
+<programme start="20260605214500 +0000" stop="20260605223500 +0000" channel="Sky Crime HD.skyde">
+    <title>Im Bett mit einem Serienkiller</title>
 </programme>
 <programme start="20260604223500 +0000" stop="20260604231500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Hochsee Cowboys</title>

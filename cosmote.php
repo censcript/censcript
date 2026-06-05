@@ -1,11 +1,3 @@
-<programme start="20260606013000 +0700" stop="20260606023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2025-26 E23</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260606023000 +0700" stop="20260606030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E41</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260606030000 +0700" stop="20260606033000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E35</title>
     <desc>Live: Tidak</desc>
@@ -66,8 +58,8 @@
     <title>Football: Anderlecht - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260606010000 +0700" stop="20260606030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Athens Kallithea FC - OFI</title>
+<programme start="20260607030000 +0700" stop="20260607040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260606030000 +0700" stop="20260606050000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,6 +108,10 @@
 </programme>
 <programme start="20260607010000 +0700" stop="20260607031000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Asteras Aktor - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260607031000 +0700" stop="20260607051500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260606020000 +0700" stop="20260606043000 +0700" channel="COSMOTE Sport 3 HD">
@@ -228,10 +224,6 @@
 </programme>
 <programme start="20260607013000 +0700" stop="20260607043000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: San Antonio Spurs - New York Knicks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260606014000 +0700" stop="20260606024000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260606024000 +0700" stop="20260606035000 +0700" channel="COSMOTE Sport 5 HD">
@@ -402,10 +394,6 @@
     <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260606020000 +0700" stop="20260606030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260606030000 +0700" stop="20260606040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -458,8 +446,8 @@
     <title>Basketball: Reyer Venezia - Virtus Bologna (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260606020000 +0700" stop="20260606030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260607030000 +0700" stop="20260607040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260606030000 +0700" stop="20260606040000 +0700" channel="COSMOTE Sport 8 HD">
@@ -522,10 +510,6 @@
     <title>Fight Sports: Oktagon 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260606010000 +0700" stop="20260606030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Basketball: Armani Milano - Brescia (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260606030000 +0700" stop="20260606040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -585,5 +569,9 @@
 <programme start="20260607020000 +0700" stop="20260607030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260607030000 +0700" stop="20260607050500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>World Athletics Continental Tour Gold 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
