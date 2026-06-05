@@ -9355,7 +9355,45 @@
 <programme start="20260606163000 +0000" stop="20260605170000 +0000" channel="tvN HD.mncvision">
     <title>Undercover Chef: Korea, Ep 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260605175000 +0000" stop="20260605194500 +0000" channel="tvN Movies.mncvision">
+    <title>The Bad Guys: Reign Of Chaos</title>
+</programme>
+<programme start="20260605194500 +0000" stop="20260605213500 +0000" channel="tvN Movies.mncvision">
+    <title>Hear Me: Our Summer</title>
+</programme>
+<programme start="20260605213500 +0000" stop="20260605230500 +0000" channel="tvN Movies.mncvision">
+    <title>Drive</title>
+</programme>
+<programme start="20260605230500 +0000" stop="20260606003500 +0000" channel="tvN Movies.mncvision">
+    <title>Sisters On The Road</title>
+</programme>
+<programme start="20260606003500 +0000" stop="20260606021000 +0000" channel="tvN Movies.mncvision">
+    <title>You Will Die In 6 Hours</title>
+</programme>
+<programme start="20260606021000 +0000" stop="20260606042000 +0000" channel="tvN Movies.mncvision">
+    <title>Confidential Assignment 2</title>
+</programme>
+<programme start="20260606042000 +0000" stop="20260606063500 +0000" channel="tvN Movies.mncvision">
+    <title>Steel Rain: Summit</title>
+</programme>
+<programme start="20260606063500 +0000" stop="20260606084500 +0000" channel="tvN Movies.mncvision">
+    <title>The Unfair</title>
+</programme>
+<programme start="20260606084500 +0000" stop="20260606104000 +0000" channel="tvN Movies.mncvision">
+    <title>Pilot</title>
+</programme>
+<programme start="20260606104000 +0000" stop="20260606122500 +0000" channel="tvN Movies.mncvision">
+    <title>Okay! Madam</title>
+</programme>
+<programme start="20260606122500 +0000" stop="20260606140000 +0000" channel="tvN Movies.mncvision">
+    <title>Holy Night: Demon Hunters</title>
+</programme>
+<programme start="20260606140000 +0000" stop="20260606153000 +0000" channel="tvN Movies.mncvision">
+    <title>The Way Home</title>
+</programme>
+<programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="tvN Movies.mncvision">
+    <title>Veteran</title>
+</programme>
 <programme start="20260605175000 +0000" stop="20260605194500 +0000" channel="tvN Movies HD.mncvision">
     <title>The Bad Guys: Reign Of Chaos</title>
 </programme>
