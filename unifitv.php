@@ -12568,10 +12568,8 @@
   </programme>
   <programme start="20260604193300 +0000" stop="20260604200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">The Nobel Peace Prize laureate and former Colombian president discusses Colombia's peace process, global conflict and the future of diplomacy.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.474.</episode-num>
-    <episode-num system="onscreen">S1E475</episode-num>
   </programme>
   <programme start="20260604200300 +0000" stop="20260604203300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12632,7 +12630,7 @@
   </programme>
   <programme start="20260605033300 +0000" stop="20260605040300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">China opens its markets to African exports, but who stands to gain the most?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.34.</episode-num>
     <episode-num system="onscreen">S1E35</episode-num>
@@ -12665,7 +12663,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260605063300 +0000" stop="20260605070300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Population Bust : To Live and Die In An Ageing World</title>
+    <title lang="en">The Population Bust : Living In An Ageing World</title>
     <desc lang="en">Japan's population is ageing and plummeting what is the impact are the consequences of a world where age outpaces birth.</desc>
     <category lang="en">News</category>
   </programme>
