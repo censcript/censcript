@@ -13791,7 +13791,7 @@
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
   </programme>
-  <programme start="20260604160000 +0000" stop="20260604160000 +0000" channel="parlimenmalaysia.unifitv">
+  <programme start="20260604160000 +0000" stop="20260605040000 +0000" channel="parlimenmalaysia.unifitv">
     <title lang="en">Siaran Tamat</title>
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
@@ -13801,7 +13801,7 @@
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
   </programme>
-  <programme start="20260605160000 +0000" stop="20260605160000 +0000" channel="parlimenmalaysia.unifitv">
+  <programme start="20260605160000 +0000" stop="20260606040000 +0000" channel="parlimenmalaysia.unifitv">
     <title lang="en">Siaran Tamat</title>
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>

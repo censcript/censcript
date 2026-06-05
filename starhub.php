@@ -2003,46 +2003,46 @@
         <title>Best of RG 2026: Women&#039;s Singles SF 2</title>
     </programme>
     <programme start="20260604233000 +0000" stop="20260605013000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Mixed Doubles Final</title>
+        <title>Best of RG 2026: Mixed Doubles Final Errani/Vavassori/ v Dabrowski/King</title>
     </programme>
     <programme start="20260605013000 +0000" stop="20260605023000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 12</title>
     </programme>
     <programme start="20260605023000 +0000" stop="20260605043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Women&#039;s Singles SF 1</title>
+        <title>Best of RG 2026: Women&#039;s Singles SF 1 Andreeva v Kostyuk</title>
     </programme>
     <programme start="20260605043000 +0000" stop="20260605063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Women&#039;s Singles SF 2</title>
+        <title>Best of RG 2026: Women&#039;s Singles SF 2 Shnaider v Chwalinska</title>
     </programme>
     <programme start="20260605063000 +0000" stop="20260605073000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 12</title>
     </programme>
     <programme start="20260605073000 +0000" stop="20260605091500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Day 11 Match 4</title>
+        <title>Best of RG 2026: Day 11 Men&#039;s Singles QF Berrettini v Arnaldi</title>
     </programme>
     <programme start="20260605091500 +0000" stop="20260605094000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Match 1 Pool Stage, Bordeaux - Women (Live)</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Canada vs Spain - Pool Stage, Bordeaux - Women (Li</title>
     </programme>
     <programme start="20260605094000 +0000" stop="20260605100200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Match 2 Pool Stage, Bordeaux - Women (Live)</title>
+        <title>HSBC SVNS World C&#039;ships 2026: USA vs Great Britain - Pool Stage, Bordeaux - Wome</title>
     </programme>
     <programme start="20260605100200 +0000" stop="20260605102400 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Match 3 Pool Stage, Bordeaux - Women (Live)</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Japan vs Fiji - Pool Stage, Bordeaux - Women (Live</title>
     </programme>
     <programme start="20260605102400 +0000" stop="20260605104600 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Match 4 Pool Stage, Bordeaux - Women (Live)</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Australia vs Brazil - Pool Stage, Bordeaux - Women</title>
     </programme>
     <programme start="20260605104600 +0000" stop="20260605110800 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Match 5 Pool Stage, Bordeaux - Women (Live)</title>
+        <title>HSBC SVNS World C&#039;ships 2026: France vs South Africa - Pool Stage, Bordeaux - Wo</title>
     </programme>
     <programme start="20260605110800 +0000" stop="20260605114000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Match 6 Pool Stage, Bordeaux - Women (Live)</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Argentina - Pool Stage, Bordeaux -</title>
     </programme>
     <programme start="20260605114000 +0000" stop="20260605121500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Roland Garros 2026</title>
+        <title>Mini Match - Roland Garros 2026: Men&#039;s Singles QF Mensik v Fonseca</title>
     </programme>
     <programme start="20260605121500 +0000" stop="20260605154500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros 2026: Men&#039;s Singles SF 1 (Live)</title>
+        <title>Roland Garros 2026: Men&#039;s Singles SF 1 Zverev v Mensik (Live)</title>
     </programme>
     <programme start="20260605154500 +0000" stop="20260605164500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>In the Shadows of Giants</title>
@@ -2510,28 +2510,28 @@
         <title>Thulasi</title>
     </programme>
     <programme start="20260605050000 +0000" stop="20260605053000 +0000" channel="Sun TV.starhub">
-        <title>Vinodhini</title>
+        <title>VINODHINI</title>
     </programme>
     <programme start="20260605053000 +0000" stop="20260605060000 +0000" channel="Sun TV.starhub">
-        <title>Puthu Vasantham</title>
+        <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20260605060000 +0000" stop="20260605063000 +0000" channel="Sun TV.starhub">
-        <title>Lakshmi</title>
+        <title>LAKSHMI</title>
     </programme>
     <programme start="20260605063000 +0000" stop="20260605070000 +0000" channel="Sun TV.starhub">
-        <title>Iru Malargal</title>
+        <title>IRU MALARGAL</title>
     </programme>
     <programme start="20260605070000 +0000" stop="20260605073000 +0000" channel="Sun TV.starhub">
-        <title>Aadukalam</title>
+        <title>AADUKALAM</title>
     </programme>
     <programme start="20260605073000 +0000" stop="20260605080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - Chathrapathi</title>
+        <title>Movie- CHATHRAPATHI</title>
     </programme>
     <programme start="20260605080000 +0000" stop="20260605083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260605083000 +0000" stop="20260605103000 +0000" channel="Sun TV.starhub">
-        <title>Movie Contd - Chathrapathi</title>
+        <title>Movie contd - CHATHRAPATHI</title>
     </programme>
     <programme start="20260605103000 +0000" stop="20260605110000 +0000" channel="Sun TV.starhub">
         <title>Chellame Chellame</title>
@@ -2555,13 +2555,13 @@
         <title>Singapenne</title>
     </programme>
     <programme start="20260605143000 +0000" stop="20260605150000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneechal Thodargiradhu</title>
+        <title>ETHIRNEECHAL THODARGIRADHU</title>
     </programme>
     <programme start="20260605150000 +0000" stop="20260605153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
     <programme start="20260605153000 +0000" stop="20260605160000 +0000" channel="Sun TV.starhub">
-        <title>Iru Malargal</title>
+        <title>IRU MALARGAL</title>
     </programme>
     <programme start="20260604160000 +0000" stop="20260604163000 +0000" channel="Zee Tamil.starhub">
         <title>Veera</title>
@@ -3631,8 +3631,17 @@
     <programme start="20260604230000 +0000" stop="20260604231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 50</title>
     </programme>
-    <programme start="20260604231500 +0000" stop="20260605005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260604231500 +0000" stop="20260605000000 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
+    </programme>
+    <programme start="20260605000000 +0000" stop="20260605003000 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Great Nature &quot;Africa&quot;</title>
+    </programme>
+    <programme start="20260605003000 +0000" stop="20260605004500 +0000" channel="NHK World Premium HD.starhub">
+        <title>RAMEN JAPAN 15min.</title>
+    </programme>
+    <programme start="20260605004500 +0000" stop="20260605005400 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260605005400 +0000" stop="20260605005500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3641,7 +3650,7 @@
         <title>Exercise for Everyone</title>
     </programme>
     <programme start="20260605010000 +0000" stop="20260605010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Ultra Heavy Machinery 5min.</title>
     </programme>
     <programme start="20260605010500 +0000" stop="20260605015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Saturday Drama &quot;The Three Stars of Mushoran&quot; Ep. 2 (R)</title>
@@ -3676,11 +3685,17 @@
     <programme start="20260605034500 +0000" stop="20260605040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 50 (R)</title>
     </programme>
-    <programme start="20260605040000 +0000" stop="20260605040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20260605040000 +0000" stop="20260605045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20260605040500 +0000" stop="20260605055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
+    <programme start="20260605045500 +0000" stop="20260605052000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kyoto&#039;s Finest Goods Travelogue</title>
+    </programme>
+    <programme start="20260605052000 +0000" stop="20260605054700 +0000" channel="NHK World Premium HD.starhub">
+        <title>JAPAN DELISH</title>
+    </programme>
+    <programme start="20260605054700 +0000" stop="20260605055000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260605055000 +0000" stop="20260605055500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3689,13 +3704,13 @@
         <title>World Music Album</title>
     </programme>
     <programme start="20260605060000 +0000" stop="20260605061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Life Force 10min.</title>
     </programme>
     <programme start="20260605061000 +0000" stop="20260605062500 +0000" channel="NHK World Premium HD.starhub">
         <title>Health for Today (R)</title>
     </programme>
     <programme start="20260605062500 +0000" stop="20260605064000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Midnight Taxi&quot; (R)</title>
+        <title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 4 (R)</title>
     </programme>
     <programme start="20260605064000 +0000" stop="20260605065000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mimicries--Natural Science for Kids</title>
@@ -6716,7 +6731,7 @@
         <title>24-Hr Nurburgring Highlights 2026</title>
     </programme>
     <programme start="20260605112500 +0000" stop="20260605123000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Practice 1 (Live)</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Pract</title>
     </programme>
     <programme start="20260605123000 +0000" stop="20260605123800 +0000" channel="beIN Sports HD.starhub">
         <title>Thierno Barry</title>
@@ -6734,7 +6749,7 @@
         <title>Fastzone 2026</title>
     </programme>
     <programme start="20260605145500 +0000" stop="20260605160000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Practice 2 (Live)</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 Pract</title>
     </programme>
     <programme start="20260604152000 +0000" stop="20260604161500 +0000" channel="TestChannel2.starhub">
         <title>Golden City (Ep 851-900) VVD Mandarin</title>

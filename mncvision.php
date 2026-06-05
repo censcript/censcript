@@ -1426,6 +1426,9 @@
 <programme start="20260605160000 +0000" stop="20260605163000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
 </programme>
+<programme start="20260605163000 +0000" stop="20260604170000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2026: Italy (L)</title>
+</programme>
 <programme start="20260604180000 +0000" stop="20260604193000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
 </programme>
@@ -1487,6 +1490,9 @@
     <title>Roland Garros 2026: Day 13 (L)</title>
 </programme>
 <programme start="20260605160000 +0000" stop="20260605163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2026: Italy (L)</title>
+</programme>
+<programme start="20260605163000 +0000" stop="20260604170000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
 </programme>
 <programme start="20260604170000 +0000" stop="20260604190000 +0000" channel="beIN SPORTS 4.mncvision">
@@ -9148,43 +9154,46 @@
 <programme start="20260604233000 +0000" stop="20260605003000 +0000" channel="Trans TV.mncvision">
     <title>Insert Pagi (L)</title>
 </programme>
-<programme start="20260605003000 +0000" stop="20260605013000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia Good Morning</title>
+<programme start="20260605003000 +0000" stop="20260605020000 +0000" channel="Trans TV.mncvision">
+    <title>Kajian Hati</title>
 </programme>
-<programme start="20260605013000 +0000" stop="20260605033000 +0000" channel="Trans TV.mncvision">
-    <title>Pagi-Pagi Ambyar</title>
+<programme start="20260605020000 +0000" stop="20260605033000 +0000" channel="Trans TV.mncvision">
+    <title>Ambyar In Weekend</title>
 </programme>
-<programme start="20260605033000 +0000" stop="20260605053000 +0000" channel="Trans TV.mncvision">
+<programme start="20260605033000 +0000" stop="20260605043000 +0000" channel="Trans TV.mncvision">
     <title>Insert Siang</title>
 </programme>
-<programme start="20260605053000 +0000" stop="20260605070000 +0000" channel="Trans TV.mncvision">
-    <title>Brownis (Obrowlan Manis)</title>
+<programme start="20260605043000 +0000" stop="20260605053000 +0000" channel="Trans TV.mncvision">
+    <title>Spill DD Tea</title>
+</programme>
+<programme start="20260605053000 +0000" stop="20260605063000 +0000" channel="Trans TV.mncvision">
+    <title>Brownis On The Weekend</title>
+</programme>
+<programme start="20260605063000 +0000" stop="20260605070000 +0000" channel="Trans TV.mncvision">
+    <title>Masak Anti Ribet</title>
 </programme>
 <programme start="20260605070000 +0000" stop="20260605080000 +0000" channel="Trans TV.mncvision">
-    <title>Rumpi: No Secret</title>
+    <title>Rumpi Hot Of The Week</title>
 </programme>
 <programme start="20260605080000 +0000" stop="20260605090000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Today</title>
+    <title>Insert Investigasi</title>
 </programme>
-<programme start="20260605090000 +0000" stop="20260605093000 +0000" channel="Trans TV.mncvision">
-    <title>CNN Indonesia News Update</title>
+<programme start="20260605090000 +0000" stop="20260605100000 +0000" channel="Trans TV.mncvision">
+    <title>Sehari Jadi Ratu</title>
 </programme>
-<programme start="20260605093000 +0000" stop="20260605103000 +0000" channel="Trans TV.mncvision">
-    <title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260605103000 +0000" stop="20260605114500 +0000" channel="Trans TV.mncvision">
+<programme start="20260605100000 +0000" stop="20260605110000 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
 </programme>
-<programme start="20260605114500 +0000" stop="20260605130000 +0000" channel="Trans TV.mncvision">
+<programme start="20260605110000 +0000" stop="20260605121500 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260605130000 +0000" stop="20260605140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
+<programme start="20260605121500 +0000" stop="20260605131500 +0000" channel="Trans TV.mncvision">
+    <title>Monitor Ketua</title>
 </programme>
-<programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
+<programme start="20260605131500 +0000" stop="20260605151500 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Spesial Trans TV</title>
 </programme>
-<programme start="20260605160000 +0000" stop="20260605163000 +0000" channel="Trans TV.mncvision">
+<programme start="20260605151500 +0000" stop="20260605154500 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260604175500 +0000" stop="20260604191000 +0000" channel="tvN.mncvision">
