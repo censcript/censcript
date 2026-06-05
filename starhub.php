@@ -1769,7 +1769,7 @@
         <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Mali vs Tunisia</title>
     </programme>
     <programme start="20260604203000 +0000" stop="20260604210000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Morocco vs Tanzania</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Morocco vs Tanza</title>
     </programme>
     <programme start="20260604210000 +0000" stop="20260604213000 +0000" channel="beIN Sports 3.starhub">
         <title>Analysis II</title>
@@ -1790,7 +1790,7 @@
         <title>ONE Weekly 2026</title>
     </programme>
     <programme start="20260605040000 +0000" stop="20260605043000 +0000" channel="beIN Sports 3.starhub">
-        <title>Road to Americas</title>
+        <title>Road to Americas Ep 4</title>
     </programme>
     <programme start="20260605043000 +0000" stop="20260605053000 +0000" channel="beIN Sports 3.starhub">
         <title>Final</title>
@@ -7768,7 +7768,7 @@
     <programme start="20260605103000 +0000" stop="20260605133000 +0000" channel="Asianet Movies.starhub">
         <title>Parava</title>
     </programme>
-    <programme start="20260605133000 +0000" stop="20260605183000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260605133000 +0000" stop="20260605163000 +0000" channel="Asianet Movies.starhub">
         <title>Narivetta</title>
     </programme>
     <programme start="20260604160000 +0000" stop="20260604170000 +0000" channel="Astro Warna HD.starhub">

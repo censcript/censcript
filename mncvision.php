@@ -4900,13 +4900,16 @@
 <programme start="20260605053000 +0000" stop="20260605063000 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260605063000 +0000" stop="20260605150000 +0000" channel="iNews.mncvision">
+<programme start="20260605063000 +0000" stop="20260605103000 +0000" channel="iNews.mncvision">
     <title>Polytron Indonesia Open &#039;26 (L)</title>
 </programme>
-<programme start="20260605150000 +0000" stop="20260605164500 +0000" channel="iNews.mncvision">
+<programme start="20260605103000 +0000" stop="20260605143000 +0000" channel="iNews.mncvision">
+    <title>Polytron Indonesia Open &#039;26 (L)</title>
+</programme>
+<programme start="20260605143000 +0000" stop="20260605154500 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260605164500 +0000" stop="20260604171500 +0000" channel="iNews.mncvision">
+<programme start="20260605154500 +0000" stop="20260605161500 +0000" channel="iNews.mncvision">
     <title>UEFA: GEO Vs BHR (L)</title>
 </programme>
 <programme start="20260604170000 +0000" stop="20260604173000 +0000" channel="iNews HD.mncvision">
@@ -4951,13 +4954,16 @@
 <programme start="20260605053000 +0000" stop="20260605063000 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260605063000 +0000" stop="20260605150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260605063000 +0000" stop="20260605103000 +0000" channel="iNews HD.mncvision">
     <title>Polytron Indonesia Open &#039;26 (L)</title>
 </programme>
-<programme start="20260605150000 +0000" stop="20260605164500 +0000" channel="iNews HD.mncvision">
+<programme start="20260605103000 +0000" stop="20260605143000 +0000" channel="iNews HD.mncvision">
+    <title>Polytron Indonesia Open &#039;26 (L)</title>
+</programme>
+<programme start="20260605143000 +0000" stop="20260605154500 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260605164500 +0000" stop="20260604171500 +0000" channel="iNews HD.mncvision">
+<programme start="20260605154500 +0000" stop="20260605161500 +0000" channel="iNews HD.mncvision">
     <title>UEFA: GEO Vs BHR (L)</title>
 </programme>
 <programme start="20260604220000 +0000" stop="20260604223000 +0000" channel="JAKTV.mncvision">

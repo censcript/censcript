@@ -217,43 +217,55 @@
 <programme start="20260605053000 +0000" stop="20260605063000 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
 </programme>
-<programme start="20260605063000 +0000" stop="20260605150000 +0000" channel="iNews.vision">
+<programme start="20260605063000 +0000" stop="20260605103000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260605150000 +0000" stop="20260605154500 +0000" channel="iNews.vision">
+<programme start="20260605103000 +0000" stop="20260605143000 +0000" channel="iNews.vision">
+<title>iNews</title>
+</programme>
+<programme start="20260605143000 +0000" stop="20260605154500 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
 </programme>
 <programme start="20260605154500 +0000" stop="20260605180000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260605180000 +0000" stop="20260605210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260605180000 +0000" stop="20260605190000 +0000" channel="iNews.vision">
+<title>Breaking News</title>
+</programme>
+<programme start="20260605190000 +0000" stop="20260605194500 +0000" channel="iNews.vision">
+<title>Special Report</title>
+</programme>
+<programme start="20260605194500 +0000" stop="20260605210000 +0000" channel="iNews.vision">
+<title>Breaking News</title>
 </programme>
 <programme start="20260605210000 +0000" stop="20260605211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Breaking News</title>
 </programme>
 <programme start="20260605211500 +0000" stop="20260605230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Pagi (Live)</title>
 </programme>
 <programme start="20260605230000 +0000" stop="20260605230200 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20260605230200 +0000" stop="20260606000000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
 <programme start="20260606000000 +0000" stop="20260606003000 +0000" channel="iNews.vision">
+<title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260606003000 +0000" stop="20260606022000 +0000" channel="iNews.vision">
+<title>Breaking News (L)</title>
+</programme>
+<programme start="20260606022000 +0000" stop="20260606032000 +0000" channel="iNews.vision">
+<title>iNews Files</title>
+</programme>
+<programme start="20260606032000 +0000" stop="20260606045000 +0000" channel="iNews.vision">
+<title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20260606045000 +0000" stop="20260606095500 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260606003000 +0000" stop="20260606023000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260606023000 +0000" stop="20260606033000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260606033000 +0000" stop="20260606050000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260606050000 +0000" stop="20260606153000 +0000" channel="iNews.vision">
+<programme start="20260606095500 +0000" stop="20260606150000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260605000000 +0000" stop="20260605003000 +0000" channel="SindoNews.vision">
@@ -1484,17 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260606030000 +0000" stop="20260606050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260606050000 +0000" stop="20260606070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260606070000 +0000" stop="20260606090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260606090000 +0000" stop="20260606110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260606110000 +0000" stop="20260606130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
