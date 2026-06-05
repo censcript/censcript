@@ -16150,16 +16150,16 @@
   <programme start="20260606213000 +0000" stop="20260606220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260606220300 +0000" stop="20260606224800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260606220300 +0000" stop="20260606224700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Co ludzie powiedza? (38)</title>
   </programme>
-  <programme start="20260606224800 +0000" stop="20260606225700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260606224700 +0000" stop="20260606225600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260606225700 +0000" stop="20260606231500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260606225600 +0000" stop="20260606231400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260606231500 +0000" stop="20260606233800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260606231400 +0000" stop="20260606233800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (706)</title>
   </programme>
   <programme start="20260606233800 +0000" stop="20260606235600 +0000" channel="TVP Info.webtv.sk">
@@ -16171,11 +16171,11 @@
   <programme start="20260607002500 +0000" stop="20260607005200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260607005200 +0000" stop="20260607005800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607005200 +0000" stop="20260607010200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260607005800 +0000" stop="20260607013100 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Kod bezpieczenstwa (40)</title>
+  <programme start="20260607010200 +0000" stop="20260607013100 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Kiedys to było... (115)</title>
   </programme>
   <programme start="20260607013100 +0000" stop="20260607014900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Reportaz TVP INFO (685)</title>
@@ -16198,31 +16198,31 @@
   <programme start="20260607040000 +0000" stop="20260607040500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260607040500 +0000" stop="20260607041300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607040500 +0000" stop="20260607041200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260607041300 +0000" stop="20260607041500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607041200 +0000" stop="20260607041400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260607041500 +0000" stop="20260607043000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607041400 +0000" stop="20260607043000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260607043000 +0000" stop="20260607043300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607043000 +0000" stop="20260607043500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260607043300 +0000" stop="20260607043900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607043500 +0000" stop="20260607044000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260607043900 +0000" stop="20260607044100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607044000 +0000" stop="20260607044200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260607044100 +0000" stop="20260607050000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607044200 +0000" stop="20260607050000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260607050000 +0000" stop="20260607050600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607050000 +0000" stop="20260607050500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260607050600 +0000" stop="20260607051500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607050500 +0000" stop="20260607051500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polska o Poranku</title>
   </programme>
   <programme start="20260607051500 +0000" stop="20260607051700 +0000" channel="TVP Info.webtv.sk">
@@ -16231,31 +16231,31 @@
   <programme start="20260607051700 +0000" stop="20260607053000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polska o Poranku</title>
   </programme>
-  <programme start="20260607053000 +0000" stop="20260607053500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607053000 +0000" stop="20260607053600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260607053500 +0000" stop="20260607054400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607053600 +0000" stop="20260607054500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polska o Poranku</title>
   </programme>
-  <programme start="20260607054400 +0000" stop="20260607054600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607054500 +0000" stop="20260607054700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260607054600 +0000" stop="20260607060000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607054700 +0000" stop="20260607060000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polska o Poranku</title>
   </programme>
   <programme start="20260607060000 +0000" stop="20260607061900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260607061900 +0000" stop="20260607062800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607061900 +0000" stop="20260607062700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260607062800 +0000" stop="20260607063000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607062700 +0000" stop="20260607063000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260607063000 +0000" stop="20260607063300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607063000 +0000" stop="20260607063500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260607063300 +0000" stop="20260607063800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607063500 +0000" stop="20260607063800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
   <programme start="20260607063800 +0000" stop="20260607070000 +0000" channel="TVP Info.webtv.sk">
@@ -16366,7 +16366,7 @@
   <programme start="20260607203200 +0000" stop="20260607213000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Woronicza 17 (653)</title>
   </programme>
-  <programme start="20260607213000 +0000" stop="20260607220400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260607213000 +0000" stop="20260607220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
   <programme start="20260606214500 +0000" stop="20260606224000 +0000" channel="TVP Polonia.webtv.sk">

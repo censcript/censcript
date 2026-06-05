@@ -436,7 +436,7 @@
 <programme start="20260606020000 +0000" stop="20260606033000 +0000" channel="Trans TV.vision">
 <title>Ambyar In Weekend</title>
 </programme>
-<programme start="20260606033000 +0000" stop="20260606053000 +0000" channel="Trans TV.vision">
+<programme start="20260606033000 +0000" stop="20260606043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
 <programme start="20260606043000 +0000" stop="20260606053000 +0000" channel="Trans TV.vision">
@@ -460,7 +460,7 @@
 <programme start="20260606100000 +0000" stop="20260606110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260606114500 +0000" stop="20260606130000 +0000" channel="Trans TV.vision">
+<programme start="20260606110000 +0000" stop="20260606121500 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
 <programme start="20260604233000 +0000" stop="20260605003000 +0000" channel="Trans 7.vision">
@@ -609,12 +609,6 @@
 </programme>
 <programme start="20260605090000 +0000" stop="20260605113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260605113000 +0000" stop="20260605133000 +0000" channel="ANTV.vision">
-<title>Kelabang Seribu</title>
-</programme>
-<programme start="20260605133000 +0000" stop="20260605153000 +0000" channel="ANTV.vision">
-<title>Bebas Aturan Main</title>
 </programme>
 <programme start="20260605153000 +0000" stop="20260605173000 +0000" channel="ANTV.vision">
 <title>Sabrina</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260606010000 +0000" stop="20260606030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260606030000 +0000" stop="20260606050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260606050000 +0000" stop="20260606070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
