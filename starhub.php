@@ -6674,22 +6674,22 @@
         <title>Javi Puado</title>
     </programme>
     <programme start="20260605172500 +0000" stop="20260605175000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Spain vs Uruguay - Pool Stage, Bordeaux - Me</title>
+        <title>HSBC SVNS World Championships 2026: Spain vs Uruguay - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260605175000 +0000" stop="20260605181200 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs USA - Pool Stage, Bordeaux - Me</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs USA - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260605181200 +0000" stop="20260605183400 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Fiji vs Great Britain - Pool Stage, Bordeaux</title>
+        <title>HSBC SVNS World Championships 2026: Fiji vs Great Britain - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260605183400 +0000" stop="20260605185600 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Kenya - Pool Stage, Bordeaux</title>
+        <title>HSBC SVNS World Championships 2026: South Africa vs Kenya - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260605185600 +0000" stop="20260605191800 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: New Zealand vs Germany - Pool Stage, Bordeau</title>
+        <title>HSBC SVNS World Championships 2026: New Zealand vs Germany - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260605191800 +0000" stop="20260605195000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Argentina vs France - Pool Stage, Bordeaux -</title>
+        <title>HSBC SVNS World Championships 2026: Argentina vs France - Pool Stage, Bordeaux - Men (Live)</title>
     </programme>
     <programme start="20260605195000 +0000" stop="20260605202000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2026</title>
@@ -6698,28 +6698,28 @@
         <title>HSBC SVNS World Championships 2026: Spain vs USA - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260605204500 +0000" stop="20260605211000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs Uruguay - Pool Stage, Bordeaux</title>
+        <title>HSBC SVNS World Championships 2026: Australia vs Uruguay - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260605211000 +0000" stop="20260605213500 +0000" channel="beIN Sports HD.starhub">
         <title>HSBC SVNS World Championships 2026: Fiji vs Kenya - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260605213500 +0000" stop="20260605220000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Great Britain - Pool Stage,</title>
+        <title>HSBC SVNS World Championships 2026: South Africa vs Great Britain - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260605220000 +0000" stop="20260605222500 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: New Zealand vs France - Pool Stage, Bordeaux</title>
+        <title>HSBC SVNS World Championships 2026: New Zealand vs France - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260605222500 +0000" stop="20260605225000 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Argentina vs Germany - Pool Stage, Bordeaux</title>
+        <title>HSBC SVNS World Championships 2026: Argentina vs Germany - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260605225000 +0000" stop="20260605231500 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Canada vs Great Britain - Pool Stage, Bordea</title>
+        <title>HSBC SVNS World Championships 2026: Canada vs Great Britain - Pool Stage, Bordeaux - Women</title>
     </programme>
     <programme start="20260605231500 +0000" stop="20260605234000 +0000" channel="beIN Sports HD.starhub">
         <title>HSBC SVNS World Championships 2026: USA vs Spain - Pool Stage, Bordeaux - Women</title>
     </programme>
     <programme start="20260605234000 +0000" stop="20260606000500 +0000" channel="beIN Sports HD.starhub">
-        <title>HSBC SVNS World Championships 2026: Japan vs Brazil - Pool Stage, Bordeaux - Wom</title>
+        <title>HSBC SVNS World Championships 2026: Japan vs Brazil - Pool Stage, Bordeaux - Women</title>
     </programme>
     <programme start="20260606000500 +0000" stop="20260606003000 +0000" channel="beIN Sports HD.starhub">
         <title>HSBC SVNS World Championships 2026: Australia vs Fiji - Pool Stage, Bordeaux - W</title>
