@@ -589,9 +589,6 @@
 <programme start="20260606010000 +0000" stop="20260606023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
 </programme>
-<programme start="20260606023000 +0000" stop="20260606060000 +0000" channel="ANTV.vision">
-<title>Bhediya</title>
-</programme>
 <programme start="20260606060000 +0000" stop="20260606073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="DAAI TV.vision">
 <title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
 </programme>

@@ -1751,52 +1751,55 @@
         <title>UEL Final</title>
     </programme>
     <programme start="20260606072500 +0000" stop="20260606075500 +0000" channel="beIN Sports 3.starhub">
-        <title>Racing On The Edge S6</title>
+        <title>Episode Number 2</title>
     </programme>
     <programme start="20260606075500 +0000" stop="20260606082000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: USA vs Uruguay - Pool Stage, Bordeaux - Men (Live)</title>
+        <title>USA vs Uruguay - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260606082000 +0000" stop="20260606084200 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Australia vs Spain - Pool Stage, Bordeaux - Men (Live)</title>
+        <title>Australia vs Spain - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260606084200 +0000" stop="20260606090400 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Kenya vs Great Britain - Pool Stage, Bordeaux - Men (Live)</title>
+        <title>Kenya vs Great Britain - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260606090400 +0000" stop="20260606092600 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: South Africa vs Fiji - Pool Stage, Bordeaux - Men (Live)</title>
+        <title>South Africa vs Fiji - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260606092600 +0000" stop="20260606094800 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Argentina vs New Zealand - Pool Stage, Bordeaux - Men (Live)</title>
+        <title>Argentina vs New Zealand - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260606094800 +0000" stop="20260606101500 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: France vs Germany - Pool Stage, Bordeaux - Men (Live)</title>
+        <title>France vs Germany - Pool Stage, Bordeaux - Men</title>
     </programme>
     <programme start="20260606101500 +0000" stop="20260606104500 +0000" channel="beIN Sports 3.starhub">
         <title>Documentary</title>
     </programme>
     <programme start="20260606104500 +0000" stop="20260606110800 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Spain vs Great Britain - Pool Stage, Bordeaux - Women (Live)</title>
+        <title>Spain vs Great Britain - Pool Stage, Bordeaux - Women</title>
     </programme>
-    <programme start="20260606110800 +0000" stop="20260606113000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: USA vs Canada - Pool Stage, Bordeaux - Women (Live)</title>
+    <programme start="20260606110800 +0000" stop="20260606123000 +0000" channel="beIN Sports 3.starhub">
+        <title>Italy Major Day 5 SF1 - Women</title>
     </programme>
-    <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Fiji vs Brazil - Pool Stage, Bordeaux - Women (Live)</title>
+    <programme start="20260606123000 +0000" stop="20260606140000 +0000" channel="beIN Sports 3.starhub">
+        <title>Italy Major Day 5 SF1 - Men</title>
     </programme>
-    <programme start="20260606120000 +0000" stop="20260606133000 +0000" channel="beIN Sports 3.starhub">
-        <title>Premier Padel 2026: Italy Major Day 5 SF1 - Women (Live)</title>
+    <programme start="20260606140000 +0000" stop="20260606141100 +0000" channel="beIN Sports 3.starhub">
+        <title>Barcelona vs Shakhtar (2010/11)</title>
     </programme>
-    <programme start="20260606133000 +0000" stop="20260606150000 +0000" channel="beIN Sports 3.starhub">
-        <title>Premier Padel 2026: Italy Major Day 5 SF1 - Men (Live)</title>
+    <programme start="20260606141100 +0000" stop="20260606143400 +0000" channel="beIN Sports 3.starhub">
+        <title>Cup QF 3, Bordeaux - Men</title>
+    </programme>
+    <programme start="20260606143400 +0000" stop="20260606150000 +0000" channel="beIN Sports 3.starhub">
+        <title>Cup QF 4, Bordeaux - Men</title>
     </programme>
     <programme start="20260606150000 +0000" stop="20260606152500 +0000" channel="beIN Sports 3.starhub">
         <title>UCL Every Goal - Karim Benzema</title>
     </programme>
     <programme start="20260606152500 +0000" stop="20260606154800 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Cup QF 1, Bordeaux - Women (Live)</title>
+        <title>Cup QF 1, Bordeaux - Women</title>
     </programme>
     <programme start="20260606154800 +0000" stop="20260606161000 +0000" channel="beIN Sports 3.starhub">
-        <title>HSBC SVNS World Championships 2026: Cup QF 2, Bordeaux - Women (Live)</title>
+        <title>Cup QF 2, Bordeaux - Women</title>
     </programme>
     <programme start="20260605153000 +0000" stop="20260605163000 +0000" channel="Sun Music.starhub">
         <title>Non Stop Hits</title>
@@ -1951,11 +1954,14 @@
     <programme start="20260606150000 +0000" stop="20260606160000 +0000" channel="CNN HD.starhub">
         <title>Saturday, June 6, 2026 11AM</title>
     </programme>
-    <programme start="20260605160000 +0000" stop="20260605200000 +0000" channel="KTV HD.starhub">
+    <programme start="20260605160000 +0000" stop="20260605170000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
+    <programme start="20260605170000 +0000" stop="20260605200000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Brindhaavanam</title>
+    </programme>
     <programme start="20260605200000 +0000" stop="20260605223000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Nanbanin kadhali</title>
+        <title>Movie - Nanbanin Kadhali</title>
     </programme>
     <programme start="20260605223000 +0000" stop="20260606010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Nanbargal</title>

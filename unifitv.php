@@ -15690,7 +15690,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260605164500 +0000" stop="20260605200000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros - Men's Singles SF 2 (L)</title>
+    <title lang="en">Roland Garros - Men's Singles SF 2 Cobolli v Arnaldi (L)</title>
     <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15710,12 +15710,12 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260605213000 +0000" stop="20260605233000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 1</title>
+    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 1 Zverev v Mensik</title>
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260605233000 +0000" stop="20260606013000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 2</title>
+    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 2 Cobolli v Arnaldi</title>
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15730,22 +15730,22 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606024500 +0000" stop="20260606031500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros Mini - Episode Number 35</title>
+    <title lang="en">Roland Garros Mini - Women’s Singles SF 1 Andreeva v Kostyuk</title>
     <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606031500 +0000" stop="20260606034500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros Mini - Episode Number 36</title>
+    <title lang="en">Roland Garros Mini - Women’s Singles SF 2 Shnaider v Chwalinska</title>
     <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606034500 +0000" stop="20260606054500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 1</title>
+    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 1 Zverev v Mensik</title>
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606054500 +0000" stop="20260606074500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 2</title>
+    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 2 Cobolli v Arnaldi</title>
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15760,7 +15760,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606111500 +0000" stop="20260606114500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros Mini - Episode Number 36</title>
+    <title lang="en">Roland Garros Mini - Women’s Singles SF 2 Shnaider v Chwalinska</title>
     <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15770,7 +15770,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606124500 +0000" stop="20260606153000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros - Women's Singles Final (L)</title>
+    <title lang="en">Roland Garros - Women's Singles Final Andreeva v Chwalinska (L)</title>
     <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15787,19 +15787,24 @@
     <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605160000 +0000" stop="20260605170000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260605160000 +0000" stop="20260605163000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Premier Padel - Italy Major Day 4 QF Match 4 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605170000 +0000" stop="20260605183000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260605163000 +0000" stop="20260605180000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Premier Padel - Italy Major Day 4 QF Match 5 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605183000 +0000" stop="20260605200000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260605180000 +0000" stop="20260605193000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Premier Padel - Italy Major Day 4 QF Match 6 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260605193000 +0000" stop="20260605200000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">World Strongman Championship Dubai - Documentary</title>
+    <desc lang="en">Premier strength competition featuring elite athletes in the +110 kg category. It serves as a major international showdown for the World Strongman International Union, designed as a 2025 season finale to test raw power through two main "Lift and Carry" relay formats.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260605200000 +0000" stop="20260605213000 +0000" channel="beinsports3.unifitv">
