@@ -598,9 +598,6 @@
 <programme start="20260606090000 +0000" stop="20260606113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260606113000 +0000" stop="20260606133000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
-</programme>
 <programme start="20260606133000 +0000" stop="20260606153000 +0000" channel="ANTV.vision">
 <title>Lupa Aturan Main</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="DAAI TV.vision">
 <title>Clifford</title>
+</programme>
+<programme start="20260606013000 +0000" stop="20260606020000 +0000" channel="DAAI TV.vision">
+<title>@Indonesia</title>
 </programme>
