@@ -3121,10 +3121,10 @@
   <programme start="20260608103000 +0000" stop="20260608112500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Horákovi I (1/39)</title>
   </programme>
-  <programme start="20260608112500 +0000" stop="20260608121800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260608112500 +0000" stop="20260608121700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">První republika I (1/22)</title>
   </programme>
-  <programme start="20260608121800 +0000" stop="20260608124800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260608121700 +0000" stop="20260608124800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulavá kamera</title>
   </programme>
   <programme start="20260608124800 +0000" stop="20260608130800 +0000" channel="ČT1.webtv.sk">
@@ -3163,10 +3163,10 @@
   <programme start="20260608181000 +0000" stop="20260608191500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Místo zločinu České Budějovice (10/13)</title>
   </programme>
-  <programme start="20260608191500 +0000" stop="20260608195600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260608191500 +0000" stop="20260608195500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři ČT</title>
   </programme>
-  <programme start="20260608195600 +0000" stop="20260608202400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260608195500 +0000" stop="20260608202400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři +</title>
   </programme>
   <programme start="20260608202400 +0000" stop="20260608202700 +0000" channel="ČT1.webtv.sk">
@@ -3181,10 +3181,10 @@
   <programme start="20260607195000 +0000" stop="20260607220500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Blízká setkání třetího druhu</title>
   </programme>
-  <programme start="20260607220500 +0000" stop="20260607234100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260607220500 +0000" stop="20260607234000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Poslední tabu: Fotbal a homosexualita</title>
   </programme>
-  <programme start="20260607234100 +0000" stop="20260608003500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260607234000 +0000" stop="20260608003500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Evropa dnes</title>
   </programme>
   <programme start="20260608003500 +0000" stop="20260608010100 +0000" channel="ČT2.webtv.sk">
@@ -3274,7 +3274,7 @@
   <programme start="20260608194000 +0000" stop="20260608210500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Mandarinka</title>
   </programme>
-  <programme start="20260608210500 +0000" stop="20260608220800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260608210500 +0000" stop="20260608220500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Černá voda (3/6)</title>
   </programme>
   <programme start="20260607220000 +0000" stop="20260607221000 +0000" channel="ČT24.webtv.sk">

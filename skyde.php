@@ -1025,83 +1025,74 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606213000 +0000" stop="20260606220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260604222500 +0000" stop="20260604231000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20260604231000 +0000" stop="20260604233500 +0000" channel="Heimatkanal.skyde">
-    <title>Die seltsamen Methoden des Franz Josef Wanninger</title>
-</programme>
-<programme start="20260604233500 +0000" stop="20260605002000 +0000" channel="Heimatkanal.skyde">
+<programme start="20260605222000 +0000" stop="20260605230500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20260605002000 +0000" stop="20260605012000 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
+<programme start="20260605230500 +0000" stop="20260606005000 +0000" channel="Heimatkanal.skyde">
+    <title>Alibi</title>
 </programme>
-<programme start="20260605012000 +0000" stop="20260605021500 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20260605021500 +0000" stop="20260605022000 +0000" channel="Heimatkanal.skyde">
-    <title>Bergretter im Interview: Robert Lohr</title>
-</programme>
-<programme start="20260605022000 +0000" stop="20260605031500 +0000" channel="Heimatkanal.skyde">
-    <title>Lieder, Land &amp; Leute zu Gast in der Steiermark</title>
-</programme>
-<programme start="20260605031500 +0000" stop="20260605045000 +0000" channel="Heimatkanal.skyde">
-    <title>Oberarzt Dr. Solm</title>
-</programme>
-<programme start="20260605045000 +0000" stop="20260605063000 +0000" channel="Heimatkanal.skyde">
-    <title>Feuerwerk</title>
-</programme>
-<programme start="20260605063000 +0000" stop="20260605075000 +0000" channel="Heimatkanal.skyde">
-    <title>Das Schweigen im Walde</title>
-</programme>
-<programme start="20260605075000 +0000" stop="20260605083500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20260605083500 +0000" stop="20260605092500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260605092500 +0000" stop="20260605100000 +0000" channel="Heimatkanal.skyde">
-    <title>Die seltsamen Methoden des Franz Josef Wanninger</title>
-</programme>
-<programme start="20260605100000 +0000" stop="20260605104000 +0000" channel="Heimatkanal.skyde">
-    <title>Musikparade</title>
-</programme>
-<programme start="20260605104000 +0000" stop="20260605122000 +0000" channel="Heimatkanal.skyde">
-    <title>Meine Nichte tut das nicht</title>
-</programme>
-<programme start="20260605122000 +0000" stop="20260605140000 +0000" channel="Heimatkanal.skyde">
-    <title>Verrückt und zugenäht</title>
-</programme>
-<programme start="20260605140000 +0000" stop="20260605150000 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20260605150000 +0000" stop="20260605160500 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20260605160500 +0000" stop="20260605165500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260605165500 +0000" stop="20260605172500 +0000" channel="Heimatkanal.skyde">
-    <title>Die seltsamen Methoden des Franz Josef Wanninger</title>
-</programme>
-<programme start="20260605172500 +0000" stop="20260605181500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20260605181500 +0000" stop="20260605190000 +0000" channel="Heimatkanal.skyde">
+<programme start="20260606005000 +0000" stop="20260606013500 +0000" channel="Heimatkanal.skyde">
     <title>Der Bergdoktor</title>
 </programme>
-<programme start="20260605190000 +0000" stop="20260605195000 +0000" channel="Heimatkanal.skyde">
+<programme start="20260606013500 +0000" stop="20260606022000 +0000" channel="Heimatkanal.skyde">
     <title>Die Bergretter</title>
 </programme>
-<programme start="20260605195000 +0000" stop="20260605210500 +0000" channel="Heimatkanal.skyde">
+<programme start="20260606022000 +0000" stop="20260606025000 +0000" channel="Heimatkanal.skyde">
+    <title>Heimatkanal Spezial - Berglandbuam</title>
+</programme>
+<programme start="20260606025000 +0000" stop="20260606042000 +0000" channel="Heimatkanal.skyde">
+    <title>Ein Mann gehört ins Haus</title>
+</programme>
+<programme start="20260606042000 +0000" stop="20260606050500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
+</programme>
+<programme start="20260606050500 +0000" stop="20260606055500 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
+</programme>
+<programme start="20260606055500 +0000" stop="20260606064000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260606064000 +0000" stop="20260606073000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260606073000 +0000" stop="20260606082000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260606082000 +0000" stop="20260606091000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260606091000 +0000" stop="20260606100000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260606100000 +0000" stop="20260606102500 +0000" channel="Heimatkanal.skyde">
+    <title>Musikparade</title>
+</programme>
+<programme start="20260606102500 +0000" stop="20260606114500 +0000" channel="Heimatkanal.skyde">
+    <title>Tischlein deck dich</title>
+</programme>
+<programme start="20260606114500 +0000" stop="20260606130000 +0000" channel="Heimatkanal.skyde">
     <title>Peter Steiners Theaterstadl</title>
 </programme>
-<programme start="20260605210500 +0000" stop="20260605215000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
+<programme start="20260606130000 +0000" stop="20260606144500 +0000" channel="Heimatkanal.skyde">
+    <title>Saison in Salzburg</title>
 </programme>
-<programme start="20260605215000 +0000" stop="20260605222000 +0000" channel="Heimatkanal.skyde">
-    <title>Die seltsamen Methoden des Franz Josef Wanninger</title>
+<programme start="20260606144500 +0000" stop="20260606161000 +0000" channel="Heimatkanal.skyde">
+    <title>Liebe und Trompetenblasen</title>
+</programme>
+<programme start="20260606161000 +0000" stop="20260606171000 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20260606171000 +0000" stop="20260606181500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20260606181500 +0000" stop="20260606201000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Unverbesserlichen und die Liebe</title>
+</programme>
+<programme start="20260606201000 +0000" stop="20260606211000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Kommissar</title>
+</programme>
+<programme start="20260606211000 +0000" stop="20260606221000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Kommissar</title>
 </programme>
 <programme start="20260605225000 +0000" stop="20260605233500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Eisige Welten</title>
@@ -2429,8 +2420,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606080500 +0000" stop="20260606083500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Best Of)</title>
 </programme>
-<programme start="20260606083500 +0000" stop="20260606101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260606083500 +0000" stop="20260606094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F3: 1. Rennen - GP Monaco</title>
+</programme>
+<programme start="20260606094000 +0000" stop="20260606101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>F1: Best Battles of 2025</title>
 </programme>
 <programme start="20260606101500 +0000" stop="20260606120500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: 3. Freies Training - GP Monaco</title>
@@ -3113,19 +3107,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606094000 +0000" stop="20260606100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NBA: Es folgt:</title>
 </programme>
-<programme start="20260606100000 +0000" stop="20260606120000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260606100000 +0000" stop="20260606140000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 2</title>
 </programme>
 <programme start="20260606114500 +0000" stop="20260606120500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Motorsport</title>
 </programme>
 <programme start="20260606120500 +0000" stop="20260606131500 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live F2: 1. Rennen - GP Monaco</title>
-</programme>
-<programme start="20260606114500 +0000" stop="20260606120500 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Motorsport: Es folgt</title>
-</programme>
-<programme start="20260606120500 +0000" stop="20260606151500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live F2: 1. Rennen - GP Monaco</title>
 </programme>
 <programme start="20260605220500 +0000" stop="20260605225000 +0000" channel="SYFY HD.skyde">
@@ -3307,180 +3295,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260606211500 +0000" stop="20260606220000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260605221500 +0000" stop="20260605224000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260605224000 +0000" stop="20260605230000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260605230000 +0000" stop="20260605232500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260605232500 +0000" stop="20260605235000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Common Side Effects</title>
-</programme>
-<programme start="20260605235000 +0000" stop="20260606001500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Common Side Effects</title>
-</programme>
-<programme start="20260606001500 +0000" stop="20260606002500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260606002500 +0000" stop="20260606003500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260606003500 +0000" stop="20260606004500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260606004500 +0000" stop="20260606010500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606010500 +0000" stop="20260606012500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606012500 +0000" stop="20260606014500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260606014500 +0000" stop="20260606021000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260606021000 +0000" stop="20260606023000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260606023000 +0000" stop="20260606025000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260606025000 +0000" stop="20260606031500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606031500 +0000" stop="20260606034000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606034000 +0000" stop="20260606040000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606040000 +0000" stop="20260606043500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606043500 +0000" stop="20260606050000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606050000 +0000" stop="20260606052500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606052500 +0000" stop="20260606055000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606055000 +0000" stop="20260606062000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606062000 +0000" stop="20260606064500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606064500 +0000" stop="20260606071500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606071500 +0000" stop="20260606074000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606074000 +0000" stop="20260606080500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606080500 +0000" stop="20260606083500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260606083500 +0000" stop="20260606085500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606085500 +0000" stop="20260606092000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606092000 +0000" stop="20260606094000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606094000 +0000" stop="20260606100000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606100000 +0000" stop="20260606102500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606102500 +0000" stop="20260606105000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Young Sheldon</title>
-</programme>
-<programme start="20260606105000 +0000" stop="20260606111000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Young Sheldon</title>
-</programme>
-<programme start="20260606111000 +0000" stop="20260606113500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Young Sheldon</title>
-</programme>
-<programme start="20260606113500 +0000" stop="20260606115500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Young Sheldon</title>
-</programme>
-<programme start="20260606115500 +0000" stop="20260606122500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260606122500 +0000" stop="20260606124500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260606124500 +0000" stop="20260606131500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260606131500 +0000" stop="20260606133500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260606133500 +0000" stop="20260606140500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260606140500 +0000" stop="20260606143000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606143000 +0000" stop="20260606145500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606145500 +0000" stop="20260606152000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606152000 +0000" stop="20260606154500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606154500 +0000" stop="20260606161000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606161000 +0000" stop="20260606163500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606163500 +0000" stop="20260606170000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606170000 +0000" stop="20260606172500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606172500 +0000" stop="20260606175000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606175000 +0000" stop="20260606181500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260606181500 +0000" stop="20260606194000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Darjeeling Limited</title>
-</programme>
-<programme start="20260606194000 +0000" stop="20260606200500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606200500 +0000" stop="20260606203000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606203000 +0000" stop="20260606205500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606205500 +0000" stop="20260606211500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606211500 +0000" stop="20260606213500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260606213500 +0000" stop="20260606230500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Darjeeling Limited</title>
 </programme>
 <programme start="20260605225500 +0000" stop="20260606003500 +0000" channel="Warner TV Film.skyde">
     <title>The Running Man</title>
