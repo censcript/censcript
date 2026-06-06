@@ -995,29 +995,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606060000 +0000" stop="20260606075500 +0000" channel="DAZN 2 HD.skyde">
     <title>Freundschaftsspiele: Frankreich - Elfenbeinküste</title>
 </programme>
-<programme start="20260606075500 +0000" stop="20260606095500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260606075500 +0000" stop="20260606095000 +0000" channel="DAZN 2 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - Real Madrid</title>
 </programme>
-<programme start="20260606095500 +0000" stop="20260606105000 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 25/26: 34. Spieltag</title>
+<programme start="20260606095000 +0000" stop="20260606114500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Freundschaftsspiele: Deutschland - Finnland</title>
 </programme>
-<programme start="20260606105000 +0000" stop="20260606115000 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 25/26: 35. Spieltag</title>
-</programme>
-<programme start="20260606115000 +0000" stop="20260606140000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Portugal - Chile</title>
-</programme>
-<programme start="20260606140000 +0000" stop="20260606143500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260606143500 +0000" stop="20260606153500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260606114500 +0000" stop="20260606124000 +0000" channel="DAZN 2 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 36. Spieltag</title>
 </programme>
-<programme start="20260606153500 +0000" stop="20260606163000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Darts-WM 2026 I Gabriel Clemens - Luke Humphries (3. Runde)</title>
-</programme>
-<programme start="20260606163000 +0000" stop="20260606170000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260606124000 +0000" stop="20260606125000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260606125000 +0000" stop="20260606150000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Freundschaftsspiele: Litauen - Lettland</title>
+</programme>
+<programme start="20260606150000 +0000" stop="20260606170000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Freundschaftsspiele: Estland - Färöer</title>
 </programme>
 <programme start="20260606170000 +0000" stop="20260606203000 +0000" channel="DAZN 2 HD.skyde">
     <title>Nordic Darts Masters: Tag 2</title>
@@ -2633,10 +2627,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606020000 +0000" stop="20260606050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Andalusien, 2. Tag in Sotogrande</title>
 </programme>
-<programme start="20260606050000 +0000" stop="20260606075500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260606050000 +0000" stop="20260606080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: US Women&#039;s Open, 2. Tag in Pacific Palisades, CA (USA)</title>
 </programme>
-<programme start="20260606075500 +0000" stop="20260606110000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260606080000 +0000" stop="20260606110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Andalusien, 2. Tag in Sotogrande</title>
 </programme>
 <programme start="20260606110000 +0000" stop="20260606160000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3120,12 +3114,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE Motorsport</title>
 </programme>
 <programme start="20260606120500 +0000" stop="20260606131500 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live F2: 1. Rennen - GP Monaco</title>
-</programme>
-<programme start="20260606114500 +0000" stop="20260606120500 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Motorsport: Es folgt</title>
-</programme>
-<programme start="20260606120500 +0000" stop="20260606151500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live F2: 1. Rennen - GP Monaco</title>
 </programme>
 <programme start="20260605220500 +0000" stop="20260605225000 +0000" channel="SYFY HD.skyde">
