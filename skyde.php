@@ -1025,74 +1025,83 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606213000 +0000" stop="20260606220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260605222000 +0000" stop="20260605230500 +0000" channel="Heimatkanal.skyde">
+<programme start="20260604222500 +0000" stop="20260604231000 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20260604231000 +0000" stop="20260604233500 +0000" channel="Heimatkanal.skyde">
+    <title>Die seltsamen Methoden des Franz Josef Wanninger</title>
+</programme>
+<programme start="20260604233500 +0000" stop="20260605002000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20260605230500 +0000" stop="20260606005000 +0000" channel="Heimatkanal.skyde">
-    <title>Alibi</title>
+<programme start="20260605002000 +0000" stop="20260605012000 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
 </programme>
-<programme start="20260606005000 +0000" stop="20260606013500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Bergdoktor</title>
+<programme start="20260605012000 +0000" stop="20260605021500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
 </programme>
-<programme start="20260606013500 +0000" stop="20260606022000 +0000" channel="Heimatkanal.skyde">
-    <title>Die Bergretter</title>
+<programme start="20260605021500 +0000" stop="20260605022000 +0000" channel="Heimatkanal.skyde">
+    <title>Bergretter im Interview: Robert Lohr</title>
 </programme>
-<programme start="20260606022000 +0000" stop="20260606025000 +0000" channel="Heimatkanal.skyde">
-    <title>Heimatkanal Spezial - Berglandbuam</title>
+<programme start="20260605022000 +0000" stop="20260605031500 +0000" channel="Heimatkanal.skyde">
+    <title>Lieder, Land &amp; Leute zu Gast in der Steiermark</title>
 </programme>
-<programme start="20260606025000 +0000" stop="20260606042000 +0000" channel="Heimatkanal.skyde">
-    <title>Ein Mann gehört ins Haus</title>
+<programme start="20260605031500 +0000" stop="20260605045000 +0000" channel="Heimatkanal.skyde">
+    <title>Oberarzt Dr. Solm</title>
 </programme>
-<programme start="20260606042000 +0000" stop="20260606050500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Bergdoktor</title>
+<programme start="20260605045000 +0000" stop="20260605063000 +0000" channel="Heimatkanal.skyde">
+    <title>Feuerwerk</title>
 </programme>
-<programme start="20260606050500 +0000" stop="20260606055500 +0000" channel="Heimatkanal.skyde">
-    <title>Die Bergretter</title>
+<programme start="20260605063000 +0000" stop="20260605075000 +0000" channel="Heimatkanal.skyde">
+    <title>Das Schweigen im Walde</title>
 </programme>
-<programme start="20260606055500 +0000" stop="20260606064000 +0000" channel="Heimatkanal.skyde">
+<programme start="20260605075000 +0000" stop="20260605083500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20260605083500 +0000" stop="20260605092500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20260606064000 +0000" stop="20260606073000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
+<programme start="20260605092500 +0000" stop="20260605100000 +0000" channel="Heimatkanal.skyde">
+    <title>Die seltsamen Methoden des Franz Josef Wanninger</title>
 </programme>
-<programme start="20260606073000 +0000" stop="20260606082000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260606082000 +0000" stop="20260606091000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260606091000 +0000" stop="20260606100000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260606100000 +0000" stop="20260606102500 +0000" channel="Heimatkanal.skyde">
+<programme start="20260605100000 +0000" stop="20260605104000 +0000" channel="Heimatkanal.skyde">
     <title>Musikparade</title>
 </programme>
-<programme start="20260606102500 +0000" stop="20260606114500 +0000" channel="Heimatkanal.skyde">
-    <title>Tischlein deck dich</title>
+<programme start="20260605104000 +0000" stop="20260605122000 +0000" channel="Heimatkanal.skyde">
+    <title>Meine Nichte tut das nicht</title>
 </programme>
-<programme start="20260606114500 +0000" stop="20260606130000 +0000" channel="Heimatkanal.skyde">
+<programme start="20260605122000 +0000" stop="20260605140000 +0000" channel="Heimatkanal.skyde">
+    <title>Verrückt und zugenäht</title>
+</programme>
+<programme start="20260605140000 +0000" stop="20260605150000 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20260605150000 +0000" stop="20260605160500 +0000" channel="Heimatkanal.skyde">
+    <title>Diese Drombuschs</title>
+</programme>
+<programme start="20260605160500 +0000" stop="20260605165500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260605165500 +0000" stop="20260605172500 +0000" channel="Heimatkanal.skyde">
+    <title>Die seltsamen Methoden des Franz Josef Wanninger</title>
+</programme>
+<programme start="20260605172500 +0000" stop="20260605181500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20260605181500 +0000" stop="20260605190000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
+</programme>
+<programme start="20260605190000 +0000" stop="20260605195000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
+</programme>
+<programme start="20260605195000 +0000" stop="20260605210500 +0000" channel="Heimatkanal.skyde">
     <title>Peter Steiners Theaterstadl</title>
 </programme>
-<programme start="20260606130000 +0000" stop="20260606144500 +0000" channel="Heimatkanal.skyde">
-    <title>Saison in Salzburg</title>
+<programme start="20260605210500 +0000" stop="20260605215000 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
 </programme>
-<programme start="20260606144500 +0000" stop="20260606161000 +0000" channel="Heimatkanal.skyde">
-    <title>Liebe und Trompetenblasen</title>
-</programme>
-<programme start="20260606161000 +0000" stop="20260606171000 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20260606171000 +0000" stop="20260606181500 +0000" channel="Heimatkanal.skyde">
-    <title>Diese Drombuschs</title>
-</programme>
-<programme start="20260606181500 +0000" stop="20260606201000 +0000" channel="Heimatkanal.skyde">
-    <title>Die Unverbesserlichen und die Liebe</title>
-</programme>
-<programme start="20260606201000 +0000" stop="20260606211000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Kommissar</title>
-</programme>
-<programme start="20260606211000 +0000" stop="20260606221000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Kommissar</title>
+<programme start="20260605215000 +0000" stop="20260605222000 +0000" channel="Heimatkanal.skyde">
+    <title>Die seltsamen Methoden des Franz Josef Wanninger</title>
 </programme>
 <programme start="20260605225000 +0000" stop="20260605233500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Eisige Welten</title>
@@ -2420,11 +2429,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606080500 +0000" stop="20260606083500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Best Of)</title>
 </programme>
-<programme start="20260606083500 +0000" stop="20260606094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260606083500 +0000" stop="20260606101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F3: 1. Rennen - GP Monaco</title>
-</programme>
-<programme start="20260606094000 +0000" stop="20260606101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>F1: Best Battles of 2025</title>
 </programme>
 <programme start="20260606101500 +0000" stop="20260606120500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: 3. Freies Training - GP Monaco</title>
@@ -3107,13 +3113,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606094000 +0000" stop="20260606100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NBA: Es folgt:</title>
 </programme>
-<programme start="20260606100000 +0000" stop="20260606140000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260606100000 +0000" stop="20260606120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 2</title>
 </programme>
 <programme start="20260606114500 +0000" stop="20260606120500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Motorsport</title>
 </programme>
 <programme start="20260606120500 +0000" stop="20260606131500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live F2: 1. Rennen - GP Monaco</title>
+</programme>
+<programme start="20260606114500 +0000" stop="20260606120500 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Motorsport: Es folgt</title>
+</programme>
+<programme start="20260606120500 +0000" stop="20260606151500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live F2: 1. Rennen - GP Monaco</title>
 </programme>
 <programme start="20260605220500 +0000" stop="20260605225000 +0000" channel="SYFY HD.skyde">

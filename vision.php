@@ -511,9 +511,6 @@
 <programme start="20260606154500 +0000" stop="20260606163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260606163000 +0000" stop="20260606174500 +0000" channel="Trans 7.vision">
-<title>Menantu Gadungan</title>
-</programme>
 <programme start="20260606174500 +0000" stop="20260606183000 +0000" channel="Trans 7.vision">
 <title>Moto GP Sprint Race 2026 Italy</title>
 </programme>
@@ -597,9 +594,6 @@
 </programme>
 <programme start="20260606090000 +0000" stop="20260606113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260606153000 +0000" stop="20260606173000 +0000" channel="ANTV.vision">
-<title>The Doll 3</title>
 </programme>
 <programme start="20260606173000 +0000" stop="20260606193000 +0000" channel="ANTV.vision">
 <title>A Good Man</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260606020000 +0000" stop="20260606021500 +0000" channel="DAAI TV.vision">
 <title>Narasi Nusantara</title>
+</programme>
+<programme start="20260606021500 +0000" stop="20260606023000 +0000" channel="DAAI TV.vision">
+<title>Lingkaran Cinta Kasih</title>
+</programme>
+<programme start="20260606023000 +0000" stop="20260606030000 +0000" channel="DAAI TV.vision">
+<title>Hati Bicara</title>
 </programme>

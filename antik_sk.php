@@ -16966,38 +16966,11 @@
   <programme start="20260608213000 +0000" stop="20260608220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Европейские ценности</title>
   </programme>
-  <programme start="20260607210000 +0000" stop="20260607222500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Feature film</title>
-  </programme>
-  <programme start="20260607222500 +0000" stop="20260607225000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Ethnocolors</title>
-  </programme>
-  <programme start="20260607225000 +0000" stop="20260607231500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Compatriot</title>
-  </programme>
-  <programme start="20260607231500 +0000" stop="20260607234000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">People of Armenia</title>
-  </programme>
-  <programme start="20260607234000 +0000" stop="20260608022000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260607210000 +0000" stop="20260608040000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">General</title>
   </programme>
-  <programme start="20260608022000 +0000" stop="20260608024500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">An Important Task</title>
-  </programme>
-  <programme start="20260608024500 +0000" stop="20260608031500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Wait for Me</title>
-  </programme>
-  <programme start="20260608031500 +0000" stop="20260608034500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">On the other hand</title>
-  </programme>
-  <programme start="20260608034500 +0000" stop="20260608035000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">You Can!</title>
-  </programme>
-  <programme start="20260608035000 +0000" stop="20260608042000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Feature film</title>
-  </programme>
-  <programme start="20260608042000 +0000" stop="20260608043000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Cartoon</title>
+  <programme start="20260608040000 +0000" stop="20260608043000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">People of Armenia</title>
   </programme>
   <programme start="20260608043000 +0000" stop="20260608050000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Lets Cook Together</title>
@@ -17020,41 +16993,38 @@
   <programme start="20260608092500 +0000" stop="20260608101000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Differently</title>
   </programme>
-  <programme start="20260608101000 +0000" stop="20260608103500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260608101000 +0000" stop="20260608103000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Cities of the World</title>
   </programme>
-  <programme start="20260608103500 +0000" stop="20260608111000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">CineMen</title>
+  <programme start="20260608103000 +0000" stop="20260608110000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">The Sounds of Armenia</title>
   </programme>
-  <programme start="20260608111000 +0000" stop="20260608113000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260608110000 +0000" stop="20260608112500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">After Adventures</title>
   </programme>
-  <programme start="20260608113000 +0000" stop="20260608120000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Different Style</title>
+  <programme start="20260608112500 +0000" stop="20260608115500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Bell and Cotton</title>
   </programme>
-  <programme start="20260608120000 +0000" stop="20260608131000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Great Debate</title>
+  <programme start="20260608115500 +0000" stop="20260608131000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Feature film</title>
   </programme>
-  <programme start="20260608131000 +0000" stop="20260608132000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">5 Minute ART</title>
+  <programme start="20260608131000 +0000" stop="20260608140000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Documentary film</title>
   </programme>
-  <programme start="20260608132000 +0000" stop="20260608140000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Playing Movies</title>
-  </programme>
-  <programme start="20260608140000 +0000" stop="20260608143000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260608140000 +0000" stop="20260608142500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Lets Cook Together</title>
   </programme>
-  <programme start="20260608143000 +0000" stop="20260608150000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Experimentarius</title>
+  <programme start="20260608142500 +0000" stop="20260608150000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Note by Note</title>
   </programme>
   <programme start="20260608150000 +0000" stop="20260608153000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">News</title>
   </programme>
   <programme start="20260608153000 +0000" stop="20260608162000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">TV Series</title>
+    <title lang="id">Renascer</title>
   </programme>
   <programme start="20260608162000 +0000" stop="20260608170000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">General</title>
+    <title lang="id">On the other hand</title>
   </programme>
   <programme start="20260608170000 +0000" stop="20260608181000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">News</title>
@@ -17062,11 +17032,23 @@
   <programme start="20260608181000 +0000" stop="20260608184000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Interview with Petros Ghazaryan</title>
   </programme>
-  <programme start="20260608184000 +0000" stop="20260608192000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260608184000 +0000" stop="20260608191000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Wait for Me</title>
   </programme>
-  <programme start="20260608192000 +0000" stop="00010101000000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Our Village</title>
+  <programme start="20260608191000 +0000" stop="20260608194500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Melody of Love</title>
+  </programme>
+  <programme start="20260608194500 +0000" stop="20260608201000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Interview with Anna Danielyan</title>
+  </programme>
+  <programme start="20260608201000 +0000" stop="20260608210000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Differently</title>
+  </programme>
+  <programme start="20260608210000 +0000" stop="20260608213500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Note by Note</title>
+  </programme>
+  <programme start="20260608213500 +0000" stop="20260608220500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">On the other hand</title>
   </programme>
   <programme start="20260607220000 +0000" stop="20260607220500 +0000" channel="Euronews.webtv.sk">
     <title lang="id">The European debrief</title>
@@ -19174,8 +19156,140 @@
   <programme start="20260608191500 +0000" stop="20260608220000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Mussolini. Le verita nascoste</title>
   </programme>
-  <programme start="20260607193000 +0000" stop="20260607223000 +0000" channel="CGTN.webtv.sk">
+  <programme start="20260607220000 +0000" stop="20260607230000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Americas Now</title>
+  </programme>
+  <programme start="20260607230000 +0000" stop="20260607233000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260607233000 +0000" stop="20260608000000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Faces of Africa</title>
+  </programme>
+  <programme start="20260608000000 +0000" stop="20260608003000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608003000 +0000" stop="20260608010000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Inheritors</title>
+  </programme>
+  <programme start="20260608010000 +0000" stop="20260608013000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608013000 +0000" stop="20260608020000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Razor</title>
+  </programme>
+  <programme start="20260608020000 +0000" stop="20260608023000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608023000 +0000" stop="20260608030000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Travelogue</title>
+  </programme>
+  <programme start="20260608030000 +0000" stop="20260608031500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608031500 +0000" stop="20260608033000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260608033000 +0000" stop="20260608040000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20260608040000 +0000" stop="20260608050000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Watch</title>
+  </programme>
+  <programme start="20260608050000 +0000" stop="20260608051500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608051500 +0000" stop="20260608053000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260608053000 +0000" stop="20260608060000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20260608060000 +0000" stop="20260608063000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608063000 +0000" stop="20260608070000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Razor</title>
+  </programme>
+  <programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608073000 +0000" stop="20260608080000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260608080000 +0000" stop="20260608081500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608081500 +0000" stop="20260608090000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260608090000 +0000" stop="20260608093000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608093000 +0000" stop="20260608100000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20260608100000 +0000" stop="20260608101500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608101500 +0000" stop="20260608110000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20260608110000 +0000" stop="20260608113000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Asia Today</title>
+  </programme>
+  <programme start="20260608113000 +0000" stop="20260608120000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20260608120000 +0000" stop="20260608121500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608121500 +0000" stop="20260608130000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">China 24</title>
+  </programme>
+  <programme start="20260608130000 +0000" stop="20260608133000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260608133000 +0000" stop="20260608140000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20260608140000 +0000" stop="20260608143000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608143000 +0000" stop="20260608150000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20260608150000 +0000" stop="20260608153000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608153000 +0000" stop="20260608160000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20260608160000 +0000" stop="20260608170000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260608170000 +0000" stop="20260608180000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20260608180000 +0000" stop="20260608190000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260608190000 +0000" stop="20260608193000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608193000 +0000" stop="20260608200000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20260608200000 +0000" stop="20260608203000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260608203000 +0000" stop="20260608210000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20260608210000 +0000" stop="20260608213000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260608213000 +0000" stop="20260608220000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
   </programme>
   <programme start="20260607220000 +0000" stop="20260607230000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Eastern Inspiration (4)</title>
