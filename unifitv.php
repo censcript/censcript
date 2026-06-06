@@ -5886,14 +5886,14 @@
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20260606112500 +0000" stop="20260606114000 +0000" channel="sonyyay.unifitv">
+  <programme start="20260606112500 +0000" stop="20260606113900 +0000" channel="sonyyay.unifitv">
     <title lang="en">Sab Jholmaal Hai</title>
     <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20260606114000 +0000" stop="20260606115500 +0000" channel="sonyyay.unifitv">
+  <programme start="20260606113900 +0000" stop="20260606115500 +0000" channel="sonyyay.unifitv">
     <title lang="en">Sab Jholmaal Hai</title>
     <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
     <category lang="en">Entertainment</category>
@@ -5949,42 +5949,42 @@
     <episode-num system="xmltv_ns">0.16.</episode-num>
     <episode-num system="onscreen">S1E17</episode-num>
   </programme>
-  <programme start="20260606134000 +0000" stop="20260606135400 +0000" channel="sonyyay.unifitv">
+  <programme start="20260606134000 +0000" stop="20260606135500 +0000" channel="sonyyay.unifitv">
     <title lang="en">Prince Jai Aur Dumdaar Viru</title>
     <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.17.</episode-num>
     <episode-num system="onscreen">S1E18</episode-num>
   </programme>
-  <programme start="20260606135400 +0000" stop="20260606141000 +0000" channel="sonyyay.unifitv">
+  <programme start="20260606135500 +0000" stop="20260606141000 +0000" channel="sonyyay.unifitv">
     <title lang="en">Prince Jai Aur Dumdaar Viru</title>
     <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.18.</episode-num>
     <episode-num system="onscreen">S1E19</episode-num>
   </programme>
-  <programme start="20260606141000 +0000" stop="20260606142400 +0000" channel="sonyyay.unifitv">
+  <programme start="20260606141000 +0000" stop="20260606142500 +0000" channel="sonyyay.unifitv">
     <title lang="en">Prince Jai Aur Dumdaar Viru</title>
     <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <episode-num system="onscreen">S1E20</episode-num>
   </programme>
-  <programme start="20260606142400 +0000" stop="20260606144000 +0000" channel="sonyyay.unifitv">
+  <programme start="20260606142500 +0000" stop="20260606144000 +0000" channel="sonyyay.unifitv">
     <title lang="en">Prince Jai Aur Dumdaar Viru</title>
     <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <episode-num system="onscreen">S1E21</episode-num>
   </programme>
-  <programme start="20260606144000 +0000" stop="20260606144900 +0000" channel="sonyyay.unifitv">
+  <programme start="20260606144000 +0000" stop="20260606145000 +0000" channel="sonyyay.unifitv">
     <title lang="en">Oh My Lallan</title>
     <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.28.</episode-num>
     <episode-num system="onscreen">S1E29</episode-num>
   </programme>
-  <programme start="20260606144900 +0000" stop="20260606145900 +0000" channel="sonyyay.unifitv">
+  <programme start="20260606145000 +0000" stop="20260606145900 +0000" channel="sonyyay.unifitv">
     <title lang="en">Oh My Lallan</title>
     <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
     <category lang="en">Entertainment</category>
