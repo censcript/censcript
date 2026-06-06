@@ -2627,10 +2627,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606020000 +0000" stop="20260606050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Andalusien, 2. Tag in Sotogrande</title>
 </programme>
-<programme start="20260606050000 +0000" stop="20260606075500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260606050000 +0000" stop="20260606080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: US Women&#039;s Open, 2. Tag in Pacific Palisades, CA (USA)</title>
 </programme>
-<programme start="20260606075500 +0000" stop="20260606110000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260606080000 +0000" stop="20260606110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Andalusien, 2. Tag in Sotogrande</title>
 </programme>
 <programme start="20260606110000 +0000" stop="20260606160000 +0000" channel="Sky Sport Golf HD.skyde">
