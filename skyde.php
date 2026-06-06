@@ -956,10 +956,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 35./32. Spieltag</title>
 </programme>
-<programme start="20260606070000 +0000" stop="20260606074000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260606074000 +0000" stop="20260606092500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260606073000 +0000" stop="20260606092500 +0000" channel="DAZN 1 HD.skyde">
     <title>FA Cup 25/26: Manchester City - FC Liverpool</title>
 </programme>
 <programme start="20260606092500 +0000" stop="20260606095000 +0000" channel="DAZN 1 HD.skyde">
@@ -974,20 +974,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606122000 +0000" stop="20260606125000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 36./33. Spieltag</title>
 </programme>
-<programme start="20260606125000 +0000" stop="20260606150500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260606125000 +0000" stop="20260606150000 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Belgien - Tunesien</title>
 </programme>
-<programme start="20260606150500 +0000" stop="20260606171000 +0000" channel="DAZN 1 HD.skyde">
-    <title>FA Cup 25/26: Manchester City - FC Liverpool</title>
+<programme start="20260606150000 +0000" stop="20260606171000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Freundschaftsspiele: England - Neuseeland</title>
 </programme>
 <programme start="20260606171000 +0000" stop="20260606173500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260606173500 +0000" stop="20260606195000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Freundschaftsspiele: Portugal - Chile</title>
+    <title>Freundschaftsspiele: Rumänien - Wales</title>
 </programme>
 <programme start="20260606195000 +0000" stop="20260606220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Freundschaftsspiele: England - Neuseeland</title>
+    <title>Freundschaftsspiele: Bolivien - Schottland</title>
 </programme>
 <programme start="20260605220000 +0000" stop="20260606060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -2756,20 +2756,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606130000 +0000" stop="20260606131500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260606131500 +0000" stop="20260606153000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260606131500 +0000" stop="20260606154500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live F1: Qualifying - GP Monaco</title>
 </programme>
-<programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260606154500 +0000" stop="20260606160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260606160000 +0000" stop="20260606161500 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260606160000 +0000" stop="20260606163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20260606163000 +0000" stop="20260606164500 +0000" channel="Sky Sport News HD.skyde">
     <title>F1: Qualifying Kompakt - GP Monaco</title>
-</programme>
-<programme start="20260606161500 +0000" stop="20260606163000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
-</programme>
-<programme start="20260606163000 +0000" stop="20260606170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260606170000 +0000" stop="20260606173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Road to New York</title>
@@ -3080,10 +3077,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260606120500 +0000" stop="20260606131500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: 1. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260606131500 +0000" stop="20260606153000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260606131500 +0000" stop="20260606154500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Qualifying - GP Monaco</title>
 </programme>
-<programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260606154500 +0000" stop="20260606161500 +0000" channel="Sky Sport UHD.skyde">
     <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
 </programme>
 <programme start="20260606160000 +0000" stop="20260606163000 +0000" channel="Sky Sport UHD.skyde">
@@ -3091,6 +3088,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260606160000 +0000" stop="20260606173000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 3. Freies Training - GP Monaco</title>
+</programme>
+<programme start="20260606161500 +0000" stop="20260606163000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Top 20: Vettel Überholmanöver</title>
 </programme>
 <programme start="20260606163000 +0000" stop="20260606180000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Monaco</title>

@@ -3691,13 +3691,13 @@
   <programme start="20260608213000 +0000" stop="20260608225500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Poslední autobus</title>
   </programme>
-  <programme start="20260607214500 +0000" stop="20260607224000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260607213500 +0000" stop="20260607223500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Country estráda (15)</title>
   </programme>
-  <programme start="20260607224000 +0000" stop="20260607235000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260607223500 +0000" stop="20260607234000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ordinace v růžové zahradě II (282)</title>
   </programme>
-  <programme start="20260607235000 +0000" stop="20260608011000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260607234000 +0000" stop="20260608011000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ordinace v růžové zahradě II (283)</title>
   </programme>
   <programme start="20260608011000 +0000" stop="20260608013500 +0000" channel="Nova International.webtv.sk">
@@ -3706,10 +3706,10 @@
   <programme start="20260608013500 +0000" stop="20260608020000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Mr.GS IV (12)</title>
   </programme>
-  <programme start="20260608020000 +0000" stop="20260608023000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260608020000 +0000" stop="20260608022500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (576)</title>
   </programme>
-  <programme start="20260608023000 +0000" stop="20260608031500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260608022500 +0000" stop="20260608031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (232)</title>
   </programme>
   <programme start="20260608031500 +0000" stop="20260608040000 +0000" channel="Nova International.webtv.sk">
@@ -3730,13 +3730,13 @@
   <programme start="20260608085000 +0000" stop="20260608100000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Gympl s (r)učením omezeným (25)</title>
   </programme>
-  <programme start="20260608100000 +0000" stop="20260608102000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260608100000 +0000" stop="20260608101500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Polední Televizní noviny</title>
   </programme>
-  <programme start="20260608102000 +0000" stop="20260608102400 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260608101500 +0000" stop="20260608102300 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Polední Sportovní noviny</title>
   </programme>
-  <programme start="20260608102400 +0000" stop="20260608102500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260608102300 +0000" stop="20260608102500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Polední Počasí</title>
   </programme>
   <programme start="20260608102500 +0000" stop="20260608110500 +0000" channel="Nova International.webtv.sk">
@@ -3760,10 +3760,10 @@
   <programme start="20260608145500 +0000" stop="20260608150000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Odpolední Počasí</title>
   </programme>
-  <programme start="20260608150000 +0000" stop="20260608152000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260608150000 +0000" stop="20260608151500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Odpolední Televizní noviny</title>
   </programme>
-  <programme start="20260608152000 +0000" stop="20260608153000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260608151500 +0000" stop="20260608153000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Odpolední Sportovní noviny</title>
   </programme>
   <programme start="20260608153000 +0000" stop="20260608162500 +0000" channel="Nova International.webtv.sk">

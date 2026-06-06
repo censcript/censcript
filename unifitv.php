@@ -5,252 +5,72 @@
   <channel id="fifa1.unifitv">
     <display-name>Unifi FIFA World Cup 2026™ 1</display-name>
   </channel>
-  <programme start="20260605153000 +0000" stop="20260605160000 +0000" channel="fifa1.unifitv">
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605160000 +0000" stop="20260605163000 +0000" channel="fifa1.unifitv">
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605163000 +0000" stop="20260605170000 +0000" channel="fifa1.unifitv">
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605170000 +0000" stop="20260605173000 +0000" channel="fifa1.unifitv">
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605173000 +0000" stop="20260605180000 +0000" channel="fifa1.unifitv">
+  <programme start="20260605220000 +0000" stop="20260606000000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605180000 +0000" stop="20260605183000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606000000 +0000" stop="20260606020000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605183000 +0000" stop="20260605190000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606020000 +0000" stop="20260606040000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605190000 +0000" stop="20260605193000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606040000 +0000" stop="20260606060000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605193000 +0000" stop="20260605200000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606060000 +0000" stop="20260606080000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605200000 +0000" stop="20260605203000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606080000 +0000" stop="20260606100000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605203000 +0000" stop="20260605210000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606100000 +0000" stop="20260606120000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605210000 +0000" stop="20260605213000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606120000 +0000" stop="20260606140000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605213000 +0000" stop="20260605220000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606140000 +0000" stop="20260606160000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605220000 +0000" stop="20260605223000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605223000 +0000" stop="20260605230000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605230000 +0000" stop="20260605233000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605233000 +0000" stop="20260606000000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606000000 +0000" stop="20260606003000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606013000 +0000" stop="20260606020000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606020000 +0000" stop="20260606023000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606023000 +0000" stop="20260606030000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606030000 +0000" stop="20260606033000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606033000 +0000" stop="20260606040000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606040000 +0000" stop="20260606043000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606043000 +0000" stop="20260606050000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606050000 +0000" stop="20260606053000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606053000 +0000" stop="20260606060000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606083000 +0000" stop="20260606090000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606090000 +0000" stop="20260606093000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606093000 +0000" stop="20260606100000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606100000 +0000" stop="20260606103000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606103000 +0000" stop="20260606110000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606110000 +0000" stop="20260606113000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606120000 +0000" stop="20260606123000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606123000 +0000" stop="20260606130000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606130000 +0000" stop="20260606133000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606133000 +0000" stop="20260606140000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606140000 +0000" stop="20260606143000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606143000 +0000" stop="20260606150000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606150000 +0000" stop="20260606153000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="fifa1.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606160000 +0000" stop="20260606163000 +0000" channel="fifa1.unifitv">
+  <programme start="20260606160000 +0000" stop="20260606180000 +0000" channel="fifa1.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
@@ -258,252 +78,72 @@
   <channel id="fifa2.unifitv">
     <display-name>Unifi FIFA World Cup 2026™ 2</display-name>
   </channel>
-  <programme start="20260605153000 +0000" stop="20260605160000 +0000" channel="fifa2.unifitv">
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605160000 +0000" stop="20260605163000 +0000" channel="fifa2.unifitv">
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605163000 +0000" stop="20260605170000 +0000" channel="fifa2.unifitv">
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605170000 +0000" stop="20260605173000 +0000" channel="fifa2.unifitv">
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605173000 +0000" stop="20260605180000 +0000" channel="fifa2.unifitv">
+  <programme start="20260605220000 +0000" stop="20260606000000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605180000 +0000" stop="20260605183000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606000000 +0000" stop="20260606020000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605183000 +0000" stop="20260605190000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606020000 +0000" stop="20260606040000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605190000 +0000" stop="20260605193000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606040000 +0000" stop="20260606060000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605193000 +0000" stop="20260605200000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606060000 +0000" stop="20260606080000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605200000 +0000" stop="20260605203000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606080000 +0000" stop="20260606100000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605203000 +0000" stop="20260605210000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606100000 +0000" stop="20260606120000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605210000 +0000" stop="20260605213000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606120000 +0000" stop="20260606140000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605213000 +0000" stop="20260605220000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606140000 +0000" stop="20260606160000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605220000 +0000" stop="20260605223000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605223000 +0000" stop="20260605230000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605230000 +0000" stop="20260605233000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605233000 +0000" stop="20260606000000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606000000 +0000" stop="20260606003000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606013000 +0000" stop="20260606020000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606020000 +0000" stop="20260606023000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606023000 +0000" stop="20260606030000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606030000 +0000" stop="20260606033000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606033000 +0000" stop="20260606040000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606040000 +0000" stop="20260606043000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606043000 +0000" stop="20260606050000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606050000 +0000" stop="20260606053000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606053000 +0000" stop="20260606060000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606083000 +0000" stop="20260606090000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606090000 +0000" stop="20260606093000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606093000 +0000" stop="20260606100000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606100000 +0000" stop="20260606103000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606103000 +0000" stop="20260606110000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606110000 +0000" stop="20260606113000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606120000 +0000" stop="20260606123000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606123000 +0000" stop="20260606130000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606130000 +0000" stop="20260606133000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606133000 +0000" stop="20260606140000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606140000 +0000" stop="20260606143000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606143000 +0000" stop="20260606150000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606150000 +0000" stop="20260606153000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="fifa2.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606160000 +0000" stop="20260606163000 +0000" channel="fifa2.unifitv">
+  <programme start="20260606160000 +0000" stop="20260606180000 +0000" channel="fifa2.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
@@ -511,252 +151,72 @@
   <channel id="fifa3.unifitv">
     <display-name>Unifi FIFA World Cup 2026™ 3</display-name>
   </channel>
-  <programme start="20260605153000 +0000" stop="20260605160000 +0000" channel="fifa3.unifitv">
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605160000 +0000" stop="20260605163000 +0000" channel="fifa3.unifitv">
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605163000 +0000" stop="20260605170000 +0000" channel="fifa3.unifitv">
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605170000 +0000" stop="20260605173000 +0000" channel="fifa3.unifitv">
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605173000 +0000" stop="20260605180000 +0000" channel="fifa3.unifitv">
+  <programme start="20260605220000 +0000" stop="20260606000000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605180000 +0000" stop="20260605183000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606000000 +0000" stop="20260606020000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605183000 +0000" stop="20260605190000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606020000 +0000" stop="20260606040000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605190000 +0000" stop="20260605193000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606040000 +0000" stop="20260606060000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605193000 +0000" stop="20260605200000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606060000 +0000" stop="20260606080000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605200000 +0000" stop="20260605203000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606080000 +0000" stop="20260606100000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605203000 +0000" stop="20260605210000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606100000 +0000" stop="20260606120000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605210000 +0000" stop="20260605213000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606120000 +0000" stop="20260606140000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605213000 +0000" stop="20260605220000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606140000 +0000" stop="20260606160000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260605220000 +0000" stop="20260605223000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605223000 +0000" stop="20260605230000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605230000 +0000" stop="20260605233000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260605233000 +0000" stop="20260606000000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606000000 +0000" stop="20260606003000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606003000 +0000" stop="20260606010000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606010000 +0000" stop="20260606013000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606013000 +0000" stop="20260606020000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606020000 +0000" stop="20260606023000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606023000 +0000" stop="20260606030000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606030000 +0000" stop="20260606033000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606033000 +0000" stop="20260606040000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606040000 +0000" stop="20260606043000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606043000 +0000" stop="20260606050000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606050000 +0000" stop="20260606053000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606053000 +0000" stop="20260606060000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606060000 +0000" stop="20260606063000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606063000 +0000" stop="20260606070000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606070000 +0000" stop="20260606073000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606083000 +0000" stop="20260606090000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606090000 +0000" stop="20260606093000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606093000 +0000" stop="20260606100000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606100000 +0000" stop="20260606103000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606103000 +0000" stop="20260606110000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606110000 +0000" stop="20260606113000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606120000 +0000" stop="20260606123000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606123000 +0000" stop="20260606130000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606130000 +0000" stop="20260606133000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606133000 +0000" stop="20260606140000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606140000 +0000" stop="20260606143000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606143000 +0000" stop="20260606150000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606150000 +0000" stop="20260606153000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606153000 +0000" stop="20260606160000 +0000" channel="fifa3.unifitv">
-    <title lang="en">FIFA World Cup™  2026  - Coming soon</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606160000 +0000" stop="20260606163000 +0000" channel="fifa3.unifitv">
+  <programme start="20260606160000 +0000" stop="20260606180000 +0000" channel="fifa3.unifitv">
     <title lang="en">FIFA World Cup™ 2026  - Coming soon</title>
     <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
     <category lang="en">Sports</category>
@@ -7245,75 +6705,54 @@
   <channel id="hitsnow.unifitv">
     <display-name>HITS NOW</display-name>
   </channel>
-  <programme start="20260605153500 +0000" stop="20260605160500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260605153500 +0000" stop="20260605183500 +0000" channel="hitsnow.unifitv">
     <title lang="en">The 52nd American Music Awards</title>
     <desc lang="en">The 52nd American Music Awards (AMAs) will be hosted by Queen Latifah from the MGM Grand Garden Arena in Las Vegas. This fan-voted event honor's the year's top artists with 50 categories focusing on breakthroughs.</desc>
     <category lang="en">Award Show</category>
     <episode-num system="xmltv_ns">75.75.</episode-num>
     <episode-num system="onscreen">S76E76</episode-num>
   </programme>
-  <programme start="20260605160500 +0000" stop="20260605170500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Hotel Costiera</title>
-    <desc lang="en">Ex-Marine April needs help finding her data-filled bracelet. As Daniel hunts for it, he finally tracks down Bruno to question him about Alice's fate.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260605170500 +0000" stop="20260605180500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Snapped: Killer Couples</title>
-    <desc lang="en">When a young man is found shot to death off the side of a rural in rural Indiana, the ensuing investigation delves into the dangers of online dating. Authorities ultimately uncover a stunning betrayal fueled by a twisted romance.</desc>
-    <category lang="en">True Crime</category>
-    <episode-num system="xmltv_ns">16.8.</episode-num>
-    <episode-num system="onscreen">S17E9</episode-num>
-  </programme>
-  <programme start="20260605180500 +0000" stop="20260605190500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260605183500 +0000" stop="20260605193500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Top Chef</title>
     <desc lang="en">Top Chef is a hit reality competition series that celebrates the culinary arts with a fascinating window into the competitive, pressurized environment of world-class cookery and the restaurant business at the highest level.</desc>
     <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">22.12.</episode-num>
     <episode-num system="onscreen">S23E13</episode-num>
   </programme>
-  <programme start="20260605190500 +0000" stop="20260605200500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260605193500 +0000" stop="20260605203500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Special Forces: World's Toughest Test</title>
     <desc lang="en">Select recruits are forced to bury their teammates into coffins after cheating in a previous challenge.</desc>
     <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
   </programme>
-  <programme start="20260605200500 +0000" stop="20260605203500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260605203500 +0000" stop="20260605213500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Snapped: Killer Couples</title>
+    <desc lang="en">When a young man is found shot to death off the side of a rural in rural Indiana, the ensuing investigation delves into the dangers of online dating. Authorities ultimately uncover a stunning betrayal fueled by a twisted romance.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">16.8.</episode-num>
+    <episode-num system="onscreen">S17E9</episode-num>
+  </programme>
+  <programme start="20260605213500 +0000" stop="20260605220500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Family Feud</title>
     <desc lang="en">Hosted by Daytime Emmy Award® winning host Steve Harvey, Family Feud brings all new hilarious moments and families as they compete for a chance to win up to $20,000 by guessing the most popular answers to questions posed to 100 people surveyed.</desc>
     <category lang="en">Game Show</category>
     <episode-num system="xmltv_ns">19.45.</episode-num>
     <episode-num system="onscreen">S20E46</episode-num>
   </programme>
-  <programme start="20260605203500 +0000" stop="20260605210500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260605220500 +0000" stop="20260605223500 +0000" channel="hitsnow.unifitv">
     <title lang="en">The Goldbergs</title>
     <desc lang="en">When Barry (Troy Gentile) and Erica (Hayley Orrantia) get jobs at the mall, Murray (Jeff Garlin) insists that Adam (Sean Giambrone) go to work, too.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">3.13.</episode-num>
     <episode-num system="onscreen">S4E14</episode-num>
   </programme>
-  <programme start="20260605210500 +0000" stop="20260605213500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Ghosts</title>
-    <desc lang="en">The story continues for Sam and Jay as they run their Woodstone B&amp;B and restaurant, navigate the ghosts' day-to-day antics, and deal with new life challenges.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">4.21.</episode-num>
-    <episode-num system="onscreen">S5E22</episode-num>
-  </programme>
-  <programme start="20260605213500 +0000" stop="20260605223500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">The Agency: Central Intelligence</title>
-    <desc lang="en">Henry sends Owen to Minsk in a hunt for clues. Martian sets a rat trap.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
   <programme start="20260605223500 +0000" stop="20260605230500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Entertainment Tonight</title>
     <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
     <category lang="en">Chat show</category>
-    <episode-num system="xmltv_ns">44.11669.</episode-num>
-    <episode-num system="onscreen">S45E11670</episode-num>
+    <episode-num system="xmltv_ns">44.11668.</episode-num>
+    <episode-num system="onscreen">S45E11669</episode-num>
   </programme>
   <programme start="20260605230500 +0000" stop="20260606000500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Top Chef</title>
@@ -7323,109 +6762,88 @@
     <episode-num system="onscreen">S23E13</episode-num>
   </programme>
   <programme start="20260606000500 +0000" stop="20260606010500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Chicago Fire</title>
-    <desc lang="en">Severide is on high alert to track down a reckless driver who puts one of their own in harm's way. A member of Firehouse 51 struggles with a potentially life-changing decision.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">13.13.</episode-num>
-    <episode-num system="onscreen">S14E14</episode-num>
-  </programme>
-  <programme start="20260606010500 +0000" stop="20260606020500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Chicago P.D.</title>
-    <desc lang="en">Burgess takes a rookie officer under her wing as the team investigates a volatile drug case.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">12.13.</episode-num>
-    <episode-num system="onscreen">S13E14</episode-num>
-  </programme>
-  <programme start="20260606020500 +0000" stop="20260606030500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Special Forces: World's Toughest Test</title>
     <desc lang="en">Select recruits are forced to bury their teammates into coffins after cheating in a previous challenge.</desc>
     <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">2.5.</episode-num>
     <episode-num system="onscreen">S3E6</episode-num>
   </programme>
-  <programme start="20260606030500 +0000" stop="20260606040500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Hotel Costiera</title>
-    <desc lang="en">Ex-Marine April needs help finding her data-filled bracelet. As Daniel hunts for it, he finally tracks down Bruno to question him about Alice's fate.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+  <programme start="20260606010500 +0000" stop="20260606020500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Snapped: Killer Couples</title>
+    <desc lang="en">When a young man is found shot to death off the side of a rural in rural Indiana, the ensuing investigation delves into the dangers of online dating. Authorities ultimately uncover a stunning betrayal fueled by a twisted romance.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">16.8.</episode-num>
+    <episode-num system="onscreen">S17E9</episode-num>
   </programme>
-  <programme start="20260606040500 +0000" stop="20260606043500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
-    <category lang="en">Chat show</category>
-    <episode-num system="xmltv_ns">44.11669.</episode-num>
-    <episode-num system="onscreen">S45E11670</episode-num>
-  </programme>
-  <programme start="20260606043500 +0000" stop="20260606050500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260606020500 +0000" stop="20260606023500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Family Feud</title>
     <desc lang="en">Hosted by Daytime Emmy Award® winning host Steve Harvey, Family Feud brings all new hilarious moments and families as they compete for a chance to win up to $20,000 by guessing the most popular answers to questions posed to 100 people surveyed.</desc>
     <category lang="en">Game Show</category>
     <episode-num system="xmltv_ns">19.45.</episode-num>
     <episode-num system="onscreen">S20E46</episode-num>
   </programme>
-  <programme start="20260606050500 +0000" stop="20260606073500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Britain's Got Talent</title>
-    <desc lang="en">The nation's most beloved talent competition continues with a new set of thrilling acts performing for the judges and the golden opportunity to perform for the Royal Family</desc>
-    <category lang="en">Talent Show</category>
-    <episode-num system="xmltv_ns">18.13.</episode-num>
-    <episode-num system="onscreen">S19E14</episode-num>
+  <programme start="20260606023500 +0000" stop="20260606030500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">When Barry (Troy Gentile) and Erica (Hayley Orrantia) get jobs at the mall, Murray (Jeff Garlin) insists that Adam (Sean Giambrone) go to work, too.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <episode-num system="onscreen">S4E14</episode-num>
+  </programme>
+  <programme start="20260606030500 +0000" stop="20260606040500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">MasterChef: Dynamic Duos</title>
+    <desc lang="en">The Top 8 duos face another intimidating team challenge - it's a VIP dining experience with a difference - they must prepare dishes aboard a moving steam train and keep things from running off the rails.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">14.8.</episode-num>
+    <episode-num system="onscreen">S15E9</episode-num>
+  </programme>
+  <programme start="20260606040500 +0000" stop="20260606043500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11668.</episode-num>
+    <episode-num system="onscreen">S45E11669</episode-num>
+  </programme>
+  <programme start="20260606043500 +0000" stop="20260606073500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The 52nd American Music Awards</title>
+    <desc lang="en">The 52nd American Music Awards (AMAs) will be hosted by Queen Latifah from the MGM Grand Garden Arena in Las Vegas. This fan-voted event honor's the year's top artists with 50 categories focusing on breakthroughs.</desc>
+    <category lang="en">Award Show</category>
+    <episode-num system="xmltv_ns">75.75.</episode-num>
+    <episode-num system="onscreen">S76E76</episode-num>
   </programme>
   <programme start="20260606073500 +0000" stop="20260606083500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">The Agency: Central Intelligence</title>
-    <desc lang="en">Henry sends Owen to Minsk in a hunt for clues. Martian sets a rat trap.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+    <title lang="en">Special Forces: World's Toughest Test</title>
+    <desc lang="en">Select recruits are forced to bury their teammates into coffins after cheating in a previous challenge.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
   </programme>
   <programme start="20260606083500 +0000" stop="20260606093500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Sheriff Country</title>
-    <desc lang="en">Mickey Fox, a sheriff in Edgewater and stepsister of Cal Fire's division chief Sharon Leone, must balance the demands of law enforcement with the complexities of motherhood, politics and a past that won't stay buried.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
+    <title lang="en">Snapped: Killer Couples</title>
+    <desc lang="en">When a young man is found shot to death off the side of a rural in rural Indiana, the ensuing investigation delves into the dangers of online dating. Authorities ultimately uncover a stunning betrayal fueled by a twisted romance.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">16.8.</episode-num>
+    <episode-num system="onscreen">S17E9</episode-num>
   </programme>
-  <programme start="20260606093500 +0000" stop="20260606103500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Fire Country</title>
-    <desc lang="en">Bode Leone works alongside elite firefighters from Cal Fire and former friends, battling large-scale wildfires while navigating his complex past and personal relationships.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">3.19.</episode-num>
-    <episode-num system="onscreen">S4E20</episode-num>
-  </programme>
-  <programme start="20260606103500 +0000" stop="20260606113500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">MasterChef: Dynamic Duos</title>
-    <desc lang="en">The four duos on the losing team last time fight for survival in a Pressure Test. In a Gordon Ramsay style food auction, the duos must bid for their ingredients for their dish with time.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">14.9.</episode-num>
-    <episode-num system="onscreen">S15E10</episode-num>
+  <programme start="20260606093500 +0000" stop="20260606113500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">America's Got Talent</title>
+    <desc lang="en">With an army of loyal fans eager to find out what's in store, America's Got Talent returns to screens this year with more diverse talent, show-stopping moments and incredible drama than ever before.</desc>
+    <category lang="en">Talent Show</category>
+    <episode-num system="xmltv_ns">20.0.</episode-num>
+    <episode-num system="onscreen">S21E1</episode-num>
   </programme>
   <programme start="20260606113500 +0000" stop="20260606120500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Entertainment Tonight</title>
     <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
     <category lang="en">Chat show</category>
-    <episode-num system="xmltv_ns">44.11669.</episode-num>
-    <episode-num system="onscreen">S45E11670</episode-num>
+    <episode-num system="xmltv_ns">44.11668.</episode-num>
+    <episode-num system="onscreen">S45E11669</episode-num>
   </programme>
-  <programme start="20260606120500 +0000" stop="20260606130500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">The BAFTA TV Award with P&amp;O Cruises</title>
-    <desc lang="en">Hosted by Pat Sajak and Vanna White, "Celebrity Wheel of Fortune" welcomes celebrities to solve word puzzles for a chance to win up to $1 million. All of the money won goes to a charity of their choice.</desc>
-    <category lang="en">Game Show</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <episode-num system="onscreen">S4E1</episode-num>
-  </programme>
-  <programme start="20260606130500 +0000" stop="20260606140500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">The BAFTA TV Award with P&amp;O Cruises</title>
-    <desc lang="en">When a young boy is caught stealing food, Mickey uncovers a disturbing case of child abuse that leads to a high-stakes rescue and a cliffside standoff that could cost lives.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260606140500 +0000" stop="20260606150500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Fire Country</title>
-    <desc lang="en">In the aftermath of the Zabel Ridge fire, Station 42 faces internal turmoil but must rally together for a high-stakes rescue that tests their strength, loyalty and the future of the firehouse.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <episode-num system="onscreen">S4E1</episode-num>
+  <programme start="20260606120500 +0000" stop="20260606150500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The 52nd American Music Awards</title>
+    <desc lang="en">The 52nd American Music Awards (AMAs) will be hosted by Queen Latifah from the MGM Grand Garden Arena in Las Vegas. This fan-voted event honor's the year's top artists with 50 categories focusing on breakthroughs.</desc>
+    <category lang="en">Award Show</category>
+    <episode-num system="xmltv_ns">75.75.</episode-num>
+    <episode-num system="onscreen">S76E76</episode-num>
   </programme>
   <programme start="20260606150500 +0000" stop="20260606153500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Entertainment Tonight</title>
@@ -7434,12 +6852,12 @@
     <episode-num system="xmltv_ns">44.11669.</episode-num>
     <episode-num system="onscreen">S45E11670</episode-num>
   </programme>
-  <programme start="20260606153500 +0000" stop="20260606163500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">MasterChef: Dynamic Duos</title>
-    <desc lang="en">The four duos on the losing team last time fight for survival in a Pressure Test. In a Gordon Ramsay style food auction, the duos must bid for their ingredients for their dish with time.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">14.9.</episode-num>
-    <episode-num system="onscreen">S15E10</episode-num>
+  <programme start="20260606153500 +0000" stop="20260606160500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">When Barry (Troy Gentile) and Erica (Hayley Orrantia) get jobs at the mall, Murray (Jeff Garlin) insists that Adam (Sean Giambrone) go to work, too.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <episode-num system="onscreen">S4E14</episode-num>
   </programme>
   <channel id="axn.unifitv">
     <display-name>AXN</display-name>

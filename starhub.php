@@ -1916,7 +1916,7 @@
         <title>Saturday, June 6, 2026 3am ET</title>
     </programme>
     <programme start="20260606073000 +0000" stop="20260606080000 +0000" channel="CNN HD.starhub">
-        <title>46174</title>
+        <title>The Business of Sport</title>
     </programme>
     <programme start="20260606080000 +0000" stop="20260606083000 +0000" channel="CNN HD.starhub">
         <title>Saturday, June 6, 2026 4am ET</title>
@@ -1970,7 +1970,7 @@
         <title>Movie - Sakalakala Vallavan</title>
     </programme>
     <programme start="20260606073000 +0000" stop="20260606103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - MR.Bharath</title>
+        <title>Movie - Mr. Bharath</title>
     </programme>
     <programme start="20260606103000 +0000" stop="20260606133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Sathriyan</title>
@@ -2009,31 +2009,31 @@
         <title>Mini Match - Roland Garros 2026: Women&#039;s Singles SF 1 Andreeva v Kostyuk</title>
     </programme>
     <programme start="20260606031500 +0000" stop="20260606034500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Roland Garros 2026: Women&#039;s Singles SF 2 Shnaider v Chwalinska</title>
+        <title>Women’s Singles SF 2 Shnaider v Chwalinska</title>
     </programme>
     <programme start="20260606034500 +0000" stop="20260606054500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Men&#039;s Singles SF 1 Zverev v Mensik</title>
+        <title>Men&#039;s Singles SF 1 Zverev v Mensik</title>
     </programme>
     <programme start="20260606054500 +0000" stop="20260606074500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Men&#039;s Singles SF 2 Cobolli v Arnaldi</title>
+        <title>Women’s Singles SF 2 Shnaider v Chwalinska</title>
     </programme>
     <programme start="20260606074500 +0000" stop="20260606084500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 13</title>
     </programme>
     <programme start="20260606084500 +0000" stop="20260606111500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros 2026: Men&#039;s Doubles Final (Live)</title>
+        <title>Men&#039;s Doubles Final Granollers/Zeballos v Heliovaara/Patten</title>
     </programme>
     <programme start="20260606111500 +0000" stop="20260606114500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Roland Garros 2026: Women&#039;s Singles SF 2 Shnaider v Chwalinska</title>
+        <title>Women’s Singles SF 2 Shnaider v Chwalinska</title>
     </programme>
     <programme start="20260606114500 +0000" stop="20260606124500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Day 13</title>
     </programme>
     <programme start="20260606124500 +0000" stop="20260606153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros 2026: Women&#039;s Singles Final Andreeva v Chwalinska (Live)</title>
+        <title>Women&#039;s Singles Final Andreeva v Chwalinska</title>
     </programme>
     <programme start="20260606153000 +0000" stop="20260606173000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Men&#039;s Doubles Final</title>
+        <title>Men&#039;s Doubles Final Granollers/Zeballos v Heliovaara/Patten</title>
     </programme>
     <programme start="20260605160000 +0000" stop="20260605170000 +0000" channel="TVB Xing He.starhub">
         <title>Country Spirit</title>
