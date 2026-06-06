@@ -15745,7 +15745,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606054500 +0000" stop="20260606074500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Roland Garros 2026 - Men's Singles SF 2 Cobolli v Arnaldi</title>
+    <title lang="en">Best of Roland Garros 2026 -Women’s Singles SF 2 Shnaider v Chwalinska</title>
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15902,29 +15902,34 @@
     <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260606110800 +0000" stop="20260606113000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">HSBC SVNS World Championships - USA vs Canada - Pool Stage, Bordeaux - Women (L)</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606113000 +0000" stop="20260606120000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">HSBC SVNS World Championships - Fiji vs Brazil - Pool Stage, Bordeaux - Women (L)</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260606120000 +0000" stop="20260606133000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Premier Padel - Italy Major Day 5 SF1 - Women (L)</title>
+  <programme start="20260606110800 +0000" stop="20260606123000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Premier Padel - Italy Major Day 5 SF1 - Women</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260606133000 +0000" stop="20260606150000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Premier Padel - Italy Major Day 5 SF1 - Men (L)</title>
+  <programme start="20260606123000 +0000" stop="20260606140000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Premier Padel - Italy Major Day 5 SF1 - Men</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260606140000 +0000" stop="20260606141100 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCL - Barcelona vs Shakhtar (2010/11)</title>
+    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260606141100 +0000" stop="20260606143400 +0000" channel="beinsports3.unifitv">
+    <title lang="en">HSBC SVNS World Championships -Cup QF 3, Bordeaux - Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260606143400 +0000" stop="20260606150000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">HSBC SVNS World Championships - Cup QF 4, Bordeaux - Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606150000 +0000" stop="20260606152500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCL Special - UCL Every Goal - Karim Benzema</title>
-    <desc lang="en">UCL Special - UCL Every Goal - Karim Benzema</desc>
+    <title lang="en">UCL Every Goal - Karim Benzema</title>
+    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260606152500 +0000" stop="20260606154800 +0000" channel="beinsports3.unifitv">
