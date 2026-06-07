@@ -7693,19 +7693,19 @@
     <programme start="20260607153000 +0000" stop="20260607160000 +0000" channel="ABC Australia HD.starhub">
         <title>Woomera Detention Centre Breakout</title>
     </programme>
-    <programme start="20260606133000 +0000" stop="20260606170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260606133000 +0000" stop="20260606165000 +0000" channel="Asianet Movies.starhub">
         <title>Pachuvum Albhuthavilakkum</title>
     </programme>
-    <programme start="20260606170000 +0000" stop="20260606193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260606165000 +0000" stop="20260606191500 +0000" channel="Asianet Movies.starhub">
         <title>Romancham</title>
     </programme>
-    <programme start="20260606193000 +0000" stop="20260606213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260606191500 +0000" stop="20260606213000 +0000" channel="Asianet Movies.starhub">
         <title>Aarkkariyam</title>
     </programme>
-    <programme start="20260606213000 +0000" stop="20260606233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260606213000 +0000" stop="20260606234000 +0000" channel="Asianet Movies.starhub">
         <title>Panthayakkozhi</title>
     </programme>
-    <programme start="20260606233000 +0000" stop="20260607013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260606234000 +0000" stop="20260607013000 +0000" channel="Asianet Movies.starhub">
         <title>Tsunami</title>
     </programme>
     <programme start="20260607013000 +0000" stop="20260607043000 +0000" channel="Asianet Movies.starhub">
@@ -7714,10 +7714,10 @@
     <programme start="20260607043000 +0000" stop="20260607073000 +0000" channel="Asianet Movies.starhub">
         <title>China Town</title>
     </programme>
-    <programme start="20260607073000 +0000" stop="20260607103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260607073000 +0000" stop="20260607103500 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
-    <programme start="20260607103000 +0000" stop="20260607133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260607103500 +0000" stop="20260607133000 +0000" channel="Asianet Movies.starhub">
         <title>Thanneer Mathan dinangal</title>
     </programme>
     <programme start="20260607133000 +0000" stop="20260607163000 +0000" channel="Asianet Movies.starhub">

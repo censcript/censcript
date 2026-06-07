@@ -2926,14 +2926,8 @@
 <programme start="20260607083000 +0000" stop="20260607100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - F. Cobolli (ITA), BMW Open in München, Halbfinale 1</title>
 </programme>
-<programme start="20260607100000 +0000" stop="20260607101500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Sky Sport News: Primetime Spezial - Zverev&#039;s erster Grand-Slam-Titel?</title>
-</programme>
 <programme start="20260607101500 +0000" stop="20260607121500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - F. Cobolli (ITA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
-</programme>
-<programme start="20260607121500 +0000" stop="20260607123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Sky Sport News: Tennis Spezial - Der French Open Finalcountdown</title>
 </programme>
 <programme start="20260607170000 +0000" stop="20260607184500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>

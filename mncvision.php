@@ -6277,9 +6277,114 @@
 <programme start="20260607160600 +0000" stop="20260607163600 +0000" channel="Moonbug.mncvision">
     <title>Oddbods</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260606190000 +0000" stop="20260606213000 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260606213000 +0000" stop="20260606223000 +0000" channel="Music TV.mncvision">
+    <title>Made In India</title>
+</programme>
+<programme start="20260606223000 +0000" stop="20260606233000 +0000" channel="Music TV.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20260606233000 +0000" stop="20260607001500 +0000" channel="Music TV.mncvision">
+    <title>One Hour With</title>
+</programme>
+<programme start="20260607001500 +0000" stop="20260607020000 +0000" channel="Music TV.mncvision">
+    <title>The Next Didi Kempot</title>
+</programme>
+<programme start="20260607020000 +0000" stop="20260607034500 +0000" channel="Music TV.mncvision">
+    <title>Bang Jali Bikin Hepi</title>
+</programme>
+<programme start="20260607034500 +0000" stop="20260607041500 +0000" channel="Music TV.mncvision">
+    <title>Di Balik Lagu</title>
+</programme>
+<programme start="20260607041500 +0000" stop="20260607050000 +0000" channel="Music TV.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260607050000 +0000" stop="20260607070000 +0000" channel="Music TV.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260607070000 +0000" stop="20260607073000 +0000" channel="Music TV.mncvision">
+    <title>Idol Story</title>
+</programme>
+<programme start="20260607073000 +0000" stop="20260607100000 +0000" channel="Music TV.mncvision">
+    <title>KDI 2025</title>
+</programme>
+<programme start="20260607100000 +0000" stop="20260607110000 +0000" channel="Music TV.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260607110000 +0000" stop="20260607120000 +0000" channel="Music TV.mncvision">
+    <title>Made In India</title>
+</programme>
+<programme start="20260607120000 +0000" stop="20260607130000 +0000" channel="Music TV.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20260607130000 +0000" stop="20260607140000 +0000" channel="Music TV.mncvision">
+    <title>Charming (Chart Minggu Ini)</title>
+</programme>
+<programme start="20260607140000 +0000" stop="20260607150000 +0000" channel="Music TV.mncvision">
+    <title>D Goyang</title>
+</programme>
+<programme start="20260607150000 +0000" stop="20260607163000 +0000" channel="Music TV.mncvision">
+    <title>Bang Jali Bikin Hepi</title>
+</programme>
+<programme start="20260607163000 +0000" stop="20260606170000 +0000" channel="Music TV.mncvision">
+    <title>KDI 2025</title>
+</programme>
+<programme start="20260606190000 +0000" stop="20260606213000 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260606213000 +0000" stop="20260606223000 +0000" channel="Music TV HD.mncvision">
+    <title>Made In India</title>
+</programme>
+<programme start="20260606223000 +0000" stop="20260606233000 +0000" channel="Music TV HD.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20260606233000 +0000" stop="20260607001500 +0000" channel="Music TV HD.mncvision">
+    <title>One Hour With</title>
+</programme>
+<programme start="20260607001500 +0000" stop="20260607020000 +0000" channel="Music TV HD.mncvision">
+    <title>The Next Didi Kempot</title>
+</programme>
+<programme start="20260607020000 +0000" stop="20260607034500 +0000" channel="Music TV HD.mncvision">
+    <title>Bang Jali Bikin Hepi</title>
+</programme>
+<programme start="20260607034500 +0000" stop="20260607041500 +0000" channel="Music TV HD.mncvision">
+    <title>Di Balik Lagu</title>
+</programme>
+<programme start="20260607041500 +0000" stop="20260607050000 +0000" channel="Music TV HD.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260607050000 +0000" stop="20260607070000 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260607070000 +0000" stop="20260607073000 +0000" channel="Music TV HD.mncvision">
+    <title>Idol Story</title>
+</programme>
+<programme start="20260607073000 +0000" stop="20260607100000 +0000" channel="Music TV HD.mncvision">
+    <title>KDI 2025</title>
+</programme>
+<programme start="20260607100000 +0000" stop="20260607110000 +0000" channel="Music TV HD.mncvision">
+    <title>Godain</title>
+</programme>
+<programme start="20260607110000 +0000" stop="20260607120000 +0000" channel="Music TV HD.mncvision">
+    <title>Made In India</title>
+</programme>
+<programme start="20260607120000 +0000" stop="20260607130000 +0000" channel="Music TV HD.mncvision">
+    <title>Juke Box</title>
+</programme>
+<programme start="20260607130000 +0000" stop="20260607140000 +0000" channel="Music TV HD.mncvision">
+    <title>Charming (Chart Minggu Ini)</title>
+</programme>
+<programme start="20260607140000 +0000" stop="20260607150000 +0000" channel="Music TV HD.mncvision">
+    <title>D Goyang</title>
+</programme>
+<programme start="20260607150000 +0000" stop="20260607163000 +0000" channel="Music TV HD.mncvision">
+    <title>Bang Jali Bikin Hepi</title>
+</programme>
+<programme start="20260607163000 +0000" stop="20260606170000 +0000" channel="Music TV HD.mncvision">
+    <title>KDI 2025</title>
+</programme>
 <programme start="20260606173000 +0000" stop="20260606190000 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah</title>
 </programme>
@@ -6343,7 +6448,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260607160000 +0000" stop="20260607163000 +0000" channel="Muslim TV.mncvision">
     <title>Ustadz Kembar Part 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260606170000 +0000" stop="20260606171000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260606171000 +0000" stop="20260606172500 +0000" channel="NHK World.mncvision">
+    <title>BOSAI: Linear Rainbands</title>
+</programme>
+<programme start="20260606172500 +0000" stop="20260606173000 +0000" channel="NHK World.mncvision">
+    <title>Design Museum Japan</title>
+</programme>
+<programme start="20260606173000 +0000" stop="20260606180000 +0000" channel="NHK World.mncvision">
+    <title>Kabuki Kool</title>
+</programme>
+<programme start="20260606180000 +0000" stop="20260606181000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260606181000 +0000" stop="20260606190000 +0000" channel="NHK World.mncvision">
+    <title>Long Path To Gender Equality</title>
+</programme>
+<programme start="20260606190000 +0000" stop="20260606191000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260606191000 +0000" stop="20260606200000 +0000" channel="NHK World.mncvision">
+    <title>Grand Sumo Legends</title>
+</programme>
+<programme start="20260606200000 +0000" stop="20260606201000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260606201000 +0000" stop="20260606204000 +0000" channel="NHK World.mncvision">
+    <title>Biz Stream</title>
+</programme>
+<programme start="20260606204000 +0000" stop="20260606205000 +0000" channel="NHK World.mncvision">
+    <title>Story Land</title>
+</programme>
+<programme start="20260606205000 +0000" stop="20260606210000 +0000" channel="NHK World.mncvision">
+    <title>Texico</title>
+</programme>
+<programme start="20260606210000 +0000" stop="20260606211000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260606211000 +0000" stop="20260606215500 +0000" channel="NHK World.mncvision">
+    <title>Train Cruise</title>
+</programme>
+<programme start="20260606215500 +0000" stop="20260606220000 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus</title>
+</programme>
+<programme start="20260606220000 +0000" stop="20260606221000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260606221000 +0000" stop="20260606224000 +0000" channel="NHK World.mncvision">
+    <title>Samurai Castles: Himeji</title>
+</programme>
+<programme start="20260606224000 +0000" stop="20260606225500 +0000" channel="NHK World.mncvision">
+    <title>Cinematic Journey</title>
+</programme>
+<programme start="20260606225500 +0000" stop="20260606230000 +0000" channel="NHK World.mncvision">
+    <title>Ukiyoe Edo-Life: Good Or Evil</title>
+</programme>
+<programme start="20260606230000 +0000" stop="20260606231000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260606231000 +0000" stop="20260606232500 +0000" channel="NHK World.mncvision">
+    <title>BOSAI: Linear Rainbands</title>
+</programme>
+<programme start="20260606232500 +0000" stop="20260606233000 +0000" channel="NHK World.mncvision">
+    <title>Design Museum Japan</title>
+</programme>
+<programme start="20260606233000 +0000" stop="20260607000000 +0000" channel="NHK World.mncvision">
+    <title>Kabuki Kool</title>
+</programme>
+<programme start="20260607000000 +0000" stop="20260607005000 +0000" channel="NHK World.mncvision">
+    <title>The World Is Filled With Words</title>
+</programme>
+<programme start="20260607005000 +0000" stop="20260607010000 +0000" channel="NHK World.mncvision">
+    <title>Gourmet In The Park</title>
+</programme>
+<programme start="20260607010000 +0000" stop="20260607011000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607011000 +0000" stop="20260607020000 +0000" channel="NHK World.mncvision">
+    <title>Dosukoi Sumo Salon</title>
+</programme>
+<programme start="20260607020000 +0000" stop="20260607021000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607021000 +0000" stop="20260607024000 +0000" channel="NHK World.mncvision">
+    <title>J-Melo</title>
+</programme>
+<programme start="20260607024000 +0000" stop="20260607025000 +0000" channel="NHK World.mncvision">
+    <title>Little Charo</title>
+</programme>
+<programme start="20260607025000 +0000" stop="20260607025500 +0000" channel="NHK World.mncvision">
+    <title>Japanology Plus</title>
+</programme>
+<programme start="20260607025500 +0000" stop="20260607030000 +0000" channel="NHK World.mncvision">
+    <title>A Cat&#039;s-Eye View Of Japan</title>
+</programme>
+<programme start="20260607030000 +0000" stop="20260607031000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607031000 +0000" stop="20260607034000 +0000" channel="NHK World.mncvision">
+    <title>Cycle Around Japan Highlights</title>
+</programme>
+<programme start="20260607034000 +0000" stop="20260607040000 +0000" channel="NHK World.mncvision">
+    <title>The Wakey Show</title>
+</programme>
+<programme start="20260607040000 +0000" stop="20260607041000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607041000 +0000" stop="20260607050000 +0000" channel="NHK World.mncvision">
+    <title>Somewhere Street</title>
+</programme>
+<programme start="20260607050000 +0000" stop="20260607051000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607051000 +0000" stop="20260607052500 +0000" channel="NHK World.mncvision">
+    <title>Laugh Then Think</title>
+</programme>
+<programme start="20260607052500 +0000" stop="20260607053000 +0000" channel="NHK World.mncvision">
+    <title>Core Kyoto</title>
+</programme>
+<programme start="20260607053000 +0000" stop="20260607054500 +0000" channel="NHK World.mncvision">
+    <title>Easy Japanese For Work</title>
+</programme>
+<programme start="20260607054500 +0000" stop="20260607060000 +0000" channel="NHK World.mncvision">
+    <title>Zero Waste Life</title>
+</programme>
+<programme start="20260607060000 +0000" stop="20260607061000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607061000 +0000" stop="20260607070000 +0000" channel="NHK World.mncvision">
+    <title>The World Is Filled With Words</title>
+</programme>
+<programme start="20260607070000 +0000" stop="20260607071000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607071000 +0000" stop="20260607080000 +0000" channel="NHK World.mncvision">
+    <title>Dosukoi Sumo Salon</title>
+</programme>
+<programme start="20260607080000 +0000" stop="20260607081000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607081000 +0000" stop="20260607090000 +0000" channel="NHK World.mncvision">
+    <title>Somewhere Street</title>
+</programme>
+<programme start="20260607090000 +0000" stop="20260607091000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
+</programme>
+<programme start="20260607091000 +0000" stop="20260607094000 +0000" channel="NHK World.mncvision">
+    <title>Cycle Around Japan Highlights</title>
+</programme>
 <programme start="20260606170000 +0000" stop="20260606170500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
@@ -6944,9 +7198,147 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260607073500 +0000" stop="20260607080500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Peppa Pig</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260606172000 +0000" stop="20260606184000 +0000" channel="ONE.mncvision">
+    <title>Connection, Ep 7</title>
+</programme>
+<programme start="20260606184000 +0000" stop="20260606200000 +0000" channel="ONE.mncvision">
+    <title>Connection, Ep 8</title>
+</programme>
+<programme start="20260606200000 +0000" stop="20260606214500 +0000" channel="ONE.mncvision">
+    <title>Adventure By Accident S3, Ep 9</title>
+</programme>
+<programme start="20260606214500 +0000" stop="20260606220000 +0000" channel="ONE.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20260606220000 +0000" stop="20260606231500 +0000" channel="ONE.mncvision">
+    <title>Doctors, Ep 5</title>
+</programme>
+<programme start="20260606231500 +0000" stop="20260607003000 +0000" channel="ONE.mncvision">
+    <title>Doctors, Ep 6</title>
+</programme>
+<programme start="20260607003000 +0000" stop="20260607023000 +0000" channel="ONE.mncvision">
+    <title>Hey! First Time In Korea?, Ep 6</title>
+</programme>
+<programme start="20260607023000 +0000" stop="20260607042000 +0000" channel="ONE.mncvision">
+    <title>Adventure By Accident S3, Ep 9</title>
+</programme>
+<programme start="20260607042000 +0000" stop="20260607062000 +0000" channel="ONE.mncvision">
+    <title>Running Man, Ep 768</title>
+</programme>
+<programme start="20260607062000 +0000" stop="20260607074000 +0000" channel="ONE.mncvision">
+    <title>Connection, Ep 7</title>
+</programme>
+<programme start="20260607074000 +0000" stop="20260607090000 +0000" channel="ONE.mncvision">
+    <title>Connection, Ep 8</title>
+</programme>
+<programme start="20260607090000 +0000" stop="20260607110000 +0000" channel="ONE.mncvision">
+    <title>Running Man, Ep 768</title>
+</programme>
+<programme start="20260607110000 +0000" stop="20260607121500 +0000" channel="ONE.mncvision">
+    <title>Great Queen Seondeok, Ep 51</title>
+</programme>
+<programme start="20260607121500 +0000" stop="20260607133000 +0000" channel="ONE.mncvision">
+    <title>Great Queen Seondeok, Ep 52</title>
+</programme>
+<programme start="20260607133000 +0000" stop="20260607142500 +0000" channel="ONE.mncvision">
+    <title>Study Group, Ep 7</title>
+</programme>
+<programme start="20260607142500 +0000" stop="20260607152000 +0000" channel="ONE.mncvision">
+    <title>Study Group, Ep 8</title>
+</programme>
+<programme start="20260607152000 +0000" stop="20260607155000 +0000" channel="ONE.mncvision">
+    <title>Running Man, Ep 717</title>
+</programme>
+<programme start="20260606172000 +0000" stop="20260606184000 +0000" channel="ONE HD.mncvision">
+    <title>Connection, Ep 7</title>
+</programme>
+<programme start="20260606184000 +0000" stop="20260606200000 +0000" channel="ONE HD.mncvision">
+    <title>Connection, Ep 8</title>
+</programme>
+<programme start="20260606200000 +0000" stop="20260606214500 +0000" channel="ONE HD.mncvision">
+    <title>Adventure By Accident S3, Ep 9</title>
+</programme>
+<programme start="20260606214500 +0000" stop="20260606220000 +0000" channel="ONE HD.mncvision">
+    <title>K-Hits</title>
+</programme>
+<programme start="20260606220000 +0000" stop="20260606231500 +0000" channel="ONE HD.mncvision">
+    <title>Doctors, Ep 5</title>
+</programme>
+<programme start="20260606231500 +0000" stop="20260607003000 +0000" channel="ONE HD.mncvision">
+    <title>Doctors, Ep 6</title>
+</programme>
+<programme start="20260607003000 +0000" stop="20260607023000 +0000" channel="ONE HD.mncvision">
+    <title>Hey! First Time In Korea?, Ep 6</title>
+</programme>
+<programme start="20260607023000 +0000" stop="20260607042000 +0000" channel="ONE HD.mncvision">
+    <title>Adventure By Accident S3, Ep 9</title>
+</programme>
+<programme start="20260607042000 +0000" stop="20260607062000 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 768</title>
+</programme>
+<programme start="20260607062000 +0000" stop="20260607074000 +0000" channel="ONE HD.mncvision">
+    <title>Connection, Ep 7</title>
+</programme>
+<programme start="20260607074000 +0000" stop="20260607090000 +0000" channel="ONE HD.mncvision">
+    <title>Connection, Ep 8</title>
+</programme>
+<programme start="20260607090000 +0000" stop="20260607110000 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 768</title>
+</programme>
+<programme start="20260607110000 +0000" stop="20260607121500 +0000" channel="ONE HD.mncvision">
+    <title>Great Queen Seondeok, Ep 51</title>
+</programme>
+<programme start="20260607121500 +0000" stop="20260607133000 +0000" channel="ONE HD.mncvision">
+    <title>Great Queen Seondeok, Ep 52</title>
+</programme>
+<programme start="20260607133000 +0000" stop="20260607142500 +0000" channel="ONE HD.mncvision">
+    <title>Study Group, Ep 7</title>
+</programme>
+<programme start="20260607142500 +0000" stop="20260607152000 +0000" channel="ONE HD.mncvision">
+    <title>Study Group, Ep 8</title>
+</programme>
+<programme start="20260607152000 +0000" stop="20260607155000 +0000" channel="ONE HD.mncvision">
+    <title>Running Man, Ep 717</title>
+</programme>
+<programme start="20260606184100 +0000" stop="20260606210000 +0000" channel="ORIGINALS.mncvision">
+    <title>Nightmare Alley: Possession</title>
+</programme>
+<programme start="20260606210000 +0000" stop="20260606225000 +0000" channel="ORIGINALS.mncvision">
+    <title>Lost Heart</title>
+</programme>
+<programme start="20260606225000 +0000" stop="20260607001400 +0000" channel="ORIGINALS.mncvision">
+    <title>Come Dance At My Wedding</title>
+</programme>
+<programme start="20260607001400 +0000" stop="20260607022500 +0000" channel="ORIGINALS.mncvision">
+    <title>Legendary Voyages</title>
+</programme>
+<programme start="20260607022500 +0000" stop="20260607041600 +0000" channel="ORIGINALS.mncvision">
+    <title>A Perfect Day</title>
+</programme>
+<programme start="20260607041600 +0000" stop="20260607061500 +0000" channel="ORIGINALS.mncvision">
+    <title>Nightmare Alley: Possession</title>
+</programme>
+<programme start="20260607061500 +0000" stop="20260607080000 +0000" channel="ORIGINALS.mncvision">
+    <title>The Escape Of Prisoner 614</title>
+</programme>
+<programme start="20260607080000 +0000" stop="20260607092200 +0000" channel="ORIGINALS.mncvision">
+    <title>Rock And Roll Christmas</title>
+</programme>
+<programme start="20260607092200 +0000" stop="20260607111100 +0000" channel="ORIGINALS.mncvision">
+    <title>Legendary Voyages</title>
+</programme>
+<programme start="20260607111100 +0000" stop="20260607125500 +0000" channel="ORIGINALS.mncvision">
+    <title>Playing God</title>
+</programme>
+<programme start="20260607125500 +0000" stop="20260607151400 +0000" channel="ORIGINALS.mncvision">
+    <title>Nightmare Alley: Possession</title>
+</programme>
+<programme start="20260607151400 +0000" stop="20260607165800 +0000" channel="ORIGINALS.mncvision">
+    <title>First Love</title>
+</programme>
+<programme start="20260607165800 +0000" stop="20260606172800 +0000" channel="ORIGINALS.mncvision">
+    <title>Faith Heist</title>
+</programme>
 <programme start="20260606184100 +0000" stop="20260606210000 +0000" channel="ORIGINALS HD.mncvision">
     <title>Nightmare Alley: Possession</title>
 </programme>

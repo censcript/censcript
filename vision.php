@@ -610,9 +610,6 @@
 <programme start="20260606230000 +0000" stop="20260607010000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260607010000 +0000" stop="20260607023000 +0000" channel="ANTV.vision">
-<title>Antara Cinta Dan Dusta</title>
-</programme>
 <programme start="20260607023000 +0000" stop="20260607060000 +0000" channel="ANTV.vision">
 <title>Satyaprem Ki Katha</title>
 </programme>
@@ -774,9 +771,6 @@
 </programme>
 <programme start="20260607013000 +0000" stop="20260607020000 +0000" channel="TVOne.vision">
 <title>Umroh Bersama Ust. Abdul S.</title>
-</programme>
-<programme start="20260607020000 +0000" stop="20260607023000 +0000" channel="TVOne.vision">
-<title>Indonesia Plus</title>
 </programme>
 <programme start="20260607023000 +0000" stop="20260607030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260608050000 +0000" stop="20260608070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260608070000 +0000" stop="20260608090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260608090000 +0000" stop="20260608110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
