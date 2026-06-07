@@ -2377,23 +2377,20 @@
 <programme start="20260607053500 +0000" stop="20260607064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F3: 2. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260607064500 +0000" stop="20260607071500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607064500 +0000" stop="20260607072500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1 Academy: Weekend Wrapped - GP Kanada</title>
 </programme>
-<programme start="20260607071500 +0000" stop="20260607084000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607072500 +0000" stop="20260607085000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F2: 2. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260607084000 +0000" stop="20260607092000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607085000 +0000" stop="20260607093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Doku: Ralf &amp; Étienne: Wir sagen Ja</title>
 </programme>
-<programme start="20260607092000 +0000" stop="20260607094000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607093000 +0000" stop="20260607095000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1: Wildest Qualifying Moments of 2025</title>
 </programme>
-<programme start="20260607094000 +0000" stop="20260607103000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607095000 +0000" stop="20260607110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live PMSC: Rennen - GP Monaco</title>
-</programme>
-<programme start="20260607103000 +0000" stop="20260607110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
 </programme>
 <programme start="20260607110000 +0000" stop="20260607113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Fahrerparade - GP Monaco</title>
@@ -2401,19 +2398,19 @@
 <programme start="20260607113000 +0000" stop="20260607125500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Vorberichte - GP Monaco</title>
 </programme>
-<programme start="20260607125500 +0000" stop="20260607150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607125500 +0000" stop="20260607155500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Rennen - GP Monaco</title>
 </programme>
-<programme start="20260607150000 +0000" stop="20260607154500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607155500 +0000" stop="20260607163500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Monaco</title>
 </programme>
-<programme start="20260607154500 +0000" stop="20260607161500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607163500 +0000" stop="20260607170500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Monaco</title>
 </programme>
-<programme start="20260607161500 +0000" stop="20260607164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607170500 +0000" stop="20260607173500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
 </programme>
-<programme start="20260607164500 +0000" stop="20260607174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260607173500 +0000" stop="20260607174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA ECL: Saisonrückblick</title>
 </programme>
 <programme start="20260607174500 +0000" stop="20260607181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2563,23 +2560,20 @@
 <programme start="20260607053500 +0000" stop="20260607064500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: 2. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260607064500 +0000" stop="20260607071500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260607064500 +0000" stop="20260607072500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: Weekend Wrapped - GP Kanada</title>
 </programme>
-<programme start="20260607071500 +0000" stop="20260607084000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260607072500 +0000" stop="20260607085000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: 2. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260607084000 +0000" stop="20260607092000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260607085000 +0000" stop="20260607093000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Doku: Ralf &amp; Étienne: Wir sagen Ja</title>
 </programme>
-<programme start="20260607092000 +0000" stop="20260607094000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260607093000 +0000" stop="20260607095000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Wildest Qualifying Moments of 2025</title>
 </programme>
-<programme start="20260607094000 +0000" stop="20260607103000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260607095000 +0000" stop="20260607110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live PMSC: Rennen - GP Monaco</title>
-</programme>
-<programme start="20260607103000 +0000" stop="20260607110000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
 </programme>
 <programme start="20260607110000 +0000" stop="20260607113000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Fahrerparade - GP Monaco</title>
@@ -2653,8 +2647,17 @@
 <programme start="20260606233000 +0000" stop="20260606234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 2</title>
 </programme>
-<programme start="20260606234500 +0000" stop="20260607050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260606234500 +0000" stop="20260607044500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 3</title>
+</programme>
+<programme start="20260607044500 +0000" stop="20260607053000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Qualifying - GP Ungarn</title>
+</programme>
+<programme start="20260607053000 +0000" stop="20260607063000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Sprint - GP Ungarn</title>
+</programme>
+<programme start="20260607063000 +0000" stop="20260607073500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Qualifying - GP Ungarn</title>
 </programme>
 <programme start="20260607073500 +0000" stop="20260607083500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Warm Up - GP Ungarn</title>
@@ -2938,10 +2941,10 @@
 <programme start="20260606220000 +0000" stop="20260606234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: US Women&#039;s Open, 3. Tag in Pacific Palisades, CA (USA)</title>
 </programme>
-<programme start="20260606234500 +0000" stop="20260607050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260606234500 +0000" stop="20260607044500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 3</title>
 </programme>
-<programme start="20260607050000 +0000" stop="20260607052500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260607044500 +0000" stop="20260607052500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Alex Marquez - Best Moments 2025</title>
 </programme>
 <programme start="20260607052500 +0000" stop="20260607053500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2950,13 +2953,13 @@
 <programme start="20260607053500 +0000" stop="20260607064500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F3: 2. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260607064500 +0000" stop="20260607071500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260607064500 +0000" stop="20260607072500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1 Academy: Weekend Wrapped - GP Kanada</title>
 </programme>
-<programme start="20260607071500 +0000" stop="20260607084000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260607072500 +0000" stop="20260607085000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: 2. Rennen - GP Monaco</title>
 </programme>
-<programme start="20260607084000 +0000" stop="20260607100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260607085000 +0000" stop="20260607100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: Rennen - GP Ungarn</title>
 </programme>
 <programme start="20260607100000 +0000" stop="20260607111500 +0000" channel="Sky Sport Top Event HD.skyde">
