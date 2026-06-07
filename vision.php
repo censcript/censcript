@@ -610,9 +610,6 @@
 <programme start="20260606230000 +0000" stop="20260607010000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260607023000 +0000" stop="20260607060000 +0000" channel="ANTV.vision">
-<title>Satyaprem Ki Katha</title>
-</programme>
 <programme start="20260607060000 +0000" stop="20260607073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -621,9 +618,6 @@
 </programme>
 <programme start="20260607090000 +0000" stop="20260607113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260607113000 +0000" stop="20260607133000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
 </programme>
 <programme start="20260607133000 +0000" stop="20260607153000 +0000" channel="ANTV.vision">
 <title>Depan Bisa Belakang Bisa</title>
@@ -795,9 +789,6 @@
 </programme>
 <programme start="20260607110000 +0000" stop="20260607130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260607130000 +0000" stop="20260607140000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
 </programme>
 <programme start="20260607140000 +0000" stop="20260607150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260608090000 +0000" stop="20260608110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260608110000 +0000" stop="20260608130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260607000000 +0000" stop="20260607003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
+</programme>
+<programme start="20260607003000 +0000" stop="20260607010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
 </programme>
