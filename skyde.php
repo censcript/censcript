@@ -2452,6 +2452,9 @@
 <programme start="20260607213000 +0000" stop="20260607233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: FC Blau-Weiß Linz - Grazer AK 1902, 32. Runde</title>
 </programme>
+<programme start="20260608090000 +0000" stop="20260608163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live WTA 250: Libema Open in s&#039;Hertogenbosch (NED), 1. Tag</title>
+</programme>
 <programme start="20260606224500 +0000" stop="20260606234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Saisonrückblick 2025/26</title>
 </programme>
@@ -2644,26 +2647,23 @@
 <programme start="20260607190000 +0000" stop="20260608000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: US Women&#039;s Open, 4. Tag in Pacific Palisades, CA (USA)</title>
 </programme>
-<programme start="20260606220000 +0000" stop="20260606223000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20260606223000 +0000" stop="20260606233000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260606230000 +0000" stop="20260606233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
 </programme>
 <programme start="20260606233000 +0000" stop="20260606234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 2</title>
 </programme>
-<programme start="20260606234500 +0000" stop="20260607031500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260606234500 +0000" stop="20260607044500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 3</title>
 </programme>
-<programme start="20260607031500 +0000" stop="20260607040000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>World Surf League: Replay: Raglan Pro Finals Day</title>
+<programme start="20260607044500 +0000" stop="20260607053000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Qualifying - GP Ungarn</title>
 </programme>
-<programme start="20260607040000 +0000" stop="20260607050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260607053000 +0000" stop="20260607063000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Ungarn</title>
 </programme>
-<programme start="20260607050000 +0000" stop="20260607073500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 3</title>
+<programme start="20260607063000 +0000" stop="20260607073500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Qualifying - GP Ungarn</title>
 </programme>
 <programme start="20260607073500 +0000" stop="20260607083500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Warm Up - GP Ungarn</title>
@@ -2926,8 +2926,14 @@
 <programme start="20260607083000 +0000" stop="20260607100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - F. Cobolli (ITA), BMW Open in München, Halbfinale 1</title>
 </programme>
+<programme start="20260607100000 +0000" stop="20260607101500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Sky Sport News: Primetime Spezial - Zverev&#039;s erster Grand-Slam-Titel?</title>
+</programme>
 <programme start="20260607101500 +0000" stop="20260607121500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - F. Cobolli (ITA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
+</programme>
+<programme start="20260607121500 +0000" stop="20260607123000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Sky Sport News: Tennis Spezial - Der French Open Finalcountdown</title>
 </programme>
 <programme start="20260607170000 +0000" stop="20260607184500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>

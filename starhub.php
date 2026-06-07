@@ -4645,7 +4645,10 @@
     <programme start="20260606160000 +0000" stop="20260606163000 +0000" channel="Asianet.starhub">
         <title>Star Singer Season 10</title>
     </programme>
-    <programme start="20260606163000 +0000" stop="20260606170000 +0000" channel="Asianet.starhub">
+    <programme start="20260606163000 +0000" stop="20260606165000 +0000" channel="Asianet.starhub">
+        <title>Star Singer Season 10</title>
+    </programme>
+    <programme start="20260606165000 +0000" stop="20260606170000 +0000" channel="Asianet.starhub">
         <title>Star Singer Season 10</title>
     </programme>
     <programme start="20260606170000 +0000" stop="20260606173000 +0000" channel="Asianet.starhub">
