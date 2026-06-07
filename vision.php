@@ -122,7 +122,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260608010000 +0000" stop="20260608041500 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260608041500 +0000" stop="20260608044500 +0000" channel="MNCTV.vision">
 <title>Lintas iNews Siang</title>
@@ -134,7 +134,7 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260608070000 +0000" stop="20260608090000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260608090000 +0000" stop="20260608103000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -146,7 +146,7 @@
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260607030000 +0000" stop="20260607063000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260607063000 +0000" stop="20260607073000 +0000" channel="GTV.vision">
 <title>Zakstorm</title>
@@ -191,7 +191,7 @@
 <title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260608030000 +0000" stop="20260608050000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260608050000 +0000" stop="20260608080000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
@@ -610,9 +610,6 @@
 <programme start="20260606230000 +0000" stop="20260607010000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260607023000 +0000" stop="20260607060000 +0000" channel="ANTV.vision">
-<title>Satyaprem Ki Katha</title>
-</programme>
 <programme start="20260607060000 +0000" stop="20260607073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -621,18 +618,6 @@
 </programme>
 <programme start="20260607090000 +0000" stop="20260607113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260607113000 +0000" stop="20260607133000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
-</programme>
-<programme start="20260607133000 +0000" stop="20260607153000 +0000" channel="ANTV.vision">
-<title>Depan Bisa Belakang Bisa</title>
-</programme>
-<programme start="20260607153000 +0000" stop="20260607173000 +0000" channel="ANTV.vision">
-<title>Pengabdi Setan</title>
-</programme>
-<programme start="20260607173000 +0000" stop="20260607193000 +0000" channel="ANTV.vision">
-<title>Fire With Fire</title>
 </programme>
 <programme start="20260607193000 +0000" stop="20260607220000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -796,17 +781,11 @@
 <programme start="20260607110000 +0000" stop="20260607130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260607130000 +0000" stop="20260607140000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
-</programme>
 <programme start="20260607140000 +0000" stop="20260607150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
 </programme>
 <programme start="20260607150000 +0000" stop="20260607160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20260607160000 +0000" stop="20260607170000 +0000" channel="TVOne.vision">
-<title>One Pride MMA</title>
 </programme>
 <programme start="20260607170000 +0000" stop="20260607180000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260608090000 +0000" stop="20260608110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260608110000 +0000" stop="20260608130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260607000000 +0000" stop="20260607003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
+</programme>
+<programme start="20260607003000 +0000" stop="20260607010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260607010000 +0000" stop="20260607013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20260607013000 +0000" stop="20260607020000 +0000" channel="DAAI TV.vision">
+<title>@Indonesia</title>
+</programme>
+<programme start="20260607020000 +0000" stop="20260607021500 +0000" channel="DAAI TV.vision">
+<title>Narasi Nusantara</title>
+</programme>
+<programme start="20260607021500 +0000" stop="20260607023000 +0000" channel="DAAI TV.vision">
+<title>Tzu Chi Inside</title>
 </programme>
