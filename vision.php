@@ -619,9 +619,6 @@
 <programme start="20260607090000 +0000" stop="20260607113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260607133000 +0000" stop="20260607153000 +0000" channel="ANTV.vision">
-<title>Depan Bisa Belakang Bisa</title>
-</programme>
 <programme start="20260607153000 +0000" stop="20260607173000 +0000" channel="ANTV.vision">
 <title>Pengabdi Setan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260607003000 +0000" stop="20260607010000 +0000" channel="DAAI TV.vision">
 <title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260607010000 +0000" stop="20260607013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
 </programme>
