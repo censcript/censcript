@@ -1285,6 +1285,9 @@
 <programme start="20260608160000 +0000" stop="20260608163000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Valencia (L)</title>
 </programme>
+<programme start="20260607173000 +0000" stop="20260607180000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Inside Sailing 2026: June</title>
+</programme>
 <programme start="20260607180000 +0000" stop="20260607193000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
 </programme>
@@ -1344,6 +1347,9 @@
 </programme>
 <programme start="20260608160000 +0000" stop="20260608163000 +0000" channel="beIN Sports 3.mncvision">
     <title>SailGP HL 2026: New York</title>
+</programme>
+<programme start="20260607173000 +0000" stop="20260607180000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Inside Sailing 2026: June</title>
 </programme>
 <programme start="20260607180000 +0000" stop="20260607193000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Italy (L)</title>
@@ -8329,22 +8335,16 @@
 <programme start="20260607223000 +0000" stop="20260608023000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 FIM Endurance World C&#039;ship</title>
 </programme>
-<programme start="20260608023000 +0000" stop="20260608070000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260608023000 +0000" stop="20260608080000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 FIM Endurance World C&#039;ship</title>
 </programme>
-<programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="SPOTV 2.mncvision">
-    <title>SailGP: Racing On The Edge</title>
-</programme>
-<programme start="20260608073000 +0000" stop="20260608080000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260608080000 +0000" stop="20260608083000 +0000" channel="SPOTV 2.mncvision">
     <title>Super Series GP Sailing Show</title>
 </programme>
-<programme start="20260608080000 +0000" stop="20260608083000 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 MotoGP Rewind: Italy</title>
-</programme>
-<programme start="20260608083000 +0000" stop="20260608093000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260608083000 +0000" stop="20260608093500 +0000" channel="SPOTV 2.mncvision">
     <title>2026 MotoGP Of Hungary</title>
 </programme>
-<programme start="20260608093000 +0000" stop="20260608143000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260608093500 +0000" stop="20260608143000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 MotoGP Of Hungary</title>
 </programme>
 <programme start="20260608143000 +0000" stop="20260608153000 +0000" channel="SPOTV 2.mncvision">
@@ -8365,22 +8365,16 @@
 <programme start="20260607223000 +0000" stop="20260608023000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 FIM Endurance World C&#039;ship</title>
 </programme>
-<programme start="20260608023000 +0000" stop="20260608070000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260608023000 +0000" stop="20260608080000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 FIM Endurance World C&#039;ship</title>
 </programme>
-<programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SailGP: Racing On The Edge</title>
-</programme>
-<programme start="20260608073000 +0000" stop="20260608080000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260608080000 +0000" stop="20260608083000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Super Series GP Sailing Show</title>
 </programme>
-<programme start="20260608080000 +0000" stop="20260608083000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 MotoGP Rewind: Italy</title>
-</programme>
-<programme start="20260608083000 +0000" stop="20260608093000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260608083000 +0000" stop="20260608093500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 MotoGP Of Hungary</title>
 </programme>
-<programme start="20260608093000 +0000" stop="20260608143000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260608093500 +0000" stop="20260608143000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 MotoGP Of Hungary</title>
 </programme>
 <programme start="20260608143000 +0000" stop="20260608153000 +0000" channel="SPOTV 2 HD.mncvision">

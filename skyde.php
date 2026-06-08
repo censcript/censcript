@@ -990,45 +990,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260608214500 +0000" stop="20260608220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260607221000 +0000" stop="20260608060000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260608060000 +0000" stop="20260608080000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Frankreich - Elfenbeinküste</title>
-</programme>
-<programme start="20260608080000 +0000" stop="20260608100500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Kroatien - Belgien</title>
-</programme>
-<programme start="20260608100500 +0000" stop="20260608110000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Porträt von Holger Gehrke: Fußball-Urgestein auf neuen Plätzen</title>
-</programme>
-<programme start="20260608110000 +0000" stop="20260608130000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Ligue 1 25/26: PSG - Olympique Marseille</title>
-</programme>
-<programme start="20260608130000 +0000" stop="20260608150000 +0000" channel="DAZN 2 HD.skyde">
-    <title>LaLiga 25/26: Real Madrid - Atlético Madrid</title>
-</programme>
-<programme start="20260608150000 +0000" stop="20260608155500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Porträt von Holger Gehrke: Fußball-Urgestein auf neuen Plätzen</title>
-</programme>
-<programme start="20260608155500 +0000" stop="20260608162500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 1</title>
-</programme>
-<programme start="20260608162500 +0000" stop="20260608165000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 2</title>
-</programme>
-<programme start="20260608165000 +0000" stop="20260608172500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260608172500 +0000" stop="20260608183500 +0000" channel="DAZN 2 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 30. Spieltag</title>
-</programme>
-<programme start="20260608183500 +0000" stop="20260608205500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Niederlande - Usbekistan</title>
-</programme>
-<programme start="20260608205500 +0000" stop="20260608220000 +0000" channel="DAZN 2 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 31. Spieltag</title>
-</programme>
 <programme start="20260607224000 +0000" stop="20260608001000 +0000" channel="Heimatkanal.skyde">
     <title>Alle lieben Peter</title>
 </programme>
@@ -2475,7 +2436,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260608084000 +0000" stop="20260608090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260608090000 +0000" stop="20260608210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260608090000 +0000" stop="20260608163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 250: Libema Open in s&#039;Hertogenbosch (NED), 1. Tag</title>
 </programme>
 <programme start="20260607223500 +0000" stop="20260607233500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2988,7 +2949,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260608114000 +0000" stop="20260608120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260608120000 +0000" stop="20260608210000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260608120000 +0000" stop="20260608160000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 1. Tag</title>
 </programme>
 <programme start="20260607220000 +0000" stop="20260607224500 +0000" channel="SYFY HD.skyde">

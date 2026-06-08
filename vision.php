@@ -814,6 +814,9 @@
 <programme start="20260608023000 +0000" stop="20260608033000 +0000" channel="TVOne.vision">
 <title>Pagi-Pagi Seru</title>
 </programme>
+<programme start="20260608033000 +0000" stop="20260608040000 +0000" channel="TVOne.vision">
+<title>Metropolitan (L)</title>
+</programme>
 <programme start="20260608040000 +0000" stop="20260608060000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260608050000 +0000" stop="20260608070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260608070000 +0000" stop="20260608090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

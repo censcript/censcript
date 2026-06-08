@@ -1769,40 +1769,40 @@
         <title>New York, USA Day 1</title>
     </programme>
     <programme start="20260608003000 +0000" stop="20260608022000 +0000" channel="beIN Sports 3.starhub">
-        <title>Canada vs USA</title>
+        <title>Pacific Nations Cup 2025: Canada vs USA</title>
     </programme>
     <programme start="20260608022000 +0000" stop="20260608023000 +0000" channel="beIN Sports 3.starhub">
-        <title>Anderlecht vs PSG (2013/14)</title>
+        <title>UCL Classic Matches Anderlecht vs PSG (2013/14)</title>
     </programme>
     <programme start="20260608023000 +0000" stop="20260608042000 +0000" channel="beIN Sports 3.starhub">
-        <title>Morocco vs Zambia</title>
+        <title>Total Women&#039;s Africa Cup of Nations, Morocco 2024: Morocco vs Zambia</title>
     </programme>
     <programme start="20260608042000 +0000" stop="20260608061000 +0000" channel="beIN Sports 3.starhub">
-        <title>Al Hilal Club vs MC Alger</title>
+        <title>TotalEnergies CAF Champions League 2025/26: Al Hilal Club vs MC Alger</title>
     </programme>
     <programme start="20260608061000 +0000" stop="20260608063000 +0000" channel="beIN Sports 3.starhub">
         <title>Supporting Each Other</title>
     </programme>
     <programme start="20260608063000 +0000" stop="20260608083000 +0000" channel="beIN Sports 3.starhub">
-        <title>Tour Auvergne-Rhone-Alpes Stage 1</title>
+        <title>UCI World Tour 2026: Tour Auvergne-Rhone-Alpes Stage 1</title>
     </programme>
     <programme start="20260608083000 +0000" stop="20260608092500 +0000" channel="beIN Sports 3.starhub">
         <title>UCL Season Review</title>
     </programme>
     <programme start="20260608092500 +0000" stop="20260608105500 +0000" channel="beIN Sports 3.starhub">
-        <title>Liverpool vs Man Utd PL 96/97</title>
+        <title>MUTV: The United Archives Liverpool vs Man Utd PL 96/97</title>
     </programme>
     <programme start="20260608105500 +0000" stop="20260608122500 +0000" channel="beIN Sports 3.starhub">
-        <title>Chelsea vs Man Utd PL 12/13</title>
+        <title>MUTV: The United Archives Chelsea vs Man Utd PL 12/13</title>
     </programme>
     <programme start="20260608122500 +0000" stop="20260608132000 +0000" channel="beIN Sports 3.starhub">
         <title>Final</title>
     </programme>
     <programme start="20260608132000 +0000" stop="20260608152000 +0000" channel="beIN Sports 3.starhub">
-        <title>Tour Auvergne-Rhone-Alpes Stage 2</title>
+        <title>UCI World Tour 2026: Tour Auvergne-Rhone-Alpes Stage 2 (Live)</title>
     </programme>
     <programme start="20260608152000 +0000" stop="20260608153000 +0000" channel="beIN Sports 3.starhub">
-        <title>Anderlecht vs PSG (2013/14)</title>
+        <title>UCL Classic Matches Anderlecht vs PSG (2013/14)</title>
     </programme>
     <programme start="20260608153000 +0000" stop="20260608160000 +0000" channel="beIN Sports 3.starhub">
         <title>Final</title>
@@ -2698,9 +2698,6 @@
     <programme start="20260607170000 +0000" stop="20260607173000 +0000" channel="ANC.starhub">
         <title>Eic On The Move</title>
     </programme>
-    <programme start="20260607173000 +0000" stop="20260607180000 +0000" channel="ANC.starhub">
-        <title>Metro Home</title>
-    </programme>
     <programme start="20260607180000 +0000" stop="20260607183000 +0000" channel="ANC.starhub">
         <title>The Ube Revolution</title>
     </programme>
@@ -2756,7 +2753,7 @@
         <title>In Good Shape</title>
     </programme>
     <programme start="20260608033000 +0000" stop="20260608040000 +0000" channel="ANC.starhub">
-        <title>Ano Na, Bev</title>
+        <title>Ano Na Bev?</title>
     </programme>
     <programme start="20260608040000 +0000" stop="20260608050000 +0000" channel="ANC.starhub">
         <title>Dateline Philippines</title>
@@ -2774,7 +2771,7 @@
         <title>Market Edge</title>
     </programme>
     <programme start="20260608080000 +0000" stop="20260608083000 +0000" channel="ANC.starhub">
-        <title>The A-List</title>
+        <title>Succession</title>
     </programme>
     <programme start="20260608083000 +0000" stop="20260608093000 +0000" channel="ANC.starhub">
         <title>Top Story</title>
@@ -2791,7 +2788,10 @@
     <programme start="20260608103000 +0000" stop="20260608110000 +0000" channel="ANC.starhub">
         <title>Insights: Israel And Middle East</title>
     </programme>
-    <programme start="20260608110000 +0000" stop="20260608120000 +0000" channel="ANC.starhub">
+    <programme start="20260608110000 +0000" stop="20260608113000 +0000" channel="ANC.starhub">
+        <title>24x24</title>
+    </programme>
+    <programme start="20260608113000 +0000" stop="20260608120000 +0000" channel="ANC.starhub">
         <title>24x24</title>
     </programme>
     <programme start="20260608120000 +0000" stop="20260608123000 +0000" channel="ANC.starhub">
@@ -2806,11 +2806,11 @@
     <programme start="20260608133000 +0000" stop="20260608140000 +0000" channel="ANC.starhub">
         <title>Executive Class</title>
     </programme>
-    <programme start="20260608140000 +0000" stop="20260608144500 +0000" channel="ANC.starhub">
-        <title>Bini: Walo Hanggang Disyerto</title>
+    <programme start="20260608140000 +0000" stop="20260608143000 +0000" channel="ANC.starhub">
+        <title>Anc Presents</title>
     </programme>
-    <programme start="20260608144500 +0000" stop="20260608150000 +0000" channel="ANC.starhub">
-        <title>Think Possible</title>
+    <programme start="20260608143000 +0000" stop="20260608150000 +0000" channel="ANC.starhub">
+        <title>Banker After Dark</title>
     </programme>
     <programme start="20260608150000 +0000" stop="20260608160000 +0000" channel="ANC.starhub">
         <title>Beached</title>
@@ -3089,10 +3089,10 @@
         <title>News</title>
     </programme>
     <programme start="20260608000200 +0000" stop="20260608003000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>How Antoni Gaudí Shaped Barcelona</title>
     </programme>
     <programme start="20260608003000 +0000" stop="20260608010000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>When bears roamed the streets of a Romanian resort</title>
     </programme>
     <programme start="20260608010000 +0000" stop="20260608010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3104,16 +3104,16 @@
         <title>Fishermen vs. Seals</title>
     </programme>
     <programme start="20260608014500 +0000" stop="20260608020000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Lured into War: Russia&#039;s Foreign Fighters in Ukraine</title>
     </programme>
     <programme start="20260608020000 +0000" stop="20260608020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260608020200 +0000" stop="20260608023000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Learning lessons from Nature&#039;s losses</title>
     </programme>
     <programme start="20260608023000 +0000" stop="20260608030000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Can Ghana&#039;s Black Stars deliver at the World Cup?</title>
     </programme>
     <programme start="20260608030000 +0000" stop="20260608030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3122,7 +3122,7 @@
         <title>What your mouth can reveal about your health</title>
     </programme>
     <programme start="20260608033000 +0000" stop="20260608040000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>How Antoni Gaudí Shaped Barcelona</title>
     </programme>
     <programme start="20260608040000 +0000" stop="20260608040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3131,10 +3131,10 @@
         <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260608041500 +0000" stop="20260608044500 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>When bears roamed the streets of a Romanian resort</title>
     </programme>
     <programme start="20260608044500 +0000" stop="20260608050000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Lured into War: Russia&#039;s Foreign Fighters in Ukraine</title>
     </programme>
     <programme start="20260608050000 +0000" stop="20260608050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3173,7 +3173,7 @@
         <title>Fishermen vs. Seals</title>
     </programme>
     <programme start="20260608083000 +0000" stop="20260608090000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Can Ghana&#039;s Black Stars deliver at the World Cup?</title>
     </programme>
     <programme start="20260608090000 +0000" stop="20260608090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3191,7 +3191,7 @@
         <title>Racing after a heart transplant</title>
     </programme>
     <programme start="20260608101500 +0000" stop="20260608110000 +0000" channel="DW English HD.starhub">
-        <title>The Chinese Dream - 24 Hours in Young China Ep 1:A Day with Paintboxers, Influencers, &amp; Millionaires</title>
+        <title>Episode 1: A Day with Paintboxers, Influencers, and Millionaires</title>
     </programme>
     <programme start="20260608110000 +0000" stop="20260608110200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3200,7 +3200,7 @@
         <title>Afrobeats inspire Ugandans to dance to a different tune</title>
     </programme>
     <programme start="20260608113000 +0000" stop="20260608120000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>When bears roamed the streets of a Romanian resort</title>
     </programme>
     <programme start="20260608120000 +0000" stop="20260608120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3218,7 +3218,7 @@
         <title>News</title>
     </programme>
     <programme start="20260608131500 +0000" stop="20260608133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Business as usual: The German-Russia tie that won&#039;t die</title>
     </programme>
     <programme start="20260608133000 +0000" stop="20260608140000 +0000" channel="DW English HD.starhub">
         <title>Inside Afrobeats Culture: Berlin Carnival, Cape Town Dance &amp; Music Hustle</title>
@@ -3236,7 +3236,7 @@
         <title>News</title>
     </programme>
     <programme start="20260608153000 +0000" stop="20260608160000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>When bears roamed the streets of a Romanian resort</title>
     </programme>
     <programme start="20260607160000 +0000" stop="20260607220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3670,68 +3670,26 @@
     <programme start="20260607230000 +0000" stop="20260607231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 51</title>
     </programme>
-    <programme start="20260607231500 +0000" stop="20260608005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260607231500 +0000" stop="20260608000600 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
-    <programme start="20260608005400 +0000" stop="20260608005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20260608005500 +0000" stop="20260608010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20260608010000 +0000" stop="20260608010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
-    </programme>
-    <programme start="20260608010500 +0000" stop="20260608020500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Curious World Traveler &quot;Havana, Cuba&quot;</title>
-    </programme>
-    <programme start="20260608020500 +0000" stop="20260608025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama 10 &quot;Mojiko Tenderness Brothers&quot; Ep. 6 (R)</title>
-    </programme>
-    <programme start="20260608025000 +0000" stop="20260608025500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone</title>
+    <programme start="20260608000600 +0000" stop="20260608025500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20260608025500 +0000" stop="20260608030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260608030000 +0000" stop="20260608032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260608030000 +0000" stop="20260608034500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260608032000 +0000" stop="20260608032800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Information Worth Knowing from the News Commentator Bureau</title>
-    </programme>
-    <programme start="20260608032800 +0000" stop="20260608033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20260608033000 +0000" stop="20260608034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Massan&quot; Encore Ep. 114</title>
     </programme>
     <programme start="20260608034500 +0000" stop="20260608040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 51 (R)</title>
     </programme>
-    <programme start="20260608040000 +0000" stop="20260608040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260608040000 +0000" stop="20260608071500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260608040500 +0000" stop="20260608055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
-    </programme>
-    <programme start="20260608055000 +0000" stop="20260608055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20260608055500 +0000" stop="20260608060000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Super Rare! Railroad Treasure Films</title>
-    </programme>
-    <programme start="20260608060000 +0000" stop="20260608061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
-    </programme>
-    <programme start="20260608061000 +0000" stop="20260608071000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Curious World Traveler &quot;Havana, Cuba&quot; (R)</title>
-    </programme>
-    <programme start="20260608071000 +0000" stop="20260608073500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260608071500 +0000" stop="20260608074000 +0000" channel="NHK World Premium HD.starhub">
         <title>Gretel&#039;s Magical Oven (R)</title>
-    </programme>
-    <programme start="20260608073500 +0000" stop="20260608074000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Cruising from the Sky Mini</title>
     </programme>
     <programme start="20260608074000 +0000" stop="20260608081000 +0000" channel="NHK World Premium HD.starhub">
         <title>Actor Koyuki and the Fermenting Master, Grandma (R)</title>

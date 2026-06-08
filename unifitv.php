@@ -593,7 +593,7 @@
   </programme>
   <programme start="20260607160000 +0000" stop="20260607163000 +0000" channel="inspirasi.unifitv">
     <title lang="en">ROJAK</title>
-    <desc lang="en">ROJAK</desc>
+    <desc lang="en">Untuk episod kali ini Hani &amp; Ilmo akan mencuba untuk membuat kopi &amp; matcha di sebuah kafe yang bernama LORO. Manakala disegmen “snacktime” mereka akan mencuba Pizza di Ratio Pizza Kelana Jaya. Disegmen helah hidup &amp; “DIY” mereka akan membuat bag jinjing dari pakaian lama &amp; terpakai.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">10.3.</episode-num>
     <episode-num system="onscreen">S11E4</episode-num>
@@ -614,7 +614,7 @@
   </programme>
   <programme start="20260607180000 +0000" stop="20260607183000 +0000" channel="inspirasi.unifitv">
     <title lang="en">ROJAK</title>
-    <desc lang="en">ROJAK</desc>
+    <desc lang="en">Untuk episod kali ini Hani &amp; Ilmo akan mencuba untuk membuat kopi &amp; matcha di sebuah kafe yang bernama LORO. Manakala disegmen “snacktime” mereka akan mencuba Pizza di Ratio Pizza Kelana Jaya. Disegmen helah hidup &amp; “DIY” mereka akan membuat bag jinjing dari pakaian lama &amp; terpakai.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">10.3.</episode-num>
     <episode-num system="onscreen">S11E4</episode-num>
@@ -691,7 +691,7 @@
   </programme>
   <programme start="20260608003000 +0000" stop="20260608010000 +0000" channel="inspirasi.unifitv">
     <title lang="en">ROJAK</title>
-    <desc lang="en">ROJAK</desc>
+    <desc lang="en">Untuk episod kali ini Hani &amp; Ilmo akan mencuba untuk membuat kopi &amp; matcha di sebuah kafe yang bernama LORO. Manakala disegmen “snacktime” mereka akan mencuba Pizza di Ratio Pizza Kelana Jaya. Disegmen helah hidup &amp; “DIY” mereka akan membuat bag jinjing dari pakaian lama &amp; terpakai.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">10.3.</episode-num>
     <episode-num system="onscreen">S11E4</episode-num>
@@ -747,7 +747,7 @@
   </programme>
   <programme start="20260608053000 +0000" stop="20260608060000 +0000" channel="inspirasi.unifitv">
     <title lang="en">ROJAK</title>
-    <desc lang="en">ROJAK</desc>
+    <desc lang="en">Untuk episod kali ini Hani &amp; Ilmo akan mencuba untuk membuat kopi &amp; matcha di sebuah kafe yang bernama LORO. Manakala disegmen “snacktime” mereka akan mencuba Pizza di Ratio Pizza Kelana Jaya. Disegmen helah hidup &amp; “DIY” mereka akan membuat bag jinjing dari pakaian lama &amp; terpakai.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">10.3.</episode-num>
     <episode-num system="onscreen">S11E4</episode-num>
@@ -803,7 +803,7 @@
   </programme>
   <programme start="20260608103000 +0000" stop="20260608110000 +0000" channel="inspirasi.unifitv">
     <title lang="en">ROJAK</title>
-    <desc lang="en">ROJAK</desc>
+    <desc lang="en">Untuk episod kali ini Hani &amp; Ilmo akan mencuba untuk membuat kopi &amp; matcha di sebuah kafe yang bernama LORO. Manakala disegmen “snacktime” mereka akan mencuba Pizza di Ratio Pizza Kelana Jaya. Disegmen helah hidup &amp; “DIY” mereka akan membuat bag jinjing dari pakaian lama &amp; terpakai.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">10.3.</episode-num>
     <episode-num system="onscreen">S11E4</episode-num>
@@ -859,7 +859,7 @@
   </programme>
   <programme start="20260608153000 +0000" stop="20260608160000 +0000" channel="inspirasi.unifitv">
     <title lang="en">DEKO BAJET</title>
-    <desc lang="en">DEKO BAJET</desc>
+    <desc lang="en">Untuk episod ini, pereka bentuk dalaman, Janna Baha selaku pengacara juga akan menghias semula bilik serbaguna milik keluarga Amin di sebuah taman perumahan di Batang Kali.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">3.9.</episode-num>
     <episode-num system="onscreen">S4E10</episode-num>
@@ -15882,32 +15882,22 @@
     <desc lang="en">Go behind the scenes with Formula E drivers as they navigate fierce rivalries, high-pressure racing, and life beyond the track in the world of elite electric motorsport.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260607223000 +0000" stop="20260608070000 +0000" channel="spotv2.unifitv">
+  <programme start="20260607223000 +0000" stop="20260608080000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 FIM Endurance World Championship - 8 Hours of Spa Motos</title>
     <desc lang="en">Top riders and teams take on the ultimate test of speed and endurance, battling through demanding long-distance races in world-class motorcycle competition.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="spotv2.unifitv">
-    <title lang="en">SailGP: Racing on the Edge S6 - Ep 2</title>
-    <desc lang="en">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
-    <category lang="en">Sailing</category>
-  </programme>
-  <programme start="20260608073000 +0000" stop="20260608080000 +0000" channel="spotv2.unifitv">
+  <programme start="20260608080000 +0000" stop="20260608083000 +0000" channel="spotv2.unifitv">
     <title lang="en">52 SUPER SERIES GP Sailing show - Ep 1 Puerto Portals</title>
     <desc lang="en">The 52 SUPER SERIES delivers elite grand prix sailing. 14 international teams battle on identical, high-speed TP52 yachts across 5 European venues, where world-class victories are decided by inches</desc>
     <category lang="en">Sailing</category>
   </programme>
-  <programme start="20260608080000 +0000" stop="20260608083000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Rewind - Grand Prix of Italy</title>
-    <desc lang="en">Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260608083000 +0000" stop="20260608093000 +0000" channel="spotv2.unifitv">
+  <programme start="20260608083000 +0000" stop="20260608093500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 8 Grand Prix of Hungary - Warm Up</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260608093000 +0000" stop="20260608143000 +0000" channel="spotv2.unifitv">
+  <programme start="20260608093500 +0000" stop="20260608143000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 8 Grand Prix of Hungary - Race</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
