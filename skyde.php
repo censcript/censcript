@@ -2574,8 +2574,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260608213000 +0000" stop="20260608233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - FC Augsburg, 14. Spieltag</title>
 </programme>
-<programme start="20260607220000 +0000" stop="20260608000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Monaco</title>
+<programme start="20260607233000 +0000" stop="20260608000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
 </programme>
 <programme start="20260608000000 +0000" stop="20260608010000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Madison (Illinois)</title>
@@ -2901,17 +2901,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260608213000 +0000" stop="20260608223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2025/2026</title>
 </programme>
-<programme start="20260607225000 +0000" stop="20260607235000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260607221500 +0000" stop="20260607231500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20260607235000 +0000" stop="20260608022000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260607231500 +0000" stop="20260608000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: The Ring Master: Alexander Bublik</title>
+</programme>
+<programme start="20260608000000 +0000" stop="20260608023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
-<programme start="20260608022000 +0000" stop="20260608025000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260608023000 +0000" stop="20260608030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
-</programme>
-<programme start="20260608025000 +0000" stop="20260608050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260608030000 +0000" stop="20260608050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - E. Rybakina (KAZ), HSBC Championships in London (GBR), Viertelfinale</title>
@@ -2988,7 +2988,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260608114000 +0000" stop="20260608120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260608120000 +0000" stop="20260608160000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260608120000 +0000" stop="20260608210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 1. Tag</title>
 </programme>
 <programme start="20260607220000 +0000" stop="20260607224500 +0000" channel="SYFY HD.skyde">
