@@ -653,58 +653,52 @@
 <title>Trans 7</title>
 </programme>
 <programme start="20260607230000 +0000" stop="20260608010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Aini: Malaikat Tak Bersayap</title>
 </programme>
 <programme start="20260608010000 +0000" stop="20260608023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Antara Cinta Dan Dusta</title>
 </programme>
 <programme start="20260608023000 +0000" stop="20260608060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Happy New Year</title>
 </programme>
-<programme start="20260608060000 +0000" stop="20260608080000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260608060000 +0000" stop="20260608073000 +0000" channel="ANTV.vision">
+<title>Jhanak</title>
 </programme>
-<programme start="20260608080000 +0000" stop="20260608103000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260608073000 +0000" stop="20260608090000 +0000" channel="ANTV.vision">
+<title>Sayali</title>
 </programme>
-<programme start="20260608103000 +0000" stop="20260608120000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260608090000 +0000" stop="20260608113000 +0000" channel="ANTV.vision">
+<title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260608120000 +0000" stop="20260608143000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260608173000 +0000" stop="20260608193000 +0000" channel="ANTV.vision">
+<title>Prince Charming</title>
 </programme>
-<programme start="20260608143000 +0000" stop="20260608163000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260608193000 +0000" stop="20260608220000 +0000" channel="ANTV.vision">
+<title>Golmaal Again</title>
 </programme>
-<programme start="20260608163000 +0000" stop="20260608180000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20260608180000 +0000" stop="20260608181500 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20260608181500 +0000" stop="20260608203000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20260608203000 +0000" stop="20260608230000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260608220000 +0000" stop="20260608230000 +0000" channel="ANTV.vision">
+<title>Hati Ke Hati Bersama Mamah...</title>
 </programme>
 <programme start="20260608230000 +0000" stop="20260609010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Aini: Malaikat Tak Bersayap</title>
 </programme>
 <programme start="20260609010000 +0000" stop="20260609023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Antara Cinta Dan Dusta</title>
 </programme>
 <programme start="20260609023000 +0000" stop="20260609060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Mujhse Dosti Karoge</title>
 </programme>
-<programme start="20260609060000 +0000" stop="20260609080000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260609060000 +0000" stop="20260609073000 +0000" channel="ANTV.vision">
+<title>Jhanak</title>
 </programme>
-<programme start="20260609080000 +0000" stop="20260609103000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260609073000 +0000" stop="20260609090000 +0000" channel="ANTV.vision">
+<title>Sayali</title>
 </programme>
-<programme start="20260609103000 +0000" stop="20260609120000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260609090000 +0000" stop="20260609113000 +0000" channel="ANTV.vision">
+<title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260609113000 +0000" stop="20260609140000 +0000" channel="ANTV.vision">
+<title>Nada-Nada Rindu</title>
 </programme>
 <programme start="20260607233000 +0000" stop="20260608013000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -814,9 +808,6 @@
 <programme start="20260608023000 +0000" stop="20260608033000 +0000" channel="TVOne.vision">
 <title>Pagi-Pagi Seru</title>
 </programme>
-<programme start="20260608033000 +0000" stop="20260608040000 +0000" channel="TVOne.vision">
-<title>Metropolitan (L)</title>
-</programme>
 <programme start="20260608040000 +0000" stop="20260608060000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -834,12 +825,6 @@
 </programme>
 <programme start="20260608110000 +0000" stop="20260608130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260608130000 +0000" stop="20260608140000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
-</programme>
-<programme start="20260608140000 +0000" stop="20260608150000 +0000" channel="TVOne.vision">
-<title>Kabar Utama 2 (L)</title>
 </programme>
 <programme start="20260608150000 +0000" stop="20260608160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260608050000 +0000" stop="20260608070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260608070000 +0000" stop="20260608090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260608090000 +0000" stop="20260608110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260608110000 +0000" stop="20260608130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260608130000 +0000" stop="20260608150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260608150000 +0000" stop="20260608170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
