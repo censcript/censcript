@@ -2236,14 +2236,17 @@
     <programme start="20260608023000 +0000" stop="20260608043000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Lion City Sailors vs Tanjong Pagar United FC</title>
     </programme>
-    <programme start="20260608043000 +0000" stop="20260608073000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260608043000 +0000" stop="20260608070000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FN13: Prelims: Muhammad vs Bonfim</title>
+    </programme>
+    <programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#591</title>
     </programme>
     <programme start="20260608073000 +0000" stop="20260608103000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Grand Prix Sar La Princesse Lalla Meryem (250) QF 1 &amp; 2</title>
     </programme>
     <programme start="20260608103000 +0000" stop="20260608123000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Morocco vs Norway</title>
+        <title>Bolivia vs Scotland</title>
     </programme>
     <programme start="20260608123000 +0000" stop="20260608160000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Zuffa 07: Billam-Smith vs Rozicki</title>

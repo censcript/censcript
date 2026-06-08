@@ -16187,13 +16187,13 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260607163000 +0000" stop="20260607173000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Premier Padel 2026 (Join in Progress) - Italy Major Day 6 Final - Women</title>
-    <desc lang="en">Italy Major Day 6 Final - Women</desc>
+    <title lang="en">Premier Padel - Italy Major Day 6 Final - Women (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260607173000 +0000" stop="20260607180000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Inside Sailing 2026 - June</title>
-    <desc lang="en">June</desc>
+    <desc lang="en">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260607180000 +0000" stop="20260607193000 +0000" channel="beinsports3.unifitv">
