@@ -1,3 +1,5 @@
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260607220500 +0000" stop="20260607225000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Most Wanted</title>
 </programme>
@@ -2011,83 +2013,83 @@
 <programme start="20260608213500 +0000" stop="20260608222500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Life Below Zero - Überleben in Alaska</title>
 </programme>
-<programme start="20260606224000 +0000" stop="20260606232500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260607222500 +0000" stop="20260607231000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20260606232500 +0000" stop="20260607002500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Chefin</title>
-</programme>
-<programme start="20260607002500 +0000" stop="20260607012500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Chefin</title>
-</programme>
-<programme start="20260607012500 +0000" stop="20260607022500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Chefin</title>
-</programme>
-<programme start="20260607022500 +0000" stop="20260607031000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260607231000 +0000" stop="20260607235500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20260607031000 +0000" stop="20260607035500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260607035500 +0000" stop="20260607044000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260607044000 +0000" stop="20260607053000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607053000 +0000" stop="20260607062500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607062500 +0000" stop="20260607071500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607071500 +0000" stop="20260607081000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607081000 +0000" stop="20260607090000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607090000 +0000" stop="20260607095500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607095500 +0000" stop="20260607105000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607105000 +0000" stop="20260607114000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607114000 +0000" stop="20260607123500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607123500 +0000" stop="20260607133000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607133000 +0000" stop="20260607142000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607142000 +0000" stop="20260607151500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607151500 +0000" stop="20260607160500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260607160500 +0000" stop="20260607171000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260607235500 +0000" stop="20260608014000 +0000" channel="Sky Krimi HD.skyde">
     <title>Der Alte</title>
 </programme>
-<programme start="20260607171000 +0000" stop="20260607181500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260608012836 +0000" stop="20260608013920 +0000" channel="Sky Krimi HD.skyde">
+    <title></title>
+</programme>
+<programme start="20260608014000 +0000" stop="20260608024000 +0000" channel="Sky Krimi HD.skyde">
     <title>Der Kriminalist</title>
 </programme>
-<programme start="20260607181500 +0000" stop="20260607194500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260608024000 +0000" stop="20260608034000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Der Kriminalist</title>
+</programme>
+<programme start="20260608034000 +0000" stop="20260608043000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260608043000 +0000" stop="20260608052000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260608052000 +0000" stop="20260608061500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260608061500 +0000" stop="20260608070500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260608070500 +0000" stop="20260608080000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260608080000 +0000" stop="20260608084500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260608084500 +0000" stop="20260608093500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260608093500 +0000" stop="20260608102000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260608102000 +0000" stop="20260608111000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260608111000 +0000" stop="20260608124500 +0000" channel="Sky Krimi HD.skyde">
     <title>Der Alte</title>
 </programme>
-<programme start="20260607194500 +0000" stop="20260607205000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260608124500 +0000" stop="20260608135000 +0000" channel="Sky Krimi HD.skyde">
     <title>Der Kriminalist</title>
 </programme>
-<programme start="20260607205000 +0000" stop="20260607213500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260608135000 +0000" stop="20260608144000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260608144000 +0000" stop="20260608153500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Morden im Norden</title>
+</programme>
+<programme start="20260608153500 +0000" stop="20260608163000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260608163000 +0000" stop="20260608172000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260608172000 +0000" stop="20260608181500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260608181500 +0000" stop="20260608194500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Nord bei Nordwest: Sandy</title>
+</programme>
+<programme start="20260608194500 +0000" stop="20260608203500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260607213500 +0000" stop="20260607222500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260608203500 +0000" stop="20260608212000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260608212000 +0000" stop="20260608221000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Wien</title>
 </programme>
 <programme start="20260607225500 +0000" stop="20260607234500 +0000" channel="Sky Nature HD.skyde">
     <title>Galapagos</title>
@@ -2986,7 +2988,7 @@
 <programme start="20260608114000 +0000" stop="20260608120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260608120000 +0000" stop="20260608160000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260608120000 +0000" stop="20260608210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 1. Tag</title>
 </programme>
 <programme start="20260607220000 +0000" stop="20260607224500 +0000" channel="SYFY HD.skyde">
