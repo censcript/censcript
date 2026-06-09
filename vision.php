@@ -676,9 +676,6 @@
 <programme start="20260609090000 +0000" stop="20260609113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260609173000 +0000" stop="20260609193000 +0000" channel="ANTV.vision">
-<title>Mismatched Couples</title>
-</programme>
 <programme start="20260609193000 +0000" stop="20260609220000 +0000" channel="ANTV.vision">
 <title>Chamatkar</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260609050000 +0000" stop="20260609070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260609070000 +0000" stop="20260609090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
