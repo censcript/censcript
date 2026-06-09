@@ -805,16 +805,16 @@
   <programme start="20260611193500 +0000" stop="20260611225000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260610220000 +0000" stop="20260610224000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260610220000 +0000" stop="20260610224500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger IV (24)</title>
   </programme>
-  <programme start="20260610224000 +0000" stop="20260610232500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260610224500 +0000" stop="20260610233000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger IV (25)</title>
   </programme>
-  <programme start="20260610232500 +0000" stop="20260611001000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260610233000 +0000" stop="20260611001500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Stratený svet II (19)</title>
   </programme>
-  <programme start="20260611001000 +0000" stop="20260611022000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260611001500 +0000" stop="20260611022000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Sedem s r.o. (31)</title>
   </programme>
   <programme start="20260611022000 +0000" stop="20260611030500 +0000" channel="Markíza Klasik.webtv.sk">
@@ -2159,7 +2159,7 @@
     <title lang="id">Zabi nudu! II (7)</title>
   </programme>
   <programme start="20260610213000 +0000" stop="20260610222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (20)</title>
   </programme>
   <programme start="20260610222000 +0000" stop="20260610224500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Kung Fu Panda I (18)</title>
@@ -2249,7 +2249,7 @@
     <title lang="id">Pingu IV (26)</title>
   </programme>
   <programme start="20260611045000 +0000" stop="20260611054000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (58)</title>
   </programme>
   <programme start="20260611054000 +0000" stop="20260611055000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun I (28)</title>
@@ -2270,7 +2270,7 @@
     <title lang="id">Rozprávky líšky a vlka I (1)</title>
   </programme>
   <programme start="20260611070500 +0000" stop="20260611072000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (210)</title>
   </programme>
   <programme start="20260611072000 +0000" stop="20260611073000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Smejko a Tanculienka I (18)</title>
@@ -2309,7 +2309,7 @@
     <title lang="id">Priatelia z farmy I (42)</title>
   </programme>
   <programme start="20260611103000 +0000" stop="20260611104500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (183)</title>
   </programme>
   <programme start="20260611104500 +0000" stop="20260611105500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou II./III. II (12)</title>
@@ -2369,7 +2369,7 @@
     <title lang="id">Barbie: Dreamtopia I (11)</title>
   </programme>
   <programme start="20260611151000 +0000" stop="20260611152500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (184)</title>
   </programme>
   <programme start="20260611152500 +0000" stop="20260611154000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Bob staviteľ I (4)</title>
@@ -2390,7 +2390,7 @@
     <title lang="id">Prasiatko Peppa II (32)</title>
   </programme>
   <programme start="20260611162500 +0000" stop="20260611171000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (60)</title>
   </programme>
   <programme start="20260611171000 +0000" stop="20260611172000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď II (34)</title>
@@ -2411,7 +2411,7 @@
     <title lang="id">Barbie: Dom snov I (15)</title>
   </programme>
   <programme start="20260611185500 +0000" stop="20260611194500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (49)</title>
   </programme>
   <programme start="20260611194500 +0000" stop="20260611200000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Bob staviteľ I (5)</title>
@@ -2438,7 +2438,7 @@
     <title lang="id">Tomáš a Priatelia II (14)</title>
   </programme>
   <programme start="20260611213000 +0000" stop="20260611222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (17)</title>
   </programme>
   <programme start="20260610220000 +0000" stop="20260611030000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
@@ -3020,7 +3020,7 @@
     <title lang="id">Správy</title>
   </programme>
   <programme start="20260611082000 +0000" stop="20260611083500 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Jeden na jedného</title>
+    <title lang="id">Kulmenie</title>
   </programme>
   <programme start="20260611083500 +0000" stop="20260611091500 +0000" channel="TV LUX.webtv.sk">
     <title lang="id">Vaticano</title>
@@ -4042,11 +4042,14 @@
   <programme start="20260610215000 +0000" stop="20260610221700 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20260610221700 +0000" stop="20260610231500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260610221700 +0000" stop="20260610225000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20260610231500 +0000" stop="20260610234500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260610225000 +0000" stop="20260610231500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ČESKO</title>
+  </programme>
+  <programme start="20260610231500 +0000" stop="20260610234500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima SVĚT</title>
   </programme>
   <programme start="20260610234500 +0000" stop="20260611001000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Hlasy zločinu</title>
@@ -4054,22 +4057,28 @@
   <programme start="20260611001000 +0000" stop="20260611005000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Co na to vaše zdraví</title>
   </programme>
-  <programme start="20260611005000 +0000" stop="20260611013500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260611005000 +0000" stop="20260611014000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">HLAVNÍ ZPRÁVY</title>
   </programme>
-  <programme start="20260611013500 +0000" stop="20260611014500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260611014000 +0000" stop="20260611015500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Krimi zprávy</title>
   </programme>
-  <programme start="20260611014500 +0000" stop="20260611020000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260611015500 +0000" stop="20260611020000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">SHOWTIME</title>
   </programme>
-  <programme start="20260611020000 +0000" stop="20260611022500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260611020000 +0000" stop="20260611021000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima SVĚT</title>
   </programme>
-  <programme start="20260611022500 +0000" stop="20260611025000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260611021000 +0000" stop="20260611024000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ČESKO</title>
+  </programme>
+  <programme start="20260611024000 +0000" stop="20260611025000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ARCHIV</title>
+  </programme>
+  <programme start="20260611025000 +0000" stop="20260611025500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20260611025000 +0000" stop="20260611035500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260611025500 +0000" stop="20260611035500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
   <programme start="20260611035500 +0000" stop="20260611040000 +0000" channel="CNN Prima News.webtv.sk">
@@ -4100,13 +4109,13 @@
     <title lang="id">K věci</title>
   </programme>
   <programme start="20260611110000 +0000" stop="20260611113000 +0000" channel="CNN Prima News.webtv.sk">
-    <title lang="id">Zprávy</title>
+    <title lang="id">Speciál: Dění týdne</title>
   </programme>
   <programme start="20260611113000 +0000" stop="20260611120000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy PLUS</title>
   </programme>
   <programme start="20260611120000 +0000" stop="20260611121500 +0000" channel="CNN Prima News.webtv.sk">
-    <title lang="id">Zprávy</title>
+    <title lang="id">České zájmy v Evropě</title>
   </programme>
   <programme start="20260611121500 +0000" stop="20260611124000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima SVĚT</title>
@@ -4859,7 +4868,7 @@
     <title lang="id">Piok Cars</title>
   </programme>
   <programme start="20260611104500 +0000" stop="20260611110000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
+    <title lang="id">ENDURO magazín</title>
   </programme>
   <programme start="20260611110000 +0000" stop="20260611111500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Švihák testuje</title>
@@ -4930,8 +4939,11 @@
   <programme start="20260611060000 +0000" stop="20260611063000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20260611063000 +0000" stop="20260611070000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260611063000 +0000" stop="20260611065000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260611065000 +0000" stop="20260611070000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">ENDURO magazín</title>
   </programme>
   <programme start="20260611070000 +0000" stop="20260611073000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
@@ -4948,37 +4960,16 @@
   <programme start="20260611093000 +0000" stop="20260611100000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260611100000 +0000" stop="20260611103000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Motoring</title>
+  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Lexus Ilkley Open</title>
   </programme>
-  <programme start="20260611103000 +0000" stop="20260611110000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Lexus Ilkley Open</title>
   </programme>
-  <programme start="20260611110000 +0000" stop="20260611113000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
+  <programme start="20260611140000 +0000" stop="20260611160000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Lexus Ilkley Open</title>
   </programme>
-  <programme start="20260611113000 +0000" stop="20260611121500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Záchrancovia klasických áut</title>
-  </programme>
-  <programme start="20260611121500 +0000" stop="20260611124500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260611124500 +0000" stop="20260611130000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260611130000 +0000" stop="20260611133000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260611133000 +0000" stop="20260611141500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Vytuningované jazdy Fínsko</title>
-  </programme>
-  <programme start="20260611141500 +0000" stop="20260611150000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20260611150000 +0000" stop="20260611154500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260611154500 +0000" stop="20260611163000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260611160000 +0000" stop="20260611163000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
   </programme>
   <programme start="20260611163000 +0000" stop="20260611170000 +0000" channel="Arena Sport 2.webtv.sk">
@@ -16792,10 +16783,10 @@
   <programme start="20260611034700 +0000" stop="20260611035000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260611035000 +0000" stop="20260611035500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260611035000 +0000" stop="20260611035200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260611035500 +0000" stop="20260611040000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260611035200 +0000" stop="20260611040000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
   <programme start="20260611040000 +0000" stop="20260611040500 +0000" channel="TVP Info.webtv.sk">
@@ -17032,8 +17023,11 @@
   <programme start="20260611053000 +0000" stop="20260611055500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie na sniadanie (7581)</title>
   </programme>
-  <programme start="20260611055500 +0000" stop="20260611093000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260611055500 +0000" stop="20260611092500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie na sniadanie (7581)</title>
+  </programme>
+  <programme start="20260611092500 +0000" stop="20260611093000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">SeriaLove Wspomnienia (8)</title>
   </programme>
   <programme start="20260611093000 +0000" stop="20260611095000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Stacja Innowacja (23)</title>

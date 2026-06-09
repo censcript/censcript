@@ -4216,6 +4216,21 @@
 <programme start="20260609153000 +0000" stop="20260609160000 +0000" channel="GTV HD.mncvision">
     <title>Gate Of Hidden Demons</title>
 </programme>
+<programme start="20260608173000 +0000" stop="20260608180000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Dagelan Mbah Minto</title>
+</programme>
+<programme start="20260608180000 +0000" stop="20260608183000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Arwah Lelembut</title>
+</programme>
+<programme start="20260608183000 +0000" stop="20260608190000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Baskom (Banyumas Komedi)</title>
+</programme>
+<programme start="20260608190000 +0000" stop="20260608200000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Ludruk Humor Kirun</title>
+</programme>
+<programme start="20260608200000 +0000" stop="20260608210000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
 <programme start="20260608210000 +0000" stop="20260608213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
 </programme>
@@ -7819,31 +7834,31 @@
 <programme start="20260609010000 +0000" stop="20260609030000 +0000" channel="SCTV.mncvision">
     <title>Cintaku Keseruduk Kambing</title>
 </programme>
-<programme start="20260609030000 +0000" stop="20260609050000 +0000" channel="SCTV.mncvision">
+<programme start="20260609030000 +0000" stop="20260609044500 +0000" channel="SCTV.mncvision">
     <title>Miss Badut Penghibur Hati</title>
 </programme>
-<programme start="20260609050000 +0000" stop="20260609053000 +0000" channel="SCTV.mncvision">
+<programme start="20260609044500 +0000" stop="20260609052000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260609053000 +0000" stop="20260609070000 +0000" channel="SCTV.mncvision">
+<programme start="20260609052000 +0000" stop="20260609064400 +0000" channel="SCTV.mncvision">
     <title>Jodohku Terhalang Restu Nenek</title>
 </programme>
-<programme start="20260609070000 +0000" stop="20260609083000 +0000" channel="SCTV.mncvision">
+<programme start="20260609064400 +0000" stop="20260609081000 +0000" channel="SCTV.mncvision">
     <title>Lord Permak Cinta Sat Set...</title>
 </programme>
-<programme start="20260609083000 +0000" stop="20260609094500 +0000" channel="SCTV.mncvision">
+<programme start="20260609081000 +0000" stop="20260609093500 +0000" channel="SCTV.mncvision">
     <title>Habis Gelap Terbitlah Yang...</title>
 </programme>
-<programme start="20260609094500 +0000" stop="20260609104500 +0000" channel="SCTV.mncvision">
+<programme start="20260609093500 +0000" stop="20260609104800 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260609104500 +0000" stop="20260609130000 +0000" channel="SCTV.mncvision">
+<programme start="20260609104800 +0000" stop="20260609120000 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260609130000 +0000" stop="20260609150000 +0000" channel="SCTV.mncvision">
+<programme start="20260609120000 +0000" stop="20260609153500 +0000" channel="SCTV.mncvision">
     <title>FIFA Matchday (L)</title>
 </programme>
-<programme start="20260609150000 +0000" stop="20260609153000 +0000" channel="SCTV.mncvision">
+<programme start="20260609153500 +0000" stop="20260609160500 +0000" channel="SCTV.mncvision">
     <title>Jodoh Gak Kemana Saingan...</title>
 </programme>
 <programme start="20260608171700 +0000" stop="20260608184200 +0000" channel="SCTV HD.mncvision">
@@ -7876,31 +7891,31 @@
 <programme start="20260609010000 +0000" stop="20260609030000 +0000" channel="SCTV HD.mncvision">
     <title>Cintaku Keseruduk Kambing</title>
 </programme>
-<programme start="20260609030000 +0000" stop="20260609050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609030000 +0000" stop="20260609044500 +0000" channel="SCTV HD.mncvision">
     <title>Miss Badut Penghibur Hati</title>
 </programme>
-<programme start="20260609050000 +0000" stop="20260609053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609044500 +0000" stop="20260609052000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260609053000 +0000" stop="20260609070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609052000 +0000" stop="20260609064400 +0000" channel="SCTV HD.mncvision">
     <title>Jodohku Terhalang Restu Nenek</title>
 </programme>
-<programme start="20260609070000 +0000" stop="20260609083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609064400 +0000" stop="20260609081000 +0000" channel="SCTV HD.mncvision">
     <title>Lord Permak Cinta Sat Set...</title>
 </programme>
-<programme start="20260609083000 +0000" stop="20260609094500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609081000 +0000" stop="20260609093500 +0000" channel="SCTV HD.mncvision">
     <title>Habis Gelap Terbitlah Yang...</title>
 </programme>
-<programme start="20260609094500 +0000" stop="20260609104500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609093500 +0000" stop="20260609104800 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260609104500 +0000" stop="20260609130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609104800 +0000" stop="20260609120000 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260609130000 +0000" stop="20260609150000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609120000 +0000" stop="20260609153500 +0000" channel="SCTV HD.mncvision">
     <title>FIFA Matchday (L)</title>
 </programme>
-<programme start="20260609150000 +0000" stop="20260609153000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260609153500 +0000" stop="20260609160500 +0000" channel="SCTV HD.mncvision">
     <title>Jodoh Gak Kemana Saingan...</title>
 </programme>
 <programme start="20260608170000 +0000" stop="20260608180000 +0000" channel="Sindo News TV.mncvision">
@@ -8092,10 +8107,13 @@
 <programme start="20260609115500 +0000" stop="20260609140000 +0000" channel="Soccer Channel.mncvision">
     <title>Women Pro Futsal League (L)</title>
 </programme>
-<programme start="20260609140000 +0000" stop="20260609154500 +0000" channel="Soccer Channel.mncvision">
-    <title>U17 Asian Cup 2026: YEM Vs VIE</title>
+<programme start="20260609140000 +0000" stop="20260609143000 +0000" channel="Soccer Channel.mncvision">
+    <title>Sportacular Int&#039;l Match HL</title>
 </programme>
-<programme start="20260609154500 +0000" stop="20260609161500 +0000" channel="Soccer Channel.mncvision">
+<programme start="20260609143000 +0000" stop="20260609144500 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260609144500 +0000" stop="20260609151500 +0000" channel="Soccer Channel.mncvision">
     <title>Sportacular Int&#039;l Match (L)</title>
 </programme>
 <programme start="20260608183000 +0000" stop="20260608204500 +0000" channel="Soccer Channel HD.mncvision">
@@ -8143,10 +8161,13 @@
 <programme start="20260609115500 +0000" stop="20260609140000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Women Pro Futsal League (L)</title>
 </programme>
-<programme start="20260609140000 +0000" stop="20260609154500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>U17 Asian Cup 2026: YEM Vs VIE</title>
+<programme start="20260609140000 +0000" stop="20260609143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Sportacular Int&#039;l Match HL</title>
 </programme>
-<programme start="20260609154500 +0000" stop="20260609161500 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20260609143000 +0000" stop="20260609144500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260609144500 +0000" stop="20260609151500 +0000" channel="Soccer Channel HD.mncvision">
     <title>Sportacular Int&#039;l Match (L)</title>
 </programme>
 <programme start="20260608173000 +0000" stop="20260608190000 +0000" channel="Sportstars.mncvision">

@@ -2278,8 +2278,11 @@
     <programme start="20260609023000 +0000" stop="20260609043000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Geylang International FC vs Hougang United FC</title>
     </programme>
-    <programme start="20260609043000 +0000" stop="20260609073000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260609043000 +0000" stop="20260609070000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FN13: Muhammad vs Bonfim</title>
+    </programme>
+    <programme start="20260609070000 +0000" stop="20260609073000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Hail Baja Rally Final Highlights</title>
     </programme>
     <programme start="20260609073000 +0000" stop="20260609103000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Grand Prix Sar La Princesse Lalla Meryem (250) QF 3 &amp; 4</title>
@@ -6553,8 +6556,11 @@
     <programme start="20260609104500 +0000" stop="20260609110000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 158</title>
     </programme>
-    <programme start="20260609110000 +0000" stop="20260609160000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260609110000 +0000" stop="20260609153000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>POLYTRON Indonesia Open (S1000) SF Session 2</title>
+    </programme>
+    <programme start="20260609153000 +0000" stop="20260609160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>UCI Pro Series - Muscat Classic Final H/Ls</title>
     </programme>
     <programme start="20260608140500 +0000" stop="20260608162000 +0000" channel="SONY MAX.starhub">
         <title>Sherni</title>
@@ -8065,13 +8071,13 @@
     <programme start="20260608201500 +0000" stop="20260608233000 +0000" channel="SPOTV2.starhub">
         <title>Practice</title>
     </programme>
-    <programme start="20260608233000 +0000" stop="20260609000000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+    <programme start="20260608235500 +0000" stop="20260609005000 +0000" channel="SPOTV2.starhub">
+        <title>Formula E Driver S2</title>
     </programme>
-    <programme start="20260609000000 +0000" stop="20260609023000 +0000" channel="SPOTV2.starhub">
-        <title>7/6 2026 MLB Regular Season New York Yankees vs Boston Red Sox</title>
+    <programme start="20260609005000 +0000" stop="20260609025000 +0000" channel="SPOTV2.starhub">
+        <title>5/6 2026 MLB Regular Season Arizona Diamondbacks vs Los Angeles Dodgers</title>
     </programme>
-    <programme start="20260609023000 +0000" stop="20260609050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260609025000 +0000" stop="20260609050000 +0000" channel="SPOTV2.starhub">
         <title>8/6 2026 MLB Regular Season New York Yankees vs Boston Red Sox</title>
     </programme>
     <programme start="20260609050000 +0000" stop="20260609053000 +0000" channel="SPOTV2.starhub">
@@ -8086,7 +8092,7 @@
     <programme start="20260609094500 +0000" stop="20260609130000 +0000" channel="SPOTV2.starhub">
         <title>Practice</title>
     </programme>
-    <programme start="20260609130000 +0000" stop="20260609170000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260609130000 +0000" stop="20260609163000 +0000" channel="SPOTV2.starhub">
         <title>Epsom Derby 2026</title>
     </programme>
     <programme start="20260608140000 +0000" stop="20260608163000 +0000" channel="Dragon TV.starhub">
@@ -8095,14 +8101,65 @@
     <programme start="20260608163000 +0000" stop="20260608220000 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
     </programme>
-    <programme start="20260608220000 +0000" stop="20260609040000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260608230000 +0000" stop="20260609010000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20260609040000 +0000" stop="20260609100000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260609010000 +0000" stop="20260609020600 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
     </programme>
-    <programme start="20260609100000 +0000" stop="20260609160000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260609020600 +0000" stop="20260609040000 +0000" channel="Dragon TV.starhub">
+        <title>THE CITY OF MUSICALS</title>
+    </programme>
+    <programme start="20260609040000 +0000" stop="20260609043000 +0000" channel="Dragon TV.starhub">
+        <title>MIDDAY NEWS</title>
+    </programme>
+    <programme start="20260609043000 +0000" stop="20260609044200 +0000" channel="Dragon TV.starhub">
+        <title>ShanghaiEye</title>
+    </programme>
+    <programme start="20260609044200 +0000" stop="20260609063000 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
+    </programme>
+    <programme start="20260609063000 +0000" stop="20260609070700 +0000" channel="Dragon TV.starhub">
+        <title>CHINA Now</title>
+    </programme>
+    <programme start="20260609070700 +0000" stop="20260609073200 +0000" channel="Dragon TV.starhub">
+        <title>Next Station</title>
+    </programme>
+    <programme start="20260609073200 +0000" stop="20260609090900 +0000" channel="Dragon TV.starhub">
+        <title>THE CITY OF MUSICALS</title>
+    </programme>
+    <programme start="20260609090900 +0000" stop="20260609093400 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20260609093400 +0000" stop="20260609100000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
+    </programme>
+    <programme start="20260609100000 +0000" stop="20260609105800 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Primetime News</title>
+    </programme>
+    <programme start="20260609105800 +0000" stop="20260609111000 +0000" channel="Dragon TV.starhub">
+        <title>ShanghaiEye</title>
+    </programme>
+    <programme start="20260609111000 +0000" stop="20260609114800 +0000" channel="Dragon TV.starhub">
+        <title>CHINA Now</title>
+    </programme>
+    <programme start="20260609114800 +0000" stop="20260609121300 +0000" channel="Dragon TV.starhub">
+        <title>Next Station</title>
+    </programme>
+    <programme start="20260609121300 +0000" stop="20260609131900 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
+    </programme>
+    <programme start="20260609131900 +0000" stop="20260609140900 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
+    </programme>
+    <programme start="20260609140900 +0000" stop="20260609143400 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20260609143400 +0000" stop="20260609145900 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
+    </programme>
+    <programme start="20260609145900 +0000" stop="20260609160000 +0000" channel="Dragon TV.starhub">
+        <title>THE CITY OF MUSICALS</title>
     </programme>
     <programme start="20260608160000 +0000" stop="20260608163000 +0000" channel="Travelxp HD.starhub">
         <title>Novi Sad, Serbia</title>
