@@ -3101,7 +3101,7 @@
     <title>Healing Jalur King Nassar</title>
 </programme>
 <programme start="20260609000000 +0000" stop="20260609010000 +0000" channel="Entertainment.mncvision">
-    <title>Super Deal</title>
+    <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20260609010000 +0000" stop="20260609023000 +0000" channel="Entertainment.mncvision">
     <title>New Family 100</title>

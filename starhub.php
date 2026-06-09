@@ -8060,7 +8060,7 @@
         <title>Race 2</title>
     </programme>
     <programme start="20260608163000 +0000" stop="20260608170000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
+        <title>Highlights Ep 4</title>
     </programme>
     <programme start="20260608170000 +0000" stop="20260608180000 +0000" channel="SPOTV2.starhub">
         <title>Formula E Driver S2</title>
@@ -8070,6 +8070,9 @@
     </programme>
     <programme start="20260608201500 +0000" stop="20260608233000 +0000" channel="SPOTV2.starhub">
         <title>Practice</title>
+    </programme>
+    <programme start="20260608233000 +0000" stop="20260608235500 +0000" channel="SPOTV2.starhub">
+        <title>Highlights Ep 4</title>
     </programme>
     <programme start="20260608235500 +0000" stop="20260609005000 +0000" channel="SPOTV2.starhub">
         <title>Formula E Driver S2</title>
@@ -8095,11 +8098,23 @@
     <programme start="20260609130000 +0000" stop="20260609163000 +0000" channel="SPOTV2.starhub">
         <title>Epsom Derby 2026</title>
     </programme>
-    <programme start="20260608140000 +0000" stop="20260608163000 +0000" channel="Dragon TV.starhub">
-        <title>Overtime no more</title>
+    <programme start="20260608160000 +0000" stop="20260608162200 +0000" channel="Dragon TV.starhub">
+        <title>Overtime No More</title>
     </programme>
-    <programme start="20260608163000 +0000" stop="20260608220000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260608162200 +0000" stop="20260608164800 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
+    </programme>
+    <programme start="20260608164800 +0000" stop="20260608170000 +0000" channel="Dragon TV.starhub">
+        <title>ShanghaiEye</title>
+    </programme>
+    <programme start="20260608170000 +0000" stop="20260608220000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Primetime News</title>
+    </programme>
+    <programme start="20260608220000 +0000" stop="20260608223500 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20260608223500 +0000" stop="20260608230000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20260608230000 +0000" stop="20260609010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
