@@ -2756,13 +2756,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260608220000 +0000" stop="20260608230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
 </programme>
-<programme start="20260608230000 +0000" stop="20260609013000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260608230000 +0000" stop="20260609020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Indiana Fever @ Washington Mystics</title>
 </programme>
-<programme start="20260609013000 +0000" stop="20260609040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260609020000 +0000" stop="20260609043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Seattle Storm @ Las Vegas Aces</title>
 </programme>
-<programme start="20260609040000 +0000" stop="20260609044500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260609043000 +0000" stop="20260609044500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Highlights 2026 Bonsoy Gold Coast Pro</title>
 </programme>
 <programme start="20260609044500 +0000" stop="20260609051500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3033,7 +3033,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260609203000 +0000" stop="20260609223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Boss Open in Stuttgart, 2. Tag</title>
+    <title>ATP 250: D. Altmaier (GER)- F. Tiafoe (USA), Boss Open in Stuttgart, 2. Tag</title>
 </programme>
 <programme start="20260608223000 +0000" stop="20260609010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 3</title>
@@ -3098,7 +3098,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609114000 +0000" stop="20260609120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260609120000 +0000" stop="20260609210000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260609120000 +0000" stop="20260609183000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 2. Tag</title>
 </programme>
 <programme start="20260608220000 +0000" stop="20260608234000 +0000" channel="Sky Sport 2 HD.skyde">
