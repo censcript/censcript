@@ -16102,17 +16102,17 @@
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260609040500 +0000" stop="20260609052000 +0000" channel="beinsports.unifitv">
+  <programme start="20260609040500 +0000" stop="20260609051500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Aston Villa vs Liverpool PL 2019/20</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260609052000 +0000" stop="20260609055000 +0000" channel="beinsports.unifitv">
+  <programme start="20260609051500 +0000" stop="20260609060000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFC Trending - Episode Number 44</title>
     <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260609055000 +0000" stop="20260609070500 +0000" channel="beinsports.unifitv">
+  <programme start="20260609060000 +0000" stop="20260609070500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Liverpool vs Everton PL 2021/22</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
@@ -16245,9 +16245,14 @@
     <desc lang="en">Daily highlights show reviewing each day of the tournament, the best action and best moments, biggest wins and winners' celebrations. A stellar showcase of top-ranked players and on-court drama.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260609050000 +0000" stop="20260609070000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Roland Garros 2026 - Women’s Doubles Final</title>
+  <programme start="20260609050000 +0000" stop="20260609063000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Best of Roland Garros 2026 - Women’s Doubles Final Siniakova/Townsend v Krunic/Danilina</title>
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260609063000 +0000" stop="20260609070000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Roland Garros Mini - Women’s Singles Final Andreeva v Chwalinska</title>
+    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609070000 +0000" stop="20260609080000 +0000" channel="beinsports2.unifitv">

@@ -7153,29 +7153,32 @@
     <programme start="20260609143000 +0000" stop="20260609163000 +0000" channel="ONE (Malay).starhub">
         <title>Adventure By Accident 3</title>
     </programme>
-    <programme start="20260608160000 +0000" stop="20260608163000 +0000" channel="COLORS.starhub">
+    <programme start="20260608152000 +0000" stop="20260608161000 +0000" channel="COLORS.starhub">
+        <title>Dr. Aarambhi</title>
+    </programme>
+    <programme start="20260608161000 +0000" stop="20260608164000 +0000" channel="COLORS.starhub">
+        <title>Tuu Juliet Jatt Di</title>
+    </programme>
+    <programme start="20260608164000 +0000" stop="20260608171000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20260608163000 +0000" stop="20260608170000 +0000" channel="COLORS.starhub">
+    <programme start="20260608171000 +0000" stop="20260608174000 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
     </programme>
-    <programme start="20260608170000 +0000" stop="20260608173000 +0000" channel="COLORS.starhub">
-        <title>Dr. Aarambhi</title>
-    </programme>
-    <programme start="20260608173000 +0000" stop="20260608180000 +0000" channel="COLORS.starhub">
-        <title>Mannat Harr Khushi Paane Ki</title>
-    </programme>
-    <programme start="20260608180000 +0000" stop="20260608183000 +0000" channel="COLORS.starhub">
+    <programme start="20260608174000 +0000" stop="20260608181000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
     </programme>
-    <programme start="20260608183000 +0000" stop="20260608190000 +0000" channel="COLORS.starhub">
+    <programme start="20260608181000 +0000" stop="20260608183500 +0000" channel="COLORS.starhub">
         <title>Mahadev &amp; Sons</title>
     </programme>
-    <programme start="20260608190000 +0000" stop="20260608193000 +0000" channel="COLORS.starhub">
+    <programme start="20260608183500 +0000" stop="20260608190000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260608193000 +0000" stop="20260608200000 +0000" channel="COLORS.starhub">
+    <programme start="20260608190000 +0000" stop="20260608193500 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
+    </programme>
+    <programme start="20260608193500 +0000" stop="20260608200000 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20260608200000 +0000" stop="20260608203000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>

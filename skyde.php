@@ -626,10 +626,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609051000 +0000" stop="20260609052500 +0000" channel="Cartoonito.skyde">
     <title>Die Baby Lemminge</title>
 </programme>
-<programme start="20260609052500 +0000" stop="20260609053000 +0000" channel="Cartoonito.skyde">
+<programme start="20260609052500 +0000" stop="20260609053500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260609053000 +0000" stop="20260609055000 +0000" channel="Cartoonito.skyde">
+<programme start="20260609053500 +0000" stop="20260609055000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260609055000 +0000" stop="20260609060000 +0000" channel="Cartoonito.skyde">
@@ -770,16 +770,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609162000 +0000" stop="20260609162500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260609162500 +0000" stop="20260609163000 +0000" channel="Cartoonito.skyde">
+<programme start="20260609162500 +0000" stop="20260609163500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260609163000 +0000" stop="20260609164000 +0000" channel="Cartoonito.skyde">
+<programme start="20260609163500 +0000" stop="20260609164100 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260609164000 +0000" stop="20260609164300 +0000" channel="Cartoonito.skyde">
+<programme start="20260609164100 +0000" stop="20260609164400 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260609164300 +0000" stop="20260609170000 +0000" channel="Cartoonito.skyde">
+<programme start="20260609164400 +0000" stop="20260609170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
 <programme start="20260609170000 +0000" stop="20260609171000 +0000" channel="Cartoonito.skyde">
@@ -812,10 +812,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609190500 +0000" stop="20260609192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260609192000 +0000" stop="20260609192500 +0000" channel="Cartoonito.skyde">
+<programme start="20260609192000 +0000" stop="20260609193000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260609192500 +0000" stop="20260609193500 +0000" channel="Cartoonito.skyde">
+<programme start="20260609193000 +0000" stop="20260609193500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260609193500 +0000" stop="20260609194000 +0000" channel="Cartoonito.skyde">
@@ -845,10 +845,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609211500 +0000" stop="20260609212500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260609212500 +0000" stop="20260609214000 +0000" channel="Cartoonito.skyde">
+<programme start="20260609212500 +0000" stop="20260609214500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260609214000 +0000" stop="20260609215500 +0000" channel="Cartoonito.skyde">
+<programme start="20260609214500 +0000" stop="20260609215500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260609215500 +0000" stop="20260609221000 +0000" channel="Cartoonito.skyde">
@@ -2828,11 +2828,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609070000 +0000" stop="20260609080000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
 </programme>
-<programme start="20260609080000 +0000" stop="20260609090000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260609080000 +0000" stop="20260609083000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Guten Morgen Fans!</title>
 </programme>
-<programme start="20260609090000 +0000" stop="20260609100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260609083000 +0000" stop="20260609093000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
+</programme>
+<programme start="20260609093000 +0000" stop="20260609100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Guten Morgen Fans!</title>
 </programme>
 <programme start="20260609100000 +0000" stop="20260609120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -2850,12 +2853,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Road to New York</title>
 </programme>
 <programme start="20260609160000 +0000" stop="20260609173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
+    <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260609173000 +0000" stop="20260609180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: DFB-PK aus Winston-Salem</title>
 </programme>
-<programme start="20260609180000 +0000" stop="20260609190000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260609180000 +0000" stop="20260609183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20260609183000 +0000" stop="20260609190000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260609190000 +0000" stop="20260609200000 +0000" channel="Sky Sport News HD.skyde">
@@ -3090,10 +3096,76 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Benetton Formula</title>
 </programme>
 <programme start="20260609114000 +0000" stop="20260609120000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+    <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
 <programme start="20260609120000 +0000" stop="20260609183000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 2. Tag</title>
+</programme>
+<programme start="20260608220000 +0000" stop="20260608234000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Deutschland - Ghana, FIFA WM 2014</title>
+</programme>
+<programme start="20260608234000 +0000" stop="20260609001000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Houston, FIFA Stories from the Cities</title>
+</programme>
+<programme start="20260609001000 +0000" stop="20260609015000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>USA - Deutschland, FIFA WM 2014</title>
+</programme>
+<programme start="20260609015000 +0000" stop="20260609021500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Mexiko City, FIFA Stories from the Cities</title>
+</programme>
+<programme start="20260609021500 +0000" stop="20260609035000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Das letzte Tabu</title>
+</programme>
+<programme start="20260609035000 +0000" stop="20260609040000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>FIFA WM 2002, World Cup History</title>
+</programme>
+<programme start="20260609040000 +0000" stop="20260609053500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Deutschland - Portugal, FIFA WM 2014</title>
+</programme>
+<programme start="20260609053500 +0000" stop="20260609060500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Wontorras World Cup - Vater. Tochter. WM. - Episode 1</title>
+</programme>
+<programme start="20260609060500 +0000" stop="20260609074500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Deutschland - Ghana, FIFA WM 2014</title>
+</programme>
+<programme start="20260609074500 +0000" stop="20260609081500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Mexiko City, FIFA Stories from the Cities</title>
+</programme>
+<programme start="20260609081500 +0000" stop="20260609100000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>USA - Deutschland, FIFA WM 2014</title>
+</programme>
+<programme start="20260609100000 +0000" stop="20260609103000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Wontorras World Cup - Vater. Tochter. WM. - Episode 2</title>
+</programme>
+<programme start="20260609103000 +0000" stop="20260609110000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Wontorras World Cup - Vater. Tochter. WM. - Episode 3</title>
+</programme>
+<programme start="20260609110000 +0000" stop="20260609131000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Deutschland - Algerien, FIFA WM 2014</title>
+</programme>
+<programme start="20260609131000 +0000" stop="20260609132000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>FIFA WM 1994, World Cup History</title>
+</programme>
+<programme start="20260609132000 +0000" stop="20260609150000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Frankreich - Deutschland, FIFA WM 2014</title>
+</programme>
+<programme start="20260609150000 +0000" stop="20260609152000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Deutschland, Analyse Lab FIFA WM 2026</title>
+</programme>
+<programme start="20260609152000 +0000" stop="20260609170000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Brasilien - Deutschland, FIFA WM 2014</title>
+</programme>
+<programme start="20260609170000 +0000" stop="20260609173000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Wontorras World Cup - Vater. Tochter. WM. - Episode 3</title>
+</programme>
+<programme start="20260609180000 +0000" stop="20260609202500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Deutschland - Argentinien, FIFA WM 2014</title>
+</programme>
+<programme start="20260609202500 +0000" stop="20260609203000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>FIFA WM 1998, World Cup History</title>
+</programme>
+<programme start="20260609203000 +0000" stop="20260609221500 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Frankreich - Kroatien, FIFA WM 2018</title>
 </programme>
 <programme start="20260608221500 +0000" stop="20260608230000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
@@ -3323,10 +3395,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609031000 +0000" stop="20260609033500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260609033500 +0000" stop="20260609040500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609033500 +0000" stop="20260609040000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260609040500 +0000" stop="20260609043000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609040000 +0000" stop="20260609043000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260609043000 +0000" stop="20260609045500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3344,61 +3416,61 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609061000 +0000" stop="20260609063500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260609063500 +0000" stop="20260609070500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609063500 +0000" stop="20260609070000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260609070500 +0000" stop="20260609073000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609070000 +0000" stop="20260609073000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260609073000 +0000" stop="20260609080000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609073000 +0000" stop="20260609075500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260609080000 +0000" stop="20260609082500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609075500 +0000" stop="20260609082000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260609082500 +0000" stop="20260609085000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609082000 +0000" stop="20260609084500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260609085000 +0000" stop="20260609091500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609084500 +0000" stop="20260609091000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260609091500 +0000" stop="20260609094000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609091000 +0000" stop="20260609093500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260609094000 +0000" stop="20260609100500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609093500 +0000" stop="20260609100000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260609100500 +0000" stop="20260609103000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609100000 +0000" stop="20260609102500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260609103000 +0000" stop="20260609105500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609102500 +0000" stop="20260609105000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260609105500 +0000" stop="20260609112000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609105000 +0000" stop="20260609111500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260609112000 +0000" stop="20260609114500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609111500 +0000" stop="20260609114000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260609114500 +0000" stop="20260609121000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609114000 +0000" stop="20260609120500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260609121000 +0000" stop="20260609123500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609120500 +0000" stop="20260609123000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260609123500 +0000" stop="20260609130000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609123000 +0000" stop="20260609125500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260609130000 +0000" stop="20260609132000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609125500 +0000" stop="20260609131500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260609132000 +0000" stop="20260609134500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609131500 +0000" stop="20260609134000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260609134500 +0000" stop="20260609141000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609134000 +0000" stop="20260609140500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260609141000 +0000" stop="20260609143500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609140500 +0000" stop="20260609143500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260609143500 +0000" stop="20260609150000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3434,32 +3506,35 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609184000 +0000" stop="20260609190500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260609190500 +0000" stop="20260609193000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609190500 +0000" stop="20260609192500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260609193000 +0000" stop="20260609195500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609192500 +0000" stop="20260609195000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260609195500 +0000" stop="20260609202000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609195000 +0000" stop="20260609201500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260609202000 +0000" stop="20260609204500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609201500 +0000" stop="20260609204000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260609204500 +0000" stop="20260609211000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609204000 +0000" stop="20260609210500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260609211000 +0000" stop="20260609212000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609210500 +0000" stop="20260609211500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260609212000 +0000" stop="20260609213500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609211500 +0000" stop="20260609213000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260609213500 +0000" stop="20260609214500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609213000 +0000" stop="20260609214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260609214500 +0000" stop="20260609220000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260609214000 +0000" stop="20260609215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
+</programme>
+<programme start="20260609215500 +0000" stop="20260609222000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
 </programme>
 <programme start="20260608231500 +0000" stop="20260609005500 +0000" channel="Warner TV Film.skyde">
     <title>Im Fadenkreuz - Allein gegen alle</title>
@@ -3488,16 +3563,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609124500 +0000" stop="20260609142500 +0000" channel="Warner TV Film.skyde">
     <title>Ruf der Wildnis</title>
 </programme>
-<programme start="20260609142500 +0000" stop="20260609161000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260609142500 +0000" stop="20260609160500 +0000" channel="Warner TV Film.skyde">
     <title>Die Regeln der Gewalt</title>
 </programme>
-<programme start="20260609161000 +0000" stop="20260609181500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260609160500 +0000" stop="20260609181500 +0000" channel="Warner TV Film.skyde">
     <title>Air Force One</title>
 </programme>
 <programme start="20260609181500 +0000" stop="20260609201000 +0000" channel="Warner TV Film.skyde">
     <title>Zurück in die Zukunft</title>
 </programme>
-<programme start="20260609201000 +0000" stop="20260609220000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260609201000 +0000" stop="20260609220500 +0000" channel="Warner TV Film.skyde">
     <title>Zurück in die Zukunft II</title>
 </programme>
 <programme start="20260608231500 +0000" stop="20260609005500 +0000" channel="Warner TV Film HD.skyde">
@@ -3527,16 +3602,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609124500 +0000" stop="20260609142500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ruf der Wildnis</title>
 </programme>
-<programme start="20260609142500 +0000" stop="20260609161000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260609142500 +0000" stop="20260609160500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Regeln der Gewalt</title>
 </programme>
-<programme start="20260609161000 +0000" stop="20260609181500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260609160500 +0000" stop="20260609181500 +0000" channel="Warner TV Film HD.skyde">
     <title>Air Force One</title>
 </programme>
 <programme start="20260609181500 +0000" stop="20260609201000 +0000" channel="Warner TV Film HD.skyde">
     <title>Zurück in die Zukunft</title>
 </programme>
-<programme start="20260609201000 +0000" stop="20260609220000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260609201000 +0000" stop="20260609220500 +0000" channel="Warner TV Film HD.skyde">
     <title>Zurück in die Zukunft II</title>
 </programme>
 <programme start="20260608220500 +0000" stop="20260608234000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3560,10 +3635,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609030500 +0000" stop="20260609035000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260609035000 +0000" stop="20260609044000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260609035000 +0000" stop="20260609043500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260609044000 +0000" stop="20260609053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260609043500 +0000" stop="20260609053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260609053500 +0000" stop="20260609062500 +0000" channel="Warner TV Serie HD.skyde">

@@ -176,7 +176,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260609093000 +0000" stop="20260609100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+    <title>Talk To Al Jazeera: Moussawi</title>
 </programme>
 <programme start="20260609100000 +0000" stop="20260609110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -419,7 +419,7 @@
     <title>Nada-Nada Rindu</title>
 </programme>
 <programme start="20260609140000 +0000" stop="20260609153000 +0000" channel="ANTV.mncvision">
-    <title>Sangkuriang</title>
+    <title>Pusaka Penyebar Maut</title>
 </programme>
 <programme start="20260609153000 +0000" stop="20260609160000 +0000" channel="ANTV.mncvision">
     <title>Air Terjun Pengantin</title>
