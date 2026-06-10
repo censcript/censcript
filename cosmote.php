@@ -54,10 +54,6 @@
     <title>Football: Atalanta - Club Brugge</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260610090000 +0700" stop="20260610110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Egaleo - Aris</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260610110000 +0700" stop="20260610131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Ilioupoli - AEK</title>
     <desc>Live: Tidak</desc>
@@ -110,8 +106,8 @@
     <title>Football: Olympiacos - Volos NPS</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260610080500 +0700" stop="20260610100500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Hibernian - Heart of Midlothian</title>
+<programme start="20260611110000 +0700" stop="20260611130500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Levadiakos - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260610100500 +0700" stop="20260610121000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,10 +230,6 @@
     <title>Basketball: Armani Milano - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260610100000 +0700" stop="20260610110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260610110000 +0700" stop="20260610120000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2026</title>
     <desc>Live: Tidak</desc>
@@ -350,6 +342,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260611113000 +0700" stop="20260611130000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260610100000 +0700" stop="20260610120000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2026</title>
     <desc>Live: Tidak</desc>
@@ -392,6 +388,14 @@
 </programme>
 <programme start="20260611100000 +0700" stop="20260611111500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260611111500 +0700" stop="20260611114500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Sailing to the Games 2026 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260611114500 +0700" stop="20260611120000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260610100000 +0700" stop="20260610120000 +0700" channel="COSMOTE Sport 7 HD">

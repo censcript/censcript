@@ -1086,32 +1086,98 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610212500 +0000" stop="20260610221000 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
-<programme start="20260609220000 +0000" stop="20260610000000 +0000" channel="Jukebox.skyde">
-    <title>BACK TO ... 2014</title>
+<programme start="20260609222500 +0000" stop="20260609231000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Welten-Saga</title>
 </programme>
-<programme start="20260610000000 +0000" stop="20260610010000 +0000" channel="Jukebox.skyde">
-    <title>RNB &amp; SOUL</title>
+<programme start="20260609231000 +0000" stop="20260609235500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20260610010000 +0000" stop="20260610040000 +0000" channel="Jukebox.skyde">
-    <title>NIGHTSHIFT</title>
+<programme start="20260609235500 +0000" stop="20260610003500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20260610040000 +0000" stop="20260610100000 +0000" channel="Jukebox.skyde">
-    <title>MORNING GLORY</title>
+<programme start="20260610003500 +0000" stop="20260610011500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX DANCE</title>
+<programme start="20260610011500 +0000" stop="20260610015500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
 </programme>
-<programme start="20260610120000 +0000" stop="20260610160000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TRENDS</title>
+<programme start="20260610015500 +0000" stop="20260610022000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Wigald &amp; Fritz - Die Geschichtsjäger</title>
 </programme>
-<programme start="20260610160000 +0000" stop="20260610180000 +0000" channel="Jukebox.skyde">
-    <title>LOGOUT</title>
+<programme start="20260610022000 +0000" stop="20260610030000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
 </programme>
-<programme start="20260610180000 +0000" stop="20260610200000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TOP 50 MIX</title>
+<programme start="20260610030000 +0000" stop="20260610034000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
 </programme>
-<programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX NEWS</title>
+<programme start="20260610034000 +0000" stop="20260610043000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Das Geheimnis der Skinwalker Ranch</title>
+</programme>
+<programme start="20260610043000 +0000" stop="20260610051500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260610051500 +0000" stop="20260610060000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260610060000 +0000" stop="20260610064500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260610064500 +0000" stop="20260610073000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260610073000 +0000" stop="20260610082000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20260610082000 +0000" stop="20260610090500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20260610090500 +0000" stop="20260610095000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained - Mysterien des Universums</title>
+</programme>
+<programme start="20260610095000 +0000" stop="20260610104000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained - Mysterien des Universums</title>
+</programme>
+<programme start="20260610104000 +0000" stop="20260610112500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20260610112500 +0000" stop="20260610120500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>History&#039;s Greatest Mysteries</title>
+</programme>
+<programme start="20260610120500 +0000" stop="20260610125500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20260610125500 +0000" stop="20260610134000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
+</programme>
+<programme start="20260610134000 +0000" stop="20260610142500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained - Mysterien des Universums</title>
+</programme>
+<programme start="20260610142500 +0000" stop="20260610151000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained - Mysterien des Universums</title>
+</programme>
+<programme start="20260610151000 +0000" stop="20260610155500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260610155500 +0000" stop="20260610164000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260610164000 +0000" stop="20260610173000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260610173000 +0000" stop="20260610181500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Unerklärliche Phänomene</title>
+</programme>
+<programme start="20260610181500 +0000" stop="20260610194000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Ancient Aliens - Die Ursprünge</title>
+</programme>
+<programme start="20260610194000 +0000" stop="20260610203000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20260610203000 +0000" stop="20260610212000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>The UnXplained mit William Shatner</title>
+</programme>
+<programme start="20260610212000 +0000" stop="20260610221500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Welten-Saga</title>
 </programme>
 <programme start="20260609221500 +0000" stop="20260609230000 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
@@ -1242,16 +1308,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260609222000 +0000" stop="20260609224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260609224000 +0000" stop="20260609230000 +0000" channel="Nick Jr..skyde">
+<programme start="20260609224000 +0000" stop="20260609230500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260609230000 +0000" stop="20260609232500 +0000" channel="Nick Jr..skyde">
+<programme start="20260609230500 +0000" stop="20260609232500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260609232500 +0000" stop="20260609234500 +0000" channel="Nick Jr..skyde">
+<programme start="20260609232500 +0000" stop="20260609235000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260609234500 +0000" stop="20260610001000 +0000" channel="Nick Jr..skyde">
+<programme start="20260609235000 +0000" stop="20260610001000 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
 <programme start="20260610001000 +0000" stop="20260610003500 +0000" channel="Nick Jr..skyde">
@@ -1269,53 +1335,56 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610014500 +0000" stop="20260610020500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260610020500 +0000" stop="20260610022500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610020500 +0000" stop="20260610023000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260610022500 +0000" stop="20260610025000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610023000 +0000" stop="20260610025000 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
 <programme start="20260610025000 +0000" stop="20260610031500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260610031500 +0000" stop="20260610034000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610031500 +0000" stop="20260610033500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260610034000 +0000" stop="20260610040000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610033500 +0000" stop="20260610040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260610040000 +0000" stop="20260610042500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610040000 +0000" stop="20260610042000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260610042500 +0000" stop="20260610044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610042000 +0000" stop="20260610044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260610044500 +0000" stop="20260610051000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610044500 +0000" stop="20260610050500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260610051000 +0000" stop="20260610053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610050500 +0000" stop="20260610053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260610053000 +0000" stop="20260610055500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610053000 +0000" stop="20260610055000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260610055500 +0000" stop="20260610062000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610055000 +0000" stop="20260610061500 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
-<programme start="20260610062000 +0000" stop="20260610064000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610061500 +0000" stop="20260610063500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260610064000 +0000" stop="20260610065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610063500 +0000" stop="20260610065000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260610065000 +0000" stop="20260610070000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610065000 +0000" stop="20260610065500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260610070000 +0000" stop="20260610070500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610065500 +0000" stop="20260610070500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260610070500 +0000" stop="20260610071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610070500 +0000" stop="20260610071000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
+</programme>
+<programme start="20260610071000 +0000" stop="20260610071500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260610071500 +0000" stop="20260610072000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -1335,10 +1404,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610074000 +0000" stop="20260610074500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260610074500 +0000" stop="20260610075000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20260610075000 +0000" stop="20260610075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610074500 +0000" stop="20260610075500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260610075500 +0000" stop="20260610081500 +0000" channel="Nick Jr..skyde">
@@ -1356,10 +1422,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610092500 +0000" stop="20260610094500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260610094500 +0000" stop="20260610100500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610094500 +0000" stop="20260610101000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260610100500 +0000" stop="20260610103000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610101000 +0000" stop="20260610103000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260610103000 +0000" stop="20260610105500 +0000" channel="Nick Jr..skyde">
@@ -1389,10 +1455,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610123000 +0000" stop="20260610124000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260610124000 +0000" stop="20260610130000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610124000 +0000" stop="20260610130500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260610130000 +0000" stop="20260610131500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610130500 +0000" stop="20260610131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20260610131500 +0000" stop="20260610133500 +0000" channel="Nick Jr..skyde">
@@ -1413,10 +1479,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610135500 +0000" stop="20260610140000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260610140000 +0000" stop="20260610142500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610140000 +0000" stop="20260610142000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260610142500 +0000" stop="20260610144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610142000 +0000" stop="20260610144500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260610144500 +0000" stop="20260610150000 +0000" channel="Nick Jr..skyde">
@@ -1425,22 +1491,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610150000 +0000" stop="20260610152000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260610152000 +0000" stop="20260610153500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610152000 +0000" stop="20260610153000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260610153500 +0000" stop="20260610155500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610153000 +0000" stop="20260610155500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260610155500 +0000" stop="20260610162000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610155500 +0000" stop="20260610161500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260610162000 +0000" stop="20260610163000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610161500 +0000" stop="20260610163000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260610163000 +0000" stop="20260610164000 +0000" channel="Nick Jr..skyde">
+<programme start="20260610163000 +0000" stop="20260610163500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260610164000 +0000" stop="20260610164500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610163500 +0000" stop="20260610164500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260610164500 +0000" stop="20260610165000 +0000" channel="Nick Jr..skyde">
@@ -1470,10 +1536,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610173000 +0000" stop="20260610175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260610175000 +0000" stop="20260610180500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610175000 +0000" stop="20260610180000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260610180500 +0000" stop="20260610182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260610180000 +0000" stop="20260610182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260610182500 +0000" stop="20260610184500 +0000" channel="Nick Jr..skyde">
@@ -2892,7 +2958,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610214500 +0000" stop="20260610221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Wayne Rooney)</title>
 </programme>
-<programme start="20260609223000 +0000" stop="20260610003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260609224500 +0000" stop="20260610003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - M. Sakkari (GRE), HSBC Championships in London (GBR), 2. Tag</title>
 </programme>
 <programme start="20260610003000 +0000" stop="20260610013000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2931,7 +2997,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610210000 +0000" stop="20260610230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, HSBC Championships in London (GBR), 3. Tag</title>
 </programme>
-<programme start="20260609224500 +0000" stop="20260609234500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260609224000 +0000" stop="20260609234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
 </programme>
 <programme start="20260609234500 +0000" stop="20260610031500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2994,7 +3060,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610101000 +0000" stop="20260610103000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260610103000 +0000" stop="20260610183000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260610103000 +0000" stop="20260610210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 3. Tag</title>
 </programme>
 <programme start="20260609221500 +0000" stop="20260609223000 +0000" channel="Sky Sport 2 HD.skyde">
