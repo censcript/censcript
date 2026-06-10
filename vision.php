@@ -16,7 +16,7 @@
 <programme start="20260610050000 +0000" stop="20260610063000 +0000" channel="RCTI.vision">
 <title>Aku Melupakan Ibuku Demi...</title>
 </programme>
-<programme start="20260608063000 +0000" stop="20260608090000 +0000" channel="RCTI.vision">
+<programme start="20260610063000 +0000" stop="20260610090000 +0000" channel="RCTI.vision">
 <title>Ih Serem</title>
 </programme>
 <programme start="20260610090000 +0000" stop="20260610103000 +0000" channel="RCTI.vision">
@@ -25,7 +25,7 @@
 <programme start="20260610103000 +0000" stop="20260610120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260608120000 +0000" stop="20260608133000 +0000" channel="RCTI.vision">
+<programme start="20260610120000 +0000" stop="20260610133000 +0000" channel="RCTI.vision">
 <title>Terikat Janji (RCTI)</title>
 </programme>
 <programme start="20260610133000 +0000" stop="20260610144500 +0000" channel="RCTI.vision">
@@ -678,12 +678,6 @@
 </programme>
 <programme start="20260610090000 +0000" stop="20260610113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260610113000 +0000" stop="20260610133000 +0000" channel="ANTV.vision">
-<title>Prabu Angling Dharma 2</title>
-</programme>
-<programme start="20260610133000 +0000" stop="20260610150000 +0000" channel="ANTV.vision">
-<title>Ajian Ratu Laut Kidul</title>
 </programme>
 <programme start="20260610150000 +0000" stop="20260610170000 +0000" channel="ANTV.vision">
 <title>Saranjana</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260611073000 +0000" stop="20260611080000 +0000" channel="BTV.vision">
 <title>Indonesia Update Ototekno</title>
+</programme>
+<programme start="20260611080000 +0000" stop="20260611100000 +0000" channel="BTV.vision">
+<title>Berita Satu Spesial</title>
+</programme>
+<programme start="20260611100000 +0000" stop="20260611103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
 </programme>

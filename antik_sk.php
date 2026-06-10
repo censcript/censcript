@@ -2813,7 +2813,7 @@
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260612120000 +0000" stop="20260612130000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260612130000 +0000" stop="20260612143000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
@@ -8824,29 +8824,26 @@
   <programme start="20260612212500 +0000" stop="20260612225500 +0000" channel="Film +.webtv.sk">
     <title lang="id">Krev a kosti</title>
   </programme>
-  <programme start="20260611220000 +0000" stop="20260611224000 +0000" channel="AXN.webtv.sk">
+  <programme start="20260611220000 +0000" stop="20260611225500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Vzpomínky III (13)</title>
   </programme>
-  <programme start="20260611224000 +0000" stop="20260611232000 +0000" channel="AXN.webtv.sk">
+  <programme start="20260611225500 +0000" stop="20260611235500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Lucifer III (7)</title>
   </programme>
-  <programme start="20260611232000 +0000" stop="20260612001500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260611235500 +0000" stop="20260612005000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Spartakus I (3)</title>
   </programme>
-  <programme start="20260612001500 +0000" stop="20260612005500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260612005000 +0000" stop="20260612013000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba XX (7)</title>
   </programme>
-  <programme start="20260612005500 +0000" stop="20260612013500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260612013000 +0000" stop="20260612021000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba: Havaj I (7)</title>
   </programme>
-  <programme start="20260612013500 +0000" stop="20260612021500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260612021000 +0000" stop="20260612025500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Lucifer III (7)</title>
   </programme>
-  <programme start="20260612021500 +0000" stop="20260612031000 +0000" channel="AXN.webtv.sk">
+  <programme start="20260612025500 +0000" stop="20260612040000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Spartakus I (3)</title>
-  </programme>
-  <programme start="20260612031000 +0000" stop="20260612040000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Odpadlík I (6)</title>
   </programme>
   <programme start="20260612040000 +0000" stop="20260612045500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Zbrojnice III (14)</title>
@@ -8905,28 +8902,28 @@
   <programme start="20260612205500 +0000" stop="20260612215500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Námořní vyšetřovací služba XX (8)</title>
   </programme>
-  <programme start="20260612215500 +0000" stop="20260612223500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260612215500 +0000" stop="20260612225000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Vzpomínky IV (1)</title>
   </programme>
-  <programme start="20260611212500 +0000" stop="20260611223000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260611212500 +0000" stop="20260611223500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Profil zločinu VII (6)</title>
   </programme>
-  <programme start="20260611223000 +0000" stop="20260611231000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260611223500 +0000" stop="20260611234000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Zelenáč II (17)</title>
   </programme>
-  <programme start="20260611231000 +0000" stop="20260611235500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260611234000 +0000" stop="20260612002000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Zelenáč II (18)</title>
   </programme>
-  <programme start="20260611235500 +0000" stop="20260612004000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260612002000 +0000" stop="20260612010500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Ranč Heartland III (1)</title>
   </programme>
-  <programme start="20260612004000 +0000" stop="20260612012500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260612010500 +0000" stop="20260612015000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Ranč Heartland III (2)</title>
   </programme>
-  <programme start="20260612012500 +0000" stop="20260612021500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260612015000 +0000" stop="20260612024500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Divoké včely I (60)</title>
   </programme>
-  <programme start="20260612021500 +0000" stop="20260612044000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260612024500 +0000" stop="20260612044000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Profil zločinu VII (5)</title>
   </programme>
   <programme start="20260612044000 +0000" stop="20260612054500 +0000" channel="AXN White.webtv.sk">
@@ -8980,29 +8977,26 @@
   <programme start="20260612211000 +0000" stop="20260612222000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Profil zločinu VII (8)</title>
   </programme>
-  <programme start="20260611215500 +0000" stop="20260611224000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260611215500 +0000" stop="20260611225500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Walker, Texas Ranger I (7)</title>
   </programme>
-  <programme start="20260611224000 +0000" stop="20260611232500 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260611225500 +0000" stop="20260611235500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Walker, Texas Ranger I (8)</title>
   </programme>
-  <programme start="20260611232500 +0000" stop="20260612001000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260611235500 +0000" stop="20260612004000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Odpadlík IV (22)</title>
   </programme>
-  <programme start="20260612001000 +0000" stop="20260612005000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260612004000 +0000" stop="20260612012000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Hvězdná brána X (7)</title>
   </programme>
-  <programme start="20260612005000 +0000" stop="20260612013500 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260612012000 +0000" stop="20260612020500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Hvězdná brána X (8)</title>
   </programme>
-  <programme start="20260612013500 +0000" stop="20260612022000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260612020500 +0000" stop="20260612025000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Hvězdná brána III (4)</title>
   </programme>
-  <programme start="20260612022000 +0000" stop="20260612030000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260612025000 +0000" stop="20260612042000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Hvězdná brána III (5)</title>
-  </programme>
-  <programme start="20260612030000 +0000" stop="20260612042000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Odpadlík IV (22)</title>
   </programme>
   <programme start="20260612042000 +0000" stop="20260612052500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Xena I (16)</title>
@@ -9058,7 +9052,7 @@
   <programme start="20260612205500 +0000" stop="20260612215000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">JAG III (6)</title>
   </programme>
-  <programme start="20260612215000 +0000" stop="20260612224000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260612215000 +0000" stop="20260612225000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Walker, Texas Ranger I (9)</title>
   </programme>
   <programme start="20260611220000 +0000" stop="20260611235500 +0000" channel="FilmBox.webtv.sk">
@@ -9091,10 +9085,10 @@
   <programme start="20260612104000 +0000" stop="20260612124500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Baron Prášil</title>
   </programme>
-  <programme start="20260612124500 +0000" stop="20260612143000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260612124500 +0000" stop="20260612143500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Andula vyhrála</title>
   </programme>
-  <programme start="20260612143000 +0000" stop="20260612161000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260612143500 +0000" stop="20260612161000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Muž na drátě</title>
   </programme>
   <programme start="20260612161000 +0000" stop="20260612170500 +0000" channel="FilmBox.webtv.sk">
@@ -9110,12 +9104,12 @@
     <title lang="id">Loganovi parťáci</title>
   </programme>
   <programme start="20260611204000 +0000" stop="20260611221500 +0000" channel="FilmBox Extra.webtv.sk">
-    <title lang="id">Konečná</title>
+    <title lang="id">Vivárium</title>
   </programme>
-  <programme start="20260611221500 +0000" stop="20260612000500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20260611222000 +0000" stop="20260612001000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Čekání na barbary</title>
   </programme>
-  <programme start="20260612000500 +0000" stop="20260612013000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20260612001000 +0000" stop="20260612013000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Operace Mořský vlk</title>
   </programme>
   <programme start="20260612013000 +0000" stop="20260612035000 +0000" channel="FilmBox Extra.webtv.sk">
@@ -9125,7 +9119,7 @@
     <title lang="id">Ztraceni ve Florencii</title>
   </programme>
   <programme start="20260612052500 +0000" stop="20260612065500 +0000" channel="FilmBox Extra.webtv.sk">
-    <title lang="id">Písečný muž</title>
+    <title lang="id">Ještě jedna věc</title>
   </programme>
   <programme start="20260612065500 +0000" stop="20260612084500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Něžnost</title>
@@ -9160,10 +9154,10 @@
   <programme start="20260611225000 +0000" stop="20260612005000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Kód 355</title>
   </programme>
-  <programme start="20260612005000 +0000" stop="20260612022500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20260612005000 +0000" stop="20260612022000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">V pasti</title>
   </programme>
-  <programme start="20260612022500 +0000" stop="20260612031500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20260612022000 +0000" stop="20260612031500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260612031500 +0000" stop="20260612045000 +0000" channel="FilmBox Premium.webtv.sk">
@@ -9256,16 +9250,16 @@
   <programme start="20260611204000 +0000" stop="20260611221500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Smrt za oponou</title>
   </programme>
-  <programme start="20260611221500 +0000" stop="20260611235000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260611221500 +0000" stop="20260612001500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Kde alibi nestačí</title>
   </programme>
-  <programme start="20260611235000 +0000" stop="20260612010000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260612001500 +0000" stop="20260612013000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Bílá spona</title>
   </programme>
-  <programme start="20260612010000 +0000" stop="20260612024000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260612013000 +0000" stop="20260612030500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Dvojníci</title>
   </programme>
-  <programme start="20260612024000 +0000" stop="20260612040000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260612030500 +0000" stop="20260612040000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260612040000 +0000" stop="20260612060000 +0000" channel="FilmBox Stars.webtv.sk">
@@ -9277,10 +9271,10 @@
   <programme start="20260612075500 +0000" stop="20260612090000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Slečna Scarletová I (2)</title>
   </programme>
-  <programme start="20260612090000 +0000" stop="20260612105500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260612090000 +0000" stop="20260612110000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Vraždy v Oxfordu III (1)</title>
   </programme>
-  <programme start="20260612105500 +0000" stop="20260612125000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260612110000 +0000" stop="20260612125000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Slečna Marplová V (2)</title>
   </programme>
   <programme start="20260612125000 +0000" stop="20260612135500 +0000" channel="FilmBox Stars.webtv.sk">
@@ -16642,16 +16636,16 @@
   <programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1827)</title>
   </programme>
-  <programme start="20260611213000 +0000" stop="20260611224600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260611213000 +0000" stop="20260611224800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (256)</title>
   </programme>
-  <programme start="20260611224600 +0000" stop="20260611225800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260611224800 +0000" stop="20260611230000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260611225800 +0000" stop="20260611232600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260611230000 +0000" stop="20260611232800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260611232600 +0000" stop="20260611235500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260611232800 +0000" stop="20260611235500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (711)</title>
   </programme>
   <programme start="20260611235500 +0000" stop="20260612002500 +0000" channel="TVP Info.webtv.sk">
@@ -16663,13 +16657,16 @@
   <programme start="20260612004000 +0000" stop="20260612010700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260612010700 +0000" stop="20260612011200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260612010700 +0000" stop="20260612011100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260612011200 +0000" stop="20260612015100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260612011100 +0000" stop="20260612014000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (256)</title>
   </programme>
-  <programme start="20260612015100 +0000" stop="20260612022800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260612014000 +0000" stop="20260612015300 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Reportaz TVP INFO (2)</title>
+  </programme>
+  <programme start="20260612015300 +0000" stop="20260612022800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia V (50)</title>
   </programme>
   <programme start="20260612022800 +0000" stop="20260612025600 +0000" channel="TVP Info.webtv.sk">
@@ -16867,7 +16864,7 @@
   <programme start="20260612210000 +0000" stop="20260612213000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260612213000 +0000" stop="20260612224600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260612213000 +0000" stop="20260612224800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (257)</title>
   </programme>
   <programme start="20260611214000 +0000" stop="20260611223500 +0000" channel="TVP Polonia.webtv.sk">

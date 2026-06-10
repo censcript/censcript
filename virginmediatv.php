@@ -3886,10 +3886,10 @@
 <programme start="20260610020000 +0000" stop="20260610030000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260610030000 +0000" stop="20260610040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260610030000 +0000" stop="20260610050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260610050000 +0000" stop="20260610060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260610090000 +0000" stop="20260610123000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4726,10 +4726,10 @@
 <programme start="20260610020000 +0000" stop="20260610030000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260610030000 +0000" stop="20260610040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260610030000 +0000" stop="20260610050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260610040000 +0000" stop="20260610060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260610050000 +0000" stop="20260610060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260610090000 +0000" stop="20260610123000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
