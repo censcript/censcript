@@ -1179,6 +1179,33 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610212000 +0000" stop="20260610221500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Welten-Saga</title>
 </programme>
+<programme start="20260609220000 +0000" stop="20260610000000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... 2014</title>
+</programme>
+<programme start="20260610000000 +0000" stop="20260610010000 +0000" channel="Jukebox.skyde">
+    <title>RNB &amp; SOUL</title>
+</programme>
+<programme start="20260610010000 +0000" stop="20260610040000 +0000" channel="Jukebox.skyde">
+    <title>NIGHTSHIFT</title>
+</programme>
+<programme start="20260610040000 +0000" stop="20260610100000 +0000" channel="Jukebox.skyde">
+    <title>MORNING GLORY</title>
+</programme>
+<programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX DANCE</title>
+</programme>
+<programme start="20260610120000 +0000" stop="20260610160000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TRENDS</title>
+</programme>
+<programme start="20260610160000 +0000" stop="20260610180000 +0000" channel="Jukebox.skyde">
+    <title>LOGOUT</title>
+</programme>
+<programme start="20260610180000 +0000" stop="20260610200000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX TOP 50 MIX</title>
+</programme>
+<programme start="20260610200000 +0000" stop="20260610220000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX NEWS</title>
+</programme>
 <programme start="20260609221500 +0000" stop="20260609230000 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
 </programme>
@@ -2752,7 +2779,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
 </programme>
 <programme start="20260610093000 +0000" stop="20260610100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Wake up, World Cup!</title>
+    <title>Sky Sport News: Guten Morgen Fans!</title>
 </programme>
 <programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -2997,7 +3024,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610210000 +0000" stop="20260610230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, HSBC Championships in London (GBR), 3. Tag</title>
 </programme>
-<programme start="20260609224000 +0000" stop="20260609234500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260609224500 +0000" stop="20260609234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
 </programme>
 <programme start="20260609234500 +0000" stop="20260610031500 +0000" channel="Sky Sport Top Event HD.skyde">

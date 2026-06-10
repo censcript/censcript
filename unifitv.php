@@ -260,252 +260,252 @@
   </channel>
   <programme start="20260609153000 +0000" stop="20260609160000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609160000 +0000" stop="20260609163000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609163000 +0000" stop="20260609170000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609170000 +0000" stop="20260609173000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609173000 +0000" stop="20260609180000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609180000 +0000" stop="20260609183000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609183000 +0000" stop="20260609190000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609190000 +0000" stop="20260609193000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609193000 +0000" stop="20260609200000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609200000 +0000" stop="20260609203000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609203000 +0000" stop="20260609210000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609210000 +0000" stop="20260609213000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609213000 +0000" stop="20260609220000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609220000 +0000" stop="20260609223000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609223000 +0000" stop="20260609230000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609230000 +0000" stop="20260609233000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260609233000 +0000" stop="20260610000000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610000000 +0000" stop="20260610003000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610003000 +0000" stop="20260610010000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610010000 +0000" stop="20260610013000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610013000 +0000" stop="20260610020000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610020000 +0000" stop="20260610023000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610023000 +0000" stop="20260610030000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610030000 +0000" stop="20260610033000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610033000 +0000" stop="20260610040000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610040000 +0000" stop="20260610043000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610043000 +0000" stop="20260610050000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610050000 +0000" stop="20260610053000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610053000 +0000" stop="20260610060000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610060000 +0000" stop="20260610063000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610063000 +0000" stop="20260610070000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610070000 +0000" stop="20260610073000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610073000 +0000" stop="20260610080000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610080000 +0000" stop="20260610083000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610083000 +0000" stop="20260610090000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610090000 +0000" stop="20260610093000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610093000 +0000" stop="20260610100000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610100000 +0000" stop="20260610103000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610103000 +0000" stop="20260610110000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610110000 +0000" stop="20260610113000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610113000 +0000" stop="20260610120000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610120000 +0000" stop="20260610123000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610123000 +0000" stop="20260610130000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610130000 +0000" stop="20260610133000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610133000 +0000" stop="20260610140000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610140000 +0000" stop="20260610143000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610143000 +0000" stop="20260610150000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610150000 +0000" stop="20260610153000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610153000 +0000" stop="20260610160000 +0000" channel="fifa2.unifitv">
     <title lang="en">Coming Soon : FIFA World Cup™ 2026</title>
-    <desc lang="en">FIFA World Cup™  2026 coming soon</desc>
+    <desc lang="en">FIFA World Cup™ 2026 coming soon</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260610160000 +0000" stop="20260610163000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™  2026 team preparation for the tournament</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="fifa3.unifitv">

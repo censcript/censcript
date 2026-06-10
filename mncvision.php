@@ -7661,7 +7661,7 @@
     <title>Ih Serem</title>
 </programme>
 <programme start="20260610090000 +0000" stop="20260610103000 +0000" channel="RCTI.mncvision">
-    <title>Takut Ga Sih</title>
+    <title>Bumi Langit</title>
 </programme>
 <programme start="20260610103000 +0000" stop="20260610120000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun Deui</title>
@@ -7712,7 +7712,7 @@
     <title>Ih Serem</title>
 </programme>
 <programme start="20260610090000 +0000" stop="20260610103000 +0000" channel="RCTI HD.mncvision">
-    <title>Takut Ga Sih</title>
+    <title>Bumi Langit</title>
 </programme>
 <programme start="20260610103000 +0000" stop="20260610120000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun Deui</title>
@@ -7876,34 +7876,34 @@
 <programme start="20260610010000 +0000" stop="20260610030000 +0000" channel="SCTV.mncvision">
     <title>Macho Tapi Mellow</title>
 </programme>
-<programme start="20260610030000 +0000" stop="20260610050000 +0000" channel="SCTV.mncvision">
+<programme start="20260610030000 +0000" stop="20260610045000 +0000" channel="SCTV.mncvision">
     <title>Tikus Dan Kucing Bikin Salting</title>
 </programme>
-<programme start="20260610050000 +0000" stop="20260610053000 +0000" channel="SCTV.mncvision">
+<programme start="20260610045000 +0000" stop="20260610052400 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260610053000 +0000" stop="20260610070000 +0000" channel="SCTV.mncvision">
+<programme start="20260610052400 +0000" stop="20260610065600 +0000" channel="SCTV.mncvision">
     <title>The Lord Of Bintang Film</title>
 </programme>
-<programme start="20260610070000 +0000" stop="20260610083000 +0000" channel="SCTV.mncvision">
+<programme start="20260610065600 +0000" stop="20260610082800 +0000" channel="SCTV.mncvision">
     <title>OB Cantik Pencabut Rasa Galau</title>
 </programme>
-<programme start="20260610083000 +0000" stop="20260610100000 +0000" channel="SCTV.mncvision">
+<programme start="20260610082800 +0000" stop="20260610100000 +0000" channel="SCTV.mncvision">
     <title>Apa Urusan Anda Menanyakan...</title>
 </programme>
-<programme start="20260610100000 +0000" stop="20260610111500 +0000" channel="SCTV.mncvision">
+<programme start="20260610100000 +0000" stop="20260610112700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260610111500 +0000" stop="20260610130000 +0000" channel="SCTV.mncvision">
+<programme start="20260610112700 +0000" stop="20260610131100 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260610130000 +0000" stop="20260610143000 +0000" channel="SCTV.mncvision">
+<programme start="20260610131100 +0000" stop="20260610143600 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260610143000 +0000" stop="20260610160000 +0000" channel="SCTV.mncvision">
+<programme start="20260610143600 +0000" stop="20260610160400 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260610160000 +0000" stop="20260610163000 +0000" channel="SCTV.mncvision">
+<programme start="20260610160400 +0000" stop="20260610163400 +0000" channel="SCTV.mncvision">
     <title>Byon Madness</title>
 </programme>
 <programme start="20260609170700 +0000" stop="20260609183100 +0000" channel="SCTV HD.mncvision">
@@ -7933,34 +7933,34 @@
 <programme start="20260610010000 +0000" stop="20260610030000 +0000" channel="SCTV HD.mncvision">
     <title>Macho Tapi Mellow</title>
 </programme>
-<programme start="20260610030000 +0000" stop="20260610050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610030000 +0000" stop="20260610045000 +0000" channel="SCTV HD.mncvision">
     <title>Tikus Dan Kucing Bikin Salting</title>
 </programme>
-<programme start="20260610050000 +0000" stop="20260610053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610045000 +0000" stop="20260610052400 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260610053000 +0000" stop="20260610070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610052400 +0000" stop="20260610065600 +0000" channel="SCTV HD.mncvision">
     <title>The Lord Of Bintang Film</title>
 </programme>
-<programme start="20260610070000 +0000" stop="20260610083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610065600 +0000" stop="20260610082800 +0000" channel="SCTV HD.mncvision">
     <title>OB Cantik Pencabut Rasa Galau</title>
 </programme>
-<programme start="20260610083000 +0000" stop="20260610100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610082800 +0000" stop="20260610100000 +0000" channel="SCTV HD.mncvision">
     <title>Apa Urusan Anda Menanyakan...</title>
 </programme>
-<programme start="20260610100000 +0000" stop="20260610111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610100000 +0000" stop="20260610112700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260610111500 +0000" stop="20260610130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610112700 +0000" stop="20260610131100 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260610130000 +0000" stop="20260610143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610131100 +0000" stop="20260610143600 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260610143000 +0000" stop="20260610160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610143600 +0000" stop="20260610160400 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260610160000 +0000" stop="20260610163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260610160400 +0000" stop="20260610163400 +0000" channel="SCTV HD.mncvision">
     <title>Byon Madness</title>
 </programme>
 <programme start="20260609170000 +0000" stop="20260609180000 +0000" channel="Sindo News TV.mncvision">
@@ -8569,7 +8569,10 @@
 <programme start="20260610040000 +0000" stop="20260610070000 +0000" channel="SPOTV.mncvision">
     <title>U.S. Women&#039;s Open C&#039;ship</title>
 </programme>
-<programme start="20260610070000 +0000" stop="20260610120000 +0000" channel="SPOTV.mncvision">
+<programme start="20260610070000 +0000" stop="20260610100000 +0000" channel="SPOTV.mncvision">
+    <title>U.S. Women&#039;s Open C&#039;ship</title>
+</programme>
+<programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="SPOTV.mncvision">
     <title>U.S. Women&#039;s Open C&#039;ship</title>
 </programme>
 <programme start="20260610120000 +0000" stop="20260610160000 +0000" channel="SPOTV.mncvision">
@@ -8680,7 +8683,10 @@
 <programme start="20260610040000 +0000" stop="20260610070000 +0000" channel="SPOTV HD.mncvision">
     <title>U.S. Women&#039;s Open C&#039;ship</title>
 </programme>
-<programme start="20260610070000 +0000" stop="20260610120000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260610070000 +0000" stop="20260610100000 +0000" channel="SPOTV HD.mncvision">
+    <title>U.S. Women&#039;s Open C&#039;ship</title>
+</programme>
+<programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="SPOTV HD.mncvision">
     <title>U.S. Women&#039;s Open C&#039;ship</title>
 </programme>
 <programme start="20260610120000 +0000" stop="20260610160000 +0000" channel="SPOTV HD.mncvision">
