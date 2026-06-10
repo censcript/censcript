@@ -2890,10 +2890,7 @@
 <programme start="20260610121000 +0000" stop="20260610131000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Seanad Eireann</title>
 </programme>
-<programme start="20260610131000 +0000" stop="20260610171000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Live Government Business</title>
-</programme>
-<programme start="20260610171000 +0000" stop="20260610224000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20260610131000 +0000" stop="20260610234000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Live Government Business</title>
 </programme>
 <programme start="20260610000000 +0000" stop="20260610010000 +0000" channel="Discovery_HD.virginmediatv">

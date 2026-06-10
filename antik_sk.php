@@ -3310,46 +3310,46 @@
   <programme start="20260612215000 +0000" stop="20260612224600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová VIII (8)</title>
   </programme>
-  <programme start="20260611214600 +0000" stop="20260611231800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260611214500 +0000" stop="20260611231600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Napoleon a Metternich: Začátek konce</title>
   </programme>
-  <programme start="20260611231800 +0000" stop="20260611233000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260611231600 +0000" stop="20260611233000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Československý filmový týdeník 1976 (1621/2379)</title>
   </programme>
-  <programme start="20260611233000 +0000" stop="20260611235800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260611233000 +0000" stop="20260611235700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Klenoty příhraničí</title>
   </programme>
-  <programme start="20260611235800 +0000" stop="20260612002700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260611235700 +0000" stop="20260612002600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Stopy, fakta, tajemství</title>
   </programme>
-  <programme start="20260612002700 +0000" stop="20260612004200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612002600 +0000" stop="20260612004000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">V zajetí železné opony</title>
   </programme>
-  <programme start="20260612004200 +0000" stop="20260612010900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612004000 +0000" stop="20260612010700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Babylon</title>
   </programme>
-  <programme start="20260612010900 +0000" stop="20260612011800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612010700 +0000" stop="20260612011700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Počesku</title>
   </programme>
-  <programme start="20260612011800 +0000" stop="20260612014500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612011700 +0000" stop="20260612014500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Strážci Bílých Karpat</title>
   </programme>
-  <programme start="20260612014500 +0000" stop="20260612020900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612014500 +0000" stop="20260612020800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Charita na Haiti</title>
   </programme>
-  <programme start="20260612020900 +0000" stop="20260612023500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612020800 +0000" stop="20260612023500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ostrov kovbojů</title>
   </programme>
-  <programme start="20260612023500 +0000" stop="20260612025600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612023500 +0000" stop="20260612025500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zázračné studánky</title>
   </programme>
-  <programme start="20260612025600 +0000" stop="20260612032100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612025500 +0000" stop="20260612032000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Terapie III (29/36)</title>
   </programme>
-  <programme start="20260612032100 +0000" stop="20260612034600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612032000 +0000" stop="20260612034500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Království divočiny: Obdivuhodný svět přírody X</title>
   </programme>
-  <programme start="20260612034600 +0000" stop="20260612035900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260612034500 +0000" stop="20260612035900 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20260612035900 +0000" stop="20260612062500 +0000" channel="ČT2.webtv.sk">
