@@ -947,7 +947,7 @@
     <title>Waterworld Africa - The Okavango: Lifeblood of the Kalahari</title>
 </programme>
 <programme start="20260610010000 +0000" stop="20260610020000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Wild Science</title>
+    <title>Wild Science - Lion</title>
 </programme>
 <programme start="20260610020000 +0000" stop="20260610030000 +0000" channel="Sky_Nature_HD.virginmediatv">
     <title>Islands - Vancouver</title>
@@ -3886,7 +3886,10 @@
 <programme start="20260610020000 +0000" stop="20260610030000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260610030000 +0000" stop="20260610050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260610030000 +0000" stop="20260610040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260610040000 +0000" stop="20260610050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260610050000 +0000" stop="20260610060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4418,7 +4421,7 @@
     <title>Live: Racing</title>
 </programme>
 <programme start="20260610000000 +0000" stop="20260610001500 +0000" channel="MUTV.virginmediatv">
-    <title>Kit Launch 26/27 - Home Kit</title>
+    <title>Kit Launch - Home Kit 26/27 - Behind The Scenes</title>
 </programme>
 <programme start="20260610001500 +0000" stop="20260610003000 +0000" channel="MUTV.virginmediatv">
     <title>Top Ten - Goal of the Season 25/26</title>
@@ -4715,7 +4718,7 @@
     <title>Live: EUT20 Belgium League - Antwerp Anchors v Liège Red Lions</title>
 </programme>
 <programme start="20260610140000 +0000" stop="20260610180000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off, Qualifier: TBA v TBA</title>
+    <title>Live: EUT20 Belgium League - Play-Off, Qualifier: Liège Red Lions v Ghent Gladiators</title>
 </programme>
 <programme start="20260610000000 +0000" stop="20260610010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
@@ -4726,7 +4729,10 @@
 <programme start="20260610020000 +0000" stop="20260610030000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260610030000 +0000" stop="20260610050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260610030000 +0000" stop="20260610040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260610040000 +0000" stop="20260610050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260610050000 +0000" stop="20260610060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -5456,7 +5462,7 @@
     <title>Live: EUT20 Belgium League - Antwerp Anchors v Liège Red Lions</title>
 </programme>
 <programme start="20260610140000 +0000" stop="20260610180000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off, Qualifier: TBA v TBA</title>
+    <title>Live: EUT20 Belgium League - Play-Off, Qualifier: Liège Red Lions v Ghent Gladiators</title>
 </programme>
 <programme start="20260609235500 +0000" stop="20260610010000 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Fíorscéal - The Forbidden Call: Women Priests</title>
@@ -6478,7 +6484,10 @@
 <programme start="20260609175800 +0000" stop="20260610015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260610015800 +0000" stop="20260610060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260610015800 +0000" stop="20260610050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260610050000 +0000" stop="20260610060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260610115000 +0000" stop="20260610121000 +0000" channel="CBBC.virginmediatv">
@@ -7742,7 +7751,7 @@
     <title>Waterworld Africa - The Okavango: Lifeblood of the Kalahari</title>
 </programme>
 <programme start="20260610010000 +0000" stop="20260610020000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Wild Science</title>
+    <title>Wild Science - Lion</title>
 </programme>
 <programme start="20260610020000 +0000" stop="20260610030000 +0000" channel="Sky_Nature.virginmediatv">
     <title>Islands - Vancouver</title>

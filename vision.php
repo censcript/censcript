@@ -679,15 +679,6 @@
 <programme start="20260610090000 +0000" stop="20260610113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260610150000 +0000" stop="20260610170000 +0000" channel="ANTV.vision">
-<title>Saranjana</title>
-</programme>
-<programme start="20260610170000 +0000" stop="20260610183000 +0000" channel="ANTV.vision">
-<title>I Love Maria</title>
-</programme>
-<programme start="20260610183000 +0000" stop="20260610193000 +0000" channel="ANTV.vision">
-<title>Body Jumper</title>
-</programme>
 <programme start="20260610193000 +0000" stop="20260610220000 +0000" channel="ANTV.vision">
 <title>Oh Darling Yeh Hai India</title>
 </programme>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260611100000 +0000" stop="20260611103000 +0000" channel="BTV.vision">
 <title>Berita Merah Putih</title>
+</programme>
+<programme start="20260611103000 +0000" stop="20260611120000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260609230000 +0000" stop="20260610010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260610010000 +0000" stop="20260610030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
