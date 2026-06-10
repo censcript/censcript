@@ -22,19 +22,19 @@
     <programme start="20260610024600 +0000" stop="20260610032900 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Tình yêu và tham vọng - Tập 51 </title>
     </programme>
-    <programme start="20260610032900 +0000" stop="20260610041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260610032900 +0000" stop="20260610041100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Tình yêu và tham vọng - Tập 52 </title>
     </programme>
-    <programme start="20260610041500 +0000" stop="20260610050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260610041100 +0000" stop="20260610050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Có hẹn giữa mùa vàng Tam Cốc </title>
     </programme>
     <programme start="20260610050500 +0000" stop="20260610051000 +0000" channel="VTV1 HD.mytv">
         <title> Lao động và công đoàn: Điểm tựa vững chắc, khát vọng vươn xa </title>
     </programme>
-    <programme start="20260610051000 +0000" stop="20260610053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260610051000 +0000" stop="20260610052900 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260610053000 +0000" stop="20260610070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260610052900 +0000" stop="20260610070000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20260610070000 +0000" stop="20260610072500 +0000" channel="VTV1 HD.mytv">

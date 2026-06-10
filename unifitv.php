@@ -3313,7 +3313,7 @@
     <category lang="en">Pop Culture</category>
   </programme>
   <programme start="20260610001500 +0000" stop="20260610003000 +0000" channel="tvs.unifitv">
-    <title lang="en">Vital Motion</title>
+    <title lang="en">VitalMotion</title>
     <desc lang="en">VitalMotion is a dynamic and flexible exercise program designed to make fitness accessible for everyone.</desc>
     <category lang="en">Culture</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>

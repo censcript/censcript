@@ -7484,7 +7484,7 @@
         <title>Super League Catalans v Wigan</title>
     </programme>
     <programme start="20260610042000 +0000" stop="20260610061000 +0000" channel="Premier Sports.starhub">
-        <title>URC Glasgow Warriors v Bull</title>
+        <title>URC Glasgow Warriors v Bulls</title>
     </programme>
     <programme start="20260610061000 +0000" stop="20260610080000 +0000" channel="Premier Sports.starhub">
         <title>URC Leinster v Stormers</title>

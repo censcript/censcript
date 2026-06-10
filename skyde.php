@@ -1086,99 +1086,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610212500 +0000" stop="20260610221000 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
-<programme start="20260609222500 +0000" stop="20260609231000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Welten-Saga</title>
-</programme>
-<programme start="20260609231000 +0000" stop="20260609235500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260609235500 +0000" stop="20260610003500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610003500 +0000" stop="20260610011500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610011500 +0000" stop="20260610015500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610015500 +0000" stop="20260610022000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wigald &amp; Fritz - Die Geschichtsjäger</title>
-</programme>
-<programme start="20260610022000 +0000" stop="20260610030000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das Geheimnis der Skinwalker Ranch</title>
-</programme>
-<programme start="20260610030000 +0000" stop="20260610034000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das Geheimnis der Skinwalker Ranch</title>
-</programme>
-<programme start="20260610034000 +0000" stop="20260610043000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das Geheimnis der Skinwalker Ranch</title>
-</programme>
-<programme start="20260610043000 +0000" stop="20260610051500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610051500 +0000" stop="20260610060000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610060000 +0000" stop="20260610064500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610064500 +0000" stop="20260610073000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610073000 +0000" stop="20260610082000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260610082000 +0000" stop="20260610090500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260610090500 +0000" stop="20260610095000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained - Mysterien des Universums</title>
-</programme>
-<programme start="20260610095000 +0000" stop="20260610104000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained - Mysterien des Universums</title>
-</programme>
-<programme start="20260610104000 +0000" stop="20260610112500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20260610112500 +0000" stop="20260610120500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20260610120500 +0000" stop="20260610125500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260610125500 +0000" stop="20260610134000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260610134000 +0000" stop="20260610142500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained - Mysterien des Universums</title>
-</programme>
-<programme start="20260610142500 +0000" stop="20260610151000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained - Mysterien des Universums</title>
-</programme>
-<programme start="20260610151000 +0000" stop="20260610155500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610155500 +0000" stop="20260610164000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610164000 +0000" stop="20260610173000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610173000 +0000" stop="20260610181500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260610181500 +0000" stop="20260610194000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Die Ursprünge</title>
-</programme>
-<programme start="20260610194000 +0000" stop="20260610203000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20260610203000 +0000" stop="20260610212000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20260610212000 +0000" stop="20260610221500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Welten-Saga</title>
-</programme>
 <programme start="20260609220000 +0000" stop="20260610000000 +0000" channel="Jukebox.skyde">
     <title>BACK TO ... 2014</title>
 </programme>
@@ -2499,7 +2406,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610084000 +0000" stop="20260610090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260610090000 +0000" stop="20260610163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260610090000 +0000" stop="20260610210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 250: Libema Open in s&#039;Hertogenbosch (NED), 3. Tag</title>
 </programme>
 <programme start="20260609224000 +0000" stop="20260609231000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2779,7 +2686,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
 </programme>
 <programme start="20260610093000 +0000" stop="20260610100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Guten Morgen Fans!</title>
+    <title>Sky Sport News: Wake up, World Cup!</title>
 </programme>
 <programme start="20260610100000 +0000" stop="20260610120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -3087,7 +2994,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260610101000 +0000" stop="20260610103000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260610103000 +0000" stop="20260610210000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260610103000 +0000" stop="20260610183000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 3. Tag</title>
 </programme>
 <programme start="20260609221500 +0000" stop="20260609223000 +0000" channel="Sky Sport 2 HD.skyde">
