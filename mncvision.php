@@ -2975,7 +2975,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260610190200 +0000" stop="20260610191500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus: News</title>
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260610191500 +0000" stop="20260610193000 +0000" channel="DW English.mncvision">
     <title>Interview: Theresa Lazaro</title>
@@ -3008,7 +3008,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260610230200 +0000" stop="20260610231500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus: News</title>
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260610231500 +0000" stop="20260610233000 +0000" channel="DW English.mncvision">
     <title>Interview: Theresa Lazaro</title>
@@ -3029,7 +3029,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260611010200 +0000" stop="20260611011500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus: News</title>
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260611011500 +0000" stop="20260611020000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
@@ -3047,7 +3047,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260611030200 +0000" stop="20260611031500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus: News</title>
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260611031500 +0000" stop="20260611033000 +0000" channel="DW English.mncvision">
     <title>Interview: Theresa Lazaro</title>
@@ -3059,7 +3059,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260611040200 +0000" stop="20260611041500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus: News</title>
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260611041500 +0000" stop="20260611050000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
@@ -3077,7 +3077,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260611060200 +0000" stop="20260611061500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus: News</title>
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260611061500 +0000" stop="20260611063000 +0000" channel="DW English.mncvision">
     <title>Interview: Theresa Lazaro</title>
@@ -3104,7 +3104,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260611090200 +0000" stop="20260611093200 +0000" channel="DW English.mncvision">
-    <title>DW News Focus: News</title>
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260610170000 +0000" stop="20260610180000 +0000" channel="Entertainment.mncvision">
     <title>Super Deal Indonesia</title>
@@ -6635,7 +6635,7 @@
     <title>World Weather</title>
 </programme>
 <programme start="20260610191500 +0000" stop="20260610200000 +0000" channel="NHK World Premium.mncvision">
-    <title>Hidden Doors! Exploring...</title>
+    <title>Hidden Doors! Unknown World</title>
 </programme>
 <programme start="20260610200000 +0000" stop="20260610201000 +0000" channel="NHK World Premium.mncvision">
     <title>TV Exercise</title>
@@ -6671,7 +6671,7 @@
     <title>News &amp; Weather</title>
 </programme>
 <programme start="20260611010500 +0000" stop="20260611015000 +0000" channel="NHK World Premium.mncvision">
-    <title>Hidden Doors! Exploring...</title>
+    <title>Hidden Doors! Unknown World</title>
 </programme>
 <programme start="20260611015000 +0000" stop="20260611021700 +0000" channel="NHK World Premium.mncvision">
     <title>Today&#039;s Close-Up</title>
@@ -7886,7 +7886,7 @@
     <title>Late Night With... S13, Ep 107</title>
 </programme>
 <programme start="20260610173400 +0000" stop="20260610185000 +0000" channel="SCTV.mncvision">
-    <title>Lika-Liku Cinta Juragan Pisang</title>
+    <title>Happy 21</title>
 </programme>
 <programme start="20260610185000 +0000" stop="20260610200500 +0000" channel="SCTV.mncvision">
     <title>Biro Mak Comblang Gokil</title>
@@ -7909,38 +7909,38 @@
 <programme start="20260611000000 +0000" stop="20260611010000 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260611010000 +0000" stop="20260611030000 +0000" channel="SCTV.mncvision">
+<programme start="20260611010000 +0000" stop="20260611025300 +0000" channel="SCTV.mncvision">
     <title>Antara You, Me &amp; Bakmie</title>
 </programme>
-<programme start="20260611030000 +0000" stop="20260611050000 +0000" channel="SCTV.mncvision">
+<programme start="20260611025300 +0000" stop="20260611044600 +0000" channel="SCTV.mncvision">
     <title>Undian Cinta Berhadiah Jodoh?</title>
 </programme>
-<programme start="20260611050000 +0000" stop="20260611053000 +0000" channel="SCTV.mncvision">
+<programme start="20260611044600 +0000" stop="20260611052000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260611053000 +0000" stop="20260611070000 +0000" channel="SCTV.mncvision">
+<programme start="20260611052000 +0000" stop="20260611064600 +0000" channel="SCTV.mncvision">
     <title>Lelenya Mas Crush Bikin Mlenyot</title>
 </programme>
-<programme start="20260611070000 +0000" stop="20260611083000 +0000" channel="SCTV.mncvision">
+<programme start="20260611064600 +0000" stop="20260611081100 +0000" channel="SCTV.mncvision">
     <title>Mundur Wir Neng Ayam...</title>
 </programme>
-<programme start="20260611083000 +0000" stop="20260611100000 +0000" channel="SCTV.mncvision">
+<programme start="20260611081100 +0000" stop="20260611093700 +0000" channel="SCTV.mncvision">
     <title>Mantan Please Do Your Magic</title>
 </programme>
-<programme start="20260611100000 +0000" stop="20260611110000 +0000" channel="SCTV.mncvision">
+<programme start="20260611093700 +0000" stop="20260611104800 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260611110000 +0000" stop="20260611131500 +0000" channel="SCTV.mncvision">
+<programme start="20260611104800 +0000" stop="20260611120000 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260611131500 +0000" stop="20260611153000 +0000" channel="SCTV.mncvision">
+<programme start="20260611120000 +0000" stop="20260611152700 +0000" channel="SCTV.mncvision">
     <title>ASEAN U19 Boys C&#039;ship 2026 (L)</title>
 </programme>
-<programme start="20260611153000 +0000" stop="20260611160000 +0000" channel="SCTV.mncvision">
+<programme start="20260611152700 +0000" stop="20260611155700 +0000" channel="SCTV.mncvision">
     <title>Badut Santuy To The Max</title>
 </programme>
 <programme start="20260610173400 +0000" stop="20260610185000 +0000" channel="SCTV HD.mncvision">
-    <title>Lika-Liku Cinta Juragan Pisang</title>
+    <title>Happy 21</title>
 </programme>
 <programme start="20260610185000 +0000" stop="20260610200500 +0000" channel="SCTV HD.mncvision">
     <title>Biro Mak Comblang Gokil</title>
@@ -7963,34 +7963,34 @@
 <programme start="20260611000000 +0000" stop="20260611010000 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260611010000 +0000" stop="20260611030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611010000 +0000" stop="20260611025300 +0000" channel="SCTV HD.mncvision">
     <title>Antara You, Me &amp; Bakmie</title>
 </programme>
-<programme start="20260611030000 +0000" stop="20260611050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611025300 +0000" stop="20260611044600 +0000" channel="SCTV HD.mncvision">
     <title>Undian Cinta Berhadiah Jodoh?</title>
 </programme>
-<programme start="20260611050000 +0000" stop="20260611053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611044600 +0000" stop="20260611052000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260611053000 +0000" stop="20260611070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611052000 +0000" stop="20260611064600 +0000" channel="SCTV HD.mncvision">
     <title>Lelenya Mas Crush Bikin Mlenyot</title>
 </programme>
-<programme start="20260611070000 +0000" stop="20260611083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611064600 +0000" stop="20260611081100 +0000" channel="SCTV HD.mncvision">
     <title>Mundur Wir Neng Ayam...</title>
 </programme>
-<programme start="20260611083000 +0000" stop="20260611100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611081100 +0000" stop="20260611093700 +0000" channel="SCTV HD.mncvision">
     <title>Mantan Please Do Your Magic</title>
 </programme>
-<programme start="20260611100000 +0000" stop="20260611110000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611093700 +0000" stop="20260611104800 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260611110000 +0000" stop="20260611131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611104800 +0000" stop="20260611120000 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260611131500 +0000" stop="20260611153000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611120000 +0000" stop="20260611152700 +0000" channel="SCTV HD.mncvision">
     <title>ASEAN U19 Boys C&#039;ship 2026 (L)</title>
 </programme>
-<programme start="20260611153000 +0000" stop="20260611160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260611152700 +0000" stop="20260611155700 +0000" channel="SCTV HD.mncvision">
     <title>Badut Santuy To The Max</title>
 </programme>
 <programme start="20260610170000 +0000" stop="20260610180000 +0000" channel="Sindo News TV.mncvision">

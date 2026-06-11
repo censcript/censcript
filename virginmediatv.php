@@ -4640,10 +4640,10 @@
     <title>Grand Prix Insights</title>
 </programme>
 <programme start="20260611100000 +0000" stop="20260611140000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off: TBA v TBA</title>
+    <title>Live: EUT20 Belgium League - Play-Off: Akcel United Brussels v Antwerp Anchors</title>
 </programme>
 <programme start="20260611140000 +0000" stop="20260611180000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off: TBA v TBA</title>
+    <title>Live: EUT20 Belgium League - Play-Off: JB Bruges v Ghent Gladiators</title>
 </programme>
 <programme start="20260611000000 +0000" stop="20260611010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
@@ -5342,10 +5342,10 @@
     <title>Grand Prix Insights</title>
 </programme>
 <programme start="20260611100000 +0000" stop="20260611140000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off: TBA v TBA</title>
+    <title>Live: EUT20 Belgium League - Play-Off: Akcel United Brussels v Antwerp Anchors</title>
 </programme>
 <programme start="20260611140000 +0000" stop="20260611180000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off: TBA v TBA</title>
+    <title>Live: EUT20 Belgium League - Play-Off: JB Bruges v Ghent Gladiators</title>
 </programme>
 <programme start="20260610233500 +0000" stop="20260611005000 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Survivor - Committing to the Bit</title>
@@ -6370,10 +6370,10 @@
 <programme start="20260611015800 +0000" stop="20260611060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260611115000 +0000" stop="20260611121000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260611115000 +0000" stop="20260611121500 +0000" channel="CBBC.virginmediatv">
     <title>The Football Academy - A Long Way from Home</title>
 </programme>
-<programme start="20260611121000 +0000" stop="20260611122500 +0000" channel="CBBC.virginmediatv">
+<programme start="20260611121500 +0000" stop="20260611122500 +0000" channel="CBBC.virginmediatv">
     <title>Octonauts: Above &amp; Beyond - Salt-Mining Elephants</title>
 </programme>
 <programme start="20260611122500 +0000" stop="20260611123500 +0000" channel="CBBC.virginmediatv">
@@ -6412,10 +6412,10 @@
 <programme start="20260611144500 +0000" stop="20260611145500 +0000" channel="CBBC.virginmediatv">
     <title>Super Happy Magic Forest - The Un-Quest</title>
 </programme>
-<programme start="20260611145500 +0000" stop="20260611150500 +0000" channel="CBBC.virginmediatv">
+<programme start="20260611145500 +0000" stop="20260611151000 +0000" channel="CBBC.virginmediatv">
     <title>Super Happy Magic Forest - The Legend of Bigface</title>
 </programme>
-<programme start="20260611150500 +0000" stop="20260611152000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260611151000 +0000" stop="20260611152000 +0000" channel="CBBC.virginmediatv">
     <title>Boy Girl Dog Cat Mouse Cheese - Narwhal Day</title>
 </programme>
 <programme start="20260611152000 +0000" stop="20260611153000 +0000" channel="CBBC.virginmediatv">

@@ -3052,19 +3052,19 @@
     <programme start="20260610160000 +0000" stop="20260610220000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260610220000 +0000" stop="20260610223000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260610220000 +0000" stop="20260610230000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260610223000 +0000" stop="20260611023000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260610230000 +0000" stop="20260611030000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M41: Mumbai Indians vs Sunrisers Hyderabad</title>
     </programme>
-    <programme start="20260611023000 +0000" stop="20260611063000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260611030000 +0000" stop="20260611070000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M42: Gujarat Titans vs Royal Challengers Bengaluru</title>
     </programme>
-    <programme start="20260611063000 +0000" stop="20260611103000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260611070000 +0000" stop="20260611110000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M64: Rajasthan Royals vs Lucknow Super Giants</title>
     </programme>
-    <programme start="20260611103000 +0000" stop="20260611123000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260611110000 +0000" stop="20260611123000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Q&amp;A Session</title>
     </programme>
     <programme start="20260611123000 +0000" stop="20260611163000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -4510,10 +4510,10 @@
     <programme start="20260610150000 +0000" stop="20260610180000 +0000" channel="Zee Cinema.starhub">
         <title>Kakuda</title>
     </programme>
-    <programme start="20260610180000 +0000" stop="20260610220000 +0000" channel="Zee Cinema.starhub">
-        <title>Pukar</title>
+    <programme start="20260610180000 +0000" stop="20260610210000 +0000" channel="Zee Cinema.starhub">
+        <title>Pukar (2000)</title>
     </programme>
-    <programme start="20260610220000 +0000" stop="20260611000000 +0000" channel="Zee Cinema.starhub">
+    <programme start="20260610210000 +0000" stop="20260611000000 +0000" channel="Zee Cinema.starhub">
         <title>Cheeni Kum</title>
     </programme>
     <programme start="20260611000000 +0000" stop="20260611030000 +0000" channel="Zee Cinema.starhub">
@@ -5931,6 +5931,9 @@
     </programme>
     <programme start="20260610200000 +0000" stop="20260610210000 +0000" channel="TVBS-NEWS.starhub">
         <title>2100 Hot Topics</title>
+    </programme>
+    <programme start="20260610210000 +0000" stop="20260610220000 +0000" channel="TVBS-NEWS.starhub">
+        <title>News Night</title>
     </programme>
     <programme start="20260610220000 +0000" stop="20260610230000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
