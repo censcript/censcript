@@ -1,4 +1,4 @@
-<programme start="20260610230000 +0000" stop="20260611010000 +0000" channel="RCTI.vision">
+<programme start="20260611230000 +0000" stop="20260612010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
 <programme start="20260611010000 +0000" stop="20260611023000 +0000" channel="RCTI.vision">
@@ -19,7 +19,7 @@
 <programme start="20260611063000 +0000" stop="20260611090000 +0000" channel="RCTI.vision">
 <title>Ih Serem</title>
 </programme>
-<programme start="20260611090000 +0000" stop="20260611103000 +0000" channel="RCTI.vision">
+<programme start="20260612090000 +0000" stop="20260612103000 +0000" channel="RCTI.vision">
 <title>Mega Film TV</title>
 </programme>
 <programme start="20260611103000 +0000" stop="20260611120000 +0000" channel="RCTI.vision">
@@ -52,29 +52,17 @@
 <programme start="20260611230000 +0000" stop="20260612010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260612010000 +0000" stop="20260612023000 +0000" channel="RCTI.vision">
+<programme start="20260613010000 +0000" stop="20260613033000 +0000" channel="RCTI.vision">
 <title>Entong (RCTI)</title>
 </programme>
-<programme start="20260612023000 +0000" stop="20260612040000 +0000" channel="RCTI.vision">
+<programme start="20260613033000 +0000" stop="20260613050000 +0000" channel="RCTI.vision">
 <title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260612040000 +0000" stop="20260612043000 +0000" channel="RCTI.vision">
-<title>Go Spot (RCTI)</title>
 </programme>
 <programme start="20260612043000 +0000" stop="20260612050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260612050000 +0000" stop="20260612063000 +0000" channel="RCTI.vision">
 <title>Guardian Angel</title>
-</programme>
-<programme start="20260612063000 +0000" stop="20260612090000 +0000" channel="RCTI.vision">
-<title>Ih Serem</title>
-</programme>
-<programme start="20260612090000 +0000" stop="20260612103000 +0000" channel="RCTI.vision">
-<title>Mega Film TV</title>
-</programme>
-<programme start="20260612103000 +0000" stop="20260612120000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun Deui</title>
 </programme>
 <programme start="20260611000000 +0000" stop="20260611004500 +0000" channel="MNCTV.vision">
 <title>Dora &amp; Sahabat</title>
@@ -684,6 +672,9 @@
 </programme>
 <programme start="20260611090000 +0000" stop="20260611113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260611113000 +0000" stop="20260611133000 +0000" channel="ANTV.vision">
+<title>Prabu Angling Dharma 3</title>
 </programme>
 <programme start="20260611133000 +0000" stop="20260611150000 +0000" channel="ANTV.vision">
 <title>Ratu Sakti Calon Arang</title>
@@ -1494,7 +1485,4 @@
 </programme>
 <programme start="20260612083000 +0000" stop="20260612090000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260612090000 +0000" stop="20260612090500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
 </programme>

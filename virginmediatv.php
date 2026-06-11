@@ -484,8 +484,29 @@
 <programme start="20260611053000 +0000" stop="20260611061500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Escape to the Country - Powys</title>
 </programme>
-<programme start="20260611120000 +0000" stop="20260611170000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260611120000 +0000" stop="20260611123000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Day 4</title>
+</programme>
+<programme start="20260611123000 +0000" stop="20260611130000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>The Best Dishes Ever - Technically Challenging</title>
+</programme>
+<programme start="20260611130000 +0000" stop="20260611134500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Make Me a Dealer - Stafford: Dawn &amp; Mariyah</title>
+</programme>
+<programme start="20260611134500 +0000" stop="20260611141500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Coast - London to Antwerp 2</title>
+</programme>
+<programme start="20260611141500 +0000" stop="20260611144500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>The Wonder of Animals - Foxes</title>
+</programme>
+<programme start="20260611144500 +0000" stop="20260611151500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Hairy Bikers&#039; Bakeation - Spain</title>
+</programme>
+<programme start="20260611151500 +0000" stop="20260611154500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Armchair Britain - The Highlands</title>
+</programme>
+<programme start="20260611154500 +0000" stop="20260611170000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Day 1</title>
 </programme>
 <programme start="20260611170000 +0000" stop="20260611173000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Richard Osman&#039;s House of Games - Week 11: Thursday</title>
@@ -2449,8 +2470,11 @@
 <programme start="20260611053000 +0000" stop="20260611060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20260611120000 +0000" stop="20260611130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+<programme start="20260611120000 +0000" stop="20260611123000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260611123000 +0000" stop="20260611130000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News Now</title>
 </programme>
 <programme start="20260611130000 +0000" stop="20260611133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
@@ -2605,41 +2629,50 @@
 <programme start="20260611120000 +0000" stop="20260611121500 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260611121500 +0000" stop="20260611123000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611121500 +0000" stop="20260611122900 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260611123000 +0000" stop="20260611124600 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611122900 +0000" stop="20260611124600 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260611124600 +0000" stop="20260611130000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611124600 +0000" stop="20260611124900 +0000" channel="Euronews.virginmediatv">
     <title>News</title>
 </programme>
-<programme start="20260611130000 +0000" stop="20260611131500 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611124900 +0000" stop="20260611130000 +0000" channel="Euronews.virginmediatv">
+    <title>Focus</title>
+</programme>
+<programme start="20260611130000 +0000" stop="20260611131400 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260611131500 +0000" stop="20260611133100 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611131400 +0000" stop="20260611133100 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260611133100 +0000" stop="20260611134200 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611133100 +0000" stop="20260611140000 +0000" channel="Euronews.virginmediatv">
     <title>The Europe Conversation</title>
 </programme>
-<programme start="20260611134200 +0000" stop="20260611140000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
-</programme>
-<programme start="20260611140000 +0000" stop="20260611141500 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611140000 +0000" stop="20260611141400 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260611141500 +0000" stop="20260611143000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611141400 +0000" stop="20260611143000 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260611143000 +0000" stop="20260611150000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611143000 +0000" stop="20260611143100 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260611150000 +0000" stop="20260611153000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611143100 +0000" stop="20260611150000 +0000" channel="Euronews.virginmediatv">
+    <title>The Europe Conversation</title>
+</programme>
+<programme start="20260611150000 +0000" stop="20260611151500 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260611153000 +0000" stop="20260611160000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611151500 +0000" stop="20260611153000 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
+</programme>
+<programme start="20260611153000 +0000" stop="20260611155000 +0000" channel="Euronews.virginmediatv">
+    <title>The European debrief</title>
+</programme>
+<programme start="20260611155000 +0000" stop="20260611160000 +0000" channel="Euronews.virginmediatv">
+    <title>Focus</title>
 </programme>
 <programme start="20260611160000 +0000" stop="20260611161500 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
@@ -2647,11 +2680,11 @@
 <programme start="20260611161500 +0000" stop="20260611163000 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260611163000 +0000" stop="20260611164600 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611163000 +0000" stop="20260611164900 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260611164600 +0000" stop="20260611170000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
+<programme start="20260611164900 +0000" stop="20260611170000 +0000" channel="Euronews.virginmediatv">
+    <title>Focus</title>
 </programme>
 <programme start="20260611170000 +0000" stop="20260611171500 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
@@ -2659,8 +2692,11 @@
 <programme start="20260611171500 +0000" stop="20260611173000 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260611173000 +0000" stop="20260611180000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260611173000 +0000" stop="20260611175000 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
+</programme>
+<programme start="20260611175000 +0000" stop="20260611180000 +0000" channel="Euronews.virginmediatv">
+    <title>Voices from Central Asia</title>
 </programme>
 <programme start="20260611000000 +0000" stop="20260611003000 +0000" channel="CNBC_Europe.virginmediatv">
     <title>Squawk Box Asia</title>
@@ -4288,29 +4324,47 @@
 <programme start="20260611130000 +0000" stop="20260611200000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Raceday</title>
 </programme>
-<programme start="20260610234500 +0000" stop="20260611004500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260611004500 +0000" stop="20260611013000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260610233000 +0000" stop="20260611001500 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260611013000 +0000" stop="20260611023000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260611001500 +0000" stop="20260611004500 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260611023000 +0000" stop="20260611031500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260611004500 +0000" stop="20260611011500 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260611031500 +0000" stop="20260611041500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260611011500 +0000" stop="20260611013000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260611013000 +0000" stop="20260611020000 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260611041500 +0000" stop="20260611050000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260611020000 +0000" stop="20260611023000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260611023000 +0000" stop="20260611030000 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260611050000 +0000" stop="20260611060000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260611030000 +0000" stop="20260611031500 +0000" channel="Racing_UK.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260611031500 +0000" stop="20260611034500 +0000" channel="Racing_UK.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260611034500 +0000" stop="20260611041500 +0000" channel="Racing_UK.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260611041500 +0000" stop="20260611044500 +0000" channel="Racing_UK.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260611044500 +0000" stop="20260611053000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260611053000 +0000" stop="20260611063000 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
 <programme start="20260611120000 +0000" stop="20260611130000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
+    <title>Last Week This Week</title>
 </programme>
 <programme start="20260611130000 +0000" stop="20260611133000 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
@@ -6373,7 +6427,10 @@
 <programme start="20260610175800 +0000" stop="20260611015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260611015800 +0000" stop="20260611060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260611015800 +0000" stop="20260611050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260611050000 +0000" stop="20260611060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260611115000 +0000" stop="20260611121500 +0000" channel="CBBC.virginmediatv">

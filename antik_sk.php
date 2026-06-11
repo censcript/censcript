@@ -1796,7 +1796,7 @@
     <title lang="id">Lietadlo, ktoré spadlo na pentagon</title>
   </programme>
   <programme start="20260613035500 +0000" stop="20260613043500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Doslova</title>
+    <title lang="id">Krimi Online - Viliam Karas</title>
   </programme>
   <programme start="20260613043500 +0000" stop="20260613051500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Len peniaze nestačia - Petr Vařejka</title>
@@ -16069,8 +16069,14 @@
   <programme start="20260613030000 +0000" stop="20260613031500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260613031500 +0000" stop="20260613040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260613031500 +0000" stop="20260613031600 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
+  </programme>
+  <programme start="20260613031600 +0000" stop="20260613035000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Valencia: The Day After</title>
+  </programme>
+  <programme start="20260613035000 +0000" stop="20260613040000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260613040000 +0000" stop="20260613043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16324,8 +16330,11 @@
   <programme start="20260612232800 +0000" stop="20260612235500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (712)</title>
   </programme>
-  <programme start="20260612235500 +0000" stop="20260613002500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260612235500 +0000" stop="20260613001800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (775)</title>
+  </programme>
+  <programme start="20260613001800 +0000" stop="20260613002500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260613002500 +0000" stop="20260613004000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
@@ -16336,10 +16345,13 @@
   <programme start="20260613010700 +0000" stop="20260613011100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260613011100 +0000" stop="20260613014900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260613011100 +0000" stop="20260613013800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (257)</title>
   </programme>
-  <programme start="20260613014900 +0000" stop="20260613021900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260613013800 +0000" stop="20260613015000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Dekalog wg Jana Pawła II (2)</title>
+  </programme>
+  <programme start="20260613015000 +0000" stop="20260613021900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Perły Bałtyku (4)</title>
   </programme>
   <programme start="20260613021900 +0000" stop="20260613030800 +0000" channel="TVP Info.webtv.sk">
@@ -16571,7 +16583,7 @@
     <title lang="id">Kulturalni (21)</title>
   </programme>
   <programme start="20260613051500 +0000" stop="20260613053000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Turystyczna Jazda</title>
+    <title lang="id">Turystyczna Jazda (199)</title>
   </programme>
   <programme start="20260613053000 +0000" stop="20260613055500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie na sniadanie (7583)</title>

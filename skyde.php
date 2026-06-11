@@ -2435,9 +2435,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260611212500 +0000" stop="20260611221000 +0000" channel="Sky Showcase HD.skyde">
     <title>Terra X: Expedition Deutschland</title>
 </programme>
-<programme start="20260610220000 +0000" stop="20260611000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: FC Red Bull Salzburg - SV Oberbank Ried, 12. Runde</title>
-</programme>
 <programme start="20260611000000 +0000" stop="20260611003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: STU - RBS, 13. Runde</title>
 </programme>
@@ -2843,11 +2840,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260611160000 +0000" stop="20260611163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show</title>
 </programme>
-<programme start="20260611163000 +0000" stop="20260611173000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260611163000 +0000" stop="20260611164500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
-<programme start="20260611173000 +0000" stop="20260611180000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260611164500 +0000" stop="20260611170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: DFB-PK aus Winston-Salem</title>
+</programme>
+<programme start="20260611170000 +0000" stop="20260611180000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260611180000 +0000" stop="20260611200000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
@@ -3027,10 +3027,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Rom</title>
 </programme>
 <programme start="20260611193000 +0000" stop="20260611213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: M. Landaluce (ESP) - T. Fritz (USA), Boss Open in Stuttgart, 4. Tag</title>
+    <title>ATP 250: Topspiel, Boss Open in Stuttgart, 4. Tag</title>
 </programme>
 <programme start="20260611213000 +0000" stop="20260611233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - E. Rybakina (KAZ), HSBC Championships in London (GBR), 4. Tag</title>
+    <title>WTA 500: HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20260610223000 +0000" stop="20260610233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F2: 2. Rennen - GP Monaco</title>
