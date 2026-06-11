@@ -157,10 +157,10 @@
 <programme start="20260610235500 +0000" stop="20260611005000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Love Island</title>
 </programme>
-<programme start="20260611005000 +0000" stop="20260611011300 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260611005000 +0000" stop="20260611013800 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Piglets - Tests</title>
 </programme>
-<programme start="20260611011300 +0000" stop="20260611060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260611013800 +0000" stop="20260611060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260611120000 +0000" stop="20260611123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -3859,7 +3859,10 @@
 <programme start="20260611020000 +0000" stop="20260611043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: WNBA Basketball - Commissioner&#039;s Cup: Los Angeles Sparks at Seattle Storm</title>
 </programme>
-<programme start="20260611043000 +0000" stop="20260611060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260611043000 +0000" stop="20260611050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260611050000 +0000" stop="20260611060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260611110000 +0000" stop="20260611170000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4496,7 +4499,7 @@
     <title>The Breakdown - Countdown To The World Cup</title>
 </programme>
 <programme start="20260611140000 +0000" stop="20260611150000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Sign Up: Into Football</title>
+    <title>Sign Up: Into Football - Best Of</title>
 </programme>
 <programme start="20260611150000 +0000" stop="20260611153000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UEFA Europa League Football - Final: SC Freiburg v Aston Villa</title>
@@ -4640,10 +4643,10 @@
     <title>Grand Prix Insights</title>
 </programme>
 <programme start="20260611100000 +0000" stop="20260611140000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off: Akcel United Brussels v Antwerp Anchors</title>
+    <title>Live: EUT20 Belgium League - Super 4: Akcel United Brussels v Antwerp Anchors</title>
 </programme>
 <programme start="20260611140000 +0000" stop="20260611180000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off: JB Bruges v Ghent Gladiators</title>
+    <title>Live: EUT20 Belgium League - Super 4: JB Bruges v Ghent Gladiators</title>
 </programme>
 <programme start="20260611000000 +0000" stop="20260611010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
@@ -4654,7 +4657,10 @@
 <programme start="20260611020000 +0000" stop="20260611043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: WNBA Basketball - Commissioner&#039;s Cup: Los Angeles Sparks at Seattle Storm</title>
 </programme>
-<programme start="20260611043000 +0000" stop="20260611060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260611043000 +0000" stop="20260611050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260611050000 +0000" stop="20260611060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260611110000 +0000" stop="20260611170000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -5198,7 +5204,7 @@
     <title>The Breakdown - Countdown To The World Cup</title>
 </programme>
 <programme start="20260611140000 +0000" stop="20260611150000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Sign Up: Into Football</title>
+    <title>Sign Up: Into Football - Best Of</title>
 </programme>
 <programme start="20260611150000 +0000" stop="20260611153000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>UEFA Europa League Football - Final: SC Freiburg v Aston Villa</title>
@@ -5342,10 +5348,10 @@
     <title>Grand Prix Insights</title>
 </programme>
 <programme start="20260611100000 +0000" stop="20260611140000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off: Akcel United Brussels v Antwerp Anchors</title>
+    <title>Live: EUT20 Belgium League - Super 4: Akcel United Brussels v Antwerp Anchors</title>
 </programme>
 <programme start="20260611140000 +0000" stop="20260611180000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Live: EUT20 Belgium League - Play-Off: JB Bruges v Ghent Gladiators</title>
+    <title>Live: EUT20 Belgium League - Super 4: JB Bruges v Ghent Gladiators</title>
 </programme>
 <programme start="20260610233500 +0000" stop="20260611005000 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Survivor - Committing to the Bit</title>
