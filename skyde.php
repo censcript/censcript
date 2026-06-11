@@ -2489,7 +2489,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260611084000 +0000" stop="20260611090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260611090000 +0000" stop="20260611183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260611090000 +0000" stop="20260611163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 250: Libema Open in s&#039;Hertogenbosch (NED), 4. Tag</title>
 </programme>
 <programme start="20260610230000 +0000" stop="20260611010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3060,7 +3060,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: FC Bayern München - Saison 25-26</title>
 </programme>
 <programme start="20260611060000 +0000" stop="20260611080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: Topspiel, Boss Open in Stuttgart, 3. Tag</title>
+    <title>ATP 250: J.-L. Struff (GER) - A. Bublik (KAZ), Boss Open in Stuttgart, 3. Tag</title>
 </programme>
 <programme start="20260611080000 +0000" stop="20260611090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Highlights: Bommarito Automotive Group 500</title>
@@ -3069,7 +3069,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 250: Konferenz Stuttgart &amp; s&#039;Hertogenbosch, 4. Tag</title>
 </programme>
 <programme start="20260611170000 +0000" stop="20260611183000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Topspiel, HSBC Championships in London (GBR), 4. Tag</title>
+    <title>Live WTA 500: HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20260611183000 +0000" stop="20260611184500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Warm Up - Das Motorsport Spezial</title>
@@ -3086,7 +3086,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260611101000 +0000" stop="20260611103000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260611103000 +0000" stop="20260611203000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260611103000 +0000" stop="20260611183000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
 <programme start="20260610222500 +0000" stop="20260610231500 +0000" channel="Sky Sport 2 HD.skyde">
