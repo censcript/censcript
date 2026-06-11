@@ -505,8 +505,11 @@
 <programme start="20260611151500 +0000" stop="20260611154500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Armchair Britain - The Highlands</title>
 </programme>
-<programme start="20260611154500 +0000" stop="20260611170000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Day 1</title>
+<programme start="20260611154500 +0000" stop="20260611161500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>The Farmers&#039; Country Showdown - 30 Minute Versions: Lewes Farmers Market</title>
+</programme>
+<programme start="20260611161500 +0000" stop="20260611170000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Flog It! - Compilation - Antony 60</title>
 </programme>
 <programme start="20260611170000 +0000" stop="20260611173000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Richard Osman&#039;s House of Games - Week 11: Thursday</title>

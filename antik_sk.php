@@ -3650,7 +3650,7 @@
     <title lang="id">Iron Maiden: Somewhere Back in Time</title>
   </programme>
   <programme start="20260613191500 +0000" stop="20260613201600 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">30 let Rock for People</title>
+    <title lang="id">30 Ro(c)ků for People</title>
   </programme>
   <programme start="20260613201600 +0000" stop="20260613214600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Rok ďábla</title>

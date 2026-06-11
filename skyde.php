@@ -2771,10 +2771,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260611133000 +0000" stop="20260611160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 4</title>
 </programme>
-<programme start="20260611160000 +0000" stop="20260611180500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260611160000 +0000" stop="20260611180000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: San Antonio Spurs @ New York Knicks, Finals, Spiel 4</title>
 </programme>
-<programme start="20260611180500 +0000" stop="20260611190000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260611180000 +0000" stop="20260611190000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
 </programme>
 <programme start="20260611190000 +0000" stop="20260611193000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2786,7 +2786,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260611201500 +0000" stop="20260611203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Highlights XXL: FC Bayern München - VfB Stuttgart, Finale 2026</title>
 </programme>
-<programme start="20260611203000 +0000" stop="20260611223500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260611203000 +0000" stop="20260611223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: San Antonio Spurs @ New York Knicks, Finals, Spiel 4</title>
 </programme>
 <programme start="20260610220000 +0000" stop="20260610230000 +0000" channel="Sky Sport News HD.skyde">
@@ -2840,14 +2840,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260611160000 +0000" stop="20260611163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show</title>
 </programme>
-<programme start="20260611163000 +0000" stop="20260611164500 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260611163000 +0000" stop="20260611173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
-<programme start="20260611164500 +0000" stop="20260611170000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260611173000 +0000" stop="20260611180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: DFB-PK aus Winston-Salem</title>
-</programme>
-<programme start="20260611170000 +0000" stop="20260611180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260611180000 +0000" stop="20260611200000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
