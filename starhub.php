@@ -5932,9 +5932,6 @@
     <programme start="20260610200000 +0000" stop="20260610210000 +0000" channel="TVBS-NEWS.starhub">
         <title>2100 Hot Topics</title>
     </programme>
-    <programme start="20260610210000 +0000" stop="20260610220000 +0000" channel="TVBS-NEWS.starhub">
-        <title>News Night</title>
-    </programme>
     <programme start="20260610220000 +0000" stop="20260610230000 +0000" channel="TVBS-NEWS.starhub">
         <title>Early Morning News</title>
     </programme>
@@ -7852,16 +7849,16 @@
     <programme start="20260611152500 +0000" stop="20260611162000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2026)</title>
     </programme>
-    <programme start="20260610160000 +0000" stop="20260610193000 +0000" channel="Asianet Movies.starhub">
-        <title>Run Baby Run</title>
+    <programme start="20260610160000 +0000" stop="20260610183400 +0000" channel="Asianet Movies.starhub">
+        <title>Ali Bhai</title>
     </programme>
-    <programme start="20260610193000 +0000" stop="20260610213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260610183400 +0000" stop="20260610211500 +0000" channel="Asianet Movies.starhub">
         <title>Veyil</title>
     </programme>
-    <programme start="20260610213000 +0000" stop="20260610233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260610211500 +0000" stop="20260610231000 +0000" channel="Asianet Movies.starhub">
         <title>Acha Dhin</title>
     </programme>
-    <programme start="20260610233000 +0000" stop="20260611013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260610231000 +0000" stop="20260611013000 +0000" channel="Asianet Movies.starhub">
         <title>Viruman</title>
     </programme>
     <programme start="20260611013000 +0000" stop="20260611043000 +0000" channel="Asianet Movies.starhub">

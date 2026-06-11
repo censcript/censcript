@@ -1198,22 +1198,22 @@
   <programme start="20260613211500 +0000" stop="20260613232500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Kickboxer</title>
   </programme>
-  <programme start="20260612210000 +0000" stop="20260612233000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260612210500 +0000" stop="20260612233000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260612233000 +0000" stop="20260613020500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260612233000 +0000" stop="20260613015500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260613020500 +0000" stop="20260613041500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260613015500 +0000" stop="20260613043000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20260613041500 +0000" stop="20260613070000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260613043000 +0000" stop="20260613070000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga muži</title>
   </programme>
-  <programme start="20260613070000 +0000" stop="20260613074000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260613070000 +0000" stop="20260613073000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260613074000 +0000" stop="20260613095000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260613073000 +0000" stop="20260613095000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260613095000 +0000" stop="20260613120000 +0000" channel="JOJ Šport.webtv.sk">
@@ -16949,22 +16949,22 @@
     <title lang="id">You Can!</title>
   </programme>
   <programme start="20260612225500 +0000" stop="20260612232500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Bell and Cotton</title>
+    <title lang="id">General</title>
   </programme>
-  <programme start="20260612232500 +0000" stop="20260612234500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260612232500 +0000" stop="20260613000000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Parent Meeting</title>
+  </programme>
+  <programme start="20260613000000 +0000" stop="20260613002000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">People of Armenia</title>
   </programme>
-  <programme start="20260612234500 +0000" stop="20260613003500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613002000 +0000" stop="20260613011000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Differently</title>
   </programme>
-  <programme start="20260613003500 +0000" stop="20260613010000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613011000 +0000" stop="20260613013500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">On the other hand</title>
   </programme>
-  <programme start="20260613010000 +0000" stop="20260613012500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613013500 +0000" stop="20260613020000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Ethnocolors</title>
-  </programme>
-  <programme start="20260613012500 +0000" stop="20260613020000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Parent Meeting</title>
   </programme>
   <programme start="20260613020000 +0000" stop="20260613030000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Documentary film</title>
@@ -16975,14 +16975,11 @@
   <programme start="20260613033500 +0000" stop="20260613040000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Interview with Anna Danielyan</title>
   </programme>
-  <programme start="20260613040000 +0000" stop="20260613043000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613040000 +0000" stop="20260613043500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">First Studio</title>
   </programme>
-  <programme start="20260613043000 +0000" stop="20260613044000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Cartoon</title>
-  </programme>
-  <programme start="20260613044000 +0000" stop="20260613051000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Bell and Cotton</title>
+  <programme start="20260613043500 +0000" stop="20260613051000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Parent Meeting</title>
   </programme>
   <programme start="20260613051000 +0000" stop="20260613063000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
@@ -17005,13 +17002,10 @@
   <programme start="20260613092000 +0000" stop="20260613095000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Sport Week</title>
   </programme>
-  <programme start="20260613095000 +0000" stop="20260613111000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613095000 +0000" stop="20260613114000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Classical Concert</title>
   </programme>
-  <programme start="20260613111000 +0000" stop="20260613114500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Parent Meeting</title>
-  </programme>
-  <programme start="20260613114500 +0000" stop="20260613121000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613114000 +0000" stop="20260613121000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Compatriot</title>
   </programme>
   <programme start="20260613121000 +0000" stop="20260613123000 +0000" channel="Armenia 1 TV.webtv.sk">
@@ -17026,14 +17020,14 @@
   <programme start="20260613130000 +0000" stop="20260613132500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">News</title>
   </programme>
-  <programme start="20260613132500 +0000" stop="20260613135500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613132500 +0000" stop="20260613140000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">First Studio</title>
   </programme>
-  <programme start="20260613135500 +0000" stop="20260613143000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Masterclass</title>
-  </programme>
-  <programme start="20260613143000 +0000" stop="20260613145000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613140000 +0000" stop="20260613142000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">People of Armenia</title>
+  </programme>
+  <programme start="20260613142000 +0000" stop="20260613145000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Bell and Cotton</title>
   </programme>
   <programme start="20260613145000 +0000" stop="20260613153000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Note by Note</title>
@@ -17059,7 +17053,7 @@
   <programme start="20260613193000 +0000" stop="20260613204500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
   </programme>
-  <programme start="20260613204500 +0000" stop="20260613220500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260613204500 +0000" stop="20260613223000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Classical Concert</title>
   </programme>
   <programme start="20260612220000 +0000" stop="20260612221500 +0000" channel="Euronews.webtv.sk">

@@ -4142,7 +4142,7 @@
     <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20260611100000 +0000" stop="20260611110000 +0000" channel="GTV.mncvision">
-    <title>Legenda Nusantara</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260611110000 +0000" stop="20260611120000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants</title>
@@ -4151,7 +4151,7 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20260611133000 +0000" stop="20260611153000 +0000" channel="GTV.mncvision">
-    <title>In Hell</title>
+    <title>Conan The Barbarian</title>
 </programme>
 <programme start="20260611153000 +0000" stop="20260611160000 +0000" channel="GTV.mncvision">
     <title>Untold Story: Experiment</title>
@@ -4190,7 +4190,7 @@
     <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20260611100000 +0000" stop="20260611110000 +0000" channel="GTV HD.mncvision">
-    <title>Legenda Nusantara</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260611110000 +0000" stop="20260611120000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants</title>
@@ -4199,7 +4199,7 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20260611133000 +0000" stop="20260611153000 +0000" channel="GTV HD.mncvision">
-    <title>In Hell</title>
+    <title>Conan The Barbarian</title>
 </programme>
 <programme start="20260611153000 +0000" stop="20260611160000 +0000" channel="GTV HD.mncvision">
     <title>Untold Story: Experiment</title>
@@ -4250,7 +4250,7 @@
     <title>Konco Ngaso</title>
 </programme>
 <programme start="20260611063000 +0000" stop="20260611070000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
+    <title>Ge Bams</title>
 </programme>
 <programme start="20260611070000 +0000" stop="20260611080000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ludruk Humor Kirun</title>
@@ -4265,7 +4265,7 @@
     <title>Kaca Benggala</title>
 </programme>
 <programme start="20260611103000 +0000" stop="20260611110000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
+    <title>Ge Bams</title>
 </programme>
 <programme start="20260611110000 +0000" stop="20260611120000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Konco Ngaso</title>
@@ -4282,14 +4282,8 @@
 <programme start="20260611133000 +0000" stop="20260611140000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Arwah Lelembut</title>
 </programme>
-<programme start="20260611140000 +0000" stop="20260611150000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Ludruk Humor Kirun</title>
-</programme>
-<programme start="20260611150000 +0000" stop="20260611160000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Wayang Kampung Sebelah</title>
-</programme>
-<programme start="20260611160000 +0000" stop="20260611163000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Wayang Kulit Special</title>
+<programme start="20260611140000 +0000" stop="20260611143000 +0000" channel="Hanacaraka TV.mncvision">
+    <title>Wayang Kulit: Semarang (L)</title>
 </programme>
 <programme start="20260610173500 +0000" stop="20260610183000 +0000" channel="History.mncvision">
     <title>Curse Of Oak Island S12, Ep 16</title>
@@ -4891,37 +4885,46 @@
 <programme start="20260611071500 +0000" stop="20260611080000 +0000" channel="iNews.mncvision">
     <title>iSeleb (L)</title>
 </programme>
-<programme start="20260611080000 +0000" stop="20260611081000 +0000" channel="iNews.mncvision">
+<programme start="20260611080000 +0000" stop="20260611080500 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260611081000 +0000" stop="20260611093000 +0000" channel="iNews.mncvision">
+<programme start="20260611080500 +0000" stop="20260611093000 +0000" channel="iNews.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20260611093000 +0000" stop="20260611120000 +0000" channel="iNews.mncvision">
+<programme start="20260611093000 +0000" stop="20260611100000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260611120000 +0000" stop="20260611120300 +0000" channel="iNews.mncvision">
+<programme start="20260611100000 +0000" stop="20260611100500 +0000" channel="iNews.mncvision">
+    <title>Breaking Goals (L)</title>
+</programme>
+<programme start="20260611100500 +0000" stop="20260611120000 +0000" channel="iNews.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20260611120000 +0000" stop="20260611120500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260611120300 +0000" stop="20260611130000 +0000" channel="iNews.mncvision">
+<programme start="20260611120500 +0000" stop="20260611130000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20260611130000 +0000" stop="20260611130300 +0000" channel="iNews.mncvision">
+<programme start="20260611130000 +0000" stop="20260611130500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260611130300 +0000" stop="20260611140000 +0000" channel="iNews.mncvision">
+<programme start="20260611130500 +0000" stop="20260611140000 +0000" channel="iNews.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20260611140000 +0000" stop="20260611140300 +0000" channel="iNews.mncvision">
+<programme start="20260611140000 +0000" stop="20260611140500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260611140300 +0000" stop="20260611150000 +0000" channel="iNews.mncvision">
+<programme start="20260611140500 +0000" stop="20260611150000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260611150000 +0000" stop="20260611160000 +0000" channel="iNews.mncvision">
+<programme start="20260611150000 +0000" stop="20260611150500 +0000" channel="iNews.mncvision">
+    <title>Breaking Goals (L)</title>
+</programme>
+<programme start="20260611150500 +0000" stop="20260611161500 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260611160000 +0000" stop="20260611163000 +0000" channel="iNews.mncvision">
+<programme start="20260611161500 +0000" stop="20260611164500 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260610170000 +0000" stop="20260610173000 +0000" channel="iNews HD.mncvision">
@@ -4981,37 +4984,46 @@
 <programme start="20260611071500 +0000" stop="20260611080000 +0000" channel="iNews HD.mncvision">
     <title>iSeleb (L)</title>
 </programme>
-<programme start="20260611080000 +0000" stop="20260611081000 +0000" channel="iNews HD.mncvision">
+<programme start="20260611080000 +0000" stop="20260611080500 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260611081000 +0000" stop="20260611093000 +0000" channel="iNews HD.mncvision">
+<programme start="20260611080500 +0000" stop="20260611093000 +0000" channel="iNews HD.mncvision">
     <title>Realita (L)</title>
 </programme>
-<programme start="20260611093000 +0000" stop="20260611120000 +0000" channel="iNews HD.mncvision">
+<programme start="20260611093000 +0000" stop="20260611100000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260611120000 +0000" stop="20260611120300 +0000" channel="iNews HD.mncvision">
+<programme start="20260611100000 +0000" stop="20260611100500 +0000" channel="iNews HD.mncvision">
+    <title>Breaking Goals (L)</title>
+</programme>
+<programme start="20260611100500 +0000" stop="20260611120000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Sore (L)</title>
+</programme>
+<programme start="20260611120000 +0000" stop="20260611120500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260611120300 +0000" stop="20260611130000 +0000" channel="iNews HD.mncvision">
+<programme start="20260611120500 +0000" stop="20260611130000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20260611130000 +0000" stop="20260611130300 +0000" channel="iNews HD.mncvision">
+<programme start="20260611130000 +0000" stop="20260611130500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260611130300 +0000" stop="20260611140000 +0000" channel="iNews HD.mncvision">
+<programme start="20260611130500 +0000" stop="20260611140000 +0000" channel="iNews HD.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20260611140000 +0000" stop="20260611140300 +0000" channel="iNews HD.mncvision">
+<programme start="20260611140000 +0000" stop="20260611140500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260611140300 +0000" stop="20260611150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260611140500 +0000" stop="20260611150000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260611150000 +0000" stop="20260611160000 +0000" channel="iNews HD.mncvision">
+<programme start="20260611150000 +0000" stop="20260611150500 +0000" channel="iNews HD.mncvision">
+    <title>Breaking Goals (L)</title>
+</programme>
+<programme start="20260611150500 +0000" stop="20260611161500 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260611160000 +0000" stop="20260611163000 +0000" channel="iNews HD.mncvision">
+<programme start="20260611161500 +0000" stop="20260611164500 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260610220000 +0000" stop="20260610223000 +0000" channel="JAKTV.mncvision">

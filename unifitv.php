@@ -3958,14 +3958,7 @@
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20260611005500 +0000" stop="20260611012500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Chansung's Cooking</title>
-    <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260611012500 +0000" stop="20260611030500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260611005500 +0000" stop="20260611030500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Undercover Chef - Korea</title>
     <desc lang="en">Top celebrity chefs go undercover as a junior kitchen staff in the very country that shaped their culinary roots, challenge to earn recognition from locals in 5 days!</desc>
     <category lang="en">Variety</category>
@@ -3993,19 +3986,19 @@
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260611074500 +0000" stop="20260611092500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260611074500 +0000" stop="20260611093500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Rented in Finland</title>
     <desc lang="en">Lee Je-hoon, Lee Dong-hwi, Cha Eun-woo, and Kwak Dong-yeon will leave their urban lives behind to experience the serene and picturesque rural life in Finland.</desc>
     <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20260611092500 +0000" stop="20260611100500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">One Night Food Trip- International Edition</title>
-    <desc lang="en">Stay tuned to this spin-off of “One Night Food Trip” toured by Korean and local celebrities and find out the delicacies you can't miss in different Asian countries!</desc>
+  <programme start="20260611093500 +0000" stop="20260611100500 +0000" channel="tvnhd.unifitv">
+    <title lang="en">Chansung's Cooking</title>
+    <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260611100500 +0000" stop="20260611114000 +0000" channel="tvnhd.unifitv">
     <title lang="en">Painfully Delicious!</title>
@@ -4028,7 +4021,7 @@
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20260611143500 +0000" stop="20260611161500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260611143500 +0000" stop="20260611164500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Undercover Chef - Korea</title>
     <desc lang="en">Top celebrity chefs go undercover as a junior kitchen staff in the very country that shaped their culinary roots, challenge to earn recognition from locals in 5 days!</desc>
     <category lang="en">Variety</category>
@@ -15593,24 +15586,84 @@
     <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260611020000 +0000" stop="20260611043000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260611020000 +0000" stop="20260611042500 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - Group - MYANMAR vs MALAYSIA - (TEAM)</title>
     <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260611043000 +0000" stop="20260611050000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1003: Moreno vs Figueiredo 3</title>
-    <desc lang="en">UFC 270 featured the third meeting between flyweight rivals Deiveson Figueiredo and Mexican champion Brandon Moreno. Relive their incredible battle like you've never seen it with enhanced replays and angles, new footage, and exclusive audio.</desc>
+  <programme start="20260611042500 +0000" stop="20260611043000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260611050000 +0000" stop="20260611080000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260611043000 +0000" stop="20260611060000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">TM ISTAF World Cup 2026 - Group- KOREA vs MALAYSIA- (QUADRANT)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611060000 +0000" stop="20260611083000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 321: Aspinall vs. Gane</title>
+    <desc lang="en">The UFC heavyweight world championship is on the line in Abu Dhabi as Tom Aspinall defends his undisputed crown for the first time against Ciryl Gane. Plus Mackenzie Dern battles Virna Jandiroba for the vacant Women's strawweight belt and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611083000 +0000" stop="20260611090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 5</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611090000 +0000" stop="20260611090500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611090500 +0000" stop="20260611091000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT - LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT</title>
+    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611091000 +0000" stop="20260611091500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611091500 +0000" stop="20260611121500 +0000" channel="unifisports1.unifitv">
     <title lang="en">(L) AFL Premiership Season - Round 14 - Western Bulldogs v Adelaide Crows</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260611080000 +0000" stop="20260611153000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Ultimate Knockouts - 1102: Light Heavyweights</title>
-    <desc lang="en">UFC Ultimate Knockouts showcases the most explosive KOs from the UFC's Light Heavyweight division. Re-live career defining moments from Chuck Liddell, Jon Jones, Alex Pereira and more.</desc>
+  <programme start="20260611121500 +0000" stop="20260611122000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611122000 +0000" stop="20260611122500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT - LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT</title>
+    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611122500 +0000" stop="20260611123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611123000 +0000" stop="20260611130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1103: International Fighters</title>
+    <desc lang="en">UFC Ultimate Knockouts features explosive KOs from international fighters, showcasing stars from Russia, England, and South Africa like Dricus du Plessis, Paddy Pimblett, Ilia Topuria, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611130000 +0000" stop="20260611135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 313: Pereira vs Ankalaev</title>
+    <desc lang="en">UFC 313 Countdown takes an inside look at the promotion's return to Las Vegas, where light heavyweight king Alex Pereira attempts to defend his crown for the fourth time against the number one contender, Magomed Ankalaev..</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611135500 +0000" stop="20260611140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT - LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT</title>
+    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611140000 +0000" stop="20260611195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Muhammad vs. Bonfim - Main</title>
+    <desc lang="en">The opening event of June is set to close with a critical matchup in the welterweight division as former champion Belal “Remember the Name” Muhammad faces off with Gabriel “Marretinha” Bonfim on Sunday, June 7 at Meta APEX in Las Vegas, Nevada. Muhammad put together an 11-fight unbeaten streak to claim the welterweight title at UFC 304, toppling Leon Edwards and aims to cement his standing amongst the division's best by turning back the ascending Brazilian.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
@@ -15709,10 +15762,15 @@
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260610190000 +0000" stop="20260610224000 +0000" channel="spotv2.unifitv">
+  <programme start="20260610190000 +0000" stop="20260610221000 +0000" channel="spotv2.unifitv">
     <title lang="en">Epsom Derby 2026</title>
     <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
     <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260610221000 +0000" stop="20260610224000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP Rewind - Grand Prix of Italy</title>
+    <desc lang="en">Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260610224000 +0000" stop="20260611014500 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 11/6 2026 MLB Regular Season - Pittsburgh Pirates vs Los Angeles Dodgers</title>
