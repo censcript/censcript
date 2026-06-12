@@ -922,13 +922,13 @@
   <programme start="20260613223500 +0000" stop="20260614001000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Cez noc tridsiatničkou</title>
   </programme>
-  <programme start="20260614001000 +0000" stop="20260614015000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614001000 +0000" stop="20260614015500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Mesto anjelov</title>
   </programme>
-  <programme start="20260614015000 +0000" stop="20260614031000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614015500 +0000" stop="20260614031500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Päťdesiatka na krku</title>
   </programme>
-  <programme start="20260614031000 +0000" stop="20260614033500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614031500 +0000" stop="20260614033500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia IV (6)</title>
   </programme>
   <programme start="20260614033500 +0000" stop="20260614040000 +0000" channel="Doma.webtv.sk">
@@ -937,49 +937,52 @@
   <programme start="20260614040000 +0000" stop="20260614050000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260614050000 +0000" stop="20260614062500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614050000 +0000" stop="20260614062000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260614062500 +0000" stop="20260614065500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614062000 +0000" stop="20260614064000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Priatelia IV (6)</title>
+  </programme>
+  <programme start="20260614064000 +0000" stop="20260614071000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom III (22)</title>
   </programme>
-  <programme start="20260614065500 +0000" stop="20260614071500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614071000 +0000" stop="20260614073000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom IV (1)</title>
   </programme>
-  <programme start="20260614071500 +0000" stop="20260614080000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614073000 +0000" stop="20260614081500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom IV (2)</title>
   </programme>
-  <programme start="20260614080000 +0000" stop="20260614082000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614081500 +0000" stop="20260614083500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom IV (3)</title>
   </programme>
-  <programme start="20260614082000 +0000" stop="20260614090500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614083500 +0000" stop="20260614092000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom IV (4)</title>
   </programme>
-  <programme start="20260614090500 +0000" stop="20260614095500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614092000 +0000" stop="20260614100500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire VIII (6)</title>
   </programme>
-  <programme start="20260614095500 +0000" stop="20260614105500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614100500 +0000" stop="20260614110500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire VIII (7)</title>
   </programme>
-  <programme start="20260614105500 +0000" stop="20260614120500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614110500 +0000" stop="20260614121500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260614120500 +0000" stop="20260614143000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614121500 +0000" stop="20260614143500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Mesto anjelov</title>
   </programme>
-  <programme start="20260614143000 +0000" stop="20260614154500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614143500 +0000" stop="20260614155000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Ruža pre nevestu IV. - špeciál (2)</title>
   </programme>
-  <programme start="20260614154500 +0000" stop="20260614170500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614155000 +0000" stop="20260614170500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XIV (17)</title>
   </programme>
   <programme start="20260614170500 +0000" stop="20260614183000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XIV (18)</title>
   </programme>
-  <programme start="20260614183000 +0000" stop="20260614210000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614183000 +0000" stop="20260614205500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dosť!</title>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260614224000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260614205500 +0000" stop="20260614223500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smrtiaca terapia</title>
   </programme>
   <programme start="20260613220000 +0000" stop="20260613224000 +0000" channel="Markíza Krimi.webtv.sk">
