@@ -6511,16 +6511,16 @@
 <programme start="20260612153000 +0000" stop="20260612153500 +0000" channel="CBBC.virginmediatv">
     <title>Duck and Frog - Ball Boy</title>
 </programme>
-<programme start="20260612153500 +0000" stop="20260612155000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260612153500 +0000" stop="20260612154500 +0000" channel="CBBC.virginmediatv">
     <title>Submarine Jim - The Hunt for the Red Pompom</title>
 </programme>
-<programme start="20260612155000 +0000" stop="20260612160000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260612154500 +0000" stop="20260612160000 +0000" channel="CBBC.virginmediatv">
     <title>Odd Squad - Odd Ones In, Part 2</title>
 </programme>
-<programme start="20260612160000 +0000" stop="20260612162500 +0000" channel="CBBC.virginmediatv">
+<programme start="20260612160000 +0000" stop="20260612162800 +0000" channel="CBBC.virginmediatv">
     <title>Blue Peter - Kidzbop, Irish Dance Superstar and Women&#039;s World Cup Cricket!</title>
 </programme>
-<programme start="20260612162500 +0000" stop="20260612163000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260612162800 +0000" stop="20260612163000 +0000" channel="CBBC.virginmediatv">
     <title>Hacker&#039;s Ruff Guide to the World Cup - The 48 Nations Challenge with Alfie Watts</title>
 </programme>
 <programme start="20260612163000 +0000" stop="20260612165500 +0000" channel="CBBC.virginmediatv">

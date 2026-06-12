@@ -664,12 +664,6 @@
 <programme start="20260612090000 +0000" stop="20260612113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260612113000 +0000" stop="20260612133000 +0000" channel="ANTV.vision">
-<title>Pedang Naga Wulung</title>
-</programme>
-<programme start="20260612133000 +0000" stop="20260612150000 +0000" channel="ANTV.vision">
-<title>Samson &amp; Delilah</title>
-</programme>
 <programme start="20260612150000 +0000" stop="20260612170000 +0000" channel="ANTV.vision">
 <title>Panggonan Wingit 2</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260613080000 +0000" stop="20260613083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260613083000 +0000" stop="20260613100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260613100000 +0000" stop="20260613104500 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
 </programme>

@@ -2697,10 +2697,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: US Women&#039;s Open 2026, Highlights 4. Tag</title>
 </programme>
 <programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (6)</title>
+    <title>Golf: Tee Time Stories (5)</title>
 </programme>
 <programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (5)</title>
+    <title>Golf: Tee Time Stories (6)</title>
 </programme>
 <programme start="20260611223500 +0000" stop="20260611233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
@@ -3666,13 +3666,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Castle</title>
 </programme>
 <programme start="20260612181500 +0000" stop="20260612190000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
+    <title>Fringe</title>
 </programme>
 <programme start="20260612190000 +0000" stop="20260612194500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
+    <title>Fringe</title>
 </programme>
 <programme start="20260612194500 +0000" stop="20260612203000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
+    <title>Fringe</title>
 </programme>
 <programme start="20260612203000 +0000" stop="20260612211500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>
