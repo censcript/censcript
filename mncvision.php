@@ -4808,7 +4808,7 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20260611210000 +0000" stop="20260611213000 +0000" channel="Indosiar.mncvision">
-    <title>Pintu Pintu Syurga</title>
+    <title>Pintu-Pintu Surga</title>
 </programme>
 <programme start="20260611213000 +0000" stop="20260611230000 +0000" channel="Indosiar.mncvision">
     <title>Fokus Pagi</title>
@@ -4853,7 +4853,7 @@
     <title>Mega Film Asia</title>
 </programme>
 <programme start="20260611210000 +0000" stop="20260611213000 +0000" channel="Indosiar HD.mncvision">
-    <title>Pintu Pintu Syurga</title>
+    <title>Pintu-Pintu Surga</title>
 </programme>
 <programme start="20260611213000 +0000" stop="20260611230000 +0000" channel="Indosiar HD.mncvision">
     <title>Fokus Pagi</title>
@@ -9352,13 +9352,10 @@
 <programme start="20260612114500 +0000" stop="20260612130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260612130000 +0000" stop="20260612140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20260612140000 +0000" stop="20260612160000 +0000" channel="Trans TV.mncvision">
+<programme start="20260612130000 +0000" stop="20260612150000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260612160000 +0000" stop="20260612163000 +0000" channel="Trans TV.mncvision">
+<programme start="20260612150000 +0000" stop="20260612153000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260611180000 +0000" stop="20260611192000 +0000" channel="tvN.mncvision">

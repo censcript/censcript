@@ -226,10 +226,10 @@
 <programme start="20260612025000 +0000" stop="20260612030000 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260611030000 +0000" stop="20260611040000 +0000" channel="iNews.vision">
+<programme start="20260612030000 +0000" stop="20260612040000 +0000" channel="iNews.vision">
 <title>iNews Today (L)</title>
 </programme>
-<programme start="20260611040000 +0000" stop="20260611060000 +0000" channel="iNews.vision">
+<programme start="20260612040000 +0000" stop="20260612060000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20260612060000 +0000" stop="20260612071500 +0000" channel="iNews.vision">
@@ -241,7 +241,7 @@
 <programme start="20260612080000 +0000" stop="20260612080500 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260611080500 +0000" stop="20260611093000 +0000" channel="iNews.vision">
+<programme start="20260612080500 +0000" stop="20260612093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
 <programme start="20260612093000 +0000" stop="20260612120000 +0000" channel="iNews.vision">
@@ -472,16 +472,13 @@
 <programme start="20260612114500 +0000" stop="20260612130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260612130000 +0000" stop="20260612140000 +0000" channel="Trans TV.vision">
-<title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20260612140000 +0000" stop="20260612160000 +0000" channel="Trans TV.vision">
+<programme start="20260612130000 +0000" stop="20260612150000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260612160000 +0000" stop="20260612180000 +0000" channel="Trans TV.vision">
+<programme start="20260612150000 +0000" stop="20260612170000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260612180000 +0000" stop="20260612220000 +0000" channel="Trans TV.vision">
+<programme start="20260612170000 +0000" stop="20260612220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20260612220000 +0000" stop="20260612233000 +0000" channel="Trans TV.vision">
@@ -490,34 +487,37 @@
 <programme start="20260612233000 +0000" stop="20260613003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
 </programme>
-<programme start="20260613003000 +0000" stop="20260613013000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia Good Morning</title>
+<programme start="20260613003000 +0000" stop="20260613020000 +0000" channel="Trans TV.vision">
+<title>Kajian Hati</title>
 </programme>
-<programme start="20260613013000 +0000" stop="20260613033000 +0000" channel="Trans TV.vision">
+<programme start="20260613020000 +0000" stop="20260613033000 +0000" channel="Trans TV.vision">
 <title>Ambyar In Weekend</title>
 </programme>
-<programme start="20260613033000 +0000" stop="20260613053000 +0000" channel="Trans TV.vision">
+<programme start="20260613033000 +0000" stop="20260613043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
 </programme>
-<programme start="20260613053000 +0000" stop="20260613070000 +0000" channel="Trans TV.vision">
-<title>Brownis (Obrowlan Manis)</title>
+<programme start="20260613043000 +0000" stop="20260613053000 +0000" channel="Trans TV.vision">
+<title>Spill DD Tea</title>
+</programme>
+<programme start="20260613053000 +0000" stop="20260613063000 +0000" channel="Trans TV.vision">
+<title>Brownis On The Weekend</title>
+</programme>
+<programme start="20260613063000 +0000" stop="20260613070000 +0000" channel="Trans TV.vision">
+<title>Masak Anti Ribet</title>
 </programme>
 <programme start="20260613070000 +0000" stop="20260613080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
+<title>Rumpi Hot Of The Week</title>
 </programme>
 <programme start="20260613080000 +0000" stop="20260613090000 +0000" channel="Trans TV.vision">
-<title>Insert Today</title>
+<title>Insert Investigasi</title>
 </programme>
-<programme start="20260613090000 +0000" stop="20260613093000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia News Update</title>
+<programme start="20260613090000 +0000" stop="20260613100000 +0000" channel="Trans TV.vision">
+<title>Sehari Jadi Ratu</title>
 </programme>
-<programme start="20260613093000 +0000" stop="20260613103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260613103000 +0000" stop="20260613114500 +0000" channel="Trans TV.vision">
+<programme start="20260613100000 +0000" stop="20260613110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260613114500 +0000" stop="20260613130000 +0000" channel="Trans TV.vision">
+<programme start="20260613110000 +0000" stop="20260613121500 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
 <programme start="20260611233000 +0000" stop="20260612003000 +0000" channel="Trans 7.vision">
@@ -651,6 +651,9 @@
 </programme>
 <programme start="20260612010000 +0000" stop="20260612023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
+</programme>
+<programme start="20260612023000 +0000" stop="20260612060000 +0000" channel="ANTV.vision">
+<title>Chori Chori Chupke Chupke</title>
 </programme>
 <programme start="20260612060000 +0000" stop="20260612073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1354,9 +1357,6 @@
 <programme start="20260612014500 +0000" stop="20260612020000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
 </programme>
-<programme start="20260612020000 +0000" stop="20260612020500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
 <programme start="20260612020500 +0000" stop="20260612023000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
 </programme>
@@ -1468,9 +1468,6 @@
 <programme start="20260613014500 +0000" stop="20260613020000 +0000" channel="BTV.vision">
 <title>Galeri Rasa</title>
 </programme>
-<programme start="20260613020000 +0000" stop="20260613020500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
 <programme start="20260613020500 +0000" stop="20260613023000 +0000" channel="BTV.vision">
 <title>Galeri Rasa</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260613073000 +0000" stop="20260613080000 +0000" channel="BTV.vision">
 <title>Meja Redaksi</title>
+</programme>
+<programme start="20260613080000 +0000" stop="20260613083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>

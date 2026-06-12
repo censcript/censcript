@@ -2845,14 +2845,14 @@
 <programme start="20260612030000 +0000" stop="20260612060000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Committees Replay</title>
 </programme>
-<programme start="20260612113000 +0000" stop="20260612131000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20260612104500 +0000" stop="20260612124000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Select Committee on Budgetary Oversight</title>
 </programme>
-<programme start="20260612131000 +0000" stop="20260612140000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20260612124000 +0000" stop="20260612141000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Fisheries and Maritime Affairs</title>
 </programme>
-<programme start="20260612140000 +0000" stop="20260612160000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20260612141000 +0000" stop="20260612160000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Agriculture and Food</title>
 </programme>
 <programme start="20260612160000 +0000" stop="20260612190000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Topical Issues</title>
@@ -3829,7 +3829,10 @@
 <programme start="20260612030000 +0000" stop="20260612040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260612040000 +0000" stop="20260612060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260612040000 +0000" stop="20260612050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260612050000 +0000" stop="20260612060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260612100000 +0000" stop="20260612150000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4690,7 +4693,10 @@
 <programme start="20260612030000 +0000" stop="20260612040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260612040000 +0000" stop="20260612060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260612040000 +0000" stop="20260612050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260612050000 +0000" stop="20260612060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260612100000 +0000" stop="20260612150000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">

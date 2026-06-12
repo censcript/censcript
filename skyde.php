@@ -2492,7 +2492,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260612084000 +0000" stop="20260612090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260612090000 +0000" stop="20260612163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260612090000 +0000" stop="20260612183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 250: Libema Open in s&#039;Hertogenbosch (NED), 5. Tag</title>
 </programme>
 <programme start="20260611221000 +0000" stop="20260611225000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2566,6 +2566,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260612054500 +0000" stop="20260612060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
+</programme>
+<programme start="20260612120000 +0000" stop="20260612140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+    <title>TEST: BL: 1. FC Union Berlin - VfB Stuttgart, 1. Spieltag</title>
 </programme>
 <programme start="20260612120000 +0000" stop="20260612140000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>TEST: BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
@@ -2694,10 +2697,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: US Women&#039;s Open 2026, Highlights 4. Tag</title>
 </programme>
 <programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (5)</title>
+    <title>Golf: Tee Time Stories (6)</title>
 </programme>
 <programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (6)</title>
+    <title>Golf: Tee Time Stories (5)</title>
 </programme>
 <programme start="20260611223500 +0000" stop="20260611233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
@@ -2918,6 +2921,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260612213000 +0000" stop="20260612223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review, 22. Spieltag</title>
 </programme>
+<programme start="20260611220000 +0000" stop="20260611233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: L. Siegemund (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), 3. Tag</title>
+</programme>
 <programme start="20260611233000 +0000" stop="20260612011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
@@ -2930,13 +2936,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260612023000 +0000" stop="20260612043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: M. Landaluce (ESP) - T. Fritz (USA), Boss Open in Stuttgart, 4. Tag</title>
 </programme>
-<programme start="20260612043000 +0000" stop="20260612050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260612043000 +0000" stop="20260612052500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Racket Challenge: Alcaraz vs. Rune</title>
 </programme>
-<programme start="20260612050000 +0000" stop="20260612070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260612052500 +0000" stop="20260612065500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - E. Rybakina (KAZ), HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
-<programme start="20260612070000 +0000" stop="20260612090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260612065500 +0000" stop="20260612090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: M. Landaluce (ESP) - T. Fritz (USA), Boss Open in Stuttgart, 4. Tag</title>
 </programme>
 <programme start="20260612090000 +0000" stop="20260612170000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2949,10 +2955,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260612190000 +0000" stop="20260612210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, Boss Open in Stuttgart, 5. Tag</title>
+    <title>ATP 250: J. Lehecka (CZE) - F. Tiafoe (USA), Boss Open in Stuttgart, 5. Tag</title>
 </programme>
 <programme start="20260612210000 +0000" stop="20260612230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, HSBC Championships in London (GBR), 5. Tag</title>
+    <title>WTA 500: T. Maria (GER) - E. Rybakina (KAZ), HSBC Championships in London (GBR), 5. Tag</title>
 </programme>
 <programme start="20260611225000 +0000" stop="20260611234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>

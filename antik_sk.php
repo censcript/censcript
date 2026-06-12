@@ -982,67 +982,64 @@
   <programme start="20260614210000 +0000" stop="20260614224000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smrtiaca terapia</title>
   </programme>
-  <programme start="20260613210000 +0000" stop="20260613221000 +0000" channel="Markíza Krimi.webtv.sk">
-    <title lang="id">Zmiznutí a zabití III (1)</title>
-  </programme>
-  <programme start="20260613221000 +0000" stop="20260613225000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260613220000 +0000" stop="20260613224000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Polícia Chicago V (19)</title>
   </programme>
-  <programme start="20260613225000 +0000" stop="20260613233000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260613224000 +0000" stop="20260613232000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Polícia Chicago V (20)</title>
   </programme>
-  <programme start="20260613233000 +0000" stop="20260614001500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260613232000 +0000" stop="20260614000500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti V (8)</title>
   </programme>
-  <programme start="20260614001500 +0000" stop="20260614010000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614000500 +0000" stop="20260614005000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti V (9)</title>
   </programme>
-  <programme start="20260614010000 +0000" stop="20260614015000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614005000 +0000" stop="20260614014000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Zmiznutí a zabití III (1)</title>
   </programme>
-  <programme start="20260614015000 +0000" stop="20260614031000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614014000 +0000" stop="20260614030000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">112 (28)</title>
   </programme>
-  <programme start="20260614031000 +0000" stop="20260614040000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614030000 +0000" stop="20260614035000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (9)</title>
   </programme>
-  <programme start="20260614040000 +0000" stop="20260614044500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614035000 +0000" stop="20260614043500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (2)</title>
   </programme>
-  <programme start="20260614044500 +0000" stop="20260614052500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614043500 +0000" stop="20260614051500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (3)</title>
   </programme>
-  <programme start="20260614052500 +0000" stop="20260614061000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614051500 +0000" stop="20260614060000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (4)</title>
   </programme>
-  <programme start="20260614061000 +0000" stop="20260614065500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614060000 +0000" stop="20260614071000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">V mene zákona (19)</title>
   </programme>
-  <programme start="20260614065500 +0000" stop="20260614080000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614071000 +0000" stop="20260614081000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Zmiznutí a zabití III (1)</title>
   </programme>
-  <programme start="20260614080000 +0000" stop="20260614084000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614081000 +0000" stop="20260614085500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti VII (10)</title>
   </programme>
-  <programme start="20260614084000 +0000" stop="20260614092000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614085500 +0000" stop="20260614093500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti VII (11)</title>
   </programme>
-  <programme start="20260614092000 +0000" stop="20260614101000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614093500 +0000" stop="20260614102000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti V (8)</title>
   </programme>
-  <programme start="20260614101000 +0000" stop="20260614105500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614102000 +0000" stop="20260614110500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti V (9)</title>
   </programme>
-  <programme start="20260614105500 +0000" stop="20260614120500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614110500 +0000" stop="20260614121500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XIII (17)</title>
   </programme>
-  <programme start="20260614120500 +0000" stop="20260614130500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614121500 +0000" stop="20260614131500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XIII (18)</title>
   </programme>
-  <programme start="20260614130500 +0000" stop="20260614140500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614131500 +0000" stop="20260614141000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XIII (19)</title>
   </programme>
-  <programme start="20260614140500 +0000" stop="20260614150000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260614141000 +0000" stop="20260614150000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XIII (20)</title>
   </programme>
   <programme start="20260614150000 +0000" stop="20260614160000 +0000" channel="Markíza Krimi.webtv.sk">
@@ -1153,10 +1150,10 @@
   <programme start="20260614200000 +0000" stop="20260614222000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Gold Continental Tour</title>
   </programme>
-  <programme start="20260613211500 +0000" stop="20260613232000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260613213000 +0000" stop="20260613233500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20260613232000 +0000" stop="20260614020000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260613233500 +0000" stop="20260614020000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260614020000 +0000" stop="20260614042000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1168,10 +1165,10 @@
   <programme start="20260614061500 +0000" stop="20260614085000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Squash - PSA World Tour</title>
   </programme>
-  <programme start="20260614085000 +0000" stop="20260614100500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260614085000 +0000" stop="20260614101500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Vodný slalom</title>
   </programme>
-  <programme start="20260614100500 +0000" stop="20260614114000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260614101500 +0000" stop="20260614114000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Squash - PSA World Tour</title>
   </programme>
   <programme start="20260614114000 +0000" stop="20260614123500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1183,8 +1180,11 @@
   <programme start="20260614125500 +0000" stop="20260614142500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20260614142500 +0000" stop="20260614161500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260614142500 +0000" stop="20260614150000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Vodný slalom</title>
+  </programme>
+  <programme start="20260614150000 +0000" stop="20260614161500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
   <programme start="20260614161500 +0000" stop="20260614190500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Plážový volejbal</title>
@@ -19159,10 +19159,7 @@
   <programme start="20260614190000 +0000" stop="20260614220000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">The Seeds (6)</title>
   </programme>
-  <programme start="20260613214500 +0000" stop="20260613222000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">NAKED ATTRACTION NĚMECKO</title>
-  </programme>
-  <programme start="20260613222000 +0000" stop="20260614040000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260613180000 +0000" stop="20260614040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">PARTY RIDE</title>
   </programme>
   <programme start="20260614040000 +0000" stop="20260614080000 +0000" channel="Óčko.webtv.sk">
@@ -19225,7 +19222,10 @@
   <programme start="20260614200000 +0000" stop="20260614205000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">NAKED ATTRACTION ČESKO &amp; SLOVENSKO</title>
   </programme>
-  <programme start="20260614205000 +0000" stop="20260614235000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260614205000 +0000" stop="20260614213000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">NAKED ATTRACTION ČESKO &amp; SLOVENSKO</title>
+  </programme>
+  <programme start="20260614213000 +0000" stop="20260615003000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
   </programme>
   <programme start="20260613190000 +0000" stop="20260613230000 +0000" channel="Óčko Black.webtv.sk">
@@ -19291,13 +19291,16 @@
   <programme start="20260614070000 +0000" stop="20260614080000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">DEVADESÁTKY V DEVĚT</title>
   </programme>
-  <programme start="20260614080000 +0000" stop="20260614090000 +0000" channel="Óčko Star.webtv.sk">
-    <title lang="id">FILMOVÉ HITY</title>
+  <programme start="20260614080000 +0000" stop="20260614091000 +0000" channel="Óčko Star.webtv.sk">
+    <title lang="id">EWA FARNA: G2 ACOUSTIC STAGE</title>
   </programme>
-  <programme start="20260614090000 +0000" stop="20260614100000 +0000" channel="Óčko Star.webtv.sk">
+  <programme start="20260614091000 +0000" stop="20260614100000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">#POŠLIKOMENT</title>
   </programme>
-  <programme start="20260614100000 +0000" stop="20260614120000 +0000" channel="Óčko Star.webtv.sk">
+  <programme start="20260614100000 +0000" stop="20260614103000 +0000" channel="Óčko Star.webtv.sk">
+    <title lang="id">O INTERVIEW: DURAN DURAN</title>
+  </programme>
+  <programme start="20260614103000 +0000" stop="20260614120000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">NEJVĚTŠÍ HITY</title>
   </programme>
   <programme start="20260614120000 +0000" stop="20260614130000 +0000" channel="Óčko Star.webtv.sk">
