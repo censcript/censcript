@@ -14,13 +14,13 @@
 <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260612050000 +0000" stop="20260612063000 +0000" channel="RCTI.vision">
-<title>Guardian Angel</title>
+<title>Tetangga Adalah Maut</title>
 </programme>
 <programme start="20260612063000 +0000" stop="20260612090000 +0000" channel="RCTI.vision">
-<title>Ih Serem</title>
+<title>Kakak Tiriku Merebut Calon...</title>
 </programme>
 <programme start="20260612090000 +0000" stop="20260612103000 +0000" channel="RCTI.vision">
-<title>Mega Film TV</title>
+<title>Takut Ga Sih</title>
 </programme>
 <programme start="20260612103000 +0000" stop="20260612120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
@@ -47,7 +47,7 @@
 <title>Mega Film TV Malam</title>
 </programme>
 <programme start="20260612200000 +0000" stop="20260612230000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun X</title>
+<title>Preman Pensiun</title>
 </programme>
 <programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
@@ -226,10 +226,10 @@
 <programme start="20260612025000 +0000" stop="20260612030000 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260612030000 +0000" stop="20260612040000 +0000" channel="iNews.vision">
+<programme start="20260611030000 +0000" stop="20260611040000 +0000" channel="iNews.vision">
 <title>iNews Today (L)</title>
 </programme>
-<programme start="20260612040000 +0000" stop="20260612060000 +0000" channel="iNews.vision">
+<programme start="20260611040000 +0000" stop="20260611060000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20260612060000 +0000" stop="20260612071500 +0000" channel="iNews.vision">
@@ -241,16 +241,10 @@
 <programme start="20260612080000 +0000" stop="20260612080500 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260612080500 +0000" stop="20260612093000 +0000" channel="iNews.vision">
+<programme start="20260611080500 +0000" stop="20260611093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20260612093000 +0000" stop="20260612100000 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
-</programme>
-<programme start="20260612100000 +0000" stop="20260612100500 +0000" channel="iNews.vision">
-<title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260612100500 +0000" stop="20260612120000 +0000" channel="iNews.vision">
+<programme start="20260612093000 +0000" stop="20260612120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
 <programme start="20260612120000 +0000" stop="20260612120500 +0000" channel="iNews.vision">
@@ -272,7 +266,7 @@
 <title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260612150500 +0000" stop="20260612161500 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>Inews Files (Live)</title>
 </programme>
 <programme start="20260612161500 +0000" stop="20260612170000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
@@ -500,7 +494,7 @@
 <title>CNN Indonesia Good Morning</title>
 </programme>
 <programme start="20260613013000 +0000" stop="20260613033000 +0000" channel="Trans TV.vision">
-<title>Pagi-Pagi Ambyar</title>
+<title>Ambyar In Weekend</title>
 </programme>
 <programme start="20260613033000 +0000" stop="20260613053000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
@@ -549,9 +543,6 @@
 </programme>
 <programme start="20260612054500 +0000" stop="20260612063000 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
-</programme>
-<programme start="20260612063000 +0000" stop="20260612071500 +0000" channel="Trans 7.vision">
-<title>Kepo</title>
 </programme>
 <programme start="20260612071500 +0000" stop="20260612080000 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
@@ -660,9 +651,6 @@
 </programme>
 <programme start="20260612010000 +0000" stop="20260612023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
-</programme>
-<programme start="20260612023000 +0000" stop="20260612060000 +0000" channel="ANTV.vision">
-<title>Chori Chori Chupke Chupke</title>
 </programme>
 <programme start="20260612060000 +0000" stop="20260612073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260613040000 +0000" stop="20260613053000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260613053000 +0000" stop="20260613063000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20260613063000 +0000" stop="20260613070000 +0000" channel="BTV.vision">
+<title>Jendela Nusantara: Jawa Barat</title>
+</programme>
+<programme start="20260613070000 +0000" stop="20260613073000 +0000" channel="BTV.vision">
+<title>Asal Usul</title>
+</programme>
+<programme start="20260613073000 +0000" stop="20260613080000 +0000" channel="BTV.vision">
+<title>Meja Redaksi</title>
 </programme>

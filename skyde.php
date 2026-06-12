@@ -2492,7 +2492,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260612084000 +0000" stop="20260612090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260612090000 +0000" stop="20260612183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260612090000 +0000" stop="20260612163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 250: Libema Open in s&#039;Hertogenbosch (NED), 5. Tag</title>
 </programme>
 <programme start="20260611221000 +0000" stop="20260611225000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2566,9 +2566,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260612054500 +0000" stop="20260612060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
-</programme>
-<programme start="20260612120000 +0000" stop="20260612140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
-    <title>TEST: BL: 1. FC Union Berlin - VfB Stuttgart, 1. Spieltag</title>
 </programme>
 <programme start="20260612120000 +0000" stop="20260612140000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>TEST: BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>

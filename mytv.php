@@ -61,13 +61,13 @@
     <programme start="20260612084500 +0000" stop="20260612090000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự</title>
     </programme>
-    <programme start="20260612090000 +0000" stop="20260612091500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260612090000 +0000" stop="20260612091400 +0000" channel="VTV1 HD.mytv">
         <title> Đảng trong kỷ nguyên mới</title>
     </programme>
-    <programme start="20260612091500 +0000" stop="20260612093000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260612091400 +0000" stop="20260612093200 +0000" channel="VTV1 HD.mytv">
         <title> Văn học nghệ thuật: Hành trình mới chiêng cổ Gia Lai</title>
     </programme>
-    <programme start="20260612093000 +0000" stop="20260612100000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260612093200 +0000" stop="20260612100000 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao</title>
     </programme>
     <programme start="20260612100000 +0000" stop="20260612102500 +0000" channel="VTV1 HD.mytv">

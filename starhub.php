@@ -8071,19 +8071,22 @@
     <programme start="20260612053000 +0000" stop="20260612080500 +0000" channel="SPOTV2.starhub">
         <title>Triple Crown: Belmont Stakes 2026</title>
     </programme>
-    <programme start="20260612080500 +0000" stop="20260612095500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260612080500 +0000" stop="20260612085500 +0000" channel="SPOTV2.starhub">
         <title>Global Champions League Round 2</title>
     </programme>
-    <programme start="20260612095500 +0000" stop="20260612120000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260612085500 +0000" stop="20260612094000 +0000" channel="SPOTV2.starhub">
+        <title>Formula E Driver S2</title>
+    </programme>
+    <programme start="20260612094000 +0000" stop="20260612124000 +0000" channel="SPOTV2.starhub">
         <title>Q1</title>
     </programme>
-    <programme start="20260612120000 +0000" stop="20260612122500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260612124000 +0000" stop="20260612131000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Grand Final Auckland FC vs Sydney FC</title>
     </programme>
-    <programme start="20260612122500 +0000" stop="20260612152500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260612131000 +0000" stop="20260612154500 +0000" channel="SPOTV2.starhub">
         <title>Q2/Q3/ Q4</title>
     </programme>
-    <programme start="20260612152500 +0000" stop="20260612180000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260612154500 +0000" stop="20260612180000 +0000" channel="SPOTV2.starhub">
         <title>CSI 5* 2 Phases</title>
     </programme>
     <programme start="20260611160000 +0000" stop="20260611171400 +0000" channel="Dragon TV.starhub">

@@ -5,7 +5,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260612051500 +0000" stop="20260612060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Six O&#039;Clock Show</title>
+    <title>The Six O&#039;Clock Show - Tres Leches Dot Cake</title>
 </programme>
 <programme start="20260612120000 +0000" stop="20260612130000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Chase</title>

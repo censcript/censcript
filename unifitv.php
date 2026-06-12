@@ -5102,30 +5102,30 @@
     <desc lang="en">Jeevanand moves to Ooty seeking inspiration for his script. Strange, eerie events tied to his past unfold, testing his courage and unraveling deep-seated mysteries of his life.</desc>
     <category lang="en">Horror</category>
   </programme>
-  <programme start="20260611160000 +0000" stop="20260611183000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260611160000 +0000" stop="20260611180900 +0000" channel="zeethirai.unifitv">
     <title lang="en">Ivan Kavalkaran</title>
     <desc lang="en">Vijay, an honest police officer, meets Samyukta at a cafe and falls in love with her. However, his life changes when he witnesses a kidnapping and ends up helping a lonely woman, Lavanya.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260611183000 +0000" stop="20260611190000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260611180900 +0000" stop="20260611183000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260611183000 +0000" stop="20260611195700 +0000" channel="zeethirai.unifitv">
     <title lang="en">Free Ticket</title>
     <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260611190000 +0000" stop="20260611193000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260611193000 +0000" stop="20260611200000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260611200000 +0000" stop="20260611223000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260611195700 +0000" stop="20260611221200 +0000" channel="zeethirai.unifitv">
     <title lang="en">Rajini Murugan</title>
     <desc lang="en">Rajini Murugan, an unemployed youth, falls in love with Karthika, his cousin. But Karthika's father opposes the match.</desc>
     <category lang="en">Action</category>
+  </programme>
+  <programme start="20260611221200 +0000" stop="20260611223000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260611223000 +0000" stop="20260612010000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Haraa</title>
@@ -5157,7 +5157,7 @@
     <desc lang="en">When a serial killer goes on a murder spree, Samuel, a forensic expert, uses his skills to find evidence and uncover the killer's identity.</desc>
     <category lang="en">Thriller</category>
   </programme>
-  <programme start="20260612160000 +0000" stop="20260612180000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260612160000 +0000" stop="20260612175500 +0000" channel="zeethirai.unifitv">
     <title lang="en">Ko 2</title>
     <desc lang="en">When Kumaran, an ordinary citizen, abducts the chief minister of the state of Tamil Nadu, the whole nation wonders what could have compelled a seemingly innocent man to adopt such a drastic step.</desc>
     <category lang="en">Thriller</category>
@@ -15472,22 +15472,27 @@
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20260612095500 +0000" stop="20260612120000 +0000" channel="spotv2.unifitv">
+  <programme start="20260612095500 +0000" stop="20260612104000 +0000" channel="spotv2.unifitv">
+    <title lang="en">Formula E Driver S2 - Ep 3</title>
+    <desc lang="en">Go behind the scenes with Formula E drivers as they navigate fierce rivalries, high-pressure racing, and life beyond the track in the world of elite electric motorsport.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260612104000 +0000" stop="20260612124000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 2026 E1 World Championship Rd 3 Dubrovnik GP - Q1</title>
     <desc lang="en">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
     <category lang="en">Watersports</category>
   </programme>
-  <programme start="20260612120000 +0000" stop="20260612122500 +0000" channel="spotv2.unifitv">
+  <programme start="20260612124000 +0000" stop="20260612131000 +0000" channel="spotv2.unifitv">
     <title lang="en">2025/26 ALM Mini Match Grand Final - Auckland FC vs Sydney FC</title>
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260612122500 +0000" stop="20260612152500 +0000" channel="spotv2.unifitv">
+  <programme start="20260612131000 +0000" stop="20260612154500 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 2026 E1 World Championship Rd 3 Dubrovnik GP - Q2/Q3/ Q4</title>
     <desc lang="en">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
     <category lang="en">Watersports</category>
   </programme>
-  <programme start="20260612152500 +0000" stop="20260612180000 +0000" channel="spotv2.unifitv">
+  <programme start="20260612154500 +0000" stop="20260612180000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 2026 Longines Global Champions Tour, St. Tropez - CSI 5* 2 Phases</title>
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>
@@ -15793,18 +15798,18 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260612123000 +0000" stop="20260612140000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valencia P1 Day 5 QF Match 4 (L)</title>
+  <programme start="20260612123000 +0000" stop="20260612130000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - France vs New Zealand - Cup Final, Bordeaux - Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260612130000 +0000" stop="20260612143000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Valencia P1 Day 5 QF Match 4</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260612140000 +0000" stop="20260612153000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valencia P1 Day 5 QF Match 5 (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260612153000 +0000" stop="20260612170000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valencia P1 Day 5 QF Match 6 (L)</title>
+  <programme start="20260612143000 +0000" stop="20260612170000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Valencia P1 Day 5 QF Match 5</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
