@@ -4601,13 +4601,22 @@
     <title>Serie A Football - Season Review</title>
 </programme>
 <programme start="20260612143000 +0000" stop="20260612153000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>LIV Golf League - Andalucía: Tournament Review</title>
-</programme>
-<programme start="20260612153000 +0000" stop="20260612163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Roland-Garros 2026 - Tournament Review</title>
 </programme>
-<programme start="20260612163000 +0000" stop="20260612180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Ultimate Pool Pairs Cup - Finals Night</title>
+<programme start="20260612153000 +0000" stop="20260612160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>FIA World Endurance Championship Motor Racing - Road to Le Mans</title>
+</programme>
+<programme start="20260612160000 +0000" stop="20260612161500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>TNT Sports Reload</title>
+</programme>
+<programme start="20260612161500 +0000" stop="20260612171500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>World Climbing Series - Prague</title>
+</programme>
+<programme start="20260612171500 +0000" stop="20260612173000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>TNT Sports Reload</title>
+</programme>
+<programme start="20260612173000 +0000" stop="20260612180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Mass Participation - Ibiza Marathon</title>
 </programme>
 <programme start="20260612000000 +0000" stop="20260612003000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>Top 14 Highlights - Round 26</title>
@@ -5339,13 +5348,22 @@
     <title>Serie A Football - Season Review</title>
 </programme>
 <programme start="20260612143000 +0000" stop="20260612153000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>LIV Golf League - Andalucía: Tournament Review</title>
-</programme>
-<programme start="20260612153000 +0000" stop="20260612163000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Roland-Garros 2026 - Tournament Review</title>
 </programme>
-<programme start="20260612163000 +0000" stop="20260612180000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Ultimate Pool Pairs Cup - Finals Night</title>
+<programme start="20260612153000 +0000" stop="20260612160000 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>FIA World Endurance Championship Motor Racing - Road to Le Mans</title>
+</programme>
+<programme start="20260612160000 +0000" stop="20260612161500 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>TNT Sports Reload</title>
+</programme>
+<programme start="20260612161500 +0000" stop="20260612171500 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>World Climbing Series - Prague</title>
+</programme>
+<programme start="20260612171500 +0000" stop="20260612173000 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>TNT Sports Reload</title>
+</programme>
+<programme start="20260612173000 +0000" stop="20260612180000 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>Mass Participation - Ibiza Marathon</title>
 </programme>
 <programme start="20260612000000 +0000" stop="20260612003000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>Top 14 Highlights - Round 26</title>

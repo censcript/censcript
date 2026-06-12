@@ -1960,8 +1960,11 @@
     <programme start="20260612140000 +0000" stop="20260612150000 +0000" channel="CNN HD.starhub">
         <title>Friday, June 12, 2026 10am ET</title>
     </programme>
-    <programme start="20260612150000 +0000" stop="20260612160000 +0000" channel="CNN HD.starhub">
-        <title>Friday, June 12, 2026 11am ET</title>
+    <programme start="20260612150000 +0000" stop="20260612153000 +0000" channel="CNN HD.starhub">
+        <title>Thursday, June 11, 2026 11am ET</title>
+    </programme>
+    <programme start="20260612153000 +0000" stop="20260612160000 +0000" channel="CNN HD.starhub">
+        <title>Thursday, June 11, 2026 1130am ET</title>
     </programme>
     <programme start="20260611133000 +0000" stop="20260611170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Hero</title>
@@ -2015,61 +2018,61 @@
         <title>Super Lig 2025/26: Besiktas vs Goztepe</title>
     </programme>
     <programme start="20260612010500 +0000" stop="20260612030500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Super Lig 2025/26: Fenerbahce vs Kasimpasa</title>
+        <title>Fenerbahce vs Kasimpasa</title>
     </programme>
     <programme start="20260612030500 +0000" stop="20260612032000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros Match H/Ls: 2025 Women&#039;s Singles SF 2 Gauff v Boisson</title>
+        <title>2025 Women’s Singles SF 2 Gauff v Boisson</title>
     </programme>
     <programme start="20260612032000 +0000" stop="20260612034500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Brazil vs Great Britain - 9th Place SF 1, Bordeaux - Women</title>
+        <title>Brazil vs Great Britain - 9th Place SF 1, Bordeaux - Women</title>
     </programme>
     <programme start="20260612034500 +0000" stop="20260612041000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Argentina vs South Africa - 9th Place SF 2, Bordeaux - Women</title>
+        <title>Argentina vs South Africa - 9th Place SF 2, Bordeaux - Women</title>
     </programme>
     <programme start="20260612041000 +0000" stop="20260612044000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Brazil vs South Africa - 11th Playoffs, Bordeaux - Women</title>
+        <title>Brazil vs South Africa - 11th Playoffs, Bordeaux - Women</title>
     </programme>
     <programme start="20260612044000 +0000" stop="20260612050500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Kenya vs Uruguay - 11th Playoffs, Bordeaux - Men</title>
+        <title>Kenya vs Uruguay - 11th Playoffs, Bordeaux - Men</title>
     </programme>
     <programme start="20260612050500 +0000" stop="20260612053000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Great Britain vs Argentina - 9th Playoffs, Bordeaux - Women</title>
+        <title>Great Britain vs Argentina - 9th Playoffs, Bordeaux - Women</title>
     </programme>
     <programme start="20260612053000 +0000" stop="20260612055500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Germany vs Argentina - 9th Playoffs, Bordeaux - Men</title>
+        <title>Germany vs Argentina - 9th Playoffs, Bordeaux - Men</title>
     </programme>
     <programme start="20260612055500 +0000" stop="20260612062000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Canada vs New Zealand - Cup SF 1, Bordeaux - Women</title>
+        <title>Canada vs New Zealand - Cup SF 1, Bordeaux - Women</title>
     </programme>
     <programme start="20260612062000 +0000" stop="20260612064500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: USA vs Australia - Cup SF 2, Bordeaux - Women</title>
+        <title>USA vs Australia - Cup SF 2, Bordeaux - Women</title>
     </programme>
     <programme start="20260612064500 +0000" stop="20260612071000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: France vs South Africa - Cup SF 1, Bordeaux - Men</title>
+        <title>France vs South Africa - Cup SF 1, Bordeaux - Men</title>
     </programme>
     <programme start="20260612071000 +0000" stop="20260612073500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Spain - Cup SF 2, Bordeaux - Men</title>
+        <title>New Zealand vs Spain - Cup SF 2, Bordeaux - Men</title>
     </programme>
     <programme start="20260612073500 +0000" stop="20260612080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Spain vs Japan - 7th Playoff, Bordeaux - Women</title>
+        <title>Spain vs Japan - 7th Playoff, Bordeaux - Women</title>
     </programme>
     <programme start="20260612080000 +0000" stop="20260612093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valencia P1 Day 5 QF Match 1 (Live)</title>
+        <title>Valencia P1 Day 5 QF Match 1</title>
     </programme>
     <programme start="20260612093000 +0000" stop="20260612110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valencia P1 Day 5 QF Match 2 (Live)</title>
+        <title>Valencia P1 Day 5 QF Match 2</title>
     </programme>
     <programme start="20260612110000 +0000" stop="20260612123000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valencia P1 Day 5 QF Match 3 (Live)</title>
+        <title>Valencia P1 Day 5 QF Match 3</title>
     </programme>
-    <programme start="20260612123000 +0000" stop="20260612140000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valencia P1 Day 5 QF Match 4 (Live)</title>
+    <programme start="20260612123000 +0000" stop="20260612130000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>France vs New Zealand - Cup Final, Bordeaux - Men</title>
     </programme>
-    <programme start="20260612140000 +0000" stop="20260612153000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valencia P1 Day 5 QF Match 5 (Live)</title>
+    <programme start="20260612130000 +0000" stop="20260612143000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Valencia P1 Day 5 QF Match 4</title>
     </programme>
-    <programme start="20260612153000 +0000" stop="20260612170000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valencia P1 Day 5 QF Match 6 (Live)</title>
+    <programme start="20260612143000 +0000" stop="20260612170000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Valencia P1 Day 5 QF Match 5</title>
     </programme>
     <programme start="20260611160000 +0000" stop="20260611170000 +0000" channel="TVB Xing He.starhub">
         <title>Country Spirit</title>
@@ -3043,10 +3046,10 @@
     <programme start="20260611233000 +0000" stop="20260612033000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M43: Rajasthan Royals vs Delhi Capitals</title>
     </programme>
-    <programme start="20260612033000 +0000" stop="20260612072900 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260612033000 +0000" stop="20260612073000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M66: Gujarat Titans vs Chennai Super Kings</title>
     </programme>
-    <programme start="20260612072900 +0000" stop="20260612113000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260612073000 +0000" stop="20260612113000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M67: Sunrisers Hyderabad vs Royal Challengers Bengaluru</title>
     </programme>
     <programme start="20260612113000 +0000" stop="20260612123000 +0000" channel="Hub Sports 4 HD.starhub">
@@ -3058,10 +3061,10 @@
     <programme start="20260612133000 +0000" stop="20260612143000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Women’s T20 World Cup - The Greatest Moments</title>
     </programme>
-    <programme start="20260612143000 +0000" stop="20260612145900 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260612143000 +0000" stop="20260612150000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>Crowned: The Story of the ICC Women’s T20 World Cup Final 2024</title>
     </programme>
-    <programme start="20260612145900 +0000" stop="20260612160000 +0000" channel="Hub Sports 4 HD.starhub">
+    <programme start="20260612150000 +0000" stop="20260612160000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>ICC Women’s T20 World Cup 2026 - The Experts’ View</title>
     </programme>
     <programme start="20260611160000 +0000" stop="20260611163000 +0000" channel="DW English HD.starhub">
@@ -3767,7 +3770,7 @@
         <title>Saturday Drama &quot;The Three Stars of Mushoran&quot; Ep. 3 (R)</title>
     </programme>
     <programme start="20260612015000 +0000" stop="20260612023500 +0000" channel="NHK World Premium HD.starhub">
-        <title>The 49th Creative TV Drama Award-winning Drama &quot;One Day, My Wife&#039;s Panties...&quot; (</title>
+        <title>The 49th Creative TV Drama Award-winning Drama &quot;One Day, My Wife&#039;s Panties&quot; (R)</title>
     </programme>
     <programme start="20260612023500 +0000" stop="20260612024500 +0000" channel="NHK World Premium HD.starhub">
         <title>Natural Grandeur of the East Mini</title>
@@ -3851,7 +3854,7 @@
         <title>Kid&#039;s Discovery</title>
     </programme>
     <programme start="20260612092500 +0000" stop="20260612095500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Whiz-Kids TV grow</title>
+        <title>The Great Nature &quot;Himalayas&quot;</title>
     </programme>
     <programme start="20260612095500 +0000" stop="20260612100000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3860,7 +3863,7 @@
         <title>NHK News 7 (B)</title>
     </programme>
     <programme start="20260612103000 +0000" stop="20260612114300 +0000" channel="NHK World Premium HD.starhub">
-        <title>The 110th National Track &amp; Fields Championships: First Day</title>
+        <title>(End time subject to change.)</title>
     </programme>
     <programme start="20260612114300 +0000" stop="20260612114500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -6580,10 +6583,10 @@
     <programme start="20260612060000 +0000" stop="20260612100000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>SATHIO GROUP Australian Open (S500) QF Session 2</title>
     </programme>
-    <programme start="20260612100000 +0000" stop="20260612103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>H/Ls Show</title>
+    <programme start="20260612100000 +0000" stop="20260612140000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>HSBC C&#039;ships (500) R16</title>
     </programme>
-    <programme start="20260612103000 +0000" stop="20260612163000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260612140000 +0000" stop="20260612200000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>HSBC C&#039;ships (500) QF 1 &amp; 2 &amp; 3</title>
     </programme>
     <programme start="20260611144600 +0000" stop="20260611170000 +0000" channel="SONY MAX.starhub">

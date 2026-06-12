@@ -2697,12 +2697,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: US Women&#039;s Open 2026, Highlights 4. Tag</title>
 </programme>
 <programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (6)</title>
-</programme>
-<programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (5)</title>
 </programme>
-<programme start="20260611223000 +0000" stop="20260611233000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260612214500 +0000" stop="20260612220000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tee Time Stories (6)</title>
+</programme>
+<programme start="20260611223500 +0000" stop="20260611233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition</title>
 </programme>
 <programme start="20260611233000 +0000" stop="20260611234500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3590,10 +3590,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260611233500 +0000" stop="20260612001500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe - Grenzfälle des FBI</title>
 </programme>
-<programme start="20260612001500 +0000" stop="20260612010000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260612001500 +0000" stop="20260612005500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe - Grenzfälle des FBI</title>
 </programme>
-<programme start="20260612010000 +0000" stop="20260612014000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260612005500 +0000" stop="20260612014000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
 <programme start="20260612014000 +0000" stop="20260612022000 +0000" channel="Warner TV Serie HD.skyde">

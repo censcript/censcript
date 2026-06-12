@@ -10,11 +10,11 @@
     <programme start="20260611190000 +0000" stop="20260611210000 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026 - Group Stage: Mexico v South Africa</title>
     </programme>
-    <programme start="20260611210000 +0000" stop="20260611213000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260611210000 +0000" stop="20260611214400 +0000" channel="Channel 5.mewatch">
         <title>Nico Reynolds: All Fired Up - Series 2 - EP 5</title>
     </programme>
-    <programme start="20260611213000 +0000" stop="20260611220000 +0000" channel="Channel 5.mewatch">
-        <title>The Contenders 26 - EP 13</title>
+    <programme start="20260611214400 +0000" stop="20260611220000 +0000" channel="Channel 5.mewatch">
+        <title>Just For Laughs S25 - EP 9</title>
     </programme>
     <programme start="20260611220000 +0000" stop="20260611223000 +0000" channel="Channel 5.mewatch">
         <title>Yu-Gi-Oh! Duel Monsters - EP 69</title>
