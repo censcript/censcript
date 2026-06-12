@@ -5894,7 +5894,7 @@
         <title>2000 Evening News</title>
     </programme>
     <programme start="20260613130000 +0000" stop="20260613140000 +0000" channel="TVBS-NEWS.starhub">
-        <title>2100 Hot Topics</title>
+        <title>The Truth Behind Taiwan&#039;s Labor Crisis</title>
     </programme>
     <programme start="20260613140000 +0000" stop="20260613150000 +0000" channel="TVBS-NEWS.starhub">
         <title>News Night</title>
@@ -8165,7 +8165,7 @@
         <title>Vedi Sirippu</title>
     </programme>
     <programme start="20260612160000 +0000" stop="20260612170000 +0000" channel="Hub E City HD.starhub">
-        <title>James’ Going Places</title>
+        <title>James&#039; Going Places</title>
     </programme>
     <programme start="20260612170000 +0000" stop="20260612190000 +0000" channel="Hub E City HD.starhub">
         <title>Mr Player</title>
@@ -8177,7 +8177,7 @@
         <title>Infinity and Beyond 3</title>
     </programme>
     <programme start="20260612220000 +0000" stop="20260612230000 +0000" channel="Hub E City HD.starhub">
-        <title>James’ Going Places</title>
+        <title>James&#039; Going Places</title>
     </programme>
     <programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="Hub E City HD.starhub">
         <title>Perfect Match</title>
@@ -8596,8 +8596,14 @@
     <programme start="20260613133000 +0000" stop="20260613141000 +0000" channel="TVB Jade HD.starhub">
         <title>J Music 2026</title>
     </programme>
-    <programme start="20260613141000 +0000" stop="20260613163000 +0000" channel="TVB Jade HD.starhub">
+    <programme start="20260613141000 +0000" stop="20260613151500 +0000" channel="TVB Jade HD.starhub">
         <title>You Are Not Alone Again &amp; You Are Not Alone in A.I.</title>
+    </programme>
+    <programme start="20260613151500 +0000" stop="20260613153000 +0000" channel="TVB Jade HD.starhub">
+        <title>News Roundup</title>
+    </programme>
+    <programme start="20260613153000 +0000" stop="20260613160000 +0000" channel="TVB Jade HD.starhub">
+        <title>ChatSAT</title>
     </programme>
     <programme start="20260612155500 +0000" stop="20260612161500 +0000" channel="Nick Jr.starhub">
         <title>Barbabright Has a Secret / Super Duper Cool</title>
@@ -8948,7 +8954,7 @@
         <title>Twelve Hours Of Terror</title>
     </programme>
     <programme start="20260612160000 +0000" stop="20260612170000 +0000" channel="Hub E City HD.starhub">
-        <title>James’ Going Places</title>
+        <title>James&#039; Going Places</title>
     </programme>
     <programme start="20260612170000 +0000" stop="20260612190000 +0000" channel="Hub E City HD.starhub">
         <title>Mr Player</title>
@@ -8960,7 +8966,7 @@
         <title>Infinity and Beyond 3</title>
     </programme>
     <programme start="20260612220000 +0000" stop="20260612230000 +0000" channel="Hub E City HD.starhub">
-        <title>James’ Going Places</title>
+        <title>James&#039; Going Places</title>
     </programme>
     <programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="Hub E City HD.starhub">
         <title>Perfect Match</title>
@@ -8993,7 +8999,7 @@
         <title>My Sweet Mobster</title>
     </programme>
     <programme start="20260612160000 +0000" stop="20260612170000 +0000" channel="TestChannel1.starhub">
-        <title>James’ Going Places</title>
+        <title>James&#039; Going Places</title>
     </programme>
     <programme start="20260612170000 +0000" stop="20260612190000 +0000" channel="TestChannel1.starhub">
         <title>Mr Player</title>
@@ -9005,7 +9011,7 @@
         <title>Infinity and Beyond 3</title>
     </programme>
     <programme start="20260612220000 +0000" stop="20260612230000 +0000" channel="TestChannel1.starhub">
-        <title>James’ Going Places</title>
+        <title>James&#039; Going Places</title>
     </programme>
     <programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="TestChannel1.starhub">
         <title>Perfect Match</title>

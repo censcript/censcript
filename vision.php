@@ -664,12 +664,6 @@
 <programme start="20260612090000 +0000" stop="20260612113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260612150000 +0000" stop="20260612170000 +0000" channel="ANTV.vision">
-<title>Panggonan Wingit 2</title>
-</programme>
-<programme start="20260612170000 +0000" stop="20260612183000 +0000" channel="ANTV.vision">
-<title>Black Cat</title>
-</programme>
 <programme start="20260612183000 +0000" stop="20260612193000 +0000" channel="ANTV.vision">
 <title>Haunted School</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260613100000 +0000" stop="20260613104500 +0000" channel="BTV.vision">
 <title>Dunia Binatang</title>
+</programme>
+<programme start="20260613104500 +0000" stop="20260613113000 +0000" channel="BTV.vision">
+<title>Dunia Alam</title>
+</programme>
+<programme start="20260613113000 +0000" stop="20260613120000 +0000" channel="BTV.vision">
+<title>Persona</title>
 </programme>

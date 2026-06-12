@@ -2048,7 +2048,7 @@
     <title lang="id">Fidlivareška (5)</title>
   </programme>
   <programme start="20260613213000 +0000" stop="20260613222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (3)</title>
   </programme>
   <programme start="20260613222000 +0000" stop="20260613224500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Kung Fu Panda I (24)</title>
@@ -2135,7 +2135,7 @@
     <title lang="id">Tomáš a Priatelia I (4)</title>
   </programme>
   <programme start="20260614045000 +0000" stop="20260614054000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (64)</title>
   </programme>
   <programme start="20260614054000 +0000" stop="20260614055000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun II (5)</title>
@@ -2144,7 +2144,7 @@
     <title lang="id">Tučniaky z madagaskaru I (44)</title>
   </programme>
   <programme start="20260614060500 +0000" stop="20260614062000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (193)</title>
   </programme>
   <programme start="20260614062000 +0000" stop="20260614062500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Všetko najlepšie s Flopym</title>
@@ -2156,7 +2156,7 @@
     <title lang="id">Smejko a Tanculienka: Cesta do fantázie</title>
   </programme>
   <programme start="20260614075000 +0000" stop="20260614080000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Teletubbies I (5b)</title>
+    <title lang="id">Teletubbies I (10)</title>
   </programme>
   <programme start="20260614080000 +0000" stop="20260614082500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Príbehy z nočnej záhrady III (1)</title>
@@ -2165,7 +2165,7 @@
     <title lang="id">Ovečka Shaun II (6)</title>
   </programme>
   <programme start="20260614083500 +0000" stop="20260614085000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (211)</title>
   </programme>
   <programme start="20260614085000 +0000" stop="20260614090000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď II (48)</title>
@@ -2192,7 +2192,7 @@
     <title lang="id">Hot Wheels autíčka I (2)</title>
   </programme>
   <programme start="20260614103000 +0000" stop="20260614104500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (178)</title>
   </programme>
   <programme start="20260614104500 +0000" stop="20260614105500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun II (7)</title>
@@ -2234,7 +2234,7 @@
     <title lang="id">Požiarnik Sam VII (1)</title>
   </programme>
   <programme start="20260614135000 +0000" stop="20260614142000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (194)</title>
   </programme>
   <programme start="20260614142000 +0000" stop="20260614154000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Žabiak Ribbit</title>
@@ -2252,7 +2252,7 @@
     <title lang="id">Prasiatko Peppa II (42)</title>
   </programme>
   <programme start="20260614162500 +0000" stop="20260614171000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (54)</title>
   </programme>
   <programme start="20260614171000 +0000" stop="20260614172000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď II (50)</title>
@@ -2273,7 +2273,7 @@
     <title lang="id">Barbie: Treba na to dve I (6)</title>
   </programme>
   <programme start="20260614185500 +0000" stop="20260614194500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (41)</title>
   </programme>
   <programme start="20260614194500 +0000" stop="20260614195500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Požiarnik Sam VII (2)</title>
@@ -2300,7 +2300,7 @@
     <title lang="id">Tomáš a Priatelia I (7)</title>
   </programme>
   <programme start="20260614213000 +0000" stop="20260614222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (4)</title>
   </programme>
   <programme start="20260613220000 +0000" stop="20260614030000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
@@ -16186,13 +16186,13 @@
   <programme start="20260613220300 +0000" stop="20260613224700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Co ludzie powiedza? (39)</title>
   </programme>
-  <programme start="20260613224700 +0000" stop="20260613225700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260613224700 +0000" stop="20260613225800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260613225700 +0000" stop="20260613232500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260613225800 +0000" stop="20260613232600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260613232500 +0000" stop="20260613234800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260613232600 +0000" stop="20260613234800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (713)</title>
   </programme>
   <programme start="20260613234800 +0000" stop="20260613235500 +0000" channel="TVP Info.webtv.sk">
@@ -16264,16 +16264,16 @@
   <programme start="20260614051700 +0000" stop="20260614053000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polska o Poranku</title>
   </programme>
-  <programme start="20260614053000 +0000" stop="20260614053600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260614053000 +0000" stop="20260614053500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260614053600 +0000" stop="20260614054500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260614053500 +0000" stop="20260614054400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polska o Poranku</title>
   </programme>
-  <programme start="20260614054500 +0000" stop="20260614054700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260614054400 +0000" stop="20260614054600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260614054700 +0000" stop="20260614060000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260614054600 +0000" stop="20260614060000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polska o Poranku</title>
   </programme>
   <programme start="20260614060000 +0000" stop="20260614060500 +0000" channel="TVP Info.webtv.sk">
@@ -16712,28 +16712,28 @@
     <title lang="id">Східний щит</title>
   </programme>
   <programme start="20260613220000 +0000" stop="20260613223000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящее Время. Интервью</title>
+    <title lang="id">Интервью: Алексей Pезников</title>
   </programme>
   <programme start="20260613223000 +0000" stop="20260613230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Добровольцы: Коса</title>
   </programme>
   <programme start="20260613230000 +0000" stop="20260614000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">VOTVOT</title>
+    <title lang="id">Как у них получилось: Япония</title>
   </programme>
   <programme start="20260614000000 +0000" stop="20260614020000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260614020000 +0000" stop="20260614023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтийский путь</title>
+    <title lang="id">Балтийский путь: Pоссия под запретом</title>
   </programme>
   <programme start="20260614023000 +0000" stop="20260614030000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Pепортер</title>
   </programme>
   <programme start="20260614030000 +0000" stop="20260614033000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Америка. Большое путешествие</title>
+    <title lang="id">Америка. Большое путешествие: Вермонт</title>
   </programme>
   <programme start="20260614033000 +0000" stop="20260614040000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Смотри в оба</title>
+    <title lang="id">Интервью: Дмитрий Быков</title>
   </programme>
   <programme start="20260614040000 +0000" stop="20260614050000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
@@ -16742,7 +16742,7 @@
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260614070000 +0000" stop="20260614073000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Система</title>
+    <title lang="id">СИСТЕМА: Миллиарды за безумные посты</title>
   </programme>
   <programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Европа в фокусе</title>
@@ -16760,7 +16760,7 @@
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260614120000 +0000" stop="20260614123000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Открой Молдову</title>
+    <title lang="id">Открой Молдову: На службе людям</title>
   </programme>
   <programme start="20260614123000 +0000" stop="20260614130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW.Интервью</title>
@@ -16787,7 +16787,7 @@
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260614190000 +0000" stop="20260614193000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Открой Молдову</title>
+    <title lang="id">Открой Молдову: На службе людям</title>
   </programme>
   <programme start="20260614193000 +0000" stop="20260614200000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW.Интервью</title>
