@@ -401,7 +401,7 @@
     <title>Grizzy and the Lemmings - Interplanetary Cabin</title>
 </programme>
 <programme start="20260613112000 +0000" stop="20260613122500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Day 1</title>
+    <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Semi-Final</title>
 </programme>
 <programme start="20260613122500 +0000" stop="20260613132500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Homes Under the Hammer</title>

@@ -1246,40 +1246,46 @@
   <programme start="20260615215500 +0000" stop="20260616005000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260615002500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260614220000 +0000" stop="20260614220500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
+  </programme>
+  <programme start="20260614220500 +0000" stop="20260615002500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
   <programme start="20260615002500 +0000" stop="20260615024500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260615024500 +0000" stop="20260615050000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615024500 +0000" stop="20260615050500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260615050000 +0000" stop="20260615080000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615050500 +0000" stop="20260615081000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Squash - PSA World Tour</title>
   </programme>
-  <programme start="20260615080000 +0000" stop="20260615101000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615081000 +0000" stop="20260615102000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260615101000 +0000" stop="20260615120000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615102000 +0000" stop="20260615114500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20260615120000 +0000" stop="20260615141000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615114500 +0000" stop="20260615121500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Sumár dňa MS 2026 vo futbale</title>
+  </programme>
+  <programme start="20260615121500 +0000" stop="20260615142500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260615141000 +0000" stop="20260615153500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615142500 +0000" stop="20260615155500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20260615153500 +0000" stop="20260615175000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615155500 +0000" stop="20260615181000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260615175000 +0000" stop="20260615193500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615181000 +0000" stop="20260615193500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20260615193500 +0000" stop="20260615214000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615193500 +0000" stop="20260615214500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Európska liga muži</title>
   </programme>
-  <programme start="20260615214000 +0000" stop="20260615234500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260615214500 +0000" stop="20260615235000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260614215000 +0000" stop="20260614225500 +0000" channel="WAU.webtv.sk">
