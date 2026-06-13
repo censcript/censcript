@@ -2477,11 +2477,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260613193000 +0000" stop="20260613220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Paris Saint-Germain - FC Arsenal, Finale in Budapest (Ungarn)</title>
 </programme>
-<programme start="20260613090000 +0000" stop="20260613103000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live WTA 250: HF1, Libema Open in s&#039;Hertogenbosch (NED), Halbfinale 1</title>
+<programme start="20260613085500 +0000" stop="20260613090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>WTATour: Es folgt</title>
 </programme>
-<programme start="20260613103000 +0000" stop="20260613130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live WTA 250: Libema Open in s&#039;Hertogenbosch (NED), Halbfinale 2</title>
+<programme start="20260613090000 +0000" stop="20260613113000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live WTA 250: B. Krejcíkova (CZE) - M. Linette (POL), Libema Open in s&#039;Hertogenbosch (NED), Halbfinale 1</title>
+</programme>
+<programme start="20260613113000 +0000" stop="20260613200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live WTA 250: A. Tomljanovic (AUS) - R. Montgomery (USA) , Libema Open in s&#039;Hertogenbosch (NED), Halbfinale 2</title>
 </programme>
 <programme start="20260612230000 +0000" stop="20260612233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Kevin Kampl - Das große Abschiedsinterview</title>
@@ -2687,10 +2690,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260613203000 +0000" stop="20260613220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Barcelona</title>
 </programme>
-<programme start="20260612220000 +0000" stop="20260613010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260612220000 +0000" stop="20260613011000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Curtis Cup, 1. Tag (Late Session) in Los Angeles (USA)</title>
 </programme>
-<programme start="20260613010000 +0000" stop="20260613040000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260613011000 +0000" stop="20260613040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: International Series Marokko, 2. Tag in Rabat (Marokko)</title>
 </programme>
 <programme start="20260613040000 +0000" stop="20260613070000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2739,7 +2742,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>DFB-Pokal Junioren: VfL Wolfsburg U19 - VfB Stuttgart U19, Finale 2026 in Potsdam</title>
 </programme>
 <programme start="20260613084500 +0000" stop="20260613093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>World Surf League: Highlights 2026 Bonsoy Gold Coast Pro</title>
+    <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
 </programme>
 <programme start="20260613093000 +0000" stop="20260613113000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: San Antonio Spurs @ New York Knicks, Finals, Spiel 4</title>
@@ -2919,7 +2922,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20260613013000 +0000" stop="20260613033000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: J. Lehecka (CZE) - F. Tiafoe (USA), Boss Open in Stuttgart, 5. Tag</title>
+    <title>ATP 250: M. Belluci (ITA) - T. Fritz (USA), Boss Open in Stuttgart, 5. Tag</title>
 </programme>
 <programme start="20260613033000 +0000" stop="20260613053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
@@ -2931,24 +2934,24 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260613080000 +0000" stop="20260613100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: J. Lehecka (CZE) - F. Tiafoe (USA), Boss Open in Stuttgart, 5. Tag</title>
+    <title>ATP 250: M. Belluci (ITA) - T. Fritz (USA), Boss Open in Stuttgart, 5. Tag</title>
 </programme>
 <programme start="20260613100000 +0000" stop="20260613170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Stuttgart &amp; s&#039;Hertogenbosch &amp; WTA London</title>
 </programme>
 <programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: HF1, Boss Open in Stuttgart, Halbfinale 1</title>
+    <title>ATP 250: J. Lehecka (CZE) - tba, Boss Open in Stuttgart, Halbfinale 1</title>
 </programme>
 <programme start="20260613190000 +0000" stop="20260613210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, HSBC Championships in London (GBR), Halbfinale 1</title>
+    <title>WTA 500: I. Jovic (USA) - tba, HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
 <programme start="20260613210000 +0000" stop="20260613230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, HSBC Championships in London (GBR), Halbfinale 2</title>
+    <title>WTA 500: K. Boulter (GBR) - D. Vekic (CRO), HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
-<programme start="20260612220000 +0000" stop="20260613010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260612220000 +0000" stop="20260613011000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Curtis Cup, 1. Tag (Late Session) in Los Angeles (USA)</title>
 </programme>
-<programme start="20260613010000 +0000" stop="20260613023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260613011000 +0000" stop="20260613023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: 1. Freies Training - GP Barcelona</title>
 </programme>
 <programme start="20260613023000 +0000" stop="20260613040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2958,7 +2961,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 500: T. Maria (GER) - E. Rybakina (KAZ), HSBC Championships in London (GBR), 5. Tag</title>
 </programme>
 <programme start="20260613060000 +0000" stop="20260613075500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: J. Lehecka (CZE) - F. Tiafoe (USA), Boss Open in Stuttgart, 5. Tag</title>
+    <title>ATP 250: M. Belluci (ITA) - T. Fritz (USA), Boss Open in Stuttgart, 5. Tag</title>
 </programme>
 <programme start="20260613075500 +0000" stop="20260613090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F3: 1. Rennen - GP Barcelona</title>
@@ -3120,10 +3123,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: Live ATP Tour</title>
 </programme>
 <programme start="20260613130000 +0000" stop="20260613150000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: HF1, Libema Open in s&#039;Hertogenbosch (NED), Halbfinale 1</title>
+    <title>Live ATP 250: A. Mannarino (FRA) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Halbfinale 1</title>
 </programme>
-<programme start="20260613150000 +0000" stop="20260613170000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: HF2, Libema Open in s&#039;Hertogenbosch (NED), Halbfinale 2</title>
+<programme start="20260613150000 +0000" stop="20260613200000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 250: tba - K. Majchrzak (POL), Libema Open in s&#039;Hertogenbosch (NED), Halbfinale 2</title>
 </programme>
 <programme start="20260612221500 +0000" stop="20260612230000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

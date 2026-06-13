@@ -478,10 +478,10 @@
   <programme start="20260614203000 +0000" stop="20260614224000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Vyšehrad: Fylm</title>
   </programme>
-  <programme start="20260614224000 +0000" stop="20260615002500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260614224000 +0000" stop="20260615002000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">57 sekúnd</title>
   </programme>
-  <programme start="20260615002500 +0000" stop="20260615020500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260615002000 +0000" stop="20260615020500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Vyšehrad: Fylm</title>
   </programme>
   <programme start="20260615020500 +0000" stop="20260615030000 +0000" channel="Markíza.webtv.sk">
@@ -550,7 +550,7 @@
   <programme start="20260615204500 +0000" stop="20260615215000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Špecialisti IX (13)</title>
   </programme>
-  <programme start="20260615215000 +0000" stop="20260615224000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260615215000 +0000" stop="20260615224500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista V (1)</title>
   </programme>
   <programme start="20260614210000 +0000" stop="20260614225500 +0000" channel="JOJ.webtv.sk">
@@ -1781,13 +1781,13 @@
     <title lang="id">Cesty teroru (1)</title>
   </programme>
   <programme start="20260615042000 +0000" stop="20260615050000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Doslova</title>
+    <title lang="id">Doslova - Pavol Latta</title>
   </programme>
   <programme start="20260615050000 +0000" stop="20260615053500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Bielik Online</title>
+    <title lang="id">Bielik Online - Dušan Rozbora a Ján Gábor</title>
   </programme>
   <programme start="20260615053500 +0000" stop="20260615061500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Richard Raši</title>
   </programme>
   <programme start="20260615061500 +0000" stop="20260615070500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Poklady z povaly (8)</title>
@@ -1814,10 +1814,10 @@
     <title lang="id">Mandelova tajná armáda</title>
   </programme>
   <programme start="20260615130000 +0000" stop="20260615134000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Richard Takáč a Marián Čaučík</title>
   </programme>
   <programme start="20260615134000 +0000" stop="20260615142500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Len peniaze nestačia</title>
+    <title lang="id">Len peniaze nestačia - Tomáš Výboch</title>
   </programme>
   <programme start="20260615142500 +0000" stop="20260615145500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Cestujeme bez batožiny - Mexiko, Chamula (56)</title>

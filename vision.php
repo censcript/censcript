@@ -511,9 +511,6 @@
 <programme start="20260613090000 +0000" stop="20260613100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20260613110000 +0000" stop="20260613113000 +0000" channel="Trans 7.vision">
-<title>Legenda Bertuah</title>
-</programme>
 <programme start="20260613113000 +0000" stop="20260613121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
@@ -615,9 +612,6 @@
 </programme>
 <programme start="20260613090000 +0000" stop="20260613113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260613113000 +0000" stop="20260613133000 +0000" channel="ANTV.vision">
-<title>Jampang 2</title>
 </programme>
 <programme start="20260613133000 +0000" stop="20260613150000 +0000" channel="ANTV.vision">
 <title>Perkawinan Nyi Blorong</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260613220000 +0000" stop="20260614000000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
+</programme>
+<programme start="20260614000000 +0000" stop="20260614010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260614010000 +0000" stop="20260614030000 +0000" channel="TVRI.vision">
 <title>Piala Dunia 2026</title>
 </programme>
