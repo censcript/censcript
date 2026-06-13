@@ -1217,129 +1217,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260613180000 +0000" stop="20260613220000 +0000" channel="Jukebox.skyde">
     <title>PARTY BOX</title>
 </programme>
-<programme start="20260612222000 +0000" stop="20260612224000 +0000" channel="Motorvision+.skyde">
-    <title>US Pro Pulling 2023</title>
-</programme>
-<programme start="20260612224000 +0000" stop="20260612232500 +0000" channel="Motorvision+.skyde">
-    <title>Isle of Man Tourist Trophy 2026</title>
-</programme>
-<programme start="20260612232500 +0000" stop="20260613001500 +0000" channel="Motorvision+.skyde">
-    <title>Isle of Man Tourist Trophy 2026</title>
-</programme>
-<programme start="20260613001500 +0000" stop="20260613004000 +0000" channel="Motorvision+.skyde">
-    <title>Nordschleife</title>
-</programme>
-<programme start="20260613004000 +0000" stop="20260613010000 +0000" channel="Motorvision+.skyde">
-    <title>On Tour</title>
-</programme>
-<programme start="20260613010000 +0000" stop="20260613012500 +0000" channel="Motorvision+.skyde">
-    <title>Perfect Ride</title>
-</programme>
-<programme start="20260613012500 +0000" stop="20260613024500 +0000" channel="Motorvision+.skyde">
-    <title>NTT Indycar Series 2026 Qualifying</title>
-</programme>
-<programme start="20260613024500 +0000" stop="20260613031000 +0000" channel="Motorvision+.skyde">
-    <title>Rückspiegel</title>
-</programme>
-<programme start="20260613031000 +0000" stop="20260613033000 +0000" channel="Motorvision+.skyde">
-    <title>Tuning - Tiefer geht`s nicht!</title>
-</programme>
-<programme start="20260613033000 +0000" stop="20260613040000 +0000" channel="Motorvision+.skyde">
-    <title>Stunt Heroes</title>
-</programme>
-<programme start="20260613040000 +0000" stop="20260613042500 +0000" channel="Motorvision+.skyde">
-    <title>Going Pro 2026</title>
-</programme>
-<programme start="20260613042500 +0000" stop="20260613044500 +0000" channel="Motorvision+.skyde">
-    <title>US Pro Pulling 2023</title>
-</programme>
-<programme start="20260613044500 +0000" stop="20260613051000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2026</title>
-</programme>
-<programme start="20260613051000 +0000" stop="20260613053500 +0000" channel="Motorvision+.skyde">
-    <title>Biker Lifestyle</title>
-</programme>
-<programme start="20260613053500 +0000" stop="20260613060000 +0000" channel="Motorvision+.skyde">
-    <title>Biker Lifestyle</title>
-</programme>
-<programme start="20260613060000 +0000" stop="20260613064500 +0000" channel="Motorvision+.skyde">
-    <title>Isle of Man Tourist Trophy 2026</title>
-</programme>
-<programme start="20260613064500 +0000" stop="20260613073500 +0000" channel="Motorvision+.skyde">
-    <title>Isle of Man Tourist Trophy 2026</title>
-</programme>
-<programme start="20260613073500 +0000" stop="20260613080500 +0000" channel="Motorvision+.skyde">
-    <title>4x4 - Das Allrad Magazin</title>
-</programme>
-<programme start="20260613080500 +0000" stop="20260613090000 +0000" channel="Motorvision+.skyde">
-    <title>NZ Jetsprint Championship 2025</title>
-</programme>
-<programme start="20260613090000 +0000" stop="20260613094500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Boat Racing 2026</title>
-</programme>
-<programme start="20260613094500 +0000" stop="20260613112500 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2026</title>
-</programme>
-<programme start="20260613112500 +0000" stop="20260613121500 +0000" channel="Motorvision+.skyde">
-    <title>FIM Sidecarcross World Championship 2026</title>
-</programme>
-<programme start="20260613121500 +0000" stop="20260613124500 +0000" channel="Motorvision+.skyde">
-    <title>FIM Supermoto World and European Championship 2026</title>
-</programme>
-<programme start="20260613124500 +0000" stop="20260613131500 +0000" channel="Motorvision+.skyde">
-    <title>FIM Enduro World Championship 2026</title>
-</programme>
-<programme start="20260613131500 +0000" stop="20260613140000 +0000" channel="Motorvision+.skyde">
-    <title>King of the Roads 2024</title>
-</programme>
-<programme start="20260613140000 +0000" stop="20260613141000 +0000" channel="Motorvision+.skyde">
-    <title>NASCAR University</title>
-</programme>
-<programme start="20260613141000 +0000" stop="20260613144000 +0000" channel="Motorvision+.skyde">
-    <title>Icelandic Formula Offroad 2025</title>
-</programme>
-<programme start="20260613144000 +0000" stop="20260613150500 +0000" channel="Motorvision+.skyde">
-    <title>Monster Jam Championship 2025</title>
-</programme>
-<programme start="20260613150500 +0000" stop="20260613153500 +0000" channel="Motorvision+.skyde">
-    <title>FIM Quadcross World Championship 2026</title>
-</programme>
-<programme start="20260613153500 +0000" stop="20260613162500 +0000" channel="Motorvision+.skyde">
-    <title>UK National Legends Cars Championship 2024</title>
-</programme>
-<programme start="20260613162500 +0000" stop="20260613165000 +0000" channel="Motorvision+.skyde">
-    <title>Africa Eco Race 2025</title>
-</programme>
-<programme start="20260613165000 +0000" stop="20260613172000 +0000" channel="Motorvision+.skyde">
-    <title>Africa Eco Race 2025</title>
-</programme>
-<programme start="20260613172000 +0000" stop="20260613174500 +0000" channel="Motorvision+.skyde">
-    <title>EMX Quad European Championship 2025</title>
-</programme>
-<programme start="20260613174500 +0000" stop="20260613180000 +0000" channel="Motorvision+.skyde">
-    <title>NASCAR University</title>
-</programme>
-<programme start="20260613180000 +0000" stop="20260613185000 +0000" channel="Motorvision+.skyde">
-    <title>Isle of Man Tourist Trophy 2026</title>
-</programme>
-<programme start="20260613185000 +0000" stop="20260613191500 +0000" channel="Motorvision+.skyde">
-    <title>Belgian Rally Championship 2026</title>
-</programme>
-<programme start="20260613191500 +0000" stop="20260613194500 +0000" channel="Motorvision+.skyde">
-    <title>Tour European Rally 2026</title>
-</programme>
-<programme start="20260613194500 +0000" stop="20260613201000 +0000" channel="Motorvision+.skyde">
-    <title>Scottish Rally Championship 2026</title>
-</programme>
-<programme start="20260613201000 +0000" stop="20260613205500 +0000" channel="Motorvision+.skyde">
-    <title>British Rally Championship 2025</title>
-</programme>
-<programme start="20260613205500 +0000" stop="20260613214500 +0000" channel="Motorvision+.skyde">
-    <title>NZ Rally Championship 2025</title>
-</programme>
-<programme start="20260613214500 +0000" stop="20260613224000 +0000" channel="Motorvision+.skyde">
-    <title>World Rally Raid Championship 2025</title>
-</programme>
 <programme start="20260612222000 +0000" stop="20260612224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
@@ -2795,7 +2672,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260612233000 +0000" stop="20260613040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260613040000 +0000" stop="20260613063000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260613040000 +0000" stop="20260613053000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
 <programme start="20260613053000 +0000" stop="20260613063000 +0000" channel="Sky Sport News HD.skyde">
@@ -2822,12 +2699,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260613120000 +0000" stop="20260613123000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Dein WM Update</title>
 </programme>
-<programme start="20260613123000 +0000" stop="20260613133000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Matchday FIFA WM 2026</title>
-</programme>
-<programme start="20260613133000 +0000" stop="20260613153000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live F1: Qualifying - GP Barcelona</title>
-</programme>
 <programme start="20260613153000 +0000" stop="20260613160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Road to New York</title>
 </programme>
@@ -2838,7 +2709,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Qualifying Kompakt - GP Barcelona</title>
 </programme>
 <programme start="20260613164500 +0000" stop="20260613170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
+    <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
 <programme start="20260613170000 +0000" stop="20260613180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
@@ -2847,7 +2718,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Qualifying Kompakt - GP Barcelona</title>
 </programme>
 <programme start="20260613181500 +0000" stop="20260613183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
+    <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
 <programme start="20260613183000 +0000" stop="20260613200000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
@@ -2858,7 +2729,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260613203000 +0000" stop="20260613210000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
-<programme start="20260613210000 +0000" stop="20260613220000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260613210000 +0000" stop="20260613230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20260612223000 +0000" stop="20260612233000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -2928,7 +2799,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: I. Buse (PER) - T. Paul (USA), Bitpanda Hamburg Open in Hamburg, Finale</title>
 </programme>
 <programme start="20260613013000 +0000" stop="20260613033000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: J. Lehecka (CZE) - F. Tiafoe (USA), Boss Open in Stuttgart, 5. Tag</title>
+    <title>ATP 250: M. Belluci (ITA) - T. Fritz (USA), Boss Open in Stuttgart, 5. Tag</title>
 </programme>
 <programme start="20260613033000 +0000" stop="20260613053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Anisimova (USA), HSBC Championships in London (GBR), Finale</title>
@@ -2940,7 +2811,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260613080000 +0000" stop="20260613100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: J. Lehecka (CZE) - F. Tiafoe (USA), Boss Open in Stuttgart, 5. Tag</title>
+    <title>ATP 250: M. Belluci (ITA) - T. Fritz (USA), Boss Open in Stuttgart, 5. Tag</title>
 </programme>
 <programme start="20260613100000 +0000" stop="20260613170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP Stuttgart &amp; s&#039;Hertogenbosch &amp; WTA London</title>

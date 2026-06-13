@@ -400,14 +400,14 @@
 <programme start="20260613055500 +0000" stop="20260613060000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Grizzy and the Lemmings - Interplanetary Cabin</title>
 </programme>
-<programme start="20260613105000 +0000" stop="20260613121500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>The Importance of Being Earnest</title>
+<programme start="20260613112000 +0000" stop="20260613122500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Day 1</title>
 </programme>
-<programme start="20260613121500 +0000" stop="20260613131500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260613122500 +0000" stop="20260613132500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Homes Under the Hammer</title>
 </programme>
-<programme start="20260613131500 +0000" stop="20260613141500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Bargain Hunt - Builth Wells 1 and 2</title>
+<programme start="20260613132500 +0000" stop="20260613141500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Bargain Hunt - 55-Minute Versions: Sawbridgeworth 9 and 10</title>
 </programme>
 <programme start="20260613141500 +0000" stop="20260613162000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Magnificent Seven</title>
@@ -4108,17 +4108,11 @@
 <programme start="20260613050000 +0000" stop="20260613070000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights</title>
 </programme>
-<programme start="20260613090000 +0000" stop="20260613140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260613090000 +0000" stop="20260613160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis - Semi-Finals</title>
 </programme>
-<programme start="20260613140000 +0000" stop="20260613170000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260613160000 +0000" stop="20260613190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA Libema Open 2026 - ATP Semi-Finals</title>
-</programme>
-<programme start="20260613170000 +0000" stop="20260613173000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>WTA All Access</title>
-</programme>
-<programme start="20260613173000 +0000" stop="20260613183000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP Geneva Open 2026 - Final</title>
 </programme>
 <programme start="20260612200000 +0000" stop="20260613003000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Stateside</title>
@@ -4855,17 +4849,11 @@
 <programme start="20260613050000 +0000" stop="20260613070000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights</title>
 </programme>
-<programme start="20260613090000 +0000" stop="20260613140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260613090000 +0000" stop="20260613160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis - Semi-Finals</title>
 </programme>
-<programme start="20260613140000 +0000" stop="20260613170000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260613160000 +0000" stop="20260613190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA Libema Open 2026 - ATP Semi-Finals</title>
-</programme>
-<programme start="20260613170000 +0000" stop="20260613173000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>WTA All Access</title>
-</programme>
-<programme start="20260613173000 +0000" stop="20260613183000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP Geneva Open 2026 - Final</title>
 </programme>
 <programme start="20260613000000 +0000" stop="20260613010000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>F1 Explained</title>

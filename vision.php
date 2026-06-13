@@ -511,24 +511,6 @@
 <programme start="20260613013000 +0000" stop="20260613021500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
-<programme start="20260613031500 +0000" stop="20260613041500 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20260613041500 +0000" stop="20260613050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20260613050000 +0000" stop="20260613054500 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang</title>
-</programme>
-<programme start="20260613054500 +0000" stop="20260613063000 +0000" channel="Trans 7.vision">
-<title>The Explorer</title>
-</programme>
-<programme start="20260613063000 +0000" stop="20260613071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
-<programme start="20260613071500 +0000" stop="20260613081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Pagi Akhir Pekan</title>
-</programme>
 <programme start="20260613081500 +0000" stop="20260613090000 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
@@ -633,9 +615,6 @@
 </programme>
 <programme start="20260613010000 +0000" stop="20260613023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
-</programme>
-<programme start="20260613023000 +0000" stop="20260613060000 +0000" channel="ANTV.vision">
-<title>Kaho Naa Pyaar Hai</title>
 </programme>
 <programme start="20260613060000 +0000" stop="20260613073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -810,12 +789,6 @@
 </programme>
 <programme start="20260613053000 +0000" stop="20260613070000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku</title>
-</programme>
-<programme start="20260613070000 +0000" stop="20260613073000 +0000" channel="TVOne.vision">
-<title>Selalu Ada Hikmah</title>
-</programme>
-<programme start="20260613073000 +0000" stop="20260613080000 +0000" channel="TVOne.vision">
-<title>Satria Biru</title>
 </programme>
 <programme start="20260613080000 +0000" stop="20260613090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Akhir Pekan</title>
@@ -1496,5 +1469,32 @@
 <title>Persona</title>
 </programme>
 <programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260613010000 +0000" stop="20260613030000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
+</programme>
+<programme start="20260613030000 +0000" stop="20260613050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260613050000 +0000" stop="20260613070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260613070000 +0000" stop="20260613090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260613090000 +0000" stop="20260613110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260613110000 +0000" stop="20260613130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260613130000 +0000" stop="20260613150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260613150000 +0000" stop="20260613170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260613170000 +0000" stop="20260613190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

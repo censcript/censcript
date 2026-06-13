@@ -7705,16 +7705,16 @@
     <programme start="20260612231000 +0000" stop="20260613013000 +0000" channel="Asianet Movies.starhub">
         <title>Netrikann</title>
     </programme>
-    <programme start="20260613013000 +0000" stop="20260613043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260613013000 +0000" stop="20260613044000 +0000" channel="Asianet Movies.starhub">
         <title>Action Hero Biju</title>
     </programme>
-    <programme start="20260613043000 +0000" stop="20260613073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260613044000 +0000" stop="20260613072000 +0000" channel="Asianet Movies.starhub">
         <title>Grrr</title>
     </programme>
-    <programme start="20260613073000 +0000" stop="20260613103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260613072000 +0000" stop="20260613102500 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
-    <programme start="20260613103000 +0000" stop="20260613133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260613102500 +0000" stop="20260613133000 +0000" channel="Asianet Movies.starhub">
         <title>Ring Master</title>
     </programme>
     <programme start="20260613133000 +0000" stop="20260613163000 +0000" channel="Asianet Movies.starhub">
