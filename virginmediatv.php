@@ -355,8 +355,11 @@
 <programme start="20260613122000 +0000" stop="20260613122500 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC Weather</title>
 </programme>
-<programme start="20260613122500 +0000" stop="20260613162000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260613122500 +0000" stop="20260613152000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Semi-Final</title>
+</programme>
+<programme start="20260613152000 +0000" stop="20260613162000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Escape to the Country - Welsh Marches (Extended Versions)</title>
 </programme>
 <programme start="20260613162000 +0000" stop="20260613163000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC Weekend News</title>
