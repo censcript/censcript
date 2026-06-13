@@ -413,7 +413,7 @@
     <title>The Magnificent Seven</title>
 </programme>
 <programme start="20260613162000 +0000" stop="20260613172000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Flog It! - Margam Country 9: Extended version</title>
+    <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Semi-Final</title>
 </programme>
 <programme start="20260613172000 +0000" stop="20260613180500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Natural World - Killer Bees of Africa</title>
