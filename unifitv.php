@@ -449,8 +449,8 @@
     <title lang="en">KLTV 2026</title>
     <desc lang="en">Sebuah rancangan informasi yang memfokuskan tentang dunia hiburan di Malaysia dari pelancaran music &amp; wayang terbaru, isu isu panas terkini dan juga rancanga/Siri best untuk dilayan.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">2025.22.</episode-num>
-    <episode-num system="onscreen">S2026E23</episode-num>
+    <episode-num system="xmltv_ns">2025.23.</episode-num>
+    <episode-num system="onscreen">S2026E24</episode-num>
   </programme>
   <programme start="20260613150000 +0000" stop="20260613153000 +0000" channel="inspirasi.unifitv">
     <title lang="en">SEMBANG SELEBRITI</title>
@@ -15395,7 +15395,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260613080000 +0000" stop="20260613085000 +0000" channel="beinsports.unifitv">
-    <title lang="en">FIA Formula 3 Championship Sprin - Barcelona, Spain (L)</title>
+    <title lang="en">FIA Formula 3 Championship Sprint - Barcelona, Spain (L)</title>
     <desc lang="en">beIN Sports brings you exclusive coverage of the 2026 Formula 3 Championship</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15434,12 +15434,12 @@
     <desc lang="en">beIN Sports brings you live and exclusive coverage of the 2026 Formula 2 Championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260613130000 +0000" stop="20260613131500 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Nico Williams</title>
-    <desc lang="en">Rafa, Luna and Max invite you into their world, where football, video games and friendship go hand in hand.</desc>
+  <programme start="20260613130000 +0000" stop="20260613131000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Classic - Barcelona vs Real Madrid - 2023/24</title>
+    <desc lang="en">Rewind the clock and witness LaLiga's greatest moments.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260613131500 +0000" stop="20260613135500 +0000" channel="beinsports.unifitv">
+  <programme start="20260613131000 +0000" stop="20260613135500 +0000" channel="beinsports.unifitv">
     <title lang="en">Formula 1 Qualifying Pre Show - FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 (L)</title>
     <desc lang="en">Join us as we preview every F1 Qualifying race.</desc>
     <category lang="en">Sports</category>
@@ -15462,14 +15462,14 @@
   <channel id="beinsports2.unifitv">
     <display-name>beIN SPORTS 2</display-name>
   </channel>
-  <programme start="20260612143000 +0000" stop="20260612170000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valencia P1 Day 5 QF Match 5</title>
+  <programme start="20260612143000 +0000" stop="20260612160000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Valencia P1 Day 5 QF Match 5 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260612170000 +0000" stop="20260612173000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">UCI World Tour Highlights - Liege Bastogne Liege</title>
-    <desc lang="en">Highlights of the premier men's elite road cycling tour.</desc>
+  <programme start="20260612160000 +0000" stop="20260612173000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Valencia P1 Day 5 QF Match 6 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260612173000 +0000" stop="20260612190000 +0000" channel="beinsports2.unifitv">

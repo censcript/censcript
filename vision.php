@@ -511,9 +511,6 @@
 <programme start="20260613013000 +0000" stop="20260613021500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
-<programme start="20260613021500 +0000" stop="20260613031500 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
 <programme start="20260613031500 +0000" stop="20260613041500 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -807,21 +804,6 @@
 </programme>
 <programme start="20260613010000 +0000" stop="20260613013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20260613013000 +0000" stop="20260613020000 +0000" channel="TVOne.vision">
-<title>Umroh Bersama Ust. Abdul S.</title>
-</programme>
-<programme start="20260613020000 +0000" stop="20260613023000 +0000" channel="TVOne.vision">
-<title>Xpose</title>
-</programme>
-<programme start="20260613023000 +0000" stop="20260613030000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
-</programme>
-<programme start="20260613030000 +0000" stop="20260613033000 +0000" channel="TVOne.vision">
-<title>Bukan Jalan-Jalan Biasa</title>
-</programme>
-<programme start="20260613033000 +0000" stop="20260613040000 +0000" channel="TVOne.vision">
-<title>Jajago</title>
 </programme>
 <programme start="20260613040000 +0000" stop="20260613053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="BTV.vision">
 <title>Meja Redaksi</title>
+</programme>
+<programme start="20260614080000 +0000" stop="20260614083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
+</programme>
+<programme start="20260614083000 +0000" stop="20260614100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260614100000 +0000" stop="20260614104500 +0000" channel="BTV.vision">
+<title>Dunia Binatang</title>
+</programme>
+<programme start="20260614104500 +0000" stop="20260614113000 +0000" channel="BTV.vision">
+<title>Dunia Alam</title>
+</programme>
+<programme start="20260614113000 +0000" stop="20260614120000 +0000" channel="BTV.vision">
+<title>Persona</title>
+</programme>
+<programme start="20260612230000 +0000" stop="20260613010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

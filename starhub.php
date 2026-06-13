@@ -1970,7 +1970,7 @@
         <title>Movie - Naadodigal 2</title>
     </programme>
     <programme start="20260613133000 +0000" stop="20260613170000 +0000" channel="KTV HD.starhub">
-        <title>Movie -Venghai</title>
+        <title>Movie - Venghai</title>
     </programme>
     <programme start="20260612160000 +0000" stop="20260612173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Valencia P1 Day 5 QF Match 6 (Live)</title>
@@ -2215,17 +2215,20 @@
     <programme start="20260613040000 +0000" stop="20260613070000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>BOSS Open (250) QF 1 &amp; 2</title>
     </programme>
-    <programme start="20260613070000 +0000" stop="20260613083000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260613070000 +0000" stop="20260613100000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>FN 12: Song vs Figueiredo</title>
+    </programme>
+    <programme start="20260613100000 +0000" stop="20260613110000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>BOSS Open (250) QF 3</title>
     </programme>
-    <programme start="20260613083000 +0000" stop="20260613100000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>BOSS Open (250) QF 4</title>
-    </programme>
-    <programme start="20260613100000 +0000" stop="20260613140000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260613110000 +0000" stop="20260613150000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>BOSS Open (250) SF 1 &amp; 2</title>
     </programme>
-    <programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Round of 16: Episode 1 (Part 2)</title>
+    <programme start="20260613150000 +0000" stop="20260613153000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#592</title>
+    </programme>
+    <programme start="20260613153000 +0000" stop="20260613160000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1363</title>
     </programme>
     <programme start="20260612141500 +0000" stop="20260612161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
