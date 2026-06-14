@@ -2089,7 +2089,10 @@
     <programme start="20260614150000 +0000" stop="20260614170000 +0000" channel="Cinema One Global.starhub">
         <title>Four Sisters And A Wedding</title>
     </programme>
-    <programme start="20260613160000 +0000" stop="20260613210000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260613110000 +0000" stop="20260613164000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>BOSS Open (250) SF 1 &amp; 2</title>
+    </programme>
+    <programme start="20260613164000 +0000" stop="20260613210000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Orleans Masters Badminton p/b VICTOR (S300) Finals</title>
     </programme>
     <programme start="20260613210000 +0000" stop="20260613230000 +0000" channel="Hub Sports 2 HD.starhub">

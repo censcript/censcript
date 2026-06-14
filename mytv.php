@@ -7,37 +7,37 @@
     <programme start="20260614003000 +0000" stop="20260614004500 +0000" channel="VTV1 HD.mytv">
         <title> Sự lựa chọn</title>
     </programme>
-    <programme start="20260614004500 +0000" stop="20260614011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614004500 +0000" stop="20260614010900 +0000" channel="VTV1 HD.mytv">
         <title> Tương lai xanh: Kiểm soát bê tông hóa và làm mát đô thị</title>
     </programme>
-    <programme start="20260614011000 +0000" stop="20260614014000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614010900 +0000" stop="20260614013900 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Hành trình xanh trên đất Quảng Ngãi</title>
     </programme>
-    <programme start="20260614014000 +0000" stop="20260614020000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614013900 +0000" stop="20260614020000 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao</title>
     </programme>
-    <programme start="20260614020000 +0000" stop="20260614023000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614020000 +0000" stop="20260614022700 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Nhịp sống bên hồ Thác Bà</title>
     </programme>
-    <programme start="20260614023000 +0000" stop="20260614024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614022700 +0000" stop="20260614024300 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Nguy cơ gãy xương ở người cao tuổi</title>
     </programme>
-    <programme start="20260614024500 +0000" stop="20260614033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614024300 +0000" stop="20260614032900 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Tình yêu và tham vọng - Tập 59</title>
     </programme>
-    <programme start="20260614033000 +0000" stop="20260614041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614032900 +0000" stop="20260614041200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Tình yêu và tham vọng - Tập 60</title>
     </programme>
-    <programme start="20260614041500 +0000" stop="20260614050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614041200 +0000" stop="20260614050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Phụ nữ Chăm - Những người giữ nếp nhà</title>
     </programme>
     <programme start="20260614050500 +0000" stop="20260614051000 +0000" channel="VTV1 HD.mytv">
         <title> Vì cộng đồng: Lan tỏa giá trị pháp luật</title>
     </programme>
-    <programme start="20260614051000 +0000" stop="20260614052500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614051000 +0000" stop="20260614052400 +0000" channel="VTV1 HD.mytv">
         <title> Hải quan Việt Nam</title>
     </programme>
-    <programme start="20260614052500 +0000" stop="20260614053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614052400 +0000" stop="20260614053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng</title>
     </programme>
     <programme start="20260614053000 +0000" stop="20260614070000 +0000" channel="VTV1 HD.mytv">
@@ -49,22 +49,19 @@
     <programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="VTV1 HD.mytv">
         <title> Sống mới</title>
     </programme>
-    <programme start="20260614080000 +0000" stop="20260614084000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614080000 +0000" stop="20260614083600 +0000" channel="VTV1 HD.mytv">
         <title> Đi cùng chúng tôi</title>
     </programme>
-    <programme start="20260614084000 +0000" stop="20260614090000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614083600 +0000" stop="20260614085900 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự</title>
     </programme>
-    <programme start="20260614090000 +0000" stop="20260614090500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614085900 +0000" stop="20260614091500 +0000" channel="VTV1 HD.mytv">
         <title> Du lịch Việt Nam</title>
     </programme>
-    <programme start="20260614090500 +0000" stop="20260614091500 +0000" channel="VTV1 HD.mytv">
-        <title> Toàn cảnh thế giới</title>
-    </programme>
-    <programme start="20260614091500 +0000" stop="20260614094500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614091500 +0000" stop="20260614094900 +0000" channel="VTV1 HD.mytv">
         <title> VIETNAM 360: Tầm nhìn mới về điện hạt nhân</title>
     </programme>
-    <programme start="20260614094500 +0000" stop="20260614101500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260614094900 +0000" stop="20260614101500 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối</title>
     </programme>
     <programme start="20260614101500 +0000" stop="20260614103000 +0000" channel="VTV1 HD.mytv">

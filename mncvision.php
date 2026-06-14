@@ -259,9 +259,324 @@
 <programme start="20260614150000 +0000" stop="20260614153000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260613170000 +0000" stop="20260613173000 +0000" channel="Animax.mncvision">
+    <title>Magic Maker, Ep 11</title>
+</programme>
+<programme start="20260613173000 +0000" stop="20260613180000 +0000" channel="Animax.mncvision">
+    <title>Magic Maker, Ep 12</title>
+</programme>
+<programme start="20260613180000 +0000" stop="20260613183000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 2</title>
+</programme>
+<programme start="20260613183000 +0000" stop="20260613190000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 3</title>
+</programme>
+<programme start="20260613190000 +0000" stop="20260613193000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 4</title>
+</programme>
+<programme start="20260613193000 +0000" stop="20260613200000 +0000" channel="Animax.mncvision">
+    <title>The Daily Life Of A..., Ep 9</title>
+</programme>
+<programme start="20260613200000 +0000" stop="20260613203000 +0000" channel="Animax.mncvision">
+    <title>The Daily Life Of A..., Ep 10</title>
+</programme>
+<programme start="20260613203000 +0000" stop="20260613210000 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 1</title>
+</programme>
+<programme start="20260613210000 +0000" stop="20260613213000 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 2</title>
+</programme>
+<programme start="20260613213000 +0000" stop="20260613220000 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 3</title>
+</programme>
+<programme start="20260613220000 +0000" stop="20260613223000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S2, Ep 11</title>
+</programme>
+<programme start="20260613223000 +0000" stop="20260613230000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S2, Ep 12</title>
+</programme>
+<programme start="20260613230000 +0000" stop="20260613233000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S2, Ep 13</title>
+</programme>
+<programme start="20260613233000 +0000" stop="20260614000000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 2</title>
+</programme>
+<programme start="20260614000000 +0000" stop="20260614003000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 3</title>
+</programme>
+<programme start="20260614003000 +0000" stop="20260614010000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 4</title>
+</programme>
+<programme start="20260614010000 +0000" stop="20260614013000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 1</title>
+</programme>
+<programme start="20260614013000 +0000" stop="20260614020000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 2</title>
+</programme>
+<programme start="20260614020000 +0000" stop="20260614023000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 3</title>
+</programme>
+<programme start="20260614023000 +0000" stop="20260614030000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 4</title>
+</programme>
+<programme start="20260614030000 +0000" stop="20260614033000 +0000" channel="Animax.mncvision">
+    <title>The Daily Life Of A..., Ep 9</title>
+</programme>
+<programme start="20260614033000 +0000" stop="20260614040000 +0000" channel="Animax.mncvision">
+    <title>The Daily Life Of A..., Ep 10</title>
+</programme>
+<programme start="20260614040000 +0000" stop="20260614043000 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 1</title>
+</programme>
+<programme start="20260614043000 +0000" stop="20260614050000 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 2</title>
+</programme>
+<programme start="20260614050000 +0000" stop="20260614053000 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 3</title>
+</programme>
+<programme start="20260614053000 +0000" stop="20260614060000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 1</title>
+</programme>
+<programme start="20260614060000 +0000" stop="20260614063000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 2</title>
+</programme>
+<programme start="20260614063000 +0000" stop="20260614070000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 3</title>
+</programme>
+<programme start="20260614070000 +0000" stop="20260614073000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 4</title>
+</programme>
+<programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 2</title>
+</programme>
+<programme start="20260614080000 +0000" stop="20260614082800 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 3</title>
+</programme>
+<programme start="20260614082800 +0000" stop="20260614090000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 4</title>
+</programme>
+<programme start="20260614090000 +0000" stop="20260614093000 +0000" channel="Animax.mncvision">
+    <title>The Daily Life Of A..., Ep 9</title>
+</programme>
+<programme start="20260614093000 +0000" stop="20260614100000 +0000" channel="Animax.mncvision">
+    <title>The Daily Life Of A..., Ep 10</title>
+</programme>
+<programme start="20260614100000 +0000" stop="20260614102800 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 1</title>
+</programme>
+<programme start="20260614102800 +0000" stop="20260614105800 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 2</title>
+</programme>
+<programme start="20260614105800 +0000" stop="20260614113000 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 3</title>
+</programme>
+<programme start="20260614113000 +0000" stop="20260614120000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 2</title>
+</programme>
+<programme start="20260614120000 +0000" stop="20260614122800 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 3</title>
+</programme>
+<programme start="20260614122800 +0000" stop="20260614130000 +0000" channel="Animax.mncvision">
+    <title>Strike The Blood Final, Ep 4</title>
+</programme>
+<programme start="20260614130000 +0000" stop="20260614132800 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 1</title>
+</programme>
+<programme start="20260614132800 +0000" stop="20260614135800 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 2</title>
+</programme>
+<programme start="20260614135800 +0000" stop="20260614142800 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 3</title>
+</programme>
+<programme start="20260614142800 +0000" stop="20260614150000 +0000" channel="Animax.mncvision">
+    <title>Red Ranger Becomes An..., Ep 4</title>
+</programme>
+<programme start="20260614150000 +0000" stop="20260614153000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S2, Ep 11</title>
+</programme>
+<programme start="20260614153000 +0000" stop="20260614155800 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S2, Ep 12</title>
+</programme>
+<programme start="20260614155800 +0000" stop="20260614163000 +0000" channel="Animax.mncvision">
+    <title>Fruits Basket S2, Ep 13</title>
+</programme>
+<programme start="20260614163000 +0000" stop="20260613170000 +0000" channel="Animax.mncvision">
+    <title>Unnamed Memory S1, Ep 1</title>
+</programme>
+<programme start="20260613170000 +0000" stop="20260613183000 +0000" channel="ANTV.mncvision">
+    <title>Black Cat 2</title>
+</programme>
+<programme start="20260613183000 +0000" stop="20260613193000 +0000" channel="ANTV.mncvision">
+    <title>Mercury Man</title>
+</programme>
+<programme start="20260613193000 +0000" stop="20260613220000 +0000" channel="ANTV.mncvision">
+    <title>Chak De! India</title>
+</programme>
+<programme start="20260613220000 +0000" stop="20260613230000 +0000" channel="ANTV.mncvision">
+    <title>Hati Ke Hati Bersama Mamah...</title>
+</programme>
+<programme start="20260613230000 +0000" stop="20260614010000 +0000" channel="ANTV.mncvision">
+    <title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20260614010000 +0000" stop="20260614023000 +0000" channel="ANTV.mncvision">
+    <title>Antara Cinta Dan Dusta</title>
+</programme>
+<programme start="20260614023000 +0000" stop="20260614060000 +0000" channel="ANTV.mncvision">
+    <title>Mujhse Shaadi Karogi</title>
+</programme>
+<programme start="20260614060000 +0000" stop="20260614073000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
+</programme>
+<programme start="20260614073000 +0000" stop="20260614090000 +0000" channel="ANTV.mncvision">
+    <title>Sayali</title>
+</programme>
+<programme start="20260614090000 +0000" stop="20260614113000 +0000" channel="ANTV.mncvision">
+    <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260614113000 +0000" stop="20260614133000 +0000" channel="ANTV.mncvision">
+    <title>Rajawali Dari Utara</title>
+</programme>
+<programme start="20260614133000 +0000" stop="20260614150000 +0000" channel="ANTV.mncvision">
+    <title>Malam Satu Syuro</title>
+</programme>
+<programme start="20260614150000 +0000" stop="20260614153000 +0000" channel="ANTV.mncvision">
+    <title>Kain Kafan Hitam</title>
+</programme>
+<programme start="20260613170000 +0000" stop="20260613171500 +0000" channel="Arirang.mncvision">
+    <title>K-Culture Minutes: K-Now</title>
+</programme>
+<programme start="20260613171500 +0000" stop="20260613173000 +0000" channel="Arirang.mncvision">
+    <title>K-Culture Minutes: K-People</title>
+</programme>
+<programme start="20260613173000 +0000" stop="20260613174500 +0000" channel="Arirang.mncvision">
+    <title>K-Culture Minutes: K-Story</title>
+</programme>
+<programme start="20260613174500 +0000" stop="20260613180000 +0000" channel="Arirang.mncvision">
+    <title>K-Culture Minutes: K-Stage</title>
+</programme>
+<programme start="20260613180000 +0000" stop="20260613183000 +0000" channel="Arirang.mncvision">
+    <title>Beauty On And Off</title>
+</programme>
+<programme start="20260613183000 +0000" stop="20260613190000 +0000" channel="Arirang.mncvision">
+    <title>Mystory: Mystery x History</title>
+</programme>
+<programme start="20260613190000 +0000" stop="20260613193000 +0000" channel="Arirang.mncvision">
+    <title>Peace Insight</title>
+</programme>
+<programme start="20260613193000 +0000" stop="20260613200000 +0000" channel="Arirang.mncvision">
+    <title>The Grand Heritage K-ASMR</title>
+</programme>
+<programme start="20260613200000 +0000" stop="20260613210000 +0000" channel="Arirang.mncvision">
+    <title>PerformArts Reload</title>
+</programme>
+<programme start="20260613210000 +0000" stop="20260613213000 +0000" channel="Arirang.mncvision">
+    <title>I&#039;m Live</title>
+</programme>
+<programme start="20260613213000 +0000" stop="20260613220000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators</title>
+</programme>
+<programme start="20260613220000 +0000" stop="20260613223000 +0000" channel="Arirang.mncvision">
+    <title>Vibe In Action: K-Initiative</title>
+</programme>
+<programme start="20260613223000 +0000" stop="20260613230000 +0000" channel="Arirang.mncvision">
+    <title>Beauty On And Off</title>
+</programme>
+<programme start="20260613230000 +0000" stop="20260613233000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Chungcheong</title>
+</programme>
+<programme start="20260613233000 +0000" stop="20260614000000 +0000" channel="Arirang.mncvision">
+    <title>Home To Table</title>
+</programme>
+<programme start="20260614000000 +0000" stop="20260614010000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
+</programme>
+<programme start="20260614010000 +0000" stop="20260614011500 +0000" channel="Arirang.mncvision">
+    <title>K-Culture Minutes: K-Now</title>
+</programme>
+<programme start="20260614011500 +0000" stop="20260614013000 +0000" channel="Arirang.mncvision">
+    <title>K-Culture Minutes: K-People</title>
+</programme>
+<programme start="20260614013000 +0000" stop="20260614014500 +0000" channel="Arirang.mncvision">
+    <title>K-Culture Minutes: K-Story</title>
+</programme>
+<programme start="20260614014500 +0000" stop="20260614020000 +0000" channel="Arirang.mncvision">
+    <title>K-Culture Minutes: K-Stage</title>
+</programme>
+<programme start="20260614020000 +0000" stop="20260614030000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop 2026</title>
+</programme>
+<programme start="20260614030000 +0000" stop="20260614033000 +0000" channel="Arirang.mncvision">
+    <title>Weekly News Highlights</title>
+</programme>
+<programme start="20260614033000 +0000" stop="20260614040000 +0000" channel="Arirang.mncvision">
+    <title>Vibe In Action: K-Initiative</title>
+</programme>
+<programme start="20260614040000 +0000" stop="20260614043000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Chungcheong</title>
+</programme>
+<programme start="20260614043000 +0000" stop="20260614050000 +0000" channel="Arirang.mncvision">
+    <title>Home To Table</title>
+</programme>
+<programme start="20260614050000 +0000" stop="20260614053000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Gangwon</title>
+</programme>
+<programme start="20260614053000 +0000" stop="20260614060000 +0000" channel="Arirang.mncvision">
+    <title>The Art Of Pairing</title>
+</programme>
+<programme start="20260614060000 +0000" stop="20260614070000 +0000" channel="Arirang.mncvision">
+    <title>PerformArts Reload</title>
+</programme>
+<programme start="20260614070000 +0000" stop="20260614073000 +0000" channel="Arirang.mncvision">
+    <title>Peace Insight</title>
+</programme>
+<programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="Arirang.mncvision">
+    <title>Diplomat&#039;s Archive: Hidden</title>
+</programme>
+<programme start="20260614080000 +0000" stop="20260614083000 +0000" channel="Arirang.mncvision">
+    <title>Regional Tastes: Chungcheong</title>
+</programme>
+<programme start="20260614083000 +0000" stop="20260614090000 +0000" channel="Arirang.mncvision">
+    <title>SmartBiz Accelerators</title>
+</programme>
+<programme start="20260614090000 +0000" stop="20260614093000 +0000" channel="Arirang.mncvision">
+    <title>Weekly News Highlights</title>
+</programme>
+<programme start="20260614093000 +0000" stop="20260614100000 +0000" channel="Arirang.mncvision">
+    <title>I&#039;m Live</title>
+</programme>
+<programme start="20260614100000 +0000" stop="20260614103000 +0000" channel="Arirang.mncvision">
+    <title>The Art Of Pairing</title>
+</programme>
+<programme start="20260614103000 +0000" stop="20260614110000 +0000" channel="Arirang.mncvision">
+    <title>Vibe In Action: K-Initiative</title>
+</programme>
+<programme start="20260614110000 +0000" stop="20260614113000 +0000" channel="Arirang.mncvision">
+    <title>The Grand Heritage K-ASMR</title>
+</programme>
+<programme start="20260614113000 +0000" stop="20260614120000 +0000" channel="Arirang.mncvision">
+    <title>Beauty On And Off</title>
+</programme>
+<programme start="20260614120000 +0000" stop="20260614130000 +0000" channel="Arirang.mncvision">
+    <title>Simply K-Pop 2026</title>
+</programme>
+<programme start="20260614130000 +0000" stop="20260614133000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20260614133000 +0000" stop="20260614140000 +0000" channel="Arirang.mncvision">
+    <title>The Art Of Pairing</title>
+</programme>
+<programme start="20260614140000 +0000" stop="20260614150000 +0000" channel="Arirang.mncvision">
+    <title>Gugak: The Music Of Korea</title>
+</programme>
+<programme start="20260614150000 +0000" stop="20260614153000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
+</programme>
+<programme start="20260614153000 +0000" stop="20260614160000 +0000" channel="Arirang.mncvision">
+    <title>Diplomat&#039;s Archive: Hidden</title>
+</programme>
+<programme start="20260614160000 +0000" stop="20260614163000 +0000" channel="Arirang.mncvision">
+    <title>Gugak: The Music Of Korea</title>
+</programme>
 <programme start="20260613175000 +0000" stop="20260613195000 +0000" channel="AXN.mncvision">
     <title>Push</title>
 </programme>
@@ -334,7 +649,78 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260614165500 +0000" stop="20260613172500 +0000" channel="AXN.mncvision">
     <title>The Equalizer 3</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260613175000 +0000" stop="20260613195000 +0000" channel="AXN HD.mncvision">
+    <title>Push</title>
+</programme>
+<programme start="20260613195000 +0000" stop="20260613202000 +0000" channel="AXN HD.mncvision">
+    <title>Cyril: Simply Magic, Ep 5</title>
+</programme>
+<programme start="20260613202000 +0000" stop="20260613211000 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S8, Ep 19</title>
+</programme>
+<programme start="20260613211000 +0000" stop="20260613220000 +0000" channel="AXN HD.mncvision">
+    <title>S.W.A.T. S8, Ep 20</title>
+</programme>
+<programme start="20260613220000 +0000" stop="20260613224500 +0000" channel="AXN HD.mncvision">
+    <title>NCIS: Origins S1, Ep 9</title>
+</programme>
+<programme start="20260613224500 +0000" stop="20260613233000 +0000" channel="AXN HD.mncvision">
+    <title>NCIS: Origins S1, Ep 10</title>
+</programme>
+<programme start="20260613233000 +0000" stop="20260614001500 +0000" channel="AXN HD.mncvision">
+    <title>CIA S1, Ep 5</title>
+</programme>
+<programme start="20260614001500 +0000" stop="20260614011000 +0000" channel="AXN HD.mncvision">
+    <title>Elsbeth S3, Ep 16</title>
+</programme>
+<programme start="20260614011000 +0000" stop="20260614020000 +0000" channel="AXN HD.mncvision">
+    <title>Coroner S1, Ep 4</title>
+</programme>
+<programme start="20260614020000 +0000" stop="20260614025500 +0000" channel="AXN HD.mncvision">
+    <title>FBI S8, Ep 5</title>
+</programme>
+<programme start="20260614025500 +0000" stop="20260614051000 +0000" channel="AXN HD.mncvision">
+    <title>The Bourne Identity</title>
+</programme>
+<programme start="20260614051000 +0000" stop="20260614054000 +0000" channel="AXN HD.mncvision">
+    <title>Cyril: Simply Magic, Ep 1</title>
+</programme>
+<programme start="20260614054000 +0000" stop="20260614063500 +0000" channel="AXN HD.mncvision">
+    <title>The Rookie: Feds S1, Ep 16</title>
+</programme>
+<programme start="20260614063500 +0000" stop="20260614073000 +0000" channel="AXN HD.mncvision">
+    <title>Hudson &amp; Rex S7, Ep 2</title>
+</programme>
+<programme start="20260614073000 +0000" stop="20260614082500 +0000" channel="AXN HD.mncvision">
+    <title>CIA S1, Ep 5</title>
+</programme>
+<programme start="20260614082500 +0000" stop="20260614092000 +0000" channel="AXN HD.mncvision">
+    <title>NCIS: Sydney S3, Ep 8</title>
+</programme>
+<programme start="20260614092000 +0000" stop="20260614101500 +0000" channel="AXN HD.mncvision">
+    <title>FBI S8, Ep 5</title>
+</programme>
+<programme start="20260614101500 +0000" stop="20260614111000 +0000" channel="AXN HD.mncvision">
+    <title>Hudson &amp; Rex S7, Ep 2</title>
+</programme>
+<programme start="20260614111000 +0000" stop="20260614120500 +0000" channel="AXN HD.mncvision">
+    <title>The Rookie S7, Ep 1</title>
+</programme>
+<programme start="20260614120500 +0000" stop="20260614130000 +0000" channel="AXN HD.mncvision">
+    <title>CIA S1, Ep 5</title>
+</programme>
+<programme start="20260614130000 +0000" stop="20260614150500 +0000" channel="AXN HD.mncvision">
+    <title>The Bourne Supremacy</title>
+</programme>
+<programme start="20260614150500 +0000" stop="20260614160000 +0000" channel="AXN HD.mncvision">
+    <title>FBI S8, Ep 5</title>
+</programme>
+<programme start="20260614160000 +0000" stop="20260614165500 +0000" channel="AXN HD.mncvision">
+    <title>The Rookie S7, Ep 1</title>
+</programme>
+<programme start="20260614165500 +0000" stop="20260613172500 +0000" channel="AXN HD.mncvision">
+    <title>The Equalizer 3</title>
+</programme>
 <programme start="20260613172500 +0000" stop="20260613182000 +0000" channel="BBC Earth.mncvision">
     <title>Return To The Wild S3, Ep 9</title>
 </programme>
@@ -416,7 +802,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260614163500 +0000" stop="20260613170500 +0000" channel="BBC Earth.mncvision">
     <title>Spice Trail Adventure S1, Ep 2</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260613172500 +0000" stop="20260613182000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Return To The Wild S3, Ep 9</title>
+</programme>
+<programme start="20260613182000 +0000" stop="20260613191000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Searching For Italy S1, Ep 4</title>
+</programme>
+<programme start="20260613191000 +0000" stop="20260613201000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Inside The Factory S10, Ep 4</title>
+</programme>
+<programme start="20260613201000 +0000" stop="20260613210500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Sue Perkins&#039; Big Adv. S1, Ep 5</title>
+</programme>
+<programme start="20260613210500 +0000" stop="20260613220000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Return To The Wild S3, Ep 9</title>
+</programme>
+<programme start="20260613220000 +0000" stop="20260613225000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Searching For Italy S1, Ep 4</title>
+</programme>
+<programme start="20260613225000 +0000" stop="20260613234000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Armstrong In Sri Lanka S1, Ep 1</title>
+</programme>
+<programme start="20260613234000 +0000" stop="20260614003000 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Last Overland S1, Ep 1</title>
+</programme>
+<programme start="20260614003000 +0000" stop="20260614012500 +0000" channel="BBC Earth HD.mncvision">
+    <title>M. Palin: Into Iraq S1, Ep 2</title>
+</programme>
+<programme start="20260614012500 +0000" stop="20260614022000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Croc Watch With Steve S1, Ep 2</title>
+</programme>
+<programme start="20260614022000 +0000" stop="20260614031500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Armstrong In Sri Lanka S1, Ep 1</title>
+</programme>
+<programme start="20260614031500 +0000" stop="20260614041000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Spice Trail Adventure S1, Ep 2</title>
+</programme>
+<programme start="20260614041000 +0000" stop="20260614050000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Searching For Italy S1, Ep 4</title>
+</programme>
+<programme start="20260614050000 +0000" stop="20260614055500 +0000" channel="BBC Earth HD.mncvision">
+    <title>M. Palin: Into Iraq S1, Ep 2</title>
+</programme>
+<programme start="20260614055500 +0000" stop="20260614065000 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Last Overland S1, Ep 1</title>
+</programme>
+<programme start="20260614065000 +0000" stop="20260614074000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Armstrong In Sri Lanka S1, Ep 1</title>
+</programme>
+<programme start="20260614074000 +0000" stop="20260614083000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Searching For Italy S1, Ep 4</title>
+</programme>
+<programme start="20260614083000 +0000" stop="20260614092500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Spice Trail Adventure S1, Ep 2</title>
+</programme>
+<programme start="20260614092500 +0000" stop="20260614102000 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Last Overland S1, Ep 1</title>
+</programme>
+<programme start="20260614102000 +0000" stop="20260614111500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Croc Watch With Steve S1, Ep 2</title>
+</programme>
+<programme start="20260614111500 +0000" stop="20260614120500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Searching For Italy S1, Ep 4</title>
+</programme>
+<programme start="20260614120500 +0000" stop="20260614130000 +0000" channel="BBC Earth HD.mncvision">
+    <title>The Last Overland S1, Ep 1</title>
+</programme>
+<programme start="20260614130000 +0000" stop="20260614135000 +0000" channel="BBC Earth HD.mncvision">
+    <title>Armstrong In Sri Lanka S1, Ep 2</title>
+</programme>
+<programme start="20260614135000 +0000" stop="20260614144500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Spice Trail Adventure S1, Ep 2</title>
+</programme>
+<programme start="20260614144500 +0000" stop="20260614154000 +0000" channel="BBC Earth HD.mncvision">
+    <title>M. Palin: Into Iraq S1, Ep 2</title>
+</programme>
+<programme start="20260614154000 +0000" stop="20260614163500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Ancient Powers S1, Ep 5</title>
+</programme>
+<programme start="20260614163500 +0000" stop="20260613170500 +0000" channel="BBC Earth HD.mncvision">
+    <title>Spice Trail Adventure S1, Ep 2</title>
+</programme>
 <programme start="20260613170000 +0000" stop="20260613173000 +0000" channel="BBC World News.mncvision">
     <title>BBC News</title>
 </programme>
