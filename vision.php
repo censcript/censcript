@@ -649,12 +649,6 @@
 <programme start="20260614113000 +0000" stop="20260614133000 +0000" channel="ANTV.vision">
 <title>Rajawali Dari Utara</title>
 </programme>
-<programme start="20260614170000 +0000" stop="20260614183000 +0000" channel="ANTV.vision">
-<title>Sea Wolves</title>
-</programme>
-<programme start="20260614183000 +0000" stop="20260614193000 +0000" channel="ANTV.vision">
-<title>Pisaj</title>
-</programme>
 <programme start="20260614193000 +0000" stop="20260614220000 +0000" channel="ANTV.vision">
 <title>Dear Zindagi</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260614040000 +0000" stop="20260614060000 +0000" channel="TVRI.vision">
 <title>Piala Dunia 2026</title>
+</programme>
+<programme start="20260614060000 +0000" stop="20260614090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260614090000 +0000" stop="20260614110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

@@ -4252,19 +4252,19 @@
 <programme start="20260614113000 +0000" stop="20260614125500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Live: Formula 1 - Barcelona-Catalunya Grand Prix: Grand Prix Sunday</title>
 </programme>
-<programme start="20260614125500 +0000" stop="20260614150000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260614125500 +0000" stop="20260614151500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Live: Formula 1 - Barcelona-Catalunya Grand Prix: Race</title>
 </programme>
-<programme start="20260614150000 +0000" stop="20260614160000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260614151500 +0000" stop="20260614161500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Live: Formula 1 - Barcelona-Catalunya Grand Prix: Chequered Flag</title>
 </programme>
-<programme start="20260614160000 +0000" stop="20260614163000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260614161500 +0000" stop="20260614164500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ted&#039;s Notebook - Barcelona-Catalunya Grand Prix: Race</title>
 </programme>
-<programme start="20260614163000 +0000" stop="20260614173000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260614164500 +0000" stop="20260614174500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Barcelona-Catalunya Grand Prix: Highlights</title>
 </programme>
-<programme start="20260614173000 +0000" stop="20260614194500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260614174500 +0000" stop="20260614200500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Barcelona-Catalunya Grand Prix: Race</title>
 </programme>
 <programme start="20260614000000 +0000" stop="20260614041500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4885,19 +4885,19 @@
 <programme start="20260614113000 +0000" stop="20260614125500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Live: Formula 1 - Barcelona-Catalunya Grand Prix: Grand Prix Sunday</title>
 </programme>
-<programme start="20260614125500 +0000" stop="20260614150000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260614125500 +0000" stop="20260614151500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Live: Formula 1 - Barcelona-Catalunya Grand Prix: Race</title>
 </programme>
-<programme start="20260614150000 +0000" stop="20260614160000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260614151500 +0000" stop="20260614161500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Live: Formula 1 - Barcelona-Catalunya Grand Prix: Chequered Flag</title>
 </programme>
-<programme start="20260614160000 +0000" stop="20260614163000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260614161500 +0000" stop="20260614164500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ted&#039;s Notebook - Barcelona-Catalunya Grand Prix: Race</title>
 </programme>
-<programme start="20260614163000 +0000" stop="20260614173000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260614164500 +0000" stop="20260614174500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Barcelona-Catalunya Grand Prix: Highlights</title>
 </programme>
-<programme start="20260614173000 +0000" stop="20260614194500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260614174500 +0000" stop="20260614200500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Barcelona-Catalunya Grand Prix: Race</title>
 </programme>
 <programme start="20260614000000 +0000" stop="20260614041500 +0000" channel="TNT_Sports_1.virginmediatv">
@@ -6034,7 +6034,10 @@
 <programme start="20260613175800 +0000" stop="20260614015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260614015800 +0000" stop="20260614060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260614015800 +0000" stop="20260614050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260614050000 +0000" stop="20260614060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260614115000 +0000" stop="20260614122000 +0000" channel="CBBC.virginmediatv">

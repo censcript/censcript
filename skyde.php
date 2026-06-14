@@ -1082,8 +1082,89 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614213000 +0000" stop="20260614225500 +0000" channel="Heimatkanal.skyde">
     <title>Unsere tollen Tanten in der Südsee</title>
 </programme>
-<programme start="20260606213500 +0000" stop="20260606223000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Aufstieg und Fall der Konquistadoren</title>
+<programme start="20260613222500 +0000" stop="20260613231500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Verfluchte Schätze</title>
+</programme>
+<programme start="20260613231500 +0000" stop="20260614000000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Verfluchte Schätze</title>
+</programme>
+<programme start="20260614000000 +0000" stop="20260614005000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Verfluchte Schätze</title>
+</programme>
+<programme start="20260614005000 +0000" stop="20260614013500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Verfluchte Schätze</title>
+</programme>
+<programme start="20260614013500 +0000" stop="20260614022500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Verfluchte Schätze</title>
+</programme>
+<programme start="20260614022500 +0000" stop="20260614031500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Wunderwerke der Weltgeschichte</title>
+</programme>
+<programme start="20260614031500 +0000" stop="20260614041000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Wunderwerke der Weltgeschichte</title>
+</programme>
+<programme start="20260614041000 +0000" stop="20260614050500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Wunderwerke der Weltgeschichte</title>
+</programme>
+<programme start="20260614050500 +0000" stop="20260614060000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Wunderwerke der Weltgeschichte</title>
+</programme>
+<programme start="20260614060000 +0000" stop="20260614061500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Der Geschichte auf der Spur</title>
+</programme>
+<programme start="20260614061500 +0000" stop="20260614071000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
+</programme>
+<programme start="20260614071000 +0000" stop="20260614080500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
+</programme>
+<programme start="20260614080500 +0000" stop="20260614090000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
+</programme>
+<programme start="20260614090000 +0000" stop="20260614095500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Legendäre Pharaonen</title>
+</programme>
+<programme start="20260614095500 +0000" stop="20260614105000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Schlaue Schwärme</title>
+</programme>
+<programme start="20260614105000 +0000" stop="20260614114000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Schlaue Schwärme</title>
+</programme>
+<programme start="20260614114000 +0000" stop="20260614123000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Unser grüner Planet</title>
+</programme>
+<programme start="20260614123000 +0000" stop="20260614132000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Unser grüner Planet</title>
+</programme>
+<programme start="20260614132000 +0000" stop="20260614141000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Unser grüner Planet</title>
+</programme>
+<programme start="20260614141000 +0000" stop="20260614145500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Unser grüner Planet</title>
+</programme>
+<programme start="20260614145500 +0000" stop="20260614154500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Unser grüner Planet</title>
+</programme>
+<programme start="20260614154500 +0000" stop="20260614163500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Europa in...</title>
+</programme>
+<programme start="20260614163500 +0000" stop="20260614172500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Europa in...</title>
+</programme>
+<programme start="20260614172500 +0000" stop="20260614181500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Terra X: Europa in...</title>
+</programme>
+<programme start="20260614181500 +0000" stop="20260614190000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Oak Island - Fluch und Legende</title>
+</programme>
+<programme start="20260614190000 +0000" stop="20260614200500 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens verborgene Schätze</title>
+</programme>
+<programme start="20260614200500 +0000" stop="20260614211000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Britanniens verborgene Schätze</title>
+</programme>
+<programme start="20260614211000 +0000" stop="20260614221000 +0000" channel="HISTORY Channel HD.skyde">
+    <title>Tod am Kreuz</title>
 </programme>
 <programme start="20260613220000 +0000" stop="20260614000000 +0000" channel="Jukebox.skyde">
     <title>PARTY BOX</title>
@@ -2324,10 +2405,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614074000 +0000" stop="20260614080500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1: Iconic Onboards: Max Verstappen</title>
 </programme>
-<programme start="20260614080500 +0000" stop="20260614085500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614080500 +0000" stop="20260614090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live PMSC: Rennen - GP Barcelona</title>
 </programme>
-<programme start="20260614085500 +0000" stop="20260614091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614090000 +0000" stop="20260614091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1: Iconic Onboards: Kimi Räikkönen</title>
 </programme>
 <programme start="20260614091500 +0000" stop="20260614104000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2342,35 +2423,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614113000 +0000" stop="20260614125500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Vorberichte - GP Barcelona</title>
 </programme>
-<programme start="20260614125500 +0000" stop="20260614144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614125500 +0000" stop="20260614145500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Rennen - GP Barcelona</title>
 </programme>
-<programme start="20260614144500 +0000" stop="20260614153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614145500 +0000" stop="20260614154500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Barcelona</title>
 </programme>
-<programme start="20260614153000 +0000" stop="20260614160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614154500 +0000" stop="20260614162000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Barcelona</title>
 </programme>
-<programme start="20260614160000 +0000" stop="20260614163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614162000 +0000" stop="20260614165000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Barcelona</title>
 </programme>
-<programme start="20260614163000 +0000" stop="20260614170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614165000 +0000" stop="20260614172000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1: Discover Kimi - Kindheit</title>
 </programme>
-<programme start="20260614170000 +0000" stop="20260614173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614172000 +0000" stop="20260614175000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1: Discover Kimi - Wunderkind</title>
 </programme>
-<programme start="20260614173000 +0000" stop="20260614180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614175000 +0000" stop="20260614182000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
 </programme>
-<programme start="20260614180000 +0000" stop="20260614181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614182000 +0000" stop="20260614183500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Rot-Weiß-Roadtrip</title>
 </programme>
-<programme start="20260614181500 +0000" stop="20260614184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614183500 +0000" stop="20260614191000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
-</programme>
-<programme start="20260614184500 +0000" stop="20260614191000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% RB Salzburg (Runden 29-32)</title>
 </programme>
 <programme start="20260614191000 +0000" stop="20260614193500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Austria Wien (Runden 29-32)</title>
@@ -2567,10 +2645,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614074000 +0000" stop="20260614080500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Iconic Onboards: Max Verstappen</title>
 </programme>
-<programme start="20260614080500 +0000" stop="20260614090000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260614080500 +0000" stop="20260614085500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live PMSC: Rennen - GP Barcelona</title>
 </programme>
-<programme start="20260614090000 +0000" stop="20260614091500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260614085500 +0000" stop="20260614091500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Iconic Onboards: Kimi Räikkönen</title>
 </programme>
 <programme start="20260614091500 +0000" stop="20260614104000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2621,10 +2699,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260613223000 +0000" stop="20260613230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1986 (Jack Nicklaus)</title>
 </programme>
-<programme start="20260613230000 +0000" stop="20260614020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260613230000 +0000" stop="20260614023000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Curtis Cup, 2. Tag (Late Session) in Los Angeles (USA)</title>
 </programme>
-<programme start="20260614020000 +0000" stop="20260614050000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260614023000 +0000" stop="20260614050000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: International Series Marokko, 3. Tag in Rabat (Marokko)</title>
 </programme>
 <programme start="20260614050000 +0000" stop="20260614080000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2846,23 +2924,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614091000 +0000" stop="20260614120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. Shelton (USA) - J. Lehecka (CZE), Boss Open in Stuttgart, Halbfinale 2</title>
 </programme>
-<programme start="20260614120000 +0000" stop="20260614150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614120000 +0000" stop="20260614151500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Finals ATP Stuttgart &amp; s&#039;Hertogenbosch &amp; WTA London</title>
 </programme>
-<programme start="20260614150000 +0000" stop="20260614151500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614151500 +0000" stop="20260614153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
-<programme start="20260614151500 +0000" stop="20260614174500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614153000 +0000" stop="20260614174500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260614174500 +0000" stop="20260614201500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: D. Vekic (HRV) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
+    <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260614201500 +0000" stop="20260614203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
 <programme start="20260614203000 +0000" stop="20260614230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: K. Majchrzak (POL) - A. De Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+    <title>ATP 250: K. Majchrzak (POL) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613220000 +0000" stop="20260614003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Indiana Fever @ Connecticut Sun</title>
@@ -2996,7 +3074,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614114000 +0000" stop="20260614120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260614120000 +0000" stop="20260614170000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260614120000 +0000" stop="20260614154000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260614002000 +0000" stop="20260614005000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3059,14 +3137,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614121000 +0000" stop="20260614123000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260614123000 +0000" stop="20260614170000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260614123000 +0000" stop="20260614154000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260614121000 +0000" stop="20260614123000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260614123000 +0000" stop="20260614154000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: K. Majchrzak (POL) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+<programme start="20260614123000 +0000" stop="20260614170000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 250: Finale, Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613221500 +0000" stop="20260613230000 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
