@@ -2900,29 +2900,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2019/2020</title>
 </programme>
-<programme start="20260613230000 +0000" stop="20260614010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: tba - J. Lehecka (CZE), Boss Open in Stuttgart, Halbfinale 2</title>
-</programme>
-<programme start="20260614010000 +0000" stop="20260614030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614002000 +0000" stop="20260614014000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Bublik (KAZ) - T. Fritz (USA),, Boss Open in Stuttgart, Halbfinale 1</title>
 </programme>
-<programme start="20260614030000 +0000" stop="20260614033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614034000 +0000" stop="20260614040500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260614033000 +0000" stop="20260614053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614040500 +0000" stop="20260614053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: K. Boulter (GBR) - D. Vekic (CRO, HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
-<programme start="20260614053000 +0000" stop="20260614073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: tba - I. Jovic (USA) , HSBC Championships in London (GBR), Halbfinale 2</title>
+<programme start="20260614053000 +0000" stop="20260614072000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Raducanu (GBR) - I. Jovic (USA) , HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
-<programme start="20260614073000 +0000" stop="20260614080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614072000 +0000" stop="20260614075000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260614080000 +0000" stop="20260614100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614075000 +0000" stop="20260614091000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: A. Bublik (KAZ) - T. Fritz (USA),, Boss Open in Stuttgart, Halbfinale 1</title>
 </programme>
-<programme start="20260614100000 +0000" stop="20260614120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: tba - J. Lehecka (CZE), Boss Open in Stuttgart, Halbfinale 2</title>
+<programme start="20260614091000 +0000" stop="20260614120000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: B. Shelton (USA) - J. Lehecka (CZE), Boss Open in Stuttgart, Halbfinale 2</title>
 </programme>
 <programme start="20260614120000 +0000" stop="20260614150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Finals ATP Stuttgart &amp; s&#039;Hertogenbosch &amp; WTA London</title>
@@ -2931,16 +2928,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
 <programme start="20260614151500 +0000" stop="20260614174500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Boss Open in Stuttgart, Finale</title>
+    <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260614174500 +0000" stop="20260614201500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, HSBC Championships in London (GBR), Finale</title>
+    <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260614201500 +0000" stop="20260614203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
 <programme start="20260614203000 +0000" stop="20260614230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+    <title>ATP 250: K. Majchrzak (POL) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613220000 +0000" stop="20260614003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Indiana Fever @ Connecticut Sun</title>

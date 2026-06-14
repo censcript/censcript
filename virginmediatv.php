@@ -4418,7 +4418,7 @@
     <title>NASCAR Cup Racing Series - Michigan International Speedway</title>
 </programme>
 <programme start="20260614140000 +0000" stop="20260614180000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: EUT20 Belgium League - Final: TBA v TBA</title>
+    <title>Live: EUT20 Belgium League - Final: Ghent Gladiators v Antwerp Anchors</title>
 </programme>
 <programme start="20260613230000 +0000" stop="20260614020000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Curtis Cup Golf - Day 2: Fourballs</title>
@@ -5042,7 +5042,7 @@
     <title>NASCAR Cup Racing Series - Michigan International Speedway</title>
 </programme>
 <programme start="20260614140000 +0000" stop="20260614180000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Live: EUT20 Belgium League - Final: TBA v TBA</title>
+    <title>Live: EUT20 Belgium League - Final: Ghent Gladiators v Antwerp Anchors</title>
 </programme>
 <programme start="20260613214500 +0000" stop="20260614001300 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Rain Man</title>
