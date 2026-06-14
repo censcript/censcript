@@ -1898,92 +1898,98 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614215000 +0000" stop="20260614223500 +0000" channel="Sky Crime HD.skyde">
     <title>Im Bett mit einem Serienkiller</title>
 </programme>
-<programme start="20260612222000 +0000" stop="20260612231000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
+<programme start="20260613222000 +0000" stop="20260613225000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
 </programme>
-<programme start="20260612231000 +0000" stop="20260613000500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
+<programme start="20260613225000 +0000" stop="20260613232000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
 </programme>
-<programme start="20260613000500 +0000" stop="20260613005000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260613232000 +0000" stop="20260613235000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
+</programme>
+<programme start="20260613235000 +0000" stop="20260614001500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
+</programme>
+<programme start="20260614001500 +0000" stop="20260614004500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
+</programme>
+<programme start="20260614004500 +0000" stop="20260614011500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
+</programme>
+<programme start="20260614011500 +0000" stop="20260614014000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
+</programme>
+<programme start="20260614014000 +0000" stop="20260614021000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
+</programme>
+<programme start="20260614021000 +0000" stop="20260614023500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Meine Geschichte</title>
+</programme>
+<programme start="20260614023500 +0000" stop="20260614034500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613005000 +0000" stop="20260613013500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260614034500 +0000" stop="20260614043500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613013500 +0000" stop="20260613020500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
+<programme start="20260614043500 +0000" stop="20260614052000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613020500 +0000" stop="20260613023500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
+<programme start="20260614052000 +0000" stop="20260614061000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613023500 +0000" stop="20260613033000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
+<programme start="20260614061000 +0000" stop="20260614070000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613033000 +0000" stop="20260613040500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Bob Ross: The Joy of Painting</title>
+<programme start="20260614070000 +0000" stop="20260614075000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613040500 +0000" stop="20260613043000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Unsealed: Alien Files</title>
+<programme start="20260614075000 +0000" stop="20260614083500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613043000 +0000" stop="20260613045500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Unsealed: Alien Files</title>
+<programme start="20260614083500 +0000" stop="20260614092500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613045500 +0000" stop="20260613052000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Unsealed: Alien Files</title>
+<programme start="20260614092500 +0000" stop="20260614101500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613052000 +0000" stop="20260613061000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
+<programme start="20260614101500 +0000" stop="20260614110000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
 </programme>
-<programme start="20260613061000 +0000" stop="20260613070000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613070000 +0000" stop="20260613075000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613075000 +0000" stop="20260613083500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613083500 +0000" stop="20260613092500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613092500 +0000" stop="20260613102000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613102000 +0000" stop="20260613111000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613111000 +0000" stop="20260613120000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613120000 +0000" stop="20260613125000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613125000 +0000" stop="20260613134500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Hochsee Cowboys</title>
-</programme>
-<programme start="20260613134500 +0000" stop="20260613143500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20260613143500 +0000" stop="20260613152500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20260613152500 +0000" stop="20260613162000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20260613162000 +0000" stop="20260613171000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Life Below Zero - Überleben in Alaska</title>
-</programme>
-<programme start="20260613171000 +0000" stop="20260613180500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260614110000 +0000" stop="20260614115500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Marilyn Monroe - Ein Opfer der Mafia?</title>
 </programme>
-<programme start="20260613180500 +0000" stop="20260613190000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260614115500 +0000" stop="20260614125000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Marilyn Monroe - Ein Opfer der Mafia?</title>
 </programme>
-<programme start="20260613190000 +0000" stop="20260613204500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Rudi Völler - Es gibt nur einen</title>
+<programme start="20260614125000 +0000" stop="20260614134500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Putins Russland</title>
 </programme>
-<programme start="20260613204500 +0000" stop="20260613222000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Schmeichel</title>
+<programme start="20260614134500 +0000" stop="20260614144000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Putins Russland</title>
+</programme>
+<programme start="20260614144000 +0000" stop="20260614153500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Putins Russland</title>
+</programme>
+<programme start="20260614153500 +0000" stop="20260614162500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+</programme>
+<programme start="20260614162500 +0000" stop="20260614171500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+</programme>
+<programme start="20260614171500 +0000" stop="20260614180500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+</programme>
+<programme start="20260614180500 +0000" stop="20260614190000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+</programme>
+<programme start="20260614190000 +0000" stop="20260614195000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Marilyn Monroe - Ein Opfer der Mafia?</title>
+</programme>
+<programme start="20260614195000 +0000" stop="20260614204500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Marilyn Monroe - Ein Opfer der Mafia?</title>
+</programme>
+<programme start="20260614204500 +0000" stop="20260614222500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Ein Sommer in Italien - Die WM 1990</title>
 </programme>
 <programme start="20260613224000 +0000" stop="20260613232500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
@@ -2474,8 +2480,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614094000 +0000" stop="20260614100000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260614100000 +0000" stop="20260614143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live WTA 250: R. Montgomery (USA)  - B. Krejcikova (CZE), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+<programme start="20260614100000 +0000" stop="20260614123000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live WTA 250: tba - B. Krejcikova (CZE), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613220000 +0000" stop="20260613223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 90in30: FCK - S04, 2. Spieltag</title>
@@ -2931,22 +2937,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260614174500 +0000" stop="20260614201500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
+    <title>WTA 500: D. Vekic (HRV) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260614201500 +0000" stop="20260614203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
 <programme start="20260614203000 +0000" stop="20260614230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: K. Majchrzak (POL) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+    <title>ATP 250: K. Majchrzak (POL) - A. De Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613220000 +0000" stop="20260614003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Indiana Fever @ Connecticut Sun</title>
 </programme>
-<programme start="20260614003000 +0000" stop="20260614020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260614003000 +0000" stop="20260614023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Curtis Cup, 2. Tag (Late Session) in Los Angeles (USA)</title>
-</programme>
-<programme start="20260614020000 +0000" stop="20260614023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260614023000 +0000" stop="20260614043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 250: A. Bublik (KAZ) - T. Fritz (USA),, Boss Open in Stuttgart, Halbfinale 1</title>
@@ -3074,8 +3077,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614114000 +0000" stop="20260614120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260614120000 +0000" stop="20260614163000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 250: tba - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
+<programme start="20260614120000 +0000" stop="20260614170000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260614002000 +0000" stop="20260614005000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live: Haiti - Schottland, Vorbericht FIFA WM 2026</title>
@@ -3138,13 +3141,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260614123000 +0000" stop="20260614170000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live WTA 500: D. Vekic (HRV) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
+    <title>Live WTA 500: Finale, HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260614121000 +0000" stop="20260614123000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
 <programme start="20260614123000 +0000" stop="20260614170000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: K. Majchrzak (POL) - A. De Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+    <title>Live ATP 250: Finale, Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613221500 +0000" stop="20260613230000 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>

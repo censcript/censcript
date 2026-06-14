@@ -4421,7 +4421,7 @@
         <title>Cooku With Comali S07 - Double Trouble</title>
     </programme>
     <programme start="20260613190000 +0000" stop="20260613193000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Cooku with comali S07</title>
     </programme>
     <programme start="20260613193000 +0000" stop="20260613200000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4460,7 +4460,7 @@
         <title>Andakakasam S04</title>
     </programme>
     <programme start="20260614073000 +0000" stop="20260614103000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Youth</title>
     </programme>
     <programme start="20260614103000 +0000" stop="20260614120000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S11</title>

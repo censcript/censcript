@@ -3865,7 +3865,16 @@
 <programme start="20260614050000 +0000" stop="20260614100000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>RBC Canadian Open, PGA Tour Golf - Day 3</title>
 </programme>
-<programme start="20260614114500 +0000" stop="20260614170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260614120000 +0000" stop="20260614130000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Curtis Cup Golf - Day 3</title>
+</programme>
+<programme start="20260614130000 +0000" stop="20260614133000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Rose Ladies Series Golf - North Hants Golf Club</title>
+</programme>
+<programme start="20260614133000 +0000" stop="20260614143000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>US Open Official Film - 2025</title>
+</programme>
+<programme start="20260614143000 +0000" stop="20260614170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: RBC Canadian Open, PGA Tour Golf - Day 4: Featured Groups</title>
 </programme>
 <programme start="20260614170000 +0000" stop="20260614220000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
@@ -4207,32 +4216,32 @@
 <programme start="20260614173000 +0000" stop="20260614180000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Everton v Manchester United</title>
 </programme>
-<programme start="20260613234500 +0000" stop="20260614004500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Ferrari Challenge Europe - Le Mans: Race 2</title>
-</programme>
-<programme start="20260614004500 +0000" stop="20260614010000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Golf with Sergio Perez</title>
+<programme start="20260613235500 +0000" stop="20260614010000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Live: FIA Formula 3 Championship - Barcelona: Sprint Race</title>
 </programme>
 <programme start="20260614010000 +0000" stop="20260614021500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - Barcelona-Catalunya Grand Prix: 3rd Practice</title>
+    <title>Ferrari Challenge Europe - Le Mans: Race 2</title>
 </programme>
 <programme start="20260614021500 +0000" stop="20260614023000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Naomi Hot Laps with Kimi Antonelli</title>
+    <title>Golf with Sergio Perez</title>
 </programme>
-<programme start="20260614023000 +0000" stop="20260614030000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Ted&#039;s Notebook - Barcelona-Catalunya Grand Prix: Qualifying</title>
+<programme start="20260614023000 +0000" stop="20260614032500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - Barcelona-Catalunya Grand Prix: 3rd Practice</title>
 </programme>
-<programme start="20260614030000 +0000" stop="20260614032500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best Of Australia 2026</title>
-</programme>
-<programme start="20260614032500 +0000" stop="20260614040000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260614032500 +0000" stop="20260614034500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best Of China 2026</title>
 </programme>
-<programme start="20260614040000 +0000" stop="20260614041500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best of Japan 2026</title>
+<programme start="20260614034500 +0000" stop="20260614040000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Naomi Hot Laps with Kimi Antonelli</title>
 </programme>
-<programme start="20260614041500 +0000" stop="20260614050000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260614040000 +0000" stop="20260614041500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Ted&#039;s Notebook - Barcelona-Catalunya Grand Prix: Qualifying</title>
+</programme>
+<programme start="20260614041500 +0000" stop="20260614043000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Miami 2026</title>
+</programme>
+<programme start="20260614043000 +0000" stop="20260614050000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best Of Australia 2026</title>
 </programme>
 <programme start="20260614050000 +0000" stop="20260614053000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ferrari Challenge UK - Silverstone: Highlights</title>
@@ -4612,7 +4621,16 @@
 <programme start="20260614050000 +0000" stop="20260614100000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>RBC Canadian Open, PGA Tour Golf - Day 3</title>
 </programme>
-<programme start="20260614114500 +0000" stop="20260614170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260614120000 +0000" stop="20260614130000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Curtis Cup Golf - Day 3</title>
+</programme>
+<programme start="20260614130000 +0000" stop="20260614133000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Rose Ladies Series Golf - North Hants Golf Club</title>
+</programme>
+<programme start="20260614133000 +0000" stop="20260614143000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>US Open Official Film - 2025</title>
+</programme>
+<programme start="20260614143000 +0000" stop="20260614170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: RBC Canadian Open, PGA Tour Golf - Day 4: Featured Groups</title>
 </programme>
 <programme start="20260614170000 +0000" stop="20260614220000 +0000" channel="Sky_Sports_Golf.virginmediatv">
@@ -4831,32 +4849,32 @@
 <programme start="20260614160000 +0000" stop="20260614180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Libema Open 2026 - Final</title>
 </programme>
-<programme start="20260613234500 +0000" stop="20260614004500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Ferrari Challenge Europe - Le Mans: Race 2</title>
-</programme>
-<programme start="20260614004500 +0000" stop="20260614010000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Golf with Sergio Perez</title>
+<programme start="20260613235500 +0000" stop="20260614010000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Live: FIA Formula 3 Championship - Barcelona: Sprint Race</title>
 </programme>
 <programme start="20260614010000 +0000" stop="20260614021500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - Barcelona-Catalunya Grand Prix: 3rd Practice</title>
+    <title>Ferrari Challenge Europe - Le Mans: Race 2</title>
 </programme>
 <programme start="20260614021500 +0000" stop="20260614023000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Naomi Hot Laps with Kimi Antonelli</title>
+    <title>Golf with Sergio Perez</title>
 </programme>
-<programme start="20260614023000 +0000" stop="20260614030000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Ted&#039;s Notebook - Barcelona-Catalunya Grand Prix: Qualifying</title>
+<programme start="20260614023000 +0000" stop="20260614032500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - Barcelona-Catalunya Grand Prix: 3rd Practice</title>
 </programme>
-<programme start="20260614030000 +0000" stop="20260614032500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best Of Australia 2026</title>
-</programme>
-<programme start="20260614032500 +0000" stop="20260614040000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260614032500 +0000" stop="20260614034500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best Of China 2026</title>
 </programme>
-<programme start="20260614040000 +0000" stop="20260614041500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best of Japan 2026</title>
+<programme start="20260614034500 +0000" stop="20260614040000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Naomi Hot Laps with Kimi Antonelli</title>
 </programme>
-<programme start="20260614041500 +0000" stop="20260614050000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260614040000 +0000" stop="20260614041500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Ted&#039;s Notebook - Barcelona-Catalunya Grand Prix: Qualifying</title>
+</programme>
+<programme start="20260614041500 +0000" stop="20260614043000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best of Miami 2026</title>
+</programme>
+<programme start="20260614043000 +0000" stop="20260614050000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best Of Australia 2026</title>
 </programme>
 <programme start="20260614050000 +0000" stop="20260614053000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ferrari Challenge UK - Silverstone: Highlights</title>
