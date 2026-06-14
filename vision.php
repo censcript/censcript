@@ -637,9 +637,6 @@
 <programme start="20260614010000 +0000" stop="20260614023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
 </programme>
-<programme start="20260614023000 +0000" stop="20260614060000 +0000" channel="ANTV.vision">
-<title>Mujhse Shaadi Karogi</title>
-</programme>
 <programme start="20260614060000 +0000" stop="20260614073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -651,12 +648,6 @@
 </programme>
 <programme start="20260614113000 +0000" stop="20260614133000 +0000" channel="ANTV.vision">
 <title>Rajawali Dari Utara</title>
-</programme>
-<programme start="20260614133000 +0000" stop="20260614150000 +0000" channel="ANTV.vision">
-<title>Malam Satu Syuro</title>
-</programme>
-<programme start="20260614150000 +0000" stop="20260614170000 +0000" channel="ANTV.vision">
-<title>Kain Kafan Hitam</title>
 </programme>
 <programme start="20260614170000 +0000" stop="20260614183000 +0000" channel="ANTV.vision">
 <title>Sea Wolves</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260614000000 +0000" stop="20260614010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260614010000 +0000" stop="20260614030000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
+</programme>
+<programme start="20260614030000 +0000" stop="20260614040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260614040000 +0000" stop="20260614060000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
 </programme>
