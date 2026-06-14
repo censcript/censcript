@@ -322,8 +322,11 @@
 <programme start="20260614121500 +0000" stop="20260614144500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - WTA: Final</title>
 </programme>
-<programme start="20260614144500 +0000" stop="20260614152500 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260614144500 +0000" stop="20260614145500 +0000" channel="BBC1_HD.virginmediatv">
     <title>The Americas - The Caribbean</title>
+</programme>
+<programme start="20260614145500 +0000" stop="20260614152500 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Escape to the Country - Lake District (Shortened Versions)</title>
 </programme>
 <programme start="20260614152500 +0000" stop="20260614165000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Shrek Forever After</title>

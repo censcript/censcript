@@ -2432,23 +2432,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614154500 +0000" stop="20260614162000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Barcelona</title>
 </programme>
-<programme start="20260614162000 +0000" stop="20260614165000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614162000 +0000" stop="20260614164500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Barcelona</title>
 </programme>
-<programme start="20260614165000 +0000" stop="20260614172000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614164500 +0000" stop="20260614170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1: Discover Kimi - Kindheit</title>
 </programme>
-<programme start="20260614172000 +0000" stop="20260614175000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614170000 +0000" stop="20260614173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>F1: Discover Kimi - Wunderkind</title>
 </programme>
-<programme start="20260614175000 +0000" stop="20260614182000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614173000 +0000" stop="20260614180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Motorsport: Die grüne Hölle - 24h wie im Rausch</title>
 </programme>
-<programme start="20260614182000 +0000" stop="20260614183500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614180000 +0000" stop="20260614181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Rot-Weiß-Roadtrip</title>
 </programme>
-<programme start="20260614183500 +0000" stop="20260614191000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260614181500 +0000" stop="20260614184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
+</programme>
+<programme start="20260614184500 +0000" stop="20260614191000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 29-32)</title>
 </programme>
 <programme start="20260614191000 +0000" stop="20260614193500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Austria Wien (Runden 29-32)</title>
@@ -2477,7 +2480,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614094000 +0000" stop="20260614100000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260614100000 +0000" stop="20260614104000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260614100000 +0000" stop="20260614143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 250: R. Montgomery (USA)  - B. Krejcikova (CZE), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613220000 +0000" stop="20260613223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2924,23 +2927,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614091000 +0000" stop="20260614120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. Shelton (USA) - J. Lehecka (CZE), Boss Open in Stuttgart, Halbfinale 2</title>
 </programme>
-<programme start="20260614120000 +0000" stop="20260614151500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614120000 +0000" stop="20260614150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Finals ATP Stuttgart &amp; s&#039;Hertogenbosch &amp; WTA London</title>
 </programme>
-<programme start="20260614151500 +0000" stop="20260614153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614150000 +0000" stop="20260614151500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
-<programme start="20260614153000 +0000" stop="20260614174500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260614151500 +0000" stop="20260614174500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260614174500 +0000" stop="20260614201500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
+    <title>WTA 500: D. Vekic (HRV) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260614201500 +0000" stop="20260614203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
 <programme start="20260614203000 +0000" stop="20260614230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: K. Majchrzak (POL) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+    <title>ATP 250: K. Majchrzak (POL) - A. De Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613220000 +0000" stop="20260614003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Indiana Fever @ Connecticut Sun</title>
@@ -3074,7 +3077,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614114000 +0000" stop="20260614120000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260614120000 +0000" stop="20260614154000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260614120000 +0000" stop="20260614170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260614002000 +0000" stop="20260614005000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3137,14 +3140,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614121000 +0000" stop="20260614123000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260614123000 +0000" stop="20260614154000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
+<programme start="20260614123000 +0000" stop="20260614170000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live WTA 500: D. Vekic (HRV) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260614121000 +0000" stop="20260614123000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260614123000 +0000" stop="20260614170000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: Finale, Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
+<programme start="20260614123000 +0000" stop="20260614154000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 250: K. Majchrzak (POL) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260613221500 +0000" stop="20260613230000 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
