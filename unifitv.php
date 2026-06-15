@@ -3693,7 +3693,7 @@
   </programme>
   <programme start="20260615123500 +0000" stop="20260615133500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Airport Diary II</title>
-    <desc lang="en">The Airport Diary II continues to follow the high-stakes, fast-paced daily operations of the central management teams responsible for keeping one of the world's busiest aviation hubs running smoothly.</desc>
+    <desc lang="en">While operating at full capacity, Hong Kong International Airport is abruptly thrown into chaos by a global system malfunction. Yeung Sheung-wai (Kenneth Ma), General Manager of Passenger Terminal and Passenger Experience, collaborates with his partners Lui Chi-shan (Samantha Ko), Chan Kit (Tony Hung) and Lee Shing-cheung (Tsui Wing) in directing their departments to respond swiftly to the situation. Harbour Airlines captain Kwok Kai-kwong (Brian Chu) faces suspension due to some flight issue. And the vote of the newly appointed Airport Supervisor Ko Nga-man (Tiffany Lau) has a bearing on the overall situation. Pilot Fong Ho-yee (Rosita Kwok) runs into difficulties, and her flight may be interrupted. Sheung-wai's apprentice Ching Yat-fei (Kalok Chow) also encounters setbacks while participating in the coordination of a cross-border project. Flight attendant Cheung Wing (Joey Thye) returns from the skies to the earth, and former idol Che Sing-hin (Aska Cheung) makes a career change by joining the airport security team. Their fates intertwine as they switch tracks. Despite the challenges, the chums persevere and forge ahead together to usher in a new chapter in the development of the airport.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -3707,7 +3707,7 @@
   </programme>
   <programme start="20260615143500 +0000" stop="20260615150500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Pilgrimage of History</title>
-    <desc lang="en">The program shatters the rigid, traditional framework of historical documentaries by introducing a "Dual-Track" format—combining grueling, real-world backpacking journalism with immersive AI-driven temporal transport.</desc>
+    <desc lang="en">Some civilizations, places, events, and lifestyles in the world have already disappeared in the long river of history. How can we reconstruct these blank spaces? Hosts Tony Hung and Priscilla Wong use real-life on-site visits combined with AI technology to recreate virtual appearances, leading viewers on a lighthearted journey through history, connecting the ancient and the modern, and launching a new historical travel adventure! This "best travel duo" travels to Cairo, Egypt; Rome, Italy; Paris, France; and London, England, personally exploring the current state of historical sites and witnessing local culture and life; at the same time, they transform into "time travelers," using AI technology to place themselves in key scenes of major world events, immersing themselves in historical moments.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -8580,7 +8580,7 @@
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260615154500 +0000" stop="20260615164000 +0000" channel="lovenaturehd.unifitv">
+  <programme start="20260615154500 +0000" stop="20260615163500 +0000" channel="lovenaturehd.unifitv">
     <title lang="en">Africa's Hunters</title>
     <desc lang="en">Enter the heart of Zambia's Luangwa Valley, where shady woodlands and antelope-packed plains offer the perfect hunting grounds for an audacious female leopard named Olimba and the pack she must struggle to control.</desc>
     <category lang="en">Wildlife</category>

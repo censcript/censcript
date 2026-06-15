@@ -1114,10 +1114,10 @@
 <programme start="20260615133000 +0000" stop="20260615143500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Specials 2025/26</title>
 </programme>
-<programme start="20260615143500 +0000" stop="20260615160000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260615143500 +0000" stop="20260615154500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Classic 25/26: LIV Vs MUN</title>
 </programme>
-<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260615154500 +0000" stop="20260615163000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFC Trending 2025/26, Ep 45</title>
 </programme>
 <programme start="20260615163000 +0000" stop="20260614170000 +0000" channel="beIN Sports 1.mncvision">
@@ -1198,10 +1198,10 @@
 <programme start="20260615133000 +0000" stop="20260615143500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Specials 2025/26</title>
 </programme>
-<programme start="20260615143500 +0000" stop="20260615160000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260615143500 +0000" stop="20260615154500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Classic 25/26: LIV Vs MUN</title>
 </programme>
-<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260615154500 +0000" stop="20260615163000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFC Trending 2025/26, Ep 45</title>
 </programme>
 <programme start="20260615163000 +0000" stop="20260614170000 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -3056,7 +3056,7 @@
     <title>Eco India: The Vital Buzz</title>
 </programme>
 <programme start="20260615023000 +0000" stop="20260615030000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Under The Baobab</title>
 </programme>
 <programme start="20260615030000 +0000" stop="20260615030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3065,7 +3065,7 @@
     <title>In Good Shape</title>
 </programme>
 <programme start="20260615033000 +0000" stop="20260615040000 +0000" channel="DW English.mncvision">
-    <title>Euromaxx: Lifestyle Europe</title>
+    <title>Euromaxx: The El Roc�o</title>
 </programme>
 <programme start="20260615040000 +0000" stop="20260615040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3074,10 +3074,10 @@
     <title>DW News Focus: The World</title>
 </programme>
 <programme start="20260615041500 +0000" stop="20260615044500 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: China Tourism Boom</title>
 </programme>
 <programme start="20260615044500 +0000" stop="20260615050000 +0000" channel="DW English.mncvision">
-    <title>Reporter: On Location</title>
+    <title>Reporter: Fall Or Foul Play?</title>
 </programme>
 <programme start="20260615050000 +0000" stop="20260615050200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4114,35 +4114,35 @@
 <programme start="20260615023000 +0000" stop="20260615030000 +0000" channel="GTV.mncvision">
     <title>Buletin iNews Pagi</title>
 </programme>
-<programme start="20260615030000 +0000" stop="20260615043000 +0000" channel="GTV.mncvision">
+<programme start="20260615030000 +0000" stop="20260615050000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260615043000 +0000" stop="20260615060000 +0000" channel="GTV.mncvision">
-    <title>Petualangan Baru Upin &amp; Ipin</title>
-</programme>
-<programme start="20260615060000 +0000" stop="20260615080000 +0000" channel="GTV.mncvision">
+<programme start="20260615050000 +0000" stop="20260615073000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260615080000 +0000" stop="20260615093000 +0000" channel="GTV.mncvision">
-    <title>Super Deal Indonesia</title>
-</programme>
-<programme start="20260615093000 +0000" stop="20260615103000 +0000" channel="GTV.mncvision">
+<programme start="20260615073000 +0000" stop="20260615090000 +0000" channel="GTV.mncvision">
     <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260615103000 +0000" stop="20260615113000 +0000" channel="GTV.mncvision">
-    <title>Entong</title>
+<programme start="20260615090000 +0000" stop="20260615100000 +0000" channel="GTV.mncvision">
+    <title>Richard The Stork 2</title>
 </programme>
-<programme start="20260615113000 +0000" stop="20260615123000 +0000" channel="GTV.mncvision">
+<programme start="20260615100000 +0000" stop="20260615110000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260615123000 +0000" stop="20260615133000 +0000" channel="GTV.mncvision">
+<programme start="20260615110000 +0000" stop="20260615120000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260615120000 +0000" stop="20260615133000 +0000" channel="GTV.mncvision">
     <title>New Family 100</title>
 </programme>
-<programme start="20260615133000 +0000" stop="20260615150000 +0000" channel="GTV.mncvision">
+<programme start="20260615133000 +0000" stop="20260615153000 +0000" channel="GTV.mncvision">
     <title>The Dragon&#039;s Tomb</title>
 </programme>
-<programme start="20260615150000 +0000" stop="20260615153000 +0000" channel="GTV.mncvision">
-    <title>Asmara Pembawa Petaka</title>
+<programme start="20260615153000 +0000" stop="20260615163000 +0000" channel="GTV.mncvision">
+    <title>The Power Of Hu Zi</title>
+</programme>
+<programme start="20260615163000 +0000" stop="20260614170000 +0000" channel="GTV.mncvision">
+    <title>Beranak Di Dalam Kubur 2</title>
 </programme>
 <programme start="20260614170000 +0000" stop="20260614180000 +0000" channel="GTV HD.mncvision">
     <title>Beranak Di Dalam Kubur 1</title>
@@ -4165,35 +4165,35 @@
 <programme start="20260615023000 +0000" stop="20260615030000 +0000" channel="GTV HD.mncvision">
     <title>Buletin iNews Pagi</title>
 </programme>
-<programme start="20260615030000 +0000" stop="20260615043000 +0000" channel="GTV HD.mncvision">
+<programme start="20260615030000 +0000" stop="20260615050000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260615043000 +0000" stop="20260615060000 +0000" channel="GTV HD.mncvision">
-    <title>Petualangan Baru Upin &amp; Ipin</title>
-</programme>
-<programme start="20260615060000 +0000" stop="20260615080000 +0000" channel="GTV HD.mncvision">
+<programme start="20260615050000 +0000" stop="20260615073000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260615080000 +0000" stop="20260615093000 +0000" channel="GTV HD.mncvision">
-    <title>Super Deal Indonesia</title>
-</programme>
-<programme start="20260615093000 +0000" stop="20260615103000 +0000" channel="GTV HD.mncvision">
+<programme start="20260615073000 +0000" stop="20260615090000 +0000" channel="GTV HD.mncvision">
     <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260615103000 +0000" stop="20260615113000 +0000" channel="GTV HD.mncvision">
-    <title>Entong</title>
+<programme start="20260615090000 +0000" stop="20260615100000 +0000" channel="GTV HD.mncvision">
+    <title>Richard The Stork 2</title>
 </programme>
-<programme start="20260615113000 +0000" stop="20260615123000 +0000" channel="GTV HD.mncvision">
+<programme start="20260615100000 +0000" stop="20260615110000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260615123000 +0000" stop="20260615133000 +0000" channel="GTV HD.mncvision">
+<programme start="20260615110000 +0000" stop="20260615120000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260615120000 +0000" stop="20260615133000 +0000" channel="GTV HD.mncvision">
     <title>New Family 100</title>
 </programme>
-<programme start="20260615133000 +0000" stop="20260615150000 +0000" channel="GTV HD.mncvision">
+<programme start="20260615133000 +0000" stop="20260615153000 +0000" channel="GTV HD.mncvision">
     <title>The Dragon&#039;s Tomb</title>
 </programme>
-<programme start="20260615150000 +0000" stop="20260615153000 +0000" channel="GTV HD.mncvision">
-    <title>Asmara Pembawa Petaka</title>
+<programme start="20260615153000 +0000" stop="20260615163000 +0000" channel="GTV HD.mncvision">
+    <title>The Power Of Hu Zi</title>
+</programme>
+<programme start="20260615163000 +0000" stop="20260614170000 +0000" channel="GTV HD.mncvision">
+    <title>Beranak Di Dalam Kubur 2</title>
 </programme>
 <programme start="20260614210000 +0000" stop="20260614213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
@@ -5810,154 +5810,154 @@
     <title>Customs Protection</title>
 </programme>
 <programme start="20260614170000 +0000" stop="20260614170500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Primetime News</title>
 </programme>
 <programme start="20260614170500 +0000" stop="20260614173000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Primetime News</title>
 </programme>
 <programme start="20260614173000 +0000" stop="20260614180000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Primetime News</title>
 </programme>
 <programme start="20260614180000 +0000" stop="20260614180500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260614180500 +0000" stop="20260614183000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Hari Ini</title>
 </programme>
 <programme start="20260614183000 +0000" stop="20260614190000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Hari Ini</title>
 </programme>
 <programme start="20260614190000 +0000" stop="20260614190500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Hari Ini</title>
 </programme>
 <programme start="20260614190500 +0000" stop="20260614193000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Hari Ini</title>
 </programme>
 <programme start="20260614193000 +0000" stop="20260614200000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Prioritas Indonesia</title>
 </programme>
 <programme start="20260614200000 +0000" stop="20260614200500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260614200500 +0000" stop="20260614203000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Hari Ini</title>
 </programme>
 <programme start="20260614203000 +0000" stop="20260614210000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro This Week</title>
 </programme>
 <programme start="20260614210000 +0000" stop="20260614210500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260614210500 +0000" stop="20260614213000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Top News</title>
 </programme>
 <programme start="20260614213000 +0000" stop="20260614220000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Top News</title>
 </programme>
 <programme start="20260614220000 +0000" stop="20260614220500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260614220500 +0000" stop="20260614223000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Pagi Primetime</title>
 </programme>
 <programme start="20260614223000 +0000" stop="20260614230000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Pagi Primetime</title>
 </programme>
-<programme start="20260614230000 +0000" stop="20260614233000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+<programme start="20260614230000 +0000" stop="20260614232000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20260614232000 +0000" stop="20260614233000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
 </programme>
 <programme start="20260614233000 +0000" stop="20260615000000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Go Healthy</title>
 </programme>
 <programme start="20260615000000 +0000" stop="20260615000500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260615000500 +0000" stop="20260615003000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Editorial Media Indonesia</title>
 </programme>
 <programme start="20260615003000 +0000" stop="20260615010000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Sport</title>
 </programme>
 <programme start="20260615010000 +0000" stop="20260615010500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260615010500 +0000" stop="20260615013000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20260615013000 +0000" stop="20260615020000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20260615020000 +0000" stop="20260615020500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20260615020500 +0000" stop="20260615023000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20260615023000 +0000" stop="20260615030000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20260615030000 +0000" stop="20260615030500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260615030500 +0000" stop="20260615033000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Zona Bisnis</title>
 </programme>
 <programme start="20260615033000 +0000" stop="20260615040000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Zona Bisnis</title>
 </programme>
 <programme start="20260615040000 +0000" stop="20260615040500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260615040500 +0000" stop="20260615043000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Sport</title>
 </programme>
 <programme start="20260615043000 +0000" stop="20260615050000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
 <programme start="20260615050000 +0000" stop="20260615053000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
 <programme start="20260615053000 +0000" stop="20260615060000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Siang</title>
 </programme>
-<programme start="20260615060000 +0000" stop="20260615063000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+<programme start="20260615060000 +0000" stop="20260615062000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20260615062000 +0000" stop="20260615063000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
 </programme>
 <programme start="20260615063000 +0000" stop="20260615070000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Prioritas Indonesia</title>
 </programme>
 <programme start="20260615070000 +0000" stop="20260615070500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260615070500 +0000" stop="20260615073000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20260615073000 +0000" stop="20260615080000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20260615080000 +0000" stop="20260615080500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20260615080500 +0000" stop="20260615083000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20260615083000 +0000" stop="20260615090000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Newsline</title>
 </programme>
 <programme start="20260615090000 +0000" stop="20260615090500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Headline News</title>
 </programme>
 <programme start="20260615090500 +0000" stop="20260615093000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Hari Ini</title>
 </programme>
 <programme start="20260615093000 +0000" stop="20260615100000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
-</programme>
-<programme start="20260615100000 +0000" stop="20260615103000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
-</programme>
-<programme start="20260615103000 +0000" stop="20260615110000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
+    <title>Metro Hari Ini</title>
 </programme>
 <programme start="20260614170000 +0000" stop="20260614190000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn</title>
@@ -7553,7 +7553,7 @@
     <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260615050000 +0000" stop="20260615063000 +0000" channel="RCTI.mncvision">
-    <title>Simpanan Gila Harta</title>
+    <title>Mencintaimu Sekali Lagi</title>
 </programme>
 <programme start="20260615063000 +0000" stop="20260615090000 +0000" channel="RCTI.mncvision">
     <title>Ih Serem</title>
@@ -7601,7 +7601,7 @@
     <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260615050000 +0000" stop="20260615063000 +0000" channel="RCTI HD.mncvision">
-    <title>Simpanan Gila Harta</title>
+    <title>Mencintaimu Sekali Lagi</title>
 </programme>
 <programme start="20260615063000 +0000" stop="20260615090000 +0000" channel="RCTI HD.mncvision">
     <title>Ih Serem</title>
@@ -7750,110 +7750,104 @@
 <programme start="20260614184500 +0000" stop="20260614200000 +0000" channel="SCTV.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20260614200000 +0000" stop="20260614210600 +0000" channel="SCTV.mncvision">
+<programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20260614210600 +0000" stop="20260614213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260614210000 +0000" stop="20260614213000 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20260614213000 +0000" stop="20260614220000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260614213000 +0000" stop="20260614215400 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260614215400 +0000" stop="20260614230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260614230000 +0000" stop="20260615000600 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615000600 +0000" stop="20260615010400 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260615010000 +0000" stop="20260615030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615010400 +0000" stop="20260615024600 +0000" channel="SCTV.mncvision">
+    <title>Diet Ekstrim Bucin Sejati</title>
 </programme>
-<programme start="20260615030000 +0000" stop="20260615050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615024600 +0000" stop="20260615044300 +0000" channel="SCTV.mncvision">
+    <title>Cinta Unfaedah Family Gadungan</title>
 </programme>
-<programme start="20260615050000 +0000" stop="20260615053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615044300 +0000" stop="20260615051500 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260615053000 +0000" stop="20260615070000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615051500 +0000" stop="20260615062700 +0000" channel="SCTV.mncvision">
+    <title>Kembang Boleh Layu Tapi...</title>
 </programme>
-<programme start="20260615070000 +0000" stop="20260615083000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615062700 +0000" stop="20260615073800 +0000" channel="SCTV.mncvision">
+    <title>Negeri Ini Butuh Sate Klopo</title>
 </programme>
-<programme start="20260615083000 +0000" stop="20260615100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615073800 +0000" stop="20260615100000 +0000" channel="SCTV.mncvision">
+    <title>Resepsi Wedding Coppen &amp;...</title>
 </programme>
-<programme start="20260615100000 +0000" stop="20260615111500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615100000 +0000" stop="20260615112600 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260615111500 +0000" stop="20260615130000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615112600 +0000" stop="20260615125800 +0000" channel="SCTV.mncvision">
+    <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260615130000 +0000" stop="20260615144500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615125800 +0000" stop="20260615141500 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260615144500 +0000" stop="20260615160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260615141500 +0000" stop="20260615144500 +0000" channel="SCTV.mncvision">
+    <title>The Icon Indonesia (L)</title>
 </programme>
 <programme start="20260614184500 +0000" stop="20260614200000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20260614200000 +0000" stop="20260614210600 +0000" channel="SCTV HD.mncvision">
+<programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20260614210600 +0000" stop="20260614213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260614210000 +0000" stop="20260614213000 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20260614213000 +0000" stop="20260614220000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260614213000 +0000" stop="20260614215400 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260614215400 +0000" stop="20260614230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260614230000 +0000" stop="20260615000600 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615000600 +0000" stop="20260615010400 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260615010000 +0000" stop="20260615030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615010400 +0000" stop="20260615024600 +0000" channel="SCTV HD.mncvision">
+    <title>Diet Ekstrim Bucin Sejati</title>
 </programme>
-<programme start="20260615030000 +0000" stop="20260615050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615024600 +0000" stop="20260615044300 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Unfaedah Family Gadungan</title>
 </programme>
-<programme start="20260615050000 +0000" stop="20260615053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615044300 +0000" stop="20260615051500 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260615053000 +0000" stop="20260615070000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615051500 +0000" stop="20260615062700 +0000" channel="SCTV HD.mncvision">
+    <title>Kembang Boleh Layu Tapi...</title>
 </programme>
-<programme start="20260615070000 +0000" stop="20260615083000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615062700 +0000" stop="20260615073800 +0000" channel="SCTV HD.mncvision">
+    <title>Negeri Ini Butuh Sate Klopo</title>
 </programme>
-<programme start="20260615083000 +0000" stop="20260615100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615073800 +0000" stop="20260615100000 +0000" channel="SCTV HD.mncvision">
+    <title>Resepsi Wedding Coppen &amp;...</title>
 </programme>
-<programme start="20260615100000 +0000" stop="20260615111500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615100000 +0000" stop="20260615112600 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260615111500 +0000" stop="20260615130000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615112600 +0000" stop="20260615125800 +0000" channel="SCTV HD.mncvision">
+    <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260615130000 +0000" stop="20260615144500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615125800 +0000" stop="20260615141500 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260615144500 +0000" stop="20260615160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260615141500 +0000" stop="20260615144500 +0000" channel="SCTV HD.mncvision">
+    <title>The Icon Indonesia (L)</title>
 </programme>
 <programme start="20260614173000 +0000" stop="20260614183000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>
@@ -9361,80 +9355,80 @@
 <programme start="20260615160500 +0000" stop="20260615163500 +0000" channel="tvN Movies HD.mncvision">
     <title>The Ugly</title>
 </programme>
-<programme start="20260614170000 +0000" stop="20260614183000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260614170000 +0000" stop="20260614180000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
-<programme start="20260614183000 +0000" stop="20260614200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260614180000 +0000" stop="20260614190000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
-<programme start="20260614200000 +0000" stop="20260614203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260614190000 +0000" stop="20260614203000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
 </programme>
-<programme start="20260614203000 +0000" stop="20260614210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260614210000 +0000" stop="20260614213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260614203000 +0000" stop="20260614213000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
 <programme start="20260614213000 +0000" stop="20260614230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi</title>
 </programme>
 <programme start="20260614230000 +0000" stop="20260614233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2 (L)</title>
 </programme>
-<programme start="20260614233000 +0000" stop="20260615012700 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260615012700 +0000" stop="20260615013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260614233000 +0000" stop="20260615013000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
 <programme start="20260615013000 +0000" stop="20260615020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Hidup Sehat</title>
 </programme>
 <programme start="20260615020000 +0000" stop="20260615023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260615023000 +0000" stop="20260615033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260615033000 +0000" stop="20260615040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan (L)</title>
 </programme>
-<programme start="20260615040000 +0000" stop="20260615060000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260615040000 +0000" stop="20260615053000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260615060000 +0000" stop="20260615073000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260615053000 +0000" stop="20260615063000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
-<programme start="20260615073000 +0000" stop="20260615083000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260615063000 +0000" stop="20260615073000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang</title>
+</programme>
+<programme start="20260615073000 +0000" stop="20260615080000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih</title>
+</programme>
+<programme start="20260615080000 +0000" stop="20260615083000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Bola Dunia</title>
 </programme>
 <programme start="20260615083000 +0000" stop="20260615090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260615090000 +0000" stop="20260615110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang (L)</title>
 </programme>
-<programme start="20260615110000 +0000" stop="20260615125700 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260615110000 +0000" stop="20260615124500 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260615125700 +0000" stop="20260615130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260615124500 +0000" stop="20260615130000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Terkini</title>
 </programme>
-<programme start="20260615130000 +0000" stop="20260615135700 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260615135700 +0000" stop="20260615140000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260615130000 +0000" stop="20260615140000 +0000" channel="tvOne.mncvision">
+    <title>Fakta</title>
 </programme>
 <programme start="20260615140000 +0000" stop="20260615150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2 (L)</title>
 </programme>
-<programme start="20260615150000 +0000" stop="20260615163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260615150000 +0000" stop="20260615153000 +0000" channel="tvOne.mncvision">
+    <title>Pesta Sepakbola</title>
 </programme>
-<programme start="20260615163000 +0000" stop="20260614170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260615153000 +0000" stop="20260615160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Malam</title>
 </programme>
 <programme start="20260614170000 +0000" stop="20260614190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>

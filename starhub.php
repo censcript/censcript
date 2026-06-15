@@ -3107,10 +3107,10 @@
         <title>News</title>
     </programme>
     <programme start="20260615000200 +0000" stop="20260615003000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>The El Rocío pilgrimage in Spain: a journey for everyone!</title>
     </programme>
     <programme start="20260615003000 +0000" stop="20260615010000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>China Tourism Boom: Growth, Control and Crisis</title>
     </programme>
     <programme start="20260615010000 +0000" stop="20260615010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3122,16 +3122,16 @@
         <title>Reviving Switzerland’s Isolated Villages</title>
     </programme>
     <programme start="20260615014500 +0000" stop="20260615020000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Fall or Foul Play? Unresolved Deaths of Women in Turkey</title>
     </programme>
     <programme start="20260615020000 +0000" stop="20260615020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260615020200 +0000" stop="20260615023000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>The vital buzz securing our food and future</title>
     </programme>
     <programme start="20260615023000 +0000" stop="20260615030000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Can Goodluck Jonathan rescue Nigeria? PDP&#039;s 2027 gamble under scrutiny</title>
     </programme>
     <programme start="20260615030000 +0000" stop="20260615030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3140,7 +3140,7 @@
         <title>How to grow old healthily!</title>
     </programme>
     <programme start="20260615033000 +0000" stop="20260615040000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>The El Rocío pilgrimage in Spain: a journey for everyone!</title>
     </programme>
     <programme start="20260615040000 +0000" stop="20260615040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3149,10 +3149,10 @@
         <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260615041500 +0000" stop="20260615044500 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>China Tourism Boom: Growth, Control and Crisis</title>
     </programme>
     <programme start="20260615044500 +0000" stop="20260615050000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Fall or Foul Play? Unresolved Deaths of Women in Turkey</title>
     </programme>
     <programme start="20260615050000 +0000" stop="20260615050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3167,13 +3167,13 @@
         <title>News</title>
     </programme>
     <programme start="20260615060200 +0000" stop="20260615061500 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>Ukrainian refugee seeks vaulting history</title>
     </programme>
     <programme start="20260615061500 +0000" stop="20260615063000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Better Travel with AI &amp; Apps?</title>
     </programme>
     <programme start="20260615063000 +0000" stop="20260615070000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Kenya’s soil whisperer: Growing food where nothing thrives</title>
     </programme>
     <programme start="20260615070000 +0000" stop="20260615070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3191,7 +3191,7 @@
         <title>Reviving Switzerland’s Isolated Villages</title>
     </programme>
     <programme start="20260615083000 +0000" stop="20260615090000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Can Goodluck Jonathan rescue Nigeria? PDP&#039;s 2027 gamble under scrutiny</title>
     </programme>
     <programme start="20260615090000 +0000" stop="20260615090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3206,7 +3206,7 @@
         <title>News</title>
     </programme>
     <programme start="20260615100200 +0000" stop="20260615101500 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>Ukrainian refugee seeks vaulting history</title>
     </programme>
     <programme start="20260615101500 +0000" stop="20260615110000 +0000" channel="DW English HD.starhub">
         <title>Episode 2: A Night with Rockstars, Rebels, and Princesses</title>
@@ -3215,10 +3215,10 @@
         <title>News</title>
     </programme>
     <programme start="20260615110200 +0000" stop="20260615113000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Kenya’s soil whisperer: Growing food where nothing thrives</title>
     </programme>
     <programme start="20260615113000 +0000" stop="20260615120000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>China Tourism Boom: Growth, Control and Crisis</title>
     </programme>
     <programme start="20260615120000 +0000" stop="20260615120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3236,7 +3236,7 @@
         <title>News</title>
     </programme>
     <programme start="20260615131500 +0000" stop="20260615133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>The EU’s $2 Trillion Taiwan Problem</title>
     </programme>
     <programme start="20260615133000 +0000" stop="20260615140000 +0000" channel="DW English HD.starhub">
         <title>Could YOU Still Afford to Live in Cape Town Today?</title>
@@ -3254,7 +3254,7 @@
         <title>News</title>
     </programme>
     <programme start="20260615153000 +0000" stop="20260615160000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>China Tourism Boom: Growth, Control and Crisis</title>
     </programme>
     <programme start="20260614160000 +0000" stop="20260614220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -4532,7 +4532,7 @@
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260615070000 +0000" stop="20260615073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kana Kandenadi</title>
+        <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
     <programme start="20260615073000 +0000" stop="20260615080000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -4570,14 +4570,11 @@
     <programme start="20260615130000 +0000" stop="20260615133000 +0000" channel="Vijay TV HD.starhub">
         <title>Siragadikka Aasai</title>
     </programme>
-    <programme start="20260615133000 +0000" stop="20260615140000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260615133000 +0000" stop="20260615143000 +0000" channel="Vijay TV HD.starhub">
         <title>Chinna Marumagal Panirendaam Vaguppu</title>
     </programme>
-    <programme start="20260615140000 +0000" stop="20260615143000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kana Kandenadi</title>
-    </programme>
     <programme start="20260615143000 +0000" stop="20260615150000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
+        <title>Kana Kandenadi</title>
     </programme>
     <programme start="20260615150000 +0000" stop="20260615153000 +0000" channel="Vijay TV HD.starhub">
         <title>Thaai Maman- Thaiku Nigaranavan</title>
@@ -4995,6 +4992,57 @@
     </programme>
     <programme start="20260615153500 +0000" stop="20260615163000 +0000" channel="KBS World HD.starhub">
         <title>Jang Youngsil: The Greatest Scientist of Joseon</title>
+    </programme>
+    <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="TestChannel 996.starhub">
+        <title>Early Morning News (Live)</title>
+    </programme>
+    <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="TestChannel 996.starhub">
+        <title>Early Morning News (Live)</title>
+    </programme>
+    <programme start="20260615010000 +0000" stop="20260615020000 +0000" channel="TestChannel 996.starhub">
+        <title>0900 Morning News (Live)</title>
+    </programme>
+    <programme start="20260615020000 +0000" stop="20260615030000 +0000" channel="TestChannel 996.starhub">
+        <title>1000 Morning News (Live)</title>
+    </programme>
+    <programme start="20260615030000 +0000" stop="20260615040000 +0000" channel="TestChannel 996.starhub">
+        <title>1100 Morning News (Live)</title>
+    </programme>
+    <programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="TestChannel 996.starhub">
+        <title>1200/1300 Noon News (Live)</title>
+    </programme>
+    <programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="TestChannel 996.starhub">
+        <title>1200/1300 Noon News (Live)</title>
+    </programme>
+    <programme start="20260615060000 +0000" stop="20260615070000 +0000" channel="TestChannel 996.starhub">
+        <title>News At 1400 (Live)</title>
+    </programme>
+    <programme start="20260615070000 +0000" stop="20260615080000 +0000" channel="TestChannel 996.starhub">
+        <title>1500 Afternoon News (Live)</title>
+    </programme>
+    <programme start="20260615080000 +0000" stop="20260615090000 +0000" channel="TestChannel 996.starhub">
+        <title>1600 Afternoon News (Live)</title>
+    </programme>
+    <programme start="20260615090000 +0000" stop="20260615100000 +0000" channel="TestChannel 996.starhub">
+        <title>1700 Afternoon News (Live)</title>
+    </programme>
+    <programme start="20260615100000 +0000" stop="20260615110000 +0000" channel="TestChannel 996.starhub">
+        <title>1800/1900 Evening News (Live)</title>
+    </programme>
+    <programme start="20260615110000 +0000" stop="20260615120000 +0000" channel="TestChannel 996.starhub">
+        <title>1800/1900 Evening News (Live)</title>
+    </programme>
+    <programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="TestChannel 996.starhub">
+        <title>News Frontline (Live)</title>
+    </programme>
+    <programme start="20260615130000 +0000" stop="20260615140000 +0000" channel="TestChannel 996.starhub">
+        <title>2100 Hot Topics (Live)</title>
+    </programme>
+    <programme start="20260615140000 +0000" stop="20260615150000 +0000" channel="TestChannel 996.starhub">
+        <title>News Night (Live)</title>
+    </programme>
+    <programme start="20260615150000 +0000" stop="20260615160000 +0000" channel="TestChannel 996.starhub">
+        <title>Late Night Vision (Live)</title>
     </programme>
     <programme start="20260614160000 +0000" stop="20260614160500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>
@@ -6272,7 +6320,7 @@
         <title>Season 4 Episode 6</title>
     </programme>
     <programme start="20260615063000 +0000" stop="20260615083000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Libema Open (250) Final</title>
+        <title>Libema Open (250) SF 1</title>
     </programme>
     <programme start="20260615083000 +0000" stop="20260615103000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Libema Open (250) Final</title>
@@ -6298,23 +6346,29 @@
     <programme start="20260614222100 +0000" stop="20260615000000 +0000" channel="SONY MAX.starhub">
         <title>Kahan Shuru Kahan Khatam</title>
     </programme>
-    <programme start="20260615000000 +0000" stop="20260615030000 +0000" channel="SONY MAX.starhub">
-        <title>Nikamma</title>
+    <programme start="20260615000000 +0000" stop="20260615002700 +0000" channel="SONY MAX.starhub">
+        <title>Extraa Shots- Befikre</title>
     </programme>
-    <programme start="20260615030000 +0000" stop="20260615060000 +0000" channel="SONY MAX.starhub">
-        <title>Jaaneman</title>
+    <programme start="20260615002700 +0000" stop="20260615030000 +0000" channel="SONY MAX.starhub">
+        <title>Secret Superstar</title>
     </programme>
-    <programme start="20260615060000 +0000" stop="20260615090000 +0000" channel="SONY MAX.starhub">
+    <programme start="20260615030000 +0000" stop="20260615054200 +0000" channel="SONY MAX.starhub">
+        <title>Aulad</title>
+    </programme>
+    <programme start="20260615054200 +0000" stop="20260615075000 +0000" channel="SONY MAX.starhub">
+        <title>Meri Pyaari Bindu</title>
+    </programme>
+    <programme start="20260615075000 +0000" stop="20260615094000 +0000" channel="SONY MAX.starhub">
         <title>Tuesdays &amp; Fridays</title>
     </programme>
-    <programme start="20260615090000 +0000" stop="20260615120000 +0000" channel="SONY MAX.starhub">
+    <programme start="20260615094000 +0000" stop="20260615120000 +0000" channel="SONY MAX.starhub">
         <title>Bhaiyya Ji</title>
     </programme>
-    <programme start="20260615120000 +0000" stop="20260615150000 +0000" channel="SONY MAX.starhub">
-        <title>Pk</title>
+    <programme start="20260615120000 +0000" stop="20260615155200 +0000" channel="SONY MAX.starhub">
+        <title>Lagaan</title>
     </programme>
-    <programme start="20260615150000 +0000" stop="20260615180000 +0000" channel="SONY MAX.starhub">
-        <title>Ramji Londonwale</title>
+    <programme start="20260615155200 +0000" stop="20260615181100 +0000" channel="SONY MAX.starhub">
+        <title>Malaal</title>
     </programme>
     <programme start="20260614160000 +0000" stop="20260614163000 +0000" channel="Sky News HD.starhub">
         <title>News Hour with Jonathan Samuels</title>
@@ -6523,8 +6577,11 @@
     <programme start="20260615133000 +0000" stop="20260615143500 +0000" channel="beIN Sports HD.starhub">
         <title>Salah: Farewell to the King</title>
     </programme>
-    <programme start="20260615143500 +0000" stop="20260615160000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260615143500 +0000" stop="20260615154500 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Liverpool vs Man United PL 2022/23</title>
+    </programme>
+    <programme start="20260615154500 +0000" stop="20260615162000 +0000" channel="beIN Sports HD.starhub">
+        <title>LFC Trending 2025/26</title>
     </programme>
     <programme start="20260614150000 +0000" stop="20260614161500 +0000" channel="TestChannel2.starhub">
         <title>Mother and Mom</title>
@@ -7624,7 +7681,7 @@
     <programme start="20260614213000 +0000" stop="20260614233000 +0000" channel="Asianet Movies.starhub">
         <title>Seelabathi</title>
     </programme>
-    <programme start="20260614233000 +0000" stop="20260615013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260614231000 +0000" stop="20260615013000 +0000" channel="Asianet Movies.starhub">
         <title>Lavakusha</title>
     </programme>
     <programme start="20260615013000 +0000" stop="20260615043000 +0000" channel="Asianet Movies.starhub">

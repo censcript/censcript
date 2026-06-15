@@ -16,10 +16,10 @@
     <programme start="20260614211000 +0000" stop="20260614220000 +0000" channel="Channel 5.mewatch">
         <title>Lingo UK S2 - EP 22</title>
     </programme>
-    <programme start="20260614220000 +0000" stop="20260614223000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260614220000 +0000" stop="20260614222500 +0000" channel="Channel 5.mewatch">
         <title>Yu-Gi-Oh! Duel Monsters - EP 70</title>
     </programme>
-    <programme start="20260614223000 +0000" stop="20260614230000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260614222500 +0000" stop="20260614230000 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026 - Pre-Show - Group Stage: Ivory Coast v Ecuador</title>
     </programme>
     <programme start="20260614230000 +0000" stop="20260615010000 +0000" channel="Channel 5.mewatch">
