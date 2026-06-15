@@ -17,7 +17,7 @@ def download_epg(urls):
         else:
             print(f"Gagal mendownload file {file_name}. Status code: {response.status_code}")
 
-# Daftar URL EPG
+# Daftar URL EPGs
 urls = [
     #"https://manusiabiasa.serv00.net/cen/epg/cubmu.php",
     #"https://manusiabiasa.serv00.net/cen/epg/firstmedia.php",
