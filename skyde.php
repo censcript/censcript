@@ -2845,7 +2845,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Under the Skin (Newcastle v Sunderland)</title>
 </programme>
 <programme start="20260615190000 +0000" stop="20260615193000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: 90in30: AVL - MUN, 17. Spieltag</title>
+    <title>PL: 90in30: AVL - MUN, 17. Spieltag</title>
 </programme>
 <programme start="20260615193000 +0000" stop="20260615200000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Unai Emery)</title>
@@ -2871,9 +2871,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260615013000 +0000" stop="20260615034500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20260615034500 +0000" stop="20260615041500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
-</programme>
 <programme start="20260615041500 +0000" stop="20260615064000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
@@ -2895,10 +2892,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614220000 +0000" stop="20260614234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Curtis Cup, 3. Tag in Los Angeles (USA)</title>
 </programme>
-<programme start="20260614234500 +0000" stop="20260615035500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260614234500 +0000" stop="20260615031500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20260615035500 +0000" stop="20260615054500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260615031500 +0000" stop="20260615054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260615054500 +0000" stop="20260615060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2982,7 +2979,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260615084000 +0000" stop="20260615090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260615090000 +0000" stop="20260615220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260615090000 +0000" stop="20260615200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 1. Tag</title>
 </programme>
 <programme start="20260614222000 +0000" stop="20260614225000 +0000" channel="Sky Sport 2 HD.skyde">
