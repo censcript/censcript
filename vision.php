@@ -658,17 +658,8 @@
 <programme start="20260615090000 +0000" stop="20260615113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260615113000 +0000" stop="20260615133000 +0000" channel="ANTV.vision">
-<title>Pancasona</title>
-</programme>
-<programme start="20260615133000 +0000" stop="20260615153000 +0000" channel="ANTV.vision">
-<title>Pencet Sana Pencet Sini</title>
-</programme>
 <programme start="20260615153000 +0000" stop="20260615173000 +0000" channel="ANTV.vision">
 <title>Malam Keramat</title>
-</programme>
-<programme start="20260615173000 +0000" stop="20260615193000 +0000" channel="ANTV.vision">
-<title>China O&#039;Brien</title>
 </programme>
 <programme start="20260615193000 +0000" stop="20260615220000 +0000" channel="ANTV.vision">
 <title>Love Aaj Kal 2</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260615090000 +0000" stop="20260615110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260615110000 +0000" stop="20260615130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260615130000 +0000" stop="20260615160000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260615160000 +0000" stop="20260615170000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
 </programme>

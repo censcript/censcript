@@ -8086,9 +8086,162 @@
 <programme start="20260616163000 +0000" stop="20260615170000 +0000" channel="Soccer Channel.mncvision">
     <title>Garuda Muda: IDN Vs YEM</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260615183000 +0000" stop="20260615203000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League IDN 2025-2026</title>
+</programme>
+<programme start="20260615203000 +0000" stop="20260615210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Extra Time</title>
+</programme>
+<programme start="20260615210000 +0000" stop="20260615230000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>U17 Asian Cup 2026: UAE Vs YEM</title>
+</programme>
+<programme start="20260615230000 +0000" stop="20260616010000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Road To AFF 2026: VIE Vs MYA</title>
+</programme>
+<programme start="20260616010000 +0000" stop="20260616013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260616013000 +0000" stop="20260616033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: FCB Vs HSV</title>
+</programme>
+<programme start="20260616033000 +0000" stop="20260616040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Extra Time</title>
+</programme>
+<programme start="20260616040000 +0000" stop="20260616042500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260616042500 +0000" stop="20260616063000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Women Pro Futsal League (L)</title>
+</programme>
+<programme start="20260616063000 +0000" stop="20260616065500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20260616065500 +0000" stop="20260616090000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Women Pro Futsal League (L)</title>
+</programme>
+<programme start="20260616090000 +0000" stop="20260616092500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260616092500 +0000" stop="20260616113000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Women Pro Futsal League (L)</title>
+</programme>
+<programme start="20260616113000 +0000" stop="20260616115500 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Extra Time</title>
+</programme>
+<programme start="20260616115500 +0000" stop="20260616140000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Women Pro Futsal League (L)</title>
+</programme>
+<programme start="20260616140000 +0000" stop="20260616143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260616143000 +0000" stop="20260616163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Garuda Muda: KOR Vs IDN</title>
+</programme>
+<programme start="20260616163000 +0000" stop="20260615170000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Garuda Muda: IDN Vs YEM</title>
+</programme>
+<programme start="20260615173000 +0000" stop="20260615200000 +0000" channel="Sportstars.mncvision">
+    <title>Indonesia Juara Badminton</title>
+</programme>
+<programme start="20260615200000 +0000" stop="20260615203000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260615203000 +0000" stop="20260615210000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260615210000 +0000" stop="20260615230000 +0000" channel="Sportstars.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260615230000 +0000" stop="20260615233000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260615233000 +0000" stop="20260616000000 +0000" channel="Sportstars.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260616000000 +0000" stop="20260616003000 +0000" channel="Sportstars.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20260616003000 +0000" stop="20260616023000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026: Women</title>
+</programme>
+<programme start="20260616023000 +0000" stop="20260616043000 +0000" channel="Sportstars.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20260616043000 +0000" stop="20260616050000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260616050000 +0000" stop="20260616053000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260616053000 +0000" stop="20260616080000 +0000" channel="Sportstars.mncvision">
+    <title>Indonesia Juara Badminton</title>
+</programme>
+<programme start="20260616080000 +0000" stop="20260616083000 +0000" channel="Sportstars.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260616090000 +0000" stop="20260616110000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026: Women</title>
+</programme>
+<programme start="20260616110000 +0000" stop="20260616130000 +0000" channel="Sportstars.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616133000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260616133000 +0000" stop="20260616153000 +0000" channel="Sportstars.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260616153000 +0000" stop="20260616160000 +0000" channel="Sportstars.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20260615170000 +0000" stop="20260615190000 +0000" channel="Sportstars 2.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260615190000 +0000" stop="20260615210000 +0000" channel="Sportstars 2.mncvision">
+    <title>Road To AFF</title>
+</programme>
+<programme start="20260615210000 +0000" stop="20260615233000 +0000" channel="Sportstars 2.mncvision">
+    <title>Indonesia Juara Badminton</title>
+</programme>
+<programme start="20260615233000 +0000" stop="20260616000000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20260616000000 +0000" stop="20260616003000 +0000" channel="Sportstars 2.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260616003000 +0000" stop="20260616023000 +0000" channel="Sportstars 2.mncvision">
+    <title>The Championships Wimbledon</title>
+</programme>
+<programme start="20260616023000 +0000" stop="20260616030000 +0000" channel="Sportstars 2.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260616030000 +0000" stop="20260616050000 +0000" channel="Sportstars 2.mncvision">
+    <title>Road To AFF</title>
+</programme>
+<programme start="20260616050000 +0000" stop="20260616070000 +0000" channel="Sportstars 2.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260616070000 +0000" stop="20260616083000 +0000" channel="Sportstars 2.mncvision">
+    <title>Tinju</title>
+</programme>
+<programme start="20260616083000 +0000" stop="20260616103000 +0000" channel="Sportstars 2.mncvision">
+    <title>Road To AFF</title>
+</programme>
+<programme start="20260616103000 +0000" stop="20260616130000 +0000" channel="Sportstars 2.mncvision">
+    <title>Indonesia Juara Badminton</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616150000 +0000" channel="Sportstars 2.mncvision">
+    <title>WST World Championship</title>
+</programme>
+<programme start="20260616150000 +0000" stop="20260616153000 +0000" channel="Sportstars 2.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260616153000 +0000" stop="20260616160000 +0000" channel="Sportstars 2.mncvision">
+    <title>Tinju</title>
+</programme>
 <programme start="20260615170000 +0000" stop="20260615190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Padel Hexagon Cup</title>
 </programme>
@@ -8206,7 +8359,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260616150000 +0000" stop="20260616153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Pro Futsal League IDN 2025-2026</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260615170000 +0000" stop="20260615190000 +0000" channel="Sportstars 4.mncvision">
+    <title>Garuda Juara: IDN Vs KUW</title>
+</programme>
+<programme start="20260615190000 +0000" stop="20260615210000 +0000" channel="Sportstars 4.mncvision">
+    <title>Garuda Juara: IDN Vs NMI</title>
+</programme>
+<programme start="20260615210000 +0000" stop="20260615230000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260615230000 +0000" stop="20260616010000 +0000" channel="Sportstars 4.mncvision">
+    <title>Pro Futsal League Indonesia</title>
+</programme>
+<programme start="20260616010000 +0000" stop="20260616030000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U17 Asian Cup 2026</title>
+</programme>
+<programme start="20260616030000 +0000" stop="20260616050000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260616050000 +0000" stop="20260616070000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260616070000 +0000" stop="20260616090000 +0000" channel="Sportstars 4.mncvision">
+    <title>Pro Futsal League Indonesia</title>
+</programme>
+<programme start="20260616090000 +0000" stop="20260616110000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U17 Asian Cup 2026</title>
+</programme>
+<programme start="20260616110000 +0000" stop="20260616130000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616150000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260616150000 +0000" stop="20260616153000 +0000" channel="Sportstars 4.mncvision">
+    <title>Pro Futsal League Indonesia</title>
+</programme>
 <programme start="20260615170000 +0000" stop="20260615190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Garuda Juara: IDN Vs KUW</title>
 </programme>
@@ -8873,8 +9061,135 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260616165500 +0000" stop="20260615172500 +0000" channel="Thrill.mncvision">
     <title>Red Snow</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260615171500 +0000" stop="20260615174500 +0000" channel="Trans 7.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20260615174500 +0000" stop="20260615193000 +0000" channel="Trans 7.mncvision">
+    <title>Fist Of Furry</title>
+</programme>
+<programme start="20260615193000 +0000" stop="20260615200000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20260615200000 +0000" stop="20260615210000 +0000" channel="Trans 7.mncvision">
+    <title>Amazing Trip</title>
+</programme>
+<programme start="20260615210000 +0000" stop="20260615214500 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260615214500 +0000" stop="20260615223000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Al Qur&#039;an</title>
+</programme>
+<programme start="20260615223000 +0000" stop="20260615233000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20260615233000 +0000" stop="20260616003000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20260616003000 +0000" stop="20260616013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20260616013000 +0000" stop="20260616023000 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20260616023000 +0000" stop="20260616031500 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20260616031500 +0000" stop="20260616041500 +0000" channel="Trans 7.mncvision">
+    <title>Big-Bang!</title>
+</programme>
+<programme start="20260616041500 +0000" stop="20260616050000 +0000" channel="Trans 7.mncvision">
+    <title>Enah Bikin Enak</title>
+</programme>
+<programme start="20260616050000 +0000" stop="20260616054500 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20260616054500 +0000" stop="20260616063000 +0000" channel="Trans 7.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20260616063000 +0000" stop="20260616071500 +0000" channel="Trans 7.mncvision">
+    <title>Indonesiaku</title>
+</programme>
+<programme start="20260616071500 +0000" stop="20260616080000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="Trans 7.mncvision">
+    <title>Bikin Seneng</title>
+</programme>
+<programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20260616100000 +0000" stop="20260616110000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Update</title>
+</programme>
+<programme start="20260616110000 +0000" stop="20260616114500 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20260616114500 +0000" stop="20260616121500 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20260616121500 +0000" stop="20260616130000 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20260616143000 +0000" stop="20260616154500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20260616154500 +0000" stop="20260616163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20260616163000 +0000" stop="20260615170000 +0000" channel="Trans 7.mncvision">
+    <title>Misteri Dunia</title>
+</programme>
+<programme start="20260615180000 +0000" stop="20260615220000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Tech News</title>
+</programme>
+<programme start="20260615220000 +0000" stop="20260615233000 +0000" channel="Trans TV.mncvision">
+    <title>Islam Itu Indah</title>
+</programme>
+<programme start="20260615233000 +0000" stop="20260616003000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Pagi (L)</title>
+</programme>
+<programme start="20260616003000 +0000" stop="20260616020000 +0000" channel="Trans TV.mncvision">
+    <title>Kajian Hati</title>
+</programme>
+<programme start="20260616020000 +0000" stop="20260616033000 +0000" channel="Trans TV.mncvision">
+    <title>Ambyar In Weekend</title>
+</programme>
+<programme start="20260616033000 +0000" stop="20260616043000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Siang</title>
+</programme>
+<programme start="20260616043000 +0000" stop="20260616053000 +0000" channel="Trans TV.mncvision">
+    <title>Brownis On The Weekend</title>
+</programme>
+<programme start="20260616053000 +0000" stop="20260616060000 +0000" channel="Trans TV.mncvision">
+    <title>Masak Anti Ribet</title>
+</programme>
+<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Investigasi</title>
+</programme>
+<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="Trans TV.mncvision">
+    <title>Bikin Laper</title>
+</programme>
+<programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="Trans TV.mncvision">
+    <title>SBY Cup 2026</title>
+</programme>
+<programme start="20260616100000 +0000" stop="20260616110000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Story</title>
+</programme>
+<programme start="20260616110000 +0000" stop="20260616130000 +0000" channel="Trans TV.mncvision">
+    <title>SBY Cup 2026</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616140000 +0000" channel="Trans TV.mncvision">
+    <title>Highlight</title>
+</programme>
+<programme start="20260616140000 +0000" stop="20260616160000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20260616160000 +0000" stop="20260616163000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
 <programme start="20260615191000 +0000" stop="20260615204500 +0000" channel="tvN.mncvision">
     <title>Painfully Delicious!, Ep 3</title>
 </programme>
@@ -9127,7 +9442,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260616163000 +0000" stop="20260615170000 +0000" channel="tvOne.mncvision">
     <title>Kabar Arena Malam</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260615170000 +0000" stop="20260615190000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260615190000 +0000" stop="20260615210000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260615210000 +0000" stop="20260615230000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260615230000 +0000" stop="20260616010000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260616010000 +0000" stop="20260616030000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260616030000 +0000" stop="20260616050000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260616050000 +0000" stop="20260616070000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260616070000 +0000" stop="20260616090000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260616090000 +0000" stop="20260616110000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260616110000 +0000" stop="20260616130000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616150000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260616150000 +0000" stop="20260616153000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
 <programme start="20260615171700 +0000" stop="20260615185500 +0000" channel="UNIQUES.mncvision">
     <title>The Christmas Letter</title>
 </programme>
@@ -9170,6 +9520,177 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260616155700 +0000" stop="20260616162700 +0000" channel="UNIQUES.mncvision">
     <title>Sinister Tales: The Haunting</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260615171700 +0000" stop="20260615185500 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Christmas Letter</title>
+</programme>
+<programme start="20260615185500 +0000" stop="20260615203300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Laugh Riot: The Misadventure</title>
+</programme>
+<programme start="20260615203300 +0000" stop="20260615223200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Killerman</title>
+</programme>
+<programme start="20260615223200 +0000" stop="20260616003100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Iron Fist: Rebellion</title>
+</programme>
+<programme start="20260616003100 +0000" stop="20260616015500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Abduction Runs In The Family</title>
+</programme>
+<programme start="20260616015500 +0000" stop="20260616034900 +0000" channel="UNIQUES HD.mncvision">
+    <title>The Innkeepers</title>
+</programme>
+<programme start="20260616034900 +0000" stop="20260616055000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Sinister Tales: The Haunting</title>
+</programme>
+<programme start="20260616055000 +0000" stop="20260616071400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Sins In The Family</title>
+</programme>
+<programme start="20260616071400 +0000" stop="20260616083600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Laugh Riot: The Misadventure</title>
+</programme>
+<programme start="20260616083600 +0000" stop="20260616102100 +0000" channel="UNIQUES HD.mncvision">
+    <title>Arctic Blast</title>
+</programme>
+<programme start="20260616102100 +0000" stop="20260616121700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Iron Fist: Rebellion</title>
+</programme>
+<programme start="20260616121700 +0000" stop="20260616135200 +0000" channel="UNIQUES HD.mncvision">
+    <title>Summer Rain</title>
+</programme>
+<programme start="20260616135200 +0000" stop="20260616155700 +0000" channel="UNIQUES HD.mncvision">
+    <title>A Score To Settle</title>
+</programme>
+<programme start="20260616155700 +0000" stop="20260616162700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Sinister Tales: The Haunting</title>
+</programme>
+<programme start="20260615170000 +0000" stop="20260615180000 +0000" channel="Vision Prime.mncvision">
+    <title>Manda Curhat</title>
+</programme>
+<programme start="20260615180000 +0000" stop="20260615190000 +0000" channel="Vision Prime.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260615190000 +0000" stop="20260615200000 +0000" channel="Vision Prime.mncvision">
+    <title>Turun Ranjang</title>
+</programme>
+<programme start="20260615200000 +0000" stop="20260615210000 +0000" channel="Vision Prime.mncvision">
+    <title>Liontin</title>
+</programme>
+<programme start="20260615210000 +0000" stop="20260615220000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260615220000 +0000" stop="20260615230000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20260615230000 +0000" stop="20260616000000 +0000" channel="Vision Prime.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="Vision Prime.mncvision">
+    <title>Preman Pensiun Deui</title>
+</programme>
+<programme start="20260616010000 +0000" stop="20260616030000 +0000" channel="Vision Prime.mncvision">
+    <title>Tropic Thunder</title>
+</programme>
+<programme start="20260616030000 +0000" stop="20260616040000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260616040000 +0000" stop="20260616050000 +0000" channel="Vision Prime.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="Vision Prime.mncvision">
+    <title>Manda Curhat</title>
+</programme>
+<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="Vision Prime.mncvision">
+    <title>Turun Ranjang</title>
+</programme>
+<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="Vision Prime.mncvision">
+    <title>Liontin</title>
+</programme>
+<programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="Vision Prime.mncvision">
+    <title>Preman Pensiun Deui</title>
+</programme>
+<programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20260616100000 +0000" stop="20260616120000 +0000" channel="Vision Prime.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260616120000 +0000" stop="20260616130000 +0000" channel="Vision Prime.mncvision">
+    <title>Turun Ranjang</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616140000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260616140000 +0000" stop="20260616143000 +0000" channel="Vision Prime.mncvision">
+    <title>Dendam</title>
+</programme>
+<programme start="20260616143000 +0000" stop="20260616150000 +0000" channel="Vision Prime.mncvision">
+    <title>Once Upon A Time In Chinatown</title>
+</programme>
+<programme start="20260616150000 +0000" stop="20260616153000 +0000" channel="Vision Prime.mncvision">
+    <title>Ketika Cinta Bertasbih 2</title>
+</programme>
+<programme start="20260615170000 +0000" stop="20260615180000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Manda Curhat</title>
+</programme>
+<programme start="20260615180000 +0000" stop="20260615190000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260615190000 +0000" stop="20260615200000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Turun Ranjang</title>
+</programme>
+<programme start="20260615200000 +0000" stop="20260615210000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Liontin</title>
+</programme>
+<programme start="20260615210000 +0000" stop="20260615220000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260615220000 +0000" stop="20260615230000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20260615230000 +0000" stop="20260616000000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun Deui</title>
+</programme>
+<programme start="20260616010000 +0000" stop="20260616030000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Tropic Thunder</title>
+</programme>
+<programme start="20260616030000 +0000" stop="20260616040000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260616040000 +0000" stop="20260616050000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Manda Curhat</title>
+</programme>
+<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Turun Ranjang</title>
+</programme>
+<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Liontin</title>
+</programme>
+<programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Preman Pensiun Deui</title>
+</programme>
+<programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20260616100000 +0000" stop="20260616120000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260616120000 +0000" stop="20260616130000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Turun Ranjang</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616140000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260616140000 +0000" stop="20260616143000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Dendam</title>
+</programme>
+<programme start="20260616143000 +0000" stop="20260616150000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Once Upon A Time In Chinatown</title>
+</programme>
+<programme start="20260616150000 +0000" stop="20260616153000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Ketika Cinta Bertasbih 2</title>
+</programme>

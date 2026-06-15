@@ -960,40 +960,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260615060000 +0000" stop="20260615075500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Borussia Dortmund - FC Bayern München</title>
 </programme>
-<programme start="20260615075500 +0000" stop="20260615081500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615075500 +0000" stop="20260615082500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260615081500 +0000" stop="20260615112000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615082500 +0000" stop="20260615112000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga Konferenz 25/26: 34. Spieltag</title>
 </programme>
 <programme start="20260615112000 +0000" stop="20260615115000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260615115000 +0000" stop="20260615122000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615115000 +0000" stop="20260615124000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 22. Spieltag</title>
 </programme>
-<programme start="20260615122000 +0000" stop="20260615124500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615124000 +0000" stop="20260615125500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 23. Spieltag</title>
 </programme>
-<programme start="20260615124500 +0000" stop="20260615150500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615125500 +0000" stop="20260615151500 +0000" channel="DAZN 1 HD.skyde">
     <title>Copa del Rey 25/26: Atlético Madrid - FC Barcelona</title>
 </programme>
-<programme start="20260615150500 +0000" stop="20260615160500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615151500 +0000" stop="20260615160500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 30. Spieltag</title>
 </programme>
 <programme start="20260615160500 +0000" stop="20260615171000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 31. Spieltag</title>
 </programme>
-<programme start="20260615171000 +0000" stop="20260615173000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615171000 +0000" stop="20260615174000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260615173000 +0000" stop="20260615183500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615174000 +0000" stop="20260615184500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 32. Spieltag</title>
 </programme>
-<programme start="20260615183500 +0000" stop="20260615193500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615184500 +0000" stop="20260615194500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 33. Spieltag</title>
 </programme>
-<programme start="20260615193500 +0000" stop="20260615200500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260615194500 +0000" stop="20260615200500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260615200500 +0000" stop="20260615220000 +0000" channel="DAZN 1 HD.skyde">
@@ -2622,10 +2622,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614233000 +0000" stop="20260614234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 5</title>
 </programme>
-<programme start="20260614234500 +0000" stop="20260615031500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260614234500 +0000" stop="20260615033500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20260615031500 +0000" stop="20260615040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260615033500 +0000" stop="20260615040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
 </programme>
 <programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2635,36 +2635,27 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6</title>
 </programme>
 <programme start="20260615073000 +0000" stop="20260615093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5</title>
+    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
 </programme>
 <programme start="20260615091500 +0000" stop="20260615100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
 </programme>
 <programme start="20260615093000 +0000" stop="20260615120000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6</title>
+    <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6 (final game)</title>
 </programme>
-<programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260615120000 +0000" stop="20260615131500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition: Post Game Edition</title>
 </programme>
-<programme start="20260615130000 +0000" stop="20260615131500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
-</programme>
-<programme start="20260615131500 +0000" stop="20260615151500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5</title>
+<programme start="20260615131500 +0000" stop="20260615154500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
 </programme>
 <programme start="20260615150000 +0000" stop="20260615170000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6* falls nötig</title>
 </programme>
-<programme start="20260615151500 +0000" stop="20260615154500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: On Fire</title>
-</programme>
 <programme start="20260615154500 +0000" stop="20260615164500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP Ungarn</title>
 </programme>
-<programme start="20260615164500 +0000" stop="20260615170000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>DFB-Pokal: Highlights XXL: FC Bayern München - VfB Stuttgart, Finale 2026</title>
-</programme>
-<programme start="20260615170000 +0000" stop="20260615180000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260615164500 +0000" stop="20260615180000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Stanley Cup Final Edition: Post Game Edition</title>
 </programme>
 <programme start="20260615180000 +0000" stop="20260615203000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2673,11 +2664,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260615203000 +0000" stop="20260615205000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Doku: Waves Without Limits - The Spirit Of Adaptive Surfing</title>
 </programme>
-<programme start="20260615205000 +0000" stop="20260615214500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Stanley Cup Final Edition: Post Game Edition</title>
-</programme>
-<programme start="20260615214500 +0000" stop="20260615220000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260615205000 +0000" stop="20260615210500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
+</programme>
+<programme start="20260615210500 +0000" stop="20260615213500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: On Fire</title>
+</programme>
+<programme start="20260615213500 +0000" stop="20260616000000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
 </programme>
 <programme start="20260614220000 +0000" stop="20260614233500 +0000" channel="Sky Sport News HD.skyde">
     <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
@@ -2992,7 +2986,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Greatest Holes (1)</title>
 </programme>
 <programme start="20260615084000 +0000" stop="20260615120000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: ab ca. 14:00: LIVE Tennis WTA Tour</title>
+    <title>Es folgt: ab ca. 15:30: LIVE Tennis WTA Tour</title>
 </programme>
 <programme start="20260615120000 +0000" stop="20260615220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 1. Tag</title>
