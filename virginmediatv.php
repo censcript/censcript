@@ -3937,7 +3937,10 @@
 <programme start="20260615030000 +0000" stop="20260615040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260615040000 +0000" stop="20260615060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4247,7 +4250,7 @@
     <title>World Cup Report</title>
 </programme>
 <programme start="20260615093000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
 </programme>
 <programme start="20260615173000 +0000" stop="20260615180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Matchday</title>
@@ -4765,7 +4768,10 @@
 <programme start="20260615030000 +0000" stop="20260615040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260615040000 +0000" stop="20260615060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -5072,7 +5078,7 @@
     <title>World Cup Report</title>
 </programme>
 <programme start="20260615093000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
 </programme>
 <programme start="20260615173000 +0000" stop="20260615180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Matchday</title>

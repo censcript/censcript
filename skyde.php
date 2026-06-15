@@ -2562,20 +2562,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260615210000 +0000" stop="20260615220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Ferrari Challenge Europe: 2. Rennen in Le Mans</title>
 </programme>
-<programme start="20260614220000 +0000" stop="20260615020000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260614220000 +0000" stop="20260615023000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: Curtis Cup, 3. Tag in Los Angeles (USA)</title>
 </programme>
-<programme start="20260615024500 +0000" stop="20260615025000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260615023000 +0000" stop="20260615024500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (2)</title>
 </programme>
-<programme start="20260615025000 +0000" stop="20260615025500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260615024500 +0000" stop="20260615031500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (3)</title>
-</programme>
-<programme start="20260615025500 +0000" stop="20260615030000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (4)</title>
-</programme>
-<programme start="20260615030000 +0000" stop="20260615031500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (5)</title>
 </programme>
 <programme start="20260615031500 +0000" stop="20260615040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (11)</title>
@@ -2583,8 +2577,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260615040000 +0000" stop="20260615070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: International Series Marokko, 4. Tag in Rabat (Marokko)</title>
 </programme>
-<programme start="20260615070000 +0000" stop="20260615100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260615070000 +0000" stop="20260615090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Dow Championship, 4. Tag in Midland, MI (USA)</title>
+</programme>
+<programme start="20260615090000 +0000" stop="20260615100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: Official Film 2010 (Graeme McDowell)</title>
 </programme>
 <programme start="20260615100000 +0000" stop="20260615130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Curtis Cup, 3. Tag in Los Angeles (USA)</title>
@@ -2625,10 +2622,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260614233000 +0000" stop="20260614234500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 5</title>
 </programme>
-<programme start="20260614234500 +0000" stop="20260615033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260614234500 +0000" stop="20260615031500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20260615033000 +0000" stop="20260615040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260615031500 +0000" stop="20260615040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
 </programme>
 <programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2851,7 +2848,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Under the Skin (Newcastle v Sunderland)</title>
 </programme>
 <programme start="20260615190000 +0000" stop="20260615193000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: 90in30: AVL - MUN, 17. Spieltag</title>
+    <title>PL: 90in30: AVL - MUN, 17. Spieltag</title>
 </programme>
 <programme start="20260615193000 +0000" stop="20260615200000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Unai Emery)</title>
@@ -2886,38 +2883,47 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260615064000 +0000" stop="20260615090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20260615090000 +0000" stop="20260615183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin, 1. Tag</title>
+<programme start="20260615090000 +0000" stop="20260615092500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
-<programme start="20260615183000 +0000" stop="20260615184500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260615092500 +0000" stop="20260615100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: All Access Magazine Show</title>
+</programme>
+<programme start="20260615100000 +0000" stop="20260615183000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin &amp; Nottingham, 1. Tag</title>
+</programme>
+<programme start="20260615183000 +0000" stop="20260615185000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
 </programme>
-<programme start="20260615184500 +0000" stop="20260615211500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260615185000 +0000" stop="20260615211500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260615211500 +0000" stop="20260615231500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 1. Tag</title>
+    <title>WTA 500: D. Shnaider - N. Bartunkova (CZE), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 1. Tag</title>
 </programme>
 <programme start="20260614220000 +0000" stop="20260614234500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: Curtis Cup, 3. Tag in Los Angeles (USA)</title>
 </programme>
-<programme start="20260614234500 +0000" stop="20260615034000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260614234500 +0000" stop="20260615033500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20260615034000 +0000" stop="20260615054500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260615033500 +0000" stop="20260615060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20260615054500 +0000" stop="20260615060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Qualifying Kompakt - GP Barcelona</title>
-</programme>
-<programme start="20260615060000 +0000" stop="20260615063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260615060000 +0000" stop="20260615062500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Barcelona</title>
 </programme>
-<programme start="20260615063000 +0000" stop="20260615090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6</title>
+<programme start="20260615062500 +0000" stop="20260615090000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6 (final game)</title>
 </programme>
-<programme start="20260615090000 +0000" stop="20260615180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin, 1. Tag</title>
+<programme start="20260615090000 +0000" stop="20260615092500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260615092500 +0000" stop="20260615100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA: All Access Magazine Show</title>
+</programme>
+<programme start="20260615100000 +0000" stop="20260615180000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin &amp; Nottingham, 1. Tag</title>
 </programme>
 <programme start="20260615180000 +0000" stop="20260615203000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Special Olympics: Eröffnungsfeier 2026</title>
@@ -2929,7 +2935,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Ted&#039;s Notebook: GP Barcelona</title>
 </programme>
 <programme start="20260615213000 +0000" stop="20260616000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 250: tba - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
+    <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260614232000 +0000" stop="20260615015000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
@@ -2985,10 +2991,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260615215500 +0000" stop="20260615222500 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
-<programme start="20260615084000 +0000" stop="20260615090000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA Tour</title>
+<programme start="20260615084000 +0000" stop="20260615120000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab ca. 14:00: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260615090000 +0000" stop="20260615220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260615120000 +0000" stop="20260615220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 1. Tag</title>
 </programme>
 <programme start="20260614222000 +0000" stop="20260614225000 +0000" channel="Sky Sport 2 HD.skyde">
