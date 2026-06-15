@@ -1,6 +1,3 @@
-<programme start="20260615200000 +0000" stop="20260615220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -29,9 +26,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260615200000 +0000" stop="20260615220000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -64,9 +58,6 @@
 <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260615200000 +0000" stop="20260615220000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -95,12 +86,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260615183500 +0000" stop="20260615211500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -Belgium vs Egypt[Live]</title>
-</programme>
-<programme start="20260615211500 +0000" stop="20260615213500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260615213500 +0000" stop="20260616001500 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -135,12 +120,6 @@
 </programme>
 <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260615183500 +0000" stop="20260615211500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Belgium vs Egypt[Live]</title>
-</programme>
-<programme start="20260615211500 +0000" stop="20260615213500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E13</title>
 </programme>
 <programme start="20260615213500 +0000" stop="20260616001500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Saudi Arabia vs Uruguay[Live]</title>
@@ -228,9 +207,6 @@
 </programme>
 <programme start="20260616161500 +0000" stop="20260616183500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -IR Iran vs New Zealand</title>
-</programme>
-<programme start="20260615200000 +0000" stop="20260615220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Crystal Palace</title>
 </programme>
 <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Aston Villa vs Manchester City</title>
