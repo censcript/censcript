@@ -1117,8 +1117,11 @@
 <programme start="20260615143500 +0000" stop="20260615154500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Classic 25/26: LIV Vs MUN</title>
 </programme>
-<programme start="20260615154500 +0000" stop="20260615163000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260615154500 +0000" stop="20260615162000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFC Trending 2025/26, Ep 45</title>
+</programme>
+<programme start="20260615162000 +0000" stop="20260615163000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20260615163000 +0000" stop="20260614170000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2025/26: OVI Vs RMA</title>
@@ -1201,8 +1204,11 @@
 <programme start="20260615143500 +0000" stop="20260615154500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Classic 25/26: LIV Vs MUN</title>
 </programme>
-<programme start="20260615154500 +0000" stop="20260615163000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260615154500 +0000" stop="20260615162000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFC Trending 2025/26, Ep 45</title>
+</programme>
+<programme start="20260615162000 +0000" stop="20260615163000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20260615163000 +0000" stop="20260614170000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: OVI Vs RMA</title>
@@ -7769,24 +7775,24 @@
     <title>Tiba-Tiba Kuis</title>
 </programme>
 <programme start="20260615010400 +0000" stop="20260615024600 +0000" channel="SCTV.mncvision">
-    <title>Diet Ekstrim Bucin Sejati</title>
+    <title>Cintaku Sale 100% Pun Gak...</title>
 </programme>
 <programme start="20260615024600 +0000" stop="20260615044300 +0000" channel="SCTV.mncvision">
-    <title>Cinta Unfaedah Family Gadungan</title>
+    <title>Tanpa Cintamu Hidupku Bagai...</title>
 </programme>
 <programme start="20260615044300 +0000" stop="20260615051500 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260615051500 +0000" stop="20260615062700 +0000" channel="SCTV.mncvision">
-    <title>Kembang Boleh Layu Tapi...</title>
+    <title>Bukan Cinta Taxi Girl Biasa</title>
 </programme>
 <programme start="20260615062700 +0000" stop="20260615073800 +0000" channel="SCTV.mncvision">
-    <title>Negeri Ini Butuh Sate Klopo</title>
+    <title>Jangan Kaya Orang Susah</title>
 </programme>
-<programme start="20260615073800 +0000" stop="20260615100000 +0000" channel="SCTV.mncvision">
+<programme start="20260615073800 +0000" stop="20260615095000 +0000" channel="SCTV.mncvision">
     <title>Resepsi Wedding Coppen &amp;...</title>
 </programme>
-<programme start="20260615100000 +0000" stop="20260615112600 +0000" channel="SCTV.mncvision">
+<programme start="20260615095000 +0000" stop="20260615112600 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
 <programme start="20260615112600 +0000" stop="20260615125800 +0000" channel="SCTV.mncvision">
@@ -7820,24 +7826,24 @@
     <title>Tiba-Tiba Kuis</title>
 </programme>
 <programme start="20260615010400 +0000" stop="20260615024600 +0000" channel="SCTV HD.mncvision">
-    <title>Diet Ekstrim Bucin Sejati</title>
+    <title>Cintaku Sale 100% Pun Gak...</title>
 </programme>
 <programme start="20260615024600 +0000" stop="20260615044300 +0000" channel="SCTV HD.mncvision">
-    <title>Cinta Unfaedah Family Gadungan</title>
+    <title>Tanpa Cintamu Hidupku Bagai...</title>
 </programme>
 <programme start="20260615044300 +0000" stop="20260615051500 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260615051500 +0000" stop="20260615062700 +0000" channel="SCTV HD.mncvision">
-    <title>Kembang Boleh Layu Tapi...</title>
+    <title>Bukan Cinta Taxi Girl Biasa</title>
 </programme>
 <programme start="20260615062700 +0000" stop="20260615073800 +0000" channel="SCTV HD.mncvision">
-    <title>Negeri Ini Butuh Sate Klopo</title>
+    <title>Jangan Kaya Orang Susah</title>
 </programme>
-<programme start="20260615073800 +0000" stop="20260615100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260615073800 +0000" stop="20260615095000 +0000" channel="SCTV HD.mncvision">
     <title>Resepsi Wedding Coppen &amp;...</title>
 </programme>
-<programme start="20260615100000 +0000" stop="20260615112600 +0000" channel="SCTV HD.mncvision">
+<programme start="20260615095000 +0000" stop="20260615112600 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
 <programme start="20260615112600 +0000" stop="20260615125800 +0000" channel="SCTV HD.mncvision">

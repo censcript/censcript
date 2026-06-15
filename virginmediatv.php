@@ -4246,8 +4246,8 @@
 <programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260615090000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
+<programme start="20260615093000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260615173000 +0000" stop="20260615180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Matchday</title>
@@ -4387,7 +4387,7 @@
 <programme start="20260615050000 +0000" stop="20260615070000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Libema Open 2026 - ATP Final</title>
 </programme>
-<programme start="20260615090000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260615093000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
 </programme>
 <programme start="20260615173000 +0000" stop="20260615174500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -4754,7 +4754,7 @@
     <title>Temples of Sport - Melbourne Cricket Ground</title>
 </programme>
 <programme start="20260615140000 +0000" stop="20260615180000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>EUT20 Belgium League - Final: TBA v TBA</title>
+    <title>EUT20 Belgium League - Final: Ghent Gladiators v Antwerp Anchors</title>
 </programme>
 <programme start="20260614220000 +0000" stop="20260615020000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Curtis Cup Golf - Day 3: Singles</title>
@@ -5071,8 +5071,8 @@
 <programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260615090000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
+<programme start="20260615093000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260615173000 +0000" stop="20260615180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Matchday</title>
@@ -5212,7 +5212,7 @@
 <programme start="20260615050000 +0000" stop="20260615070000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Libema Open 2026 - ATP Final</title>
 </programme>
-<programme start="20260615090000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260615093000 +0000" stop="20260615173000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
 </programme>
 <programme start="20260615173000 +0000" stop="20260615174500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
@@ -5483,7 +5483,7 @@
     <title>Temples of Sport - Melbourne Cricket Ground</title>
 </programme>
 <programme start="20260615140000 +0000" stop="20260615180000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>EUT20 Belgium League - Final: TBA v TBA</title>
+    <title>EUT20 Belgium League - Final: Ghent Gladiators v Antwerp Anchors</title>
 </programme>
 <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Transatlantic Sessions</title>
@@ -7925,7 +7925,7 @@
     <title>Letter and Spirit - The Memory of the Church and the Meaning of Tradition</title>
 </programme>
 <programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="EWTN.virginmediatv">
-    <title>EWTN Live - Fr. Joseph Mary, Mfva</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="EWTN.virginmediatv">
     <title>Daily Mass</title>

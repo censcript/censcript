@@ -11910,11 +11910,11 @@
     <episode-num system="onscreen">S11E225</episode-num>
   </programme>
   <programme start="20260614214800 +0000" stop="20260614221300 +0000" channel="nickelodeon.unifitv">
-    <title lang="en">Rugrats (2021)</title>
-    <desc lang="en">When a broken vase threatens to ruin Chas and Kira's wedding, Angelica and an unseen Wise Fox lead the babies around the world to fix it. In the end, the babies and Angelica learn they need each other-Angelica's the glue that holds them all together.</desc>
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob can't drive, but you don't need a license to operate a self-driving car!  Patrick thinks he's an old man, so it's up to SpongeBob to remind him how much fun being a kid can be!</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.313.</episode-num>
-    <episode-num system="onscreen">S3E314</episode-num>
+    <episode-num system="xmltv_ns">10.226.</episode-num>
+    <episode-num system="onscreen">S11E227</episode-num>
   </programme>
   <programme start="20260614221300 +0000" stop="20260614223800 +0000" channel="nickelodeon.unifitv">
     <title lang="en">The Marsupilamis</title>
@@ -15629,8 +15629,13 @@
     <desc lang="en">Top LMP3 and GT3 teams take on the legendary Circuit de la Sarthe, showcasing endurance racing skill, strategy, and high-speed competition ahead of the iconic Le Mans 24 Hours.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260615073000 +0000" stop="20260615103000 +0000" channel="spotv2.unifitv">
+  <programme start="20260615073000 +0000" stop="20260615100000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Longines Global Champions Tour, St. Tropez - Grand Prix of St. Tropez</title>
+    <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260615100000 +0000" stop="20260615103000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 Global Champions League, Cannes - Highlights</title>
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
@@ -15802,8 +15807,13 @@
     <desc lang="en">Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260615143500 +0000" stop="20260615160000 +0000" channel="beinsports.unifitv">
+  <programme start="20260615143500 +0000" stop="20260615154500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Liverpool vs Man United Pl 2022/23</title>
+    <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260615154500 +0000" stop="20260615160000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LFC Trending 2025/26 - Episode Number 45</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -16112,6 +16122,11 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260615140200 +0000" stop="20260615160200 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260615160000 +0000" stop="20260615180000 +0000" channel="beinsports4.unifitv">
     <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
     <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
     <category lang="en">Sports</category>

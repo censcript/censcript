@@ -2236,11 +2236,8 @@
     <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Countdown: Topuria vs Gaethje</title>
     </programme>
-    <programme start="20260615000000 +0000" stop="20260615040000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260615000000 +0000" stop="20260615050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Topuria vs Gaethje</title>
-    </programme>
-    <programme start="20260615040000 +0000" stop="20260615050000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>UFC 322: Shevchenko vs Zhang</title>
     </programme>
     <programme start="20260615050000 +0000" stop="20260615053000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1363</title>
@@ -3032,25 +3029,25 @@
         <title>News</title>
     </programme>
     <programme start="20260614161500 +0000" stop="20260614163000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Fall or Foul Play? Unresolved Deaths of Women in Turkey</title>
     </programme>
     <programme start="20260614163000 +0000" stop="20260614170000 +0000" channel="DW English HD.starhub">
-        <title>Modern African Lifestyle</title>
+        <title>African taste, on African terms</title>
     </programme>
     <programme start="20260614170000 +0000" stop="20260614171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260614171500 +0000" stop="20260614173000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>Ukrainian refugee seeks vaulting history</title>
     </programme>
     <programme start="20260614173000 +0000" stop="20260614180000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>The El Rocío pilgrimage in Spain: a journey for everyone!</title>
     </programme>
     <programme start="20260614180000 +0000" stop="20260614181500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260614181500 +0000" stop="20260614183000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Better Travel with AI &amp; Apps?</title>
     </programme>
     <programme start="20260614183000 +0000" stop="20260614190000 +0000" channel="DW English HD.starhub">
         <title>Would you buy a used car online? A look behind the scenes.</title>
@@ -3065,7 +3062,7 @@
         <title>News</title>
     </programme>
     <programme start="20260614201500 +0000" stop="20260614203000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>Ukrainian refugee seeks vaulting history</title>
     </programme>
     <programme start="20260614203000 +0000" stop="20260614210000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -3077,7 +3074,7 @@
         <title>My Body</title>
     </programme>
     <programme start="20260614211500 +0000" stop="20260614213000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Fall or Foul Play? Unresolved Deaths of Women in Turkey</title>
     </programme>
     <programme start="20260614213000 +0000" stop="20260614220000 +0000" channel="DW English HD.starhub">
         <title>Dyscalculia - What if numbers stopped making sense?</title>
@@ -3086,10 +3083,10 @@
         <title>News</title>
     </programme>
     <programme start="20260614220200 +0000" stop="20260614223000 +0000" channel="DW English HD.starhub">
-        <title>Modern African Lifestyle</title>
+        <title>African taste, on African terms</title>
     </programme>
     <programme start="20260614223000 +0000" stop="20260614230000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Can Goodluck Jonathan rescue Nigeria? PDP&#039;s 2027 gamble under scrutiny</title>
     </programme>
     <programme start="20260614230000 +0000" stop="20260614230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3098,7 +3095,7 @@
         <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260614231500 +0000" stop="20260614233000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Better Travel with AI &amp; Apps?</title>
     </programme>
     <programme start="20260614233000 +0000" stop="20260615000000 +0000" channel="DW English HD.starhub">
         <title>Would you buy a used car online? A look behind the scenes.</title>
@@ -4993,6 +4990,27 @@
     <programme start="20260615153500 +0000" stop="20260615163000 +0000" channel="KBS World HD.starhub">
         <title>Jang Youngsil: The Greatest Scientist of Joseon</title>
     </programme>
+    <programme start="20260614160000 +0000" stop="20260614170000 +0000" channel="TestChannel 996.starhub">
+        <title>Late Night Vision (Live)</title>
+    </programme>
+    <programme start="20260614170000 +0000" stop="20260614180000 +0000" channel="TestChannel 996.starhub">
+        <title>2100 Hot Topics (Live)</title>
+    </programme>
+    <programme start="20260614180000 +0000" stop="20260614190000 +0000" channel="TestChannel 996.starhub">
+        <title>Late Night Vision (Live)</title>
+    </programme>
+    <programme start="20260614190000 +0000" stop="20260614200000 +0000" channel="TestChannel 996.starhub">
+        <title>Late Night Vision (Live)</title>
+    </programme>
+    <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="TestChannel 996.starhub">
+        <title>Discover New Taiwan Step By Step</title>
+    </programme>
+    <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="TestChannel 996.starhub">
+        <title>News Night (Live)</title>
+    </programme>
+    <programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="TestChannel 996.starhub">
+        <title>Early Morning News (Live)</title>
+    </programme>
     <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="TestChannel 996.starhub">
         <title>Early Morning News (Live)</title>
     </programme>
@@ -6334,14 +6352,17 @@
     <programme start="20260615153000 +0000" stop="20260615160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>H/Ls Show</title>
     </programme>
-    <programme start="20260614155000 +0000" stop="20260614175500 +0000" channel="SONY MAX.starhub">
+    <programme start="20260614155000 +0000" stop="20260614164400 +0000" channel="SONY MAX.starhub">
         <title>Setters</title>
     </programme>
-    <programme start="20260614175500 +0000" stop="20260614201700 +0000" channel="SONY MAX.starhub">
+    <programme start="20260614164400 +0000" stop="20260614190600 +0000" channel="SONY MAX.starhub">
         <title>Dil Toh Baccha Hai Ji</title>
     </programme>
-    <programme start="20260614201700 +0000" stop="20260614222100 +0000" channel="SONY MAX.starhub">
+    <programme start="20260614190600 +0000" stop="20260614211500 +0000" channel="SONY MAX.starhub">
         <title>Qaidi Band</title>
+    </programme>
+    <programme start="20260614211500 +0000" stop="20260614222100 +0000" channel="SONY MAX.starhub">
+        <title>The Making Of Pk</title>
     </programme>
     <programme start="20260614222100 +0000" stop="20260615000000 +0000" channel="SONY MAX.starhub">
         <title>Kahan Shuru Kahan Khatam</title>
@@ -7672,13 +7693,13 @@
     <programme start="20260614133000 +0000" stop="20260614163000 +0000" channel="Asianet Movies.starhub">
         <title>Thudarum</title>
     </programme>
-    <programme start="20260614163000 +0000" stop="20260614193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260614163000 +0000" stop="20260614192000 +0000" channel="Asianet Movies.starhub">
         <title>One</title>
     </programme>
-    <programme start="20260614193000 +0000" stop="20260614213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260614192000 +0000" stop="20260614213000 +0000" channel="Asianet Movies.starhub">
         <title>Lalitham Sundaram</title>
     </programme>
-    <programme start="20260614213000 +0000" stop="20260614233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260614213000 +0000" stop="20260614231000 +0000" channel="Asianet Movies.starhub">
         <title>Seelabathi</title>
     </programme>
     <programme start="20260614231000 +0000" stop="20260615013000 +0000" channel="Asianet Movies.starhub">
@@ -7921,7 +7942,7 @@
     <programme start="20260615141900 +0000" stop="20260615144400 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260615144400 +0000" stop="20260615160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260615144400 +0000" stop="20260615170000 +0000" channel="Dragon TV.starhub">
         <title>Overtime No More</title>
     </programme>
     <programme start="20260614160000 +0000" stop="20260614163000 +0000" channel="Travelxp HD.starhub">
