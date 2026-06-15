@@ -110,8 +110,12 @@
     <title>Football: Aris - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260615170000 +0700" stop="20260615190000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Dundee United - Heart of Midlothian</title>
+<programme start="20260616192000 +0700" stop="20260616195000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S1 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260616195000 +0700" stop="20260616202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S1 E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260615190000 +0700" stop="20260615200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -222,10 +226,6 @@
     <title>Basketball: Fenerbahce - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260615180000 +0700" stop="20260615185500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2026 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260615185500 +0700" stop="20260615195000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
@@ -332,14 +332,6 @@
 </programme>
 <programme start="20260616183500 +0700" stop="20260616200500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260615162000 +0700" stop="20260615183000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>World Athletics Continental Tour Gold 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260615183000 +0700" stop="20260615184500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260615184500 +0700" stop="20260615191500 +0700" channel="COSMOTE Sport 6 HD">
@@ -470,8 +462,8 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260615163000 +0700" stop="20260615183000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Tennis: Max Schoenhaus - Learner Tien (L)</title>
+<programme start="20260616193000 +0700" stop="20260616220000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260615183000 +0700" stop="20260615203000 +0700" channel="COSMOTE Sport 8 HD">

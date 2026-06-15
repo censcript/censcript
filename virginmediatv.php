@@ -7925,7 +7925,7 @@
     <title>Letter and Spirit - The Memory of the Church and the Meaning of Tradition</title>
 </programme>
 <programme start="20260615050000 +0000" stop="20260615060000 +0000" channel="EWTN.virginmediatv">
-    <title>To Be Announced</title>
+    <title>EWTN Live - Pacwa 50th Ordination Anniversary Special</title>
 </programme>
 <programme start="20260615120000 +0000" stop="20260615130000 +0000" channel="EWTN.virginmediatv">
     <title>Daily Mass</title>

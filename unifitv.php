@@ -15748,7 +15748,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260615043500 +0000" stop="20260615045000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Best Goalkeeper : Joan Garcia</title>
+    <title lang="en">LaLiga - Best Goalkeeper: Joan Garcia</title>
     <desc lang="en">beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15812,12 +15812,7 @@
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260615154500 +0000" stop="20260615160000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LFC Trending 2025/26 - Episode Number 45</title>
-    <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260615160000 +0000" stop="20260615163000 +0000" channel="beinsports.unifitv">
+  <programme start="20260615154500 +0000" stop="20260615162000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFC Trending - Episode Number 45</title>
     <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
     <category lang="en">Sports</category>

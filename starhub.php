@@ -3382,6 +3382,75 @@
     <programme start="20260615153000 +0000" stop="20260615160000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Chief Editor&#039;s Time (15/6/26)</title>
     </programme>
+    <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="Kalaignar TV.starhub">
+        <title>Songs</title>
+    </programme>
+    <programme start="20260615000000 +0000" stop="20260615003000 +0000" channel="Kalaignar TV.starhub">
+        <title>Thenum Paalum</title>
+    </programme>
+    <programme start="20260615003000 +0000" stop="20260615010000 +0000" channel="Kalaignar TV.starhub">
+        <title>Ramanujar</title>
+    </programme>
+    <programme start="20260615010000 +0000" stop="20260615013000 +0000" channel="Kalaignar TV.starhub">
+        <title>SLOT</title>
+    </programme>
+    <programme start="20260615013000 +0000" stop="20260615020000 +0000" channel="Kalaignar TV.starhub">
+        <title>ARC International</title>
+    </programme>
+    <programme start="20260615020000 +0000" stop="20260615023000 +0000" channel="Kalaignar TV.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260615023000 +0000" stop="20260615030000 +0000" channel="Kalaignar TV.starhub">
+        <title>Vidiyale Vaa</title>
+    </programme>
+    <programme start="20260615030000 +0000" stop="20260615033000 +0000" channel="Kalaignar TV.starhub">
+        <title>Snehithiye</title>
+    </programme>
+    <programme start="20260615033000 +0000" stop="20260615040000 +0000" channel="Kalaignar TV.starhub">
+        <title>Azhagi</title>
+    </programme>
+    <programme start="20260615040000 +0000" stop="20260615043000 +0000" channel="Kalaignar TV.starhub">
+        <title>Nadhaswaram</title>
+    </programme>
+    <programme start="20260615043000 +0000" stop="20260615050000 +0000" channel="Kalaignar TV.starhub">
+        <title>Kolangal</title>
+    </programme>
+    <programme start="20260615050000 +0000" stop="20260615053000 +0000" channel="Kalaignar TV.starhub">
+        <title>Thendral</title>
+    </programme>
+    <programme start="20260615053000 +0000" stop="20260615073000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - GEMINIGANESANUM SURULIRAJANUM (U)</title>
+    </programme>
+    <programme start="20260615073000 +0000" stop="20260615080000 +0000" channel="Kalaignar TV.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260615080000 +0000" stop="20260615113000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - PANDI (U)</title>
+    </programme>
+    <programme start="20260615113000 +0000" stop="20260615120000 +0000" channel="Kalaignar TV.starhub">
+        <title>Inthavaara kalakalappu</title>
+    </programme>
+    <programme start="20260615120000 +0000" stop="20260615123000 +0000" channel="Kalaignar TV.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260615123000 +0000" stop="20260615130000 +0000" channel="Kalaignar TV.starhub">
+        <title>Katrathu Samayal Season 8</title>
+    </programme>
+    <programme start="20260615130000 +0000" stop="20260615133000 +0000" channel="Kalaignar TV.starhub">
+        <title>Ramanujar</title>
+    </programme>
+    <programme start="20260615133000 +0000" stop="20260615143000 +0000" channel="Kalaignar TV.starhub">
+        <title>Priyamanaval</title>
+    </programme>
+    <programme start="20260615143000 +0000" stop="20260615150000 +0000" channel="Kalaignar TV.starhub">
+        <title>Gauri</title>
+    </programme>
+    <programme start="20260615150000 +0000" stop="20260615153000 +0000" channel="Kalaignar TV.starhub">
+        <title>Kalyana Parisu</title>
+    </programme>
+    <programme start="20260615153000 +0000" stop="20260615190000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - IRAIVAN (V/UA)</title>
+    </programme>
     <programme start="20260614143000 +0000" stop="20260614164500 +0000" channel="HITS MOVIES HD.starhub">
         <title>E.T.,The Extra-Terrestrial</title>
     </programme>
