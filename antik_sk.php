@@ -778,10 +778,10 @@
   <programme start="20260618205000 +0000" stop="20260618220500 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Dobre vedieť</title>
   </programme>
-  <programme start="20260617214000 +0000" stop="20260617223500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260617214000 +0000" stop="20260617223000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger V (7)</title>
   </programme>
-  <programme start="20260617223500 +0000" stop="20260617231500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260617223000 +0000" stop="20260617231500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger V (8)</title>
   </programme>
   <programme start="20260617231500 +0000" stop="20260618000000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -1210,7 +1210,7 @@
   <programme start="20260618204000 +0000" stop="20260618225500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">12 kôl</title>
   </programme>
-  <programme start="20260617195500 +0000" stop="20260617225000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260617195000 +0000" stop="20260617225000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260617225000 +0000" stop="20260618015000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1246,19 +1246,19 @@
   <programme start="20260618161500 +0000" stop="20260618183000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260618183000 +0000" stop="20260618204500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260618183000 +0000" stop="20260618203500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale D</title>
   </programme>
-  <programme start="20260618204500 +0000" stop="20260618234500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260618203500 +0000" stop="20260618234500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260617213500 +0000" stop="20260617232500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260617201500 +0000" stop="20260617220500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260617232500 +0000" stop="20260618000000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260617220500 +0000" stop="20260617224000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260618000000 +0000" stop="20260618030000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260617224000 +0000" stop="20260618030000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260618030000 +0000" stop="20260618070500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -4963,38 +4963,38 @@
   <programme start="20260618213000 +0000" stop="20260618220000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
   </programme>
-  <programme start="20260617212000 +0000" stop="20260617231500 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20260617210500 +0000" stop="20260617231500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Vegas Golden Knights - Carolina Hurricanes</title>
   </programme>
   <programme start="20260617231500 +0000" stop="20260617233000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">České taekwondo ITF (2)</title>
   </programme>
   <programme start="20260617233000 +0000" stop="20260618000000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Motosurf GP</title>
+    <title lang="id">JACKALOPE Block Party Ventura 2026</title>
   </programme>
-  <programme start="20260618000000 +0000" stop="20260618050000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Carolina Hurricanes - Vegas Golden Knights</title>
+  <programme start="20260618000000 +0000" stop="20260618014000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Anglie - Wales</title>
+  </programme>
+  <programme start="20260618014000 +0000" stop="20260618050000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">FA Cup Season Review</title>
   </programme>
   <programme start="20260618050000 +0000" stop="20260618050500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Sportovní noviny</title>
   </programme>
-  <programme start="20260618050500 +0000" stop="20260618064500 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20260618050500 +0000" stop="20260618065000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Irsko - Itálie</title>
   </programme>
-  <programme start="20260618064500 +0000" stop="20260618071500 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20260618065000 +0000" stop="20260618072000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Epic Series - Cape Epic Part 2</title>
   </programme>
-  <programme start="20260618071500 +0000" stop="20260618091500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Carolina Hurricanes - Vegas Golden Knights</title>
-  </programme>
-  <programme start="20260618091500 +0000" stop="20260618093000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Běhej lesy - Brdy</title>
+  <programme start="20260618072000 +0000" stop="20260618093000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">SC Paderborn - Bayer Leverkusen</title>
   </programme>
   <programme start="20260618093000 +0000" stop="20260618103000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Ligue 1 - ohlédnutí za sezónou</title>
   </programme>
   <programme start="20260618103000 +0000" stop="20260618110000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Motosurf GP</title>
+    <title lang="id">JACKALOPE Block Party Ventura 2026</title>
   </programme>
   <programme start="20260618110000 +0000" stop="20260618110500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Polední Sportovní noviny</title>
@@ -5008,17 +5008,14 @@
   <programme start="20260618143000 +0000" stop="20260618161500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Borussia Mönchengladbach - FC St. Pauli</title>
   </programme>
-  <programme start="20260618161500 +0000" stop="20260618164500 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20260618161500 +0000" stop="20260618170000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Alpine Quest</title>
-  </programme>
-  <programme start="20260618164500 +0000" stop="20260618170000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL News</title>
   </programme>
   <programme start="20260618170000 +0000" stop="20260618170500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Odpolední Sportovní noviny</title>
   </programme>
   <programme start="20260618170500 +0000" stop="20260618190000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Carolina Hurricanes - Vegas Golden Knights</title>
+    <title lang="id">1. FC Köln - Bayern Mnichov</title>
   </programme>
   <programme start="20260618190000 +0000" stop="20260618190500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Sportovní noviny</title>
@@ -5033,7 +5030,7 @@
     <title lang="id">Sportovní noviny</title>
   </programme>
   <programme start="20260618210500 +0000" stop="20260618212000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL News</title>
+    <title lang="id">České taekwondo ITF (2)</title>
   </programme>
   <programme start="20260618212000 +0000" stop="20260618231500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Irsko - Itálie</title>
@@ -5047,7 +5044,10 @@
   <programme start="20260617230000 +0000" stop="20260618004500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Northampton Saints - Leicester Tigers</title>
   </programme>
-  <programme start="20260618004500 +0000" stop="20260618050000 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260618004500 +0000" stop="20260618025500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">World Cup of Darts 2026</title>
+  </programme>
+  <programme start="20260618025500 +0000" stop="20260618050000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">World Cup of Darts 2026</title>
   </programme>
   <programme start="20260618050000 +0000" stop="20260618070000 +0000" channel="Nova Sport 2.webtv.sk">
@@ -5062,17 +5062,17 @@
   <programme start="20260618103000 +0000" stop="20260618123000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Arsenal FC - Crystal Palace</title>
   </programme>
-  <programme start="20260618123000 +0000" stop="20260618150000 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260618123000 +0000" stop="20260618144500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">World Cup of Darts 2026</title>
   </programme>
-  <programme start="20260618150000 +0000" stop="20260618153000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">Epic Series - Cape Epic Part 1</title>
+  <programme start="20260618144500 +0000" stop="20260618160000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">World Cup of Darts 2026</title>
   </programme>
-  <programme start="20260618153000 +0000" stop="20260618160000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">Epic Series - Cape Epic Part 2</title>
+  <programme start="20260618160000 +0000" stop="20260618174500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Newcastle United - Fulham FC</title>
   </programme>
-  <programme start="20260618160000 +0000" stop="20260618180000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">New York Knicks - San Antonio Spurs</title>
+  <programme start="20260618174500 +0000" stop="20260618180000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Běhej lesy - Brdy</title>
   </programme>
   <programme start="20260618180000 +0000" stop="20260618203000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Premier League Darts 2026</title>

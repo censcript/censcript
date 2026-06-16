@@ -1,6 +1,3 @@
-<programme start="20260616200000 +0000" stop="20260616220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -29,9 +26,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260617160000 +0000" stop="20260617180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260616200000 +0000" stop="20260616220000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -64,9 +58,6 @@
 <programme start="20260617160000 +0000" stop="20260617180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260616200000 +0000" stop="20260616220000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -95,12 +86,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260617160000 +0000" stop="20260617180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260616183500 +0000" stop="20260616211500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -France vs Senegal[Live]</title>
-</programme>
-<programme start="20260616211500 +0000" stop="20260616213500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260616213500 +0000" stop="20260617001500 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -135,12 +120,6 @@
 </programme>
 <programme start="20260617160000 +0000" stop="20260617163500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260616183500 +0000" stop="20260616211500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -France vs Senegal[Live]</title>
-</programme>
-<programme start="20260616211500 +0000" stop="20260616213500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E15</title>
 </programme>
 <programme start="20260616213500 +0000" stop="20260617001500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Iraq vs Norway[Live]</title>
@@ -222,9 +201,6 @@
 </programme>
 <programme start="20260617161500 +0000" stop="20260617163500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Match Day +1 Highlights E6</title>
-</programme>
-<programme start="20260616200000 +0000" stop="20260616220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Burnley vs Arsenal</title>
 </programme>
 <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Tottenham Hotspur vs Chelsea</title>
