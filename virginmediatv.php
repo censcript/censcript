@@ -1928,7 +1928,7 @@
     <title>Bullseye</title>
 </programme>
 <programme start="20260616043000 +0000" stop="20260616050000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye</title>
+    <title>Bullseye - Bullseye 3</title>
 </programme>
 <programme start="20260616050000 +0000" stop="20260616053000 +0000" channel="Challenge.virginmediatv">
     <title>Teleshopping</title>
@@ -2405,7 +2405,7 @@
     <title>BBC News Now</title>
 </programme>
 <programme start="20260616133000 +0000" stop="20260616134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260616134500 +0000" stop="20260616140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>

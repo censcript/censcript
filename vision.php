@@ -460,14 +460,8 @@
 <programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="Trans TV.vision">
-<title>SBY Cup 2026</title>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616110000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
-</programme>
-<programme start="20260616110000 +0000" stop="20260616130000 +0000" channel="Trans TV.vision">
-<title>SBY Cup 2026</title>
 </programme>
 <programme start="20260616130000 +0000" stop="20260616140000 +0000" channel="Trans TV.vision">
 <title>Highlight</title>
@@ -649,9 +643,6 @@
 <programme start="20260616010000 +0000" stop="20260616023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
 </programme>
-<programme start="20260616023000 +0000" stop="20260616060000 +0000" channel="ANTV.vision">
-<title>Kuch Kuch Hota Hai</title>
-</programme>
 <programme start="20260616060000 +0000" stop="20260616073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -660,12 +651,6 @@
 </programme>
 <programme start="20260616090000 +0000" stop="20260616113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260616113000 +0000" stop="20260616133000 +0000" channel="ANTV.vision">
-<title>Bergola Ijo</title>
-</programme>
-<programme start="20260616133000 +0000" stop="20260616153000 +0000" channel="ANTV.vision">
-<title>Mana Tahan</title>
 </programme>
 <programme start="20260616153000 +0000" stop="20260616173000 +0000" channel="ANTV.vision">
 <title>212 Warrior</title>
@@ -807,12 +792,6 @@
 </programme>
 <programme start="20260616040000 +0000" stop="20260616053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20260616053000 +0000" stop="20260616060000 +0000" channel="TVOne.vision">
-<title>Damai Indonesia Spesial (L)</title>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="TVOne.vision">
-<title>Tahun Baru Islam 1 Muharram</title>
 </programme>
 <programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Siang</title>
@@ -1496,5 +1475,26 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260616070000 +0000" stop="20260616090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260616090000 +0000" stop="20260616110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260616110000 +0000" stop="20260616130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260616130000 +0000" stop="20260616150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260616150000 +0000" stop="20260616170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260616170000 +0000" stop="20260616190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260616190000 +0000" stop="20260616210000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
+</programme>
+<programme start="20260616210000 +0000" stop="20260616220000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
