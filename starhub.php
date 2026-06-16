@@ -80,7 +80,7 @@
         <title>Brahma Kumaris</title>
     </programme>
     <programme start="20260615233000 +0000" stop="20260616000000 +0000" channel="Zee TV.starhub">
-        <title>Baal Shiv</title>
+        <title>Jagadhatri</title>
     </programme>
     <programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="Zee TV.starhub">
         <title>Lakshmi Nivas</title>
@@ -116,10 +116,10 @@
         <title>Jagadhatri</title>
     </programme>
     <programme start="20260616090000 +0000" stop="20260616093000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
+        <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20260616093000 +0000" stop="20260616100000 +0000" channel="Zee TV.starhub">
-        <title>Jaane Anjaane Hum Mile</title>
+        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260616100000 +0000" stop="20260616103000 +0000" channel="Zee TV.starhub">
         <title>Vasudha</title>
@@ -140,7 +140,7 @@
         <title>Tumm Se Tumm Tak</title>
     </programme>
     <programme start="20260616133000 +0000" stop="20260616140000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyan</title>
+        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260616140000 +0000" stop="20260616143000 +0000" channel="Zee TV.starhub">
         <title>Jagadhatri</title>
@@ -647,7 +647,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="Fox News Channel.starhub">
-        <title>The Ingraham Angle</title>
+        <title>FOX &amp; Friends First</title>
     </programme>
     <programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="Fox News Channel.starhub">
         <title>FOX &amp; Friends First</title>
@@ -5923,7 +5923,22 @@
     <programme start="20260615220000 +0000" stop="20260616040000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260616040000 +0000" stop="20260616093000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260616040000 +0000" stop="20260616041500 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260616041500 +0000" stop="20260616051500 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260616051500 +0000" stop="20260616053000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260616053000 +0000" stop="20260616054500 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260616054500 +0000" stop="20260616060000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260616060000 +0000" stop="20260616093000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260616093000 +0000" stop="20260616113000 +0000" channel="Hub Sports 6.starhub">

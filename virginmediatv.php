@@ -4490,9 +4490,12 @@
     <title>The Cycling Show</title>
 </programme>
 <programme start="20260616170000 +0000" stop="20260616171500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>The Gruppetto</title>
+</programme>
+<programme start="20260616171500 +0000" stop="20260616173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>World Superbike Rewind - Emilia Romagna Round</title>
 </programme>
-<programme start="20260616171500 +0000" stop="20260616200000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260616173000 +0000" stop="20260616200000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: European Championship Fencing - Day 1</title>
 </programme>
 <programme start="20260615230000 +0000" stop="20260616003000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5132,9 +5135,12 @@
     <title>The Cycling Show</title>
 </programme>
 <programme start="20260616170000 +0000" stop="20260616171500 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>The Gruppetto</title>
+</programme>
+<programme start="20260616171500 +0000" stop="20260616173000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>World Superbike Rewind - Emilia Romagna Round</title>
 </programme>
-<programme start="20260616171500 +0000" stop="20260616200000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260616173000 +0000" stop="20260616200000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: European Championship Fencing - Day 1</title>
 </programme>
 <programme start="20260615230000 +0000" stop="20260616003000 +0000" channel="TNT_Sports_3.virginmediatv">

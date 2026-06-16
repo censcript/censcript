@@ -958,14 +958,14 @@
 <programme start="20260616120500 +0000" stop="20260616150000 +0000" channel="DAZN 1 HD.skyde">
     <title>FA Cup 25/26: AFC Wrexham - FC Chelsea</title>
 </programme>
-<programme start="20260616150000 +0000" stop="20260616155000 +0000" channel="DAZN 1 HD.skyde">
-    <title>The Late Kick: Folge 1. Nur in Deutschland verfügbar!</title>
+<programme start="20260616150000 +0000" stop="20260616170000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Freundschaftsspiele: Deutschland - Finnland</title>
 </programme>
-<programme start="20260616155000 +0000" stop="20260616160500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260616170000 +0000" stop="20260616173000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260616160500 +0000" stop="20260616180000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Freundschaftsspiele: Deutschland - Finnland</title>
+<programme start="20260616173000 +0000" stop="20260616180000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 22. Spieltag</title>
 </programme>
 <programme start="20260616180000 +0000" stop="20260616183000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 23. Spieltag</title>
@@ -1003,19 +1003,22 @@
 <programme start="20260616120500 +0000" stop="20260616130000 +0000" channel="DAZN 2 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 34. Spieltag</title>
 </programme>
-<programme start="20260616130000 +0000" stop="20260616140000 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 25/26: 35. Spieltag</title>
+<programme start="20260616130000 +0000" stop="20260616135000 +0000" channel="DAZN 2 HD.skyde">
+    <title>The Late Kick: Folge 1. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260616140000 +0000" stop="20260616170500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga Konferenz 25/26: 34. Spieltag</title>
-</programme>
-<programme start="20260616170500 +0000" stop="20260616174000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260616135000 +0000" stop="20260616142000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260616174000 +0000" stop="20260616184000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Porträt von Holger Gehrke: Fußball-Urgestein auf neuen Plätzen</title>
+<programme start="20260616142000 +0000" stop="20260616172500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga Konferenz 25/26: 34. Spieltag</title>
 </programme>
-<programme start="20260616184000 +0000" stop="20260616191000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260616172500 +0000" stop="20260616180000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260616180000 +0000" stop="20260616185000 +0000" channel="DAZN 2 HD.skyde">
+    <title>The Late Kick: Folge 1. Nur in Deutschland verfügbar!</title>
+</programme>
+<programme start="20260616185000 +0000" stop="20260616191000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260616191000 +0000" stop="20260616213000 +0000" channel="DAZN 2 HD.skyde">
@@ -2362,34 +2365,34 @@
 <programme start="20260616212000 +0000" stop="20260616220500 +0000" channel="Sky Showcase HD.skyde">
     <title>Terra X: Ungelöste Fälle der Archäologie</title>
 </programme>
-<programme start="20260615221000 +0000" stop="20260615230500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260615230000 +0000" stop="20260615235500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Saisonrückblick</title>
 </programme>
-<programme start="20260615230500 +0000" stop="20260616000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260615235500 +0000" stop="20260616005000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA ECL: Saisonrückblick</title>
 </programme>
-<programme start="20260616000000 +0000" stop="20260616005500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260616005000 +0000" stop="20260616014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Saisonrückblick</title>
 </programme>
-<programme start="20260616005500 +0000" stop="20260616023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260616014500 +0000" stop="20260616034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA), Terra Wortmann Open in Halle, 1. Tag</title>
 </programme>
-<programme start="20260616030000 +0000" stop="20260616031500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260616034500 +0000" stop="20260616040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Golf: Sky Golf Cups Österreich</title>
 </programme>
-<programme start="20260616045000 +0000" stop="20260616052000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260616040000 +0000" stop="20260616043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Emma Spitz)</title>
 </programme>
-<programme start="20260616052000 +0000" stop="20260616065500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260616043000 +0000" stop="20260616063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA), Terra Wortmann Open in Halle, 1. Tag</title>
 </programme>
-<programme start="20260616065500 +0000" stop="20260616072500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260616063000 +0000" stop="20260616070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Best of)</title>
 </programme>
-<programme start="20260616072500 +0000" stop="20260616075500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260616070000 +0000" stop="20260616073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Glasner. Eine Sky Sport Austria Dokumentation</title>
 </programme>
-<programme start="20260616075500 +0000" stop="20260616093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260616073000 +0000" stop="20260616093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA), Terra Wortmann Open in Halle, 1. Tag</title>
 </programme>
 <programme start="20260616093000 +0000" stop="20260616173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2402,13 +2405,13 @@
     <title>Fußball: Rot-Weiß-Roadtrip</title>
 </programme>
 <programme start="20260616184500 +0000" stop="20260616204500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - V. Kopriva (CZE), Terra Wortmann Open in Halle, 2. Tag</title>
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 2. Tag</title>
 </programme>
 <programme start="20260616204500 +0000" stop="20260616214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis (WM Spezial)</title>
 </programme>
 <programme start="20260616214500 +0000" stop="20260616234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - V. Kopriva (CZE), Terra Wortmann Open in Halle, 2. Tag</title>
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 2. Tag</title>
 </programme>
 <programme start="20260615221500 +0000" stop="20260615224500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Transfer Update: Die Show</title>
@@ -2491,8 +2494,8 @@
 <programme start="20260616203000 +0000" stop="20260616223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: 1. FC Köln  - Borussia Dortmund, tipico Topspiel der Woche, 25. Spieltag</title>
 </programme>
-<programme start="20260616120000 +0000" stop="20260616140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
-    <title>TEST: BL: 1. FC Union Berlin - VfB Stuttgart, 1. Spieltag</title>
+<programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+    <title>Live BL: 1. FC Union Berlin - VfB Stuttgart, 1. Spieltag</title>
 </programme>
 <programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
@@ -2500,8 +2503,8 @@
 <programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live BL: Bayer Leverkusen - VfL Wolfsburg, 28. Spieltag</title>
 </programme>
-<programme start="20260616120000 +0000" stop="20260616140000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
-    <title>TEST: BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
+<programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+    <title>Live BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
 <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Barcelona</title>
@@ -2614,13 +2617,13 @@
 <programme start="20260616180000 +0000" stop="20260616210000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag 2025 in Oakmont, PA (USA)</title>
 </programme>
-<programme start="20260616210000 +0000" stop="20260616235900 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260616210000 +0000" stop="20260617000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: International Series Marokko, 4. Tag in Rabat (Marokko)</title>
 </programme>
-<programme start="20260616000000 +0000" stop="20260616023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260616000000 +0000" stop="20260616021000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Las Vegas Aces @ Dallas Wings</title>
 </programme>
-<programme start="20260616023000 +0000" stop="20260616043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260616021000 +0000" stop="20260616043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Los Angeles Sparks @ Golden State Valkyries</title>
 </programme>
 <programme start="20260616043000 +0000" stop="20260616050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2710,125 +2713,143 @@
 <programme start="20260616210000 +0000" stop="20260616220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260616221500 +0000" stop="20260616230000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Yaya Toure)</title>
+<programme start="20260615221500 +0000" stop="20260615224500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Sergio Aguero)</title>
 </programme>
-<programme start="20260616230000 +0000" stop="20260617000000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Dwight Yorke)</title>
+<programme start="20260615224500 +0000" stop="20260615231500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: ARS - LIV, 21. Spieltag</title>
 </programme>
-<programme start="20260617000000 +0000" stop="20260617010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Ruud Gullit)</title>
-</programme>
-<programme start="20260617010000 +0000" stop="20260617020000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Cesc Fabregas)</title>
-</programme>
-<programme start="20260617020000 +0000" stop="20260617030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Peter Schmeichel)</title>
-</programme>
-<programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Alan Shearer&#039;s Top 10 Strikers)</title>
-</programme>
-<programme start="20260617040000 +0000" stop="20260617050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Cesc Fabregas)</title>
-</programme>
-<programme start="20260617050000 +0000" stop="20260617053000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MUN - ARS, 1. Spieltag</title>
-</programme>
-<programme start="20260617053000 +0000" stop="20260617060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - LEE, 2. Spieltag</title>
-</programme>
-<programme start="20260617060000 +0000" stop="20260617063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - NFO, 4. Spieltag</title>
-</programme>
-<programme start="20260617063000 +0000" stop="20260617070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NEW - ARS,  6. Spieltag</title>
-</programme>
-<programme start="20260617070000 +0000" stop="20260617073000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - WHU, 7. Spieltag</title>
-</programme>
-<programme start="20260617073000 +0000" stop="20260617080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind (Ray Parlour - The Invincibles)</title>
-</programme>
-<programme start="20260617080000 +0000" stop="20260617083000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: FUL - ARS, 8. Spieltag</title>
-</programme>
-<programme start="20260617083000 +0000" stop="20260617090000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - CRY, 9. Spieltag</title>
-</programme>
-<programme start="20260617090000 +0000" stop="20260617093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BUR - ARS, 10. Spieltag</title>
-</programme>
-<programme start="20260617093000 +0000" stop="20260617100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - TOT, 12. Spieltag</title>
-</programme>
-<programme start="20260617100000 +0000" stop="20260617103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - BRE, 14. Spieltag</title>
-</programme>
-<programme start="20260617103000 +0000" stop="20260617110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - WOL, 16. Spieltag</title>
-</programme>
-<programme start="20260617110000 +0000" stop="20260617113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: EVE - ARS, 17. Spieltag</title>
-</programme>
-<programme start="20260617113000 +0000" stop="20260617120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind (Ray Parlour - The Invincibles)</title>
-</programme>
-<programme start="20260617120000 +0000" stop="20260617123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - BRI, 18. Spieltag</title>
-</programme>
-<programme start="20260617123000 +0000" stop="20260617130000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260615231500 +0000" stop="20260615234500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Aaron Ramsey - My Arsenal Years</title>
 </programme>
-<programme start="20260617130000 +0000" stop="20260617133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - AVL, 19. Spieltag</title>
+<programme start="20260615234500 +0000" stop="20260616001500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: AVL - EVE, 22. Spieltag</title>
 </programme>
-<programme start="20260617133000 +0000" stop="20260617140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BOU - ARS, 20. Spieltag</title>
+<programme start="20260616001500 +0000" stop="20260616004500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Goodbye Goodison)</title>
 </programme>
-<programme start="20260617140000 +0000" stop="20260617143000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LEE - ARS, 24. Spieltag</title>
+<programme start="20260616004500 +0000" stop="20260616011500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: ARS - MUN, 23. Spieltag</title>
 </programme>
-<programme start="20260617143000 +0000" stop="20260617150000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - SUN, 25. Spieltag</title>
+<programme start="20260616011500 +0000" stop="20260616014500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Ryan Giggs</title>
 </programme>
-<programme start="20260617150000 +0000" stop="20260617153000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260616014500 +0000" stop="20260616021500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: TOT - MCI, 24. Spieltag</title>
+</programme>
+<programme start="20260616021500 +0000" stop="20260616024500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: LIV - MCI, 25. Spieltag</title>
+</programme>
+<programme start="20260616024500 +0000" stop="20260616031500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Liverpool - The Succession Story)</title>
+</programme>
+<programme start="20260616031500 +0000" stop="20260616034500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind (Ray Parlour - The Invincibles)</title>
+</programme>
+<programme start="20260616034500 +0000" stop="20260616041500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: WOL - ARS, 31. Spieltag</title>
+</programme>
+<programme start="20260616041500 +0000" stop="20260616044500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Aaron Ramsey - My Arsenal Years</title>
+</programme>
+<programme start="20260616044500 +0000" stop="20260616051500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: TOT - ARS, 27. Spieltag</title>
 </programme>
-<programme start="20260617153000 +0000" stop="20260617160000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260616051500 +0000" stop="20260616054500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Patrick Vieira)</title>
+</programme>
+<programme start="20260616054500 +0000" stop="20260616061500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - CHE, 28. Spieltag</title>
 </programme>
-<programme start="20260617160000 +0000" stop="20260617163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: Aaron Ramsey - My Arsenal Years</title>
+<programme start="20260616061500 +0000" stop="20260616064500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Didier Drogba)</title>
 </programme>
-<programme start="20260617163000 +0000" stop="20260617170000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BRI - ARS, 29. Spieltag</title>
+<programme start="20260616064500 +0000" stop="20260616071500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NEW - MUN, 29. Spieltag</title>
 </programme>
-<programme start="20260617170000 +0000" stop="20260617173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - EVE, 30. Spieltag</title>
+<programme start="20260616071500 +0000" stop="20260616074500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Alan Shearer - My Newcastle Story</title>
 </programme>
-<programme start="20260617173000 +0000" stop="20260617180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - BOU, 32. Spieltag</title>
+<programme start="20260616074500 +0000" stop="20260616081500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: LIV - TOT, 30. Spieltag</title>
 </programme>
-<programme start="20260617180000 +0000" stop="20260617183000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260616081500 +0000" stop="20260616084500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Dietmar Hamann - My Liverpool Years</title>
+</programme>
+<programme start="20260616084500 +0000" stop="20260616091500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: BOU - MUN, 31. Spieltag</title>
+</programme>
+<programme start="20260616091500 +0000" stop="20260616094500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Paul Scholes)</title>
+</programme>
+<programme start="20260616094500 +0000" stop="20260616101500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: CHE - MCI, 32. Spieltag</title>
+</programme>
+<programme start="20260616101500 +0000" stop="20260616104500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (John Terry)</title>
+</programme>
+<programme start="20260616104500 +0000" stop="20260616111500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: MCI - ARS, 33. Spieltag</title>
 </programme>
-<programme start="20260617183000 +0000" stop="20260617190000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260616111500 +0000" stop="20260616114500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Premier League World (Thierry Henry)</title>
+</programme>
+<programme start="20260616114500 +0000" stop="20260616121500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - NEW, 34. Spieltag</title>
 </programme>
-<programme start="20260617190000 +0000" stop="20260617193000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - FUL, 35. Spieltag</title>
+<programme start="20260616121500 +0000" stop="20260616124500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Newcastle United: Not In My Lifetime)</title>
 </programme>
-<programme start="20260617193000 +0000" stop="20260617200000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: WHU - ARS, 36. Spieltag</title>
+<programme start="20260616124500 +0000" stop="20260616131500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MUN - LIV, 35. Spieltag</title>
 </programme>
-<programme start="20260617200000 +0000" stop="20260617203000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - BUR, 37. Spieltag</title>
+<programme start="20260616131500 +0000" stop="20260616134500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (The Forgotten Class of &#039;92)</title>
 </programme>
-<programme start="20260617203000 +0000" stop="20260617210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CRY - ARS, 38. Spieltag</title>
+<programme start="20260616134500 +0000" stop="20260616141500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: WHU - ARS, 13. Spieltag</title>
 </programme>
-<programme start="20260617210000 +0000" stop="20260617220000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260616141500 +0000" stop="20260616144500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (The Invincibles)</title>
+</programme>
+<programme start="20260616144500 +0000" stop="20260616151500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NEW - WHU, 37. Spieltag</title>
+</programme>
+<programme start="20260616151500 +0000" stop="20260616154500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Title Run in - True Turning Points)</title>
+</programme>
+<programme start="20260616154500 +0000" stop="20260616161500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: MCI - AVL, 38. Spieltag</title>
+</programme>
+<programme start="20260616161500 +0000" stop="20260616171500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review of the Season 2025/2026</title>
+</programme>
+<programme start="20260616171500 +0000" stop="20260616181500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2025/2026</title>
+</programme>
+<programme start="20260616181500 +0000" stop="20260616184500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: 90in30: Hull City - FC Middlesbrough, Playoffs Finale</title>
+</programme>
+<programme start="20260616184500 +0000" stop="20260616191500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: MCI vs. QPR 2011/12</title>
+</programme>
+<programme start="20260616191500 +0000" stop="20260616194500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Peter Schmeichel</title>
+</programme>
+<programme start="20260616194500 +0000" stop="20260616201500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Slaven Bilic - My West Ham Years</title>
+</programme>
+<programme start="20260616201500 +0000" stop="20260616204500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: West Ham (2025/26)</title>
+</programme>
+<programme start="20260616204500 +0000" stop="20260616211500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Aaron Ramsey - My Arsenal Years</title>
+</programme>
+<programme start="20260616211500 +0000" stop="20260616214500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Dietmar Hamann - My Liverpool Years</title>
+</programme>
+<programme start="20260616214500 +0000" stop="20260616221500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Rewind: Sunderland (99/00)</title>
 </programme>
 <programme start="20260615231500 +0000" stop="20260616011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: G. Mpetshi Perricard (FRA) - C. Moutet (FRA), HSBC Championships in London (GBR), 1. Tag</title>
@@ -2846,7 +2867,7 @@
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260616064000 +0000" stop="20260616084000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: A. Potapova (AUT) - E. Alexandrova, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 1. Tag</title>
+    <title>WTA 500: D. Shnaider - N. Bartunkova (CZE), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 1. Tag</title>
 </programme>
 <programme start="20260616084000 +0000" stop="20260616090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Endlich am Ziel - Alexander Zverev Exklusiv</title>
@@ -2860,23 +2881,17 @@
 <programme start="20260616210000 +0000" stop="20260616230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 2. Tag</title>
 </programme>
-<programme start="20260616000000 +0000" stop="20260616023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260616000000 +0000" stop="20260616021000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Las Vegas Aces @ Dallas Wings</title>
 </programme>
-<programme start="20260616023000 +0000" stop="20260616043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260616021000 +0000" stop="20260616043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Los Angeles Sparks @ Golden State Valkyries</title>
 </programme>
-<programme start="20260616043000 +0000" stop="20260616053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>FIM WorldWCR: 1. Rennen - GP Italien</title>
+<programme start="20260616043000 +0000" stop="20260616070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
 </programme>
-<programme start="20260616053000 +0000" stop="20260616063000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>FIM WorldWCR: 2. Rennen - GP Italien</title>
-</programme>
-<programme start="20260616063000 +0000" stop="20260616083000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260616070000 +0000" stop="20260616090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP Barcelona</title>
-</programme>
-<programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Ted&#039;s Notebook: GP Barcelona</title>
 </programme>
 <programme start="20260616090000 +0000" stop="20260616183000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin, 2. Tag</title>
@@ -2884,14 +2899,14 @@
 <programme start="20260616183000 +0000" stop="20260616193000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review of the Season 2025/2026</title>
 </programme>
-<programme start="20260616193000 +0000" stop="20260616203000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Ferrari Challenge Europe: 1. Rennen in Le Mans</title>
+<programme start="20260616193000 +0000" stop="20260616194500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20260616203000 +0000" stop="20260616213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Ferrari Challenge Europe: 2. Rennen in Le Mans</title>
+<programme start="20260616194500 +0000" stop="20260616203000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
 </programme>
-<programme start="20260616213000 +0000" stop="20260616220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen Kompakt - GP Barcelona</title>
+<programme start="20260616203000 +0000" stop="20260616230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
 </programme>
 <programme start="20260615222500 +0000" stop="20260615225500 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (2)</title>
@@ -3433,40 +3448,40 @@
 <programme start="20260616033500 +0000" stop="20260616035000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260616035000 +0000" stop="20260616043500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616035000 +0000" stop="20260616044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260616043500 +0000" stop="20260616053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616044000 +0000" stop="20260616053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260616053500 +0000" stop="20260616062500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260616062500 +0000" stop="20260616071500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616062500 +0000" stop="20260616072000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260616071500 +0000" stop="20260616080500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616072000 +0000" stop="20260616081000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260616080500 +0000" stop="20260616085500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616081000 +0000" stop="20260616090000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260616085500 +0000" stop="20260616094500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616090000 +0000" stop="20260616095000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260616094500 +0000" stop="20260616103500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616095000 +0000" stop="20260616104000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260616103500 +0000" stop="20260616112000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616104000 +0000" stop="20260616112500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Castle</title>
 </programme>
-<programme start="20260616112000 +0000" stop="20260616120500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616112500 +0000" stop="20260616121000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Castle</title>
 </programme>
-<programme start="20260616120500 +0000" stop="20260616125000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616121000 +0000" stop="20260616125500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260616125000 +0000" stop="20260616134000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616125500 +0000" stop="20260616134000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
 <programme start="20260616134000 +0000" stop="20260616142500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3496,9 +3511,9 @@
 <programme start="20260616194500 +0000" stop="20260616203000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Castle</title>
 </programme>
-<programme start="20260616203000 +0000" stop="20260616212000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616203000 +0000" stop="20260616211500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260616212000 +0000" stop="20260616220500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260616211500 +0000" stop="20260616220000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>

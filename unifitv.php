@@ -1006,9 +1006,21 @@
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme start="20260616063000 +0000" stop="20260616080000 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : MAJLIS PELANCARAN KAD PENGENALAN (STRUKTUR BAHARU) DAN PASPORT MALAYSIA ANTARABANGSA BAHARU</title>
-    <desc lang="en">Saksikan Siaran Langsung Majlis Pelancaran Kad Pengenalan (Struktur Baharu) dan Pasport Malaysia Antarabangsa Baharu.</desc>
+  <programme start="20260616063000 +0000" stop="20260616070000 +0000" channel="tv1.unifitv">
+    <title lang="en">Lempeng Madu &amp; Kambing</title>
+    <desc lang="en">Sebuah drama bersiri melayu yang memaparkan kisah keluarga Mek Nenab.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260616070000 +0000" stop="20260616070500 +0000" channel="tv1.unifitv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260616070500 +0000" stop="20260616080000 +0000" channel="tv1.unifitv">
+    <title lang="en">Kuppa Kopi 2026</title>
+    <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260616080000 +0000" stop="20260616080500 +0000" channel="tv1.unifitv">
@@ -10152,15 +10164,15 @@
     <display-name>Nick Jr.</display-name>
   </channel>
   <programme start="20260615155500 +0000" stop="20260615161500 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">Following a misadventure, Barbabravo is unable to transform at all. The whole family unites to help him.  Barbabravo can't stay put and is unable to focus one an activity for very long. Barbalala offers to teach him control. Will she succeed?</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.124.</episode-num>
     <episode-num system="onscreen">S1E125</episode-num>
   </programme>
   <programme start="20260615161500 +0000" stop="20260615163000 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">The Barbababies, the twins, and Mr. Strict set sail on "Thésée", a magnificent sailboat.</desc>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
+    <desc lang="en">The Barbababies, the twins, and Mr. Strict set sail on Thésée, a magnificent sailboat.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.202.</episode-num>
     <episode-num system="onscreen">S2E203</episode-num>
@@ -10222,14 +10234,14 @@
     <episode-num system="onscreen">S1E110</episode-num>
   </programme>
   <programme start="20260615173000 +0000" stop="20260615175000 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">The Barbababies decide to create a show and go all out!  Barbotine wants to create the best lemonade.</desc>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
+    <desc lang="en">The Barbababies decide to create a show and go all out  Barbotine wants to create the best lemonade.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.223.</episode-num>
     <episode-num system="onscreen">S2E224</episode-num>
   </programme>
   <programme start="20260615175000 +0000" stop="20260615180000 +0000" channel="nickjr.unifitv">
-    <title lang="en">Barbapapa - One Big Happy Family!</title>
+    <title lang="en">Barbapapa - One Big Happy Family</title>
     <desc lang="en">Barbabright acts strangely. What is he hiding ? The Barbabbabies will do anything to find out.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.121.</episode-num>
@@ -10244,28 +10256,28 @@
   </programme>
   <programme start="20260615182500 +0000" stop="20260615184500 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">The PAW Patrol plan a special celebration for Wally the Walrus. When he doesn't show up, they find he has a special new friend named Walinda!  During Cap'n Turbot's archaeological dig, a rock slide unearths a big dinosaur bone!</desc>
+    <desc lang="en">The PAW Patrol plan a special celebration for Wally the Walrus. When he doesn't show up, they find he has a special new friend named Walinda  During Cap'n Turbot's archaeological dig, a rock slide unearths a big dinosaur bone</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.220.</episode-num>
     <episode-num system="onscreen">S2E221</episode-num>
   </programme>
   <programme start="20260615184500 +0000" stop="20260615190000 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">Gustavo Goodway's guitar is missing. The pups need to find it before tonight's campfire concert!</desc>
+    <desc lang="en">Gustavo Goodway's guitar is missing. The pups need to find it before tonight's campfire concert</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">5.606.</episode-num>
     <episode-num system="onscreen">S6E607</episode-num>
   </programme>
   <programme start="20260615190000 +0000" stop="20260615192000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Rubble &amp; Crew build the perfect place to show off River's ever-changing photography projects... Builder Cove's own art museum!  Farmer Zoe has a new goat on her farm! But when she can't find the singing goat, the pups team up with Park Ranger Rose.</desc>
+    <desc lang="en">Rubble &amp; Crew build the perfect place to show off River's ever-changing photography projects... Builder Cove's own art museum  Farmer Zoe has a new goat on her farm But when she can't find the singing goat, the pups team up with Park Ranger Rose.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.308.</episode-num>
     <episode-num system="onscreen">S3E309</episode-num>
   </programme>
   <programme start="20260615192000 +0000" stop="20260615194500 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Rubble &amp; Crew are building their biggest construction project ever... a skyscraper! And a job that huge calls for brand-new, mega-sized construction vehicles! But when Speed Meister sees the pups' big trucks, he calls in help from his big brother.</desc>
+    <desc lang="en">Rubble &amp; Crew are building their biggest construction project ever... a skyscraper And a job that huge calls for brand-new, mega-sized construction vehicles But when Speed Meister sees the pups' big trucks, he calls in help from his big brother.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.309.</episode-num>
     <episode-num system="onscreen">S3E310</episode-num>
@@ -10285,35 +10297,35 @@
     <episode-num system="onscreen">S2E208</episode-num>
   </programme>
   <programme start="20260615202500 +0000" stop="20260615205000 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">Barbazoo is ready to help. But Barbabright and Barbabelle abuse his kindness and drive him crazy.  By chance, Barbazoo realizes he can imitate Barbapapa. He uses this opportunity to distribute chores to his brothers and sisters. Will they find out?</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.123.</episode-num>
     <episode-num system="onscreen">S1E124</episode-num>
   </programme>
   <programme start="20260615205000 +0000" stop="20260615211000 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">Following a misadventure, Barbabravo is unable to transform at all. The whole family unites to help him.  Barbabravo can't stay put and is unable to focus one an activity for very long. Barbalala offers to teach him control. Will she succeed?</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.124.</episode-num>
     <episode-num system="onscreen">S1E125</episode-num>
   </programme>
   <programme start="20260615211000 +0000" stop="20260615213500 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">The Barbababies think their food can make them change colours and shapes. They decide to find the right food for each of them.  Barbabeau lacks inspiration, he can't create anymore. The whole family helps by suggesting new subjects to paint.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.125.</episode-num>
     <episode-num system="onscreen">S1E126</episode-num>
   </programme>
   <programme start="20260615213500 +0000" stop="20260615215500 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">During a walk, the Barbapapa family discovers a megalith.  Barbabright has a stroke of genius: the invention of the "BAM".</desc>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
+    <desc lang="en">During a walk, the Barbapapa family discovers a megalith.  Barbabright has a stroke of genius: the invention of the BAM.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.200.</episode-num>
     <episode-num system="onscreen">S2E201</episode-num>
   </programme>
   <programme start="20260615215500 +0000" stop="20260615222000 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">Barbabelle proudly announces to her family that she wants to become a princess.  Barbabravo is moping with boredom, his brothers and sisters are all busy and no one wants to play with him.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.201.</episode-num>
@@ -10321,28 +10333,28 @@
   </programme>
   <programme start="20260615222000 +0000" stop="20260615224000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">After Speed Meister builds an unsafe playground, the Rubble &amp; Crew get creative and build a whole new one with old materials.  The town Chili Cookaroo is threatened when City Hall's roof starts to cave in! Luckily, the pups know just how to fix it.</desc>
+    <desc lang="en">After Speed Meister builds an unsafe playground, the Rubble &amp; Crew get creative and build a whole new one with old materials.  The town Chili Cookaroo is threatened when City Hall's roof starts to cave in Luckily, the pups know just how to fix it.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.103.</episode-num>
     <episode-num system="onscreen">S1E104</episode-num>
   </programme>
   <programme start="20260615224000 +0000" stop="20260615230500 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Mayor Greatway needs her muddy motorcycle cleaned fast! Wheeler and the pups jump into action to build a solution before the big race.  It's Grandpa Gravel's special day! But when the pups are needed, they have to change their Grandpa Day plans.</desc>
+    <desc lang="en">Mayor Greatway needs her muddy motorcycle cleaned fast Wheeler and the pups jump into action to build a solution before the big race.  It's Grandpa Gravel's special day But when the pups are needed, they have to change their Grandpa Day plans.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.104.</episode-num>
     <episode-num system="onscreen">S1E105</episode-num>
   </programme>
   <programme start="20260615230500 +0000" stop="20260615232500 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">Mayor Goodway and Farmer Al are ready for a day filled with Skydiving fun, but their adventure is quickly derailed. It's Paw Patrol to the rescue!  Alex and the Mini Patrol get locked inside the flounder, the Paw Patrol dives in to save the day!</desc>
+    <desc lang="en">Mayor Goodway and Farmer Al are ready for a day filled with Skydiving fun, but their adventure is quickly derailed. It's Paw Patrol to the rescue  Alex and the Mini Patrol get locked inside the flounder, the Paw Patrol dives in to save the day</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">6.710.</episode-num>
     <episode-num system="onscreen">S7E711</episode-num>
   </programme>
   <programme start="20260615232500 +0000" stop="20260615235000 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">Uncle Otis takes a trip to a lost gold mine. After wandering off course, Ryder and the Pups must save him from the booby-trapped mine.  Uncle Otis's installs a Smart Home 3000, in his cabin, that ends up trapping Uncle Otis and Mr. Wingnut inside!</desc>
+    <desc lang="en">Uncle Otis takes a trip to a lost gold mine. After wandering off course, Ryder and the Pups must save him from the booby-trapped mine.  Uncle Otis's installs a Smart Home 3000, in his cabin, that ends up trapping Uncle Otis and Mr. Wingnut inside</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">6.712.</episode-num>
     <episode-num system="onscreen">S7E713</episode-num>
@@ -10370,28 +10382,28 @@
   </programme>
   <programme start="20260616005500 +0000" stop="20260616012000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">The pups are starstruck when their favorite TV renovation star, Hank Hammer, comes to see them at work.  Cap'n Turbot is bringing Mayor Greatway a big surprise. But when a thick fog rolls in, the pups have to build a lighthouse fast!</desc>
+    <desc lang="en">The pups are starstruck when their favorite TV renovation star, Hank Hammer, comes to see them at work.  Cap'n Turbot is bringing Mayor Greatway a big surprise. But when a thick fog rolls in, the pups have to build a lighthouse fast</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.111.</episode-num>
     <episode-num system="onscreen">S1E112</episode-num>
   </programme>
   <programme start="20260616012000 +0000" stop="20260616014500 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">After uncovering dinosaur bones, the pups decide to build a dinosaur museum!  When Omar the Mail Carrier breaks his foot, it's up to the pups to make sure he can still deliver the mail by building ramps all over town.</desc>
+    <desc lang="en">After uncovering dinosaur bones, the pups decide to build a dinosaur museum  When Omar the Mail Carrier breaks his foot, it's up to the pups to make sure he can still deliver the mail by building ramps all over town.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.112.</episode-num>
     <episode-num system="onscreen">S1E113</episode-num>
   </programme>
   <programme start="20260616014500 +0000" stop="20260616020500 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Dora stops a frantic octopus Swiper and saves the Pearl Day Party!  Dora meets Raquel the Rock Lobster and helps her get the missing instruments back in time to play at the big music show!</desc>
+    <desc lang="en">Dora stops a frantic octopus Swiper and saves the Pearl Day Party  Dora meets Raquel the Rock Lobster and helps her get the missing instruments back in time to play at the big music show</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">3.409.</episode-num>
     <episode-num system="onscreen">S4E410</episode-num>
   </programme>
   <programme start="20260616020500 +0000" stop="20260616023000 +0000" channel="nickjr.unifitv">
     <title lang="en">Blaze and the Monster Machines</title>
-    <desc lang="en">NASA's Commander Megan is back! And she's taking Blaze and his friends to... Mars! But when Crusher accidently detaches the rocket ship's thrusters, it's up to Mars Rover Blaze to navigate Mars and get those thrusters back!</desc>
+    <desc lang="en">NASA's Commander Megan is back And she's taking Blaze and his friends to... Mars But when Crusher accidently detaches the rocket ship's thrusters, it's up to Mars Rover Blaze to navigate Mars and get those thrusters back</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">6.707.</episode-num>
     <episode-num system="onscreen">S7E708</episode-num>
@@ -10404,15 +10416,15 @@
     <episode-num system="onscreen">S1E107</episode-num>
   </programme>
   <programme start="20260616025000 +0000" stop="20260616031500 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">Mr. Strict's twins visit the barbababies. The barbababies organize a treasure hunt for the twins and enjoy the great outdoors.  The Barbapapas are off to a new adventure... in the garden. But living in nature is more complicated than they expected.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.113.</episode-num>
     <episode-num system="onscreen">S1E114</episode-num>
   </programme>
   <programme start="20260616031500 +0000" stop="20260616033500 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
-    <desc lang="en">Chemical sprays are making the countryside rosy! The Barbapapas' build an aviary to protect sick birds.  When they see a beach covered with rubbish, the Barbapapa family decides to clean the beach and use the trash to make a miniature golf course.</desc>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
+    <desc lang="en">Chemical sprays are making the countryside rosy The Barbapapas' build an aviary to protect sick birds.  When they see a beach covered with rubbish, the Barbapapa family decides to clean the beach and use the trash to make a miniature golf course.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.114.</episode-num>
     <episode-num system="onscreen">S1E115</episode-num>
@@ -10426,14 +10438,14 @@
   </programme>
   <programme start="20260616040000 +0000" stop="20260616042000 +0000" channel="nickjr.unifitv">
     <title lang="en">Blaze and the Monster Machines</title>
-    <desc lang="en">When three big deliveries are needed all over Axle City, there's only one monster machine with the power to haul it all: Big Rig Blaze! But even Big Rig Blaze may not be able to make all the deliveries in time.</desc>
+    <desc lang="en">When three big deliveries are needed all over Axle City, there's only one monster machine with the power to haul it all: Big Rig Blaze But even Big Rig Blaze may not be able to make all the deliveries in time.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">5.600.</episode-num>
     <episode-num system="onscreen">S6E601</episode-num>
   </programme>
   <programme start="20260616042000 +0000" stop="20260616044500 +0000" channel="nickjr.unifitv">
     <title lang="en">Blaze and the Monster Machines</title>
-    <desc lang="en">When a big stunt goes awry, Darington is sent flying away on an out-of-control balloon! Now, it's up to Blaze, AJ, and Darington's sidekick Stunt Kitty to save the day!</desc>
+    <desc lang="en">When a big stunt goes awry, Darington is sent flying away on an out-of-control balloon Now, it's up to Blaze, AJ, and Darington's sidekick Stunt Kitty to save the day</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">5.601.</episode-num>
     <episode-num system="onscreen">S6E602</episode-num>
@@ -10447,42 +10459,42 @@
   </programme>
   <programme start="20260616045500 +0000" stop="20260616050500 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Coach Karima is throwing Checkers Day for all the Builder Cove kids! But when everyone can't play together, Rubble &amp; Crew save the day with construction.</desc>
+    <desc lang="en">Coach Karima is throwing Checkers Day for all the Builder Cove kids But when everyone can't play together, Rubble &amp; Crew save the day with construction.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">3.406.</episode-num>
     <episode-num system="onscreen">S4E407</episode-num>
   </programme>
   <programme start="20260616050500 +0000" stop="20260616053000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Rubble &amp; Crew steps in to help at Hotel Hadley after a snowy surprise. But when the stairs aren't fast enough, it's time to bow wow build!  Café Carl adopted kittens! But when they cause popcorn pandemonium, Rubble &amp; Crew make the café cat-friendly</desc>
+    <desc lang="en">Rubble &amp; Crew steps in to help at Hotel Hadley after a snowy surprise. But when the stairs aren't fast enough, it's time to bow wow build  Café Carl adopted kittens But when they cause popcorn pandemonium, Rubble &amp; Crew make the café cat-friendly</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.301.</episode-num>
     <episode-num system="onscreen">S3E302</episode-num>
   </programme>
   <programme start="20260616053000 +0000" stop="20260616055000 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">A winter ice storm causes trouble all over Adventure Bay. The PAW Patrol races to the rescue!  Mayor Goodway challenges Mayor Humdinger's Basketball team to a game. The pups pitch in and become the Adventure Bay All-Stars!</desc>
+    <desc lang="en">A winter ice storm causes trouble all over Adventure Bay. The PAW Patrol races to the rescue  Mayor Goodway challenges Mayor Humdinger's Basketball team to a game. The pups pitch in and become the Adventure Bay All-Stars</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.207.</episode-num>
     <episode-num system="onscreen">S2E208</episode-num>
   </programme>
   <programme start="20260616055000 +0000" stop="20260616061500 +0000" channel="nickjr.unifitv">
     <title lang="en">Deer Squad</title>
-    <desc lang="en">A Professor Scratch invention makes Sir Steel too strong and he causes havoc!  Kai's stowaway Bubble Alien causes problems when it gets wet and multiplies!</desc>
+    <desc lang="en">A Professor Scratch invention makes Sir Steel too strong and he causes havoc  Kai's stowaway Bubble Alien causes problems when it gets wet and multiplies</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">3.404.</episode-num>
     <episode-num system="onscreen">S4E405</episode-num>
   </programme>
   <programme start="20260616061500 +0000" stop="20260616063500 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Ale the Alebrije asks Dora for her help! The Alebrije tree is wilting, so it's up to Dora to find its rainbow water.  On a super hot day, everyone wants paleta, but Val's paleta truck is stuck! Dora goes to rescue her and get paletas for everyone.</desc>
+    <desc lang="en">Ale the Alebrije asks Dora for her help The Alebrije tree is wilting, so it's up to Dora to find its rainbow water.  On a super hot day, everyone wants paleta, but Val's paleta truck is stuck Dora goes to rescue her and get paletas for everyone.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.102.</episode-num>
     <episode-num system="onscreen">S1E103</episode-num>
   </programme>
   <programme start="20260616063500 +0000" stop="20260616065000 +0000" channel="nickjr.unifitv">
     <title lang="en">DORA</title>
-    <desc lang="en">Dora, Boots, and Papi want to see the Quetzal constellation dance across the sky, but it loses three stars! Dora has to get them back in time.</desc>
+    <desc lang="en">Dora, Boots, and Papi want to see the Quetzal constellation dance across the sky, but it loses three stars Dora has to get them back in time.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.123.</episode-num>
     <episode-num system="onscreen">S1E124</episode-num>
@@ -10496,7 +10508,7 @@
   </programme>
   <programme start="20260616071000 +0000" stop="20260616071500 +0000" channel="nickjr.unifitv">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">Daddy Pig has a new synthesiser. Peppa, George and Mummy Pig have fun finding and sampling different sounds from around the house!</desc>
+    <desc lang="en">Daddy Pig has a new synthesiser. Peppa, George and Mummy Pig have fun finding and sampling different sounds from around the house</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">7.808.</episode-num>
     <episode-num system="onscreen">S8E809</episode-num>
@@ -10510,14 +10522,14 @@
   </programme>
   <programme start="20260616072000 +0000" stop="20260616072500 +0000" channel="nickjr.unifitv">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">Peppa, George, Rebecca and Richard Rabbit have so much fun playing with their marble run. When Daddy Pig joins in, the marble run gets much bigger!</desc>
+    <desc lang="en">Peppa, George, Rebecca and Richard Rabbit have so much fun playing with their marble run. When Daddy Pig joins in, the marble run gets much bigger</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">7.810.</episode-num>
     <episode-num system="onscreen">S8E811</episode-num>
   </programme>
   <programme start="20260616072500 +0000" stop="20260616073000 +0000" channel="nickjr.unifitv">
     <title lang="en">Peppa Pig</title>
-    <desc lang="en">When George loses his new toy robot's metal key, Grandpa Pig uses his metal detector to find it. They also find a lot of other things on the way!</desc>
+    <desc lang="en">When George loses his new toy robot's metal key, Grandpa Pig uses his metal detector to find it. They also find a lot of other things on the way</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">7.811.</episode-num>
     <episode-num system="onscreen">S8E812</episode-num>
@@ -10530,14 +10542,14 @@
     <episode-num system="onscreen">S1E102</episode-num>
   </programme>
   <programme start="20260616075500 +0000" stop="20260616081500 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">Barbamama and Barbapapa are surprised to see more and more billboards on the road.  Barbalala dreams of becoming a cowgirl and Barbidou is determined to help her.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.216.</episode-num>
     <episode-num system="onscreen">S2E217</episode-num>
   </programme>
   <programme start="20260616081500 +0000" stop="20260616084000 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">Barbabelle proudly announces to her family that she wants to become a princess.  Barbabravo is moping with boredom, his brothers and sisters are all busy and no one wants to play with him.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.201.</episode-num>
@@ -10545,21 +10557,21 @@
   </programme>
   <programme start="20260616084000 +0000" stop="20260616090000 +0000" channel="nickjr.unifitv">
     <title lang="en">Mr. Crocodile</title>
-    <desc lang="en">Mr. Crocodile dresses as Super Crocodile for his first Halloween, and tries to live up to his new identity.  Daisy and Mr. Crocodile promise to take care of Mrs. Flores' prized plant, but keep putting it off for "later".</desc>
+    <desc lang="en">Mr. Crocodile dresses as Super Crocodile for his first Halloween, and tries to live up to his new identity.  Daisy and Mr. Crocodile promise to take care of Mrs. Flores' prized plant, but keep putting it off for later.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.111.</episode-num>
     <episode-num system="onscreen">S1E112</episode-num>
   </programme>
   <programme start="20260616090000 +0000" stop="20260616092500 +0000" channel="nickjr.unifitv">
     <title lang="en">Blaze and the Monster Machines</title>
-    <desc lang="en">Blaze must complete three amazing rescues to join the greatest emergency vehicle team in Axle City: the Monster Machine Rescue Team!</desc>
+    <desc lang="en">Blaze must complete three amazing rescues to join the greatest emergency vehicle team in Axle City: the Monster Machine Rescue Team</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">7.804.</episode-num>
     <episode-num system="onscreen">S8E805</episode-num>
   </programme>
   <programme start="20260616092500 +0000" stop="20260616094500 +0000" channel="nickjr.unifitv">
     <title lang="en">Blaze and the Monster Machines</title>
-    <desc lang="en">Blaze and his pals are gearing up for a big race with brand new tires! But when Crusher tricks Starla, Darington and Stripes into putting on out-of-control SILLY tires, it's up to Blaze to rescue them and beat Crusher to the finish line!</desc>
+    <desc lang="en">Blaze and his pals are gearing up for a big race with brand new tires But when Crusher tricks Starla, Darington and Stripes into putting on out-of-control SILLY tires, it's up to Blaze to rescue them and beat Crusher to the finish line</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">7.805.</episode-num>
     <episode-num system="onscreen">S8E806</episode-num>
@@ -10573,14 +10585,14 @@
   </programme>
   <programme start="20260616095500 +0000" stop="20260616101000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Coach Karima is throwing Checkers Day for all the Builder Cove kids! But when everyone can't play together, Rubble &amp; Crew save the day with construction.</desc>
+    <desc lang="en">Coach Karima is throwing Checkers Day for all the Builder Cove kids But when everyone can't play together, Rubble &amp; Crew save the day with construction.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">3.406.</episode-num>
     <episode-num system="onscreen">S4E407</episode-num>
   </programme>
   <programme start="20260616101000 +0000" stop="20260616103000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">When Rubble's favorite baseball star Aaron Judge can't get out of town to the home run derby, Rubble &amp; Crew build a stadium to hold the derby right in Builder Cove!  Surf's up for Rubble &amp; Crew! Well, if they can get over the super hot sand, it is.</desc>
+    <desc lang="en">When Rubble's favorite baseball star Aaron Judge can't get out of town to the home run derby, Rubble &amp; Crew build a stadium to hold the derby right in Builder Cove  Surf's up for Rubble &amp; Crew Well, if they can get over the super hot sand, it is.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.211.</episode-num>
     <episode-num system="onscreen">S2E212</episode-num>
@@ -10600,14 +10612,14 @@
     <episode-num system="onscreen">S9E923</episode-num>
   </programme>
   <programme start="20260616111500 +0000" stop="20260616114000 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">The barbababies find a lost baby elephant and secretly look after it. How will Barbapapa and Barbamama react to Boris?  Boris the elephant misses home. The Barbapapa decide to bring him back to Africa. On the spot, they help Boris to acclimatize.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.102.</episode-num>
     <episode-num system="onscreen">S1E103</episode-num>
   </programme>
   <programme start="20260616114000 +0000" stop="20260616120000 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">Barbapapa wants to teach his children to make bread, but things don't go as planned...  The Barbababies plant an avocado tree. However, it takes years before the first harvest. Barbabright has an idea to save time that may well lead to...disaster.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.103.</episode-num>
@@ -10650,7 +10662,7 @@
   </programme>
   <programme start="20260616131500 +0000" stop="20260616133500 +0000" channel="nickjr.unifitv">
     <title lang="en">Deer Squad</title>
-    <desc lang="en">Captain Chomp's portal popper-upper gets into the wrong hands. Portals and aliens begin popping up everywhere.  Fed up of everyone breaking the rules and making his life miserable, Ian declares a No Rules Day! Chaos ensues at the park.</desc>
+    <desc lang="en">Captain Chomp's portal popper-upper gets into the wrong hands. Portals and aliens begin popping up everywhere.  Fed up of everyone breaking the rules and making his life miserable, Ian declares a No Rules Day Chaos ensues at the park.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.315.</episode-num>
     <episode-num system="onscreen">S3E316</episode-num>
@@ -10699,7 +10711,7 @@
   </programme>
   <programme start="20260616142000 +0000" stop="20260616144500 +0000" channel="nickjr.unifitv">
     <title lang="en">PAW Patrol</title>
-    <desc lang="en">When Mayor Goodway and the twins are late getting back from a snowshoeing, Jake and Everest call the Paw Patrol to search for them.  Water in the duck pond mysteriously drains out, it's up to the PAW Patrol find out what's happening!</desc>
+    <desc lang="en">When Mayor Goodway and the twins are late getting back from a snowshoeing, Jake and Everest call the Paw Patrol to search for them.  Water in the duck pond mysteriously drains out, it's up to the PAW Patrol find out what's happening</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">4.511.</episode-num>
     <episode-num system="onscreen">S5E512</episode-num>
@@ -10720,14 +10732,14 @@
   </programme>
   <programme start="20260616151000 +0000" stop="20260616152000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Coach Karima is throwing Checkers Day for all the Builder Cove kids! But when everyone can't play together, Rubble &amp; Crew save the day with construction.</desc>
+    <desc lang="en">Coach Karima is throwing Checkers Day for all the Builder Cove kids But when everyone can't play together, Rubble &amp; Crew save the day with construction.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">3.406.</episode-num>
     <episode-num system="onscreen">S4E407</episode-num>
   </programme>
   <programme start="20260616152000 +0000" stop="20260616153000 +0000" channel="nickjr.unifitv">
     <title lang="en">Rubble &amp; Crew</title>
-    <desc lang="en">Rubble &amp; Crew steps in to help at Hotel Hadley after a snowy surprise. But when the stairs aren't fast enough, it's time to bow wow build!</desc>
+    <desc lang="en">Rubble &amp; Crew steps in to help at Hotel Hadley after a snowy surprise. But when the stairs aren't fast enough, it's time to bow wow build</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">2.301.</episode-num>
     <episode-num system="onscreen">S3E302</episode-num>
@@ -10740,7 +10752,7 @@
     <episode-num system="onscreen">S1E101</episode-num>
   </programme>
   <programme start="20260616155500 +0000" stop="20260616161500 +0000" channel="nickjr.unifitv">
-    <title lang="en">BARBAPAPA - One Big Happy Family!</title>
+    <title lang="en">BARBAPAPA - One Big Happy Family</title>
     <desc lang="en">The Barbababies think their food can make them change colours and shapes. They decide to find the right food for each of them.  Barbabeau lacks inspiration, he can't create anymore. The whole family helps by suggesting new subjects to paint.</desc>
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">0.125.</episode-num>
@@ -15437,27 +15449,27 @@
     <desc lang="en">Elite amateur women golfers from the United States and Great Britain &amp; Ireland compete in this prestigious team match play event showcasing pride, skill, and tradition.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260615180000 +0000" stop="20260615203000 +0000" channel="spotv.unifitv">
+  <programme start="20260615180000 +0000" stop="20260615201500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Hyundai Archery World Cup, Stage 3 Antalya (TUR) - Compound Team Finals</title>
     <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
     <category lang="en">Archery</category>
   </programme>
-  <programme start="20260615203000 +0000" stop="20260615230000 +0000" channel="spotv.unifitv">
+  <programme start="20260615201500 +0000" stop="20260615230000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Hyundai Archery World Cup, Stage 3 Antalya (TUR) - Compound Individual Semifinals &amp; Finals</title>
     <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
     <category lang="en">Archery</category>
   </programme>
   <programme start="20260615230000 +0000" stop="20260616020000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Curtis Cup - Day 1 Foursomes Matches</title>
-    <desc lang="en">Elite amateur women golfers from the United States and Great Britain &amp; Ireland compete in this prestigious team match play event showcasing pride, skill, and tradition.</desc>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20260616020000 +0000" stop="20260616050000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Curtis Cup - Day 1 Four-ball Matches</title>
     <desc lang="en">Elite amateur women golfers from the United States and Great Britain &amp; Ireland compete in this prestigious team match play event showcasing pride, skill, and tradition.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260616050000 +0000" stop="20260616073000 +0000" channel="spotv.unifitv">
+  <programme start="20260616020000 +0000" stop="20260616051000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Curtis Cup - Day 1 Foursomes Matches</title>
+    <desc lang="en">Elite amateur women golfers from the United States and Great Britain &amp; Ireland compete in this prestigious team match play event showcasing pride, skill, and tradition.</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260616051000 +0000" stop="20260616073000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Ice Hockey World Championship, Switzerland - Semifinal 1 SUI vs NOR</title>
     <desc lang="en">The world's top national teams compete in Switzerland for ice hockey glory, delivering fast-paced action, fierce rivalries, and championship drama on the international stage.</desc>
     <category lang="en">Ice Hockey</category>
@@ -15889,14 +15901,9 @@
     <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260616130000 +0000" stop="20260616160000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260616130000 +0000" stop="20260616161500 +0000" channel="beinsports3.unifitv">
     <title lang="en">ONE Friday Fights - OFF 158</title>
     <desc lang="en">A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">WAFCON - Senegal vs DR Congo</title>
-    <desc lang="en">beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="beinsports4.unifitv">
