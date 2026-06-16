@@ -142,7 +142,10 @@
 <programme start="20260616004500 +0000" stop="20260616010800 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Transaction - Ello Ello</title>
 </programme>
-<programme start="20260616010800 +0000" stop="20260616060500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260616010800 +0000" stop="20260616011100 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260616011100 +0000" stop="20260616060500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260616120000 +0000" stop="20260616123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">

@@ -2504,7 +2504,7 @@
     <title>Live BL: 1. FC Union Berlin - VfB Stuttgart, 1. Spieltag</title>
 </programme>
 <programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
-    <title>TEST Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
+    <title>Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
 <programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST Live BL: Bayer Leverkusen - VfL Wolfsburg, 28. Spieltag</title>
@@ -2701,7 +2701,13 @@
 <programme start="20260616120000 +0000" stop="20260616123000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Dein WM Update</title>
 </programme>
-<programme start="20260616123000 +0000" stop="20260616150000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260616123000 +0000" stop="20260616140000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Matchday FIFA WM 2026</title>
+</programme>
+<programme start="20260616140000 +0000" stop="20260616143000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: DFB-PK aus Winston-Salem</title>
+</programme>
+<programme start="20260616143000 +0000" stop="20260616150000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Matchday FIFA WM 2026</title>
 </programme>
 <programme start="20260616150000 +0000" stop="20260616160000 +0000" channel="Sky Sport News HD.skyde">

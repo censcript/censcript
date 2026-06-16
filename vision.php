@@ -652,12 +652,6 @@
 <programme start="20260616090000 +0000" stop="20260616113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260616153000 +0000" stop="20260616173000 +0000" channel="ANTV.vision">
-<title>212 Warrior</title>
-</programme>
-<programme start="20260616173000 +0000" stop="20260616193000 +0000" channel="ANTV.vision">
-<title>China O&#039;Brien 2</title>
-</programme>
 <programme start="20260616193000 +0000" stop="20260616220000 +0000" channel="ANTV.vision">
 <title>English Babu Desi Mem</title>
 </programme>
@@ -825,9 +819,6 @@
 </programme>
 <programme start="20260616163000 +0000" stop="20260616170000 +0000" channel="TVOne.vision">
 <title>Kabar Arena Malam</title>
-</programme>
-<programme start="20260616170000 +0000" stop="20260616180000 +0000" channel="TVOne.vision">
-<title>Breaking News (L)</title>
 </programme>
 <programme start="20260616180000 +0000" stop="20260616190000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260616210000 +0000" stop="20260616220000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
+</programme>
+<programme start="20260617000000 +0000" stop="20260617010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260617010000 +0000" stop="20260617030000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
 </programme>

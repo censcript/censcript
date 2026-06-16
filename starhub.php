@@ -8122,11 +8122,62 @@
     <programme start="20260617000000 +0000" stop="20260617023000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260617040000 +0000" stop="20260617100000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260617023000 +0000" stop="20260617030000 +0000" channel="Dragon TV.starhub">
+        <title>Ai Romance</title>
     </programme>
-    <programme start="20260617100000 +0000" stop="20260617160000 +0000" channel="Dragon TV.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260617030000 +0000" stop="20260617033000 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20260617033000 +0000" stop="20260617040000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
+    </programme>
+    <programme start="20260617040000 +0000" stop="20260617043000 +0000" channel="Dragon TV.starhub">
+        <title>MIDDAY NEWS</title>
+    </programme>
+    <programme start="20260617043000 +0000" stop="20260617044200 +0000" channel="Dragon TV.starhub">
+        <title>ShanghaiEye</title>
+    </programme>
+    <programme start="20260617044200 +0000" stop="20260617060000 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
+    </programme>
+    <programme start="20260617060000 +0000" stop="20260617073000 +0000" channel="Dragon TV.starhub">
+        <title>Dream Home</title>
+    </programme>
+    <programme start="20260617073000 +0000" stop="20260617083000 +0000" channel="Dragon TV.starhub">
+        <title>Ai Romance</title>
+    </programme>
+    <programme start="20260617083000 +0000" stop="20260617090000 +0000" channel="Dragon TV.starhub">
+        <title>I LOVE SHANGHAI</title>
+    </programme>
+    <programme start="20260617090000 +0000" stop="20260617093500 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20260617093500 +0000" stop="20260617100000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
+    </programme>
+    <programme start="20260617100000 +0000" stop="20260617110000 +0000" channel="Dragon TV.starhub">
+        <title>Dragon TV Primetime News</title>
+    </programme>
+    <programme start="20260617110000 +0000" stop="20260617111200 +0000" channel="Dragon TV.starhub">
+        <title>ShanghaiEye</title>
+    </programme>
+    <programme start="20260617111200 +0000" stop="20260617123000 +0000" channel="Dragon TV.starhub">
+        <title>Dream Home</title>
+    </programme>
+    <programme start="20260617123000 +0000" stop="20260617133000 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
+    </programme>
+    <programme start="20260617133000 +0000" stop="20260617143000 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
+    </programme>
+    <programme start="20260617143000 +0000" stop="20260617150000 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20260617150000 +0000" stop="20260617153000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
+    </programme>
+    <programme start="20260617153000 +0000" stop="20260617170000 +0000" channel="Dragon TV.starhub">
+        <title>Ai Romance</title>
     </programme>
     <programme start="20260616160000 +0000" stop="20260616163000 +0000" channel="Travelxp HD.starhub">
         <title>Coimbra, Portugal</title>
