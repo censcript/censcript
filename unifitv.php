@@ -3060,12 +3060,17 @@
     <desc lang="en">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
     <category lang="en">Current Affairs</category>
   </programme>
-  <programme start="20260616123000 +0000" stop="20260616130000 +0000" channel="tvs.unifitv">
-    <title lang="en">Remarkable Living</title>
-    <desc lang="en">From the trendy to traditional, radical to revolutionary, the new season of this award-winning series features inspiring stories around bespoke craftsmanship, gastronomy, artistry, architecture and spectacular spots - in South Korea, Thailand, Vietnam, France and Singapore.</desc>
+  <programme start="20260616123000 +0000" stop="20260616124500 +0000" channel="tvs.unifitv">
+    <title lang="en">Temu Bual Khas Sempena Ma'al Hijrah</title>
+    <desc lang="en">Temu bual khas bersama Residen Miri mengenai persiapan Miri sebagai tuan rumah Sambutan Ma'al Hijrah Peringkat Sarawak 1448H/2026M.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260616124500 +0000" stop="20260616130000 +0000" channel="tvs.unifitv">
+    <title lang="en">Living Wild</title>
+    <desc lang="en">Living Wild is a nature documentary in Sarawak, Borneo, showcasing diverse wildlife—from tarsiers and flying snakes to turtles—across Kubah, Bako, and Talang Satang, promoting eco-tourism.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">5.1.</episode-num>
-    <episode-num system="onscreen">S6E2</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260616130000 +0000" stop="20260616140000 +0000" channel="tvs.unifitv">
     <title lang="en">7 Hari Sebelum Mati</title>

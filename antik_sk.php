@@ -9193,10 +9193,10 @@
   <programme start="20260617231500 +0000" stop="20260618004500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Kdo přichází před půlnocí</title>
   </programme>
-  <programme start="20260618004500 +0000" stop="20260618020000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260618004500 +0000" stop="20260618020500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Druhý tah pěšcem</title>
   </programme>
-  <programme start="20260618020000 +0000" stop="20260618033000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260618020500 +0000" stop="20260618033000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Hra bez pravidel</title>
   </programme>
   <programme start="20260618033000 +0000" stop="20260618040500 +0000" channel="FilmBox Stars.webtv.sk">
@@ -9205,10 +9205,10 @@
   <programme start="20260618040500 +0000" stop="20260618060500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Vraždy v Oxfordu III (4)</title>
   </programme>
-  <programme start="20260618060500 +0000" stop="20260618075500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260618060500 +0000" stop="20260618080000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Slečna Marplová VI (1)</title>
   </programme>
-  <programme start="20260618075500 +0000" stop="20260618090000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260618080000 +0000" stop="20260618090000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Slečna Scarletová I (6)</title>
   </programme>
   <programme start="20260618090000 +0000" stop="20260618105500 +0000" channel="FilmBox Stars.webtv.sk">
@@ -9229,11 +9229,14 @@
   <programme start="20260618160500 +0000" stop="20260618180000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Zločiny z vřesovišť VI (3)</title>
   </programme>
-  <programme start="20260618180000 +0000" stop="20260618201000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260618180000 +0000" stop="20260618195500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Lilly Schönauer: Láska na druhý pohled I (12)</title>
   </programme>
-  <programme start="20260618201000 +0000" stop="20260618220500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260618195500 +0000" stop="20260618215000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Jeden z nich je vrah</title>
+  </programme>
+  <programme start="20260618215000 +0000" stop="20260618220500 +0000" channel="FilmBox Stars.webtv.sk">
+    <title lang="id">Řetěz</title>
   </programme>
   <programme start="20260617192500 +0000" stop="20260617222000 +0000" channel="FightBox.webtv.sk">
     <title lang="id">Fightbox King of Kings World Series, Slovakia 26.10.2024 XI (129)</title>
@@ -16636,8 +16639,11 @@
   <programme start="20260617232800 +0000" stop="20260617235500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (717)</title>
   </programme>
-  <programme start="20260617235500 +0000" stop="20260618002500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260617235500 +0000" stop="20260618001800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (779)</title>
+  </programme>
+  <programme start="20260618001800 +0000" stop="20260618002500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260618002500 +0000" stop="20260618004000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
@@ -16645,19 +16651,22 @@
   <programme start="20260618004000 +0000" stop="20260618010700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260618010700 +0000" stop="20260618011200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260618010700 +0000" stop="20260618011100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260618011200 +0000" stop="20260618015300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260618011100 +0000" stop="20260618013800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (260)</title>
+  </programme>
+  <programme start="20260618013800 +0000" stop="20260618015300 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Reportaz TVP INFO (487)</title>
   </programme>
   <programme start="20260618015300 +0000" stop="20260618022700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia IV (42)</title>
   </programme>
-  <programme start="20260618022700 +0000" stop="20260618025600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260618022700 +0000" stop="20260618025500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Stacja Arktyka (3)</title>
   </programme>
-  <programme start="20260618025600 +0000" stop="20260618034500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260618025500 +0000" stop="20260618034500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (447)</title>
   </programme>
   <programme start="20260618034500 +0000" stop="20260618034700 +0000" channel="TVP Info.webtv.sk">

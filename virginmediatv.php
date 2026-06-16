@@ -4108,11 +4108,8 @@
 <programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260616090000 +0000" stop="20260616173000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260616090000 +0000" stop="20260616183000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
-</programme>
-<programme start="20260616173000 +0000" stop="20260616180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>World Cup Matchday</title>
 </programme>
 <programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>World Cup Report</title>
@@ -4228,11 +4225,8 @@
 <programme start="20260616050000 +0000" stop="20260616070000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights</title>
 </programme>
-<programme start="20260616090000 +0000" stop="20260616173000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260616090000 +0000" stop="20260616183000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
-</programme>
-<programme start="20260616173000 +0000" stop="20260616183000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Libema Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260615220000 +0000" stop="20260616010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -4885,11 +4879,8 @@
 <programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260616090000 +0000" stop="20260616173000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260616090000 +0000" stop="20260616183000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
-</programme>
-<programme start="20260616173000 +0000" stop="20260616180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>World Cup Matchday</title>
 </programme>
 <programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>World Cup Report</title>
@@ -5005,11 +4996,8 @@
 <programme start="20260616050000 +0000" stop="20260616070000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights</title>
 </programme>
-<programme start="20260616090000 +0000" stop="20260616173000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260616090000 +0000" stop="20260616183000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis - ATP Terra Wortmann Open &amp; WTA German Open</title>
-</programme>
-<programme start="20260616173000 +0000" stop="20260616183000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Libema Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260616000000 +0000" stop="20260616010000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>F1 Explained</title>
