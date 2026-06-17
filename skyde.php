@@ -2877,10 +2877,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260617193000 +0000" stop="20260617213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: A. Sabalenka - E. Alexandrova, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 3. Tag</title>
+    <title>WTA 500: Topspiel, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 3. Tag</title>
 </programme>
 <programme start="20260617213000 +0000" stop="20260617233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. de Minaur (AUS) - D. Shapovalov (CAN), HSBC Championships in London (GBR), 3. Tag</title>
+    <title>ATP 500: Topspiel, HSBC Championships in London (GBR), 3. Tag</title>
 </programme>
 <programme start="20260616230000 +0000" stop="20260617013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Toronto Tempo @ Indiana Fever</title>
@@ -2992,21 +2992,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260617193000 +0000" stop="20260617224500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live: England - Kroatien, Taktik FIFA WM 2026</title>
-</programme>
-<programme start="20260617004500 +0000" stop="20260617034000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live: Argentinien - Algerien, Multi-View FIFA WM 2026</title>
-</programme>
-<programme start="20260617034000 +0000" stop="20260617070000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live: Österreich - Jordanien, Spezial-Kommentar FIFA WM 2026</title>
-</programme>
-<programme start="20260617130000 +0000" stop="20260617164500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Spezial-Kommentar Highlights, FIFA WM 2026</title>
-</programme>
-<programme start="20260617164500 +0000" stop="20260617194000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live: Portugal - DR Kongo, Multi-View FIFA WM 2026</title>
-</programme>
-<programme start="20260617194000 +0000" stop="20260617224500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live: England - Kroatien, Spezial-Kommentar FIFA WM 2026</title>
 </programme>
 <programme start="20260616221500 +0000" stop="20260616230000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

@@ -3829,7 +3829,10 @@
 <programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260617040000 +0000" stop="20260617060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260617040000 +0000" stop="20260617050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260617050000 +0000" stop="20260617060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260617090000 +0000" stop="20260617173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4009,7 +4012,7 @@
 <programme start="20260617113000 +0000" stop="20260617130000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>McGinley and Chamblee at the U.S. Open</title>
 </programme>
-<programme start="20260617130000 +0000" stop="20260617210000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260617130000 +0000" stop="20260617190000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>US Open, PGA Tour Golf</title>
 </programme>
 <programme start="20260616230000 +0000" stop="20260617013000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4475,7 +4478,7 @@
     <title>FIA World Endurance Championship Motor Racing - 24 Hours of Le Mans</title>
 </programme>
 <programme start="20260617003000 +0000" stop="20260617010000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Endurance Uncovered: Racing for Excellence</title>
+    <title>Endurance Uncovered: Racing for Excellence - Episode 2</title>
 </programme>
 <programme start="20260617010000 +0000" stop="20260617020000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>FIA World Rally-Raid Championship Highlights - Desafio Ruta 40</title>
@@ -4499,7 +4502,7 @@
     <title>FIA World Rally-Raid Championship Highlights - Desafio Ruta 40</title>
 </programme>
 <programme start="20260617130000 +0000" stop="20260617133000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Endurance Uncovered: Racing for Excellence</title>
+    <title>Endurance Uncovered: Racing for Excellence - Episode 2</title>
 </programme>
 <programme start="20260617133000 +0000" stop="20260617154500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Belgium Tour - Stage 1</title>
@@ -4588,7 +4591,10 @@
 <programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260617040000 +0000" stop="20260617060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260617040000 +0000" stop="20260617050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260617050000 +0000" stop="20260617060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260617090000 +0000" stop="20260617173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4765,7 +4771,7 @@
 <programme start="20260617113000 +0000" stop="20260617130000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>McGinley and Chamblee at the U.S. Open</title>
 </programme>
-<programme start="20260617130000 +0000" stop="20260617210000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260617130000 +0000" stop="20260617190000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>US Open, PGA Tour Golf</title>
 </programme>
 <programme start="20260616230000 +0000" stop="20260617013000 +0000" channel="Sky_Sports_Action.virginmediatv">
@@ -5114,7 +5120,7 @@
     <title>FIA World Endurance Championship Motor Racing - 24 Hours of Le Mans</title>
 </programme>
 <programme start="20260617003000 +0000" stop="20260617010000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Endurance Uncovered: Racing for Excellence</title>
+    <title>Endurance Uncovered: Racing for Excellence - Episode 2</title>
 </programme>
 <programme start="20260617010000 +0000" stop="20260617020000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>FIA World Rally-Raid Championship Highlights - Desafio Ruta 40</title>
@@ -5138,7 +5144,7 @@
     <title>FIA World Rally-Raid Championship Highlights - Desafio Ruta 40</title>
 </programme>
 <programme start="20260617130000 +0000" stop="20260617133000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Endurance Uncovered: Racing for Excellence</title>
+    <title>Endurance Uncovered: Racing for Excellence - Episode 2</title>
 </programme>
 <programme start="20260617133000 +0000" stop="20260617154500 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: Belgium Tour - Stage 1</title>

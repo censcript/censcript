@@ -5,7 +5,7 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260617023000 +0000" stop="20260617040000 +0000" channel="RCTI.vision">
-<title>Dunia Anak Spesial Liburan</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260617040000 +0000" stop="20260617043000 +0000" channel="RCTI.vision">
 <title>Go Spot (RCTI)</title>
@@ -53,7 +53,7 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260618023000 +0000" stop="20260618040000 +0000" channel="RCTI.vision">
-<title>Dunia Anak Spesial Liburan</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260618040000 +0000" stop="20260618043000 +0000" channel="RCTI.vision">
 <title>Go Spot (RCTI)</title>
@@ -217,7 +217,7 @@
 <programme start="20260618110000 +0000" stop="20260618120000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260617000000 +0000" stop="20260617003000 +0000" channel="iNews.vision">
+<programme start="20260616233000 +0000" stop="20260617003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
 <programme start="20260617003000 +0000" stop="20260617010000 +0000" channel="iNews.vision">
@@ -259,8 +259,14 @@
 <programme start="20260617140000 +0000" stop="20260617140500 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260617140500 +0000" stop="20260617160000 +0000" channel="iNews.vision">
+<programme start="20260617140500 +0000" stop="20260617150000 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
+</programme>
+<programme start="20260617150000 +0000" stop="20260617150500 +0000" channel="iNews.vision">
+<title>Breaking Goals (L)</title>
+</programme>
+<programme start="20260617150500 +0000" stop="20260617160000 +0000" channel="iNews.vision">
+<title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260617160000 +0000" stop="20260617170000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
@@ -274,31 +280,34 @@
 <programme start="20260617183000 +0000" stop="20260617190000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260617190000 +0000" stop="20260617210000 +0000" channel="iNews.vision">
+<programme start="20260617190000 +0000" stop="20260617201500 +0000" channel="iNews.vision">
+<title>iNews</title>
+</programme>
+<programme start="20260617201500 +0000" stop="20260617210000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
 <programme start="20260617210000 +0000" stop="20260617211500 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
-<programme start="20260617211500 +0000" stop="20260617230200 +0000" channel="iNews.vision">
+<programme start="20260617211500 +0000" stop="20260617230000 +0000" channel="iNews.vision">
 <title>Inews Pagi (Live)</title>
 </programme>
-<programme start="20260617230200 +0000" stop="20260617233000 +0000" channel="iNews.vision">
+<programme start="20260617230000 +0000" stop="20260617231500 +0000" channel="iNews.vision">
 <title>iNews Sport Pagi (L)</title>
 </programme>
-<programme start="20260617233000 +0000" stop="20260618000000 +0000" channel="iNews.vision">
+<programme start="20260617231500 +0000" stop="20260617234500 +0000" channel="iNews.vision">
 <title>iBreak: The One Entrepreneur</title>
 </programme>
-<programme start="20260618000000 +0000" stop="20260618003000 +0000" channel="iNews.vision">
-<title>Special Report</title>
-</programme>
-<programme start="20260618003000 +0000" stop="20260618010000 +0000" channel="iNews.vision">
+<programme start="20260617234500 +0000" stop="20260618001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
-<programme start="20260618010000 +0000" stop="20260618014500 +0000" channel="iNews.vision">
+<programme start="20260618001500 +0000" stop="20260618011500 +0000" channel="iNews.vision">
+<title>iNews Room Pagi (L)</title>
+</programme>
+<programme start="20260618011500 +0000" stop="20260618020000 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260618014500 +0000" stop="20260618025500 +0000" channel="iNews.vision">
+<programme start="20260618020000 +0000" stop="20260618025500 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
 </programme>
 <programme start="20260618025500 +0000" stop="20260618030000 +0000" channel="iNews.vision">
@@ -643,9 +652,6 @@
 <programme start="20260617010000 +0000" stop="20260617023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
 </programme>
-<programme start="20260617023000 +0000" stop="20260617060000 +0000" channel="ANTV.vision">
-<title>Kal Ho Naa Ho</title>
-</programme>
 <programme start="20260617060000 +0000" stop="20260617073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -654,9 +660,6 @@
 </programme>
 <programme start="20260617090000 +0000" stop="20260617113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260617113000 +0000" stop="20260617133000 +0000" channel="ANTV.vision">
-<title>Si Buta Lawan Jaka Sembung</title>
 </programme>
 <programme start="20260617133000 +0000" stop="20260617153000 +0000" channel="ANTV.vision">
 <title>Salah Masuk</title>
@@ -1489,12 +1492,9 @@
 <programme start="20260618103000 +0000" stop="20260618120000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
 </programme>
-<programme start="20260617000000 +0000" stop="20260617010000 +0000" channel="TVRI.vision">
+<programme start="20260616230000 +0000" stop="20260617010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
 <programme start="20260617010000 +0000" stop="20260617030000 +0000" channel="TVRI.vision">
-<title>Piala Dunia 2026</title>
-</programme>
-<programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

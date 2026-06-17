@@ -6569,10 +6569,10 @@
         <title>Show 159</title>
     </programme>
     <programme start="20260618073000 +0000" stop="20260618103000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>HSBC C&#039;ships (500) Day 3 R2 Session 2</title>
+        <title>HSBC Championships (500) Day 3 R2 Session 2</title>
     </programme>
     <programme start="20260618103000 +0000" stop="20260618143000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>HSBC C&#039;ships (500) Day 4 R2 Session 1</title>
+        <title>HSBC Championships (500) Day 4 R2 Session 1</title>
     </programme>
     <programme start="20260618143000 +0000" stop="20260618153000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BMW Open</title>
