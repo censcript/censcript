@@ -139,17 +139,14 @@
 <programme start="20260617020000 +0000" stop="20260617030000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
 </programme>
-<programme start="20260617030000 +0000" stop="20260617033000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260617033000 +0000" stop="20260617040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+<programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260617040000 +0000" stop="20260617043000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
 <programme start="20260617043000 +0000" stop="20260617050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
+    <title>Fault Lines: Miller&#039;s War</title>
 </programme>
 <programme start="20260617050000 +0000" stop="20260617053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -4828,16 +4825,13 @@
 <programme start="20260616225000 +0000" stop="20260616230000 +0000" channel="iNews.mncvision">
     <title>Indonesia Raya</title>
 </programme>
-<programme start="20260616230000 +0000" stop="20260616230200 +0000" channel="iNews.mncvision">
+<programme start="20260616230000 +0000" stop="20260616231000 +0000" channel="iNews.mncvision">
     <title>iNews Pagi (L)</title>
 </programme>
-<programme start="20260616230200 +0000" stop="20260616233000 +0000" channel="iNews.mncvision">
+<programme start="20260616231000 +0000" stop="20260616233000 +0000" channel="iNews.mncvision">
     <title>iNews Sport Pagi (L)</title>
 </programme>
-<programme start="20260616233000 +0000" stop="20260617000000 +0000" channel="iNews.mncvision">
-    <title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260617000000 +0000" stop="20260617003000 +0000" channel="iNews.mncvision">
+<programme start="20260616233000 +0000" stop="20260617003000 +0000" channel="iNews.mncvision">
     <title>Special Report</title>
 </programme>
 <programme start="20260617003000 +0000" stop="20260617010000 +0000" channel="iNews.mncvision">
@@ -4918,16 +4912,13 @@
 <programme start="20260616225000 +0000" stop="20260616230000 +0000" channel="iNews HD.mncvision">
     <title>Indonesia Raya</title>
 </programme>
-<programme start="20260616230000 +0000" stop="20260616230200 +0000" channel="iNews HD.mncvision">
+<programme start="20260616230000 +0000" stop="20260616231000 +0000" channel="iNews HD.mncvision">
     <title>iNews Pagi (L)</title>
 </programme>
-<programme start="20260616230200 +0000" stop="20260616233000 +0000" channel="iNews HD.mncvision">
+<programme start="20260616231000 +0000" stop="20260616233000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sport Pagi (L)</title>
 </programme>
-<programme start="20260616233000 +0000" stop="20260617000000 +0000" channel="iNews HD.mncvision">
-    <title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260617000000 +0000" stop="20260617003000 +0000" channel="iNews HD.mncvision">
+<programme start="20260616233000 +0000" stop="20260617003000 +0000" channel="iNews HD.mncvision">
     <title>Special Report</title>
 </programme>
 <programme start="20260617003000 +0000" stop="20260617010000 +0000" channel="iNews HD.mncvision">
@@ -7610,7 +7601,7 @@
     <title>Entong</title>
 </programme>
 <programme start="20260617023000 +0000" stop="20260617040000 +0000" channel="RCTI.mncvision">
-    <title>Dunia Anak Spesial Liburan</title>
+    <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260617040000 +0000" stop="20260617043000 +0000" channel="RCTI.mncvision">
     <title>Go Spot</title>
@@ -7661,7 +7652,7 @@
     <title>Entong</title>
 </programme>
 <programme start="20260617023000 +0000" stop="20260617040000 +0000" channel="RCTI HD.mncvision">
-    <title>Dunia Anak Spesial Liburan</title>
+    <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260617040000 +0000" stop="20260617043000 +0000" channel="RCTI HD.mncvision">
     <title>Go Spot</title>

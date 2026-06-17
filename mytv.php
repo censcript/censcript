@@ -1,10 +1,10 @@
     <programme start="20260617000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mẹ biển - Tập 7 </title>
     </programme>
-    <programme start="20260617000000 +0000" stop="20260617003000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260617000000 +0000" stop="20260617002900 +0000" channel="VTV1 HD.mytv">
         <title> Lao động và công đoàn: Điểm tựa vững chắc, khát vọng vươn xa </title>
     </programme>
-    <programme start="20260617003000 +0000" stop="20260617004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260617002900 +0000" stop="20260617004500 +0000" channel="VTV1 HD.mytv">
         <title> Dân tộc và phát triển: Ứng dụng công nghệ trong phòng chống thiên tai </title>
     </programme>
     <programme start="20260617004500 +0000" stop="20260617011000 +0000" channel="VTV1 HD.mytv">
@@ -14,7 +14,7 @@
         <title> Thanh âm từ đất Việt: Nhịp điệu Đông Hồ </title>
     </programme>
     <programme start="20260617014500 +0000" stop="20260617020000 +0000" channel="VTV1 HD.mytv">
-        <title> Thể thao: Kết nối thể thao </title>
+        <title> Thể thao </title>
     </programme>
     <programme start="20260617020000 +0000" stop="20260617023000 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Mùa trái ngọt ở xã Kép </title>
@@ -25,16 +25,16 @@
     <programme start="20260617024500 +0000" stop="20260617033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 5 </title>
     </programme>
-    <programme start="20260617033000 +0000" stop="20260617041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260617033000 +0000" stop="20260617041400 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 6 </title>
     </programme>
-    <programme start="20260617041500 +0000" stop="20260617050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260617041400 +0000" stop="20260617050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Núi Bà Đen mùa lễ vía Bà </title>
     </programme>
-    <programme start="20260617050500 +0000" stop="20260617051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260617050500 +0000" stop="20260617051300 +0000" channel="VTV1 HD.mytv">
         <title> Lao động và công đoàn: Điểm tựa vững chắc, khát vọng vươn xa </title>
     </programme>
-    <programme start="20260617051000 +0000" stop="20260617053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260617051300 +0000" stop="20260617053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20260617053000 +0000" stop="20260617070000 +0000" channel="VTV1 HD.mytv">
@@ -146,7 +146,7 @@
         <title> Việt Nam vui khỏe </title>
     </programme>
     <programme start="20260617200500 +0000" stop="20260617201000 +0000" channel="VTV1 HD.mytv">
-        <title> Tọa đàm </title>
+        <title> Tọa đàm: Từ tinh gọn bộ máy đến hiệu quả vận hành </title>
     </programme>
     <programme start="20260617201000 +0000" stop="20260617204000 +0000" channel="VTV1 HD.mytv">
         <title> An toàn thực phẩm: Kiểm soát tồn dư hóa chất </title>
