@@ -9499,23 +9499,47 @@
 <programme start="20260617030000 +0000" stop="20260617050000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20260617050000 +0000" stop="20260617070000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260617050000 +0000" stop="20260617060000 +0000" channel="TVRI.mncvision">
+    <title>Klik Indonesia Siang</title>
 </programme>
-<programme start="20260617070000 +0000" stop="20260617090000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260617060000 +0000" stop="20260617080000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia 2026: IRQ Vs NOR</title>
 </programme>
-<programme start="20260617090000 +0000" stop="20260617110000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260617080000 +0000" stop="20260617100000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia 2026: AUT Vs JOR</title>
 </programme>
-<programme start="20260617110000 +0000" stop="20260617130000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260617100000 +0000" stop="20260617100300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
 </programme>
-<programme start="20260617130000 +0000" stop="20260617150000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260617100300 +0000" stop="20260617103000 +0000" channel="TVRI.mncvision">
+    <title>Jejak Pembangunan</title>
 </programme>
-<programme start="20260617150000 +0000" stop="20260617153000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260617103000 +0000" stop="20260617110000 +0000" channel="TVRI.mncvision">
+    <title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20260617110000 +0000" stop="20260617120000 +0000" channel="TVRI.mncvision">
+    <title>Klik Indonesia Petang</title>
+</programme>
+<programme start="20260617120000 +0000" stop="20260617130000 +0000" channel="TVRI.mncvision">
+    <title>Arah Angin</title>
+</programme>
+<programme start="20260617130000 +0000" stop="20260617140000 +0000" channel="TVRI.mncvision">
+    <title>Jurnal Piala Dunia 2026</title>
+</programme>
+<programme start="20260617140000 +0000" stop="20260617143000 +0000" channel="TVRI.mncvision">
+    <title>Dunia Dalam Berita</title>
+</programme>
+<programme start="20260617143000 +0000" stop="20260617150000 +0000" channel="TVRI.mncvision">
+    <title>Pesona Indonesia</title>
+</programme>
+<programme start="20260617150000 +0000" stop="20260617160000 +0000" channel="TVRI.mncvision">
+    <title>Keroncong Lestari</title>
+</programme>
+<programme start="20260617160000 +0000" stop="20260617164500 +0000" channel="TVRI.mncvision">
+    <title>Bola Gembira</title>
+</programme>
+<programme start="20260617164500 +0000" stop="20260616171500 +0000" channel="TVRI.mncvision">
+    <title>Pre Match</title>
 </programme>
 <programme start="20260616174900 +0000" stop="20260616192500 +0000" channel="UNIQUES.mncvision">
     <title>Learning To Love</title>

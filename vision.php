@@ -643,9 +643,6 @@
 <programme start="20260617010000 +0000" stop="20260617023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
 </programme>
-<programme start="20260617023000 +0000" stop="20260617060000 +0000" channel="ANTV.vision">
-<title>Kal Ho Naa Ho</title>
-</programme>
 <programme start="20260617060000 +0000" stop="20260617073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260617040000 +0000" stop="20260617060000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
 </programme>

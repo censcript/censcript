@@ -5738,6 +5738,1781 @@
     <episode-num system="xmltv_ns">0.289.</episode-num>
     <episode-num system="onscreen">S1E290</episode-num>
   </programme>
+  <channel id="zeecinemahd.unifitv">
+    <display-name>Zee Cinema HD</display-name>
+  </channel>
+  <programme start="20260616130000 +0000" stop="20260616160000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Commando 2</title>
+    <desc lang="en">A man uses his combat skills to eradicate black money, which has been siphoned to banks abroad.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260616160000 +0000" stop="20260616190000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Dabangg</title>
+    <desc lang="en">A corrupt police officer is trapped between his family, criminals, and politicians, forcing him to face the consequences of his choices and the price of power.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260616190000 +0000" stop="20260616220000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Gadar-Ek Prem Katha</title>
+    <desc lang="en">During the partition, Tara and Sakina's joyful marriage is torn apart when her father forces her to remain in Pakistan, separating her from Tara and their family.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260616220000 +0000" stop="20260617010000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Sonchiriya</title>
+    <desc lang="en">In 1975, Indian brigands terrorize the heartlands but meet their end while being hunted down by the police.</desc>
+    <category lang="en">Crime</category>
+  </programme>
+  <programme start="20260617010000 +0000" stop="20260617040000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Behen Hogi Teri</title>
+    <desc lang="en">Gattu is head over heels in love with his neighbour, Binny. However, he becomes disheartened when her family and entire neighbourhood treat him as her brother.2017</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617040000 +0000" stop="20260617070000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Commando 2</title>
+    <desc lang="en">A man uses his combat skills to eradicate black money, which has been siphoned to banks abroad.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260617070000 +0000" stop="20260617100000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Army</title>
+    <desc lang="en">Army officer Arjun marries Geeta but is killed by gangster Naagraj. Geeta, pregnant and fueled by revenge, teams up with escaped convicts to fight Naagraj.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260617100000 +0000" stop="20260617130000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Laadla</title>
+    <desc lang="en">Anil Kapoor works for Sridevi's group of industries. After a series of clashes, Sridevi plots revenge by marrying him.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260617130000 +0000" stop="20260617160000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Mard</title>
+    <desc lang="en">Separated from his royal parents, Raju grows up to be horse-carriage driver and falls for Ruby. Does unite with her and his parents?</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260617160000 +0000" stop="20260617190000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Paltan</title>
+    <desc lang="en">Lieutenant Colonel Raj Singh Yadav and his soldiers protect the Nathu La Pass from the Chinese while coping with the pain of being separated from their loved ones.</desc>
+    <category lang="en">War</category>
+  </programme>
+  <channel id="hbohd.unifitv">
+    <display-name>HBO</display-name>
+  </channel>
+  <programme start="20260616144000 +0000" stop="20260616163000 +0000" channel="hbohd.unifitv">
+    <title lang="en">The Conjuring: The Devil Made Me Do It</title>
+    <desc lang="en">Paranormal investigators Ed and Lorraine Warren try to uncover the truth behind a murderer's claim of demonic possession.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260616163000 +0000" stop="20260616172000 +0000" channel="hbohd.unifitv">
+    <title lang="en">The Girls On The Bus</title>
+    <desc lang="en">After receiving shocking intel, Sadie mobilizes Grace, Lola, and Kimberlyn to help investigate a claim that could threaten the Democratic nomination.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260616172000 +0000" stop="20260616203000 +0000" channel="hbohd.unifitv">
+    <title lang="en">The Brutalist</title>
+    <desc lang="en">"The Brutalist" tracks the journey of László Toth, a Hungarian Jewish architect who, after surviving the Holocaust.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260616203000 +0000" stop="20260616205500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Entertaiment</category>
+    <episode-num system="xmltv_ns">0.1172.</episode-num>
+    <episode-num system="onscreen">S1E1173</episode-num>
+  </programme>
+  <programme start="20260616205500 +0000" stop="20260616224000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Get Out</title>
+    <desc lang="en">When a young African-American man visits his white girlfriend's family estate, he becomes ensnared in the more sinister, real reason for the invitation.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260616224000 +0000" stop="20260617001500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Minions</title>
+    <desc lang="en">Follow the minion trio as they venture out into the world to find a new evil boss for their brethren to follow.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260617001500 +0000" stop="20260617021500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Chocolat</title>
+    <desc lang="en">A woman opens a chocolate shop in a French town and creates confections that inspire the straitlaced villagers to abandon themselves to temptation and happiness.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260617021500 +0000" stop="20260617035500 +0000" channel="hbohd.unifitv">
+    <title lang="en">How To Train Your Dragon</title>
+    <desc lang="en">Set in the mythical world of burly Vikings and wild dragons, a Viking teenager's world is turned upside down when he is challenged by an unusual dragon.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260617035500 +0000" stop="20260617062000 +0000" channel="hbohd.unifitv">
+    <title lang="en">King Richard</title>
+    <desc lang="en">King Richard follows the journey of Richard Williams, an undeterred father instrumental in raising two of the most extraordinarily gifted athletes of all time, who will end up changing the sport of tennis forever.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617062000 +0000" stop="20260617080500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Ghost Town</title>
+    <desc lang="en">Bertram Pincus dies for seven minutes and when he wakes up, has the ability to see ghosts. Stars Ricky Gervais and Greg Kinnear.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617080500 +0000" stop="20260617101500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Pacific Rim</title>
+    <desc lang="en">A sci-fi action epic about a ragtag band of humans coming together in the year 2020 to fight legions of monstrous creatures rising from the sea.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260617101500 +0000" stop="20260617115500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Friendship</title>
+    <desc lang="en">A suburban dad (Tim Robinson) struggles to keep his job and marriage afloat while relentlessly pursuing a friendship with his charming new neighbor, Brian (Paul Rudd).</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617115500 +0000" stop="20260617140000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Hamnet</title>
+    <desc lang="en">HAMNET tells the powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.</desc>
+    <category lang="en">History</category>
+  </programme>
+  <programme start="20260617140000 +0000" stop="20260617143500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Rap Sh!T</title>
+    <desc lang="en">Stuck at a dead-end hotel job while her long-distance boyfriend attends law school, aspiring rapper Shawna spontaneously invites her estranged friend Mia out for drinks - yielding surprising results.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260617143500 +0000" stop="20260617151000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Rap Sh!T</title>
+    <desc lang="en">After their first video gains traction, Shawna and Mia's second attempt at success leads to creative differences.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260617151000 +0000" stop="20260617164500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Old Guy</title>
+    <desc lang="en">Danny is thrilled when The Company pulls him back in the field, but only to train Gen Z newcomer Wihlborg, a prodigy assassin with an attitude.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <channel id="hbohits.unifitv">
+    <display-name>HBO Hits</display-name>
+  </channel>
+  <programme start="20260616142500 +0000" stop="20260616160000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Last Breath</title>
+    <desc lang="en">An emotionally charged action thriller of a commercial diver who after a freak accident is trapped on the bottom of the North Sea.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260616160000 +0000" stop="20260616173000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Shoot 'Em Up</title>
+    <desc lang="en">A mysterious man named Smith delivers a baby during a shootout and is then called upon to protect the newborn from ruthless criminals out to kill it.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260616173000 +0000" stop="20260616180000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">Hollywood On Set</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1170.</episode-num>
+    <episode-num system="onscreen">S1E1171</episode-num>
+  </programme>
+  <programme start="20260616180000 +0000" stop="20260616195000 +0000" channel="hbohits.unifitv">
+    <title lang="en">No Strings Attached</title>
+    <desc lang="en">A guy and a girl try to keep their relationship strictly physical, but it's not long before they learn that they both want something more.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260616195000 +0000" stop="20260616220000 +0000" channel="hbohits.unifitv">
+    <title lang="en">The Running Man</title>
+    <desc lang="en">Ben Richards must outwit the Network in this fun, unhinged deadly game show where his unexpected fandom threatens to dismantle the entire system.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Oslo</title>
+    <desc lang="en">Adapted from the Tony Award-winning play, this film follows the unlikely story of the 1993 Oslo Peace Accords.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617000000 +0000" stop="20260617003000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">Hollywood On Set</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1170.</episode-num>
+    <episode-num system="onscreen">S1E1171</episode-num>
+  </programme>
+  <programme start="20260617003000 +0000" stop="20260617020000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Four Christmases</title>
+    <desc lang="en">When their exotic vacation flight is cancelled, a couple has no choice but to spend Christmas with each of their divorced parents and dysfunctional families.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617020000 +0000" stop="20260617033500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Austin Powers In Goldmember</title>
+    <desc lang="en">The groovy Mike Myers and shagadelic Beyonce Knowles fight crime seventies style!</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617033500 +0000" stop="20260617054000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Father Of The Bride</title>
+    <desc lang="en">An uptight father tries to come to grips with his daughter's upcoming wedding, framed through the prism of multiple relationships within a big, sprawling Cuban-American Latino clan.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617054000 +0000" stop="20260617072000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Mean Girls</title>
+    <desc lang="en">Cady is a hit with the A-list clique at her new school, until she makes the mistake of falling for one of their ex-boyfriends.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617072000 +0000" stop="20260617091000 +0000" channel="hbohits.unifitv">
+    <title lang="en">The Adventures Of Tintin</title>
+    <desc lang="en">Tintin and his friends go on an exciting treasure hunt.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617091000 +0000" stop="20260617104500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Last Breath</title>
+    <desc lang="en">An emotionally charged action thriller of a commercial diver who after a freak accident is trapped on the bottom of the North Sea.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617104500 +0000" stop="20260617123500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Holiday Harmony</title>
+    <desc lang="en">A talented underdog gets momentarily sidelined from chasing her musical dreams when her van breaks down in a small town just before Christmas.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617123500 +0000" stop="20260617140500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Four Christmases</title>
+    <desc lang="en">When their exotic vacation flight is cancelled, a couple has no choice but to spend Christmas with each of their divorced parents and dysfunctional families.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617140500 +0000" stop="20260617160000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Oslo</title>
+    <desc lang="en">Adapted from the Tony Award-winning play, this film follows the unlikely story of the 1993 Oslo Peace Accords.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617160000 +0000" stop="20260617180500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Father Of The Bride</title>
+    <desc lang="en">An uptight father tries to come to grips with his daughter's upcoming wedding, framed through the prism of multiple relationships within a big, sprawling Cuban-American Latino clan.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <channel id="hbofamily.unifitv">
+    <display-name>HBO Family</display-name>
+  </channel>
+  <programme start="20260616155000 +0000" stop="20260616174500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Golden Compass</title>
+    <desc lang="en">A girl must use her magic compass to seek children, who are kidnapped in a ploy that would endanger the world.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260616174500 +0000" stop="20260616183000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Titan Games</title>
+    <desc lang="en">Reigning Titans Joe Thomas and Dani Speegle are one victory away from advancing to the Titan Games Championship but standing in their way are six top competitors from the Central Region who have one last shot at redemption. The contenders must face off in a brand-new three-way battle before advancing to a classic head-to-head competition. The last competitors standing must defeat Thomas and Speegle on Mt. Olympus to advance to the championship round. Dwayne Johnson serves as Host while Cari Champion and Alex Mendez serve as commentators.</desc>
+    <category lang="en">Entertaiment</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20260616183000 +0000" stop="20260616184200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">My Gym Partner's A Monkey</title>
+    <desc lang="en">Jake is inspired by a guest speaker to become a mountain goat, much to the chagrin of Adam and Mr. Mandrill, who want him to be the best spidermonkey he can be.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+    <episode-num system="onscreen">S4E20</episode-num>
+  </programme>
+  <programme start="20260616184200 +0000" stop="20260616185400 +0000" channel="hbofamily.unifitv">
+    <title lang="en">My Gym Partner's A Monkey</title>
+    <desc lang="en">Adam discover the only reason he's never been eaten or seriously maimed at CDMS, is because of his 'special' status.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">3.20.</episode-num>
+    <episode-num system="onscreen">S4E21</episode-num>
+  </programme>
+  <programme start="20260616185400 +0000" stop="20260616190600 +0000" channel="hbofamily.unifitv">
+    <title lang="en">My Gym Partner's A Monkey</title>
+    <desc lang="en">Phinneas daydreams of a world where he and the Spiffies are heroic knights sent by King Pixiefrog to rescue Lady Warthog from the evil Jake Dragonmonkey.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+    <episode-num system="onscreen">S4E22</episode-num>
+  </programme>
+  <programme start="20260616190600 +0000" stop="20260616192500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">My Gym Partner's A Monkey</title>
+    <desc lang="en">A jungle girl, raised by possums, shows up at CDMS, posing a threat to Adam's status as the SHOC - Sole Human On Campus.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">3.22.</episode-num>
+    <episode-num system="onscreen">S4E23</episode-num>
+  </programme>
+  <programme start="20260616192500 +0000" stop="20260616193700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Rodney discovers he's impervious to blame and goes into business as The Blametaker!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <episode-num system="onscreen">S2E19</episode-num>
+  </programme>
+  <programme start="20260616193700 +0000" stop="20260616194900 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">The Puggo show comes to town!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <episode-num system="onscreen">S2E20</episode-num>
+  </programme>
+  <programme start="20260616194900 +0000" stop="20260616200100 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Darlene believes that Andy and Rodney's friendship is in trouble, so she decides to intervene.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <episode-num system="onscreen">S2E21</episode-num>
+  </programme>
+  <programme start="20260616200100 +0000" stop="20260616202000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Mr. J's mounted, talking fish begins instructing Rodney.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <episode-num system="onscreen">S2E22</episode-num>
+  </programme>
+  <programme start="20260616202000 +0000" stop="20260616210500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Bel-Air</title>
+    <desc lang="en">Will and Carlton get jobs at the Beverly Hills Country Club and it's nothing like they expected.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20260616210500 +0000" stop="20260616215000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Titan Games</title>
+    <desc lang="en">Reigning Titans Joe Thomas and Dani Speegle are one victory away from advancing to the Titan Games Championship but standing in their way are six top competitors from the Central Region who have one last shot at redemption. The contenders must face off in a brand-new three-way battle before advancing to a classic head-to-head competition. The last competitors standing must defeat Thomas and Speegle on Mt. Olympus to advance to the championship round. Dwayne Johnson serves as Host while Cari Champion and Alex Mendez serve as commentators.</desc>
+    <category lang="en">Entertaiment</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20260616215000 +0000" stop="20260616221500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo, Abby, and Gabrielle play garden explorers to find her Gabrielle's lost charm bracelet.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">54.22.</episode-num>
+    <episode-num system="onscreen">S55E23</episode-num>
+  </programme>
+  <programme start="20260616221500 +0000" stop="20260616224500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo and Rudy are having a sleepover and making a pillow fort—but they don't have a pillow big enough for the roof.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">54.23.</episode-num>
+    <episode-num system="onscreen">S55E24</episode-num>
+  </programme>
+  <programme start="20260616224500 +0000" stop="20260616225700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Lazlo helps Raj prepare for the camp swimming test, but Raj is terrified of even the tiniest drop of water!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260616225700 +0000" stop="20260616230900 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Lumpus and Lazlo butt heads when they both try to catch the elusive 'Migrating Mullberry' tree, which only visits this region once every 100 years.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260616230900 +0000" stop="20260616232000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Lazlo's friendship with Raj suffers because Raj has only one thing on his mind: marshmallows!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260616232000 +0000" stop="20260616233300 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Scoutmaster Lumpus is determined to finally catch a fish, and he certainly doesn't need the Jelly Beans to help him reel one in. Or does he?</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260616233300 +0000" stop="20260616235000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">The Squirrel Scouts discover that the Jelly Beans are actually from another planet and take them hostage to find out more.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260616235000 +0000" stop="20260617002000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Saving My Tomorrow</title>
+    <desc lang="en">Saving My Tomorrow celebrates the wonders of the natural world and is a call from kids to kids to help take care of the planet.</desc>
+    <category lang="en">Nature</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260617002000 +0000" stop="20260617003200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Rodney discovers he's impervious to blame and goes into business as The Blametaker!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <episode-num system="onscreen">S2E19</episode-num>
+  </programme>
+  <programme start="20260617003200 +0000" stop="20260617004400 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">The Puggo show comes to town!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <episode-num system="onscreen">S2E20</episode-num>
+  </programme>
+  <programme start="20260617004400 +0000" stop="20260617005600 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Darlene believes that Andy and Rodney's friendship is in trouble, so she decides to intervene.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <episode-num system="onscreen">S2E21</episode-num>
+  </programme>
+  <programme start="20260617005600 +0000" stop="20260617011500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Mr. J's mounted, talking fish begins instructing Rodney.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <episode-num system="onscreen">S2E22</episode-num>
+  </programme>
+  <programme start="20260617011500 +0000" stop="20260617014000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo, Abby, and Gabrielle play garden explorers to find her Gabrielle's lost charm bracelet.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">54.22.</episode-num>
+    <episode-num system="onscreen">S55E23</episode-num>
+  </programme>
+  <programme start="20260617014000 +0000" stop="20260617021000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo and Rudy are having a sleepover and making a pillow fort—but they don't have a pillow big enough for the roof.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">54.23.</episode-num>
+    <episode-num system="onscreen">S55E24</episode-num>
+  </programme>
+  <programme start="20260617021000 +0000" stop="20260617025500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Titan Games</title>
+    <desc lang="en">Reigning Titans Joe Thomas and Dani Speegle are one victory away from advancing to the Titan Games Championship but standing in their way are six top competitors from the Central Region who have one last shot at redemption. The contenders must face off in a brand-new three-way battle before advancing to a classic head-to-head competition. The last competitors standing must defeat Thomas and Speegle on Mt. Olympus to advance to the championship round. Dwayne Johnson serves as Host while Cari Champion and Alex Mendez serve as commentators.</desc>
+    <category lang="en">Entertaiment</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20260617025500 +0000" stop="20260617034000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Bel-Air</title>
+    <desc lang="en">Will and Carlton get jobs at the Beverly Hills Country Club and it's nothing like they expected.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20260617034000 +0000" stop="20260617035200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Lazlo helps Raj prepare for the camp swimming test, but Raj is terrified of even the tiniest drop of water!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260617035200 +0000" stop="20260617040400 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Lumpus and Lazlo butt heads when they both try to catch the elusive 'Migrating Mullberry' tree, which only visits this region once every 100 years.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260617040400 +0000" stop="20260617041500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Lazlo's friendship with Raj suffers because Raj has only one thing on his mind: marshmallows!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260617041500 +0000" stop="20260617042800 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Scoutmaster Lumpus is determined to finally catch a fish, and he certainly doesn't need the Jelly Beans to help him reel one in. Or does he?</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260617042800 +0000" stop="20260617044500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">The Squirrel Scouts discover that the Jelly Beans are actually from another planet and take them hostage to find out more.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260617044500 +0000" stop="20260617045700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">My Gym Partner's A Monkey</title>
+    <desc lang="en">Jake is inspired by a guest speaker to become a mountain goat, much to the chagrin of Adam and Mr. Mandrill, who want him to be the best spidermonkey he can be.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">3.19.</episode-num>
+    <episode-num system="onscreen">S4E20</episode-num>
+  </programme>
+  <programme start="20260617045700 +0000" stop="20260617051000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">My Gym Partner's A Monkey</title>
+    <desc lang="en">Adam discover the only reason he's never been eaten or seriously maimed at CDMS, is because of his 'special' status.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">3.20.</episode-num>
+    <episode-num system="onscreen">S4E21</episode-num>
+  </programme>
+  <programme start="20260617051000 +0000" stop="20260617064000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Despicable Me 3</title>
+    <desc lang="en">Fired from the Anti-Villain League, Gru finds himself in a major identity crisis until the appearance of a mysterious stranger reminds him how good it feels to be bad.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260617064000 +0000" stop="20260617081000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The National Dog Show ('20)</title>
+    <desc lang="en">From the Kennel Club of Philadelphia, this cherished competition for all dog lovers returns for the 17th year. Hosted by John O'Hurley, the event features 2,000 of the nation's leading canines, including the world's largest, smallest and most exotic. Over 170 breeds strut their stuff with the hope of becoming this year's top dog. “The Dean” David Frei provides expert show commentary, and Mary Carillo chimes in as an adept sideline reporter for this ultimate canine showdown. But which dog will have their day, and which will leave with their tail between their legs? After all, there can only be one “Best in Show”.</desc>
+    <category lang="en">Entertaiment</category>
+  </programme>
+  <programme start="20260617081000 +0000" stop="20260617082200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Leon's through with living in the wild and wants to be a pet.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <episode-num system="onscreen">S2E23</episode-num>
+  </programme>
+  <programme start="20260617082200 +0000" stop="20260617083400 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Archie the rabbit believes he's found an ally in Salty Mike.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
+    <episode-num system="onscreen">S2E24</episode-num>
+  </programme>
+  <programme start="20260617083400 +0000" stop="20260617084600 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Rodney is having more trouble with Cousin Eddie and seeks advice from Grandpa Squirrel.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.24.</episode-num>
+    <episode-num system="onscreen">S2E25</episode-num>
+  </programme>
+  <programme start="20260617084600 +0000" stop="20260617090500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Squirrel Boy</title>
+    <desc lang="en">Stan the exterminator is back and he mistakes Leon for the Giant Wall Rat of Sumatra.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.25.</episode-num>
+    <episode-num system="onscreen">S2E26</episode-num>
+  </programme>
+  <programme start="20260617090500 +0000" stop="20260617093500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Casey Chameleon joins Elmo, Gabrielle, and Grover's game of hide and seek.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">54.24.</episode-num>
+    <episode-num system="onscreen">S55E25</episode-num>
+  </programme>
+  <programme start="20260617093500 +0000" stop="20260617100500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo, Abby, and The Count are playing a game of hide-and-seek in The Count's Castle to find all ten Batty Bats and round them up for their nap time.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">54.25.</episode-num>
+    <episode-num system="onscreen">S55E26</episode-num>
+  </programme>
+  <programme start="20260617100500 +0000" stop="20260617101700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Lazlo organizes a dance with the Squirrel Scouts so that Lumpus can spend time with Jane Doe, but when the big night arrives, Lumpus is so nervous that his body literally explodes from fear.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260617101700 +0000" stop="20260617102800 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">Lumpus discovers that Clam is not only a child genius, but he's also Lumpus' meal ticket to a life of fame and fortune!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20260617102800 +0000" stop="20260617104000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">When Edward excludes Lazlo from his secret club, Lazlo creates his own club out of nothing!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20260617104000 +0000" stop="20260617105100 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">The Bean Scouts feel lousy because they don't have horses, but that all changes when Lazlo calls in a spitting llama who reminds them all it's okay to be a misfit.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260617105100 +0000" stop="20260617111000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Camp Lazlo</title>
+    <desc lang="en">When the Jelly Beans lose their new pet snake in their cabin, Patsy shows up to save the campers from being swallowed one by one by the vicious little garter snake.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260617111000 +0000" stop="20260617112200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">My Gym Partner's A Monkey</title>
+    <desc lang="en">A letter to the editor makes Jake think that Adam is considering leaving CDMS. In an effort to make Adam feel more welcome, he and his friends set out to become more human.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">3.23.</episode-num>
+    <episode-num system="onscreen">S4E24</episode-num>
+  </programme>
+  <programme start="20260617112200 +0000" stop="20260617121000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">My Gym Partner's A Monkey</title>
+    <desc lang="en">Jake's wish to live in a real live musical comes true, after he knocks the wish granting 'David Coppertrout' out of the Central Stream.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">3.24.</episode-num>
+    <episode-num system="onscreen">S4E25</episode-num>
+  </programme>
+  <programme start="20260617121000 +0000" stop="20260617142500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Fantastic Beasts: The Crimes Of Grindelwald</title>
+    <desc lang="en">Grindelwald escapes custody and Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20260617142500 +0000" stop="20260617150000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Saving My Tomorrow</title>
+    <desc lang="en">Saving My Tomorrow celebrates the wonders of the natural world and is a call from kids to kids to help take care of the planet.</desc>
+    <category lang="en">Nature</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260617150000 +0000" stop="20260617155000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Bel-Air</title>
+    <desc lang="en">Will and Carlton go to a downtown car event to promote "Blackccess"; Phil scopes out a new client.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="onscreen">S3E3</episode-num>
+  </programme>
+  <programme start="20260617155000 +0000" stop="20260617173000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Winter Spring Summer Or Fall</title>
+    <desc lang="en">Two teenagers on the cusp of adulthood meet and fall in love over four significant days of the year.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <channel id="cinemax.unifitv">
+    <display-name>Cinemax</display-name>
+  </channel>
+  <programme start="20260616150000 +0000" stop="20260616165500 +0000" channel="cinemax.unifitv">
+    <title lang="en">The Man From U.N.C.L.E.</title>
+    <desc lang="en">A CIA agent and a KGB agent are forced to put aside longstanding hostilities and team up on a mission to stop a criminal organisation and prevent a worldwide catastrophe.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260616165500 +0000" stop="20260616183000 +0000" channel="cinemax.unifitv">
+    <title lang="en">The Stranger In My Home</title>
+    <desc lang="en">Ali and her daughter Katie have a perfect life - until a stranger claims to be Katie's father.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260616183000 +0000" stop="20260616200500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Alarum</title>
+    <desc lang="en">Forced out of hiding, former assassin couple Joe and Lara Travers must use their deadly skills from their past to survive the imminent threat.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260616200500 +0000" stop="20260616215500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Nobody's Fool</title>
+    <desc lang="en">As Tanya seeks her sister's help to get back on her feet, she discovers her sister's perfect life may not be what it seems, and will do whatever it takes to help.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260616215500 +0000" stop="20260616234500 +0000" channel="cinemax.unifitv">
+    <title lang="en">El Diablo</title>
+    <desc lang="en">A mild-mannered schoolteacher vows to rescue a kidnapped girl from the deadly outlaw El Diablo.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260616234500 +0000" stop="20260617030000 +0000" channel="cinemax.unifitv">
+    <title lang="en">The Godfather Part II</title>
+    <desc lang="en">This brilliant piece continues the saga of two generations of successive power within the Corleone family. With Al Pacino and Robert De Niro.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617030000 +0000" stop="20260617033000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">Hollywood On Set</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1172.</episode-num>
+    <episode-num system="onscreen">S1E1173</episode-num>
+  </programme>
+  <programme start="20260617033000 +0000" stop="20260617050500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Nacho Libre</title>
+    <desc lang="en">A poor Mexican monastery worker moonlights as a wrestler to raise money for a monastery when what he's really interested in is saving a beautiful nun!</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617050500 +0000" stop="20260617065500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Stop-Loss</title>
+    <desc lang="en">A decorated war hero returns to his hometown only to be dragged back into the battlefield, testing his resolve towards life, love and family.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617065500 +0000" stop="20260617085000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Kiss The Girls</title>
+    <desc lang="en">Morgan Freeman is hunting down a serial killer, and his only clue is Ashley Judd, the only victim who managed to get away.</desc>
+    <category lang="en">Crime</category>
+  </programme>
+  <programme start="20260617085000 +0000" stop="20260617104000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Something The Lord Made</title>
+    <desc lang="en">In this HBO Original movie, two men achieve an enormous medical breakthrough that earns one an award and the other, a painful lesson in unequal opportunity.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617104000 +0000" stop="20260617111000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">Hollywood On Set</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1172.</episode-num>
+    <episode-num system="onscreen">S1E1173</episode-num>
+  </programme>
+  <programme start="20260617111000 +0000" stop="20260617130500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Boycott</title>
+    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617130500 +0000" stop="20260617150000 +0000" channel="cinemax.unifitv">
+    <title lang="en">The Man From U.N.C.L.E.</title>
+    <desc lang="en">A CIA agent and a KGB agent are forced to put aside longstanding hostilities and team up on a mission to stop a criminal organisation and prevent a worldwide catastrophe.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260617150000 +0000" stop="20260617163500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Alarum</title>
+    <desc lang="en">Forced out of hiding, former assassin couple Joe and Lara Travers must use their deadly skills from their past to survive the imminent threat.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <channel id="hitsmovies.unifitv">
+    <display-name>HITS Movies</display-name>
+  </channel>
+  <programme start="20260616150000 +0000" stop="20260616170000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Legion</title>
+    <desc lang="en">When God loses faith in mankind he sends his Legion of angels to wipe out the human race for the second time. Man's only hope lies in a group of misfits holed up in a desert diner. With the help of the Archangel Michael, these strangers must deliver a baby they soon realize is the second coming and their last chance at redemption.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260616170000 +0000" stop="20260616193000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Torn Curtain</title>
+    <desc lang="en">Paul Newman and Julie Andrews star in Alfred Hitchcock's stunning tale of international espionage, mistaken identities and terrifying secrets during the Cold War.</desc>
+    <category lang="en">Mystery</category>
+  </programme>
+  <programme start="20260616193000 +0000" stop="20260616211500 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Tarantula</title>
+    <desc lang="en">A spider escapes from an isolated Arizona desert laboratory experimenting in gigantism and grows to tremendous size as it wreaks havoc on the local inhabitants.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260616211500 +0000" stop="20260616231500 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">It Happened One Night</title>
+    <desc lang="en">A spoiled heiress falls in love with the cynical newspaperman she enlists to help her escape her domineering father.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260616231500 +0000" stop="20260617011500 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Legion</title>
+    <desc lang="en">When God loses faith in mankind he sends his Legion of angels to wipe out the human race for the second time. Man's only hope lies in a group of misfits holed up in a desert diner. With the help of the Archangel Michael, these strangers must deliver a baby they soon realize is the second coming and their last chance at redemption.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260617011500 +0000" stop="20260617040000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">L.a. Confidential</title>
+    <desc lang="en">Amidst corruption, murder and the glamour of famous movie stars, three police officer fight to uncover the truth of a brutal mass murder.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260617040000 +0000" stop="20260617061500 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">E.T.,The Extra-Terrestrial</title>
+    <desc lang="en">Captivating audiences of all ages, this timeless story follows the unforgettable journey of a lost alien and the 10-year-old boy he befriends.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260617061500 +0000" stop="20260617081500 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">It Happened One Night</title>
+    <desc lang="en">A spoiled heiress falls in love with the cynical newspaperman she enlists to help her escape her domineering father.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617081500 +0000" stop="20260617101500 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Legion</title>
+    <desc lang="en">When God loses faith in mankind he sends his Legion of angels to wipe out the human race for the second time. Man's only hope lies in a group of misfits holed up in a desert diner. With the help of the Archangel Michael, these strangers must deliver a baby they soon realize is the second coming and their last chance at redemption.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260617101500 +0000" stop="20260617130000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Irma La Douce</title>
+    <desc lang="en">In Paris, an ex-cop falls in love with a prostitute, and tries to get her out of that life by paying for all of her time.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260617130000 +0000" stop="20260617150000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Puss In Boots</title>
+    <desc lang="en">See the true story of The Cat, The Myth, The Legend - PUSS IN BOOTS (Antonio Banderas) as the lover, fighter and outlaw takes on the greatest adventure of his nine lives.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260617150000 +0000" stop="20260617170000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">The Maltese Falcon</title>
+    <desc lang="en">Novelist Dashiell Hammett's legendary San Francisco private detective, Sam Spade, becomes enmeshed with a deadly band of international thieves who will lie, double cross and murder when he accepts an assignment from a beautiful but Dangerous Female.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <channel id="warnertv.unifitv">
+    <display-name>Warner TV HD</display-name>
+  </channel>
+  <programme start="20260616153000 +0000" stop="20260616171500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Mad Max</title>
+    <desc lang="en">In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260616171500 +0000" stop="20260616180500 +0000" channel="warnertv.unifitv">
+    <title lang="en">ER</title>
+    <desc lang="en">Follow the personal and professional lives of the doctors and patients inside a Chicago hospital emergency room.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <episode-num system="onscreen">S2E18</episode-num>
+  </programme>
+  <programme start="20260616180500 +0000" stop="20260616183000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">A miraculous liquid gives Michael the Midas touch in an eyeglass store.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
+  </programme>
+  <programme start="20260616183000 +0000" stop="20260616191500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Smallville</title>
+    <desc lang="en">Clark must save Pete from being literally devoured by a female classmate, Jodi Melville, whose diet of Kryptonite-affected vegetables causes her to shed weight faster than she can handle.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260616191500 +0000" stop="20260616194000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">A fiery contraption has T Money wondering if he scored big or will go down in flames.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+    <episode-num system="onscreen">S4E6</episode-num>
+  </programme>
+  <programme start="20260616194000 +0000" stop="20260616200500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">Jesse takes a swing at Team Brandori, while T- Money does some dangerous bidding of his own.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3.6.</episode-num>
+    <episode-num system="onscreen">S4E7</episode-num>
+  </programme>
+  <programme start="20260616200500 +0000" stop="20260616203000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Caught! (Season 2)</title>
+    <desc lang="en">It's up to local law enforcement to save the day when security cameras are placed in street corners to capture crimes.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20260616203000 +0000" stop="20260616205500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Caught! (Season 2)</title>
+    <desc lang="en">Handcuffs, cops and prison walls are no match for rebellious convicts who make last-ditch efforts to break free.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260616205500 +0000" stop="20260616214500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Dodgeball Thunderdome</title>
+    <desc lang="en">Contestants compete for a shot at $25,000 as they brave a battleground.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260616214500 +0000" stop="20260616221000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Fresh Prince Of Bel-Air</title>
+    <desc lang="en">Will and Carlton spy on Ashley when she goes on her "first date" with a famous young rap singer named Little T.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260616221000 +0000" stop="20260616223500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">Michael performs a revolutionary skin treatment that turns back time.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <episode-num system="onscreen">S3E8</episode-num>
+  </programme>
+  <programme start="20260616223500 +0000" stop="20260616230000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">At an office, Michael goes from suave to slacker in the blink of an eye.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="onscreen">S3E9</episode-num>
+  </programme>
+  <programme start="20260616230000 +0000" stop="20260616235000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Dodgeball Thunderdome</title>
+    <desc lang="en">With $25,000 on the line, only the strong survive The Thunderdome.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260616235000 +0000" stop="20260617004000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Smallville</title>
+    <desc lang="en">Clark and Lex team up to rescue members of Clark's high school class after a janitor, Earl Jenkins (TONY TODD), takes them hostage in LuthorCorp's Smallville Fertilizer Plant No. 3.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260617004000 +0000" stop="20260617010500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">In one of the most unusual big money auctions yet, Sean auctions the contents of abandoned big-rigs.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <episode-num system="onscreen">S4E8</episode-num>
+  </programme>
+  <programme start="20260617010500 +0000" stop="20260617013000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">Newcomer Alvarado brothers find an unusual collectible hiding in plain sight -- but are they going to flush their money down the toilet.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <episode-num system="onscreen">S4E9</episode-num>
+  </programme>
+  <programme start="20260617013000 +0000" stop="20260617015500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">Michael performs a revolutionary skin treatment that turns back time.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <episode-num system="onscreen">S3E8</episode-num>
+  </programme>
+  <programme start="20260617015500 +0000" stop="20260617022000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">At an office, Michael goes from suave to slacker in the blink of an eye.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="onscreen">S3E9</episode-num>
+  </programme>
+  <programme start="20260617022000 +0000" stop="20260617024500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Caught! (Season 2)</title>
+    <desc lang="en">It takes a special kind of police officer to survive and thrive untamed backcountry as they take down criminals.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20260617024500 +0000" stop="20260617031000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Caught! (Season 2)</title>
+    <desc lang="en">In a dangerous battle, police pursue criminals using every tool available.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20260617031000 +0000" stop="20260617033500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Fresh Prince Of Bel-Air</title>
+    <desc lang="en">To save her job, Hilary asks Will to date her boss.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260617033500 +0000" stop="20260617040000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Impractical Jokers</title>
+    <desc lang="en">It's spa day for the Jokers, although for them it's anything but relaxing.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+    <episode-num system="onscreen">S6E7</episode-num>
+  </programme>
+  <programme start="20260617040000 +0000" stop="20260617045000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Smallville</title>
+    <desc lang="en">Clark and Lex team up to rescue members of Clark's high school class after a janitor, Earl Jenkins (TONY TODD), takes them hostage in LuthorCorp's Smallville Fertilizer Plant No. 3.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260617045000 +0000" stop="20260617054000 +0000" channel="warnertv.unifitv">
+    <title lang="en">ER</title>
+    <desc lang="en">Follow the personal and professional lives of the doctors and patients inside a Chicago hospital emergency room.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <episode-num system="onscreen">S2E17</episode-num>
+  </programme>
+  <programme start="20260617054000 +0000" stop="20260617060500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">The gang decides to spend Thanksgiving with Mrs. Wolowitz.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6.8.</episode-num>
+    <episode-num system="onscreen">S7E9</episode-num>
+  </programme>
+  <programme start="20260617060500 +0000" stop="20260617063000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Friends</title>
+    <desc lang="en">To prepare Joey for a date, Rachel eagerly agrees to accompany him for an evening out.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
+    <episode-num system="onscreen">S8E12</episode-num>
+  </programme>
+  <programme start="20260617063000 +0000" stop="20260617072000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Dodgeball Thunderdome</title>
+    <desc lang="en">With $25,000 on the line, only the strong survive The Thunderdome.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260617072000 +0000" stop="20260617074500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Caught! (Season 2)</title>
+    <desc lang="en">It takes a special kind of police officer to survive and thrive untamed backcountry as they take down criminals.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20260617074500 +0000" stop="20260617081000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Caught! (Season 2)</title>
+    <desc lang="en">In a dangerous battle, police pursue criminals using every tool available.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20260617081000 +0000" stop="20260617083500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">The gang decides to spend Thanksgiving with Mrs. Wolowitz.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6.8.</episode-num>
+    <episode-num system="onscreen">S7E9</episode-num>
+  </programme>
+  <programme start="20260617083500 +0000" stop="20260617090000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Friends</title>
+    <desc lang="en">To prepare Joey for a date, Rachel eagerly agrees to accompany him for an evening out.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
+    <episode-num system="onscreen">S8E12</episode-num>
+  </programme>
+  <programme start="20260617090000 +0000" stop="20260617092500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">In one of the most unusual big money auctions yet, Sean auctions the contents of abandoned big-rigs.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <episode-num system="onscreen">S4E8</episode-num>
+  </programme>
+  <programme start="20260617092500 +0000" stop="20260617095000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">Newcomer Alvarado brothers find an unusual collectible hiding in plain sight -- but are they going to flush their money down the toilet.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <episode-num system="onscreen">S4E9</episode-num>
+  </programme>
+  <programme start="20260617095000 +0000" stop="20260617104000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Smallville</title>
+    <desc lang="en">Clark and Lex team up to rescue members of Clark's high school class after a janitor, Earl Jenkins (TONY TODD), takes them hostage in LuthorCorp's Smallville Fertilizer Plant No. 3.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260617104000 +0000" stop="20260617110500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">Michael performs a revolutionary skin treatment that turns back time.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <episode-num system="onscreen">S3E8</episode-num>
+  </programme>
+  <programme start="20260617110500 +0000" stop="20260617113000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">At an office, Michael goes from suave to slacker in the blink of an eye.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="onscreen">S3E9</episode-num>
+  </programme>
+  <programme start="20260617113000 +0000" stop="20260617115500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Sheldon faces a crisis about his accidental discovery.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6.9.</episode-num>
+    <episode-num system="onscreen">S7E10</episode-num>
+  </programme>
+  <programme start="20260617115500 +0000" stop="20260617122000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Friends</title>
+    <desc lang="en">As Joey agonizes over his secret affection for Rache.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">7.12.</episode-num>
+    <episode-num system="onscreen">S8E13</episode-num>
+  </programme>
+  <programme start="20260617122000 +0000" stop="20260617124500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Fresh Prince Of Bel-Air</title>
+    <desc lang="en">To save her job, Hilary asks Will to date her boss.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260617124500 +0000" stop="20260617131000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Impractical Jokers</title>
+    <desc lang="en">It's spa day for the Jokers, although for them it's anything but relaxing.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+    <episode-num system="onscreen">S6E7</episode-num>
+  </programme>
+  <programme start="20260617131000 +0000" stop="20260617153000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Little Things</title>
+    <desc lang="en">Denzel Washington stars in this psychological thriller following two cops, one haunted by echoes of his past, investigating a series of murders.</desc>
+    <category lang="en">Crime</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260617153000 +0000" stop="20260617171500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Mad Max 2: The Road Warrior</title>
+    <desc lang="en">In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline rich, community escape a band of bandits.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <channel id="hitsnow.unifitv">
+    <display-name>HITS NOW</display-name>
+  </channel>
+  <programme start="20260616153500 +0000" stop="20260616163500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">MasterChef: Dynamic Duos</title>
+    <desc lang="en">MasterChef enters its 15th season with a brand new theme: “MasterChef : Dynamic Duos!” Pairs of home cooks will participate together, in hopes of becoming America's Next MasterChefs.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">14.15.</episode-num>
+    <episode-num system="onscreen">S15E16</episode-num>
+  </programme>
+  <programme start="20260616163500 +0000" stop="20260616173500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Matlock</title>
+    <desc lang="en">As Matty settles into her new role at Jacobson Moore, Olympia and the aptly nicknamed “Team You Three” take on a lawsuit involving a developmentally delayed teenager whose family claims he's been wrongly accused of murder.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260616173500 +0000" stop="20260616183500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Shark Tank</title>
+    <desc lang="en">The critically acclaimed and multi-Emmy Award-winning entrepreneurial-themed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">15.1.</episode-num>
+    <episode-num system="onscreen">S16E2</episode-num>
+  </programme>
+  <programme start="20260616183500 +0000" stop="20260616193500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Agency: Central Intelligence</title>
+    <desc lang="en">Bosko is briefed on Valhalla. Martian, Henry and Naomi strategize a play.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260616193500 +0000" stop="20260616203500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Top Chef</title>
+    <desc lang="en">Top Chef is a hit reality competition series that celebrates the culinary arts with a fascinating window into the competitive, pressurized environment of world-class cookery and the restaurant business at the highest level.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
+    <episode-num system="onscreen">S23E14</episode-num>
+  </programme>
+  <programme start="20260616203500 +0000" stop="20260616213500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Special Forces: World's Toughest Test</title>
+    <desc lang="en">The recruits undergo a search-and-rescue course, crawl along a rope suspended over a canyon, face a grueling three-stage endurance test in the mountainous terrain, and a brakeman rope challenge.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <episode-num system="onscreen">S3E7</episode-num>
+  </programme>
+  <programme start="20260616213500 +0000" stop="20260616223500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Snapped: Killer Couples</title>
+    <desc lang="en">A 61-year-old farmhand is found murdered in his home on the outskirts of the Ozarks. A strange text message points to a suspect, but the investigation quickly diverges after a duo on the run is exposed, resulting in a fatal shootout in Mississippi.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">16.9.</episode-num>
+    <episode-num system="onscreen">S17E10</episode-num>
+  </programme>
+  <programme start="20260616223500 +0000" stop="20260616230500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11675.</episode-num>
+    <episode-num system="onscreen">S45E11676</episode-num>
+  </programme>
+  <programme start="20260616230500 +0000" stop="20260617000500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Matlock</title>
+    <desc lang="en">As Matty settles into her new role at Jacobson Moore, Olympia and the aptly nicknamed “Team You Three” take on a lawsuit involving a developmentally delayed teenager whose family claims he's been wrongly accused of murder.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260617000500 +0000" stop="20260617010500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Shark Tank</title>
+    <desc lang="en">The critically acclaimed and multi-Emmy Award-winning entrepreneurial-themed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">15.1.</episode-num>
+    <episode-num system="onscreen">S16E2</episode-num>
+  </programme>
+  <programme start="20260617010500 +0000" stop="20260617020500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Agency: Central Intelligence</title>
+    <desc lang="en">Bosko is briefed on Valhalla. Martian, Henry and Naomi strategize a play.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260617020500 +0000" stop="20260617030500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">MasterChef: Dynamic Duos</title>
+    <desc lang="en">MasterChef enters its 15th season with a brand new theme: “MasterChef : Dynamic Duos!” Pairs of home cooks will participate together, in hopes of becoming America's Next MasterChefs.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">14.15.</episode-num>
+    <episode-num system="onscreen">S15E16</episode-num>
+  </programme>
+  <programme start="20260617030500 +0000" stop="20260617040500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Celebrity Wheel Of Fortune</title>
+    <desc lang="en">Hosted by Pat Sajak and Vanna White, "Celebrity Wheel of Fortune" welcomes celebrities to solve word puzzles for a chance to win up to $1 million. All of the money won goes to a charity of their choice.</desc>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <episode-num system="onscreen">S4E2</episode-num>
+  </programme>
+  <programme start="20260617040500 +0000" stop="20260617043500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11675.</episode-num>
+    <episode-num system="onscreen">S45E11676</episode-num>
+  </programme>
+  <programme start="20260617043500 +0000" stop="20260617053500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Matlock</title>
+    <desc lang="en">As Matty settles into her new role at Jacobson Moore, Olympia and the aptly nicknamed “Team You Three” take on a lawsuit involving a developmentally delayed teenager whose family claims he's been wrongly accused of murder.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260617053500 +0000" stop="20260617063500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Shark Tank</title>
+    <desc lang="en">The critically acclaimed and multi-Emmy Award-winning entrepreneurial-themed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">15.1.</episode-num>
+    <episode-num system="onscreen">S16E2</episode-num>
+  </programme>
+  <programme start="20260617063500 +0000" stop="20260617073500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Agency: Central Intelligence</title>
+    <desc lang="en">Bosko is briefed on Valhalla. Martian, Henry and Naomi strategize a play.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260617073500 +0000" stop="20260617083500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Top Chef</title>
+    <desc lang="en">Top Chef is a hit reality competition series that celebrates the culinary arts with a fascinating window into the competitive, pressurized environment of world-class cookery and the restaurant business at the highest level.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">22.13.</episode-num>
+    <episode-num system="onscreen">S23E14</episode-num>
+  </programme>
+  <programme start="20260617083500 +0000" stop="20260617093500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Special Forces: World's Toughest Test</title>
+    <desc lang="en">The recruits undergo a search-and-rescue course, crawl along a rope suspended over a canyon, face a grueling three-stage endurance test in the mountainous terrain, and a brakeman rope challenge.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <episode-num system="onscreen">S3E7</episode-num>
+  </programme>
+  <programme start="20260617093500 +0000" stop="20260617103500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Snapped: Killer Couples</title>
+    <desc lang="en">A 61-year-old farmhand is found murdered in his home on the outskirts of the Ozarks. A strange text message points to a suspect, but the investigation quickly diverges after a duo on the run is exposed, resulting in a fatal shootout in Mississippi.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">16.9.</episode-num>
+    <episode-num system="onscreen">S17E10</episode-num>
+  </programme>
+  <programme start="20260617103500 +0000" stop="20260617113500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">MasterChef: Dynamic Duos</title>
+    <desc lang="en">The Top 3 duos must perform the best they ever have as a pair. Across a three course menu, every plate has to be exacting Michelin star standards and the victor be crowned as 'America's MasterChefs'.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">14.16.</episode-num>
+    <episode-num system="onscreen">S15E17</episode-num>
+  </programme>
+  <programme start="20260617113500 +0000" stop="20260617120500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11675.</episode-num>
+    <episode-num system="onscreen">S45E11676</episode-num>
+  </programme>
+  <programme start="20260617120500 +0000" stop="20260617130500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Hotel Costiera</title>
+    <desc lang="en">Thieves hold Alice, planning a jewelry heist at Villa Costiera. Daniel manipulates Bruno to find her location, but the rescue takes a shocking turn.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260617130500 +0000" stop="20260617140500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Who Wants To Be A Millionaire</title>
+    <desc lang="en">Celebrity contestants win money for charity by answering increasingly difficult questions.</desc>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+    <episode-num system="onscreen">S4E3</episode-num>
+  </programme>
+  <programme start="20260617140500 +0000" stop="20260617143500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Hosted by Daytime Emmy Award® winning host Steve Harvey, Family Feud brings all new hilarious moments and families as they compete for a chance to win up to $20,000 by guessing the most popular answers to questions posed to 100 people surveyed.</desc>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">19.47.</episode-num>
+    <episode-num system="onscreen">S20E48</episode-num>
+  </programme>
+  <programme start="20260617143500 +0000" stop="20260617150500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Confusion over their shared name pits Adam (Sean Giambrone) against an upperclassman to see who gets to be called Adam Goldberg.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.15.</episode-num>
+    <episode-num system="onscreen">S4E16</episode-num>
+  </programme>
+  <programme start="20260617150500 +0000" stop="20260617153500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11676.</episode-num>
+    <episode-num system="onscreen">S45E11677</episode-num>
+  </programme>
+  <programme start="20260617153500 +0000" stop="20260617163500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">MasterChef: Dynamic Duos</title>
+    <desc lang="en">The Top 3 duos must perform the best they ever have as a pair. Across a three course menu, every plate has to be exacting Michelin star standards and the victor be crowned as 'America's MasterChefs'.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">14.16.</episode-num>
+    <episode-num system="onscreen">S15E17</episode-num>
+  </programme>
+  <channel id="axn.unifitv">
+    <display-name>AXN</display-name>
+  </channel>
+  <programme start="20260616154500 +0000" stop="20260616164000 +0000" channel="axn.unifitv">
+    <title lang="en">FBI</title>
+    <desc lang="en">When a robbery at a community clinic turns deadly, the team investigates a drug trafficking crew and soon uncovers that the clinic's doctor may be more involved than they initially thought.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">7.5.</episode-num>
+    <episode-num system="onscreen">S8E6</episode-num>
+  </programme>
+  <programme start="20260616164000 +0000" stop="20260616173500 +0000" channel="axn.unifitv">
+    <title lang="en">RAINMAKER, THE</title>
+    <desc lang="en">Rudy and Deck tail Melvin Pritcher, igniting a thrilling chain of events.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260616173500 +0000" stop="20260616183000 +0000" channel="axn.unifitv">
+    <title lang="en">FBI: MOST WANTED</title>
+    <desc lang="en">The Fugitive Task force is called in to connect a series of random poisonings before more lives are lost. Meanwhile, Remy and Abby take on a new project.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+    <episode-num system="onscreen">S6E16</episode-num>
+  </programme>
+  <programme start="20260616183000 +0000" stop="20260616195000 +0000" channel="axn.unifitv">
+    <title lang="en">THE TRAITORS UK 3</title>
+    <desc lang="en">Nail-biting, award winning, reality series as a group of strangers play the ultimate game of detection, backstabbing and trust, in the hope of winning up to £120,000.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
+  </programme>
+  <programme start="20260616195000 +0000" stop="20260616202000 +0000" channel="axn.unifitv">
+    <title lang="en">CYRIL: SIMPLY MAGIC</title>
+    <desc lang="en">Join Cyril on a journey of self-discovery in various locations across Asia as he shares the marvels of his magic.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260616202000 +0000" stop="20260616211500 +0000" channel="axn.unifitv">
+    <title lang="en">HUDSON &amp; REX</title>
+    <desc lang="en">After a popular physiotherapist is murdered, the team must investigate the victims of his alleged sexual assaults in order to track down the killer before they strike again.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">4.11.</episode-num>
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20260616211500 +0000" stop="20260616221000 +0000" channel="axn.unifitv">
+    <title lang="en">BOSTON BLUE</title>
+    <desc lang="en">A body found on the Boston wharf pulls Lena and Danny into a tense drug investigation alongside Lena's former partner, Detective Brian Rodgers (Ryan Broussard), sparking personal and professional friction. Jonah and Sean chase down a missing man tied to a scavenger hunt, while Sarah and Mae navigate emotional challenges at home and in court.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260616221000 +0000" stop="20260616232000 +0000" channel="axn.unifitv">
+    <title lang="en">THE TRAITORS UK 3</title>
+    <desc lang="en">Nail-biting, award winning, reality series as a group of strangers play the ultimate game of detection, backstabbing and trust, in the hope of winning up to £120,000.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <episode-num system="onscreen">S3E5</episode-num>
+  </programme>
+  <programme start="20260616232000 +0000" stop="20260617000500 +0000" channel="axn.unifitv">
+    <title lang="en">HUNTING PARTY, THE</title>
+    <desc lang="en">Bex and the team track the brilliant and beguiling Jenna Wells, the notorious Killer Chemist whose therapy in the Pit has made her more dangerous.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260617000500 +0000" stop="20260617005000 +0000" channel="axn.unifitv">
+    <title lang="en">FBI: MOST WANTED</title>
+    <desc lang="en">A string of late-night murders with the same M.O. sends the Fugitive Task Force on a hunt for a serial killer with ties to a radical feminist group. Meanwhile, Nina's sister asks her for a big favor, causing a strain on Scola and Nina's relationship.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">5.14.</episode-num>
+    <episode-num system="onscreen">S6E15</episode-num>
+  </programme>
+  <programme start="20260617005000 +0000" stop="20260617014500 +0000" channel="axn.unifitv">
+    <title lang="en">HUDSON &amp; REX</title>
+    <desc lang="en">After a popular physiotherapist is murdered, the team must investigate the victims of his alleged sexual assaults in order to track down the killer before they strike again.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">4.11.</episode-num>
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20260617014500 +0000" stop="20260617024000 +0000" channel="axn.unifitv">
+    <title lang="en">BOSTON BLUE</title>
+    <desc lang="en">Lena and Danny are pulled into a high-stakes murder investigation when a whistleblower tied to one of Mae's court cases is found dead. Meanwhile, Jonah and Sean prepare for their first official day on the job.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260617024000 +0000" stop="20260617033500 +0000" channel="axn.unifitv">
+    <title lang="en">HUNTING PARTY, THE</title>
+    <desc lang="en">Bex and the team track the brilliant and beguiling Jenna Wells, the notorious Killer Chemist whose therapy in the Pit has made her more dangerous.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260617033500 +0000" stop="20260617045500 +0000" channel="axn.unifitv">
+    <title lang="en">THE TRAITORS UK 3</title>
+    <desc lang="en">Nail-biting, award winning, reality series as a group of strangers play the ultimate game of detection, backstabbing and trust, in the hope of winning up to £120,000.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <episode-num system="onscreen">S3E5</episode-num>
+  </programme>
+  <programme start="20260617045500 +0000" stop="20260617055000 +0000" channel="axn.unifitv">
+    <title lang="en">BOSTON BLUE</title>
+    <desc lang="en">Lena and Danny are pulled into a high-stakes murder investigation when a whistleblower tied to one of Mae's court cases is found dead. Meanwhile, Jonah and Sean prepare for their first official day on the job.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260617055000 +0000" stop="20260617064500 +0000" channel="axn.unifitv">
+    <title lang="en">HUDSON &amp; REX</title>
+    <desc lang="en">After a popular physiotherapist is murdered, the team must investigate the victims of his alleged sexual assaults in order to track down the killer before they strike again.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">4.11.</episode-num>
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20260617064500 +0000" stop="20260617080500 +0000" channel="axn.unifitv">
+    <title lang="en">THE TRAITORS UK 3</title>
+    <desc lang="en">Nail-biting, award winning, reality series as a group of strangers play the ultimate game of detection, backstabbing and trust, in the hope of winning up to £120,000.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <episode-num system="onscreen">S3E5</episode-num>
+  </programme>
+  <programme start="20260617080500 +0000" stop="20260617085500 +0000" channel="axn.unifitv">
+    <title lang="en">FBI: MOST WANTED</title>
+    <desc lang="en">A string of late-night murders with the same M.O. sends the Fugitive Task Force on a hunt for a serial killer with ties to a radical feminist group. Meanwhile, Nina's sister asks her for a big favor, causing a strain on Scola and Nina's relationship.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">5.14.</episode-num>
+    <episode-num system="onscreen">S6E15</episode-num>
+  </programme>
+  <programme start="20260617085500 +0000" stop="20260617095000 +0000" channel="axn.unifitv">
+    <title lang="en">HUNTING PARTY, THE</title>
+    <desc lang="en">Bex and the team track the brilliant and beguiling Jenna Wells, the notorious Killer Chemist whose therapy in the Pit has made her more dangerous.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260617095000 +0000" stop="20260617104500 +0000" channel="axn.unifitv">
+    <title lang="en">BOSTON BLUE</title>
+    <desc lang="en">A body found on the Boston wharf pulls Lena and Danny into a tense drug investigation alongside Lena's former partner, Detective Brian Rodgers (Ryan Broussard), sparking personal and professional friction. Jonah and Sean chase down a missing man tied to a scavenger hunt, while Sarah and Mae navigate emotional challenges at home and in court.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260617104500 +0000" stop="20260617114000 +0000" channel="axn.unifitv">
+    <title lang="en">FBI</title>
+    <desc lang="en">When a robbery at a community clinic turns deadly, the team investigates a drug trafficking crew and soon uncovers that the clinic's doctor may be more involved than they initially thought.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">7.5.</episode-num>
+    <episode-num system="onscreen">S8E6</episode-num>
+  </programme>
+  <programme start="20260617114000 +0000" stop="20260617130000 +0000" channel="axn.unifitv">
+    <title lang="en">THE TRAITORS UK 3</title>
+    <desc lang="en">Nail-biting, award winning, reality series as a group of strangers play the ultimate game of detection, backstabbing and trust, in the hope of winning up to £120,000.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
+  </programme>
+  <programme start="20260617130000 +0000" stop="20260617135500 +0000" channel="axn.unifitv">
+    <title lang="en">FBI: MOST WANTED</title>
+    <desc lang="en">The Fugitive Task force is called in to connect a series of random poisonings before more lives are lost. Meanwhile, Remy and Abby take on a new project.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+    <episode-num system="onscreen">S6E16</episode-num>
+  </programme>
+  <programme start="20260617135500 +0000" stop="20260617145000 +0000" channel="axn.unifitv">
+    <title lang="en">CIA</title>
+    <desc lang="en">After Colin receives a tip on an upcoming terror plot, the team recovers a young man who was kidnapped nine years ago in Turkey and dig into his time in captivity to help stop the attack. Meanwhile, Bill looks into someone very close to Colin.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260617145000 +0000" stop="20260617154500 +0000" channel="axn.unifitv">
+    <title lang="en">RAINMAKER, THE</title>
+    <desc lang="en">Rudy and Deck tail Melvin Pritcher, igniting a thrilling chain of events.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260617154500 +0000" stop="20260617164000 +0000" channel="axn.unifitv">
+    <title lang="en">CIA</title>
+    <desc lang="en">After Colin receives a tip on an upcoming terror plot, the team recovers a young man who was kidnapped nine years ago in Turkey and dig into his time in captivity to help stop the attack. Meanwhile, Bill looks into someone very close to Colin.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <channel id="hits.unifitv">
+    <display-name>HITS</display-name>
+  </channel>
+  <programme start="20260616151000 +0000" stop="20260616161000 +0000" channel="hits.unifitv">
+    <title lang="en">The Incredible Hulk</title>
+    <desc lang="en">The Hulk is trapped in an underground laboratory as part of a scientific study.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.22.</episode-num>
+    <episode-num system="onscreen">S3E23</episode-num>
+  </programme>
+  <programme start="20260616161000 +0000" stop="20260616164000 +0000" channel="hits.unifitv">
+    <title lang="en">I Dream of Jeannie</title>
+    <desc lang="en">A mod sculptor redecorates Tony's house.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260616164000 +0000" stop="20260616171000 +0000" channel="hits.unifitv">
+    <title lang="en">Frasier</title>
+    <desc lang="en">It's a Christmas to remember when Martin sings in a church pageant, Niles gets stuck in an elevator, and Frasier spills the beans about Roz's pregnancy to her unsuspecting mother.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260616171000 +0000" stop="20260616181000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">When the class clown at a local high school is found murdered, the CSI team is called to investigate, while Nick and Sara respond to the crime scene of a decomposed body found in a bag.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260616181000 +0000" stop="20260616191000 +0000" channel="hits.unifitv">
+    <title lang="en">T. J. Hooker</title>
+    <desc lang="en">Hooker returns to the barrio to help a close friend begin a program that will bring peace between the neighborhood's rival gangs.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
+    <episode-num system="onscreen">S3E22</episode-num>
+  </programme>
+  <programme start="20260616191000 +0000" stop="20260616201000 +0000" channel="hits.unifitv">
+    <title lang="en">The Incredible Hulk</title>
+    <desc lang="en">The Hulk is trapped in an underground laboratory as part of a scientific study.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.22.</episode-num>
+    <episode-num system="onscreen">S3E23</episode-num>
+  </programme>
+  <programme start="20260616201000 +0000" stop="20260616211000 +0000" channel="hits.unifitv">
+    <title lang="en">Agatha Christie's Marple</title>
+    <desc lang="en">At a weekend at Chimneys, a diplomatic guest arrives to negotiate a trade agreement and unexpectedly wants to buy the estate. When the Count is found murdered, multiple suspects emerge and another death follows before Miss Marple solves the crime.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+    <episode-num system="onscreen">S5E3</episode-num>
+  </programme>
+  <programme start="20260616211000 +0000" stop="20260616221000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">When the class clown at a local high school is found murdered, the CSI team is called to investigate, while Nick and Sara respond to the crime scene of a decomposed body found in a bag.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260616221000 +0000" stop="20260616231000 +0000" channel="hits.unifitv">
+    <title lang="en">The Incredible Hulk</title>
+    <desc lang="en">The Hulk is trapped in an underground laboratory as part of a scientific study.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.22.</episode-num>
+    <episode-num system="onscreen">S3E23</episode-num>
+  </programme>
+  <programme start="20260616231000 +0000" stop="20260616234000 +0000" channel="hits.unifitv">
+    <title lang="en">Bewitched</title>
+    <desc lang="en">Uncle Arthur tries to produce same French pastry, but gets the real Napoleon instead.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+    <episode-num system="onscreen">S5E7</episode-num>
+  </programme>
+  <programme start="20260616234000 +0000" stop="20260617004000 +0000" channel="hits.unifitv">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Xena and Gabrielle arrive to Troy during the Trojan War when she is required by an old friend, Helen. While Xena tries to win the war, Gabrielle meets Perdicas, her ex-fiancé, who's working now as a mercenary for Troy.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20260617004000 +0000" stop="20260617014000 +0000" channel="hits.unifitv">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Gabrielle auditions to attend the Athens City Academy to train as a bard -- but others trying for the few open spots include Homer and Euripides.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20260617014000 +0000" stop="20260617024000 +0000" channel="hits.unifitv">
+    <title lang="en">Agatha Christie's Marple</title>
+    <desc lang="en">At a weekend at Chimneys, a diplomatic guest arrives to negotiate a trade agreement and unexpectedly wants to buy the estate. When the Count is found murdered, multiple suspects emerge and another death follows before Miss Marple solves the crime.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+    <episode-num system="onscreen">S5E3</episode-num>
+  </programme>
+  <programme start="20260617024000 +0000" stop="20260617034000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">When the class clown at a local high school is found murdered, the CSI team is called to investigate, while Nick and Sara respond to the crime scene of a decomposed body found in a bag.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260617034000 +0000" stop="20260617041000 +0000" channel="hits.unifitv">
+    <title lang="en">I Dream of Jeannie</title>
+    <desc lang="en">A mod sculptor redecorates Tony's house.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260617041000 +0000" stop="20260617053500 +0000" channel="hits.unifitv">
+    <title lang="en">The First Olympics Athens, 1896</title>
+    <desc lang="en">The story begins in 1894, when Baron Pierre de Courbetin announces his intention to stage the first Olympic games of the Modern Era within two years in Athens.</desc>
+    <category lang="en">Mini Series</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260617053500 +0000" stop="20260617064500 +0000" channel="hits.unifitv">
+    <title lang="en">The First Olympics Athens, 1896</title>
+    <desc lang="en">The story begins in 1894, when Baron Pierre de Courbetin announces his intention to stage the first Olympic games of the Modern Era within two years in Athens.</desc>
+    <category lang="en">Mini Series</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260617064500 +0000" stop="20260617071500 +0000" channel="hits.unifitv">
+    <title lang="en">Bewitched</title>
+    <desc lang="en">Darrin accuses Samantha of using witchcraft to win a slogan contest.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+    <episode-num system="onscreen">S5E8</episode-num>
+  </programme>
+  <programme start="20260617071500 +0000" stop="20260617081000 +0000" channel="hits.unifitv">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Xena and Gabrielle are tasked to find the Treasure of the Sumerians and prevent the wrong hands from getting the most valuable part of it: Ambrosia, the food of the gods, which grants immortality.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260617081000 +0000" stop="20260617091000 +0000" channel="hits.unifitv">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Someone is trying to kill Princess Diana, so Xena has to protect her. Since Xena and Diana are physically identical, they exchange their roles so Xena can discover who's the killer</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260617091000 +0000" stop="20260617101000 +0000" channel="hits.unifitv">
+    <title lang="en">T. J. Hooker</title>
+    <desc lang="en">Hooker returns to the barrio to help a close friend begin a program that will bring peace between the neighborhood's rival gangs.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
+    <episode-num system="onscreen">S3E22</episode-num>
+  </programme>
+  <programme start="20260617101000 +0000" stop="20260617104000 +0000" channel="hits.unifitv">
+    <title lang="en">I Dream of Jeannie</title>
+    <desc lang="en">A mod sculptor redecorates Tony's house.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260617104000 +0000" stop="20260617111000 +0000" channel="hits.unifitv">
+    <title lang="en">Frasier</title>
+    <desc lang="en">It's a Christmas to remember when Martin sings in a church pageant, Niles gets stuck in an elevator, and Frasier spills the beans about Roz's pregnancy to her unsuspecting mother.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260617111000 +0000" stop="20260617121000 +0000" channel="hits.unifitv">
+    <title lang="en">Agatha Christie's Marple</title>
+    <desc lang="en">At a weekend at Chimneys, a diplomatic guest arrives to negotiate a trade agreement and unexpectedly wants to buy the estate. When the Count is found murdered, multiple suspects emerge and another death follows before Miss Marple solves the crime.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <episode-num system="onscreen">S5E4</episode-num>
+  </programme>
+  <programme start="20260617121000 +0000" stop="20260617124000 +0000" channel="hits.unifitv">
+    <title lang="en">I Dream of Jeannie</title>
+    <desc lang="en">Jeannie's zany uncles appear to approve Tony.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <episode-num system="onscreen">S5E10</episode-num>
+  </programme>
+  <programme start="20260617124000 +0000" stop="20260617131000 +0000" channel="hits.unifitv">
+    <title lang="en">Frasier</title>
+    <desc lang="en">Daphne's attempts to lift Frasier's spirits by taking him to her favorite British pub backfires when Frasier decides to become a regular at “her” hangout.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <episode-num system="onscreen">S5E10</episode-num>
+  </programme>
+  <programme start="20260617131000 +0000" stop="20260617141000 +0000" channel="hits.unifitv">
+    <title lang="en">Beverly Hills, 90210</title>
+    <desc lang="en">A job transfer moves the Walsh family from small town Minnesota to glamour-capital Beverly Hills. Twins Brandon and Brenda find that priorities are different here than in farm country.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260617141000 +0000" stop="20260617151000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">Grissom, Sara and Warrick are called to investigate an abandoned, blood-spattered apartment, and Nick and Catherine must examine a dead scuba diver lodged in a tree.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20260617151000 +0000" stop="20260617161000 +0000" channel="hits.unifitv">
+    <title lang="en">The Incredible Hulk</title>
+    <desc lang="en">A private detective investigating a blackmail attempt suspects Banner.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.23.</episode-num>
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <channel id="kplus.unifitv">
+    <display-name>K Plus</display-name>
+  </channel>
+  <programme start="20260616155500 +0000" stop="20260616171000 +0000" channel="kplus.unifitv">
+    <title lang="en">18 Again</title>
+    <desc lang="en">A huge commotion occurs after Ja-sung confesses to Shi-ah in public.</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260616171000 +0000" stop="20260616182500 +0000" channel="kplus.unifitv">
+    <title lang="en">My Id Is Gangnam Beauty</title>
+    <desc lang="en">Soo-a openly tells everyone at the lab that she likes Kyung-seok. Mi-rae makes up her mind and finally confronts Soo-a.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20260616182500 +0000" stop="20260616194000 +0000" channel="kplus.unifitv">
+    <title lang="en">Ms. Incognito</title>
+    <desc lang="en">Young-ran is flustered when Dong-min appears at the bus terminal to pick her up. Seon-young begins plotting ways to attack Young-ran.</desc>
+    <category lang="en">Crime</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260616194000 +0000" stop="20260616212500 +0000" channel="kplus.unifitv">
+    <title lang="en">Knowing Bros</title>
+    <desc lang="en">A talk show where the cast members act like students in a classroom, and guests are invited as new transfer students.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0.495.</episode-num>
+    <episode-num system="onscreen">S1E496</episode-num>
+  </programme>
+  <programme start="20260616212500 +0000" stop="20260616224000 +0000" channel="kplus.unifitv">
+    <title lang="en">18 Again</title>
+    <desc lang="en">A huge commotion occurs after Ja-sung confesses to Shi-ah in public.</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260616224000 +0000" stop="20260616235500 +0000" channel="kplus.unifitv">
+    <title lang="en">18 Again</title>
+    <desc lang="en">Shi-ah is reminded of her father when Woo-young helps her treat the wound on her finger.</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20260616235500 +0000" stop="20260617011000 +0000" channel="kplus.unifitv">
+    <title lang="en">Salon De Nabi</title>
+    <desc lang="en">A new intern arrives to take Moo-yeol's place. The successor is handsome, good with work and is loved by everyone. This makes Moo-yeol sad and anxious.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260617011000 +0000" stop="20260617022500 +0000" channel="kplus.unifitv">
+    <title lang="en">Goblin</title>
+    <desc lang="en">Kim Shin and the Grim Reaper rescue Eun-tak from danger, with her lonely life and ability to see ghosts drawing them closer.</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260617022500 +0000" stop="20260617034000 +0000" channel="kplus.unifitv">
+    <title lang="en">Goblin</title>
+    <desc lang="en">Eun-tak admits she sees the sword, Kim Shin is torn between wanting peace through death and his growing feelings for her.</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260617034000 +0000" stop="20260617045500 +0000" channel="kplus.unifitv">
+    <title lang="en">The Scarecrow</title>
+    <desc lang="en">The discovery of yet another body causes an uproar in the village. Tae-joo is stuck in a dilemma when evidence appears to point to one individual.</desc>
+    <category lang="en">Crime</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260617045500 +0000" stop="20260617061000 +0000" channel="kplus.unifitv">
+    <title lang="en">The Scarecrow</title>
+    <desc lang="en">Si-young resorts to extreme means to get a suspect to confess to the murder. Ji-won finds an unusual object in the victim's bag, which leads her to a teahouse.</desc>
+    <category lang="en">Crime</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260617061000 +0000" stop="20260617075500 +0000" channel="kplus.unifitv">
+    <title lang="en">Knowing Bros</title>
+    <desc lang="en">A talk show where the cast members act like students in a classroom, and guests are invited as new transfer students.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0.527.</episode-num>
+    <episode-num system="onscreen">S1E528</episode-num>
+  </programme>
+  <programme start="20260617075500 +0000" stop="20260617091000 +0000" channel="kplus.unifitv">
+    <title lang="en">My Id Is Gangnam Beauty</title>
+    <desc lang="en">Soo-a openly tells everyone at the lab that she likes Kyung-seok. Mi-rae makes up her mind and finally confronts Soo-a.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20260617091000 +0000" stop="20260617102500 +0000" channel="kplus.unifitv">
+    <title lang="en">Ms. Incognito</title>
+    <desc lang="en">Young-ran is flustered when Dong-min appears at the bus terminal to pick her up. Seon-young begins plotting ways to attack Young-ran.</desc>
+    <category lang="en">Crime</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260617102500 +0000" stop="20260617121000 +0000" channel="kplus.unifitv">
+    <title lang="en">Chef &amp; My Fridge</title>
+    <desc lang="en">A cooking battle between star chefs, which utilizes ingredients from the fridges of various celebrities.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260617121000 +0000" stop="20260617132500 +0000" channel="kplus.unifitv">
+    <title lang="en">My Id Is Gangnam Beauty</title>
+    <desc lang="en">Kyung-seok and Mi-rae start dating secretly without telling anyone. Meanwhile, strange things start happening around Soo-a.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260617132500 +0000" stop="20260617144000 +0000" channel="kplus.unifitv">
+    <title lang="en">Ms. Incognito</title>
+    <desc lang="en">Sun-young makes use of her connections to search for Young-ran. Left alone with a class of rowdy kids, Young-ran tries to teach them what she knows best.</desc>
+    <category lang="en">Crime</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260617144000 +0000" stop="20260617155500 +0000" channel="kplus.unifitv">
+    <title lang="en">Salon De Nabi</title>
+    <desc lang="en">Gi-bbeum finds a strange bag while cleaning during a promotional shoot for Nabi. It is an expensive designer bag, but something unimaginable is in the bag.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20260617155500 +0000" stop="20260617171000 +0000" channel="kplus.unifitv">
+    <title lang="en">18 Again</title>
+    <desc lang="en">Shi-ah is reminded of her father when Woo-young helps her treat the wound on her finger.</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
   <channel id="animax.unifitv">
     <display-name>Animax</display-name>
   </channel>
@@ -7903,2613 +9678,6 @@
   <channel id="moonbugkids.unifitv">
     <display-name>Moonbug Kids</display-name>
   </channel>
-  <programme start="20260616154000 +0000" stop="20260616173800 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Baby Bum: Lullabies</title>
-    <desc lang="en">Little Baby Bum is here to help you fall to sleep; with soothing, relaxing animated lullabies</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <episode-num system="onscreen">S2E7</episode-num>
-  </programme>
-  <programme start="20260616173800 +0000" stop="20260616181000 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">How does JJ like to play? He pretends to be a doctor, plays "Simon Says" &amp; camps with his siblings!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <episode-num system="onscreen">S3E3</episode-num>
-  </programme>
-  <programme start="20260616181000 +0000" stop="20260616183900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Cody Time</title>
-    <desc lang="en">Race to the finish line with Cody and friends! Compete in a soccer match and a fast-paced sprint to the end.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260616183900 +0000" stop="20260616190900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Minibods</title>
-    <desc lang="en">The Minibods go on an adventure! Lulu misses her bunny on a camping trip &amp; Newt learns to ride without pedals!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260616190900 +0000" stop="20260616193800 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Minibods</title>
-    <desc lang="en">The Minibods learn important lessons! Pogo learns to compromise at a party &amp; Newt learns not to give up!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260616193800 +0000" stop="20260616201300 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Baby Bum</title>
-    <desc lang="en">So many fun things to discover! The kids play Jack &amp; Jill, have a tea party &amp; make a big puddle splash!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260616201300 +0000" stop="20260616203500 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Baby Bum</title>
-    <desc lang="en">It's a playtime sing-along! Mia &amp; Max play a fishing game, have a tea party &amp; pretend to be puppies!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <episode-num system="onscreen">S3E3</episode-num>
-  </programme>
-  <programme start="20260616203500 +0000" stop="20260616205300 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Go Buster</title>
-    <desc lang="en">Play in a big soccer match with Buster the Bus and learn that teamwork is more important than winning!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <episode-num system="onscreen">S3E4</episode-num>
-  </programme>
-  <programme start="20260616205300 +0000" stop="20260616212700 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Go Buster</title>
-    <desc lang="en">Buster learns to do the right thing! He learns that telling the truth is best &amp; helps save a runaway train!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <episode-num system="onscreen">S4E1</episode-num>
-  </programme>
-  <programme start="20260616212700 +0000" stop="20260616220000 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">Kick off a day of sports with a huge soccer game, then play basketball, baseball, and solve a fun mystery!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">5.8.</episode-num>
-    <episode-num system="onscreen">S6E9</episode-num>
-  </programme>
-  <programme start="20260616220000 +0000" stop="20260616222800 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Cody Time</title>
-    <desc lang="en">Train for the big game with Cody! Race on motor trikes, play on the playground, and hike through autumn leaves.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20260616222800 +0000" stop="20260616225900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">JJ's Animal Time</title>
-    <desc lang="en">It's a pirate adventure! JJ plays pirates on the high seas, builds a sandcastle &amp; hunts for hidden treasure!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-  </programme>
-  <programme start="20260616225900 +0000" stop="20260616232900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Minibods</title>
-    <desc lang="en">The Minibods have unexpected problems! Jeff meets a messy guest &amp; Lulu finds a mysterious egg that cracks!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260616232900 +0000" stop="20260616235800 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Minibods</title>
-    <desc lang="en">The Minibods learn to play together! Jeff &amp; Bubbles share blocks &amp; Fuse learns to be a team player!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260616235800 +0000" stop="20260617001400 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Baby Bum</title>
-    <desc lang="en">Join a perfect playtime party with Mia and friends! Play with a magic ball, jump in a ball pit, and dance!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">12.1.</episode-num>
-    <episode-num system="onscreen">S13E2</episode-num>
-  </programme>
-  <programme start="20260617001400 +0000" stop="20260617005800 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Baby Bum</title>
-    <desc lang="en">It's time for sweet dreams! Mia plays "Ten in a Bed," takes a bubble bath &amp; goes on a rocket ride to the moon!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-  </programme>
-  <programme start="20260617005800 +0000" stop="20260617014200 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Go Buster</title>
-    <desc lang="en">Buster learns teamwork makes the dream work! He works with his team to win a soccer game &amp; escape a maze!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
-  </programme>
-  <programme start="20260617014200 +0000" stop="20260617015900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Go Buster</title>
-    <desc lang="en">Play in a big soccer match with Buster the Bus and learn that teamwork is more important than winning!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <episode-num system="onscreen">S3E4</episode-num>
-  </programme>
-  <programme start="20260617015900 +0000" stop="20260617022900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">JJ's on a big animal adventure! He sings with the farm animals, meets a shark family &amp; roars with dinosaurs!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260617022900 +0000" stop="20260617030000 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">Score the winning goal in a family soccer game, and then celebrate with a super fast freeze dance party!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">5.6.</episode-num>
-    <episode-num system="onscreen">S6E7</episode-num>
-  </programme>
-  <programme start="20260617030000 +0000" stop="20260617032200 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Blippi Wonders</title>
-    <desc lang="en">Blippi learns fun facts about the world! He discovers how erasers work &amp; why some animals are nocturnal!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <episode-num system="onscreen">S2E4</episode-num>
-  </programme>
-  <programme start="20260617032200 +0000" stop="20260617034200 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Blippi Wonders</title>
-    <desc lang="en">Blippi explores wonders of the world! He climbs Mt. Everest, dives underwater &amp; blasts off to the moon!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617034200 +0000" stop="20260617040000 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Blippi Wonders</title>
-    <desc lang="en">Blippi makes fun nature discoveries! He learns why islands don't float &amp; how ants walk in a straight line!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20260617040000 +0000" stop="20260617043900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Angel</title>
-    <desc lang="en">Learn to play soccer with Baby John! Practice your kicks, score a big goal, and see why sharing is caring.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">4.10.</episode-num>
-    <episode-num system="onscreen">S5E11</episode-num>
-  </programme>
-  <programme start="20260617043900 +0000" stop="20260617050100 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Angel</title>
-    <desc lang="en">It's a magical day of make-believe! Baby John &amp; Manny are farmers &amp; Jill becomes a mermaid!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">7.0.</episode-num>
-    <episode-num system="onscreen">S8E1</episode-num>
-  </programme>
-  <programme start="20260617050100 +0000" stop="20260617053100 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Lellobee City Farm</title>
-    <desc lang="en">It's a creative farm adventure! Ella brings school to the barn, makes delicious jam &amp; does some stargazing!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
-  </programme>
-  <programme start="20260617053100 +0000" stop="20260617055800 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Lellobee City Farm</title>
-    <desc lang="en">Let's sing, dance &amp; play on the farm! The friends learn the ABCs, dance &amp; have a splash competition!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617055800 +0000" stop="20260617063000 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">JJ's Animal Time</title>
-    <desc lang="en">Compete for the Sports Cup with JJ and his animal friends! Race go-karts, build a box car, and never give up.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20260617063000 +0000" stop="20260617070000 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Cody Time</title>
-    <desc lang="en">Race to the finish line with Cody and friends! Compete in a soccer match and a fast-paced sprint to the end.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617070000 +0000" stop="20260617073200 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Morphle</title>
-    <desc lang="en">Mila &amp; Morphle take on the baddest baddies! They stop robot versions of themselves &amp; an evil Orphle!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617073200 +0000" stop="20260617075900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Morphle</title>
-    <desc lang="en">Mila &amp; Morphle are tiny heroes on giant adventures! They rescue a hamster from a maze &amp; save a shrunken whale!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">5.1.</episode-num>
-    <episode-num system="onscreen">S6E2</episode-num>
-  </programme>
-  <programme start="20260617075900 +0000" stop="20260617082700 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">ARPO</title>
-    <desc lang="en">Arpo &amp; Daniel cause chaos all over town! They have a wild supermarket chase &amp; a messy picnic!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617082700 +0000" stop="20260617090300 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">ARPO</title>
-    <desc lang="en">Arpo faces squirrel trouble &amp; other wacky problems, like a ghost in the house &amp; a malfunctioning music mode!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
-  </programme>
-  <programme start="20260617090300 +0000" stop="20260617092000 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Go Buster</title>
-    <desc lang="en">Play in a big soccer match with Buster the Bus and learn that teamwork is more important than winning!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <episode-num system="onscreen">S3E4</episode-num>
-  </programme>
-  <programme start="20260617092000 +0000" stop="20260617100500 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Go Buster</title>
-    <desc lang="en">Buster is learning &amp; growing! He overcomes his fear of the carwash &amp; learns the importance of dental health!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617100500 +0000" stop="20260617104200 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Gecko's Garage</title>
-    <desc lang="en">Gecko is on the ultimate rescue missions! He saves Eric from a storm &amp; stops a rocket-powered truck!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617104200 +0000" stop="20260617110700 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Gecko's Garage</title>
-    <desc lang="en">Win the football championship with Gecko! Fix broken vehicles and teach Weasel that cheaters never win.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">6.2.</episode-num>
-    <episode-num system="onscreen">S7E3</episode-num>
-  </programme>
-  <programme start="20260617110700 +0000" stop="20260617113600 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Playtime With Twinkle</title>
-    <desc lang="en">Learn with Twinkle! She counts colorful balloons, learns shapes with sandcastles &amp; plants beautiful flowers!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617113600 +0000" stop="20260617120600 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Playtime With Twinkle</title>
-    <desc lang="en">Learn gentle lessons with Twinkle! She learns about healthy fruit, animal sounds &amp; sings sleepy songs!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617120600 +0000" stop="20260617123600 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">JJ learns to be kind! He uses the magic words, learns to share his toys &amp; helps his family around the house!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617123600 +0000" stop="20260617130600 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">CoComelon</title>
-    <desc lang="en">Challenge your parents to a game of sports! Play soccer, basketball, and baseball with JJ and all his friends.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <episode-num system="onscreen">S1E21</episode-num>
-  </programme>
-  <programme start="20260617130600 +0000" stop="20260617133500 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">The Sharksons</title>
-    <desc lang="en">It's an ocean clean-up day! Super Shark recycles rubbish &amp; the family builds a ball pit from recycled items!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617133500 +0000" stop="20260617135900 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">The Sharksons</title>
-    <desc lang="en">It's an underwater sing-along! Sing about five little sharks jumping on the bed &amp; an underwater spider!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617135900 +0000" stop="20260617142800 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">KiiYii</title>
-    <desc lang="en">It's a teamwork &amp; rescue special! Kii &amp; Yii save Princess Cat from a well &amp; from her out-of-control plane!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <episode-num system="onscreen">S4E1</episode-num>
-  </programme>
-  <programme start="20260617142800 +0000" stop="20260617145700 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">KiiYii</title>
-    <desc lang="en">Let's sing classic songs with KiiYii! They sing "Bingo" on the farm &amp; "Two Little Dicky Birds"!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-  </programme>
-  <programme start="20260617145700 +0000" stop="20260617151800 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Baby Bum</title>
-    <desc lang="en">It's a big day of fun &amp; learning! Mia &amp; Max go on a train ride, learn shapes &amp; sing on the big red bus!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617151800 +0000" stop="20260617154300 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Baby Bum</title>
-    <desc lang="en">It's a big day of imagination! Mia &amp; Max build a dollhouse, see shadow puppets &amp; play with monster bottles!</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <episode-num system="onscreen">S2E4</episode-num>
-  </programme>
-  <programme start="20260617154300 +0000" stop="20260617174300 +0000" channel="moonbugkids.unifitv">
-    <title lang="en">Little Baby Bum: Lullabies</title>
-    <desc lang="en">Little Baby Bum is here to help you fall to sleep; with soothing, relaxing animated lullabies</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <episode-num system="onscreen">S2E9</episode-num>
-  </programme>
-  <channel id="kplus.unifitv">
-    <display-name>K Plus</display-name>
-  </channel>
-  <programme start="20260616155500 +0000" stop="20260616171000 +0000" channel="kplus.unifitv">
-    <title lang="en">18 Again</title>
-    <desc lang="en">A huge commotion occurs after Ja-sung confesses to Shi-ah in public.</desc>
-    <category lang="en">Fantasy</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260616171000 +0000" stop="20260616182500 +0000" channel="kplus.unifitv">
-    <title lang="en">My Id Is Gangnam Beauty</title>
-    <desc lang="en">Soo-a openly tells everyone at the lab that she likes Kyung-seok. Mi-rae makes up her mind and finally confronts Soo-a.</desc>
-    <category lang="en">Romance</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20260616182500 +0000" stop="20260616194000 +0000" channel="kplus.unifitv">
-    <title lang="en">Ms. Incognito</title>
-    <desc lang="en">Young-ran is flustered when Dong-min appears at the bus terminal to pick her up. Seon-young begins plotting ways to attack Young-ran.</desc>
-    <category lang="en">Crime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616194000 +0000" stop="20260616212500 +0000" channel="kplus.unifitv">
-    <title lang="en">Knowing Bros</title>
-    <desc lang="en">A talk show where the cast members act like students in a classroom, and guests are invited as new transfer students.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">0.495.</episode-num>
-    <episode-num system="onscreen">S1E496</episode-num>
-  </programme>
-  <programme start="20260616212500 +0000" stop="20260616224000 +0000" channel="kplus.unifitv">
-    <title lang="en">18 Again</title>
-    <desc lang="en">A huge commotion occurs after Ja-sung confesses to Shi-ah in public.</desc>
-    <category lang="en">Fantasy</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260616224000 +0000" stop="20260616235500 +0000" channel="kplus.unifitv">
-    <title lang="en">18 Again</title>
-    <desc lang="en">Shi-ah is reminded of her father when Woo-young helps her treat the wound on her finger.</desc>
-    <category lang="en">Fantasy</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260616235500 +0000" stop="20260617011000 +0000" channel="kplus.unifitv">
-    <title lang="en">Salon De Nabi</title>
-    <desc lang="en">A new intern arrives to take Moo-yeol's place. The successor is handsome, good with work and is loved by everyone. This makes Moo-yeol sad and anxious.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260617011000 +0000" stop="20260617022500 +0000" channel="kplus.unifitv">
-    <title lang="en">Goblin</title>
-    <desc lang="en">Kim Shin and the Grim Reaper rescue Eun-tak from danger, with her lonely life and ability to see ghosts drawing them closer.</desc>
-    <category lang="en">Fantasy</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617022500 +0000" stop="20260617034000 +0000" channel="kplus.unifitv">
-    <title lang="en">Goblin</title>
-    <desc lang="en">Eun-tak admits she sees the sword, Kim Shin is torn between wanting peace through death and his growing feelings for her.</desc>
-    <category lang="en">Fantasy</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617034000 +0000" stop="20260617045500 +0000" channel="kplus.unifitv">
-    <title lang="en">The Scarecrow</title>
-    <desc lang="en">The discovery of yet another body causes an uproar in the village. Tae-joo is stuck in a dilemma when evidence appears to point to one individual.</desc>
-    <category lang="en">Crime</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617045500 +0000" stop="20260617061000 +0000" channel="kplus.unifitv">
-    <title lang="en">The Scarecrow</title>
-    <desc lang="en">Si-young resorts to extreme means to get a suspect to confess to the murder. Ji-won finds an unusual object in the victim's bag, which leads her to a teahouse.</desc>
-    <category lang="en">Crime</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617061000 +0000" stop="20260617075500 +0000" channel="kplus.unifitv">
-    <title lang="en">Knowing Bros</title>
-    <desc lang="en">A talk show where the cast members act like students in a classroom, and guests are invited as new transfer students.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">0.527.</episode-num>
-    <episode-num system="onscreen">S1E528</episode-num>
-  </programme>
-  <programme start="20260617075500 +0000" stop="20260617091000 +0000" channel="kplus.unifitv">
-    <title lang="en">My Id Is Gangnam Beauty</title>
-    <desc lang="en">Soo-a openly tells everyone at the lab that she likes Kyung-seok. Mi-rae makes up her mind and finally confronts Soo-a.</desc>
-    <category lang="en">Romance</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20260617091000 +0000" stop="20260617102500 +0000" channel="kplus.unifitv">
-    <title lang="en">Ms. Incognito</title>
-    <desc lang="en">Young-ran is flustered when Dong-min appears at the bus terminal to pick her up. Seon-young begins plotting ways to attack Young-ran.</desc>
-    <category lang="en">Crime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617102500 +0000" stop="20260617121000 +0000" channel="kplus.unifitv">
-    <title lang="en">Chef &amp; My Fridge</title>
-    <desc lang="en">A cooking battle between star chefs, which utilizes ingredients from the fridges of various celebrities.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260617121000 +0000" stop="20260617132500 +0000" channel="kplus.unifitv">
-    <title lang="en">My Id Is Gangnam Beauty</title>
-    <desc lang="en">Kyung-seok and Mi-rae start dating secretly without telling anyone. Meanwhile, strange things start happening around Soo-a.</desc>
-    <category lang="en">Romance</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260617132500 +0000" stop="20260617144000 +0000" channel="kplus.unifitv">
-    <title lang="en">Ms. Incognito</title>
-    <desc lang="en">Sun-young makes use of her connections to search for Young-ran. Left alone with a class of rowdy kids, Young-ran tries to teach them what she knows best.</desc>
-    <category lang="en">Crime</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617144000 +0000" stop="20260617155500 +0000" channel="kplus.unifitv">
-    <title lang="en">Salon De Nabi</title>
-    <desc lang="en">Gi-bbeum finds a strange bag while cleaning during a promotional shoot for Nabi. It is an expensive designer bag, but something unimaginable is in the bag.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260617155500 +0000" stop="20260617171000 +0000" channel="kplus.unifitv">
-    <title lang="en">18 Again</title>
-    <desc lang="en">Shi-ah is reminded of her father when Woo-young helps her treat the wound on her finger.</desc>
-    <category lang="en">Fantasy</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260616154000 +0000" stop="20260616161000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Miralys is listed as Oscar's prospective wife, but Tinasha thinks she's fishy, so she decided to check Miralys out.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260616161000 +0000" stop="20260616164000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">Yuno is given a lucky four-leaf grimoire that can only be obtained by the chosen ones at the award ceremony.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260616164000 +0000" stop="20260616171000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">There are heroes who protect the country and are respected by people. Asta and Yuno decide to be the Magic Knights.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616171000 +0000" stop="20260616174000 +0000" channel="animax.unifitv">
-    <title lang="en">FRUITS BASKET</title>
-    <desc lang="en">It is the new school year, and it seems like Yuki has gotten a new nickname from his fellow student council members.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <episode-num system="onscreen">S2E13</episode-num>
-  </programme>
-  <programme start="20260616174000 +0000" stop="20260616181000 +0000" channel="animax.unifitv">
-    <title lang="en">FRUITS BASKET</title>
-    <desc lang="en">The parent-teacher conference is coming up, but with Tohru's grandfather unable to attend, Shigure steps in to help.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
-    <episode-num system="onscreen">S2E14</episode-num>
-  </programme>
-  <programme start="20260616181000 +0000" stop="20260616184000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Allen, Lenalee and Kanda become frustrated when they are unable to stop Victorio, who cannot die from the wounds.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260616184000 +0000" stop="20260616191000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Komui assumes that Lenalee and Russell are dating, and attacks them with Komlin III. An Akuma has targeted Lenalee with its transformation skills.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260616191000 +0000" stop="20260616194000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Miralys is listed as Oscar's prospective wife, but Tinasha thinks she's fishy, so she decided to check Miralys out.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260616194000 +0000" stop="20260616201000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Tinasha successfully lifts Oscar's curse and gives him her dragon. She leaves Oscar when Lanak suddenly appears.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260616201000 +0000" stop="20260616204000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">Yuno is given a lucky four-leaf grimoire that can only be obtained by the chosen ones at the award ceremony.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260616204000 +0000" stop="20260616211000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">There are heroes who protect the country and are respected by people. Asta and Yuno decide to be the Magic Knights.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616211000 +0000" stop="20260616214000 +0000" channel="animax.unifitv">
-    <title lang="en">FRUITS BASKET</title>
-    <desc lang="en">It is the new school year, and it seems like Yuki has gotten a new nickname from his fellow student council members.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <episode-num system="onscreen">S2E13</episode-num>
-  </programme>
-  <programme start="20260616214000 +0000" stop="20260616221000 +0000" channel="animax.unifitv">
-    <title lang="en">FRUITS BASKET</title>
-    <desc lang="en">The parent-teacher conference is coming up, but with Tohru's grandfather unable to attend, Shigure steps in to help.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
-    <episode-num system="onscreen">S2E14</episode-num>
-  </programme>
-  <programme start="20260616221000 +0000" stop="20260616224000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Kanda meets a strong swordsman, Victorio. Allen and Lenalee go to Rome to find Kanda and learns about Victorio and the Princess.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260616224000 +0000" stop="20260616231000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Allen, Lenalee and Kanda become frustrated when they are unable to stop Victorio, who cannot die from the wounds.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260616231000 +0000" stop="20260616234000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">In the world where everyone has magical power, living in Clover Kingdom, Asta and Yuno aim to become the Wizard King.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260616234000 +0000" stop="20260617001000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">Yuno is given a lucky four-leaf grimoire that can only be obtained by the chosen ones at the award ceremony.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617001000 +0000" stop="20260617004000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Tinasha tests Oscar's skills with magic in a match. The next day, she summons him to her tower to train him properly.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617004000 +0000" stop="20260617011000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Miralys is listed as Oscar's prospective wife, but Tinasha thinks she's fishy, so she decided to check Miralys out.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617011000 +0000" stop="20260617014000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Kanda meets a strong swordsman, Victorio. Allen and Lenalee go to Rome to find Kanda and learns about Victorio and the Princess.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260617014000 +0000" stop="20260617021000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Allen, Lenalee and Kanda become frustrated when they are unable to stop Victorio, who cannot die from the wounds.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260617021000 +0000" stop="20260617024000 +0000" channel="animax.unifitv">
-    <title lang="en">SUICIDE SQUAD ISEKAI</title>
-    <desc lang="en">Harley Quinn and the Suicide Squad strike a deal with Queen Aldora of the Kingdom to deactivate the bombs in their necks.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617024000 +0000" stop="20260617031000 +0000" channel="animax.unifitv">
-    <title lang="en">SUICIDE SQUAD ISEKAI</title>
-    <desc lang="en">Hoping to finally end a decades-long war, Princess Fione of the Kingdom enlists Harley and her team's help.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617031000 +0000" stop="20260617034000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">In the world where everyone has magical power, living in Clover Kingdom, Asta and Yuno aim to become the Wizard King.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617034000 +0000" stop="20260617041000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">Yuno is given a lucky four-leaf grimoire that can only be obtained by the chosen ones at the award ceremony.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617041000 +0000" stop="20260617044000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Tinasha tests Oscar's skills with magic in a match. The next day, she summons him to her tower to train him properly.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617044000 +0000" stop="20260617051000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Miralys is listed as Oscar's prospective wife, but Tinasha thinks she's fishy, so she decided to check Miralys out.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617051000 +0000" stop="20260617054000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Kanda meets a strong swordsman, Victorio. Allen and Lenalee go to Rome to find Kanda and learns about Victorio and the Princess.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260617054000 +0000" stop="20260617061000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Allen, Lenalee and Kanda become frustrated when they are unable to stop Victorio, who cannot die from the wounds.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260617061000 +0000" stop="20260617064000 +0000" channel="animax.unifitv">
-    <title lang="en">SUICIDE SQUAD ISEKAI</title>
-    <desc lang="en">Harley Quinn and the Suicide Squad strike a deal with Queen Aldora of the Kingdom to deactivate the bombs in their necks.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617064000 +0000" stop="20260617071000 +0000" channel="animax.unifitv">
-    <title lang="en">SUICIDE SQUAD ISEKAI</title>
-    <desc lang="en">Hoping to finally end a decades-long war, Princess Fione of the Kingdom enlists Harley and her team's help.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617071000 +0000" stop="20260617074000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">In the world where everyone has magical power, living in Clover Kingdom, Asta and Yuno aim to become the Wizard King.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617074000 +0000" stop="20260617081000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">Yuno is given a lucky four-leaf grimoire that can only be obtained by the chosen ones at the award ceremony.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617081000 +0000" stop="20260617084000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Kanda meets a strong swordsman, Victorio. Allen and Lenalee go to Rome to find Kanda and learns about Victorio and the Princess.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260617084000 +0000" stop="20260617091000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Allen, Lenalee and Kanda become frustrated when they are unable to stop Victorio, who cannot die from the wounds.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260617091000 +0000" stop="20260617094000 +0000" channel="animax.unifitv">
-    <title lang="en">SUICIDE SQUAD ISEKAI</title>
-    <desc lang="en">Harley Quinn and the Suicide Squad strike a deal with Queen Aldora of the Kingdom to deactivate the bombs in their necks.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617094000 +0000" stop="20260617101000 +0000" channel="animax.unifitv">
-    <title lang="en">SUICIDE SQUAD ISEKAI</title>
-    <desc lang="en">Hoping to finally end a decades-long war, Princess Fione of the Kingdom enlists Harley and her team's help.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617101000 +0000" stop="20260617104000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Allen, Lenalee and Kanda become frustrated when they are unable to stop Victorio, who cannot die from the wounds.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260617104000 +0000" stop="20260617111000 +0000" channel="animax.unifitv">
-    <title lang="en">D.GRAY-MAN</title>
-    <desc lang="en">Komui assumes that Lenalee and Russell are dating, and attacks them with Komlin III. An Akuma has targeted Lenalee with its transformation skills.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260617111000 +0000" stop="20260617114000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">Yuno is given a lucky four-leaf grimoire that can only be obtained by the chosen ones at the award ceremony.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617114000 +0000" stop="20260617121000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">There are heroes who protect the country and are respected by people. Asta and Yuno decide to be the Magic Knights.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617121000 +0000" stop="20260617124000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Miralys is listed as Oscar's prospective wife, but Tinasha thinks she's fishy, so she decided to check Miralys out.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617124000 +0000" stop="20260617131000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Tinasha successfully lifts Oscar's curse and gives him her dragon. She leaves Oscar when Lanak suddenly appears.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617131000 +0000" stop="20260617134000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">Yuno is given a lucky four-leaf grimoire that can only be obtained by the chosen ones at the award ceremony.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617134000 +0000" stop="20260617141000 +0000" channel="animax.unifitv">
-    <title lang="en">BLACK CLOVER</title>
-    <desc lang="en">There are heroes who protect the country and are respected by people. Asta and Yuno decide to be the Magic Knights.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617141000 +0000" stop="20260617144000 +0000" channel="animax.unifitv">
-    <title lang="en">FRUITS BASKET</title>
-    <desc lang="en">It is the new school year, and it seems like Yuki has gotten a new nickname from his fellow student council members.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <episode-num system="onscreen">S2E13</episode-num>
-  </programme>
-  <programme start="20260617144000 +0000" stop="20260617151000 +0000" channel="animax.unifitv">
-    <title lang="en">FRUITS BASKET</title>
-    <desc lang="en">The parent-teacher conference is coming up, but with Tohru's grandfather unable to attend, Shigure steps in to help.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">1.13.</episode-num>
-    <episode-num system="onscreen">S2E14</episode-num>
-  </programme>
-  <programme start="20260617151000 +0000" stop="20260617154000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Miralys is listed as Oscar's prospective wife, but Tinasha thinks she's fishy, so she decided to check Miralys out.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617154000 +0000" stop="20260617161000 +0000" channel="animax.unifitv">
-    <title lang="en">UNNAMED MEMORY</title>
-    <desc lang="en">Tinasha successfully lifts Oscar's curse and gives him her dragon. She leaves Oscar when Lanak suddenly appears.</desc>
-    <category lang="en">Anime</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260616152000 +0000" stop="20260616160500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
-    <desc lang="en">Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">12.117.</episode-num>
-    <episode-num system="onscreen">S13E118</episode-num>
-  </programme>
-  <programme start="20260616160500 +0000" stop="20260616165000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">Late Night With Seth Meyers</title>
-    <desc lang="en">Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">12.108.</episode-num>
-    <episode-num system="onscreen">S13E109</episode-num>
-  </programme>
-  <programme start="20260616165000 +0000" stop="20260616173500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">Below Deck Down Under</title>
-    <desc lang="en">As Alesia scrambles to bury a regrettable text, gossip spreads faster than she can contain it.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <episode-num system="onscreen">S4E6</episode-num>
-  </programme>
-  <programme start="20260616173500 +0000" stop="20260616184000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Wheel Of Time</title>
-    <desc lang="en">Moiraine and Rand flee for their lives. Egwene and Nynaeve encounter a new foe.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20260616184000 +0000" stop="20260616194500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Wheel Of Time</title>
-    <desc lang="en">Rand makes a risky alliance and Egwene comes to terms with her new position.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20260616194500 +0000" stop="20260616203500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Good Fight</title>
-    <desc lang="en">Ri'Chard and Liz team up to work on a case about racial discrimination between a Black coach and an NFL team owner; Ben-Baruch returns and stirs up friction with Carmen.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">5.2.</episode-num>
-    <episode-num system="onscreen">S6E3</episode-num>
-  </programme>
-  <programme start="20260616203500 +0000" stop="20260616213500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Good Fight</title>
-    <desc lang="en">Eli Gold's trial is underway, with Marissa Gold as part of his legal team. Liz and Ri'chard attempt to solidify their working relationships leading to a surprise discovery about Ri'chard's history and Liz's father.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">5.3.</episode-num>
-    <episode-num system="onscreen">S6E4</episode-num>
-  </programme>
-  <programme start="20260616213500 +0000" stop="20260616220500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">Cobra Kai</title>
-    <desc lang="en">To prepare his students, Daniel gives some new training methods a shot. Miguel puts a new lesson into practice. Johnny makes a tough but pivotal decision that affects Cobra Kai.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <episode-num system="onscreen">S2E7</episode-num>
-  </programme>
-  <programme start="20260616220500 +0000" stop="20260616225000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">Late Night With Seth Meyers</title>
-    <desc lang="en">Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">12.108.</episode-num>
-    <episode-num system="onscreen">S13E109</episode-num>
-  </programme>
-  <programme start="20260616225000 +0000" stop="20260616233500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
-    <desc lang="en">Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">12.117.</episode-num>
-    <episode-num system="onscreen">S13E118</episode-num>
-  </programme>
-  <programme start="20260616233500 +0000" stop="20260617004000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Wheel Of Time</title>
-    <desc lang="en">Moiraine and Rand flee for their lives. Egwene and Nynaeve encounter a new foe.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20260617004000 +0000" stop="20260617014500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Wheel Of Time</title>
-    <desc lang="en">Rand makes a risky alliance and Egwene comes to terms with her new position.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20260617014500 +0000" stop="20260617025000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Wheel Of Time</title>
-    <desc lang="en">Moiraine and Rand flee for their lives. Egwene and Nynaeve encounter a new foe.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20260617025000 +0000" stop="20260617035500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Wheel Of Time</title>
-    <desc lang="en">Rand makes a risky alliance and Egwene comes to terms with her new position.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20260617035500 +0000" stop="20260617044000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">Below Deck Down Under</title>
-    <desc lang="en">As Alesia scrambles to bury a regrettable text, gossip spreads faster than she can contain it.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <episode-num system="onscreen">S4E6</episode-num>
-  </programme>
-  <programme start="20260617044000 +0000" stop="20260617052500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
-    <desc lang="en">Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">12.117.</episode-num>
-    <episode-num system="onscreen">S13E118</episode-num>
-  </programme>
-  <programme start="20260617052500 +0000" stop="20260617060500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">Late Night With Seth Meyers</title>
-    <desc lang="en">Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">12.108.</episode-num>
-    <episode-num system="onscreen">S13E109</episode-num>
-  </programme>
-  <programme start="20260617060500 +0000" stop="20260617065500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Good Fight</title>
-    <desc lang="en">Liz gets a strange phone call. Marissa is informed by the FBI that she may be in danger. Ri'Chard asks for Diane's help in a case involving Elsbeth Tascioni.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">5.4.</episode-num>
-    <episode-num system="onscreen">S6E5</episode-num>
-  </programme>
-  <programme start="20260617065500 +0000" stop="20260617073500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Good Fight</title>
-    <desc lang="en">The team gathers on Saturday to save Ri'Chard's nephew, who's waiting for a bone marrow transplant, life.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">5.5.</episode-num>
-    <episode-num system="onscreen">S6E6</episode-num>
-  </programme>
-  <programme start="20260617073500 +0000" stop="20260617082500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Good Fight</title>
-    <desc lang="en">Details that can risk the firm are revealed as part of a lawsuit. Jay finds that one of the firm employees is a white supremacist.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">5.6.</episode-num>
-    <episode-num system="onscreen">S6E7</episode-num>
-  </programme>
-  <programme start="20260617082500 +0000" stop="20260617091500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Good Fight</title>
-    <desc lang="en">While STR Laurie is investigated by the FBI, Liz and Ri'Chard attempt to take their clients. Meanwhile, Diane is forced to expose her PT-108 treatment.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-    <episode-num system="onscreen">S6E8</episode-num>
-  </programme>
-  <programme start="20260617091500 +0000" stop="20260617104500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">Twin Dragons</title>
-    <desc lang="en">Identical twins - a musician living in New York, and a mechanic living in Hong Kong - are separated in childhood but are unexpectedly reunited years later when the musician travels to Hong Kong for a concert.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260617104500 +0000" stop="20260617114000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">DOC - In Your Hands</title>
-    <desc lang="en">Carolina, suffering from a mysterious illness, is admitted to the hospital, triggering a series of conflicts between her parents that they will have to overcome for her. Meanwhile a flashy influencer attracts the young trainees' attention.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260617114000 +0000" stop="20260617124000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">DOC - In Your Hands</title>
-    <desc lang="en">In an attempt to return to his role as a father and to help Carolina recover from her illness, Andrea starts to pursue Agnese again. Elisa and Riccardo have to deal with an aspiring astronaut and Gabriel with a bad headache.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260617124000 +0000" stop="20260617133500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">DOC - In Your Hands</title>
-    <desc lang="en">Carolina, suffering from a mysterious illness, is admitted to the hospital, triggering a series of conflicts between her parents that they will have to overcome for her. Meanwhile a flashy influencer attracts the young trainees' attention.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260617133500 +0000" stop="20260617143500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">DOC - In Your Hands</title>
-    <desc lang="en">In an attempt to return to his role as a father and to help Carolina recover from her illness, Andrea starts to pursue Agnese again. Elisa and Riccardo have to deal with an aspiring astronaut and Gabriel with a bad headache.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260617143500 +0000" stop="20260617152000 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">Buried In The Backyard</title>
-    <desc lang="en">A body is found ravaged by animals in the wily swamps of north Florida.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">5.13.</episode-num>
-    <episode-num system="onscreen">S6E14</episode-num>
-  </programme>
-  <programme start="20260617152000 +0000" stop="20260617160500 +0000" channel="rockentertainment.unifitv">
-    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
-    <desc lang="en">Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">12.118.</episode-num>
-    <episode-num system="onscreen">S13E119</episode-num>
-  </programme>
-  <programme start="20260616153000 +0000" stop="20260616173500 +0000" channel="rockaction.unifitv">
-    <title lang="en">Cape Fear</title>
-    <desc lang="en">In Cape Fear, Robert De Niro plays a vengeful ex-con stalking his former lawyer, played by Nick Nolte. Directed by Martin Scorsese, this suspense-filled thriller is a chilling classic remake.</desc>
-    <category lang="en">Crime</category>
-  </programme>
-  <programme start="20260616173500 +0000" stop="20260616192500 +0000" channel="rockaction.unifitv">
-    <title lang="en">47 Ronin</title>
-    <desc lang="en">Keanu Reeves stars in 47 Ronin, an epic fantasy where an outcast joins samurai on a quest for vengeance and honor against a ruthless overlord in ancient Japan.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260616192500 +0000" stop="20260616205000 +0000" channel="rockaction.unifitv">
-    <title lang="en">The Man With The Iron Fists</title>
-    <desc lang="en">RZA co-writes, directs, and stars in this genre-blending, hip-hop-infused kung fu film set in Hong Kong, featuring Russell Crowe, Lucy Liu, and produced by Quentin Tarantino.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260616205000 +0000" stop="20260616224500 +0000" channel="rockaction.unifitv">
-    <title lang="en">The Hunger Games: Mockingjay Part 1</title>
-    <desc lang="en">The worldwide phenomenon continues. Katniss (Jennifer Lawrence) has survived and destroyed the Hunger Games, and now rises with District 13 to fight against President Snow (Donald Sutherland).</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260616224500 +0000" stop="20260617001500 +0000" channel="rockaction.unifitv">
-    <title lang="en">Rambo: First Blood</title>
-    <desc lang="en">Academy Award®-Nominee Sylvester Stallone stars in this explosive action-thriller that will keep you on the edge of your seat until the final, powerful frame!</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260617001500 +0000" stop="20260617015000 +0000" channel="rockaction.unifitv">
-    <title lang="en">The Legend 2</title>
-    <desc lang="en">Fong Sai Yuk joins the Red Flower revolution to topple the Manchus and restore the Ming. Amidst high-flying martial arts and rigid society demands, the legendary hero must also manage the chaos of his personal life, saddled with two presumptive wives!</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260617015000 +0000" stop="20260617032500 +0000" channel="rockaction.unifitv">
-    <title lang="en">Hard Target</title>
-    <desc lang="en">Jean-Claude Van Damme stars in this John Woo action thriller where a man battles a deadly group that hunts humans for sport. Also features Lance Henriksen and Wilford Brimley.</desc>
-    <category lang="en">Adventure</category>
-  </programme>
-  <programme start="20260617032500 +0000" stop="20260617050000 +0000" channel="rockaction.unifitv">
-    <title lang="en">The Bodyguard From Beijing</title>
-    <desc lang="en">Corrupt tycoon kills witness to a crime. Only the girlfriend of a businessman with Chinese govt. ties saw it. Beijing bodyguard helps Hong Kong police protect her. But he and the witness develop feelings, complicating matters.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260617050000 +0000" stop="20260617063000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Ring Of Fire Part 1</title>
-    <desc lang="en">An oil rig triggers a volcanic eruption, kick starting a cataclysmic series along the Ring of Fire. If the eruptions aren't stopped, Earth faces an extinction-level event.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260617063000 +0000" stop="20260617080000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Ring Of Fire Part 2</title>
-    <desc lang="en">An oil rig triggers a volcanic eruption, kick starting a cataclysmic series along the Ring of Fire. If the eruptions aren't stopped, Earth faces an extinction-level event.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260617080000 +0000" stop="20260617100500 +0000" channel="rockaction.unifitv">
-    <title lang="en">Twelve Monkeys</title>
-    <desc lang="en">In *12 Monkeys*, Bruce Willis plays a time-traveling convict trying to prevent a deadly virus, while Brad Pitt shines as a manic asylum inmate. Directed by Terry Gilliam, it's a mind-bending sci-fi thriller.</desc>
-    <category lang="en">Mystery</category>
-  </programme>
-  <programme start="20260617100500 +0000" stop="20260617115500 +0000" channel="rockaction.unifitv">
-    <title lang="en">Total Recall</title>
-    <desc lang="en">In 2084, construction worker Douglas Quaid visits Rekall for a virtual Mars vacation—but the procedure unlocks hidden memories, thrusting him into a deadly rebellion and a secret-agent past.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260617115500 +0000" stop="20260617135500 +0000" channel="rockaction.unifitv">
-    <title lang="en">Oblivion</title>
-    <desc lang="en">In *Oblivion*, Tom Cruise stars as a man on a journey of redemption in a future Earth. Directed by the creator of *TRON: Legacy*, it's a visually stunning sci-fi adventure about confronting the past to save humanity.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260617135500 +0000" stop="20260617160500 +0000" channel="rockaction.unifitv">
-    <title lang="en">Waterworld</title>
-    <desc lang="en">In *Waterworld*, Kevin Costner stars as a lone maverick in a flooded future Earth, protecting a mother and daughter from a tribe of ruthless nomads. Dennis Hopper delivers a memorable villainous performance in this thrilling adventure.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260616154500 +0000" stop="20260616163500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Hippo Watch with Steve Backshall</title>
-    <desc lang="en">Having been fearful of hippos since a young boy, Steve Backshall sets out to discover why hippos are considered the most dangerous animals in Africa, and if their aggressive reputation is misunderstood.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260616163500 +0000" stop="20260616172500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Sue Perkins' Big Adventure: Paris to Istanbul</title>
-    <desc lang="en">It's journey's end as Sue reaches Istanbul. She has her fortune told, falls in love with Turkish delight and explores the world's largest underground caves.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260616172500 +0000" stop="20260616182000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Ancient Powers</title>
-    <desc lang="en">Our ancient powers have endured for centuries but destruction is close at hand. What will cause their downfall? And who will create a lasting legacy?</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260616182000 +0000" stop="20260616191000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Extreme Fishing with Robson Green</title>
-    <desc lang="en">The journey begins in southern Africa, where Robson seeks the legendary vundu catfish at Lake Kariba.</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260616191000 +0000" stop="20260616200500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">The Last Overland</title>
-    <desc lang="en">Alex and Nat meet a new guide, Sithu. Heading north, the team are trying to follow Tim's old road to India's notorious "Wild West", but Sithu warns of an escalating civil war on the road ahead.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260616200500 +0000" stop="20260616211000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">The Green Planet</title>
-    <desc lang="en">Journey with Sir David Attenborough into the magical hidden world of plants.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260616211000 +0000" stop="20260616220500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Hippo Watch with Steve Backshall</title>
-    <desc lang="en">Having been fearful of hippos since a young boy, Steve Backshall sets out to discover why hippos are considered the most dangerous animals in Africa, and if their aggressive reputation is misunderstood.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260616220500 +0000" stop="20260616225500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Sue Perkins' Big Adventure: Paris to Istanbul</title>
-    <desc lang="en">It's journey's end as Sue reaches Istanbul. She has her fortune told, falls in love with Turkish delight and explores the world's largest underground caves.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260616225500 +0000" stop="20260616235500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">The Last Overland</title>
-    <desc lang="en">Alex and Nat meet a new guide, Sithu. Heading north, the team are trying to follow Tim's old road to India's notorious "Wild West", but Sithu warns of an escalating civil war on the road ahead.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260616235500 +0000" stop="20260617005000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Extreme Fishing with Robson Green</title>
-    <desc lang="en">The journey begins in southern Africa, where Robson seeks the legendary vundu catfish at Lake Kariba.</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260617005000 +0000" stop="20260617014500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Hippo Watch with Steve Backshall</title>
-    <desc lang="en">Having been fearful of hippos since a young boy, Steve Backshall sets out to discover why hippos are considered the most dangerous animals in Africa, and if their aggressive reputation is misunderstood.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617014500 +0000" stop="20260617023500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Sue Perkins' Big Adventure: Paris to Istanbul</title>
-    <desc lang="en">It's journey's end as Sue reaches Istanbul. She has her fortune told, falls in love with Turkish delight and explores the world's largest underground caves.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617023500 +0000" stop="20260617033000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">The Last Overland</title>
-    <desc lang="en">Alex and Nat meet a new guide, Sithu. Heading north, the team are trying to follow Tim's old road to India's notorious "Wild West", but Sithu warns of an escalating civil war on the road ahead.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617033000 +0000" stop="20260617043000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Ancient Powers</title>
-    <desc lang="en">Our ancient powers have endured for centuries but destruction is close at hand. What will cause their downfall? And who will create a lasting legacy?</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617043000 +0000" stop="20260617053500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Mammals</title>
-    <desc lang="en">From freshwater jungle ponds to the dark depths of the open ocean, air breathing mammals have found remarkable ways to overcome the many challenges of a life in water.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617053500 +0000" stop="20260617063000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Hippo Watch with Steve Backshall</title>
-    <desc lang="en">Having been fearful of hippos since a young boy, Steve Backshall sets out to discover why hippos are considered the most dangerous animals in Africa, and if their aggressive reputation is misunderstood.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617063000 +0000" stop="20260617072500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">The Last Overland</title>
-    <desc lang="en">Alex and Nat meet a new guide, Sithu. Heading north, the team are trying to follow Tim's old road to India's notorious "Wild West", but Sithu warns of an escalating civil war on the road ahead.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617072500 +0000" stop="20260617082000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Sue Perkins' Big Adventure: Paris to Istanbul</title>
-    <desc lang="en">It's journey's end as Sue reaches Istanbul. She has her fortune told, falls in love with Turkish delight and explores the world's largest underground caves.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617082000 +0000" stop="20260617091500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Extreme Fishing with Robson Green</title>
-    <desc lang="en">The journey begins in southern Africa, where Robson seeks the legendary vundu catfish at Lake Kariba.</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260617091500 +0000" stop="20260617101000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Hippo Watch with Steve Backshall</title>
-    <desc lang="en">Having been fearful of hippos since a young boy, Steve Backshall sets out to discover why hippos are considered the most dangerous animals in Africa, and if their aggressive reputation is misunderstood.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617101000 +0000" stop="20260617111000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Ancient Powers</title>
-    <desc lang="en">Our ancient powers have endured for centuries but destruction is close at hand. What will cause their downfall? And who will create a lasting legacy?</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617111000 +0000" stop="20260617120000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Extreme Fishing with Robson Green</title>
-    <desc lang="en">Robson heads to the east coast of Kenya, where the Indian Ocean offers some of the best game fishing in the world.</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-  </programme>
-  <programme start="20260617120000 +0000" stop="20260617130500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Big Cats 24/7</title>
-    <desc lang="en">The lion pride males are injured and the mothers with cubs are left vulnerable after an attack; Xudum, the female leopard, takes risks to find a mate.</desc>
-    <category lang="en">Natural History</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617130500 +0000" stop="20260617140000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Michael Palin - Into Iraq</title>
-    <desc lang="en">As he starts the final part of his journey deep into Iraq, Michael finds a local school in Baghdad and as he did in North Korea talks to the children about life in Iraq and what they hope to do in the future, and how they see the rest of the world. Michael then visits the ancient site of Babylon, a place he used to read about when he was studying the bible at school. He also gets access to enter the massive palace built by Saddam Hussein that overlooks the historic site.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617140000 +0000" stop="20260617145500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Ben Fogle's Race for the Nile</title>
-    <desc lang="en">Ben Fogle and Dwayne Fields head into the heart of Africa, to retrace Livingstone's path and the race for the source of the Nile, facing lions and heat, and exploring the legacy of early expeditions.</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617145500 +0000" stop="20260617154500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Extreme Fishing with Robson Green</title>
-    <desc lang="en">Robson heads to the east coast of Kenya, where the Indian Ocean offers some of the best game fishing in the world.</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-  </programme>
-  <programme start="20260617154500 +0000" stop="20260617165000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Big Cats 24/7</title>
-    <desc lang="en">The lion pride males are injured and the mothers with cubs are left vulnerable after an attack; Xudum, the female leopard, takes risks to find a mate.</desc>
-    <category lang="en">Natural History</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260616154000 +0000" stop="20260616163500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Africa's Hunters</title>
-    <desc lang="en">The Nsefu lion pride welcomes seven new cubs during the wet season, when antelope and buffalo are spread far from the river, making them harder to hunt. Learn how the mother lionesses work to keep the boisterous cubs alive.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <episode-num system="onscreen">S2E2</episode-num>
-  </programme>
-  <programme start="20260616163500 +0000" stop="20260616172500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Brazil Untamed</title>
-    <desc lang="en">Explore the southern edge of the Pantanal, where brown capuchin monkeys live in their own Garden of Eden. Dry season in the highlands treats them well until a drought dries up their food sources. Can an industrious agouti save them from starvation?</desc>
-    <category lang="en">Landscapes</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260616172500 +0000" stop="20260616182000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Pride Rules</title>
-    <desc lang="en">Contend with the challenges of the rainy season, which turns everything green and spoils the lions' camouflage. Watch Einstein fail to make new connections and weigh the pros and cons when Keeza and her cub are kidnapped by rival male Mad-Eye Moody.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616182000 +0000" stop="20260616191500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Pride Rules</title>
-    <desc lang="en">Say hello to a season of plenty as flood waters recede and vast herds of prey return to the Chobe's banks. Watch Keeza and her cub make a break for it while Caller and Tom Tom brawl with their enemies, then cheer when Einstein finally finds a mate.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260616191500 +0000" stop="20260616201000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Secrets of the Enchanted Waters</title>
-    <desc lang="en">Trace dazzling waterways all over the world, from volcanic rivers in Russia's far east to geothermal streams in Florida. Watch as beavers transform entire landscapes with their well-engineered dams, then enjoy a winter spa day with manatees.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616201000 +0000" stop="20260616210500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Arabian Seas</title>
-    <desc lang="en">Off the coast of Oman, summer weather drives nutrients in from the ocean depths where they meet the Arabian sun, causing an explosion of life. Smaller fish spawn, filling the waters with eggs. This creates a buffet predators just can't resist.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616210500 +0000" stop="20260616220000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Arabian Seas</title>
-    <desc lang="en">It's summer in the Gulf of Oman. The scorching Arabian sun heats the shallow waters to 86 degrees boosting the growth of algae across a vast coral reef. This attracts thousands of hungry herbivores creating a fish versus fish turf war.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260616220000 +0000" stop="20260616222500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Volcanic Odysseys</title>
-    <desc lang="en">Italy's Mount Etna is one of the best places for volcano watchers and volcanologist Tom Pfeffier is hoping to get lucky and see a paroxysmal eruption, a short and very intense eruption that produces spectacular lava fountains.</desc>
-    <category lang="en">Landscapes</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616222500 +0000" stop="20260616232000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Arabian Seas</title>
-    <desc lang="en">Off the coast of Oman, summer weather drives nutrients in from the ocean depths where they meet the Arabian sun, causing an explosion of life. Smaller fish spawn, filling the waters with eggs. This creates a buffet predators just can't resist.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616232000 +0000" stop="20260617001500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Arabian Seas</title>
-    <desc lang="en">It's summer in the Gulf of Oman. The scorching Arabian sun heats the shallow waters to 86 degrees boosting the growth of algae across a vast coral reef. This attracts thousands of hungry herbivores creating a fish versus fish turf war.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617001500 +0000" stop="20260617011000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Wild Pacific Rescue</title>
-    <desc lang="en">Join the vet and his team in saving a massive sea lion caught in a plastic noose, and then visit the Rescue Center, where a harbor seal pup may lose its eyesight and a baby sea otter needs a risky but life-saving surgery.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617011000 +0000" stop="20260617020500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">A Wild Year On Earth</title>
-    <desc lang="en">Travel around the world to see another seasonal change unfold. The Northern Hemisphere moves into autumn, while Australia witnesses a rebirth of life, and mating humpbacks fill the warming tropical seas of Tonga.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617020500 +0000" stop="20260617030000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">A Wild Year On Earth</title>
-    <desc lang="en">Witness some of the most incredible natural events in November, from the millions of Monarch butterflies that converge in Mexico's forests to the deep fog that shrouds the city of Dubai, signalling the start of winter.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617030000 +0000" stop="20260617035000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Africa's Hunters</title>
-    <desc lang="en">Twin brothers with a powerful bond have ruled the Nsefu pride for three years. They're fathers to all the young, and protectors of their territory. Witness the struggle that unfolds when rival males target their territory.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20260617035000 +0000" stop="20260617044000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Brazil Untamed</title>
-    <desc lang="en">Every year, the southern wetlands of the Pantanal become a bird paradise as over 650 species of rare and iconic birds congregate here for the breeding season.</desc>
-    <category lang="en">Landscapes</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617044000 +0000" stop="20260617053500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Arabian Seas</title>
-    <desc lang="en">Off the coast of Oman, summer weather drives nutrients in from the ocean depths where they meet the Arabian sun, causing an explosion of life. Smaller fish spawn, filling the waters with eggs. This creates a buffet predators just can't resist.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617053500 +0000" stop="20260617063000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Arabian Seas</title>
-    <desc lang="en">It's summer in the Gulf of Oman. The scorching Arabian sun heats the shallow waters to 86 degrees boosting the growth of algae across a vast coral reef. This attracts thousands of hungry herbivores creating a fish versus fish turf war.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617063000 +0000" stop="20260617072500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Secrets of the Enchanted Waters</title>
-    <desc lang="en">Journey through mystical lakes, where life adapts, survives, and transforms. Witness the power of ancient beasts like the snapping turtle, watch a dragonfly metamorphosis, and walk tall with flamingoes as they brave burning, corrosive waters.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617072500 +0000" stop="20260617082000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">A Wild Year On Earth</title>
-    <desc lang="en">Travel around the world to see another seasonal change unfold. The Northern Hemisphere moves into autumn, while Australia witnesses a rebirth of life, and mating humpbacks fill the warming tropical seas of Tonga.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617082000 +0000" stop="20260617091500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">A Wild Year On Earth</title>
-    <desc lang="en">Witness some of the most incredible natural events in November, from the millions of Monarch butterflies that converge in Mexico's forests to the deep fog that shrouds the city of Dubai, signalling the start of winter.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617091500 +0000" stop="20260617101000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Africa's Hunters</title>
-    <desc lang="en">Twin brothers with a powerful bond have ruled the Nsefu pride for three years. They're fathers to all the young, and protectors of their territory. Witness the struggle that unfolds when rival males target their territory.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20260617101000 +0000" stop="20260617110500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Brazil Untamed</title>
-    <desc lang="en">Every year, the southern wetlands of the Pantanal become a bird paradise as over 650 species of rare and iconic birds congregate here for the breeding season.</desc>
-    <category lang="en">Landscapes</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617110500 +0000" stop="20260617120000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Arabian Seas</title>
-    <desc lang="en">Off the coast of Oman, summer weather drives nutrients in from the ocean depths where they meet the Arabian sun, causing an explosion of life. Smaller fish spawn, filling the waters with eggs. This creates a buffet predators just can't resist.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617120000 +0000" stop="20260617125500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Arabian Seas</title>
-    <desc lang="en">It's summer in the Gulf of Oman. The scorching Arabian sun heats the shallow waters to 86 degrees boosting the growth of algae across a vast coral reef. This attracts thousands of hungry herbivores creating a fish versus fish turf war.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617125500 +0000" stop="20260617135000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Wild Pacific Rescue</title>
-    <desc lang="en">Join the vet and his team in saving a massive sea lion caught in a plastic noose, and then visit the Rescue Center, where a harbor seal pup may lose its eyesight and a baby sea otter needs a risky but life-saving surgery.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617135000 +0000" stop="20260617144500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">A Wild Year On Earth</title>
-    <desc lang="en">Travel around the world to see another seasonal change unfold. The Northern Hemisphere moves into autumn, while Australia witnesses a rebirth of life, and mating humpbacks fill the warming tropical seas of Tonga.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617144500 +0000" stop="20260617154000 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">A Wild Year On Earth</title>
-    <desc lang="en">Witness some of the most incredible natural events in November, from the millions of Monarch butterflies that converge in Mexico's forests to the deep fog that shrouds the city of Dubai, signalling the start of winter.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617154000 +0000" stop="20260617163500 +0000" channel="lovenaturehd.unifitv">
-    <title lang="en">Africa's Hunters</title>
-    <desc lang="en">Twin brothers with a powerful bond have ruled the Nsefu pride for three years. They're fathers to all the young, and protectors of their territory. Witness the struggle that unfolds when rival males target their territory.</desc>
-    <category lang="en">Wildlife</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20260616154500 +0000" stop="20260616161000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters</title>
-    <desc lang="en">An engaged couple with a toddler are ready to ditch their small condo and find a larger home in Connecticut.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616161000 +0000" stop="20260616163500 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">Nick won $100,000 from a scratch off and now he and his wife Robyn want to buy their forever home in Bangor, Pennsylvania.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616163500 +0000" stop="20260616170000 +0000" channel="hgtv.unifitv">
-    <title lang="en">Flipping 101 With Tarek El Moussa</title>
-    <desc lang="en">A mother-son duo take on their first flip in Woodland Hills, CA, and a devastating fire rips through the house halfway through the project.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616170000 +0000" stop="20260616172500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Super Dad</title>
-    <desc lang="en">Taylor helps a former professional dancer create an outdoor theatre space where he can share his love of dance with his son and the neighbourhood.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616172500 +0000" stop="20260616181500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Help! I Wrecked My House</title>
-    <desc lang="en">Jasmine has just eight weeks to help a couple who tried - and failed - their own renovation after a flood damaged a large portion of their home.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616181500 +0000" stop="20260616190500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Chasing The West</title>
-    <desc lang="en">California State Rangers turn to the brothers for a property that reminds them of park life, and a couple are ready to flee their small rental.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616190500 +0000" stop="20260616193000 +0000" channel="hgtv.unifitv">
-    <title lang="en">Kendra Sells Hollywood</title>
-    <desc lang="en">Kendra lines up a potential buyer for the Westlake property, but things go off the rails when an uninvited guest arrives and crashes the party.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616193000 +0000" stop="20260616195500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Kendra Sells Hollywood</title>
-    <desc lang="en">Ernie shows Kendra that it's possible to work with people even if she doesn't always see eye to eye, and she gets an offer on the Westlake property.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616195500 +0000" stop="20260616202000 +0000" channel="hgtv.unifitv">
-    <title lang="en">Kendra Sells Hollywood</title>
-    <desc lang="en">After getting some potentially bad news on the Westlake deal, Kendra questions if she's got what it takes to make it in the real estate business.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616202000 +0000" stop="20260616204500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Kendra Sells Hollywood</title>
-    <desc lang="en">Kendra secures a major listing, but the eccentric and demanding client might be asking more than Kendra is willing to give.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616204500 +0000" stop="20260616213500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Bargain Block</title>
-    <desc lang="en">Keith and Evan take on a stunning house in a traditional Detroit neighbourhood. But they hit a major setback when it's threatened by demolition order.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616213500 +0000" stop="20260616220500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Flip Or Flop</title>
-    <desc lang="en">This hillside home gets an upscale modern makeover.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616220500 +0000" stop="20260616225500 +0000" channel="hgtv.unifitv">
-    <title lang="en">100 Day Dream Home</title>
-    <desc lang="en">When two teachers decided to downsize, they didn't anticipate living in a camper on a riverside lot for over a year after their builder backed out.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616225500 +0000" stop="20260616232000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters</title>
-    <desc lang="en">An engaged couple with a toddler are ready to ditch their small condo and find a larger home in Connecticut.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616232000 +0000" stop="20260616234500 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">Nick won $100,000 from a scratch off and now he and his wife Robyn want to buy their forever home in Bangor, Pennsylvania.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616234500 +0000" stop="20260617001000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters Australia</title>
-    <desc lang="en">Jenny and Stella, cancer survivors and best friends, are searching for Jenny's new home in Bowral. Can they find a quirky, accessible home to start a new chapter together.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617001000 +0000" stop="20260617003500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Flip Or Flop</title>
-    <desc lang="en">This hillside home gets an upscale modern makeover.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617003500 +0000" stop="20260617010000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters International</title>
-    <desc lang="en">A man convinces his family to follow his job opportunity to Adelaide, Australia, and his wife's one request is to live a beach life.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617010000 +0000" stop="20260617012500 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters International</title>
-    <desc lang="en">A man who grew up visiting a quaint fishing village in Mexico wants to share it with his family.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617012500 +0000" stop="20260617015000 +0000" channel="hgtv.unifitv">
-    <title lang="en">Tropic Like It's Hot</title>
-    <desc lang="en">A DC-based bachelor enlists his wingman/cousin to help find the ultimate waterfront home on the Caribbean island of Bonaire.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617015000 +0000" stop="20260617021500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Tropic Like It's Hot</title>
-    <desc lang="en">On the brink of divorce, an Alabama couple makes one final gamble on a move to Roatán, Honduras, hoping to rekindle their romance.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617021500 +0000" stop="20260617030500 +0000" channel="hgtv.unifitv">
-    <title lang="en">100 Day Dream Home</title>
-    <desc lang="en">Impressed by the work the Kleinschmidts did on a sibling's home, an expecting couple knows who to call for their own 100-day build.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617030500 +0000" stop="20260617033000 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">A couple's lakeside retirement dream is now a reality after they scratched up $1 million on a Massachusetts scratch-off ticket.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617033000 +0000" stop="20260617035500 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">A Minnesota couple brings David Bromstad back to his hometown to help them find their dream home after winning $1 million on a Powerball ticket.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617035500 +0000" stop="20260617044500 +0000" channel="hgtv.unifitv">
-    <title lang="en">100 Day Dream Home</title>
-    <desc lang="en">When a professional chef's dream kitchen is far from a reality, Brian and Mika are left trying to cook up a plan to keep things from boiling over.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617044500 +0000" stop="20260617053500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Building Roots</title>
-    <desc lang="en">Ben and Cristi use Southwestern style to make a couple's home feel like a part of the mountains.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617053500 +0000" stop="20260617060000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters Australia</title>
-    <desc lang="en">Jenny and Stella, cancer survivors and best friends, are searching for Jenny's new home in Bowral. Can they find a quirky, accessible home to start a new chapter together.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617060000 +0000" stop="20260617062500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Flip Or Flop</title>
-    <desc lang="en">This hillside home gets an upscale modern makeover.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617062500 +0000" stop="20260617065000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters International</title>
-    <desc lang="en">A couple wants to use their last chance at relocating on a move to Dungloe, Ireland.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617065000 +0000" stop="20260617071500 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters International</title>
-    <desc lang="en">An LA speech therapist looks for a Western-style apartment that fits her budget in Cambodia.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617071500 +0000" stop="20260617074000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters</title>
-    <desc lang="en">An engaged couple with a toddler are ready to ditch their small condo and find a larger home in Connecticut.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617074000 +0000" stop="20260617080500 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">Nick won $100,000 from a scratch off and now he and his wife Robyn want to buy their forever home in Bangor, Pennsylvania.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617080500 +0000" stop="20260617083000 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">A couple's lakeside retirement dream is now a reality after they scratched up $1 million on a Massachusetts scratch-off ticket.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617083000 +0000" stop="20260617085500 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">A Minnesota couple brings David Bromstad back to his hometown to help them find their dream home after winning $1 million on a Powerball ticket.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617085500 +0000" stop="20260617094500 +0000" channel="hgtv.unifitv">
-    <title lang="en">100 Day Dream Home</title>
-    <desc lang="en">When a professional chef's dream kitchen is far from a reality, Brian and Mika are left trying to cook up a plan to keep things from boiling over.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617094500 +0000" stop="20260617101000 +0000" channel="hgtv.unifitv">
-    <title lang="en">Tropic Like It's Hot</title>
-    <desc lang="en">A DC-based bachelor enlists his wingman/cousin to help find the ultimate waterfront home on the Caribbean island of Bonaire.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617101000 +0000" stop="20260617103500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Tropic Like It's Hot</title>
-    <desc lang="en">On the brink of divorce, an Alabama couple makes one final gamble on a move to Roatán, Honduras, hoping to rekindle their romance.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617103500 +0000" stop="20260617113500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Building Roots</title>
-    <desc lang="en">Ben and Cristi work to help a father and three children heal by revitalising their cabin's home's joyous spirit.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617113500 +0000" stop="20260617120000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters</title>
-    <desc lang="en">After a stint in Arizona, a family looks to return home and find an oceanfront property in Seattle.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617120000 +0000" stop="20260617122500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Flip Or Flop</title>
-    <desc lang="en">This hillside mansion goes from unstable to unmissable.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617122500 +0000" stop="20260617125000 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">A couple hopes to move from their tiny rental apartment into the home of their dreams near Washington DC after winning a million dollars on a Virginia scratcher.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617125000 +0000" stop="20260617131500 +0000" channel="hgtv.unifitv">
-    <title lang="en">My Lottery Dream Home</title>
-    <desc lang="en">A pair of siblings vowed to their late father they would always look out for one another, so when one won the lottery, he didn't hesitate to split it.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617131500 +0000" stop="20260617134000 +0000" channel="hgtv.unifitv">
-    <title lang="en">Tropic Like It's Hot</title>
-    <desc lang="en">A couple who have been together since their teens are ready to heat things up with a bold move to Roatán, Honduras.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617134000 +0000" stop="20260617140500 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters Pop'd</title>
-    <desc lang="en">With bubbly quips, a man is determines to find a historic Colonial in Connecticut, but his wife thinks old equals haunted.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617140500 +0000" stop="20260617145500 +0000" channel="hgtv.unifitv">
-    <title lang="en">100 Day Dream Home</title>
-    <desc lang="en">After a couple loses everything in a hurricane, Brian and Mika take an innovative approach to building on the water and face unexpected challenges.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617145500 +0000" stop="20260617152000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters</title>
-    <desc lang="en">After a stint in Arizona, a family looks to return home and find an oceanfront property in Seattle.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617152000 +0000" stop="20260617154500 +0000" channel="hgtv.unifitv">
-    <title lang="en">Flip Or Flop</title>
-    <desc lang="en">This hillside mansion goes from unstable to unmissable.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260617154500 +0000" stop="20260617161000 +0000" channel="hgtv.unifitv">
-    <title lang="en">House Hunters International</title>
-    <desc lang="en">A longtime dream of owning a generational family compound has a couple uprooting from Texas to Mexico's Yucatan Peninsula.</desc>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20260616152500 +0000" stop="20260616162000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Jamie's Money Saving Meals</title>
-    <desc lang="en">In this episode, Jamie makes stuffed Dumplings, Blondie cake, Pork Belly Tacos and Pineapple Tarte Tatin with a take out cheat - fish and chips. Guest cook is Gennaro Contaldo who makes a Beef Mince Ragu</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616162000 +0000" stop="20260616172000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Amazing Hotels: Life Beyond the Lobby</title>
-    <desc lang="en">Monica and Giles travel to the self-governing Chinese city of Macau to explore behind the scenes of one of its newest and most high-tech hotels.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260616172000 +0000" stop="20260616182000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">The Great Australian Bake Off</title>
-    <desc lang="en">Today our seven remaining bakers take on Patisserie baking.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <episode-num system="onscreen">S4E6</episode-num>
-  </programme>
-  <programme start="20260616182000 +0000" stop="20260616191500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Grand Designs</title>
-    <desc lang="en">Kara and Jonny build a striking stone and zinc home in West Yorkshire's rolling hills, but the challenges come thick and fast. Can they can pull it off and redefine what accessible design means?</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">21.2.</episode-num>
-    <episode-num system="onscreen">S22E3</episode-num>
-  </programme>
-  <programme start="20260616191500 +0000" stop="20260616201500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Amazing Hotels: Life Beyond the Lobby</title>
-    <desc lang="en">Monica and Giles travel to the self-governing Chinese city of Macau to explore behind the scenes of one of its newest and most high-tech hotels.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260616201500 +0000" stop="20260616211000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Jamie's Money Saving Meals</title>
-    <desc lang="en">In this episode, Jamie makes stuffed Dumplings, Blondie cake, Pork Belly Tacos and Pineapple Tarte Tatin with a take out cheat - fish and chips. Guest cook is Gennaro Contaldo who makes a Beef Mince Ragu</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260616211000 +0000" stop="20260616220500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Grand Designs</title>
-    <desc lang="en">Kara and Jonny build a striking stone and zinc home in West Yorkshire's rolling hills, but the challenges come thick and fast. Can they can pull it off and redefine what accessible design means?</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">21.2.</episode-num>
-    <episode-num system="onscreen">S22E3</episode-num>
-  </programme>
-  <programme start="20260616220500 +0000" stop="20260616230500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">The Great Australian Bake Off</title>
-    <desc lang="en">Today our seven remaining bakers take on Patisserie baking.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <episode-num system="onscreen">S4E6</episode-num>
-  </programme>
-  <programme start="20260616230500 +0000" stop="20260617000500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Amazing Hotels: Life Beyond the Lobby</title>
-    <desc lang="en">Monica and Giles travel to the self-governing Chinese city of Macau to explore behind the scenes of one of its newest and most high-tech hotels.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260617000500 +0000" stop="20260617003500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Hemsley + Hemsley - Healthy and Delicious</title>
-    <desc lang="en">Jasmine and Melissa Hemsley cook up a feast when friends come round to dinner.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617003500 +0000" stop="20260617010500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Malaysia Gourmet With Justine Schofield</title>
-    <desc lang="en">Justine begins her adventure in Penang's vibrant markets with the expert Pearly Kee as her guide. From there, she delves into the historical tapestry of Sarawak and offers her creative spin on popular Malaysian dishes.</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617010500 +0000" stop="20260617020000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Grand Designs</title>
-    <desc lang="en">Kara and Jonny build a striking stone and zinc home in West Yorkshire's rolling hills, but the challenges come thick and fast. Can they can pull it off and redefine what accessible design means?</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">21.2.</episode-num>
-    <episode-num system="onscreen">S22E3</episode-num>
-  </programme>
-  <programme start="20260617020000 +0000" stop="20260617025500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Jamie's Money Saving Meals</title>
-    <desc lang="en">In this episode, Jamie makes stuffed Dumplings, Blondie cake, Pork Belly Tacos and Pineapple Tarte Tatin with a take out cheat - fish and chips. Guest cook is Gennaro Contaldo who makes a Beef Mince Ragu</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617025500 +0000" stop="20260617035500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">The Great Australian Bake Off</title>
-    <desc lang="en">Today our seven remaining bakers take on Patisserie baking.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <episode-num system="onscreen">S4E6</episode-num>
-  </programme>
-  <programme start="20260617035500 +0000" stop="20260617045500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Amazing Hotels: Life Beyond the Lobby</title>
-    <desc lang="en">Monica and Giles travel to the self-governing Chinese city of Macau to explore behind the scenes of one of its newest and most high-tech hotels.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260617045500 +0000" stop="20260617055000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Grand Designs</title>
-    <desc lang="en">Kara and Jonny build a striking stone and zinc home in West Yorkshire's rolling hills, but the challenges come thick and fast. Can they can pull it off and redefine what accessible design means?</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">21.2.</episode-num>
-    <episode-num system="onscreen">S22E3</episode-num>
-  </programme>
-  <programme start="20260617055000 +0000" stop="20260617065000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">The Great Australian Bake Off</title>
-    <desc lang="en">Today our seven remaining bakers take on Patisserie baking.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <episode-num system="onscreen">S4E6</episode-num>
-  </programme>
-  <programme start="20260617065000 +0000" stop="20260617074500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Jamie's Money Saving Meals</title>
-    <desc lang="en">In this episode, Jamie makes stuffed Dumplings, Blondie cake, Pork Belly Tacos and Pineapple Tarte Tatin with a take out cheat - fish and chips. Guest cook is Gennaro Contaldo who makes a Beef Mince Ragu</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617074500 +0000" stop="20260617084500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Amazing Hotels: Life Beyond the Lobby</title>
-    <desc lang="en">Monica and Giles travel to the self-governing Chinese city of Macau to explore behind the scenes of one of its newest and most high-tech hotels.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260617084500 +0000" stop="20260617094000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Grand Designs</title>
-    <desc lang="en">Kara and Jonny build a striking stone and zinc home in West Yorkshire's rolling hills, but the challenges come thick and fast. Can they can pull it off and redefine what accessible design means?</desc>
-    <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">21.2.</episode-num>
-    <episode-num system="onscreen">S22E3</episode-num>
-  </programme>
-  <programme start="20260617094000 +0000" stop="20260617103500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">The Great Australian Bake Off</title>
-    <desc lang="en">Today our seven remaining bakers take on Patisserie baking.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <episode-num system="onscreen">S4E6</episode-num>
-  </programme>
-  <programme start="20260617103500 +0000" stop="20260617111000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Malaysia Gourmet With Justine Schofield</title>
-    <desc lang="en">Justine begins her adventure in Penang's vibrant markets with the expert Pearly Kee as her guide. From there, she delves into the historical tapestry of Sarawak and offers her creative spin on popular Malaysian dishes.</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617111000 +0000" stop="20260617114000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Donal's Irish Adventure</title>
-    <desc lang="en">Donal and Max set off for the midlands in this installment, to Ireland's hidden heartlands on the banks of the river Shannon.</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617114000 +0000" stop="20260617123500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Jamie Oliver: Cooking for Less</title>
-    <desc lang="en">Jamie demonstrates how to make a chicken thigh roast, cheesy pancake stack, a no-oven "cheat" pizza and a microwave chilli con carne. Jamie enlists the help of old friend and mentor Gennaro Contaldo to make a delicious spinach and ricotta tortelli.</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617123500 +0000" stop="20260617133000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Grand Indian Hotel</title>
-    <desc lang="en">The exclusive Oberoi New Delhi opens a new concept restaurant. Can the hotel keep its 'old guard' customers happy and entice Delhi's new moneyed elite?</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617133000 +0000" stop="20260617143000 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">The Graham Norton Show</title>
-    <desc lang="en">Graham Norton presents a lively chat show featuring Chris Pratt, Cynthia Erivo, Dawn French, Rob Beckett and Jack Savoretti.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">32.12.</episode-num>
-    <episode-num system="onscreen">S33E13</episode-num>
-  </programme>
-  <programme start="20260617143000 +0000" stop="20260617152500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">Jamie Oliver: Cooking for Less</title>
-    <desc lang="en">Jamie demonstrates how to make a chicken thigh roast, cheesy pancake stack, a no-oven "cheat" pizza and a microwave chilli con carne. Jamie enlists the help of old friend and mentor Gennaro Contaldo to make a delicious spinach and ricotta tortelli.</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617152500 +0000" stop="20260617162500 +0000" channel="bbclifestylehd.unifitv">
-    <title lang="en">The Great British Bake Off</title>
-    <desc lang="en">It's Party Week and the bakers have a ball with a sausage roll and make an 'anything-but-beige' buffet. Who will put on a semi-finals-worthy spread and who will be a party pooper?</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">13.7.</episode-num>
-    <episode-num system="onscreen">S14E8</episode-num>
-  </programme>
-  <programme start="20260616150500 +0000" stop="20260616160500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">May's Menu</title>
-    <desc lang="en">Chef May will start the episode creating a menu of 4 dishes fit for a theme. She will share the menu creation a menu of 4 dishes fit for a theme.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260616160500 +0000" stop="20260616170000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Morimoto's Sushi Master</title>
-    <desc lang="en">In the penultimate episode, the four remaining chefs are tested in their versatility.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20260616170000 +0000" stop="20260616172500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Eat Roam Relish</title>
-    <desc lang="en">Audra returns to the hometown of her mother. An official UNESCO Creative City of Gastronomy, Kuching is steeped in tradition and home to a rich tapestry of locals.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260616172500 +0000" stop="20260616175500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Eat Roam Relish</title>
-    <desc lang="en">Audra hits the road and travels 60kms south of Kuching to Kampong Sadir.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260616175500 +0000" stop="20260616182000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Cook Up With Adam Liaw</title>
-    <desc lang="en">Funny man Harley Breen and TikTok wonder-chef Vincent Yeow Lim join Adam in The Cook Up Kitchen to step up to the hot plates.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">3.6.</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
-  </programme>
-  <programme start="20260616182000 +0000" stop="20260616185000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Cook Up With Adam Liaw</title>
-    <desc lang="en">Adam and chefs Christine Manfield and Helly Raichura aren't wasting any time in The Cook Up kitchen as they make DIY curry paste dishes.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
-    <episode-num system="onscreen">S4E8</episode-num>
-  </programme>
-  <programme start="20260616185000 +0000" stop="20260616191500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Rachel Khoo's Simple Pleasures</title>
-    <desc lang="en">Rachel Khoo brings us her favourite classic recipes. Trends come and go but some recipes really stand the test of time.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260616191500 +0000" stop="20260616194500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Rachel Khoo's Simple Pleasures</title>
-    <desc lang="en">Rachel Khoo makes the kind of food that turns a house into a home. Some dishes are so comforting, they never fail to make the family happy.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260616194500 +0000" stop="20260616201000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Eat With David</title>
-    <desc lang="en">Eat with David is a food and travel show, culinary travel series, where we take viewers on a global food adventures and travel destinations.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
-  </programme>
-  <programme start="20260616201000 +0000" stop="20260616204000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Eat With David</title>
-    <desc lang="en">Eat with David is a food and travel show, culinary travel series, where we take viewers on a global food adventures and travel destinations.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
-  </programme>
-  <programme start="20260616204000 +0000" stop="20260616210500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Cook Up With Adam Liaw</title>
-    <desc lang="en">Funny man Harley Breen and TikTok wonder-chef Vincent Yeow Lim join Adam in The Cook Up Kitchen to step up to the hot plates.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">3.6.</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
-  </programme>
-  <programme start="20260616210500 +0000" stop="20260616213500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Cook Up With Adam Liaw</title>
-    <desc lang="en">Adam and chefs Christine Manfield and Helly Raichura aren't wasting any time in The Cook Up kitchen as they make DIY curry paste dishes.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
-    <episode-num system="onscreen">S4E8</episode-num>
-  </programme>
-  <programme start="20260616213500 +0000" stop="20260616220500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Rachel Khoo's Simple Pleasures</title>
-    <desc lang="en">Rachel Khoo makes the kind of food that turns a house into a home. Some dishes are so comforting, they never fail to make the family happy.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260616220500 +0000" stop="20260616223000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Chocolate Queen</title>
-    <desc lang="en">Kirsten demonstrates an array of incredibly clever and innovative tricks, tips and cheats to bring the wow factor into their home baking.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <episode-num system="onscreen">S3E7</episode-num>
-  </programme>
-  <programme start="20260616223000 +0000" stop="20260616225500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Chocolate Queen</title>
-    <desc lang="en">Kirsten demonstrates an array of incredibly clever and innovative tricks, tips and cheats to bring the wow factor into their home baking.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-    <episode-num system="onscreen">S3E8</episode-num>
-  </programme>
-  <programme start="20260616225500 +0000" stop="20260616235000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">May's Menu</title>
-    <desc lang="en">Chef May will start the episode creating a menu of 4 dishes fit for a theme. She will share the menu creation a menu of 4 dishes fit for a theme.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260616235000 +0000" stop="20260617004500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Morimoto's Sushi Master</title>
-    <desc lang="en">In the penultimate episode, the four remaining chefs are tested in their versatility.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20260617004500 +0000" stop="20260617014000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Go Where Hunan Abounds</title>
-    <desc lang="en">Shaoyang auditions for the Bull King Competition with Hui Halal Beef Buns, Suge's Hui Halal Skewers, Stir-Fried Beef with Chicken Comb Oil.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <episode-num system="onscreen">S3E7</episode-num>
-  </programme>
-  <programme start="20260617014000 +0000" stop="20260617020500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Everyday Gourmet</title>
-    <desc lang="en">Justine Schofield inspires home cooks to get more out of their kitchen by simplifying gourmet food.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">11.0.</episode-num>
-    <episode-num system="onscreen">S12E1</episode-num>
-  </programme>
-  <programme start="20260617020500 +0000" stop="20260617023500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Everyday Gourmet</title>
-    <desc lang="en">Justine Schofield inspires home cooks to get more out of their kitchen by simplifying gourmet food.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">11.1.</episode-num>
-    <episode-num system="onscreen">S12E2</episode-num>
-  </programme>
-  <programme start="20260617023500 +0000" stop="20260617033000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Jeremy Pang's Hong Kong Kitchen</title>
-    <desc lang="en">Jeremy is joined by food critic Grace Dent as they kick off a culinary adventure with a cocktail that is infused with beef dripping.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617033000 +0000" stop="20260617035500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Rachel Khoo's Simple Pleasures</title>
-    <desc lang="en">Rachel Khoo brings us her favourite classic recipes. Trends come and go but some recipes really stand the test of time.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260617035500 +0000" stop="20260617042500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Rachel Khoo's Simple Pleasures</title>
-    <desc lang="en">Rachel Khoo makes the kind of food that turns a house into a home. Some dishes are so comforting, they never fail to make the family happy.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260617042500 +0000" stop="20260617052000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">May's Menu</title>
-    <desc lang="en">Chef May will start the episode creating a menu of 4 dishes fit for a theme. She will share the menu creation a menu of 4 dishes fit for a theme.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260617052000 +0000" stop="20260617054500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Secrets Of The Curry Kitchen</title>
-    <desc lang="en">Rice and bread dishes are popular, especially the aloo paratha. Asma Kahn cooks prawn biryani, friendship rotis made to share and a syrupy sweet.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617054500 +0000" stop="20260617061500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Secrets Of The Curry Kitchen</title>
-    <desc lang="en">Chef Asma Khan celebrates herbs and marinades. Fenugreek methi chicken, the hariyali baked version, and mouth-watering tamarind prawns.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260617061500 +0000" stop="20260617064000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Cook Up With Adam Liaw</title>
-    <desc lang="en">Funny man Harley Breen and TikTok wonder-chef Vincent Yeow Lim join Adam in The Cook Up Kitchen to step up to the hot plates.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">3.6.</episode-num>
-    <episode-num system="onscreen">S4E7</episode-num>
-  </programme>
-  <programme start="20260617064000 +0000" stop="20260617071000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Cook Up With Adam Liaw</title>
-    <desc lang="en">Adam and chefs Christine Manfield and Helly Raichura aren't wasting any time in The Cook Up kitchen as they make DIY curry paste dishes.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
-    <episode-num system="onscreen">S4E8</episode-num>
-  </programme>
-  <programme start="20260617071000 +0000" stop="20260617080500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Go Where Hunan Abounds</title>
-    <desc lang="en">Shaoyang auditions for the Bull King Competition with Hui Halal Beef Buns, Suge's Hui Halal Skewers, Stir-Fried Beef with Chicken Comb Oil.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <episode-num system="onscreen">S3E7</episode-num>
-  </programme>
-  <programme start="20260617080500 +0000" stop="20260617083500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Everyday Gourmet</title>
-    <desc lang="en">Justine Schofield inspires home cooks to get more out of their kitchen by simplifying gourmet food.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">11.2.</episode-num>
-    <episode-num system="onscreen">S12E3</episode-num>
-  </programme>
-  <programme start="20260617083500 +0000" stop="20260617090500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Everyday Gourmet</title>
-    <desc lang="en">Justine Schofield inspires home cooks to get more out of their kitchen by simplifying gourmet food.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">11.3.</episode-num>
-    <episode-num system="onscreen">S12E4</episode-num>
-  </programme>
-  <programme start="20260617090500 +0000" stop="20260617093500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Eat Roam Relish</title>
-    <desc lang="en">Audra returns to the hometown of her mother. An official UNESCO Creative City of Gastronomy, Kuching is steeped in tradition and home to a rich tapestry of locals.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617093500 +0000" stop="20260617100500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Eat Roam Relish</title>
-    <desc lang="en">Audra hits the road and travels 60kms south of Kuching to Kampong Sadir.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617100500 +0000" stop="20260617103500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Chocolate Queen</title>
-    <desc lang="en">Kirsten demonstrates an array of incredibly clever and innovative tricks, tips and cheats to bring the wow factor into their home baking.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-    <episode-num system="onscreen">S3E7</episode-num>
-  </programme>
-  <programme start="20260617103500 +0000" stop="20260617110500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">The Chocolate Queen</title>
-    <desc lang="en">Kirsten demonstrates an array of incredibly clever and innovative tricks, tips and cheats to bring the wow factor into their home baking.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-    <episode-num system="onscreen">S3E8</episode-num>
-  </programme>
-  <programme start="20260617110500 +0000" stop="20260617120500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">May's Menu</title>
-    <desc lang="en">Chef May will start the episode creating a menu of 4 dishes fit for a theme. She will share the menu creation a menu of 4 dishes fit for a theme.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260617120500 +0000" stop="20260617123500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Wonderful Indonesia Flavours</title>
-    <desc lang="en">In this episode, Chefs Marinka and Tobie Puttock hold nothing back as they dive into the soul of Indonesia; Yogyakarta.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20260617123500 +0000" stop="20260617130500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Wonderful Indonesia Flavours</title>
-    <desc lang="en">Also known as the Lands of the Gods, Bali takes the lead in organic food produce and clean eating.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <episode-num system="onscreen">S2E4</episode-num>
-  </programme>
-  <programme start="20260617130500 +0000" stop="20260617133500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Eat With David</title>
-    <desc lang="en">Eat with David is a food and travel show, culinary travel series, where we take viewers on a global food adventures and travel destinations.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <episode-num system="onscreen">S3E3</episode-num>
-  </programme>
-  <programme start="20260617133500 +0000" stop="20260617140500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Eat With David</title>
-    <desc lang="en">Eat with David is a food and travel show, culinary travel series, where we take viewers on a global food adventures and travel destinations.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <episode-num system="onscreen">S3E4</episode-num>
-  </programme>
-  <programme start="20260617140500 +0000" stop="20260617150500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Old Taste Detective</title>
-    <desc lang="en">Host Kym and Chef Jasmine visit local traditional Nyonya kueh shops and their successors to look for lost or rare Nyonya kuehs to recreate the old taste.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">4.3.</episode-num>
-    <episode-num system="onscreen">S5E4</episode-num>
-  </programme>
-  <programme start="20260617150500 +0000" stop="20260617160500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">May's Menu</title>
-    <desc lang="en">Chef May will start the episode creating a menu of 4 dishes fit for a theme. She will share the menu creation a menu of 4 dishes fit for a theme.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260616155500 +0000" stop="20260616162000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Trollhunters: Tales of Arcadia</title>
-    <desc lang="en">After Steve discovers “monsters” could be lurking under Arcadia, he allies with Eli to investigate</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.34.</episode-num>
-    <episode-num system="onscreen">S2E35</episode-num>
-  </programme>
-  <programme start="20260616162000 +0000" stop="20260616164500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Trollhunters: Tales of Arcadia</title>
-    <desc lang="en">Jim and his friends are trapped in detention while tensions in Trollmarket escalate with fears of Gunmar's escape</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.35.</episode-num>
-    <episode-num system="onscreen">S2E36</episode-num>
-  </programme>
-  <programme start="20260616164500 +0000" stop="20260616171000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">3Below: Tales of Arcadia</title>
-    <desc lang="en">Aja attends her first teem party, Krel goes hunting for an urban legend with Eli, but the kids' fun is ruined when the Zeron Brotherhood crash their night. Meanwhile, Vex receives a message from Akiridion-5.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260616171000 +0000" stop="20260616173500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">3Below: Tales of Arcadia</title>
-    <desc lang="en">In the flipside of Trollhunters Ep. 222, Aja and Krel embark on a journey with Jim, Toby, and Claire, who Krel believes are the Zeron Brotherhood in disguise. Meanwhile, Aja's missing Serrtaor embarks on a journey of its own.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260616173500 +0000" stop="20260616180000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">3Below: Tales of Arcadia</title>
-    <desc lang="en">When Aja and Krel learn a secret, military base may house an alien spacecraft, they enlist Stuart to help them infilitrate it. Meanwhile, General Morando unviels his latest weapon - Omen, a deadly, cyborg assassin.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260616180000 +0000" stop="20260616182500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="en">After losing their mission materials in quicksand, Tony decides to channel Dom and Blend in to get intel from the people of Rio. Unfortunately it's more difficult than he expected, and Tony and his crew are picked up by a group of favela gangsters in a neighborhood that worships a mysterious young female martyr. The crew is relieved to find that Layla is in charge of the gangsters - until she orders the gangsters to dispose of them!</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260616182500 +0000" stop="20260616185000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="en">Tony is convinced that Layla is deep undercover and tries to talk to her alone to get through to her. Meanwhile, the crew investigates the gang's production of the mysterious formula from the tattoo. When Frostee discovers that the product of the formula is unstable and will explode, Tony has to save Layla, who is driving a whole truck of it!</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260616185000 +0000" stop="20260616191500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="en">Now broken out of mind control, Layla goes undercover with the gang, hiding the fact that she's no longer being controlled. The crew is shocked to discover that revered martyr Rafaela Moreno is still alive and is the mastermind behind the mind control plot. Rafaela puts Layla's driving to the test in a wild race against a mystery driver, then takes the rest of the crew hostage just days before Rafaela's dastardly plot.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20260616191500 +0000" stop="20260616194000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="en">Now in Rafaela's custody, the crew works together to break Echo out to retrieve the hauler. Echo makes it into the jungle and must battle a mind-controlled Ms. Nowhere using everything she's learned about spying and survival from the very woman who's out to get her. Meanwhile, Rafaela enlists Frostee to help her develop a non-exploding version of the mind control formula before her plan goes into motion at the favela race.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260616194000 +0000" stop="20260616200500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="en">Echo and Ms. Nowhere bust Cisco, Frostee, and Gary out of their cell. But Rafaela has already mind controlled Tony and Layla and taken them to drive for her in the favela race, allowing her to release her mind control formula on the crowd!</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260616200500 +0000" stop="20260616203000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Dinotrux</title>
-    <desc lang="en">When the crew gets stuck on a sheet of thin ice, they run into a group of Picktools, which appear to be trying to crack the ice around them.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.41.</episode-num>
-    <episode-num system="onscreen">S2E42</episode-num>
-  </programme>
-  <programme start="20260616203000 +0000" stop="20260616210000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Casper's Scare School</title>
-    <desc lang="en">Accidental Hero In order to win the Fright Stuff Award, Casper consults his uncles for scaring advice. Rich Kid Ra When Ra pulls up to Scare School in a solid gold chariot, everyone suddenly wants to be his best friend.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260616210000 +0000" stop="20260616213000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Casper's Scare School</title>
-    <desc lang="en">Dragon Quest The unlucky staff of a medieval-themed restaurant in Deedstown, get an unfriendly visit from Professor Thurdigree Burns. Opposite Day When Wolfie's experiment with moonlight goes awry, everyone but Casper turns into his or her opposite.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260616213000 +0000" stop="20260616214500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Rupert Bear</title>
-    <desc lang="en">Ming is hurt when Rupert and friends appear to prefer Bill's new toy dragon to her. But when the toy gets them lost in the woods they discover there are some things that only a real dragon can do.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <episode-num system="onscreen">S1E31</episode-num>
-  </programme>
-  <programme start="20260616214500 +0000" stop="20260616220000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Rupert Bear</title>
-    <desc lang="en">With the sun low in the sky, Rupert waves to Ping Pong, Bill, Edward and Ming as they join him at his cottage. They are all going to stay up late to see something very special - an eclipse of the moon. Bill is just explaining what an eclipse is when Raggety arrives. In his impatience, he does not want to wait for the moon to rise. He wants to see it straight away. Raggety does elf magic to see the moon at once but promptly vanishes. The others think he is playing a trick and hiding from them, but when Bill looks through the telescope, keen to see the start of the eclipse he gets a shock. Raggety has got his wish to see the moon. His magic has taken him there! How will Rupert and friends get him back down before the eclipse shrinks the moon down to nothing? It is a race against time to save their little elf friend.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-    <episode-num system="onscreen">S1E32</episode-num>
-  </programme>
-  <programme start="20260616220000 +0000" stop="20260616222500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Not Quite Narwhal</title>
-    <desc lang="en">Kelp and Scallop enlist Cruz's help to perform a dance for Mom's birthday. Though it's hard at first, they learn to put their dolphin, unicorn, and narwhal powers together to create something special. / Kelp, Pixie, Ollie, and their friend Leroy try to help Juniper understand her angry feelings.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260616222500 +0000" stop="20260616225000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Not Quite Narwhal</title>
-    <desc lang="en">Scallop is afraid of her first “tuskist” appointment. Kelp helps her get through it with a song. / Fog rolls in, threatening Kelp's first Three Moon Festival in Unicorn Land. Kelp and his friends use a combination of unicorn spark and the Kelp Way to create a new festival.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260616225000 +0000" stop="20260616231500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Gabby's Dollhouse</title>
-    <desc lang="en">There's a mystery in the dollhouse! When things start to mysteriously disappear around the dollhouse, Gabby and Pandy play detectives, using all their senses to find clues, follow them, and solve the mystery. For our COTD segment, CatRat and Baby Me-Owls show us how to make ice cube paints!</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">1.33.</episode-num>
-    <episode-num system="onscreen">S2E34</episode-num>
-  </programme>
-  <programme start="20260616231500 +0000" stop="20260616234000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Gabby's Dollhouse</title>
-    <desc lang="en">When CatRat gets stuck on planet Caturn, it's up to Gabby and Pandy to go save him. DJ Catnip teaches them a song to remember how to get there and Baby Box helps them make jetpacks so they can zip around. In the Cat-osphere, they take a twirl through Space Swirls and zip through the Supergallactic Doughnut Hole and even meet DJ Catnip's cousin, DJ Comet! For the Cat of the Day Segment, Baby Box and DJ Comet show us how to craft a papier-mâché Caturn.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">1.34.</episode-num>
-    <episode-num system="onscreen">S2E35</episode-num>
-  </programme>
-  <programme start="20260616234000 +0000" stop="20260617000500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Madagascar: A Little Wild</title>
-    <desc lang="en">Alex is mistaken for a Maine Coon and takes over that cat's life in the penthouse. At first, VERY comfortable with his shmancy new life, Alex grows to miss his old life and learns that it's lonely at the top.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260617000500 +0000" stop="20260617003000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Madagascar: A Little Wild</title>
-    <desc lang="en">On Junior Marshals' Day at the fire station, Melman gets stuck in a firetruck on its way to a real emergency. With Alex's help, Melman must overcome his fear of heights to help save a stuck cat, and learn that even heroes get scared sometimes.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260617003000 +0000" stop="20260617005500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Not Quite Narwhal</title>
-    <desc lang="en">Kelp and Scallop enlist Cruz's help to perform a dance for Mom's birthday. Though it's hard at first, they learn to put their dolphin, unicorn, and narwhal powers together to create something special. / Kelp, Pixie, Ollie, and their friend Leroy try to help Juniper understand her angry feelings.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260617005500 +0000" stop="20260617012000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Not Quite Narwhal</title>
-    <desc lang="en">Scallop is afraid of her first “tuskist” appointment. Kelp helps her get through it with a song. / Fog rolls in, threatening Kelp's first Three Moon Festival in Unicorn Land. Kelp and his friends use a combination of unicorn spark and the Kelp Way to create a new festival.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260617012000 +0000" stop="20260617014500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Team Zenko Go</title>
-    <desc lang="en">Mr. Tanaka is moving places all by himself, so Team Zenko step in to assist, and learn the importance of asking people for help. / When Sam's skateboard competition falls on the same day as her favourite creator Ken KaBlam's comic book signing, TZG secretly prevents him leaving town before she gets the chance to meet him.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260617014500 +0000" stop="20260617021000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Team Zenko Go</title>
-    <desc lang="en">When easily-distracted Luis is tasked with getting flowers for his grandmother's birthday party, TZG secretly keeps him on track. / When Rodney's honey bees escape from their apiary (artificial beehive), TZG secretly brings them back.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260617021000 +0000" stop="20260617023500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Madagascar: A Little Wild</title>
-    <desc lang="en">When Gloria meets a shy hermit crab, named Starlene, with a secret talent of tap dancing, Gloria plans a flashy production for Starlene's debut so she can share her talent with the world! But Gloria doesn't ask Starlene what she wants, and pushes the crab's introverted self too far, ultimately learning you have to respect your shy friends' comfort levels they may be different than yours.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
-  </programme>
-  <programme start="20260617023500 +0000" stop="20260617030000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Madagascar: A Little Wild</title>
-    <desc lang="en">When their favorite zoo visitor loses his teddy bear, our gang goes on a wild adventure through New York City to return it to him - and in the process Marty learns that some things in life can't be found in an instruction manual.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617030000 +0000" stop="20260617032500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Gabby's Dollhouse</title>
-    <desc lang="en">When Gabby unboxes a recipe for dandelion soup and a soup bowl, she discovers Kitty Fairy is sick! Gabby and Pandy make her some delicious dandelion soup and while she rests, they take care of her Garden. With the help of all the Gabby Cats, they water the Singing Flowers, help the Rainbow Kitty Bushes regain their color, and sing some fussy Itty Bitty Blossoms a lullaby. For our Gabby Cat of the Day segment, Kitty Fairy sings a song!</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20260617032500 +0000" stop="20260617035000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Gabby's Dollhouse</title>
-    <desc lang="en">Feline popstar sensation Fluffy Flufferton is performing a concert at the Dollhouse Hotel, and Gabby unboxes tickets to see her! Gabby meets Fluffy and discovers that she's afraid to try new things because she doesn't want to make mistakes—why mess with perfection? But with the help of the Gabby Cats, Fluffy learns how to fail fantastically and be the most fluff-tastic version of herself. For our Cat of the Day segment, DJ Catnip sings a song about the Dollhouse Hotel.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">1.25.</episode-num>
-    <episode-num system="onscreen">S2E26</episode-num>
-  </programme>
-  <programme start="20260617035000 +0000" stop="20260617041500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Dragons: Rescue Riders</title>
-    <desc lang="en">While the others care for baby dragons at the roost, Dak, Winger, Burple and Aggro come face-to-face with a grumpy old dragon on a dangerous island.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20260617041500 +0000" stop="20260617044000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Dragons: Rescue Riders</title>
-    <desc lang="en">The Rescue Riders plan to team up with the Slinkwings when an angry Grumblegard threatens Huttsgalor. But their old enemies may be up to new tricks.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260617044000 +0000" stop="20260617050500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Mr. Peabody And Sherman Show</title>
-    <desc lang="en">Peabody and Sherman are surprised when all 25 time travel guests from each episode step out of the WABAC machine during the big season finale</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
-  </programme>
-  <programme start="20260617050500 +0000" stop="20260617053000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Mr. Peabody And Sherman Show</title>
-    <desc lang="en">When Peabody and Sherman kill comedy in Ancient Greece, they team up with their alter egos to defeat a cyborg version of Mrs. Hughes and fix history</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">1.26.</episode-num>
-    <episode-num system="onscreen">S2E27</episode-num>
-  </programme>
-  <programme start="20260617053000 +0000" stop="20260617055500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">DRAGONS 9 REALMS</title>
-    <desc lang="en">When the dragons fall victim to Buzzsaw's poison darts, D struggles to keep a cool head and find a cure while others panic.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">1.37.</episode-num>
-    <episode-num system="onscreen">S2E38</episode-num>
-  </programme>
-  <programme start="20260617055500 +0000" stop="20260617062000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">DRAGONS 9 REALMS</title>
-    <desc lang="en">Tom and the riders “borrow” the bathysphere to rescue a dragon from the depths of the Giant Realm Sea.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
-    <episode-num system="onscreen">S2E39</episode-num>
-  </programme>
-  <programme start="20260617062000 +0000" stop="20260617064500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">All Hail King Julien</title>
-    <desc lang="en">When Mort is abducted by "aliens", King Julien teams with Clover, Maurice and Hector to investigate why he's not the one being abducted.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">1.32.</episode-num>
-    <episode-num system="onscreen">S2E33</episode-num>
-  </programme>
-  <programme start="20260617064500 +0000" stop="20260617071000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">All Hail King Julien</title>
-    <desc lang="en">King Julien declares a war against butterflies to raise his kingdom's spirit, but when the village is destroyed he decides to hold a peace summit.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">1.33.</episode-num>
-    <episode-num system="onscreen">S2E34</episode-num>
-  </programme>
-  <programme start="20260617071000 +0000" stop="20260617073500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Adventures Of Puss In Boots</title>
-    <desc lang="en">Tired of the Mayor's needy cowardice, Puss tries to reassure him that he is a hero - but being “brave” quickly goes to the Mayor's head.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260617073500 +0000" stop="20260617080000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Adventures Of Puss In Boots</title>
-    <desc lang="en">The Golem, a giant clay enemy Puss has been outrunning for years, comes to San Lorenzo. With Artephius' help, Puss may be able to defeat his foe.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260617080000 +0000" stop="20260617082500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Dragons: Race to the Edge</title>
-    <desc lang="en">When the Twins journey to the Northern Markets to fix their prized mace, they end up stumbling onto a secret project by Viggo and the Dragon Hunters.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.48.</episode-num>
-    <episode-num system="onscreen">S2E49</episode-num>
-  </programme>
-  <programme start="20260617082500 +0000" stop="20260617085000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Dragons: Race to the Edge</title>
-    <desc lang="en">A huge storm hits Dragon's Edge causing the Dragons to spook and run off but when Astrid is blinded, Hiccup must lead her to Stormfly.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.49.</episode-num>
-    <episode-num system="onscreen">S2E50</episode-num>
-  </programme>
-  <programme start="20260617085000 +0000" stop="20260617091500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Dragons: Race to the Edge</title>
-    <desc lang="en">Hiccup doesn't know who to trust when Viggo and Ryker each tell him that the other has gone rogue, and is sidetracked when a new dragon attacks.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.50.</episode-num>
-    <episode-num system="onscreen">S2E51</episode-num>
-  </programme>
-  <programme start="20260617091500 +0000" stop="20260617094000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Croods Family Tree</title>
-    <desc lang="en">When the adults exclude the kids from their adult-only cave, the kids make their own much cooler cave, soon making the adults want to switch caves.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260617094000 +0000" stop="20260617100500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Croods Family Tree</title>
-    <desc lang="en">When a freak lightning strike turns Thunk into a genius, Phil is thrilled to have someone likeminded on the farm, until the farm residents start asking Thunk for help with problems on the farm instead of him.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20260617100500 +0000" stop="20260617103000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Croods Family Tree</title>
-    <desc lang="en">Tired of the farm's feud with the neighboring punch monkeys, Ugga arranges a punch summit where the Bettermans and Croods will stay in the punch monkey village to learn how to all get along.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20260617103000 +0000" stop="20260617105500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Boss Baby: Back in Business</title>
-    <desc lang="en">The world's worst baby is on the loose and Boss Baby, Tim and the team must find him before he turns the whole neighborhood against babies</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260617105500 +0000" stop="20260617112000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Boss Baby: Back in Business</title>
-    <desc lang="en">When an unexpected kitten shows up on Boss Baby's doorstep, they go head to head against the feline enemy</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260617112000 +0000" stop="20260617114500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Boss Baby: Back in Business</title>
-    <desc lang="en">The Templetons head to a new family restaurant only to run into Bootsy Calico!</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260617114500 +0000" stop="20260617121000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">DRAGONS 9 REALMS</title>
-    <desc lang="en">Jun struggles to convince Tom to trust her faith in myths over the Book of Dragons when they venture to a place that his book seems to say is extremely dangerous.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260617121000 +0000" stop="20260617123500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">DRAGONS 9 REALMS</title>
-    <desc lang="en">Tom's leadership abilities come into question by Eugene when his decisions lead to failure while attempting to confront Buzzsaw.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20260617123500 +0000" stop="20260617130000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">DRAGONS 9 REALMS</title>
-    <desc lang="en">Tom and Thunder discover a baby Nightlight and must bring him back to Thunder's home realm.</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20260617130000 +0000" stop="20260617132500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Kung Fu Panda: The Dragon Knight</title>
-    <desc lang="en">There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of England!</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">1.38.</episode-num>
-    <episode-num system="onscreen">S2E39</episode-num>
-  </programme>
-  <programme start="20260617132500 +0000" stop="20260617135000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Kung Fu Panda: The Dragon Knight</title>
-    <desc lang="en">There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of England!</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">1.39.</episode-num>
-    <episode-num system="onscreen">S2E40</episode-num>
-  </programme>
-  <programme start="20260617135000 +0000" stop="20260617141500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Kung Fu Panda: The Dragon Knight</title>
-    <desc lang="en">There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of England!</desc>
-    <category lang="en">Animation</category>
-    <episode-num system="xmltv_ns">1.40.</episode-num>
-    <episode-num system="onscreen">S2E41</episode-num>
-  </programme>
-  <programme start="20260617141500 +0000" stop="20260617144000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="en">After losing their mission materials in quicksand, Tony decides to channel Dom and Blend in to get intel from the people of Rio. Unfortunately it's more difficult than he expected, and Tony and his crew are picked up by a group of favela gangsters in a neighborhood that worships a mysterious young female martyr. The crew is relieved to find that Layla is in charge of the gangsters - until she orders the gangsters to dispose of them!</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260617144000 +0000" stop="20260617150500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="en">Tony is convinced that Layla is deep undercover and tries to talk to her alone to get through to her. Meanwhile, the crew investigates the gang's production of the mysterious formula from the tattoo. When Frostee discovers that the product of the formula is unstable and will explode, Tony has to save Layla, who is driving a whole truck of it!</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260617150500 +0000" stop="20260617153000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <desc lang="en">Now broken out of mind control, Layla goes undercover with the gang, hiding the fact that she's no longer being controlled. The crew is shocked to discover that revered martyr Rafaela Moreno is still alive and is the mastermind behind the mind control plot. Rafaela puts Layla's driving to the test in a wild race against a mystery driver, then takes the rest of the crew hostage just days before Rafaela's dastardly plot.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20260617153000 +0000" stop="20260617155500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Trollhunters: Tales of Arcadia</title>
-    <desc lang="en">Jim is given the chance to see what life would be like if he had never picked up the Amulet</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.36.</episode-num>
-    <episode-num system="onscreen">S2E37</episode-num>
-  </programme>
-  <programme start="20260617155500 +0000" stop="20260617162000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Trollhunters: Tales of Arcadia</title>
-    <desc lang="en">Jim must go to trial for releasing Gunmar from the Darklands</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.37.</episode-num>
-    <episode-num system="onscreen">S2E38</episode-num>
-  </programme>
   <programme start="20260616154000 +0000" stop="20260616173800 +0000" channel="moonbugkids.unifitv">
     <title lang="en">Little Baby Bum: Lullabies</title>
     <desc lang="en">Little Baby Bum is here to help you fall to sleep; with soothing, relaxing animated lullabies</desc>

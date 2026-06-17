@@ -41,7 +41,7 @@
         <title>Madha Yaanai Koottam</title>
     </programme>
     <programme start="20260616160000 +0000" stop="20260616163000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
+        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260616163000 +0000" stop="20260616170000 +0000" channel="Zee TV.starhub">
         <title>Tumm Se Tumm Tak</title>
@@ -80,7 +80,7 @@
         <title>Brahma Kumaris</title>
     </programme>
     <programme start="20260616233000 +0000" stop="20260617000000 +0000" channel="Zee TV.starhub">
-        <title>Baal Shiv</title>
+        <title>Jagadhatri</title>
     </programme>
     <programme start="20260617000000 +0000" stop="20260617010000 +0000" channel="Zee TV.starhub">
         <title>Lakshmi Nivas</title>
@@ -95,7 +95,7 @@
         <title>Ganga Mai Ki Betiyan</title>
     </programme>
     <programme start="20260617023000 +0000" stop="20260617030000 +0000" channel="Zee TV.starhub">
-        <title>Jagadhatri</title>
+        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="Zee TV.starhub">
         <title>Lakshmi Nivas</title>
@@ -104,7 +104,7 @@
         <title>Do Lafzon Ki Kahani</title>
     </programme>
     <programme start="20260617070000 +0000" stop="20260617073000 +0000" channel="Zee TV.starhub">
-        <title>Jaane Anjaane Hum Mile</title>
+        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260617073000 +0000" stop="20260617080000 +0000" channel="Zee TV.starhub">
         <title>Saru</title>
@@ -116,10 +116,10 @@
         <title>Jagadhatri</title>
     </programme>
     <programme start="20260617090000 +0000" stop="20260617093000 +0000" channel="Zee TV.starhub">
-        <title>Bhabi Ji Ghar Par Hai!</title>
+        <title>Jaane Anjaane Hum Mile</title>
     </programme>
     <programme start="20260617093000 +0000" stop="20260617100000 +0000" channel="Zee TV.starhub">
-        <title>Jaane Anjaane Hum Mile</title>
+        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260617100000 +0000" stop="20260617103000 +0000" channel="Zee TV.starhub">
         <title>Vasudha</title>
@@ -140,7 +140,7 @@
         <title>Tumm Se Tumm Tak</title>
     </programme>
     <programme start="20260617133000 +0000" stop="20260617140000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyan</title>
+        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260617140000 +0000" stop="20260617143000 +0000" channel="Zee TV.starhub">
         <title>Jagadhatri</title>
@@ -3302,7 +3302,7 @@
         <title>News</title>
     </programme>
     <programme start="20260617131500 +0000" stop="20260617133000 +0000" channel="DW English HD.starhub">
-        <title>How tiny Pacific Island countries punch above the weight China and Australia</title>
+        <title>Small Pacific islands with a big strategy</title>
     </programme>
     <programme start="20260617133000 +0000" stop="20260617140000 +0000" channel="DW English HD.starhub">
         <title>Kenya’s soil whisperer: Growing food where nothing thrives</title>
@@ -5230,6 +5230,9 @@
     <programme start="20260617154000 +0000" stop="20260617171000 +0000" channel="KBS World HD.starhub">
         <title>Stars&#039; Top Recipe at Fun-Staurant</title>
     </programme>
+    <programme start="20260616152000 +0000" stop="20260616161500 +0000" channel="TestChannel 996.starhub">
+        <title>Golden City (Ep 901-950) VVD Mandarin</title>
+    </programme>
     <programme start="20260616161500 +0000" stop="20260616173000 +0000" channel="TestChannel 996.starhub">
         <title>Blue Moment</title>
     </programme>
@@ -6565,7 +6568,10 @@
     <programme start="20260617150000 +0000" stop="20260617163200 +0000" channel="TV5MONDE HD.starhub">
         <title>Echappees Belles</title>
     </programme>
-    <programme start="20260616160000 +0000" stop="20260616190000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260616103000 +0000" stop="20260616165300 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>HSBC C&#039;ships (500) Day 2 R1 Session 1</title>
+    </programme>
+    <programme start="20260616165300 +0000" stop="20260616190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Day 16 Afternoon Session: Final (8)</title>
     </programme>
     <programme start="20260616190000 +0000" stop="20260616213000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6586,8 +6592,11 @@
     <programme start="20260617070000 +0000" stop="20260617073000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Season 4 Episode 7</title>
     </programme>
-    <programme start="20260617073000 +0000" stop="20260617103000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260617073000 +0000" stop="20260617093000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>HSBC C&#039;ships (500) Day 2 R1 Session 2</title>
+    </programme>
+    <programme start="20260617093000 +0000" stop="20260617103000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Miami Open presented by Itau</title>
     </programme>
     <programme start="20260617103000 +0000" stop="20260617143000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>HSBC C&#039;ships (500) Day 3 R2 Session 1</title>
@@ -7376,7 +7385,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260617003000 +0000" stop="20260617010000 +0000" channel="BBC World News HD.starhub">
-        <title>Compilation Programme</title>
+        <title>Compilation</title>
     </programme>
     <programme start="20260617010000 +0000" stop="20260617013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7394,7 +7403,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260617024500 +0000" stop="20260617030000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>Can Governments Bring Down House Prices?</title>
     </programme>
     <programme start="20260617030000 +0000" stop="20260617033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7403,7 +7412,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260617034500 +0000" stop="20260617040000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>Can Governments Bring Down House Prices?</title>
     </programme>
     <programme start="20260617040000 +0000" stop="20260617043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7921,16 +7930,16 @@
     <programme start="20260616133000 +0000" stop="20260616163000 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
-    <programme start="20260616163000 +0000" stop="20260616190500 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260616163000 +0000" stop="20260616183500 +0000" channel="Asianet Movies.starhub">
         <title>Kuttanpillayude sivarathri</title>
     </programme>
-    <programme start="20260616190500 +0000" stop="20260616213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260616183500 +0000" stop="20260616211000 +0000" channel="Asianet Movies.starhub">
         <title>Kanchipurathe Kalyanam</title>
     </programme>
-    <programme start="20260616213000 +0000" stop="20260616231500 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260616211000 +0000" stop="20260616230000 +0000" channel="Asianet Movies.starhub">
         <title>Panthayakkozhi</title>
     </programme>
-    <programme start="20260616231500 +0000" stop="20260617013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260616230000 +0000" stop="20260617013000 +0000" channel="Asianet Movies.starhub">
         <title>Yugapurushan</title>
     </programme>
     <programme start="20260617013000 +0000" stop="20260617043000 +0000" channel="Asianet Movies.starhub">

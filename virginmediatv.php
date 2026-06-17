@@ -433,19 +433,19 @@
 <programme start="20260617163000 +0000" stop="20260617193000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: MOTD FIFA World Cup 2026 - Group K: Portugal v Congo DR</title>
 </programme>
-<programme start="20260616230500 +0000" stop="20260617003500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260616231000 +0000" stop="20260617004000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Letter to Brezhnev</title>
 </programme>
-<programme start="20260617003500 +0000" stop="20260617013500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260617004000 +0000" stop="20260617014000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Springwatch - Episode 6</title>
 </programme>
-<programme start="20260617013500 +0000" stop="20260617023500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260617014000 +0000" stop="20260617024000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Surgeons: At the Edge of Life - One False Move</title>
 </programme>
-<programme start="20260617023500 +0000" stop="20260617033500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260617024000 +0000" stop="20260617034000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Interior Design Masters</title>
 </programme>
-<programme start="20260617033500 +0000" stop="20260617050000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260617034000 +0000" stop="20260617050000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20260617050000 +0000" stop="20260617061500 +0000" channel="BBC_TWO_HD.virginmediatv">
