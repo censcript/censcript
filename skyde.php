@@ -2846,11 +2846,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260617210000 +0000" stop="20260617220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2025/2026</title>
 </programme>
-<programme start="20260616230000 +0000" stop="20260617010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. de Minaur (AUS) - G. Diallo (CAN), HSBC Championships in London (GBR), 2. Tag</title>
+<programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Lys (GER) - M. Frech (POL), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 2. Tag</title>
 </programme>
-<programme start="20260617010000 +0000" stop="20260617020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Rom</title>
+<programme start="20260617000000 +0000" stop="20260617020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. de Minaur (AUS) - G. Diallo (CAN), HSBC Championships in London (GBR), 2. Tag</title>
 </programme>
 <programme start="20260617020000 +0000" stop="20260617040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - M. Frech (POL), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 2. Tag</title>
@@ -2877,10 +2877,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260617193000 +0000" stop="20260617213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 3. Tag</title>
+    <title>WTA 500: A. Sabalenka - E. Alexandrova, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 3. Tag</title>
 </programme>
 <programme start="20260617213000 +0000" stop="20260617233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, HSBC Championships in London (GBR), 3. Tag</title>
+    <title>ATP 500: A. de Minaur (AUS) - D. Shapovalov (CAN), HSBC Championships in London (GBR), 3. Tag</title>
 </programme>
 <programme start="20260616230000 +0000" stop="20260617013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Toronto Tempo @ Indiana Fever</title>

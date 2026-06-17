@@ -289,10 +289,10 @@
 <programme start="20260617165500 +0000" stop="20260617185500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Endeavour - Striker</title>
 </programme>
-<programme start="20260616230000 +0000" stop="20260617011700 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260616230000 +0000" stop="20260617012000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>This Morning</title>
 </programme>
-<programme start="20260617011700 +0000" stop="20260617060500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260617012000 +0000" stop="20260617060500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260617111000 +0000" stop="20260617121000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
@@ -310,10 +310,10 @@
 <programme start="20260617150500 +0000" stop="20260617160500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>My Unique B&amp;B - Laura and Alex&#039;s Tiny House</title>
 </programme>
-<programme start="20260617160500 +0000" stop="20260617163000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260617160500 +0000" stop="20260617163500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Heathrow: Britain&#039;s Busiest Airport</title>
 </programme>
-<programme start="20260617163000 +0000" stop="20260617173500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260617163500 +0000" stop="20260617173500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Peter Andre&#039;s 60 Minute Makeover</title>
 </programme>
 <programme start="20260617173500 +0000" stop="20260617183000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
