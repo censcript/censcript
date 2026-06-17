@@ -4900,17 +4900,11 @@
   <programme start="20260619150000 +0000" stop="20260619170000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Parma Open</title>
   </programme>
-  <programme start="20260619170000 +0000" stop="20260619190000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260619170000 +0000" stop="20260619183000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Parma Open</title>
   </programme>
-  <programme start="20260619190000 +0000" stop="20260619191500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260619191500 +0000" stop="20260619200000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">53. Slovakia Rallye Tatry 2026</title>
-  </programme>
-  <programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
+  <programme start="20260619183000 +0000" stop="20260619203000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">ALBA BERLIN - FC Bayern München Basketball</title>
   </programme>
   <programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">DRIVE IT - Ondrej Macko</title>

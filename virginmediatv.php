@@ -2081,58 +2081,58 @@
     <title>Top Photoshoots</title>
 </programme>
 <programme start="20260617030000 +0000" stop="20260617033000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion &amp; Sports</title>
+    <title>Most Watched</title>
 </programme>
 <programme start="20260617033000 +0000" stop="20260617040000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion &amp; Sports</title>
+    <title>Most Watched</title>
 </programme>
 <programme start="20260617040000 +0000" stop="20260617043000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Beauty</title>
+    <title>Trending Today</title>
 </programme>
 <programme start="20260617043000 +0000" stop="20260617050000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Beauty</title>
+    <title>Trending Today</title>
 </programme>
 <programme start="20260617050000 +0000" stop="20260617053000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion from UK</title>
+    <title>Fashion Stars</title>
 </programme>
 <programme start="20260617053000 +0000" stop="20260617060000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion from UK</title>
+    <title>Fashion Stars</title>
 </programme>
 <programme start="20260617120000 +0000" stop="20260617123000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Top Models</title>
+    <title>Fashion Buzz</title>
 </programme>
 <programme start="20260617123000 +0000" stop="20260617130000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Top Models</title>
+    <title>Fashion Buzz</title>
 </programme>
 <programme start="20260617130000 +0000" stop="20260617133000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Teens</title>
+    <title>This Week In Style</title>
 </programme>
 <programme start="20260617133000 +0000" stop="20260617140000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Teens</title>
+    <title>This Week In Style</title>
 </programme>
 <programme start="20260617140000 +0000" stop="20260617143000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Films</title>
+    <title>Trend Tracker</title>
 </programme>
 <programme start="20260617143000 +0000" stop="20260617150000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Films</title>
+    <title>Trend Tracker</title>
 </programme>
 <programme start="20260617150000 +0000" stop="20260617153000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion from France</title>
+    <title>Style Icons</title>
 </programme>
 <programme start="20260617153000 +0000" stop="20260617160000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion from France</title>
+    <title>Style Icons</title>
 </programme>
 <programme start="20260617160000 +0000" stop="20260617163000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Most Watched</title>
+    <title>Fashion Evolution</title>
 </programme>
 <programme start="20260617163000 +0000" stop="20260617170000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Most Watched</title>
+    <title>Fashion Evolution</title>
 </programme>
 <programme start="20260617170000 +0000" stop="20260617173000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion News</title>
+    <title>Fashion Code</title>
 </programme>
 <programme start="20260617173000 +0000" stop="20260617180000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion News</title>
+    <title>Fashion Code</title>
 </programme>
 <programme start="20260617000000 +0000" stop="20260617010000 +0000" channel="ID.virginmediatv">
     <title>Blood Relatives - You&#039;ll Be the Death of Me</title>
@@ -4534,11 +4534,17 @@
 <programme start="20260617120000 +0000" stop="20260617130000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>UEFA Champions League Magazine</title>
 </programme>
-<programme start="20260617130000 +0000" stop="20260617133000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+<programme start="20260617130000 +0000" stop="20260617140000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>NHL Tonight</title>
+</programme>
+<programme start="20260617140000 +0000" stop="20260617143000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>Sporting Greats</title>
 </programme>
-<programme start="20260617133000 +0000" stop="20260617153000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Top 14 - Eliminator 1: Section Paloise v Racing 92</title>
+<programme start="20260617143000 +0000" stop="20260617150000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>Sporting Countdowns</title>
+</programme>
+<programme start="20260617150000 +0000" stop="20260617153000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>Sporting Countdowns</title>
 </programme>
 <programme start="20260617153000 +0000" stop="20260617173000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>Scottish League Cup - Final: St. Mirren v Celtic</title>
@@ -5167,11 +5173,17 @@
 <programme start="20260617120000 +0000" stop="20260617130000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>UEFA Champions League Magazine</title>
 </programme>
-<programme start="20260617130000 +0000" stop="20260617133000 +0000" channel="Premier_Sports_1.virginmediatv">
+<programme start="20260617130000 +0000" stop="20260617140000 +0000" channel="Premier_Sports_1.virginmediatv">
+    <title>NHL Tonight</title>
+</programme>
+<programme start="20260617140000 +0000" stop="20260617143000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>Sporting Greats</title>
 </programme>
-<programme start="20260617133000 +0000" stop="20260617153000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>Top 14 - Eliminator 1: Section Paloise v Racing 92</title>
+<programme start="20260617143000 +0000" stop="20260617150000 +0000" channel="Premier_Sports_1.virginmediatv">
+    <title>Sporting Countdowns</title>
+</programme>
+<programme start="20260617150000 +0000" stop="20260617153000 +0000" channel="Premier_Sports_1.virginmediatv">
+    <title>Sporting Countdowns</title>
 </programme>
 <programme start="20260617153000 +0000" stop="20260617173000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>Scottish League Cup - Final: St. Mirren v Celtic</title>

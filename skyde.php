@@ -2499,7 +2499,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>TEST Live BL: 1. FC Union Berlin - VfB Stuttgart, 1. Spieltag</title>
 </programme>
 <programme start="20260617120000 +0000" stop="20260617140000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
-    <title>Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
+    <title>TEST Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
 <programme start="20260617120000 +0000" stop="20260617140000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST Live BL: Bayer Leverkusen - VfL Wolfsburg, 28. Spieltag</title>
@@ -2846,11 +2846,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260617210000 +0000" stop="20260617220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2025/2026</title>
 </programme>
-<programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Lys (GER) - M. Frech (POL), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 2. Tag</title>
-</programme>
-<programme start="20260617000000 +0000" stop="20260617020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260616230000 +0000" stop="20260617010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. de Minaur (AUS) - G. Diallo (CAN), HSBC Championships in London (GBR), 2. Tag</title>
+</programme>
+<programme start="20260617010000 +0000" stop="20260617020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Rom</title>
 </programme>
 <programme start="20260617020000 +0000" stop="20260617040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - M. Frech (POL), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 2. Tag</title>
