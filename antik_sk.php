@@ -499,10 +499,10 @@
   <programme start="20260619203000 +0000" stop="20260619224500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Vojna zabijakov</title>
   </programme>
-  <programme start="20260619224500 +0000" stop="20260620003500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260619224500 +0000" stop="20260620003000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Poklad</title>
   </programme>
-  <programme start="20260620003500 +0000" stop="20260620011500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260620003000 +0000" stop="20260620011500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista V (9)</title>
   </programme>
   <programme start="20260620011500 +0000" stop="20260620021000 +0000" channel="Markíza.webtv.sk">
@@ -1246,13 +1246,13 @@
   <programme start="20260620202000 +0000" stop="20260620224000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260619200500 +0000" stop="20260619224500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260619203500 +0000" stop="20260619224500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Gold Continental Tour</title>
   </programme>
-  <programme start="20260619224500 +0000" stop="20260620003500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260619224500 +0000" stop="20260620004000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260620003500 +0000" stop="20260620012500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260620004000 +0000" stop="20260620012500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
   <programme start="20260620012500 +0000" stop="20260620040500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -19423,7 +19423,16 @@
   <programme start="20260620130000 +0000" stop="20260620140000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">90&apos;s HITPARÁDA</title>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620170000 +0000" channel="Óčko Star.webtv.sk">
+  <programme start="20260620140000 +0000" stop="20260620150000 +0000" channel="Óčko Star.webtv.sk">
+    <title lang="id">NEJVĚTŠÍ HITY</title>
+  </programme>
+  <programme start="20260620150000 +0000" stop="20260620153000 +0000" channel="Óčko Star.webtv.sk">
+    <title lang="id">DVACET LET S EWOU</title>
+  </programme>
+  <programme start="20260620153000 +0000" stop="20260620164000 +0000" channel="Óčko Star.webtv.sk">
+    <title lang="id">EWA FARNA: G2 ACOUSTIC STAGE</title>
+  </programme>
+  <programme start="20260620164000 +0000" stop="20260620170000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">NEJVĚTŠÍ HITY</title>
   </programme>
   <programme start="20260620170000 +0000" stop="20260620180000 +0000" channel="Óčko Star.webtv.sk">
