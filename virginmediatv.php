@@ -65,7 +65,7 @@
     <title>Shortland Street</title>
 </programme>
 <programme start="20260618133000 +0000" stop="20260618141000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>EastEnders</title>
+    <title>EastEnders - Eastenders 7349</title>
 </programme>
 <programme start="20260618141000 +0000" stop="20260618151000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Money List</title>
@@ -362,7 +362,7 @@
     <title>Shortland Street</title>
 </programme>
 <programme start="20260618143000 +0000" stop="20260618151000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>EastEnders</title>
+    <title>EastEnders - Eastenders 7349</title>
 </programme>
 <programme start="20260618151000 +0000" stop="20260618161000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Money List</title>

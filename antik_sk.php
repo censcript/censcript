@@ -2957,7 +2957,7 @@
     <title lang="id">Biblia</title>
   </programme>
   <programme start="20260620050000 +0000" stop="20260620061000 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Svätá liturgia z Prešova</title>
+    <title lang="id">Svätá liturgia z Bratislavy</title>
   </programme>
   <programme start="20260620061000 +0000" stop="20260620070000 +0000" channel="TV LUX.webtv.sk">
     <title lang="id">Doma je doma</title>
@@ -16139,7 +16139,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20260620111500 +0000" stop="20260620114000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Close - up (15)</title>
+    <title lang="id">Close - up (2)</title>
   </programme>
   <programme start="20260620114000 +0000" stop="20260620115000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16280,7 +16280,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20260620211500 +0000" stop="20260620214000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Close - up (15)</title>
+    <title lang="id">Close - up (2)</title>
   </programme>
   <programme start="20260620214000 +0000" stop="20260620214500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
@@ -16318,13 +16318,16 @@
   <programme start="20260620010700 +0000" stop="20260620011200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260620011200 +0000" stop="20260620015200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260620011200 +0000" stop="20260620013900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (262)</title>
   </programme>
-  <programme start="20260620015200 +0000" stop="20260620023000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260620013900 +0000" stop="20260620015500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Dekalog wg Jana Pawła II (1)</title>
+  </programme>
+  <programme start="20260620015500 +0000" stop="20260620023100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Po drugiej stronie (6)</title>
   </programme>
-  <programme start="20260620023000 +0000" stop="20260620030800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260620023100 +0000" stop="20260620030800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Opowiesci obozowe (2)</title>
   </programme>
   <programme start="20260620030800 +0000" stop="20260620035800 +0000" channel="TVP Info.webtv.sk">
@@ -16540,8 +16543,11 @@
   <programme start="20260619231000 +0000" stop="20260619233000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Polish Tales (9)</title>
   </programme>
-  <programme start="20260619233000 +0000" stop="20260620001000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620001000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Pogoda</title>
   </programme>
   <programme start="20260620001000 +0000" stop="20260620010500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Ranczo II (11)</title>
@@ -16622,7 +16628,7 @@
     <title lang="id">Muzyczne NAJ (5)</title>
   </programme>
   <programme start="20260620181000 +0000" stop="20260620183500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">World News Flash</title>
+    <title lang="id">Program informacyjny 19.30</title>
   </programme>
   <programme start="20260620183500 +0000" stop="20260620193000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Zatoka szpiegów (6)</title>
