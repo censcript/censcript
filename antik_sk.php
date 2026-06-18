@@ -424,19 +424,19 @@
   <programme start="20260620213000 +0000" stop="20260620220000 +0000" channel=":24.webtv.sk">
     <title lang="id">Cez lupu</title>
   </programme>
-  <programme start="20260619212500 +0000" stop="20260619222500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260619212000 +0000" stop="20260619222000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
   </programme>
-  <programme start="20260619222500 +0000" stop="20260619222800 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260619222000 +0000" stop="20260619222700 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260619222800 +0000" stop="20260619234500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260619222700 +0000" stop="20260619234500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Volejbal - Liga národov 2026 - Liga národov 2026 (ženy; Pasig): Srbsko - Taliansko</title>
   </programme>
-  <programme start="20260619234500 +0000" stop="20260620001500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260619234500 +0000" stop="20260620001000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbalové spomienky</title>
   </programme>
-  <programme start="20260620001500 +0000" stop="20260620002500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620001000 +0000" stop="20260620002500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
   <programme start="20260620002500 +0000" stop="20260620011500 +0000" channel=":Šport.webtv.sk">
@@ -454,47 +454,47 @@
   <programme start="20260620022500 +0000" stop="20260620031500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260620031500 +0000" stop="20260620041500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620031500 +0000" stop="20260620032500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20260620032500 +0000" stop="20260620043000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
   </programme>
-  <programme start="20260620041500 +0000" stop="20260620045000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Citrónshow</title>
   </programme>
-  <programme start="20260620045000 +0000" stop="20260620065000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620050000 +0000" stop="20260620070000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20260620065000 +0000" stop="20260620085000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620070000 +0000" stop="20260620090000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20260620085000 +0000" stop="20260620105000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620090000 +0000" stop="20260620110000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20260620105000 +0000" stop="20260620125000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620110000 +0000" stop="20260620130500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20260620125000 +0000" stop="20260620135500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620130500 +0000" stop="20260620140500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Slovak Parkour Open 2026</title>
   </programme>
-  <programme start="20260620135500 +0000" stop="20260620141000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620140500 +0000" stop="20260620142000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Federálne Góly - body - sekundy 1982</title>
   </programme>
-  <programme start="20260620141000 +0000" stop="20260620150500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260620142000 +0000" stop="20260620151500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Zlatý Belehrad 1976</title>
-  </programme>
-  <programme start="20260620150500 +0000" stop="20260620151500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Legendy o legende</title>
   </programme>
   <programme start="20260620151500 +0000" stop="20260620162000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
   </programme>
   <programme start="20260620162000 +0000" stop="20260620192000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - MS 2026 - MS 2026 (USA / Kanada / Mexiko): Holandsko - Švédsko (skupina F)</title>
+    <title lang="id">Futbal - MS 2026 - MS 2026: Holandsko - Švédsko (skupina F)</title>
   </programme>
   <programme start="20260620192000 +0000" stop="20260620193000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Momenty MS 2026</title>
+    <title lang="id">Legendy o legende</title>
   </programme>
-  <programme start="20260620193000 +0000" stop="20260620222500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - MS 2026 - MS 2026 (USA / Kanada / Mexiko): Nemecko - Pobrežie Slonoviny (skupina E)</title>
+  <programme start="20260620193000 +0000" stop="20260620221500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Futbal - MS 2026 - MS 2026: Nemecko - Pobrežie Slonoviny (skupina E)</title>
   </programme>
   <programme start="20260619203000 +0000" stop="20260619224500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Vojna zabijakov</title>
@@ -649,10 +649,10 @@
   <programme start="20260619213000 +0000" stop="20260619234500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Vojna zabijakov</title>
   </programme>
-  <programme start="20260619234500 +0000" stop="20260620013500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260619234500 +0000" stop="20260620013000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Poklad</title>
   </programme>
-  <programme start="20260620013500 +0000" stop="20260620021500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260620013000 +0000" stop="20260620021500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Mentalista V (9)</title>
   </programme>
   <programme start="20260620021500 +0000" stop="20260620031000 +0000" channel="Markíza +1.webtv.sk">
@@ -1021,10 +1021,10 @@
   <programme start="20260620061500 +0000" stop="20260620064500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom IV (7)</title>
   </programme>
-  <programme start="20260620064500 +0000" stop="20260620071000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260620064500 +0000" stop="20260620070500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom IV (8)</title>
   </programme>
-  <programme start="20260620071000 +0000" stop="20260620075000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260620070500 +0000" stop="20260620075000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom IV (9)</title>
   </programme>
   <programme start="20260620075000 +0000" stop="20260620081000 +0000" channel="Doma.webtv.sk">
@@ -1039,19 +1039,19 @@
   <programme start="20260620093500 +0000" stop="20260620103500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire VIII (10)</title>
   </programme>
-  <programme start="20260620103500 +0000" stop="20260620115500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260620103500 +0000" stop="20260620115000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260620115500 +0000" stop="20260620125000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260620115000 +0000" stop="20260620125000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sľub III (96)</title>
   </programme>
   <programme start="20260620125000 +0000" stop="20260620135000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sľub III (97)</title>
   </programme>
-  <programme start="20260620135000 +0000" stop="20260620145000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260620135000 +0000" stop="20260620145500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sľub III (98)</title>
   </programme>
-  <programme start="20260620145000 +0000" stop="20260620155000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260620145500 +0000" stop="20260620155000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sľub III (99)</title>
   </programme>
   <programme start="20260620155000 +0000" stop="20260620165000 +0000" channel="Doma.webtv.sk">
@@ -1060,10 +1060,10 @@
   <programme start="20260620165000 +0000" stop="20260620183000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Na nože IV (12)</title>
   </programme>
-  <programme start="20260620183000 +0000" stop="20260620204000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260620183000 +0000" stop="20260620204500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Ide len o sex</title>
   </programme>
-  <programme start="20260620204000 +0000" stop="20260620231500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260620204500 +0000" stop="20260620231500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Flarsky: Zrážka s láskou</title>
   </programme>
   <programme start="20260619215500 +0000" stop="20260619224000 +0000" channel="Markíza Krimi.webtv.sk">
@@ -1234,10 +1234,10 @@
   <programme start="20260620135000 +0000" stop="20260620161500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260620161500 +0000" stop="20260620165000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260620161500 +0000" stop="20260620171000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Tretí polčas</title>
   </programme>
-  <programme start="20260620165000 +0000" stop="20260620175000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260620171000 +0000" stop="20260620175000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
   <programme start="20260620175000 +0000" stop="20260620202000 +0000" channel="JOJ Šport.webtv.sk">
@@ -17950,11 +17950,8 @@
   <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
   </programme>
-  <programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260620040000 +0000" stop="20260620050000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Head to Head</title>
-  </programme>
-  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Making Peace</title>
   </programme>
   <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
@@ -19057,11 +19054,8 @@
   <programme start="20260620192500 +0000" stop="20260620212000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Piedone a Hong Kong</title>
   </programme>
-  <programme start="20260620212000 +0000" stop="20260620215000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Pane e olio</title>
-  </programme>
-  <programme start="20260620215000 +0000" stop="20260620221500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">TG3 Mondo</title>
+  <programme start="20260620212000 +0000" stop="20260620220000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Blob</title>
   </programme>
   <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Americas Now</title>

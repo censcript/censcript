@@ -916,9 +916,11 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260617220200 +0000" stop="20260617230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Fikrah</title>
-    <desc lang="en">Diskusi mengenai permasalahan dan isu-isu mengenai agama.</desc>
+    <title lang="en">Fikrah 2026</title>
+    <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260617230000 +0000" stop="20260617234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -942,15 +944,14 @@
   </programme>
   <programme start="20260618020500 +0000" stop="20260618023000 +0000" channel="tv1.unifitv">
     <title lang="en">Digital Massa</title>
-    <desc lang="en">Program majalah ini memaparkan kepentingan teknologi digital dalam membantu peniaga mengembangkan perniagaan dan menarik lebih ramai pelanggan. Ia turut mendedahkan pelbagai platform serta Teknik berkesan untuk menghadapi cabaran dalam era digital.</desc>
+    <desc lang="en">Rancangan berkaitan dengan isu-siu teknologi digital</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260618023000 +0000" stop="20260618030000 +0000" channel="tv1.unifitv">
-    <title lang="en">PelikPedia</title>
-    <desc lang="en">Sebuah majalah travelog yang memaparkan keunikan dan kepelikan sesuatu tempat. 
-Hos: Syazuwan Hassan &amp; Kiki Khor</desc>
+    <title lang="en">Pelikpedia</title>
+    <desc lang="en">Sebuah majalah travelog yang memaparkan keunikan dan kepelikan sesuatu tempat.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
@@ -964,7 +965,7 @@ Hos: Syazuwan Hassan &amp; Kiki Khor</desc>
   </programme>
   <programme start="20260618033000 +0000" stop="20260618040000 +0000" channel="tv1.unifitv">
     <title lang="en">Eksplorasi Intern</title>
-    <desc lang="en">Program majalah yang memaparkan 13 bidang kerjaya bersama pelatih-pelatih industri.</desc>
+    <desc lang="en">Sebuah program majalah yang memaparkan 13 bidang kerjaya bersama pelatih industri.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -976,8 +977,7 @@ Hos: Syazuwan Hassan &amp; Kiki Khor</desc>
   </programme>
   <programme start="20260618040500 +0000" stop="20260618050000 +0000" channel="tv1.unifitv">
     <title lang="en">Expedition With Steve Backshall</title>
-    <desc lang="en">Sebuah program dokumentari yang memaparkan pengembaraan Stece Backshall
-meneroka dan mencabar diri untuk menghadapi cabaran ekstrim di seluruh dunia.</desc>
+    <desc lang="en">Dokumentari ini memaparkan pengembaraan Steve Backshall meneroka dunia liar, mencabar diri menghadapi cabaran ekstrem dan menguji ketahanan fizikal serta mental di pelbagai lokasi menakjubkan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -988,15 +988,15 @@ meneroka dan mencabar diri untuk menghadapi cabaran ekstrim di seluruh dunia.</d
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260618053000 +0000" stop="20260618063000 +0000" channel="tv1.unifitv">
-    <title lang="en">Hola Hermosa</title>
-    <desc lang="en">Helo Hermosa</desc>
+    <title lang="en">Hola Hermosa (Ulangan)</title>
+    <desc lang="en">Kisah kehidupan keluarga yang banyak konflik dalam perniagaan, hubungan keluarga dan percintaan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260618063000 +0000" stop="20260618070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Lempeng Madu Dan Kambing</title>
-    <desc lang="en">Mengisahkan kecoh sekampung apabila Mek Nenab telah diundang untuk ditemuramah sebagai ikon veteran dan ikon usahawan bagi sebuah siaran televisyen di rumahnya. Seluruh kampung berbangga dengan pencapaian Mak Nenab kecuali Tok Sidang yang menganggap pencapaian Mek Nenab hanya kecil sahaja berbandingan dengan pencapaiannya. Pelakon: Azlee Khairi, Risteena Munim, Dalimawati, Fathil Dani, Fitri Rodriques, Danish Zamri, Adrianna Qasmia, dan Datuk Ustaz Kazim Elyas.</desc>
+    <title lang="en">Lempeng, Madu &amp; Kambing</title>
+    <desc lang="en">Sebuah drama bersiri melayu yang memaparkan kisah keluarga Mek Nenab.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
@@ -1010,6 +1010,8 @@ meneroka dan mencabar diri untuk menghadapi cabaran ekstrim di seluruh dunia.</d
     <title lang="en">Diari Rawat 2026</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260618080000 +0000" stop="20260618080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -1017,7 +1019,7 @@ meneroka dan mencabar diri untuk menghadapi cabaran ekstrim di seluruh dunia.</d
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260618080500 +0000" stop="20260618083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Gigi- Pedia</title>
+    <title lang="en">Gigi-Pedia (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang membawakan informasi berkaitan gigi yang merupakan antara struktur terkuat di dalam tubuh manusia. Para doktor turut memberikan penjelasan bagi memberikan pemahaman terperinci kepada penonton.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -1027,6 +1029,8 @@ meneroka dan mencabar diri untuk menghadapi cabaran ekstrim di seluruh dunia.</d
     <title lang="en">Biz Malaysia 2026</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.39.</episode-num>
+    <episode-num system="onscreen">S1E40</episode-num>
   </programme>
   <programme start="20260618090000 +0000" stop="20260618100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -1037,12 +1041,12 @@ meneroka dan mencabar diri untuk menghadapi cabaran ekstrim di seluruh dunia.</d
     <title lang="en">Usrati Jannati 2025</title>
     <desc lang="en">Kupasan tajuk menarik bersama pengacara dan tetamu undangan.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260618104500 +0000" stop="20260618114400 +0000" channel="tv1.unifitv">
     <title lang="en">Alergi Mamat Romantik</title>
-    <desc lang="en">Sara, seorang penulis novel yang tidak sukakan lelaki romantik, terpaksa membantu Arjuna belajar menjadi romantik hingga mereka saling jatuh cinta dan berkahwin. Namun, rumah tangga mereka diuji apabila mereka belum dikurniakan cahaya mata, membuatkan Sara merasa dirinya tidak sempurna.
-
-Pelakon : Zara Zya, Fadlan Hazim, Syazwan Zulkifly dan Aprena Manrose.</desc>
+    <desc lang="en">Mengisahkan kisah percintaan antara Kaisara dan Arjuna yang penuh kisah tersendiri.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -1063,13 +1067,13 @@ Pelakon : Zara Zya, Fadlan Hazim, Syazwan Zulkifly dan Aprena Manrose.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260618130000 +0000" stop="20260618140000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Forum Perdana Ehwal Islam</title>
-    <desc lang="en">Forum bersama tetamu jemputan membincangkan isu-isu berkaitan syariat Islam.</desc>
+    <title lang="en">LIVE : FORUM PERDANA EHWAL ISLAM</title>
+    <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260618140000 +0000" stop="20260618141500 +0000" channel="tv1.unifitv">
-    <title lang="en">Dunia 10</title>
-    <desc lang="en">Dunia 10</desc>
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260618141500 +0000" stop="20260618143000 +0000" channel="tv1.unifitv">
@@ -1079,15 +1083,14 @@ Pelakon : Zara Zya, Fadlan Hazim, Syazwan Zulkifly dan Aprena Manrose.</desc>
   </programme>
   <programme start="20260618143000 +0000" stop="20260618153000 +0000" channel="tv1.unifitv">
     <title lang="en">Sara Kirana</title>
-    <desc lang="en">Maisara yang berkahwin atas pilihan keluarga diceraikan oleh suaminya, Zulfakar. Selepas itu, dia bangkit membina hidup baharu dan Berjaya menjadi penulis terkenal dengan nama pena Sara Kirana.
-Pelakon : Mia Ahmad, Hafreez Adam, Jaslin Puasa, Eyka Farhana, Akmal Ahmad, Kuza, Rahhim Omar, Naffiz Zolkefli, Lia Natalia, Abby Nor, Fiqh Mahmood, Nor Amirah Abdullah.</desc>
+    <desc lang="en">Saksikan lakonan Mia Ahmad, Hafreez Adam, Jaslin Puasa, Eyka Farhana, Kuza dan Rahim Omar.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260618153000 +0000" stop="20260618160000 +0000" channel="tv1.unifitv">
-    <title lang="en">FIFA World Cup 2026 Preview Series</title>
-    <desc lang="en">FIFA World Cup 2026 Preview Series</desc>
+    <title lang="en">Fifa World Cup 2026 Preview Series</title>
+    <desc lang="en">Fifa World Cup 2026 Preview Series menampilkan sorotan eksklusif menjelang kejohanan terbesar dunia. Kenali pasukan pilihan, bintang tumpuan, format baharu 48 pasukan dan ramalan aksi menarik menuju kejuaraan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -15089,7 +15092,7 @@ Pelakon : Mia Ahmad, Hafreez Adam, Jaslin Puasa, Eyka Farhana, Akmal Ahmad, Kuza
   </programme>
   <programme start="20260617200000 +0000" stop="20260618015500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Muhammad vs. Bonfim - Main</title>
-    <desc lang="en">The opening event of June is set to close with a critical matchup in the welterweight division as former  champion Belal “Remember the Name” Muhammad faces off with Gabriel “Marretinha” Bonfim on Sunday, June 7 at Meta APEX in Las Vegas, Nevada. Muhammad put together an 11-fight unbeaten streak to claim the welterweight title at UFC 304, toppling Leon Edwards and aims to cement his standing amongst the division’s best by turning back the ascending Brazilian.</desc>
+    <desc lang="en">The opening event of June is set to close with a critical matchup in the welterweight division as former champion Belal “Remember the Name” Muhammad faces off with Gabriel “Marretinha” Bonfim on Sunday, June 7 at Meta APEX in Las Vegas, Nevada. Muhammad put together an 11-fight unbeaten streak to claim the welterweight title at UFC 304, toppling Leon Edwards and aims to cement his standing amongst the division's best by turning back the ascending Brazilian.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260618015500 +0000" stop="20260618020000 +0000" channel="unifisports1.unifitv">
@@ -15098,8 +15101,8 @@ Pelakon : Mia Ahmad, Hafreez Adam, Jaslin Puasa, Eyka Farhana, Akmal Ahmad, Kuza
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260618020000 +0000" stop="20260618042500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 - SEMI-FINALS 1 - MALAYSIA vs INDONESIA  - (TEAM)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">TM ISTAF World Cup 2026 - Group - MYANMAR vs MALAYSIA - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260618042500 +0000" stop="20260618043000 +0000" channel="unifisports1.unifitv">
@@ -15109,7 +15112,7 @@ Pelakon : Mia Ahmad, Hafreez Adam, Jaslin Puasa, Eyka Farhana, Akmal Ahmad, Kuza
   </programme>
   <programme start="20260618043000 +0000" stop="20260618055500 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - Group- KOREA vs MALAYSIA- (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260618055500 +0000" stop="20260618060000 +0000" channel="unifisports1.unifitv">
@@ -15117,9 +15120,44 @@ Pelakon : Mia Ahmad, Hafreez Adam, Jaslin Puasa, Eyka Farhana, Akmal Ahmad, Kuza
     <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260618060000 +0000" stop="20260618153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260618060000 +0000" stop="20260618083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 321: Aspinall vs. Gane</title>
     <desc lang="en">The UFC heavyweight world championship is on the line in Abu Dhabi as Tom Aspinall defends his undisputed crown for the first time against Ciryl Gane. Plus Mackenzie Dern battles Virna Jandiroba for the vacant Women's strawweight belt and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260618083000 +0000" stop="20260618090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 6</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260618090000 +0000" stop="20260618093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 13</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260618093000 +0000" stop="20260618100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1005: Usman vs. Edwards 2</title>
+    <desc lang="en">UFC 278 was headlined by a rematch between long reigning middleweight king Kamaru “The Nigerian Nightmare” Usman and UFC vet Leon “Rocky” Edwards. See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260618100000 +0000" stop="20260618130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) AFL Premiership Season - Round 15 - Fremantle v Geelong Cats</title>
+    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260618130000 +0000" stop="20260618135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 314: Volkanovski vs Lopes</title>
+    <desc lang="en">UFC 314 previews the promotion's return to Miami, where former featherweight king Alexander Volkanovski squares off against Diego Lopes for the vacant featherweight crown. Plus, lightweights collide as Michael Chandler takes on Paddy Pimblett.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260618135500 +0000" stop="20260618140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260618140000 +0000" stop="20260618193000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Freedom 250: Topuria vs. Gaethje - Main</title>
+    <desc lang="en">On Sunday, June 15, the Octagon comes to Washington, D.C. as UFC Freedom 250 brings a star-studded lineup to The White House. In the main event, undefeated lightweight champion Ilia “El Matador” Topuria faces off with interim titleholder Justin “The Highlight” Gaethje to determine who is the undisputed best in the 155-pound weight class. In the co-main event, former middleweight and light heavyweight champion Alex “Poatan” Pereira looks to become the first fighter to hold UFC gold in three weight classes as he squares off with Ciryl “Bon Gamin” Gane in a clash for the interim UFC heavyweight title.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">

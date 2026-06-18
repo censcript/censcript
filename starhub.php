@@ -3116,7 +3116,7 @@
         <title>Small Pacific islands with a big strategy</title>
     </programme>
     <programme start="20260617193000 +0000" stop="20260617200000 +0000" channel="DW English HD.starhub">
-        <title>Could YOU Still Afford to Live in Cape Town Today?</title>
+        <title>News</title>
     </programme>
     <programme start="20260617200000 +0000" stop="20260617203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6011,7 +6011,7 @@
         <title>1700 Afternoon News</title>
     </programme>
     <programme start="20260618100000 +0000" stop="20260618110000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1800/1900 Evening News</title>
+        <title>9/11/25</title>
     </programme>
     <programme start="20260618110000 +0000" stop="20260618120000 +0000" channel="TVBS-NEWS.starhub">
         <title>1800/1900 Evening News</title>

@@ -2668,7 +2668,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>DFB-Pokal: Highlights XXL: FC Bayern München - VfB Stuttgart, Finale 2026</title>
 </programme>
 <programme start="20260618134500 +0000" stop="20260618140000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
+    <title>NHL: Das NHL-Sommerinterview mit JJ. Peterka (Utah Mammoth)</title>
 </programme>
 <programme start="20260618140000 +0000" stop="20260618170000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Special Olympics: 3x3 Basketball</title>

@@ -554,7 +554,7 @@
         <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20260618130000 +0000" stop="20260618140000 +0000" channel="CNA.mewatch">
-        <title>Insight 2026/2027 - EP 6</title>
+        <title>Insight - EP 6</title>
     </programme>
     <programme start="20260618140000 +0000" stop="20260618150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>
