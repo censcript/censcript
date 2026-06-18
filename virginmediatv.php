@@ -3806,7 +3806,7 @@
     <title>Live: WNBA Basketball - Commissioner&#039;s Cup: Las Vegas Aces at Phoenix Mercury</title>
 </programme>
 <programme start="20260618043000 +0000" stop="20260618050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618050000 +0000" stop="20260618060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report - Group L: England v Croatia</title>
@@ -3881,19 +3881,19 @@
     <title>Premier League Review - Goals Of The Season 2025/2026</title>
 </programme>
 <programme start="20260618000000 +0000" stop="20260618010000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618010000 +0000" stop="20260618020000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618020000 +0000" stop="20260618030000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618030000 +0000" stop="20260618040000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618040000 +0000" stop="20260618050000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618050000 +0000" stop="20260618074500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Cup Retro - 2016: Manchester City v Liverpool</title>
@@ -4553,7 +4553,7 @@
     <title>Live: WNBA Basketball - Commissioner&#039;s Cup: Las Vegas Aces at Phoenix Mercury</title>
 </programme>
 <programme start="20260618043000 +0000" stop="20260618050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618050000 +0000" stop="20260618060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report - Group L: England v Croatia</title>
@@ -4628,19 +4628,19 @@
     <title>Premier League Review - Goals Of The Season 2025/2026</title>
 </programme>
 <programme start="20260618000000 +0000" stop="20260618010000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618010000 +0000" stop="20260618020000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618020000 +0000" stop="20260618030000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618030000 +0000" stop="20260618040000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618040000 +0000" stop="20260618050000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Croatia</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260618050000 +0000" stop="20260618074500 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Cup Retro - 2016: Manchester City v Liverpool</title>

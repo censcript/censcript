@@ -939,40 +939,37 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260617220000 +0000" stop="20260618060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20260618060000 +0000" stop="20260618080000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: FC Bayern München - VFB Stuttgart</title>
+<programme start="20260618060000 +0000" stop="20260618090000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga Konferenz 25/26: 34. Spieltag</title>
 </programme>
-<programme start="20260618080000 +0000" stop="20260618090000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618090000 +0000" stop="20260618093500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260618090000 +0000" stop="20260618094000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618093500 +0000" stop="20260618103000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 34. Spieltag</title>
 </programme>
-<programme start="20260618094000 +0000" stop="20260618104000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618103000 +0000" stop="20260618113000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 35. Spieltag</title>
 </programme>
-<programme start="20260618104000 +0000" stop="20260618113500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618113000 +0000" stop="20260618120500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260618113500 +0000" stop="20260618132500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618120500 +0000" stop="20260618140500 +0000" channel="DAZN 1 HD.skyde">
     <title>Coppa Italia 25/26: Inter Mailand - Como 1907</title>
 </programme>
-<programme start="20260618132500 +0000" stop="20260618154000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618140500 +0000" stop="20260618162000 +0000" channel="DAZN 1 HD.skyde">
     <title>Coppa Italia 25/26: Lazio Rom - Inter Mailand</title>
 </programme>
-<programme start="20260618154000 +0000" stop="20260618162500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618162000 +0000" stop="20260618171500 +0000" channel="DAZN 1 HD.skyde">
     <title>The Late Kick: Folge 1. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260618162500 +0000" stop="20260618171500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618171500 +0000" stop="20260618175000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260618171500 +0000" stop="20260618173000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260618173000 +0000" stop="20260618181500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618175000 +0000" stop="20260618184500 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 36. Spieltag</title>
 </programme>
-<programme start="20260618181500 +0000" stop="20260618191000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260618184500 +0000" stop="20260618191000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260618191000 +0000" stop="20260618210500 +0000" channel="DAZN 1 HD.skyde">
@@ -2643,10 +2640,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260617234500 +0000" stop="20260618000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20260618000000 +0000" stop="20260618020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260618000000 +0000" stop="20260618021500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: New York Liberty @ Chicago Sky</title>
 </programme>
-<programme start="20260618020000 +0000" stop="20260618043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260618021500 +0000" stop="20260618043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Las Vegas Aces @ Phoenix Mercury</title>
 </programme>
 <programme start="20260618043000 +0000" stop="20260618044500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2736,7 +2733,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260618160000 +0000" stop="20260618163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show</title>
 </programme>
-<programme start="20260618163000 +0000" stop="20260618200000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260618163000 +0000" stop="20260618173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20260618173000 +0000" stop="20260618174500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20260618174500 +0000" stop="20260618180000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: DFB-PK aus Winston-Salem</title>
+</programme>
+<programme start="20260618180000 +0000" stop="20260618200000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260618200000 +0000" stop="20260618203000 +0000" channel="Sky Sport News HD.skyde">
