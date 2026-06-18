@@ -5,7 +5,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260618042500 +0000" stop="20260618051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Tonight Show</title>
+    <title>The Tonight Show - The Tonight Show - Wed, 17 Jun</title>
 </programme>
 <programme start="20260618051500 +0000" stop="20260618060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Six O&#039;Clock Show</title>
@@ -455,7 +455,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260618052500 +0000" stop="20260618061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>The Tonight Show</title>
+    <title>The Tonight Show - The Tonight Show - Wed, 17 Jun</title>
 </programme>
 <programme start="20260618100000 +0000" stop="20260618123000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>This Morning</title>
@@ -4381,8 +4381,11 @@
 <programme start="20260618171500 +0000" stop="20260618173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UEFA Conference League Goals Reload - Crystal Palace</title>
 </programme>
-<programme start="20260618173000 +0000" stop="20260618200000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: European Championship Fencing - Day 3</title>
+<programme start="20260618173000 +0000" stop="20260618174500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>UEFA Champions League Goals Reload - Arsenal</title>
+</programme>
+<programme start="20260618174500 +0000" stop="20260618182000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>TNT Sports Reload</title>
 </programme>
 <programme start="20260618000000 +0000" stop="20260618010000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>International T20 Cricket - 1st T20: Bangladesh v Australia</title>
@@ -5020,8 +5023,11 @@
 <programme start="20260618171500 +0000" stop="20260618173000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>UEFA Conference League Goals Reload - Crystal Palace</title>
 </programme>
-<programme start="20260618173000 +0000" stop="20260618200000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Live: European Championship Fencing - Day 3</title>
+<programme start="20260618173000 +0000" stop="20260618174500 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>UEFA Champions League Goals Reload - Arsenal</title>
+</programme>
+<programme start="20260618174500 +0000" stop="20260618182000 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>TNT Sports Reload</title>
 </programme>
 <programme start="20260618000000 +0000" stop="20260618010000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>International T20 Cricket - 1st T20: Bangladesh v Australia</title>
@@ -6205,7 +6211,10 @@
 <programme start="20260617175800 +0000" stop="20260618015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260618015800 +0000" stop="20260618060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260618015800 +0000" stop="20260618050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260618050000 +0000" stop="20260618060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260618115000 +0000" stop="20260618121500 +0000" channel="CBBC.virginmediatv">
