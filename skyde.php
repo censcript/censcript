@@ -2668,7 +2668,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>DFB-Pokal: Highlights XXL: FC Bayern München - VfB Stuttgart, Finale 2026</title>
 </programme>
 <programme start="20260618134500 +0000" stop="20260618140000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Das NHL-Sommerinterview mit JJ. Peterka (Utah Mammoth)</title>
+    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
 </programme>
 <programme start="20260618140000 +0000" stop="20260618170000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Special Olympics: 3x3 Basketball</title>
@@ -2865,22 +2865,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260618210000 +0000" stop="20260618220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review of the Season 2025/2026</title>
 </programme>
-<programme start="20260617233000 +0000" stop="20260618020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260618000000 +0000" stop="20260618023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: K. Majchrzak (POL) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
-<programme start="20260618020000 +0000" stop="20260618023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260618023000 +0000" stop="20260618030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260618023000 +0000" stop="20260618043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260618030000 +0000" stop="20260618043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - E. Alexandrova, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 3. Tag</title>
 </programme>
-<programme start="20260618043000 +0000" stop="20260618063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260618043000 +0000" stop="20260618064500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. de Minaur (AUS) - D. Shapovalov (CAN), HSBC Championships in London (GBR), 3. Tag</title>
 </programme>
-<programme start="20260618063000 +0000" stop="20260618070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260618064500 +0000" stop="20260618071500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260618070000 +0000" stop="20260618090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260618071500 +0000" stop="20260618090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - E. Alexandrova, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 3. Tag</title>
 </programme>
 <programme start="20260618090000 +0000" stop="20260618183000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2890,7 +2890,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: K. Majchrzak (POL) - A. de Minaur (AUS), Libema Open in s&#039;Hertogenbosch (NED), Finale</title>
 </programme>
 <programme start="20260618210000 +0000" stop="20260618230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
+    <title>WTA 500: E. Lys (GER) - E. Svitolina (UKR), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
 </programme>
 <programme start="20260617222500 +0000" stop="20260618000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
@@ -2934,7 +2934,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260618084000 +0000" stop="20260618090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260618090000 +0000" stop="20260618193000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260618090000 +0000" stop="20260618173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
 </programme>
 <programme start="20260617222000 +0000" stop="20260617225000 +0000" channel="Sky Sport 2 HD.skyde">
