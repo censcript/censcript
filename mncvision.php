@@ -4261,7 +4261,84 @@
 <programme start="20260618160000 +0000" stop="20260618163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Wayang Kulit Special</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260617173500 +0000" stop="20260617183000 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S12, Ep 17</title>
+</programme>
+<programme start="20260617183000 +0000" stop="20260617192500 +0000" channel="History.mncvision">
+    <title>Secrets Declassified S1, Ep 8</title>
+</programme>
+<programme start="20260617192500 +0000" stop="20260617202000 +0000" channel="History.mncvision">
+    <title>Hidden Cities S2, Ep 1</title>
+</programme>
+<programme start="20260617202000 +0000" stop="20260617211500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 16</title>
+</programme>
+<programme start="20260617211500 +0000" stop="20260617221000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S1, Ep 5</title>
+</programme>
+<programme start="20260617221000 +0000" stop="20260617230500 +0000" channel="History.mncvision">
+    <title>Mountain Men S13, Ep 5</title>
+</programme>
+<programme start="20260617230500 +0000" stop="20260618000000 +0000" channel="History.mncvision">
+    <title>Hidden Cities S2, Ep 1</title>
+</programme>
+<programme start="20260618000000 +0000" stop="20260618005500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 16</title>
+</programme>
+<programme start="20260618005500 +0000" stop="20260618015500 +0000" channel="History.mncvision">
+    <title>Swamp People S15, Ep 10</title>
+</programme>
+<programme start="20260618015500 +0000" stop="20260618025000 +0000" channel="History.mncvision">
+    <title>The UnBelievable S1, Ep 5</title>
+</programme>
+<programme start="20260618025000 +0000" stop="20260618034500 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S12, Ep 17</title>
+</programme>
+<programme start="20260618034500 +0000" stop="20260618044000 +0000" channel="History.mncvision">
+    <title>Secrets Declassified S1, Ep 8</title>
+</programme>
+<programme start="20260618044000 +0000" stop="20260618053500 +0000" channel="History.mncvision">
+    <title>Mountain Men S13, Ep 5</title>
+</programme>
+<programme start="20260618053500 +0000" stop="20260618063000 +0000" channel="History.mncvision">
+    <title>Hidden Cities S2, Ep 1</title>
+</programme>
+<programme start="20260618063000 +0000" stop="20260618072500 +0000" channel="History.mncvision">
+    <title>The UnBelievable S1, Ep 5</title>
+</programme>
+<programme start="20260618072500 +0000" stop="20260618082000 +0000" channel="History.mncvision">
+    <title>Secrets Declassified S1, Ep 8</title>
+</programme>
+<programme start="20260618082000 +0000" stop="20260618092000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 16</title>
+</programme>
+<programme start="20260618092000 +0000" stop="20260618101500 +0000" channel="History.mncvision">
+    <title>Swamp People S15, Ep 10</title>
+</programme>
+<programme start="20260618101500 +0000" stop="20260618111000 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S2, Ep 2</title>
+</programme>
+<programme start="20260618111000 +0000" stop="20260618120500 +0000" channel="History.mncvision">
+    <title>Alone S11, Ep 11</title>
+</programme>
+<programme start="20260618120500 +0000" stop="20260618130000 +0000" channel="History.mncvision">
+    <title>Forged In Fire S10, Ep 11</title>
+</programme>
+<programme start="20260618130000 +0000" stop="20260618135500 +0000" channel="History.mncvision">
+    <title>Food That Built World S4, Ep 40</title>
+</programme>
+<programme start="20260618135500 +0000" stop="20260618145000 +0000" channel="History.mncvision">
+    <title>Food That Built World S4, Ep 41</title>
+</programme>
+<programme start="20260618145000 +0000" stop="20260618154500 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 38</title>
+</programme>
+<programme start="20260618154500 +0000" stop="20260618164000 +0000" channel="History.mncvision">
+    <title>The UnXplained S3, Ep 39</title>
+</programme>
+<programme start="20260618164000 +0000" stop="20260617171000 +0000" channel="History.mncvision">
+    <title>Forged In Fire S10, Ep 11</title>
+</programme>
 <programme start="20260617170000 +0000" stop="20260617180000 +0000" channel="HITS.mncvision">
     <title>CSI S2, Ep 5</title>
 </programme>
@@ -4493,7 +4570,96 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260618163000 +0000" stop="20260617170000 +0000" channel="IDX.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260617173000 +0000" stop="20260617183000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260617183000 +0000" stop="20260617193000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260617193000 +0000" stop="20260617203000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 2nd Session Closing Market</title>
+</programme>
+<programme start="20260617203000 +0000" stop="20260617213000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260617213000 +0000" stop="20260617220000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20260617220000 +0000" stop="20260617230000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260617230000 +0000" stop="20260618000000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 2nd Session Closing Market</title>
+</programme>
+<programme start="20260618000000 +0000" stop="20260618010000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260618010000 +0000" stop="20260618013000 +0000" channel="IDX HD.mncvision">
+    <title>News Screen</title>
+</programme>
+<programme start="20260618013000 +0000" stop="20260618023000 +0000" channel="IDX HD.mncvision">
+    <title>Market Buzz (L)</title>
+</programme>
+<programme start="20260618023000 +0000" stop="20260618030000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260618030000 +0000" stop="20260618040000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260618040000 +0000" stop="20260618050000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260618050000 +0000" stop="20260618053000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20260618053000 +0000" stop="20260618063000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260618063000 +0000" stop="20260618070000 +0000" channel="IDX HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20260618070000 +0000" stop="20260618073000 +0000" channel="IDX HD.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20260618073000 +0000" stop="20260618083000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260618083000 +0000" stop="20260618093000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20260618093000 +0000" stop="20260618100000 +0000" channel="IDX HD.mncvision">
+    <title>News Screen</title>
+</programme>
+<programme start="20260618100000 +0000" stop="20260618103000 +0000" channel="IDX HD.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20260618103000 +0000" stop="20260618110000 +0000" channel="IDX HD.mncvision">
+    <title>Kalaparan</title>
+</programme>
+<programme start="20260618110000 +0000" stop="20260618113000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20260618113000 +0000" stop="20260618120000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260618120000 +0000" stop="20260618130000 +0000" channel="IDX HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260618130000 +0000" stop="20260618140000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight (L)</title>
+</programme>
+<programme start="20260618140000 +0000" stop="20260618143000 +0000" channel="IDX HD.mncvision">
+    <title>Special Talk</title>
+</programme>
+<programme start="20260618143000 +0000" stop="20260618153000 +0000" channel="IDX HD.mncvision">
+    <title>The Fundamentals</title>
+</programme>
+<programme start="20260618153000 +0000" stop="20260618163000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 2nd Session Closing Market</title>
+</programme>
+<programme start="20260618163000 +0000" stop="20260617170000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20260617182500 +0000" stop="20260617200000 +0000" channel="IMC.mncvision">
     <title>Karmila</title>
 </programme>
@@ -8238,7 +8404,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260618150000 +0000" stop="20260618153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Women Pro Futsal League</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260617170000 +0000" stop="20260617190000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260617190000 +0000" stop="20260617210000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U17 Asian Cup 2026</title>
+</programme>
+<programme start="20260617210000 +0000" stop="20260617230000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260617230000 +0000" stop="20260618010000 +0000" channel="Sportstars 4.mncvision">
+    <title>Women Pro Futsal League</title>
+</programme>
+<programme start="20260618010000 +0000" stop="20260618030000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U17 Asian Cup 2026</title>
+</programme>
+<programme start="20260618030000 +0000" stop="20260618050000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260618050000 +0000" stop="20260618070000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260618070000 +0000" stop="20260618090000 +0000" channel="Sportstars 4.mncvision">
+    <title>Women Pro Futsal League</title>
+</programme>
+<programme start="20260618090000 +0000" stop="20260618110000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U17 Asian Cup 2026</title>
+</programme>
+<programme start="20260618110000 +0000" stop="20260618130000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260618130000 +0000" stop="20260618150000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260618150000 +0000" stop="20260618153000 +0000" channel="Sportstars 4.mncvision">
+    <title>Women Pro Futsal League</title>
+</programme>
 <programme start="20260617170000 +0000" stop="20260617190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>V-League Women</title>
 </programme>
@@ -8374,7 +8575,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260618160000 +0000" stop="20260618163000 +0000" channel="SPOTV.mncvision">
     <title>2026 U.S. Open C&#039;ship (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260617173000 +0000" stop="20260617180000 +0000" channel="SPOTV 2.mncvision">
+    <title>A-League Men Finals: Highlights</title>
+</programme>
+<programme start="20260617180000 +0000" stop="20260617201500 +0000" channel="SPOTV 2.mncvision">
+    <title>Longines Global Champions Tour</title>
+</programme>
+<programme start="20260617201500 +0000" stop="20260617220000 +0000" channel="SPOTV 2.mncvision">
+    <title>Longines Global Champions Tour</title>
+</programme>
+<programme start="20260617220000 +0000" stop="20260617230000 +0000" channel="SPOTV 2.mncvision">
+    <title>International Series Morocco</title>
+</programme>
+<programme start="20260617230000 +0000" stop="20260618000000 +0000" channel="SPOTV 2.mncvision">
+    <title>2026 MotoGP Of Hungary</title>
+</programme>
+<programme start="20260618000000 +0000" stop="20260618020000 +0000" channel="SPOTV 2.mncvision">
+    <title>E1 World C&#039;ship Dubrovnik</title>
+</programme>
+<programme start="20260618020000 +0000" stop="20260618043000 +0000" channel="SPOTV 2.mncvision">
+    <title>2026 MLB: TBJ Vs NYY</title>
+</programme>
+<programme start="20260618043000 +0000" stop="20260618053000 +0000" channel="SPOTV 2.mncvision">
+    <title>FIA TCR World Tour: Valencia</title>
+</programme>
+<programme start="20260618053000 +0000" stop="20260618064500 +0000" channel="SPOTV 2.mncvision">
+    <title>FIA TCR World Tour: Valencia</title>
+</programme>
+<programme start="20260618064500 +0000" stop="20260618090000 +0000" channel="SPOTV 2.mncvision">
+    <title>Longines Global Champions Tour</title>
+</programme>
+<programme start="20260618090000 +0000" stop="20260618140000 +0000" channel="SPOTV 2.mncvision">
+    <title>2026 FIM Endurance World C&#039;ship</title>
+</programme>
+<programme start="20260618140000 +0000" stop="20260618143000 +0000" channel="SPOTV 2.mncvision">
+    <title>2026 FIM Endurance World C&#039;ship</title>
+</programme>
 <programme start="20260617173000 +0000" stop="20260617180000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men Finals: Highlights</title>
 </programme>
@@ -9020,13 +9256,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260618114500 +0000" stop="20260618130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260618130000 +0000" stop="20260618140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20260618140000 +0000" stop="20260618160000 +0000" channel="Trans TV.mncvision">
+<programme start="20260618130000 +0000" stop="20260618150000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260618160000 +0000" stop="20260618163000 +0000" channel="Trans TV.mncvision">
+<programme start="20260618150000 +0000" stop="20260618153000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260617171500 +0000" stop="20260617183000 +0000" channel="tvN.mncvision">

@@ -2008,11 +2008,8 @@
     <programme start="20260618140000 +0000" stop="20260618150000 +0000" channel="CNN HD.starhub">
         <title>Thursday, June 18, 2026 10am ET</title>
     </programme>
-    <programme start="20260618150000 +0000" stop="20260618153000 +0000" channel="CNN HD.starhub">
-        <title>Thursday, June 18, 2026 11am ET</title>
-    </programme>
-    <programme start="20260618153000 +0000" stop="20260618160000 +0000" channel="CNN HD.starhub">
-        <title>Thursday, June 18, 2026 1130am ET</title>
+    <programme start="20260618150000 +0000" stop="20260618160000 +0000" channel="CNN HD.starhub">
+        <title>Friday, June 19, 2026 11am ET</title>
     </programme>
     <programme start="20260617133000 +0000" stop="20260617170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Em Mahan</title>
@@ -8131,7 +8128,7 @@
     <programme start="20260618153000 +0000" stop="20260618155500 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260618155500 +0000" stop="20260618160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260618155500 +0000" stop="20260618170000 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
     <programme start="20260617160000 +0000" stop="20260617163000 +0000" channel="Travelxp HD.starhub">
