@@ -2422,7 +2422,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 500: Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260619173000 +0000" stop="20260619193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 5. Tag</title>
+    <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260619193000 +0000" stop="20260619194500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Rot-Weiß-Roadtrip</title>
@@ -2431,7 +2431,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Best Of)</title>
 </programme>
 <programme start="20260619201500 +0000" stop="20260619221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 5. Tag</title>
+    <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260618220500 +0000" stop="20260618224000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Miron Muslic</title>
@@ -2565,7 +2565,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Monaco</title>
 </programme>
-<programme start="20260619003000 +0000" stop="20260619030000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260619000000 +0000" stop="20260619030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag 2023 in Los Angeles, CA (USA)</title>
 </programme>
 <programme start="20260619030000 +0000" stop="20260619031500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2847,25 +2847,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619213000 +0000" stop="20260619223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2025/2026</title>
 </programme>
-<programme start="20260618230000 +0000" stop="20260619010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: H. Medjedovic (SRB)  - U. Humbert (FRA), HSBC Championships in London (GBR), 4. Tag</title>
+<programme start="20260618224000 +0000" stop="20260619000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: E. Lys (GER) - E. Svitolina (UKR), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
 </programme>
-<programme start="20260619010000 +0000" stop="20260619013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260619000000 +0000" stop="20260619020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Davidovich Fokina (ESP)  - C. Moutet (FRA), HSBC Championships in London (GBR), 4. Tag</title>
+</programme>
+<programme start="20260619020000 +0000" stop="20260619023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
 </programme>
-<programme start="20260619013000 +0000" stop="20260619020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260619023000 +0000" stop="20260619030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
-<programme start="20260619020000 +0000" stop="20260619043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260619030000 +0000" stop="20260619053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
-<programme start="20260619043000 +0000" stop="20260619050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: All Access Magazine Show</title>
+<programme start="20260619053000 +0000" stop="20260619073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Davidovich Fokina (ESP)  - C. Moutet (FRA), HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
-<programme start="20260619050000 +0000" stop="20260619070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: H. Medjedovic (SRB)  - U. Humbert (FRA), HSBC Championships in London (GBR), 4. Tag</title>
-</programme>
-<programme start="20260619070000 +0000" stop="20260619090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260619073000 +0000" stop="20260619090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - E. Svitolina (UKR), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
 </programme>
 <programme start="20260619090000 +0000" stop="20260619183000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2875,13 +2875,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260619210000 +0000" stop="20260619230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
+    <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
-<programme start="20260619000000 +0000" stop="20260619010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260619003000 +0000" stop="20260619013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
-</programme>
-<programme start="20260619010000 +0000" stop="20260619013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Action</title>
 </programme>
 <programme start="20260619013000 +0000" stop="20260619033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: E. Lys (GER) - E. Svitolina (UKR), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
@@ -2964,7 +2961,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619084000 +0000" stop="20260619090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260619090000 +0000" stop="20260619173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260619090000 +0000" stop="20260619193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
 <programme start="20260619002000 +0000" stop="20260619005000 +0000" channel="Sky Sport 2 HD.skyde">

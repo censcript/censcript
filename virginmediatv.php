@@ -136,10 +136,10 @@
 <programme start="20260619000000 +0000" stop="20260619005000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>I Kissed a Girl</title>
 </programme>
-<programme start="20260619005000 +0000" stop="20260619011200 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260619005000 +0000" stop="20260619011700 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Transaction - There There</title>
 </programme>
-<programme start="20260619011200 +0000" stop="20260619060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260619011700 +0000" stop="20260619060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260619115500 +0000" stop="20260619122500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -2363,25 +2363,22 @@
     <title>The Iran War This Week</title>
 </programme>
 <programme start="20260619000000 +0000" stop="20260619010000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619010000 +0000" stop="20260619020000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619020000 +0000" stop="20260619030000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619030000 +0000" stop="20260619040000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619040000 +0000" stop="20260619050000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
-<programme start="20260619050000 +0000" stop="20260619053000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Mornings with Jones and Melbourne</title>
-</programme>
-<programme start="20260619053000 +0000" stop="20260619060000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Mornings with Jones and Melbourne</title>
+<programme start="20260619050000 +0000" stop="20260619060000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="Sky_News_HD.virginmediatv">
     <title>Sky News Today</title>
@@ -2656,8 +2653,11 @@
 <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="CNN_HD.virginmediatv">
     <title>Connect the World</title>
 </programme>
-<programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="CNN_HD.virginmediatv">
+<programme start="20260619150000 +0000" stop="20260619153000 +0000" channel="CNN_HD.virginmediatv">
     <title>One World With Zain Asher and Bianna Golodryga</title>
+</programme>
+<programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="CNN_HD.virginmediatv">
+    <title>CNN Creators</title>
 </programme>
 <programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="CNN_HD.virginmediatv">
     <title>One World With Zain Asher and Bianna Golodryga</title>
@@ -3733,7 +3733,10 @@
 <programme start="20260619003000 +0000" stop="20260619043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - Texas Super Kings v Seattle Orcas</title>
 </programme>
-<programme start="20260619043000 +0000" stop="20260619060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260619043000 +0000" stop="20260619050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260619050000 +0000" stop="20260619060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260619091500 +0000" stop="20260619173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4270,8 +4273,11 @@
 <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>The Cycling Show</title>
 </programme>
-<programme start="20260619133000 +0000" stop="20260619163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260619133000 +0000" stop="20260619160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Tour de Suisse - Men&#039;s Stage 3</title>
+</programme>
+<programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: UCI World Cup Mountain Biking - Lenzerheide: Women&#039;s Cross-Country Short Track</title>
 </programme>
 <programme start="20260619163000 +0000" stop="20260619174500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: UCI World Cup Mountain Biking - Lenzerheide: Men&#039;s Cross-Country Short Track</title>
@@ -4474,7 +4480,10 @@
 <programme start="20260619003000 +0000" stop="20260619043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - Texas Super Kings v Seattle Orcas</title>
 </programme>
-<programme start="20260619043000 +0000" stop="20260619060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260619043000 +0000" stop="20260619050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260619050000 +0000" stop="20260619060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260619091500 +0000" stop="20260619173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4897,8 +4906,11 @@
 <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>The Cycling Show</title>
 </programme>
-<programme start="20260619133000 +0000" stop="20260619163000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260619133000 +0000" stop="20260619160000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Tour de Suisse - Men&#039;s Stage 3</title>
+</programme>
+<programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Live: UCI World Cup Mountain Biking - Lenzerheide: Women&#039;s Cross-Country Short Track</title>
 </programme>
 <programme start="20260619163000 +0000" stop="20260619174500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: UCI World Cup Mountain Biking - Lenzerheide: Men&#039;s Cross-Country Short Track</title>
@@ -7010,25 +7022,22 @@
     <title>Guy Garvey: From the Vaults - 1985 Revisited</title>
 </programme>
 <programme start="20260619000000 +0000" stop="20260619010000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619010000 +0000" stop="20260619020000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619020000 +0000" stop="20260619030000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619030000 +0000" stop="20260619040000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619040000 +0000" stop="20260619050000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News</title>
+    <title>Vote 2026: By-Election Special</title>
 </programme>
-<programme start="20260619050000 +0000" stop="20260619053000 +0000" channel="Sky_News.virginmediatv">
-    <title>Mornings with Jones and Melbourne</title>
-</programme>
-<programme start="20260619053000 +0000" stop="20260619060000 +0000" channel="Sky_News.virginmediatv">
-    <title>Mornings with Jones and Melbourne</title>
+<programme start="20260619050000 +0000" stop="20260619060000 +0000" channel="Sky_News.virginmediatv">
+    <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News Today</title>

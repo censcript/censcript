@@ -3805,8 +3805,11 @@
   <programme start="20260621174000 +0000" stop="20260621175500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Krimi zprávy</title>
   </programme>
-  <programme start="20260621175500 +0000" stop="20260621181500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260621175500 +0000" stop="20260621180000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">SHOWTIME</title>
+  </programme>
+  <programme start="20260621180000 +0000" stop="20260621181500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Slavnostní koncert pro nové svatovítské varhany</title>
   </programme>
   <programme start="20260621181500 +0000" stop="20260621184000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Hlasy zločinu</title>
@@ -3817,10 +3820,10 @@
   <programme start="20260621190000 +0000" stop="20260621193000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260621193000 +0000" stop="20260621200000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260621193000 +0000" stop="20260621193500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Spáleniště... Příběhy hasičů</title>
   </programme>
-  <programme start="20260621200000 +0000" stop="20260621204500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260621193500 +0000" stop="20260621204500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
   <programme start="20260621204500 +0000" stop="20260621215000 +0000" channel="CNN Prima News.webtv.sk">
@@ -4090,11 +4093,14 @@
   <programme start="20260620214000 +0000" stop="20260620234500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Místo činu: Schimanski (6)</title>
   </programme>
-  <programme start="20260620234500 +0000" stop="20260621020500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260620234500 +0000" stop="20260621020000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Let</title>
   </programme>
-  <programme start="20260621020500 +0000" stop="20260621034000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260621020000 +0000" stop="20260621033500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Otec Braun (6)</title>
+  </programme>
+  <programme start="20260621033500 +0000" stop="20260621034000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Výleťák (207)</title>
   </programme>
   <programme start="20260621034000 +0000" stop="20260621035000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">U stánku II (2)</title>
@@ -16297,10 +16303,10 @@
   <programme start="20260620230000 +0000" stop="20260620232000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260620232000 +0000" stop="20260620234500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260620232000 +0000" stop="20260620234300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (720)</title>
   </programme>
-  <programme start="20260620234500 +0000" stop="20260620235000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260620234300 +0000" stop="20260620235000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260620235000 +0000" stop="20260621002000 +0000" channel="TVP Info.webtv.sk">
@@ -16309,25 +16315,25 @@
   <programme start="20260621002000 +0000" stop="20260621004500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260621004500 +0000" stop="20260621005200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621004500 +0000" stop="20260621005100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260621005200 +0000" stop="20260621012500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621005100 +0000" stop="20260621012300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kod bezpieczenstwa (42)</title>
   </programme>
-  <programme start="20260621012500 +0000" stop="20260621014500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621012300 +0000" stop="20260621014800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Sprawdzamy (142)</title>
   </programme>
-  <programme start="20260621014500 +0000" stop="20260621021900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621014800 +0000" stop="20260621022000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Ocalic od zapomnienia. Kosciół sw. Wojciecha 1944</title>
   </programme>
-  <programme start="20260621021900 +0000" stop="20260621031700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621022000 +0000" stop="20260621031800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Muzyczna wyspa</title>
   </programme>
-  <programme start="20260621031700 +0000" stop="20260621034000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621031800 +0000" stop="20260621034100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rok w ogrodzie (1170)</title>
   </programme>
-  <programme start="20260621034000 +0000" stop="20260621035800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621034100 +0000" stop="20260621035800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rok w ogrodzie Extra (443)</title>
   </programme>
   <programme start="20260621035800 +0000" stop="20260621040000 +0000" channel="TVP Info.webtv.sk">
@@ -16507,13 +16513,13 @@
   <programme start="20260621194500 +0000" stop="20260621201000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama</title>
   </programme>
-  <programme start="20260621201000 +0000" stop="20260621203200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621201000 +0000" stop="20260621203100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (782)</title>
   </programme>
-  <programme start="20260621203200 +0000" stop="20260621213200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621203100 +0000" stop="20260621213100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Woronicza 17 (655)</title>
   </programme>
-  <programme start="20260621213200 +0000" stop="20260621220300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621213100 +0000" stop="20260621220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
   <programme start="20260620214500 +0000" stop="20260620224000 +0000" channel="TVP Polonia.webtv.sk">
