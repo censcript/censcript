@@ -2381,10 +2381,10 @@
     <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
+    <title>Vote 2026</title>
 </programme>
 <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
+    <title>Vote 2026</title>
 </programme>
 <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="Sky_News_HD.virginmediatv">
     <title>Sky News Today</title>
@@ -6151,7 +6151,10 @@
 <programme start="20260618175800 +0000" stop="20260619015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260619015800 +0000" stop="20260619060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260619015800 +0000" stop="20260619050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260619050000 +0000" stop="20260619060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260619115000 +0000" stop="20260619121500 +0000" channel="CBBC.virginmediatv">
@@ -7040,10 +7043,10 @@
     <title>Vote 2026: By-Election Special</title>
 </programme>
 <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News Today</title>
+    <title>Vote 2026</title>
 </programme>
 <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News Today</title>
+    <title>Vote 2026</title>
 </programme>
 <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News Today</title>

@@ -2565,7 +2565,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Monaco</title>
 </programme>
-<programme start="20260619000000 +0000" stop="20260619030000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260619003000 +0000" stop="20260619030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag 2023 in Los Angeles, CA (USA)</title>
 </programme>
 <programme start="20260619030000 +0000" stop="20260619031500 +0000" channel="Sky Sport Golf HD.skyde">

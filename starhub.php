@@ -3773,7 +3773,7 @@
         <title>Historical Drama &quot;BROTHERS IN ARMS&quot; Ep. 23 (R)</title>
     </programme>
     <programme start="20260620045000 +0000" stop="20260620075500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Japan Curling Championships 2026 Women&#039;s Final</title>
+        <title>Japan Curling Championships 2026 Women&#039;s Final &quot;SC Karuizawa Club&quot; vs &quot;Hokkaido Bank&quot;</title>
     </programme>
     <programme start="20260620075500 +0000" stop="20260620080000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>

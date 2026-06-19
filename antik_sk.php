@@ -16918,26 +16918,20 @@
   <programme start="20260621210000 +0000" stop="20260621220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Человек имеет право</title>
   </programme>
-  <programme start="20260620213500 +0000" stop="20260620220500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Bell and Cotton</title>
-  </programme>
-  <programme start="20260620220500 +0000" stop="20260620223000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Sport Week</title>
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260620230500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260620220000 +0000" stop="20260620223500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Here and Now</title>
   </programme>
-  <programme start="20260620230500 +0000" stop="20260620231500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260620223500 +0000" stop="20260620231000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Parent Meeting</title>
   </programme>
-  <programme start="20260620231500 +0000" stop="20260620234000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Compatriot</title>
-  </programme>
-  <programme start="20260620234000 +0000" stop="20260621000000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260620231000 +0000" stop="20260620233000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">People of Armenia</title>
   </programme>
-  <programme start="20260621000000 +0000" stop="20260621002500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260620233000 +0000" stop="20260620235500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">An Important Task</title>
+  </programme>
+  <programme start="20260620235500 +0000" stop="20260621002500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Masterclass</title>
   </programme>
   <programme start="20260621002500 +0000" stop="20260621005500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Bell and Cotton</title>
@@ -17002,13 +16996,10 @@
   <programme start="20260621113000 +0000" stop="20260621120000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Ethnocolors</title>
   </programme>
-  <programme start="20260621120000 +0000" stop="20260621134000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Feature film</title>
+  <programme start="20260621120000 +0000" stop="20260621143000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">General</title>
   </programme>
-  <programme start="20260621134000 +0000" stop="20260621142000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">First Studio</title>
-  </programme>
-  <programme start="20260621142000 +0000" stop="20260621160000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260621143000 +0000" stop="20260621160000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Here and Now</title>
   </programme>
   <programme start="20260621160000 +0000" stop="20260621170000 +0000" channel="Armenia 1 TV.webtv.sk">
@@ -17017,17 +17008,17 @@
   <programme start="20260621170000 +0000" stop="20260621175000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">News</title>
   </programme>
-  <programme start="20260621175000 +0000" stop="20260621190000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260621175000 +0000" stop="20260621185000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Great Debate</title>
   </programme>
-  <programme start="20260621190000 +0000" stop="20260621193000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260621185000 +0000" stop="20260621192000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">On the other hand</title>
   </programme>
-  <programme start="20260621193000 +0000" stop="20260621212000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Feature film</title>
+  <programme start="20260621192000 +0000" stop="20260621212000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">First Studio</title>
   </programme>
-  <programme start="20260621212000 +0000" stop="20260621230000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Feature film</title>
+  <programme start="20260621212000 +0000" stop="20260621235000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">General</title>
   </programme>
   <programme start="20260620220000 +0000" stop="20260620220500 +0000" channel="Euronews.webtv.sk">
     <title lang="id">Global Week-End</title>

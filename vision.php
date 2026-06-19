@@ -652,9 +652,6 @@
 <programme start="20260619090000 +0000" stop="20260619113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260619153000 +0000" stop="20260619173000 +0000" channel="ANTV.vision">
-<title>Bernapas Dalam Kubur</title>
-</programme>
 <programme start="20260619173000 +0000" stop="20260619193000 +0000" channel="ANTV.vision">
 <title>Peacock King</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>JTV</title>
 </programme>
 <programme start="20260619140000 +0000" stop="20260619160000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260619160000 +0000" stop="20260619180000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>
