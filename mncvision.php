@@ -6415,8 +6415,11 @@
 <programme start="20260619100000 +0000" stop="20260619103000 +0000" channel="NHK World.mncvision">
     <title>NHK News 7</title>
 </programme>
-<programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="NHK World.mncvision">
-    <title>Japan In Focus</title>
+<programme start="20260619103000 +0000" stop="20260619105500 +0000" channel="NHK World.mncvision">
+    <title>Ikebana: Beauty As It Is</title>
+</programme>
+<programme start="20260619105500 +0000" stop="20260619110000 +0000" channel="NHK World.mncvision">
+    <title>Japan Delish</title>
 </programme>
 <programme start="20260619110000 +0000" stop="20260619112800 +0000" channel="NHK World.mncvision">
     <title>Newsroom Tokyo</title>
@@ -6447,9 +6450,6 @@
 </programme>
 <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="NHK World.mncvision">
     <title>Design X Stories</title>
-</programme>
-<programme start="20260619150000 +0000" stop="20260619153000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
 </programme>
 <programme start="20260618171000 +0000" stop="20260618174000 +0000" channel="NHK World Premium.mncvision">
     <title>Koyuki &amp; Fermenting Master</title>
@@ -7723,34 +7723,34 @@
 <programme start="20260619010000 +0000" stop="20260619030000 +0000" channel="SCTV.mncvision">
     <title>Lord Sol Sepatu Mengtamvannya</title>
 </programme>
-<programme start="20260619030000 +0000" stop="20260619050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260619030000 +0000" stop="20260619044800 +0000" channel="SCTV.mncvision">
+    <title>Mami Kades Open House Ke Hatiku</title>
 </programme>
-<programme start="20260619050000 +0000" stop="20260619053000 +0000" channel="SCTV.mncvision">
+<programme start="20260619044800 +0000" stop="20260619052100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260619053000 +0000" stop="20260619070000 +0000" channel="SCTV.mncvision">
+<programme start="20260619052100 +0000" stop="20260619065400 +0000" channel="SCTV.mncvision">
     <title>Senyummu Lebih Ampuh Dari...</title>
 </programme>
-<programme start="20260619070000 +0000" stop="20260619083000 +0000" channel="SCTV.mncvision">
+<programme start="20260619065400 +0000" stop="20260619082700 +0000" channel="SCTV.mncvision">
     <title>Resep Cinta Si Dokter Hewan</title>
 </programme>
-<programme start="20260619083000 +0000" stop="20260619100000 +0000" channel="SCTV.mncvision">
-    <title>Cinta Abang Gulali Manisnya...</title>
+<programme start="20260619082700 +0000" stop="20260619100000 +0000" channel="SCTV.mncvision">
+    <title>Pecel Lele Tak Semahal Cintamu</title>
 </programme>
-<programme start="20260619100000 +0000" stop="20260619111500 +0000" channel="SCTV.mncvision">
+<programme start="20260619100000 +0000" stop="20260619113200 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260619111500 +0000" stop="20260619130000 +0000" channel="SCTV.mncvision">
+<programme start="20260619113200 +0000" stop="20260619130900 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260619130000 +0000" stop="20260619143000 +0000" channel="SCTV.mncvision">
+<programme start="20260619130900 +0000" stop="20260619143600 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260619143000 +0000" stop="20260619160000 +0000" channel="SCTV.mncvision">
+<programme start="20260619143600 +0000" stop="20260619160700 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="SCTV.mncvision">
+<programme start="20260619160700 +0000" stop="20260619163700 +0000" channel="SCTV.mncvision">
     <title>Yakin Pengen Nikah?</title>
 </programme>
 <programme start="20260618170100 +0000" stop="20260618182400 +0000" channel="SCTV HD.mncvision">
@@ -7780,34 +7780,34 @@
 <programme start="20260619010000 +0000" stop="20260619030000 +0000" channel="SCTV HD.mncvision">
     <title>Lord Sol Sepatu Mengtamvannya</title>
 </programme>
-<programme start="20260619030000 +0000" stop="20260619050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260619030000 +0000" stop="20260619044800 +0000" channel="SCTV HD.mncvision">
+    <title>Mami Kades Open House Ke Hatiku</title>
 </programme>
-<programme start="20260619050000 +0000" stop="20260619053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260619044800 +0000" stop="20260619052100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260619053000 +0000" stop="20260619070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260619052100 +0000" stop="20260619065400 +0000" channel="SCTV HD.mncvision">
     <title>Senyummu Lebih Ampuh Dari...</title>
 </programme>
-<programme start="20260619070000 +0000" stop="20260619083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260619065400 +0000" stop="20260619082700 +0000" channel="SCTV HD.mncvision">
     <title>Resep Cinta Si Dokter Hewan</title>
 </programme>
-<programme start="20260619083000 +0000" stop="20260619100000 +0000" channel="SCTV HD.mncvision">
-    <title>Cinta Abang Gulali Manisnya...</title>
+<programme start="20260619082700 +0000" stop="20260619100000 +0000" channel="SCTV HD.mncvision">
+    <title>Pecel Lele Tak Semahal Cintamu</title>
 </programme>
-<programme start="20260619100000 +0000" stop="20260619111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260619100000 +0000" stop="20260619113200 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260619111500 +0000" stop="20260619130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260619113200 +0000" stop="20260619130900 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260619130000 +0000" stop="20260619143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260619130900 +0000" stop="20260619143600 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260619143000 +0000" stop="20260619160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260619143600 +0000" stop="20260619160700 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260619160700 +0000" stop="20260619163700 +0000" channel="SCTV HD.mncvision">
     <title>Yakin Pengen Nikah?</title>
 </programme>
 <programme start="20260618170000 +0000" stop="20260618180000 +0000" channel="Sindo News TV.mncvision">

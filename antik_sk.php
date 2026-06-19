@@ -2977,16 +2977,16 @@
   <programme start="20260621214500 +0000" stop="20260621221500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Viděli jsme 5+</title>
   </programme>
-  <programme start="20260620205500 +0000" stop="20260620223700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260620205500 +0000" stop="20260620223600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisař Montalbano VII (3)</title>
   </programme>
-  <programme start="20260620223700 +0000" stop="20260620234800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260620223600 +0000" stop="20260620234700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
-  <programme start="20260620234800 +0000" stop="20260621011800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260620234700 +0000" stop="20260621011700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zpívá celá rodina</title>
   </programme>
-  <programme start="20260621011800 +0000" stop="20260621014500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260621011700 +0000" stop="20260621014500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zdravě v konvektomatu</title>
   </programme>
   <programme start="20260621014500 +0000" stop="20260621021200 +0000" channel="ČT1.webtv.sk">
@@ -3022,10 +3022,10 @@
   <programme start="20260621075000 +0000" stop="20260621080500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kalendárium</title>
   </programme>
-  <programme start="20260621080500 +0000" stop="20260621083500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260621080500 +0000" stop="20260621083600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulavá kamera</title>
   </programme>
-  <programme start="20260621083500 +0000" stop="20260621090700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260621083600 +0000" stop="20260621090700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Objektiv</title>
   </programme>
   <programme start="20260621090700 +0000" stop="20260621100000 +0000" channel="ČT1.webtv.sk">
@@ -3082,34 +3082,34 @@
   <programme start="20260621213500 +0000" stop="20260621222000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVII (11)</title>
   </programme>
-  <programme start="20260620205000 +0000" stop="20260620230600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260620205000 +0000" stop="20260620230500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dítě číslo 44</title>
   </programme>
-  <programme start="20260620230600 +0000" stop="20260621005300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260620230500 +0000" stop="20260621005000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Symfonie pro jeden masakr</title>
   </programme>
-  <programme start="20260621005300 +0000" stop="20260621011500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621005000 +0000" stop="20260621011500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zázračné studánky</title>
   </programme>
-  <programme start="20260621011500 +0000" stop="20260621012200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621011500 +0000" stop="20260621012100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Postřehy odjinud</title>
   </programme>
-  <programme start="20260621012200 +0000" stop="20260621014800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621012100 +0000" stop="20260621014800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Brno evangelické</title>
   </programme>
-  <programme start="20260621014800 +0000" stop="20260621022200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621014800 +0000" stop="20260621022300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hraje vám... Lanžhotčanka</title>
   </programme>
-  <programme start="20260621022200 +0000" stop="20260621025100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621022300 +0000" stop="20260621025100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Rodinné křižovatky</title>
   </programme>
   <programme start="20260621025100 +0000" stop="20260621031800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
-  <programme start="20260621031800 +0000" stop="20260621034500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621031800 +0000" stop="20260621034600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Křesťanský magazín</title>
   </programme>
-  <programme start="20260621034500 +0000" stop="20260621040000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621034600 +0000" stop="20260621040000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20260621040000 +0000" stop="20260621045500 +0000" channel="ČT2.webtv.sk">
@@ -3148,10 +3148,10 @@
   <programme start="20260621104500 +0000" stop="20260621111100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Cesty víry</title>
   </programme>
-  <programme start="20260621111100 +0000" stop="20260621113500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621111100 +0000" stop="20260621113600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Expedice Altaj - Cimrman mezi jeleny</title>
   </programme>
-  <programme start="20260621113500 +0000" stop="20260621123000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260621113600 +0000" stop="20260621123000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Alhambra, ztracený ráj</title>
   </programme>
   <programme start="20260621123000 +0000" stop="20260621132500 +0000" channel="ČT2.webtv.sk">
@@ -18904,7 +18904,7 @@
   <programme start="20260621215600 +0000" stop="20260621220000 +0000" channel="France 24.webtv.sk">
     <title lang="id">CULTURE PRIME</title>
   </programme>
-  <programme start="20260620194000 +0000" stop="20260620221500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260620192000 +0000" stop="20260620221500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Mondiali di Calcio 2026</title>
   </programme>
   <programme start="20260620221500 +0000" stop="20260620222000 +0000" channel="Rai Uno.webtv.sk">

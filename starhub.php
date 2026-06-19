@@ -3074,7 +3074,7 @@
         <title>News</title>
     </programme>
     <programme start="20260618171500 +0000" stop="20260618173000 +0000" channel="DW English HD.starhub">
-        <title>Freud was wild. But he might be Right.</title>
+        <title>How a Belarusian dissident sailed straight into Russian security services</title>
     </programme>
     <programme start="20260618173000 +0000" stop="20260618180000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -3092,7 +3092,7 @@
         <title>News</title>
     </programme>
     <programme start="20260618191500 +0000" stop="20260618193000 +0000" channel="DW English HD.starhub">
-        <title>Freud was wild. But he might be Right.</title>
+        <title>How a Belarusian dissident sailed straight into Russian security services</title>
     </programme>
     <programme start="20260618193000 +0000" stop="20260618200000 +0000" channel="DW English HD.starhub">
         <title>G7 Meets Crisis: What’s Wrong with Europe?</title>
@@ -3128,7 +3128,7 @@
         <title>News</title>
     </programme>
     <programme start="20260618231500 +0000" stop="20260618233000 +0000" channel="DW English HD.starhub">
-        <title>Freud was wild. But he might be Right.</title>
+        <title>How a Belarusian dissident sailed straight into Russian security services</title>
     </programme>
     <programme start="20260618233000 +0000" stop="20260619000000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -6188,7 +6188,7 @@
         <title>She Who Walks In The Shadows</title>
     </programme>
     <programme start="20260618140000 +0000" stop="20260618164500 +0000" channel="HBO Signature HD.starhub">
-        <title>Mission: Impossible – The Final Reckoning</title>
+        <title>Mission: Impossible - The Final Reckoning</title>
     </programme>
     <programme start="20260618164500 +0000" stop="20260618173500 +0000" channel="HBO Signature HD.starhub">
         <title>Horror In The Hamptons</title>
@@ -7828,13 +7828,13 @@
     <programme start="20260618133000 +0000" stop="20260618163000 +0000" channel="Asianet Movies.starhub">
         <title>Aadu 2</title>
     </programme>
-    <programme start="20260618163000 +0000" stop="20260618193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260618163000 +0000" stop="20260618191000 +0000" channel="Asianet Movies.starhub">
         <title>Snehaveedu</title>
     </programme>
-    <programme start="20260618193000 +0000" stop="20260618213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260618191000 +0000" stop="20260618212000 +0000" channel="Asianet Movies.starhub">
         <title>Boy Friend</title>
     </programme>
-    <programme start="20260618213000 +0000" stop="20260618233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260618212000 +0000" stop="20260618230500 +0000" channel="Asianet Movies.starhub">
         <title>Thaskara Lahala</title>
     </programme>
     <programme start="20260618230500 +0000" stop="20260619013000 +0000" channel="Asianet Movies.starhub">

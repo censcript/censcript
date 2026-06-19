@@ -1360,7 +1360,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260618235000 +0000" stop="20260619001500 +0000" channel="Nick Jr..skyde">
-    <title>Die Waldtruppe</title>
+    <title>Deer Squad - Die Waldtruppe</title>
 </programme>
 <programme start="20260619001500 +0000" stop="20260619003500 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
@@ -1408,7 +1408,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260619055500 +0000" stop="20260619062000 +0000" channel="Nick Jr..skyde">
-    <title>Die Waldtruppe</title>
+    <title>Deer Squad - Die Waldtruppe</title>
 </programme>
 <programme start="20260619062000 +0000" stop="20260619064000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
@@ -1483,7 +1483,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20260619131500 +0000" stop="20260619134000 +0000" channel="Nick Jr..skyde">
-    <title>Die Waldtruppe</title>
+    <title>Deer Squad - Die Waldtruppe</title>
 </programme>
 <programme start="20260619134000 +0000" stop="20260619134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -2422,7 +2422,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 500: Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260619173000 +0000" stop="20260619193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260619193000 +0000" stop="20260619194500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Rot-Weiß-Roadtrip</title>
@@ -2431,7 +2431,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Best Of)</title>
 </programme>
 <programme start="20260619201500 +0000" stop="20260619221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
+    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260618220500 +0000" stop="20260618224000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Miron Muslic</title>
@@ -2877,8 +2877,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619210000 +0000" stop="20260619230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
-<programme start="20260619003500 +0000" stop="20260619013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260619000000 +0000" stop="20260619010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
+</programme>
+<programme start="20260619010000 +0000" stop="20260619013000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: Action</title>
 </programme>
 <programme start="20260619013000 +0000" stop="20260619033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: E. Lys (GER) - E. Svitolina (UKR), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
@@ -2961,7 +2964,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619084000 +0000" stop="20260619090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260619090000 +0000" stop="20260619193000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260619090000 +0000" stop="20260619173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
 <programme start="20260619002000 +0000" stop="20260619005000 +0000" channel="Sky Sport 2 HD.skyde">
