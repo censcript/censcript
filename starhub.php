@@ -3167,7 +3167,7 @@
         <title>News</title>
     </programme>
     <programme start="20260619031500 +0000" stop="20260619033000 +0000" channel="DW English HD.starhub">
-        <title>Freud was wild. But he might be Right.</title>
+        <title>How a Belarusian dissident sailed straight into Russian security services</title>
     </programme>
     <programme start="20260619033000 +0000" stop="20260619040000 +0000" channel="DW English HD.starhub">
         <title>Breakthrough innovation made in Germany: how SPRIN-D turns ideas into markets</title>
@@ -3197,7 +3197,7 @@
         <title>News</title>
     </programme>
     <programme start="20260619061500 +0000" stop="20260619063000 +0000" channel="DW English HD.starhub">
-        <title>Freud was wild. But he might be Right.</title>
+        <title>How a Belarusian dissident sailed straight into Russian security services</title>
     </programme>
     <programme start="20260619063000 +0000" stop="20260619070000 +0000" channel="DW English HD.starhub">
         <title>Would you buy a used car online? A look behind the scenes.</title>
@@ -7837,7 +7837,7 @@
     <programme start="20260618213000 +0000" stop="20260618233000 +0000" channel="Asianet Movies.starhub">
         <title>Thaskara Lahala</title>
     </programme>
-    <programme start="20260618233000 +0000" stop="20260619013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260618230500 +0000" stop="20260619013000 +0000" channel="Asianet Movies.starhub">
         <title>Alexander The Great</title>
     </programme>
     <programme start="20260619013000 +0000" stop="20260619043000 +0000" channel="Asianet Movies.starhub">

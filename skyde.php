@@ -1392,40 +1392,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619034000 +0000" stop="20260619040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260619040000 +0000" stop="20260619042000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619040000 +0000" stop="20260619042500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260619042000 +0000" stop="20260619044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619042500 +0000" stop="20260619044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260619044500 +0000" stop="20260619050500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619044500 +0000" stop="20260619051000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260619050500 +0000" stop="20260619053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619051000 +0000" stop="20260619053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260619053000 +0000" stop="20260619055000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619053000 +0000" stop="20260619055500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260619055000 +0000" stop="20260619061500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619055500 +0000" stop="20260619062000 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
-<programme start="20260619061500 +0000" stop="20260619063500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619062000 +0000" stop="20260619064000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260619063500 +0000" stop="20260619065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619064000 +0000" stop="20260619065000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260619065000 +0000" stop="20260619071000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619065000 +0000" stop="20260619071500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
-</programme>
-<programme start="20260619071000 +0000" stop="20260619071500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260619071500 +0000" stop="20260619072000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260619072000 +0000" stop="20260619072500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619072000 +0000" stop="20260619072100 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260619072100 +0000" stop="20260619072500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260619072500 +0000" stop="20260619073000 +0000" channel="Nick Jr..skyde">
@@ -1482,16 +1482,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619130500 +0000" stop="20260619131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260619131500 +0000" stop="20260619133500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619131500 +0000" stop="20260619134000 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
-</programme>
-<programme start="20260619133500 +0000" stop="20260619134000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260619134000 +0000" stop="20260619134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260619134500 +0000" stop="20260619135000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619134500 +0000" stop="20260619134600 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260619134600 +0000" stop="20260619135000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260619135000 +0000" stop="20260619135500 +0000" channel="Nick Jr..skyde">
@@ -1500,10 +1500,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619135500 +0000" stop="20260619140000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260619140000 +0000" stop="20260619142000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619140000 +0000" stop="20260619142500 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
 </programme>
-<programme start="20260619142000 +0000" stop="20260619144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619142500 +0000" stop="20260619144500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260619144500 +0000" stop="20260619150000 +0000" channel="Nick Jr..skyde">
@@ -1512,10 +1512,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619150000 +0000" stop="20260619152000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260619152000 +0000" stop="20260619153000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619152000 +0000" stop="20260619153500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260619153000 +0000" stop="20260619155500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619153500 +0000" stop="20260619155500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
 <programme start="20260619155500 +0000" stop="20260619161500 +0000" channel="Nick Jr..skyde">
@@ -1569,25 +1569,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619192000 +0000" stop="20260619194500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260619194500 +0000" stop="20260619200500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619194500 +0000" stop="20260619201000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260619200500 +0000" stop="20260619202500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619201000 +0000" stop="20260619203000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260619202500 +0000" stop="20260619205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619203000 +0000" stop="20260619205000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260619205000 +0000" stop="20260619211000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619205000 +0000" stop="20260619211500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260619211000 +0000" stop="20260619213500 +0000" channel="Nick Jr..skyde">
+<programme start="20260619211500 +0000" stop="20260619213500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260619213500 +0000" stop="20260619215500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20260619215500 +0000" stop="20260619222000 +0000" channel="Nick Jr..skyde">
+<programme start="20260619213500 +0000" stop="20260619220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260618221000 +0000" stop="20260618234000 +0000" channel="Romance TV HD.skyde">
@@ -2301,98 +2298,98 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619211500 +0000" stop="20260619220500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260628220500 +0000" stop="20260628225500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Die Wikinger - Entstehung eines Imperiums</title>
+<programme start="20260618222000 +0000" stop="20260618231000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20260628225500 +0000" stop="20260628234000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Die Wikinger - Entstehung eines Imperiums</title>
+<programme start="20260618231000 +0000" stop="20260618235500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20260628234000 +0000" stop="20260629002500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Die Wikinger - Entstehung eines Imperiums</title>
+<programme start="20260618235500 +0000" stop="20260619004500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20260629002500 +0000" stop="20260629005500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Being Burdecki</title>
-</programme>
-<programme start="20260629005500 +0000" stop="20260629014000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260629014000 +0000" stop="20260629022000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260629022000 +0000" stop="20260629030000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260629030000 +0000" stop="20260629034500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260629034500 +0000" stop="20260629043000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20260629043000 +0000" stop="20260629051500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20260629051500 +0000" stop="20260629060500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20260629060500 +0000" stop="20260629065000 +0000" channel="Sky Showcase HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20260629065000 +0000" stop="20260629073500 +0000" channel="Sky Showcase HD.skyde">
-    <title>SOKO Wien</title>
-</programme>
-<programme start="20260629073500 +0000" stop="20260629082500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619004500 +0000" stop="20260619013000 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260629082500 +0000" stop="20260629091500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619013000 +0000" stop="20260619021500 +0000" channel="Sky Showcase HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260629091500 +0000" stop="20260629100000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20260619021500 +0000" stop="20260619030000 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
 </programme>
-<programme start="20260629100000 +0000" stop="20260629105000 +0000" channel="Sky Showcase HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20260619030000 +0000" stop="20260619034500 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
 </programme>
-<programme start="20260629105000 +0000" stop="20260629114000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619034500 +0000" stop="20260619043000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
+</programme>
+<programme start="20260619043000 +0000" stop="20260619052000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
+</programme>
+<programme start="20260619052000 +0000" stop="20260619060500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
+</programme>
+<programme start="20260619060500 +0000" stop="20260619065000 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260619065000 +0000" stop="20260619074000 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260619074000 +0000" stop="20260619083000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260619083000 +0000" stop="20260619091500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260619091500 +0000" stop="20260619100500 +0000" channel="Sky Showcase HD.skyde">
+    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
+</programme>
+<programme start="20260619100500 +0000" stop="20260619105000 +0000" channel="Sky Showcase HD.skyde">
+    <title>A Killer&#039;s Mistake - Ein Fehler zu viel</title>
+</programme>
+<programme start="20260619105000 +0000" stop="20260619114000 +0000" channel="Sky Showcase HD.skyde">
     <title>Feuer &amp; Flamme</title>
 </programme>
-<programme start="20260629114000 +0000" stop="20260629122500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619114000 +0000" stop="20260619123000 +0000" channel="Sky Showcase HD.skyde">
     <title>Feuer &amp; Flamme</title>
 </programme>
-<programme start="20260629122500 +0000" stop="20260629132000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619123000 +0000" stop="20260619132000 +0000" channel="Sky Showcase HD.skyde">
     <title>Morden im Norden</title>
 </programme>
-<programme start="20260629132000 +0000" stop="20260629141000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619132000 +0000" stop="20260619141500 +0000" channel="Sky Showcase HD.skyde">
     <title>Morden im Norden</title>
 </programme>
-<programme start="20260629141000 +0000" stop="20260629150500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619141500 +0000" stop="20260619150500 +0000" channel="Sky Showcase HD.skyde">
     <title>Morden im Norden</title>
 </programme>
-<programme start="20260629150500 +0000" stop="20260629155500 +0000" channel="Sky Showcase HD.skyde">
-    <title>Hubert und Staller</title>
+<programme start="20260619150500 +0000" stop="20260619160000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
-<programme start="20260629155500 +0000" stop="20260629164000 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619160000 +0000" stop="20260619164500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20260629164000 +0000" stop="20260629172500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619164500 +0000" stop="20260619173000 +0000" channel="Sky Showcase HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20260629172500 +0000" stop="20260629181500 +0000" channel="Sky Showcase HD.skyde">
+<programme start="20260619173000 +0000" stop="20260619181500 +0000" channel="Sky Showcase HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260629181500 +0000" stop="20260629192000 +0000" channel="Sky Showcase HD.skyde">
-    <title>House of the Dragon</title>
+<programme start="20260619181500 +0000" stop="20260619190500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Wikinger - Entstehung eines Imperiums</title>
 </programme>
-<programme start="20260629192000 +0000" stop="20260629200500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Miniature Wife</title>
+<programme start="20260619190500 +0000" stop="20260619195500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Wikinger - Entstehung eines Imperiums</title>
 </programme>
-<programme start="20260629200500 +0000" stop="20260629205500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Miniature Wife</title>
+<programme start="20260619195500 +0000" stop="20260619204000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Wikinger - Entstehung eines Imperiums</title>
 </programme>
-<programme start="20260629205500 +0000" stop="20260629214000 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Real Murders of Atlanta</title>
+<programme start="20260619204000 +0000" stop="20260619211500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
 </programme>
-<programme start="20260629214000 +0000" stop="20260629222500 +0000" channel="Sky Showcase HD.skyde">
-    <title>The Real Murders of Atlanta</title>
+<programme start="20260619211500 +0000" stop="20260619214500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
+</programme>
+<programme start="20260619214500 +0000" stop="20260619223500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Morden im Norden</title>
 </programme>
 <programme start="20260618223000 +0000" stop="20260618230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Glasner. Eine Sky Sport Austria Dokumentation</title>
@@ -2425,7 +2422,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 500: Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260619173000 +0000" stop="20260619193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 5. Tag</title>
+    <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260619193000 +0000" stop="20260619194500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Rot-Weiß-Roadtrip</title>
@@ -2434,7 +2431,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Best Of)</title>
 </programme>
 <programme start="20260619201500 +0000" stop="20260619221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: Topspiel, Terra Wortmann Open in Halle, 5. Tag</title>
+    <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260618220500 +0000" stop="20260618224000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Miron Muslic</title>
@@ -2568,7 +2565,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Monaco</title>
 </programme>
-<programme start="20260619000000 +0000" stop="20260619030000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260619003000 +0000" stop="20260619030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag 2023 in Los Angeles, CA (USA)</title>
 </programme>
 <programme start="20260619030000 +0000" stop="20260619031500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2850,25 +2847,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619213000 +0000" stop="20260619223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Goals of the Season 2025/2026</title>
 </programme>
-<programme start="20260618224000 +0000" stop="20260619000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Lys (GER) - E. Svitolina (UKR), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
+<programme start="20260618230000 +0000" stop="20260619010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: H. Medjedovic (SRB)  - U. Humbert (FRA), HSBC Championships in London (GBR), 4. Tag</title>
 </programme>
-<programme start="20260619000000 +0000" stop="20260619020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Davidovich Fokina (ESP)  - C. Moutet (FRA), HSBC Championships in London (GBR), 4. Tag</title>
-</programme>
-<programme start="20260619020000 +0000" stop="20260619023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260619010000 +0000" stop="20260619013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
 </programme>
-<programme start="20260619023000 +0000" stop="20260619030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260619013000 +0000" stop="20260619020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
-<programme start="20260619030000 +0000" stop="20260619053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260619020000 +0000" stop="20260619043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
-<programme start="20260619053000 +0000" stop="20260619073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: A. Davidovich Fokina (ESP)  - C. Moutet (FRA), HSBC Championships in London (GBR), 4. Tag</title>
+<programme start="20260619043000 +0000" stop="20260619050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260619073000 +0000" stop="20260619090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260619050000 +0000" stop="20260619070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: H. Medjedovic (SRB)  - U. Humbert (FRA), HSBC Championships in London (GBR), 4. Tag</title>
+</programme>
+<programme start="20260619070000 +0000" stop="20260619090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - E. Svitolina (UKR), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>
 </programme>
 <programme start="20260619090000 +0000" stop="20260619183000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2878,13 +2875,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: B. Shelton (USA) - T. Fritz (USA), Boss Open in Stuttgart, Finale</title>
 </programme>
 <programme start="20260619210000 +0000" stop="20260619230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
+    <title>WTA 500: Topspiel, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
-<programme start="20260619000000 +0000" stop="20260619010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260619003500 +0000" stop="20260619013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
-</programme>
-<programme start="20260619010000 +0000" stop="20260619013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Action</title>
 </programme>
 <programme start="20260619013000 +0000" stop="20260619033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: E. Lys (GER) - E. Svitolina (UKR), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 4. Tag</title>

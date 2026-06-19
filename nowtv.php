@@ -1,12 +1,3 @@
-<programme start="20260618220000 +0000" stop="20260619000000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619000000 +0000" stop="20260619020000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619020000 +0000" stop="20260619040000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260619040000 +0000" stop="20260619060000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -26,15 +17,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260619160000 +0000" stop="20260619180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260618220000 +0000" stop="20260619000000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619000000 +0000" stop="20260619020000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619020000 +0000" stop="20260619040000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260619040000 +0000" stop="20260619060000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -58,15 +40,6 @@
 <programme start="20260619160000 +0000" stop="20260619180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260618220000 +0000" stop="20260619000000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619000000 +0000" stop="20260619020000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619020000 +0000" stop="20260619040000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260619040000 +0000" stop="20260619060000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -86,18 +59,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260619160000 +0000" stop="20260619180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260618213500 +0000" stop="20260619001500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -Canada vs Qatar[Live]</title>
-</programme>
-<programme start="20260619001500 +0000" stop="20260619003500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619003500 +0000" stop="20260619031500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -Mexico vs Korea Republic[Live]</title>
-</programme>
-<programme start="20260619031500 +0000" stop="20260619040000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260619040000 +0000" stop="20260619060000 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -120,15 +81,6 @@
 </programme>
 <programme start="20260619160000 +0000" stop="20260619180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260618213500 +0000" stop="20260619001500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Canada vs Qatar[Live]</title>
-</programme>
-<programme start="20260619001500 +0000" stop="20260619003500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E25</title>
-</programme>
-<programme start="20260619003500 +0000" stop="20260619031500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Mexico vs Korea Republic[Live]</title>
 </programme>
 <programme start="20260619031500 +0000" stop="20260619053000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Czechia vs South Africa</title>
@@ -208,24 +160,6 @@
 <programme start="20260619161500 +0000" stop="20260619183500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Switzerland vs Bosnia-Herzegovina</title>
 </programme>
-<programme start="20260618220000 +0000" stop="20260619000000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Liverpool vs Nottingham Forest</title>
-</programme>
-<programme start="20260619000000 +0000" stop="20260619003000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -JULIAN DICKS</title>
-</programme>
-<programme start="20260619003000 +0000" stop="20260619004500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Match Day +1 Highlights E7</title>
-</programme>
-<programme start="20260619004500 +0000" stop="20260619010000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 12</title>
-</programme>
-<programme start="20260619010000 +0000" stop="20260619030000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Fulham vs Sunderland</title>
-</programme>
-<programme start="20260619030000 +0000" stop="20260619050000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Tottenham Hotspur</title>
-</programme>
 <programme start="20260619050000 +0000" stop="20260619051500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>FIFA World Cup 2026™ Match Day +1 Highlights E7</title>
 </programme>
@@ -280,12 +214,6 @@
 <programme start="20260619160000 +0000" stop="20260619180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Crystal Palace vs Manchester United</title>
 </programme>
-<programme start="20260618200000 +0000" stop="20260619000000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260619040000 +0000" stop="20260619080000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -298,12 +226,6 @@
 <programme start="20260619160000 +0000" stop="20260619200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260618200000 +0000" stop="20260619000000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260619040000 +0000" stop="20260619080000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -314,12 +236,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260619160000 +0000" stop="20260619200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260618200000 +0000" stop="20260619000000 +0000" channel="Now Sports Premier League 4.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260619040000 +0000" stop="20260619080000 +0000" channel="Now Sports Premier League 4.nowtv">

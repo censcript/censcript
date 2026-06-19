@@ -266,49 +266,64 @@
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20260619170000 +0000" stop="20260619173000 +0000" channel="iNews.vision">
+<title>E-Max</title>
+</programme>
+<programme start="20260619173000 +0000" stop="20260619190000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260619173000 +0000" stop="20260619210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260619190000 +0000" stop="20260619194500 +0000" channel="iNews.vision">
+<title>Special Report</title>
+</programme>
+<programme start="20260619194500 +0000" stop="20260619210000 +0000" channel="iNews.vision">
+<title>Breaking News</title>
 </programme>
 <programme start="20260619210000 +0000" stop="20260619211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Breaking News</title>
 </programme>
 <programme start="20260619211500 +0000" stop="20260619230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Pagi (Live)</title>
 </programme>
-<programme start="20260619230000 +0000" stop="20260619230200 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260619230000 +0000" stop="20260619231000 +0000" channel="iNews.vision">
+<title>Indonesia Raya</title>
 </programme>
-<programme start="20260619230200 +0000" stop="20260620000000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260619231000 +0000" stop="20260620000000 +0000" channel="iNews.vision">
+<title>Special Report</title>
 </programme>
-<programme start="20260620000000 +0000" stop="20260620021500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260620000000 +0000" stop="20260620011500 +0000" channel="iNews.vision">
+<title>Breaking News</title>
 </programme>
-<programme start="20260620021500 +0000" stop="20260620031500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260620011500 +0000" stop="20260620021500 +0000" channel="iNews.vision">
+<title>Realita</title>
 </programme>
-<programme start="20260620031500 +0000" stop="20260620033000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260620021500 +0000" stop="20260620032500 +0000" channel="iNews.vision">
+<title>iNews Files</title>
+</programme>
+<programme start="20260620032500 +0000" stop="20260620033000 +0000" channel="iNews.vision">
+<title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260620033000 +0000" stop="20260620053000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Siang (L)</title>
 </programme>
 <programme start="20260620053000 +0000" stop="20260620070000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Cahaya Hati Indonesia (L)</title>
 </programme>
-<programme start="20260620070000 +0000" stop="20260620071500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260620070000 +0000" stop="20260620075500 +0000" channel="iNews.vision">
+<title>iSeleb</title>
 </programme>
-<programme start="20260620071500 +0000" stop="20260620090000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260620075500 +0000" stop="20260620080000 +0000" channel="iNews.vision">
+<title>Breaking Goals (L)</title>
+</programme>
+<programme start="20260620080000 +0000" stop="20260620090000 +0000" channel="iNews.vision">
+<title>Breaking News: Konflik Timur Tengah</title>
 </programme>
 <programme start="20260620090000 +0000" stop="20260620100000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita (L)</title>
 </programme>
-<programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260620100000 +0000" stop="20260620100500 +0000" channel="iNews.vision">
+<title>Breaking Goals (L)</title>
+</programme>
+<programme start="20260620100500 +0000" stop="20260620120000 +0000" channel="iNews.vision">
+<title>Inews Sore (Live)</title>
 </programme>
 <programme start="20260619000000 +0000" stop="20260619003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -1481,20 +1496,5 @@
 <title>JTV</title>
 </programme>
 <programme start="20260619060000 +0000" stop="20260619080000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260619080000 +0000" stop="20260619100000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260619100000 +0000" stop="20260619120000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260619120000 +0000" stop="20260619140000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260619140000 +0000" stop="20260619160000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260619160000 +0000" stop="20260619180000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>

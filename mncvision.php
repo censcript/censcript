@@ -2978,7 +2978,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260619031500 +0000" stop="20260619033000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Freud Was Wild</title>
+    <title>Special Program</title>
 </programme>
 <programme start="20260619033000 +0000" stop="20260619040000 +0000" channel="DW English.mncvision">
     <title>Made In Germany: Business</title>
@@ -3008,7 +3008,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260619061500 +0000" stop="20260619063000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: Freud Was Wild</title>
+    <title>Special Program</title>
 </programme>
 <programme start="20260619063000 +0000" stop="20260619070000 +0000" channel="DW English.mncvision">
     <title>REV: Auto &amp; Mobility Show</title>
@@ -4061,10 +4061,10 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20260619133000 +0000" stop="20260619153000 +0000" channel="GTV.mncvision">
-    <title>Minority Report</title>
+    <title>Deep Impact</title>
 </programme>
 <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="GTV.mncvision">
-    <title>Para Pencuri Jasad</title>
+    <title>Bido Si Burung Raksasa</title>
 </programme>
 <programme start="20260618170000 +0000" stop="20260618180000 +0000" channel="GTV HD.mncvision">
     <title>Misteri Rumah Masa Depan</title>
@@ -4109,10 +4109,10 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20260619133000 +0000" stop="20260619153000 +0000" channel="GTV HD.mncvision">
-    <title>Minority Report</title>
+    <title>Deep Impact</title>
 </programme>
 <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="GTV HD.mncvision">
-    <title>Para Pencuri Jasad</title>
+    <title>Bido Si Burung Raksasa</title>
 </programme>
 <programme start="20260618210000 +0000" stop="20260618213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
@@ -4747,10 +4747,10 @@
 <programme start="20260618211500 +0000" stop="20260618223000 +0000" channel="iNews.mncvision">
     <title>iNews Pagi (L)</title>
 </programme>
-<programme start="20260618223000 +0000" stop="20260618225000 +0000" channel="iNews.mncvision">
+<programme start="20260618223000 +0000" stop="20260618224000 +0000" channel="iNews.mncvision">
     <title>Indonesia Raya</title>
 </programme>
-<programme start="20260618225000 +0000" stop="20260618230000 +0000" channel="iNews.mncvision">
+<programme start="20260618224000 +0000" stop="20260618230000 +0000" channel="iNews.mncvision">
     <title>iNews Pagi (L)</title>
 </programme>
 <programme start="20260618230000 +0000" stop="20260618231500 +0000" channel="iNews.mncvision">
@@ -4780,13 +4780,10 @@
 <programme start="20260619040000 +0000" stop="20260619060000 +0000" channel="iNews.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260619060000 +0000" stop="20260619070000 +0000" channel="iNews.mncvision">
+<programme start="20260619060000 +0000" stop="20260619071500 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260619070000 +0000" stop="20260619073000 +0000" channel="iNews.mncvision">
-    <title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260619073000 +0000" stop="20260619080000 +0000" channel="iNews.mncvision">
+<programme start="20260619071500 +0000" stop="20260619080000 +0000" channel="iNews.mncvision">
     <title>iSeleb (L)</title>
 </programme>
 <programme start="20260619080000 +0000" stop="20260619080500 +0000" channel="iNews.mncvision">
@@ -4843,10 +4840,10 @@
 <programme start="20260618211500 +0000" stop="20260618223000 +0000" channel="iNews HD.mncvision">
     <title>iNews Pagi (L)</title>
 </programme>
-<programme start="20260618223000 +0000" stop="20260618225000 +0000" channel="iNews HD.mncvision">
+<programme start="20260618223000 +0000" stop="20260618224000 +0000" channel="iNews HD.mncvision">
     <title>Indonesia Raya</title>
 </programme>
-<programme start="20260618225000 +0000" stop="20260618230000 +0000" channel="iNews HD.mncvision">
+<programme start="20260618224000 +0000" stop="20260618230000 +0000" channel="iNews HD.mncvision">
     <title>iNews Pagi (L)</title>
 </programme>
 <programme start="20260618230000 +0000" stop="20260618231500 +0000" channel="iNews HD.mncvision">
@@ -4876,13 +4873,10 @@
 <programme start="20260619040000 +0000" stop="20260619060000 +0000" channel="iNews HD.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260619060000 +0000" stop="20260619070000 +0000" channel="iNews HD.mncvision">
+<programme start="20260619060000 +0000" stop="20260619071500 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260619070000 +0000" stop="20260619073000 +0000" channel="iNews HD.mncvision">
-    <title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260619073000 +0000" stop="20260619080000 +0000" channel="iNews HD.mncvision">
+<programme start="20260619071500 +0000" stop="20260619080000 +0000" channel="iNews HD.mncvision">
     <title>iSeleb (L)</title>
 </programme>
 <programme start="20260619080000 +0000" stop="20260619080500 +0000" channel="iNews HD.mncvision">

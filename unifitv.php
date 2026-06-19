@@ -14206,7 +14206,7 @@
   </programme>
   <programme start="20260618163300 +0000" stop="20260618170300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Why Albanians are demonstrating against a Trump-family business project. +++ Can a dying Spanish village be saved?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14219,8 +14219,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260618171800 +0000" stop="20260618173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Why do we feel the way we feel? How much of our behavior is truly under our control? The founder of psychoanalysis, Sigmund Freud, believed that the answers lie deep within our unconscious minds. His theories about dreams, childhood and hidden desires changed psychology forever.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14241,7 +14241,7 @@
   </programme>
   <programme start="20260618183300 +0000" stop="20260618190300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">China's tourism is surging—yet crisis and control are slowing growth. Kruger National Park celebrates 100 years of safari. Florida sees fewer international tourists—are politics playing a role?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14261,15 +14261,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260618191800 +0000" stop="20260618193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Why do we feel the way we feel? How much of our behavior is truly under our control? The founder of psychoanalysis, Sigmund Freud, believed that the answers lie deep within our unconscious minds. His theories about dreams, childhood and hidden desires changed psychology forever.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260618193300 +0000" stop="20260618200300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">A faltering economy, high social spending, and mounting debt: how dangerous is this toxic mix for Europe's three major industrial nations? Is the gloss wearing off? Our guests: Sophie Pornschlegel, political analyst, Katja Hoyer, Historian, Kings College, Erik Fossing Nielsen, danish economist</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14325,7 +14325,7 @@
   </programme>
   <programme start="20260618223300 +0000" stop="20260618230300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">A faltering economy, high social spending, and mounting debt: how dangerous is this toxic mix for Europe's three major industrial nations? Is the gloss wearing off? Our guests: Sophie Pornschlegel, political analyst, Katja Hoyer, Historian, Kings College, Erik Fossing Nielsen, danish economist</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14345,16 +14345,16 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260618231800 +0000" stop="20260618233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Why do we feel the way we feel? How much of our behavior is truly under our control? The founder of psychoanalysis, Sigmund Freud, believed that the answers lie deep within our unconscious minds. His theories about dreams, childhood and hidden desires changed psychology forever.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260618233300 +0000" stop="20260619000300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14374,7 +14374,7 @@
   </programme>
   <programme start="20260619003300 +0000" stop="20260619010300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">A faltering economy, high social spending, and mounting debt: how dangerous is this toxic mix for Europe's three major industrial nations? Is the gloss wearing off? Our guests: Sophie Pornschlegel, political analyst, Katja Hoyer, Historian, Kings College, Erik Fossing Nielsen, danish economist</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14416,7 +14416,7 @@
   </programme>
   <programme start="20260619023300 +0000" stop="20260619030300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Why Albanians are demonstrating against a Trump-family business project. +++ Can a dying Spanish village be saved?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14436,15 +14436,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260619031800 +0000" stop="20260619033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Why do we feel the way we feel? How much of our behavior is truly under our control? The founder of psychoanalysis, Sigmund Freud, believed that the answers lie deep within our unconscious minds. His theories about dreams, childhood and hidden desires changed psychology forever.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260619033300 +0000" stop="20260619040300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Germany excels at invention but often fails to scale it. The SPRIN-D agency aims to speed up the path from research to market-ready technologies.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14506,16 +14506,16 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260619061800 +0000" stop="20260619063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Why do we feel the way we feel? How much of our behavior is truly under our control? The founder of psychoanalysis, Sigmund Freud, believed that the answers lie deep within our unconscious minds. His theories about dreams, childhood and hidden desires changed psychology forever.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260619063300 +0000" stop="20260619070300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">REV</title>
+    <desc lang="en">Autohero sells used cars online and business is booming. See how they inspect, clean and ready vehicles for delivery or pick-up. Plus: an interview with the CEO of engine maker Deutz, and test driving Cupra's new Born.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14549,7 +14549,7 @@
   </programme>
   <programme start="20260619080500 +0000" stop="20260619083300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">A faltering economy, high social spending, and mounting debt: how dangerous is this toxic mix for Europe's three major industrial nations? Is the gloss wearing off? Our guests: Sophie Pornschlegel, political analyst, Katja Hoyer, Historian, Kings College, Erik Fossing Nielsen, danish economist</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14612,7 +14612,7 @@
   </programme>
   <programme start="20260619110500 +0000" stop="20260619113300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">A faltering economy, high social spending, and mounting debt: how dangerous is this toxic mix for Europe's three major industrial nations? Is the gloss wearing off? Our guests: Sophie Pornschlegel, political analyst, Katja Hoyer, Historian, Kings College, Erik Fossing Nielsen, danish economist</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14660,15 +14660,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260619131800 +0000" stop="20260619133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Gen Z is more fitness-crazy than ever before. We meet Mirtel, 17 years old, in Tallinn, Estonia - she has ONE goal: to win gold at the European Bodybuilding Championships. We accompany them through the toughest phase of preparation and go to the championship in Spain. What does it cost to give EVERYTHING for this - and will it be enough in the end?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260619133300 +0000" stop="20260619140300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">A bad back often has no clear physical cause — but what often helps is movement. In Good Shape looks at what actually matters in back training and which workouts make a real difference.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14703,7 +14703,7 @@
   </programme>
   <programme start="20260619153300 +0000" stop="20260619160300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">A faltering economy, high social spending, and mounting debt: how dangerous is this toxic mix for Europe's three major industrial nations? Is the gloss wearing off? Our guests: Sophie Pornschlegel, political analyst, Katja Hoyer, Historian, Kings College, Erik Fossing Nielsen, danish economist</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
