@@ -1483,7 +1483,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20260619131500 +0000" stop="20260619134000 +0000" channel="Nick Jr..skyde">
-    <title>Deer Squad - Die Waldtruppe</title>
+    <title>Die Waldtruppe</title>
 </programme>
 <programme start="20260619134000 +0000" stop="20260619134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -2418,19 +2418,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619073000 +0000" stop="20260619093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: A. Zverev (GER) - Y. Hanfmann (GER), Terra Wortmann Open in Halle, 4. Tag</title>
 </programme>
-<programme start="20260619093000 +0000" stop="20260619173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260619093000 +0000" stop="20260619193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP 500: Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
-<programme start="20260619173000 +0000" stop="20260619193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260619193000 +0000" stop="20260619204500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
-<programme start="20260619193000 +0000" stop="20260619194500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260619204500 +0000" stop="20260619210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Rot-Weiß-Roadtrip</title>
 </programme>
-<programme start="20260619194500 +0000" stop="20260619201500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Best Of)</title>
 </programme>
-<programme start="20260619201500 +0000" stop="20260619221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260619213000 +0000" stop="20260619221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260618220500 +0000" stop="20260618224000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2565,7 +2565,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Monaco</title>
 </programme>
-<programme start="20260619003000 +0000" stop="20260619030000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260619003500 +0000" stop="20260619030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag 2023 in Los Angeles, CA (USA)</title>
 </programme>
 <programme start="20260619030000 +0000" stop="20260619031500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2619,13 +2619,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619074000 +0000" stop="20260619083500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: 1. Freies Training - GP Tschechien</title>
 </programme>
-<programme start="20260619083500 +0000" stop="20260619094500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260619083500 +0000" stop="20260619095000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Tschechien</title>
 </programme>
-<programme start="20260619094500 +0000" stop="20260619103000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260619095000 +0000" stop="20260619103500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
 </programme>
-<programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260619103500 +0000" stop="20260619110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
 <programme start="20260619110000 +0000" stop="20260619111000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2877,7 +2877,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619210000 +0000" stop="20260619230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
-<programme start="20260619003000 +0000" stop="20260619013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260619003500 +0000" stop="20260619013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
 </programme>
 <programme start="20260619013000 +0000" stop="20260619033000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2898,10 +2898,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260619074000 +0000" stop="20260619083500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: 1. Freies Training - GP Tschechien</title>
 </programme>
-<programme start="20260619083500 +0000" stop="20260619094500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260619083500 +0000" stop="20260619095000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Tschechien</title>
 </programme>
-<programme start="20260619094500 +0000" stop="20260619111000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260619095000 +0000" stop="20260619111000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz ATP London &amp; WTA Berlin, 5. Tag</title>
 </programme>
 <programme start="20260619111000 +0000" stop="20260619115500 +0000" channel="Sky Sport Top Event HD.skyde">
