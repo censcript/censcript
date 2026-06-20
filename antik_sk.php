@@ -106,7 +106,7 @@
   <programme start="20260621222900 +0000" stop="20260621223100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260621223100 +0000" stop="20260622005800 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260621223000 +0000" stop="20260622005800 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20260622040000 +0000" stop="20260622041000 +0000" channel="Dvojka.webtv.sk">
@@ -3784,13 +3784,13 @@
   <programme start="20260622210300 +0000" stop="20260622224300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hendrix</title>
   </programme>
-  <programme start="20260621215500 +0000" stop="20260621225000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260621214500 +0000" stop="20260621224500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Country estráda (19)</title>
   </programme>
-  <programme start="20260621225000 +0000" stop="20260621235500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260621224500 +0000" stop="20260621235000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ordinace v růžové zahradě II (310)</title>
   </programme>
-  <programme start="20260621235500 +0000" stop="20260622011000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260621235000 +0000" stop="20260622011000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ordinace v růžové zahradě II (311)</title>
   </programme>
   <programme start="20260622011000 +0000" stop="20260622013500 +0000" channel="Nova International.webtv.sk">
@@ -3799,13 +3799,13 @@
   <programme start="20260622013500 +0000" stop="20260622020000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Mr.GS IV (16)</title>
   </programme>
-  <programme start="20260622020000 +0000" stop="20260622023000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260622020000 +0000" stop="20260622022500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (590)</title>
   </programme>
-  <programme start="20260622023000 +0000" stop="20260622032000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260622022500 +0000" stop="20260622031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (246)</title>
   </programme>
-  <programme start="20260622032000 +0000" stop="20260622040000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260622031500 +0000" stop="20260622040000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Televizní noviny</title>
   </programme>
   <programme start="20260622040000 +0000" stop="20260622065000 +0000" channel="Nova International.webtv.sk">
@@ -3853,10 +3853,10 @@
   <programme start="20260622145500 +0000" stop="20260622150000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Odpolední Počasí</title>
   </programme>
-  <programme start="20260622150000 +0000" stop="20260622152000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260622150000 +0000" stop="20260622151500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Odpolední Televizní noviny</title>
   </programme>
-  <programme start="20260622152000 +0000" stop="20260622153000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260622151500 +0000" stop="20260622153000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Odpolední Sportovní noviny</title>
   </programme>
   <programme start="20260622153000 +0000" stop="20260622162500 +0000" channel="Nova International.webtv.sk">
@@ -3880,13 +3880,13 @@
   <programme start="20260622182000 +0000" stop="20260622192500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Specialisté (151)</title>
   </programme>
-  <programme start="20260622192500 +0000" stop="20260622202500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260622192500 +0000" stop="20260622203000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Specialisté (152)</title>
   </programme>
-  <programme start="20260622202500 +0000" stop="20260622211500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260622203000 +0000" stop="20260622211500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3657)</title>
   </programme>
-  <programme start="20260622211500 +0000" stop="20260622220000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260622211500 +0000" stop="20260622220500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3658)</title>
   </programme>
   <programme start="20260621215000 +0000" stop="20260621221500 +0000" channel="Prima SK.webtv.sk">
@@ -19243,8 +19243,140 @@
   <programme start="20260622191500 +0000" stop="20260622220000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Filorosso</title>
   </programme>
-  <programme start="20260621193000 +0000" stop="20260621223000 +0000" channel="CGTN.webtv.sk">
+  <programme start="20260621220000 +0000" stop="20260621230000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Americas Now</title>
+  </programme>
+  <programme start="20260621230000 +0000" stop="20260621233000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260621233000 +0000" stop="20260622000000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Faces of Africa</title>
+  </programme>
+  <programme start="20260622000000 +0000" stop="20260622003000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622003000 +0000" stop="20260622010000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Inheritors</title>
+  </programme>
+  <programme start="20260622010000 +0000" stop="20260622013000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622013000 +0000" stop="20260622020000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Razor</title>
+  </programme>
+  <programme start="20260622020000 +0000" stop="20260622023000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622023000 +0000" stop="20260622030000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Travelogue</title>
+  </programme>
+  <programme start="20260622030000 +0000" stop="20260622031500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622031500 +0000" stop="20260622033000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260622033000 +0000" stop="20260622040000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20260622040000 +0000" stop="20260622050000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Watch</title>
+  </programme>
+  <programme start="20260622050000 +0000" stop="20260622051500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622051500 +0000" stop="20260622053000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260622053000 +0000" stop="20260622060000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20260622060000 +0000" stop="20260622063000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622063000 +0000" stop="20260622070000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Razor</title>
+  </programme>
+  <programme start="20260622070000 +0000" stop="20260622073000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622073000 +0000" stop="20260622080000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260622080000 +0000" stop="20260622081500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622081500 +0000" stop="20260622090000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260622090000 +0000" stop="20260622093000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622093000 +0000" stop="20260622100000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20260622100000 +0000" stop="20260622101500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622101500 +0000" stop="20260622110000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20260622110000 +0000" stop="20260622113000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Asia Today</title>
+  </programme>
+  <programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20260622120000 +0000" stop="20260622121500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622121500 +0000" stop="20260622130000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">China 24</title>
+  </programme>
+  <programme start="20260622130000 +0000" stop="20260622133000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260622133000 +0000" stop="20260622140000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20260622140000 +0000" stop="20260622143000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622143000 +0000" stop="20260622150000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20260622150000 +0000" stop="20260622153000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622153000 +0000" stop="20260622160000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20260622160000 +0000" stop="20260622170000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260622170000 +0000" stop="20260622180000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20260622180000 +0000" stop="20260622190000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260622190000 +0000" stop="20260622193000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622193000 +0000" stop="20260622200000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20260622200000 +0000" stop="20260622203000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260622203000 +0000" stop="20260622210000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20260622210000 +0000" stop="20260622213000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260622213000 +0000" stop="20260622220000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
   </programme>
   <programme start="20260621220000 +0000" stop="20260621230000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">The Merchants of Huizhou (4)</title>
