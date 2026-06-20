@@ -4030,23 +4030,20 @@
 <programme start="20260620170000 +0000" stop="20260620210000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Live: ICC Women&#039;s T20 World Cup - England v Scotland</title>
 </programme>
-<programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP &amp; WTA Classic Matches - WTA Indian Wells 1996: Steffi Graff v Conchita Martinez</title>
+<programme start="20260620000000 +0000" stop="20260620020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: Day Highlights</title>
 </programme>
-<programme start="20260620010000 +0000" stop="20260620011500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Miami Open 2025 - WTA Final</title>
+<programme start="20260620020000 +0000" stop="20260620021500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>US Open Tennis Classic Matches - 1995: Steffi Graf v Monica Seles</title>
 </programme>
-<programme start="20260620011500 +0000" stop="20260620013000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260620021500 +0000" stop="20260620023000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Monte Carlo Open 2025 - Final</title>
 </programme>
-<programme start="20260620013000 +0000" stop="20260620014500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260620023000 +0000" stop="20260620024500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Madrid Open 2025 - WTA Final</title>
 </programme>
-<programme start="20260620014500 +0000" stop="20260620020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260620024500 +0000" stop="20260620030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Madrid Open 2025 - ATP Final</title>
-</programme>
-<programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open Tennis Classic Matches - 1995: Steffi Graf v Monica Seles</title>
 </programme>
 <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Stuttgart Open 2026 - Final</title>
@@ -4729,23 +4726,20 @@
 <programme start="20260620170000 +0000" stop="20260620210000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Live: ICC Women&#039;s T20 World Cup - England v Scotland</title>
 </programme>
-<programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP &amp; WTA Classic Matches - WTA Indian Wells 1996: Steffi Graff v Conchita Martinez</title>
+<programme start="20260620000000 +0000" stop="20260620020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: Day Highlights</title>
 </programme>
-<programme start="20260620010000 +0000" stop="20260620011500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Miami Open 2025 - WTA Final</title>
+<programme start="20260620020000 +0000" stop="20260620021500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>US Open Tennis Classic Matches - 1995: Steffi Graf v Monica Seles</title>
 </programme>
-<programme start="20260620011500 +0000" stop="20260620013000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260620021500 +0000" stop="20260620023000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Monte Carlo Open 2025 - Final</title>
 </programme>
-<programme start="20260620013000 +0000" stop="20260620014500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260620023000 +0000" stop="20260620024500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Madrid Open 2025 - WTA Final</title>
 </programme>
-<programme start="20260620014500 +0000" stop="20260620020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260620024500 +0000" stop="20260620030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Madrid Open 2025 - ATP Final</title>
-</programme>
-<programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open Tennis Classic Matches - 1995: Steffi Graf v Monica Seles</title>
 </programme>
 <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Stuttgart Open 2026 - Final</title>
