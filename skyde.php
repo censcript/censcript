@@ -1346,7 +1346,7 @@
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260619235000 +0000" stop="20260620001500 +0000" channel="Nick Jr..skyde">
-    <title>Deer Squad - Die Waldtruppe</title>
+    <title>Die Waldtruppe</title>
 </programme>
 <programme start="20260620001500 +0000" stop="20260620003500 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
@@ -1394,7 +1394,7 @@
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260620055000 +0000" stop="20260620061500 +0000" channel="Nick Jr..skyde">
-    <title>Deer Squad - Die Waldtruppe</title>
+    <title>Die Waldtruppe</title>
 </programme>
 <programme start="20260620061500 +0000" stop="20260620063500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
@@ -1469,7 +1469,7 @@
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20260620131500 +0000" stop="20260620134000 +0000" channel="Nick Jr..skyde">
-    <title>Deer Squad - Die Waldtruppe</title>
+    <title>Die Waldtruppe</title>
 </programme>
 <programme start="20260620134000 +0000" stop="20260620134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -2653,7 +2653,10 @@
 <programme start="20260620160000 +0000" stop="20260621000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live US Open: 3. Tag in Southampton, NY (USA)</title>
 </programme>
-<programme start="20260620003000 +0000" stop="20260620013000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260619220500 +0000" stop="20260620010500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Special Olympics: 3x3 Basketball - Finaltag</title>
+</programme>
+<programme start="20260620010500 +0000" stop="20260620013000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight</title>
 </programme>
 <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2911,19 +2914,19 @@
 <programme start="20260620210000 +0000" stop="20260620220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review of the Season 2025/2026</title>
 </programme>
-<programme start="20260619230000 +0000" stop="20260620010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: tba - R. Hijikata (AUS), HSBC Championships in London (GBR), 5. Tag</title>
+<programme start="20260619230500 +0000" stop="20260620010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. de Minaur (AUS) - B. Nakashima (USA), HSBC Championships in London (GBR), 5. Tag</title>
 </programme>
-<programme start="20260620010000 +0000" stop="20260620033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260620010000 +0000" stop="20260620032000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20260620033000 +0000" stop="20260620053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260620032000 +0000" stop="20260620052000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
-<programme start="20260620053000 +0000" stop="20260620073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: tba - R. Hijikata (AUS), HSBC Championships in London (GBR), 5. Tag</title>
+<programme start="20260620052000 +0000" stop="20260620072500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. de Minaur (AUS) - B. Nakashima (USA), HSBC Championships in London (GBR), 5. Tag</title>
 </programme>
-<programme start="20260620073000 +0000" stop="20260620093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260620072500 +0000" stop="20260620093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
 <programme start="20260620093000 +0000" stop="20260620160000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2933,10 +2936,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260620163000 +0000" stop="20260620183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
+    <title>WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
 </programme>
 <programme start="20260620183000 +0000" stop="20260620203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, HSBC Championships in London (GBR), Halbfinale 1</title>
+    <title>ATP 500: B. Nakashima (USA) - F. Cerundulo (ARG), HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
 <programme start="20260620203000 +0000" stop="20260620223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: HF2, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
@@ -3080,16 +3083,16 @@
     <title>Live WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
 </programme>
 <programme start="20260620120000 +0000" stop="20260620180000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live WTA 500: HF2, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
+    <title>Live WTA 500: A. Sabalenka (BLR) - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
 </programme>
 <programme start="20260620114000 +0000" stop="20260620120000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 500: HF1, HSBC Championships in London (GBR), Halbfinale 1</title>
+    <title>Live ATP 500: B. Nakashima (USA) - F. Cerundulo (ARG), HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
-<programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 500: HF2, HSBC Championships in London (GBR), Halbfinale 2</title>
+<programme start="20260620140000 +0000" stop="20260620200000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 500: T. Paul (USA) - U. Humbert (FRA), HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
 <programme start="20260619223000 +0000" stop="20260619231500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
