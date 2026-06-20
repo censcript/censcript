@@ -2296,13 +2296,7 @@
 <programme start="20260620160000 +0000" stop="20260620170000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
-<programme start="20260620170000 +0000" stop="20260620173000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260620173000 +0000" stop="20260620174500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Iran War Today</title>
-</programme>
-<programme start="20260620174500 +0000" stop="20260620180000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260620170000 +0000" stop="20260620180000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
 <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="Sky_News_HD.virginmediatv">

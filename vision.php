@@ -532,9 +532,6 @@
 <programme start="20260620184500 +0000" stop="20260620190000 +0000" channel="Trans 7.vision">
 <title>Bes Fishing</title>
 </programme>
-<programme start="20260620190000 +0000" stop="20260620203000 +0000" channel="Trans 7.vision">
-<title>Terekam CCTV</title>
-</programme>
 <programme start="20260620203000 +0000" stop="20260620210000 +0000" channel="Trans 7.vision">
 <title>LOL ComediHa!</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260620110000 +0000" stop="20260620113000 +0000" channel="JAK TV.vision">
 <title>Muslimpedia</title>
+</programme>
+<programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="JAK TV.vision">
+<title>The Cloth Story</title>
 </programme>

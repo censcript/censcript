@@ -2629,7 +2629,7 @@
 <programme start="20260620213000 +0000" stop="20260620230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Elkhart Lake (Wisconsin)</title>
 </programme>
-<programme start="20260620000000 +0000" stop="20260620030000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260620001000 +0000" stop="20260620030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag 2024 in Pinehurst, NC (USA)</title>
 </programme>
 <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2929,20 +2929,20 @@
 <programme start="20260620072500 +0000" stop="20260620093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
-<programme start="20260620093000 +0000" stop="20260620160000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260620093000 +0000" stop="20260620170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Halbfinals, ATP London &amp; WTA Berlin</title>
 </programme>
-<programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260620170000 +0000" stop="20260620173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260620163000 +0000" stop="20260620183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
+<programme start="20260620173000 +0000" stop="20260620183000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: A. Sabalenka (BLR) - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
 </programme>
 <programme start="20260620183000 +0000" stop="20260620203000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Nakashima (USA) - F. Cerundulo (ARG), HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
 <programme start="20260620203000 +0000" stop="20260620223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
+    <title>WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
 </programme>
 <programme start="20260620001000 +0000" stop="20260620013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
@@ -2968,10 +2968,10 @@
 <programme start="20260620084500 +0000" stop="20260620100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Qualifying - GP Tschechien</title>
 </programme>
-<programme start="20260620100000 +0000" stop="20260620160000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260620100000 +0000" stop="20260620170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Halbfinals, ATP London &amp; WTA Berlin</title>
 </programme>
-<programme start="20260620160000 +0000" stop="20260621000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260620170000 +0000" stop="20260621000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: 3. Tag in Southampton, NY (USA)</title>
 </programme>
 <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="Sky Sport UHD.skyde">
@@ -3073,10 +3073,10 @@
 <programme start="20260620194000 +0000" stop="20260620234500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live: Deutschland - Elfenbeinküste, Spezial-Kommentar FIFA WM 2026</title>
 </programme>
-<programme start="20260620091000 +0000" stop="20260620093000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260620091000 +0000" stop="20260620100000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260620093000 +0000" stop="20260620120000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
 </programme>
 <programme start="20260620120000 +0000" stop="20260620180000 +0000" channel="Sky Sport 5 HD.skyde">
@@ -3448,47 +3448,47 @@
 <programme start="20260620212500 +0000" stop="20260620224500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Hot Shots! - Die Mutter aller Filme</title>
 </programme>
-<programme start="20260619220000 +0000" stop="20260619234500 +0000" channel="Warner TV Film.skyde">
-    <title>Ring 2</title>
+<programme start="20260621221000 +0000" stop="20260622002000 +0000" channel="Warner TV Film.skyde">
+    <title>Bridge of Spies - Der Unterhändler</title>
 </programme>
-<programme start="20260619234500 +0000" stop="20260620015000 +0000" channel="Warner TV Film.skyde">
-    <title>The Verdict - Die Wahrheit und nichts als die Wahrheit</title>
+<programme start="20260622002000 +0000" stop="20260622013000 +0000" channel="Warner TV Film.skyde">
+    <title>Hinter den Kulissen - Michael Ballhaus</title>
 </programme>
-<programme start="20260620015000 +0000" stop="20260620020500 +0000" channel="Warner TV Film.skyde">
-    <title>Hinter den Kulissen - Peter Fonda</title>
-</programme>
-<programme start="20260620020500 +0000" stop="20260620040000 +0000" channel="Warner TV Film.skyde">
-    <title>Frühstück bei Tiffany</title>
-</programme>
-<programme start="20260620040000 +0000" stop="20260620042000 +0000" channel="Warner TV Film.skyde">
-    <title>Hinter den Kulissen - Peter Fonda</title>
-</programme>
-<programme start="20260620042000 +0000" stop="20260620064500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260622013000 +0000" stop="20260622040000 +0000" channel="Warner TV Film.skyde">
     <title>The Dark Knight</title>
 </programme>
-<programme start="20260620064500 +0000" stop="20260620082500 +0000" channel="Warner TV Film.skyde">
-    <title>Kevin - Allein zu Haus</title>
+<programme start="20260622040000 +0000" stop="20260622054000 +0000" channel="Warner TV Film.skyde">
+    <title>Der Fremde im Zug</title>
 </programme>
-<programme start="20260620082500 +0000" stop="20260620102500 +0000" channel="Warner TV Film.skyde">
-    <title>Kevin - Allein in New York</title>
+<programme start="20260622054000 +0000" stop="20260622073000 +0000" channel="Warner TV Film.skyde">
+    <title>Die rote Lola</title>
 </programme>
-<programme start="20260620102500 +0000" stop="20260620121500 +0000" channel="Warner TV Film.skyde">
-    <title>Selbst ist die Braut</title>
+<programme start="20260622073000 +0000" stop="20260622090500 +0000" channel="Warner TV Film.skyde">
+    <title>Vater der Braut</title>
 </programme>
-<programme start="20260620121500 +0000" stop="20260620141500 +0000" channel="Warner TV Film.skyde">
-    <title>Taffe Mädels</title>
+<programme start="20260622090500 +0000" stop="20260622105500 +0000" channel="Warner TV Film.skyde">
+    <title>The Lost City - Das Geheimnis der verlorenen Stadt</title>
 </programme>
-<programme start="20260620141500 +0000" stop="20260620160000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260622105500 +0000" stop="20260622130000 +0000" channel="Warner TV Film.skyde">
+    <title>Superman II - Allein gegen alle</title>
+</programme>
+<programme start="20260622130000 +0000" stop="20260622144000 +0000" channel="Warner TV Film.skyde">
     <title>Volcano</title>
 </programme>
-<programme start="20260620160000 +0000" stop="20260620181500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260622144000 +0000" stop="20260622163000 +0000" channel="Warner TV Film.skyde">
+    <title>Auf der Jagd nach dem grünen Diamanten</title>
+</programme>
+<programme start="20260622163000 +0000" stop="20260622181500 +0000" channel="Warner TV Film.skyde">
+    <title>Sechs Tage, sieben Nächte</title>
+</programme>
+<programme start="20260622181500 +0000" stop="20260622194500 +0000" channel="Warner TV Film.skyde">
+    <title>Date Night - Gangster für eine Nacht</title>
+</programme>
+<programme start="20260622194500 +0000" stop="20260622213500 +0000" channel="Warner TV Film.skyde">
+    <title>Der Teufel trägt Prada</title>
+</programme>
+<programme start="20260622213500 +0000" stop="20260622234500 +0000" channel="Warner TV Film.skyde">
     <title>Die Wiege der Sonne</title>
-</programme>
-<programme start="20260620181500 +0000" stop="20260620200000 +0000" channel="Warner TV Film.skyde">
-    <title>Medicine Man - Die letzten Tage von Eden</title>
-</programme>
-<programme start="20260620200000 +0000" stop="20260620221000 +0000" channel="Warner TV Film.skyde">
-    <title>Instinkt</title>
 </programme>
 <programme start="20260619220000 +0000" stop="20260619234500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ring 2</title>
