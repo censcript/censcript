@@ -5467,87 +5467,7 @@
 <programme start="20260620163000 +0000" stop="20260619170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-<programme start="20260619173000 +0000" stop="20260619183000 +0000" channel="LIFE.mncvision">
-    <title>AnugerahNya</title>
-</programme>
-<programme start="20260619183000 +0000" stop="20260619193000 +0000" channel="LIFE.mncvision">
-    <title>Rumah CGN Keluarga</title>
-</programme>
-<programme start="20260619193000 +0000" stop="20260619203000 +0000" channel="LIFE.mncvision">
-    <title>Bukan Untuk Orang Sempurna</title>
-</programme>
-<programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="LIFE.mncvision">
-    <title>Sentuhan Kasih</title>
-</programme>
-<programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="LIFE.mncvision">
-    <title>Rhema</title>
-</programme>
-<programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="LIFE.mncvision">
-    <title>Love Revolution</title>
-</programme>
-<programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="LIFE.mncvision">
-    <title>Praise And Worship</title>
-</programme>
-<programme start="20260619230000 +0000" stop="20260620000000 +0000" channel="LIFE.mncvision">
-    <title>Rumah CGN Keluarga</title>
-</programme>
-<programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="LIFE.mncvision">
-    <title>Bukan Untuk Orang Sempurna</title>
-</programme>
-<programme start="20260620010000 +0000" stop="20260620020000 +0000" channel="LIFE.mncvision">
-    <title>Semua Kitab Suci</title>
-</programme>
-<programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="LIFE.mncvision">
-    <title>AnugerahNya</title>
-</programme>
-<programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="LIFE.mncvision">
-    <title>Drive Thru History</title>
-</programme>
-<programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="LIFE.mncvision">
-    <title>Mujizat Itu Nyata</title>
-</programme>
-<programme start="20260620040000 +0000" stop="20260620050000 +0000" channel="LIFE.mncvision">
-    <title>GBI VIFA</title>
-</programme>
-<programme start="20260620050000 +0000" stop="20260620070000 +0000" channel="LIFE.mncvision">
-    <title>Konser Tehilim Heart Of Worship</title>
-</programme>
-<programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="LIFE.mncvision">
-    <title>Today&#039;s Breakthrough</title>
-</programme>
-<programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="LIFE.mncvision">
-    <title>Mujizat Itu Nyata</title>
-</programme>
-<programme start="20260620080000 +0000" stop="20260620090000 +0000" channel="LIFE.mncvision">
-    <title>Semua Kitab Suci</title>
-</programme>
-<programme start="20260620090000 +0000" stop="20260620093000 +0000" channel="LIFE.mncvision">
-    <title>Superyouth</title>
-</programme>
-<programme start="20260620093000 +0000" stop="20260620100000 +0000" channel="LIFE.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20260620100000 +0000" stop="20260620113000 +0000" channel="LIFE.mncvision">
-    <title>Ibadah Bethany Yestoya (L)</title>
-</programme>
-<programme start="20260620113000 +0000" stop="20260620123000 +0000" channel="LIFE.mncvision">
-    <title>Daily Show</title>
-</programme>
-<programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="LIFE.mncvision">
-    <title>Voice Of Life</title>
-</programme>
-<programme start="20260620130000 +0000" stop="20260620140000 +0000" channel="LIFE.mncvision">
-    <title>Glow Series</title>
-</programme>
-<programme start="20260620140000 +0000" stop="20260620150000 +0000" channel="LIFE.mncvision">
-    <title>GBI ACS</title>
-</programme>
-<programme start="20260620150000 +0000" stop="20260620153000 +0000" channel="LIFE.mncvision">
-    <title>Konser Tehilim Heart Of Worship</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260619173500 +0000" stop="20260619183500 +0000" channel="Lifetime.mncvision">
     <title>MasterChef USA S13, Ep 15</title>
 </programme>
@@ -6031,48 +5951,7 @@
 <programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="MNCTV.mncvision">
     <title>Sugar Daddy</title>
 </programme>
-<programme start="20260619170000 +0000" stop="20260619190000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20260619190000 +0000" stop="20260619230000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn 2</title>
-</programme>
-<programme start="20260619230000 +0000" stop="20260619231500 +0000" channel="MNCTV HD.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20260619231500 +0000" stop="20260619234500 +0000" channel="MNCTV HD.mncvision">
-    <title>Dora &amp; Sahabat</title>
-</programme>
-<programme start="20260619234500 +0000" stop="20260620001500 +0000" channel="MNCTV HD.mncvision">
-    <title>Zak Storm</title>
-</programme>
-<programme start="20260620001500 +0000" stop="20260620010000 +0000" channel="MNCTV HD.mncvision">
-    <title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260620010000 +0000" stop="20260620043000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260620043000 +0000" stop="20260620070000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260620070000 +0000" stop="20260620090000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260620090000 +0000" stop="20260620103000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260620103000 +0000" stop="20260620113000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260620113000 +0000" stop="20260620123000 +0000" channel="MNCTV HD.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20260620123000 +0000" stop="20260620160000 +0000" channel="MNCTV HD.mncvision">
-    <title>Road To Kilau Raya (L)</title>
-</programme>
-<programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Sugar Daddy</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260619175500 +0000" stop="20260619182800 +0000" channel="Moonbug.mncvision">
     <title>Digley &amp; Dazey</title>
 </programme>

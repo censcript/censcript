@@ -4130,7 +4130,7 @@
     <title>Premier League Highlights - Manchester United v Fulham</title>
 </programme>
 <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Manchester United v Tottenham Hotspur</title>
+    <title>Channel Off Air</title>
 </programme>
 <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - West Ham United v Manchester United</title>
@@ -4249,8 +4249,8 @@
 <programme start="20260620123000 +0000" stop="20260620170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: PREM Rugby - Final: Northampton Saints v Exeter Chiefs</title>
 </programme>
-<programme start="20260620170000 +0000" stop="20260620190000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Global Champions Tour - Paris</title>
+<programme start="20260620170000 +0000" stop="20260620183000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Tour of Slovenia - Stage 3</title>
@@ -4348,8 +4348,14 @@
 <programme start="20260620133000 +0000" stop="20260620160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Tour de Suisse - Men&#039;s Stage 4</title>
 </programme>
-<programme start="20260620160000 +0000" stop="20260620193000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: European Championship Fencing - Day 5</title>
+<programme start="20260620160000 +0000" stop="20260620161500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>TNT Sports Reload</title>
+</programme>
+<programme start="20260620161500 +0000" stop="20260620171500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>International T20 Cricket - 2nd T20: Bangladesh v Australia</title>
+</programme>
+<programme start="20260620171500 +0000" stop="20260620204500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Live: Global Champions Tour - Paris</title>
 </programme>
 <programme start="20260620000000 +0000" stop="20260620020000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>Top 14 - Semi-Final: Stade Toulousain v Racing 92</title>
@@ -4846,8 +4852,8 @@
 <programme start="20260620123000 +0000" stop="20260620170000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: PREM Rugby - Final: Northampton Saints v Exeter Chiefs</title>
 </programme>
-<programme start="20260620170000 +0000" stop="20260620190000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: Global Champions Tour - Paris</title>
+<programme start="20260620170000 +0000" stop="20260620183000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Tour of Slovenia - Stage 3</title>
@@ -4945,8 +4951,14 @@
 <programme start="20260620133000 +0000" stop="20260620160000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: Tour de Suisse - Men&#039;s Stage 4</title>
 </programme>
-<programme start="20260620160000 +0000" stop="20260620193000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: European Championship Fencing - Day 5</title>
+<programme start="20260620160000 +0000" stop="20260620161500 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>TNT Sports Reload</title>
+</programme>
+<programme start="20260620161500 +0000" stop="20260620171500 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>International T20 Cricket - 2nd T20: Bangladesh v Australia</title>
+</programme>
+<programme start="20260620171500 +0000" stop="20260620204500 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>Live: Global Champions Tour - Paris</title>
 </programme>
 <programme start="20260620000000 +0000" stop="20260620020000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>Top 14 - Semi-Final: Stade Toulousain v Racing 92</title>

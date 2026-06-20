@@ -2888,55 +2888,10 @@
     <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260620051500 +0000" stop="20260620053000 +0000" channel="tvs.unifitv">
-    <title lang="en">Orang Kita</title>
-    <desc lang="en">Orang Kita, bersama MINTRED, memaparkan kisah inspirasi usahawan tempatan. Rancangan ini menyerlahkan semangat juang, ketekunan, dan inovasi yang membawa kejayaan, memberi inspirasi kepada usahawan baru dengan keyakinan.</desc>
+  <programme start="20260620051500 +0000" stop="20260620080000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Niti Daun Sempena Sambutan Gawai Dayak</title>
+    <desc lang="en">Siaran langsung Niti Daun Sempena Sambutan Gawai Dayak Peringkat Sarawak 2026, bertempat di tebingan Kuching (Waterfront Kuching), Sarawak</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="tvs.unifitv">
-    <title lang="en">Caves &amp; Caverns</title>
-    <desc lang="en">Our hostess explores Borneo's hidden gems, documenting her experiences, flora, fauna, paragliding, bird watching, and stunning sunsets, ensuring a captivating and exciting adventure.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260620060000 +0000" stop="20260620060500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260620060500 +0000" stop="20260620070000 +0000" channel="tvs.unifitv">
-    <title lang="en">GBRB: Reap What You Sow</title>
-    <desc lang="en">A-listed actors under the spotlight become farmers under the sunlight</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260620070000 +0000" stop="20260620070500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Highlight</title>
-    <desc lang="en">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260620070500 +0000" stop="20260620071500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
-  </programme>
-  <programme start="20260620071500 +0000" stop="20260620074500 +0000" channel="tvs.unifitv">
-    <title lang="en">AI.5YA</title>
-    <desc lang="en">Famous YouTuber Jehan Jinx loses his crew and uses a mail-order robot, AI5YA, as his one-woman team and co-star. As fans want more of her, he must hide she's not human.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260620074500 +0000" stop="20260620080000 +0000" channel="tvs.unifitv">
-    <title lang="en">Changemakers</title>
-    <desc lang="en">This 6 episode series delves into the journeys of Sarawakian changemakers who have made significant impacts in their communities and beyond.</desc>
-    <category lang="en">Business</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260620080000 +0000" stop="20260620080500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Ringkas</title>
@@ -3503,7 +3458,7 @@
   </programme>
   <programme start="20260619163500 +0000" stop="20260619173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Treasure At Dawn</title>
-    <desc lang="en">Fu Sheng lives in the border town of Shangyi. A naive and somewhat clueless individual, he's single-mindedly devoted to medicine. However, he's unexpectedly drawn into the case of the deaths of hundreds of doctors, where his beloved father, Physician Fu, is brutally murdered, and he's framed for the crime by the county magistrate. He survives only thanks to the rescue of Princess Wen Jue of Xichuan, who comes to Shangyi seeking medical help, and the chivalrous Gu Tian. Fu Sheng learns that Wen Jue is there to find a doctor for her father, and that the doctor she seeks is none other than his own deceased father. To repay Wen Jue's life-saving grace, Fu Sheng agrees to accompany her to Xichuan to treat his father. By sheer coincidence, Fu Sheng discovers clues left by his father that there exists something crucial to the stability of the realm and the peace of the world a treasure called the Heavenly Book. The case of the deaths of hundreds of doctors stems from this treasure. The treasure's location points to Xichuan, and the key to unlocking it lies in Fu Sheng's hands. For the sake of the people's peace and to unravel the mysteries in their hearts, Fu Sheng, Wen Jue, and Gu Tian embark on a journey to find the Heavenly Book Wen Jue, originally a mischievous girl full of curiosity, matured overnight after her father fell ill and struggled to shoulder the heavy burden. In her interactions with Fu Sheng, Wen Jue grew increasingly fond of his earnestness. The two appeared to be bickering lovers, but in reality, they had become each other's support. Even the carefree and unrestrained wanderer Gu Tian was turned by Fu Sheng and joined the two on their path of saving the world. Mysteries unfolded layer by layer, and the three traveled side by side, thus beginning a thrilling adventure of discovery.</desc>
+    <desc lang="en">Fu Sheng lives in the border town of Shangyi. A naive and somewhat clueless individual, he's single-mindedly devoted to medicine. However, he's unexpectedly drawn into the case of the deaths of hundreds of doctors, where his beloved father, Physician Fu, is brutally murdered, and he's framed for the crime by the county magistrate. He survives only thanks to the rescue of Princess Wen Jue of Xichuan, who comes to Shangyi seeking medical help, and the chivalrous Gu Tian. Fu Sheng learns that Wen Jue is there to find a doctor for her father, and that the doctor she seeks is none other than his own deceased father. To repay Wen Jue's life-saving grace, Fu Sheng agrees to accompany her to Xichuan to treat his father. By sheer coincidence, Fu Sheng discovers clues left by his father that there exists something crucial to the stability of the realm and the peace of the world—a treasure called the Heavenly Book. The case of the deaths of hundreds of doctors stems from this treasure. The treasure's location points to Xichuan, and the key to unlocking it lies in Fu Sheng's hands. For the sake of the people's peace and to unravel the mysteries in their hearts, Fu Sheng, Wen Jue, and Gu Tian embark on a journey to find the "Heavenly Book"! Wen Jue, originally a mischievous girl full of curiosity, matured overnight after her father fell ill and struggled to shoulder the heavy burden. In her interactions with Fu Sheng, Wen Jue grew increasingly fond of his earnestness. The two appeared to be bickering lovers, but in reality, they had become each other's support. Even the carefree and unrestrained wanderer Gu Tian was "turned" by Fu Sheng and joined the two on their path of saving the world. Mysteries unfolded layer by layer, and the three traveled side by side, thus beginning a thrilling adventure of discovery.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.28.</episode-num>
     <episode-num system="onscreen">S1E29</episode-num>
@@ -12668,7 +12623,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260619163300 +0000" stop="20260619170300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Making Peace : The Light Within</title>
+    <title lang="en">Making Peace : Nanawati - The Last Negotiation</title>
     <desc lang="en">Under Taliban rule, Afghan women weigh whether engaging their oppressors is necessary or a betrayal of their cause.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -12681,7 +12636,7 @@
   </programme>
   <programme start="20260619173300 +0000" stop="20260619180300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1352.</episode-num>
     <episode-num system="onscreen">S1E1353</episode-num>
@@ -12698,7 +12653,7 @@
   </programme>
   <programme start="20260619193300 +0000" stop="20260619200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">The show features the economical stories that shape our world and has an effect on the lives of the common human beings.</desc>
+    <desc lang="en">Is the G7 listening to the Global South and who can challenge its influence?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.39.</episode-num>
     <episode-num system="onscreen">S1E40</episode-num>
@@ -12709,8 +12664,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260619203300 +0000" stop="20260619210300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Program to be Announce</title>
-    <desc lang="en">Program to be Announce</desc>
+    <title lang="en">People and Power</title>
+    <desc lang="en">Caught between two worlds, migrants in Tunisia fight the elements and the authorities as they strive to reach Europe.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260619210300 +0000" stop="20260619220300 +0000" channel="aljazeera.unifitv">
@@ -12730,7 +12685,7 @@
   </programme>
   <programme start="20260619233300 +0000" stop="20260620000300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1352.</episode-num>
     <episode-num system="onscreen">S1E1353</episode-num>
@@ -12747,7 +12702,7 @@
   </programme>
   <programme start="20260620013300 +0000" stop="20260620020300 +0000" channel="aljazeera.unifitv">
     <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc lang="en">In cricket-obsessed India, the Women's Premier League is creating life-changing opportunities for hundreds of women in their chosen sport.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260620020300 +0000" stop="20260620030300 +0000" channel="aljazeera.unifitv">
@@ -12755,27 +12710,15 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260620030300 +0000" stop="20260620033300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  <programme start="20260620030300 +0000" stop="20260620040300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260620033300 +0000" stop="20260620040300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Reframe</title>
-    <desc lang="en">Varsha Gandikota-Nellutla interviews former Foreign Minister of South Africa, Naledi Pandor, on the dynamics of a global order under threat.</desc>
+  <programme start="20260620040300 +0000" stop="20260620050300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Head to Head : David Des Roches</title>
+    <desc lang="en">Mehdi Hasan goes Head to Head with former Pentagon official David Des Roches on whether the U.S. war on Iran has been a resounding success or a costly failure.</desc>
     <category lang="en">News</category>
-  </programme>
-  <programme start="20260620040300 +0000" stop="20260620043300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260620043300 +0000" stop="20260620050300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Making Peace : The Light Within</title>
-    <desc lang="en">Under Taliban rule, Afghan women weigh whether engaging their oppressors is necessary or a betrayal of their cause.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260620050300 +0000" stop="20260620053300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12784,7 +12727,7 @@
   </programme>
   <programme start="20260620053300 +0000" stop="20260620060300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1352.</episode-num>
     <episode-num system="onscreen">S1E1353</episode-num>
@@ -12796,7 +12739,7 @@
   </programme>
   <programme start="20260620063300 +0000" stop="20260620070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">The show features the economical stories that shape our world and has an effect on the lives of the common human beings.</desc>
+    <desc lang="en">Is the G7 listening to the Global South and who can challenge its influence?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.39.</episode-num>
     <episode-num system="onscreen">S1E40</episode-num>
@@ -12812,8 +12755,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260620083300 +0000" stop="20260620090300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Program to be Announce</title>
-    <desc lang="en">Program to be Announce</desc>
+    <title lang="en">People and Power</title>
+    <desc lang="en">Caught between two worlds, migrants in Tunisia fight the elements and the authorities as they strive to reach Europe.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260620090300 +0000" stop="20260620093300 +0000" channel="aljazeera.unifitv">
@@ -12822,8 +12765,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260620093300 +0000" stop="20260620100300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Witness</title>
-    <desc lang="en">Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
+    <title lang="en">Witness :Tehran War Diary</title>
+    <desc lang="en">An internationally acclaimed photojournalist in Iran is forced to turn his lens on his own city, as Tehran comes under bombardment.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260620100300 +0000" stop="20260620110300 +0000" channel="aljazeera.unifitv">
@@ -12838,7 +12781,7 @@
   </programme>
   <programme start="20260620113300 +0000" stop="20260620120300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1352.</episode-num>
     <episode-num system="onscreen">S1E1353</episode-num>
@@ -12860,7 +12803,7 @@
   </programme>
   <programme start="20260620143300 +0000" stop="20260620150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">The show features the economical stories that shape our world and has an effect on the lives of the common human beings.</desc>
+    <desc lang="en">Is the G7 listening to the Global South and who can challenge its influence?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.39.</episode-num>
     <episode-num system="onscreen">S1E40</episode-num>
@@ -14843,12 +14786,19 @@
   <channel id="nhkworldjapan.unifitv">
     <display-name>NHK WORLD-JAPAN</display-name>
   </channel>
-  <programme start="20260619153500 +0000" stop="20260619160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japan in Focus</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+  <programme start="20260619153500 +0000" stop="20260619160000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ikebana - Beauty As It Is</title>
+    <desc lang="en">Ikebana enhances the inherent beauty of flowers, imperfections and all - we explore the spirit of this art form under the guidance of ikebana master Shuho.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3027.</episode-num>
-    <episode-num system="onscreen">S1E3028</episode-num>
+    <episode-num system="xmltv_ns">0.2087.</episode-num>
+    <episode-num system="onscreen">S1E2088</episode-num>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619160500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan Delish 5min.</title>
+    <desc lang="en">Curry rice is one of Japan's most iconic national dishes - how did Jimbocho in Tokyo become a curry town?</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6063.</episode-num>
+    <episode-num system="onscreen">S1E6064</episode-num>
   </programme>
   <programme start="20260619160500 +0000" stop="20260619163500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14857,7 +14807,7 @@
   </programme>
   <programme start="20260619163500 +0000" stop="20260619170500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Frontrunners</title>
-    <desc lang="en">Hayase Kumi was the first deaf Japanese to earn a pharmacist's license - she is also a cyclist competing in the Deaflympics, an international sports competition for deaf athletes.</desc>
+    <desc lang="en">Kobayashi Kunio is a celebrated bonsai artist working to secure the future of this traditional art form through outreach to children and through efforts to protect the iconic shimpaku juniper.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2102.</episode-num>
     <episode-num system="onscreen">S1E2103</episode-num>
@@ -14869,7 +14819,7 @@
   </programme>
   <programme start="20260619173500 +0000" stop="20260619180500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">Dynamic Asia - the stories behind the world's largest continent as it faces political, economic, cultural and technological change.</desc>
+    <desc lang="en">Cambodia has witnessed remarkable economic growth and women are on track to be the next driving force - with government support, more women are opting to launch their own businesses.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14881,14 +14831,14 @@
   </programme>
   <programme start="20260619183300 +0000" stop="20260619184800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Leading Japanese dancer and choreographer Kondo Ryohei served as director of the opening ceremony for the Tokyo Deaflympics in November 2025 - he talks about the potential of physical expression.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260619184800 +0000" stop="20260619190000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">Data centres, the engines of our digital age, consume vast energy and drive a surge in CO2 emissions that intensify climate risks while powering global connectivity.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -14908,11 +14858,11 @@
     <episode-num system="onscreen">S1E2050</episode-num>
   </programme>
   <programme start="20260619193500 +0000" stop="20260619200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Outside In: Lost in Academia</title>
+    <desc lang="en">Japanese culture is in the global spotlight like never before - dive into the work of international scholars exploring Japan in original ways while uncovering unique perspectives and deep insights.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4032.</episode-num>
-    <episode-num system="onscreen">S1E4033</episode-num>
+    <episode-num system="xmltv_ns">0.4046.</episode-num>
+    <episode-num system="onscreen">S1E4047</episode-num>
   </programme>
   <programme start="20260619200500 +0000" stop="20260619203500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14921,7 +14871,7 @@
   </programme>
   <programme start="20260619203500 +0000" stop="20260619210500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Designing for Touch. Information today comes from devices, but creatives in various fields are recentring the human sensation of touch. Explore the potential of designing for touch.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2100.</episode-num>
     <episode-num system="onscreen">S1E2101</episode-num>
@@ -14931,12 +14881,19 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260619213500 +0000" stop="20260619220500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japan in Focus</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+  <programme start="20260619213500 +0000" stop="20260619220000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ikebana - Beauty As It Is</title>
+    <desc lang="en">Ikebana enhances the inherent beauty of flowers, imperfections and all - we explore the spirit of this art form under the guidance of ikebana master Shuho.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3027.</episode-num>
-    <episode-num system="onscreen">S1E3028</episode-num>
+    <episode-num system="xmltv_ns">0.2087.</episode-num>
+    <episode-num system="onscreen">S1E2088</episode-num>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619220500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan Delish 5min.</title>
+    <desc lang="en">Curry rice is one of Japan's most iconic national dishes - how did Jimbocho in Tokyo become a curry town?</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6063.</episode-num>
+    <episode-num system="onscreen">S1E6064</episode-num>
   </programme>
   <programme start="20260619220500 +0000" stop="20260619223500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14945,7 +14902,7 @@
   </programme>
   <programme start="20260619223500 +0000" stop="20260619230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">Dynamic Asia - the stories behind the world's largest continent as it faces political, economic, cultural and technological change.</desc>
+    <desc lang="en">Cambodia has witnessed remarkable economic growth and women are on track to be the next driving force - with government support, more women are opting to launch their own businesses.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14957,21 +14914,21 @@
   </programme>
   <programme start="20260619231500 +0000" stop="20260619232000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Chatroom Japan</title>
-    <desc lang="en">A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <desc lang="en">David Bull came to Japan to master the art of woodblock printing - he learned valuable lessons about Japanese culture and that there is more to the works of art than the paper they are printed on.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6048.</episode-num>
     <episode-num system="onscreen">S1E6049</episode-num>
   </programme>
   <programme start="20260619232000 +0000" stop="20260619233500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan's Top Inventions</title>
-    <desc lang="en">Made in Japan! The fascinating stories and secrets hidden behind the creation of Japan's most loved and intriguing inventions.</desc>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter - this time, eggshell field chalk.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2090.</episode-num>
     <episode-num system="onscreen">S1E2091</episode-num>
   </programme>
   <programme start="20260619233500 +0000" stop="20260620000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japanology Plus</title>
-    <desc lang="en">Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974 - Peter discovers something new about Japan in every episode.</desc>
+    <desc lang="en">How do we deal with modern clutter? From clever decluttering techniques in tiny homes to refined organisation methods practiced by experts, we explore the Japanese sense of beauty in tidying up.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2031.</episode-num>
     <episode-num system="onscreen">S1E2032</episode-num>
@@ -14982,8 +14939,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260620001500 +0000" stop="20260620010500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Hiroshima Ground Zero</title>
+    <desc lang="en">When the atomic bomb fell on Hiroshima, 78 people who were within 500 metres of the hypocentre survived - we visualise what happened at ground zero that day based on rare recordings of eyewitnesses.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
@@ -15007,7 +14964,7 @@
   </programme>
   <programme start="20260620021500 +0000" stop="20260620030500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals, and discover hidden traditions in a Japan that you didn't know existed.</desc>
+    <desc lang="en">We ride in Ibaraki and Tochigi, looking for the bounties of spring. We meet a farming couple growing sweet bell peppers and a motorcycle shop owner who restored a beloved classic model.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2065.</episode-num>
     <episode-num system="onscreen">S1E2066</episode-num>
@@ -15019,7 +14976,7 @@
   </programme>
   <programme start="20260620031500 +0000" stop="20260620034500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Designing for Touch. Information today comes from devices, but creatives in various fields are recentring the human sensation of touch. Explore the potential of designing for touch.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2100.</episode-num>
     <episode-num system="onscreen">S1E2101</episode-num>
@@ -15043,12 +15000,26 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260620041500 +0000" stop="20260620050500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+  <programme start="20260620041500 +0000" stop="20260620044500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yokai</title>
+    <desc lang="en">This episode features the aquatic Namikozo, which warns locals in the area of the Enshu-nada Sea of coming changes in the weather by beating its drum to give waves a distinct rumbling tone.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3021.</episode-num>
     <episode-num system="onscreen">S1E3022</episode-num>
+  </programme>
+  <programme start="20260620044500 +0000" stop="20260620050000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6216.</episode-num>
+    <episode-num system="onscreen">S1E6217</episode-num>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620050500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyo-e Edo-Life</title>
+    <desc lang="en">A Secret Date: It's late at night, and all are fast asleep when a young man and woman huddle together along the veranda outside of a house and attend to a rooster. What could the pair be up to?</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
   </programme>
   <programme start="20260620050500 +0000" stop="20260620051500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15057,7 +15028,7 @@
   </programme>
   <programme start="20260620051500 +0000" stop="20260620053000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - 'Bosai' explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Robots are garnering attention for their potential in disaster areas. We'll look at the cutting-edge initiatives aimed at further advancing the application of disaster response robots.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
@@ -15082,8 +15053,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260620061500 +0000" stop="20260620070500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Hiroshima Ground Zero</title>
+    <desc lang="en">When the atomic bomb fell on Hiroshima, 78 people who were within 500 metres of the hypocentre survived - we visualise what happened at ground zero that day based on rare recordings of eyewitnesses.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
@@ -15105,12 +15076,26 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260620081500 +0000" stop="20260620090500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+  <programme start="20260620081500 +0000" stop="20260620084500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yokai</title>
+    <desc lang="en">This episode features the aquatic Namikozo, which warns locals in the area of the Enshu-nada Sea of coming changes in the weather by beating its drum to give waves a distinct rumbling tone.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3021.</episode-num>
     <episode-num system="onscreen">S1E3022</episode-num>
+  </programme>
+  <programme start="20260620084500 +0000" stop="20260620090000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6216.</episode-num>
+    <episode-num system="onscreen">S1E6217</episode-num>
+  </programme>
+  <programme start="20260620090000 +0000" stop="20260620090500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyo-e Edo-Life</title>
+    <desc lang="en">A Secret Date: It's late at night, and all are fast asleep when a young man and woman huddle together along the veranda outside of a house and attend to a rooster. What could the pair be up to?</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
   </programme>
   <programme start="20260620090500 +0000" stop="20260620091500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15119,7 +15104,7 @@
   </programme>
   <programme start="20260620091500 +0000" stop="20260620094500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Designing for Touch. Information today comes from devices, but creatives in various fields are recentring the human sensation of touch. Explore the potential of designing for touch.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2100.</episode-num>
     <episode-num system="onscreen">S1E2101</episode-num>
@@ -15145,7 +15130,7 @@
   </programme>
   <programme start="20260620101500 +0000" stop="20260620110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals, and discover hidden traditions in a Japan that you didn't know existed.</desc>
+    <desc lang="en">We ride in Ibaraki and Tochigi, looking for the bounties of spring. We meet a farming couple growing sweet bell peppers and a motorcycle shop owner who restored a beloved classic model.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2065.</episode-num>
     <episode-num system="onscreen">S1E2066</episode-num>
@@ -15157,7 +15142,7 @@
   </programme>
   <programme start="20260620111500 +0000" stop="20260620113000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - 'Bosai' explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Robots are garnering attention for their potential in disaster areas. We'll look at the cutting-edge initiatives aimed at further advancing the application of disaster response robots.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
@@ -15182,8 +15167,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260620121500 +0000" stop="20260620130500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Hiroshima Ground Zero</title>
+    <desc lang="en">When the atomic bomb fell on Hiroshima, 78 people who were within 500 metres of the hypocentre survived - we visualise what happened at ground zero that day based on rare recordings of eyewitnesses.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
@@ -15240,7 +15225,7 @@
   </programme>
   <programme start="20260620151500 +0000" stop="20260620160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals, and discover hidden traditions in a Japan that you didn't know existed.</desc>
+    <desc lang="en">We ride in Ibaraki and Tochigi, looking for the bounties of spring. We meet a farming couple growing sweet bell peppers and a motorcycle shop owner who restored a beloved classic model.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2065.</episode-num>
     <episode-num system="onscreen">S1E2066</episode-num>

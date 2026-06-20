@@ -781,9 +781,6 @@
 <programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="TVOne.vision">
-<title>Antara</title>
-</programme>
 <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="JAK TV.vision">
 <title>Otomotif Tips</title>
+</programme>
+<programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="JAK TV.vision">
+<title>IBL Best Shoot</title>
 </programme>
