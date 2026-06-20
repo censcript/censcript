@@ -520,6 +520,9 @@
 <programme start="20260620071500 +0000" stop="20260620080000 +0000" channel="Trans 7.vision">
 <title>Redaksi Pagi Akhir Pekan</title>
 </programme>
+<programme start="20260620080000 +0000" stop="20260620083000 +0000" channel="Trans 7.vision">
+<title>Allo Bank Festival Red Carpet</title>
+</programme>
 <programme start="20260620083000 +0000" stop="20260620093000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
@@ -606,6 +609,9 @@
 </programme>
 <programme start="20260620010000 +0000" stop="20260620023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
+</programme>
+<programme start="20260620023000 +0000" stop="20260620060000 +0000" channel="ANTV.vision">
+<title>Dil Hai Tumhara</title>
 </programme>
 <programme start="20260620060000 +0000" stop="20260620073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -774,6 +780,9 @@
 </programme>
 <programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
+</programme>
+<programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="TVOne.vision">
+<title>Antara</title>
 </programme>
 <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="JAK TV.vision">
 <title>Otomotif Tips</title>
-</programme>
-<programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="JAK TV.vision">
-<title>IBL Best Shoot</title>
-</programme>
-<programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="JAK TV.vision">
-<title>Ninjao</title>
-</programme>
-<programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
 </programme>

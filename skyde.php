@@ -2356,14 +2356,14 @@
 <programme start="20260620213000 +0000" stop="20260620221500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Real Murders of Atlanta</title>
 </programme>
-<programme start="20260619221500 +0000" stop="20260619231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260619230000 +0000" stop="20260619231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Rot-Weiß-Roadtrip</title>
+</programme>
+<programme start="20260619231500 +0000" stop="20260619234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Best Of)</title>
+</programme>
+<programme start="20260619234500 +0000" stop="20260620004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis (WM Spezial)</title>
-</programme>
-<programme start="20260619231500 +0000" stop="20260620000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig Spezial mit Toni Polster - Die Next Generation Show</title>
-</programme>
-<programme start="20260620000000 +0000" stop="20260620004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USV Pressbaum)</title>
 </programme>
 <programme start="20260620004500 +0000" stop="20260620024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
@@ -2426,19 +2426,19 @@
     <title>ATP 500: T. Fritz (USA) - B. Shelton (USA), Terra Wortmann Open in Halle, 5. Tag</title>
 </programme>
 <programme start="20260620130000 +0000" stop="20260620150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: HF1, Terra Wortmann Open in Halle, Halbfinale 1</title>
+    <title>Live ATP 500: A. Zverev (GER) - T. Fritz (USA), Terra Wortmann Open in Halle, Halbfinale 1</title>
 </programme>
 <programme start="20260620150000 +0000" stop="20260620170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 500: HF2, Terra Wortmann Open in Halle, Halbfinale 2</title>
+    <title>Live ATP 500: D. Altmaier (GER) - F. Tiafoe (USA), Terra Wortmann Open in Halle, Halbfinale 2</title>
 </programme>
 <programme start="20260620170000 +0000" stop="20260620171500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Rot-Weiß-Roadtrip</title>
 </programme>
 <programme start="20260620171500 +0000" stop="20260620191500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: HF1, Terra Wortmann Open in Halle, Halbfinale 1</title>
+    <title>ATP 500: A. Zverev (GER) - T. Fritz (USA), Terra Wortmann Open in Halle, Halbfinale 1</title>
 </programme>
 <programme start="20260620191500 +0000" stop="20260620211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>ATP 500: HF2, Terra Wortmann Open in Halle, Halbfinale 2</title>
+    <title>ATP 500: D. Altmaier (GER) - F. Tiafoe (USA), Terra Wortmann Open in Halle, Halbfinale 2</title>
 </programme>
 <programme start="20260620211500 +0000" stop="20260620213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Rot-Weiß-Roadtrip</title>
@@ -2629,7 +2629,7 @@
 <programme start="20260620213000 +0000" stop="20260620230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Elkhart Lake (Wisconsin)</title>
 </programme>
-<programme start="20260620001000 +0000" stop="20260620030000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260620000000 +0000" stop="20260620030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag 2024 in Pinehurst, NC (USA)</title>
 </programme>
 <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2653,7 +2653,10 @@
 <programme start="20260620160000 +0000" stop="20260621000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live US Open: 3. Tag in Southampton, NY (USA)</title>
 </programme>
-<programme start="20260620003000 +0000" stop="20260620013000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260619220500 +0000" stop="20260620010500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Special Olympics: 3x3 Basketball - Finaltag</title>
+</programme>
+<programme start="20260620010500 +0000" stop="20260620013000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight</title>
 </programme>
 <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2911,19 +2914,19 @@
 <programme start="20260620210000 +0000" stop="20260620220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review of the Season 2025/2026</title>
 </programme>
-<programme start="20260619230000 +0000" stop="20260620010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: tba - R. Hijikata (AUS), HSBC Championships in London (GBR), 5. Tag</title>
+<programme start="20260619230500 +0000" stop="20260620010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. de Minaur (AUS) - B. Nakashima (USA), HSBC Championships in London (GBR), 5. Tag</title>
 </programme>
-<programme start="20260620010000 +0000" stop="20260620033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260620010000 +0000" stop="20260620032000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: D. Vekic (CRO) - E. Raducanu (GBR), HSBC Championships in London (GBR), Finale</title>
 </programme>
-<programme start="20260620033000 +0000" stop="20260620053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260620032000 +0000" stop="20260620052000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
-<programme start="20260620053000 +0000" stop="20260620073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: tba - R. Hijikata (AUS), HSBC Championships in London (GBR), 5. Tag</title>
+<programme start="20260620052000 +0000" stop="20260620072500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. de Minaur (AUS) - B. Nakashima (USA), HSBC Championships in London (GBR), 5. Tag</title>
 </programme>
-<programme start="20260620073000 +0000" stop="20260620093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260620072500 +0000" stop="20260620093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
 <programme start="20260620093000 +0000" stop="20260620160000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2933,25 +2936,22 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260620163000 +0000" stop="20260620183000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
+    <title>WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
 </programme>
 <programme start="20260620183000 +0000" stop="20260620203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, HSBC Championships in London (GBR), Halbfinale 1</title>
+    <title>ATP 500: B. Nakashima (USA) - F. Cerundulo (ARG), HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
 <programme start="20260620203000 +0000" stop="20260620223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
+    <title>WTA 500: A. Sabalenka (BLR) - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
 </programme>
-<programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260620001000 +0000" stop="20260620013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
-</programme>
-<programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: On Fire</title>
 </programme>
 <programme start="20260620013000 +0000" stop="20260620033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: A. Sabalenka - N. Bartunkova (CZE)l, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, 5. Tag</title>
 </programme>
 <programme start="20260620033000 +0000" stop="20260620053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: tba - R. Hijikata (AUS), HSBC Championships in London (GBR), 5. Tag</title>
+    <title>ATP 500: A. de Minaur (AUS) - B. Nakashima (USA), HSBC Championships in London (GBR), 5. Tag</title>
 </programme>
 <programme start="20260620053000 +0000" stop="20260620063500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Saisonrückblick 2025/26</title>
@@ -3073,23 +3073,23 @@
 <programme start="20260620194000 +0000" stop="20260620234500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live: Deutschland - Elfenbeinküste, Spezial-Kommentar FIFA WM 2026</title>
 </programme>
-<programme start="20260620091000 +0000" stop="20260620093000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA Tour</title>
+<programme start="20260620091000 +0000" stop="20260620100000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Es folgt: ab 12:00: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260620093000 +0000" stop="20260620120000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
+<programme start="20260620100000 +0000" stop="20260620145500 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live WTA 500: A. Sabalenka - J. Pegula (USA),, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
 </programme>
-<programme start="20260620120000 +0000" stop="20260620180000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live WTA 500: A. Sabalenka (BLR) - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
+<programme start="20260620145500 +0000" stop="20260620200000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
 </programme>
 <programme start="20260620114000 +0000" stop="20260620120000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 500: HF1, HSBC Championships in London (GBR), Halbfinale 1</title>
+    <title>Live ATP 500: B. Nakashima (USA) - F. Cerundulo (ARG), HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
-<programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 500: HF2, HSBC Championships in London (GBR), Halbfinale 2</title>
+<programme start="20260620140000 +0000" stop="20260620200000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 500: T. Paul (USA) - U. Humbert (FRA), HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
 <programme start="20260619223000 +0000" stop="20260619231500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

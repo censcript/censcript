@@ -16573,7 +16573,7 @@
   <programme start="20260622215500 +0000" stop="20260622220000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260621213100 +0000" stop="20260621220300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260621213200 +0000" stop="20260621220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
   <programme start="20260621220300 +0000" stop="20260621223400 +0000" channel="TVP Info.webtv.sk">

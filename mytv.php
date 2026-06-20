@@ -85,55 +85,55 @@
     <programme start="20260620120000 +0000" stop="20260620123900 +0000" channel="VTV1 HD.mytv">
         <title> Sự lựa chọn </title>
     </programme>
-    <programme start="20260620123900 +0000" stop="20260620125500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620123900 +0000" stop="20260620125800 +0000" channel="VTV1 HD.mytv">
         <title> Cặp lá yêu thương </title>
     </programme>
-    <programme start="20260620125500 +0000" stop="20260620130000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620125800 +0000" stop="20260620130500 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe - Dinh dưỡng cho người Việt: Mùa hè vui khỏe cùng trẻ </title>
     </programme>
-    <programme start="20260620130000 +0000" stop="20260620134500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620130500 +0000" stop="20260620135200 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Nem nắm Giao Thủy </title>
     </programme>
-    <programme start="20260620134500 +0000" stop="20260620140000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620135200 +0000" stop="20260620140300 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20260620140000 +0000" stop="20260620141500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620140300 +0000" stop="20260620141600 +0000" channel="VTV1 HD.mytv">
         <title> Học và làm theo Bác: Lớn lên cùng thiếu nhi Việt Nam </title>
     </programme>
-    <programme start="20260620141500 +0000" stop="20260620143000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620141600 +0000" stop="20260620143000 +0000" channel="VTV1 HD.mytv">
         <title> Chính phủ kiến tạo phát triển </title>
     </programme>
     <programme start="20260620143000 +0000" stop="20260620150000 +0000" channel="VTV1 HD.mytv">
         <title> Doanh nghiệp - Doanh nhân: Sức bật từ khoa học và công nghệ </title>
     </programme>
-    <programme start="20260620150000 +0000" stop="20260620153000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620150000 +0000" stop="20260620153100 +0000" channel="VTV1 HD.mytv">
         <title> Trái tim cho em: Đợi bình minh trên trái tim nhỏ </title>
     </programme>
-    <programme start="20260620153000 +0000" stop="20260620154000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620153100 +0000" stop="20260620153800 +0000" channel="VTV1 HD.mytv">
         <title> Thương hiệu quốc gia Việt Nam: Tín chỉ carbon &amp; Lộ trình Net Zero </title>
     </programme>
-    <programme start="20260620154000 +0000" stop="20260620155500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620153800 +0000" stop="20260620155200 +0000" channel="VTV1 HD.mytv">
         <title> Về quê: Làm giàu từ bản </title>
     </programme>
-    <programme start="20260620155500 +0000" stop="20260620160000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620155200 +0000" stop="20260620160000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260620160000 +0000" stop="20260620161500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620160000 +0000" stop="20260620161000 +0000" channel="VTV1 HD.mytv">
         <title> Văn hoá CAND: Trên những nẻo đường </title>
     </programme>
-    <programme start="20260620161500 +0000" stop="20260620164500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620161000 +0000" stop="20260620164300 +0000" channel="VTV1 HD.mytv">
         <title> Vì cộng đồng: Cầu nối ước mơ </title>
     </programme>
-    <programme start="20260620164500 +0000" stop="20260620170000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620164300 +0000" stop="20260620165900 +0000" channel="VTV1 HD.mytv">
         <title> Nhật ký người Việt: Kỳ tích ghép đa tạng </title>
     </programme>
-    <programme start="20260620170000 +0000" stop="20260620170500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620165900 +0000" stop="20260620170500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Sông Thu Bồn và Lễ hội Bà Mẹ xứ sở </title>
     </programme>
-    <programme start="20260620170500 +0000" stop="20260620172000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620170500 +0000" stop="20260620171900 +0000" channel="VTV1 HD.mytv">
         <title> Hành trình vẻ đẹp: Nghề thổi thuỷ tinh Xối Trì </title>
     </programme>
-    <programme start="20260620172000 +0000" stop="20260620173000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620171900 +0000" stop="20260620173000 +0000" channel="VTV1 HD.mytv">
         <title> Chuyển động 24h </title>
     </programme>
     <programme start="20260620173000 +0000" stop="20260620180000 +0000" channel="VTV1 HD.mytv">
@@ -148,25 +148,25 @@
     <programme start="20260620194000 +0000" stop="20260620195500 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tin </title>
     </programme>
-    <programme start="20260620195500 +0000" stop="20260620200000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620195500 +0000" stop="20260620200100 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Làng hương Kiền Bái Hải Phòng </title>
     </programme>
-    <programme start="20260620200000 +0000" stop="20260620200500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620200100 +0000" stop="20260620200700 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe </title>
     </programme>
-    <programme start="20260620200500 +0000" stop="20260620201000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620200700 +0000" stop="20260620201300 +0000" channel="VTV1 HD.mytv">
         <title> Cất cánh: Sứ mệnh </title>
     </programme>
-    <programme start="20260620201000 +0000" stop="20260620213000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620201300 +0000" stop="20260620213300 +0000" channel="VTV1 HD.mytv">
         <title> Ánh sáng tri thức: Làm chủ công nghệ lõi </title>
     </programme>
-    <programme start="20260620213000 +0000" stop="20260620214500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620213300 +0000" stop="20260620214800 +0000" channel="VTV1 HD.mytv">
         <title> Câu chuyện quốc tế: Siêu El Nino </title>
     </programme>
-    <programme start="20260620214500 +0000" stop="20260620220000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620214800 +0000" stop="20260620220200 +0000" channel="VTV1 HD.mytv">
         <title> Văn học nghệ thuật: Anh Hai Chi </title>
     </programme>
-    <programme start="20260620220000 +0000" stop="20260620223000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260620220200 +0000" stop="20260620223000 +0000" channel="VTV1 HD.mytv">
         <title> Nhật ký FIFA World Cup 2026 </title>
     </programme>
     <programme start="20260620223000 +0000" stop="20260620224500 +0000" channel="VTV1 HD.mytv">
