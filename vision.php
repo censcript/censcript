@@ -520,9 +520,6 @@
 <programme start="20260620071500 +0000" stop="20260620080000 +0000" channel="Trans 7.vision">
 <title>Redaksi Pagi Akhir Pekan</title>
 </programme>
-<programme start="20260620080000 +0000" stop="20260620083000 +0000" channel="Trans 7.vision">
-<title>Allo Bank Festival Red Carpet</title>
-</programme>
 <programme start="20260620083000 +0000" stop="20260620093000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
@@ -531,15 +528,6 @@
 </programme>
 <programme start="20260620103000 +0000" stop="20260620120000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
-</programme>
-<programme start="20260620120000 +0000" stop="20260620163000 +0000" channel="Trans 7.vision">
-<title>Allo Bank Festival 2026</title>
-</programme>
-<programme start="20260620163000 +0000" stop="20260620180000 +0000" channel="Trans 7.vision">
-<title>Pokoknya Beres</title>
-</programme>
-<programme start="20260620180000 +0000" stop="20260620184500 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race 2026 Czech</title>
 </programme>
 <programme start="20260620184500 +0000" stop="20260620190000 +0000" channel="Trans 7.vision">
 <title>Bes Fishing</title>
@@ -610,9 +598,6 @@
 <programme start="20260620010000 +0000" stop="20260620023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
 </programme>
-<programme start="20260620023000 +0000" stop="20260620060000 +0000" channel="ANTV.vision">
-<title>Dil Hai Tumhara</title>
-</programme>
 <programme start="20260620060000 +0000" stop="20260620073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -621,18 +606,6 @@
 </programme>
 <programme start="20260620090000 +0000" stop="20260620113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260620113000 +0000" stop="20260620133000 +0000" channel="ANTV.vision">
-<title>Jurus Dewa Naga</title>
-</programme>
-<programme start="20260620133000 +0000" stop="20260620153000 +0000" channel="ANTV.vision">
-<title>Sabar Dulu Dong</title>
-</programme>
-<programme start="20260620153000 +0000" stop="20260620173000 +0000" channel="ANTV.vision">
-<title>Malam Jahanam</title>
-</programme>
-<programme start="20260620173000 +0000" stop="20260620193000 +0000" channel="ANTV.vision">
-<title>Yes, Madam!</title>
 </programme>
 <programme start="20260620193000 +0000" stop="20260620220000 +0000" channel="ANTV.vision">
 <title>Soni Ke Titu Ki Sweety</title>
@@ -781,9 +754,6 @@
 <programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="TVOne.vision">
-<title>Antara</title>
-</programme>
 <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -828,9 +798,6 @@
 </programme>
 <programme start="20260620150000 +0000" stop="20260620160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="TVOne.vision">
-<title>TV One</title>
 </programme>
 <programme start="20260620163000 +0000" stop="20260620170000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
@@ -1497,4 +1464,37 @@
 </programme>
 <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="JAK TV.vision">
 <title>Otomotif Tips</title>
+</programme>
+<programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="JAK TV.vision">
+<title>IBL Best Shoot</title>
+</programme>
+<programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="JAK TV.vision">
+<title>Ninjao</title>
+</programme>
+<programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="JAK TV.vision">
+<title>Lejel</title>
+</programme>
+<programme start="20260620060000 +0000" stop="20260620063000 +0000" channel="JAK TV.vision">
+<title>Cerita Alif</title>
+</programme>
+<programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="JAK TV.vision">
+<title>Cona Blue</title>
+</programme>
+<programme start="20260620070000 +0000" stop="20260620080000 +0000" channel="JAK TV.vision">
+<title>Medika Natura</title>
+</programme>
+<programme start="20260620080000 +0000" stop="20260620090000 +0000" channel="JAK TV.vision">
+<title>The Youth Doctor</title>
+</programme>
+<programme start="20260620090000 +0000" stop="20260620093000 +0000" channel="JAK TV.vision">
+<title>Cooking Time</title>
+</programme>
+<programme start="20260620093000 +0000" stop="20260620100000 +0000" channel="JAK TV.vision">
+<title>My Health My Choice</title>
+</programme>
+<programme start="20260620100000 +0000" stop="20260620110000 +0000" channel="JAK TV.vision">
+<title>Jendela Tiongkok</title>
+</programme>
+<programme start="20260620110000 +0000" stop="20260620113000 +0000" channel="JAK TV.vision">
+<title>Muslimpedia</title>
 </programme>

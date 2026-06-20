@@ -379,8 +379,11 @@
 <programme start="20260620140000 +0000" stop="20260620161000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Battle of Britain</title>
 </programme>
-<programme start="20260620161000 +0000" stop="20260620165500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Flog It! - Compilation - Antony 59</title>
+<programme start="20260620161000 +0000" stop="20260620164000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - ATP: Semi-Finals</title>
+</programme>
+<programme start="20260620164000 +0000" stop="20260620165500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Flog It! - Reversions: Wallasey 11</title>
 </programme>
 <programme start="20260620165500 +0000" stop="20260620175500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Celebrity Antiques Road Trip</title>
