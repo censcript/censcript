@@ -4250,7 +4250,7 @@
     <title>Live: PREM Rugby - Final: Northampton Saints v Exeter Chiefs</title>
 </programme>
 <programme start="20260620170000 +0000" stop="20260620183000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>TNT Sports Original - Unbreakable: England 2003</title>
 </programme>
 <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Tour of Slovenia - Stage 3</title>
@@ -4853,7 +4853,7 @@
     <title>Live: PREM Rugby - Final: Northampton Saints v Exeter Chiefs</title>
 </programme>
 <programme start="20260620170000 +0000" stop="20260620183000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>To Be Announced</title>
+    <title>TNT Sports Original - Unbreakable: England 2003</title>
 </programme>
 <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Tour of Slovenia - Stage 3</title>

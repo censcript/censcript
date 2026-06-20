@@ -2197,7 +2197,10 @@
     <programme start="20260620150000 +0000" stop="20260620170000 +0000" channel="Cinema One Global.starhub">
         <title>Sablay Ka Na, Pasaway Ka Pa</title>
     </programme>
-    <programme start="20260619160000 +0000" stop="20260619200000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260619133000 +0000" stop="20260619160900 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>VANDA Pharmaceuticals Berlin Tennis Open (500) QF 3</title>
+    </programme>
+    <programme start="20260619160900 +0000" stop="20260619200000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>TOYOTA Thailand Open p/b VICTOR (S500) SF Session 2</title>
     </programme>
     <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="Hub Sports 2 HD.starhub">

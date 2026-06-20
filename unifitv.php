@@ -1097,137 +1097,101 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="tv2.unifitv">
+  <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="tv2.unifitv">
     <title lang="en">Klon</title>
-    <desc lang="en">Kisah seorang budak lelaki bernama Izwan yang menemui cermin sakti! Cermin itu mempunyai kuasa ajaib. Ia mampu mengklonkan sesuatu, sama ada manusia, benda ataupun haiwan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="tv2.unifitv">
-    <title lang="en">Berita Mandarin</title>
-    <desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
-    <category lang="en">Drama</category>
+    <desc lang="en">Drama bersiri lakonan Rozita Che Wan, Tasha Shilla, Reza Hasbi, Akmal Rizal Ahmad Rakhli, Azza Elite dan ramai lagi.</desc>
   </programme>
   <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="tv2.unifitv">
     <title lang="en">Jinggo</title>
     <desc lang="en">Animasi yang mengisahkan Jinggo, seorang penembak tepatdari Pasukan Khas Negara. Jinggo sering dibantu oleh Joned dan Kid sewaktu menyelesaikan misi yang diberikan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="tv2.unifitv">
     <title lang="en">Planet Saga (Siri 2)</title>
     <desc lang="en">Animasi yang mengisahkan kerenah pelbagai makhluk asing yang tinggal di sebuah planet bernama Planet Saga.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260620000000 +0000" stop="20260620003000 +0000" channel="tv2.unifitv">
     <title lang="en">Pak Pandir Moden</title>
     <desc lang="en">Mengisahkan Jaguh, pemuda yang hidup pada zaman kegemilangan Kesultanan Melayu Melaka. Jaguh dibesarkan oleh Tok Guru yang memperkenalkannya dengan dunia persilatan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260620003000 +0000" stop="20260620010000 +0000" channel="tv2.unifitv">
     <title lang="en">Siapa Raime</title>
-    <desc lang="en">Kisah Raime yang mengalami beberapa peristiwa yang menarik setelah dia memakai sebuah topeng ajaib yang dijumpainya.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
+    <desc lang="en">Lakonan Datuk Jalaluddin Hassan, Farah nadiah, Abby Nadzri dan Izwan fitri.</desc>
   </programme>
   <programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="tv2.unifitv">
     <title lang="en">The Adventure Of Sonic Hedgehog</title>
-    <desc lang="en">Best Hedgehog - Sonic dianugerahkan gelaran “Wira Mobius” dan Robotnik cuba merosakkan majlisnya.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
+    <desc lang="en">Sonic the Hedgehog, seekor landak biru terpantas di dunia, yang bersama rakannya Tails, berusaha menggagalkan rancangan jahat Dr. Robotnik dan pasukan robotnya.</desc>
   </programme>
   <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="tv2.unifitv">
     <title lang="en">Super Dinosaur</title>
     <desc lang="en">Derek, Super Dinosaur dan Dr Dynamo meneroka runtuhan berbahaya sebuah kuil misteri yang mungkin membawa ke Inner Earth.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="tv2.unifitv">
     <title lang="en">Spy X Family</title>
     <desc lang="en">Kisah keluarga Forger yang terdiri dari Loid, seorang mata-mata, Yor, seorang pembunuh upahan, dan Anya, seorang telepati. Bond, anjing keluarga Forger, mendapat visi masa depan di mana sebuah bangunan terbakar dan seorang gadis menangis di hadapannya. Dia berusaha untuk mencegah kejadian tersebut dengan bantuan Loid.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
-  <programme start="20260620023000 +0000" stop="20260620040000 +0000" channel="tv2.unifitv">
+  <programme start="20260620023000 +0000" stop="20260620033000 +0000" channel="tv2.unifitv">
     <title lang="en">Road Trip JBS</title>
     <desc lang="en">Majalah travelog yang memaparkan keunikan tempat-tempat pelancongan dan makanan di Malaysia. Bersama Jalil Hamid, Bell Ngasri dan Salleh Yaacob menjelajah tempat-tempat menarik sambil mencuba pebagai makanan yang menjadi keunikan tempat tersebut</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="tv2.unifitv">
+    <title lang="en">Borak Lejen</title>
+    <desc lang="en">Ikuti bual bicara bersama artis-artis lejen tanah air yang akan berkongsi pengalaman dan cerita terbaru mereka.</desc>
   </programme>
   <programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="tv2.unifitv">
     <title lang="en">BERITA MANDARIN</title>
-    <desc lang="en">Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
-    <category lang="en">Drama</category>
+    <desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
   </programme>
-  <programme start="20260620043000 +0000" stop="20260620053000 +0000" channel="tv2.unifitv">
+  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="tv2.unifitv">
     <title lang="en">WORLD TODAY</title>
     <desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
-    <category lang="en">Drama</category>
   </programme>
-  <programme start="20260620053000 +0000" stop="20260620080000 +0000" channel="tv2.unifitv">
+  <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="tv2.unifitv">
+    <title lang="en">On The Table</title>
+    <desc lang="en">On The Table is a talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+  </programme>
+  <programme start="20260620053000 +0000" stop="20260620070000 +0000" channel="tv2.unifitv">
     <title lang="en">Buddy Into The Wild Season 2</title>
     <desc lang="en">Rancangan candawara yang dibintangi oleh penghibur Ahn Jung-hwan dan Boom yang terkandas bersama di sebuah pulau terpencil dan melakukan pelbagai tugasan untuk ikhtiar hidup.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260620070000 +0000" stop="20260620080000 +0000" channel="tv2.unifitv">
+    <title lang="en">VASANTHAM</title>
+    <desc lang="en">Program bual bicara berbahasa Tamil secara langsung yang akan membincangkan isu-isu semasa tanah air.</desc>
   </programme>
   <programme start="20260620080000 +0000" stop="20260620093000 +0000" channel="tv2.unifitv">
     <title lang="en">Running Man</title>
-    <desc lang="en">Rancangan candawara yang disertai oleh artis-artis popular Korea yang akan mengambil bahagian dalam perlumbaan dimana mereka bersaing antara satu sama lain untuk muncul sebagai pemenang dan menuntut gelaran berprestij.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.558.</episode-num>
-    <episode-num system="onscreen">S1E559</episode-num>
+    <desc lang="en">Sebuah program candawara Korea yang menampilkan artis-artis popular disana.</desc>
   </programme>
   <programme start="20260620093000 +0000" stop="20260620100000 +0000" channel="tv2.unifitv">
     <title lang="en">Che Salmah Bintang Radio</title>
-    <desc lang="en">Cabaran yang dihadapi oleh seorang wanita cantik yang bercita-cita menjadi bintang radio yang tidak kesampaian</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <desc lang="en">Sebuah drama bersiri lakonan  Dian P.Ramlee, Fathul Wafi dan Chacha Maembong.</desc>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620110000 +0000" channel="tv2.unifitv">
+  <programme start="20260620100000 +0000" stop="20260620103000 +0000" channel="tv2.unifitv">
     <title lang="en">Mechamato The Animated Series</title>
-    <desc lang="en">Siri ini mengisahkan seorang budak lelaki bernama Amato yang baik hati dan kreatif. Suatu hari, dia menemui sebuah kapal angkasa yang merupakan penjara bagi robot-robot jahat. Di situ, dia berjumpa dengan sebuah robot bernama Mechabot, yang mempunyai keupayaan untuk mengubah apa saja benda biasa menjadi alat berteknologi tinggi. Amato berjaya menewaskan Mechabot dan menjadi tuannya. Lama-kelamaan, mereka menjadi sahabat baik dan bekerjasama sebagai superhero "Mechamato" untuk menjejak dan menangkap semula robot-robot yang telah melarikan diri.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <desc lang="en">Siri ini mengisahkan seorang budak lelaki bernama Amato yang baik hati dan kreatif. Suatu hari, dia menemui  sebuah kapal angkasa yang merupakan penjara bagi robot-robot jahat. Di situ, dia berjumpa dengan sebuah robot  bernama Mechabot, yang mempunyai keupayaan untuk mengubah apa saja benda biasa menjadi alat berteknologi  tinggi. Amato berjaya menewaskan Mechabot dan menjadi tuannya. Lama-kelamaan, mereka menjadi sahabat baik dan bekerjasama sebagai superhero "Mechamato" untuk menjejak dan menangkap semula robot-robot yang telah melarikan diri.</desc>
   </programme>
-  <programme start="20260620110000 +0000" stop="20260620150000 +0000" channel="tv2.unifitv">
+  <programme start="20260620103000 +0000" stop="20260620110000 +0000" channel="tv2.unifitv">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20260620110000 +0000" stop="20260620113000 +0000" channel="tv2.unifitv">
     <title lang="en">Dia Terindah</title>
     <desc lang="en">Dokumentari yang mengetengahkan perkongsian kisah keluarga yang menjaga dan membesarkan anak-anak syurga (anak kelainan upaya) dengan penuh kasih sayang.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260620150000 +0000" stop="20260620153000 +0000" channel="tv2.unifitv">
+  <programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="tv2.unifitv">
+    <title lang="en">BERITA TAMIL</title>
+    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20260620120000 +0000" stop="20260620130000 +0000" channel="tv2.unifitv">
+    <title lang="en">Younger</title>
+    <desc lang="en">Drama bersiri lakonan Sutton Foster, Debi Mazar, Nico Tortorella, Hilary Duff, Miriam Shor, Peter Hermann, Molly Bernard, Charles Michael Davis dan ramai lagi.</desc>
+  </programme>
+  <programme start="20260620130000 +0000" stop="20260620150000 +0000" channel="tv2.unifitv">
+    <title lang="en">Konsert Mestika Asmaraloka</title>
+    <desc lang="en">Jom berhibur bersama Jamilah Abu Bakar, Suki Low, Mawi, Azharina Azhar, Datuk Ramli Sarip, Aina Abdul, Han byul, Asmidar dan Ahmad Dhani dan Konsert ini adalah  anjuran Bahagian Program Radio antara Radio KlasikFM &amp; Radio JohorFM dengan kerjasama Bahagian Program TV terbitan unit Hiburan TV, RTM secara langsung di TV2</desc>
+  </programme>
+  <programme start="20260620150000 +0000" stop="20260620170000 +0000" channel="tv2.unifitv">
     <title lang="en">Dahlia</title>
-    <desc lang="en">Mengisahkan ibu tunggal dengan dua orang anak yang kini membesar dalam serba kekurangan. Dahlia terpaksa berjimat untuk membayar sewa rumah dan ansuran kereta. Rick merupakan anak kepada majikan tempat Dahlia bekerja telah menaruh hati padanya. Begitu juga dengan Azri rakan sekerja Dahlia. Pelbagai ragam berlaku antara mereka bagi memikat hati Dahlia. Siapakah yang berjaya memiliki Dahlia?</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260620153000 +0000" stop="20260620160000 +0000" channel="tv2.unifitv">
-    <title lang="en">Borak Lejen</title>
-    <desc lang="en">Ikuti bual bicara bersama artis-artis lejen tanah air yang akan berkongsi pengalaman dan cerita terbaru mereka.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260620160000 +0000" stop="20260620170000 +0000" channel="tv2.unifitv">
-    <title lang="en">Borak Lejen</title>
-    <desc lang="en">Ikuti bual bicara bersama artis-artis lejen tanah air yang akan berkongsi pengalaman dan cerita terbaru mereka.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
+    <desc lang="en">Lakonan  Aida Aris, Norman Hakim dan Normah Damanhuri.</desc>
   </programme>
   <channel id="tv3.unifitv">
     <display-name>TV3</display-name>
