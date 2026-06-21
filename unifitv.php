@@ -2745,17 +2745,10 @@ Proses mengadaptasikan karya seni berupa seni tradisi dalam arus perkembangan pa
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20260621060000 +0000" stop="20260621060500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  <programme start="20260621060000 +0000" stop="20260621070000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Terkini TVS: Majlis Penyerahan Cek</title>
+    <desc lang="en">Terkini TVS: Majlis Penyerahan Cek Penukaran Status Pelabuhan Bintulu Dari Pelabuhan Persekutuan Kepada Pelabuhan Negeri, bertempat di Menara Kidurong, Bintulu Port Authority.</desc>
     <category lang="en">News</category>
-  </programme>
-  <programme start="20260621060500 +0000" stop="20260621070000 +0000" channel="tvs.unifitv">
-    <title lang="en">GBRB: Reap What You Sow</title>
-    <desc lang="en">A-listed actors under the spotlight become farmers under the sunlight</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260621070000 +0000" stop="20260621070500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Highlight</title>
@@ -3491,24 +3484,17 @@ Proses mengadaptasikan karya seni berupa seni tradisi dalam arus perkembangan pa
     <episode-num system="xmltv_ns">0.95.</episode-num>
     <episode-num system="onscreen">S1E96</episode-num>
   </programme>
-  <programme start="20260621060500 +0000" stop="20260621080500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260621060500 +0000" stop="20260621083500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Wu Yen</title>
     <desc lang="en">King Xuan of Qi accidentally wandered into Yaksha Mountain and encountered the beautiful chieftain Zhong Wuyan, whom he wished to marry as his queen. A fox spirit, capable of being both male and female, fell for Wuyan, cast a spell on her, and even transformed into the beautiful Xia Yingchun to seduce King Xuan, thus triggering a complex love triangle...</desc>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20260621080500 +0000" stop="20260621090500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260621083500 +0000" stop="20260621093500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Music Money Monster</title>
     <desc lang="en">Pushing the limits of vocal range and precise timing, the brand-new interactive music game show Music Money Monster" is hosted by Sammy, Eric Kwok, and Lee Yin-tung. A professional pitch analysis system tests the contestants. A nine-square grid represents nine difficulty levels. Contestants who connect three lines to "pass the level" can choose to withdraw their winnings, continue the challenge, or even attempt the most difficult Monster level. Failure results in zero prize money! The amateur version allows solo participants to compete for a top prize of NT$100,000. The celebrity version offers viewers a chance to win prizes and gifts by interacting with the contestants in the live stream and sending emojis to cheer them on.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260621090500 +0000" stop="20260621093500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hong Kong: Never Too Small</title>
-    <desc lang="en">Amidst the ebb and flow of time, local shops that depict the microcosm of the city are becoming increasingly rare. Yet, they are a vital part of the city's structure and an irreplaceable embodiment of the Hong Kong spirit. With this in mind, the down-to-earth host, Louis Yuen, leads viewers on a shop-by-shop exploration, visiting time-honored and modern shops across four key areas of daily life: clothing, food, housing, and transportation. He reveals the shops' operating history, the hardships of maintaining them, and the stories behind generations, using these tangible shops to preserve intangible memories and showcasing the enduring beauty of "small spaces."</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260621093500 +0000" stop="20260621100500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Vital Lifeline</title>
