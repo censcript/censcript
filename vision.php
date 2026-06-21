@@ -523,17 +523,11 @@
 <programme start="20260621080000 +0000" stop="20260621090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20260621090000 +0000" stop="20260621100000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Czezh GP</title>
-</programme>
 <programme start="20260621100000 +0000" stop="20260621110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
 <programme start="20260621110000 +0000" stop="20260621114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
-</programme>
-<programme start="20260621114500 +0000" stop="20260621130000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Czezh GP</title>
 </programme>
 <programme start="20260621130000 +0000" stop="20260621143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -543,12 +537,6 @@
 </programme>
 <programme start="20260621154500 +0000" stop="20260621163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
-</programme>
-<programme start="20260621163000 +0000" stop="20260621174500 +0000" channel="Trans 7.vision">
-<title>IQ Jongkok</title>
-</programme>
-<programme start="20260621174500 +0000" stop="20260621184500 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Czezh GP</title>
 </programme>
 <programme start="20260621184500 +0000" stop="20260621190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -630,18 +618,6 @@
 </programme>
 <programme start="20260621090000 +0000" stop="20260621113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260621113000 +0000" stop="20260621133000 +0000" channel="ANTV.vision">
-<title>Pendekar Ksatria</title>
-</programme>
-<programme start="20260621133000 +0000" stop="20260621153000 +0000" channel="ANTV.vision">
-<title>Sama Juga Bohong</title>
-</programme>
-<programme start="20260621153000 +0000" stop="20260621173000 +0000" channel="ANTV.vision">
-<title>Santet Segoro Pitu</title>
-</programme>
-<programme start="20260621173000 +0000" stop="20260621190000 +0000" channel="ANTV.vision">
-<title>City War</title>
 </programme>
 <programme start="20260621190000 +0000" stop="20260621210000 +0000" channel="ANTV.vision">
 <title>Billu Barber</title>
@@ -1496,5 +1472,29 @@
 <title>JTV</title>
 </programme>
 <programme start="20260621060000 +0000" stop="20260621080000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621080000 +0000" stop="20260621100000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621200000 +0000" stop="20260621220000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621220000 +0000" stop="20260622000000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>

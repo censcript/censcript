@@ -358,11 +358,8 @@
 <programme start="20260621131500 +0000" stop="20260621150500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Password Is Courage</title>
 </programme>
-<programme start="20260621150500 +0000" stop="20260621153500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>The Wonder of Animals - Elephants</title>
-</programme>
-<programme start="20260621153500 +0000" stop="20260621161500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Flog It!</title>
+<programme start="20260621150500 +0000" stop="20260621161500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Live Tennis: ATP &amp; WTA Queen&#039;s 2026 - ATP: Finals</title>
 </programme>
 <programme start="20260621161500 +0000" stop="20260621171500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Hidden Treasures of the National Trust - Top Secret Seedlings</title>
@@ -5989,7 +5986,10 @@
 <programme start="20260620175800 +0000" stop="20260621015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260621015800 +0000" stop="20260621060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260621015800 +0000" stop="20260621050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260621050000 +0000" stop="20260621060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260621115000 +0000" stop="20260621121500 +0000" channel="CBBC.virginmediatv">
