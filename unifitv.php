@@ -3336,410 +3336,6 @@ Proses mengadaptasikan karya seni berupa seni tradisi dalam arus perkembangan pa
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <channel id="tvbjade.unifitv">
-    <display-name>TVB Jade</display-name>
-  </channel>
-  <programme start="20260620153500 +0000" stop="20260620160500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">ChatSAT</title>
-    <desc lang="en">It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday. By discussing everything under the sun and chatting about the hottest topics, “Group friend” listeners can easily stay up to date with global trends by following the program.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20260620160500 +0000" stop="20260620163500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News Magazine 2026</title>
-    <desc lang="en">"News Perspective" is a weekly program featuring in-depth coverage of notable news stories from Hong Kong and around the world. It focuses on social issues that matter most to Hong Kong residents and invites people from various sectors, scholars, and experts to discuss and analyze the underlying causes and developments.</desc>
-    <category lang="en">News </category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20260620163500 +0000" stop="20260620173500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Cooking Beauties</title>
-    <desc lang="en">Edwin Siu, Bob, and Owen Cheung host the third season of "Cooking Beauties" A group of female celebrities, after hearing the dish name and a brief description of the cooking process, must then prepare a designated dish, maintaining an air of mystery while the male guests try to guess their identities. Each episode also features a specific fresh ingredient, allowing the female guests to unleash their creativity and produce unforgettable dishes, vying for high scores from the judges to become the new ultimate female chef. Low scores risk plunging them into the "Hell Chef" category, requiring a desperate comeback! Meanwhile, a group of beautiful apprentices are dedicated to developing bizarre and unusual dishes, striving to achieve "honors" status in their graduation exam!</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260620173500 +0000" stop="20260620180500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hong Kong: Never Too Small</title>
-    <desc lang="en">Amidst the ebb and flow of time, local shops that depict the microcosm of the city are becoming increasingly rare. Yet, they are a vital part of the city's structure and an irreplaceable embodiment of the Hong Kong spirit. With this in mind, the down-to-earth host, Louis Yuen, leads viewers on a shop-by-shop exploration, visiting time-honored and modern shops across four key areas of daily life: clothing, food, housing, and transportation. He reveals the shops' operating history, the hardships of maintaining them, and the stories behind generations, using these tangible shops to preserve intangible memories and showcasing the enduring beauty of "small spaces."</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260620180500 +0000" stop="20260620190000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Music Money Monster</title>
-    <desc lang="en">Pushing the limits of vocal range and precise timing, the brand-new interactive music game show Music Money Monster" is hosted by Sammy, Eric Kwok, and Lee Yin-tung. A professional pitch analysis system tests the contestants. A nine-square grid represents nine difficulty levels. Contestants who connect three lines to "pass the level" can choose to withdraw their winnings, continue the challenge, or even attempt the most difficult Monster level. Failure results in zero prize money! The amateur version allows solo participants to compete for a top prize of NT$100,000. The celebrity version offers viewers a chance to win prizes and gifts by interacting with the contestants in the live stream and sending emojis to cheer them on.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260620190000 +0000" stop="20260620194000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">J Music 2026</title>
-    <desc lang="en">J Music is dedicated to creating a high-quality music platform, providing singers with opportunities to showcase their musical talents while allowing music fans to gain a deeper understanding of their musical stories. The program invites popular singers as guests, who personally select their favorite new and old works, perform them live, and share their favorite tracks. New faces in the music scene will also appear, showcasing their musical potential through interactive exchanges. Furthermore, each episode closely follows the latest developments on the Jade Solid Gold Chart, featuring music videos and interviews with various singers, songwriters, and producers, who discuss their work and the people and events within the music industry.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.111.</episode-num>
-    <episode-num system="onscreen">S1E112</episode-num>
-  </programme>
-  <programme start="20260620194000 +0000" stop="20260620200500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.170.</episode-num>
-    <episode-num system="onscreen">S1E171</episode-num>
-  </programme>
-  <programme start="20260620200500 +0000" stop="20260620210500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">You Are Not Alone Again</title>
-    <desc lang="en">"'You Are Not Alone' triumphantly returns! In its second season, the show is once again led by the 'King of Ghosts' Leung Si Ho, together with co-hosts Wong Yiu Ying and Wong Chi Yan, as well as editors Wong Ying Yeuk and Tong Chi Yan, bringing audiences even more frights and surprises. Each episode focuses on a different supernatural theme, featuring heavyweight guests who share ghost stories and reveal the secrets of rituals and industry customs. With a world full of mysteries, the program gathers paranormal news from around the globe, and Chi Yan will travel to South Korea and Taiwan to explore local supernatural phenomena. Real-time interaction with the audience is also a highlight of 'Spirit Connection,' with the team closely following live broadcasts,</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260620210500 +0000" stop="20260620213500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News Magazine 2026</title>
-    <desc lang="en">"News Perspective" is a weekly program featuring in-depth coverage of notable news stories from Hong Kong and around the world. It focuses on social issues that matter most to Hong Kong residents and invites people from various sectors, scholars, and experts to discuss and analyze the underlying causes and developments.</desc>
-    <category lang="en">News </category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20260620213500 +0000" stop="20260620220500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">ChatSAT</title>
-    <desc lang="en">It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday. By discussing everything under the sun and chatting about the hottest topics, “Group friend” listeners can easily stay up to date with global trends by following the program.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20260620220500 +0000" stop="20260620223500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">The Joy Of Nature</title>
-    <desc lang="en">Taiwan's camping destinations are breathtaking! Hong Kong host Lin Yinghui, along with three of Taiwan's goddesses Lin Xiang, Zhang Yahan, and Huang Shangyan, embarked on a nature-themed healing trip. They traversed Nantou, Kaohsiung, Taoyuan, and other locations, delving into the Miaoli mountains, trying out forest cabins, luxury campervans, deluxe tents, and even camping at a baseball stadium… Surrounded by mountains, they enjoyed open-air hot springs, watched the sunset at the beach, explored historical sites near the campsites, and immersed themselves in nature. Finally, they returned to Yangmingshan in Taipei for camping, soaking in hot springs, and overlooking the unparalleled night view of Taipei! Besides experiencing the unique atmosphere of camping, what sparks will fly between the Taiwanese and Hong Kong women as they interact and bond?</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260620223500 +0000" stop="20260620230500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.170.</episode-num>
-    <episode-num system="onscreen">S1E171</episode-num>
-  </programme>
-  <programme start="20260620230500 +0000" stop="20260621000500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Good Morning Hong Kong</title>
-    <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260621000500 +0000" stop="20260621010500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Super Trio Returns</title>
-    <desc lang="en">The "Super Trio Series" is celebrating its 25th anniversary, and "Super Trio Master" Eric Tsang announces the show's triumphant return! Led by Chin Ka-lok, Louis Yuen, and newly joined "Super Trio Masters" Mayanne Mak, Ching Ho-Chun, and Ng Ka-Yee, each episode will feature a host of hilarious guest friends, participating in numerous laugh-out-loud games to deliver endless laughs and ensure the most enjoyable Sunday night for Hong Kong audiences, continuing to spread positive energy and happiness!</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260621010500 +0000" stop="20260621013500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Dolce Vita 2021</title>
-    <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.41.</episode-num>
-    <episode-num system="onscreen">S1E42</episode-num>
-  </programme>
-  <programme start="20260621013500 +0000" stop="20260621020500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1693.</episode-num>
-    <episode-num system="onscreen">S1E1694</episode-num>
-  </programme>
-  <programme start="20260621020500 +0000" stop="20260621030500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Secret Door</title>
-    <desc lang="en">Rewind thirty years and hardened criminal Yip Siu-tin (Hugo Ng) is arrested for armed robbery and sentenced to prison. Siu-tin's daughter, who has handled the loot, changes her name to Cheung Sum-yuet (Mandy Wong) and starts a new life. She also gets married to yacht company boss Yen Ho-yin (Hugo Wong). Meanwhile, Chong Chi-kiu (Ruco Chan) is a kid left behind by an accomplice who has died because of the robbery. Fortunately, kind-hearted Tang Sing-him (Henry Lo) becomes his foster parent. A traffic accident causes Chi-kiu and Sum-yuet to run into each other again. But this accident somehow has something to do with Siu-tin, who is just released from prison. Sum-yuet can no longer avoid Siu-tin, who is a nightmare to her. And her marriage also has certain issues. Police officer Yeung Yan-hiu (Roxanne Tong) intervenes by launching an investigation, and she keeps going after Siu-tin and Chi-kiu. Unresolved grudges for thirty years are again put on the front burner. Everyone implicated in a robbery of yesteryear is drawn into this mess.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20260621030500 +0000" stop="20260621040500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Secret Door</title>
-    <desc lang="en">Rewind thirty years and hardened criminal Yip Siu-tin (Hugo Ng) is arrested for armed robbery and sentenced to prison. Siu-tin's daughter, who has handled the loot, changes her name to Cheung Sum-yuet (Mandy Wong) and starts a new life. She also gets married to yacht company boss Yen Ho-yin (Hugo Wong). Meanwhile, Chong Chi-kiu (Ruco Chan) is a kid left behind by an accomplice who has died because of the robbery. Fortunately, kind-hearted Tang Sing-him (Henry Lo) becomes his foster parent. A traffic accident causes Chi-kiu and Sum-yuet to run into each other again. But this accident somehow has something to do with Siu-tin, who is just released from prison. Sum-yuet can no longer avoid Siu-tin, who is a nightmare to her. And her marriage also has certain issues. Police officer Yeung Yan-hiu (Roxanne Tong) intervenes by launching an investigation, and she keeps going after Siu-tin and Chi-kiu. Unresolved grudges for thirty years are again put on the front burner. Everyone implicated in a robbery of yesteryear is drawn into this mess.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260621040500 +0000" stop="20260621043500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.170.</episode-num>
-    <episode-num system="onscreen">S1E171</episode-num>
-  </programme>
-  <programme start="20260621043500 +0000" stop="20260621050500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News Treasury 2026</title>
-    <desc lang="en">As the saying goes, "Today's news is tomorrow's history." With so much news every day, it's hard for everyone to take it all in, let alone look back at history. History is a treasure trove—if we ignore or underestimate it, we might miss out on its riches. The new program "News Treasure Hunt" guides viewers to uncover news gems from this vault. In addition to special features, live broadcasts, and series reports from the past, the show offers never-before-seen precious footage. Audiences will have the chance to revisit events such as Bruce Lee's funeral, the Bank of Po Sang robbery, the Gang of Four trial, the Queen's visit to Hong Kong, taxi strikes, the signing of the Sino-British Joint Declaration, an exclusive interview with Margaret Thatcher, Vietnamese refugees, the death of Governor Youde, Chris Patten's arrival in Hong Kong, the closure of Kai Tak Airport, the passing of Deng Xiaoping, the 1997 Handover Ceremony, the China Airlines Hong Kong crash, and SARS press conferences.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.306.</episode-num>
-    <episode-num system="onscreen">S1E307</episode-num>
-  </programme>
-  <programme start="20260621050500 +0000" stop="20260621060500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Cantopop At 50</title>
-    <desc lang="en">Throughout the years, countless hit songs have emerged in both Chinese and international music scenes. Regardless of the era, every work has its own devoted fans. " Cantopop At 50" invites original singers or accomplished vocalists to reinterpret these once-popular classics that transcend generations, delivering high-quality musical enjoyment to music lovers. In addition to featuring influential senior artists in the music industry, the program also welcomes many singers who have not appeared in public for a long time, bringing multiple surprises to the audience.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.95.</episode-num>
-    <episode-num system="onscreen">S1E96</episode-num>
-  </programme>
-  <programme start="20260621060500 +0000" stop="20260621083500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Wu Yen</title>
-    <desc lang="en">King Xuan of Qi accidentally wandered into Yaksha Mountain and encountered the beautiful chieftain Zhong Wuyan, whom he wished to marry as his queen. A fox spirit, capable of being both male and female, fell for Wuyan, cast a spell on her, and even transformed into the beautiful Xia Yingchun to seduce King Xuan, thus triggering a complex love triangle...</desc>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20260621083500 +0000" stop="20260621093500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Music Money Monster</title>
-    <desc lang="en">Pushing the limits of vocal range and precise timing, the brand-new interactive music game show Music Money Monster" is hosted by Sammy, Eric Kwok, and Lee Yin-tung. A professional pitch analysis system tests the contestants. A nine-square grid represents nine difficulty levels. Contestants who connect three lines to "pass the level" can choose to withdraw their winnings, continue the challenge, or even attempt the most difficult Monster level. Failure results in zero prize money! The amateur version allows solo participants to compete for a top prize of NT$100,000. The celebrity version offers viewers a chance to win prizes and gifts by interacting with the contestants in the live stream and sending emojis to cheer them on.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260621093500 +0000" stop="20260621100500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Vital Lifeline</title>
-    <desc lang="en">Urban dwellers often experience a hectic pace of life and high levels of stress, making them more susceptible to health problems. "The Strongest Lifeline" helps you unravel the secrets to good health. To start, the program features a four-episode series on common urban pain issues, covering headaches, shoulder and neck pain, back pain, and joint pain. Each episode invites medical experts to explain the causes of these conditions, as well as physical therapists and exercise specialists to teach appropriate exercises. With the growing trend of integrating Eastern and Western medicine, even American swimming champion Michael Phelps uses cupping therapy to relieve pain. Therefore, each episode also includes traditional Chinese medical diagnosis, complemented by treatments such as acupuncture, cupping, and the “Sanfu” herbal patch therapy, which is especially suitable during the hottest days of summer. In addition, Chinese medicine practitioners share recipes for nourishing soups, all of which can help regulate and improve your health.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.453.</episode-num>
-    <episode-num system="onscreen">S1E454</episode-num>
-  </programme>
-  <programme start="20260621100500 +0000" stop="20260621103500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Dolce Vita 2021</title>
-    <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.41.</episode-num>
-    <episode-num system="onscreen">S1E42</episode-num>
-  </programme>
-  <programme start="20260621103500 +0000" stop="20260621110500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News At 18:30</title>
-    <desc lang="en">Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260621110500 +0000" stop="20260621114000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Sunday Report 2026 &amp; Yes, Boss.</title>
-    <desc lang="en">" Sunday Report" focuses each week on popular newsmakers with feature reports, or takes a human-centered approach by visiting people from various social strata and industries to explore in depth political, social, and livelihood issues that concern the public.</desc>
-    <category lang="en">NEWS</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20260621114000 +0000" stop="20260621120500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.171.</episode-num>
-    <episode-num system="onscreen">S1E172</episode-num>
-  </programme>
-  <programme start="20260621120500 +0000" stop="20260621141000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Midlife, Sing &amp; Shine! 4</title>
-    <desc lang="en">" Midlife, Sing &amp; Shine! 4" has officially launched, continuing the success of the previous three seasons and once again providing a stage for singing enthusiasts to pursue their dreams. This season expands its recruitment efforts to North America and Australia, with several TVB artists participating "masked," igniting the flame of music globally and illuminating the hearts of countless dreamers. Stephanie Che continues to host, offering her warm smile to the contestants; Maria Cordero, Chow Kwok-fung, Cheung Ka-tim, Hai-er, and Gu Ya-wei also serve as judges, providing professional feedback and encouragement to the participants. On this new season's stage, everyone will weave an even more moving chapter with music, continuing the heartfelt story of " Midlife, Sing &amp; Shine! 4."</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="onscreen">S1E30</episode-num>
-  </programme>
-  <programme start="20260621141000 +0000" stop="20260621145000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Star Weekly</title>
-    <desc lang="en">The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, television, and concerts, especially people and events that netizens and friends in the industry are concerned about and discussing! With so much surrounding information, the show features a special "Fact Check" segment, where guests personally respond to various rumors, allowing the parties involved to clarify the truth!</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <episode-num system="onscreen">S1E28</episode-num>
-  </programme>
-  <programme start="20260621145000 +0000" stop="20260621150500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News Roundup</title>
-    <desc lang="en">Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260621150500 +0000" stop="20260621153500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express Weekly</title>
-    <desc lang="en">Hong Kong is a melting pot of global cuisine! Food anchors and hosts like Carmaney Wong,Carmen Ngai,Gillian Ng stay up-to-date with the latest culinary trends, gathering information on top-rated restaurants from various platforms. The hosts personally sample the food and provide honest reviews; they uncover hidden gems in different districts and invite long-time expatriates to visit their favorite hometown eateries; renowned chefs and food critics also guide the way, offering expert recommendations. The program features a selection of popular restaurants featured in "Food News Report," highlighting their signature dishes and delivering quick deals, ensuring viewers stay up-to-date with the most delicious and affordable dining information.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.73.</episode-num>
-    <episode-num system="onscreen">S1E74</episode-num>
-  </programme>
-  <programme start="20260621153500 +0000" stop="20260621160500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Finance Magazine 2026</title>
-    <desc lang="en">"Financial Insights" keeps a close watch on the market, reviewing weekly trends in Hong Kong stocks and paying attention to the real estate sector. Through exclusive interviews with industry professionals and market analysis, the program explores popular local and international finance topics in a clear and accessible manner. It also features in-depth reports on the challenges faced by different industries as they develop.</desc>
-    <category lang="en">NEWS</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <channel id="unknown.unifitv">
-    <display-name>TVB Xing He</display-name>
-  </channel>
-  <programme start="20260620150500 +0000" stop="20260620160500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260620160500 +0000" stop="20260620170500 +0000" channel="unknown.unifitv">
-    <title lang="en">ONE GOOD TURN DESERVES ANOTHER</title>
-    <desc lang="en">Young and beautiful Yee (Maggie Cheung) was held responsible for murdering a millionaire for his estate. She employed Shek (Chan Kai Tai) to defend for her. Shek was attracted to her mysterious background and fell for her seduction. It turned out that Yee was in fact the step-sister of Shek's wife Shan (So Yuk Wah). She blamed Shan's mother for taking her father away and she swore to take revenge. She seduced Shek and made him divorce Shan. Her plan went well, but then she discovered that she really fell for She…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260620170500 +0000" stop="20260620180500 +0000" channel="unknown.unifitv">
-    <title lang="en">Colourful Life</title>
-    <desc lang="en">The CHENG family has been running a business in the dyeing industry for several generations. Master CHENG and his wife died early. His mistress, SHUI KWUN DING FUNG (TSUI SUJK YEE), has since been running the business and keeps the family in shape. The eldest son, CHI SHING (LAW MONG), is a simple and straightforward person. He has a good and helpful wife, CHOW MONA (SO YUK WAH, LOUISA). The second son, CHI POK (YUEN SIU CHEUNG, LOUIS), is a short-tempered man. He and his equally mean wife, SZE CECI (KWOK SIU WAN, FLORENCE), are an argumentative couple. The third son, CHI YUNG (CHENG CHUNG KEI, RONALD), is warm-hearted, but all he does is play and spend money. His wife, CHANG YIM (MUI SIU WAI), is a mean woman, but she always puts her husband first. The youngest son, CHI HIN (LAM MAN LUNG, FRANKIE), is a wise, polite and educated young man. However, he has to follow the King's order to marry a wild and untamed woman, DUN JEW (MAN CHUNG HAN), who is from a neighouring country. The fact that HIN and JEW have very different personalities results in them always arguing. They do not even have the physical relationship of a married couple. Their arguments always bring fun into the family. Meanwhile, HIN is in love with another girl, CHAW MONSIE (KWONG MAN SHUN, MAY). JEW is not angry about it. She even tries hard to bring them together. HIN is very grateful to her. Later, HIN feels lost when MONSIE falls in love with someone else. Luckily JEW comforts him and they start loving each other. The CHENG family has offended some government officials and ends up losing all its properties. HIN's life is even in danger because he knows a shocking secret…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260620180500 +0000" stop="20260620190500 +0000" channel="unknown.unifitv">
-    <title lang="en">AI Romantic</title>
-    <desc lang="en">High-end AI robot Bo (Ali Lee) accidentally loses her way while she is being shipped from the factory. She eventually ends up among a family of weirdos in the realm of human beings. AI company employee Koo Ka-lim (6 Wing) thinks he has found some treasure and arbitrarily keeps Bo for himself. To help four family members in the Koo household handle all kinds of strange tasks, Bo switches on her self-learning function and begins to experience myriad human emotions and desires. She even has a crush on her master Ka-lim and understands the meaning of love. Top management member and also romantic rival Sister Dorian (Crystal Fung) keeps going after Bo at all times as she is determined to eradicate her. Meanwhile, Bo detects some computer bug has hit her. Her life is coming to an end.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <episode-num system="onscreen">S1E28</episode-num>
-  </programme>
-  <programme start="20260620190500 +0000" stop="20260620200500 +0000" channel="unknown.unifitv">
-    <title lang="en">AI Romantic</title>
-    <desc lang="en">High-end AI robot Bo (Ali Lee) accidentally loses her way while she is being shipped from the factory. She eventually ends up among a family of weirdos in the realm of human beings. AI company employee Koo Ka-lim (6 Wing) thinks he has found some treasure and arbitrarily keeps Bo for himself. To help four family members in the Koo household handle all kinds of strange tasks, Bo switches on her self-learning function and begins to experience myriad human emotions and desires. She even has a crush on her master Ka-lim and understands the meaning of love. Top management member and also romantic rival Sister Dorian (Crystal Fung) keeps going after Bo at all times as she is determined to eradicate her. Meanwhile, Bo detects some computer bug has hit her. Her life is coming to an end.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260620200500 +0000" stop="20260620210500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260620210500 +0000" stop="20260620220500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260620220500 +0000" stop="20260620230500 +0000" channel="unknown.unifitv">
-    <title lang="en">ONE GOOD TURN DESERVES ANOTHER</title>
-    <desc lang="en">Young and beautiful Yee (Maggie Cheung) was held responsible for murdering a millionaire for his estate. She employed Shek (Chan Kai Tai) to defend for her. Shek was attracted to her mysterious background and fell for her seduction. It turned out that Yee was in fact the step-sister of Shek's wife Shan (So Yuk Wah). She blamed Shan's mother for taking her father away and she swore to take revenge. She seduced Shek and made him divorce Shan. Her plan went well, but then she discovered that she really fell for She…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260620230500 +0000" stop="20260621000500 +0000" channel="unknown.unifitv">
-    <title lang="en">Colourful Life</title>
-    <desc lang="en">The CHENG family has been running a business in the dyeing industry for several generations. Master CHENG and his wife died early. His mistress, SHUI KWUN DING FUNG (TSUI SUJK YEE), has since been running the business and keeps the family in shape. The eldest son, CHI SHING (LAW MONG), is a simple and straightforward person. He has a good and helpful wife, CHOW MONA (SO YUK WAH, LOUISA). The second son, CHI POK (YUEN SIU CHEUNG, LOUIS), is a short-tempered man. He and his equally mean wife, SZE CECI (KWOK SIU WAN, FLORENCE), are an argumentative couple. The third son, CHI YUNG (CHENG CHUNG KEI, RONALD), is warm-hearted, but all he does is play and spend money. His wife, CHANG YIM (MUI SIU WAI), is a mean woman, but she always puts her husband first. The youngest son, CHI HIN (LAM MAN LUNG, FRANKIE), is a wise, polite and educated young man. However, he has to follow the King's order to marry a wild and untamed woman, DUN JEW (MAN CHUNG HAN), who is from a neighouring country. The fact that HIN and JEW have very different personalities results in them always arguing. They do not even have the physical relationship of a married couple. Their arguments always bring fun into the family. Meanwhile, HIN is in love with another girl, CHAW MONSIE (KWONG MAN SHUN, MAY). JEW is not angry about it. She even tries hard to bring them together. HIN is very grateful to her. Later, HIN feels lost when MONSIE falls in love with someone else. Luckily JEW comforts him and they start loving each other. The CHENG family has offended some government officials and ends up losing all its properties. HIN's life is even in danger because he knows a shocking secret…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260621000500 +0000" stop="20260621010500 +0000" channel="unknown.unifitv">
-    <title lang="en">AI Romantic</title>
-    <desc lang="en">High-end AI robot Bo (Ali Lee) accidentally loses her way while she is being shipped from the factory. She eventually ends up among a family of weirdos in the realm of human beings. AI company employee Koo Ka-lim (6 Wing) thinks he has found some treasure and arbitrarily keeps Bo for himself. To help four family members in the Koo household handle all kinds of strange tasks, Bo switches on her self-learning function and begins to experience myriad human emotions and desires. She even has a crush on her master Ka-lim and understands the meaning of love. Top management member and also romantic rival Sister Dorian (Crystal Fung) keeps going after Bo at all times as she is determined to eradicate her. Meanwhile, Bo detects some computer bug has hit her. Her life is coming to an end.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <episode-num system="onscreen">S1E28</episode-num>
-  </programme>
-  <programme start="20260621010500 +0000" stop="20260621020500 +0000" channel="unknown.unifitv">
-    <title lang="en">AI Romantic</title>
-    <desc lang="en">High-end AI robot Bo (Ali Lee) accidentally loses her way while she is being shipped from the factory. She eventually ends up among a family of weirdos in the realm of human beings. AI company employee Koo Ka-lim (6 Wing) thinks he has found some treasure and arbitrarily keeps Bo for himself. To help four family members in the Koo household handle all kinds of strange tasks, Bo switches on her self-learning function and begins to experience myriad human emotions and desires. She even has a crush on her master Ka-lim and understands the meaning of love. Top management member and also romantic rival Sister Dorian (Crystal Fung) keeps going after Bo at all times as she is determined to eradicate her. Meanwhile, Bo detects some computer bug has hit her. Her life is coming to an end.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260621020500 +0000" stop="20260621030500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260621030500 +0000" stop="20260621040500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260621040500 +0000" stop="20260621050500 +0000" channel="unknown.unifitv">
-    <title lang="en">ONE GOOD TURN DESERVES ANOTHER</title>
-    <desc lang="en">Young and beautiful Yee (Maggie Cheung) was held responsible for murdering a millionaire for his estate. She employed Shek (Chan Kai Tai) to defend for her. Shek was attracted to her mysterious background and fell for her seduction. It turned out that Yee was in fact the step-sister of Shek's wife Shan (So Yuk Wah). She blamed Shan's mother for taking her father away and she swore to take revenge. She seduced Shek and made him divorce Shan. Her plan went well, but then she discovered that she really fell for She…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260621050500 +0000" stop="20260621060500 +0000" channel="unknown.unifitv">
-    <title lang="en">Colourful Life</title>
-    <desc lang="en">The CHENG family has been running a business in the dyeing industry for several generations. Master CHENG and his wife died early. His mistress, SHUI KWUN DING FUNG (TSUI SUJK YEE), has since been running the business and keeps the family in shape. The eldest son, CHI SHING (LAW MONG), is a simple and straightforward person. He has a good and helpful wife, CHOW MONA (SO YUK WAH, LOUISA). The second son, CHI POK (YUEN SIU CHEUNG, LOUIS), is a short-tempered man. He and his equally mean wife, SZE CECI (KWOK SIU WAN, FLORENCE), are an argumentative couple. The third son, CHI YUNG (CHENG CHUNG KEI, RONALD), is warm-hearted, but all he does is play and spend money. His wife, CHANG YIM (MUI SIU WAI), is a mean woman, but she always puts her husband first. The youngest son, CHI HIN (LAM MAN LUNG, FRANKIE), is a wise, polite and educated young man. However, he has to follow the King's order to marry a wild and untamed woman, DUN JEW (MAN CHUNG HAN), who is from a neighouring country. The fact that HIN and JEW have very different personalities results in them always arguing. They do not even have the physical relationship of a married couple. Their arguments always bring fun into the family. Meanwhile, HIN is in love with another girl, CHAW MONSIE (KWONG MAN SHUN, MAY). JEW is not angry about it. She even tries hard to bring them together. HIN is very grateful to her. Later, HIN feels lost when MONSIE falls in love with someone else. Luckily JEW comforts him and they start loving each other. The CHENG family has offended some government officials and ends up losing all its properties. HIN's life is even in danger because he knows a shocking secret…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260621060500 +0000" stop="20260621070500 +0000" channel="unknown.unifitv">
-    <title lang="en">AI Romantic</title>
-    <desc lang="en">High-end AI robot Bo (Ali Lee) accidentally loses her way while she is being shipped from the factory. She eventually ends up among a family of weirdos in the realm of human beings. AI company employee Koo Ka-lim (6 Wing) thinks he has found some treasure and arbitrarily keeps Bo for himself. To help four family members in the Koo household handle all kinds of strange tasks, Bo switches on her self-learning function and begins to experience myriad human emotions and desires. She even has a crush on her master Ka-lim and understands the meaning of love. Top management member and also romantic rival Sister Dorian (Crystal Fung) keeps going after Bo at all times as she is determined to eradicate her. Meanwhile, Bo detects some computer bug has hit her. Her life is coming to an end.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <episode-num system="onscreen">S1E28</episode-num>
-  </programme>
-  <programme start="20260621070500 +0000" stop="20260621080500 +0000" channel="unknown.unifitv">
-    <title lang="en">AI Romantic</title>
-    <desc lang="en">High-end AI robot Bo (Ali Lee) accidentally loses her way while she is being shipped from the factory. She eventually ends up among a family of weirdos in the realm of human beings. AI company employee Koo Ka-lim (6 Wing) thinks he has found some treasure and arbitrarily keeps Bo for himself. To help four family members in the Koo household handle all kinds of strange tasks, Bo switches on her self-learning function and begins to experience myriad human emotions and desires. She even has a crush on her master Ka-lim and understands the meaning of love. Top management member and also romantic rival Sister Dorian (Crystal Fung) keeps going after Bo at all times as she is determined to eradicate her. Meanwhile, Bo detects some computer bug has hit her. Her life is coming to an end.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260621080500 +0000" stop="20260621090500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260621090500 +0000" stop="20260621100500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260621100500 +0000" stop="20260621110500 +0000" channel="unknown.unifitv">
-    <title lang="en">ONE GOOD TURN DESERVES ANOTHER</title>
-    <desc lang="en">Young and beautiful Yee (Maggie Cheung) was held responsible for murdering a millionaire for his estate. She employed Shek (Chan Kai Tai) to defend for her. Shek was attracted to her mysterious background and fell for her seduction. It turned out that Yee was in fact the step-sister of Shek's wife Shan (So Yuk Wah). She blamed Shan's mother for taking her father away and she swore to take revenge. She seduced Shek and made him divorce Shan. Her plan went well, but then she discovered that she really fell for She…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260621110500 +0000" stop="20260621120500 +0000" channel="unknown.unifitv">
-    <title lang="en">Colourful Life</title>
-    <desc lang="en">The CHENG family has been running a business in the dyeing industry for several generations. Master CHENG and his wife died early. His mistress, SHUI KWUN DING FUNG (TSUI SUJK YEE), has since been running the business and keeps the family in shape. The eldest son, CHI SHING (LAW MONG), is a simple and straightforward person. He has a good and helpful wife, CHOW MONA (SO YUK WAH, LOUISA). The second son, CHI POK (YUEN SIU CHEUNG, LOUIS), is a short-tempered man. He and his equally mean wife, SZE CECI (KWOK SIU WAN, FLORENCE), are an argumentative couple. The third son, CHI YUNG (CHENG CHUNG KEI, RONALD), is warm-hearted, but all he does is play and spend money. His wife, CHANG YIM (MUI SIU WAI), is a mean woman, but she always puts her husband first. The youngest son, CHI HIN (LAM MAN LUNG, FRANKIE), is a wise, polite and educated young man. However, he has to follow the King's order to marry a wild and untamed woman, DUN JEW (MAN CHUNG HAN), who is from a neighouring country. The fact that HIN and JEW have very different personalities results in them always arguing. They do not even have the physical relationship of a married couple. Their arguments always bring fun into the family. Meanwhile, HIN is in love with another girl, CHAW MONSIE (KWONG MAN SHUN, MAY). JEW is not angry about it. She even tries hard to bring them together. HIN is very grateful to her. Later, HIN feels lost when MONSIE falls in love with someone else. Luckily JEW comforts him and they start loving each other. The CHENG family has offended some government officials and ends up losing all its properties. HIN's life is even in danger because he knows a shocking secret…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260621120500 +0000" stop="20260621130500 +0000" channel="unknown.unifitv">
-    <title lang="en">AI Romantic</title>
-    <desc lang="en">High-end AI robot Bo (Ali Lee) accidentally loses her way while she is being shipped from the factory. She eventually ends up among a family of weirdos in the realm of human beings. AI company employee Koo Ka-lim (6 Wing) thinks he has found some treasure and arbitrarily keeps Bo for himself. To help four family members in the Koo household handle all kinds of strange tasks, Bo switches on her self-learning function and begins to experience myriad human emotions and desires. She even has a crush on her master Ka-lim and understands the meaning of love. Top management member and also romantic rival Sister Dorian (Crystal Fung) keeps going after Bo at all times as she is determined to eradicate her. Meanwhile, Bo detects some computer bug has hit her. Her life is coming to an end.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="onscreen">S1E30</episode-num>
-  </programme>
-  <programme start="20260621130500 +0000" stop="20260621140500 +0000" channel="unknown.unifitv">
-    <title lang="en">Heart And Greed</title>
-    <desc lang="en">LING LAI-YING (Louise Lee) and her husband WONG WING-CHING (Ha Yu) work hard to run their restaurant, eventually turning it into an entrepreneurial success involving real estate investing and business. LAI-YING's younger brother LING SHING-FUNG (Bosco Wong) even tries to help them get the company listed on the stock market. Initially, WING-CHING does not agree with this. After seeing the century old family print business run by his benefactor HUI NGA-LUN (Joseph Lee), who helped him get acquitted of a charge years ago, on the verge of bankruptcy, WING-CHING agrees to SHING-FUNG's proposal by merging the two families' businesses for mutual benefit. However, WING-CHING's sister-in-law LEUNG SHUN-WAH (Susanna Kwan) and her younger brother LEUNG CHAN (Louis Yuen) are strongly opposed to the idea. Moreover, the long-standing feud between them and NGA-LUN's wife YU SAU-WAI, AMELIA (Michelle Yim) and the Hui family's self-proclaimed upper-class social status leave a very bad impression on them. Nevertheless, with LAI-YING's support, WING-CHING reaches an agreement with the Huis. Unfortunately, the social inequality between the upper and lower classes gives rise to more conflicts. On top of that, the love between the second son of the Wong family, WONG WAI-KA (Vincent Wong), and the only daughter of the Hui family, HUI BUI-YI, BELLE (Eliza Sam), has transcended obstacles, which eventually forces WAI-KA to leave. Devastated, LAI-YING is also torn by the infidelity between her eldest daughter WONG YI-OI (Sharon Chan) and a married man named CHENG LAP-ON (Michael Tong). To make things worse, LAI-YING's favorite younger brother SHING-FUNG is not himself anymore after he gets involved in an on-again, off-again relationship with his friend FONG HEI-MAN (Priscilla Wong). Soon, the two families find themselves on the brink of open hostility and a massive war for revenge is brewing……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260621140500 +0000" stop="20260621150500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260621150500 +0000" stop="20260621160500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
   <channel id="cctv4hd.unifitv">
     <display-name>CCTV-4</display-name>
   </channel>
@@ -4685,64 +4281,6 @@ Proses mengadaptasikan karya seni berupa seni tradisi dalam arus perkembangan pa
     <desc lang="en">Singer Qing Qing and architect Peng Nan are a devoted couple. Qing Qing sacrifices herself to help Peng Nan when his family is going through difficulties and is misunderstood by Peng Nan, leading to their break up. When Peng Nan learns the truth and decides to make up with Qing Qing, he finds out that she is suffering from a terminal illness.</desc>
     <category lang="en">Romance</category>
   </programme>
-  <channel id="zeethirai.unifitv">
-    <display-name>Zee Thirai</display-name>
-  </channel>
-  <programme start="20260620153000 +0000" stop="20260620180000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Ace</title>
-    <desc lang="en">Kannan moves to a foreign country seeking life, but gets dragged into shark circle. A heist turns hope into a curse, forcing him to outsmart fate.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260620180000 +0000" stop="20260620183000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260620183000 +0000" stop="20260620190000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260620190000 +0000" stop="20260620193000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260620193000 +0000" stop="20260620200000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260620200000 +0000" stop="20260620223000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Mirch Masala</title>
-    <desc lang="en">Varala, a jobless young man, leaves his home to prove himself to his father. However, before achieving his goal, he falls in love with Sameera and tries to woo and save her from gangster Biju.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260621020000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Game Changer</title>
-    <desc lang="en">Ram Nandan, a government official, embarks on a relentless fight against corrupt politicians. Determined to bring about fair elections, he tries to revolutionise the way the government operates.</desc>
-    <category lang="en">Political</category>
-  </programme>
-  <programme start="20260621020000 +0000" stop="20260621053000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Yaanai</title>
-    <desc lang="en">In Ramnad, PRV juggles life with his two wives and kids while facing blame from another family for his brother's death. Tensions rise as their stories intertwine.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260621053000 +0000" stop="20260621103000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Thalamai Seyalagam</title>
-    <desc lang="en">Thalamai Seyalagam</desc>
-    <category lang="en">Thriller</category>
-  </programme>
-  <programme start="20260621103000 +0000" stop="20260621140000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Vantha Rajavathaan Varuven</title>
-    <desc lang="en">Aadhi, posing as a driver, tries to reunite his grandfather with his estranged daughter Nandhini, but unexpected troubles arise in the process.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260621140000 +0000" stop="20260621163000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Ismart Shankar</title>
-    <desc lang="en">Shankar manages to escape after murdering a politician. Later, he helps the police find a murderer when an officer's memory is transferred to him.</desc>
-    <category lang="en">Action</category>
-  </programme>
   <channel id="sonyyay.unifitv">
     <display-name>Sony YAY!</display-name>
   </channel>
@@ -5390,6 +4928,9 @@ Proses mengadaptasikan karya seni berupa seni tradisi dalam arus perkembangan pa
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <episode-num system="onscreen">S1E61</episode-num>
   </programme>
+  <channel id="unknown.unifitv">
+    <display-name>ZEE Tamil HD</display-name>
+  </channel>
   <programme start="20260620153000 +0000" stop="20260620160000 +0000" channel="unknown.unifitv">
     <title lang="en">Sandhya Raagam</title>
     <desc lang="en">Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
@@ -5700,6 +5241,213 @@ Proses mengadaptasikan karya seni berupa seni tradisi dalam arus perkembangan pa
   <channel id="hbohits.unifitv">
     <display-name>HBO Hits</display-name>
   </channel>
+  <programme start="20260620142500 +0000" stop="20260620160000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Black Bag</title>
+    <desc lang="en">An intelligence agent is suspected of betraying the nation, forcing her agent husband to choose between loyalty to his marriage or his country.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260620160000 +0000" stop="20260620174000 +0000" channel="hbohits.unifitv">
+    <title lang="en">A Minecraft Movie</title>
+    <desc lang="en">Four misfits struggling with ordinary problems are pulled through a portal into the Overworld.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260620174000 +0000" stop="20260620191500 +0000" channel="hbohits.unifitv">
+    <title lang="en">The Curse Of The Necklace</title>
+    <desc lang="en">When Laura Davis is gifted an antique necklace, her daughters uncover a sinister force hidden within that threatens to destroy everything they love.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260620191500 +0000" stop="20260620211000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Bugonia</title>
+    <desc lang="en">Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260620211000 +0000" stop="20260620230000 +0000" channel="hbohits.unifitv">
+    <title lang="en">London Calling</title>
+    <desc lang="en">A down on his luck hitman is forced to babysit the teenage son of his new crime boss after fleeing the UK from a job gone wrong.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260620230000 +0000" stop="20260621004000 +0000" channel="hbohits.unifitv">
+    <title lang="en">A Christmas Story Christmas</title>
+    <desc lang="en">Sequel to annual holiday favorite, “A Christmas Story.” Ralphie is all grown up and must deal with Christmas and all that comes with it…as a dad.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260621004000 +0000" stop="20260621021500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Down To You</title>
+    <desc lang="en">Al and Imogen begin a romantic journey where true love often competes with the temptation to stray from commitment.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260621021500 +0000" stop="20260621035500 +0000" channel="hbohits.unifitv">
+    <title lang="en">A Minecraft Movie</title>
+    <desc lang="en">Four misfits struggling with ordinary problems are pulled through a portal into the Overworld.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621035500 +0000" stop="20260621054500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Bad News Bears</title>
+    <desc lang="en">A hot-headed baseball coach finds his work cut out when he takes upon a new coaching assignment with a team that is way below par.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260621054500 +0000" stop="20260621072000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Keanu</title>
+    <desc lang="en">Two cousins attempt to infiltrate a street gang to retrieve their purloined pet, only to start a gang war that forces them to take the law into their own hands.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621072000 +0000" stop="20260621085500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Black Bag</title>
+    <desc lang="en">An intelligence agent is suspected of betraying the nation, forcing her agent husband to choose between loyalty to his marriage or his country.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260621085500 +0000" stop="20260621104000 +0000" channel="hbohits.unifitv">
+    <title lang="en">The Polar Express</title>
+    <desc lang="en">A doubting boy finds out first-hand that Santa exists when he goes aboard a magical train headed for the North Pole.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260621104000 +0000" stop="20260621122500 +0000" channel="hbohits.unifitv">
+    <title lang="en">A Christmas Story Christmas</title>
+    <desc lang="en">Sequel to annual holiday favorite, “A Christmas Story.” Ralphie is all grown up and must deal with Christmas and all that comes with it…as a dad.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260621122500 +0000" stop="20260621140500 +0000" channel="hbohits.unifitv">
+    <title lang="en">A Minecraft Movie</title>
+    <desc lang="en">Four misfits struggling with ordinary problems are pulled through a portal into the Overworld.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621140500 +0000" stop="20260621160000 +0000" channel="hbohits.unifitv">
+    <title lang="en">London Calling</title>
+    <desc lang="en">A down on his luck hitman is forced to babysit the teenage son of his new crime boss after fleeing the UK from a job gone wrong.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260621160000 +0000" stop="20260621175500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Bugonia</title>
+    <desc lang="en">Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260620130000 +0000" stop="20260620160000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Sehar</title>
+    <desc lang="en">Ajay Kumar, SSP of Lucknow police, cracks down on the cop-mafia nexus in UP, but finds a cunning and ruthless adversary in Gajraj.</desc>
+    <category lang="en">Crime</category>
+  </programme>
+  <programme start="20260620160000 +0000" stop="20260620190000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Diya</title>
+    <desc lang="en">Forced into abortion, Thulasi's pain turns supernatural when the vengeful spirit of her unborn child returns years later, punishing those who destroyed her innocent future.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260620190000 +0000" stop="20260620220000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Pal Pal Dil Ke Paas</title>
+    <desc lang="en">Saher, a video blogger, embarks on a solo trip to expose Karan, the owner of a tourism company she believes is a fraud. They both start off on a bitter note but gradually fall in love.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260620220000 +0000" stop="20260621010000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Race</title>
+    <desc lang="en">A tale of greed, betrayal and revenge as two brothers are pitted against each other! High stakes! Perfect murder!</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621010000 +0000" stop="20260621040000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Sehar</title>
+    <desc lang="en">Ajay Kumar, SSP of Lucknow police, cracks down on the cop-mafia nexus in UP, but finds a cunning and ruthless adversary in Gajraj.</desc>
+    <category lang="en">Crime</category>
+  </programme>
+  <programme start="20260621040000 +0000" stop="20260621070000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Time Story</title>
+    <desc lang="en">A scientist invents a time-travelling gadget, leading to a battle between his son and his own evil twin brother.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20260621070000 +0000" stop="20260621100000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Ram Lakhan</title>
+    <desc lang="en">After her husband is killed by ruthless relatives for his wealth, Sharda awaits the day her sons avenge his death.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621100000 +0000" stop="20260621130000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Ghoomer</title>
+    <desc lang="en">Anina, a rising batting star, loses her right hand in a freak accident just before her international debut. Paddy, an alcoholic ex-cricketer, turns her fate around by training her to become a bowler.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260621130000 +0000" stop="20260621160000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Salaam Venky</title>
+    <desc lang="en">Venky suffers from a rare type of muscular dystrophy and wants to donate his organs. With his mother's support, he petitions for legalising euthanasia. Will his wish be granted in the court of law?</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260621160000 +0000" stop="20260621190000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Phool Bane Angaare</title>
+    <desc lang="en">Usha supports her mother and brother Ashish and makes many sacrifices from them. When her mother dies, Ashish marries Kamla who illtreats Usha.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260620144500 +0000" stop="20260620165500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Superman</title>
+    <desc lang="en">A Superman who's driven by compassion and an inherent belief in the goodness of humankind.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260620165500 +0000" stop="20260620182500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Final Destination 2</title>
+    <desc lang="en">A group of friends on holiday finds that no matter how hard they try, they can't cheat Death twice.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260620182500 +0000" stop="20260620185500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">Hollywood On Set</desc>
+    <category lang="en">Entertaiment</category>
+    <episode-num system="xmltv_ns">0.1173.</episode-num>
+    <episode-num system="onscreen">S1E1174</episode-num>
+  </programme>
+  <programme start="20260620185500 +0000" stop="20260620201500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Honey Don't!</title>
+    <desc lang="en">Honey O'Donahue, a small-town private investigator, delves into a series of strange deaths tied to a mysterious church in this dark comedy.</desc>
+    <category lang="en">Crime</category>
+  </programme>
+  <programme start="20260620201500 +0000" stop="20260620220000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Prime Minister</title>
+    <desc lang="en">A view inside the life of former New Zealand Prime Minister Jacinda Ardern.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260620220000 +0000" stop="20260621000500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Warcraft</title>
+    <desc lang="en">The peaceful realm of Azeroth stands on the brink of war as its civilisation faces a fearsome race of invaders.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621000500 +0000" stop="20260621013500 +0000" channel="hbohd.unifitv">
+    <title lang="en">The Secret Life Of Pets</title>
+    <desc lang="en">When a pampered terrier and his owner's newly adopted pet get lost in New York City, they must put aside their differences to survive the journey back home.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260621013500 +0000" stop="20260621030500 +0000" channel="hbohd.unifitv">
+    <title lang="en">The Secret Life Of Pets 2</title>
+    <desc lang="en">The sequel to the comedic blockbuster continues to follows Max and gang as they take on new adventures and find the courage to become their own heroes.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260621030500 +0000" stop="20260621053000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Harry Potter And The Deathly Hallows - Part 1</title>
+    <desc lang="en">Harry, Ron and Hermione leave Hogwarts behind on a mission to destroy the Horcruxes, the secrets to Voldemort's power and immortality.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621053000 +0000" stop="20260621074000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Harry Potter And The Deathly Hallows - Part 2</title>
+    <desc lang="en">The time has come, the fate foretold in the prophecy draws near: the confrontation to the death between Harry Potter and Lord Voldemort.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621074000 +0000" stop="20260621092500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Monster Trucks</title>
+    <desc lang="en">When a high school senior discovers a gas-guzzling creature, he embarks on a journey to reunite his new-found friend with his family.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621092500 +0000" stop="20260621113500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Superman</title>
+    <desc lang="en">A Superman who's driven by compassion and an inherent belief in the goodness of humankind.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621113500 +0000" stop="20260621130000 +0000" channel="hbohd.unifitv">
+    <title lang="en">The Naked Gun</title>
+    <desc lang="en">Following in his father's footsteps, Lt. Frank Drebin Jr. has the particular set of skills... to lead Police Squad and save the world!</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260621130000 +0000" stop="20260621152500 +0000" channel="hbohd.unifitv">
+    <title lang="en">King Richard</title>
+    <desc lang="en">King Richard follows the journey of Richard Williams, an undeterred father instrumental in raising two of the most extraordinarily gifted athletes of all time, who will end up changing the sport of tennis forever.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260621152500 +0000" stop="20260621173000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Hamnet</title>
+    <desc lang="en">HAMNET tells the powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.</desc>
+    <category lang="en">History</category>
+  </programme>
   <programme start="20260620142500 +0000" stop="20260620160000 +0000" channel="hbohits.unifitv">
     <title lang="en">Black Bag</title>
     <desc lang="en">An intelligence agent is suspected of betraying the nation, forcing her agent husband to choose between loyalty to his marriage or his country.</desc>
@@ -15600,207 +15348,6 @@ Proses mengadaptasikan karya seni berupa seni tradisi dalam arus perkembangan pa
   <programme start="20260621153000 +0000" stop="20260621172000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Best of Roland Garros 2026 - Day 4 Men's Singles Rd 2 Zverev v Machac</title>
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <channel id="beinsports3.unifitv">
-    <display-name>beIN SPORTS 3</display-name>
-  </channel>
-  <programme start="20260620152500 +0000" stop="20260620161500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Formula 4 - Monza Race 2 (L)</title>
-    <desc lang="en">The Formula 4 Italian Championship is the benchmark of F4 worldwide, the first crucial step from karting to F1</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620161500 +0000" stop="20260620164500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Champions League Mini - Union Saint-Gilloise vs Newcastle - MD2</title>
-    <desc lang="en">Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Puskas Arena, Budapest</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620164500 +0000" stop="20260620183000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">WAFCON - Mali vs Tanzania</title>
-    <desc lang="en">beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620183000 +0000" stop="20260620202500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">CAF CL - Power Dynamos vs Pyramids FC</title>
-    <desc lang="en">Watch the top clubs from Africa's football league battle it out in the CAF Champions League.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620202500 +0000" stop="20260620215500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Ferrari Challenge - Trofeo Pirello Race 1, Laguna Seca (L)</title>
-    <desc lang="en">The second-longest running regional series and just one year younger than its European counterpart, the Challenge North America is representing the stronghold of the prancing horse one-make racing in the US.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620215500 +0000" stop="20260620220500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Mutv - Top 20 David Beckham Goals</title>
-    <desc lang="en">Catch our collection of Manchester United Top 20 Goals, matches, moments and more, from the Red Devils MUTV archives.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620220500 +0000" stop="20260620231500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Ferrari Challenge - Coppa Shell Race 1, Laguna Seca (L)</title>
-    <desc lang="en">The second-longest running regional series and just one year younger than its European counterpart, the Challenge North America is representing the stronghold of the prancing horse one-make racing in the US.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620231500 +0000" stop="20260620233000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: Top Ten - Rooney Goals</title>
-    <desc lang="en">Catch our collection of Manchester United Top Tens: Goals, matches moments and more, from the Red Devils MUTV archives.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620233000 +0000" stop="20260621003000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">European Le Mans Series - Le Castellet</title>
-    <desc lang="en">Highlights a record-breaking 47-car grid competing on premier European circuits, showcasing 9 different brands.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621003000 +0000" stop="20260621022000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Pacific Nations Cup - Tonga vs Japan</title>
-    <desc lang="en">The Pacific Nations Cup is an international rugby union competition held between Fiji, Samoa, Tonga, Canada, Japan and the United States, battling it out for glory and direct qualification for Men's Rugby World Cup 2027 in Australia.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621022000 +0000" stop="20260621041000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">WAFCON - Ghana vs Mali</title>
-    <desc lang="en">beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621041000 +0000" stop="20260621060000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCI Women's World Tour - Paris-Roubaix</title>
-    <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621060000 +0000" stop="20260621063000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Africa Eco Race - Documentary</title>
-    <desc lang="en">17th edition of the rally raid in North Africa Race that follows the historic Paris-Dakar route, emphasizing endurance, navigation, and environmental responsibility</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621063000 +0000" stop="20260621072500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Formula 4 - Monza Race 2</title>
-    <desc lang="en">The Formula 4 Italian Championship is the benchmark of F4 worldwide, the first crucial step from karting to F1</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621072500 +0000" stop="20260621081500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Formula 4 - Monza Race 3 (L)</title>
-    <desc lang="en">The Formula 4 Italian Championship is the benchmark of F4 worldwide, the first crucial step from karting to F1</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621081500 +0000" stop="20260621083000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: Top Ten - Berbatov</title>
-    <desc lang="en">Catch our collection of Manchester United Top Tens: Goals, matches moments and more, from the Red Devils MUTV archives.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621083000 +0000" stop="20260621093000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">European Le Mans Series - Le Castellet</title>
-    <desc lang="en">Highlights a record-breaking 47-car grid competing on premier European circuits, showcasing 9 different brands.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621093000 +0000" stop="20260621100000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Youth League Highlights - Final</title>
-    <desc lang="en">Relive all the heart stopping action and goals galore from the UEFA Youth League Finals</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621100000 +0000" stop="20260621103000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Champions League Magazine Show - MD17 Final Review</title>
-    <desc lang="en">Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621103000 +0000" stop="20260621113000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Champions League Magazine Show - UCL Season Review</title>
-    <desc lang="en">Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621113000 +0000" stop="20260621115500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: 2000 Premier League Goals - 2009/10</title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621115500 +0000" stop="20260621124500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Formula 4 - Monza Race 4 (L)</title>
-    <desc lang="en">The Formula 4 Italian Championship is the benchmark of F4 worldwide, the first crucial step from karting to F1</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621124500 +0000" stop="20260621130000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: 2000 Premier League Goals - 2017/18</title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621130000 +0000" stop="20260621160000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">ONE Friday Fights - OFF 159</title>
-    <desc lang="en">A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">WAFCON - Zambia vs Senegal</title>
-    <desc lang="en">beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <channel id="beinsports4.unifitv">
-    <display-name>beIN SPORTS 4</display-name>
-  </channel>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620160000 +0000" stop="20260620180000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620180000 +0000" stop="20260620200000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620200000 +0000" stop="20260620220000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260620220000 +0000" stop="20260621000000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621000000 +0000" stop="20260621020000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621020000 +0000" stop="20260621040000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621040000 +0000" stop="20260621060000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621060000 +0000" stop="20260621080000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621080000 +0000" stop="20260621100000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
     <category lang="en">Sports</category>
   </programme>
 </tv>

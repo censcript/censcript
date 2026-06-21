@@ -2536,8 +2536,26 @@
 <programme start="20260621213000 +0000" stop="20260621220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Discover Kimi - Freundschaft &amp; Loyalität</title>
 </programme>
-<programme start="20260620220000 +0000" stop="20260620230000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Qualifying - GP Tschechien</title>
+<programme start="20260621003000 +0000" stop="20260621030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: 4. Tag 2025 in Oakmont, PA (USA)</title>
+</programme>
+<programme start="20260621030000 +0000" stop="20260621040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: Jack&#039;s First Major (1962)</title>
+</programme>
+<programme start="20260621040000 +0000" stop="20260621070000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: 3. Tag in Southampton, NY (USA)</title>
+</programme>
+<programme start="20260621070000 +0000" stop="20260621100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: Meijer LPGA Classic For Simply Give, 3. Tag in Belmont, MI (USA)</title>
+</programme>
+<programme start="20260621100000 +0000" stop="20260621130000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: 3. Tag in Southampton, NY (USA)</title>
+</programme>
+<programme start="20260621130000 +0000" stop="20260621150000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live US Open: 4. Tag (Early Coverage)</title>
+</programme>
+<programme start="20260621150000 +0000" stop="20260621230000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live US Open: 4. Tag in Southampton, NY (USA)</title>
 </programme>
 <programme start="20260620230000 +0000" stop="20260621000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Tschechien</title>
@@ -2743,23 +2761,26 @@
 <programme start="20260621013000 +0000" stop="20260621033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Nakashima (USA) - F. Cerundulo (ARG), HSBC Championships in London (GBR), Halbfinale 1</title>
 </programme>
-<programme start="20260621033000 +0000" stop="20260621053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260621033000 +0000" stop="20260621043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Hamburg</title>
+</programme>
+<programme start="20260621043000 +0000" stop="20260621060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: T. Paul (USA) - U. Humbert (FRA), HSBC Championships in London (GBR), Halbfinale 2</title>
 </programme>
-<programme start="20260621053000 +0000" stop="20260621060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260621060000 +0000" stop="20260621063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260621060000 +0000" stop="20260621080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260621063000 +0000" stop="20260621083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: A. Sabalenka (BLR) - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 1</title>
 </programme>
-<programme start="20260621080000 +0000" stop="20260621100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260621083000 +0000" stop="20260621100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Noskova (CZE) - A. Eala (PHI), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Halbfinale 2</title>
 </programme>
 <programme start="20260621100000 +0000" stop="20260621123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
+    <title>Live WTA 500: L. Noskova (CZE)  - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
 </programme>
 <programme start="20260621123000 +0000" stop="20260621150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: Finale, HSBC Championships in London (GBR), Finale</title>
+    <title>Live ATP 500: T. Paul (USA) - F. Cerundolo (ARG), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260621150000 +0000" stop="20260621173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 1. Tag</title>
@@ -2768,12 +2789,12 @@
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260621180000 +0000" stop="20260621203000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
+    <title>WTA 500: L. Noskova (CZE)  - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
 </programme>
 <programme start="20260621203000 +0000" stop="20260621223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Topspiel, Mallorca Championships in Santa Ponsa (ESP), 1. Tag</title>
 </programme>
-<programme start="20260621000000 +0000" stop="20260621010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260621003000 +0000" stop="20260621010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Sprint - GP Tschechien</title>
 </programme>
 <programme start="20260621010000 +0000" stop="20260621023000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2795,13 +2816,13 @@
     <title>Live Moto3: Rennen - GP Tschechien</title>
 </programme>
 <programme start="20260621100000 +0000" stop="20260621123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: tba - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
+    <title>Live WTA 500: L. Noskova (CZE)  - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
 </programme>
 <programme start="20260621123000 +0000" stop="20260621133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Rennen - GP Tschechien</title>
 </programme>
 <programme start="20260621133000 +0000" stop="20260621150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: tba  - F. Cerundolo (ARG), HSBC Championships in London (GBR), Finale</title>
+    <title>Live ATP 500: T. Paul (USA) - F. Cerundolo (ARG), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260621150000 +0000" stop="20260621180000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live US Open: 4. Tag in Southampton, NY (USA)</title>
@@ -2842,8 +2863,8 @@
 <programme start="20260621121000 +0000" stop="20260621123000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260621123000 +0000" stop="20260621150000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 500: Finale, HSBC Championships in London (GBR), Finale</title>
+<programme start="20260621123000 +0000" stop="20260621170000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live ATP 500: T. Paul (USA) - F. Cerundolo (ARG), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260620232000 +0000" stop="20260620235000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live: Ecuador - Curaçao, Vorbericht FIFA WM 2026</title>
@@ -2938,7 +2959,7 @@
 <programme start="20260621131000 +0000" stop="20260621133000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260621133000 +0000" stop="20260621173000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260621133000 +0000" stop="20260621200000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 1. Tag</title>
 </programme>
 <programme start="20260620223000 +0000" stop="20260620231500 +0000" channel="SYFY HD.skyde">

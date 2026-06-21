@@ -106,7 +106,10 @@
   <programme start="20260623214900 +0000" stop="20260623233500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Svet naruby</title>
   </programme>
-  <programme start="20260622220000 +0000" stop="20260622225000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260622215900 +0000" stop="20260622220100 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Hymna SR</title>
+  </programme>
+  <programme start="20260622220100 +0000" stop="20260622225000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20260622225000 +0000" stop="20260622225600 +0000" channel="Dvojka.webtv.sk">
@@ -1258,7 +1261,10 @@
   <programme start="20260623195000 +0000" stop="20260623225000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260622215500 +0000" stop="20260622233500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260622213500 +0000" stop="20260622225500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Svetový pohár vo vodnom slalome</title>
+  </programme>
+  <programme start="20260622225500 +0000" stop="20260622233500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
   <programme start="20260622233500 +0000" stop="20260623012500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -10402,19 +10408,19 @@
   <programme start="20260622214500 +0000" stop="20260622221000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XII (244)</title>
   </programme>
-  <programme start="20260622221000 +0000" stop="20260622223500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260622221000 +0000" stop="20260622223000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Marsupilami I (4)</title>
   </programme>
-  <programme start="20260622223500 +0000" stop="20260622225500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260622223000 +0000" stop="20260622225500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nej a Nejnejka I (6)</title>
   </programme>
-  <programme start="20260622225500 +0000" stop="20260622232000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260622225500 +0000" stop="20260622231500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nej a Nejnejka I (7)</title>
   </programme>
-  <programme start="20260622232000 +0000" stop="20260622234500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260622231500 +0000" stop="20260622234000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show I (23)</title>
   </programme>
-  <programme start="20260622234500 +0000" stop="20260623000500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260622234000 +0000" stop="20260623000500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show I (24)</title>
   </programme>
   <programme start="20260623000500 +0000" stop="20260623002000 +0000" channel="Nickelodeon.webtv.sk">
@@ -10426,16 +10432,16 @@
   <programme start="20260623010000 +0000" stop="20260623012500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nebezpečná síla II (17)</title>
   </programme>
-  <programme start="20260623012500 +0000" stop="20260623015500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260623012500 +0000" stop="20260623015000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Henry Nebezpečný II (6)</title>
   </programme>
-  <programme start="20260623015500 +0000" stop="20260623022000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260623015000 +0000" stop="20260623022000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi I (1)</title>
   </programme>
-  <programme start="20260623022000 +0000" stop="20260623024000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260623022000 +0000" stop="20260623025000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi I (2)</title>
   </programme>
-  <programme start="20260623024000 +0000" stop="20260623030000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260623025000 +0000" stop="20260623030000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VIII (2)</title>
   </programme>
   <programme start="20260623030000 +0000" stop="20260623032500 +0000" channel="Nickelodeon.webtv.sk">
