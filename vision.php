@@ -511,9 +511,6 @@
 <programme start="20260621041500 +0000" stop="20260621050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20260621050000 +0000" stop="20260621054500 +0000" channel="Trans 7.vision">
-<title>Jejak Petualangan</title>
-</programme>
 <programme start="20260621054500 +0000" stop="20260621063000 +0000" channel="Trans 7.vision">
 <title>The Explorer</title>
 </programme>
@@ -624,9 +621,6 @@
 </programme>
 <programme start="20260621010000 +0000" stop="20260621023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
-</programme>
-<programme start="20260621023000 +0000" stop="20260621060000 +0000" channel="ANTV.vision">
-<title>Raja Hindustani</title>
 </programme>
 <programme start="20260621060000 +0000" stop="20260621073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1490,11 @@
 <title>JTV</title>
 </programme>
 <programme start="20260621020000 +0000" stop="20260621040000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621040000 +0000" stop="20260621060000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260621060000 +0000" stop="20260621080000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>

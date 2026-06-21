@@ -4820,7 +4820,7 @@
     <title lang="id">DominicCars</title>
   </programme>
   <programme start="20260623103000 +0000" stop="20260623104500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
+    <title lang="id">ENDURO magazín</title>
   </programme>
   <programme start="20260623104500 +0000" stop="20260623110000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Martin z Martina</title>
@@ -4898,7 +4898,7 @@
     <title lang="id">Naša Garáž</title>
   </programme>
   <programme start="20260623070000 +0000" stop="20260623073000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
+    <title lang="id">DominicCars</title>
   </programme>
   <programme start="20260623073000 +0000" stop="20260623080000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
@@ -4925,7 +4925,7 @@
     <title lang="id">Záchrancovia klasických áut</title>
   </programme>
   <programme start="20260623121500 +0000" stop="20260623124500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
+    <title lang="id">DominicCars</title>
   </programme>
   <programme start="20260623124500 +0000" stop="20260623130000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Švihák testuje</title>
@@ -4954,10 +4954,10 @@
   <programme start="20260623173000 +0000" stop="20260623180000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Výběrová auta</title>
   </programme>
-  <programme start="20260623180000 +0000" stop="20260623183000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
+  <programme start="20260623180000 +0000" stop="20260623190000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">DominicCars</title>
   </programme>
-  <programme start="20260623183000 +0000" stop="20260623191500 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260623190000 +0000" stop="20260623191500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
   </programme>
   <programme start="20260623191500 +0000" stop="20260623200000 +0000" channel="Arena Sport 2.webtv.sk">
@@ -4972,8 +4972,8 @@
   <programme start="20260623210000 +0000" stop="20260623213000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Vytuningované jazdy Fínsko</title>
   </programme>
-  <programme start="20260623213000 +0000" stop="20260623223000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
+  <programme start="20260623213000 +0000" stop="20260623220000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Motoring</title>
   </programme>
   <programme start="20260622215000 +0000" stop="20260622234500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Parkurové skákání (24)</title>
@@ -16417,13 +16417,13 @@
   <programme start="20260623025500 +0000" stop="20260623030000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260623030000 +0000" stop="20260623031500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260623030000 +0000" stop="20260623030500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260623031500 +0000" stop="20260623034000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">KIEDY WOJNA ZAWITALA DO NASZEJ REDAKCJIi (2)</title>
+  <programme start="20260623030500 +0000" stop="20260623035500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Father Mother Donor Child</title>
   </programme>
-  <programme start="20260623034000 +0000" stop="20260623040000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260623035500 +0000" stop="20260623040000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
   <programme start="20260623040000 +0000" stop="20260623043000 +0000" channel="TVP World.webtv.sk">
@@ -19120,22 +19120,22 @@
   <programme start="20260622220000 +0000" stop="20260622220500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
   </programme>
-  <programme start="20260622220500 +0000" stop="20260622232000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Notti Mondiali</title>
+  <programme start="20260622220500 +0000" stop="20260622233000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Un amore in Cornovaglia</title>
   </programme>
-  <programme start="20260622232000 +0000" stop="20260622232500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260622233000 +0000" stop="20260622233500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Che tempo fa</title>
   </programme>
-  <programme start="20260622232500 +0000" stop="20260623001000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260622233500 +0000" stop="20260623002000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Il restauratore I (3)</title>
   </programme>
-  <programme start="20260623001000 +0000" stop="20260623010500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260623002000 +0000" stop="20260623012000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Il restauratore I (3)</title>
   </programme>
-  <programme start="20260623010500 +0000" stop="20260623015000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260623012000 +0000" stop="20260623020500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Il commissario Rex VII (6)</title>
   </programme>
-  <programme start="20260623015000 +0000" stop="20260623040000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260623020500 +0000" stop="20260623040000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">RaiNews</title>
   </programme>
   <programme start="20260623040000 +0000" stop="20260623042800 +0000" channel="Rai Uno.webtv.sk">

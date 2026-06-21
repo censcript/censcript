@@ -331,16 +331,16 @@
 <programme start="20260621153000 +0000" stop="20260621181500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: MOTD FIFA World Cup 2026 - Group H: Spain v Saudi Arabia</title>
 </programme>
-<programme start="20260620231000 +0000" stop="20260621011000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260620231000 +0000" stop="20260621011500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>TRNSMT - 2026:Highlights: Day 2</title>
 </programme>
-<programme start="20260621011000 +0000" stop="20260621015500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260621011500 +0000" stop="20260621020000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Death Valley</title>
 </programme>
-<programme start="20260621015500 +0000" stop="20260621025500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260621020000 +0000" stop="20260621030000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Who Do You Think You Are? - Zoe Ball</title>
 </programme>
-<programme start="20260621025500 +0000" stop="20260621050000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260621030000 +0000" stop="20260621050000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20260621050000 +0000" stop="20260621061000 +0000" channel="BBC_TWO_HD.virginmediatv">
