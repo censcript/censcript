@@ -862,10 +862,10 @@
   <programme start="20260623213000 +0000" stop="20260623222000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger V (15)</title>
   </programme>
-  <programme start="20260622205000 +0000" stop="20260622224500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260622204500 +0000" stop="20260622224000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Braddock: Nezvestní v boji 3</title>
   </programme>
-  <programme start="20260622224500 +0000" stop="20260622230500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260622224000 +0000" stop="20260622230500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dajto v pokri z Card Casina (74)</title>
   </programme>
   <programme start="20260622230500 +0000" stop="20260622232000 +0000" channel="DajTo.webtv.sk">
@@ -961,7 +961,7 @@
   <programme start="20260623205000 +0000" stop="20260623224500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Vo štvorici po opici 2</title>
   </programme>
-  <programme start="20260622215000 +0000" stop="20260622224500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260622215500 +0000" stop="20260622224500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Križovatky lásky (57)</title>
   </programme>
   <programme start="20260622224500 +0000" stop="20260622232500 +0000" channel="Doma.webtv.sk">
@@ -17054,7 +17054,7 @@
     <title lang="id">Wszystkie role Stanisława Barei</title>
   </programme>
   <programme start="20260622220000 +0000" stop="20260622230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Одесса: Голоса улиц</title>
   </programme>
   <programme start="20260622230000 +0000" stop="20260623000000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
@@ -17063,13 +17063,13 @@
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260623020000 +0000" stop="20260623023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Главные фигуры: Кто есть кто в Кремлевской партии</title>
+    <title lang="id">Главные фигуры: Дмитрий Медведев</title>
   </programme>
   <programme start="20260623023000 +0000" stop="20260623030000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Будущее сегодня</title>
   </programme>
   <programme start="20260623030000 +0000" stop="20260623033000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Европейские ценности</title>
+    <title lang="id">Европейские ценности: Дом за евро</title>
   </programme>
   <programme start="20260623033000 +0000" stop="20260623040000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -17078,7 +17078,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260623043000 +0000" stop="20260623050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия</title>
+    <title lang="id">Неизвестная Pоссия: Жизнь Белого городка</title>
   </programme>
   <programme start="20260623050000 +0000" stop="20260623070000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино</title>

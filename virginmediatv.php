@@ -4234,11 +4234,8 @@
 <programme start="20260621164500 +0000" stop="20260621170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>TNT Sports Cricket Reload - India v Afghanistan: 3rd ODI</title>
 </programme>
-<programme start="20260621170000 +0000" stop="20260621173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>The WRC Magazine - Acropolis Rally Greece</title>
-</programme>
-<programme start="20260621173000 +0000" stop="20260621190000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>PREM Rugby - Final</title>
+<programme start="20260621170000 +0000" stop="20260621183000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: SailGP - Canada SGP: Day 2</title>
 </programme>
 <programme start="20260621000000 +0000" stop="20260621001500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UEFA Conference League Goals Reload - Crystal Palace</title>
@@ -4846,11 +4843,8 @@
 <programme start="20260621164500 +0000" stop="20260621170000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>TNT Sports Cricket Reload - India v Afghanistan: 3rd ODI</title>
 </programme>
-<programme start="20260621170000 +0000" stop="20260621173000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>The WRC Magazine - Acropolis Rally Greece</title>
-</programme>
-<programme start="20260621173000 +0000" stop="20260621190000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>PREM Rugby - Final</title>
+<programme start="20260621170000 +0000" stop="20260621183000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Live: SailGP - Canada SGP: Day 2</title>
 </programme>
 <programme start="20260621000000 +0000" stop="20260621001500 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>UEFA Conference League Goals Reload - Crystal Palace</title>

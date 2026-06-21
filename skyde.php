@@ -2815,13 +2815,16 @@
 <programme start="20260621083500 +0000" stop="20260621100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: Rennen - GP Tschechien</title>
 </programme>
-<programme start="20260621100000 +0000" stop="20260621123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: L. Noskova (CZE)  - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
+<programme start="20260621100000 +0000" stop="20260621111500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto2: Rennen - GP Tschechien</title>
 </programme>
-<programme start="20260621123000 +0000" stop="20260621133000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260621111500 +0000" stop="20260621120500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Rennen - GP Tschechien</title>
 </programme>
-<programme start="20260621133000 +0000" stop="20260621150000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260621120500 +0000" stop="20260621124500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 1. Tag</title>
+</programme>
+<programme start="20260621124500 +0000" stop="20260621150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: T. Paul (USA) - F. Cerundolo (ARG), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260621150000 +0000" stop="20260621180000 +0000" channel="Sky Sport Top Event HD.skyde">
