@@ -673,9 +673,6 @@
 <programme start="20260622010000 +0000" stop="20260622023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
 </programme>
-<programme start="20260622023000 +0000" stop="20260622060000 +0000" channel="ANTV.vision">
-<title>Kabhi Kushi Kabhi Gham</title>
-</programme>
 <programme start="20260622060000 +0000" stop="20260622073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260622000000 +0000" stop="20260622030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260622030000 +0000" stop="20260622060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

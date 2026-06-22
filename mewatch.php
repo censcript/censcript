@@ -758,14 +758,14 @@
         <title>No programme available now. Next broadcast on 23rd June, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260621160000 +0000" stop="20260622160000 +0000" channel="Live 2.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 23th Jun, Tuesday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
-    <programme start="20260622160000 +0000" stop="20260623160000 +0000" channel="Live 2.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+    <programme start="20260622160000 +0000" stop="20260623030000 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 23th Jun, Tuesday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
     <programme start="20260621160000 +0000" stop="20260622160000 +0000" channel="Live 5.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 23th Jun, Tuesday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
-    <programme start="20260622160000 +0000" stop="20260623160000 +0000" channel="Live 5.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+    <programme start="20260622160000 +0000" stop="20260623030000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 23th Jun, Tuesday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
