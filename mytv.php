@@ -1,31 +1,31 @@
     <programme start="20260622000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mẹ biển - Tập 12 </title>
     </programme>
-    <programme start="20260622000000 +0000" stop="20260622003000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622000000 +0000" stop="20260622003100 +0000" channel="VTV1 HD.mytv">
         <title> Chống gian lận-Bảo vệ người dùng: Khi vi phạm thành thói quen </title>
     </programme>
-    <programme start="20260622003000 +0000" stop="20260622004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622003100 +0000" stop="20260622004600 +0000" channel="VTV1 HD.mytv">
         <title> Sự kiện và bình luận </title>
     </programme>
-    <programme start="20260622004500 +0000" stop="20260622011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622004600 +0000" stop="20260622011600 +0000" channel="VTV1 HD.mytv">
         <title> Giai điệu kết nối </title>
     </programme>
-    <programme start="20260622011000 +0000" stop="20260622020000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622011600 +0000" stop="20260622020000 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao </title>
     </programme>
-    <programme start="20260622020000 +0000" stop="20260622023000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622020000 +0000" stop="20260622023300 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Làng rau dưới chân núi Tam Đảo </title>
     </programme>
-    <programme start="20260622023000 +0000" stop="20260622024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622023300 +0000" stop="20260622024900 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Cảnh báo cong vẹo cột sống </title>
     </programme>
-    <programme start="20260622024500 +0000" stop="20260622033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622024900 +0000" stop="20260622033700 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 15 </title>
     </programme>
-    <programme start="20260622033000 +0000" stop="20260622041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622033700 +0000" stop="20260622041800 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 16 </title>
     </programme>
-    <programme start="20260622041500 +0000" stop="20260622050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260622041800 +0000" stop="20260622050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Vải trứng đặc sản quý Hưng Yên </title>
     </programme>
     <programme start="20260622050500 +0000" stop="20260622051000 +0000" channel="VTV1 HD.mytv">

@@ -2477,9 +2477,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260622120000 +0000" stop="20260622140000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: Live BL: Bayer Leverkusen - VfL Wolfsburg, 28. Spieltag</title>
 </programme>
-<programme start="20260622120000 +0000" stop="20260622140000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
-    <title>TEST: Live BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
-</programme>
 <programme start="20260621220000 +0000" stop="20260622000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: XPEL Grand Prix at Road America</title>
 </programme>
@@ -2957,7 +2954,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260622210000 +0000" stop="20260622230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Topspiel, Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
 </programme>
-<programme start="20260621230000 +0000" stop="20260622000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260621231500 +0000" stop="20260622000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Moto2: Rennen - GP Tschechien</title>
 </programme>
 <programme start="20260622000000 +0000" stop="20260622010000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3047,7 +3044,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260622084000 +0000" stop="20260622090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260622090000 +0000" stop="20260622200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260622090000 +0000" stop="20260622173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 2. Tag</title>
 </programme>
 <programme start="20260622002000 +0000" stop="20260622005000 +0000" channel="Sky Sport 2 HD.skyde">
