@@ -1650,81 +1650,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623212000 +0000" stop="20260623221000 +0000" channel="Romance TV HD.skyde">
     <title>Tierärztin Dr. Mertens</title>
 </programme>
-<programme start="20260622223000 +0000" stop="20260622230000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The House that Dragons Built: Episode 1</title>
-</programme>
-<programme start="20260622230000 +0000" stop="20260622232000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The House that Dragons Built: Episode 2</title>
-</programme>
-<programme start="20260622232000 +0000" stop="20260623002500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260623002500 +0000" stop="20260623011500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260623011500 +0000" stop="20260623012000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Intro to the House of the Dragon</title>
-</programme>
-<programme start="20260623012000 +0000" stop="20260623021500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Idol</title>
-</programme>
-<programme start="20260623021500 +0000" stop="20260623030500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Idol</title>
-</programme>
-<programme start="20260623030500 +0000" stop="20260623035000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Idol</title>
-</programme>
-<programme start="20260623035000 +0000" stop="20260623045000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Idol</title>
-</programme>
-<programme start="20260623045000 +0000" stop="20260623055500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Idol</title>
-</programme>
-<programme start="20260623055500 +0000" stop="20260623073500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Weeknd: Live At SoFi Stadium</title>
-</programme>
-<programme start="20260623073500 +0000" stop="20260623084000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623084000 +0000" stop="20260623094500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623094500 +0000" stop="20260623105000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623105000 +0000" stop="20260623115500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623115500 +0000" stop="20260623125500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623125500 +0000" stop="20260623140000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623140000 +0000" stop="20260623150000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623150000 +0000" stop="20260623160000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623160000 +0000" stop="20260623165500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623165500 +0000" stop="20260623181500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>For All Mankind</title>
-</programme>
-<programme start="20260623181500 +0000" stop="20260623192000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260623192000 +0000" stop="20260623202500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260623202500 +0000" stop="20260623212500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260623212500 +0000" stop="20260623223500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
 <programme start="20260622233500 +0000" stop="20260623012500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Annabelle 3</title>
 </programme>
@@ -2663,9 +2588,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260623120000 +0000" stop="20260623130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight</title>
-</programme>
-<programme start="20260623130000 +0000" stop="20260623134500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
 </programme>
 <programme start="20260623134500 +0000" stop="20260623144500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Tschechien</title>
