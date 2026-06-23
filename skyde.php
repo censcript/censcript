@@ -3095,7 +3095,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623084000 +0000" stop="20260623090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260623090000 +0000" stop="20260623200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260623090000 +0000" stop="20260623173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 3. Tag</title>
 </programme>
 <programme start="20260622232000 +0000" stop="20260622235000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3575,10 +3575,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623100500 +0000" stop="20260623121000 +0000" channel="Warner TV Film.skyde">
     <title>Instinkt</title>
 </programme>
-<programme start="20260623121000 +0000" stop="20260623140000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260623121000 +0000" stop="20260623140500 +0000" channel="Warner TV Film.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20260623140000 +0000" stop="20260623162500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260623140500 +0000" stop="20260623162500 +0000" channel="Warner TV Film.skyde">
     <title>Bridge of Spies - Der Unterhändler</title>
 </programme>
 <programme start="20260623162500 +0000" stop="20260623181500 +0000" channel="Warner TV Film.skyde">
@@ -3614,10 +3614,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623100500 +0000" stop="20260623121000 +0000" channel="Warner TV Film HD.skyde">
     <title>Instinkt</title>
 </programme>
-<programme start="20260623121000 +0000" stop="20260623140500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260623121000 +0000" stop="20260623140000 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20260623140500 +0000" stop="20260623162500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260623140000 +0000" stop="20260623162500 +0000" channel="Warner TV Film HD.skyde">
     <title>Bridge of Spies - Der Unterhändler</title>
 </programme>
 <programme start="20260623162500 +0000" stop="20260623181500 +0000" channel="Warner TV Film HD.skyde">

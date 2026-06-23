@@ -93,37 +93,22 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260622200000 +0000" stop="20260623000000 +0000" channel="fifa2.unifitv">
+  <programme start="20260622200000 +0000" stop="20260623010000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) France vs Iraq : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623000000 +0000" stop="20260623003000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260623003000 +0000" stop="20260623010000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260623010000 +0000" stop="20260623013000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260623013000 +0000" stop="20260623020000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623020000 +0000" stop="20260623023000 +0000" channel="fifa2.unifitv">
+  <programme start="20260623013000 +0000" stop="20260623020000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623023000 +0000" stop="20260623053000 +0000" channel="fifa2.unifitv">
+  <programme start="20260623020000 +0000" stop="20260623053000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) Jordan vs Algeria : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 11:00 AM</desc>
     <category lang="en">Sports</category>
@@ -133,33 +118,23 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623060000 +0000" stop="20260623093000 +0000" channel="fifa2.unifitv">
+  <programme start="20260623060000 +0000" stop="20260623110000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) France vs Iraq : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623093000 +0000" stop="20260623100000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260623100000 +0000" stop="20260623133000 +0000" channel="fifa2.unifitv">
+  <programme start="20260623110000 +0000" stop="20260623143000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Jordan vs Algeria : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623133000 +0000" stop="20260623140000 +0000" channel="fifa2.unifitv">
+  <programme start="20260623143000 +0000" stop="20260623150000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623140000 +0000" stop="20260623143000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260623143000 +0000" stop="20260623180000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) France vs Iraq : FIFA World Cup™ 2026</title>
+  <programme start="20260623150000 +0000" stop="20260623183000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) New Zealand vs Egypt : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>

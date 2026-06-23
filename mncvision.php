@@ -172,11 +172,8 @@
 <programme start="20260623083000 +0000" stop="20260623090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Witness: How To Sue The Klan</title>
 </programme>
-<programme start="20260623090000 +0000" stop="20260623093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260623093000 +0000" stop="20260623100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+<programme start="20260623090000 +0000" stop="20260623100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260623100000 +0000" stop="20260623110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -3017,7 +3014,7 @@
     <title>The Dip</title>
 </programme>
 <programme start="20260623033000 +0000" stop="20260623040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Shadow Of World Cup</title>
 </programme>
 <programme start="20260623040000 +0000" stop="20260623040300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4870,13 +4867,16 @@
 <programme start="20260623011500 +0000" stop="20260623020000 +0000" channel="iNews.mncvision">
     <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260623020000 +0000" stop="20260623025500 +0000" channel="iNews.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
+<programme start="20260623020000 +0000" stop="20260623023000 +0000" channel="iNews.mncvision">
+    <title>Polri: Pengabdian Tanpa Kata...</title>
 </programme>
-<programme start="20260623025500 +0000" stop="20260623030000 +0000" channel="iNews.mncvision">
+<programme start="20260623023000 +0000" stop="20260623023500 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260623030000 +0000" stop="20260623040000 +0000" channel="iNews.mncvision">
+<programme start="20260623023500 +0000" stop="20260623031500 +0000" channel="iNews.mncvision">
+    <title>Konflik Timur Tengah (L)</title>
+</programme>
+<programme start="20260623031500 +0000" stop="20260623040000 +0000" channel="iNews.mncvision">
     <title>iNews Today (L)</title>
 </programme>
 <programme start="20260623040000 +0000" stop="20260623060000 +0000" channel="iNews.mncvision">
@@ -4907,18 +4907,18 @@
     <title>Rakyat Bersuara (L)</title>
 </programme>
 <programme start="20260623140000 +0000" stop="20260623140500 +0000" channel="iNews.mncvision">
-    <title>Breaking Goals (L)</title>
+    <title>Breaking Goals</title>
 </programme>
 <programme start="20260623140500 +0000" stop="20260623150000 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260623150000 +0000" stop="20260623150500 +0000" channel="iNews.mncvision">
-    <title>Breaking Goals (L)</title>
+    <title>Breaking Goals</title>
 </programme>
-<programme start="20260623150500 +0000" stop="20260623160000 +0000" channel="iNews.mncvision">
+<programme start="20260623150500 +0000" stop="20260623161500 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260623160000 +0000" stop="20260623163000 +0000" channel="iNews.mncvision">
+<programme start="20260623161500 +0000" stop="20260623164500 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260622170000 +0000" stop="20260622173000 +0000" channel="iNews HD.mncvision">
@@ -4963,13 +4963,16 @@
 <programme start="20260623011500 +0000" stop="20260623020000 +0000" channel="iNews HD.mncvision">
     <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260623020000 +0000" stop="20260623025500 +0000" channel="iNews HD.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
+<programme start="20260623020000 +0000" stop="20260623023000 +0000" channel="iNews HD.mncvision">
+    <title>Polri: Pengabdian Tanpa Kata...</title>
 </programme>
-<programme start="20260623025500 +0000" stop="20260623030000 +0000" channel="iNews HD.mncvision">
+<programme start="20260623023000 +0000" stop="20260623023500 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260623030000 +0000" stop="20260623040000 +0000" channel="iNews HD.mncvision">
+<programme start="20260623023500 +0000" stop="20260623031500 +0000" channel="iNews HD.mncvision">
+    <title>Konflik Timur Tengah (L)</title>
+</programme>
+<programme start="20260623031500 +0000" stop="20260623040000 +0000" channel="iNews HD.mncvision">
     <title>iNews Today (L)</title>
 </programme>
 <programme start="20260623040000 +0000" stop="20260623060000 +0000" channel="iNews HD.mncvision">
@@ -5000,18 +5003,18 @@
     <title>Rakyat Bersuara (L)</title>
 </programme>
 <programme start="20260623140000 +0000" stop="20260623140500 +0000" channel="iNews HD.mncvision">
-    <title>Breaking Goals (L)</title>
+    <title>Breaking Goals</title>
 </programme>
 <programme start="20260623140500 +0000" stop="20260623150000 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260623150000 +0000" stop="20260623150500 +0000" channel="iNews HD.mncvision">
-    <title>Breaking Goals (L)</title>
+    <title>Breaking Goals</title>
 </programme>
-<programme start="20260623150500 +0000" stop="20260623160000 +0000" channel="iNews HD.mncvision">
+<programme start="20260623150500 +0000" stop="20260623161500 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260623160000 +0000" stop="20260623163000 +0000" channel="iNews HD.mncvision">
+<programme start="20260623161500 +0000" stop="20260623164500 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260622220000 +0000" stop="20260622223000 +0000" channel="JAKTV.mncvision">

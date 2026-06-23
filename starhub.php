@@ -3158,7 +3158,7 @@
         <title>Why oil won’t get cheaper. The US-Iran deal and the price of everything</title>
     </programme>
     <programme start="20260622233000 +0000" stop="20260623000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>In the Shadow of the World Cup - Mexican Families Search for Their Loved Ones</title>
     </programme>
     <programme start="20260623000000 +0000" stop="20260623000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3194,7 +3194,7 @@
         <title>Why oil won’t get cheaper. The US-Iran deal and the price of everything</title>
     </programme>
     <programme start="20260623033000 +0000" stop="20260623040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>In the Shadow of the World Cup - Mexican Families Search for Their Loved Ones</title>
     </programme>
     <programme start="20260623040000 +0000" stop="20260623040300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3236,7 +3236,7 @@
         <title>News</title>
     </programme>
     <programme start="20260623080200 +0000" stop="20260623083000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>A resilient super grass packed with green promise</title>
     </programme>
     <programme start="20260623083000 +0000" stop="20260623090000 +0000" channel="DW English HD.starhub">
         <title>From popstar to sanitation advocate in rural Ghana</title>
@@ -3248,10 +3248,10 @@
         <title>News</title>
     </programme>
     <programme start="20260623091500 +0000" stop="20260623094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>In the Shadow of the World Cup - Mexican Families Search for Their Loved Ones</title>
     </programme>
     <programme start="20260623094500 +0000" stop="20260623100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Syria&#039;s road to integration: at what cost for Kurds?</title>
     </programme>
     <programme start="20260623100000 +0000" stop="20260623100300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3275,7 +3275,7 @@
         <title>News</title>
     </programme>
     <programme start="20260623121500 +0000" stop="20260623124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>In the Shadow of the World Cup - Mexican Families Search for Their Loved Ones</title>
     </programme>
     <programme start="20260623124500 +0000" stop="20260623130000 +0000" channel="DW English HD.starhub">
         <title>Does the internet have an expiration date?</title>
@@ -3299,10 +3299,10 @@
         <title>News</title>
     </programme>
     <programme start="20260623141500 +0000" stop="20260623144500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>In the Shadow of the World Cup - Mexican Families Search for Their Loved Ones</title>
     </programme>
     <programme start="20260623144500 +0000" stop="20260623150000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Syria&#039;s road to integration: at what cost for Kurds?</title>
     </programme>
     <programme start="20260623150000 +0000" stop="20260623153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5209,28 +5209,28 @@
     <programme start="20260623020000 +0000" stop="20260623025500 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 901-950) VVD Mandarin</title>
     </programme>
-    <programme start="20260623025500 +0000" stop="20260623035500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20260623025500 +0000" stop="20260623035000 +0000" channel="TestChannel 996.starhub">
         <title>The Fading Gold</title>
     </programme>
-    <programme start="20260623035500 +0000" stop="20260623044500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20260623035000 +0000" stop="20260623044500 +0000" channel="TestChannel 996.starhub">
         <title>Strange Tales of Tang Dynasty III to Changan</title>
     </programme>
     <programme start="20260623044500 +0000" stop="20260623051500 +0000" channel="TestChannel 996.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20260623051500 +0000" stop="20260623060000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20260623051500 +0000" stop="20260623060500 +0000" channel="TestChannel 996.starhub">
         <title>Brocade Odyssey</title>
     </programme>
-    <programme start="20260623060000 +0000" stop="20260623064500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20260623060500 +0000" stop="20260623065500 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 901-950) VVD Mandarin</title>
     </programme>
-    <programme start="20260623064500 +0000" stop="20260623073000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20260623065500 +0000" stop="20260623073400 +0000" channel="TestChannel 996.starhub">
         <title>Their Wonderful Time</title>
     </programme>
-    <programme start="20260623073000 +0000" stop="20260623081500 +0000" channel="TestChannel 996.starhub">
+    <programme start="20260623073400 +0000" stop="20260623082000 +0000" channel="TestChannel 996.starhub">
         <title>Their Wonderful Time</title>
     </programme>
-    <programme start="20260623081500 +0000" stop="20260623090000 +0000" channel="TestChannel 996.starhub">
+    <programme start="20260623082000 +0000" stop="20260623090000 +0000" channel="TestChannel 996.starhub">
         <title>Generation to Generation</title>
     </programme>
     <programme start="20260623090000 +0000" stop="20260623094500 +0000" channel="TestChannel 996.starhub">
@@ -5606,7 +5606,7 @@
         <title>Super Followers</title>
     </programme>
     <programme start="20260623150000 +0000" stop="20260623160000 +0000" channel="CTI TV HD.starhub">
-        <title>CTI News Global Vision</title>
+        <title>CTI News Global  Vision</title>
     </programme>
     <programme start="20260622151500 +0000" stop="20260622165000 +0000" channel="CCM.starhub">
         <title>The Black Tavern</title>
@@ -5692,28 +5692,28 @@
     <programme start="20260623020000 +0000" stop="20260623025500 +0000" channel="Hub VVDrama.starhub">
         <title>Golden City (Ep 901-950) VVD Mandarin</title>
     </programme>
-    <programme start="20260623025500 +0000" stop="20260623035500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20260623025500 +0000" stop="20260623035000 +0000" channel="Hub VVDrama.starhub">
         <title>The Fading Gold</title>
     </programme>
-    <programme start="20260623035500 +0000" stop="20260623044500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20260623035000 +0000" stop="20260623044500 +0000" channel="Hub VVDrama.starhub">
         <title>Strange Tales of Tang Dynasty III to Changan</title>
     </programme>
     <programme start="20260623044500 +0000" stop="20260623051500 +0000" channel="Hub VVDrama.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20260623051500 +0000" stop="20260623060000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20260623051500 +0000" stop="20260623060500 +0000" channel="Hub VVDrama.starhub">
         <title>Brocade Odyssey</title>
     </programme>
-    <programme start="20260623060000 +0000" stop="20260623064500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20260623060500 +0000" stop="20260623065500 +0000" channel="Hub VVDrama.starhub">
         <title>Golden City (Ep 901-950) VVD Mandarin</title>
     </programme>
-    <programme start="20260623064500 +0000" stop="20260623073000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20260623065500 +0000" stop="20260623073400 +0000" channel="Hub VVDrama.starhub">
         <title>Their Wonderful Time</title>
     </programme>
-    <programme start="20260623073000 +0000" stop="20260623081500 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20260623073400 +0000" stop="20260623082000 +0000" channel="Hub VVDrama.starhub">
         <title>Their Wonderful Time</title>
     </programme>
-    <programme start="20260623081500 +0000" stop="20260623090000 +0000" channel="Hub VVDrama.starhub">
+    <programme start="20260623082000 +0000" stop="20260623090000 +0000" channel="Hub VVDrama.starhub">
         <title>Generation to Generation</title>
     </programme>
     <programme start="20260623090000 +0000" stop="20260623094500 +0000" channel="Hub VVDrama.starhub">
@@ -6838,28 +6838,28 @@
     <programme start="20260623020000 +0000" stop="20260623025500 +0000" channel="TestChannel2.starhub">
         <title>Golden City (Ep 901-950) VVD Mandarin</title>
     </programme>
-    <programme start="20260623025500 +0000" stop="20260623035500 +0000" channel="TestChannel2.starhub">
+    <programme start="20260623025500 +0000" stop="20260623035000 +0000" channel="TestChannel2.starhub">
         <title>The Fading Gold</title>
     </programme>
-    <programme start="20260623035500 +0000" stop="20260623044500 +0000" channel="TestChannel2.starhub">
+    <programme start="20260623035000 +0000" stop="20260623044500 +0000" channel="TestChannel2.starhub">
         <title>Strange Tales of Tang Dynasty III to Changan</title>
     </programme>
     <programme start="20260623044500 +0000" stop="20260623051500 +0000" channel="TestChannel2.starhub">
         <title>Lo And Behold</title>
     </programme>
-    <programme start="20260623051500 +0000" stop="20260623060000 +0000" channel="TestChannel2.starhub">
+    <programme start="20260623051500 +0000" stop="20260623060500 +0000" channel="TestChannel2.starhub">
         <title>Brocade Odyssey</title>
     </programme>
-    <programme start="20260623060000 +0000" stop="20260623064500 +0000" channel="TestChannel2.starhub">
+    <programme start="20260623060500 +0000" stop="20260623065500 +0000" channel="TestChannel2.starhub">
         <title>Golden City (Ep 901-950) VVD Mandarin</title>
     </programme>
-    <programme start="20260623064500 +0000" stop="20260623073000 +0000" channel="TestChannel2.starhub">
+    <programme start="20260623065500 +0000" stop="20260623073400 +0000" channel="TestChannel2.starhub">
         <title>Their Wonderful Time</title>
     </programme>
-    <programme start="20260623073000 +0000" stop="20260623081500 +0000" channel="TestChannel2.starhub">
+    <programme start="20260623073400 +0000" stop="20260623082000 +0000" channel="TestChannel2.starhub">
         <title>Their Wonderful Time</title>
     </programme>
-    <programme start="20260623081500 +0000" stop="20260623090000 +0000" channel="TestChannel2.starhub">
+    <programme start="20260623082000 +0000" stop="20260623090000 +0000" channel="TestChannel2.starhub">
         <title>Generation to Generation</title>
     </programme>
     <programme start="20260623090000 +0000" stop="20260623094500 +0000" channel="TestChannel2.starhub">

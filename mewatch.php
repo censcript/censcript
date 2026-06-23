@@ -19,13 +19,10 @@
     <programme start="20260622210000 +0000" stop="20260622230000 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026 - Group Stage: France v Iraq</title>
     </programme>
-    <programme start="20260622230000 +0000" stop="20260622233000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) FIFA World Cup 2026 - Post-Show - Group Stage: France v Iraq</title>
+    <programme start="20260622230000 +0000" stop="20260623010000 +0000" channel="Channel 5.mewatch">
+        <title>(Live) FIFA World Cup 2026 - Group Stage: France v Iraq</title>
     </programme>
-    <programme start="20260622233000 +0000" stop="20260623000000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) FIFA World Cup 2026 - Pre-Show - Group Stage: Norway v Senegal</title>
-    </programme>
-    <programme start="20260623000000 +0000" stop="20260623020000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260623010000 +0000" stop="20260623020000 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026 - Group Stage: Norway v Senegal</title>
     </programme>
     <programme start="20260623020000 +0000" stop="20260623023000 +0000" channel="Channel 5.mewatch">
@@ -92,7 +89,7 @@
         <title>Aunty Lee&#039;s Deadly Delights - EP 84</title>
     </programme>
     <programme start="20260623130000 +0000" stop="20260623133000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20260623133000 +0000" stop="20260623140000 +0000" channel="Channel 5.mewatch">
         <title>Long Weekends - EP 12</title>
