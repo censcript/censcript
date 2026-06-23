@@ -1,5 +1,5 @@
 <!-- Fetching EPG from 2026-06-23 00:00:00 to 2026-06-24 00:00:00 MYT -->
-<!-- Total programs: 72, Total pages: 8 -->
+<!-- Total programs: 73, Total pages: 8 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="UnifiTV EPG Parser" generator-info-url="https://unifitv.com.my/">
   <channel id="fifa1.unifitv">
@@ -196,18 +196,36 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623103000 +0000" stop="20260623140000 +0000" channel="fifa3.unifitv">
+  <programme start="20260623103000 +0000" stop="20260623150000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) France vs Iraq : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623140000 +0000" stop="20260623143000 +0000" channel="fifa3.unifitv">
+  <programme start="20260623150000 +0000" stop="20260623153000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623143000 +0000" stop="20260623180000 +0000" channel="fifa3.unifitv">
+  <programme start="20260623153000 +0000" stop="20260623190000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Norway vs Senegal : FIFA World Cup™ 2026</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="fifa4.unifitv">
+    <display-name>Unifi FIFA World Cup 2026™ 4</display-name>
+  </channel>
+  <programme start="20260623120000 +0000" stop="20260623123000 +0000" channel="fifa4.unifitv">
+    <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260623123000 +0000" stop="20260623130000 +0000" channel="fifa4.unifitv">
+    <title lang="en">EP 1 - Mexico City : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623163000 +0000" channel="fifa4.unifitv">
+    <title lang="en">(R) Spain vs Saudi Arabia : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -9126,61 +9144,68 @@
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <episode-num system="onscreen">S2E3</episode-num>
   </programme>
-  <programme start="20260623103500 +0000" stop="20260623110500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260623103500 +0000" stop="20260623110000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Wonderful Indonesia Flavours</title>
     <desc lang="en">Also known as the Lands of the Gods, Bali takes the lead in organic food produce and clean eating.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">1.3.</episode-num>
     <episode-num system="onscreen">S2E4</episode-num>
   </programme>
-  <programme start="20260623110500 +0000" stop="20260623120500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260623110000 +0000" stop="20260623120000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">May's Menu</title>
     <desc lang="en">Chef May will start the episode creating a menu of 4 dishes fit for a theme. She will share the menu creation a menu of 4 dishes fit for a theme.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme start="20260623120500 +0000" stop="20260623123500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260623120000 +0000" stop="20260623123000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">The Chocolate Queen</title>
     <desc lang="en">Kirsten demonstrates an array of incredibly clever and innovative tricks, tips and cheats to bring the wow factor into their home baking.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <episode-num system="onscreen">S3E9</episode-num>
   </programme>
-  <programme start="20260623123500 +0000" stop="20260623130500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260623123000 +0000" stop="20260623130000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">The Chocolate Queen</title>
     <desc lang="en">Kirsten demonstrates an array of incredibly clever and innovative tricks, tips and cheats to bring the wow factor into their home baking.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">2.9.</episode-num>
     <episode-num system="onscreen">S3E10</episode-num>
   </programme>
-  <programme start="20260623130500 +0000" stop="20260623133500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260623130000 +0000" stop="20260623133000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Secrets Of The Curry Kitchen</title>
     <desc lang="en">Chef Asma Khan makes spiced Kabab Burgers, crispy monsoon pakoras, flavourful koftas and indulgent chilli cheese toasties - perfect sumptuous snacks.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20260623133500 +0000" stop="20260623140500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260623133000 +0000" stop="20260623140000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Secrets Of The Curry Kitchen</title>
     <desc lang="en">Chef Asma Khan celebrates vegetables with Shimla mirch paneer, 9 jewel korma, pumpkin niramish and a delicious watermelon curry - a feast of spices.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260623140500 +0000" stop="20260623150500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260623140000 +0000" stop="20260623150000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Go Where Hunan Abounds</title>
     <desc lang="en">There's Stir-Fried Dried Beef with Yellow Mushrooms in Chenzhou, Beef with Skin in Xiangxi, Suge's Hui Halal Skewers in Shaoyang, and Fermented Beef Steak in Yongzhou.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">2.7.</episode-num>
     <episode-num system="onscreen">S3E8</episode-num>
   </programme>
-  <programme start="20260623150500 +0000" stop="20260623160500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260623150000 +0000" stop="20260623160000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">May's Menu</title>
     <desc lang="en">Chef May will start the episode creating a menu of 4 dishes fit for a theme. She will share the menu creation a menu of 4 dishes fit for a theme.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260623160000 +0000" stop="20260623165500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Morimoto's Sushi Master</title>
+    <desc lang="en">Three talented sushi chefs remain to fight for a spot in the final head-to-head Omakase and the chance for the cash prize and the title.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
   </programme>
   <channel id="dreamworkshd.unifitv">
     <display-name>DreamWorks HD</display-name>

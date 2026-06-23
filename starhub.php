@@ -7835,10 +7835,10 @@
         <title>A Brilliant Canvas - John Olsen</title>
     </programme>
     <programme start="20260622163000 +0000" stop="20260622170000 +0000" channel="ABC Australia HD.starhub">
-        <title>Creative Types With Virginia Trioli</title>
+        <title>Hugo Weaving</title>
     </programme>
     <programme start="20260622170000 +0000" stop="20260622173000 +0000" channel="ABC Australia HD.starhub">
-        <title>Black Swans (Part 3) Burning Hill</title>
+        <title>Black Swans - Black Swans (Part 3) Burning Hill</title>
     </programme>
     <programme start="20260622173000 +0000" stop="20260622180000 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America (2026)</title>

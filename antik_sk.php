@@ -1225,46 +1225,46 @@
   <programme start="20260625010500 +0000" stop="20260625025000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260625025000 +0000" stop="20260625052500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625025000 +0000" stop="20260625052000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Okolo Švajčiarska</title>
   </programme>
-  <programme start="20260625052500 +0000" stop="20260625080500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625052000 +0000" stop="20260625084000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Squash - PSA World Tour</title>
   </programme>
-  <programme start="20260625080500 +0000" stop="20260625094500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625084000 +0000" stop="20260625100500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260625094500 +0000" stop="20260625103000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625100500 +0000" stop="20260625104500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260625103000 +0000" stop="20260625121000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625104500 +0000" stop="20260625121500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Športové lezenie</title>
   </programme>
-  <programme start="20260625121000 +0000" stop="20260625124000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625121500 +0000" stop="20260625124500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260625124000 +0000" stop="20260625133500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625124500 +0000" stop="20260625134000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260625133500 +0000" stop="20260625141500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625134000 +0000" stop="20260625142000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260625141500 +0000" stop="20260625162500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625142000 +0000" stop="20260625163500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260625162500 +0000" stop="20260625170500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625163500 +0000" stop="20260625171500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260625170500 +0000" stop="20260625193000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625171500 +0000" stop="20260625195000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Gold Continental Tour</title>
   </programme>
-  <programme start="20260625193000 +0000" stop="20260625202000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625195000 +0000" stop="20260625204500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Dokument</title>
   </programme>
-  <programme start="20260625202000 +0000" stop="20260625211500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625204500 +0000" stop="20260625213500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260625211500 +0000" stop="20260626000500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260625213500 +0000" stop="20260625234500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
   <programme start="20260624215500 +0000" stop="20260624230000 +0000" channel="WAU.webtv.sk">

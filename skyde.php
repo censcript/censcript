@@ -2996,14 +2996,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623213000 +0000" stop="20260623223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review of the Season 2025/2026</title>
 </programme>
-<programme start="20260622223000 +0000" stop="20260623003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: J.-L. Struff (GER) - M. Landaluce (ESP), Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
-</programme>
-<programme start="20260623003000 +0000" stop="20260623030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260622230000 +0000" stop="20260623013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Noskova (CZE)  - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
 </programme>
-<programme start="20260623030000 +0000" stop="20260623050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260623013000 +0000" stop="20260623023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review London</title>
+</programme>
+<programme start="20260623023000 +0000" stop="20260623043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Williams (USA) - I. Begu (BEL), Bad Homburg Open in Bad Homburg, 2. Tag</title>
+</programme>
+<programme start="20260623043000 +0000" stop="20260623050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260623050000 +0000" stop="20260623070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - M. Landaluce (ESP), Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
@@ -3092,7 +3095,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623084000 +0000" stop="20260623090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260623090000 +0000" stop="20260623173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260623090000 +0000" stop="20260623200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 3. Tag</title>
 </programme>
 <programme start="20260622232000 +0000" stop="20260622235000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3644,10 +3647,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623034000 +0000" stop="20260623035500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260623035500 +0000" stop="20260623044500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623035500 +0000" stop="20260623044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260623044500 +0000" stop="20260623053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623044000 +0000" stop="20260623053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260623053500 +0000" stop="20260623063000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3689,10 +3692,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623151000 +0000" stop="20260623155500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260623155500 +0000" stop="20260623164500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623155500 +0000" stop="20260623164000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260623164500 +0000" stop="20260623173000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623164000 +0000" stop="20260623173000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Castle</title>
 </programme>
 <programme start="20260623173000 +0000" stop="20260623181500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3710,6 +3713,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623203000 +0000" stop="20260623211500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260623211500 +0000" stop="20260623220000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623211500 +0000" stop="20260623220500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>

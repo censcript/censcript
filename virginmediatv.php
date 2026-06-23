@@ -3883,7 +3883,10 @@
 <programme start="20260623030000 +0000" stop="20260623040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260623040000 +0000" stop="20260623060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260623040000 +0000" stop="20260623050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260623050000 +0000" stop="20260623060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260623090000 +0000" stop="20260623130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4370,7 +4373,7 @@
     <title>The Official United Podcast - Inside Carrington Podcast - Diogo Dalot</title>
 </programme>
 <programme start="20260623120000 +0000" stop="20260623123000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Premier League 25/26</title>
+    <title>I Was There</title>
 </programme>
 <programme start="20260623123000 +0000" stop="20260623124500 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - All The Assists: Bruno Fernandes</title>
@@ -4382,7 +4385,7 @@
     <title>The Official United Podcast - Inside Carrington Podcast - Darren Fletcher</title>
 </programme>
 <programme start="20260623140000 +0000" stop="20260623144500 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington Podcast - POTY Awards</title>
+    <title>Farewell Casemiro</title>
 </programme>
 <programme start="20260623144500 +0000" stop="20260623150000 +0000" channel="MUTV.virginmediatv">
     <title>Season Review - Top Ten Moments</title>
@@ -4660,7 +4663,10 @@
 <programme start="20260623030000 +0000" stop="20260623040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260623040000 +0000" stop="20260623060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260623040000 +0000" stop="20260623050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260623050000 +0000" stop="20260623060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260623090000 +0000" stop="20260623130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
