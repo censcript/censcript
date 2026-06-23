@@ -2323,8 +2323,11 @@
     <programme start="20260623110000 +0000" stop="20260623130000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Brazil vs Egypt</title>
     </programme>
-    <programme start="20260623130000 +0000" stop="20260623160000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260623130000 +0000" stop="20260623153000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FN14: Kape vs Horiguchi 2</title>
+    </programme>
+    <programme start="20260623153000 +0000" stop="20260623160000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#593</title>
     </programme>
     <programme start="20260622151500 +0000" stop="20260622171500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -3110,7 +3113,7 @@
         <title>News</title>
     </programme>
     <programme start="20260622183000 +0000" stop="20260622190000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>In the Shadow of the World Cup - Mexican Families Search for Their Loved Ones</title>
     </programme>
     <programme start="20260622190000 +0000" stop="20260622190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -5552,7 +5555,7 @@
         <title>Hit the Headlines</title>
     </programme>
     <programme start="20260622210000 +0000" stop="20260622220000 +0000" channel="CTI TV HD.starhub">
-        <title>CTI News Global Vision</title>
+        <title>CTI News Global  Vision</title>
     </programme>
     <programme start="20260622220000 +0000" stop="20260622230000 +0000" channel="CTI TV HD.starhub">
         <title>CTI News Live</title>
@@ -6560,7 +6563,7 @@
         <title>UCI Pro Series - Muscat Classic Final Highlights</title>
     </programme>
     <programme start="20260623150000 +0000" stop="20260623160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>HSBC Championships</title>
+        <title>Barcelona Open Banc Sabadell</title>
     </programme>
     <programme start="20260622141500 +0000" stop="20260622163100 +0000" channel="SONY MAX.starhub">
         <title>Ek Villain Returns</title>
@@ -7859,7 +7862,7 @@
         <title>ABC News At Noon (2026)</title>
     </programme>
     <programme start="20260623030000 +0000" stop="20260623033000 +0000" channel="ABC Australia HD.starhub">
-        <title>Australian Story (2026)</title>
+        <title>A Beautiful Mind - Richard Scolyer</title>
     </programme>
     <programme start="20260623033000 +0000" stop="20260623040000 +0000" channel="ABC Australia HD.starhub">
         <title>Shearers, NSW</title>
@@ -7871,12 +7874,12 @@
         <title>Heywire</title>
     </programme>
     <programme start="20260623050000 +0000" stop="20260623060000 +0000" channel="ABC Australia HD.starhub">
-        <title>Gardening Australia S37</title>
+        <title>Winter: Food Forest &amp; Tabletop Succulents</title>
     </programme>
-    <programme start="20260623060000 +0000" stop="20260623063000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260623060000 +0000" stop="20260623062500 +0000" channel="ABC Australia HD.starhub">
         <title>Landline (2026)</title>
     </programme>
-    <programme start="20260623063000 +0000" stop="20260623070000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260623062500 +0000" stop="20260623070000 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America (2026)</title>
     </programme>
     <programme start="20260623070000 +0000" stop="20260623080000 +0000" channel="ABC Australia HD.starhub">
@@ -7895,15 +7898,15 @@
         <title>7.30 (2026)</title>
     </programme>
     <programme start="20260623100000 +0000" stop="20260623103000 +0000" channel="ABC Australia HD.starhub">
-        <title>Australian Story (2026)</title>
+        <title>A Beautiful Mind - Richard Scolyer</title>
     </programme>
     <programme start="20260623103000 +0000" stop="20260623110000 +0000" channel="ABC Australia HD.starhub">
         <title>Dreaming Big S1</title>
     </programme>
-    <programme start="20260623110000 +0000" stop="20260623120000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260623110000 +0000" stop="20260623115500 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2026)</title>
     </programme>
-    <programme start="20260623120000 +0000" stop="20260623122500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260623115500 +0000" stop="20260623122500 +0000" channel="ABC Australia HD.starhub">
         <title>Shearers, NSW</title>
     </programme>
     <programme start="20260623122500 +0000" stop="20260623125500 +0000" channel="ABC Australia HD.starhub">

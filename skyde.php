@@ -638,10 +638,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623075500 +0000" stop="20260623081500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260623081500 +0000" stop="20260623082000 +0000" channel="Cartoonito.skyde">
+<programme start="20260623081500 +0000" stop="20260623082500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260623082000 +0000" stop="20260623083000 +0000" channel="Cartoonito.skyde">
+<programme start="20260623082500 +0000" stop="20260623083000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260623083000 +0000" stop="20260623084500 +0000" channel="Cartoonito.skyde">
@@ -701,10 +701,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623124500 +0000" stop="20260623125500 +0000" channel="Cartoonito.skyde">
     <title>Die Baby Lemminge</title>
 </programme>
-<programme start="20260623125500 +0000" stop="20260623130500 +0000" channel="Cartoonito.skyde">
+<programme start="20260623125500 +0000" stop="20260623131000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260623130500 +0000" stop="20260623132500 +0000" channel="Cartoonito.skyde">
+<programme start="20260623131000 +0000" stop="20260623132500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260623132500 +0000" stop="20260623133500 +0000" channel="Cartoonito.skyde">
@@ -749,19 +749,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623160500 +0000" stop="20260623162000 +0000" channel="Cartoonito.skyde">
     <title>Die Baby Lemminge</title>
 </programme>
-<programme start="20260623162000 +0000" stop="20260623162500 +0000" channel="Cartoonito.skyde">
+<programme start="20260623162000 +0000" stop="20260623163000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260623162500 +0000" stop="20260623163500 +0000" channel="Cartoonito.skyde">
+<programme start="20260623163000 +0000" stop="20260623163500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260623163500 +0000" stop="20260623164000 +0000" channel="Cartoonito.skyde">
+<programme start="20260623163500 +0000" stop="20260623164100 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260623164000 +0000" stop="20260623164300 +0000" channel="Cartoonito.skyde">
+<programme start="20260623164100 +0000" stop="20260623164400 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260623164300 +0000" stop="20260623170000 +0000" channel="Cartoonito.skyde">
+<programme start="20260623164400 +0000" stop="20260623170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
 <programme start="20260623170000 +0000" stop="20260623171000 +0000" channel="Cartoonito.skyde">
@@ -812,10 +812,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623200500 +0000" stop="20260623202000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260623202000 +0000" stop="20260623203000 +0000" channel="Cartoonito.skyde">
+<programme start="20260623202000 +0000" stop="20260623203500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260623203000 +0000" stop="20260623205000 +0000" channel="Cartoonito.skyde">
+<programme start="20260623203500 +0000" stop="20260623205000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260623205000 +0000" stop="20260623210000 +0000" channel="Cartoonito.skyde">
@@ -824,10 +824,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623210000 +0000" stop="20260623211500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260623211500 +0000" stop="20260623212500 +0000" channel="Cartoonito.skyde">
+<programme start="20260623211500 +0000" stop="20260623213000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260623212500 +0000" stop="20260623214500 +0000" channel="Cartoonito.skyde">
+<programme start="20260623213000 +0000" stop="20260623214500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20260623214500 +0000" stop="20260623215500 +0000" channel="Cartoonito.skyde">
@@ -2996,17 +2996,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623213000 +0000" stop="20260623223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Review of the Season 2025/2026</title>
 </programme>
-<programme start="20260622230000 +0000" stop="20260623013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260622223000 +0000" stop="20260623003000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: J.-L. Struff (GER) - M. Landaluce (ESP), Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
+</programme>
+<programme start="20260623003000 +0000" stop="20260623030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Noskova (CZE)  - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
 </programme>
-<programme start="20260623013000 +0000" stop="20260623023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review London</title>
-</programme>
-<programme start="20260623023000 +0000" stop="20260623043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260623030000 +0000" stop="20260623050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: V. Williams (USA) - I. Begu (BEL), Bad Homburg Open in Bad Homburg, 2. Tag</title>
-</programme>
-<programme start="20260623043000 +0000" stop="20260623050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260623050000 +0000" stop="20260623070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J.-L. Struff (GER) - M. Landaluce (ESP), Mallorca Championships in Santa Ponsa (ESP), 2. Tag</title>
@@ -3614,10 +3611,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623100500 +0000" stop="20260623121000 +0000" channel="Warner TV Film HD.skyde">
     <title>Instinkt</title>
 </programme>
-<programme start="20260623121000 +0000" stop="20260623140000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260623121000 +0000" stop="20260623140500 +0000" channel="Warner TV Film HD.skyde">
     <title>Lethal Weapon - Zwei stahlharte Profis</title>
 </programme>
-<programme start="20260623140000 +0000" stop="20260623162500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260623140500 +0000" stop="20260623162500 +0000" channel="Warner TV Film HD.skyde">
     <title>Bridge of Spies - Der Unterhändler</title>
 </programme>
 <programme start="20260623162500 +0000" stop="20260623181500 +0000" channel="Warner TV Film HD.skyde">
@@ -3647,10 +3644,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623034000 +0000" stop="20260623035500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260623035500 +0000" stop="20260623044000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623035500 +0000" stop="20260623044500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260623044000 +0000" stop="20260623053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623044500 +0000" stop="20260623053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260623053500 +0000" stop="20260623063000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3692,10 +3689,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623151000 +0000" stop="20260623155500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260623155500 +0000" stop="20260623164000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623155500 +0000" stop="20260623164500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260623164000 +0000" stop="20260623173000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623164500 +0000" stop="20260623173000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Castle</title>
 </programme>
 <programme start="20260623173000 +0000" stop="20260623181500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3713,6 +3710,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260623203000 +0000" stop="20260623211500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260623211500 +0000" stop="20260623220500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260623211500 +0000" stop="20260623220000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>

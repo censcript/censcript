@@ -62,12 +62,12 @@
     <title>Australian Story</title>
 </programme>
 <programme start="20260623103000 +0000" stop="20260623110000 +0000" channel="ABC Australia.mncvision">
-    <title>Dreaming Big</title>
+    <title>Expanse: The Nannup Four</title>
 </programme>
-<programme start="20260623110000 +0000" stop="20260623120000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260623110000 +0000" stop="20260623115500 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20260623120000 +0000" stop="20260623122500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260623115500 +0000" stop="20260623122500 +0000" channel="ABC Australia.mncvision">
     <title>Back Roads</title>
 </programme>
 <programme start="20260623122500 +0000" stop="20260623125500 +0000" channel="ABC Australia.mncvision">

@@ -3079,22 +3079,22 @@
   <programme start="20260625201000 +0000" stop="20260625221500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Pod lampou</title>
   </programme>
-  <programme start="20260624211000 +0000" stop="20260624220500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260624211300 +0000" stop="20260624220700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová IX (1)</title>
   </programme>
-  <programme start="20260624220500 +0000" stop="20260624223500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260624220700 +0000" stop="20260624223500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz tentokrát s Betano</title>
   </programme>
-  <programme start="20260624223500 +0000" stop="20260624230100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260624223500 +0000" stop="20260624230200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
-  <programme start="20260624230100 +0000" stop="20260624233000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260624230200 +0000" stop="20260624233000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
-  <programme start="20260624233000 +0000" stop="20260624235200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260624233000 +0000" stop="20260624235300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zahrada je hra</title>
   </programme>
-  <programme start="20260624235200 +0000" stop="20260625001600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260624235300 +0000" stop="20260625001600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zahrada je hra</title>
   </programme>
   <programme start="20260625001600 +0000" stop="20260625025000 +0000" channel="ČT1.webtv.sk">

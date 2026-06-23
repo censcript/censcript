@@ -118,23 +118,18 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623060000 +0000" stop="20260623110000 +0000" channel="fifa2.unifitv">
+  <programme start="20260623060000 +0000" stop="20260623103000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) France vs Iraq : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623110000 +0000" stop="20260623143000 +0000" channel="fifa2.unifitv">
+  <programme start="20260623103000 +0000" stop="20260623140000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Jordan vs Algeria : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623143000 +0000" stop="20260623150000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260623150000 +0000" stop="20260623183000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) New Zealand vs Egypt : FIFA World Cup™ 2026</title>
+  <programme start="20260623140000 +0000" stop="20260623183000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) France vs Iraq : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -3415,8 +3410,8 @@
     <title lang="en">Yumi's Cells 3</title>
     <desc lang="en">Yu-mi, a bestselling novelist, meets her new editor Soon-rok. With her Love Cell still asleep from heartbreak, his quiet charm stirs something new. Could he be her long awaited endgame?</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260623143500 +0000" stop="20260623161500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Six Singles Under One Roof</title>

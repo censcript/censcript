@@ -565,9 +565,6 @@
 <programme start="20260623054500 +0000" stop="20260623063000 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20260623063000 +0000" stop="20260623071500 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20260623071500 +0000" stop="20260623080000 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -672,9 +669,6 @@
 </programme>
 <programme start="20260623010000 +0000" stop="20260623023000 +0000" channel="ANTV.vision">
 <title>Antara Cinta Dan Dusta</title>
-</programme>
-<programme start="20260623023000 +0000" stop="20260623060000 +0000" channel="ANTV.vision">
-<title>Shershaah</title>
 </programme>
 <programme start="20260623060000 +0000" stop="20260623073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260624053000 +0000" stop="20260624063000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20260624063000 +0000" stop="20260624070000 +0000" channel="BTV.vision">
+<title>Jendela Nusantara: Jawa Barat</title>
+</programme>
+<programme start="20260624070000 +0000" stop="20260624073000 +0000" channel="BTV.vision">
+<title>Anak Hebat</title>
 </programme>

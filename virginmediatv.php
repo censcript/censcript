@@ -436,19 +436,22 @@
 <programme start="20260623173000 +0000" stop="20260623180000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC Newsline</title>
 </programme>
-<programme start="20260622233000 +0000" stop="20260623003000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260622233000 +0000" stop="20260623001500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Gods of Tennis - Bjorn Borg and John McEnroe</title>
 </programme>
-<programme start="20260623003000 +0000" stop="20260623012500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260623001500 +0000" stop="20260623004500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Joins BBC News</title>
+</programme>
+<programme start="20260623004500 +0000" stop="20260623014000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Countryfile - Conserving the Cotswolds</title>
 </programme>
-<programme start="20260623012500 +0000" stop="20260623022500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260623014000 +0000" stop="20260623024000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Springwatch - Episode 7</title>
 </programme>
-<programme start="20260623022500 +0000" stop="20260623032500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260623024000 +0000" stop="20260623033500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Reported Missing - Extortion?</title>
 </programme>
-<programme start="20260623032500 +0000" stop="20260623054500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260623033500 +0000" stop="20260623054500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20260623054500 +0000" stop="20260623063000 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -2425,11 +2428,8 @@
 <programme start="20260623043000 +0000" stop="20260623050000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20260623050000 +0000" stop="20260623053000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260623053000 +0000" stop="20260623060000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today</title>
+<programme start="20260623050000 +0000" stop="20260623080000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Breakfast</title>
 </programme>
 <programme start="20260623120000 +0000" stop="20260623130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
@@ -4291,7 +4291,7 @@
 <programme start="20260623040000 +0000" stop="20260623050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Terra Wortmann Open 2026 - Final</title>
 </programme>
-<programme start="20260623050000 +0000" stop="20260623070000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260623050000 +0000" stop="20260623073000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights</title>
 </programme>
 <programme start="20260623103000 +0000" stop="20260623173000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -5065,7 +5065,7 @@
 <programme start="20260623040000 +0000" stop="20260623050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Terra Wortmann Open 2026 - Final</title>
 </programme>
-<programme start="20260623050000 +0000" stop="20260623070000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260623050000 +0000" stop="20260623073000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights</title>
 </programme>
 <programme start="20260623103000 +0000" stop="20260623173000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
