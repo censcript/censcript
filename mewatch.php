@@ -11,10 +11,10 @@
         <title>Raid The Cage: Season 02 - EP 7</title>
     </programme>
     <programme start="20260623192500 +0000" stop="20260623200000 +0000" channel="Channel 5.mewatch">
-        <title>FIFA World Cup 2026 - Pre-Show - Group Stage: England v Ghana</title>
+        <title>(Live) FIFA World Cup 2026 - Pre-Show - Group Stage: England v Ghana</title>
     </programme>
     <programme start="20260623200000 +0000" stop="20260623220000 +0000" channel="Channel 5.mewatch">
-        <title>FIFA World Cup 2026 - Group Stage: England v Ghana</title>
+        <title>(Live) FIFA World Cup 2026 - Group Stage: England v Ghana</title>
     </programme>
     <programme start="20260623220000 +0000" stop="20260623223000 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026 - Post-Show - Group Stage: England v Ghana</title>
