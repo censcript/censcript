@@ -4484,13 +4484,13 @@
     <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260623160000 +0000" stop="20260623163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League World Beaters</title>
+    <title>Premier League World Beaters - Episode 3</title>
 </programme>
 <programme start="20260623163000 +0000" stop="20260623170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League World Beaters</title>
+    <title>Premier League World Beaters - Episode 4</title>
 </programme>
 <programme start="20260623170000 +0000" stop="20260623173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League World Beaters</title>
+    <title>Premier League World Beaters - Episode 5</title>
 </programme>
 <programme start="20260623173000 +0000" stop="20260623180000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Premier League Stories - Soaring Seagulls</title>
@@ -4606,8 +4606,11 @@
 <programme start="20260623010000 +0000" stop="20260623030000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>UEFA Europa League Football - Final: SC Freiburg v Aston Villa</title>
 </programme>
-<programme start="20260623030000 +0000" stop="20260623070000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+<programme start="20260623030000 +0000" stop="20260623050000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>UEFA Conference League - Final: Crystal Palace v Rayo Vallecano</title>
+</programme>
+<programme start="20260623050000 +0000" stop="20260623070000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>European Rugby Champions Cup - Final: Leinster v Union Bordeaux-Bègles</title>
 </programme>
 <programme start="20260623120000 +0000" stop="20260623130000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>UEFA Europa and Conference League Magazine</title>
@@ -5168,13 +5171,13 @@
     <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260623160000 +0000" stop="20260623163000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League World Beaters</title>
+    <title>Premier League World Beaters - Episode 3</title>
 </programme>
 <programme start="20260623163000 +0000" stop="20260623170000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League World Beaters</title>
+    <title>Premier League World Beaters - Episode 4</title>
 </programme>
 <programme start="20260623170000 +0000" stop="20260623173000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League World Beaters</title>
+    <title>Premier League World Beaters - Episode 5</title>
 </programme>
 <programme start="20260623173000 +0000" stop="20260623180000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Premier League Stories - Soaring Seagulls</title>
@@ -5290,8 +5293,11 @@
 <programme start="20260623010000 +0000" stop="20260623030000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>UEFA Europa League Football - Final: SC Freiburg v Aston Villa</title>
 </programme>
-<programme start="20260623030000 +0000" stop="20260623070000 +0000" channel="Premier_Sports_1.virginmediatv">
+<programme start="20260623030000 +0000" stop="20260623050000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>UEFA Conference League - Final: Crystal Palace v Rayo Vallecano</title>
+</programme>
+<programme start="20260623050000 +0000" stop="20260623070000 +0000" channel="Premier_Sports_1.virginmediatv">
+    <title>European Rugby Champions Cup - Final: Leinster v Union Bordeaux-Bègles</title>
 </programme>
 <programme start="20260623120000 +0000" stop="20260623130000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>UEFA Europa and Conference League Magazine</title>

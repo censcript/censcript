@@ -1,7 +1,5 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260622220000 +0000" stop="20260622224500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -2652,7 +2650,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Rennen - GP Tschechien</title>
 </programme>
 <programme start="20260623063000 +0000" stop="20260623090000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title></title>
+    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
 </programme>
 <programme start="20260623090000 +0000" stop="20260623110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WNBA: Phoenix Mercury @ Indiana Fever</title>
@@ -2667,7 +2665,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: Tonight</title>
 </programme>
 <programme start="20260623130000 +0000" stop="20260623134500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Welcome to the NHL</title>
+    <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
 </programme>
 <programme start="20260623134500 +0000" stop="20260623144500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Tschechien</title>
