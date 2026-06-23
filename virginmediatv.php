@@ -280,10 +280,10 @@
 <programme start="20260623165500 +0000" stop="20260623185500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Endeavour - Uniform</title>
 </programme>
-<programme start="20260622233500 +0000" stop="20260623021300 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260622233500 +0000" stop="20260623014300 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>This Morning</title>
 </programme>
-<programme start="20260623021300 +0000" stop="20260623060500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260623014300 +0000" stop="20260623060500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260623110500 +0000" stop="20260623120500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">

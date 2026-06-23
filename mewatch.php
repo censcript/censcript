@@ -733,10 +733,10 @@
     <programme start="20260622160000 +0000" stop="20260623030000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 23th Jun, Tuesday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
-    <programme start="20260623030000 +0000" stop="20260623140000 +0000" channel="Live 2.mewatch">
+    <programme start="20260623030000 +0000" stop="20260623130000 +0000" channel="Live 2.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Pool Stage</title>
     </programme>
-    <programme start="20260623140000 +0000" stop="20260623160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260623130000 +0000" stop="20260623160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 24th Jun, Wednesday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
     <programme start="20260623160000 +0000" stop="20260624030000 +0000" channel="Live 2.mewatch">
@@ -745,10 +745,10 @@
     <programme start="20260622160000 +0000" stop="20260623030000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 23th Jun, Tuesday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
-    <programme start="20260623030000 +0000" stop="20260623140000 +0000" channel="Live 5.mewatch">
+    <programme start="20260623030000 +0000" stop="20260623125100 +0000" channel="Live 5.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Pool Stage</title>
     </programme>
-    <programme start="20260623140000 +0000" stop="20260623160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260623125100 +0000" stop="20260623160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 24th Jun, Wednesday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
     <programme start="20260623160000 +0000" stop="20260624030000 +0000" channel="Live 5.mewatch">
