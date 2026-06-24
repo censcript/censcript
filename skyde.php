@@ -1,3 +1,5 @@
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260623220000 +0000" stop="20260623224500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -2378,34 +2380,34 @@
     <title>Tierbabys Down Under - Kleine Wunder der Wildnis</title>
 </programme>
 <programme start="20260623220000 +0000" stop="20260623222500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% LASK (Runden 1-4)</title>
-</programme>
-<programme start="20260623222500 +0000" stop="20260623225000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Lask (Runden 5-8)</title>
-</programme>
-<programme start="20260623225000 +0000" stop="20260623231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% LASK (Runden 9-12)</title>
-</programme>
-<programme start="20260623231500 +0000" stop="20260623234000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 13-16)</title>
 </programme>
-<programme start="20260623234000 +0000" stop="20260624000500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260623222500 +0000" stop="20260623225000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 17-20)</title>
 </programme>
-<programme start="20260624000500 +0000" stop="20260624002500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260623225000 +0000" stop="20260623231000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 21-24)</title>
 </programme>
-<programme start="20260624002500 +0000" stop="20260624005000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260623231000 +0000" stop="20260623233500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 25-28)</title>
 </programme>
-<programme start="20260624005000 +0000" stop="20260624011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260623233500 +0000" stop="20260624000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% LASK (Runden 29-32)</title>
 </programme>
-<programme start="20260624011500 +0000" stop="20260624021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260624000000 +0000" stop="20260624010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis (WM Spezial)</title>
 </programme>
-<programme start="20260624021500 +0000" stop="20260624024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260624010000 +0000" stop="20260624013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
+</programme>
+<programme start="20260624013000 +0000" stop="20260624015500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 1-4)</title>
+</programme>
+<programme start="20260624015500 +0000" stop="20260624022000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 5-8)</title>
+</programme>
+<programme start="20260624022000 +0000" stop="20260624024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 100% RB Salzburg (Runden 9-12)</title>
 </programme>
 <programme start="20260624024500 +0000" stop="20260624031000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% RB Salzburg (Runden 13-16)</title>
@@ -2645,7 +2647,7 @@
     <title>WNBA: New York Liberty @ Las Vegas Aces</title>
 </programme>
 <programme start="20260624093000 +0000" stop="20260624120000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
+    <title></title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight</title>
@@ -2917,16 +2919,16 @@
 <programme start="20260624090000 +0000" stop="20260624180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
-<programme start="20260624180000 +0000" stop="20260624183000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260624180000 +0000" stop="20260624182500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260624183000 +0000" stop="20260624203000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260624182500 +0000" stop="20260624194000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Zakharoval, Bad Homburg Open in Bad Homburg, 4. Tag</title>
 </programme>
-<programme start="20260624203000 +0000" stop="20260624223000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260624194000 +0000" stop="20260624212500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: J. Draper (GBR) - J. P. Jones (GBR), Mallorca Championships in Santa Ponsa (ESP), 4. Tag</title>
 </programme>
-<programme start="20260623220000 +0000" stop="20260623230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260623220500 +0000" stop="20260623230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Highlights: XPEL Grand Prix at Road America</title>
 </programme>
 <programme start="20260623230000 +0000" stop="20260624000000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3022,7 +3024,7 @@
 <programme start="20260623220000 +0000" stop="20260624000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt ab 2:00: LIVE NBA</title>
 </programme>
-<programme start="20260624000000 +0000" stop="20260624033000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260624000000 +0000" stop="20260624080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Draft - Round 1</title>
 </programme>
 <programme start="20260624084000 +0000" stop="20260624090000 +0000" channel="Sky Sport 1 HD.skyde">

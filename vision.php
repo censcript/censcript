@@ -244,10 +244,10 @@
 <programme start="20260624011500 +0000" stop="20260624020000 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260624020000 +0000" stop="20260624023500 +0000" channel="iNews.vision">
+<programme start="20260624020000 +0000" stop="20260624025500 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
 </programme>
-<programme start="20260624023500 +0000" stop="20260624030000 +0000" channel="iNews.vision">
+<programme start="20260624025500 +0000" stop="20260624030000 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260624030000 +0000" stop="20260624040000 +0000" channel="iNews.vision">
@@ -268,7 +268,13 @@
 <programme start="20260624080500 +0000" stop="20260624093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20260624093000 +0000" stop="20260624120000 +0000" channel="iNews.vision">
+<programme start="20260624093000 +0000" stop="20260624100000 +0000" channel="iNews.vision">
+<title>Inews Sore (Live)</title>
+</programme>
+<programme start="20260624100000 +0000" stop="20260624100500 +0000" channel="iNews.vision">
+<title>Breaking Goals (L)</title>
+</programme>
+<programme start="20260624100500 +0000" stop="20260624120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624120500 +0000" channel="iNews.vision">
@@ -320,7 +326,7 @@
 <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260624231500 +0000" stop="20260624234500 +0000" channel="iNews.vision">
-<title>iBreak: The One Entrepreneur</title>
+<title>Special Report</title>
 </programme>
 <programme start="20260624234500 +0000" stop="20260625001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -331,10 +337,10 @@
 <programme start="20260625011500 +0000" stop="20260625020000 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260625020000 +0000" stop="20260625023500 +0000" channel="iNews.vision">
+<programme start="20260625020000 +0000" stop="20260625025500 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
 </programme>
-<programme start="20260625023500 +0000" stop="20260625030000 +0000" channel="iNews.vision">
+<programme start="20260625025500 +0000" stop="20260625030000 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260625030000 +0000" stop="20260625040000 +0000" channel="iNews.vision">
@@ -693,6 +699,18 @@
 </programme>
 <programme start="20260624090000 +0000" stop="20260624113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260624113000 +0000" stop="20260624133000 +0000" channel="ANTV.vision">
+<title>Golok Setan</title>
+</programme>
+<programme start="20260624133000 +0000" stop="20260624153000 +0000" channel="ANTV.vision">
+<title>Dongkrak Antik</title>
+</programme>
+<programme start="20260624153000 +0000" stop="20260624173000 +0000" channel="ANTV.vision">
+<title>Ikut Aku Ke Neraka</title>
+</programme>
+<programme start="20260624173000 +0000" stop="20260624190000 +0000" channel="ANTV.vision">
+<title>Haunted Universities</title>
 </programme>
 <programme start="20260624190000 +0000" stop="20260624210000 +0000" channel="ANTV.vision">
 <title>OK Jaanu</title>
@@ -1479,22 +1497,4 @@
 </programme>
 <programme start="20260625023000 +0000" stop="20260625030000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
-</programme>
-<programme start="20260625030000 +0000" stop="20260625033000 +0000" channel="BTV.vision">
-<title>Vacation List</title>
-</programme>
-<programme start="20260625033000 +0000" stop="20260625040000 +0000" channel="BTV.vision">
-<title>Indonesia Update Ototekno</title>
-</programme>
-<programme start="20260625040000 +0000" stop="20260625050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20260625050000 +0000" stop="20260625050500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260625050500 +0000" stop="20260625053000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20260625053000 +0000" stop="20260625063000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
 </programme>
