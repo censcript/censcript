@@ -3075,8 +3075,8 @@
     <title lang="en">Inspirasi Duniamu</title>
     <desc lang="en">Inspirasi TVS merupakan segmen berita istimewa yang disampaikan oleh selebriti tempatan dengan mengetengahkan laporan berkaitan rakyat, hiburan serta topik trending.</desc>
     <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">0.122.</episode-num>
-    <episode-num system="onscreen">S1E123</episode-num>
+    <episode-num system="xmltv_ns">0.123.</episode-num>
+    <episode-num system="onscreen">S1E124</episode-num>
   </programme>
   <programme start="20260624144500 +0000" stop="20260624150000 +0000" channel="tvs.unifitv">
     <title lang="en">Orang Kita</title>

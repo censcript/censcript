@@ -7201,11 +7201,8 @@
     <programme start="20260623190000 +0000" stop="20260623193000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260623193000 +0000" stop="20260623200000 +0000" channel="COLORS.starhub">
+    <programme start="20260623193000 +0000" stop="20260623203000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
-    </programme>
-    <programme start="20260623200000 +0000" stop="20260623203000 +0000" channel="COLORS.starhub">
-        <title>Seher Hone Ko Hai</title>
     </programme>
     <programme start="20260623203000 +0000" stop="20260623210000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
@@ -7246,25 +7243,19 @@
     <programme start="20260624023000 +0000" stop="20260624030000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
     </programme>
-    <programme start="20260624030000 +0000" stop="20260624033000 +0000" channel="COLORS.starhub">
-        <title>Tuu Juliet Jatt Di</title>
-    </programme>
-    <programme start="20260624033000 +0000" stop="20260624040000 +0000" channel="COLORS.starhub">
+    <programme start="20260624030000 +0000" stop="20260624040000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260624040000 +0000" stop="20260624043000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20260624043000 +0000" stop="20260624050000 +0000" channel="COLORS.starhub">
-        <title>Bareilly Ki Bacchan</title>
-    </programme>
-    <programme start="20260624050000 +0000" stop="20260624053000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
     </programme>
-    <programme start="20260624053000 +0000" stop="20260624060000 +0000" channel="COLORS.starhub">
+    <programme start="20260624050000 +0000" stop="20260624053000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260624060000 +0000" stop="20260624063000 +0000" channel="COLORS.starhub">
+    <programme start="20260624053000 +0000" stop="20260624063000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260624063000 +0000" stop="20260624070000 +0000" channel="COLORS.starhub">
@@ -7285,22 +7276,16 @@
     <programme start="20260624090000 +0000" stop="20260624093000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20260624093000 +0000" stop="20260624100000 +0000" channel="COLORS.starhub">
+    <programme start="20260624093000 +0000" stop="20260624103000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
     </programme>
-    <programme start="20260624100000 +0000" stop="20260624103000 +0000" channel="COLORS.starhub">
-        <title>Mannat Harr Khushi Paane Ki</title>
-    </programme>
     <programme start="20260624103000 +0000" stop="20260624110000 +0000" channel="COLORS.starhub">
-        <title>Bareilly Ki Bacchan</title>
-    </programme>
-    <programme start="20260624110000 +0000" stop="20260624113000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
     </programme>
-    <programme start="20260624113000 +0000" stop="20260624120000 +0000" channel="COLORS.starhub">
+    <programme start="20260624110000 +0000" stop="20260624113000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260624120000 +0000" stop="20260624123000 +0000" channel="COLORS.starhub">
+    <programme start="20260624113000 +0000" stop="20260624123000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260624123000 +0000" stop="20260624130000 +0000" channel="COLORS.starhub">
@@ -7318,11 +7303,8 @@
     <programme start="20260624143000 +0000" stop="20260624150000 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
     </programme>
-    <programme start="20260624150000 +0000" stop="20260624153000 +0000" channel="COLORS.starhub">
+    <programme start="20260624150000 +0000" stop="20260624160000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
-    </programme>
-    <programme start="20260624153000 +0000" stop="20260624160000 +0000" channel="COLORS.starhub">
-        <title>Tuu Juliet Jatt Di</title>
     </programme>
     <programme start="20260623160000 +0000" stop="20260623163000 +0000" channel="BBC World News HD.starhub">
         <title>Verified Live</title>
@@ -7880,7 +7862,7 @@
         <title>Top End, NT</title>
     </programme>
     <programme start="20260624060000 +0000" stop="20260624070000 +0000" channel="ABC Australia HD.starhub">
-        <title>Doctor at the Door: The Kulkarnis</title>
+        <title>Doctor at the Door: The Kulkarnis S22</title>
     </programme>
     <programme start="20260624070000 +0000" stop="20260624080000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News with Joe O&#039;Brien (2026)</title>

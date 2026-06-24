@@ -412,16 +412,16 @@
 <programme start="20260624073000 +0000" stop="20260624090000 +0000" channel="ANTV.mncvision">
     <title>Sayali</title>
 </programme>
-<programme start="20260624090000 +0000" stop="20260624113000 +0000" channel="ANTV.mncvision">
+<programme start="20260624090000 +0000" stop="20260624110000 +0000" channel="ANTV.mncvision">
     <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260624113000 +0000" stop="20260624133000 +0000" channel="ANTV.mncvision">
+<programme start="20260624110000 +0000" stop="20260624130000 +0000" channel="ANTV.mncvision">
     <title>Golok Setan</title>
 </programme>
-<programme start="20260624133000 +0000" stop="20260624153000 +0000" channel="ANTV.mncvision">
-    <title>Dongkrak Antik</title>
+<programme start="20260624130000 +0000" stop="20260624150000 +0000" channel="ANTV.mncvision">
+    <title>Warkop  Dongkrak Antik</title>
 </programme>
-<programme start="20260624153000 +0000" stop="20260624160000 +0000" channel="ANTV.mncvision">
+<programme start="20260624150000 +0000" stop="20260624153000 +0000" channel="ANTV.mncvision">
     <title>Ikut Aku Ke Neraka</title>
 </programme>
 <programme start="20260623170000 +0000" stop="20260623180000 +0000" channel="Arirang.mncvision">
@@ -8576,7 +8576,7 @@
     <title>2026 MLB: MIN Vs LAD</title>
 </programme>
 <programme start="20260624070000 +0000" stop="20260624073000 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 Road To Le Mans</title>
+    <title>2026 Road To Le Mans HL</title>
 </programme>
 <programme start="20260624073000 +0000" stop="20260624103000 +0000" channel="SPOTV 2.mncvision">
     <title>Longines Global Champions Tour</title>
@@ -8606,7 +8606,7 @@
     <title>2026 MLB: MIN Vs LAD</title>
 </programme>
 <programme start="20260624070000 +0000" stop="20260624073000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 Road To Le Mans</title>
+    <title>2026 Road To Le Mans HL</title>
 </programme>
 <programme start="20260624073000 +0000" stop="20260624103000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Longines Global Champions Tour</title>
@@ -9414,90 +9414,6 @@
 </programme>
 <programme start="20260624162000 +0000" stop="20260624165000 +0000" channel="tvN Movies HD.mncvision">
     <title>The Long Way Home</title>
-</programme>
-<programme start="20260623170000 +0000" stop="20260623180000 +0000" channel="tvOne.mncvision">
-    <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20260623180000 +0000" stop="20260623190000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Petang</title>
-</programme>
-<programme start="20260623190000 +0000" stop="20260623193000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Petang</title>
-</programme>
-<programme start="20260623193000 +0000" stop="20260623200000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Utama 2</title>
-</programme>
-<programme start="20260623200000 +0000" stop="20260623203000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20260623203000 +0000" stop="20260623210000 +0000" channel="tvOne.mncvision">
-    <title>Berita Utama Kriminal</title>
-</programme>
-<programme start="20260623210000 +0000" stop="20260623213000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Pagi 2</title>
-</programme>
-<programme start="20260623213000 +0000" stop="20260623230000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Pagi</title>
-</programme>
-<programme start="20260623230000 +0000" stop="20260623233000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Pagi 2 (L)</title>
-</programme>
-<programme start="20260623233000 +0000" stop="20260624013000 +0000" channel="tvOne.mncvision">
-    <title>Apa Kabar Indonesia Pagi (L)</title>
-</programme>
-<programme start="20260624013000 +0000" stop="20260624020000 +0000" channel="tvOne.mncvision">
-    <title>Hidup Sehat</title>
-</programme>
-<programme start="20260624020000 +0000" stop="20260624023000 +0000" channel="tvOne.mncvision">
-    <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20260624023000 +0000" stop="20260624033000 +0000" channel="tvOne.mncvision">
-    <title>Pagi-Pagi Seru</title>
-</programme>
-<programme start="20260624033000 +0000" stop="20260624040000 +0000" channel="tvOne.mncvision">
-    <title>Metropolitan (L)</title>
-</programme>
-<programme start="20260624040000 +0000" stop="20260624053000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20260624053000 +0000" stop="20260624063000 +0000" channel="tvOne.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20260624063000 +0000" stop="20260624073000 +0000" channel="tvOne.mncvision">
-    <title>Apa Kabar Indonesia Siang</title>
-</programme>
-<programme start="20260624073000 +0000" stop="20260624080000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Merah Putih</title>
-</programme>
-<programme start="20260624080000 +0000" stop="20260624083000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Bola Dunia</title>
-</programme>
-<programme start="20260624083000 +0000" stop="20260624090000 +0000" channel="tvOne.mncvision">
-    <title>Berita Utama Kriminal</title>
-</programme>
-<programme start="20260624090000 +0000" stop="20260624110000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Petang (L)</title>
-</programme>
-<programme start="20260624110000 +0000" stop="20260624124500 +0000" channel="tvOne.mncvision">
-    <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260624124500 +0000" stop="20260624130000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Terkini</title>
-</programme>
-<programme start="20260624130000 +0000" stop="20260624140000 +0000" channel="tvOne.mncvision">
-    <title>Indonesia Business Forum</title>
-</programme>
-<programme start="20260624140000 +0000" stop="20260624150000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Utama 2 (L)</title>
-</programme>
-<programme start="20260624150000 +0000" stop="20260624153000 +0000" channel="tvOne.mncvision">
-    <title>Pesta Sepakbola</title>
-</programme>
-<programme start="20260624153000 +0000" stop="20260624163000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20260624163000 +0000" stop="20260623170000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Malam</title>
 </programme>
 <programme start="20260623170000 +0000" stop="20260623190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
