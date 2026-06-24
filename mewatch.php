@@ -802,10 +802,10 @@
     <programme start="20260624050000 +0000" stop="20260624070000 +0000" channel="Live 5.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Pool Stage</title>
     </programme>
-    <programme start="20260624070000 +0000" stop="20260624100000 +0000" channel="Live 5.mewatch">
+    <programme start="20260624070000 +0000" stop="20260624084600 +0000" channel="Live 5.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Pool Stage</title>
     </programme>
-    <programme start="20260624100000 +0000" stop="20260624160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260624084600 +0000" stop="20260624160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 25th Jun, Thursday 11.00am. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
     <programme start="20260624160000 +0000" stop="20260625030000 +0000" channel="Live 5.mewatch">

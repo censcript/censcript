@@ -3130,10 +3130,10 @@
   <programme start="20260625222000 +0000" stop="20260625224700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz tentokrát s Betano</title>
   </programme>
-  <programme start="20260625224700 +0000" stop="20260625231000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260625224700 +0000" stop="20260625231100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bydlení je hra</title>
   </programme>
-  <programme start="20260625231000 +0000" stop="20260625233500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260625231100 +0000" stop="20260625233500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zahrada je hra</title>
   </programme>
   <programme start="20260625233500 +0000" stop="20260626000000 +0000" channel="ČT1.webtv.sk">
@@ -3142,10 +3142,10 @@
   <programme start="20260626000000 +0000" stop="20260626001500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vinařský Babylon</title>
   </programme>
-  <programme start="20260626001500 +0000" stop="20260626024600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260626001500 +0000" stop="20260626024700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20260626024600 +0000" stop="20260626031500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260626024700 +0000" stop="20260626031500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
   <programme start="20260626031500 +0000" stop="20260626033000 +0000" channel="ČT1.webtv.sk">
@@ -3220,13 +3220,13 @@
   <programme start="20260626180600 +0000" stop="20260626181000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Losování Sportky a Šance</title>
   </programme>
-  <programme start="20260626181000 +0000" stop="20260626190500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260626181000 +0000" stop="20260626190600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vyprávěj III (7)</title>
   </programme>
-  <programme start="20260626190500 +0000" stop="20260626200100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260626190600 +0000" stop="20260626200200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechnopárty</title>
   </programme>
-  <programme start="20260626200100 +0000" stop="20260626200300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260626200200 +0000" stop="20260626200300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
   <programme start="20260626200300 +0000" stop="20260626205200 +0000" channel="ČT1.webtv.sk">
@@ -3238,10 +3238,10 @@
   <programme start="20260626214500 +0000" stop="20260626224000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová IX (2)</title>
   </programme>
-  <programme start="20260625211500 +0000" stop="20260625220700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260625211500 +0000" stop="20260625220800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vikinské ženy: Zamlčená sága</title>
   </programme>
-  <programme start="20260625220700 +0000" stop="20260625223700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260625220800 +0000" stop="20260625223700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na cestě po Sardinii</title>
   </programme>
   <programme start="20260625223700 +0000" stop="20260625233000 +0000" channel="ČT2.webtv.sk">

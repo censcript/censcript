@@ -148,13 +148,13 @@
 <programme start="20260624173000 +0000" stop="20260624180000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Home and Away</title>
 </programme>
-<programme start="20260623235500 +0000" stop="20260624004500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260624000000 +0000" stop="20260624005500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Love Island</title>
 </programme>
-<programme start="20260624004500 +0000" stop="20260624010800 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260624005500 +0000" stop="20260624012100 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Jann - Go With the Flowga</title>
 </programme>
-<programme start="20260624010800 +0000" stop="20260624060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260624012100 +0000" stop="20260624060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -3319,11 +3319,8 @@
 <programme start="20260624022500 +0000" stop="20260624041000 +0000" channel="Sky_Premiere_HD.virginmediatv">
     <title>The Plague</title>
 </programme>
-<programme start="20260624041000 +0000" stop="20260624055000 +0000" channel="Sky_Premiere_HD.virginmediatv">
+<programme start="20260624041000 +0000" stop="20260624061000 +0000" channel="Sky_Premiere_HD.virginmediatv">
     <title>They Will Kill You</title>
-</programme>
-<programme start="20260624055000 +0000" stop="20260624074000 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>The Internship</title>
 </programme>
 <programme start="20260624112000 +0000" stop="20260624132000 +0000" channel="Sky_Premiere_HD.virginmediatv">
     <title>The Choral</title>
@@ -3595,11 +3592,8 @@
 <programme start="20260624022500 +0000" stop="20260624041000 +0000" channel="Sky_Premiere.virginmediatv">
     <title>The Plague</title>
 </programme>
-<programme start="20260624041000 +0000" stop="20260624055000 +0000" channel="Sky_Premiere.virginmediatv">
+<programme start="20260624041000 +0000" stop="20260624061000 +0000" channel="Sky_Premiere.virginmediatv">
     <title>They Will Kill You</title>
-</programme>
-<programme start="20260624055000 +0000" stop="20260624074000 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>The Internship</title>
 </programme>
 <programme start="20260624112000 +0000" stop="20260624132000 +0000" channel="Sky_Premiere.virginmediatv">
     <title>The Choral</title>
@@ -3965,19 +3959,19 @@
     <title>Premier League - Liverpool v Brentford</title>
 </programme>
 <programme start="20260624000000 +0000" stop="20260624010000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624010000 +0000" stop="20260624020000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624020000 +0000" stop="20260624030000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624030000 +0000" stop="20260624040000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624040000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>World Cup Matchday - Group C: Scotland v Brazil</title>
@@ -4841,19 +4835,19 @@
     <title>Premier League - Liverpool v Brentford</title>
 </programme>
 <programme start="20260624000000 +0000" stop="20260624010000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624010000 +0000" stop="20260624020000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624020000 +0000" stop="20260624030000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624030000 +0000" stop="20260624040000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624040000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>World Cup Matchday - Group C: Scotland v Brazil</title>

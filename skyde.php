@@ -1,5 +1,3 @@
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260623220000 +0000" stop="20260623224500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -2647,22 +2645,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WNBA: New York Liberty @ Las Vegas Aces</title>
 </programme>
 <programme start="20260624093000 +0000" stop="20260624120000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title></title>
+    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight</title>
 </programme>
-<programme start="20260624130000 +0000" stop="20260624140000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
+<programme start="20260624130000 +0000" stop="20260624134500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Welcome to the NHL</title>
 </programme>
-<programme start="20260624140000 +0000" stop="20260624144500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>World Surf League: Replay: Surf City El Salvador Pro Finals Day</title>
+<programme start="20260624134500 +0000" stop="20260624144500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
 </programme>
 <programme start="20260624144500 +0000" stop="20260624153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Highlights 2026 Raglan Pro</title>
 </programme>
-<programme start="20260624153000 +0000" stop="20260624193000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260624153000 +0000" stop="20260624190000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Draft - Round 1</title>
+</programme>
+<programme start="20260624190000 +0000" stop="20260624193000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 26. Spieltag komplett - letzter Spieltag</title>
 </programme>
 <programme start="20260624193000 +0000" stop="20260624203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight</title>
@@ -2931,7 +2932,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260624203000 +0000" stop="20260624223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Topspiel, Mallorca Championships in Santa Ponsa (ESP), 4. Tag</title>
 </programme>
-<programme start="20260623220000 +0000" stop="20260623230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260623220500 +0000" stop="20260623230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Highlights: XPEL Grand Prix at Road America</title>
 </programme>
 <programme start="20260623230000 +0000" stop="20260624000000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3024,8 +3025,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260624195500 +0000" stop="20260624222500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
-<programme start="20260623220000 +0000" stop="20260624000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt ab 2:00: LIVE NBA</title>
+<programme start="20260623234000 +0000" stop="20260624000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260624000000 +0000" stop="20260624080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Draft - Round 1</title>
@@ -3033,7 +3034,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260624084000 +0000" stop="20260624090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260624090000 +0000" stop="20260624200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260624090000 +0000" stop="20260624173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 4. Tag</title>
 </programme>
 <programme start="20260623222000 +0000" stop="20260623225000 +0000" channel="Sky Sport 2 HD.skyde">
