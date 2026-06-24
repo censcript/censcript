@@ -3037,11 +3037,8 @@
 <programme start="20260624040000 +0000" stop="20260624040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20260624040200 +0000" stop="20260624041500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus</title>
-</programme>
-<programme start="20260624041500 +0000" stop="20260624050000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
+<programme start="20260624040200 +0000" stop="20260624050000 +0000" channel="DW English.mncvision">
+    <title>Global Media Forum: Panel</title>
 </programme>
 <programme start="20260624050000 +0000" stop="20260624050200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3076,8 +3073,11 @@
 <programme start="20260624074500 +0000" stop="20260624080000 +0000" channel="DW English.mncvision">
     <title>Shift</title>
 </programme>
-<programme start="20260624080000 +0000" stop="20260624083000 +0000" channel="DW English.mncvision">
+<programme start="20260624080000 +0000" stop="20260624080200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
+</programme>
+<programme start="20260624080200 +0000" stop="20260624083200 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260623173000 +0000" stop="20260623180000 +0000" channel="Entertainment.mncvision">
     <title>Kopaja (Kosan Pak Jarwo)</title>
@@ -7820,7 +7820,7 @@
     <title>Cinta Mati Si Miss Sapi</title>
 </programme>
 <programme start="20260623200000 +0000" stop="20260623210600 +0000" channel="SCTV.mncvision">
-    <title>Sinema Dini Hari</title>
+    <title>Princess From Kandang Kuda</title>
 </programme>
 <programme start="20260623210600 +0000" stop="20260623213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
@@ -7847,13 +7847,13 @@
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260624053000 +0000" stop="20260624070000 +0000" channel="SCTV.mncvision">
-    <title>Emangnya Boleh Vibes Cinta...</title>
+    <title>Definisi Berjodoh Karena Oppa</title>
 </programme>
 <programme start="20260624070000 +0000" stop="20260624083000 +0000" channel="SCTV.mncvision">
     <title>Bisa-Bisanya Gue Naksir Mas...</title>
 </programme>
 <programme start="20260624083000 +0000" stop="20260624100000 +0000" channel="SCTV.mncvision">
-    <title>When Gue Married Mendadak</title>
+    <title>Rujak Woman Kayak Gini Patut...</title>
 </programme>
 <programme start="20260624100000 +0000" stop="20260624111500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
@@ -7877,7 +7877,7 @@
     <title>Cinta Mati Si Miss Sapi</title>
 </programme>
 <programme start="20260623200000 +0000" stop="20260623210600 +0000" channel="SCTV HD.mncvision">
-    <title>Sinema Dini Hari</title>
+    <title>Princess From Kandang Kuda</title>
 </programme>
 <programme start="20260623210600 +0000" stop="20260623213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
@@ -7904,13 +7904,13 @@
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260624053000 +0000" stop="20260624070000 +0000" channel="SCTV HD.mncvision">
-    <title>Emangnya Boleh Vibes Cinta...</title>
+    <title>Definisi Berjodoh Karena Oppa</title>
 </programme>
 <programme start="20260624070000 +0000" stop="20260624083000 +0000" channel="SCTV HD.mncvision">
     <title>Bisa-Bisanya Gue Naksir Mas...</title>
 </programme>
 <programme start="20260624083000 +0000" stop="20260624100000 +0000" channel="SCTV HD.mncvision">
-    <title>When Gue Married Mendadak</title>
+    <title>Rujak Woman Kayak Gini Patut...</title>
 </programme>
 <programme start="20260624100000 +0000" stop="20260624111500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>

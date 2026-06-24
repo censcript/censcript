@@ -15599,24 +15599,34 @@
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623170000 +0000" stop="20260623183000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260623170000 +0000" stop="20260623173000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">SFT Surf Foil World Tour - GKA Magazine 1</title>
+    <desc lang="en">Premier global championship series designed to crown the world's best elite athletes across multiple, high-speed foiling disciplines.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260623173000 +0000" stop="20260623180000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Asuncion P2</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260623180000 +0000" stop="20260623193000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Valladolid P2 Day 1 Match 1 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623183000 +0000" stop="20260623200000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260623193000 +0000" stop="20260623210000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Valladolid P2 Day 1 Match 2 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623200000 +0000" stop="20260623212500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - New Giza P2 Day 5 SF 2 - Women</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260623212500 +0000" stop="20260623213500 +0000" channel="beinsports2.unifitv">
+  <programme start="20260623210000 +0000" stop="20260623211000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel Match Highlights - Buenos Aires P1 Women</title>
     <desc lang="en">Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260623211000 +0000" stop="20260623213500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - Hong Kong vs Denmark - Melrose Claymores</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260623213500 +0000" stop="20260623220000 +0000" channel="beinsports2.unifitv">
@@ -15639,13 +15649,13 @@
     <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260623231500 +0000" stop="20260624010500 +0000" channel="beinsports2.unifitv">
+  <programme start="20260623231500 +0000" stop="20260624010000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Super Lig - Fenerbahce vs Basaksehir</title>
     <desc lang="en">beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260624010500 +0000" stop="20260624030000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">World Rugby U20 Championship - France vs Argentina</title>
+  <programme start="20260624010000 +0000" stop="20260624030000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">World Rugby U20 Championship - Italy vs Wales</title>
     <desc lang="en">The 15th premier age-grade rugby union competition, where 12 best U20 teams battle it out in the cities of Viadana, Calvisano,Verona and Rovigo.</desc>
     <category lang="en">Sports</category>
   </programme>

@@ -13,31 +13,31 @@
     <programme start="20260624011000 +0000" stop="20260624014000 +0000" channel="VTV1 HD.mytv">
         <title> Alo! Đây là </title>
     </programme>
-    <programme start="20260624014000 +0000" stop="20260624020000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624014000 +0000" stop="20260624020100 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao: Kết nối thể thao </title>
     </programme>
-    <programme start="20260624020000 +0000" stop="20260624023000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624020100 +0000" stop="20260624022800 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Vùng đất Cẩm Nam </title>
     </programme>
-    <programme start="20260624023000 +0000" stop="20260624024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624022800 +0000" stop="20260624024600 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Cứu người trong gang tấc </title>
     </programme>
-    <programme start="20260624024500 +0000" stop="20260624033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624024600 +0000" stop="20260624033300 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 19 </title>
     </programme>
-    <programme start="20260624033000 +0000" stop="20260624041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624033300 +0000" stop="20260624041400 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 20 </title>
     </programme>
-    <programme start="20260624041500 +0000" stop="20260624050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624041400 +0000" stop="20260624050400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Giấc mộng đêm hè Đà Nẵng </title>
     </programme>
-    <programme start="20260624050500 +0000" stop="20260624051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624050400 +0000" stop="20260624050900 +0000" channel="VTV1 HD.mytv">
         <title> Lao động và công đoàn: Gắn kết bền vững người lao động </title>
     </programme>
-    <programme start="20260624051000 +0000" stop="20260624053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624050900 +0000" stop="20260624052900 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260624053000 +0000" stop="20260624070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260624052900 +0000" stop="20260624070000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20260624070000 +0000" stop="20260624072500 +0000" channel="VTV1 HD.mytv">

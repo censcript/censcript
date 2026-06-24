@@ -3205,11 +3205,8 @@
     <programme start="20260624040000 +0000" stop="20260624040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260624040200 +0000" stop="20260624041500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20260624041500 +0000" stop="20260624050000 +0000" channel="DW English HD.starhub">
-        <title>Abolish Prisons? - What Works Better than Incarceration</title>
+    <programme start="20260624040200 +0000" stop="20260624050000 +0000" channel="DW English HD.starhub">
+        <title>Panel: Between innovation and dependence: Journalism’s love-hate relationship with Big Tech</title>
     </programme>
     <programme start="20260624050000 +0000" stop="20260624050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3248,7 +3245,7 @@
         <title>News</title>
     </programme>
     <programme start="20260624080200 +0000" stop="20260624083000 +0000" channel="DW English HD.starhub">
-        <title>Is Africa’s school system failing its youth?</title>
+        <title>10 years of Brexit: Impact, reality and the road ahead</title>
     </programme>
     <programme start="20260624083000 +0000" stop="20260624090000 +0000" channel="DW English HD.starhub">
         <title>Call an ambulance! The race to save urban trees</title>
@@ -7379,7 +7376,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260624003000 +0000" stop="20260624010000 +0000" channel="BBC World News HD.starhub">
-        <title>World Cup: Game-changing Tech</title>
+        <title>Starmer: What Went Wrong?</title>
     </programme>
     <programme start="20260624010000 +0000" stop="20260624013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7397,7 +7394,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260624024500 +0000" stop="20260624030000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>North Korea&#039;s Mini-Boom</title>
     </programme>
     <programme start="20260624030000 +0000" stop="20260624033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7406,7 +7403,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260624034500 +0000" stop="20260624040000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>North Korea&#039;s Mini-Boom</title>
     </programme>
     <programme start="20260624040000 +0000" stop="20260624043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
