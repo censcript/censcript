@@ -2072,7 +2072,7 @@
         <title>Premier Padel 2026: Valladolid P2 Day 3 Match 2</title>
     </programme>
     <programme start="20260625100000 +0000" stop="20260625113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Day 7 Women&#039;s Singles Rd 3 Osaka v Jovic</title>
+        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 3</title>
     </programme>
     <programme start="20260625113000 +0000" stop="20260625130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best of RG 2026: Day 7 Women&#039;s Singles Rd 3 Gauff v Potapova</title>
@@ -2081,7 +2081,7 @@
         <title>Best of RG 2026: Day 7 Men&#039;s Singles Rd 3 Berrettini v Comesana</title>
     </programme>
     <programme start="20260625150000 +0000" stop="20260625163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 3</title>
+        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 4</title>
     </programme>
     <programme start="20260624160000 +0000" stop="20260624170000 +0000" channel="TVB Xing He.starhub">
         <title>Country Spirit</title>
@@ -5048,7 +5048,7 @@
         <title>Recurve Highlights</title>
     </programme>
     <programme start="20260624180000 +0000" stop="20260624203000 +0000" channel="SPOTV.starhub">
-        <title>2026 Ice Hockey World Championship, Switzerland Gold Medal SUI vs FIN</title>
+        <title>Gold Medal SUI vs FIN</title>
     </programme>
     <programme start="20260624203000 +0000" stop="20260624213000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 1</title>

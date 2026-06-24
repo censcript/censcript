@@ -694,12 +694,6 @@
 <programme start="20260624090000 +0000" stop="20260624113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260624153000 +0000" stop="20260624173000 +0000" channel="ANTV.vision">
-<title>Ikut Aku Ke Neraka</title>
-</programme>
-<programme start="20260624173000 +0000" stop="20260624190000 +0000" channel="ANTV.vision">
-<title>Haunted Universities</title>
-</programme>
 <programme start="20260624190000 +0000" stop="20260624210000 +0000" channel="ANTV.vision">
 <title>OK Jaanu</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260625050000 +0000" stop="20260625050500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260625050500 +0000" stop="20260625053000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20260625053000 +0000" stop="20260625063000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
