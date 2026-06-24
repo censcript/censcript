@@ -16456,10 +16456,10 @@
   <programme start="20260625213000 +0000" stop="20260625220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (266)</title>
   </programme>
-  <programme start="20260625220300 +0000" stop="20260625224800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260625220300 +0000" stop="20260625224600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Niebezpieczne zwiazki (108)</title>
   </programme>
-  <programme start="20260625224800 +0000" stop="20260625230000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260625224600 +0000" stop="20260625230000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260625230000 +0000" stop="20260625232800 +0000" channel="TVP Info.webtv.sk">
@@ -16468,8 +16468,11 @@
   <programme start="20260625232800 +0000" stop="20260625235500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (725)</title>
   </programme>
-  <programme start="20260625235500 +0000" stop="20260626002500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260625235500 +0000" stop="20260626001900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (786)</title>
+  </programme>
+  <programme start="20260626001900 +0000" stop="20260626002500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260626002500 +0000" stop="20260626004000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
@@ -16477,19 +16480,22 @@
   <programme start="20260626004000 +0000" stop="20260626010700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260626010700 +0000" stop="20260626011200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260626010700 +0000" stop="20260626011100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260626011200 +0000" stop="20260626015200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260626011100 +0000" stop="20260626013900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (266)</title>
   </programme>
-  <programme start="20260626015200 +0000" stop="20260626022700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260626013900 +0000" stop="20260626015300 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Reportaz TVP INFO</title>
+  </programme>
+  <programme start="20260626015300 +0000" stop="20260626022800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia IV (37)</title>
   </programme>
-  <programme start="20260626022700 +0000" stop="20260626025600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260626022800 +0000" stop="20260626025700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Stacja Arktyka (8)</title>
   </programme>
-  <programme start="20260626025600 +0000" stop="20260626034500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260626025700 +0000" stop="20260626034500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (453)</title>
   </programme>
   <programme start="20260626034500 +0000" stop="20260626034700 +0000" channel="TVP Info.webtv.sk">
@@ -19069,10 +19075,13 @@
   <programme start="20260626070300 +0000" stop="20260626075000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Unomattina</title>
   </programme>
-  <programme start="20260626075000 +0000" stop="20260626100000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260626075000 +0000" stop="20260626085500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Storie italiane</title>
   </programme>
-  <programme start="20260626100000 +0000" stop="20260626113000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260626085500 +0000" stop="20260626100500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260626100500 +0000" stop="20260626113000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Camper Osteria Italia</title>
   </programme>
   <programme start="20260626113000 +0000" stop="20260626120500 +0000" channel="Rai Uno.webtv.sk">

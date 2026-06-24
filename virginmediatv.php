@@ -5,7 +5,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260624042500 +0000" stop="20260624051000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Tonight Show</title>
+    <title>The Tonight Show - The Tonight Show - Tue, 23 Jun</title>
 </programme>
 <programme start="20260624051000 +0000" stop="20260624060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Six O&#039;Clock Show</title>
@@ -503,7 +503,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260624052500 +0000" stop="20260624061000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>The Tonight Show</title>
+    <title>The Tonight Show - The Tonight Show - Tue, 23 Jun</title>
 </programme>
 <programme start="20260624100000 +0000" stop="20260624123000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>This Morning</title>
@@ -1166,7 +1166,7 @@
     <title>Fat Chat - David Jordan</title>
 </programme>
 <programme start="20260624023500 +0000" stop="20260624031500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Jonathan Swan</title>
 </programme>
 <programme start="20260624031500 +0000" stop="20260624033500 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With the Sonogram at the End</title>
@@ -2437,8 +2437,11 @@
 <programme start="20260624053000 +0000" stop="20260624060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+<programme start="20260624120000 +0000" stop="20260624123000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260624123000 +0000" stop="20260624130000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News Now</title>
 </programme>
 <programme start="20260624130000 +0000" stop="20260624133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
@@ -3857,15 +3860,18 @@
     <title>Oblivion</title>
 </programme>
 <programme start="20260624000000 +0000" stop="20260624010000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624010000 +0000" stop="20260624020000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624020000 +0000" stop="20260624043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: WNBA Basketball - New York Liberty at Las Vegas Aces</title>
 </programme>
-<programme start="20260624043000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260624043000 +0000" stop="20260624050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260624050000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report - Group L: England v Ghana</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -3970,8 +3976,11 @@
 <programme start="20260624030000 +0000" stop="20260624040000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260624040000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+<programme start="20260624040000 +0000" stop="20260624050000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>World Cup Report</title>
+</programme>
+<programme start="20260624050000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>World Cup Report - Group L: England v Ghana</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>World Cup Matchday - Group C: Scotland v Brazil</title>
@@ -4514,13 +4523,13 @@
     <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260624153000 +0000" stop="20260624160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League World Beaters - Episode 3</title>
+    <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260624160000 +0000" stop="20260624163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League World Beaters - Episode 4</title>
+    <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260624163000 +0000" stop="20260624170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League World Beaters - Episode 5</title>
+    <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260624170000 +0000" stop="20260624180000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -4529,7 +4538,7 @@
     <title>The Ultimate Fighting Championship - UFC Fight Night: Manel Kape v Kyoji Horiguchi</title>
 </programme>
 <programme start="20260624010000 +0000" stop="20260624020000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>UFC The Ultimate Fighter</title>
+    <title>UFC The Ultimate Fighter - Episode 3</title>
 </programme>
 <programme start="20260624020000 +0000" stop="20260624023000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UFC Greatest Fights - 165: Jon Jones v Alexander Gustafsson</title>
@@ -4736,15 +4745,18 @@
     <title>LaLiga - Real Madrid v FC Barcelona</title>
 </programme>
 <programme start="20260624000000 +0000" stop="20260624010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624010000 +0000" stop="20260624020000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>World Cup Report - Group L: England v Ghana</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260624020000 +0000" stop="20260624043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: WNBA Basketball - New York Liberty at Las Vegas Aces</title>
 </programme>
-<programme start="20260624043000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260624043000 +0000" stop="20260624050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260624050000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report - Group L: England v Ghana</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4846,8 +4858,11 @@
 <programme start="20260624030000 +0000" stop="20260624040000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260624040000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Football.virginmediatv">
+<programme start="20260624040000 +0000" stop="20260624050000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>World Cup Report</title>
+</programme>
+<programme start="20260624050000 +0000" stop="20260624060000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>World Cup Report - Group L: England v Ghana</title>
 </programme>
 <programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>World Cup Matchday - Group C: Scotland v Brazil</title>
@@ -5285,13 +5300,13 @@
     <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260624153000 +0000" stop="20260624160000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League World Beaters - Episode 3</title>
+    <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260624160000 +0000" stop="20260624163000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League World Beaters - Episode 4</title>
+    <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260624163000 +0000" stop="20260624170000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League World Beaters - Episode 5</title>
+    <title>Premier League World Beaters</title>
 </programme>
 <programme start="20260624170000 +0000" stop="20260624180000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -5300,7 +5315,7 @@
     <title>The Ultimate Fighting Championship - UFC Fight Night: Manel Kape v Kyoji Horiguchi</title>
 </programme>
 <programme start="20260624010000 +0000" stop="20260624020000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>UFC The Ultimate Fighter</title>
+    <title>UFC The Ultimate Fighter - Episode 3</title>
 </programme>
 <programme start="20260624020000 +0000" stop="20260624023000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>UFC Greatest Fights - 165: Jon Jones v Alexander Gustafsson</title>
@@ -5840,7 +5855,7 @@
     <title>Fat Chat - David Jordan</title>
 </programme>
 <programme start="20260624033500 +0000" stop="20260624041500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Jonathan Swan</title>
 </programme>
 <programme start="20260624041500 +0000" stop="20260624043500 +0000" channel="Comedy_+1.virginmediatv">
     <title>Friends - The One With the Sonogram at the End</title>
@@ -7697,7 +7712,7 @@
     <title>Fat Chat - David Jordan</title>
 </programme>
 <programme start="20260624023500 +0000" stop="20260624031500 +0000" channel="Comedy.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Jonathan Swan</title>
 </programme>
 <programme start="20260624031500 +0000" stop="20260624033500 +0000" channel="Comedy.virginmediatv">
     <title>Friends - The One With the Sonogram at the End</title>
@@ -8084,16 +8099,13 @@
     <title>Lakshmi Nivas</title>
 </programme>
 <programme start="20260624050000 +0000" stop="20260624053000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Grand Trunk Rasoi</title>
+    <title>Ganga Mai Ki Betiyaan</title>
 </programme>
 <programme start="20260624053000 +0000" stop="20260624060000 +0000" channel="Zee_TV.virginmediatv">
-    <title>The Baker&#039;s Table</title>
+    <title>Jagadhatri</title>
 </programme>
-<programme start="20260624120000 +0000" stop="20260624123000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Vasudha</title>
-</programme>
-<programme start="20260624123000 +0000" stop="20260624130000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Vasudha</title>
+<programme start="20260624120000 +0000" stop="20260624130000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Pyaar Tune Kya Kiya</title>
 </programme>
 <programme start="20260624130000 +0000" stop="20260624133000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tum Se Tum Tak</title>
@@ -8111,7 +8123,7 @@
     <title>Lakshmi Nivas</title>
 </programme>
 <programme start="20260624160000 +0000" stop="20260624163000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri</title>
+    <title>Tu Hi Re Dil Mein</title>
 </programme>
 <programme start="20260624163000 +0000" stop="20260624170000 +0000" channel="Zee_TV.virginmediatv">
     <title>Jagadhatri</title>
@@ -8120,7 +8132,7 @@
     <title>Tum Se Tum Tak</title>
 </programme>
 <programme start="20260624173000 +0000" stop="20260624180000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan</title>
+    <title>Tu Hi Re Dil Mein</title>
 </programme>
 <programme start="20260623225400 +0000" stop="20260624002500 +0000" channel="TV5.virginmediatv">
     <title>Ardennes - Toute âme a ses petits secrets</title>
