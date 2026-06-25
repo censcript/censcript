@@ -1409,7 +1409,7 @@
     <title>The Curse of Oak Island - Pure Gold</title>
 </programme>
 <programme start="20260625024000 +0000" stop="20260625032500 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>The Curse of Oak Island - Season 13 Special (Drilling Down: 003)</title>
+    <title>The Curse of Oak Island - Drilling Down: 003</title>
 </programme>
 <programme start="20260625032500 +0000" stop="20260625041000 +0000" channel="Sky_History_HD.virginmediatv">
     <title>American Pickers - Carnival Cash Out</title>
@@ -1618,16 +1618,19 @@
 <programme start="20260625175500 +0000" stop="20260625190000 +0000" channel="ITV3.virginmediatv">
     <title>Heartbeat - No Surrender</title>
 </programme>
-<programme start="20260625000000 +0000" stop="20260625003000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260624221000 +0000" stop="20260625001000 +0000" channel="ITV4.virginmediatv">
+    <title>All Elite Wrestling: Collision</title>
+</programme>
+<programme start="20260625001000 +0000" stop="20260625004000 +0000" channel="ITV4.virginmediatv">
     <title>The Protectors - The Last Frontier</title>
 </programme>
-<programme start="20260625003000 +0000" stop="20260625010000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260625004000 +0000" stop="20260625011000 +0000" channel="ITV4.virginmediatv">
     <title>Two and a Half Men - Love Isn&#039;t Blind, It&#039;s Retarded</title>
 </programme>
-<programme start="20260625010000 +0000" stop="20260625013000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260625011000 +0000" stop="20260625014000 +0000" channel="ITV4.virginmediatv">
     <title>Two and a Half Men - My Tongue Is Meat</title>
 </programme>
-<programme start="20260625013000 +0000" stop="20260625020000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260625014000 +0000" stop="20260625020000 +0000" channel="ITV4.virginmediatv">
     <title>Unwind with ITV</title>
 </programme>
 <programme start="20260625020000 +0000" stop="20260625050000 +0000" channel="ITV4.virginmediatv">
@@ -3944,19 +3947,19 @@
     <title>Premier League Review</title>
 </programme>
 <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report - Group C: Scotland v Brazil</title>
 </programme>
 <programme start="20260625010000 +0000" stop="20260625020000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625020000 +0000" stop="20260625030000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625030000 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625040000 +0000" stop="20260625050000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625050000 +0000" stop="20260625070000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>Championship Retro - 2000: Blackburn v Manchester City</title>
@@ -4111,8 +4114,8 @@
 <programme start="20260625050000 +0000" stop="20260625060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Matchday - Group C: Scotland v Brazil</title>
 </programme>
-<programme start="20260625114500 +0000" stop="20260625130000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live: Travelers Championship, PGA Tour Golf - Day 1: Featured Groups</title>
+<programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>World Cup Matchday</title>
 </programme>
 <programme start="20260625130000 +0000" stop="20260625170000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: ICC Women&#039;s T20 World Cup - Bangladesh v India</title>
@@ -4160,7 +4163,7 @@
     <title>Formula 1 - Barcelona-Catalunya Grand Prix: Highlights</title>
 </programme>
 <programme start="20260625003000 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Premier League Darts - Night 15: Birmingham</title>
+    <title>Premier League Darts - Night 16: Sheffield</title>
 </programme>
 <programme start="20260625040000 +0000" stop="20260625041500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Adelaide International 2026 - WTA Final</title>
@@ -4183,7 +4186,10 @@
 <programme start="20260625054500 +0000" stop="20260625060000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>EFL Play-Off Classics - 2017: Bradford v Millwall</title>
 </programme>
-<programme start="20260625114500 +0000" stop="20260625190000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20260625111500 +0000" stop="20260625121500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Tennis: ATP Stuttgart Open 2026 - Final</title>
+</programme>
+<programme start="20260625121500 +0000" stop="20260625190000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Live: Travelers Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -4682,19 +4688,19 @@
     <title>Premier League Review</title>
 </programme>
 <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report - Group C: Scotland v Brazil</title>
 </programme>
 <programme start="20260625010000 +0000" stop="20260625020000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625020000 +0000" stop="20260625030000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625030000 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625040000 +0000" stop="20260625050000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625050000 +0000" stop="20260625070000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>Championship Retro - 2000: Blackburn v Manchester City</title>
@@ -4849,8 +4855,8 @@
 <programme start="20260625050000 +0000" stop="20260625060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Matchday - Group C: Scotland v Brazil</title>
 </programme>
-<programme start="20260625114500 +0000" stop="20260625130000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live: Travelers Championship, PGA Tour Golf - Day 1: Featured Groups</title>
+<programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>World Cup Matchday</title>
 </programme>
 <programme start="20260625130000 +0000" stop="20260625170000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: ICC Women&#039;s T20 World Cup - Bangladesh v India</title>
@@ -4898,7 +4904,7 @@
     <title>Formula 1 - Barcelona-Catalunya Grand Prix: Highlights</title>
 </programme>
 <programme start="20260625003000 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Premier League Darts - Night 15: Birmingham</title>
+    <title>Premier League Darts - Night 16: Sheffield</title>
 </programme>
 <programme start="20260625040000 +0000" stop="20260625041500 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Tennis: ATP &amp; WTA Adelaide International 2026 - WTA Final</title>
@@ -4921,7 +4927,10 @@
 <programme start="20260625054500 +0000" stop="20260625060000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>EFL Play-Off Classics - 2017: Bradford v Millwall</title>
 </programme>
-<programme start="20260625114500 +0000" stop="20260625190000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20260625111500 +0000" stop="20260625121500 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Tennis: ATP Stuttgart Open 2026 - Final</title>
+</programme>
+<programme start="20260625121500 +0000" stop="20260625190000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Live: Travelers Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
@@ -7370,7 +7379,7 @@
     <title>The Curse of Oak Island - Pure Gold</title>
 </programme>
 <programme start="20260625024000 +0000" stop="20260625032500 +0000" channel="Sky_History.virginmediatv">
-    <title>The Curse of Oak Island - Season 13 Special (Drilling Down: 003)</title>
+    <title>The Curse of Oak Island - Drilling Down: 003</title>
 </programme>
 <programme start="20260625032500 +0000" stop="20260625041000 +0000" channel="Sky_History.virginmediatv">
     <title>American Pickers - Carnival Cash Out</title>

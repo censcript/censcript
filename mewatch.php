@@ -823,10 +823,10 @@
     <programme start="20260625050000 +0000" stop="20260625070000 +0000" channel="Live 5.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Pool Stage</title>
     </programme>
-    <programme start="20260625070000 +0000" stop="20260625100000 +0000" channel="Live 5.mewatch">
+    <programme start="20260625070000 +0000" stop="20260625082500 +0000" channel="Live 5.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Pool Stage</title>
     </programme>
-    <programme start="20260625100000 +0000" stop="20260625160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260625082500 +0000" stop="20260625160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260625160000 +0000" stop="20260626160000 +0000" channel="Live 5.mewatch">

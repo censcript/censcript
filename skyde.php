@@ -2600,9 +2600,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260625213000 +0000" stop="20260625233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: 1. FC Kaiserslautern - SV Elversberg, tipico Topspiel der Woche, 20. Spieltag</title>
 </programme>
-<programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
-    <title>TEST: Live BL: FC Bayern München - SC Freiburg, 11. Spieltag</title>
-</programme>
 <programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>TEST: Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
@@ -3027,7 +3024,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: J. Draper (GBR) - J. P. Jones (GBR), Mallorca Championships in Santa Ponsa (ESP), 4. Tag</title>
 </programme>
 <programme start="20260625074500 +0000" stop="20260625090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - A. Zakharoval, Bad Homburg Open in Bad Homburg, 4. Tag</title>
+    <title>WTA 250: T. Maria (GER) - A. Zakharoval, Lexus Eastbourne Open in Eastbourne (GBR), 4. Tag</title>
 </programme>
 <programme start="20260625090000 +0000" stop="20260625180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3036,15 +3033,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: T. Paul (USA) - F. Cerundolo (ARG), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260625203000 +0000" stop="20260625223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Bad Homburg Open in Bad Homburg, 5. Tag</title>
+    <title>WTA 250: T. Maria (GER) - T. Valentova (CZE), Lexus Eastbourne Open in Eastbourne (GBR), 5. Tag</title>
 </programme>
 <programme start="20260624223000 +0000" stop="20260624233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
 </programme>
-<programme start="20260624233000 +0000" stop="20260625020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260624233000 +0000" stop="20260625020500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Phoenix Mercury @ Indiana Fever</title>
 </programme>
-<programme start="20260625020000 +0000" stop="20260625043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260625020500 +0000" stop="20260625043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Atlanta Dream @ Golden State Valkyries</title>
 </programme>
 <programme start="20260625043000 +0000" stop="20260625063000 +0000" channel="Sky Sport Top Event HD.skyde">

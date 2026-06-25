@@ -497,7 +497,7 @@
         <title>NEW DAY AT ARIRANG</title>
     </programme>
     <programme start="20260625013000 +0000" stop="20260625020000 +0000" channel="Arirang TV HD.starhub">
-        <title>NEWS GENERATION [L]</title>
+        <title>NEWS GENERATION [R]</title>
     </programme>
     <programme start="20260625020000 +0000" stop="20260625030000 +0000" channel="Arirang TV HD.starhub">
         <title>CULTURE CRUNCH [L]</title>
@@ -512,7 +512,7 @@
         <title>PREMIUM COLLECTION</title>
     </programme>
     <programme start="20260625043000 +0000" stop="20260625061000 +0000" channel="Arirang TV HD.starhub">
-        <title>REIMAGINING MULTILATERALISM(A DIALOGUE WITH UN SECRETARY-GENERAL CANDIDATES)</title>
+        <title>REIMAGINING MULTILATERALISM</title>
     </programme>
     <programme start="20260625061000 +0000" stop="20260625064000 +0000" channel="Arirang TV HD.starhub">
         <title>K-CULTURE DIVE [R]</title>
@@ -551,7 +551,7 @@
         <title>NEWSCENTER</title>
     </programme>
     <programme start="20260625113000 +0000" stop="20260625120000 +0000" channel="Arirang TV HD.starhub">
-        <title>WITHIN THE FRAME [L]</title>
+        <title>WITHIN THE FRAME [R]</title>
     </programme>
     <programme start="20260625120000 +0000" stop="20260625123000 +0000" channel="Arirang TV HD.starhub">
         <title>K-CULTURE DIVE [R]</title>
@@ -568,26 +568,14 @@
     <programme start="20260625130500 +0000" stop="20260625133000 +0000" channel="Arirang TV HD.starhub">
         <title>KOREA TRAVELOGUE 5</title>
     </programme>
-    <programme start="20260625133000 +0000" stop="20260625140000 +0000" channel="Arirang TV HD.starhub">
-        <title>BEAUTY ON AND OFF</title>
-    </programme>
-    <programme start="20260625140000 +0000" stop="20260625143000 +0000" channel="Arirang TV HD.starhub">
-        <title>PRESS PERSPECTIVE [R]</title>
-    </programme>
-    <programme start="20260625143000 +0000" stop="20260625145000 +0000" channel="Arirang TV HD.starhub">
-        <title>THE GRAND HERITAGE K-ASMR(20)</title>
-    </programme>
-    <programme start="20260625145000 +0000" stop="20260625150000 +0000" channel="Arirang TV HD.starhub">
-        <title>THE GRAND HERITAGE FOUR SEASONS</title>
+    <programme start="20260625133000 +0000" stop="20260625150000 +0000" channel="Arirang TV HD.starhub">
+        <title>REIMAGINING MULTILATERALISM</title>
     </programme>
     <programme start="20260625150000 +0000" stop="20260625153000 +0000" channel="Arirang TV HD.starhub">
         <title>NEWS GENERATION [R]</title>
     </programme>
-    <programme start="20260625153000 +0000" stop="20260625155000 +0000" channel="Arirang TV HD.starhub">
-        <title>ART AND THE CITY</title>
-    </programme>
-    <programme start="20260625155000 +0000" stop="20260625160000 +0000" channel="Arirang TV HD.starhub">
-        <title>EXPLORING KOREAN LITERATURE B</title>
+    <programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="Arirang TV HD.starhub">
+        <title>ARIRANG SPECIAL</title>
     </programme>
     <programme start="20260624160000 +0000" stop="20260624170000 +0000" channel="Fox News Channel.starhub">
         <title>Outnumbered</title>
@@ -3119,7 +3107,7 @@
         <title>He plays for the worst national football team on earth: San Marino</title>
     </programme>
     <programme start="20260624233000 +0000" stop="20260625000000 +0000" channel="DW English HD.starhub">
-        <title>Turkey: Unresolved deaths of women</title>
+        <title>Turkey: Unsolved female deaths</title>
     </programme>
     <programme start="20260625000000 +0000" stop="20260625000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3128,7 +3116,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260625003000 +0000" stop="20260625010000 +0000" channel="DW English HD.starhub">
-        <title>250 years of the US; dangerous trends</title>
+        <title>DW&#039;s Freedom of Speech Award for Jimmy Lai</title>
     </programme>
     <programme start="20260625010000 +0000" stop="20260625010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3176,7 +3164,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260625053000 +0000" stop="20260625060000 +0000" channel="DW English HD.starhub">
-        <title>Turkey: Unresolved deaths of women</title>
+        <title>Turkey: Unsolved female deaths</title>
     </programme>
     <programme start="20260625060000 +0000" stop="20260625060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3203,7 +3191,7 @@
         <title>Mobility in transition: New solutions from Bangkok to Madrid</title>
     </programme>
     <programme start="20260625083000 +0000" stop="20260625090000 +0000" channel="DW English HD.starhub">
-        <title>Turkey: Unresolved deaths of women</title>
+        <title>Turkey: Unsolved female deaths</title>
     </programme>
     <programme start="20260625090000 +0000" stop="20260625090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3233,7 +3221,7 @@
         <title>From Competition to Combat: Athletes in the Baltic States Prepare for Defense</title>
     </programme>
     <programme start="20260625113000 +0000" stop="20260625120000 +0000" channel="DW English HD.starhub">
-        <title>Turkey: Unresolved deaths of women</title>
+        <title>Turkey: Unsolved female deaths</title>
     </programme>
     <programme start="20260625120000 +0000" stop="20260625120300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3248,7 +3236,7 @@
         <title>News</title>
     </programme>
     <programme start="20260625131500 +0000" stop="20260625133000 +0000" channel="DW English HD.starhub">
-        <title>When your body turns against you</title>
+        <title>Irene Khan, UN Special Rapporteur on Freedom of Expression and Opinion</title>
     </programme>
     <programme start="20260625133000 +0000" stop="20260625140000 +0000" channel="DW English HD.starhub">
         <title>Why Germany&#039;s Futuristic Maglev Train Failed</title>
@@ -3709,35 +3697,11 @@
     <programme start="20260624220000 +0000" stop="20260624230000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
     </programme>
-    <programme start="20260624230000 +0000" stop="20260624231500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 64</title>
+    <programme start="20260624223200 +0000" stop="20260625015300 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
-    <programme start="20260624231500 +0000" stop="20260625004500 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
-    </programme>
-    <programme start="20260625004500 +0000" stop="20260625005000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
-    </programme>
-    <programme start="20260625005000 +0000" stop="20260625005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20260625005400 +0000" stop="20260625005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20260625005500 +0000" stop="20260625010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20260625010000 +0000" stop="20260625010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Natural Grandeur of the East Mini</title>
-    </programme>
-    <programme start="20260625010500 +0000" stop="20260625015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Hisatsu Orange Railway, Misumi Line(R)</title>
-    </programme>
-    <programme start="20260625015000 +0000" stop="20260625021700 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260625015300 +0000" stop="20260625022000 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
-    </programme>
-    <programme start="20260625021700 +0000" stop="20260625022000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260625022000 +0000" stop="20260625025000 +0000" channel="NHK World Premium HD.starhub">
         <title>Sleepless Night Talk with the Singer AI (R)</title>
@@ -3748,20 +3712,14 @@
     <programme start="20260625025500 +0000" stop="20260625030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260625030000 +0000" stop="20260625032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260625030000 +0000" stop="20260625033000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260625032000 +0000" stop="20260625032800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Information Worth Knowing from the News Commentator Bureau</title>
-    </programme>
-    <programme start="20260625032800 +0000" stop="20260625033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260625033000 +0000" stop="20260625034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Massan&quot; Encore Ep. 125</title>
     </programme>
     <programme start="20260625034500 +0000" stop="20260625040000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 64 (R)</title>
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 64</title>
     </programme>
     <programme start="20260625040000 +0000" stop="20260625040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
@@ -3788,7 +3746,7 @@
         <title>Health for Today (R)</title>
     </programme>
     <programme start="20260625062500 +0000" stop="20260625064000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Midnight Taxi&quot; (R)</title>
+        <title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 15 (R)</title>
     </programme>
     <programme start="20260625064000 +0000" stop="20260625065000 +0000" channel="NHK World Premium HD.starhub">
         <title>Points at Issue</title>
@@ -3808,8 +3766,14 @@
     <programme start="20260625082000 +0000" stop="20260625083500 +0000" channel="NHK World Premium HD.starhub">
         <title>Peek-a-boo</title>
     </programme>
-    <programme start="20260625083500 +0000" stop="20260625085900 +0000" channel="NHK World Premium HD.starhub">
-        <title>With Mother</title>
+    <programme start="20260625083500 +0000" stop="20260625085000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Magnificent Sight!--Mountain Lodges in Europe</title>
+    </programme>
+    <programme start="20260625085000 +0000" stop="20260625085800 +0000" channel="NHK World Premium HD.starhub">
+        <title>Train Driver&#039;s Cab View Mini</title>
+    </programme>
+    <programme start="20260625085800 +0000" stop="20260625085900 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260625085900 +0000" stop="20260625090000 +0000" channel="NHK World Premium HD.starhub">
         <title>1-Minute Anime: Songs for SDGs</title>
@@ -3848,7 +3812,7 @@
         <title>Songs of Our Generation</title>
     </programme>
     <programme start="20260625134500 +0000" stop="20260625140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Midnight Taxi&quot;</title>
+        <title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 16</title>
     </programme>
     <programme start="20260625140000 +0000" stop="20260625143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Tokoro-san&#039;s Pursuit of Truth (R)</title>

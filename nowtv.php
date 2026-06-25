@@ -1,6 +1,3 @@
-<programme start="20260625080000 +0000" stop="20260625100000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -11,9 +8,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260625160000 +0000" stop="20260625180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260625080000 +0000" stop="20260625100000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -28,9 +22,6 @@
 <programme start="20260625160000 +0000" stop="20260625180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260625080000 +0000" stop="20260625100000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -41,9 +32,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260625160000 +0000" stop="20260625180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260625080000 +0000" stop="20260625100000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -57,18 +45,6 @@
 </programme>
 <programme start="20260625160000 +0000" stop="20260625180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260625080000 +0000" stop="20260625101500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Czechia vs Mexico</title>
-</programme>
-<programme start="20260625101500 +0000" stop="20260625103000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E14</title>
-</programme>
-<programme start="20260625103000 +0000" stop="20260625104500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(C)</title>
-</programme>
-<programme start="20260625104500 +0000" stop="20260625110000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Match Day +1 Highlights E13</title>
 </programme>
 <programme start="20260625110000 +0000" stop="20260625131500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Scotland vs Brazil</title>
@@ -99,18 +75,6 @@
 </programme>
 <programme start="20260625160000 +0000" stop="20260625181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Bosnia-Herzegovina vs Qatar</title>
-</programme>
-<programme start="20260625080000 +0000" stop="20260625100000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Sunderland vs Leeds United</title>
-</programme>
-<programme start="20260625100000 +0000" stop="20260625103000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -JULIAN DICKS</title>
-</programme>
-<programme start="20260625103000 +0000" stop="20260625104500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E14</title>
-</programme>
-<programme start="20260625104500 +0000" stop="20260625110000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E15</title>
 </programme>
 <programme start="20260625110000 +0000" stop="20260625130000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Arsenal vs Brighton &amp; Hove Albion</title>
