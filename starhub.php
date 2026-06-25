@@ -7301,7 +7301,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20260624230000 +0000" stop="20260624233000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260624233000 +0000" stop="20260625000000 +0000" channel="BBC World News HD.starhub">
         <title>Newscast</title>

@@ -15563,7 +15563,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260625100000 +0000" stop="20260625113000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Best of Roland Garros 2026 - Day 7 Women's Singles Rd 3 Osaka v Jovic</title>
+    <title lang="en">Best of Roland Garros 2026 - Day 7 Women's Singles Rd 3 Anisimova v Parry</title>
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15578,7 +15578,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260625150000 +0000" stop="20260625163000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valladolid P2 Day 3 Match 3 (L)</title>
+    <title lang="en">Premier Padel - Valladolid P2 Day 3 Match 4 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>

@@ -4156,14 +4156,20 @@
 <programme start="20260625170000 +0000" stop="20260625180000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>World Cup Matchday</title>
 </programme>
-<programme start="20260625000000 +0000" stop="20260625034500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20260624233000 +0000" stop="20260625003000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Formula 1 - Barcelona-Catalunya Grand Prix: Highlights</title>
+</programme>
+<programme start="20260625003000 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Premier League Darts - Night 15: Birmingham</title>
 </programme>
-<programme start="20260625034500 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20260625040000 +0000" stop="20260625041500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Tennis: ATP &amp; WTA Adelaide International 2026 - WTA Final</title>
+</programme>
+<programme start="20260625041500 +0000" stop="20260625043000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 1997: Manchester United v Derby County</title>
 </programme>
-<programme start="20260625040000 +0000" stop="20260625050000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Adelaide International 2026 - WTA Final</title>
+<programme start="20260625043000 +0000" stop="20260625050000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Billie Jean King: My Story</title>
 </programme>
 <programme start="20260625050000 +0000" stop="20260625051500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>EFL Play-Off Classics - 2014: Derby v QPR</title>
@@ -4888,14 +4894,20 @@
 <programme start="20260625170000 +0000" stop="20260625180000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>World Cup Matchday</title>
 </programme>
-<programme start="20260625000000 +0000" stop="20260625034500 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20260624233000 +0000" stop="20260625003000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Formula 1 - Barcelona-Catalunya Grand Prix: Highlights</title>
+</programme>
+<programme start="20260625003000 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Premier League Darts - Night 15: Birmingham</title>
 </programme>
-<programme start="20260625034500 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20260625040000 +0000" stop="20260625041500 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Tennis: ATP &amp; WTA Adelaide International 2026 - WTA Final</title>
+</programme>
+<programme start="20260625041500 +0000" stop="20260625043000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 1997: Manchester United v Derby County</title>
 </programme>
-<programme start="20260625040000 +0000" stop="20260625050000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Adelaide International 2026 - WTA Final</title>
+<programme start="20260625043000 +0000" stop="20260625050000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Billie Jean King: My Story</title>
 </programme>
 <programme start="20260625050000 +0000" stop="20260625051500 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>EFL Play-Off Classics - 2014: Derby v QPR</title>
@@ -5903,7 +5915,7 @@
     <title>Mr Bean: The Animated Series - Bowled Over; Karting Bean; A Day In Bed; Bean The Pet Groomer</title>
 </programme>
 <programme start="20260625130000 +0000" stop="20260625133000 +0000" channel="Boomerang.virginmediatv">
-    <title>Baby Lemmings - Artistic Recycling; Pine Cone Tower; Marble Squabble</title>
+    <title>Baby Lemmings - Marble Squabble; Pine Cone Tower; Artistic Recycling</title>
 </programme>
 <programme start="20260625133000 +0000" stop="20260625140000 +0000" channel="Boomerang.virginmediatv">
     <title>Grizzy and the Lemmings - Piñata Party; Bear Game; Ranger Lemming</title>
@@ -5915,13 +5927,13 @@
     <title>Grizzy and the Lemmings - Bear Predictions; Of Fur and Swords; Irresistible Bear</title>
 </programme>
 <programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="Boomerang.virginmediatv">
-    <title>Baby Lemmings - Artistic Recycling; Pine Cone Tower; Marble Squabble</title>
+    <title>Baby Lemmings - Marble Squabble; Pine Cone Tower; Artistic Recycling</title>
 </programme>
 <programme start="20260625160000 +0000" stop="20260625170000 +0000" channel="Boomerang.virginmediatv">
     <title>Mr Bean: The Animated Series - Car Wars; Wedding Day; Bean Phone; Hotel Bean</title>
 </programme>
 <programme start="20260625170000 +0000" stop="20260625173000 +0000" channel="Boomerang.virginmediatv">
-    <title>Baby Lemmings - Artistic Recycling; Pine Cone Tower; Marble Squabble</title>
+    <title>Baby Lemmings - Marble Squabble; Pine Cone Tower; Artistic Recycling</title>
 </programme>
 <programme start="20260625173000 +0000" stop="20260625180000 +0000" channel="Boomerang.virginmediatv">
     <title>Grizzy and the Lemmings - Thermal Shock!; Jelly Lemmings; Musical Battle</title>

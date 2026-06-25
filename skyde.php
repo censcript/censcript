@@ -3008,13 +3008,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260625214500 +0000" stop="20260625220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Greatest Games: Norwich City - Manchester City (2019)</title>
 </programme>
-<programme start="20260624223000 +0000" stop="20260624230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260624230000 +0000" stop="20260625010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260625002000 +0000" stop="20260625013500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Zakharoval, Bad Homburg Open in Bad Homburg, 4. Tag</title>
 </programme>
-<programme start="20260625010000 +0000" stop="20260625020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260625013500 +0000" stop="20260625020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260625020000 +0000" stop="20260625030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
 <programme start="20260625030000 +0000" stop="20260625053000 +0000" channel="Sky Sport Tennis HD.skyde">

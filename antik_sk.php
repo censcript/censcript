@@ -18742,7 +18742,7 @@
   <programme start="20260627000000 +0000" stop="20260627000500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Appuntamento al cinema</title>
   </programme>
-  <programme start="20260627000500 +0000" stop="20260627030500 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20260627000500 +0000" stop="20260627040000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">RaiNews</title>
   </programme>
   <programme start="20260627040000 +0000" stop="20260627060000 +0000" channel="Rai Tre.webtv.sk">
@@ -18797,7 +18797,7 @@
     <title lang="id">TG3 LIS</title>
   </programme>
   <programme start="20260627130000 +0000" stop="20260627132500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Intelligenze</title>
+    <title lang="id">Intelligenze (1)</title>
   </programme>
   <programme start="20260627132500 +0000" stop="20260627141500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Cinema e Luce</title>

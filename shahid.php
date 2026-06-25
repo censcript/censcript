@@ -505,6 +505,12 @@
     <programme start="20260625000000 +0000" stop="20260626235959 +0000" channel="49922763891977.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260625000000 +0000" stop="20260626235959 +0000" channel="49922904934759.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260625000000 +0000" stop="20260626235959 +0000" channel="946946.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260625000000 +0000" stop="20260625000750 +0000" channel="992538.shahid">
         <title>El Le&#039;ba Season 1 Episode 9</title>
     </programme>
@@ -750,12 +756,6 @@
     </programme>
     <programme start="20260626234641 +0000" stop="20260626235959 +0000" channel="992538.shahid">
         <title>El Le&#039;ba Season 1 Episode 30</title>
-    </programme>
-    <programme start="20260625000000 +0000" stop="20260626235959 +0000" channel="49922904934759.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260625000000 +0000" stop="20260626235959 +0000" channel="946946.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260625000000 +0000" stop="20260626235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>

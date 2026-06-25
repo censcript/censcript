@@ -530,7 +530,7 @@
     <title>NewsCenter</title>
 </programme>
 <programme start="20260625113000 +0000" stop="20260625120000 +0000" channel="Arirang.mncvision">
-    <title>Within The Frame (L)</title>
+    <title>Within The Frame</title>
 </programme>
 <programme start="20260625120000 +0000" stop="20260625123000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
@@ -547,17 +547,17 @@
 <programme start="20260625130500 +0000" stop="20260625133000 +0000" channel="Arirang.mncvision">
     <title>Korea Travelogue 5</title>
 </programme>
-<programme start="20260625133000 +0000" stop="20260625140000 +0000" channel="Arirang.mncvision">
-    <title>Beauty On And Off</title>
+<programme start="20260625133000 +0000" stop="20260625150000 +0000" channel="Arirang.mncvision">
+    <title>Reimagining Multilateralism</title>
 </programme>
-<programme start="20260625140000 +0000" stop="20260625143000 +0000" channel="Arirang.mncvision">
-    <title>Press Perspective</title>
+<programme start="20260625150000 +0000" stop="20260625153000 +0000" channel="Arirang.mncvision">
+    <title>News Generation</title>
 </programme>
-<programme start="20260625143000 +0000" stop="20260625145000 +0000" channel="Arirang.mncvision">
-    <title>The Grand Heritage K-ASMR</title>
+<programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="Arirang.mncvision">
+    <title>Arirang Special</title>
 </programme>
-<programme start="20260625145000 +0000" stop="20260625152000 +0000" channel="Arirang.mncvision">
-    <title>The Grand Heritage Four Seasons</title>
+<programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="Arirang.mncvision">
+    <title>Premium Collection</title>
 </programme>
 <programme start="20260624172500 +0000" stop="20260624182000 +0000" channel="AXN.mncvision">
     <title>FBI: Most Wanted S6, Ep 21</title>
@@ -5824,13 +5824,13 @@
 <programme start="20260625103000 +0000" stop="20260625121500 +0000" channel="MDTV.mncvision">
     <title>Carita de �ngel</title>
 </programme>
-<programme start="20260625121500 +0000" stop="20260625134500 +0000" channel="MDTV.mncvision">
-    <title>Pernikahan Dini Gen Z</title>
+<programme start="20260625121500 +0000" stop="20260625133000 +0000" channel="MDTV.mncvision">
+    <title>Ipar Adalah Maut The Series</title>
 </programme>
-<programme start="20260625134500 +0000" stop="20260625144500 +0000" channel="MDTV.mncvision">
+<programme start="20260625133000 +0000" stop="20260625143000 +0000" channel="MDTV.mncvision">
     <title>Kupu Malam</title>
 </programme>
-<programme start="20260625144500 +0000" stop="20260625154000 +0000" channel="MDTV.mncvision">
+<programme start="20260625143000 +0000" stop="20260625154000 +0000" channel="MDTV.mncvision">
     <title>Top Spot</title>
 </programme>
 <programme start="20260625154000 +0000" stop="20260625164000 +0000" channel="MDTV.mncvision">
@@ -7894,34 +7894,34 @@
 <programme start="20260625010000 +0000" stop="20260625030000 +0000" channel="SCTV.mncvision">
     <title>Aku Menyebutnya Tampan...</title>
 </programme>
-<programme start="20260625030000 +0000" stop="20260625050000 +0000" channel="SCTV.mncvision">
+<programme start="20260625030000 +0000" stop="20260625044500 +0000" channel="SCTV.mncvision">
     <title>Honeymoon Ugal-Ugalan</title>
 </programme>
-<programme start="20260625050000 +0000" stop="20260625053000 +0000" channel="SCTV.mncvision">
+<programme start="20260625044500 +0000" stop="20260625052100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260625053000 +0000" stop="20260625070000 +0000" channel="SCTV.mncvision">
+<programme start="20260625052100 +0000" stop="20260625070000 +0000" channel="SCTV.mncvision">
     <title>Emangnya Boleh Vibes Cinta...</title>
 </programme>
-<programme start="20260625070000 +0000" stop="20260625083000 +0000" channel="SCTV.mncvision">
+<programme start="20260625070000 +0000" stop="20260625083900 +0000" channel="SCTV.mncvision">
     <title>Ganteng-Ganteng Galak Tapi...</title>
 </programme>
-<programme start="20260625083000 +0000" stop="20260625100000 +0000" channel="SCTV.mncvision">
+<programme start="20260625083900 +0000" stop="20260625101500 +0000" channel="SCTV.mncvision">
     <title>When Gue Married Mendadak</title>
 </programme>
-<programme start="20260625100000 +0000" stop="20260625111500 +0000" channel="SCTV.mncvision">
+<programme start="20260625101500 +0000" stop="20260625113800 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260625111500 +0000" stop="20260625131500 +0000" channel="SCTV.mncvision">
+<programme start="20260625113800 +0000" stop="20260625132600 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260625131500 +0000" stop="20260625144500 +0000" channel="SCTV.mncvision">
+<programme start="20260625132600 +0000" stop="20260625144800 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260625144500 +0000" stop="20260625160000 +0000" channel="SCTV.mncvision">
+<programme start="20260625144800 +0000" stop="20260625161500 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="SCTV.mncvision">
+<programme start="20260625161500 +0000" stop="20260625164500 +0000" channel="SCTV.mncvision">
     <title>Cantik-Cantik Supir Tembak</title>
 </programme>
 <programme start="20260624174900 +0000" stop="20260624185900 +0000" channel="SCTV HD.mncvision">
@@ -7951,34 +7951,34 @@
 <programme start="20260625010000 +0000" stop="20260625030000 +0000" channel="SCTV HD.mncvision">
     <title>Aku Menyebutnya Tampan...</title>
 </programme>
-<programme start="20260625030000 +0000" stop="20260625050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625030000 +0000" stop="20260625044500 +0000" channel="SCTV HD.mncvision">
     <title>Honeymoon Ugal-Ugalan</title>
 </programme>
-<programme start="20260625050000 +0000" stop="20260625053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625044500 +0000" stop="20260625052100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260625053000 +0000" stop="20260625070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625052100 +0000" stop="20260625070000 +0000" channel="SCTV HD.mncvision">
     <title>Emangnya Boleh Vibes Cinta...</title>
 </programme>
-<programme start="20260625070000 +0000" stop="20260625083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625070000 +0000" stop="20260625083900 +0000" channel="SCTV HD.mncvision">
     <title>Ganteng-Ganteng Galak Tapi...</title>
 </programme>
-<programme start="20260625083000 +0000" stop="20260625100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625083900 +0000" stop="20260625101500 +0000" channel="SCTV HD.mncvision">
     <title>When Gue Married Mendadak</title>
 </programme>
-<programme start="20260625100000 +0000" stop="20260625111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625101500 +0000" stop="20260625113800 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260625111500 +0000" stop="20260625131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625113800 +0000" stop="20260625132600 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260625131500 +0000" stop="20260625144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625132600 +0000" stop="20260625144800 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260625144500 +0000" stop="20260625160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625144800 +0000" stop="20260625161500 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260625161500 +0000" stop="20260625164500 +0000" channel="SCTV HD.mncvision">
     <title>Cantik-Cantik Supir Tembak</title>
 </programme>
 <programme start="20260624170000 +0000" stop="20260624180000 +0000" channel="Sindo News TV.mncvision">
