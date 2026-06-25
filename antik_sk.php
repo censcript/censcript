@@ -1252,10 +1252,10 @@
   <programme start="20260627042000 +0000" stop="20260627065500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Okolo Švajčiarska</title>
   </programme>
-  <programme start="20260627065500 +0000" stop="20260627072000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260627065500 +0000" stop="20260627072500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260627072000 +0000" stop="20260627083500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260627072500 +0000" stop="20260627083500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
   <programme start="20260627083500 +0000" stop="20260627111000 +0000" channel="JOJ Šport 2.webtv.sk">

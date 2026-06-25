@@ -1,6 +1,3 @@
-<programme start="20260625200000 +0000" stop="20260625220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260625220000 +0000" stop="20260626000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -31,9 +28,6 @@
 <programme start="20260626160000 +0000" stop="20260626180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260625200000 +0000" stop="20260625220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260625220000 +0000" stop="20260626000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -62,9 +56,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260626160000 +0000" stop="20260626180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260625200000 +0000" stop="20260625220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260625220000 +0000" stop="20260626000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -213,9 +204,6 @@
 </programme>
 <programme start="20260626161500 +0000" stop="20260626183500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Japan vs Sweden</title>
-</programme>
-<programme start="20260625200000 +0000" stop="20260625220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Aston Villa</title>
 </programme>
 <programme start="20260625220000 +0000" stop="20260626000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Sunderland vs Manchester City</title>
