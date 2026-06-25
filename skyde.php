@@ -1,7 +1,5 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260624220000 +0000" stop="20260624224500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -2600,6 +2598,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260625213000 +0000" stop="20260625233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: 1. FC Kaiserslautern - SV Elversberg, tipico Topspiel der Woche, 20. Spieltag</title>
 </programme>
+<programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+    <title>TEST: Live BL: FC Bayern München - SC Freiburg, 11. Spieltag</title>
+</programme>
 <programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>TEST: Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
@@ -2741,10 +2742,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260625210500 +0000" stop="20260625220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1997 (Tiger Woods)</title>
 </programme>
-<programme start="20260624233000 +0000" stop="20260625020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260624233000 +0000" stop="20260625020500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Phoenix Mercury @ Indiana Fever</title>
 </programme>
-<programme start="20260625020000 +0000" stop="20260625043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260625020500 +0000" stop="20260625043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Atlanta Dream @ Golden State Valkyries</title>
 </programme>
 <programme start="20260625043000 +0000" stop="20260625050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2754,7 +2755,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WNBA: Phoenix Mercury @ Indiana Fever</title>
 </programme>
 <programme start="20260625070000 +0000" stop="20260625093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title></title>
+    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
 </programme>
 <programme start="20260625093000 +0000" stop="20260625120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6 (final game)</title>
@@ -3024,7 +3025,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: J. Draper (GBR) - J. P. Jones (GBR), Mallorca Championships in Santa Ponsa (ESP), 4. Tag</title>
 </programme>
 <programme start="20260625074500 +0000" stop="20260625090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: T. Maria (GER) - A. Zakharoval, Lexus Eastbourne Open in Eastbourne (GBR), 4. Tag</title>
+    <title>WTA 500: T. Maria (GER) - A. Zakharoval, Bad Homburg Open in Bad Homburg, 4. Tag</title>
 </programme>
 <programme start="20260625090000 +0000" stop="20260625180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3033,15 +3034,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: T. Paul (USA) - F. Cerundolo (ARG), HSBC Championships in London (GBR), Finale</title>
 </programme>
 <programme start="20260625203000 +0000" stop="20260625223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: T. Maria (GER) - T. Valentova (CZE), Lexus Eastbourne Open in Eastbourne (GBR), 5. Tag</title>
+    <title>WTA 500: Topspiel, Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20260624223000 +0000" stop="20260624233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
 </programme>
-<programme start="20260624233000 +0000" stop="20260625020500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260624233000 +0000" stop="20260625020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Phoenix Mercury @ Indiana Fever</title>
 </programme>
-<programme start="20260625020500 +0000" stop="20260625043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260625020000 +0000" stop="20260625043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Atlanta Dream @ Golden State Valkyries</title>
 </programme>
 <programme start="20260625043000 +0000" stop="20260625063000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3089,7 +3090,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260625084000 +0000" stop="20260625090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260625090000 +0000" stop="20260625173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260625090000 +0000" stop="20260625200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20260625002000 +0000" stop="20260625005000 +0000" channel="Sky Sport 2 HD.skyde">

@@ -3878,10 +3878,10 @@
     <title>Sleepless in Seattle</title>
 </programme>
 <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625010000 +0000" stop="20260625013000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625013000 +0000" stop="20260625053000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v Texas Super Kings</title>
@@ -4622,10 +4622,10 @@
     <title>Coppa Italia - Semi-Final, 2nd Leg: Internazionale v Como</title>
 </programme>
 <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625010000 +0000" stop="20260625013000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>World Cup Matchday - Group C: Scotland v Brazil</title>
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260625013000 +0000" stop="20260625053000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v Texas Super Kings</title>

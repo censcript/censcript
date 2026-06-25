@@ -4108,7 +4108,10 @@
   <programme start="20260627024000 +0000" stop="20260627025000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">U stánku II (3)</title>
   </programme>
-  <programme start="20260627025000 +0000" stop="20260627031500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260627025000 +0000" stop="20260627025500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Výleťák (208)</title>
+  </programme>
+  <programme start="20260627025500 +0000" stop="20260627031500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Sousedství VI (10)</title>
   </programme>
   <programme start="20260627031500 +0000" stop="20260627040000 +0000" channel="Seznam.cz TV.webtv.sk">
@@ -16015,8 +16018,11 @@
   <programme start="20260626230000 +0000" stop="20260626232800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260626232800 +0000" stop="20260626235500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260626232800 +0000" stop="20260626234900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (726)</title>
+  </programme>
+  <programme start="20260626234900 +0000" stop="20260626235500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260626235500 +0000" stop="20260627002500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (787)</title>
@@ -16027,16 +16033,16 @@
   <programme start="20260627004000 +0000" stop="20260627010700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260627010700 +0000" stop="20260627011200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260627010700 +0000" stop="20260627011100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260627011200 +0000" stop="20260627015200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260627011100 +0000" stop="20260627015500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (267)</title>
   </programme>
-  <programme start="20260627015200 +0000" stop="20260627021300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260627015500 +0000" stop="20260627021500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Filmy Dokumentalne TVP INFO (27)</title>
   </programme>
-  <programme start="20260627021300 +0000" stop="20260627030800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260627021500 +0000" stop="20260627030800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Nie jestescie sami</title>
   </programme>
   <programme start="20260627030800 +0000" stop="20260627035800 +0000" channel="TVP Info.webtv.sk">
@@ -16297,8 +16303,11 @@
   <programme start="20260627055500 +0000" stop="20260627092000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie na sniadanie (7597)</title>
   </programme>
-  <programme start="20260627092000 +0000" stop="20260627100500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260627092000 +0000" stop="20260627095000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Podróze z historia I (12)</title>
+  </programme>
+  <programme start="20260627095000 +0000" stop="20260627100500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Wilczy apetyt (3)</title>
   </programme>
   <programme start="20260627100500 +0000" stop="20260627104000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Gruby (5/7)</title>

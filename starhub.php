@@ -3694,7 +3694,7 @@
     <programme start="20260624210000 +0000" stop="20260624220000 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
     </programme>
-    <programme start="20260624220000 +0000" stop="20260624230000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260624220000 +0000" stop="20260624223200 +0000" channel="NHK World Premium HD.starhub">
         <title>News: Good Morning, Japan</title>
     </programme>
     <programme start="20260624223200 +0000" stop="20260625015300 +0000" channel="NHK World Premium HD.starhub">
