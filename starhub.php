@@ -2054,7 +2054,7 @@
         <title>Super Lig 2025/26: Galatasaray vs Antalyaspor</title>
     </programme>
     <programme start="20260625010500 +0000" stop="20260625030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>World Rugby U20 C&#039;ships 2025: Australia vs England</title>
+        <title>World Rugby U20 Championship 2025 Australia vs England</title>
     </programme>
     <programme start="20260625030000 +0000" stop="20260625043000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best of RG 2026: Day 6 Women&#039;s Singles Rd 3 Swiatek v Linette</title>
@@ -2072,7 +2072,7 @@
         <title>Premier Padel 2026: Valladolid P2 Day 3 Match 2</title>
     </programme>
     <programme start="20260625100000 +0000" stop="20260625113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 3</title>
+        <title>Best of RG 2026: Day 7 Women&#039;s Singles Rd 3 Anisimova v Parry</title>
     </programme>
     <programme start="20260625113000 +0000" stop="20260625130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best of RG 2026: Day 7 Women&#039;s Singles Rd 3 Gauff v Potapova</title>
@@ -2081,7 +2081,7 @@
         <title>Best of RG 2026: Day 7 Men&#039;s Singles Rd 3 Berrettini v Comesana</title>
     </programme>
     <programme start="20260625150000 +0000" stop="20260625163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 4</title>
+        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 3</title>
     </programme>
     <programme start="20260624160000 +0000" stop="20260624170000 +0000" channel="TVB Xing He.starhub">
         <title>Country Spirit</title>
@@ -7307,7 +7307,7 @@
         <title>Newscast</title>
     </programme>
     <programme start="20260625000000 +0000" stop="20260625003000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625003000 +0000" stop="20260625010000 +0000" channel="BBC World News HD.starhub">
         <title>Starmer: What Went Wrong?</title>
@@ -7340,49 +7340,49 @@
         <title>Newsday</title>
     </programme>
     <programme start="20260625040000 +0000" stop="20260625043000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625043000 +0000" stop="20260625050000 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260625050000 +0000" stop="20260625053000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625053000 +0000" stop="20260625060000 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260625060000 +0000" stop="20260625063000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625063000 +0000" stop="20260625070000 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260625070000 +0000" stop="20260625073000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625073000 +0000" stop="20260625080000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625080000 +0000" stop="20260625083000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625083000 +0000" stop="20260625090000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625090000 +0000" stop="20260625093000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625093000 +0000" stop="20260625100000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625100000 +0000" stop="20260625103000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625103000 +0000" stop="20260625104500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260625104500 +0000" stop="20260625110000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News</title>
+        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
     </programme>
     <programme start="20260625110000 +0000" stop="20260625113000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News Now</title>

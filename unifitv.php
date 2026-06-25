@@ -1010,8 +1010,8 @@
     <title lang="en">Fikrah 2026</title>
     <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260624230000 +0000" stop="20260624234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -1034,8 +1034,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260625020500 +0000" stop="20260625040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Langsung Dari Parlimen</title>
-    <desc lang="en">Langsung Dari Parlimen</desc>
+    <title lang="en">LANGSUNG DARI PARLIMEN</title>
+    <desc lang="en">Ikuti Mesyuarat Kedua, Penggal Kelima, Parlimen Malaysia ke-15. Siaran Langsung Dewan Rakyat pada 22 Jun 2026 hingga 16 Julai 2026 dan Dewan Negara pada 20 Julai 2026 hingga 04 Ogos 2026.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260625040000 +0000" stop="20260625040500 +0000" channel="tv1.unifitv">
@@ -1064,9 +1064,7 @@
   </programme>
   <programme start="20260625063000 +0000" stop="20260625070000 +0000" channel="tv1.unifitv">
     <title lang="en">Food Trak</title>
-    <desc lang="en">Aiman memulakan perniagaan trak makanan dan berkenalan dengan beberapa individu yang banyak membantunya memahami selok-belok berniaga. Dalam
-usahanya menarik pelanggan, kehadiran Farah sebagai pelanggan pertama mula memberi warna baharu dalam hidupnya.
-Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa Arteh, Lim Hui Hong, Devakanni, Iqbal Othman, Kween Keela</desc>
+    <desc lang="en">Aiman merupakan seorang lelaki berumur 28 tahun dan mula menjalankan perniagaan menggunakan trak makanan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -1080,8 +1078,8 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <title lang="en">Diari Rawat 2026</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260625080000 +0000" stop="20260625080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -1099,8 +1097,8 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <title lang="en">Biz Malaysia 2026</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.39.</episode-num>
-    <episode-num system="onscreen">S1E40</episode-num>
+    <episode-num system="xmltv_ns">0.41.</episode-num>
+    <episode-num system="onscreen">S1E42</episode-num>
   </programme>
   <programme start="20260625090000 +0000" stop="20260625100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -1108,12 +1106,14 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260625100000 +0000" stop="20260625104500 +0000" channel="tv1.unifitv">
-    <title lang="en">Dengarlah Dulu......</title>
-    <desc lang="en">Dengarlah Dulu......</desc>
+    <title lang="en">Usrati Jannati 2025</title>
+    <desc lang="en">Kupasan tajuk menarik bersama pengacara dan tetamu undangan.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260625104500 +0000" stop="20260625114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Alergi Mamat Romantik</title>
+    <title lang="en">Alergi Mamat Romantik (Ulangan)</title>
     <desc lang="en">Mengisahkan kisah percintaan antara Kaisara dan Arjuna yang penuh kisah tersendiri.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
@@ -1158,7 +1158,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260625153000 +0000" stop="20260625160000 +0000" channel="tv1.unifitv">
     <title lang="en">FIFA World Cup 2026 Preview Series</title>
-    <desc lang="en">FIFA World Cup 2026 Preview Series menampilkan sorotan eksklusif menjelang kejohanan terbesar dunia. Kenali pasukan pilihan, bintang tumpuan, format baharu 48 pasukan dan ramalan aksi menarik menuju kejuaraan.</desc>
+    <desc lang="en">Fifa World Cup 2026 Preview Series menampilkan sorotan eksklusif menjelang kejohanan terbesar dunia. Kenali pasukan pilihan, bintang tumpuan, format baharu 48 pasukan dan ramalan aksi menarik menuju kejuaraan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -12802,7 +12802,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <category lang="en">News</category>
   </programme>
   <programme start="20260624163300 +0000" stop="20260624170300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Reframe : Jason Hickel</title>
+    <title lang="en">Reframe</title>
     <desc lang="en">Varsha Gandikota-Nellutla interviews political economist Jason Hickel on the war on Iran and if it is the latest expression of an extractive global order.</desc>
     <category lang="en">News</category>
   </programme>
@@ -12880,7 +12880,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <category lang="en">News</category>
   </programme>
   <programme start="20260625013300 +0000" stop="20260625020300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Making Peace : What The Elephant Knows</title>
+    <title lang="en">Making Peace - What The Elephant Knows</title>
     <desc lang="en">In rural Sri Lanka, families and conservationists face deadly human-elephant conflict, seeking a fragile path to coexistence.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
@@ -12902,7 +12902,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <category lang="en">News</category>
   </programme>
   <programme start="20260625043300 +0000" stop="20260625050300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Reframe : Jason Hickel</title>
+    <title lang="en">Reframe</title>
     <desc lang="en">Varsha Gandikota-Nellutla interviews political economist Jason Hickel on the war on Iran and if it is the latest expression of an extractive global order.</desc>
     <category lang="en">News</category>
   </programme>
@@ -14268,7 +14268,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260624163300 +0000" stop="20260624170300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From female bus drivers challenging bias to metro parcel delivery and charging roads, new ideas are reshaping transport, logistics and work.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14289,7 +14289,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260624173300 +0000" stop="20260624180300 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">Close up</desc>
+    <desc lang="en">It's World Cup season in Mexico - yet the spectacle can't hide a dark reality in the country. Over 100,000 people are still listed missing. It's believed many of them have been murdered.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14315,24 +14315,10 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260624190500 +0000" stop="20260624191800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+  <programme start="20260624190500 +0000" stop="20260624200300 +0000" channel="dw.unifitv">
+    <title lang="en">Global Media Forum</title>
+    <desc lang="en">For nearly two decades, tech corporations - through innovations in search engines, social media, and artificial intelligence - have played a decisive role in shaping how news is produced, distributed, consumed, and publicly debated. In the emerging world order, they also appear to be expanding their influence at the political Level.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260624191800 +0000" stop="20260624193300 +0000" channel="dw.unifitv">
-    <title lang="en">ENTR</title>
-    <desc lang="en">What is it like to play for the worst national football team in the world? While everyone is watching the worldcup, we follow Nicola (26), the only full-time professional footballer in San Marino's national team, as he prepares for one of the biggest matches in the country's recent football history.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260624193300 +0000" stop="20260624200300 +0000" channel="dw.unifitv">
-    <title lang="en">The 77 Percent</title>
-    <desc lang="en">This week's show explores the push to promote African languages in classrooms, the challenges of changing entrenched systems, and the real-life impact on learners. Is it time to rethink how Africa learns?</desc>
-    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14380,7 +14366,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260624223300 +0000" stop="20260624230300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From female bus drivers challenging bias to metro parcel delivery and charging roads, new ideas are reshaping transport, logistics and work.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14408,7 +14394,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260624233300 +0000" stop="20260625000300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.2325.</episode-num>
     <episode-num system="onscreen">S1E2326</episode-num>
@@ -14471,7 +14457,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260625023300 +0000" stop="20260625030300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From female bus drivers challenging bias to metro parcel delivery and charging roads, new ideas are reshaping transport, logistics and work.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14541,7 +14527,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260625053300 +0000" stop="20260625060300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14597,14 +14583,14 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260625080500 +0000" stop="20260625083300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From female bus drivers challenging bias to metro parcel delivery and charging roads, new ideas are reshaping transport, logistics and work.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260625083300 +0000" stop="20260625090300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14674,7 +14660,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260625113300 +0000" stop="20260625120300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Why women in Turkey are dying in suspicious falls. +++ How Belgium is reckoning with its colonial past.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15131,12 +15117,12 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </channel>
   <programme start="20260624140000 +0000" stop="20260624190000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Kape vs. Horiguchi - Main</title>
-    <desc lang="en">A crucial matchup between flyweight contenders headlines UFC’s return to action at the Meta APEX in Las Vegas on Saturday, June 21 as second-ranked contender Manel “Starboy” Kape faces off with fifthranked Kyoji Horiguchi. A winner of seven of his last eight appearances and each of his last three outings, Kape makes his 2026 debut off a first-round knockout win over former title challenger Brandon Royval last December in the same building. A title challenger during his first stint with the promotion, Horiuchi has earned back-to-back wins since returning to the UFC last November and looks to cement his standing as a contender with a third straight standout performance.</desc>
+    <desc lang="en">A crucial matchup between flyweight contenders headlines UFC's return to action at the Meta APEX in Las Vegas on Saturday, June 21 as second-ranked contender Manel “Starboy” Kape faces off with fifthranked Kyoji Horiguchi. A winner of seven of his last eight appearances and each of his last three outings, Kape makes his 2026 debut off a first-round knockout win over former title challenger Brandon Royval last December in the same building. A title challenger during his first stint with the promotion, Horiuchi has earned back-to-back wins since returning to the UFC last November and looks to cement his standing as a contender with a third straight standout performance.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260624190000 +0000" stop="20260624195500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Countdown - UFC 314: Volkanovski vs Lopes</title>
-    <desc lang="en">UFC 314 previews the promotion’s return to Miami, where former featherweight king Alexander Volkanovski squares off against Diego Lopes for the vacant featherweight crown. Plus, lightweights collide as Michael Chandler takes on Paddy Pimblett.</desc>
+    <desc lang="en">UFC 314 previews the promotion's return to Miami, where former featherweight king Alexander Volkanovski squares off against Diego Lopes for the vacant featherweight crown. Plus, lightweights collide as Michael Chandler takes on Paddy Pimblett.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260624195500 +0000" stop="20260624200000 +0000" channel="unifisports1.unifitv">
@@ -15160,8 +15146,8 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260625020000 +0000" stop="20260625042500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 -  Group - MYANMAR vs MALAYSIA  - (TEAM)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">TM ISTAF World Cup 2026 - Group - MYANMAR vs MALAYSIA - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260625042500 +0000" stop="20260625043000 +0000" channel="unifisports1.unifitv">
@@ -15171,7 +15157,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
   </programme>
   <programme start="20260625043000 +0000" stop="20260625055500 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - Group- KOREA vs MALAYSIA- (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260625055500 +0000" stop="20260625060000 +0000" channel="unifisports1.unifitv">
@@ -15179,9 +15165,69 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260625060000 +0000" stop="20260625153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260625060000 +0000" stop="20260625083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 311: Makhachev vs Moicano</title>
     <desc lang="en">Champion Islam Makhachev looks to break the record for the most consecutive UFC Lightweight title defenses as he faces fan favorite Renato Moicano in the main event of UFC 311, while Bantamweight Champion Merab Dvalishvili defends his belt for the first time against undefeated Umar Nurmagomedov in the co-main. Plus much more action on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625083000 +0000" stop="20260625090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 6</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625090000 +0000" stop="20260625090500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625090500 +0000" stop="20260625091000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS MIGUEL DE LAS CUEVAS - LALIGA TOP GOALS MIGUEL DE LAS CUEVAS</title>
+    <desc lang="en">Some of the best goals from Miguel de las Cuevas during his time at Sporting Gijon.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625091000 +0000" stop="20260625091500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP MOMENTS GERARD PIQUE - LALIGA TOP MOMENTS GERARD PIQUE</title>
+    <desc lang="en">A towering presence at the back and a potent attacking force upfront. Complete domination by Barcelona club captain Gerard Pique.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625091500 +0000" stop="20260625121500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) AFL Premiership Season - Round 16 - Brisbane Lions v Sydney Swans</title>
+    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625121500 +0000" stop="20260625122000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625122000 +0000" stop="20260625122500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS MIGUEL DE LAS CUEVAS - LALIGA TOP GOALS MIGUEL DE LAS CUEVAS</title>
+    <desc lang="en">Some of the best goals from Miguel de las Cuevas during his time at Sporting Gijon.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625122500 +0000" stop="20260625123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP MOMENTS GERARD PIQUE - LALIGA TOP MOMENTS GERARD PIQUE</title>
+    <desc lang="en">A towering presence at the back and a potent attacking force upfront. Complete domination by Barcelona club captain Gerard Pique.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625123000 +0000" stop="20260625130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1002 - Ultimate Knockouts "Welterweights</title>
+    <desc lang="en">UFC Ultimate Knockouts brings you a collection of the best welterweight KOs.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625130000 +0000" stop="20260625135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 315: Muhammad vs Della Maddalena</title>
+    <desc lang="en">UFC 315 Countdown takes an inside look at two title fights, as welterweight king Belal Muhammad attempts to defend his crown against Jack Della Maddalena, and flyweight queen Valentina Shevchenko puts her belt on the line against Manon Fiorot.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625135500 +0000" stop="20260625140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS MIGUEL DE LAS CUEVAS - LALIGA TOP GOALS MIGUEL DE LAS CUEVAS</title>
+    <desc lang="en">Some of the best goals from Miguel de las Cuevas during his time at Sporting Gijon.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260625140000 +0000" stop="20260625195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Kape vs. Horiguchi - Main</title>
+    <desc lang="en">A crucial matchup between flyweight contenders headlines UFC's return to action at the Meta APEX in Las Vegas on Saturday, June 21 as second-ranked contender Manel “Starboy” Kape faces off with fifthranked Kyoji Horiguchi. A winner of seven of his last eight appearances and each of his last three outings, Kape makes his 2026 debut off a first-round knockout win over former title challenger Brandon Royval last December in the same building. A title challenger during his first stint with the promotion, Horiuchi has earned back-to-back wins since returning to the UFC last November and looks to cement his standing as a contender with a third straight standout performance.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
@@ -15660,7 +15706,7 @@ Pelakon : Akhmal Nazri, Bella Astillah, Achong Sweetchild, Arish Mikhail, Dewa A
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260625160000 +0000" stop="20260625170000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">WRC - Rally Greece EKO Athens SSS (L)</title>
+    <title lang="en">WRC - Rally Greece Athens 1 SSS1 (L)</title>
     <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
     <category lang="en">Sports</category>
   </programme>

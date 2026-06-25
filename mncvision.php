@@ -1223,7 +1223,7 @@
     <title>Premier Padel: Valladolid (L)</title>
 </programme>
 <programme start="20260625100000 +0000" stop="20260625113000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Premier Padel: Valladolid (L)</title>
+    <title>Best Of RG 2026: Day 7 Women</title>
 </programme>
 <programme start="20260625113000 +0000" stop="20260625130000 +0000" channel="beIN Sports 2.mncvision">
     <title>Best Of RG 2026: Day 7 Women</title>
@@ -1271,7 +1271,7 @@
     <title>Premier Padel: Valladolid (L)</title>
 </programme>
 <programme start="20260625100000 +0000" stop="20260625113000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Premier Padel: Valladolid (L)</title>
+    <title>Best Of RG 2026: Day 7 Women</title>
 </programme>
 <programme start="20260625113000 +0000" stop="20260625130000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Best Of RG 2026: Day 7 Women</title>
@@ -8165,7 +8165,7 @@
     <title>World Classic Soccer</title>
 </programme>
 <programme start="20260625103000 +0000" stop="20260625123000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2025/26: WOB Vs RBL</title>
+    <title>Bundesliga 2025/26: SGE Vs FCU</title>
 </programme>
 <programme start="20260625123000 +0000" stop="20260625143000 +0000" channel="Soccer Channel.mncvision">
     <title>Road To AFF 2026: TLS Vs THA</title>
@@ -8219,7 +8219,7 @@
     <title>World Classic Soccer</title>
 </programme>
 <programme start="20260625103000 +0000" stop="20260625123000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bundesliga 2025/26: WOB Vs RBL</title>
+    <title>Bundesliga 2025/26: SGE Vs FCU</title>
 </programme>
 <programme start="20260625123000 +0000" stop="20260625143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Road To AFF 2026: TLS Vs THA</title>
