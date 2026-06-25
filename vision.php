@@ -691,19 +691,10 @@
 <programme start="20260625073000 +0000" stop="20260625090000 +0000" channel="ANTV.vision">
 <title>Sayali</title>
 </programme>
-<programme start="20260625090000 +0000" stop="20260625113000 +0000" channel="ANTV.vision">
+<programme start="20260625090000 +0000" stop="20260625110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260625113000 +0000" stop="20260625133000 +0000" channel="ANTV.vision">
-<title>Primitif</title>
-</programme>
-<programme start="20260625133000 +0000" stop="20260625153000 +0000" channel="ANTV.vision">
-<title>Gantian Dong</title>
-</programme>
-<programme start="20260625153000 +0000" stop="20260625173000 +0000" channel="ANTV.vision">
-<title>Arwah Sinden</title>
-</programme>
-<programme start="20260625173000 +0000" stop="20260625190000 +0000" channel="ANTV.vision">
+<programme start="20260625170000 +0000" stop="20260625190000 +0000" channel="ANTV.vision">
 <title>The Commitment</title>
 </programme>
 <programme start="20260625190000 +0000" stop="20260625210000 +0000" channel="ANTV.vision">
@@ -722,7 +713,7 @@
 <title>Bunga Kembar Di Tepi Jalan</title>
 </programme>
 <programme start="20260626023000 +0000" stop="20260626060000 +0000" channel="ANTV.vision">
-<title>Koyla</title>
+<title>Mohabbatein</title>
 </programme>
 <programme start="20260626060000 +0000" stop="20260626073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -730,10 +721,10 @@
 <programme start="20260626073000 +0000" stop="20260626090000 +0000" channel="ANTV.vision">
 <title>Sayali</title>
 </programme>
-<programme start="20260626090000 +0000" stop="20260626113000 +0000" channel="ANTV.vision">
+<programme start="20260626090000 +0000" stop="20260626110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260626113000 +0000" stop="20260626133000 +0000" channel="ANTV.vision">
+<programme start="20260626110000 +0000" stop="20260626130000 +0000" channel="ANTV.vision">
 <title>Walet Merah</title>
 </programme>
 <programme start="20260625000000 +0000" stop="20260625023000 +0000" channel="RTV.vision">
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260626040000 +0000" stop="20260626050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260626050000 +0000" stop="20260626050500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260626050500 +0000" stop="20260626053000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20260626053000 +0000" stop="20260626063000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>

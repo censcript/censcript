@@ -2905,20 +2905,14 @@
 <programme start="20260625114500 +0000" stop="20260625121000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Questions on Promised Legislation Live</title>
 </programme>
-<programme start="20260625121000 +0000" stop="20260625140000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Live - Joint Committee on Foreign Affairs and Trade</title>
-</programme>
-<programme start="20260625140000 +0000" stop="20260625143000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Live Government Business</title>
-</programme>
-<programme start="20260625143000 +0000" stop="20260625170000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Live - Joint Committee on Foreign Affairs and Trade</title>
+<programme start="20260625121000 +0000" stop="20260625170000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Live: Select Committee on Foreign Affairs and Trade</title>
 </programme>
 <programme start="20260625170000 +0000" stop="20260625172500 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Topical Issues Live</title>
 </programme>
 <programme start="20260625172500 +0000" stop="20260625193000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Private Members&#039; Business Live</title>
+    <title>Live: Dáil Private Members&#039; Bill</title>
 </programme>
 <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Discovery_HD.virginmediatv">
     <title>Wheeler Dealers - Triumph Dolomite Sprint</title>
@@ -4025,7 +4019,7 @@
     <title>School of Golf - Chapter 16: Right or Rubbish</title>
 </programme>
 <programme start="20260625033000 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>School of Golf - Chapter 18: Chip It Close</title>
+    <title>School of Golf</title>
 </programme>
 <programme start="20260625040000 +0000" stop="20260625043000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Golf Academy - Laura Davies: Full Swing</title>
@@ -4766,7 +4760,7 @@
     <title>School of Golf - Chapter 16: Right or Rubbish</title>
 </programme>
 <programme start="20260625033000 +0000" stop="20260625040000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>School of Golf - Chapter 18: Chip It Close</title>
+    <title>School of Golf</title>
 </programme>
 <programme start="20260625040000 +0000" stop="20260625043000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Golf Academy - Laura Davies: Full Swing</title>

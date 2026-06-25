@@ -1,5 +1,7 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260624220000 +0000" stop="20260624224500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -2742,10 +2744,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260625210500 +0000" stop="20260625220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1997 (Tiger Woods)</title>
 </programme>
-<programme start="20260624233000 +0000" stop="20260625020500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260624233000 +0000" stop="20260625020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Phoenix Mercury @ Indiana Fever</title>
 </programme>
-<programme start="20260625020500 +0000" stop="20260625043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260625020000 +0000" stop="20260625043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WNBA: Atlanta Dream @ Golden State Valkyries</title>
 </programme>
 <programme start="20260625043000 +0000" stop="20260625050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2755,7 +2757,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WNBA: Phoenix Mercury @ Indiana Fever</title>
 </programme>
 <programme start="20260625070000 +0000" stop="20260625093000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: New York Knicks @ San Antonio Spurs, Finals, Spiel 5 (final game)</title>
+    <title></title>
 </programme>
 <programme start="20260625093000 +0000" stop="20260625120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Carolina Hurricanes @ Vegas Golden Knights, Stanley Cup Final, Spiel 6 (final game)</title>
@@ -3039,14 +3041,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260624223000 +0000" stop="20260624233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight</title>
 </programme>
-<programme start="20260624233000 +0000" stop="20260625020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260624233000 +0000" stop="20260625020500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Phoenix Mercury @ Indiana Fever</title>
 </programme>
-<programme start="20260625020000 +0000" stop="20260625043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260625020500 +0000" stop="20260625043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WNBA: Atlanta Dream @ Golden State Valkyries</title>
 </programme>
-<programme start="20260625043000 +0000" stop="20260625063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260625043000 +0000" stop="20260625054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: T. Maria (GER) - A. Zakharoval, Bad Homburg Open in Bad Homburg, 4. Tag</title>
+</programme>
+<programme start="20260625054500 +0000" stop="20260625063000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260625063000 +0000" stop="20260625083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WNBA: Phoenix Mercury @ Indiana Fever</title>
@@ -3060,14 +3065,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260625180000 +0000" stop="20260625190000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Early Session) in Chaska, MN (USA)</title>
 </programme>
-<programme start="20260625190000 +0000" stop="20260625200000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WRC: EKO Acropolis Rally Greece - EKO Athens SSS</title>
-</programme>
-<programme start="20260625200000 +0000" stop="20260625210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Pressekonferenz Fahrer - GP Österreich</title>
-</programme>
-<programme start="20260625210000 +0000" stop="20260625220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Tonight</title>
+<programme start="20260625190000 +0000" stop="20260625220000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Featured Groups) in Chaska, MN (USA)</title>
 </programme>
 <programme start="20260624222500 +0000" stop="20260625000000 +0000" channel="Sky Sport UHD.skyde">
     <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
