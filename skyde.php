@@ -3089,7 +3089,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260625084000 +0000" stop="20260625090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260625090000 +0000" stop="20260625200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260625090000 +0000" stop="20260625173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Bad Homburg Open in Bad Homburg, 5. Tag</title>
 </programme>
 <programme start="20260625002000 +0000" stop="20260625005000 +0000" channel="Sky Sport 2 HD.skyde">

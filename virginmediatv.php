@@ -4226,7 +4226,7 @@
     <title>Live: Australian Racing</title>
 </programme>
 <programme start="20260625110000 +0000" stop="20260625124500 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
-    <title>Live: International Raceday</title>
+    <title>Preview</title>
 </programme>
 <programme start="20260625124500 +0000" stop="20260625200000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Raceday</title>
@@ -6250,7 +6250,10 @@
 <programme start="20260624175800 +0000" stop="20260625015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260625015800 +0000" stop="20260625060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260625015800 +0000" stop="20260625050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260625050000 +0000" stop="20260625060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260625120000 +0000" stop="20260625121500 +0000" channel="CBBC.virginmediatv">

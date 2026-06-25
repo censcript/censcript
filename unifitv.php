@@ -13953,14 +13953,14 @@
   <channel id="abcaustralia.unifitv">
     <display-name>ABC Australia</display-name>
   </channel>
-  <programme start="20260625153000 +0000" stop="20260625163000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260625153500 +0000" stop="20260625163500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
     <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.99.</episode-num>
     <episode-num system="onscreen">S2026E100</episode-num>
   </programme>
-  <programme start="20260625163000 +0000" stop="20260625173500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260625163500 +0000" stop="20260625173500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Cross Border Comedy</title>
     <desc lang="en">Melbourne based, Australian-Chinese Comedian Annie Louey travels to Hong Kong, Malaysia and Cambodia in her first international tour learning firsthand about the cultural differences and similarities between comedy scenes.</desc>
     <category lang="en">Documentary</category>
@@ -13969,7 +13969,7 @@
   </programme>
   <programme start="20260625173500 +0000" stop="20260625184000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">National Press Club Address - Ted O'Brien - Shadow Minister for Foreign Affairs</title>
-    <desc lang="en">Shadow Minister for Foreign Affairs Ted O'Brien addresses the National Press Club.</desc>
+    <desc lang="en">Shadow Minister for Foreign Affairs Ted O'Brien addresses the National Press Club on the topic "Foreign Policy Starts at Home".</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.21.</episode-num>
     <episode-num system="onscreen">S2026E22</episode-num>
@@ -13990,7 +13990,7 @@
   </programme>
   <programme start="20260625200500 +0000" stop="20260625210500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">News Breakfast</title>
-    <desc lang="en">As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
+    <desc lang="en">James Glenday and Emma Rebellato bring you the latest news, overnight developments, interviews and new details on the top stories this morning, joined by Catherine Murphy with sport and Nate Byrne with your weather outlook.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.126.</episode-num>
     <episode-num system="onscreen">S2026E127</episode-num>
@@ -14004,14 +14004,14 @@
   </programme>
   <programme start="20260625230500 +0000" stop="20260626020500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News Mornings</title>
-    <desc lang="en">Stay in the know with what's going on this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Kathryn Robinson.</desc>
+    <desc lang="en">Stay in the know with what's going on this morning. Melissa Mackay brings you the day's top stories and the latest news, plus we cross to live sites around the country ahead of the Socceroos v Paraguay at the FIFA World Cup.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.126.</episode-num>
     <episode-num system="onscreen">S2026E127</episode-num>
   </programme>
   <programme start="20260626020500 +0000" stop="20260626030500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News At Noon</title>
-    <desc lang="en">The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <desc lang="en">Ros Childs brings you the day's top stories and the latest news, plus we cross to Lorna Dunkley, Daniela Intili and reporters at live sites around the country as the Socceroos take on Paraguay at the FIFA World Cup.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.126.</episode-num>
     <episode-num system="onscreen">S2026E127</episode-num>
@@ -14046,7 +14046,7 @@
   </programme>
   <programme start="20260626053500 +0000" stop="20260626060500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">That Pacific Sports Show</title>
-    <desc lang="en">Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+    <desc lang="en">Roy and Celeste Asotasi join Tiana Penitani Gray and Sam Wykes to discuss leadership, community and empowering women through sport. Plus Papua New Guinean boxer Mili Saul shares her inspiring journey and sporting ambitions.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.19.</episode-num>
     <episode-num system="onscreen">S2026E20</episode-num>
@@ -14065,58 +14065,65 @@
     <episode-num system="xmltv_ns">2025.5.</episode-num>
     <episode-num system="onscreen">S2026E6</episode-num>
   </programme>
-  <programme start="20260626070500 +0000" stop="20260626080500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260626070500 +0000" stop="20260626080000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News with Joe O'Brien</title>
     <desc lang="en">Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.126.</episode-num>
     <episode-num system="onscreen">S2026E127</episode-num>
   </programme>
-  <programme start="20260626080500 +0000" stop="20260626092000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260626080000 +0000" stop="20260626091000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Great Australian Bake Off - Cake Week</title>
     <desc lang="en">It's Cake Week! The bakers take on their Signature Personal Story cake, then Rachel's Raspberry and Black Pepper Curd cake for the Technical, followed by their first Showstopper challenge - a Baker's Choice Two Tier Cake.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">5.0.</episode-num>
     <episode-num system="onscreen">S6E1</episode-num>
   </programme>
-  <programme start="20260626092000 +0000" stop="20260626122000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">AFL Premiership Season - Round 16</title>
+  <programme start="20260626091000 +0000" stop="20260626093000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">If You're Listening - How the Iran war exposed Australia's energy mistakes</title>
+    <desc lang="en">Since the US-Iran war gas prices have doubled. The spike should have meant a big payday for Australia. But decades ago we locked in energy deals that now look out of step with reality, such as our gas agreements with Japan.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2025.14.</episode-num>
+    <episode-num system="onscreen">S2026E15</episode-num>
+  </programme>
+  <programme start="20260626093000 +0000" stop="20260626123000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">AFL Premiership Season - Round 16 - Hawthorn v GWS Giants</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.96.</episode-num>
     <episode-num system="onscreen">S2026E97</episode-num>
   </programme>
-  <programme start="20260626122000 +0000" stop="20260626125000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260626123000 +0000" stop="20260626130000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Expanse: The Nannup Four - Simon Says</title>
     <desc lang="en">Jim and Cath McDougall are left reeling as the true depth of Simon Kadwill's deception is revealed. Dominique tracks down people from his past and gets a startling insight into how Simon may have ended up on the path he did.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.4.</episode-num>
     <episode-num system="onscreen">S2026E5</episode-num>
   </programme>
-  <programme start="20260626125000 +0000" stop="20260626132000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260626130000 +0000" stop="20260626133000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Expanse: The Nannup Four - Northcliffe</title>
     <desc lang="en">As a family friend and former policeman continues to search for answers decades after the Nannup Four vanished, family and friends of Chantelle try to find their own answers, as one last glimmer of hope emerges. (Final)</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.5.</episode-num>
     <episode-num system="onscreen">S2026E6</episode-num>
   </programme>
-  <programme start="20260626132000 +0000" stop="20260626135500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Australian Story</title>
-    <desc lang="en">In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+  <programme start="20260626133000 +0000" stop="20260626140500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Australian Story - A Beautiful Mind - Richard Scolyer</title>
+    <desc lang="en">When Richard Scolyer was diagnosed with brain cancer three years ago, he volunteered to undergo risky, new treatment, hoping for a medical breakthrough. As we filmed in his final months, he reflects on his life and legacy.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.17.</episode-num>
     <episode-num system="onscreen">S2026E18</episode-num>
   </programme>
-  <programme start="20260626135500 +0000" stop="20260626140500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260626140500 +0000" stop="20260626141500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Play On - Fiji Rugby Community Connection</title>
-    <desc lang="en">Play On - Fiji Rugby Community Connection</desc>
+    <desc lang="en">Migrant families and athletes of multicultural heritage are changing Australia's sporting culture. From social sport to elite athletes, Paul Kennedy examines how sport helps build community, identity and opportunity.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20260626140500 +0000" stop="20260626143500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260626141500 +0000" stop="20260626143500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC Late News</title>
-    <desc lang="en">More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Michael Tetlow.</desc>
+    <desc lang="en">End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart in Perth.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.126.</episode-num>
     <episode-num system="onscreen">S2026E127</episode-num>
@@ -14128,14 +14135,14 @@
     <episode-num system="xmltv_ns">2025.22.</episode-num>
     <episode-num system="onscreen">S2026E23</episode-num>
   </programme>
-  <programme start="20260626150500 +0000" stop="20260626153500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260626150500 +0000" stop="20260626153000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
     <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Manny Tsigas presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.24.</episode-num>
     <episode-num system="onscreen">S2026E25</episode-num>
   </programme>
-  <programme start="20260626153500 +0000" stop="20260626164000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260626153000 +0000" stop="20260626164000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Great Australian Bake Off - Cake Week</title>
     <desc lang="en">It's Cake Week! The bakers take on their Signature Personal Story cake, then Rachel's Raspberry and Black Pepper Curd cake for the Technical, followed by their first Showstopper challenge - a Baker's Choice Two Tier Cake.</desc>
     <category lang="en">Factual</category>
