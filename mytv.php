@@ -35,7 +35,7 @@
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 24</title>
     </programme>
     <programme start="20260626041300 +0000" stop="20260626050500 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam: Người kể chuyện văn hóa Chăm ở Hội An</title>
+        <title> S Việt Nam: Người kể chuyện văn hóa Chăm ở Hội An</title>
     </programme>
     <programme start="20260626050500 +0000" stop="20260626051100 +0000" channel="VTV1 HD.mytv">
         <title> Cựu chiến binh Việt Nam: Mệnh lệnh từ trái tim</title>
@@ -140,13 +140,16 @@
         <title> Thời sự</title>
     </programme>
     <programme start="20260626190000 +0000" stop="20260626194000 +0000" channel="VTV1 HD.mytv">
-        <title> Thời tiết - Thể thao 24/7</title>
+        <title> Thời tiết</title>
     </programme>
-    <programme start="20260626194000 +0000" stop="20260626195500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260626194000 +0000" stop="20260626194500 +0000" channel="VTV1 HD.mytv">
+        <title> Thể thao 24/7</title>
+    </programme>
+    <programme start="20260626194500 +0000" stop="20260626195500 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tin</title>
     </programme>
     <programme start="20260626195500 +0000" stop="20260626200000 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam: Những cái nhất tại Lâm Đồng</title>
+        <title> S Việt Nam: Những cái nhất tại Lâm Đồng</title>
     </programme>
     <programme start="20260626200000 +0000" stop="20260626201000 +0000" channel="VTV1 HD.mytv">
         <title> Chính phủ kiến tạo phát triển</title>

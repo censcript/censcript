@@ -3434,7 +3434,7 @@
     <title>Sonic the Hedgehog 3</title>
 </programme>
 <programme start="20260626121000 +0000" stop="20260626135500 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>The LEGO Movie</title>
+    <title>The Lego Movie</title>
 </programme>
 <programme start="20260626135500 +0000" stop="20260626153000 +0000" channel="Sky_Family_HD.virginmediatv">
     <title>Pets on a Train</title>
@@ -3707,7 +3707,7 @@
     <title>Sonic the Hedgehog 3</title>
 </programme>
 <programme start="20260626121000 +0000" stop="20260626135500 +0000" channel="Sky_Family.virginmediatv">
-    <title>The LEGO Movie</title>
+    <title>The Lego Movie</title>
 </programme>
 <programme start="20260626135500 +0000" stop="20260626153000 +0000" channel="Sky_Family.virginmediatv">
     <title>Pets on a Train</title>
@@ -3874,7 +3874,10 @@
 <programme start="20260626010000 +0000" stop="20260626013000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260626013000 +0000" stop="20260626053000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260626013000 +0000" stop="20260626050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: Major League Cricket - Washington Freedom v Seattle Orcas</title>
+</programme>
+<programme start="20260626050000 +0000" stop="20260626053000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - Washington Freedom v Seattle Orcas</title>
 </programme>
 <programme start="20260626053000 +0000" stop="20260626060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4654,7 +4657,10 @@
 <programme start="20260626010000 +0000" stop="20260626013000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260626013000 +0000" stop="20260626053000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260626013000 +0000" stop="20260626050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: Major League Cricket - Washington Freedom v Seattle Orcas</title>
+</programme>
+<programme start="20260626050000 +0000" stop="20260626053000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - Washington Freedom v Seattle Orcas</title>
 </programme>
 <programme start="20260626053000 +0000" stop="20260626060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -7829,7 +7835,7 @@
     <title>They Call Him Father in the Five Continents</title>
 </programme>
 <programme start="20260626160000 +0000" stop="20260626163000 +0000" channel="EWTN.virginmediatv">
-    <title>Forgotten Heritage: Europe and Her Saints - St. Thomas More: Conscience and Faith</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="EWTN.virginmediatv">
     <title>Christian Social Order - Business and Economics</title>

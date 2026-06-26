@@ -690,6 +690,74 @@
     <desc lang="en">An emotionally charged action thriller of a commercial diver who after a freak accident is trapped on the bottom of the North Sea.</desc>
     <category lang="en">Drama</category>
   </programme>
+  <channel id="tvnmovieshd.unifitv">
+    <display-name>tvN Movies HD</display-name>
+  </channel>
+  <programme start="20260625154500 +0000" stop="20260625174500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">HITMAN 2</title>
+    <desc lang="en">Jun is working on a new webtoon season when he receives an email with a gripping plot. He draws it, but soon real-life terrorism mirrors the story—and Jun becomes the prime suspect.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260625174500 +0000" stop="20260625195000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">KINGMAKER</title>
+    <desc lang="en">A politician met a talented campaign strategist who helped him become the strongest presidential election candidate. Yet conflicts deepen as they share different ideologies.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260625195000 +0000" stop="20260625215000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">VICTORY</title>
+    <desc lang="en">In 1999, Pil-sun and Mi-na team up with cheerleader Se-hyeon to form the cheerleading team 'Millennium Girls' with seven other girls for their high school soccer team, aiming for victory.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260625215000 +0000" stop="20260625234000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">USURY ACADEMY</title>
+    <desc lang="en">Kang-jin is bullied as the lowest-ranking boy at school with no presence and money. He starts a business on private loans by chance and soon rises to the top of the school hierarchy.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260625234000 +0000" stop="20260626015000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE UNFAIR</title>
+    <desc lang="en">A protest against urban renewal leads to death of a cop and a teen. The boy's father was arrested for the cop's death. A young attorney is assigned to defend the father.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260626015000 +0000" stop="20260626035500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">LOVE RESET</title>
+    <desc lang="en">A couple decide to divorce after two years of marriage. They revive a 30-day divorce settlement period from the court, but then they both lost memories after a car accident...</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260626035500 +0000" stop="20260626055500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE BAD GUYS: REIGN OF CHAOS</title>
+    <desc lang="en">Oh Gu-Tak, the Chief of 'Special Crime Unit' join hands with a former gangster, a con artist and a convicted cop to solve cases. They begin to hunt for the bad guys hidden...</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260626055500 +0000" stop="20260626075500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">WAITING FOR RAIN</title>
+    <desc lang="en">An unmotivated student regains his passion for life after exchanging letters with his childhood friend and promise to meet if it rains on December 31st each year.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260626075500 +0000" stop="20260626095000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">HONEST CANDIDATE 2</title>
+    <desc lang="en">Joo Sang-sook, who failed to win the Seoul mayoral election by dropping the truth bomb on national television, is suddenly pulled into the spotlight again after rescuing a young man from drowning.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260626095000 +0000" stop="20260626115000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE LONG WAY HOME</title>
+    <desc lang="en">During the Korean War, a South Korean soldier loses a classified document to a clumsy North Korean soldier, leading to an unexpected encounter at the western front.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260626115000 +0000" stop="20260626141000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">NEW WORLD</title>
+    <desc lang="en">An undercover cop spends eight years to infiltrate South Korea's largest crime organization. When the head of the organization is killed, he becomes torn between his loyalties.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260626141000 +0000" stop="20260626160000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">COUNTDOWN (2023)</title>
+    <desc lang="en">When an Olympic gold medalist boxer met a young boxer who falls victim to match fixing, he vows to start a boxing team at the school he teaches at and give his student a shot at the nationals.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260626160000 +0000" stop="20260626181000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">VETERAN</title>
+    <desc lang="en">A merciless detective hunts down a young and successful drug addict who always escapes from investigations with the help of his wealth and connections.</desc>
+    <category lang="en">Action</category>
+  </programme>
   <channel id="hitsmovies.unifitv">
     <display-name>HITS Movies</display-name>
   </channel>
@@ -1514,17 +1582,17 @@
     <display-name>beIN SPORTS 2</display-name>
   </channel>
   <programme start="20260625150000 +0000" stop="20260625163000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valladolid P2 Day 3 Match 4 (L)</title>
+    <title lang="en">Premier Padel - Valladolid P2 Day 3 Match 3 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260625163000 +0000" stop="20260625180000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valladolid P2 Day 3 Match 5 (L)</title>
+    <title lang="en">Premier Padel - Valladolid P2 Day 3 Match 4 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260625180000 +0000" stop="20260625193000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valladolid P2 Day 3 Match 6 (L)</title>
+    <title lang="en">Premier Padel - Valladolid P2 Day 3 Match 5 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -1579,8 +1647,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260626100000 +0000" stop="20260626113000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valladolid P2 Day 4 QF Match 3 (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <title lang="en">Best of Roland Garros 2026 - Day 7 Women's Singles Rd 3 Gauff v Potapova</title>
+    <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260626113000 +0000" stop="20260626130000 +0000" channel="beinsports2.unifitv">
@@ -1604,7 +1672,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260626150000 +0000" stop="20260626163000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Valladolid P2 Day 4 QF Match 4 (L)</title>
+    <title lang="en">Premier Padel - Valladolid P2 Day 4 QF Match 3 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -4730,74 +4798,6 @@
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.144.</episode-num>
     <episode-num system="onscreen">S1E145</episode-num>
-  </programme>
-  <channel id="tvnmovieshd.unifitv">
-    <display-name>tvN Movies HD</display-name>
-  </channel>
-  <programme start="20260625154500 +0000" stop="20260625174500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">HITMAN 2</title>
-    <desc lang="en">Jun is working on a new webtoon season when he receives an email with a gripping plot. He draws it, but soon real-life terrorism mirrors the story—and Jun becomes the prime suspect.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260625174500 +0000" stop="20260625195000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">KINGMAKER</title>
-    <desc lang="en">A politician met a talented campaign strategist who helped him become the strongest presidential election candidate. Yet conflicts deepen as they share different ideologies.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260625195000 +0000" stop="20260625215000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">VICTORY</title>
-    <desc lang="en">In 1999, Pil-sun and Mi-na team up with cheerleader Se-hyeon to form the cheerleading team 'Millennium Girls' with seven other girls for their high school soccer team, aiming for victory.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260625215000 +0000" stop="20260625234000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">USURY ACADEMY</title>
-    <desc lang="en">Kang-jin is bullied as the lowest-ranking boy at school with no presence and money. He starts a business on private loans by chance and soon rises to the top of the school hierarchy.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260625234000 +0000" stop="20260626015000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE UNFAIR</title>
-    <desc lang="en">A protest against urban renewal leads to death of a cop and a teen. The boy's father was arrested for the cop's death. A young attorney is assigned to defend the father.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260626015000 +0000" stop="20260626035500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">LOVE RESET</title>
-    <desc lang="en">A couple decide to divorce after two years of marriage. They revive a 30-day divorce settlement period from the court, but then they both lost memories after a car accident...</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260626035500 +0000" stop="20260626055500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE BAD GUYS: REIGN OF CHAOS</title>
-    <desc lang="en">Oh Gu-Tak, the Chief of 'Special Crime Unit' join hands with a former gangster, a con artist and a convicted cop to solve cases. They begin to hunt for the bad guys hidden...</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260626055500 +0000" stop="20260626075500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">WAITING FOR RAIN</title>
-    <desc lang="en">An unmotivated student regains his passion for life after exchanging letters with his childhood friend and promise to meet if it rains on December 31st each year.</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260626075500 +0000" stop="20260626095000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">HONEST CANDIDATE 2</title>
-    <desc lang="en">Joo Sang-sook, who failed to win the Seoul mayoral election by dropping the truth bomb on national television, is suddenly pulled into the spotlight again after rescuing a young man from drowning.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260626095000 +0000" stop="20260626115000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE LONG WAY HOME</title>
-    <desc lang="en">During the Korean War, a South Korean soldier loses a classified document to a clumsy North Korean soldier, leading to an unexpected encounter at the western front.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260626115000 +0000" stop="20260626141000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">NEW WORLD</title>
-    <desc lang="en">An undercover cop spends eight years to infiltrate South Korea's largest crime organization. When the head of the organization is killed, he becomes torn between his loyalties.</desc>
-    <category lang="en">Thriller</category>
-  </programme>
-  <programme start="20260626141000 +0000" stop="20260626160000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">COUNTDOWN (2023)</title>
-    <desc lang="en">When an Olympic gold medalist boxer met a young boxer who falls victim to match fixing, he vows to start a boxing team at the school he teaches at and give his student a shot at the nationals.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260626160000 +0000" stop="20260626181000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">VETERAN</title>
-    <desc lang="en">A merciless detective hunts down a young and successful drug addict who always escapes from investigations with the help of his wealth and connections.</desc>
-    <category lang="en">Action</category>
   </programme>
   <channel id="tvnhd.unifitv">
     <display-name>tvN HD</display-name>

@@ -3745,14 +3745,11 @@
     <programme start="20260626025500 +0000" stop="20260626030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260626030000 +0000" stop="20260626032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260626030000 +0000" stop="20260626032500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260626032000 +0000" stop="20260626032500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Hello! NHK WORLD-JAPAN (R)</title>
-    </programme>
     <programme start="20260626032500 +0000" stop="20260626033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Hello! NHK WORLD-JAPAN (R)</title>
     </programme>
     <programme start="20260626033000 +0000" stop="20260626034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Massan&quot; Encore Ep. 126</title>
@@ -3860,7 +3857,7 @@
         <title>News Commentary</title>
     </programme>
     <programme start="20260626144000 +0000" stop="20260626144500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Cruising from the Sky Mini</title>
     </programme>
     <programme start="20260626144500 +0000" stop="20260626152900 +0000" channel="NHK World Premium HD.starhub">
         <title>International News Report 2026</title>
@@ -7346,7 +7343,7 @@
         <title>Newscast</title>
     </programme>
     <programme start="20260626000000 +0000" stop="20260626003000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626003000 +0000" stop="20260626010000 +0000" channel="BBC World News HD.starhub">
         <title>Citizen Journalists at Protests - Reporting or Activism?</title>
@@ -7379,49 +7376,49 @@
         <title>Newsday</title>
     </programme>
     <programme start="20260626040000 +0000" stop="20260626043000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626043000 +0000" stop="20260626050000 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260626050000 +0000" stop="20260626053000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626053000 +0000" stop="20260626060000 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260626060000 +0000" stop="20260626063000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626063000 +0000" stop="20260626070000 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260626070000 +0000" stop="20260626073000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626073000 +0000" stop="20260626080000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626080000 +0000" stop="20260626083000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626083000 +0000" stop="20260626090000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626090000 +0000" stop="20260626093000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626093000 +0000" stop="20260626100000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626100000 +0000" stop="20260626103000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626103000 +0000" stop="20260626104500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260626104500 +0000" stop="20260626110000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260626110000 +0000" stop="20260626113000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News Now</title>

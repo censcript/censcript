@@ -1669,11 +1669,11 @@
 <programme start="20260626140000 +0000" stop="20260626150000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
 </programme>
-<programme start="20260626150000 +0000" stop="20260626160000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
+<programme start="20260626150000 +0000" stop="20260626161500 +0000" channel="BTV.mncvision">
+    <title>UIPM 2026</title>
 </programme>
-<programme start="20260626160000 +0000" stop="20260626163000 +0000" channel="BTV.mncvision">
-    <title>Mitos Tengah Malam</title>
+<programme start="20260626161500 +0000" stop="20260626164500 +0000" channel="BTV.mncvision">
+    <title>UIPM 2026</title>
 </programme>
 <programme start="20260625180200 +0000" stop="20260625195800 +0000" channel="BUDDY STARS.mncvision">
     <title>Space Racers</title>
@@ -4100,10 +4100,10 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20260626133000 +0000" stop="20260626153000 +0000" channel="GTV.mncvision">
-    <title>Shark Attack</title>
+    <title>Snake Island Python</title>
 </programme>
 <programme start="20260626153000 +0000" stop="20260626160000 +0000" channel="GTV.mncvision">
-    <title>Ujang Dan Pohon Buncis Ajaib</title>
+    <title>Vila Tak Berpenghuni</title>
 </programme>
 <programme start="20260625170000 +0000" stop="20260625183000 +0000" channel="GTV HD.mncvision">
     <title>1001 Kisah</title>
@@ -4148,10 +4148,10 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20260626133000 +0000" stop="20260626153000 +0000" channel="GTV HD.mncvision">
-    <title>Shark Attack</title>
+    <title>Snake Island Python</title>
 </programme>
 <programme start="20260626153000 +0000" stop="20260626160000 +0000" channel="GTV HD.mncvision">
-    <title>Ujang Dan Pohon Buncis Ajaib</title>
+    <title>Vila Tak Berpenghuni</title>
 </programme>
 <programme start="20260625210000 +0000" stop="20260625213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
@@ -9196,16 +9196,13 @@
 <programme start="20260626103000 +0000" stop="20260626114500 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
 </programme>
-<programme start="20260626114500 +0000" stop="20260626130000 +0000" channel="Trans TV.mncvision">
+<programme start="20260626114500 +0000" stop="20260626131500 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260626130000 +0000" stop="20260626140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20260626140000 +0000" stop="20260626160000 +0000" channel="Trans TV.mncvision">
+<programme start="20260626131500 +0000" stop="20260626151500 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260626160000 +0000" stop="20260626163000 +0000" channel="Trans TV.mncvision">
+<programme start="20260626151500 +0000" stop="20260626154500 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260625175500 +0000" stop="20260625191000 +0000" channel="tvN.mncvision">
