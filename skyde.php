@@ -1635,90 +1635,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626212000 +0000" stop="20260626221000 +0000" channel="Romance TV HD.skyde">
     <title>Tierärztin Dr. Mertens</title>
 </programme>
-<programme start="20260625223000 +0000" stop="20260625232500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260625232500 +0000" stop="20260626003000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260626003000 +0000" stop="20260626013500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260626013500 +0000" stop="20260626023000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260626023000 +0000" stop="20260626025500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The House that Dragons Built: Episode 1</title>
-</programme>
-<programme start="20260626025500 +0000" stop="20260626033000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Lovers</title>
-</programme>
-<programme start="20260626033000 +0000" stop="20260626040000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Lovers</title>
-</programme>
-<programme start="20260626040000 +0000" stop="20260626043000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Lovers</title>
-</programme>
-<programme start="20260626043000 +0000" stop="20260626050000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Lovers</title>
-</programme>
-<programme start="20260626050000 +0000" stop="20260626052500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Lovers</title>
-</programme>
-<programme start="20260626052500 +0000" stop="20260626060000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Lovers</title>
-</programme>
-<programme start="20260626060000 +0000" stop="20260626065000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
-</programme>
-<programme start="20260626065000 +0000" stop="20260626074500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
-</programme>
-<programme start="20260626074500 +0000" stop="20260626084500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
-</programme>
-<programme start="20260626084500 +0000" stop="20260626094000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
-</programme>
-<programme start="20260626094000 +0000" stop="20260626103000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
-</programme>
-<programme start="20260626103000 +0000" stop="20260626112500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Westworld</title>
-</programme>
-<programme start="20260626112500 +0000" stop="20260626122000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Westworld</title>
-</programme>
-<programme start="20260626122000 +0000" stop="20260626131500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Westworld</title>
-</programme>
-<programme start="20260626131500 +0000" stop="20260626141000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Westworld</title>
-</programme>
-<programme start="20260626141000 +0000" stop="20260626151500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Westworld</title>
-</programme>
-<programme start="20260626151500 +0000" stop="20260626161500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Westworld</title>
-</programme>
-<programme start="20260626161500 +0000" stop="20260626171000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Westworld</title>
-</programme>
-<programme start="20260626171000 +0000" stop="20260626181500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Westworld</title>
-</programme>
-<programme start="20260626181500 +0000" stop="20260626192000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260626192000 +0000" stop="20260626202500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260626202500 +0000" stop="20260626213500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260626213500 +0000" stop="20260626224000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
 <programme start="20260625232000 +0000" stop="20260626010000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Rambo II - Der Auftrag</title>
 </programme>
@@ -3216,14 +3132,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626124000 +0000" stop="20260626130000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
-<programme start="20260626130000 +0000" stop="20260626150000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: HF1, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
+<programme start="20260626130000 +0000" stop="20260626153000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
-<programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Es folgt: LIVE ATP World Tour:</title>
-</programme>
-<programme start="20260626153000 +0000" stop="20260626173000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: HF2, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
+<programme start="20260626153000 +0000" stop="20260626203000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260625222500 +0000" stop="20260625231000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
@@ -3631,6 +3544,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Shanghai Knights</title>
 </programme>
 <programme start="20260626201000 +0000" stop="20260626221000 +0000" channel="Warner TV Film.skyde">
+    <title>Scream 3</title>
+</programme>
+<programme start="20260625224500 +0000" stop="20260626010500 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Dark Knight</title>
+</programme>
+<programme start="20260626010500 +0000" stop="20260626020500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Wilde Westen: Die ersten 100 Jahre</title>
+</programme>
+<programme start="20260626020500 +0000" stop="20260626040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Tote schlafen fest</title>
+</programme>
+<programme start="20260626040000 +0000" stop="20260626052000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Police Academy 7 - Mission in Moskau</title>
+</programme>
+<programme start="20260626052000 +0000" stop="20260626065500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Kugeln sind sein Autogramm</title>
+</programme>
+<programme start="20260626065500 +0000" stop="20260626085500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Des Königs Admiral</title>
+</programme>
+<programme start="20260626085500 +0000" stop="20260626105000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Jeremiah Johnson</title>
+</programme>
+<programme start="20260626105000 +0000" stop="20260626123500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die Spur des Falken</title>
+</programme>
+<programme start="20260626123500 +0000" stop="20260626143500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Instinkt</title>
+</programme>
+<programme start="20260626143500 +0000" stop="20260626163000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Demolition Man</title>
+</programme>
+<programme start="20260626163000 +0000" stop="20260626181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Big Trouble in Little China</title>
+</programme>
+<programme start="20260626181500 +0000" stop="20260626201000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Shanghai Knights</title>
+</programme>
+<programme start="20260626201000 +0000" stop="20260626221000 +0000" channel="Warner TV Film HD.skyde">
     <title>Scream 3</title>
 </programme>
 <programme start="20260625220500 +0000" stop="20260625225000 +0000" channel="Warner TV Serie HD.skyde">

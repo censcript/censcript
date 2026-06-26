@@ -3646,26 +3646,23 @@
     <programme start="20260626151500 +0000" stop="20260626160000 +0000" channel="Cartoon Network.starhub">
         <title>Restaurant Wars/Kiki&#039;s Pizza Service Delivery/Monster Reunion</title>
     </programme>
-    <programme start="20260625160000 +0000" stop="20260625160500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Child-Rearing Hints &amp; Tips mini</title>
-    </programme>
-    <programme start="20260625160500 +0000" stop="20260625161000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Child-Rearing Hints &amp; Tips mini</title>
+    <programme start="20260625154000 +0000" stop="20260625161000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Familiarization with Japanese Traditional Performing Arts</title>
     </programme>
     <programme start="20260625161000 +0000" stop="20260625161500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Ukiyoe EDO-LIFE (R)</title>
+        <title>Child-Rearing Hints &amp; Tips mini</title>
     </programme>
-    <programme start="20260625161500 +0000" stop="20260625164000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260625161500 +0000" stop="20260625162000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Child-Rearing Hints &amp; Tips mini</title>
+    </programme>
+    <programme start="20260625162000 +0000" stop="20260625164500 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
     </programme>
-    <programme start="20260625164000 +0000" stop="20260625171000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260625164500 +0000" stop="20260625171500 +0000" channel="NHK World Premium HD.starhub">
         <title>Shogi Focus</title>
     </programme>
-    <programme start="20260625171000 +0000" stop="20260625174000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260625171500 +0000" stop="20260625174500 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi on ETV</title>
-    </programme>
-    <programme start="20260625174000 +0000" stop="20260625174500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
     </programme>
     <programme start="20260625174500 +0000" stop="20260625180000 +0000" channel="NHK World Premium HD.starhub">
         <title>Kid&#039;s Discovery (R)</title>
@@ -6995,7 +6992,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260626023000 +0000" stop="20260626030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20260626030000 +0000" stop="20260626033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7025,7 +7022,7 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20260626073000 +0000" stop="20260626080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20260626080000 +0000" stop="20260626083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7067,7 +7064,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260626133000 +0000" stop="20260626140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20260626140000 +0000" stop="20260626143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7337,7 +7334,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20260625230000 +0000" stop="20260625233000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260625233000 +0000" stop="20260626000000 +0000" channel="BBC World News HD.starhub">
         <title>Newscast</title>

@@ -5,7 +5,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260626051500 +0000" stop="20260626060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Six O&#039;Clock Show</title>
+    <title>The Six O&#039;Clock Show - Spiced Grilled Chicken &amp; Fiambre Summer Salad</title>
 </programme>
 <programme start="20260626120000 +0000" stop="20260626130000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Chase</title>
@@ -2624,7 +2624,7 @@
     <title>The Europe Conversation</title>
 </programme>
 <programme start="20260626124500 +0000" stop="20260626130000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260626130000 +0000" stop="20260626131400 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
@@ -2633,10 +2633,13 @@
     <title>Euronews Now</title>
 </programme>
 <programme start="20260626132900 +0000" stop="20260626135100 +0000" channel="Euronews.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260626135100 +0000" stop="20260626135200 +0000" channel="Euronews.virginmediatv">
     <title>News</title>
 </programme>
-<programme start="20260626135100 +0000" stop="20260626140000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
+<programme start="20260626135200 +0000" stop="20260626140000 +0000" channel="Euronews.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260626140000 +0000" stop="20260626141500 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
@@ -2644,23 +2647,17 @@
 <programme start="20260626141500 +0000" stop="20260626143000 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260626143000 +0000" stop="20260626144900 +0000" channel="Euronews.virginmediatv">
+<programme start="20260626143000 +0000" stop="20260626150000 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260626144900 +0000" stop="20260626150000 +0000" channel="Euronews.virginmediatv">
-    <title>Make it Work</title>
-</programme>
-<programme start="20260626150000 +0000" stop="20260626151400 +0000" channel="Euronews.virginmediatv">
+<programme start="20260626150000 +0000" stop="20260626151500 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260626151400 +0000" stop="20260626153100 +0000" channel="Euronews.virginmediatv">
-    <title>The European debrief</title>
+<programme start="20260626151500 +0000" stop="20260626153400 +0000" channel="Euronews.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20260626153100 +0000" stop="20260626154500 +0000" channel="Euronews.virginmediatv">
+<programme start="20260626153400 +0000" stop="20260626160000 +0000" channel="Euronews.virginmediatv">
     <title>The Europe Conversation</title>
-</programme>
-<programme start="20260626154500 +0000" stop="20260626160000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
 </programme>
 <programme start="20260626160000 +0000" stop="20260626161500 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
@@ -2677,11 +2674,11 @@
 <programme start="20260626171400 +0000" stop="20260626172900 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260626172900 +0000" stop="20260626175100 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
+<programme start="20260626172900 +0000" stop="20260626175200 +0000" channel="Euronews.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20260626175100 +0000" stop="20260626180000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
+<programme start="20260626175200 +0000" stop="20260626180000 +0000" channel="Euronews.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260626000000 +0000" stop="20260626003000 +0000" channel="CNBC_Europe.virginmediatv">
     <title>Squawk Box Asia</title>
@@ -4231,11 +4228,14 @@
 <programme start="20260626054500 +0000" stop="20260626060000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>EFL Play-Off Memories - 1999: Gillingham v Manchester City</title>
 </programme>
-<programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20260626120000 +0000" stop="20260626123000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>ICC Women&#039;s T20 World Cup - Bangladesh v India</title>
+</programme>
+<programme start="20260626123000 +0000" stop="20260626163000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Live: Women&#039;s Amateur Championship Golf - Semi-Finals</title>
 </programme>
-<programme start="20260626160000 +0000" stop="20260626170000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>State of Origin - Game 2: New South Wales Blues v Queensland Maroons</title>
+<programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>ICC Women&#039;s T20 World Cup - New Zealand v Scotland</title>
 </programme>
 <programme start="20260626170000 +0000" stop="20260626210000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Live: ICC Women&#039;s T20 World Cup - Scotland v Sri Lanka</title>
@@ -5011,11 +5011,14 @@
 <programme start="20260626054500 +0000" stop="20260626060000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>EFL Play-Off Memories - 1999: Gillingham v Manchester City</title>
 </programme>
-<programme start="20260626120000 +0000" stop="20260626160000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20260626120000 +0000" stop="20260626123000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>ICC Women&#039;s T20 World Cup - Bangladesh v India</title>
+</programme>
+<programme start="20260626123000 +0000" stop="20260626163000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Live: Women&#039;s Amateur Championship Golf - Semi-Finals</title>
 </programme>
-<programme start="20260626160000 +0000" stop="20260626170000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>State of Origin - Game 2: New South Wales Blues v Queensland Maroons</title>
+<programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>ICC Women&#039;s T20 World Cup - New Zealand v Scotland</title>
 </programme>
 <programme start="20260626170000 +0000" stop="20260626210000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Live: ICC Women&#039;s T20 World Cup - Scotland v Sri Lanka</title>
@@ -7835,7 +7838,7 @@
     <title>They Call Him Father in the Five Continents</title>
 </programme>
 <programme start="20260626160000 +0000" stop="20260626163000 +0000" channel="EWTN.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Introductory Address by Pope Leo XIV to the Extraordinary Consistory</title>
 </programme>
 <programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="EWTN.virginmediatv">
     <title>Christian Social Order - Business and Economics</title>

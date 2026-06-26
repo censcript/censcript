@@ -15301,7 +15301,7 @@
   </programme>
   <programme start="20260625203500 +0000" stop="20260625210500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan Railway Journal</title>
-    <desc lang="en">Go behind the scenes of Japan's amazing railways with interesting facts, new technologies, expert tips, where to go, how to get there and more!</desc>
+    <desc lang="en">Every year, the Blue Ribbon and Laurel Prizes honour the finest newly built and redesigned trains. Meet the winners for 2026!</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2048.</episode-num>
     <episode-num system="onscreen">S1E2049</episode-num>
@@ -15379,8 +15379,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260626023500 +0000" stop="20260626030500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Special Programme</title>
-    <desc lang="en">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="en">Catch Japan</title>
+    <desc lang="en">We explore a circular approach to giving new life to unwanted items, the evolution of modern wagashi, a material that preserves history, and innovative sweets balancing taste and nutrition.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6999.</episode-num>
     <episode-num system="onscreen">S1E7000</episode-num>
@@ -15392,7 +15392,7 @@
   </programme>
   <programme start="20260626033500 +0000" stop="20260626040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan Railway Journal</title>
-    <desc lang="en">Go behind the scenes of Japan's amazing railways with interesting facts, new technologies, expert tips, where to go, how to get there and more!</desc>
+    <desc lang="en">Every year, the Blue Ribbon and Laurel Prizes honour the finest newly built and redesigned trains. Meet the winners for 2026!</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2048.</episode-num>
     <episode-num system="onscreen">S1E2049</episode-num>
@@ -15439,8 +15439,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260626073500 +0000" stop="20260626080500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Special Programme</title>
-    <desc lang="en">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="en">Catch Japan</title>
+    <desc lang="en">We explore a circular approach to giving new life to unwanted items, the evolution of modern wagashi, a material that preserves history, and innovative sweets balancing taste and nutrition.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6999.</episode-num>
     <episode-num system="onscreen">S1E7000</episode-num>
@@ -15464,7 +15464,7 @@
   </programme>
   <programme start="20260626093500 +0000" stop="20260626100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan Railway Journal</title>
-    <desc lang="en">Go behind the scenes of Japan's amazing railways with interesting facts, new technologies, expert tips, where to go, how to get there and more!</desc>
+    <desc lang="en">Every year, the Blue Ribbon and Laurel Prizes honour the finest newly built and redesigned trains. Meet the winners for 2026!</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2048.</episode-num>
     <episode-num system="onscreen">S1E2049</episode-num>
@@ -15495,7 +15495,7 @@
   </programme>
   <programme start="20260626114800 +0000" stop="20260626120000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">The US-Iran conflict led to what the IEA called the worst-ever energy crisis, and more power demand was predicted with the summer heat. How do the crisis and a surge in coal use affect climate change?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -15525,8 +15525,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260626133500 +0000" stop="20260626140500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Special Programme</title>
-    <desc lang="en">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="en">Catch Japan</title>
+    <desc lang="en">We explore a circular approach to giving new life to unwanted items, the evolution of modern wagashi, a material that preserves history, and innovative sweets balancing taste and nutrition.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6999.</episode-num>
     <episode-num system="onscreen">S1E7000</episode-num>
