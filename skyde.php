@@ -3099,10 +3099,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626144500 +0000" stop="20260626163000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: 2. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260626163000 +0000" stop="20260626173000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Pressekonferenz Teamchefs - GP Österreich</title>
 </programme>
-<programme start="20260626170000 +0000" stop="20260626173000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260626173000 +0000" stop="20260626180000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
 <programme start="20260626180000 +0000" stop="20260626193000 +0000" channel="Sky Sport UHD.skyde">
@@ -3223,13 +3223,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
 <programme start="20260626130000 +0000" stop="20260626150000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: HF1, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
+    <title>Live ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
 <programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
-<programme start="20260626153000 +0000" stop="20260626173000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: HF2, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
+<programme start="20260626153000 +0000" stop="20260626203000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260625222500 +0000" stop="20260625231000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
@@ -3637,6 +3637,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Shanghai Knights</title>
 </programme>
 <programme start="20260626201000 +0000" stop="20260626221000 +0000" channel="Warner TV Film.skyde">
+    <title>Scream 3</title>
+</programme>
+<programme start="20260625224500 +0000" stop="20260626010500 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Dark Knight</title>
+</programme>
+<programme start="20260626010500 +0000" stop="20260626020500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Wilde Westen: Die ersten 100 Jahre</title>
+</programme>
+<programme start="20260626020500 +0000" stop="20260626040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Tote schlafen fest</title>
+</programme>
+<programme start="20260626040000 +0000" stop="20260626052000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Police Academy 7 - Mission in Moskau</title>
+</programme>
+<programme start="20260626052000 +0000" stop="20260626065500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Kugeln sind sein Autogramm</title>
+</programme>
+<programme start="20260626065500 +0000" stop="20260626085500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Des Königs Admiral</title>
+</programme>
+<programme start="20260626085500 +0000" stop="20260626105000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Jeremiah Johnson</title>
+</programme>
+<programme start="20260626105000 +0000" stop="20260626123500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die Spur des Falken</title>
+</programme>
+<programme start="20260626123500 +0000" stop="20260626143500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Instinkt</title>
+</programme>
+<programme start="20260626143500 +0000" stop="20260626163000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Demolition Man</title>
+</programme>
+<programme start="20260626163000 +0000" stop="20260626181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Big Trouble in Little China</title>
+</programme>
+<programme start="20260626181500 +0000" stop="20260626201000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Shanghai Knights</title>
+</programme>
+<programme start="20260626201000 +0000" stop="20260626221000 +0000" channel="Warner TV Film HD.skyde">
     <title>Scream 3</title>
 </programme>
 <programme start="20260625220500 +0000" stop="20260625225000 +0000" channel="Warner TV Serie HD.skyde">

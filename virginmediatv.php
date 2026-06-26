@@ -4159,7 +4159,10 @@
 <programme start="20260626120000 +0000" stop="20260626121500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>My Icon - Ebony Rainford-Brent</title>
 </programme>
-<programme start="20260626121500 +0000" stop="20260626190000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260626121500 +0000" stop="20260626124500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>European Challenge Tour Golf - England Golf Challenge</title>
+</programme>
+<programme start="20260626124500 +0000" stop="20260626190000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: Travelers Championship, PGA Tour Golf - Day 2: Featured Groups</title>
 </programme>
 <programme start="20260626000000 +0000" stop="20260626010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
@@ -4942,7 +4945,10 @@
 <programme start="20260626120000 +0000" stop="20260626121500 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>My Icon - Ebony Rainford-Brent</title>
 </programme>
-<programme start="20260626121500 +0000" stop="20260626190000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260626121500 +0000" stop="20260626124500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>European Challenge Tour Golf - England Golf Challenge</title>
+</programme>
+<programme start="20260626124500 +0000" stop="20260626190000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: Travelers Championship, PGA Tour Golf - Day 2: Featured Groups</title>
 </programme>
 <programme start="20260626000000 +0000" stop="20260626010000 +0000" channel="Sky_Sports_News.virginmediatv">
@@ -6370,7 +6376,10 @@
 <programme start="20260625175800 +0000" stop="20260626015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260626015800 +0000" stop="20260626060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260626015800 +0000" stop="20260626050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260626050000 +0000" stop="20260626060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260626114000 +0000" stop="20260626120500 +0000" channel="CBBC.virginmediatv">
