@@ -1994,10 +1994,10 @@
         <title>Premier Padel 2026: Valladolid P2 Day 3 Match 3</title>
     </programme>
     <programme start="20260625163000 +0000" stop="20260625180000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 5</title>
+        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 4</title>
     </programme>
     <programme start="20260625180000 +0000" stop="20260625193000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 6</title>
+        <title>Premier Padel 2026: Valladolid P2 Day 3 Match 5</title>
     </programme>
     <programme start="20260625193000 +0000" stop="20260625200000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Stage 1</title>

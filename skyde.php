@@ -849,88 +849,94 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626215500 +0000" stop="20260626221500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260624222500 +0000" stop="20260624231000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625222500 +0000" stop="20260625231000 +0000" channel="Crime + Investigation.skyde">
     <title>11 Shots - Fußball und Verbrechen</title>
 </programme>
-<programme start="20260624231000 +0000" stop="20260625004500 +0000" channel="Crime + Investigation.skyde">
-    <title>In the Cold Dark Night - Gerechtigkeit nach 35 Jahren</title>
-</programme>
-<programme start="20260625004500 +0000" stop="20260625013000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625231000 +0000" stop="20260625235500 +0000" channel="Crime + Investigation.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260625013000 +0000" stop="20260625021500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625235500 +0000" stop="20260626004000 +0000" channel="Crime + Investigation.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260625021500 +0000" stop="20260625030000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260626004000 +0000" stop="20260626013000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260626013000 +0000" stop="20260626022000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260626022000 +0000" stop="20260626030500 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260625030000 +0000" stop="20260625035000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260626030500 +0000" stop="20260626035000 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260625035000 +0000" stop="20260625042000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260626035000 +0000" stop="20260626042000 +0000" channel="Crime + Investigation.skyde">
     <title>Unentdeckt - Mörder unter uns</title>
 </programme>
-<programme start="20260625042000 +0000" stop="20260625051000 +0000" channel="Crime + Investigation.skyde">
-    <title>Houses of Horror: Gewalt und Terror am College</title>
-</programme>
-<programme start="20260625051000 +0000" stop="20260625060000 +0000" channel="Crime + Investigation.skyde">
-    <title>Houses of Horror: Gewalt und Terror am College</title>
-</programme>
-<programme start="20260625060000 +0000" stop="20260625065000 +0000" channel="Crime + Investigation.skyde">
-    <title>11 Shots - Fußball und Verbrechen</title>
-</programme>
-<programme start="20260625065000 +0000" stop="20260625074000 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260625074000 +0000" stop="20260625083000 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260625083000 +0000" stop="20260625092000 +0000" channel="Crime + Investigation.skyde">
-    <title>Wie ich ermordet wurde</title>
-</programme>
-<programme start="20260625092000 +0000" stop="20260625101000 +0000" channel="Crime + Investigation.skyde">
-    <title>Wie ich ermordet wurde</title>
-</programme>
-<programme start="20260625101000 +0000" stop="20260625110000 +0000" channel="Crime + Investigation.skyde">
-    <title>Houses of Horror: Gewalt und Terror am College</title>
-</programme>
-<programme start="20260625110000 +0000" stop="20260625115000 +0000" channel="Crime + Investigation.skyde">
-    <title>Houses of Horror: Gewalt und Terror am College</title>
-</programme>
-<programme start="20260625115000 +0000" stop="20260625122000 +0000" channel="Crime + Investigation.skyde">
-    <title>Unentdeckt - Mörder unter uns</title>
-</programme>
-<programme start="20260625122000 +0000" stop="20260625140000 +0000" channel="Crime + Investigation.skyde">
-    <title>In the Cold Dark Night - Gerechtigkeit nach 35 Jahren</title>
-</programme>
-<programme start="20260625140000 +0000" stop="20260625145000 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20260625145000 +0000" stop="20260625154000 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260625154000 +0000" stop="20260625163000 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260625163000 +0000" stop="20260625172000 +0000" channel="Crime + Investigation.skyde">
-    <title>Wie ich ermordet wurde</title>
-</programme>
-<programme start="20260625172000 +0000" stop="20260625181500 +0000" channel="Crime + Investigation.skyde">
-    <title>Wie ich ermordet wurde</title>
-</programme>
-<programme start="20260625181500 +0000" stop="20260625190500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260625190500 +0000" stop="20260625195500 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260625195500 +0000" stop="20260625204500 +0000" channel="Crime + Investigation.skyde">
-    <title>The First 48 - Momente der Entscheidung</title>
-</programme>
-<programme start="20260625204500 +0000" stop="20260625213500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260626042000 +0000" stop="20260626051000 +0000" channel="Crime + Investigation.skyde">
     <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20260625213500 +0000" stop="20260625222500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260626051000 +0000" stop="20260626060000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20260626060000 +0000" stop="20260626065000 +0000" channel="Crime + Investigation.skyde">
+    <title>11 Shots - Fußball und Verbrechen</title>
+</programme>
+<programme start="20260626065000 +0000" stop="20260626074000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260626074000 +0000" stop="20260626083000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260626083000 +0000" stop="20260626092000 +0000" channel="Crime + Investigation.skyde">
+    <title>Wie ich ermordet wurde</title>
+</programme>
+<programme start="20260626092000 +0000" stop="20260626101000 +0000" channel="Crime + Investigation.skyde">
+    <title>Wie ich ermordet wurde</title>
+</programme>
+<programme start="20260626101000 +0000" stop="20260626110000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20260626110000 +0000" stop="20260626115000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20260626115000 +0000" stop="20260626122000 +0000" channel="Crime + Investigation.skyde">
+    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
+</programme>
+<programme start="20260626122000 +0000" stop="20260626131000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260626131000 +0000" stop="20260626140000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260626140000 +0000" stop="20260626145000 +0000" channel="Crime + Investigation.skyde">
+    <title>The First 48 - Momente der Entscheidung</title>
+</programme>
+<programme start="20260626145000 +0000" stop="20260626154000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260626154000 +0000" stop="20260626163000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260626163000 +0000" stop="20260626172000 +0000" channel="Crime + Investigation.skyde">
+    <title>Wie ich ermordet wurde</title>
+</programme>
+<programme start="20260626172000 +0000" stop="20260626181500 +0000" channel="Crime + Investigation.skyde">
+    <title>Wie ich ermordet wurde</title>
+</programme>
+<programme start="20260626181500 +0000" stop="20260626190500 +0000" channel="Crime + Investigation.skyde">
+    <title>Court Cam - Auf der Anklagebank</title>
+</programme>
+<programme start="20260626190500 +0000" stop="20260626195500 +0000" channel="Crime + Investigation.skyde">
+    <title>Court Cam - Auf der Anklagebank</title>
+</programme>
+<programme start="20260626195500 +0000" stop="20260626204500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20260626204500 +0000" stop="20260626213500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20260626213500 +0000" stop="20260626222500 +0000" channel="Crime + Investigation.skyde">
     <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
 <programme start="20260625220000 +0000" stop="20260626060000 +0000" channel="DAZN 1 HD.skyde">
@@ -945,22 +951,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626093000 +0000" stop="20260626100500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 2026 MD34 highlights: Konferenz Relegation</title>
 </programme>
-<programme start="20260626100500 +0000" stop="20260626102000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260626100500 +0000" stop="20260626104000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 2026 MD34 highlights: Konferenz Internationale Plätze</title>
 </programme>
-<programme start="20260626102000 +0000" stop="20260626120500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260626104000 +0000" stop="20260626123500 +0000" channel="DAZN 1 HD.skyde">
     <title>FA Cup 25/26: Manchester City - FC Liverpool</title>
 </programme>
-<programme start="20260626120500 +0000" stop="20260626130500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260626123500 +0000" stop="20260626130500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260626130500 +0000" stop="20260626144500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260626130500 +0000" stop="20260626150500 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - Real Madrid</title>
 </programme>
-<programme start="20260626144500 +0000" stop="20260626170000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260626150500 +0000" stop="20260626172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Coppa Italia 25/26: Lazio Rom - Inter Mailand</title>
 </programme>
-<programme start="20260626170000 +0000" stop="20260626175000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260626172000 +0000" stop="20260626175000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260626175000 +0000" stop="20260626200000 +0000" channel="DAZN 1 HD.skyde">
@@ -2427,7 +2433,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626093000 +0000" stop="20260626100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
 </programme>
-<programme start="20260626100000 +0000" stop="20260626180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260626100000 +0000" stop="20260626110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Saisonrückblick</title>
+</programme>
+<programme start="20260626110000 +0000" stop="20260626180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260626180000 +0000" stop="20260626181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2459,6 +2468,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260626213500 +0000" stop="20260626220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 29-32)</title>
+</programme>
+<programme start="20260626073500 +0000" stop="20260626075500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Motorsport: Es folgt</title>
 </programme>
 <programme start="20260626075500 +0000" stop="20260626085000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F3: Training - GP Österreich</title>
@@ -2493,7 +2505,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626144500 +0000" stop="20260626163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: 2. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20260626163000 +0000" stop="20260626173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260626163000 +0000" stop="20260626183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>F1: Pressekonferenz Teamchefs - GP Österreich</title>
 </programme>
 <programme start="20260625224000 +0000" stop="20260626004000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2567,6 +2579,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260626120000 +0000" stop="20260626140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>TEST: Live BL: FC Bayern München - SC Freiburg, 11. Spieltag</title>
+</programme>
+<programme start="20260626120000 +0000" stop="20260626140000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
+    <title>TEST: Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
 <programme start="20260626120000 +0000" stop="20260626140000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: Live BL: Bayer Leverkusen - VfL Wolfsburg, 28. Spieltag</title>
@@ -2952,34 +2967,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626213000 +0000" stop="20260626220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: My Season: Gareth Bale (2012/2013)</title>
 </programme>
-<programme start="20260625223000 +0000" stop="20260626003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260625223000 +0000" stop="20260626000500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: G. Dimitrov (BUL) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
-<programme start="20260626003000 +0000" stop="20260626010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626000500 +0000" stop="20260626003500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260626010000 +0000" stop="20260626030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626003500 +0000" stop="20260626022500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: T. Maria (GER) - T. Valentova (CZE), Lexus Eastbourne Open in Eastbourne (GBR), 5. Tag</title>
 </programme>
-<programme start="20260626030000 +0000" stop="20260626033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626022500 +0000" stop="20260626030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260626033000 +0000" stop="20260626060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626030000 +0000" stop="20260626053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Noskova (CZE)  - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
 </programme>
-<programme start="20260626060000 +0000" stop="20260626063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626053000 +0000" stop="20260626060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
 </programme>
-<programme start="20260626063000 +0000" stop="20260626070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626060000 +0000" stop="20260626063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
-<programme start="20260626070000 +0000" stop="20260626090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626063000 +0000" stop="20260626081500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: G. Dimitrov (BUL) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
-<programme start="20260626090000 +0000" stop="20260626110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626081500 +0000" stop="20260626100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: T. Maria (GER) - T. Valentova (CZE), Lexus Eastbourne Open in Eastbourne (GBR), 5. Tag</title>
 </programme>
-<programme start="20260626110000 +0000" stop="20260626180000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626100000 +0000" stop="20260626180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260626180000 +0000" stop="20260626190000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3208,13 +3223,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
 <programme start="20260626130000 +0000" stop="20260626150000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
+    <title>Live ATP 250: HF1, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
 <programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
-<programme start="20260626153000 +0000" stop="20260626203000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
+<programme start="20260626153000 +0000" stop="20260626173000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live ATP 250: HF2, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260625222500 +0000" stop="20260625231000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
@@ -3396,195 +3411,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626211500 +0000" stop="20260626220000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago P.D.</title>
 </programme>
-<programme start="20260625221500 +0000" stop="20260625224000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260625224000 +0000" stop="20260625230000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260625230000 +0000" stop="20260625232500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260625232500 +0000" stop="20260625235000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Primal</title>
-</programme>
-<programme start="20260625235000 +0000" stop="20260626001000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Primal</title>
-</programme>
-<programme start="20260626001000 +0000" stop="20260626002500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626002500 +0000" stop="20260626003500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626003500 +0000" stop="20260626004500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626004500 +0000" stop="20260626010000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626010000 +0000" stop="20260626012000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260626012000 +0000" stop="20260626014000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260626014000 +0000" stop="20260626020000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260626020000 +0000" stop="20260626022000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260626022000 +0000" stop="20260626024500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260626024500 +0000" stop="20260626030500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260626030500 +0000" stop="20260626033000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260626033000 +0000" stop="20260626035500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260626035500 +0000" stop="20260626041500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260626041500 +0000" stop="20260626044500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260626044500 +0000" stop="20260626051000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260626051000 +0000" stop="20260626053500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260626053500 +0000" stop="20260626060000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260626060000 +0000" stop="20260626062500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260626062500 +0000" stop="20260626065500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260626065500 +0000" stop="20260626072000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260626072000 +0000" stop="20260626075000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260626075000 +0000" stop="20260626081500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260626081500 +0000" stop="20260626084000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260626084000 +0000" stop="20260626090500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260626090500 +0000" stop="20260626093000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260626093000 +0000" stop="20260626095500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260626095500 +0000" stop="20260626102000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260626102000 +0000" stop="20260626104500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260626104500 +0000" stop="20260626111000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260626111000 +0000" stop="20260626113500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260626113500 +0000" stop="20260626120000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260626120000 +0000" stop="20260626122500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260626122500 +0000" stop="20260626125000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260626125000 +0000" stop="20260626131500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260626131500 +0000" stop="20260626134500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260626134500 +0000" stop="20260626141000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260626141000 +0000" stop="20260626143500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260626143500 +0000" stop="20260626150000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260626150000 +0000" stop="20260626152500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260626152500 +0000" stop="20260626155000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260626155000 +0000" stop="20260626161500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260626161500 +0000" stop="20260626163500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260626163500 +0000" stop="20260626170000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260626170000 +0000" stop="20260626172500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260626172500 +0000" stop="20260626175000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260626175000 +0000" stop="20260626181500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260626181500 +0000" stop="20260626183500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260626183500 +0000" stop="20260626190000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260626190000 +0000" stop="20260626192500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260626192500 +0000" stop="20260626195000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260626195000 +0000" stop="20260626201500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260626201500 +0000" stop="20260626204000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Primal</title>
-</programme>
-<programme start="20260626204000 +0000" stop="20260626210500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Primal</title>
-</programme>
-<programme start="20260626210500 +0000" stop="20260626211500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626211500 +0000" stop="20260626213000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626213000 +0000" stop="20260626214000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626214000 +0000" stop="20260626215500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626215500 +0000" stop="20260626221500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
 <programme start="20260625224500 +0000" stop="20260626010500 +0000" channel="Warner TV Film.skyde">
     <title>The Dark Knight</title>
 </programme>
@@ -3662,100 +3488,4 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260626201000 +0000" stop="20260626221000 +0000" channel="Warner TV Film HD.skyde">
     <title>Scream 3</title>
-</programme>
-<programme start="20260625220500 +0000" stop="20260625225000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Alert: Missing Persons Unit</title>
-</programme>
-<programme start="20260625225000 +0000" stop="20260625233500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
-</programme>
-<programme start="20260625233500 +0000" stop="20260626001500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
-</programme>
-<programme start="20260626001500 +0000" stop="20260626010000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
-</programme>
-<programme start="20260626010000 +0000" stop="20260626014000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260626014000 +0000" stop="20260626022000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260626022000 +0000" stop="20260626030000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260626030000 +0000" stop="20260626034000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260626034000 +0000" stop="20260626035500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260626035500 +0000" stop="20260626044000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260626044000 +0000" stop="20260626054000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260626054000 +0000" stop="20260626063000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260626063000 +0000" stop="20260626072500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260626072500 +0000" stop="20260626081000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
-</programme>
-<programme start="20260626081000 +0000" stop="20260626090000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
-</programme>
-<programme start="20260626090000 +0000" stop="20260626095000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
-</programme>
-<programme start="20260626095000 +0000" stop="20260626104000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
-</programme>
-<programme start="20260626104000 +0000" stop="20260626112500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Castle</title>
-</programme>
-<programme start="20260626112500 +0000" stop="20260626121000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Castle</title>
-</programme>
-<programme start="20260626121000 +0000" stop="20260626125500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260626125500 +0000" stop="20260626134000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260626134000 +0000" stop="20260626142500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260626142500 +0000" stop="20260626151500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260626151500 +0000" stop="20260626160000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260626160000 +0000" stop="20260626164000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260626164000 +0000" stop="20260626173000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Castle</title>
-</programme>
-<programme start="20260626173000 +0000" stop="20260626181500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Castle</title>
-</programme>
-<programme start="20260626181500 +0000" stop="20260626190000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
-</programme>
-<programme start="20260626190000 +0000" stop="20260626194500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
-</programme>
-<programme start="20260626194500 +0000" stop="20260626203500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe - Grenzfälle des FBI</title>
-</programme>
-<programme start="20260626203500 +0000" stop="20260626212000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Blindspot</title>
-</programme>
-<programme start="20260626212000 +0000" stop="20260626220500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Blindspot</title>
 </programme>

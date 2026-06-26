@@ -202,10 +202,10 @@
   <programme start="20260628131000 +0000" stop="20260628131500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">NeCelebrity</title>
   </programme>
-  <programme start="20260628131500 +0000" stop="20260628132500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260628131500 +0000" stop="20260628133000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Fotka je mŕtva</title>
   </programme>
-  <programme start="20260628132500 +0000" stop="20260628135500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260628133000 +0000" stop="20260628135500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Ikony</title>
   </programme>
   <programme start="20260628135500 +0000" stop="20260628143000 +0000" channel="Dvojka.webtv.sk">
@@ -538,7 +538,7 @@
   <programme start="20260628183000 +0000" stop="20260628204500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Lovecká sezóna</title>
   </programme>
-  <programme start="20260628204500 +0000" stop="20260628224500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260628204500 +0000" stop="20260628224000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Anjel pomsty</title>
   </programme>
   <programme start="20260627203000 +0000" stop="20260627222500 +0000" channel="JOJ.webtv.sk">
@@ -4046,7 +4046,7 @@
     <title lang="id">Otec Braun (7)</title>
   </programme>
   <programme start="20260628023500 +0000" stop="20260628031000 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">Moje místa: Martina Preissová (214)</title>
+    <title lang="id">Moje místa: Martina Preissová</title>
   </programme>
   <programme start="20260628031000 +0000" stop="20260628040000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Krotitelé chaosu III (9)</title>
@@ -10051,19 +10051,19 @@
   <programme start="20260628214500 +0000" stop="20260628221000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XII (260)</title>
   </programme>
-  <programme start="20260627214500 +0000" stop="20260627220500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260627214500 +0000" stop="20260627221000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Příběy Želv ninja I (2)</title>
   </programme>
-  <programme start="20260627220500 +0000" stop="20260627223000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260627221000 +0000" stop="20260627223000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Podivný časoprostor Sammyho a Rádže I (13)</title>
   </programme>
   <programme start="20260627223000 +0000" stop="20260627225000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Tučňáci z Madagaskaru III (10)</title>
   </programme>
-  <programme start="20260627225000 +0000" stop="20260627231000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260627225000 +0000" stop="20260627231500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Nej a Nejnejka I (17)</title>
   </programme>
-  <programme start="20260627231000 +0000" stop="20260627233500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260627231500 +0000" stop="20260627233500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Nej a Nejnejka I (18)</title>
   </programme>
   <programme start="20260627233500 +0000" stop="20260627235500 +0000" channel="Nicktoons.webtv.sk">
@@ -10090,10 +10090,10 @@
   <programme start="20260628020500 +0000" stop="20260628022500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VIII (153)</title>
   </programme>
-  <programme start="20260628022500 +0000" stop="20260628025000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628022500 +0000" stop="20260628024500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VIII (154)</title>
   </programme>
-  <programme start="20260628025000 +0000" stop="20260628030000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628024500 +0000" stop="20260628030000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VI (113)</title>
   </programme>
   <programme start="20260628030000 +0000" stop="20260628032000 +0000" channel="Nicktoons.webtv.sk">
@@ -10123,16 +10123,16 @@
   <programme start="20260628052500 +0000" stop="20260628054500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Patrikova hvězdná show II (12)</title>
   </programme>
-  <programme start="20260628054500 +0000" stop="20260628060500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628054500 +0000" stop="20260628061000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XII (248)</title>
   </programme>
-  <programme start="20260628060500 +0000" stop="20260628062000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628061000 +0000" stop="20260628062000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XI (219)</title>
   </programme>
-  <programme start="20260628062000 +0000" stop="20260628064000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628062000 +0000" stop="20260628064500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Hlasiťákovi X (1)</title>
   </programme>
-  <programme start="20260628064000 +0000" stop="20260628070500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628064500 +0000" stop="20260628070500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Hlasiťákovi IX (3)</title>
   </programme>
   <programme start="20260628070500 +0000" stop="20260628072500 +0000" channel="Nicktoons.webtv.sk">
@@ -10159,103 +10159,103 @@
   <programme start="20260628093000 +0000" stop="20260628095000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi I (14)</title>
   </programme>
-  <programme start="20260628095000 +0000" stop="20260628101000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628095000 +0000" stop="20260628101500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi I (15)</title>
   </programme>
-  <programme start="20260628101000 +0000" stop="20260628103500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628101500 +0000" stop="20260628103500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Hlasiťákovi I (4)</title>
   </programme>
   <programme start="20260628103500 +0000" stop="20260628104500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Hlasiťákovi V (23)</title>
   </programme>
-  <programme start="20260628104500 +0000" stop="20260628110500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628104500 +0000" stop="20260628111000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Hlasiťákovi I (5)</title>
   </programme>
-  <programme start="20260628110500 +0000" stop="20260628113000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628111000 +0000" stop="20260628113000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Tučňáci z Madagaskaru II (32)</title>
   </programme>
-  <programme start="20260628113000 +0000" stop="20260628115000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628113000 +0000" stop="20260628115500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Tučňáci z Madagaskaru II (33)</title>
   </programme>
-  <programme start="20260628115000 +0000" stop="20260628121500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628115500 +0000" stop="20260628121500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Kouzelní kmotříčci: Nové přání I (7)</title>
   </programme>
-  <programme start="20260628121500 +0000" stop="20260628123500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628121500 +0000" stop="20260628124000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Kouzelní kmotříčci: Nové přání I (8)</title>
   </programme>
-  <programme start="20260628123500 +0000" stop="20260628130000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628124000 +0000" stop="20260628130000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Kouzelní kmotříčci: Nové přání I (9)</title>
   </programme>
-  <programme start="20260628130000 +0000" stop="20260628132000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628130000 +0000" stop="20260628132500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (286)</title>
   </programme>
-  <programme start="20260628132000 +0000" stop="20260628134500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628132500 +0000" stop="20260628134500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (287)</title>
   </programme>
-  <programme start="20260628134500 +0000" stop="20260628140500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628134500 +0000" stop="20260628141000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (288)</title>
   </programme>
-  <programme start="20260628140500 +0000" stop="20260628142000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628141000 +0000" stop="20260628142000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XI (219)</title>
   </programme>
-  <programme start="20260628142000 +0000" stop="20260628144000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628142000 +0000" stop="20260628144500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (289)</title>
   </programme>
-  <programme start="20260628144000 +0000" stop="20260628150500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628144500 +0000" stop="20260628150500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Patrikova hvězdná show II (11)</title>
   </programme>
   <programme start="20260628150500 +0000" stop="20260628152500 +0000" channel="Nicktoons.webtv.sk">
-    <title lang="id">Hlasiťákovi VII (18)</title>
+    <title lang="id">Hlasiťákovi IX (3)</title>
   </programme>
-  <programme start="20260628152500 +0000" stop="20260628154500 +0000" channel="Nicktoons.webtv.sk">
-    <title lang="id">Hlasiťákovi VII (20)</title>
+  <programme start="20260628152500 +0000" stop="20260628155000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi IX (4)</title>
   </programme>
-  <programme start="20260628154500 +0000" stop="20260628161000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628155000 +0000" stop="20260628161000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Pinky Malinky I (7)</title>
   </programme>
-  <programme start="20260628161000 +0000" stop="20260628163000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628161000 +0000" stop="20260628163500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Pinky Malinky I (9)</title>
   </programme>
-  <programme start="20260628163000 +0000" stop="20260628164500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628163500 +0000" stop="20260628164500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Tučňáci z Madagaskaru II (2)</title>
   </programme>
-  <programme start="20260628164500 +0000" stop="20260628170500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628164500 +0000" stop="20260628171000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Tučňáci z Madagaskaru II (9)</title>
   </programme>
-  <programme start="20260628170500 +0000" stop="20260628173000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628171000 +0000" stop="20260628173000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Tučňáci z Madagaskaru II (10)</title>
   </programme>
-  <programme start="20260628173000 +0000" stop="20260628174000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628173000 +0000" stop="20260628174500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VI (109)</title>
   </programme>
-  <programme start="20260628174000 +0000" stop="20260628180500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628174500 +0000" stop="20260628180500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VIII (173)</title>
   </programme>
-  <programme start="20260628180500 +0000" stop="20260628182500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628180500 +0000" stop="20260628183000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Show Patricka Hvězdice I (4)</title>
   </programme>
-  <programme start="20260628182500 +0000" stop="20260628185000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628183000 +0000" stop="20260628185000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Show Patricka Hvězdice I (5)</title>
   </programme>
-  <programme start="20260628185000 +0000" stop="20260628191000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628185000 +0000" stop="20260628191500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi III (4)</title>
   </programme>
-  <programme start="20260628191000 +0000" stop="20260628193000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628191500 +0000" stop="20260628193500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Casagrandovi III (5)</title>
   </programme>
-  <programme start="20260628193000 +0000" stop="20260628195500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628193500 +0000" stop="20260628195500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Příběy Želv ninja I (12)</title>
   </programme>
-  <programme start="20260628195500 +0000" stop="20260628201500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628195500 +0000" stop="20260628202000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Patrikova hvězdná show I (19)</title>
   </programme>
-  <programme start="20260628201500 +0000" stop="20260628204000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628202000 +0000" stop="20260628204000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Patrikova hvězdná show I (20)</title>
   </programme>
-  <programme start="20260628204000 +0000" stop="20260628210000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628204000 +0000" stop="20260628210500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">ALVINNN!!! A Chipmunkové V (25)</title>
   </programme>
-  <programme start="20260628210000 +0000" stop="20260628212500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20260628210500 +0000" stop="20260628212500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">ALVINNN!!! A Chipmunkové V (26)</title>
   </programme>
   <programme start="20260628212500 +0000" stop="20260628214500 +0000" channel="Nicktoons.webtv.sk">
@@ -18671,7 +18671,7 @@
     <title lang="id">A Sua immagine</title>
   </programme>
   <programme start="20260628102000 +0000" stop="20260628113000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Linea Verde</title>
+    <title lang="id">Linea Verde Estate</title>
   </programme>
   <programme start="20260628113000 +0000" stop="20260628120000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>

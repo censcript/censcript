@@ -6473,7 +6473,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20260626073000 +0000" stop="20260626080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Catch Japan</title>
 </programme>
 <programme start="20260626080000 +0000" stop="20260626083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6515,7 +6515,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260626133000 +0000" stop="20260626140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Catch Japan</title>
 </programme>
 <programme start="20260626140000 +0000" stop="20260626143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -8203,23 +8203,14 @@
 <programme start="20260626153000 +0000" stop="20260626160000 +0000" channel="Sportstars.mncvision">
     <title>Proliga</title>
 </programme>
-<programme start="20260625170000 +0000" stop="20260625173000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20260625170000 +0000" stop="20260625190000 +0000" channel="Sportstars 2.mncvision">
     <title>Padel Hexagon Cup</title>
-</programme>
-<programme start="20260625173000 +0000" stop="20260625180000 +0000" channel="Sportstars 2.mncvision">
-    <title>MotoGP Inside Ducati Lenovo</title>
-</programme>
-<programme start="20260625180000 +0000" stop="20260625190000 +0000" channel="Sportstars 2.mncvision">
-    <title>WTT Star Contender Ljubljana</title>
 </programme>
 <programme start="20260625190000 +0000" stop="20260625210000 +0000" channel="Sportstars 2.mncvision">
     <title>Road To AFF</title>
 </programme>
-<programme start="20260625210000 +0000" stop="20260625223000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20260625210000 +0000" stop="20260625233000 +0000" channel="Sportstars 2.mncvision">
     <title>Best Of Badminton</title>
-</programme>
-<programme start="20260625223000 +0000" stop="20260625233000 +0000" channel="Sportstars 2.mncvision">
-    <title>WTT Star Contender Ljubljana</title>
 </programme>
 <programme start="20260625233000 +0000" stop="20260626000000 +0000" channel="Sportstars 2.mncvision">
     <title>Sportrivia</title>
@@ -8227,11 +8218,8 @@
 <programme start="20260626000000 +0000" stop="20260626003000 +0000" channel="Sportstars 2.mncvision">
     <title>iNews Sport</title>
 </programme>
-<programme start="20260626003000 +0000" stop="20260626021500 +0000" channel="Sportstars 2.mncvision">
+<programme start="20260626003000 +0000" stop="20260626023000 +0000" channel="Sportstars 2.mncvision">
     <title>WST World Championship</title>
-</programme>
-<programme start="20260626021500 +0000" stop="20260626023000 +0000" channel="Sportstars 2.mncvision">
-    <title>2026 MotoGP Of Czechia</title>
 </programme>
 <programme start="20260626023000 +0000" stop="20260626030000 +0000" channel="Sportstars 2.mncvision">
     <title>Sports Today</title>
@@ -8239,32 +8227,20 @@
 <programme start="20260626030000 +0000" stop="20260626050000 +0000" channel="Sportstars 2.mncvision">
     <title>Road To AFF</title>
 </programme>
-<programme start="20260626050000 +0000" stop="20260626065500 +0000" channel="Sportstars 2.mncvision">
+<programme start="20260626050000 +0000" stop="20260626070000 +0000" channel="Sportstars 2.mncvision">
     <title>Padel Hexagon Cup</title>
-</programme>
-<programme start="20260626065500 +0000" stop="20260626070000 +0000" channel="Sportstars 2.mncvision">
-    <title>2026 MotoGP Of Netherlands (L)</title>
 </programme>
 <programme start="20260626070000 +0000" stop="20260626083000 +0000" channel="Sportstars 2.mncvision">
     <title>Tinju</title>
 </programme>
-<programme start="20260626083000 +0000" stop="20260626094500 +0000" channel="Sportstars 2.mncvision">
+<programme start="20260626083000 +0000" stop="20260626103000 +0000" channel="Sportstars 2.mncvision">
     <title>Road To AFF</title>
 </programme>
-<programme start="20260626094500 +0000" stop="20260626103000 +0000" channel="Sportstars 2.mncvision">
-    <title>MotoGP Classic: 2013 Assen</title>
-</programme>
-<programme start="20260626103000 +0000" stop="20260626111000 +0000" channel="Sportstars 2.mncvision">
+<programme start="20260626103000 +0000" stop="20260626130000 +0000" channel="Sportstars 2.mncvision">
     <title>Best Of Badminton</title>
 </programme>
-<programme start="20260626111000 +0000" stop="20260626130000 +0000" channel="Sportstars 2.mncvision">
-    <title>2026 MotoGP Of Netherlands (L)</title>
-</programme>
-<programme start="20260626130000 +0000" stop="20260626141500 +0000" channel="Sportstars 2.mncvision">
+<programme start="20260626130000 +0000" stop="20260626150000 +0000" channel="Sportstars 2.mncvision">
     <title>WST World Championship</title>
-</programme>
-<programme start="20260626141500 +0000" stop="20260626150000 +0000" channel="Sportstars 2.mncvision">
-    <title>2026 MLB: MIN Vs LAD</title>
 </programme>
 <programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="Sportstars 2.mncvision">
     <title>Extra Time</title>
