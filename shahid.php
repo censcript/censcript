@@ -175,192 +175,6 @@
     <programme start="20260628230917 +0000" stop="20260628235959 +0000" channel="988045.shahid">
         <title>Hadeeth Al Maraya Episode 3</title>
     </programme>
-    <programme start="20260627000000 +0000" stop="20260627000000 +0000" channel="387251.shahid">
-        <title>Super Miro  </title>
-    </programme>
-    <programme start="20260627000000 +0000" stop="20260627010000 +0000" channel="387251.shahid">
-        <title>Omm Haroun  </title>
-    </programme>
-    <programme start="20260627010000 +0000" stop="20260627020000 +0000" channel="387251.shahid">
-        <title>Crystal  </title>
-    </programme>
-    <programme start="20260627020000 +0000" stop="20260627030000 +0000" channel="387251.shahid">
-        <title>Mojamma&#039; 75  </title>
-    </programme>
-    <programme start="20260627030000 +0000" stop="20260627035500 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 238</title>
-    </programme>
-    <programme start="20260627035500 +0000" stop="20260627045500 +0000" channel="387251.shahid">
-        <title>Younis Weld Fada  </title>
-    </programme>
-    <programme start="20260627045500 +0000" stop="20260627055500 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260627055500 +0000" stop="20260627060000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260627060000 +0000" stop="20260627070000 +0000" channel="387251.shahid">
-        <title>Al A&#039;ela  </title>
-    </programme>
-    <programme start="20260627070000 +0000" stop="20260627080000 +0000" channel="387251.shahid">
-        <title>Super Miro  </title>
-    </programme>
-    <programme start="20260627080000 +0000" stop="20260627090000 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260627090000 +0000" stop="20260627100000 +0000" channel="387251.shahid">
-        <title>Omm Haroun  </title>
-    </programme>
-    <programme start="20260627100000 +0000" stop="20260627105400 +0000" channel="387251.shahid">
-        <title>Mojamma&#039; 75  </title>
-    </programme>
-    <programme start="20260627105400 +0000" stop="20260627110000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260627110000 +0000" stop="20260627114500 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 238</title>
-    </programme>
-    <programme start="20260627114500 +0000" stop="20260627120000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260627120000 +0000" stop="20260627130000 +0000" channel="387251.shahid">
-        <title>Younis Weld Fada  </title>
-    </programme>
-    <programme start="20260627130000 +0000" stop="20260627140000 +0000" channel="387251.shahid">
-        <title>Crystal  </title>
-    </programme>
-    <programme start="20260627140000 +0000" stop="20260627150000 +0000" channel="387251.shahid">
-        <title>Al A&#039;ela  </title>
-    </programme>
-    <programme start="20260627150000 +0000" stop="20260627155200 +0000" channel="387251.shahid">
-        <title>Super Miro  </title>
-    </programme>
-    <programme start="20260627155200 +0000" stop="20260627160000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260627160000 +0000" stop="20260627165500 +0000" channel="387251.shahid">
-        <title>Omm Haroun  </title>
-    </programme>
-    <programme start="20260627165500 +0000" stop="20260627170000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260627170000 +0000" stop="20260627180000 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260627180000 +0000" stop="20260627185100 +0000" channel="387251.shahid">
-        <title>Mojamma&#039; 75  </title>
-    </programme>
-    <programme start="20260627185100 +0000" stop="20260627190000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260627190000 +0000" stop="20260627194500 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 239</title>
-    </programme>
-    <programme start="20260627194500 +0000" stop="20260627200000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260627200000 +0000" stop="20260627210000 +0000" channel="387251.shahid">
-        <title>Younis Weld Fada  </title>
-    </programme>
-    <programme start="20260627210000 +0000" stop="20260627220000 +0000" channel="387251.shahid">
-        <title>Crystal  </title>
-    </programme>
-    <programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="387251.shahid">
-        <title>Al A&#039;ela  </title>
-    </programme>
-    <programme start="20260627230000 +0000" stop="20260628000000 +0000" channel="387251.shahid">
-        <title>Super Miro  </title>
-    </programme>
-    <programme start="20260628000000 +0000" stop="20260628005500 +0000" channel="387251.shahid">
-        <title>Omm Haroun  </title>
-    </programme>
-    <programme start="20260628005500 +0000" stop="20260628010000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260628010000 +0000" stop="20260628020000 +0000" channel="387251.shahid">
-        <title>Crystal  </title>
-    </programme>
-    <programme start="20260628020000 +0000" stop="20260628025100 +0000" channel="387251.shahid">
-        <title>Mojamma&#039; 75  </title>
-    </programme>
-    <programme start="20260628025100 +0000" stop="20260628030000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260628030000 +0000" stop="20260628034500 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 239</title>
-    </programme>
-    <programme start="20260628034500 +0000" stop="20260628040000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="387251.shahid">
-        <title>Younis Weld Fada  </title>
-    </programme>
-    <programme start="20260628050000 +0000" stop="20260628055500 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260628055500 +0000" stop="20260628070000 +0000" channel="387251.shahid">
-        <title>Al A&#039;ela  </title>
-    </programme>
-    <programme start="20260628070000 +0000" stop="20260628080000 +0000" channel="387251.shahid">
-        <title>Super Miro  </title>
-    </programme>
-    <programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260628090000 +0000" stop="20260628100000 +0000" channel="387251.shahid">
-        <title>Omm Haroun  </title>
-    </programme>
-    <programme start="20260628100000 +0000" stop="20260628105300 +0000" channel="387251.shahid">
-        <title>Mojamma&#039; 75  </title>
-    </programme>
-    <programme start="20260628105300 +0000" stop="20260628110000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260628110000 +0000" stop="20260628114800 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 239</title>
-    </programme>
-    <programme start="20260628114800 +0000" stop="20260628115500 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260628115500 +0000" stop="20260628125300 +0000" channel="387251.shahid">
-        <title>Younis Weld Fada  </title>
-    </programme>
-    <programme start="20260628125300 +0000" stop="20260628130000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="387251.shahid">
-        <title>Crystal  </title>
-    </programme>
-    <programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="387251.shahid">
-        <title>Al A&#039;ela  </title>
-    </programme>
-    <programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="387251.shahid">
-        <title>Super Miro  </title>
-    </programme>
-    <programme start="20260628160000 +0000" stop="20260628170000 +0000" channel="387251.shahid">
-        <title>Omm Haroun  </title>
-    </programme>
-    <programme start="20260628170000 +0000" stop="20260628180000 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260628180000 +0000" stop="20260628190000 +0000" channel="387251.shahid">
-        <title>Mojamma&#039; 75  </title>
-    </programme>
-    <programme start="20260628190000 +0000" stop="20260628195500 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 240</title>
-    </programme>
-    <programme start="20260628195500 +0000" stop="20260628210000 +0000" channel="387251.shahid">
-        <title>Younis Weld Fada  </title>
-    </programme>
-    <programme start="20260628210000 +0000" stop="20260628220000 +0000" channel="387251.shahid">
-        <title>Crystal  </title>
-    </programme>
-    <programme start="20260628220000 +0000" stop="20260628230500 +0000" channel="387251.shahid">
-        <title>Al A&#039;ela  </title>
-    </programme>
-    <programme start="20260628230500 +0000" stop="20260628235959 +0000" channel="387251.shahid">
-        <title>Super Miro  </title>
-    </programme>
     <programme start="20260627000000 +0000" stop="20260627002340 +0000" channel="969745.shahid">
         <title>Kollona Iyal Qrayya Season 1 Episode 13</title>
     </programme>
@@ -648,6 +462,192 @@
     </programme>
     <programme start="20260628235719 +0000" stop="20260628235959 +0000" channel="969745.shahid">
         <title>Makhraj 7 Season 1 Episode 1</title>
+    </programme>
+    <programme start="20260627000000 +0000" stop="20260627000000 +0000" channel="387251.shahid">
+        <title>Super Miro  </title>
+    </programme>
+    <programme start="20260627000000 +0000" stop="20260627010000 +0000" channel="387251.shahid">
+        <title>Omm Haroun  </title>
+    </programme>
+    <programme start="20260627010000 +0000" stop="20260627020000 +0000" channel="387251.shahid">
+        <title>Crystal  </title>
+    </programme>
+    <programme start="20260627020000 +0000" stop="20260627030000 +0000" channel="387251.shahid">
+        <title>Mojamma&#039; 75  </title>
+    </programme>
+    <programme start="20260627030000 +0000" stop="20260627035500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 238</title>
+    </programme>
+    <programme start="20260627035500 +0000" stop="20260627045500 +0000" channel="387251.shahid">
+        <title>Younis Weld Fada  </title>
+    </programme>
+    <programme start="20260627045500 +0000" stop="20260627055500 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260627055500 +0000" stop="20260627060000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260627060000 +0000" stop="20260627070000 +0000" channel="387251.shahid">
+        <title>Al A&#039;ela  </title>
+    </programme>
+    <programme start="20260627070000 +0000" stop="20260627080000 +0000" channel="387251.shahid">
+        <title>Super Miro  </title>
+    </programme>
+    <programme start="20260627080000 +0000" stop="20260627090000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260627090000 +0000" stop="20260627100000 +0000" channel="387251.shahid">
+        <title>Omm Haroun  </title>
+    </programme>
+    <programme start="20260627100000 +0000" stop="20260627105400 +0000" channel="387251.shahid">
+        <title>Mojamma&#039; 75  </title>
+    </programme>
+    <programme start="20260627105400 +0000" stop="20260627110000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260627110000 +0000" stop="20260627114500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 238</title>
+    </programme>
+    <programme start="20260627114500 +0000" stop="20260627120000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260627120000 +0000" stop="20260627130000 +0000" channel="387251.shahid">
+        <title>Younis Weld Fada  </title>
+    </programme>
+    <programme start="20260627130000 +0000" stop="20260627140000 +0000" channel="387251.shahid">
+        <title>Crystal  </title>
+    </programme>
+    <programme start="20260627140000 +0000" stop="20260627150000 +0000" channel="387251.shahid">
+        <title>Al A&#039;ela  </title>
+    </programme>
+    <programme start="20260627150000 +0000" stop="20260627155200 +0000" channel="387251.shahid">
+        <title>Super Miro  </title>
+    </programme>
+    <programme start="20260627155200 +0000" stop="20260627160000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260627160000 +0000" stop="20260627165500 +0000" channel="387251.shahid">
+        <title>Omm Haroun  </title>
+    </programme>
+    <programme start="20260627165500 +0000" stop="20260627170000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260627170000 +0000" stop="20260627180000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260627180000 +0000" stop="20260627185100 +0000" channel="387251.shahid">
+        <title>Mojamma&#039; 75  </title>
+    </programme>
+    <programme start="20260627185100 +0000" stop="20260627190000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260627190000 +0000" stop="20260627194500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 239</title>
+    </programme>
+    <programme start="20260627194500 +0000" stop="20260627200000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260627200000 +0000" stop="20260627210000 +0000" channel="387251.shahid">
+        <title>Younis Weld Fada  </title>
+    </programme>
+    <programme start="20260627210000 +0000" stop="20260627220000 +0000" channel="387251.shahid">
+        <title>Crystal  </title>
+    </programme>
+    <programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="387251.shahid">
+        <title>Al A&#039;ela  </title>
+    </programme>
+    <programme start="20260627230000 +0000" stop="20260628000000 +0000" channel="387251.shahid">
+        <title>Super Miro  </title>
+    </programme>
+    <programme start="20260628000000 +0000" stop="20260628005500 +0000" channel="387251.shahid">
+        <title>Omm Haroun  </title>
+    </programme>
+    <programme start="20260628005500 +0000" stop="20260628010000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260628010000 +0000" stop="20260628020000 +0000" channel="387251.shahid">
+        <title>Crystal  </title>
+    </programme>
+    <programme start="20260628020000 +0000" stop="20260628025100 +0000" channel="387251.shahid">
+        <title>Mojamma&#039; 75  </title>
+    </programme>
+    <programme start="20260628025100 +0000" stop="20260628030000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260628030000 +0000" stop="20260628034500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 239</title>
+    </programme>
+    <programme start="20260628034500 +0000" stop="20260628040000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="387251.shahid">
+        <title>Younis Weld Fada  </title>
+    </programme>
+    <programme start="20260628050000 +0000" stop="20260628055500 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260628055500 +0000" stop="20260628070000 +0000" channel="387251.shahid">
+        <title>Al A&#039;ela  </title>
+    </programme>
+    <programme start="20260628070000 +0000" stop="20260628080000 +0000" channel="387251.shahid">
+        <title>Super Miro  </title>
+    </programme>
+    <programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260628090000 +0000" stop="20260628100000 +0000" channel="387251.shahid">
+        <title>Omm Haroun  </title>
+    </programme>
+    <programme start="20260628100000 +0000" stop="20260628105300 +0000" channel="387251.shahid">
+        <title>Mojamma&#039; 75  </title>
+    </programme>
+    <programme start="20260628105300 +0000" stop="20260628110000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260628110000 +0000" stop="20260628114800 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 239</title>
+    </programme>
+    <programme start="20260628114800 +0000" stop="20260628115500 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260628115500 +0000" stop="20260628125300 +0000" channel="387251.shahid">
+        <title>Younis Weld Fada  </title>
+    </programme>
+    <programme start="20260628125300 +0000" stop="20260628130000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="387251.shahid">
+        <title>Crystal  </title>
+    </programme>
+    <programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="387251.shahid">
+        <title>Al A&#039;ela  </title>
+    </programme>
+    <programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="387251.shahid">
+        <title>Super Miro  </title>
+    </programme>
+    <programme start="20260628160000 +0000" stop="20260628170000 +0000" channel="387251.shahid">
+        <title>Omm Haroun  </title>
+    </programme>
+    <programme start="20260628170000 +0000" stop="20260628180000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260628180000 +0000" stop="20260628190000 +0000" channel="387251.shahid">
+        <title>Mojamma&#039; 75  </title>
+    </programme>
+    <programme start="20260628190000 +0000" stop="20260628195500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 240</title>
+    </programme>
+    <programme start="20260628195500 +0000" stop="20260628210000 +0000" channel="387251.shahid">
+        <title>Younis Weld Fada  </title>
+    </programme>
+    <programme start="20260628210000 +0000" stop="20260628220000 +0000" channel="387251.shahid">
+        <title>Crystal  </title>
+    </programme>
+    <programme start="20260628220000 +0000" stop="20260628230500 +0000" channel="387251.shahid">
+        <title>Al A&#039;ela  </title>
+    </programme>
+    <programme start="20260628230500 +0000" stop="20260628235959 +0000" channel="387251.shahid">
+        <title>Super Miro  </title>
     </programme>
     <programme start="20260627000000 +0000" stop="20260628235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
@@ -6328,9 +6328,6 @@
     <programme start="20260628233000 +0000" stop="20260628235959 +0000" channel="387238.shahid">
         <title>Akhi Season 1 Episode 67</title>
     </programme>
-    <programme start="20260627000000 +0000" stop="20260628235959 +0000" channel="1029746.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260627000000 +0000" stop="20260627002046 +0000" channel="992538.shahid">
         <title>El Le&#039;ba Season 1 Episode 30</title>
     </programme>
@@ -6555,6 +6552,9 @@
     </programme>
     <programme start="20260628234554 +0000" stop="20260628235959 +0000" channel="992538.shahid">
         <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
+    </programme>
+    <programme start="20260627000000 +0000" stop="20260628235959 +0000" channel="1029746.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260627000000 +0000" stop="20260628235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
@@ -6856,6 +6856,9 @@
     <programme start="20260627000000 +0000" stop="20260628235959 +0000" channel="946948.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260627000000 +0000" stop="20260628235959 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260627000000 +0000" stop="20260627000811 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 2 Episode 13</title>
     </programme>
@@ -7100,9 +7103,6 @@
         <title>Tash Ma Tash Season 7 Episode 6</title>
     </programme>
     <programme start="20260628122605 +0000" stop="20260628235959 +0000" channel="963543.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260627000000 +0000" stop="20260628235959 +0000" channel="995495.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260627000000 +0000" stop="20260628235959 +0000" channel="414449.shahid">

@@ -2109,93 +2109,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626212000 +0000" stop="20260626221000 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
 </programme>
-<programme start="20260625222500 +0000" stop="20260625231500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die großen Parks in Afrika</title>
-</programme>
-<programme start="20260625231500 +0000" stop="20260626000000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die großen Parks in Afrika</title>
-</programme>
-<programme start="20260626000000 +0000" stop="20260626005000 +0000" channel="Sky Nature HD.skyde">
-    <title>Portugal - wild und ungezähmt</title>
-</programme>
-<programme start="20260626005000 +0000" stop="20260626014500 +0000" channel="Sky Nature HD.skyde">
-    <title>Verborgene Schätze der USA</title>
-</programme>
-<programme start="20260626014500 +0000" stop="20260626024000 +0000" channel="Sky Nature HD.skyde">
-    <title>Verborgene Schätze der USA</title>
-</programme>
-<programme start="20260626024000 +0000" stop="20260626032500 +0000" channel="Sky Nature HD.skyde">
-    <title>Terra X: Blaues Wunder Pazifik</title>
-</programme>
-<programme start="20260626032500 +0000" stop="20260626035000 +0000" channel="Sky Nature HD.skyde">
-    <title>Angriff und Verteidigung</title>
-</programme>
-<programme start="20260626035000 +0000" stop="20260626044500 +0000" channel="Sky Nature HD.skyde">
-    <title>Zoo und so - Tierisch wild!</title>
-</programme>
-<programme start="20260626044500 +0000" stop="20260626053500 +0000" channel="Sky Nature HD.skyde">
-    <title>Zoo und so - Tierisch wild!</title>
-</programme>
-<programme start="20260626053500 +0000" stop="20260626062500 +0000" channel="Sky Nature HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20260626062500 +0000" stop="20260626071500 +0000" channel="Sky Nature HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20260626071500 +0000" stop="20260626080500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Geheimnisse der verwunschenen Gewässer</title>
-</programme>
-<programme start="20260626080500 +0000" stop="20260626090000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Geheimnisse der verwunschenen Gewässer</title>
-</programme>
-<programme start="20260626090000 +0000" stop="20260626095000 +0000" channel="Sky Nature HD.skyde">
-    <title>Kanada: Ein Jahr in der Wildnis</title>
-</programme>
-<programme start="20260626095000 +0000" stop="20260626104000 +0000" channel="Sky Nature HD.skyde">
-    <title>Kanada: Ein Jahr in der Wildnis</title>
-</programme>
-<programme start="20260626104000 +0000" stop="20260626113000 +0000" channel="Sky Nature HD.skyde">
-    <title>Terra X: Eine Erde - viele Welten</title>
-</programme>
-<programme start="20260626113000 +0000" stop="20260626122000 +0000" channel="Sky Nature HD.skyde">
-    <title>Terra X: Eine Erde - viele Welten</title>
-</programme>
-<programme start="20260626122000 +0000" stop="20260626131000 +0000" channel="Sky Nature HD.skyde">
-    <title>Terra X: Blaues Wunder Pazifik</title>
-</programme>
-<programme start="20260626131000 +0000" stop="20260626140000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Geheimnisse der verwunschenen Gewässer</title>
-</programme>
-<programme start="20260626140000 +0000" stop="20260626150000 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Geheimnisse der verwunschenen Gewässer</title>
-</programme>
-<programme start="20260626150000 +0000" stop="20260626154500 +0000" channel="Sky Nature HD.skyde">
-    <title>Kanada: Ein Jahr in der Wildnis</title>
-</programme>
-<programme start="20260626154500 +0000" stop="20260626163500 +0000" channel="Sky Nature HD.skyde">
-    <title>Kanada: Ein Jahr in der Wildnis</title>
-</programme>
-<programme start="20260626163500 +0000" stop="20260626172500 +0000" channel="Sky Nature HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20260626172500 +0000" stop="20260626181500 +0000" channel="Sky Nature HD.skyde">
-    <title>Tierarzt Dr. Jeff - Der Rocky Mountain Doc</title>
-</programme>
-<programme start="20260626181500 +0000" stop="20260626191000 +0000" channel="Sky Nature HD.skyde">
-    <title>Champions der Tierwelt</title>
-</programme>
-<programme start="20260626191000 +0000" stop="20260626200500 +0000" channel="Sky Nature HD.skyde">
-    <title>Champions der Tierwelt</title>
-</programme>
-<programme start="20260626200500 +0000" stop="20260626203500 +0000" channel="Sky Nature HD.skyde">
-    <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
-</programme>
-<programme start="20260626203500 +0000" stop="20260626211000 +0000" channel="Sky Nature HD.skyde">
-    <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
-</programme>
-<programme start="20260626211000 +0000" stop="20260626220500 +0000" channel="Sky Nature HD.skyde">
-    <title>Die Königinnen der Savanne</title>
-</programme>
 <programme start="20260625220000 +0000" stop="20260625224500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
@@ -2676,14 +2589,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626030000 +0000" stop="20260626040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 2025 (Rory McIllroy)</title>
 </programme>
-<programme start="20260626040000 +0000" stop="20260626070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260626040000 +0000" stop="20260626080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Early Session) in Chaska, MN (USA)</title>
 </programme>
-<programme start="20260626070000 +0000" stop="20260626090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260626080000 +0000" stop="20260626100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Late Session) in Chaska, MN (USA)</title>
-</programme>
-<programme start="20260626090000 +0000" stop="20260626100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2025 (Rory McIllroy)</title>
 </programme>
 <programme start="20260626100000 +0000" stop="20260626130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag in Southampton, NY (USA)</title>
@@ -3228,7 +3138,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
-<programme start="20260626153000 +0000" stop="20260626203000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260626153000 +0000" stop="20260626173000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260625222500 +0000" stop="20260625231000 +0000" channel="SYFY HD.skyde">

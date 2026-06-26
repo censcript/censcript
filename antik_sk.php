@@ -1690,53 +1690,56 @@
   <programme start="20260628211500 +0000" stop="20260628220000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Štúdio 24</title>
   </programme>
-  <programme start="20260627213900 +0000" stop="20260627225400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260627214000 +0000" stop="20260627225500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Pierre Richard: Návrat veľkého blondína</title>
   </programme>
-  <programme start="20260627225400 +0000" stop="20260628001400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260627225500 +0000" stop="20260628001500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Závrat</title>
   </programme>
-  <programme start="20260628001400 +0000" stop="20260628005900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628001500 +0000" stop="20260628010000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Rockové legendy - Coldplay (13)</title>
   </programme>
-  <programme start="20260628005900 +0000" stop="20260628015400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628010000 +0000" stop="20260628015500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Nevyhlásená vojna: Irán verzus Izrael a USA (2)</title>
   </programme>
-  <programme start="20260628015400 +0000" stop="20260628024400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628015500 +0000" stop="20260628024500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Legendy opery - Luciano Pavarotti (2)</title>
   </programme>
-  <programme start="20260628024400 +0000" stop="20260628032900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628024500 +0000" stop="20260628033000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Okres strachu (21)</title>
   </programme>
-  <programme start="20260628032900 +0000" stop="20260628040900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628033000 +0000" stop="20260628041000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">V tieni zločinu - Erik Magál</title>
   </programme>
-  <programme start="20260628040900 +0000" stop="20260628043900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628041000 +0000" stop="20260628044000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Rockové legendy - R.E.M (7)</title>
   </programme>
-  <programme start="20260628043900 +0000" stop="20260628052900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628044000 +0000" stop="20260628053000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Poklady z povaly (2)</title>
   </programme>
-  <programme start="20260628052900 +0000" stop="20260628061400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628053000 +0000" stop="20260628061500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Harry a Meghan (3)</title>
   </programme>
-  <programme start="20260628061400 +0000" stop="20260628065900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628061500 +0000" stop="20260628070000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Rodinný seriál: V siedmom nebi (4)</title>
   </programme>
-  <programme start="20260628065900 +0000" stop="20260628074400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628070000 +0000" stop="20260628074500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Rodinný seriál: V siedmom nebi (5)</title>
   </programme>
-  <programme start="20260628074400 +0000" stop="20260628082900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628074500 +0000" stop="20260628083000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Rodinný seriál: V siedmom nebi (6)</title>
   </programme>
-  <programme start="20260628082900 +0000" stop="20260628093400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628083000 +0000" stop="20260628093500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Svätá omša zo Šaštína</title>
   </programme>
-  <programme start="20260628093400 +0000" stop="20260628100000 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628093500 +0000" stop="20260628100000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Hodvábna cesta (11)</title>
   </programme>
-  <programme start="20260628100000 +0000" stop="20260628105000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Objavujeme - John Lennon (7)</title>
+  <programme start="20260628100000 +0000" stop="20260628103500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Len peniaze nestačia - Eva Bučeková</title>
+  </programme>
+  <programme start="20260628103500 +0000" stop="20260628105000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Tatranský národný park</title>
   </programme>
   <programme start="20260628105000 +0000" stop="20260628115000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Boh ochraňuj Rusko</title>
@@ -1753,22 +1756,22 @@
   <programme start="20260628151000 +0000" stop="20260628164000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Pierre Richard: To nie som ja, to je on!</title>
   </programme>
-  <programme start="20260628164000 +0000" stop="20260628165900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628164000 +0000" stop="20260628170000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Cestujeme bez batožiny - Mexiko, Palenque (58)</title>
   </programme>
-  <programme start="20260628165900 +0000" stop="20260628172400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628170000 +0000" stop="20260628172500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Výstavba Bratislavy-Petržalky - SFU</title>
   </programme>
-  <programme start="20260628172400 +0000" stop="20260628181400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628172500 +0000" stop="20260628181500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Poklady z povaly (3)</title>
   </programme>
-  <programme start="20260628181400 +0000" stop="20260628194400 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628181500 +0000" stop="20260628194500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Rodáci (4)</title>
   </programme>
-  <programme start="20260628194400 +0000" stop="20260628211900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628194500 +0000" stop="20260628212000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Gérard Depardieu: Gróf monte Christo - 4. časť</title>
   </programme>
-  <programme start="20260628211900 +0000" stop="20260628234900 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260628212000 +0000" stop="20260628235000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Toman</title>
   </programme>
   <programme start="20260627214500 +0000" stop="20260627220500 +0000" channel="Jojko.webtv.sk">
