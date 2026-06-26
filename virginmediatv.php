@@ -2483,7 +2483,7 @@
     <title>BBC News at Six</title>
 </programme>
 <programme start="20260626173000 +0000" stop="20260626180000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Iran War This Week</title>
+    <title>The World Today with Maryam Moshiri</title>
 </programme>
 <programme start="20260626000000 +0000" stop="20260626010000 +0000" channel="Sky_News_HD.virginmediatv">
     <title>Sky News</title>
@@ -2624,7 +2624,7 @@
     <title>The Europe Conversation</title>
 </programme>
 <programme start="20260626124500 +0000" stop="20260626130000 +0000" channel="Euronews.virginmediatv">
-    <title>To Be Announced</title>
+    <title>12 minutes with</title>
 </programme>
 <programme start="20260626130000 +0000" stop="20260626131400 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
@@ -2633,13 +2633,13 @@
     <title>Euronews Now</title>
 </programme>
 <programme start="20260626132900 +0000" stop="20260626135100 +0000" channel="Euronews.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Ring</title>
 </programme>
 <programme start="20260626135100 +0000" stop="20260626135200 +0000" channel="Euronews.virginmediatv">
     <title>News</title>
 </programme>
 <programme start="20260626135200 +0000" stop="20260626140000 +0000" channel="Euronews.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Ring</title>
 </programme>
 <programme start="20260626140000 +0000" stop="20260626141500 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
@@ -2654,7 +2654,7 @@
     <title>The European debrief</title>
 </programme>
 <programme start="20260626151500 +0000" stop="20260626153400 +0000" channel="Euronews.virginmediatv">
-    <title>To Be Announced</title>
+    <title>12 minutes with</title>
 </programme>
 <programme start="20260626153400 +0000" stop="20260626160000 +0000" channel="Euronews.virginmediatv">
     <title>The Europe Conversation</title>
@@ -2675,10 +2675,10 @@
     <title>The European debrief</title>
 </programme>
 <programme start="20260626172900 +0000" stop="20260626175200 +0000" channel="Euronews.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Ring</title>
 </programme>
 <programme start="20260626175200 +0000" stop="20260626180000 +0000" channel="Euronews.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Ring</title>
 </programme>
 <programme start="20260626000000 +0000" stop="20260626003000 +0000" channel="CNBC_Europe.virginmediatv">
     <title>Squawk Box Asia</title>
@@ -2885,7 +2885,7 @@
     <title>The World Today with Maryam Moshiri</title>
 </programme>
 <programme start="20260626173000 +0000" stop="20260626180000 +0000" channel="BBC_News.virginmediatv">
-    <title>The Iran War This Week</title>
+    <title>The World Today with Maryam Moshiri</title>
 </programme>
 <programme start="20260626000000 +0000" stop="20260626014000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Committees Replay</title>

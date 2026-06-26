@@ -1635,6 +1635,90 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626212000 +0000" stop="20260626221000 +0000" channel="Romance TV HD.skyde">
     <title>Tierärztin Dr. Mertens</title>
 </programme>
+<programme start="20260625223000 +0000" stop="20260625232500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260625232500 +0000" stop="20260626003000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260626003000 +0000" stop="20260626013500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260626013500 +0000" stop="20260626023000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260626023000 +0000" stop="20260626025500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The House that Dragons Built: Episode 1</title>
+</programme>
+<programme start="20260626025500 +0000" stop="20260626033000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Lovers</title>
+</programme>
+<programme start="20260626033000 +0000" stop="20260626040000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Lovers</title>
+</programme>
+<programme start="20260626040000 +0000" stop="20260626043000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Lovers</title>
+</programme>
+<programme start="20260626043000 +0000" stop="20260626050000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Lovers</title>
+</programme>
+<programme start="20260626050000 +0000" stop="20260626052500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Lovers</title>
+</programme>
+<programme start="20260626052500 +0000" stop="20260626060000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Lovers</title>
+</programme>
+<programme start="20260626060000 +0000" stop="20260626065000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Amadeus</title>
+</programme>
+<programme start="20260626065000 +0000" stop="20260626074500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Amadeus</title>
+</programme>
+<programme start="20260626074500 +0000" stop="20260626084500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Amadeus</title>
+</programme>
+<programme start="20260626084500 +0000" stop="20260626094000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Amadeus</title>
+</programme>
+<programme start="20260626094000 +0000" stop="20260626103000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Amadeus</title>
+</programme>
+<programme start="20260626103000 +0000" stop="20260626112500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Westworld</title>
+</programme>
+<programme start="20260626112500 +0000" stop="20260626122000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Westworld</title>
+</programme>
+<programme start="20260626122000 +0000" stop="20260626131500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Westworld</title>
+</programme>
+<programme start="20260626131500 +0000" stop="20260626141000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Westworld</title>
+</programme>
+<programme start="20260626141000 +0000" stop="20260626151500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Westworld</title>
+</programme>
+<programme start="20260626151500 +0000" stop="20260626161500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Westworld</title>
+</programme>
+<programme start="20260626161500 +0000" stop="20260626171000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Westworld</title>
+</programme>
+<programme start="20260626171000 +0000" stop="20260626181500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Westworld</title>
+</programme>
+<programme start="20260626181500 +0000" stop="20260626192000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260626192000 +0000" stop="20260626202500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260626202500 +0000" stop="20260626213500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260626213500 +0000" stop="20260626224000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
 <programme start="20260625232000 +0000" stop="20260626010000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Rambo II - Der Auftrag</title>
 </programme>
@@ -2382,6 +2466,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626213500 +0000" stop="20260626220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 29-32)</title>
 </programme>
+<programme start="20260626073500 +0000" stop="20260626075500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Motorsport: Es folgt</title>
+</programme>
 <programme start="20260626075500 +0000" stop="20260626085000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F3: Training - GP Österreich</title>
 </programme>
@@ -2415,7 +2502,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626144500 +0000" stop="20260626163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: 2. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20260626163000 +0000" stop="20260626173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260626163000 +0000" stop="20260626183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>F1: Pressekonferenz Teamchefs - GP Österreich</title>
 </programme>
 <programme start="20260625224000 +0000" stop="20260626004000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2589,11 +2676,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626030000 +0000" stop="20260626040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 2025 (Rory McIllroy)</title>
 </programme>
-<programme start="20260626040000 +0000" stop="20260626080000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260626040000 +0000" stop="20260626070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Early Session) in Chaska, MN (USA)</title>
 </programme>
-<programme start="20260626080000 +0000" stop="20260626100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260626070000 +0000" stop="20260626090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Late Session) in Chaska, MN (USA)</title>
+</programme>
+<programme start="20260626090000 +0000" stop="20260626100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: Official Film 2025 (Rory McIllroy)</title>
 </programme>
 <programme start="20260626100000 +0000" stop="20260626130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: 4. Tag in Southampton, NY (USA)</title>
@@ -3009,10 +3099,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626144500 +0000" stop="20260626163000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: 2. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20260626163000 +0000" stop="20260626173000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260626163000 +0000" stop="20260626170000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Pressekonferenz Teamchefs - GP Österreich</title>
 </programme>
-<programme start="20260626173000 +0000" stop="20260626180000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260626170000 +0000" stop="20260626173000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
 <programme start="20260626180000 +0000" stop="20260626193000 +0000" channel="Sky Sport UHD.skyde">
@@ -3132,11 +3222,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626124000 +0000" stop="20260626130000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
-<programme start="20260626130000 +0000" stop="20260626153000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
+<programme start="20260626130000 +0000" stop="20260626150000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live ATP 250: HF1, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
-<programme start="20260626153000 +0000" stop="20260626203000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
+<programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Es folgt: LIVE ATP World Tour:</title>
+</programme>
+<programme start="20260626153000 +0000" stop="20260626173000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live ATP 250: HF2, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260625222500 +0000" stop="20260625231000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
@@ -3544,45 +3637,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Shanghai Knights</title>
 </programme>
 <programme start="20260626201000 +0000" stop="20260626221000 +0000" channel="Warner TV Film.skyde">
-    <title>Scream 3</title>
-</programme>
-<programme start="20260625224500 +0000" stop="20260626010500 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Dark Knight</title>
-</programme>
-<programme start="20260626010500 +0000" stop="20260626020500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Wilde Westen: Die ersten 100 Jahre</title>
-</programme>
-<programme start="20260626020500 +0000" stop="20260626040000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Tote schlafen fest</title>
-</programme>
-<programme start="20260626040000 +0000" stop="20260626052000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Police Academy 7 - Mission in Moskau</title>
-</programme>
-<programme start="20260626052000 +0000" stop="20260626065500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Kugeln sind sein Autogramm</title>
-</programme>
-<programme start="20260626065500 +0000" stop="20260626085500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Des Königs Admiral</title>
-</programme>
-<programme start="20260626085500 +0000" stop="20260626105000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Jeremiah Johnson</title>
-</programme>
-<programme start="20260626105000 +0000" stop="20260626123500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Spur des Falken</title>
-</programme>
-<programme start="20260626123500 +0000" stop="20260626143500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Instinkt</title>
-</programme>
-<programme start="20260626143500 +0000" stop="20260626163000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Demolition Man</title>
-</programme>
-<programme start="20260626163000 +0000" stop="20260626181500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Big Trouble in Little China</title>
-</programme>
-<programme start="20260626181500 +0000" stop="20260626201000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Shanghai Knights</title>
-</programme>
-<programme start="20260626201000 +0000" stop="20260626221000 +0000" channel="Warner TV Film HD.skyde">
     <title>Scream 3</title>
 </programme>
 <programme start="20260625220500 +0000" stop="20260625225000 +0000" channel="Warner TV Serie HD.skyde">
