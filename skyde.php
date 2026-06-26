@@ -849,94 +849,88 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626215500 +0000" stop="20260626221500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260625222500 +0000" stop="20260625231000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260624222500 +0000" stop="20260624231000 +0000" channel="Crime + Investigation.skyde">
     <title>11 Shots - Fußball und Verbrechen</title>
 </programme>
-<programme start="20260625231000 +0000" stop="20260625235500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260624231000 +0000" stop="20260625004500 +0000" channel="Crime + Investigation.skyde">
+    <title>In the Cold Dark Night - Gerechtigkeit nach 35 Jahren</title>
+</programme>
+<programme start="20260625004500 +0000" stop="20260625013000 +0000" channel="Crime + Investigation.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260625235500 +0000" stop="20260626004000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625013000 +0000" stop="20260625021500 +0000" channel="Crime + Investigation.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260626004000 +0000" stop="20260626013000 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260626013000 +0000" stop="20260626022000 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260626022000 +0000" stop="20260626030500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625021500 +0000" stop="20260625030000 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260626030500 +0000" stop="20260626035000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625030000 +0000" stop="20260625035000 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260626035000 +0000" stop="20260626042000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625035000 +0000" stop="20260625042000 +0000" channel="Crime + Investigation.skyde">
     <title>Unentdeckt - Mörder unter uns</title>
 </programme>
-<programme start="20260626042000 +0000" stop="20260626051000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+<programme start="20260625042000 +0000" stop="20260625051000 +0000" channel="Crime + Investigation.skyde">
+    <title>Houses of Horror: Gewalt und Terror am College</title>
 </programme>
-<programme start="20260626051000 +0000" stop="20260626060000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+<programme start="20260625051000 +0000" stop="20260625060000 +0000" channel="Crime + Investigation.skyde">
+    <title>Houses of Horror: Gewalt und Terror am College</title>
 </programme>
-<programme start="20260626060000 +0000" stop="20260626065000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625060000 +0000" stop="20260625065000 +0000" channel="Crime + Investigation.skyde">
     <title>11 Shots - Fußball und Verbrechen</title>
 </programme>
-<programme start="20260626065000 +0000" stop="20260626074000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625065000 +0000" stop="20260625074000 +0000" channel="Crime + Investigation.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260626074000 +0000" stop="20260626083000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625074000 +0000" stop="20260625083000 +0000" channel="Crime + Investigation.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260626083000 +0000" stop="20260626092000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625083000 +0000" stop="20260625092000 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260626092000 +0000" stop="20260626101000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625092000 +0000" stop="20260625101000 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260626101000 +0000" stop="20260626110000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+<programme start="20260625101000 +0000" stop="20260625110000 +0000" channel="Crime + Investigation.skyde">
+    <title>Houses of Horror: Gewalt und Terror am College</title>
 </programme>
-<programme start="20260626110000 +0000" stop="20260626115000 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+<programme start="20260625110000 +0000" stop="20260625115000 +0000" channel="Crime + Investigation.skyde">
+    <title>Houses of Horror: Gewalt und Terror am College</title>
 </programme>
-<programme start="20260626115000 +0000" stop="20260626122000 +0000" channel="Crime + Investigation.skyde">
-    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
+<programme start="20260625115000 +0000" stop="20260625122000 +0000" channel="Crime + Investigation.skyde">
+    <title>Unentdeckt - Mörder unter uns</title>
 </programme>
-<programme start="20260626122000 +0000" stop="20260626131000 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
+<programme start="20260625122000 +0000" stop="20260625140000 +0000" channel="Crime + Investigation.skyde">
+    <title>In the Cold Dark Night - Gerechtigkeit nach 35 Jahren</title>
 </programme>
-<programme start="20260626131000 +0000" stop="20260626140000 +0000" channel="Crime + Investigation.skyde">
-    <title>Teuflische Nachbarn</title>
-</programme>
-<programme start="20260626140000 +0000" stop="20260626145000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625140000 +0000" stop="20260625145000 +0000" channel="Crime + Investigation.skyde">
     <title>The First 48 - Momente der Entscheidung</title>
 </programme>
-<programme start="20260626145000 +0000" stop="20260626154000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625145000 +0000" stop="20260625154000 +0000" channel="Crime + Investigation.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260626154000 +0000" stop="20260626163000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625154000 +0000" stop="20260625163000 +0000" channel="Crime + Investigation.skyde">
     <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260626163000 +0000" stop="20260626172000 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625163000 +0000" stop="20260625172000 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260626172000 +0000" stop="20260626181500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625172000 +0000" stop="20260625181500 +0000" channel="Crime + Investigation.skyde">
     <title>Wie ich ermordet wurde</title>
 </programme>
-<programme start="20260626181500 +0000" stop="20260626190500 +0000" channel="Crime + Investigation.skyde">
-    <title>Court Cam - Auf der Anklagebank</title>
+<programme start="20260625181500 +0000" stop="20260625190500 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260626190500 +0000" stop="20260626195500 +0000" channel="Crime + Investigation.skyde">
-    <title>Court Cam - Auf der Anklagebank</title>
+<programme start="20260625190500 +0000" stop="20260625195500 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
 </programme>
-<programme start="20260626195500 +0000" stop="20260626204500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625195500 +0000" stop="20260625204500 +0000" channel="Crime + Investigation.skyde">
+    <title>The First 48 - Momente der Entscheidung</title>
+</programme>
+<programme start="20260625204500 +0000" stop="20260625213500 +0000" channel="Crime + Investigation.skyde">
     <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
-<programme start="20260626204500 +0000" stop="20260626213500 +0000" channel="Crime + Investigation.skyde">
-    <title>Imperfect Murder - Die Fehler eines Mörders</title>
-</programme>
-<programme start="20260626213500 +0000" stop="20260626222500 +0000" channel="Crime + Investigation.skyde">
+<programme start="20260625213500 +0000" stop="20260625222500 +0000" channel="Crime + Investigation.skyde">
     <title>Imperfect Murder - Die Fehler eines Mörders</title>
 </programme>
 <programme start="20260625220000 +0000" stop="20260626060000 +0000" channel="DAZN 1 HD.skyde">
@@ -990,11 +984,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626075500 +0000" stop="20260626101500 +0000" channel="DAZN 2 HD.skyde">
     <title>Coppa Italia 25/26: Lazio Rom - Inter Mailand</title>
 </programme>
-<programme start="20260626101500 +0000" stop="20260626105500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260626101500 +0000" stop="20260626113000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga Features 25/26: Road to the Americas - Episode 1</title>
-</programme>
-<programme start="20260626105500 +0000" stop="20260626113000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga Features 25/26: Road to the Americas - Episode 2</title>
 </programme>
 <programme start="20260626113000 +0000" stop="20260626143500 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga Konferenz 25/26: 34. Spieltag</title>
@@ -1383,37 +1374,37 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626034000 +0000" stop="20260626040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260626040000 +0000" stop="20260626042000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626040000 +0000" stop="20260626042500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260626042000 +0000" stop="20260626044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626042500 +0000" stop="20260626044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260626044500 +0000" stop="20260626050500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626044500 +0000" stop="20260626051000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260626050500 +0000" stop="20260626053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626051000 +0000" stop="20260626053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260626053000 +0000" stop="20260626055000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626053000 +0000" stop="20260626055500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260626055000 +0000" stop="20260626061500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626055500 +0000" stop="20260626061500 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
 </programme>
-<programme start="20260626061500 +0000" stop="20260626063500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626061500 +0000" stop="20260626064000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260626063500 +0000" stop="20260626065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626064000 +0000" stop="20260626065000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260626065000 +0000" stop="20260626071000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626065000 +0000" stop="20260626071500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260626071000 +0000" stop="20260626071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626071500 +0000" stop="20260626071600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260626071500 +0000" stop="20260626072000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626071600 +0000" stop="20260626072000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260626072000 +0000" stop="20260626072500 +0000" channel="Nick Jr..skyde">
@@ -1455,10 +1446,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626111500 +0000" stop="20260626114000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260626114000 +0000" stop="20260626120000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626114000 +0000" stop="20260626120500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260626120000 +0000" stop="20260626122500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626120500 +0000" stop="20260626122500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260626122500 +0000" stop="20260626123000 +0000" channel="Nick Jr..skyde">
@@ -1473,46 +1464,46 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626130500 +0000" stop="20260626131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260626131500 +0000" stop="20260626133500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626131500 +0000" stop="20260626134000 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
-</programme>
-<programme start="20260626133500 +0000" stop="20260626134000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260626134000 +0000" stop="20260626134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260626134500 +0000" stop="20260626135000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626134500 +0000" stop="20260626134600 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260626134600 +0000" stop="20260626135000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260626135000 +0000" stop="20260626135500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260626135500 +0000" stop="20260626140000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626135500 +0000" stop="20260626140500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260626140000 +0000" stop="20260626142000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626140500 +0000" stop="20260626142500 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
 </programme>
-<programme start="20260626142000 +0000" stop="20260626144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626142500 +0000" stop="20260626145000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260626144500 +0000" stop="20260626150000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626145000 +0000" stop="20260626150000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260626150000 +0000" stop="20260626152000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260626152000 +0000" stop="20260626153000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626152000 +0000" stop="20260626153500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260626153000 +0000" stop="20260626155500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626153500 +0000" stop="20260626155500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260626155500 +0000" stop="20260626161500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626155500 +0000" stop="20260626162000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260626161500 +0000" stop="20260626163000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626162000 +0000" stop="20260626163000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260626163000 +0000" stop="20260626165000 +0000" channel="Nick Jr..skyde">
@@ -1542,10 +1533,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626173000 +0000" stop="20260626175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260626175000 +0000" stop="20260626180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626175000 +0000" stop="20260626180500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260626180000 +0000" stop="20260626182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626180500 +0000" stop="20260626182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260626182500 +0000" stop="20260626184500 +0000" channel="Nick Jr..skyde">
@@ -1563,10 +1554,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626194500 +0000" stop="20260626200500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260626200500 +0000" stop="20260626202500 +0000" channel="Nick Jr..skyde">
+<programme start="20260626200500 +0000" stop="20260626203000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260626202500 +0000" stop="20260626205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260626203000 +0000" stop="20260626205000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260626205000 +0000" stop="20260626211000 +0000" channel="Nick Jr..skyde">
@@ -2436,10 +2427,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626093000 +0000" stop="20260626100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
 </programme>
-<programme start="20260626100000 +0000" stop="20260626110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Saisonrückblick</title>
-</programme>
-<programme start="20260626110000 +0000" stop="20260626180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260626100000 +0000" stop="20260626180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260626180000 +0000" stop="20260626181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2505,7 +2493,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626144500 +0000" stop="20260626163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: 2. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20260626163000 +0000" stop="20260626183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260626163000 +0000" stop="20260626173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>F1: Pressekonferenz Teamchefs - GP Österreich</title>
 </programme>
 <programme start="20260625224000 +0000" stop="20260626004000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2579,9 +2567,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260626120000 +0000" stop="20260626140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>TEST: Live BL: FC Bayern München - SC Freiburg, 11. Spieltag</title>
-</programme>
-<programme start="20260626120000 +0000" stop="20260626140000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
-    <title>TEST: Live BL: Borussia M&#039;gladbach - Eintracht Frankfurt, tipico Topspiel der Woche, 5. Spieltag</title>
 </programme>
 <programme start="20260626120000 +0000" stop="20260626140000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>TEST: Live BL: Bayer Leverkusen - VfL Wolfsburg, 28. Spieltag</title>
@@ -2967,44 +2952,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626213000 +0000" stop="20260626220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: My Season: Gareth Bale (2012/2013)</title>
 </programme>
-<programme start="20260625223000 +0000" stop="20260626000500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260625223000 +0000" stop="20260626003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: G. Dimitrov (BUL) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
-<programme start="20260626000500 +0000" stop="20260626003500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626003000 +0000" stop="20260626010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260626003500 +0000" stop="20260626022500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626010000 +0000" stop="20260626030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: T. Maria (GER) - T. Valentova (CZE), Lexus Eastbourne Open in Eastbourne (GBR), 5. Tag</title>
 </programme>
-<programme start="20260626022500 +0000" stop="20260626030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626030000 +0000" stop="20260626033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260626030000 +0000" stop="20260626053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626033000 +0000" stop="20260626060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Noskova (CZE)  - J. Pegula (USA), VANDA Pharmaceuticals BERLIN TENNIS OPEN in Berlin, Finale</title>
 </programme>
-<programme start="20260626053000 +0000" stop="20260626060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626060000 +0000" stop="20260626063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 1)</title>
 </programme>
-<programme start="20260626060000 +0000" stop="20260626063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626063000 +0000" stop="20260626070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Meine Geschichte: Das Leben von Boris Becker (Teil 2)</title>
 </programme>
-<programme start="20260626063000 +0000" stop="20260626081500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626070000 +0000" stop="20260626090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: G. Dimitrov (BUL) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), 5. Tag</title>
 </programme>
-<programme start="20260626081500 +0000" stop="20260626100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626090000 +0000" stop="20260626110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: T. Maria (GER) - T. Valentova (CZE), Lexus Eastbourne Open in Eastbourne (GBR), 5. Tag</title>
 </programme>
-<programme start="20260626100000 +0000" stop="20260626180000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626110000 +0000" stop="20260626180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260626180000 +0000" stop="20260626190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
 <programme start="20260626190000 +0000" stop="20260626210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: X. Wang (CHN) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
+    <title>WTA 500: HF1, Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
 </programme>
 <programme start="20260626210000 +0000" stop="20260626230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
+    <title>ATP 250: HF1, Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
 <programme start="20260625220000 +0000" stop="20260626000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: KPMG Women&#039;s PGA Championship, 1. Tag (Late Session) in Chaska, MN (USA)</title>
@@ -3121,10 +3106,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
 <programme start="20260626110000 +0000" stop="20260626130000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: X. Wang (CHN) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
+    <title>Live WTA 500: HF1, Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
 </programme>
-<programme start="20260626130000 +0000" stop="20260626180000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 500: E. Ruse (ROU) - K. Muchova (CZE), Bad Homburg Open in Bad Homburg, Halbfinale 2</title>
+<programme start="20260626130000 +0000" stop="20260626150000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 500: HF2, Bad Homburg Open in Bad Homburg, Halbfinale 2</title>
 </programme>
 <programme start="20260625222000 +0000" stop="20260625225000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live: Japan - Schweden, Vorbericht FIFA WM 2026</title>
@@ -3228,7 +3213,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626150000 +0000" stop="20260626153000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
-<programme start="20260626153000 +0000" stop="20260626173000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260626153000 +0000" stop="20260626203000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260625222500 +0000" stop="20260625231000 +0000" channel="SYFY HD.skyde">

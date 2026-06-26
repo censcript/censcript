@@ -472,16 +472,16 @@
   <programme start="20260628180500 +0000" stop="20260628182000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Legendy o legende</title>
   </programme>
-  <programme start="20260628182000 +0000" stop="20260628213000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - MS 2026 - MS 2026: 16-finále 1 (A2 - B2)</title>
+  <programme start="20260628182000 +0000" stop="20260628212000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Futbal - MS 2026 - MS 2026: 16-finále Južná Afrika - Kanada</title>
   </programme>
-  <programme start="20260628213000 +0000" stop="20260628214000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260628212000 +0000" stop="20260628213000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260628214000 +0000" stop="20260628214500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260628213000 +0000" stop="20260628213500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260628214500 +0000" stop="20260628231500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260628213500 +0000" stop="20260628230500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
   </programme>
   <programme start="20260627205000 +0000" stop="20260627225000 +0000" channel="Markíza.webtv.sk">
@@ -670,7 +670,7 @@
   <programme start="20260628193000 +0000" stop="20260628214500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Lovecká sezóna</title>
   </programme>
-  <programme start="20260628214500 +0000" stop="20260628234500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260628214500 +0000" stop="20260628234000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Anjel pomsty</title>
   </programme>
   <programme start="20260627213000 +0000" stop="20260627232500 +0000" channel="JOJ +1.webtv.sk">
@@ -979,7 +979,7 @@
   <programme start="20260628183000 +0000" stop="20260628201500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chcem späť svoje dieťa</title>
   </programme>
-  <programme start="20260628201500 +0000" stop="20260628222500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260628201500 +0000" stop="20260628223000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sklenený dom</title>
   </programme>
   <programme start="20260627210000 +0000" stop="20260627220500 +0000" channel="Markíza Krimi.webtv.sk">
@@ -1147,19 +1147,22 @@
   <programme start="20260628155000 +0000" stop="20260628182000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260628182000 +0000" stop="20260628191000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260628182000 +0000" stop="20260628190500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Tretí polčas</title>
   </programme>
-  <programme start="20260628191000 +0000" stop="20260628214000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260628190500 +0000" stop="20260628212000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260628214000 +0000" stop="20260629001000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260628212000 +0000" stop="20260628234000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260627220000 +0000" stop="20260628000500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260627203000 +0000" stop="20260627220500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Športové lezenie</title>
   </programme>
-  <programme start="20260628000500 +0000" stop="20260628020000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260627220500 +0000" stop="20260627234500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Športové lezenie</title>
+  </programme>
+  <programme start="20260627234500 +0000" stop="20260628020000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260628020000 +0000" stop="20260628041000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -2905,34 +2908,34 @@
   <programme start="20260628214000 +0000" stop="20260628220000 +0000" channel="NOE.webtv.sk">
     <title lang="id">Polední modlitba Sv. otce Lva XIV.</title>
   </programme>
-  <programme start="20260627204800 +0000" stop="20260627223800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260627204700 +0000" stop="20260627223600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisař Montalbano VII (4)</title>
   </programme>
-  <programme start="20260627223800 +0000" stop="20260627233300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260627223600 +0000" stop="20260627233100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Příběhy slavných</title>
   </programme>
-  <programme start="20260627233300 +0000" stop="20260628004400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260627233100 +0000" stop="20260628004200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
-  <programme start="20260628004400 +0000" stop="20260628011300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260628004200 +0000" stop="20260628011100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
-  <programme start="20260628011300 +0000" stop="20260628013600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260628011100 +0000" stop="20260628013500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Chalupa je hra</title>
   </programme>
-  <programme start="20260628013600 +0000" stop="20260628015200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260628013500 +0000" stop="20260628015000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Josef Sekyra, geolog</title>
   </programme>
-  <programme start="20260628015200 +0000" stop="20260628021600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260628015000 +0000" stop="20260628021500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Pod pokličkou</title>
   </programme>
-  <programme start="20260628021600 +0000" stop="20260628023900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260628021500 +0000" stop="20260628023700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bydlení je hra</title>
   </programme>
-  <programme start="20260628023900 +0000" stop="20260628030300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260628023700 +0000" stop="20260628030100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zahrada je hra</title>
   </programme>
-  <programme start="20260628030300 +0000" stop="20260628033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260628030100 +0000" stop="20260628033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
   <programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="ČT1.webtv.sk">
@@ -3016,37 +3019,37 @@
   <programme start="20260628215000 +0000" stop="20260628223500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVII (12)</title>
   </programme>
-  <programme start="20260627201500 +0000" stop="20260627224700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260627201500 +0000" stop="20260627224500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Děla z Navarone</title>
   </programme>
-  <programme start="20260627224700 +0000" stop="20260627234200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260627224500 +0000" stop="20260627234000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Láska a sex v Itálii</title>
   </programme>
-  <programme start="20260627234200 +0000" stop="20260628000300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260627234000 +0000" stop="20260628000000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zázračné studánky</title>
   </programme>
-  <programme start="20260628000300 +0000" stop="20260628005700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628000000 +0000" stop="20260628005500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Alhambra, ztracený ráj</title>
   </programme>
-  <programme start="20260628005700 +0000" stop="20260628012500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628005500 +0000" stop="20260628012500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Stopy, fakta, tajemství</title>
   </programme>
   <programme start="20260628012500 +0000" stop="20260628014000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">V zajetí železné opony</title>
   </programme>
-  <programme start="20260628014000 +0000" stop="20260628023300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628014000 +0000" stop="20260628023200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Děkujeme za vaši službu</title>
   </programme>
-  <programme start="20260628023300 +0000" stop="20260628030000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628023200 +0000" stop="20260628030000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Nový život v Nových Hradech</title>
   </programme>
-  <programme start="20260628030000 +0000" stop="20260628031900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628030000 +0000" stop="20260628031700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Folklore’s not dead!</title>
   </programme>
-  <programme start="20260628031900 +0000" stop="20260628034600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628031700 +0000" stop="20260628034500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Křesťanský magazín</title>
   </programme>
-  <programme start="20260628034600 +0000" stop="20260628040000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628034500 +0000" stop="20260628040000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20260628040000 +0000" stop="20260628045200 +0000" channel="ČT2.webtv.sk">
@@ -3085,10 +3088,10 @@
   <programme start="20260628111500 +0000" stop="20260628114300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Křesťanský magazín</title>
   </programme>
-  <programme start="20260628114300 +0000" stop="20260628121000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628114300 +0000" stop="20260628121100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Cesty víry</title>
   </programme>
-  <programme start="20260628121000 +0000" stop="20260628124000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260628121100 +0000" stop="20260628124000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na plovárně s Romanem Vaňkem</title>
   </programme>
   <programme start="20260628124000 +0000" stop="20260628130800 +0000" channel="ČT2.webtv.sk">
@@ -16535,25 +16538,25 @@
     <title lang="id">Без Броні</title>
   </programme>
   <programme start="20260627220000 +0000" stop="20260627223000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящее Время. Интервью</title>
+    <title lang="id">Интервью: Маша Слоним</title>
   </programme>
   <programme start="20260627223000 +0000" stop="20260627230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Сибириада: Собиратели</title>
   </programme>
   <programme start="20260627230000 +0000" stop="20260628000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">VOTVOT</title>
+    <title lang="id">Как у них получилось: Южная Корея</title>
   </programme>
   <programme start="20260628000000 +0000" stop="20260628020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Девушки-серферы из Бангладеш</title>
   </programme>
   <programme start="20260628020000 +0000" stop="20260628023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтийский путь</title>
+    <title lang="id">Балтийский путь: История многодетной семьи</title>
   </programme>
   <programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Pепортер</title>
   </programme>
   <programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Америка. Большое путешествие</title>
+    <title lang="id">Америка. Большое путешествие: Сан-Антонио</title>
   </programme>
   <programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Смотри в оба</title>
@@ -16562,10 +16565,10 @@
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20260628050000 +0000" stop="20260628070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Девушки-серферы из Бангладеш</title>
   </programme>
   <programme start="20260628070000 +0000" stop="20260628073000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Система</title>
+    <title lang="id">Система: Главный по Аурусам</title>
   </programme>
   <programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Европа в фокусе</title>
@@ -16580,10 +16583,10 @@
     <title lang="id">DW. Искусство в деталях</title>
   </programme>
   <programme start="20260628100000 +0000" stop="20260628120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Девушки-серферы из Бангладеш</title>
   </programme>
   <programme start="20260628120000 +0000" stop="20260628123000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Открой Молдову</title>
+    <title lang="id">Открой Молдову: Иностранцы, выбравшие Молдову для учебы</title>
   </programme>
   <programme start="20260628123000 +0000" stop="20260628130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW.Интервью</title>
@@ -16592,7 +16595,7 @@
     <title lang="id">DW. Европа в фокусе</title>
   </programme>
   <programme start="20260628133000 +0000" stop="20260628140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Сибириада: Погреба</title>
   </programme>
   <programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Человек имеет право</title>
@@ -16607,10 +16610,10 @@
     <title lang="id">DW. Искусство в деталях</title>
   </programme>
   <programme start="20260628170000 +0000" stop="20260628190000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Поколение Евромайдан</title>
   </programme>
   <programme start="20260628190000 +0000" stop="20260628193000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Открой Молдову</title>
+    <title lang="id">Открой Молдову: Иностранцы, выбравшие Молдову для учебы</title>
   </programme>
   <programme start="20260628193000 +0000" stop="20260628200000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW.Интервью</title>
@@ -16619,7 +16622,7 @@
     <title lang="id">DW. Европа в фокусе</title>
   </programme>
   <programme start="20260628203000 +0000" stop="20260628210000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Сибириада: Погреба</title>
   </programme>
   <programme start="20260628210000 +0000" stop="20260628220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Человек имеет право</title>
@@ -17183,7 +17186,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20260628081000 +0000" stop="20260628085900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD TV Special program</title>
+    <title lang="id">The Perfect 2hour Guide</title>
   </programme>
   <programme start="20260628085900 +0000" stop="20260628090000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -17192,7 +17195,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20260628091000 +0000" stop="20260628093900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD SELECTION</title>
+    <title lang="id">Tiny desk concerts JAPAN</title>
   </programme>
   <programme start="20260628093900 +0000" stop="20260628094000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -17255,7 +17258,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20260628141000 +0000" stop="20260628145900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD TV Special program</title>
+    <title lang="id">The Perfect 2hour Guide</title>
   </programme>
   <programme start="20260628145900 +0000" stop="20260628150000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -17288,7 +17291,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20260628171000 +0000" stop="20260628173900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD SELECTION</title>
+    <title lang="id">Tiny desk concerts JAPAN</title>
   </programme>
   <programme start="20260628173900 +0000" stop="20260628174000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -17327,7 +17330,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20260628201000 +0000" stop="20260628205900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD TV Special program</title>
+    <title lang="id">The Perfect 2hour Guide</title>
   </programme>
   <programme start="20260628205900 +0000" stop="20260628210000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>

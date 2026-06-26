@@ -590,7 +590,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20260626030000 +0000" stop="20260626040000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX News @Night</title>
+        <title>Fox News @Night</title>
     </programme>
     <programme start="20260626040000 +0000" stop="20260626050000 +0000" channel="Fox News Channel.starhub">
         <title>The Five</title>
@@ -608,16 +608,16 @@
         <title>The Ingraham Angle</title>
     </programme>
     <programme start="20260626090000 +0000" stop="20260626100000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends First</title>
+        <title>Fox &amp; Friends First</title>
     </programme>
     <programme start="20260626100000 +0000" stop="20260626110000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20260626110000 +0000" stop="20260626120000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20260626120000 +0000" stop="20260626130000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX &amp; Friends</title>
+        <title>Fox &amp; Friends</title>
     </programme>
     <programme start="20260626130000 +0000" stop="20260626140000 +0000" channel="Fox News Channel.starhub">
         <title>America&#039;s Newsroom</title>
@@ -2012,7 +2012,7 @@
         <title>Super Lig 2025/26: Besiktas vs Trabzonspor</title>
     </programme>
     <programme start="20260626010500 +0000" stop="20260626030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>World Rugby U20 C&#039;ships 2025: New Zealand vs South Africa</title>
+        <title>World Rugby U20 C&#039;ships 2025 New Zealand vs South Africa</title>
     </programme>
     <programme start="20260626030000 +0000" stop="20260626043000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best of RG 2026: Day 6 Women&#039;s Singles Rd 3 Andreeva v Bouzkova</title>
@@ -2030,7 +2030,7 @@
         <title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 2</title>
     </programme>
     <programme start="20260626100000 +0000" stop="20260626113000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 3</title>
+        <title>Best of RG 2026: Day 7 Women&#039;s Singles Rd 3 Gauff v Potapova</title>
     </programme>
     <programme start="20260626113000 +0000" stop="20260626130000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best of RG 2026: Day 7 Women&#039;s Singles Rd 3 Osaka v Jovic</title>
@@ -2039,13 +2039,13 @@
         <title>GT World Challenge Europe 2026: 24 Hours of Spa Superpole, Endurance Cup</title>
     </programme>
     <programme start="20260626141000 +0000" stop="20260626143500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Australia - Cup Final, Hong Kong - Women</title>
+        <title>HSBC SVNS World C&#039;shipss 2026 New Zealand vs Australia - Cup Final, Hong Kong - Women</title>
     </programme>
     <programme start="20260626143500 +0000" stop="20260626150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
+        <title>HSBC SVNS World C&#039;shipss 2026 South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
     </programme>
     <programme start="20260626150000 +0000" stop="20260626163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 4</title>
+        <title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 3</title>
     </programme>
     <programme start="20260625160000 +0000" stop="20260625170000 +0000" channel="TVB Xing He.starhub">
         <title>Country Spirit</title>

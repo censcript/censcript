@@ -149,7 +149,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260626083000 +0000" stop="20260626090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East</title>
+    <title>101 East: Myanmar&#039;s Scam</title>
 </programme>
 <programme start="20260626090000 +0000" stop="20260626100000 +0000" channel="Al Jazeera English.mncvision">
     <title>Head To Head: Maximilian Krah</title>
@@ -1208,7 +1208,7 @@
     <title>Premier Padel: Valladolid (L)</title>
 </programme>
 <programme start="20260626100000 +0000" stop="20260626113000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Premier Padel: Valladolid (L)</title>
+    <title>Best Of RG 2026: Day 7 Women</title>
 </programme>
 <programme start="20260626113000 +0000" stop="20260626130000 +0000" channel="beIN Sports 2.mncvision">
     <title>Best Of RG 2026: Day 7 Women</title>
@@ -1262,7 +1262,7 @@
     <title>Premier Padel: Valladolid (L)</title>
 </programme>
 <programme start="20260626100000 +0000" stop="20260626113000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Premier Padel: Valladolid (L)</title>
+    <title>Best Of RG 2026: Day 7 Women</title>
 </programme>
 <programme start="20260626113000 +0000" stop="20260626130000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Best Of RG 2026: Day 7 Women</title>
@@ -4849,17 +4849,17 @@
 <programme start="20260626100500 +0000" stop="20260626120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260626120000 +0000" stop="20260626130000 +0000" channel="iNews.mncvision">
+<programme start="20260626120000 +0000" stop="20260626133000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20260626130000 +0000" stop="20260626140000 +0000" channel="iNews.mncvision">
+<programme start="20260626133000 +0000" stop="20260626140000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20260626140000 +0000" stop="20260626140500 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260626140500 +0000" stop="20260626150000 +0000" channel="iNews.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
+    <title>iNews Prime (L)</title>
 </programme>
 <programme start="20260626150000 +0000" stop="20260626150500 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
@@ -4945,17 +4945,17 @@
 <programme start="20260626100500 +0000" stop="20260626120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260626120000 +0000" stop="20260626130000 +0000" channel="iNews HD.mncvision">
+<programme start="20260626120000 +0000" stop="20260626133000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20260626130000 +0000" stop="20260626140000 +0000" channel="iNews HD.mncvision">
+<programme start="20260626133000 +0000" stop="20260626140000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20260626140000 +0000" stop="20260626140500 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260626140500 +0000" stop="20260626150000 +0000" channel="iNews HD.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
+    <title>iNews Prime (L)</title>
 </programme>
 <programme start="20260626150000 +0000" stop="20260626150500 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>

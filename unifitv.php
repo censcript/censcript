@@ -261,7 +261,7 @@
   </programme>
   <programme start="20260625223000 +0000" stop="20260626013000 +0000" channel="fifa4.unifitv">
     <title lang="en">(L) Japan vs Sweden : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 4:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 7:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260626013000 +0000" stop="20260626020000 +0000" channel="fifa4.unifitv">
@@ -315,7 +315,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260626140000 +0000" stop="20260626173000 +0000" channel="fifa4.unifitv">
-    <title lang="en">(R) Jordan vs Algeria : FIFA World Cup™ 2026</title>
+    <title lang="en">(R) Morocco vs Haiti : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
