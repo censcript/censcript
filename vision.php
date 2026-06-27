@@ -565,9 +565,6 @@
 <programme start="20260627154500 +0000" stop="20260627163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260627163000 +0000" stop="20260627174500 +0000" channel="Trans 7.vision">
-<title>Cintaku Di Ujung Sorban</title>
-</programme>
 <programme start="20260627174500 +0000" stop="20260627183000 +0000" channel="Trans 7.vision">
 <title>MotoGP 2026 Netherlands</title>
 </programme>
@@ -645,9 +642,6 @@
 </programme>
 <programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260627150000 +0000" stop="20260627170000 +0000" channel="ANTV.vision">
-<title>Misteri Janda Kembang</title>
 </programme>
 <programme start="20260627170000 +0000" stop="20260627190000 +0000" channel="ANTV.vision">
 <title>13</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260627080000 +0000" stop="20260627100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260627100000 +0000" stop="20260627100300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260627100300 +0000" stop="20260627103000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -2273,7 +2273,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Political Thinking with Nick Robinson</title>
+    <title>Political Thinking with Nick Robinson - Rhun ap Iorwerth</title>
 </programme>
 <programme start="20260627160000 +0000" stop="20260627170000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -5947,7 +5947,10 @@
 <programme start="20260626175800 +0000" stop="20260627015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260627015800 +0000" stop="20260627060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260627015800 +0000" stop="20260627050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260627050000 +0000" stop="20260627060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260627115500 +0000" stop="20260627121000 +0000" channel="CBBC.virginmediatv">
