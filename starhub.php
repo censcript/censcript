@@ -5902,7 +5902,10 @@
     <programme start="20260627153000 +0000" stop="20260627163000 +0000" channel="BBC Earth HD.starhub">
         <title>Saving Asia</title>
     </programme>
-    <programme start="20260626160000 +0000" stop="20260626220000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260626133000 +0000" stop="20260626173000 +0000" channel="Hub Sports 6.starhub">
+        <title>Lexus Eastbourne Open (250) SF 1 &amp; 2</title>
+    </programme>
+    <programme start="20260626173000 +0000" stop="20260626220000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260626220000 +0000" stop="20260627040000 +0000" channel="Hub Sports 6.starhub">
@@ -5911,7 +5914,19 @@
     <programme start="20260627040000 +0000" stop="20260627100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260627100000 +0000" stop="20260627160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260627100000 +0000" stop="20260627110000 +0000" channel="Hub Sports 6.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260627110000 +0000" stop="20260627130000 +0000" channel="Hub Sports 6.starhub">
+        <title>Lexus Eastbourne Open (250) Final</title>
+    </programme>
+    <programme start="20260627130000 +0000" stop="20260627133000 +0000" channel="Hub Sports 6.starhub">
+        <title>Internazionali BNL d&#039;Italia</title>
+    </programme>
+    <programme start="20260627133000 +0000" stop="20260627153000 +0000" channel="Hub Sports 6.starhub">
+        <title>Lexus Eastbourne Open (250) Final</title>
+    </programme>
+    <programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260626160000 +0000" stop="20260626170000 +0000" channel="TVBS-NEWS.starhub">

@@ -1,6 +1,3 @@
-<programme start="20260627040000 +0000" stop="20260627060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260627060000 +0000" stop="20260627080000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -17,9 +14,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260627160000 +0000" stop="20260627180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260627040000 +0000" stop="20260627060000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260627060000 +0000" stop="20260627080000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -40,9 +34,6 @@
 <programme start="20260627160000 +0000" stop="20260627180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260627040000 +0000" stop="20260627060000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260627060000 +0000" stop="20260627080000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -59,12 +50,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260627160000 +0000" stop="20260627180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260627023500 +0000" stop="20260627051500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -New Zealand vs Belgium[Live]</title>
-</programme>
-<programme start="20260627051500 +0000" stop="20260627060000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260627060000 +0000" stop="20260627080000 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -84,9 +69,6 @@
 </programme>
 <programme start="20260627160000 +0000" stop="20260627180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260627023500 +0000" stop="20260627051500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -New Zealand vs Belgium[Live]</title>
 </programme>
 <programme start="20260627051500 +0000" stop="20260627073000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Norway vs France</title>
@@ -162,18 +144,6 @@
 </programme>
 <programme start="20260627160000 +0000" stop="20260627181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -New Zealand vs Belgium</title>
-</programme>
-<programme start="20260627030000 +0000" stop="20260627050000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Bournemouth vs Arsenal</title>
-</programme>
-<programme start="20260627050000 +0000" stop="20260627051500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Match Day +1 Highlights E15</title>
-</programme>
-<programme start="20260627051500 +0000" stop="20260627053000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 20</title>
-</programme>
-<programme start="20260627053000 +0000" stop="20260627060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -SOARING SEAGULLS</title>
 </programme>
 <programme start="20260627060000 +0000" stop="20260627080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Manchester City vs Chelsea</title>

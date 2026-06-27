@@ -6127,51 +6127,7 @@
 <programme start="20260627160000 +0000" stop="20260627163000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn</title>
 </programme>
-<programme start="20260626173000 +0000" stop="20260626190000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20260626190000 +0000" stop="20260626230000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
-<programme start="20260626230000 +0000" stop="20260626231500 +0000" channel="MNCTV HD.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20260626231500 +0000" stop="20260626234500 +0000" channel="MNCTV HD.mncvision">
-    <title>Dora &amp; Sahabat</title>
-</programme>
-<programme start="20260626234500 +0000" stop="20260627001500 +0000" channel="MNCTV HD.mncvision">
-    <title>Zak Storm</title>
-</programme>
-<programme start="20260627001500 +0000" stop="20260627010000 +0000" channel="MNCTV HD.mncvision">
-    <title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260627010000 +0000" stop="20260627013000 +0000" channel="MNCTV HD.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20260627013000 +0000" stop="20260627043000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260627043000 +0000" stop="20260627070000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260627070000 +0000" stop="20260627090000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260627090000 +0000" stop="20260627100000 +0000" channel="MNCTV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260627100000 +0000" stop="20260627120000 +0000" channel="MNCTV HD.mncvision">
-    <title>VI Nations U-17 Futsal (L)</title>
-</programme>
-<programme start="20260627120000 +0000" stop="20260627130000 +0000" channel="MNCTV HD.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20260627130000 +0000" stop="20260627160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20260627160000 +0000" stop="20260627163000 +0000" channel="MNCTV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260626175900 +0000" stop="20260626182800 +0000" channel="Moonbug.mncvision">
     <title>Digley &amp; Dazey</title>
 </programme>

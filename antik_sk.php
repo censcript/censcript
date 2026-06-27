@@ -3958,19 +3958,19 @@
   <programme start="20260629093500 +0000" stop="20260629110500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20260629110500 +0000" stop="20260629121500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629110500 +0000" stop="20260629122000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Krejzovi I (91)</title>
   </programme>
-  <programme start="20260629121500 +0000" stop="20260629132000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629122000 +0000" stop="20260629132500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Modrý kód (214)</title>
   </programme>
-  <programme start="20260629132000 +0000" stop="20260629150000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629132500 +0000" stop="20260629150500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20260629150000 +0000" stop="20260629160000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629150500 +0000" stop="20260629161000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Inkognito</title>
   </programme>
-  <programme start="20260629160000 +0000" stop="20260629165500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629161000 +0000" stop="20260629165500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Prostřeno!</title>
   </programme>
   <programme start="20260629165500 +0000" stop="20260629180200 +0000" channel="Prima SK.webtv.sk">
@@ -3979,20 +3979,17 @@
   <programme start="20260629180200 +0000" stop="20260629181500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Prima Pauza: Partička (91)</title>
   </programme>
-  <programme start="20260629181500 +0000" stop="20260629192500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629181500 +0000" stop="20260629193000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Zákony vlka (7)</title>
   </programme>
-  <programme start="20260629192500 +0000" stop="20260629203000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629193000 +0000" stop="20260629203500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Hrdina (14)</title>
   </programme>
-  <programme start="20260629203000 +0000" stop="20260629212000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629203500 +0000" stop="20260629212500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Receptář prima nápadů</title>
   </programme>
-  <programme start="20260629212000 +0000" stop="20260629215500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260629212500 +0000" stop="20260629220000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
-  </programme>
-  <programme start="20260629215500 +0000" stop="20260629224500 +0000" channel="Prima SK.webtv.sk">
-    <title lang="id">Show Jana Krause</title>
   </programme>
   <programme start="20260628215500 +0000" stop="20260628225500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">PARTIE: 100 dní do voleb</title>
