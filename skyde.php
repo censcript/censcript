@@ -2,101 +2,104 @@
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-<programme start="20260628220000 +0000" stop="20260628224000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20260628224000 +0000" stop="20260628232500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20260628232500 +0000" stop="20260629001000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20260629001000 +0000" stop="20260629005000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
-</programme>
-<programme start="20260629005000 +0000" stop="20260629013500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
-</programme>
-<programme start="20260629013500 +0000" stop="20260629022000 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20260629022000 +0000" stop="20260629030500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20260629030500 +0000" stop="20260629035500 +0000" channel="13th Street HD.skyde">
-    <title>NCIS: Sydney</title>
-</programme>
-<programme start="20260629035500 +0000" stop="20260629044000 +0000" channel="13th Street HD.skyde">
+<programme start="20260626220000 +0000" stop="20260626224500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260629044000 +0000" stop="20260629052500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260629052500 +0000" stop="20260629061000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260629061000 +0000" stop="20260629065500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260629065500 +0000" stop="20260629074000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260629074000 +0000" stop="20260629082500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260629082500 +0000" stop="20260629091500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260629091500 +0000" stop="20260629100000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
-</programme>
-<programme start="20260629100000 +0000" stop="20260629104000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Most Wanted</title>
-</programme>
-<programme start="20260629104000 +0000" stop="20260629112500 +0000" channel="13th Street HD.skyde">
+<programme start="20260626224500 +0000" stop="20260626232500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20260629112500 +0000" stop="20260629121000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20260629121000 +0000" stop="20260629125500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20260629125500 +0000" stop="20260629134000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20260629134000 +0000" stop="20260629142500 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20260629142500 +0000" stop="20260629151000 +0000" channel="13th Street HD.skyde">
-    <title>Criminal Minds</title>
-</programme>
-<programme start="20260629151000 +0000" stop="20260629155500 +0000" channel="13th Street HD.skyde">
+<programme start="20260626232500 +0000" stop="20260627001000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20260629155500 +0000" stop="20260629164000 +0000" channel="13th Street HD.skyde">
+<programme start="20260627001000 +0000" stop="20260627005000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20260629164000 +0000" stop="20260629172500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
+<programme start="20260627005000 +0000" stop="20260627013500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
 </programme>
-<programme start="20260629172500 +0000" stop="20260629181500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order</title>
+<programme start="20260627013500 +0000" stop="20260627021500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
 </programme>
-<programme start="20260629181500 +0000" stop="20260629190000 +0000" channel="13th Street HD.skyde">
+<programme start="20260627021500 +0000" stop="20260627030000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20260627030000 +0000" stop="20260627034500 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
+</programme>
+<programme start="20260627034500 +0000" stop="20260627043000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260629190000 +0000" stop="20260629194500 +0000" channel="13th Street HD.skyde">
+<programme start="20260627043000 +0000" stop="20260627051500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260629194500 +0000" stop="20260629203000 +0000" channel="13th Street HD.skyde">
+<programme start="20260627051500 +0000" stop="20260627060000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260629203000 +0000" stop="20260629211500 +0000" channel="13th Street HD.skyde">
+<programme start="20260627060000 +0000" stop="20260627065000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260629211500 +0000" stop="20260629220000 +0000" channel="13th Street HD.skyde">
+<programme start="20260627065000 +0000" stop="20260627073500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627073500 +0000" stop="20260627082000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627082000 +0000" stop="20260627090500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627090500 +0000" stop="20260627095500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627095500 +0000" stop="20260627104000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627104000 +0000" stop="20260627112500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627112500 +0000" stop="20260627121000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627121000 +0000" stop="20260627130000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627130000 +0000" stop="20260627134500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627134500 +0000" stop="20260627143000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627143000 +0000" stop="20260627151500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260627151500 +0000" stop="20260627160000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
+</programme>
+<programme start="20260627160000 +0000" stop="20260627164500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
+</programme>
+<programme start="20260627164500 +0000" stop="20260627173000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
+</programme>
+<programme start="20260627173000 +0000" stop="20260627181500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
+</programme>
+<programme start="20260627181500 +0000" stop="20260627185500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
+</programme>
+<programme start="20260627185500 +0000" stop="20260627194000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
+</programme>
+<programme start="20260627194000 +0000" stop="20260627202500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
+</programme>
+<programme start="20260627202500 +0000" stop="20260627211000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Special Crime Unit</title>
+</programme>
+<programme start="20260627211000 +0000" stop="20260627215500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
+</programme>
+<programme start="20260627215500 +0000" stop="20260627223500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
 </programme>
 <programme start="20260626225500 +0000" stop="20260626232000 +0000" channel="Beate Uhse HD.skyde">
     <title>Rip Me Up</title>
@@ -2925,97 +2928,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 250: T. Maria (GER) - J. Ostapenko (LAT), Lexus Eastbourne Open in Eastbourne (GBR), Halbfinale</title>
 </programme>
 <programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
+    <title>Live WTA 500: K. Muchova (CZE) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20260627110000 +0000" stop="20260627133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+    <title>Live WTA 250: T. Maria (GER) - M. Keys (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20260627133000 +0000" stop="20260627160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+    <title>Live ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20260627160000 +0000" stop="20260627163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260627163000 +0000" stop="20260627190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
+    <title>WTA 500: K. Muchova (CZE) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20260627190000 +0000" stop="20260627200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
 <programme start="20260627200000 +0000" stop="20260627223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
-</programme>
-<programme start="20260626220000 +0000" stop="20260627000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: KPMG Women&#039;s PGA Championship, 2. Tag (Late Session) in Chaska, MN (USA)</title>
-</programme>
-<programme start="20260627000000 +0000" stop="20260627030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Draft - Round 1</title>
-</programme>
-<programme start="20260627030000 +0000" stop="20260627040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Motorsport: Superpole - 24h-Rennen Spa 2026</title>
-</programme>
-<programme start="20260627040000 +0000" stop="20260627041500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 1</title>
-</programme>
-<programme start="20260627041500 +0000" stop="20260627043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 2</title>
-</programme>
-<programme start="20260627043000 +0000" stop="20260627044500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 3</title>
-</programme>
-<programme start="20260627044500 +0000" stop="20260627050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 4</title>
-</programme>
-<programme start="20260627050000 +0000" stop="20260627051500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 5</title>
-</programme>
-<programme start="20260627051500 +0000" stop="20260627053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
-</programme>
-<programme start="20260627053000 +0000" stop="20260627060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20260627060000 +0000" stop="20260627063500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: On Fire</title>
-</programme>
-<programme start="20260627063500 +0000" stop="20260627071500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto3: 2. Freies Training - GP Niederlande</title>
-</programme>
-<programme start="20260627071500 +0000" stop="20260627080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Moto2: 2. Freies Training - GP Niederlande</title>
-</programme>
-<programme start="20260627080000 +0000" stop="20260627084500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live MotoGP: 2. Freies Training - GP Niederlande</title>
-</programme>
-<programme start="20260627084500 +0000" stop="20260627100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live MotoGP: Qualifying - GP Niederlande</title>
-</programme>
-<programme start="20260627100000 +0000" stop="20260627101500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Greatest Races: N. Lauda / Estoril 1984</title>
-</programme>
-<programme start="20260627101500 +0000" stop="20260627120500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F1: 3. Freies Training - GP Österreich</title>
-</programme>
-<programme start="20260627120500 +0000" stop="20260627131500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F2: 1. Rennen - GP Österreich</title>
-</programme>
-<programme start="20260627131500 +0000" stop="20260627133000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Greatest Races: G. Berger / Deutschland 1994</title>
-</programme>
-<programme start="20260627133000 +0000" stop="20260627153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F1: Qualifying - GP Österreich</title>
-</programme>
-<programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F1: Pressekonferenz Qualifying - GP Österreich</title>
-</programme>
-<programme start="20260627160000 +0000" stop="20260627170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WRC: EKO Acropolis Rally Greece - SS13 Menalo Mt 2</title>
-</programme>
-<programme start="20260627170000 +0000" stop="20260627210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Golf: KPMG Women&#039;s PGA Championship, 3. Tag in Chaska, MN (USA)</title>
-</programme>
-<programme start="20260627210000 +0000" stop="20260628040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live Motorsport: 24h-Rennen Spa 2026</title>
+    <title>ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20260626220000 +0000" stop="20260626233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 1. Freies Training - GP Österreich</title>
@@ -3170,16 +3101,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627204000 +0000" stop="20260627231000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live: Konferenz der Gruppe L, FIFA WM 2026</title>
 </programme>
-<programme start="20260627124000 +0000" stop="20260627130000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>ATP: Es folgt</title>
-</programme>
 <programme start="20260627130000 +0000" stop="20260627173000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20260627084000 +0000" stop="20260627090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260627090000 +0000" stop="20260627113000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260627090000 +0000" stop="20260627133000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20260626222500 +0000" stop="20260626231000 +0000" channel="SYFY HD.skyde">

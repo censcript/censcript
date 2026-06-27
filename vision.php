@@ -547,6 +547,9 @@
 <programme start="20260627071500 +0000" stop="20260627081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Pagi Akhir Pekan</title>
 </programme>
+<programme start="20260627081500 +0000" stop="20260627090000 +0000" channel="Trans 7.vision">
+<title>Cuan Bos</title>
+</programme>
 <programme start="20260627090000 +0000" stop="20260627100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
@@ -642,6 +645,9 @@
 </programme>
 <programme start="20260627010000 +0000" stop="20260627023000 +0000" channel="ANTV.vision">
 <title>Bunga Kembar Di Tepi Jalan</title>
+</programme>
+<programme start="20260627023000 +0000" stop="20260627060000 +0000" channel="ANTV.vision">
+<title>Blue</title>
 </programme>
 <programme start="20260627060000 +0000" stop="20260627073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -808,6 +814,9 @@
 <programme start="20260627010000 +0000" stop="20260627013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
+<programme start="20260627013000 +0000" stop="20260627020000 +0000" channel="TVOne.vision">
+<title>Umroh Bersama Ust. Abdul</title>
+</programme>
 <programme start="20260627020000 +0000" stop="20260627023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -823,11 +832,17 @@
 <programme start="20260627040000 +0000" stop="20260627053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
+<programme start="20260627053000 +0000" stop="20260627070000 +0000" channel="TVOne.vision">
+<title>Damai Indonesiaku (L)</title>
+</programme>
 <programme start="20260627070000 +0000" stop="20260627073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
 </programme>
 <programme start="20260627073000 +0000" stop="20260627080000 +0000" channel="TVOne.vision">
 <title>Kabar Bola Dunia</title>
+</programme>
+<programme start="20260627080000 +0000" stop="20260627083000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Akhir Pekan (L)</title>
 </programme>
 <programme start="20260627083000 +0000" stop="20260627090000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
@@ -1481,20 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260627003000 +0000" stop="20260627023000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260627023000 +0000" stop="20260627030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260627030000 +0000" stop="20260627030300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260627030300 +0000" stop="20260627033000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260627033000 +0000" stop="20260627040000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260627040000 +0000" stop="20260627040300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
