@@ -547,9 +547,6 @@
 <programme start="20260627071500 +0000" stop="20260627081500 +0000" channel="Trans 7.vision">
 <title>Redaksi Pagi Akhir Pekan</title>
 </programme>
-<programme start="20260627081500 +0000" stop="20260627090000 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
 <programme start="20260627090000 +0000" stop="20260627100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
@@ -831,9 +828,6 @@
 </programme>
 <programme start="20260627073000 +0000" stop="20260627080000 +0000" channel="TVOne.vision">
 <title>Kabar Bola Dunia</title>
-</programme>
-<programme start="20260627080000 +0000" stop="20260627083000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Akhir Pekan (L)</title>
 </programme>
 <programme start="20260627083000 +0000" stop="20260627090000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260627030300 +0000" stop="20260627033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260627033000 +0000" stop="20260627040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260627040000 +0000" stop="20260627040300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

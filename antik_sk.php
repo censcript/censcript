@@ -4219,28 +4219,28 @@
   <programme start="20260629213000 +0000" stop="20260629222500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear VIII (2)</title>
   </programme>
-  <programme start="20260628211000 +0000" stop="20260628221000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260628211000 +0000" stop="20260628221500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (109)</title>
   </programme>
-  <programme start="20260628221000 +0000" stop="20260628225500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260628221500 +0000" stop="20260628230000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (110)</title>
   </programme>
-  <programme start="20260628225500 +0000" stop="20260628233500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260628230000 +0000" stop="20260628234000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Láska s vůní oliv (78)</title>
   </programme>
-  <programme start="20260628233500 +0000" stop="20260629002000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260628234000 +0000" stop="20260629002500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Láska s vůní oliv (79)</title>
   </programme>
-  <programme start="20260629002000 +0000" stop="20260629010500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260629002500 +0000" stop="20260629011000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Záchranáři z hor VIII (9)</title>
   </programme>
-  <programme start="20260629010500 +0000" stop="20260629014500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260629011000 +0000" stop="20260629015000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Záchranáři z hor VIII (10)</title>
   </programme>
-  <programme start="20260629014500 +0000" stop="20260629023000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260629015000 +0000" stop="20260629023500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Gondíci s. r. o.</title>
   </programme>
-  <programme start="20260629023000 +0000" stop="20260629032000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260629023500 +0000" stop="20260629032000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Jak se staví sen - extra</title>
   </programme>
   <programme start="20260629032000 +0000" stop="20260629034000 +0000" channel="Prima Love SK.webtv.sk">
@@ -9079,29 +9079,26 @@
   <programme start="20260629105500 +0000" stop="20260629124500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Slečna Marplová II (2)</title>
   </programme>
-  <programme start="20260629124500 +0000" stop="20260629134000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260629124500 +0000" stop="20260629140000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Hercule Poirot III (9)</title>
   </programme>
-  <programme start="20260629134000 +0000" stop="20260629144000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260629140000 +0000" stop="20260629150500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Hercule Poirot III (10)</title>
   </programme>
-  <programme start="20260629144000 +0000" stop="20260629153500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260629150500 +0000" stop="20260629160500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Slečna Scarletová III (2)</title>
   </programme>
-  <programme start="20260629153500 +0000" stop="20260629171000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260629160500 +0000" stop="20260629180000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Zločiny z vřesovišť VIII (2)</title>
   </programme>
-  <programme start="20260629171000 +0000" stop="20260629181500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260629180000 +0000" stop="20260629191000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Vražedné záhady slečny Fisherové I (5)</title>
   </programme>
-  <programme start="20260629181500 +0000" stop="20260629192000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260629191000 +0000" stop="20260629202500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Vražedné záhady slečny Fisherové I (6)</title>
   </programme>
-  <programme start="20260629192000 +0000" stop="20260629210000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260629202500 +0000" stop="20260629210000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Lilly Schönauer: Překážky lásky I (11)</title>
-  </programme>
-  <programme start="20260629210000 +0000" stop="20260629223500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Případ mrtvého muže</title>
   </programme>
   <programme start="20260628192500 +0000" stop="20260628225000 +0000" channel="FightBox.webtv.sk">
     <title lang="id">We Love MMA 26.10.2024 XVI (22)</title>

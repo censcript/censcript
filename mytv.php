@@ -94,22 +94,22 @@
     <programme start="20260627130500 +0000" stop="20260627135300 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Dân dã vị mắm quê nhà </title>
     </programme>
-    <programme start="20260627135300 +0000" stop="20260627140000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260627135300 +0000" stop="20260627140400 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20260627140000 +0000" stop="20260627141500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260627140400 +0000" stop="20260627141900 +0000" channel="VTV1 HD.mytv">
         <title> Học và làm theo Bác: Đưa tín dụng đến thôn bản </title>
     </programme>
-    <programme start="20260627141500 +0000" stop="20260627143000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260627141900 +0000" stop="20260627143200 +0000" channel="VTV1 HD.mytv">
         <title> Văn học nghệ thuật: NSND Dương Minh Đức </title>
     </programme>
-    <programme start="20260627143000 +0000" stop="20260627150000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260627143200 +0000" stop="20260627150300 +0000" channel="VTV1 HD.mytv">
         <title> Doanh nghiệp - Doanh nhân: Ứng dụng khoa học công nghệ tại các nhà máy nhiệt điện </title>
     </programme>
-    <programme start="20260627150000 +0000" stop="20260627153000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260627150300 +0000" stop="20260627153200 +0000" channel="VTV1 HD.mytv">
         <title> Trái tim cho em: Nhịp đập yêu thương </title>
     </programme>
-    <programme start="20260627153000 +0000" stop="20260627154000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260627153200 +0000" stop="20260627154000 +0000" channel="VTV1 HD.mytv">
         <title> Thương hiệu quốc gia Việt Nam: Kiến tạo sinh kế tại địa phương </title>
     </programme>
     <programme start="20260627154000 +0000" stop="20260627155500 +0000" channel="VTV1 HD.mytv">

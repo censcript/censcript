@@ -2,104 +2,101 @@
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-<programme start="20260626220000 +0000" stop="20260626224500 +0000" channel="13th Street HD.skyde">
+<programme start="20260628220000 +0000" stop="20260628224000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
+</programme>
+<programme start="20260628224000 +0000" stop="20260628232500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
+</programme>
+<programme start="20260628232500 +0000" stop="20260629001000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Organized Crime</title>
+</programme>
+<programme start="20260629001000 +0000" stop="20260629005000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20260629005000 +0000" stop="20260629013500 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20260629013500 +0000" stop="20260629022000 +0000" channel="13th Street HD.skyde">
+    <title>NCIS: Sydney</title>
+</programme>
+<programme start="20260629022000 +0000" stop="20260629030500 +0000" channel="13th Street HD.skyde">
+    <title>NCIS: Sydney</title>
+</programme>
+<programme start="20260629030500 +0000" stop="20260629035500 +0000" channel="13th Street HD.skyde">
+    <title>NCIS: Sydney</title>
+</programme>
+<programme start="20260629035500 +0000" stop="20260629044000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260626224500 +0000" stop="20260626232500 +0000" channel="13th Street HD.skyde">
+<programme start="20260629044000 +0000" stop="20260629052500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629052500 +0000" stop="20260629061000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629061000 +0000" stop="20260629065500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629065500 +0000" stop="20260629074000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629074000 +0000" stop="20260629082500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629082500 +0000" stop="20260629091500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629091500 +0000" stop="20260629100000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629104000 +0000" channel="13th Street HD.skyde">
+    <title>FBI: Most Wanted</title>
+</programme>
+<programme start="20260629104000 +0000" stop="20260629112500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order</title>
 </programme>
-<programme start="20260626232500 +0000" stop="20260627001000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20260627001000 +0000" stop="20260627005000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Organized Crime</title>
-</programme>
-<programme start="20260627005000 +0000" stop="20260627013500 +0000" channel="13th Street HD.skyde">
+<programme start="20260629112500 +0000" stop="20260629121000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20260627013500 +0000" stop="20260627021500 +0000" channel="13th Street HD.skyde">
+<programme start="20260629121000 +0000" stop="20260629125500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20260627021500 +0000" stop="20260627030000 +0000" channel="13th Street HD.skyde">
+<programme start="20260629125500 +0000" stop="20260629134000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20260627030000 +0000" stop="20260627034500 +0000" channel="13th Street HD.skyde">
+<programme start="20260629134000 +0000" stop="20260629142500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20260627034500 +0000" stop="20260627043000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
+<programme start="20260629142500 +0000" stop="20260629151000 +0000" channel="13th Street HD.skyde">
+    <title>Criminal Minds</title>
 </programme>
-<programme start="20260627043000 +0000" stop="20260627051500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627051500 +0000" stop="20260627060000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627060000 +0000" stop="20260627065000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627065000 +0000" stop="20260627073500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627073500 +0000" stop="20260627082000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627082000 +0000" stop="20260627090500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627090500 +0000" stop="20260627095500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627095500 +0000" stop="20260627104000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627104000 +0000" stop="20260627112500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627112500 +0000" stop="20260627121000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627121000 +0000" stop="20260627130000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627130000 +0000" stop="20260627134500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627134500 +0000" stop="20260627143000 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627143000 +0000" stop="20260627151500 +0000" channel="13th Street HD.skyde">
-    <title>Law &amp; Order: Special Victims Unit</title>
-</programme>
-<programme start="20260627151500 +0000" stop="20260627160000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20260627160000 +0000" stop="20260627164500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20260627164500 +0000" stop="20260627173000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20260627173000 +0000" stop="20260627181500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20260627181500 +0000" stop="20260627185500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20260627185500 +0000" stop="20260627194000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20260627194000 +0000" stop="20260627202500 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20260627202500 +0000" stop="20260627211000 +0000" channel="13th Street HD.skyde">
-    <title>FBI: Special Crime Unit</title>
-</programme>
-<programme start="20260627211000 +0000" stop="20260627215500 +0000" channel="13th Street HD.skyde">
+<programme start="20260629151000 +0000" stop="20260629155500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20260627215500 +0000" stop="20260627223500 +0000" channel="13th Street HD.skyde">
+<programme start="20260629155500 +0000" stop="20260629164000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
+</programme>
+<programme start="20260629164000 +0000" stop="20260629172500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20260629172500 +0000" stop="20260629181500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order</title>
+</programme>
+<programme start="20260629181500 +0000" stop="20260629190000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629190000 +0000" stop="20260629194500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629194500 +0000" stop="20260629203000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629203000 +0000" stop="20260629211500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260629211500 +0000" stop="20260629220000 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
 <programme start="20260626225500 +0000" stop="20260626232000 +0000" channel="Beate Uhse HD.skyde">
     <title>Rip Me Up</title>
@@ -1403,22 +1400,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627072500 +0000" stop="20260627073000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260627073000 +0000" stop="20260627075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627073000 +0000" stop="20260627075000 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
 </programme>
-<programme start="20260627075500 +0000" stop="20260627081500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627075000 +0000" stop="20260627081500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260627081500 +0000" stop="20260627084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627081500 +0000" stop="20260627083500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260627084000 +0000" stop="20260627090000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627083500 +0000" stop="20260627090000 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260627090000 +0000" stop="20260627092500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627090000 +0000" stop="20260627092000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260627092500 +0000" stop="20260627094500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627092000 +0000" stop="20260627094500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260627094500 +0000" stop="20260627101000 +0000" channel="Nick Jr..skyde">
@@ -1448,10 +1445,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627123000 +0000" stop="20260627124000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260627124000 +0000" stop="20260627130500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627124000 +0000" stop="20260627130000 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260627130500 +0000" stop="20260627131500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627130000 +0000" stop="20260627131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20260627131500 +0000" stop="20260627133500 +0000" channel="Nick Jr..skyde">
@@ -1472,10 +1469,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627135500 +0000" stop="20260627140000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260627140000 +0000" stop="20260627142000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627140000 +0000" stop="20260627142500 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
 </programme>
-<programme start="20260627142000 +0000" stop="20260627144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627142500 +0000" stop="20260627144500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260627144500 +0000" stop="20260627150000 +0000" channel="Nick Jr..skyde">
@@ -1523,16 +1520,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627173000 +0000" stop="20260627175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260627175000 +0000" stop="20260627180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627175000 +0000" stop="20260627180500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260627180000 +0000" stop="20260627182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627180500 +0000" stop="20260627182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260627182500 +0000" stop="20260627184500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627182500 +0000" stop="20260627185000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260627184500 +0000" stop="20260627190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627185000 +0000" stop="20260627190000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260627190000 +0000" stop="20260627192000 +0000" channel="Nick Jr..skyde">
@@ -2465,7 +2462,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627133000 +0000" stop="20260627153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Qualifying - GP Österreich</title>
 </programme>
-<programme start="20260627153000 +0000" stop="20260627170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Österreich</title>
 </programme>
 <programme start="20260626220000 +0000" stop="20260626223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2924,11 +2921,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627050000 +0000" stop="20260627070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: X. Wang (CHN) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
 </programme>
-<programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
+<programme start="20260627070000 +0000" stop="20260627090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 250: T. Maria (GER) - J. Ostapenko (LAT), Lexus Eastbourne Open in Eastbourne (GBR), Halbfinale</title>
 </programme>
 <programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: T. Maria (GER) - J. Ostapenko (LAT), Lexus Eastbourne Open in Eastbourne (GBR), Halbfinale</title>
+    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20260627110000 +0000" stop="20260627133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
@@ -3080,10 +3077,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627074000 +0000" stop="20260627080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Motorsport</title>
 </programme>
-<programme start="20260627080000 +0000" stop="20260627100000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627080000 +0000" stop="20260627090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WRC: EKO Acropolis Rally Greece - SS10 Menalo Mt 1</title>
 </programme>
-<programme start="20260627100000 +0000" stop="20260627123000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627121000 +0000" stop="20260627123000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Motorsport</title>
 </programme>
 <programme start="20260627123000 +0000" stop="20260627133000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3173,14 +3170,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627204000 +0000" stop="20260627231000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live: Konferenz der Gruppe L, FIFA WM 2026</title>
 </programme>
+<programme start="20260627124000 +0000" stop="20260627130000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>ATP: Es folgt</title>
+</programme>
 <programme start="20260627130000 +0000" stop="20260627173000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20260627084000 +0000" stop="20260627090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260627090000 +0000" stop="20260627133000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 500: K. Muchova (CZE) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Finale</title>
+<programme start="20260627090000 +0000" stop="20260627113000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20260626222500 +0000" stop="20260626231000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

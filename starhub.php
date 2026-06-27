@@ -2200,10 +2200,10 @@
     <programme start="20260627150000 +0000" stop="20260627170000 +0000" channel="Cinema One Global.starhub">
         <title>Pare Ko</title>
     </programme>
-    <programme start="20260626153000 +0000" stop="20260626173000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260626153000 +0000" stop="20260626174500 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mallorca Championships (250) SF 2</title>
     </programme>
-    <programme start="20260626173000 +0000" stop="20260626190000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260626174500 +0000" stop="20260626190000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>HSBC Championships (500) QF 3</title>
     </programme>
     <programme start="20260626190000 +0000" stop="20260626200000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -3065,7 +3065,7 @@
         <title>News</title>
     </programme>
     <programme start="20260626183000 +0000" stop="20260626190000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>With NATO under pressure, can Germany take the lead?</title>
     </programme>
     <programme start="20260626190000 +0000" stop="20260626190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6499,7 +6499,10 @@
     <programme start="20260627150700 +0000" stop="20260627164400 +0000" channel="TV5MONDE HD.starhub">
         <title>Maman A Disparu</title>
     </programme>
-    <programme start="20260626160000 +0000" stop="20260626190000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260626130000 +0000" stop="20260626163200 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Bad Homburg Open p/b Solarwatt (500) SF 2</title>
+    </programme>
+    <programme start="20260626163200 +0000" stop="20260626190000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Finals</title>
     </programme>
     <programme start="20260626190000 +0000" stop="20260626220000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -7340,7 +7343,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20260626223000 +0000" stop="20260626230000 +0000" channel="BBC World News HD.starhub">
-        <title>The President&#039;s Path</title>
+        <title>Has Trump Taken Over America&#039;s Big Birthday?</title>
     </programme>
     <programme start="20260626230000 +0000" stop="20260626233000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7816,13 +7819,13 @@
     <programme start="20260626133000 +0000" stop="20260626163000 +0000" channel="Asianet Movies.starhub">
         <title>Natturajavu</title>
     </programme>
-    <programme start="20260626163000 +0000" stop="20260626191000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260626163000 +0000" stop="20260626193000 +0000" channel="Asianet Movies.starhub">
         <title>Love Action Drama</title>
     </programme>
-    <programme start="20260626191000 +0000" stop="20260626212000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260626193000 +0000" stop="20260626213000 +0000" channel="Asianet Movies.starhub">
         <title>Liger</title>
     </programme>
-    <programme start="20260626212000 +0000" stop="20260626230500 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260626213000 +0000" stop="20260626233000 +0000" channel="Asianet Movies.starhub">
         <title>Cheriya Kallnum Valiya Polisum</title>
     </programme>
     <programme start="20260626233000 +0000" stop="20260627013000 +0000" channel="Asianet Movies.starhub">
