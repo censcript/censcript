@@ -2465,7 +2465,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627133000 +0000" stop="20260627153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Qualifying - GP Österreich</title>
 </programme>
-<programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260627153000 +0000" stop="20260627170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Österreich</title>
 </programme>
 <programme start="20260626220000 +0000" stop="20260626223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2549,10 +2549,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627063000 +0000" stop="20260627075500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 2. Freies Training - GP Österreich</title>
 </programme>
-<programme start="20260627075500 +0000" stop="20260627090000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260627075500 +0000" stop="20260627090500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: 1. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260627090000 +0000" stop="20260627100000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260627090500 +0000" stop="20260627100000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Motorsport: Superpole - 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260627100000 +0000" stop="20260627101500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2603,11 +2603,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627030000 +0000" stop="20260627040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2014 (Rory McIlroy)</title>
 </programme>
-<programme start="20260627040000 +0000" stop="20260627080000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260627040000 +0000" stop="20260627070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: KPMG Women&#039;s PGA Championship, 2. Tag (Early Session) in Chaska, MN (USA)</title>
 </programme>
-<programme start="20260627080000 +0000" stop="20260627100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260627070000 +0000" stop="20260627090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: KPMG Women&#039;s PGA Championship, 2. Tag (Late Session) in Chaska, MN (USA)</title>
+</programme>
+<programme start="20260627090000 +0000" stop="20260627100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: Official Film 2014 (Martin Kaymer)</title>
 </programme>
 <programme start="20260627100000 +0000" stop="20260627110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2000 (Tiger Woods)</title>
@@ -2639,10 +2642,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260626224500 +0000" stop="20260626230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
 </programme>
-<programme start="20260626230000 +0000" stop="20260627030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260626230000 +0000" stop="20260627031500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Draft - Round 1</title>
 </programme>
-<programme start="20260627030000 +0000" stop="20260627033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260627031500 +0000" stop="20260627033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
 <programme start="20260627033000 +0000" stop="20260627040000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2912,19 +2915,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627214500 +0000" stop="20260627221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Classic Match: Manchester City - Tottenham Hotspur (2016/17)</title>
 </programme>
-<programme start="20260626230000 +0000" stop="20260627010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: T. Maria (GER) - J. Ostapenko (LAT), Lexus Eastbourne Open in Eastbourne (GBR), Halbfinale</title>
-</programme>
-<programme start="20260627010000 +0000" stop="20260627030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626225000 +0000" stop="20260627005000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
-<programme start="20260627030000 +0000" stop="20260627050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260627005000 +0000" stop="20260627020500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
-<programme start="20260627050000 +0000" stop="20260627070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260627020500 +0000" stop="20260627033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: X. Wang (CHN) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
 </programme>
-<programme start="20260627070000 +0000" stop="20260627090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260627033000 +0000" stop="20260627043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 250: T. Maria (GER) - J. Ostapenko (LAT), Lexus Eastbourne Open in Eastbourne (GBR), Halbfinale</title>
+</programme>
+<programme start="20260627043000 +0000" stop="20260627063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
+</programme>
+<programme start="20260627063000 +0000" stop="20260627075500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: X. Wang (CHN) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
+</programme>
+<programme start="20260627075500 +0000" stop="20260627090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: T. Maria (GER) - J. Ostapenko (LAT), Lexus Eastbourne Open in Eastbourne (GBR), Halbfinale</title>
 </programme>
 <programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2947,6 +2956,75 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260627200000 +0000" stop="20260627223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
+</programme>
+<programme start="20260626220000 +0000" stop="20260627000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: KPMG Women&#039;s PGA Championship, 2. Tag (Late Session) in Chaska, MN (USA)</title>
+</programme>
+<programme start="20260627000000 +0000" stop="20260627031500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Draft - Round 1</title>
+</programme>
+<programme start="20260627031500 +0000" stop="20260627041000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Motorsport: Superpole - 24h-Rennen Spa 2026</title>
+</programme>
+<programme start="20260627041000 +0000" stop="20260627042500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 1</title>
+</programme>
+<programme start="20260627042500 +0000" stop="20260627044000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 3</title>
+</programme>
+<programme start="20260627044000 +0000" stop="20260627045500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 4</title>
+</programme>
+<programme start="20260627045500 +0000" stop="20260627051000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, VGK@CAR, Stanley Cup Final, Spiel 5</title>
+</programme>
+<programme start="20260627051000 +0000" stop="20260627052500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights, CAR@VGK, Stanley Cup Final, Spiel 6</title>
+</programme>
+<programme start="20260627052500 +0000" stop="20260627060000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: Action</title>
+</programme>
+<programme start="20260627060000 +0000" stop="20260627063500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: On Fire</title>
+</programme>
+<programme start="20260627063500 +0000" stop="20260627071500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto3: 2. Freies Training - GP Niederlande</title>
+</programme>
+<programme start="20260627071500 +0000" stop="20260627080000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto2: 2. Freies Training - GP Niederlande</title>
+</programme>
+<programme start="20260627080000 +0000" stop="20260627084500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live MotoGP: 2. Freies Training - GP Niederlande</title>
+</programme>
+<programme start="20260627084500 +0000" stop="20260627100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live MotoGP: Qualifying - GP Niederlande</title>
+</programme>
+<programme start="20260627100000 +0000" stop="20260627101500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Greatest Races: N. Lauda / Estoril 1984</title>
+</programme>
+<programme start="20260627101500 +0000" stop="20260627120500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: 3. Freies Training - GP Österreich</title>
+</programme>
+<programme start="20260627120500 +0000" stop="20260627131500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F2: 1. Rennen - GP Österreich</title>
+</programme>
+<programme start="20260627131500 +0000" stop="20260627133000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Greatest Races: G. Berger / Deutschland 1994</title>
+</programme>
+<programme start="20260627133000 +0000" stop="20260627153000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Qualifying - GP Österreich</title>
+</programme>
+<programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Pressekonferenz Qualifying - GP Österreich</title>
+</programme>
+<programme start="20260627160000 +0000" stop="20260627170000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live WRC: EKO Acropolis Rally Greece - SS13 Menalo Mt 2</title>
+</programme>
+<programme start="20260627170000 +0000" stop="20260627210000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Golf: KPMG Women&#039;s PGA Championship, 3. Tag in Chaska, MN (USA)</title>
+</programme>
+<programme start="20260627210000 +0000" stop="20260628040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260626220000 +0000" stop="20260626233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 1. Freies Training - GP Österreich</title>
@@ -3008,10 +3086,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627074000 +0000" stop="20260627080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Motorsport</title>
 </programme>
-<programme start="20260627080000 +0000" stop="20260627090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627080000 +0000" stop="20260627100000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WRC: EKO Acropolis Rally Greece - SS10 Menalo Mt 1</title>
 </programme>
-<programme start="20260627121000 +0000" stop="20260627123000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627100000 +0000" stop="20260627123000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Motorsport</title>
 </programme>
 <programme start="20260627123000 +0000" stop="20260627133000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3108,7 +3186,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: Es folgt</title>
 </programme>
 <programme start="20260627090000 +0000" stop="20260627133000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
+    <title>Live WTA 500: K. Muchova (CZE) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20260626222500 +0000" stop="20260626231000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

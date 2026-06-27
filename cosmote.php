@@ -1,11 +1,3 @@
-<programme start="20260627173000 +0700" stop="20260627193000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SL Benfica - Bayer 04 Leverkusen</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627193000 +0700" stop="20260627213000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SK Rapid Wien - Omonoia FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260627213000 +0700" stop="20260627233000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Feyenoord - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -62,20 +54,12 @@
     <title>UEFA Champions League Magazine 2024-25 E36</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627171000 +0700" stop="20260627191000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Real Madrid CF - Sporting CP</title>
+<programme start="20260628200000 +0700" stop="20260628220000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Universitatea Craiova</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627191000 +0700" stop="20260627194000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E38</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627194000 +0700" stop="20260627204000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A 2024-25 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627204000 +0700" stop="20260627224500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: FC Internazionale Milano - Como</title>
+<programme start="20260628220000 +0700" stop="20260629000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panathinaikos - SK Sturm Graz</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260627224500 +0700" stop="20260628004000 +0700" channel="COSMOTE Sport 2 HD">
@@ -138,12 +122,20 @@
     <title>Football: Real Madrid CF - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627190000 +0700" stop="20260627200000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260628200000 +0700" stop="20260628203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E38</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627200000 +0700" stop="20260627220000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Nassr - Al Hilal</title>
+<programme start="20260628203000 +0700" stop="20260628223000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260628223000 +0700" stop="20260628233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A 2024-25 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260628233000 +0700" stop="20260629013500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260627220000 +0700" stop="20260628004000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,16 +186,12 @@
     <title>Football: Al Nassr - Damak</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627174500 +0700" stop="20260627194500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Valencia Basket Club</title>
+<programme start="20260628213000 +0700" stop="20260628220000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627194500 +0700" stop="20260627221500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Reyer Venezia - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627221500 +0700" stop="20260627224500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20260628220000 +0700" stop="20260629003000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Celtic FC - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260627224500 +0700" stop="20260627232000 +0700" channel="COSMOTE Sport 4 HD">
@@ -266,24 +254,12 @@
     <title>Basketball: Barcelona - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627181500 +0700" stop="20260627193000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260628212500 +0700" stop="20260628215500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627193000 +0700" stop="20260627203500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627203500 +0700" stop="20260627220500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260627220500 +0700" stop="20260627223000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627223000 +0700" stop="20260627230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC</title>
+<programme start="20260628215500 +0700" stop="20260629004500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Stoiximan AegeanBall Festival</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260627230000 +0700" stop="20260628003000 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,16 +346,20 @@
     <title>Acropolis Rally Show 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260627190000 +0700" stop="20260627213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Greek Championship Men - Women 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260628210500 +0700" stop="20260628212000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627213000 +0700" stop="20260627220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>PostGame (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260628212000 +0700" stop="20260628221500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627220000 +0700" stop="20260627223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Sailing to the Games 2025 E3</title>
+<programme start="20260628221500 +0700" stop="20260628235500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260628235500 +0700" stop="20260629005500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260627223000 +0700" stop="20260628023000 +0700" channel="COSMOTE Sport 6 HD">
@@ -422,20 +402,12 @@
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260627183500 +0700" stop="20260627194500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Motorsports: Moto2 2026 (L)</title>
+<programme start="20260628200000 +0700" stop="20260628220000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Greek Championship Men - Women 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260627194500 +0700" stop="20260627210000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Motorsports: MotoGP 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260627210000 +0700" stop="20260627215000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Harley-Davidson Bagger World Cup 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260627215000 +0700" stop="20260627225500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Red Bull MotoGP Rookies Cup 2026 (L)</title>
+<programme start="20260628220000 +0700" stop="20260629003000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Greek Championship Men - Women 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260627225500 +0700" stop="20260627232500 +0700" channel="COSMOTE Sport 7 HD">
@@ -506,20 +478,16 @@
     <title>Motorsports: MotoGP 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260627190000 +0700" stop="20260627193000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627193000 +0700" stop="20260627200000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627200000 +0700" stop="20260627223000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Tennis: Ethan Quinn - Alejandro Davidovich Fokina (L)</title>
+<programme start="20260628202000 +0700" stop="20260628210500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Harley-Davidson Bagger World Cup 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260627223000 +0700" stop="20260627230000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260628210500 +0700" stop="20260628220000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260628220000 +0700" stop="20260629000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260627230000 +0700" stop="20260628020000 +0700" channel="COSMOTE Sport 8 HD">
@@ -566,20 +534,12 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627190000 +0700" stop="20260627200000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260628200000 +0700" stop="20260628220000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260627200000 +0700" stop="20260627220000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627220000 +0700" stop="20260627223000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260627223000 +0700" stop="20260627230000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260628220000 +0700" stop="20260629000000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260627230000 +0700" stop="20260628010000 +0700" channel="COSMOTE Sport 9 HD">
@@ -625,5 +585,21 @@
 <programme start="20260628180000 +0700" stop="20260628200000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260628200000 +0700" stop="20260628210000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260628210000 +0700" stop="20260628213000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260628213000 +0700" stop="20260628220000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260628220000 +0700" stop="20260629000000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Premier Padel Tour 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
