@@ -565,9 +565,6 @@
 <programme start="20260627154500 +0000" stop="20260627163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260627174500 +0000" stop="20260627183000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026 Netherlands</title>
-</programme>
 <programme start="20260627183000 +0000" stop="20260627190000 +0000" channel="Trans 7.vision">
 <title>Bes Fishing</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260627100300 +0000" stop="20260627103000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260627103000 +0000" stop="20260627120000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
