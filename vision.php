@@ -814,9 +814,6 @@
 <programme start="20260627010000 +0000" stop="20260627013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260627013000 +0000" stop="20260627020000 +0000" channel="TVOne.vision">
-<title>Umroh Bersama Ust. Abdul</title>
-</programme>
 <programme start="20260627020000 +0000" stop="20260627023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260627003000 +0000" stop="20260627023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260627023000 +0000" stop="20260627030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

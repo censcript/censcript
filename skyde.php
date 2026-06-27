@@ -1403,22 +1403,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627072500 +0000" stop="20260627073000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260627073000 +0000" stop="20260627075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627073000 +0000" stop="20260627075000 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
 </programme>
-<programme start="20260627075500 +0000" stop="20260627081500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627075000 +0000" stop="20260627081500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260627081500 +0000" stop="20260627084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627081500 +0000" stop="20260627083500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260627084000 +0000" stop="20260627090000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627083500 +0000" stop="20260627090000 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260627090000 +0000" stop="20260627092500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627090000 +0000" stop="20260627092000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260627092500 +0000" stop="20260627094500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627092000 +0000" stop="20260627094500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260627094500 +0000" stop="20260627101000 +0000" channel="Nick Jr..skyde">
@@ -1448,10 +1448,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627123000 +0000" stop="20260627124000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260627124000 +0000" stop="20260627130500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627124000 +0000" stop="20260627130000 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260627130500 +0000" stop="20260627131500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627130000 +0000" stop="20260627131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
 <programme start="20260627131500 +0000" stop="20260627133500 +0000" channel="Nick Jr..skyde">
@@ -1472,10 +1472,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627135500 +0000" stop="20260627140000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260627140000 +0000" stop="20260627142000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627140000 +0000" stop="20260627142500 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
 </programme>
-<programme start="20260627142000 +0000" stop="20260627144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627142500 +0000" stop="20260627144500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260627144500 +0000" stop="20260627150000 +0000" channel="Nick Jr..skyde">
@@ -1523,16 +1523,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627173000 +0000" stop="20260627175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260627175000 +0000" stop="20260627180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627175000 +0000" stop="20260627180500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260627180000 +0000" stop="20260627182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627180500 +0000" stop="20260627182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260627182500 +0000" stop="20260627184500 +0000" channel="Nick Jr..skyde">
+<programme start="20260627182500 +0000" stop="20260627185000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260627184500 +0000" stop="20260627190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260627185000 +0000" stop="20260627190000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260627190000 +0000" stop="20260627192000 +0000" channel="Nick Jr..skyde">
@@ -2390,32 +2390,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627080000 +0000" stop="20260627090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Saisonrückblick</title>
 </programme>
-<programme start="20260627090000 +0000" stop="20260627091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Rot-Weiß-Roadtrip</title>
+<programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live WTA 500: K. Muchova (CZE) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
-<programme start="20260627091500 +0000" stop="20260627094500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260627110000 +0000" stop="20260627133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live WTA 250: T. Maria (GER) - M. Keys (USA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+</programme>
+<programme start="20260627133000 +0000" stop="20260627160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+</programme>
+<programme start="20260627160000 +0000" stop="20260627163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 32. Runde</title>
 </programme>
-<programme start="20260627094500 +0000" stop="20260627101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
-</programme>
-<programme start="20260627101500 +0000" stop="20260627104500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
-</programme>
-<programme start="20260627104500 +0000" stop="20260627110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Rot-Weiß-Roadtrip</title>
-</programme>
-<programme start="20260627110000 +0000" stop="20260627113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260627163000 +0000" stop="20260627170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Best of)</title>
 </programme>
-<programme start="20260627113000 +0000" stop="20260627140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
-</programme>
-<programme start="20260627140000 +0000" stop="20260627153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
-</programme>
-<programme start="20260627153000 +0000" stop="20260627173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+<programme start="20260627170000 +0000" stop="20260627173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Austria Salzburg</title>
 </programme>
 <programme start="20260627173000 +0000" stop="20260627183000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis (WM Spezial)</title>
@@ -2449,33 +2440,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260627213000 +0000" stop="20260628000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Paris Saint-Germain - FC Arsenal, Finale in Budapest (Ungarn)</title>
-</programme>
-<programme start="20260627073500 +0000" stop="20260627075500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Motorsport: Es folgt</title>
-</programme>
-<programme start="20260627075500 +0000" stop="20260627090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live F3: 1. Rennen - GP Österreich</title>
-</programme>
-<programme start="20260627090000 +0000" stop="20260627100000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Motorsport: Superpole - 24h-Rennen Spa 2026</title>
-</programme>
-<programme start="20260627100000 +0000" stop="20260627101500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>F1: Greatest Races: N. Lauda / Estoril 1984</title>
-</programme>
-<programme start="20260627101500 +0000" stop="20260627120500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live F1: 3. Freies Training - GP Österreich</title>
-</programme>
-<programme start="20260627120500 +0000" stop="20260627131500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live F2: 1. Rennen - GP Österreich</title>
-</programme>
-<programme start="20260627131500 +0000" stop="20260627133000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>F1: Greatest Races: G. Berger / Deutschland 1994</title>
-</programme>
-<programme start="20260627133000 +0000" stop="20260627153000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live F1: Qualifying - GP Österreich</title>
-</programme>
-<programme start="20260627153000 +0000" stop="20260627170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live F1: Pressekonferenz Qualifying - GP Österreich</title>
 </programme>
 <programme start="20260626220000 +0000" stop="20260626223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 90in30: SVD - ELV, 31. Spieltag</title>
@@ -2921,41 +2885,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627214500 +0000" stop="20260627221500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Classic Match: Manchester City - Tottenham Hotspur (2016/17)</title>
 </programme>
-<programme start="20260626230000 +0000" stop="20260627010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 250: T. Maria (GER) - J. Ostapenko (LAT), Lexus Eastbourne Open in Eastbourne (GBR), Halbfinale</title>
-</programme>
-<programme start="20260627010000 +0000" stop="20260627030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260626225000 +0000" stop="20260627005000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
-<programme start="20260627030000 +0000" stop="20260627050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260627005000 +0000" stop="20260627020500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
-<programme start="20260627050000 +0000" stop="20260627070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260627020500 +0000" stop="20260627033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: X. Wang (CHN) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
 </programme>
-<programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
-</programme>
-<programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260627033000 +0000" stop="20260627043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 250: T. Maria (GER) - J. Ostapenko (LAT), Lexus Eastbourne Open in Eastbourne (GBR), Halbfinale</title>
 </programme>
-<programme start="20260627110000 +0000" stop="20260627133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
-</programme>
 <programme start="20260627133000 +0000" stop="20260627160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+    <title>Live ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20260627160000 +0000" stop="20260627163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260627163000 +0000" stop="20260627190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Bad Homburg Open in Bad Homburg, Finale</title>
+    <title>WTA 500: K. Muchova (CZE) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
 <programme start="20260627190000 +0000" stop="20260627200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review London</title>
 </programme>
 <programme start="20260627200000 +0000" stop="20260627223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
+    <title>ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20260626220000 +0000" stop="20260627000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: KPMG Women&#039;s PGA Championship, 2. Tag (Late Session) in Chaska, MN (USA)</title>
@@ -3089,10 +3044,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627074000 +0000" stop="20260627080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Motorsport</title>
 </programme>
-<programme start="20260627080000 +0000" stop="20260627100000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627080000 +0000" stop="20260627090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WRC: EKO Acropolis Rally Greece - SS10 Menalo Mt 1</title>
 </programme>
-<programme start="20260627100000 +0000" stop="20260627123000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627121000 +0000" stop="20260627123000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Motorsport</title>
 </programme>
 <programme start="20260627123000 +0000" stop="20260627133000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3182,14 +3137,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627204000 +0000" stop="20260627231000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live: Konferenz der Gruppe L, FIFA WM 2026</title>
 </programme>
-<programme start="20260627130000 +0000" stop="20260627173000 +0000" channel="Sky Sport 5 HD.skyde">
-    <title>Live ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
-</programme>
-<programme start="20260627144000 +0000" stop="20260627150000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260627124000 +0000" stop="20260627130000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour:</title>
 </programme>
-<programme start="20260627150000 +0000" stop="20260627173000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 250: Finale, Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+<programme start="20260627130000 +0000" stop="20260627153000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live ATP 250: Finale, Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20260626222500 +0000" stop="20260626231000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

@@ -3167,7 +3167,7 @@
         <title>Can AI, drones, and robots keep football fans safe?</title>
     </programme>
     <programme start="20260627043000 +0000" stop="20260627050000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Fostering resilience: Bulgarians’ parenting style</title>
     </programme>
     <programme start="20260627050000 +0000" stop="20260627050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3215,7 +3215,7 @@
         <title>News</title>
     </programme>
     <programme start="20260627091500 +0000" stop="20260627093000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Between Soccer and Politics: Iran at the 2026 World Cup</title>
     </programme>
     <programme start="20260627093000 +0000" stop="20260627100000 +0000" channel="DW English HD.starhub">
         <title>Sleep smarter: How your body clock shapes your health</title>
@@ -3242,7 +3242,7 @@
         <title>Can AI, drones, and robots keep football fans safe?</title>
     </programme>
     <programme start="20260627123000 +0000" stop="20260627130000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Fostering resilience: Bulgarians’ parenting style</title>
     </programme>
     <programme start="20260627130000 +0000" stop="20260627130200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3260,7 +3260,7 @@
         <title>Unstoppable</title>
     </programme>
     <programme start="20260627141500 +0000" stop="20260627143000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Between Soccer and Politics: Iran at the 2026 World Cup</title>
     </programme>
     <programme start="20260627143000 +0000" stop="20260627150000 +0000" channel="DW English HD.starhub">
         <title>Makoko Demolitions: Who Is Lagos Really Being Built For?</title>
@@ -3272,7 +3272,7 @@
         <title>Irene Khan, UN Special Rapporteur on Freedom of Expression and Opinion</title>
     </programme>
     <programme start="20260627153000 +0000" stop="20260627160000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Fostering resilience: Bulgarians’ parenting style</title>
     </programme>
     <programme start="20260626160000 +0000" stop="20260626220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -6508,20 +6508,26 @@
     <programme start="20260627050000 +0000" stop="20260627060000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Schneider Electric Marathon de Paris</title>
     </programme>
-    <programme start="20260627060000 +0000" stop="20260627090000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260627060000 +0000" stop="20260627073000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Lexus Eastbourne Open (250) SF 1 &amp; 2</title>
     </programme>
-    <programme start="20260627090000 +0000" stop="20260627093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Internazionali BNL d&#039;Italia</title>
-    </programme>
-    <programme start="20260627093000 +0000" stop="20260627100000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Episode 42</title>
-    </programme>
-    <programme start="20260627100000 +0000" stop="20260627113000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260627073000 +0000" stop="20260627090000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Bad Homburg Open p/b Solarwatt (500) SF 2</title>
     </programme>
-    <programme start="20260627113000 +0000" stop="20260627133000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260627090000 +0000" stop="20260627110000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Bad Homburg Open p/b Solarwatt (500) Final</title>
+    </programme>
+    <programme start="20260627110000 +0000" stop="20260627113000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Internazionali BNL d&#039;Italia</title>
+    </programme>
+    <programme start="20260627113000 +0000" stop="20260627120000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Episode 42</title>
+    </programme>
+    <programme start="20260627120000 +0000" stop="20260627123000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Episode 24</title>
+    </programme>
+    <programme start="20260627123000 +0000" stop="20260627133000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>HSBC Championships</title>
     </programme>
     <programme start="20260627133000 +0000" stop="20260627140000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 3</title>
@@ -6536,7 +6542,7 @@
         <title>Season 4 Episode 8</title>
     </programme>
     <programme start="20260627150000 +0000" stop="20260627160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>bitpanda Hamburg Open</title>
+        <title>Terra Wortmann Open</title>
     </programme>
     <programme start="20260626144000 +0000" stop="20260626172500 +0000" channel="SONY MAX.starhub">
         <title>Sardar Udham Singh</title>
@@ -7804,7 +7810,7 @@
     <programme start="20260626212000 +0000" stop="20260626230500 +0000" channel="Asianet Movies.starhub">
         <title>Cheriya Kallnum Valiya Polisum</title>
     </programme>
-    <programme start="20260626230500 +0000" stop="20260627013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260626233000 +0000" stop="20260627013000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Thekkan Thallu Kesu</title>
     </programme>
     <programme start="20260627013000 +0000" stop="20260627043000 +0000" channel="Asianet Movies.starhub">
@@ -7813,10 +7819,10 @@
     <programme start="20260627043000 +0000" stop="20260627073000 +0000" channel="Asianet Movies.starhub">
         <title>Premam</title>
     </programme>
-    <programme start="20260627073000 +0000" stop="20260627103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260627073000 +0000" stop="20260627104000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Yamandan Premakadha</title>
     </programme>
-    <programme start="20260627103000 +0000" stop="20260627133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260627104000 +0000" stop="20260627133000 +0000" channel="Asianet Movies.starhub">
         <title>Ronth</title>
     </programme>
     <programme start="20260627133000 +0000" stop="20260627163000 +0000" channel="Asianet Movies.starhub">
