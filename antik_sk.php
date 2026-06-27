@@ -787,13 +787,13 @@
   <programme start="20260629210000 +0000" stop="20260629222000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Rapl I (9)</title>
   </programme>
-  <programme start="20260628213000 +0000" stop="20260628230000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260628212000 +0000" stop="20260628225500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Dobrodruh</title>
   </programme>
-  <programme start="20260628230000 +0000" stop="20260628234000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260628225500 +0000" stop="20260628233500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Čarodejnice VII (20)</title>
   </programme>
-  <programme start="20260628234000 +0000" stop="20260629020000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260628233500 +0000" stop="20260629020000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Všetci sú za dverami (1)</title>
   </programme>
   <programme start="20260629020000 +0000" stop="20260629025000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -1781,10 +1781,10 @@
     <title lang="id">História európskeho vidieka (1)</title>
   </programme>
   <programme start="20260629043500 +0000" stop="20260629051000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Bielik Online</title>
+    <title lang="id">Bielik Online - Peter Weiss a Lubomír Zaorálek</title>
   </programme>
   <programme start="20260629051000 +0000" stop="20260629055000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Marián Viskupič a Boris Zala</title>
   </programme>
   <programme start="20260629055000 +0000" stop="20260629064000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Poklady z povaly (5)</title>
@@ -1811,16 +1811,16 @@
     <title lang="id">Nepriame dôsledky covidu</title>
   </programme>
   <programme start="20260629130000 +0000" stop="20260629134000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Roman Michelko a Alojz Hlina</title>
   </programme>
   <programme start="20260629134000 +0000" stop="20260629142000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Len peniaze nestačia</title>
+    <title lang="id">Len peniaze nestačia - Simona Stopková</title>
   </programme>
   <programme start="20260629142000 +0000" stop="20260629150500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Neúčinné antibiotiká</title>
   </programme>
   <programme start="20260629150500 +0000" stop="20260629153500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Krimi Online</title>
+    <title lang="id">Krimi Online - Jozef Drahovský</title>
   </programme>
   <programme start="20260629153500 +0000" stop="20260629162000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Vraždy v raji (3)</title>
@@ -1832,7 +1832,7 @@
     <title lang="id">Rockové legendy - Lenny Kravitz (9)</title>
   </programme>
   <programme start="20260629173000 +0000" stop="20260629181000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Miroslav Šatan</title>
   </programme>
   <programme start="20260629181000 +0000" stop="20260629190500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Neviditeľní (5)</title>
