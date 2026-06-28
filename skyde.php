@@ -2922,11 +2922,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628074000 +0000" stop="20260628083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Ljubo - The man saved by Tennis, Teil 2</title>
 </programme>
-<programme start="20260628083000 +0000" stop="20260628100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628083000 +0000" stop="20260628094500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628115000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+<programme start="20260628094500 +0000" stop="20260628115000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260628115000 +0000" stop="20260628140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
@@ -3003,22 +3003,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628050000 +0000" stop="20260628063000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Österreich</title>
 </programme>
-<programme start="20260628063000 +0000" stop="20260628074000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628063000 +0000" stop="20260628074500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628074000 +0000" stop="20260628080000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628074500 +0000" stop="20260628080000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Inside Story: 2025 Championship Showdown</title>
 </programme>
-<programme start="20260628080000 +0000" stop="20260628092500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628080000 +0000" stop="20260628093000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628092500 +0000" stop="20260628095000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628093000 +0000" stop="20260628095000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Iconic Onboards: Oscar Piastri</title>
 </programme>
-<programme start="20260628095000 +0000" stop="20260628104000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628095000 +0000" stop="20260628104500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live PMSC: Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628104000 +0000" stop="20260628110000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628104500 +0000" stop="20260628110000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Inside Story: Pit lane to glory</title>
 </programme>
 <programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="Sky Sport UHD.skyde">
@@ -3054,7 +3054,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628210500 +0000" stop="20260628220500 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260627230000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627230000 +0000" stop="20260628155500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260627232000 +0000" stop="20260628015000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3135,13 +3135,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628061000 +0000" stop="20260628063000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE Motorsport</title>
 </programme>
-<programme start="20260628063000 +0000" stop="20260628083000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260628063000 +0000" stop="20260628073000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live WRC: EKO Acropolis Rally Greece - SS15 Loutraki 1</title>
 </programme>
-<programme start="20260628083000 +0000" stop="20260628110000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260628073000 +0000" stop="20260628110000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE Motorsport</title>
 </programme>
-<programme start="20260628110000 +0000" stop="20260628143000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260628110000 +0000" stop="20260628123000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live WRC: EKO Acropolis Rally Greece - SS17 Loutraki 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20260627222500 +0000" stop="20260627231000 +0000" channel="SYFY HD.skyde">

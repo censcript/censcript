@@ -553,9 +553,6 @@
 <programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20260628090000 +0000" stop="20260628100000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Netherlands GP</title>
-</programme>
 <programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
@@ -570,9 +567,6 @@
 </programme>
 <programme start="20260628154500 +0000" stop="20260628163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
-</programme>
-<programme start="20260628174500 +0000" stop="20260628184500 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Netherlands GP</title>
 </programme>
 <programme start="20260628184500 +0000" stop="20260628190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -645,9 +639,6 @@
 </programme>
 <programme start="20260628090000 +0000" stop="20260628110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260628170000 +0000" stop="20260628190000 +0000" channel="ANTV.vision">
-<title>Low Season</title>
 </programme>
 <programme start="20260628190000 +0000" stop="20260628210000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260629110000 +0000" stop="20260629130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260628000000 +0000" stop="20260628030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260628030000 +0000" stop="20260628060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260628060000 +0000" stop="20260628090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
 </programme>

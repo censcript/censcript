@@ -2219,7 +2219,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Big Cases - Peter Murrell: The Man with the Money</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260628160000 +0000" stop="20260628170000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -4234,10 +4234,10 @@
 <programme start="20260628110000 +0000" stop="20260628124500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Disability FA Cup - Powerchair Cup Final: Leeds Powerchair FC v Teesside PFC</title>
 </programme>
-<programme start="20260628124500 +0000" stop="20260628154500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260628124500 +0000" stop="20260628161500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Disability FA Cup - Deaf Cup Final: Barnet Deaf v St. John&#039;s Deaf</title>
 </programme>
-<programme start="20260628154500 +0000" stop="20260628164500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260628161500 +0000" stop="20260628164500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Sign Up: Into Football - Best Of</title>
 </programme>
 <programme start="20260628164500 +0000" stop="20260628171500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -4828,10 +4828,10 @@
 <programme start="20260628110000 +0000" stop="20260628124500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Disability FA Cup - Powerchair Cup Final: Leeds Powerchair FC v Teesside PFC</title>
 </programme>
-<programme start="20260628124500 +0000" stop="20260628154500 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260628124500 +0000" stop="20260628161500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Disability FA Cup - Deaf Cup Final: Barnet Deaf v St. John&#039;s Deaf</title>
 </programme>
-<programme start="20260628154500 +0000" stop="20260628164500 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260628161500 +0000" stop="20260628164500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Sign Up: Into Football - Best Of</title>
 </programme>
 <programme start="20260628164500 +0000" stop="20260628171500 +0000" channel="TNT_Sports_3.virginmediatv">
