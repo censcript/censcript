@@ -25,54 +25,109 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260628180000 +0000" stop="20260628220000 +0000" channel="fifa1.unifitv">
+  <programme start="20260628180000 +0000" stop="20260628213000 +0000" channel="fifa1.unifitv">
     <title lang="en">(L) South Africa vs Canada : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 3:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260628220000 +0000" stop="20260628223000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 13 - Monterrey : FIFA World Cup™ 26: Stories From the Cities</title>
+  <programme start="20260628213000 +0000" stop="20260628220000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260628223000 +0000" stop="20260629023000 +0000" channel="fifa1.unifitv">
+  <programme start="20260628220000 +0000" stop="20260628223000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260628223000 +0000" stop="20260628230000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260628230000 +0000" stop="20260629023000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) South Africa vs Canada : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629023000 +0000" stop="20260629030000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 14 - San Francisco : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629030000 +0000" stop="20260629073000 +0000" channel="fifa1.unifitv">
+  <programme start="20260629030000 +0000" stop="20260629033000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629033000 +0000" stop="20260629040000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629040000 +0000" stop="20260629043000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 13 - Monterrey : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629043000 +0000" stop="20260629080000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) South Africa vs Canada : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629073000 +0000" stop="20260629080000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 15 - Dallas : FIFA World Cup™ 26: Stories From the Cities</title>
+  <programme start="20260629080000 +0000" stop="20260629083000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629080000 +0000" stop="20260629113000 +0000" channel="fifa1.unifitv">
-    <title lang="en">(R) Croatia vs Ghana : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629113000 +0000" stop="20260629120000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 16 - New York &amp; New Jersey : FIFA World Cup™ 26: Stories From the Cities</title>
+  <programme start="20260629083000 +0000" stop="20260629090000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629120000 +0000" stop="20260629160000 +0000" channel="fifa1.unifitv">
+  <programme start="20260629090000 +0000" stop="20260629093000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 13 - Monterrey : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629100000 +0000" stop="20260629133000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) South Africa vs Canada : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629160000 +0000" stop="20260629163000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 1 - Mexico City : FIFA World Cup™ 26: Stories From the Cities</title>
+  <programme start="20260629133000 +0000" stop="20260629140000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629140000 +0000" stop="20260629143000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629143000 +0000" stop="20260629150000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629150000 +0000" stop="20260629153000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 13 - Monterrey : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629153000 +0000" stop="20260629160000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629160000 +0000" stop="20260629193000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(L) Brazil vs Japan : FIFA World Cup™ 2026 Round of 32</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="fifa2.unifitv">

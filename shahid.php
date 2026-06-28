@@ -4048,9 +4048,6 @@
     <programme start="20260629000000 +0000" stop="20260630235959 +0000" channel="1005232.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260629000000 +0000" stop="20260630235959 +0000" channel="49923088781412.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260629000000 +0000" stop="20260629000500 +0000" channel="387238.shahid">
         <title>Akhi Season 1 Episode 67</title>
     </programme>
@@ -4287,6 +4284,9 @@
     </programme>
     <programme start="20260630225000 +0000" stop="20260630235959 +0000" channel="387238.shahid">
         <title>Million Riyal Menu: Best Of</title>
+    </programme>
+    <programme start="20260629000000 +0000" stop="20260630235959 +0000" channel="49923088781412.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260629000000 +0000" stop="20260630235959 +0000" channel="946945.shahid">
         <title>TV guide is not available</title>
@@ -4543,192 +4543,6 @@
     <programme start="20260630120645 +0000" stop="20260630235959 +0000" channel="963543.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260629000000 +0000" stop="20260629002708 +0000" channel="976272.shahid">
-        <title>Al Kabeer Awi Season 6 Episode 23</title>
-    </programme>
-    <programme start="20260629002708 +0000" stop="20260629010446 +0000" channel="976272.shahid">
-        <title>Al Kabeer Awi Season 6 Episode 24</title>
-    </programme>
-    <programme start="20260629010446 +0000" stop="20260629014715 +0000" channel="976272.shahid">
-        <title>Al Kabeer Awi Season 6 Episode 25</title>
-    </programme>
-    <programme start="20260629014715 +0000" stop="20260629022045 +0000" channel="976272.shahid">
-        <title>Al Kabeer Awi Season 6 Episode 26</title>
-    </programme>
-    <programme start="20260629022045 +0000" stop="20260629025553 +0000" channel="976272.shahid">
-        <title>Al Kabeer Awi Season 6 Episode 27</title>
-    </programme>
-    <programme start="20260629025553 +0000" stop="20260629033418 +0000" channel="976272.shahid">
-        <title>Al Kabeer Awi Season 6 Episode 28</title>
-    </programme>
-    <programme start="20260629033418 +0000" stop="20260629041805 +0000" channel="976272.shahid">
-        <title>Al Kabeer Awi Season 6 Episode 29</title>
-    </programme>
-    <programme start="20260629041805 +0000" stop="20260629050038 +0000" channel="976272.shahid">
-        <title>Al Kabeer Awi Season 6 Episode 30</title>
-    </programme>
-    <programme start="20260629050038 +0000" stop="20260629054120 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 1</title>
-    </programme>
-    <programme start="20260629054120 +0000" stop="20260629061812 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 2</title>
-    </programme>
-    <programme start="20260629061812 +0000" stop="20260629065606 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 3</title>
-    </programme>
-    <programme start="20260629065606 +0000" stop="20260629073356 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 4</title>
-    </programme>
-    <programme start="20260629073356 +0000" stop="20260629081053 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 5</title>
-    </programme>
-    <programme start="20260629081053 +0000" stop="20260629085316 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 6</title>
-    </programme>
-    <programme start="20260629085316 +0000" stop="20260629093742 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 7</title>
-    </programme>
-    <programme start="20260629093742 +0000" stop="20260629102031 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 8</title>
-    </programme>
-    <programme start="20260629102031 +0000" stop="20260629105738 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 9</title>
-    </programme>
-    <programme start="20260629105738 +0000" stop="20260629113442 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 10</title>
-    </programme>
-    <programme start="20260629113442 +0000" stop="20260629121337 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 11</title>
-    </programme>
-    <programme start="20260629121337 +0000" stop="20260629125016 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 12</title>
-    </programme>
-    <programme start="20260629125016 +0000" stop="20260629132927 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 13</title>
-    </programme>
-    <programme start="20260629132927 +0000" stop="20260629140657 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 14</title>
-    </programme>
-    <programme start="20260629140657 +0000" stop="20260629145157 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 15</title>
-    </programme>
-    <programme start="20260629145157 +0000" stop="20260629152955 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 16</title>
-    </programme>
-    <programme start="20260629152955 +0000" stop="20260629160851 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 17</title>
-    </programme>
-    <programme start="20260629160851 +0000" stop="20260629165135 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 18</title>
-    </programme>
-    <programme start="20260629165135 +0000" stop="20260629172920 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 19</title>
-    </programme>
-    <programme start="20260629172920 +0000" stop="20260629181127 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 20</title>
-    </programme>
-    <programme start="20260629181127 +0000" stop="20260629185004 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 21</title>
-    </programme>
-    <programme start="20260629185004 +0000" stop="20260629194146 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 22</title>
-    </programme>
-    <programme start="20260629194146 +0000" stop="20260629202208 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 23</title>
-    </programme>
-    <programme start="20260629202208 +0000" stop="20260629210150 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 24</title>
-    </programme>
-    <programme start="20260629210150 +0000" stop="20260629214457 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 25</title>
-    </programme>
-    <programme start="20260629214457 +0000" stop="20260629222152 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 26</title>
-    </programme>
-    <programme start="20260629222152 +0000" stop="20260629225911 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 27</title>
-    </programme>
-    <programme start="20260629225911 +0000" stop="20260629234652 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 28</title>
-    </programme>
-    <programme start="20260629234652 +0000" stop="20260630003447 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 29</title>
-    </programme>
-    <programme start="20260630003447 +0000" stop="20260630012157 +0000" channel="976272.shahid">
-        <title>El Kebeer Awi Season 7 Episode 30</title>
-    </programme>
-    <programme start="20260630012157 +0000" stop="20260630014841 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 1</title>
-    </programme>
-    <programme start="20260630014841 +0000" stop="20260630021442 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 2</title>
-    </programme>
-    <programme start="20260630021442 +0000" stop="20260630024117 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 3</title>
-    </programme>
-    <programme start="20260630024117 +0000" stop="20260630030713 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 4</title>
-    </programme>
-    <programme start="20260630030713 +0000" stop="20260630033519 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260630033519 +0000" stop="20260630040647 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 6</title>
-    </programme>
-    <programme start="20260630040647 +0000" stop="20260630043820 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 7</title>
-    </programme>
-    <programme start="20260630043820 +0000" stop="20260630050221 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 8</title>
-    </programme>
-    <programme start="20260630050221 +0000" stop="20260630052804 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260630052804 +0000" stop="20260630055406 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260630055406 +0000" stop="20260630062251 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260630062251 +0000" stop="20260630064941 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260630064941 +0000" stop="20260630071351 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 13</title>
-    </programme>
-    <programme start="20260630071351 +0000" stop="20260630073816 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 14</title>
-    </programme>
-    <programme start="20260630073816 +0000" stop="20260630080249 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 1 Episode 15</title>
-    </programme>
-    <programme start="20260630080249 +0000" stop="20260630083456 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 2 Episode 1</title>
-    </programme>
-    <programme start="20260630083456 +0000" stop="20260630090758 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 2 Episode 2</title>
-    </programme>
-    <programme start="20260630090758 +0000" stop="20260630094055 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 2 Episode 3</title>
-    </programme>
-    <programme start="20260630094055 +0000" stop="20260630101016 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 2 Episode 4</title>
-    </programme>
-    <programme start="20260630101016 +0000" stop="20260630104921 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 2 Episode 5</title>
-    </programme>
-    <programme start="20260630104921 +0000" stop="20260630111652 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 2 Episode 6</title>
-    </programme>
-    <programme start="20260630111652 +0000" stop="20260630115544 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 2 Episode 7</title>
-    </programme>
-    <programme start="20260630115544 +0000" stop="20260630122351 +0000" channel="976272.shahid">
-        <title>Al Kabeer Season 2 Episode 8</title>
-    </programme>
-    <programme start="20260630122351 +0000" stop="20260630235959 +0000" channel="976272.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260629000000 +0000" stop="20260629000500 +0000" channel="387251.shahid">
         <title>Super Miro  </title>
     </programme>
@@ -4915,6 +4729,192 @@
     <programme start="20260701000000 +0000" stop="20260630235959 +0000" channel="387251.shahid">
         <title>Omm Haroun  </title>
     </programme>
+    <programme start="20260629000000 +0000" stop="20260629002708 +0000" channel="976272.shahid">
+        <title>Al Kabeer Awi Season 6 Episode 23</title>
+    </programme>
+    <programme start="20260629002708 +0000" stop="20260629010446 +0000" channel="976272.shahid">
+        <title>Al Kabeer Awi Season 6 Episode 24</title>
+    </programme>
+    <programme start="20260629010446 +0000" stop="20260629014715 +0000" channel="976272.shahid">
+        <title>Al Kabeer Awi Season 6 Episode 25</title>
+    </programme>
+    <programme start="20260629014715 +0000" stop="20260629022045 +0000" channel="976272.shahid">
+        <title>Al Kabeer Awi Season 6 Episode 26</title>
+    </programme>
+    <programme start="20260629022045 +0000" stop="20260629025553 +0000" channel="976272.shahid">
+        <title>Al Kabeer Awi Season 6 Episode 27</title>
+    </programme>
+    <programme start="20260629025553 +0000" stop="20260629033418 +0000" channel="976272.shahid">
+        <title>Al Kabeer Awi Season 6 Episode 28</title>
+    </programme>
+    <programme start="20260629033418 +0000" stop="20260629041805 +0000" channel="976272.shahid">
+        <title>Al Kabeer Awi Season 6 Episode 29</title>
+    </programme>
+    <programme start="20260629041805 +0000" stop="20260629050038 +0000" channel="976272.shahid">
+        <title>Al Kabeer Awi Season 6 Episode 30</title>
+    </programme>
+    <programme start="20260629050038 +0000" stop="20260629054120 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 1</title>
+    </programme>
+    <programme start="20260629054120 +0000" stop="20260629061812 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 2</title>
+    </programme>
+    <programme start="20260629061812 +0000" stop="20260629065606 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 3</title>
+    </programme>
+    <programme start="20260629065606 +0000" stop="20260629073356 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 4</title>
+    </programme>
+    <programme start="20260629073356 +0000" stop="20260629081053 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 5</title>
+    </programme>
+    <programme start="20260629081053 +0000" stop="20260629085316 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 6</title>
+    </programme>
+    <programme start="20260629085316 +0000" stop="20260629093742 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 7</title>
+    </programme>
+    <programme start="20260629093742 +0000" stop="20260629102031 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 8</title>
+    </programme>
+    <programme start="20260629102031 +0000" stop="20260629105738 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 9</title>
+    </programme>
+    <programme start="20260629105738 +0000" stop="20260629113442 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 10</title>
+    </programme>
+    <programme start="20260629113442 +0000" stop="20260629121337 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 11</title>
+    </programme>
+    <programme start="20260629121337 +0000" stop="20260629125016 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 12</title>
+    </programme>
+    <programme start="20260629125016 +0000" stop="20260629132927 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 13</title>
+    </programme>
+    <programme start="20260629132927 +0000" stop="20260629140657 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 14</title>
+    </programme>
+    <programme start="20260629140657 +0000" stop="20260629145157 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 15</title>
+    </programme>
+    <programme start="20260629145157 +0000" stop="20260629152955 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 16</title>
+    </programme>
+    <programme start="20260629152955 +0000" stop="20260629160851 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 17</title>
+    </programme>
+    <programme start="20260629160851 +0000" stop="20260629165135 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 18</title>
+    </programme>
+    <programme start="20260629165135 +0000" stop="20260629172920 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 19</title>
+    </programme>
+    <programme start="20260629172920 +0000" stop="20260629181127 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 20</title>
+    </programme>
+    <programme start="20260629181127 +0000" stop="20260629185004 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 21</title>
+    </programme>
+    <programme start="20260629185004 +0000" stop="20260629194146 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 22</title>
+    </programme>
+    <programme start="20260629194146 +0000" stop="20260629202208 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 23</title>
+    </programme>
+    <programme start="20260629202208 +0000" stop="20260629210150 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 24</title>
+    </programme>
+    <programme start="20260629210150 +0000" stop="20260629214457 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 25</title>
+    </programme>
+    <programme start="20260629214457 +0000" stop="20260629222152 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 26</title>
+    </programme>
+    <programme start="20260629222152 +0000" stop="20260629225911 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 27</title>
+    </programme>
+    <programme start="20260629225911 +0000" stop="20260629234652 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 28</title>
+    </programme>
+    <programme start="20260629234652 +0000" stop="20260630003447 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 29</title>
+    </programme>
+    <programme start="20260630003447 +0000" stop="20260630012157 +0000" channel="976272.shahid">
+        <title>El Kebeer Awi Season 7 Episode 30</title>
+    </programme>
+    <programme start="20260630012157 +0000" stop="20260630014841 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 1</title>
+    </programme>
+    <programme start="20260630014841 +0000" stop="20260630021442 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 2</title>
+    </programme>
+    <programme start="20260630021442 +0000" stop="20260630024117 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 3</title>
+    </programme>
+    <programme start="20260630024117 +0000" stop="20260630030713 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 4</title>
+    </programme>
+    <programme start="20260630030713 +0000" stop="20260630033519 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260630033519 +0000" stop="20260630040647 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 6</title>
+    </programme>
+    <programme start="20260630040647 +0000" stop="20260630043820 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 7</title>
+    </programme>
+    <programme start="20260630043820 +0000" stop="20260630050221 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 8</title>
+    </programme>
+    <programme start="20260630050221 +0000" stop="20260630052804 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260630052804 +0000" stop="20260630055406 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260630055406 +0000" stop="20260630062251 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260630062251 +0000" stop="20260630064941 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260630064941 +0000" stop="20260630071351 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 13</title>
+    </programme>
+    <programme start="20260630071351 +0000" stop="20260630073816 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260630073816 +0000" stop="20260630080249 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 1 Episode 15</title>
+    </programme>
+    <programme start="20260630080249 +0000" stop="20260630083456 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 2 Episode 1</title>
+    </programme>
+    <programme start="20260630083456 +0000" stop="20260630090758 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 2 Episode 2</title>
+    </programme>
+    <programme start="20260630090758 +0000" stop="20260630094055 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 2 Episode 3</title>
+    </programme>
+    <programme start="20260630094055 +0000" stop="20260630101016 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 2 Episode 4</title>
+    </programme>
+    <programme start="20260630101016 +0000" stop="20260630104921 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 2 Episode 5</title>
+    </programme>
+    <programme start="20260630104921 +0000" stop="20260630111652 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 2 Episode 6</title>
+    </programme>
+    <programme start="20260630111652 +0000" stop="20260630115544 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 2 Episode 7</title>
+    </programme>
+    <programme start="20260630115544 +0000" stop="20260630122351 +0000" channel="976272.shahid">
+        <title>Al Kabeer Season 2 Episode 8</title>
+    </programme>
+    <programme start="20260630122351 +0000" stop="20260630235959 +0000" channel="976272.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260629000000 +0000" stop="20260629000607 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 1 Episode 7</title>
     </programme>
@@ -5045,9 +5045,6 @@
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260629000000 +0000" stop="20260630235959 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260629000000 +0000" stop="20260630235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260629000000 +0000" stop="20260629003101 +0000" channel="969745.shahid">
@@ -5264,6 +5261,9 @@
         <title>Makhraj 7 Season 1 Episode 20</title>
     </programme>
     <programme start="20260630120312 +0000" stop="20260630235959 +0000" channel="969745.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260629000000 +0000" stop="20260630235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260629000000 +0000" stop="20260630235959 +0000" channel="999927.shahid">
