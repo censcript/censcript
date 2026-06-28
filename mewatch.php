@@ -763,7 +763,10 @@
     <programme start="20260627160000 +0000" stop="20260628060000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 28th Jun, Sunday 02.00pm. NBA Rising Stars Invitational Tournament 2026</title>
     </programme>
-    <programme start="20260628060000 +0000" stop="20260628130000 +0000" channel="Live 2.mewatch">
+    <programme start="20260628060000 +0000" stop="20260628090000 +0000" channel="Live 2.mewatch">
+        <title>NBA Rising Stars Invitational 2026 : Finals</title>
+    </programme>
+    <programme start="20260628090000 +0000" stop="20260628130000 +0000" channel="Live 2.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Finals</title>
     </programme>
     <programme start="20260628130000 +0000" stop="20260628160000 +0000" channel="Live 2.mewatch">

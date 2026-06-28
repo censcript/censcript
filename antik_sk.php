@@ -877,10 +877,10 @@
   <programme start="20260630212000 +0000" stop="20260630220000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H V (10)</title>
   </programme>
-  <programme start="20260629204000 +0000" stop="20260629224000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260629204000 +0000" stop="20260629223500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Drak prichádza</title>
   </programme>
-  <programme start="20260629224000 +0000" stop="20260629230000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260629223500 +0000" stop="20260629230000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dajto v pokri z Card Casina (75)</title>
   </programme>
   <programme start="20260629230000 +0000" stop="20260629231000 +0000" channel="DajTo.webtv.sk">
@@ -976,13 +976,13 @@
   <programme start="20260630203000 +0000" stop="20260630223000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Vo štvorici po opici 3</title>
   </programme>
-  <programme start="20260629215500 +0000" stop="20260629224500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260629215000 +0000" stop="20260629224000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Križovatky lásky (67)</title>
   </programme>
-  <programme start="20260629224500 +0000" stop="20260629232500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260629224000 +0000" stop="20260629232000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Križovatky lásky (68)</title>
   </programme>
-  <programme start="20260629232500 +0000" stop="20260630000500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260629232000 +0000" stop="20260630000500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (85)</title>
   </programme>
   <programme start="20260630000500 +0000" stop="20260630004500 +0000" channel="Doma.webtv.sk">
@@ -1024,52 +1024,52 @@
   <programme start="20260630083000 +0000" stop="20260630091500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire VIII (18)</title>
   </programme>
-  <programme start="20260630091500 +0000" stop="20260630100500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630091500 +0000" stop="20260630101000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zakázané ovocie II (10)</title>
   </programme>
-  <programme start="20260630100500 +0000" stop="20260630113500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630101000 +0000" stop="20260630114500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zakázané ovocie II (11)</title>
   </programme>
-  <programme start="20260630113500 +0000" stop="20260630123500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630114500 +0000" stop="20260630124500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Oteckovia IV (69)</title>
   </programme>
-  <programme start="20260630123500 +0000" stop="20260630133000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630124500 +0000" stop="20260630133500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (87)</title>
   </programme>
-  <programme start="20260630133000 +0000" stop="20260630141500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630133500 +0000" stop="20260630142000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (88)</title>
   </programme>
-  <programme start="20260630141500 +0000" stop="20260630152000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630142000 +0000" stop="20260630152000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Križovatky lásky (69)</title>
   </programme>
-  <programme start="20260630152000 +0000" stop="20260630160500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630152000 +0000" stop="20260630161000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Križovatky lásky (70)</title>
   </programme>
-  <programme start="20260630160500 +0000" stop="20260630170000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630161000 +0000" stop="20260630170000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire VIII (19)</title>
   </programme>
-  <programme start="20260630170000 +0000" stop="20260630180500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630170000 +0000" stop="20260630180000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zakázané ovocie II (12)</title>
   </programme>
-  <programme start="20260630180500 +0000" stop="20260630185500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630180000 +0000" stop="20260630185000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zakázané ovocie II (13)</title>
   </programme>
-  <programme start="20260630185500 +0000" stop="20260630192000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630185000 +0000" stop="20260630192000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom V (3)</title>
   </programme>
-  <programme start="20260630192000 +0000" stop="20260630195000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630192000 +0000" stop="20260630194500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom V (4)</title>
   </programme>
-  <programme start="20260630195000 +0000" stop="20260630201500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630194500 +0000" stop="20260630201000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia V (7)</title>
   </programme>
-  <programme start="20260630201500 +0000" stop="20260630204500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630201000 +0000" stop="20260630204500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia V (8)</title>
   </programme>
   <programme start="20260630204500 +0000" stop="20260630214000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Pohotovosť I (22)</title>
   </programme>
-  <programme start="20260630214000 +0000" stop="20260630223000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260630214000 +0000" stop="20260630222500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Križovatky lásky (69)</title>
   </programme>
   <programme start="20260629214500 +0000" stop="20260629222500 +0000" channel="Markíza Krimi.webtv.sk">
@@ -1240,10 +1240,10 @@
   <programme start="20260630202500 +0000" stop="20260630230500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Kill Bill 2</title>
   </programme>
-  <programme start="20260629202000 +0000" stop="20260629233500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260629202000 +0000" stop="20260630002000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260629233500 +0000" stop="20260630005000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260630002000 +0000" stop="20260630005000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
   <programme start="20260630005000 +0000" stop="20260630035500 +0000" channel="JOJ Šport.webtv.sk">
@@ -19090,7 +19090,7 @@
   <programme start="20260629232500 +0000" stop="20260630000000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Protestantesimo</title>
   </programme>
-  <programme start="20260630000000 +0000" stop="20260630030000 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20260630000000 +0000" stop="20260630040000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">RaiNews</title>
   </programme>
   <programme start="20260630040000 +0000" stop="20260630060000 +0000" channel="Rai Tre.webtv.sk">
@@ -19142,7 +19142,7 @@
     <title lang="id">Tg Parlamento</title>
   </programme>
   <programme start="20260630131000 +0000" stop="20260630135500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Italian Genius</title>
+    <title lang="id">Italian Genius (11)</title>
   </programme>
   <programme start="20260630135500 +0000" stop="20260630145000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Di la dal fiume e tra gli alberi III (18)</title>

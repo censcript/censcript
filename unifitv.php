@@ -71,7 +71,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260628130000 +0000" stop="20260628163000 +0000" channel="fifa1.unifitv">
-    <title lang="en">(R) Crotia vs Ghana : FIFA World Cup™ 2026</title>
+    <title lang="en">(R) Croatia vs Ghana : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -187,7 +187,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260627200000 +0000" stop="20260627233000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(L) Crotia vs Ghana : FIFA World Cup™ 2026</title>
+    <title lang="en">(L) Croatia vs Ghana : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -217,7 +217,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260628050000 +0000" stop="20260628083000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(R) Crotia vs Ghana : FIFA World Cup™ 2026</title>
+    <title lang="en">(R) Croatia vs Ghana : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 8:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -237,7 +237,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260628130000 +0000" stop="20260628163000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(R) Crotia vs Ghana : FIFA World Cup™ 2026</title>
+    <title lang="en">(R) Croatia vs Ghana : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 8:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -2238,43 +2238,31 @@
     <title lang="en">Indah Nur Kasih</title>
     <desc lang="en">Indah, Nur dan Kasih yang berlainan latar belakang yang berbeza dan kehidupan yang penuh konflik dan masalah. Nur adalah seorang pelukis dan penerbit filem dan drama, Kasih pula seorang penulis yang tinggal di kampung dan Indah seorang doktor yang suka dengan kerja-kerja NGO.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260627173000 +0000" stop="20260627180000 +0000" channel="tv1.unifitv">
     <title lang="en">Singgah Sini</title>
     <desc lang="en">Majalah travelog yang dihoskan oleh Arjaa Lee meninjau keunikan inap desa dan keindahan alam sekitar yang berhampiran serta aktiviti menarik yang boleh dilakukan di sana.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260627180000 +0000" stop="20260627183000 +0000" channel="tv1.unifitv">
     <title lang="en">Gadis Inspirasi</title>
     <desc lang="en">Program yang memaparkan 13 orang gadis yang bakal memberikan inspirasi.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260627183000 +0000" stop="20260627190000 +0000" channel="tv1.unifitv">
     <title lang="en">Hello Suri</title>
     <desc lang="en">Sebuah majalah yang memaparkan tips pengurusan rumah tangga, susun atur dan hiasan di dalam dan di luar rumah dan pengurusan kewangan. Majalah ini mempunyai beberapa segmen iaitu segmen pengurusan rumah tangga, info suri dan ringgit suri.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260627190000 +0000" stop="20260627193000 +0000" channel="tv1.unifitv">
     <title lang="en">Sipadan 2</title>
     <desc lang="en">Siri animasi berkisarkan kisah pengembaraan anak penyu bernama Sipadan bersama rakan-rakannya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260627193000 +0000" stop="20260627213000 +0000" channel="tv1.unifitv">
     <title lang="en">Manis Tak Lidas</title>
     <desc lang="en">Laila yang terpedaya dengan scammer mula kembali ceria selepas menanam pokok nanas kesayangannya, Pina, dengan sokongan keluarga dan jiran-jiran. Namun, percutian singkat bertukar kecoh apabila Pina tiba-tiba hilang. Dalam kekalutan itu, Laila menemui pengalaman baharu ketika melawat ladang nanas bersama keluarganya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260627213000 +0000" stop="20260627220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Al Waqiah (2023)</title>
@@ -2285,12 +2273,25 @@
     <title lang="en">Aksi 2025 (Ulangan)</title>
     <desc lang="en">Saksikan musim terbaharu dengan pelbagai acara sukan lasak yang penuh aksi yang mencabar.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
-  <programme start="20260627223000 +0000" stop="20260628020000 +0000" channel="tv1.unifitv">
-    <title lang="en">SIARAN LANGSUNG: PIALA DUNIA FIFA 2026</title>
-    <desc lang="en">Saksikan Siaran Langsung Piala Dunia FIFA 2026 antara DR Congo lwn Uzbekistan.</desc>
+  <programme start="20260627223000 +0000" stop="20260627230000 +0000" channel="tv1.unifitv">
+    <title lang="en">Singgah-Singgah</title>
+    <desc lang="en">Sebuah rancangan travelog yang meneroka destinasi unik di Malaysia.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="tv1.unifitv">
+    <title lang="en">Destinasi Hijau</title>
+    <desc lang="en">Program majalah travelog yang memaparkan keindahan flora fauna di tempat-tempat yang menarik.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="tv1.unifitv">
+    <title lang="en">Jurus</title>
+    <desc lang="en">Program dokumentari ini mengikuti pengembaraan seorang pelakon aksi lagak ngeri menjelajah pelbagai negara untuk mempelajari 13 seni bela diri tempur, sambil mendalami sejarah, falsafah dan teknik asas setiap disiplin.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260628000000 +0000" stop="20260628020000 +0000" channel="tv1.unifitv">
+    <title lang="en">90 Hari Untuk Selamanya</title>
+    <desc lang="en">Rashidah dan Mazlan bercerai selepas video perpisahan mereka tular. Ketika pulang ke kampung menjalani tempoh idah, keluarga merancang usaha menyatukan mereka semula hingga akhirnya mereka rujuk kembali.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260628020000 +0000" stop="20260628020500 +0000" channel="tv1.unifitv">
@@ -2298,31 +2299,20 @@
     <desc lang="en">Berita Dunia</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260628020500 +0000" stop="20260628021000 +0000" channel="tv1.unifitv">
-    <title lang="en">Galeri Nasional : Lawatan Rasmi Perdana Menteri Ke Turkmenistan</title>
-    <desc lang="en">Galeri Nasional : Lawatan Rasmi Perdana Menteri Ke Turkmenistan</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260628021000 +0000" stop="20260628023000 +0000" channel="tv1.unifitv">
+  <programme start="20260628020500 +0000" stop="20260628023000 +0000" channel="tv1.unifitv">
     <title lang="en">Ready, Steady, Wiggle!</title>
     <desc lang="en">Program animasi kanak-kanak berbahasa Inggeris ini the Wiggles yang terdiri daripada Evie, Anthony, Lucia, Lachlan, Tsehay, Caterina, John dan Simon menyanyi lagu-lagu kanak-kanak bersama mengikut tema tertentu dalam setiap episod.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="tv1.unifitv">
     <title lang="en">Miniheroes Of The Forest</title>
     <desc lang="en">Program animasi kanak-kanak berbahasa Inggeris ini mengisahkan 4 ekor sahabat iaitu Gaston (beruang), Jade (rubah), Gabin (Arnab) dan Juliette (burung hantu) yang kesemuanya mempunyai kelebihan luarbiasa. Setelah sesi persekolahan tamat, mereka berempat akan mengenakan pakaian adi wira dan memulakan misi pengembaraan di dalam hutan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260628030000 +0000" stop="20260628040000 +0000" channel="tv1.unifitv">
     <title lang="en">Cuit Sikit Jangan Sentap 2026</title>
     <desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260628040000 +0000" stop="20260628040500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -2333,32 +2323,21 @@
     <title lang="en">Tumit Tinggi 2025</title>
     <desc lang="en">Tumit Tinggi memaparkan kejayaan dan kehebatan wanita-wanita di Malaysia dalam pelbagai bidang dan kerjaya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="tv1.unifitv">
     <title lang="en">Cerita Rasa Anis Nabilah (Sr.2) (Ulangan)</title>
     <desc lang="en">Bersama Cef Anis Nabilah bersama dengan Cef Nik Michael memperkenalkan masakan istimewa pada setiap episod.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260628050000 +0000" stop="20260628053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
     <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260628053000 +0000" stop="20260628053500 +0000" channel="tv1.unifitv">
-    <title lang="en">Galeri Nasional : Lawatan Rasmi Perdana Menteri Ke Turkmenistan</title>
-    <desc lang="en">Galeri Nasional : Lawatan Rasmi Perdana Menteri Ke Turkmenistan</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260628053500 +0000" stop="20260628070000 +0000" channel="tv1.unifitv">
+  <programme start="20260628053000 +0000" stop="20260628070000 +0000" channel="tv1.unifitv">
     <title lang="en">Istimewa Lejen</title>
     <desc lang="en">Saksikan persembahan bersama pengacara Aril Pilus, dan artis-artis iaitu Datuk Jeffrydin, Dato'L Ramli, J. Sham, Rryn Gani, Heidi, dan Humanoid Band.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260628070000 +0000" stop="20260628070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -2369,39 +2348,26 @@
     <title lang="en">Simfoni Alam 2026</title>
     <desc lang="en">Dokumentari memaparkan isu hidupan liar dan alam semulajadi.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260628073000 +0000" stop="20260628080000 +0000" channel="tv1.unifitv">
     <title lang="en">AI: Unpacking The Black Box</title>
     <desc lang="en">Program majalah ini membincangkan bagaimana Kecerdasan Buatan (AI) mempengaruhi kehidupan manusia seiring perkembangan Revolusi Perindustrian. Ia turut mengupas kesan AI terhadap moral, pemikiran dan kepercayaan masyarakat.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260628080000 +0000" stop="20260628080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260628080500 +0000" stop="20260628081000 +0000" channel="tv1.unifitv">
-    <title lang="en">Galeri Nasional : Lawatan Rasmi Perdana Menteri Ke Turkmenistan</title>
-    <desc lang="en">Galeri Nasional : Lawatan Rasmi Perdana Menteri Ke Turkmenistan</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260628081000 +0000" stop="20260628083000 +0000" channel="tv1.unifitv">
+  <programme start="20260628080500 +0000" stop="20260628083000 +0000" channel="tv1.unifitv">
     <title lang="en">Sinei Kita Tok 2024</title>
     <desc lang="en">Sebuah rancangan menyaksikan kepelbagaian tempat menarik di dalam Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260628083000 +0000" stop="20260628090000 +0000" channel="tv1.unifitv">
     <title lang="en">Geng Cakap Bahasa</title>
     <desc lang="en">Sebuah program citrawara yang mengetengahkan kemahiran Bahasa Melayu dalam kalangan pelajar Bahasa iaitu Sabrina dari Tajikistan, Kinjou dari Jepun, May Vo dari Vietnam dan Ben dari Nigeria. Setiap episod akan menampilkan tema yang berbeza untuk menguji pengetahuan berbahasa Melayu para peserta.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260628090000 +0000" stop="20260628100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -2412,20 +2378,15 @@
     <title lang="en">Agrotek 2025</title>
     <desc lang="en">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260628103000 +0000" stop="20260628104500 +0000" channel="tv1.unifitv">
     <title lang="en">Promo / PSA / Kapsul</title>
-    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260628104500 +0000" stop="20260628114400 +0000" channel="tv1.unifitv">
     <title lang="en">Indah Nur Kasih</title>
     <desc lang="en">Indah, Nur dan Kasih yang berlainan latar belakang yang berbeza dan kehidupan yang penuh konflik dan masalah. Nur adalah seorang pelukis dan penerbit filem dan drama, Kasih pula seorang penulis yang tinggal di kampung dan Indah seorang doktor yang suka dengan kerja-kerja NGO.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
   </programme>
   <programme start="20260628114400 +0000" stop="20260628120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -2446,15 +2407,11 @@
     <title lang="en">Panorama 2026</title>
     <desc lang="en">Rancangan berbentuk kemasyarakatan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260628133000 +0000" stop="20260628140000 +0000" channel="tv1.unifitv">
     <title lang="en">Rona Sabah (Sr.17) 2026</title>
     <desc lang="en">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260628140000 +0000" stop="20260628160000 +0000" channel="tv1.unifitv">
     <title lang="en">Keranaku Mencintaimu</title>
@@ -4720,12 +4677,17 @@ beberapa orang, Badrul mula mengetahui apa itu Morse Code dan dia mula mempelaja
     <episode-num system="xmltv_ns">0.177.</episode-num>
     <episode-num system="onscreen">S1E178</episode-num>
   </programme>
-  <programme start="20260627200500 +0000" stop="20260627210500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">You Are Not Alone Again</title>
-    <desc lang="en">"'You Are Not Alone' triumphantly returns! In its second season, the show is once again led by the 'King of Ghosts' Leung Si Ho, together with co-hosts Wong Yiu Ying and Wong Chi Yan, as well as editors Wong Ying Yeuk and Tong Chi Yan, bringing audiences even more frights and surprises. Each episode focuses on a different supernatural theme, featuring heavyweight guests who share ghost stories and reveal the secrets of rituals and industry customs. With a world full of mysteries, the program gathers paranormal news from around the globe, and Chi Yan will travel to South Korea and Taiwan to explore local supernatural phenomena. Real-time interaction with the audience is also a highlight of 'Spirit Connection,' with the team closely following live broadcasts,</desc>
+  <programme start="20260627200500 +0000" stop="20260627203500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Chung King Fai - All the World's a Stage</title>
+    <desc lang="en">Drama master "King Sir" Chung King-fai passed away in early June at the age of 89. He dedicated his life to the stage, leaving a profound impact. King Sir was committed to nurturing performing arts talent and was one of the founders of TVB's acting training program, nurturing countless students. His rigorous teaching approach instilled and solidified professionalism in generations of actors. He also upheld the belief that "there are no small actors, only small roles," giving his all to every performance, regardless of size. Furthermore, his signature clear and resonant voice served as narrator for informational programs, becoming a collective memory for generations of Hong Kong people. Through this program, we can all remember this theatrical giant.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20260627203500 +0000" stop="20260627210500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Journey To The Wealthy West</title>
+    <desc lang="en">What are the essential qualities and characteristics of successful people? Hosts Liu Chenzhi and Zheng Yanfeng, both familiar with foreign cultures, embark on a luxurious journey, visiting friends and guests living in the United States. They explore little-known stories of former NBA players, entrepreneurs, designers, wealthy women, artists, and collectors, understanding their definitions of success and witnessing affluent lifestyles and tastes. Stepping into the world of luxury, they visit super mansions in Beverly Hills, admire luxury cars and fine wine collections, explore Hollywood movie filming locations, and experience VIP activities and entertainment. The two hosts will also delve into NBA team arenas and the Academy Museum, offering viewers a truly eye-opening experience!</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260627210500 +0000" stop="20260627213500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News Magazine 2026</title>

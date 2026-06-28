@@ -1238,34 +1238,34 @@
         <title>Naagini S05</title>
     </programme>
     <programme start="20260628003000 +0000" stop="20260628010000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628010000 +0000" stop="20260628013000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628013000 +0000" stop="20260628020000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malar</title>
+        <title>Malarmalar</title>
     </programme>
     <programme start="20260628020000 +0000" stop="20260628030000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Naagini S05</title>
     </programme>
     <programme start="20260628030000 +0000" stop="20260628033000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628033000 +0000" stop="20260628040000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628040000 +0000" stop="20260628043000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628050000 +0000" stop="20260628053000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628053000 +0000" stop="20260628060000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628060000 +0000" stop="20260628070000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Veera Hanuman</title>
@@ -1286,10 +1286,10 @@
         <title>Mahabharatham</title>
     </programme>
     <programme start="20260628093000 +0000" stop="20260628100000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malar</title>
+        <title>Malarmalar</title>
     </programme>
     <programme start="20260628100000 +0000" stop="20260628103000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malar</title>
+        <title>Malarmalar</title>
     </programme>
     <programme start="20260628103000 +0000" stop="20260628110000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Chandrakanta</title>
@@ -1301,13 +1301,13 @@
         <title>Naagini S05</title>
     </programme>
     <programme start="20260628123000 +0000" stop="20260628130000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628130000 +0000" stop="20260628133000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260628133000 +0000" stop="20260628140000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malar</title>
+        <title>Malarmalar</title>
     </programme>
     <programme start="20260628140000 +0000" stop="20260628143000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
@@ -2125,10 +2125,10 @@
     <programme start="20260628150000 +0000" stop="20260628170000 +0000" channel="Cinema One Global.starhub">
         <title>Alex Boncayao Brigade</title>
     </programme>
-    <programme start="20260627160000 +0000" stop="20260627190000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260627160000 +0000" stop="20260627192000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>HSBC Championships (500) SF 1 &amp; 2</title>
     </programme>
-    <programme start="20260627190000 +0000" stop="20260627203000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260627192000 +0000" stop="20260627203000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>HSBC Championships (500) Final</title>
     </programme>
     <programme start="20260627203000 +0000" stop="20260627204500 +0000" channel="Hub Sports 2 HD.starhub">
@@ -5707,7 +5707,10 @@
     <programme start="20260628040000 +0000" stop="20260628100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260628100000 +0000" stop="20260628160000 +0000" channel="Hub Sports 6.starhub">
+    <programme start="20260628100000 +0000" stop="20260628120000 +0000" channel="Hub Sports 6.starhub">
+        <title>Lexus Eastbourne Open (250) Final</title>
+    </programme>
+    <programme start="20260628120000 +0000" stop="20260628160000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260627160000 +0000" stop="20260627170000 +0000" channel="TVBS-NEWS.starhub">
@@ -7549,10 +7552,10 @@
     <programme start="20260627213000 +0000" stop="20260627233000 +0000" channel="Asianet Movies.starhub">
         <title>Kuttikal undu sookshikkuka</title>
     </programme>
-    <programme start="20260627233000 +0000" stop="20260628013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260627233000 +0000" stop="20260628015000 +0000" channel="Asianet Movies.starhub">
         <title>Maheshum Maruthiyum</title>
     </programme>
-    <programme start="20260628013000 +0000" stop="20260628043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260628015000 +0000" stop="20260628043000 +0000" channel="Asianet Movies.starhub">
         <title>Ohm Shanthi Oshaana</title>
     </programme>
     <programme start="20260628043000 +0000" stop="20260628073000 +0000" channel="Asianet Movies.starhub">
