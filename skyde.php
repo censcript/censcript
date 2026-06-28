@@ -2343,25 +2343,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628212000 +0000" stop="20260628220500 +0000" channel="Sky Showcase HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20260628000000 +0000" stop="20260628020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260627223000 +0000" stop="20260627224500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Rot-Weiß-Roadtrip</title>
+</programme>
+<programme start="20260627224500 +0000" stop="20260628011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Paris Saint-Germain - FC Arsenal, Finale in Budapest (Ungarn)</title>
+</programme>
+<programme start="20260628011500 +0000" stop="20260628031000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Rapid - SV Oberbank Ried, Europacup-Playoffs, Finale Rückspiel</title>
 </programme>
-<programme start="20260628020000 +0000" stop="20260628023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 1. Runde</title>
-</programme>
-<programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 2. Runde</title>
-</programme>
-<programme start="20260628030000 +0000" stop="20260628033500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260628031000 +0000" stop="20260628034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 3. Runde</title>
 </programme>
-<programme start="20260628033500 +0000" stop="20260628035500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260628034500 +0000" stop="20260628040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Bundesliga Classic: Salzburg - WAC (2019/2020)</title>
 </programme>
-<programme start="20260628035500 +0000" stop="20260628042500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260628040000 +0000" stop="20260628043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 4. Runde</title>
 </programme>
-<programme start="20260628042500 +0000" stop="20260628045000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260628043000 +0000" stop="20260628045000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 1-4)</title>
 </programme>
 <programme start="20260628045000 +0000" stop="20260628052000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2943,7 +2943,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628213000 +0000" stop="20260628223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Wimbledons Tennisgötter - Billie Jean King und Arthur Ashe</title>
 </programme>
-<programme start="20260628040000 +0000" stop="20260628063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260627230000 +0000" stop="20260628063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260628063000 +0000" stop="20260628074000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3051,7 +3051,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628210500 +0000" stop="20260628220500 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628040000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627230000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260627232000 +0000" stop="20260628015000 +0000" channel="Sky Sport 2 HD.skyde">
