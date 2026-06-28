@@ -846,6 +846,99 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628215500 +0000" stop="20260628221000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
+<programme start="20260627220500 +0000" stop="20260627225500 +0000" channel="Crime + Investigation.skyde">
+    <title>Lüge oder Wahrheit - Gerechtigkeit auf dem Prüfstand</title>
+</programme>
+<programme start="20260627225500 +0000" stop="20260627234500 +0000" channel="Crime + Investigation.skyde">
+    <title>Lüge oder Wahrheit - Gerechtigkeit auf dem Prüfstand</title>
+</programme>
+<programme start="20260627234500 +0000" stop="20260628003000 +0000" channel="Crime + Investigation.skyde">
+    <title>Mord im Motel</title>
+</programme>
+<programme start="20260628003000 +0000" stop="20260628011500 +0000" channel="Crime + Investigation.skyde">
+    <title>Mord im Motel</title>
+</programme>
+<programme start="20260628011500 +0000" stop="20260628020500 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20260628020500 +0000" stop="20260628025500 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20260628025500 +0000" stop="20260628034500 +0000" channel="Crime + Investigation.skyde">
+    <title>Der Fall Gypsy Rose Blanchard</title>
+</programme>
+<programme start="20260628034500 +0000" stop="20260628043500 +0000" channel="Crime + Investigation.skyde">
+    <title>Der Fall Gypsy Rose Blanchard</title>
+</programme>
+<programme start="20260628043500 +0000" stop="20260628050500 +0000" channel="Crime + Investigation.skyde">
+    <title>Unentdeckt - Mörder unter uns</title>
+</programme>
+<programme start="20260628050500 +0000" stop="20260628060000 +0000" channel="Crime + Investigation.skyde">
+    <title>Bloodline Detectives - Die DNA der Täter</title>
+</programme>
+<programme start="20260628060000 +0000" stop="20260628063000 +0000" channel="Crime + Investigation.skyde">
+    <title>Unentdeckt - Mörder unter uns</title>
+</programme>
+<programme start="20260628063000 +0000" stop="20260628072000 +0000" channel="Crime + Investigation.skyde">
+    <title>Court Cam - Auf der Anklagebank</title>
+</programme>
+<programme start="20260628072000 +0000" stop="20260628081000 +0000" channel="Crime + Investigation.skyde">
+    <title>Court Cam - Auf der Anklagebank</title>
+</programme>
+<programme start="20260628081000 +0000" stop="20260628090000 +0000" channel="Crime + Investigation.skyde">
+    <title>David Fuller - Das Monster in der Leichenhalle</title>
+</programme>
+<programme start="20260628090000 +0000" stop="20260628095000 +0000" channel="Crime + Investigation.skyde">
+    <title>David Fuller - Das Monster in der Leichenhalle</title>
+</programme>
+<programme start="20260628095000 +0000" stop="20260628102000 +0000" channel="Crime + Investigation.skyde">
+    <title>Unentdeckt - Mörder unter uns</title>
+</programme>
+<programme start="20260628102000 +0000" stop="20260628111000 +0000" channel="Crime + Investigation.skyde">
+    <title>Lüge oder Wahrheit - Gerechtigkeit auf dem Prüfstand</title>
+</programme>
+<programme start="20260628111000 +0000" stop="20260628120000 +0000" channel="Crime + Investigation.skyde">
+    <title>Lüge oder Wahrheit - Gerechtigkeit auf dem Prüfstand</title>
+</programme>
+<programme start="20260628120000 +0000" stop="20260628125000 +0000" channel="Crime + Investigation.skyde">
+    <title>Mord im Motel</title>
+</programme>
+<programme start="20260628125000 +0000" stop="20260628134000 +0000" channel="Crime + Investigation.skyde">
+    <title>Mord im Motel</title>
+</programme>
+<programme start="20260628134000 +0000" stop="20260628140500 +0000" channel="Crime + Investigation.skyde">
+    <title>Unentdeckt - Mörder unter uns</title>
+</programme>
+<programme start="20260628140500 +0000" stop="20260628145500 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20260628145500 +0000" stop="20260628154500 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20260628154500 +0000" stop="20260628163500 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20260628163500 +0000" stop="20260628172500 +0000" channel="Crime + Investigation.skyde">
+    <title>Grace Millane - Der Tinder-Mord</title>
+</programme>
+<programme start="20260628172500 +0000" stop="20260628181500 +0000" channel="Crime + Investigation.skyde">
+    <title>Bloodline Detectives - Die DNA der Täter</title>
+</programme>
+<programme start="20260628181500 +0000" stop="20260628194500 +0000" channel="Crime + Investigation.skyde">
+    <title>Der Prozess gegen Michael Jackson</title>
+</programme>
+<programme start="20260628194500 +0000" stop="20260628203500 +0000" channel="Crime + Investigation.skyde">
+    <title>Butchers of the Bayou - Die Serienkiller von Louisiana</title>
+</programme>
+<programme start="20260628203500 +0000" stop="20260628212500 +0000" channel="Crime + Investigation.skyde">
+    <title>Butchers of the Bayou - Die Serienkiller von Louisiana</title>
+</programme>
+<programme start="20260628212500 +0000" stop="20260628215500 +0000" channel="Crime + Investigation.skyde">
+    <title>Unentdeckt - Mörder unter uns</title>
+</programme>
+<programme start="20260628215500 +0000" stop="20260628224500 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
 <programme start="20260627220000 +0000" stop="20260628060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -2472,22 +2565,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628050000 +0000" stop="20260628063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Österreich</title>
 </programme>
-<programme start="20260628063000 +0000" stop="20260628074500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628063000 +0000" stop="20260628074000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628074500 +0000" stop="20260628080000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628074000 +0000" stop="20260628080000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Inside Story: 2025 Championship Showdown</title>
 </programme>
-<programme start="20260628080000 +0000" stop="20260628093000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628080000 +0000" stop="20260628092500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628093000 +0000" stop="20260628095000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628092500 +0000" stop="20260628095000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Iconic Onboards: Oscar Piastri</title>
 </programme>
-<programme start="20260628095000 +0000" stop="20260628104500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628095000 +0000" stop="20260628104000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live PMSC: Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628104500 +0000" stop="20260628110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628104000 +0000" stop="20260628110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Inside Story: Pit lane to glory</title>
 </programme>
 <programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2832,10 +2925,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628083000 +0000" stop="20260628100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628121500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628100000 +0000" stop="20260628115000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
-<programme start="20260628121500 +0000" stop="20260628143000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628115000 +0000" stop="20260628140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
 <programme start="20260628140000 +0000" stop="20260628160000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2856,10 +2949,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260627230000 +0000" stop="20260628063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
-<programme start="20260628063000 +0000" stop="20260628074500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260628063000 +0000" stop="20260628074000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628074500 +0000" stop="20260628080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260628074000 +0000" stop="20260628080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Inside Story: 2025 Championship Showdown</title>
 </programme>
 <programme start="20260628080000 +0000" stop="20260628092500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2910,22 +3003,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628050000 +0000" stop="20260628063000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Österreich</title>
 </programme>
-<programme start="20260628063000 +0000" stop="20260628074500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628063000 +0000" stop="20260628074000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628074500 +0000" stop="20260628080000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628074000 +0000" stop="20260628080000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Inside Story: 2025 Championship Showdown</title>
 </programme>
-<programme start="20260628080000 +0000" stop="20260628093000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628080000 +0000" stop="20260628092500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628093000 +0000" stop="20260628095000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628092500 +0000" stop="20260628095000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Iconic Onboards: Oscar Piastri</title>
 </programme>
-<programme start="20260628095000 +0000" stop="20260628104500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628095000 +0000" stop="20260628104000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live PMSC: Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628104500 +0000" stop="20260628110000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628104000 +0000" stop="20260628110000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Inside Story: Pit lane to glory</title>
 </programme>
 <programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="Sky Sport UHD.skyde">
