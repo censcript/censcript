@@ -562,9 +562,6 @@
 <programme start="20260628110000 +0000" stop="20260628114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
-<programme start="20260628114500 +0000" stop="20260628130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026 Netherlands GP</title>
-</programme>
 <programme start="20260628130000 +0000" stop="20260628143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -651,12 +648,6 @@
 </programme>
 <programme start="20260628090000 +0000" stop="20260628110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260628110000 +0000" stop="20260628130000 +0000" channel="ANTV.vision">
-<title>Perawan Lembah Wilis</title>
-</programme>
-<programme start="20260628130000 +0000" stop="20260628150000 +0000" channel="ANTV.vision">
-<title>Maju Kena Mundur Kena</title>
 </programme>
 <programme start="20260628150000 +0000" stop="20260628170000 +0000" channel="ANTV.vision">
 <title>Kembalinya Si Janda Kembang</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260629010000 +0000" stop="20260629030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260629030000 +0000" stop="20260629050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260629050000 +0000" stop="20260629070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260629070000 +0000" stop="20260629090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
