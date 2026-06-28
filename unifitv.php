@@ -1656,7 +1656,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260628074000 +0000" stop="20260628093000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Junior World Championship - New Zealand vs Japan</title>
+    <title lang="en">Junior World Championship -England vs Ireland</title>
     <desc lang="en">The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -1680,7 +1680,12 @@
     <desc lang="en">HSBC SVNS World Championships Highlights - Bordeaux</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260628150000 +0000" stop="20260628163000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Almaty ATP 250 2025 - Documentary</title>
+    <desc lang="en">Professional men's tennis tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260628153000 +0000" stop="20260628170000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Valladolid P2 Day 6 Final - Women (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
@@ -2437,103 +2442,158 @@ beberapa orang, Badrul mula mengetahui apa itu Morse Code dan dia mula mempelaja
   </programme>
   <programme start="20260627180000 +0000" stop="20260627190000 +0000" channel="tv2.unifitv">
     <title lang="en">Kaanavillai</title>
-    <desc lang="en">Sebuah drama lakonan Ravin Rao, Nithya Sree, Komala Naidu, Devendren, Shamini dan Logan.</desc>
+    <desc lang="en">Kisah bagaimana seorang ayah yang bernama Thiaga membuat penyiasatannya untuk mencari anaknya Reynitha yang sedang belajar di universiti selepas diumumkan hilang sewaktu meredah hutan di Australia dan mengesyaki Varman kawan Reynitha sejak kecil yang juga belajar di universiti sebagai suspek utama.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260627190000 +0000" stop="20260627200000 +0000" channel="tv2.unifitv">
     <title lang="en">913 Kepulangan</title>
-    <desc lang="en">Sebuah drama lakonan Sherlyn Seo Li  Ling, Seok Fook Yee, Sam Loo Jil Chieh, Cynthia Ong Wei Wei dan lee Woei Jung.</desc>
+    <desc lang="en">Sebuah drama yang berkisarkan hidup A Mei yang sering dikelilingi cemuhan dan kecelakaan apabila ayahnya dituduh sebagai penyebab sebuah kemalangan tragis yang menimpa sekumpulan pelajar</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260627200000 +0000" stop="20260627203000 +0000" channel="tv2.unifitv">
     <title lang="en">Jangan Ambil Kerja Tuhan</title>
-    <desc lang="en">Drama bersiri.</desc>
+    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260627203000 +0000" stop="20260627213000 +0000" channel="tv2.unifitv">
-    <title lang="en">Gala 2</title>
-    <desc lang="en">Imbas kembali kenangan dan memori dengan menyaksikan persembahan artis-artis popular satu ketika dahulu.</desc>
+    <title lang="en">Gala 2 - Khatijah Ibrahim</title>
+    <desc lang="en">Saksikan kembali persembahan istimewa Khatijah Ibrahim dalam program hiburan terbitan Unit Hiburan TV, RTM.</desc>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20260627213000 +0000" stop="20260627220000 +0000" channel="tv2.unifitv">
     <title lang="en">Che Salmah Bintang Radio</title>
-    <desc lang="en">Pelakon: Chacha Maembong, Fathil Dhani, Alias Ridzuan, Dian P. Ramlee</desc>
+    <desc lang="en">Che Salmah, seorang wanita cantik yang terpaksa menyara keluarga setelah kematian suaminya. Che Salmah yang bercita-cita untuk menjadi seorang bintang radio terpaksa menempuhi pelbagai dugaan untuk merealisasikan impiannya.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20260627220000 +0000" stop="20260627223000 +0000" channel="tv2.unifitv">
-    <title lang="en">Peluang</title>
-    <desc lang="en">Drama lakonan Mubarak Majid, Shazmaan Isaac, Khai Sabri, Arielganu dan ramai lagi.</desc>
+  <programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="tv2.unifitv">
+    <title lang="en">Klon</title>
+    <desc lang="en">Kisah seorang budak lelaki bernama Izwan yang menemui cermin sakti! Cermin itu mempunyai kuasa ajaib. Ia mampu mengklonkan sesuatu, sama ada manusia, benda ataupun haiwan.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
-  <programme start="20260627223000 +0000" stop="20260628020000 +0000" channel="tv2.unifitv">
-    <title lang="en">SIARAN LANGSUNG : PIALA DUNIA FIFA 2026 (COLUMBIA VS PORTUGAL)</title>
-    <desc lang="en">Saksikan Piala Dunia Fifa 2026, Columbia menentang Portugal secara langsung di TV2.</desc>
+  <programme start="20260627230000 +0000" stop="20260627233000 +0000" channel="tv2.unifitv">
+    <title lang="en">Jinggo</title>
+    <desc lang="en">Animasi yang mengisahkan Jinggo, seorang penembak tepatdari Pasukan Khas Negara. Jinggo sering dibantu oleh Joned dan Kid sewaktu menyelesaikan misi yang diberikan.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260627233000 +0000" stop="20260628000000 +0000" channel="tv2.unifitv">
+    <title lang="en">Megatik</title>
+    <desc lang="en">Profesor Hitam menggunakan hasil penyelidikannya untuk menghuruharakan kota Unggas. Walaubagaimanapun tindakannya berjaya dihalang oleh Mat Pos dan Jojo yang bertukar menjadi Megatik iaitu Mega Merah dan Mega Unggu yang mempunyai kuasa luar biasa.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260628000000 +0000" stop="20260628003000 +0000" channel="tv2.unifitv">
+    <title lang="en">Pak Pandir Moden (Siri 2)</title>
+    <desc lang="en">Mengisahkan Jaguh, pemuda yang hidup pada zaman kegemilangan Kesultanan Melayu Melaka. Jaguh dibesarkan oleh Tok Guru yang memperkenalkannya dengan dunia persilatan.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+  </programme>
+  <programme start="20260628003000 +0000" stop="20260628010000 +0000" channel="tv2.unifitv">
+    <title lang="en">Doplo Doplo</title>
+    <desc lang="en">Kisah Kehidupan manusia yang hidup dalam era 2020 di mana pelbagai teknologi dan kemudahan serta fasiliti yang canggih telah digunakan.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260628010000 +0000" stop="20260628013000 +0000" channel="tv2.unifitv">
+    <title lang="en">Krayon (Musim 4)</title>
+    <desc lang="en">Rancangan majalah pendidikan dan hiburan kanak-kanak popular yang menampilkan pelbagai segmen menarik seperti eksperimen sains, seni dan kraf, trivia, serta pertunjukan bakat kanak-kanak.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260628013000 +0000" stop="20260628020000 +0000" channel="tv2.unifitv">
+    <title lang="en">Krayon (Musim 4)</title>
+    <desc lang="en">Rancangan majalah pendidikan dan hiburan kanak-kanak popular yang menampilkan pelbagai segmen menarik seperti eksperimen sains, seni dan kraf, trivia, serta pertunjukan bakat kanak-kanak.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260628020000 +0000" stop="20260628023000 +0000" channel="tv2.unifitv">
     <title lang="en">Tangranimals</title>
-    <desc lang="en">Kisah pengembaraan Geo meneroka planet Tangra, satu tempat yang menakjubkan dengan landskap geometri, bersama rakan-rakannya Tangranimals. Makhluk-makhluk yang lucu ini boleh dihubungkan bersama seperti kepingan Tangram dan boleh berubah menjadi pelbagai jenis kenderaan, makhluk dan objek. Dengan kuasa itu, ditambah pula dengan imaginasi yang baik, Geo dan rakan-rakannya bersedia menghadapi sebarang cabaran!</desc>
+    <desc lang="en">Kisah pengembaraan Geo meneroka planet Tangra, satu tempat yang menakjubkan dengan landskap geometri, bersama rakan-rakannya Tangranimals. Makhluk-makhluk yang lucu ini boleh dihubungkan bersama seperti kepingan Tangram dan boleh berubah menjadi pelbagai jenis kenderaan, makhluk dan objek. Dengan kuasa itu, ditambah pula dengan imaginasi yang baik, Geo dan rakan-rakannya bersedia menghadapi sebarang cabaran! ?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="tv2.unifitv">
     <title lang="en">Squad Act</title>
-    <desc lang="en">Candawara kanak-kanak yang disertai oleh 2 buah pasukan yang terdiri dari 3 orang peserta. 2 pasukan tersebut akan bersaing dalam 3 siri cabaran.</desc>
+    <desc lang="en">Sebuah rancangan berkonsepkan candawara kanak-kanak, yang disertai oleh 2 buah pasukan yang terdiri dari 3 orang bagi setiap pasukan dan dihoskan oleh Fikry Kiki. Setiap episod menyaksikan 2 pasukan ini akan bersaing dalam 3 siri cabaran iaitu lakon &amp; teka, cari &amp; lakon dan lukis, Teka &amp; Lakon.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260628030000 +0000" stop="20260628040000 +0000" channel="tv2.unifitv">
     <title lang="en">LIVE : HTV RELOADED</title>
-    <desc lang="en">Sembang santai, perkongsian inspirasi dan hiburan yang pasti menceriakan hujung minggu anda bersama Akhmal Nazri &amp; Nadia Aqilah.</desc>
+    <desc lang="en">Saksikan bual bicara santai bersama pelbagai personaliti seni, pelakon dan pemuzik popular tanah air.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260628040000 +0000" stop="20260628043000 +0000" channel="tv2.unifitv">
     <title lang="en">BERITA MANDARIN</title>
-    <desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+    <desc lang="en">Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="tv2.unifitv">
+  <programme start="20260628043000 +0000" stop="20260628053000 +0000" channel="tv2.unifitv">
     <title lang="en">WORLD TODAY</title>
     <desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20260628050000 +0000" stop="20260628053000 +0000" channel="tv2.unifitv">
-    <title lang="en">Kacang Hantu</title>
-    <desc lang="en">Sebuah drama lakonan Izzy Reef, Sugeindhiran, Aaron Bosco dan Sera Melissa.</desc>
-  </programme>
-  <programme start="20260628053000 +0000" stop="20260628070000 +0000" channel="tv2.unifitv">
+  <programme start="20260628053000 +0000" stop="20260628080000 +0000" channel="tv2.unifitv">
     <title lang="en">Buddy Into The Wild Season 2</title>
     <desc lang="en">Rancangan candawara yang dibintangi oleh penghibur Ahn Jung-hwan dan Boom yang terkandas bersama di sebuah pulau terpencil dan melakukan pelbagai tugasan untuk ikhtiar hidup.</desc>
-  </programme>
-  <programme start="20260628070000 +0000" stop="20260628080000 +0000" channel="tv2.unifitv">
-    <title lang="en">What Say You 2026</title>
-    <desc lang="en">Ikuti perbincangan pelbagai topik berkaitan isu-isu semasa bersama tetamu jemputan.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260628080000 +0000" stop="20260628093000 +0000" channel="tv2.unifitv">
     <title lang="en">Running Man</title>
-    <desc lang="en">Sebuah program candawara Korea yang menampilkan artis-artis popular disana.</desc>
+    <desc lang="en">Rancangan candawara yang disertai oleh artis-artis popular Korea yang akan mengambil bahagian dalam perlumbaan dimana mereka bersaing antara satu sama lain untuk muncul sebagai pemenang dan menuntut gelaran berprestij.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.561.</episode-num>
+    <episode-num system="onscreen">S1E562</episode-num>
   </programme>
   <programme start="20260628093000 +0000" stop="20260628100000 +0000" channel="tv2.unifitv">
     <title lang="en">Che Salmah Bintang Radio</title>
-    <desc lang="en">Pelakon: Chacha Maembong, Fathil Dhani, Alias Ridzuan, Dian P. Ramlee</desc>
+    <desc lang="en">Che Salmah, seorang wanita cantik yang terpaksa menyara keluarga setelah kematian suaminya. Che Salmah yang bercita-cita untuk menjadi seorang bintang radio terpaksa menempuhi pelbagai dugaan untuk merealisasikan impiannya.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260628100000 +0000" stop="20260628103000 +0000" channel="tv2.unifitv">
+  <programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="tv2.unifitv">
     <title lang="en">Mechamato The Animated Series</title>
-    <desc lang="en">Kisah Amato, seorang kanak-kanak yang baik hati dan inovatif. Suatu hari dia menemui sebuah kapal angkasa yang merupakan penjara bagi robot-robot jahat. Disitu dia bertemu dengan sebuah robot bernama Mechabot yang mampu mengubah apa sahaja benda menjadi alat berteknologi tinggi. Amato berjaya menewaskan Mechabot dan menjadi tuannya. Mereka menjadi sahabat baik dan bekerjasama sebagai superhero "Mechamato" untuk menjejak dan menangkap semula robot-robot yang telah melarikan diri.</desc>
+    <desc lang="en">Siri ini mengisahkan seorang budak lelaki bernama Amato yang baik hati dan kreatif. Suatu hari, dia menemui sebuah kapal angkasa yang merupakan penjara bagi robot-robot jahat. Di situ, dia berjumpa dengan sebuah robot bernama Mechabot, yang mempunyai keupayaan untuk mengubah apa saja benda biasa menjadi alat berteknologi tinggi. Amato berjaya menewaskan Mechabot dan menjadi tuannya. Lama-kelamaan, mereka menjadi sahabat baik dan bekerjasama sebagai superhero "Mechamato" untuk menjejak dan menangkap semula robot-robot yang telah melarikan diri.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20260628103000 +0000" stop="20260628110000 +0000" channel="tv2.unifitv">
-    <title lang="en">BERITA MANDARIN</title>
-    <desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
-  </programme>
-  <programme start="20260628110000 +0000" stop="20260628113000 +0000" channel="tv2.unifitv">
+  <programme start="20260628110000 +0000" stop="20260628153000 +0000" channel="tv2.unifitv">
     <title lang="en">A Day In Uniform</title>
-    <desc lang="en">Rancangan majalah remaja yang memperkenalkan badan-badan uniform dalam sektor awam dan swasta.</desc>
-  </programme>
-  <programme start="20260628113000 +0000" stop="20260628120000 +0000" channel="tv2.unifitv">
-    <title lang="en">BERITA TAMIL</title>
-    <desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
-  </programme>
-  <programme start="20260628120000 +0000" stop="20260628130000 +0000" channel="tv2.unifitv">
-    <title lang="en">Younger</title>
-    <desc lang="en">Sebuah drama bersiri lakonan Sutton Foster, Debi Mazar, Nico Tortorella, Hilary Duff, Miriam Shor, Peter Hermann, Molly Bernard, Charles Michael Davis dan ramai lagi.</desc>
-  </programme>
-  <programme start="20260628130000 +0000" stop="20260628141500 +0000" channel="tv2.unifitv">
-    <title lang="en">Dada The Appa</title>
-    <desc lang="en">Filem Tamil lakonan Aparna Das, Kavin, Bhagyaraj, Aishwariyaa Bhaskaran dan VTV Ganesh.</desc>
-  </programme>
-  <programme start="20260628141500 +0000" stop="20260628153000 +0000" channel="tv2.unifitv">
-    <title lang="en">Dada The Appa</title>
-    <desc lang="en">Filem Tamil lakonan Aparna Das, Kavin, Bhagyaraj, Aishwariyaa Bhaskaran dan VTV Ganesh.</desc>
+    <desc lang="en">Rancangan majalah remaja yang memperkenalkan badan-badan beruniform dalam sektor awam dan swasta bagi memberi pendedahan kepada umum tentang tugas, tanggungjawab dan cabaran mereka untuk bangsa dan negara.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="tv2.unifitv">
     <title lang="en">Pop Terbaik</title>
-    <desc lang="en">Artis minggu ini ialah Akim &amp; The Majistret</desc>
+    <desc lang="en">Berhibur bersama artis-artis popular tanah air dalam konsert terbitan Unit Hiburan TV (RTM).</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260628160000 +0000" stop="20260628163000 +0000" channel="tv2.unifitv">
     <title lang="en">Borak Lejen</title>

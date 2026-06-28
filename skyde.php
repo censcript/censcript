@@ -2619,7 +2619,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628210000 +0000" stop="20260628230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260627220500 +0000" stop="20260627230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2014 (Martin Kaymer)</title>
 </programme>
 <programme start="20260627230000 +0000" stop="20260628000000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2979,17 +2979,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628210000 +0000" stop="20260628230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20260627220000 +0000" stop="20260628003000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260627221000 +0000" stop="20260628010000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: FC Bayern München - VfB Stuttgart, Finale 2026 in Berlin</title>
 </programme>
-<programme start="20260628003000 +0000" stop="20260628020500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260628010000 +0000" stop="20260628023500 +0000" channel="Sky Sport UHD.skyde">
     <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
-</programme>
-<programme start="20260628020500 +0000" stop="20260628023000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (4)</title>
 </programme>
 <programme start="20260628023000 +0000" stop="20260628030000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (5)</title>
+</programme>
+<programme start="20260628023500 +0000" stop="20260628030000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
 </programme>
 <programme start="20260628030000 +0000" stop="20260628040000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 1. Rennen - GP Österreich</title>
@@ -3051,7 +3051,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628210500 +0000" stop="20260628220500 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628040000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627230000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260627232000 +0000" stop="20260628015000 +0000" channel="Sky Sport 2 HD.skyde">

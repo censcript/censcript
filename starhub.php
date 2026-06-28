@@ -1226,7 +1226,7 @@
         <title>Adhe Kangal</title>
     </programme>
     <programme start="20260627220000 +0000" stop="20260627223000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malar</title>
+        <title>Malarmalar</title>
     </programme>
     <programme start="20260627223000 +0000" stop="20260627230000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Chandrakanta</title>
@@ -1930,16 +1930,16 @@
     <programme start="20260627200000 +0000" stop="20260627213000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Brussels P2 Day 1 Match 2</title>
     </programme>
-    <programme start="20260627213000 +0000" stop="20260627222500 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20260627213000 +0000" stop="20260627223000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Valladolid</title>
     </programme>
-    <programme start="20260627222500 +0000" stop="20260627235500 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20260627223000 +0000" stop="20260628000000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Valladolid P2 Day 5 SF2 - Women</title>
     </programme>
-    <programme start="20260627235500 +0000" stop="20260628012500 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20260628000000 +0000" stop="20260628013000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Valladolid P2 Day 5 SF1 - Men</title>
     </programme>
-    <programme start="20260628012500 +0000" stop="20260628025500 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20260628013000 +0000" stop="20260628025500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Valladolid P2 Day 5 SF2 - Men</title>
     </programme>
     <programme start="20260628025500 +0000" stop="20260628042500 +0000" channel="beIN Sports 2 HD.starhub">
@@ -1949,10 +1949,10 @@
         <title>Ferrari Challenge Japan 2026: Coppa Shell Race 2, Fuji</title>
     </programme>
     <programme start="20260628053500 +0000" stop="20260628060000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Australia - Cup Final, Bordeaux - Women</title>
+        <title>HSBC SVNS World C&#039;ships 2026 New Zealand vs Australia - Cup Final, Bordeaux - Women</title>
     </programme>
     <programme start="20260628060000 +0000" stop="20260628063000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: France vs New Zealand - Cup Final, Bordeaux - Men</title>
+        <title>HSBC SVNS World C&#039;ships 2026 France vs New Zealand - Cup Final, Bordeaux - Men</title>
     </programme>
     <programme start="20260628063000 +0000" stop="20260628073000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>FIA World Rally C&#039;ships 2026: Rally Greece SS15 Loutraki 1</title>
@@ -1961,7 +1961,7 @@
         <title>Italy Major Men</title>
     </programme>
     <programme start="20260628074000 +0000" stop="20260628093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>World Rugby Junior World C&#039;ships 2026: New Zealand vs Japan</title>
+        <title>World Rugby Junior World C&#039;ships 2026 England vs Ireland</title>
     </programme>
     <programme start="20260628093000 +0000" stop="20260628110000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best of RG 2026: Day 8 Women&#039;s Singles Rd 4 Swiatek v Kostyuk</title>
@@ -1975,7 +1975,10 @@
     <programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Bordeaux</title>
     </programme>
-    <programme start="20260628150000 +0000" stop="20260628163000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20260628150000 +0000" stop="20260628153000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Documentary</title>
+    </programme>
+    <programme start="20260628153000 +0000" stop="20260628170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Valladolid P2 Day 6 Final - Women</title>
     </programme>
     <programme start="20260627160000 +0000" stop="20260627170000 +0000" channel="TVB Xing He.starhub">
@@ -7543,13 +7546,13 @@
     <programme start="20260627133000 +0000" stop="20260627163000 +0000" channel="Asianet Movies.starhub">
         <title>Pulimurugan</title>
     </programme>
-    <programme start="20260627163000 +0000" stop="20260627193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260627163000 +0000" stop="20260627185500 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
-    <programme start="20260627193000 +0000" stop="20260627213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260627185500 +0000" stop="20260627212000 +0000" channel="Asianet Movies.starhub">
         <title>Pichaikkaran 2</title>
     </programme>
-    <programme start="20260627213000 +0000" stop="20260627233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260627212000 +0000" stop="20260627233000 +0000" channel="Asianet Movies.starhub">
         <title>Kuttikal undu sookshikkuka</title>
     </programme>
     <programme start="20260627233000 +0000" stop="20260628015000 +0000" channel="Asianet Movies.starhub">
