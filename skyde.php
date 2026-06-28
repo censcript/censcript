@@ -2565,16 +2565,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628050000 +0000" stop="20260628063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Österreich</title>
 </programme>
-<programme start="20260628063000 +0000" stop="20260628074000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628063000 +0000" stop="20260628074500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628074000 +0000" stop="20260628080000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628074500 +0000" stop="20260628080000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Inside Story: 2025 Championship Showdown</title>
 </programme>
-<programme start="20260628080000 +0000" stop="20260628092500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628080000 +0000" stop="20260628093000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628092500 +0000" stop="20260628095000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260628093000 +0000" stop="20260628095000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Iconic Onboards: Oscar Piastri</title>
 </programme>
 <programme start="20260628095000 +0000" stop="20260628104000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2619,7 +2619,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628210000 +0000" stop="20260628230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Österreich</title>
 </programme>
-<programme start="20260627220500 +0000" stop="20260627230000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2014 (Martin Kaymer)</title>
 </programme>
 <programme start="20260627230000 +0000" stop="20260628000000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2904,8 +2904,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628213000 +0000" stop="20260628220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Best Goals: Chelsea - Arsenal</title>
 </programme>
-<programme start="20260627223000 +0000" stop="20260628010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+<programme start="20260627224000 +0000" stop="20260628004000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260628010000 +0000" stop="20260628033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
@@ -2913,37 +2913,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628033000 +0000" stop="20260628043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Rom</title>
 </programme>
-<programme start="20260628043000 +0000" stop="20260628051500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628040500 +0000" stop="20260628064000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J. Sinner (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
+</programme>
+<programme start="20260628064000 +0000" stop="20260628074000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Ljubo - The man saved by Tennis, Teil 1</title>
 </programme>
-<programme start="20260628051500 +0000" stop="20260628060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628074000 +0000" stop="20260628083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Ljubo - The man saved by Tennis, Teil 2</title>
 </programme>
-<programme start="20260628060000 +0000" stop="20260628080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628083000 +0000" stop="20260628094500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: N. Borges (POR) - E. Quinn (USA), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 1</title>
 </programme>
-<programme start="20260628080000 +0000" stop="20260628100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628094500 +0000" stop="20260628115000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628115000 +0000" stop="20260628140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: E. Quinn (USA) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Finale</title>
 </programme>
-<programme start="20260628123000 +0000" stop="20260628150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+<programme start="20260628140000 +0000" stop="20260628160000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: F. Marozsan (HUN) - A. Davidovich Fokina (ESP), Mallorca Championships in Santa Ponsa (ESP), Halbfinale 2</title>
 </programme>
-<programme start="20260628150000 +0000" stop="20260628170000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628160000 +0000" stop="20260628180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: X. Wang (CHN) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Halbfinale 1</title>
 </programme>
-<programme start="20260628170000 +0000" stop="20260628190000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628180000 +0000" stop="20260628200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Ruse (ROU) - K. Muchova (CZE), Bad Homburg Open in Bad Homburg, Halbfinale 2</title>
 </programme>
-<programme start="20260628190000 +0000" stop="20260628213000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260628200000 +0000" stop="20260628203000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260628203000 +0000" stop="20260628220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: K. Muchova (CZE) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
-<programme start="20260628213000 +0000" stop="20260628223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Tennis: Wimbledons Tennisgötter - Billie Jean King und Arthur Ashe</title>
-</programme>
-<programme start="20260627230000 +0000" stop="20260628063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260628040000 +0000" stop="20260628063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260628063000 +0000" stop="20260628074000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3051,7 +3054,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628210500 +0000" stop="20260628220500 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260627230000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260628040000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260627232000 +0000" stop="20260628015000 +0000" channel="Sky Sport 2 HD.skyde">

@@ -643,9 +643,6 @@
 <programme start="20260628010000 +0000" stop="20260628023000 +0000" channel="ANTV.vision">
 <title>Bunga Kembar Di Tepi Jalan</title>
 </programme>
-<programme start="20260628023000 +0000" stop="20260628060000 +0000" channel="ANTV.vision">
-<title>Dosti Friends Forever</title>
-</programme>
 <programme start="20260628060000 +0000" stop="20260628073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260628230000 +0000" stop="20260629010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260629010000 +0000" stop="20260629030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

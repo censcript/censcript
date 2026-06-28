@@ -1435,13 +1435,16 @@
 <programme start="20260628170500 +0000" stop="20260628190500 +0000" channel="ITV3.virginmediatv">
     <title>Midsomer Murders - Ring Out Your Dead</title>
 </programme>
-<programme start="20260628000000 +0000" stop="20260628003000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260627234000 +0000" stop="20260628001000 +0000" channel="ITV4.virginmediatv">
+    <title>The Protectors - Dragon Chase</title>
+</programme>
+<programme start="20260628001000 +0000" stop="20260628004000 +0000" channel="ITV4.virginmediatv">
     <title>The Protectors - Decoy</title>
 </programme>
-<programme start="20260628003000 +0000" stop="20260628010000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260628004000 +0000" stop="20260628011000 +0000" channel="ITV4.virginmediatv">
     <title>The Protectors - Zeke&#039;s Blues</title>
 </programme>
-<programme start="20260628010000 +0000" stop="20260628020000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260628011000 +0000" stop="20260628020000 +0000" channel="ITV4.virginmediatv">
     <title>Unwind with ITV</title>
 </programme>
 <programme start="20260628020000 +0000" stop="20260628050000 +0000" channel="ITV4.virginmediatv">
@@ -3799,13 +3802,13 @@
 <programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Golf Academy - Ian Poulter: Full Swing</title>
 </programme>
-<programme start="20260628050000 +0000" stop="20260628100000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260628050000 +0000" stop="20260628083000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>KPMG Women&#039;s PGA Championship Golf - Day 3</title>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628150000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260628083000 +0000" stop="20260628133000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Italian Open, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260628150000 +0000" stop="20260628200000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260628133000 +0000" stop="20260628200000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: KPMG Women&#039;s PGA Championship Golf - Day 4</title>
 </programme>
 <programme start="20260628000000 +0000" stop="20260628001500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4486,13 +4489,13 @@
 <programme start="20260628043000 +0000" stop="20260628050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Golf Academy - Ian Poulter: Full Swing</title>
 </programme>
-<programme start="20260628050000 +0000" stop="20260628100000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260628050000 +0000" stop="20260628083000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>KPMG Women&#039;s PGA Championship Golf - Day 3</title>
 </programme>
-<programme start="20260628100000 +0000" stop="20260628150000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260628083000 +0000" stop="20260628133000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Italian Open, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260628150000 +0000" stop="20260628200000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260628133000 +0000" stop="20260628200000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: KPMG Women&#039;s PGA Championship Golf - Day 4</title>
 </programme>
 <programme start="20260628000000 +0000" stop="20260628001500 +0000" channel="Sky_Sports_Action.virginmediatv">
