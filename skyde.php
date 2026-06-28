@@ -2946,13 +2946,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628203000 +0000" stop="20260628220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: K. Muchova (CZE) - N. Osaka (JPN), Bad Homburg Open in Bad Homburg, Finale</title>
 </programme>
-<programme start="20260628040000 +0000" stop="20260628063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260627230000 +0000" stop="20260628063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
-<programme start="20260628063000 +0000" stop="20260628074000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260628063000 +0000" stop="20260628074500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628074000 +0000" stop="20260628080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260628074500 +0000" stop="20260628080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Inside Story: 2025 Championship Showdown</title>
 </programme>
 <programme start="20260628080000 +0000" stop="20260628092500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3054,7 +3054,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260628210500 +0000" stop="20260628220500 +0000" channel="Sky Sport UHD.skyde">
     <title>F3: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628040000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260627230000 +0000" stop="20260628173000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live Motorsport: 24h-Rennen Spa 2026</title>
 </programme>
 <programme start="20260627232000 +0000" stop="20260628015000 +0000" channel="Sky Sport 2 HD.skyde">

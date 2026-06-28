@@ -766,10 +766,10 @@
     <programme start="20260628060000 +0000" stop="20260628090000 +0000" channel="Live 2.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Finals</title>
     </programme>
-    <programme start="20260628090000 +0000" stop="20260628130000 +0000" channel="Live 2.mewatch">
+    <programme start="20260628090000 +0000" stop="20260628120000 +0000" channel="Live 2.mewatch">
         <title>NBA Rising Stars Invitational 2026 : Finals</title>
     </programme>
-    <programme start="20260628130000 +0000" stop="20260628160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260628120000 +0000" stop="20260628160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260628160000 +0000" stop="20260629160000 +0000" channel="Live 2.mewatch">
