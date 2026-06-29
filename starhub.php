@@ -1786,8 +1786,11 @@
     <programme start="20260629043000 +0000" stop="20260629060000 +0000" channel="beIN Sports 3.starhub">
         <title>Halifax, Canada Day 2</title>
     </programme>
-    <programme start="20260629060000 +0000" stop="20260629100000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260629060000 +0000" stop="20260629093000 +0000" channel="beIN Sports 3.starhub">
         <title>ONE Fight Night 2026: OFN 44: Jarvis vs Rungrawee II</title>
+    </programme>
+    <programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="beIN Sports 3.starhub">
+        <title>Racing On The Edge S6</title>
     </programme>
     <programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - UEFA Champions League 2025/26: Real Madrid vs Juventus - MD3</title>
@@ -6610,13 +6613,13 @@
     <programme start="20260629122500 +0000" stop="20260629130000 +0000" channel="beIN Sports HD.starhub">
         <title>FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026</title>
     </programme>
-    <programme start="20260629130000 +0000" stop="20260629141500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260629130000 +0000" stop="20260629150000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Southampton vs Liverpool PL 2024/25</title>
     </programme>
-    <programme start="20260629141500 +0000" stop="20260629144500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260629150000 +0000" stop="20260629153500 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
     </programme>
-    <programme start="20260629144500 +0000" stop="20260629160000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260629153500 +0000" stop="20260629163500 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Tottenham vs Liverpool PL 2024/25</title>
     </programme>
     <programme start="20260628150000 +0000" stop="20260628161500 +0000" channel="TestChannel2.starhub">

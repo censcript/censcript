@@ -560,17 +560,17 @@
     <desc lang="en">Catch up with all the best bits from the weekend's race.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629130000 +0000" stop="20260629141500 +0000" channel="beinsports.unifitv">
+  <programme start="20260629130000 +0000" stop="20260629150000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Southampton vs Liverpool PL 2024/25</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629141500 +0000" stop="20260629144500 +0000" channel="beinsports.unifitv">
+  <programme start="20260629150000 +0000" stop="20260629153500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFC Trending - Episode Number 47</title>
     <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629144500 +0000" stop="20260629160000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629153500 +0000" stop="20260629160000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Tottenham vs Liverpool PL 2024/25</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
@@ -4248,11 +4248,9 @@
     <category lang="en">Pop Culture</category>
   </programme>
   <programme start="20260629001500 +0000" stop="20260629003000 +0000" channel="tvs.unifitv">
-    <title lang="en">Serian Food Trails &amp; Stays</title>
-    <desc lang="en">In Season Two of Serian Food Trails and Stays, we venture beyond the familiar to uncover hidden kitchens and warm homestay. From traditional experiences to new adventures, Serian is more than just a Durian Town.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
+    <title lang="en">Jelajah Sarawakku Sayang</title>
+    <desc lang="en">Jelajah Sarawakku Sayang 2026, menjelajah 12 bahagian Sarawak dengan temu bual khas, hiburan, dan aktiviti budaya.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260629003000 +0000" stop="20260629010000 +0000" channel="tvs.unifitv">
     <title lang="en">Borneo's Unique Building</title>

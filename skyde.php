@@ -2681,39 +2681,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260629210000 +0000" stop="20260629220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Österreich</title>
 </programme>
-<programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 2006 (Tiger Woods)</title>
-</programme>
-<programme start="20260628230000 +0000" stop="20260629020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: KPMG Women&#039;s PGA Championship, 4. Tag in Chaska, MN (USA)</title>
-</programme>
-<programme start="20260629020000 +0000" stop="20260629030000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 2013 (Phil Mickelson)</title>
-</programme>
-<programme start="20260629030000 +0000" stop="20260629040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Open: Official Film 2014 (Rory McIlroy)</title>
-</programme>
-<programme start="20260629040000 +0000" stop="20260629070000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: KPMG Women&#039;s PGA Championship, 4. Tag in Chaska, MN (USA)</title>
-</programme>
-<programme start="20260629070000 +0000" stop="20260629080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Solheim Cup: Highlights 2023</title>
-</programme>
-<programme start="20260629080000 +0000" stop="20260629110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: KPMG Women&#039;s PGA Championship, 4. Tag in Chaska, MN (USA)</title>
-</programme>
-<programme start="20260629110000 +0000" stop="20260629120000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Solheim Cup: Highlights 2024</title>
-</programme>
-<programme start="20260629120000 +0000" stop="20260629150000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: KPMG Women&#039;s PGA Championship, 4. Tag in Chaska, MN (USA)</title>
-</programme>
-<programme start="20260629150000 +0000" stop="20260629183000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: The Women&#039;s Amateur Championship, Finale (Teil 1) in Muirfield (Schottland)</title>
-</programme>
-<programme start="20260629183000 +0000" stop="20260629220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: The Women&#039;s Amateur Championship, Finale (Teil 2) in Muirfield (Schottland)</title>
-</programme>
 <programme start="20260628221500 +0000" stop="20260628231500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Niederlande</title>
 </programme>
