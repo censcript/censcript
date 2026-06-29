@@ -16,8 +16,11 @@
 <programme start="20260629140000 +0000" stop="20260629143000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Lorraine</title>
 </programme>
-<programme start="20260629143000 +0000" stop="20260629160000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260629143000 +0000" stop="20260629155000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Loose Women</title>
+</programme>
+<programme start="20260629155000 +0000" stop="20260629160000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260629160000 +0000" stop="20260629163000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Judge Judy - Dog Held Hostage for Gold Chain?!; Flash Mob Memorializes Gay Engagement?!</title>
@@ -247,10 +250,10 @@
 <programme start="20260629175700 +0000" stop="20260629180000 +0000" channel="TG4_HD.virginmediatv">
     <title>An Aimsir Láithreach</title>
 </programme>
-<programme start="20260629000000 +0000" stop="20260629005600 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+<programme start="20260629000000 +0000" stop="20260629010000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Snowpiercer - The Universe Is Indifferent</title>
 </programme>
-<programme start="20260629005600 +0000" stop="20260629062500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+<programme start="20260629010000 +0000" stop="20260629062500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260629114500 +0000" stop="20260629121500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
@@ -460,8 +463,11 @@
 <programme start="20260629150000 +0000" stop="20260629153000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Lorraine</title>
 </programme>
-<programme start="20260629153000 +0000" stop="20260629170000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260629153000 +0000" stop="20260629165000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Loose Women</title>
+</programme>
+<programme start="20260629165000 +0000" stop="20260629170000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Judge Judy - Dog Held Hostage for Gold Chain?!; Flash Mob Memorializes Gay Engagement?!</title>
@@ -4009,23 +4015,20 @@
 <programme start="20260629043000 +0000" stop="20260629050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Golf Academy - Thomas Bjorn: Full Swing</title>
 </programme>
-<programme start="20260629050000 +0000" stop="20260629110000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Travelers Championship, PGA Tour Golf - Day 4</title>
-</programme>
-<programme start="20260629110000 +0000" stop="20260629160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>KPMG Women&#039;s PGA Championship Golf - Day 4</title>
-</programme>
-<programme start="20260629160000 +0000" stop="20260629163000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260629050000 +0000" stop="20260629053000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Chronicles of a Champion Golfer - Jack Nicklaus</title>
 </programme>
-<programme start="20260629163000 +0000" stop="20260629170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Chronicles of a Champion Golfer - Nick Faldo</title>
+<programme start="20260629053000 +0000" stop="20260629130000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Travelers Championship, PGA Tour Golf - Day 4</title>
 </programme>
-<programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>European Challenge Tour Golf - England Golf Challenge</title>
+<programme start="20260629053000 +0000" stop="20260629130000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Travelers Championship, PGA Tour Golf - Day 4</title>
 </programme>
-<programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Italian Open, DP World Tour Golf - Day 4</title>
+<programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: Travelers Championship, PGA Tour Golf - Play-Off</title>
+</programme>
+<programme start="20260629140000 +0000" stop="20260629203000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>KPMG Women&#039;s PGA Championship Golf - Day 4</title>
 </programme>
 <programme start="20260629000000 +0000" stop="20260629033000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Live: Zuffa Boxing - Edwin De Los Santos v Jose Valenzuela 2</title>
@@ -4324,7 +4327,7 @@
 <programme start="20260629050000 +0000" stop="20260629062500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Austrian Grand Prix: Grand Prix Sunday</title>
 </programme>
-<programme start="20260629114500 +0000" stop="20260629130000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260629113500 +0000" stop="20260629130000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Austrian Grand Prix: 2nd Practice</title>
 </programme>
 <programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
@@ -4720,23 +4723,20 @@
 <programme start="20260629043000 +0000" stop="20260629050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Golf Academy - Thomas Bjorn: Full Swing</title>
 </programme>
-<programme start="20260629050000 +0000" stop="20260629110000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Travelers Championship, PGA Tour Golf - Day 4</title>
-</programme>
-<programme start="20260629110000 +0000" stop="20260629160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>KPMG Women&#039;s PGA Championship Golf - Day 4</title>
-</programme>
-<programme start="20260629160000 +0000" stop="20260629163000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260629050000 +0000" stop="20260629053000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Chronicles of a Champion Golfer - Jack Nicklaus</title>
 </programme>
-<programme start="20260629163000 +0000" stop="20260629170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Chronicles of a Champion Golfer - Nick Faldo</title>
+<programme start="20260629053000 +0000" stop="20260629130000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Travelers Championship, PGA Tour Golf - Day 4</title>
 </programme>
-<programme start="20260629170000 +0000" stop="20260629173000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>European Challenge Tour Golf - England Golf Challenge</title>
+<programme start="20260629053000 +0000" stop="20260629130000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Travelers Championship, PGA Tour Golf - Day 4</title>
 </programme>
-<programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Italian Open, DP World Tour Golf - Day 4</title>
+<programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: Travelers Championship, PGA Tour Golf - Play-Off</title>
+</programme>
+<programme start="20260629140000 +0000" stop="20260629203000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>KPMG Women&#039;s PGA Championship Golf - Day 4</title>
 </programme>
 <programme start="20260629000000 +0000" stop="20260629033000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Live: Zuffa Boxing - Edwin De Los Santos v Jose Valenzuela 2</title>
@@ -4951,7 +4951,7 @@
 <programme start="20260629050000 +0000" stop="20260629062500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Austrian Grand Prix: Grand Prix Sunday</title>
 </programme>
-<programme start="20260629114500 +0000" stop="20260629130000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260629113500 +0000" stop="20260629130000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Austrian Grand Prix: 2nd Practice</title>
 </programme>
 <programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="Sky_Sports_F1.virginmediatv">

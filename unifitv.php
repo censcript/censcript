@@ -145,7 +145,7 @@
   </programme>
   <programme start="20260628183000 +0000" stop="20260628220000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Algeria vs Austria : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 8:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260628220000 +0000" stop="20260628223000 +0000" channel="fifa2.unifitv">
@@ -165,7 +165,7 @@
   </programme>
   <programme start="20260629023000 +0000" stop="20260629060000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) DR Congo vs Uzbekistan : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 8:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629060000 +0000" stop="20260629063000 +0000" channel="fifa2.unifitv">
@@ -175,7 +175,7 @@
   </programme>
   <programme start="20260629063000 +0000" stop="20260629100000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Algeria vs Austria : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 8:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="fifa2.unifitv">
@@ -188,18 +188,13 @@
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629140000 +0000" stop="20260629150000 +0000" channel="fifa2.unifitv">
+  <programme start="20260629140000 +0000" stop="20260629143000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629150000 +0000" stop="20260629153000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629153000 +0000" stop="20260629190000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Bosnia and Herzegovina vs Qatar : FIFA World Cup™ 2026</title>
+  <programme start="20260629143000 +0000" stop="20260629180000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) DR Congo vs Uzbekistan : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -222,7 +217,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260628203000 +0000" stop="20260628210000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -232,7 +227,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629003000 +0000" stop="20260629010000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -242,7 +237,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629043000 +0000" stop="20260629050000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -252,7 +247,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629083000 +0000" stop="20260629090000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -262,12 +257,22 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629123000 +0000" stop="20260629130000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629130000 +0000" stop="20260629163000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(R) DR Congo vs Uzbekistan : FIFA World Cup™ 2026</title>
+  <programme start="20260629130000 +0000" stop="20260629153000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) South Africa vs Canada : FIFA World Cup™ 2026 Round of 32</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629153000 +0000" stop="20260629160000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629160000 +0000" stop="20260629193000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) Colombia vs Portugal : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>

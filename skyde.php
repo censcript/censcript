@@ -2681,6 +2681,42 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260629210000 +0000" stop="20260629220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Österreich</title>
 </programme>
+<programme start="20260627220500 +0000" stop="20260627230000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: Official Film 2014 (Martin Kaymer)</title>
+</programme>
+<programme start="20260627230000 +0000" stop="20260628000000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: Official Film 2021 (Jon Rahm)</title>
+</programme>
+<programme start="20260628000000 +0000" stop="20260628030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: KPMG Women&#039;s PGA Championship, 3. Tag in Chaska, MN (USA)</title>
+</programme>
+<programme start="20260628030000 +0000" stop="20260628040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>US Open: Official Film 2022 (Matthew Fitzpatrick)</title>
+</programme>
+<programme start="20260628040000 +0000" stop="20260628070000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: KPMG Women&#039;s PGA Championship, 3. Tag in Chaska, MN (USA)</title>
+</programme>
+<programme start="20260628070000 +0000" stop="20260628080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1979 (Seve Ballesteros)</title>
+</programme>
+<programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1984 (Seve Ballesteros)</title>
+</programme>
+<programme start="20260628090000 +0000" stop="20260628100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1988 (Seve Ballesteros)</title>
+</programme>
+<programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 1990 (Nick Faldo)</title>
+</programme>
+<programme start="20260628110000 +0000" stop="20260628140000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: KPMG Women&#039;s PGA Championship, 3. Tag in Chaska, MN (USA)</title>
+</programme>
+<programme start="20260628140000 +0000" stop="20260628233000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live Golf: KPMG Women&#039;s PGA Championship, 4. Tag in Chaska, MN (USA)</title>
+</programme>
+<programme start="20260628201500 +0000" stop="20260628210000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Open: Official Film 2000 (Tiger Woods)</title>
+</programme>
 <programme start="20260628221500 +0000" stop="20260628231500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Niederlande</title>
 </programme>

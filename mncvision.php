@@ -1181,7 +1181,7 @@
     <title>LaLiga 2025/26: GIR Vs VAL</title>
 </programme>
 <programme start="20260628180000 +0000" stop="20260628183000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Cape Epic Highlights 2026</title>
+    <title>Premier Padel: Valladolid (L)</title>
 </programme>
 <programme start="20260628183000 +0000" stop="20260628200000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel 2026: Brussels</title>
@@ -1226,7 +1226,7 @@
     <title>World Rugby Junior World C&#039;ship</title>
 </programme>
 <programme start="20260628180000 +0000" stop="20260628183000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Cape Epic Highlights 2026</title>
+    <title>Premier Padel: Valladolid (L)</title>
 </programme>
 <programme start="20260628183000 +0000" stop="20260628200000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel 2026: Brussels</title>
@@ -4055,7 +4055,7 @@
     <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants</title>
+    <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260629110000 +0000" stop="20260629120000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants</title>
@@ -4106,7 +4106,7 @@
     <title>Super Deal Indonesia</title>
 </programme>
 <programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
+    <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260629110000 +0000" stop="20260629120000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants</title>
@@ -6626,7 +6626,7 @@
     <title>Today&#039;s Close-Up</title>
 </programme>
 <programme start="20260629105700 +0000" stop="20260629114300 +0000" channel="NHK World Premium.mncvision">
-    <title>Great Tracking Of Global History</title>
+    <title>Great Tracking Of Global...</title>
 </programme>
 <programme start="20260629114300 +0000" stop="20260629114500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>

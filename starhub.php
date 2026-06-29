@@ -2024,13 +2024,13 @@
         <title>Premier Padel 2026: Brussels P2 Day 1 Match 4</title>
     </programme>
     <programme start="20260628213000 +0000" stop="20260628232000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Super Lig 2025/26 Rizespor vs Besiktas</title>
+        <title>Super Lig 2025/26: Rizespor vs Besiktas</title>
     </programme>
     <programme start="20260628232000 +0000" stop="20260629011000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Super Lig 2025/26 Fenerbahce vs Eyupspor</title>
+        <title>Super Lig 2025/26: Fenerbahce vs Eyupspor</title>
     </programme>
     <programme start="20260629011000 +0000" stop="20260629030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>World Rugby Junior World C&#039;ships 2026 Wales vs Georgia</title>
+        <title>World Rugby Junior World C&#039;ships 2026: Wales vs Georgia</title>
     </programme>
     <programme start="20260629030000 +0000" stop="20260629043000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best of RG 2026: Day 7 Women&#039;s Singles Rd 3 Osaka v Jovic</title>
@@ -4054,11 +4054,17 @@
     <programme start="20260629040000 +0000" stop="20260629100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260629100000 +0000" stop="20260629130000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>KPMG Women&#039;s PGA Championship Round 3</title>
+    </programme>
+    <programme start="20260629130000 +0000" stop="20260629140000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Travelers Championship Playoff</title>
+    </programme>
+    <programme start="20260629140000 +0000" stop="20260629150000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>G4D Open Highlights</title>
     </programme>
-    <programme start="20260629110000 +0000" stop="20260629160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>KPMG Women&#039;s PGA Championship Round 3</title>
+    <programme start="20260629150000 +0000" stop="20260629160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Principal Charity Classic</title>
     </programme>
     <programme start="20260628160000 +0000" stop="20260628161500 +0000" channel="France24.starhub">
         <title>News</title>
@@ -6619,7 +6625,7 @@
     <programme start="20260629150000 +0000" stop="20260629153500 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
     </programme>
-    <programme start="20260629153500 +0000" stop="20260629163500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260629153500 +0000" stop="20260629161000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Tottenham vs Liverpool PL 2024/25</title>
     </programme>
     <programme start="20260628150000 +0000" stop="20260628161500 +0000" channel="TestChannel2.starhub">
@@ -7948,7 +7954,7 @@
     <programme start="20260629142900 +0000" stop="20260629145400 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260629145400 +0000" stop="20260629160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260629145400 +0000" stop="20260629170000 +0000" channel="Dragon TV.starhub">
         <title>Overtime No More</title>
     </programme>
     <programme start="20260628160000 +0000" stop="20260628163000 +0000" channel="Travelxp HD.starhub">
