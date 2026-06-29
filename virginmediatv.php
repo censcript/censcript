@@ -3841,11 +3841,26 @@
 <programme start="20260629033000 +0000" stop="20260629040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260629040000 +0000" stop="20260629060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260629040000 +0000" stop="20260629050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260629091500 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260629050000 +0000" stop="20260629060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260629091500 +0000" stop="20260629143000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 5: England v New Zealand</title>
+</programme>
+<programme start="20260629143000 +0000" stop="20260629163000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629163000 +0000" stop="20260629173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629173000 +0000" stop="20260629174500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629174500 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260629000000 +0000" stop="20260629020000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>Prem Classics - 1997/98: Arsenal v Manchester United</title>
@@ -3982,14 +3997,29 @@
 <programme start="20260628211500 +0000" stop="20260629011500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Major League Cricket - Los Angeles Knight Riders v Seattle Orcas</title>
 </programme>
-<programme start="20260629011500 +0000" stop="20260629053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260629011500 +0000" stop="20260629050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Live: Major League Cricket - San Francisco Unicorns v Washington Freedom</title>
+</programme>
+<programme start="20260629050000 +0000" stop="20260629053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v Washington Freedom</title>
 </programme>
 <programme start="20260629053000 +0000" stop="20260629060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC Women&#039;s T20 World Cup - Bangladesh v South Africa</title>
 </programme>
-<programme start="20260629091500 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260629091500 +0000" stop="20260629143000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 5: England v New Zealand</title>
+</programme>
+<programme start="20260629143000 +0000" stop="20260629163000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629163000 +0000" stop="20260629173000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629173000 +0000" stop="20260629174500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629174500 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260629000000 +0000" stop="20260629003000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>European Challenge Tour Golf - England Golf Challenge</title>
@@ -4564,11 +4594,26 @@
 <programme start="20260629033000 +0000" stop="20260629040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260629040000 +0000" stop="20260629060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260629040000 +0000" stop="20260629050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260629091500 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260629050000 +0000" stop="20260629060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260629091500 +0000" stop="20260629143000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 5: England v New Zealand</title>
+</programme>
+<programme start="20260629143000 +0000" stop="20260629163000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629163000 +0000" stop="20260629173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629173000 +0000" stop="20260629174500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629174500 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260629000000 +0000" stop="20260629020000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>Prem Classics - 1997/98: Arsenal v Manchester United</title>
@@ -4702,14 +4747,29 @@
 <programme start="20260628211500 +0000" stop="20260629011500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Major League Cricket - Los Angeles Knight Riders v Seattle Orcas</title>
 </programme>
-<programme start="20260629011500 +0000" stop="20260629053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260629011500 +0000" stop="20260629050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Live: Major League Cricket - San Francisco Unicorns v Washington Freedom</title>
+</programme>
+<programme start="20260629050000 +0000" stop="20260629053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v Washington Freedom</title>
 </programme>
 <programme start="20260629053000 +0000" stop="20260629060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC Women&#039;s T20 World Cup - Bangladesh v South Africa</title>
 </programme>
-<programme start="20260629091500 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260629091500 +0000" stop="20260629143000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 5: England v New Zealand</title>
+</programme>
+<programme start="20260629143000 +0000" stop="20260629163000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629163000 +0000" stop="20260629173000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629173000 +0000" stop="20260629174500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260629174500 +0000" stop="20260629180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260629000000 +0000" stop="20260629003000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>European Challenge Tour Golf - England Golf Challenge</title>
@@ -7715,7 +7775,7 @@
     <title>Andrew&#039;s Classics</title>
 </programme>
 <programme start="20260629123000 +0000" stop="20260629130000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Abundant Life with Ashley &amp; Carlie Terradez</title>
+    <title>The Abundant Life With Ashley &amp; Carlie Terradez</title>
 </programme>
 <programme start="20260629130000 +0000" stop="20260629133000 +0000" channel="The_God_Channel.virginmediatv">
     <title>Jewish Voice with Jonathan Bernis</title>

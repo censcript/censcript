@@ -845,6 +845,96 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260629215500 +0000" stop="20260629221000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
+<programme start="20260628224500 +0000" stop="20260628233500 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20260628233500 +0000" stop="20260629002000 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20260629002000 +0000" stop="20260629011000 +0000" channel="Crime + Investigation.skyde">
+    <title>Grace Millane - Der Tinder-Mord</title>
+</programme>
+<programme start="20260629011000 +0000" stop="20260629020000 +0000" channel="Crime + Investigation.skyde">
+    <title>Am Ort des Verbrechens</title>
+</programme>
+<programme start="20260629020000 +0000" stop="20260629032500 +0000" channel="Crime + Investigation.skyde">
+    <title>Der Prozess gegen Michael Jackson</title>
+</programme>
+<programme start="20260629032500 +0000" stop="20260629041500 +0000" channel="Crime + Investigation.skyde">
+    <title>Butchers of the Bayou - Die Serienkiller von Louisiana</title>
+</programme>
+<programme start="20260629041500 +0000" stop="20260629050500 +0000" channel="Crime + Investigation.skyde">
+    <title>Butchers of the Bayou - Die Serienkiller von Louisiana</title>
+</programme>
+<programme start="20260629050500 +0000" stop="20260629060000 +0000" channel="Crime + Investigation.skyde">
+    <title>Bloodline Detectives - Die DNA der Täter</title>
+</programme>
+<programme start="20260629060000 +0000" stop="20260629065000 +0000" channel="Crime + Investigation.skyde">
+    <title>11 Shots - Fußball und Verbrechen</title>
+</programme>
+<programme start="20260629065000 +0000" stop="20260629074000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260629074000 +0000" stop="20260629083000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260629083000 +0000" stop="20260629092000 +0000" channel="Crime + Investigation.skyde">
+    <title>Wie ich ermordet wurde</title>
+</programme>
+<programme start="20260629092000 +0000" stop="20260629101000 +0000" channel="Crime + Investigation.skyde">
+    <title>Wie ich ermordet wurde</title>
+</programme>
+<programme start="20260629101000 +0000" stop="20260629110000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20260629110000 +0000" stop="20260629115000 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20260629115000 +0000" stop="20260629122000 +0000" channel="Crime + Investigation.skyde">
+    <title>Der letzte Klick - Tödliche Online-Begegnungen</title>
+</programme>
+<programme start="20260629122000 +0000" stop="20260629135000 +0000" channel="Crime + Investigation.skyde">
+    <title>Der Prozess gegen Michael Jackson</title>
+</programme>
+<programme start="20260629135000 +0000" stop="20260629140000 +0000" channel="Crime + Investigation.skyde">
+    <title>Im Angesicht</title>
+</programme>
+<programme start="20260629140000 +0000" stop="20260629145000 +0000" channel="Crime + Investigation.skyde">
+    <title>The First 48 - Momente der Entscheidung</title>
+</programme>
+<programme start="20260629145000 +0000" stop="20260629154000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260629154000 +0000" stop="20260629163000 +0000" channel="Crime + Investigation.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260629163000 +0000" stop="20260629165500 +0000" channel="Crime + Investigation.skyde">
+    <title>Hometown Tragedy - Die dunkle Seite einer Stadt</title>
+</programme>
+<programme start="20260629165500 +0000" stop="20260629172000 +0000" channel="Crime + Investigation.skyde">
+    <title>Hometown Tragedy - Die dunkle Seite einer Stadt</title>
+</programme>
+<programme start="20260629172000 +0000" stop="20260629175000 +0000" channel="Crime + Investigation.skyde">
+    <title>Hometown Tragedy - Die dunkle Seite einer Stadt</title>
+</programme>
+<programme start="20260629175000 +0000" stop="20260629181500 +0000" channel="Crime + Investigation.skyde">
+    <title>Hometown Tragedy - Die dunkle Seite einer Stadt</title>
+</programme>
+<programme start="20260629181500 +0000" stop="20260629190500 +0000" channel="Crime + Investigation.skyde">
+    <title>Interview mit einem Mörder</title>
+</programme>
+<programme start="20260629190500 +0000" stop="20260629195500 +0000" channel="Crime + Investigation.skyde">
+    <title>Interview mit einem Mörder</title>
+</programme>
+<programme start="20260629195500 +0000" stop="20260629204500 +0000" channel="Crime + Investigation.skyde">
+    <title>The First 48 - Momente der Entscheidung</title>
+</programme>
+<programme start="20260629204500 +0000" stop="20260629213500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
+<programme start="20260629213500 +0000" stop="20260629222500 +0000" channel="Crime + Investigation.skyde">
+    <title>Imperfect Murder - Die Fehler eines Mörders</title>
+</programme>
 <programme start="20260628220000 +0000" stop="20260629060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
