@@ -1,6 +1,3 @@
-<programme start="20260629200000 +0000" stop="20260629220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260629220000 +0000" stop="20260630000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -31,9 +28,6 @@
 <programme start="20260630160000 +0000" stop="20260630180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260629200000 +0000" stop="20260629220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260629220000 +0000" stop="20260630000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -62,15 +56,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260630160000 +0000" stop="20260630180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260629203000 +0000" stop="20260629210000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260629210000 +0000" stop="20260629213000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260629213000 +0000" stop="20260629220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260629220000 +0000" stop="20260629223000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -336,9 +321,6 @@
 </programme>
 <programme start="20260630161500 +0000" stop="20260630191500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 32 - Côte d&apos;Ivoire vs Norway[Live]</title>
-</programme>
-<programme start="20260629200000 +0000" stop="20260629220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Manchester United</title>
 </programme>
 <programme start="20260629220000 +0000" stop="20260630000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Bournemouth vs Liverpool</title>
