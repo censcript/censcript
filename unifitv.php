@@ -1,5 +1,5 @@
 <!-- Fetching EPG from 2026-06-29 00:00:00 to 2026-06-30 00:00:00 MYT -->
-<!-- Total programs: 73, Total pages: 8 -->
+<!-- Total programs: 72, Total pages: 8 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="UnifiTV EPG Parser" generator-info-url="https://unifitv.com.my/">
   <channel id="fifa1.unifitv">
@@ -273,94 +273,6 @@
   </programme>
   <programme start="20260629160000 +0000" stop="20260629193000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Colombia vs Portugal : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <channel id="fifa4.unifitv">
-    <display-name>Unifi FIFA World Cup 2026™ 4</display-name>
-  </channel>
-  <programme start="20260628153000 +0000" stop="20260628160000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 6 - Los Angeles : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260628160000 +0000" stop="20260628190000 +0000" channel="fifa4.unifitv">
-    <title lang="en">(R) Morocco vs Haiti : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260628190000 +0000" stop="20260628193000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260628193000 +0000" stop="20260628200000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260628200000 +0000" stop="20260628230000 +0000" channel="fifa4.unifitv">
-    <title lang="en">(R) Japan vs Sweden : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260628230000 +0000" stop="20260628233000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260628233000 +0000" stop="20260629000000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629000000 +0000" stop="20260629033000 +0000" channel="fifa4.unifitv">
-    <title lang="en">(R) Cape Verde vs Saudi Arabia : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629033000 +0000" stop="20260629040000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629040000 +0000" stop="20260629043000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629043000 +0000" stop="20260629080000 +0000" channel="fifa4.unifitv">
-    <title lang="en">(R) DR Congo vs Uzbekistan : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629080000 +0000" stop="20260629083000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629083000 +0000" stop="20260629090000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629090000 +0000" stop="20260629120000 +0000" channel="fifa4.unifitv">
-    <title lang="en">(R) Morocco vs Haiti : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629120000 +0000" stop="20260629123000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629123000 +0000" stop="20260629130000 +0000" channel="fifa4.unifitv">
-    <title lang="en">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629130000 +0000" stop="20260629160000 +0000" channel="fifa4.unifitv">
-    <title lang="en">(R) Japan vs Sweden : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -1780,9 +1692,14 @@
     <desc lang="en">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629060000 +0000" stop="20260629100000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260629060000 +0000" stop="20260629093000 +0000" channel="beinsports3.unifitv">
     <title lang="en">ONE Fight Night - OFN 44: Jarvis vs Rungrawee II</title>
     <desc lang="en">A monthly series of live martial arts events showcasing MMA, Muay Thai, Kickboxing and Submission Grappling with major World Title fights and global stars</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Racing On The Edge - Episode Number 3</title>
+    <desc lang="en">This premium storytelling series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629100000 +0000" stop="20260629103000 +0000" channel="beinsports3.unifitv">

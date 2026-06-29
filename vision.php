@@ -736,9 +736,6 @@
 <programme start="20260629124500 +0000" stop="20260629130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
-<programme start="20260629130000 +0000" stop="20260629143000 +0000" channel="TVOne.vision">
-<title>Talkshow Spc. Jejak Perubahan</title>
-</programme>
 <programme start="20260629143000 +0000" stop="20260629153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260629083000 +0000" stop="20260629100000 +0000" channel="MDTV.vision">
 <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629110000 +0000" channel="MDTV.vision">
+<title>Betty La Fea</title>
 </programme>
