@@ -1,6 +1,3 @@
-<programme start="20260629180000 +0000" stop="20260629200000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260629200000 +0000" stop="20260629220000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -34,9 +31,6 @@
 <programme start="20260630160000 +0000" stop="20260630180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260629180000 +0000" stop="20260629200000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260629200000 +0000" stop="20260629220000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -68,15 +62,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260630160000 +0000" stop="20260630180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260629163000 +0000" stop="20260629183000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 1 Rd 1 (C)[Live]</title>
-</programme>
-<programme start="20260629183000 +0000" stop="20260629200000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 1 Rd 1 (D)[Live]</title>
-</programme>
-<programme start="20260629200000 +0000" stop="20260629203000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260629203000 +0000" stop="20260629210000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -181,12 +166,6 @@
 <programme start="20260630143000 +0000" stop="20260630163000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 2 Rd 1 (B)[Live]</title>
 </programme>
-<programme start="20260629161500 +0000" stop="20260629191500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -Rd of 32 - Brazil vs Japan[Live]</title>
-</programme>
-<programme start="20260629191500 +0000" stop="20260629194500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260629194500 +0000" stop="20260629224500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>[4K]FIFA World Cup 2026™ -Rd of 32 - Germany vs Paraguay[Live]</title>
 </programme>
@@ -225,15 +204,6 @@
 </programme>
 <programme start="20260630161500 +0000" stop="20260630191500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>[4K]FIFA World Cup 2026™ -Rd of 32 - Côte d&apos;Ivoire vs Norway[Live]</title>
-</programme>
-<programme start="20260629161500 +0000" stop="20260629191500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Rd of 32 - Brazil vs Japan[Live]</title>
-</programme>
-<programme start="20260629191500 +0000" stop="20260629193000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E63</title>
-</programme>
-<programme start="20260629193000 +0000" stop="20260629194500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E64</title>
 </programme>
 <programme start="20260629194500 +0000" stop="20260629224500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 32 - Germany vs Paraguay[Live]</title>
@@ -367,9 +337,6 @@
 <programme start="20260630161500 +0000" stop="20260630191500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 32 - Côte d&apos;Ivoire vs Norway[Live]</title>
 </programme>
-<programme start="20260629180000 +0000" stop="20260629200000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Newcastle United vs Aston Villa</title>
-</programme>
 <programme start="20260629200000 +0000" stop="20260629220000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Arsenal vs Manchester United</title>
 </programme>
@@ -442,9 +409,6 @@
 <programme start="20260630160000 +0000" stop="20260630180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Tottenham Hotspur vs Manchester City</title>
 </programme>
-<programme start="20260629160000 +0000" stop="20260629200000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260629200000 +0000" stop="20260630000000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -463,9 +427,6 @@
 <programme start="20260630160000 +0000" stop="20260630200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260629160000 +0000" stop="20260629200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260629200000 +0000" stop="20260630000000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -482,9 +443,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260630160000 +0000" stop="20260630200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260629160000 +0000" stop="20260629200000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260629200000 +0000" stop="20260630000000 +0000" channel="Now Sports Premier League 4.nowtv">

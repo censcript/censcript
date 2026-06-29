@@ -2564,13 +2564,13 @@
         <title>Ramayanam</title>
     </programme>
     <programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="Sun TV.starhub">
-        <title>Singapenne</title>
+        <title>Ethirneehcal</title>
     </programme>
     <programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260630023000 +0000" stop="20260630033000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneehcal</title>
+        <title>Kayal</title>
     </programme>
     <programme start="20260630033000 +0000" stop="20260630040000 +0000" channel="Sun TV.starhub">
         <title>Kitchen Galatta</title>
@@ -3731,7 +3731,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260630004500 +0000" stop="20260630005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Train Driver&#039;s Cab View Mini</title>
     </programme>
     <programme start="20260630005400 +0000" stop="20260630005500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3740,7 +3740,7 @@
         <title>Exercise for Everyone</title>
     </programme>
     <programme start="20260630010000 +0000" stop="20260630010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>RAMEN JAPAN 5min.</title>
     </programme>
     <programme start="20260630010500 +0000" stop="20260630015000 +0000" channel="NHK World Premium HD.starhub">
         <title>Great Tracking of Global History &quot;The Mysterious Businessmen in New York&quot; (R)</title>
@@ -3778,7 +3778,13 @@
     <programme start="20260630040000 +0000" stop="20260630040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260630040500 +0000" stop="20260630055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260630040500 +0000" stop="20260630045000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News Around Japan</title>
+    </programme>
+    <programme start="20260630045000 +0000" stop="20260630045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Camera-eyed Japan</title>
+    </programme>
+    <programme start="20260630045500 +0000" stop="20260630055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20260630055000 +0000" stop="20260630055500 +0000" channel="NHK World Premium HD.starhub">
