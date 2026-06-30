@@ -211,18 +211,8 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630120000 +0000" stop="20260630153000 +0000" channel="fifa3.unifitv">
+  <programme start="20260630120000 +0000" stop="20260630163000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630153000 +0000" stop="20260630160000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630160000 +0000" stop="20260630193000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(R) Netherlands vs Morocco : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>

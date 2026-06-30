@@ -142,7 +142,10 @@
 <programme start="20260630011000 +0000" stop="20260630012800 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Jann - WWJD (What Will Jann Do?)</title>
 </programme>
-<programme start="20260630012800 +0000" stop="20260630060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260630012800 +0000" stop="20260630013000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260630013000 +0000" stop="20260630060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260630120000 +0000" stop="20260630123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -289,7 +292,7 @@
 <programme start="20260629232500 +0000" stop="20260630013700 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>This Morning</title>
 </programme>
-<programme start="20260630013700 +0000" stop="20260630060000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260630013700 +0000" stop="20260630064500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260630120000 +0000" stop="20260630130000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
@@ -442,7 +445,7 @@
 <programme start="20260630053000 +0000" stop="20260630063000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Homes Under the Hammer - A Real Barnstormer!</title>
 </programme>
-<programme start="20260630100000 +0000" stop="20260630140000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260630100500 +0000" stop="20260630140000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 2</title>
 </programme>
 <programme start="20260630140000 +0000" stop="20260630180000 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -2377,14 +2380,8 @@
 <programme start="20260630130000 +0000" stop="20260630133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20260630133000 +0000" stop="20260630134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20260630134500 +0000" stop="20260630140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260630140000 +0000" stop="20260630143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
+<programme start="20260630133000 +0000" stop="20260630143000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20260630143000 +0000" stop="20260630150000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -4294,11 +4291,8 @@
 <programme start="20260630114500 +0000" stop="20260630121500 +0000" channel="Racing_UK.virginmediatv">
     <title>The Verdict</title>
 </programme>
-<programme start="20260630121500 +0000" stop="20260630124500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260630121500 +0000" stop="20260630200000 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
-</programme>
-<programme start="20260630124500 +0000" stop="20260630200000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Live: Racing</title>
 </programme>
 <programme start="20260629230000 +0000" stop="20260630004500 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 2010/11: Manchester United v Marseille</title>
@@ -6463,10 +6457,10 @@
 <programme start="20260630122500 +0000" stop="20260630123000 +0000" channel="Cbeebies.virginmediatv">
     <title>Hey Duggee - The List Badge</title>
 </programme>
-<programme start="20260630123000 +0000" stop="20260630123500 +0000" channel="Cbeebies.virginmediatv">
+<programme start="20260630123000 +0000" stop="20260630124000 +0000" channel="Cbeebies.virginmediatv">
     <title>Numberblocks - Peekaboo!</title>
 </programme>
-<programme start="20260630123500 +0000" stop="20260630124500 +0000" channel="Cbeebies.virginmediatv">
+<programme start="20260630124000 +0000" stop="20260630124500 +0000" channel="Cbeebies.virginmediatv">
     <title>Alphablocks - Bop</title>
 </programme>
 <programme start="20260630124500 +0000" stop="20260630130500 +0000" channel="Cbeebies.virginmediatv">
@@ -6478,10 +6472,10 @@
 <programme start="20260630132000 +0000" stop="20260630133500 +0000" channel="Cbeebies.virginmediatv">
     <title>Andy&#039;s Dinosaur Adventures - Diplodocus and Dung</title>
 </programme>
-<programme start="20260630133500 +0000" stop="20260630134500 +0000" channel="Cbeebies.virginmediatv">
+<programme start="20260630133500 +0000" stop="20260630135000 +0000" channel="Cbeebies.virginmediatv">
     <title>Molly and Mack - Molly Gets Involved</title>
 </programme>
-<programme start="20260630134500 +0000" stop="20260630140000 +0000" channel="Cbeebies.virginmediatv">
+<programme start="20260630135000 +0000" stop="20260630140000 +0000" channel="Cbeebies.virginmediatv">
     <title>Grace&#039;s Amazing Machines - Fast Machines</title>
 </programme>
 <programme start="20260630140000 +0000" stop="20260630141500 +0000" channel="Cbeebies.virginmediatv">

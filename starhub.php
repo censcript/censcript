@@ -3074,7 +3074,7 @@
         <title>News</title>
     </programme>
     <programme start="20260629171500 +0000" stop="20260629173000 +0000" channel="DW English HD.starhub">
-        <title>The global industrial business model is breaking. Is software the answer?</title>
+        <title>Can software save the European economy?</title>
     </programme>
     <programme start="20260629173000 +0000" stop="20260629180000 +0000" channel="DW English HD.starhub">
         <title>Deep dive into classical music</title>
@@ -3092,7 +3092,7 @@
         <title>News</title>
     </programme>
     <programme start="20260629191500 +0000" stop="20260629193000 +0000" channel="DW English HD.starhub">
-        <title>The global industrial business model is breaking. Is software the answer?</title>
+        <title>Can software save the European economy?</title>
     </programme>
     <programme start="20260629193000 +0000" stop="20260629200000 +0000" channel="DW English HD.starhub">
         <title>From GenZ protests to Presidency: Can Boniface Mwangi lead Kenya?</title>
@@ -3107,7 +3107,7 @@
         <title>News</title>
     </programme>
     <programme start="20260629210200 +0000" stop="20260629211500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260629211500 +0000" stop="20260629220000 +0000" channel="DW English HD.starhub">
         <title>Operation Barbarossa - War of Annihilation - Part 2 - Winter</title>
@@ -3128,7 +3128,7 @@
         <title>News</title>
     </programme>
     <programme start="20260629231500 +0000" stop="20260629233000 +0000" channel="DW English HD.starhub">
-        <title>The global industrial business model is breaking. Is software the answer?</title>
+        <title>Can software save the European economy?</title>
     </programme>
     <programme start="20260629233000 +0000" stop="20260630000000 +0000" channel="DW English HD.starhub">
         <title>Minefield Europe - The Return of a Banned Weapon</title>
