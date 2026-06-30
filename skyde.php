@@ -976,48 +976,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630213500 +0000" stop="20260630222500 +0000" channel="Crime + Investigation.skyde">
     <title>Mörderisches Doppelleben</title>
 </programme>
-<programme start="20260629220000 +0000" stop="20260630060000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260630060000 +0000" stop="20260630070000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 30. Spieltag</title>
-</programme>
-<programme start="20260630070000 +0000" stop="20260630073500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260630073500 +0000" stop="20260630093000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Copa del Rey 25/26: Atlético Madrid - Real Sociedad</title>
-</programme>
-<programme start="20260630093000 +0000" stop="20260630112000 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: Real Madrid - Atlético Madrid</title>
-</programme>
-<programme start="20260630112000 +0000" stop="20260630115000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260630115000 +0000" stop="20260630125500 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 31. Spieltag</title>
-</programme>
-<programme start="20260630125500 +0000" stop="20260630140000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 32. Spieltag</title>
-</programme>
-<programme start="20260630140000 +0000" stop="20260630183000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga Konferenz 25/26: 34. Spieltag</title>
-</programme>
-<programme start="20260630183000 +0000" stop="20260630190000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260630190000 +0000" stop="20260630195000 +0000" channel="DAZN 1 HD.skyde">
-    <title>The Late Kick: Folge 2. Nur in Deutschland verfügbar!</title>
-</programme>
-<programme start="20260630195000 +0000" stop="20260630202500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260630202500 +0000" stop="20260630212500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Porträt von Holger Gehrke: Fußball-Urgestein auf neuen Plätzen</title>
-</programme>
-<programme start="20260630212500 +0000" stop="20260630220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
 <programme start="20260629220000 +0000" stop="20260630060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -1474,40 +1432,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630073000 +0000" stop="20260630075500 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
 </programme>
-<programme start="20260630075500 +0000" stop="20260630081500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630075500 +0000" stop="20260630082000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630081500 +0000" stop="20260630084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630082000 +0000" stop="20260630084000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630084000 +0000" stop="20260630090000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630084000 +0000" stop="20260630090500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260630090000 +0000" stop="20260630092500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630090500 +0000" stop="20260630092500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260630092500 +0000" stop="20260630094500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630092500 +0000" stop="20260630095000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260630094500 +0000" stop="20260630101000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630095000 +0000" stop="20260630101000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260630101000 +0000" stop="20260630103000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630101000 +0000" stop="20260630103500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260630103000 +0000" stop="20260630105500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630103500 +0000" stop="20260630105500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260630105500 +0000" stop="20260630111500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630105500 +0000" stop="20260630112000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260630111500 +0000" stop="20260630114000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630112000 +0000" stop="20260630114000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630114000 +0000" stop="20260630120000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630114000 +0000" stop="20260630120500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630120000 +0000" stop="20260630122500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630120500 +0000" stop="20260630122500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260630122500 +0000" stop="20260630123000 +0000" channel="Nick Jr..skyde">
@@ -1522,11 +1480,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630130500 +0000" stop="20260630131500 +0000" channel="Nick Jr..skyde">
     <title>Die tierischen Fälle von Kit und Sam</title>
 </programme>
-<programme start="20260630131500 +0000" stop="20260630133500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630131500 +0000" stop="20260630134000 +0000" channel="Nick Jr..skyde">
     <title>Die Waldtruppe</title>
-</programme>
-<programme start="20260630133500 +0000" stop="20260630134000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260630134000 +0000" stop="20260630134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -1534,16 +1489,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630134500 +0000" stop="20260630135000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260630135000 +0000" stop="20260630135500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630135000 +0000" stop="20260630135100 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260630135100 +0000" stop="20260630135500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260630135500 +0000" stop="20260630140000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260630140000 +0000" stop="20260630142000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630140000 +0000" stop="20260630142500 +0000" channel="Nick Jr..skyde">
     <title>Ben &amp; Hollys kleines Königreich</title>
 </programme>
-<programme start="20260630142000 +0000" stop="20260630144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630142500 +0000" stop="20260630144500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260630144500 +0000" stop="20260630150000 +0000" channel="Nick Jr..skyde">
@@ -1591,10 +1549,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630173000 +0000" stop="20260630175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630175000 +0000" stop="20260630180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630175000 +0000" stop="20260630180500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630180000 +0000" stop="20260630182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630180500 +0000" stop="20260630182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260630182500 +0000" stop="20260630184500 +0000" channel="Nick Jr..skyde">
@@ -1606,29 +1564,80 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630190000 +0000" stop="20260630192000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260630192000 +0000" stop="20260630194500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630192000 +0000" stop="20260630194000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260630194500 +0000" stop="20260630200500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630194000 +0000" stop="20260630200500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20260630200500 +0000" stop="20260630202500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260630202500 +0000" stop="20260630205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630202500 +0000" stop="20260630204500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630205000 +0000" stop="20260630211000 +0000" channel="Nick Jr..skyde">
+<programme start="20260630204500 +0000" stop="20260630211000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260630211000 +0000" stop="20260630213500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630213500 +0000" stop="20260630215500 +0000" channel="Nick Jr..skyde">
+<programme start="20260630213500 +0000" stop="20260630220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260630215500 +0000" stop="20260630222000 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
+<programme start="20260629221500 +0000" stop="20260629234500 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Mein Geheimnis, dein Geheimnis</title>
+</programme>
+<programme start="20260629234500 +0000" stop="20260630011500 +0000" channel="Romance TV HD.skyde">
+    <title>Fluss des Lebens: Yukon - Ruf der Wildnis</title>
+</programme>
+<programme start="20260630011500 +0000" stop="20260630020500 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20260630020500 +0000" stop="20260630022000 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20260630022000 +0000" stop="20260630035000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Die Süße des Lebens</title>
+</programme>
+<programme start="20260630035000 +0000" stop="20260630052000 +0000" channel="Romance TV HD.skyde">
+    <title>Die Hochzeit meiner Eltern</title>
+</programme>
+<programme start="20260630052000 +0000" stop="20260630065500 +0000" channel="Romance TV HD.skyde">
+    <title>Verliebt in Valerie</title>
+</programme>
+<programme start="20260630065500 +0000" stop="20260630083000 +0000" channel="Romance TV HD.skyde">
+    <title>Zaun an Zaun</title>
+</programme>
+<programme start="20260630083000 +0000" stop="20260630092500 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20260630092500 +0000" stop="20260630110000 +0000" channel="Romance TV HD.skyde">
+    <title>Auf der anderen Seite des Bettes</title>
+</programme>
+<programme start="20260630110000 +0000" stop="20260630123500 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Mein Geheimnis, dein Geheimnis</title>
+</programme>
+<programme start="20260630123500 +0000" stop="20260630141000 +0000" channel="Romance TV HD.skyde">
+    <title>Fluss des Lebens: Yukon - Ruf der Wildnis</title>
+</programme>
+<programme start="20260630141000 +0000" stop="20260630154500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Mein falscher Verlobter</title>
+</programme>
+<programme start="20260630154500 +0000" stop="20260630172000 +0000" channel="Romance TV HD.skyde">
+    <title>Käthe und ich: Das Adoptivkind</title>
+</programme>
+<programme start="20260630172000 +0000" stop="20260630181500 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
+</programme>
+<programme start="20260630181500 +0000" stop="20260630194500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Schlagzeile Liebe</title>
+</programme>
+<programme start="20260630194500 +0000" stop="20260630212000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Morgen träumen wir gemeinsam</title>
+</programme>
+<programme start="20260630212000 +0000" stop="20260630221000 +0000" channel="Romance TV HD.skyde">
+    <title>Tierärztin Dr. Mertens</title>
 </programme>
 <programme start="20260629221500 +0000" stop="20260629224000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The House that Dragons Built (OmU)</title>
@@ -3016,6 +3025,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630183000 +0000" stop="20260630201500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
+<programme start="20260630201500 +0000" stop="20260630210000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: The Ring Master: Alexander Bublik</title>
+</programme>
+<programme start="20260630210000 +0000" stop="20260630230000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
+</programme>
 <programme start="20260629220000 +0000" stop="20260630003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
@@ -3604,10 +3619,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630085000 +0000" stop="20260630104500 +0000" channel="Warner TV Film HD.skyde">
     <title>Der große Schweiger</title>
 </programme>
-<programme start="20260630104500 +0000" stop="20260630124000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260630104500 +0000" stop="20260630124500 +0000" channel="Warner TV Film HD.skyde">
     <title>Des Königs Admiral</title>
 </programme>
-<programme start="20260630124000 +0000" stop="20260630144000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260630124500 +0000" stop="20260630144000 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Hexen von Eastwick</title>
 </programme>
 <programme start="20260630144000 +0000" stop="20260630163500 +0000" channel="Warner TV Film HD.skyde">

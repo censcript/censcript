@@ -1553,9 +1553,14 @@
     <desc lang="en">Catch the Best Matches from the Roland Garros 2026.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629160000 +0000" stop="20260629175000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260629160000 +0000" stop="20260629174000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Junior World Championship - Argentina vs USA</title>
     <desc lang="en">The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260629174000 +0000" stop="20260629175000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Match Highlights - Buenos Aires P1 Women</title>
+    <desc lang="en">Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629175000 +0000" stop="20260629180000 +0000" channel="beinsports2.unifitv">
@@ -1608,7 +1613,12 @@
     <desc lang="en">Premier global championship series designed to crown the world's best elite athletes across multiple, high-speed foiling disciplines.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630070000 +0000" stop="20260630085500 +0000" channel="beinsports2.unifitv">
+  <programme start="20260630070000 +0000" stop="20260630071500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Roland Garros Match Highlights - 2025 Men's Singles SF 1 Alcaraz v Musetti</title>
+    <desc lang="en">Review the best actions and moments from the Roland Garros</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260630071500 +0000" stop="20260630085500 +0000" channel="beinsports2.unifitv">
     <title lang="en">Junior World Championship - England vs Ireland</title>
     <desc lang="en">The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
     <category lang="en">Sports</category>
