@@ -139,11 +139,8 @@
 <programme start="20260630000500 +0000" stop="20260630011000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Love Island</title>
 </programme>
-<programme start="20260630011000 +0000" stop="20260630012800 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260630011000 +0000" stop="20260630013000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Jann - WWJD (What Will Jann Do?)</title>
-</programme>
-<programme start="20260630012800 +0000" stop="20260630013000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>Channel Off Air</title>
 </programme>
 <programme start="20260630013000 +0000" stop="20260630060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
@@ -6331,7 +6328,10 @@
 <programme start="20260629175800 +0000" stop="20260630015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260630015800 +0000" stop="20260630060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260630015800 +0000" stop="20260630050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260630050000 +0000" stop="20260630060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260630114500 +0000" stop="20260630120500 +0000" channel="CBBC.virginmediatv">

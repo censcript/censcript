@@ -3928,16 +3928,19 @@
   <programme start="20260702214500 +0000" stop="20260702223000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3674)</title>
   </programme>
-  <programme start="20260701214500 +0000" stop="20260701223500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260701220000 +0000" stop="20260701223500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Vychytávky Ládi Hrušky</title>
+  </programme>
+  <programme start="20260701223500 +0000" stop="20260701232500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Show Jana Krause</title>
   </programme>
-  <programme start="20260701223500 +0000" stop="20260701235500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260701232500 +0000" stop="20260702004500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20260701235500 +0000" stop="20260702005500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260702004500 +0000" stop="20260702014500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Krejzovi I (92)</title>
   </programme>
-  <programme start="20260702005500 +0000" stop="20260702015000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260702014500 +0000" stop="20260702015000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Modrý kód (215)</title>
   </programme>
   <programme start="20260702015000 +0000" stop="20260702024000 +0000" channel="Prima SK.webtv.sk">
@@ -3985,11 +3988,11 @@
   <programme start="20260702122000 +0000" stop="20260702132500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Modrý kód (217)</title>
   </programme>
-  <programme start="20260702132500 +0000" stop="20260702150500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260702132500 +0000" stop="20260702150000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20260702150500 +0000" stop="20260702160000 +0000" channel="Prima SK.webtv.sk">
-    <title lang="id">Are You The One? Česko</title>
+  <programme start="20260702150000 +0000" stop="20260702160000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Inkognito</title>
   </programme>
   <programme start="20260702160000 +0000" stop="20260702165500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Prostřeno!</title>
@@ -4003,14 +4006,14 @@
   <programme start="20260702191500 +0000" stop="20260702201500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Inkognito</title>
   </programme>
-  <programme start="20260702201500 +0000" stop="20260702210000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260702201500 +0000" stop="20260702211000 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Are You The One? Česko</title>
+  </programme>
+  <programme start="20260702211000 +0000" stop="20260702215500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Receptář prima nápadů</title>
   </programme>
-  <programme start="20260702210000 +0000" stop="20260702214000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260702215500 +0000" stop="20260702223000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
-  </programme>
-  <programme start="20260702214000 +0000" stop="20260702223000 +0000" channel="Prima SK.webtv.sk">
-    <title lang="id">Show Jana Krause</title>
   </programme>
   <programme start="20260701214500 +0000" stop="20260701224500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>

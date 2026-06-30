@@ -2864,18 +2864,30 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Sky Sport News: Matchday FIFA WM 2026</title>
 </programme>
 <programme start="20260630150000 +0000" stop="20260630160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Road to New York</title>
+    <title>Live Sky Sport News: DFB-Desaster - Die Analyse</title>
 </programme>
-<programme start="20260630160000 +0000" stop="20260630200000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260630160000 +0000" stop="20260630170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20260630170000 +0000" stop="20260630173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Gesagt. Gemeint: Spezial - Gescheitert!</title>
+</programme>
+<programme start="20260630173000 +0000" stop="20260630183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
+</programme>
+<programme start="20260630183000 +0000" stop="20260630193000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: DFB-Desaster - Die Analyse</title>
+</programme>
+<programme start="20260630193000 +0000" stop="20260630200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Gesagt. Gemeint: Spezial - Gescheitert!</title>
 </programme>
 <programme start="20260630200000 +0000" stop="20260630203000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Dein WM Update</title>
 </programme>
-<programme start="20260630203000 +0000" stop="20260630210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
+<programme start="20260630203000 +0000" stop="20260630213000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: DFB-Desaster - Die Analyse</title>
 </programme>
-<programme start="20260630210000 +0000" stop="20260630233000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260630213000 +0000" stop="20260630233000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20260629221500 +0000" stop="20260629223000 +0000" channel="Sky Sport Premier League HD.skyde">
