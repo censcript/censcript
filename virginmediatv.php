@@ -3817,7 +3817,10 @@
 <programme start="20260630030000 +0000" stop="20260630040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260630040000 +0000" stop="20260630060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260630040000 +0000" stop="20260630050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260630050000 +0000" stop="20260630060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260630120000 +0000" stop="20260630130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4345,17 +4348,8 @@
 <programme start="20260630154500 +0000" stop="20260630161500 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - MU Women 24/25</title>
 </programme>
-<programme start="20260630161500 +0000" stop="20260630163000 +0000" channel="MUTV.virginmediatv">
-    <title>Season Review - Best of Jess Park</title>
-</programme>
-<programme start="20260630163000 +0000" stop="20260630164500 +0000" channel="MUTV.virginmediatv">
-    <title>Season Review - All The Goals - Terland</title>
-</programme>
-<programme start="20260630164500 +0000" stop="20260630170000 +0000" channel="MUTV.virginmediatv">
-    <title>Season Review - Best of Melvine Malard</title>
-</programme>
-<programme start="20260630170000 +0000" stop="20260630171500 +0000" channel="MUTV.virginmediatv">
-    <title>Kit Launch - Home Kit 26/27 - Behind The Scenes</title>
+<programme start="20260630161500 +0000" stop="20260630171500 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - MU Women 25/26</title>
 </programme>
 <programme start="20260630171500 +0000" stop="20260630173000 +0000" channel="MUTV.virginmediatv">
     <title>Kit Launch - Home Kit 26/27 - Behind The Scenes</title>
@@ -4627,7 +4621,10 @@
 <programme start="20260630030000 +0000" stop="20260630040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260630040000 +0000" stop="20260630060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260630040000 +0000" stop="20260630050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260630050000 +0000" stop="20260630060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260630120000 +0000" stop="20260630130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">

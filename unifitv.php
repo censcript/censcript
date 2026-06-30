@@ -35,43 +35,23 @@
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630000000 +0000" stop="20260630033000 +0000" channel="fifa1.unifitv">
+  <programme start="20260630000000 +0000" stop="20260630043000 +0000" channel="fifa1.unifitv">
     <title lang="en">(L) Netherlands vs Morocco : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 9:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630033000 +0000" stop="20260630040000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 14 - San Francisco : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630040000 +0000" stop="20260630043000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 15 - Dallas : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260630043000 +0000" stop="20260630050000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 16 - New York &amp; New Jersey : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 14 - San Francisco : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630050000 +0000" stop="20260630083000 +0000" channel="fifa1.unifitv">
+  <programme start="20260630050000 +0000" stop="20260630093000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Netherlands vs Morocco : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630083000 +0000" stop="20260630090000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 14 - San Francisco : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630090000 +0000" stop="20260630093000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 15 - Dallas : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260630093000 +0000" stop="20260630100000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 16 - New York &amp; New Jersey : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 15 - Dallas : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -81,21 +61,21 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630133000 +0000" stop="20260630140000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 14 - San Francisco : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 16 - New York &amp; New Jersey : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630140000 +0000" stop="20260630143000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 15 - Dallas : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 14 - San Francisco : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630143000 +0000" stop="20260630150000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 16 - New York &amp; New Jersey : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 15 - Dallas : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630150000 +0000" stop="20260630183000 +0000" channel="fifa1.unifitv">
+  <programme start="20260630150000 +0000" stop="20260630193000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Netherlands vs Morocco : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
@@ -10110,26 +10090,19 @@
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
-  <programme start="20260630140000 +0000" stop="20260630150000 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260630140000 +0000" stop="20260630150500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Go Where Hunan Abounds</title>
     <desc lang="en">Changsha auditions for the Barbecue Competition with Mawangdui Han-Style BBQ Set Meal, "With You for a Lifetime" BBQ Set Meal, Butanbai BBQ Set, and more.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">2.8.</episode-num>
     <episode-num system="onscreen">S3E9</episode-num>
   </programme>
-  <programme start="20260630150000 +0000" stop="20260630160000 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260630150500 +0000" stop="20260630160500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">May's Kitchen</title>
     <desc lang="en">May is always trying to give not only recipes but also changing how people look at cooking, making it fun and relatable.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">1.0.</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
-  </programme>
-  <programme start="20260630160000 +0000" stop="20260630165500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Travel With Parents</title>
-    <desc lang="en">Jason Yeoh, from Penang, ventures to Adelaide, South Australia, for the first time with his friend Hui Mei and their mothers.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <channel id="dreamworkshd.unifitv">
     <display-name>DreamWorks HD</display-name>
@@ -15711,7 +15684,7 @@
   </channel>
   <programme start="20260629140000 +0000" stop="20260629195500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Fiziev vs. Torres - Main</title>
-    <desc lang="en">All-action lightweights headline UFC's return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
+    <desc lang="en">All-action lightweights headline UFC’s return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260629195500 +0000" stop="20260629200000 +0000" channel="unifisports1.unifitv">
@@ -15719,9 +15692,14 @@
     <desc lang="en">Some of the best goals from Miguel de las Cuevas during his time at Sporting Gijon.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629200000 +0000" stop="20260630015500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260629200000 +0000" stop="20260630010000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Kape vs. Horiguchi - Main</title>
-    <desc lang="en">A crucial matchup between flyweight contenders headlines UFC's return to action at the Meta APEX in Las Vegas on Saturday, June 21 as second-ranked contender Manel “Starboy” Kape faces off with fifthranked Kyoji Horiguchi. A winner of seven of his last eight appearances and each of his last three outings, Kape makes his 2026 debut off a first-round knockout win over former title challenger Brandon Royval last December in the same building. A title challenger during his first stint with the promotion, Horiuchi has earned back-to-back wins since returning to the UFC last November and looks to cement his standing as a contender with a third straight standout performance.</desc>
+    <desc lang="en">A crucial matchup between flyweight contenders headlines UFC’s return to action at the Meta APEX in Las Vegas on Saturday, June 21 as second-ranked contender Manel “Starboy” Kape faces off with fifthranked Kyoji Horiguchi. A winner of seven of his last eight appearances and each of his last three outings, Kape makes his 2026 debut off a first-round knockout win over former title challenger Brandon Royval last December in the same building. A title challenger during his first stint with the promotion, Horiuchi has earned back-to-back wins since returning to the UFC last November and looks to cement his standing as a contender with a third straight standout performance.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260630010000 +0000" stop="20260630015500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 315: Muhammad vs Della Maddalena</title>
+    <desc lang="en">UFC 315 Countdown takes an inside look at two title fights, as welterweight king Belal Muhammad attempts to defend his crown against Jack Della Maddalena, and flyweight queen Valentina Shevchenko puts her belt on the line against Manon Fiorot.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630015500 +0000" stop="20260630020000 +0000" channel="unifisports1.unifitv">
@@ -15730,8 +15708,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630020000 +0000" stop="20260630042500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 - Group - MYANMAR vs MALAYSIA - (TEAM)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">TM ISTAF World Cup 2026 -  Group - MYANMAR vs MALAYSIA  - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630042500 +0000" stop="20260630043000 +0000" channel="unifisports1.unifitv">
@@ -15741,7 +15719,7 @@
   </programme>
   <programme start="20260630043000 +0000" stop="20260630055500 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - Group- KOREA vs MALAYSIA- (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630055500 +0000" stop="20260630060000 +0000" channel="unifisports1.unifitv">
@@ -15766,7 +15744,7 @@
   </programme>
   <programme start="20260630093000 +0000" stop="20260630100000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Flashback - 1101 - Gaethje vs Holloway</title>
-    <desc lang="en">UFC 300 was not only a milestone event for the world's leading MMA organization but featured a highly anticipated bout between Justin Gaethje and Max Holloway as they battled for the “BMF” belt and the title of the “baddest” fighter on the planet. See their fight like never seen before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <desc lang="en">UFC 300 was not only a milestone event for the world’s leading MMA organization but featured a highly anticipated bout between Justin Gaethje and Max Holloway as they battled for the “BMF” belt and the title of the “baddest” fighter on the planet. See their fight like never seen before with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630100000 +0000" stop="20260630123000 +0000" channel="unifisports1.unifitv">
@@ -15791,7 +15769,7 @@
   </programme>
   <programme start="20260630140000 +0000" stop="20260630195500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Fiziev vs. Torres - Main</title>
-    <desc lang="en">All-action lightweights headline UFC's return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
+    <desc lang="en">All-action lightweights headline UFC’s return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
     <category lang="en">Sports</category>
   </programme>
 </tv>
