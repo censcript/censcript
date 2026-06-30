@@ -78,18 +78,13 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630160000 +0000" stop="20260630193000 +0000" channel="fifa2.unifitv">
+  <programme start="20260630160000 +0000" stop="20260630200000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) Ivory Coast vs Norway : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630193000 +0000" stop="20260630200000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260630200000 +0000" stop="20260630203000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -99,42 +94,32 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630233000 +0000" stop="20260701000000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701000000 +0000" stop="20260701033000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701000000 +0000" stop="20260701040000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) Mexico vs Ecuador : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 9:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701033000 +0000" stop="20260701040000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260701040000 +0000" stop="20260701043000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260701043000 +0000" stop="20260701050000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701050000 +0000" stop="20260701083000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701043000 +0000" stop="20260701050000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260701050000 +0000" stop="20260701090000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Ivory Coast vs Norway : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701083000 +0000" stop="20260701090000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260701090000 +0000" stop="20260701093000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -143,28 +128,23 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701100000 +0000" stop="20260701133000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701100000 +0000" stop="20260701140000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Mexico vs Ecuador: FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701133000 +0000" stop="20260701140000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260701150000 +0000" stop="20260701183000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Ivory Coast vs Norway : FIFA World Cup™ 2026 Round of 32</title>
+    <title lang="en">(R) Brazil vs Japan : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>

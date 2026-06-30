@@ -1,6 +1,3 @@
-<programme start="20260630200000 +0000" stop="20260630220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260630220000 +0000" stop="20260701000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -31,9 +28,6 @@
 <programme start="20260701160000 +0000" stop="20260701180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260630200000 +0000" stop="20260630220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260630220000 +0000" stop="20260701000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -62,9 +56,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260701160000 +0000" stop="20260701180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260630200000 +0000" stop="20260630220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260630220000 +0000" stop="20260701000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -243,9 +234,6 @@
 </programme>
 <programme start="20260701151500 +0000" stop="20260701181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 32 - England vs Congo DR[Live]</title>
-</programme>
-<programme start="20260630200000 +0000" stop="20260630220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Leeds United vs Arsenal</title>
 </programme>
 <programme start="20260630220000 +0000" stop="20260701000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Tottenham Hotspur vs Manchester City</title>
