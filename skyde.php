@@ -976,6 +976,48 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260630213500 +0000" stop="20260630222500 +0000" channel="Crime + Investigation.skyde">
     <title>Mörderisches Doppelleben</title>
 </programme>
+<programme start="20260629220000 +0000" stop="20260630060000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20260630060000 +0000" stop="20260630070000 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 30. Spieltag</title>
+</programme>
+<programme start="20260630070000 +0000" stop="20260630073500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260630073500 +0000" stop="20260630093000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Copa del Rey 25/26: Atlético Madrid - Real Sociedad</title>
+</programme>
+<programme start="20260630093000 +0000" stop="20260630112000 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: Real Madrid - Atlético Madrid</title>
+</programme>
+<programme start="20260630112000 +0000" stop="20260630115000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260630115000 +0000" stop="20260630125500 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 31. Spieltag</title>
+</programme>
+<programme start="20260630125500 +0000" stop="20260630140000 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 32. Spieltag</title>
+</programme>
+<programme start="20260630140000 +0000" stop="20260630183000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga Konferenz 25/26: 34. Spieltag</title>
+</programme>
+<programme start="20260630183000 +0000" stop="20260630190000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260630190000 +0000" stop="20260630195000 +0000" channel="DAZN 1 HD.skyde">
+    <title>The Late Kick: Folge 2. Nur in Deutschland verfügbar!</title>
+</programme>
+<programme start="20260630195000 +0000" stop="20260630202500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260630202500 +0000" stop="20260630212500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Porträt von Holger Gehrke: Fußball-Urgestein auf neuen Plätzen</title>
+</programme>
+<programme start="20260630212500 +0000" stop="20260630220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
 <programme start="20260629220000 +0000" stop="20260630060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -3024,12 +3066,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260630183000 +0000" stop="20260630201500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
-</programme>
-<programme start="20260630201500 +0000" stop="20260630210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: The Ring Master: Alexander Bublik</title>
-</programme>
-<programme start="20260630210000 +0000" stop="20260630230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Z. Bergs (BEL) - U. Humbert (FRA), Lexus Eastbourne Open in Eastbourne (GBR), Finale</title>
 </programme>
 <programme start="20260629220000 +0000" stop="20260630003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>

@@ -166,11 +166,8 @@
 <programme start="20260630083000 +0000" stop="20260630090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Witness: Confronting ICE</title>
 </programme>
-<programme start="20260630090000 +0000" stop="20260630093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260630093000 +0000" stop="20260630100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+<programme start="20260630090000 +0000" stop="20260630100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260630100000 +0000" stop="20260630110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -7759,43 +7756,43 @@
 <programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="SCTV.mncvision">
+<programme start="20260629230000 +0000" stop="20260630000400 +0000" channel="SCTV.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260630000000 +0000" stop="20260630013000 +0000" channel="SCTV.mncvision">
+<programme start="20260630000400 +0000" stop="20260630013500 +0000" channel="SCTV.mncvision">
     <title>Mahar Cinta 28 Juta</title>
 </programme>
-<programme start="20260630013000 +0000" stop="20260630030000 +0000" channel="SCTV.mncvision">
-    <title>Pacar Gue Bukan Cewek Gedongan</title>
+<programme start="20260630013500 +0000" stop="20260630030700 +0000" channel="SCTV.mncvision">
+    <title>Cashback 100% Cinta Dokter Gaul</title>
 </programme>
-<programme start="20260630030000 +0000" stop="20260630050000 +0000" channel="SCTV.mncvision">
+<programme start="20260630030700 +0000" stop="20260630050400 +0000" channel="SCTV.mncvision">
     <title>Gebetan Vs Selingkuhan</title>
 </programme>
-<programme start="20260630050000 +0000" stop="20260630053000 +0000" channel="SCTV.mncvision">
+<programme start="20260630050400 +0000" stop="20260630053800 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260630053000 +0000" stop="20260630070000 +0000" channel="SCTV.mncvision">
+<programme start="20260630053800 +0000" stop="20260630071600 +0000" channel="SCTV.mncvision">
     <title>Geprek Aja Terus Cintaku</title>
 </programme>
-<programme start="20260630070000 +0000" stop="20260630083000 +0000" channel="SCTV.mncvision">
-    <title>Menantu Idaman Mau Lewat</title>
+<programme start="20260630071600 +0000" stop="20260630085200 +0000" channel="SCTV.mncvision">
+    <title>Menantu Bayaran Bikin Salfok</title>
 </programme>
-<programme start="20260630083000 +0000" stop="20260630101500 +0000" channel="SCTV.mncvision">
+<programme start="20260630085200 +0000" stop="20260630103000 +0000" channel="SCTV.mncvision">
     <title>Cinta Pada Gigitan Pertama</title>
 </programme>
-<programme start="20260630101500 +0000" stop="20260630114500 +0000" channel="SCTV.mncvision">
+<programme start="20260630103000 +0000" stop="20260630115300 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260630114500 +0000" stop="20260630131500 +0000" channel="SCTV.mncvision">
+<programme start="20260630115300 +0000" stop="20260630133100 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260630131500 +0000" stop="20260630144500 +0000" channel="SCTV.mncvision">
+<programme start="20260630133100 +0000" stop="20260630145300 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260630144500 +0000" stop="20260630160000 +0000" channel="SCTV.mncvision">
+<programme start="20260630145300 +0000" stop="20260630162300 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260630160000 +0000" stop="20260630163000 +0000" channel="SCTV.mncvision">
+<programme start="20260630162300 +0000" stop="20260630165300 +0000" channel="SCTV.mncvision">
     <title>Hati Tak Pernah Salah</title>
 </programme>
 <programme start="20260629171500 +0000" stop="20260629183000 +0000" channel="SCTV HD.mncvision">
@@ -7819,43 +7816,43 @@
 <programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260629230000 +0000" stop="20260630000400 +0000" channel="SCTV HD.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260630000000 +0000" stop="20260630013000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630000400 +0000" stop="20260630013500 +0000" channel="SCTV HD.mncvision">
     <title>Mahar Cinta 28 Juta</title>
 </programme>
-<programme start="20260630013000 +0000" stop="20260630030000 +0000" channel="SCTV HD.mncvision">
-    <title>Pacar Gue Bukan Cewek Gedongan</title>
+<programme start="20260630013500 +0000" stop="20260630030700 +0000" channel="SCTV HD.mncvision">
+    <title>Cashback 100% Cinta Dokter Gaul</title>
 </programme>
-<programme start="20260630030000 +0000" stop="20260630050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630030700 +0000" stop="20260630050400 +0000" channel="SCTV HD.mncvision">
     <title>Gebetan Vs Selingkuhan</title>
 </programme>
-<programme start="20260630050000 +0000" stop="20260630053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630050400 +0000" stop="20260630053800 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260630053000 +0000" stop="20260630070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630053800 +0000" stop="20260630071600 +0000" channel="SCTV HD.mncvision">
     <title>Geprek Aja Terus Cintaku</title>
 </programme>
-<programme start="20260630070000 +0000" stop="20260630083000 +0000" channel="SCTV HD.mncvision">
-    <title>Menantu Idaman Mau Lewat</title>
+<programme start="20260630071600 +0000" stop="20260630085200 +0000" channel="SCTV HD.mncvision">
+    <title>Menantu Bayaran Bikin Salfok</title>
 </programme>
-<programme start="20260630083000 +0000" stop="20260630101500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630085200 +0000" stop="20260630103000 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Pada Gigitan Pertama</title>
 </programme>
-<programme start="20260630101500 +0000" stop="20260630114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630103000 +0000" stop="20260630115300 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260630114500 +0000" stop="20260630131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630115300 +0000" stop="20260630133100 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260630131500 +0000" stop="20260630144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630133100 +0000" stop="20260630145300 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260630144500 +0000" stop="20260630160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630145300 +0000" stop="20260630162300 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260630160000 +0000" stop="20260630163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260630162300 +0000" stop="20260630165300 +0000" channel="SCTV HD.mncvision">
     <title>Hati Tak Pernah Salah</title>
 </programme>
 <programme start="20260629170000 +0000" stop="20260629180000 +0000" channel="Sindo News TV.mncvision">

@@ -123,59 +123,29 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629193000 +0000" stop="20260629230000 +0000" channel="fifa2.unifitv">
+  <programme start="20260629193000 +0000" stop="20260630000000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) Germany vs Paraguay : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 4:30 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629230000 +0000" stop="20260629233000 +0000" channel="fifa2.unifitv">
+  <programme start="20260630000000 +0000" stop="20260630003000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629233000 +0000" stop="20260630000000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630000000 +0000" stop="20260630003000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630003000 +0000" stop="20260630040000 +0000" channel="fifa2.unifitv">
+  <programme start="20260630003000 +0000" stop="20260630050000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630040000 +0000" stop="20260630043000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630043000 +0000" stop="20260630050000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630050000 +0000" stop="20260630053000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630053000 +0000" stop="20260630090000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630090000 +0000" stop="20260630093000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630093000 +0000" stop="20260630100000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260630053000 +0000" stop="20260630100000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630100000 +0000" stop="20260630103000 +0000" channel="fifa2.unifitv">
@@ -183,28 +153,18 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630103000 +0000" stop="20260630140000 +0000" channel="fifa2.unifitv">
+  <programme start="20260630103000 +0000" stop="20260630150000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630140000 +0000" stop="20260630143000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630143000 +0000" stop="20260630150000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260630150000 +0000" stop="20260630153000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630153000 +0000" stop="20260630160000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -337,84 +297,74 @@
   <channel id="beinsports.unifitv">
     <display-name>beIN SPORTS 1</display-name>
   </channel>
-  <programme start="20260629153500 +0000" stop="20260629160000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629153500 +0000" stop="20260629161000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Tottenham vs Liverpool PL 2024/25</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629160000 +0000" stop="20260629163500 +0000" channel="beinsports.unifitv">
+  <programme start="20260629161000 +0000" stop="20260629164500 +0000" channel="beinsports.unifitv">
     <title lang="en">Formula 1 Highlights - FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026</title>
     <desc lang="en">Catch up with all the best bits from the weekend's race.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629163500 +0000" stop="20260629183000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629164500 +0000" stop="20260629184500 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga - Girona vs Valencia</title>
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629183000 +0000" stop="20260629184500 +0000" channel="beinsports.unifitv">
-    <title lang="en">Stars of the Cup - Pedri - Spain</title>
-    <desc lang="en">Stars of the Cup - Pedri - Spain</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260629184500 +0000" stop="20260629203000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629184500 +0000" stop="20260629203500 +0000" channel="beinsports.unifitv">
     <title lang="en">UEFA Youth League - Dortmund vs Villarreal - MD5</title>
     <desc lang="en">The UEFA Youth League is an annual football competition contested by the youth teams (U19) of the clubs competing in the UCL group stage, plus the domestic youth champions of the best-ranked national associations</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629203000 +0000" stop="20260629210000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629203500 +0000" stop="20260629210500 +0000" channel="beinsports.unifitv">
     <title lang="en">ERC Highlights - Royal Rally of Scandinavia</title>
     <desc lang="en">Enjoy highlights from the 74th season of the European Rally Championship</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629210000 +0000" stop="20260629213000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629210500 +0000" stop="20260629213500 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Mini - Valencia vs Real Betis</title>
     <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629213000 +0000" stop="20260629220000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629213500 +0000" stop="20260629220500 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Mini - Celta Vigo vs Barcelona</title>
     <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629220500 +0000" stop="20260629230500 +0000" channel="beinsports.unifitv">
     <title lang="en">WRC Highlights - Rally Greece</title>
     <desc lang="en">Enjoy highlights from the 54th season of the World Rally Championship</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="beinsports.unifitv">
+  <programme start="20260629230500 +0000" stop="20260630000500 +0000" channel="beinsports.unifitv">
     <title lang="en">DTM Highlights - Lausitzring</title>
     <desc lang="en">Catch the highlights from every round of the 2026 DTM.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630000000 +0000" stop="20260630020000 +0000" channel="beinsports.unifitv">
+  <programme start="20260630000500 +0000" stop="20260630020500 +0000" channel="beinsports.unifitv">
     <title lang="en">Formula 1 Main Race - FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026</title>
     <desc lang="en">beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630020000 +0000" stop="20260630031500 +0000" channel="beinsports.unifitv">
+  <programme start="20260630020500 +0000" stop="20260630040500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Southampton vs Liverpool PL 2024/25</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630031500 +0000" stop="20260630034500 +0000" channel="beinsports.unifitv">
+  <programme start="20260630040500 +0000" stop="20260630044000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFC Trending - Episode Number 47</title>
     <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630034500 +0000" stop="20260630050000 +0000" channel="beinsports.unifitv">
+  <programme start="20260630044000 +0000" stop="20260630051500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Tottenham vs Liverpool PL 2024/25</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260630050000 +0000" stop="20260630053000 +0000" channel="beinsports.unifitv">
+  <programme start="20260630051500 +0000" stop="20260630054500 +0000" channel="beinsports.unifitv">
     <title lang="en">ERC Highlights - Royal Rally of Scandinavia</title>
     <desc lang="en">Enjoy highlights from the 74th season of the European Rally Championship</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260630053000 +0000" stop="20260630054500 +0000" channel="beinsports.unifitv">
-    <title lang="en">Stars of the Cup - Djibril Sow - Switzerland</title>
-    <desc lang="en">Stars of the Cup - Djibril Sow - Switzerland</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630054500 +0000" stop="20260630062000 +0000" channel="beinsports.unifitv">

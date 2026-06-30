@@ -4,10 +4,10 @@
     <programme start="20260630000000 +0000" stop="20260630003000 +0000" channel="VTV1 HD.mytv">
         <title> Cải cách hành chính: Sức trẻ trong cải cách hành chính </title>
     </programme>
-    <programme start="20260630003000 +0000" stop="20260630004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630003000 +0000" stop="20260630004400 +0000" channel="VTV1 HD.mytv">
         <title> Báo chí toàn cảnh </title>
     </programme>
-    <programme start="20260630004500 +0000" stop="20260630011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630004400 +0000" stop="20260630011000 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
     <programme start="20260630011000 +0000" stop="20260630020000 +0000" channel="VTV1 HD.mytv">
@@ -16,40 +16,40 @@
     <programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Người Thái ở Sơn La </title>
     </programme>
-    <programme start="20260630023000 +0000" stop="20260630024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630023000 +0000" stop="20260630024600 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Cảnh báo cong vẹo cột sống </title>
     </programme>
-    <programme start="20260630024500 +0000" stop="20260630033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630024600 +0000" stop="20260630033100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 31 </title>
     </programme>
-    <programme start="20260630033000 +0000" stop="20260630041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630033100 +0000" stop="20260630041200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 32 </title>
     </programme>
-    <programme start="20260630041500 +0000" stop="20260630050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630041200 +0000" stop="20260630050400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Người kể chuyện văn hóa Chăm ở Hội An </title>
     </programme>
-    <programme start="20260630050500 +0000" stop="20260630051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630050400 +0000" stop="20260630050900 +0000" channel="VTV1 HD.mytv">
         <title> Nhân đạo: Nhỏ bé phi thường </title>
     </programme>
-    <programme start="20260630051000 +0000" stop="20260630053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630050900 +0000" stop="20260630053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20260630053000 +0000" stop="20260630070000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260630070000 +0000" stop="20260630072500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630070000 +0000" stop="20260630072200 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20260630072500 +0000" stop="20260630073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630072200 +0000" stop="20260630072900 +0000" channel="VTV1 HD.mytv">
         <title> Phóng sự: Chính quyền cấp xã - Biến áp lực thành động lực phát triển </title>
     </programme>
-    <programme start="20260630073000 +0000" stop="20260630074500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630072900 +0000" stop="20260630074300 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Ngọc Chiến - Lời thì thầm của núi rừng </title>
     </programme>
-    <programme start="20260630074500 +0000" stop="20260630080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630074300 +0000" stop="20260630080500 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình trực tiếp: Hội nghị toàn quốc nghiên cứu, học tập, quán triệt và triển khai thực hiện Nghị quyết của Bộ Chính trị về phát triển kinh tế có vốn đầu tư nước ngoài </title>
     </programme>
-    <programme start="20260630080000 +0000" stop="20260630110000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260630080500 +0000" stop="20260630110000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20260630110000 +0000" stop="20260630114500 +0000" channel="VTV1 HD.mytv">

@@ -2407,7 +2407,10 @@
 <programme start="20260630170000 +0000" stop="20260630173000 +0000" channel="BBC_News_24.virginmediatv">
     <title>The World Today with Maryam Moshiri</title>
 </programme>
-<programme start="20260630173000 +0000" stop="20260630180000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260630173000 +0000" stop="20260630174500 +0000" channel="BBC_News_24.virginmediatv">
+    <title>The Iran War Today</title>
+</programme>
+<programme start="20260630174500 +0000" stop="20260630180000 +0000" channel="BBC_News_24.virginmediatv">
     <title>The World Today with Maryam Moshiri</title>
 </programme>
 <programme start="20260630000000 +0000" stop="20260630010000 +0000" channel="Sky_News_HD.virginmediatv">

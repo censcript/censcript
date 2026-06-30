@@ -37,6 +37,39 @@
 <programme start="20260630160000 +0000" stop="20260630171500 +0000" channel="RCTI.vision">
 <title>Semua Indah Karena Cinta</title>
 </programme>
+<programme start="20260630171500 +0000" stop="20260630183000 +0000" channel="RCTI.vision">
+<title>Ada Cinta Di Tempe Mendoan</title>
+</programme>
+<programme start="20260630183000 +0000" stop="20260630190000 +0000" channel="RCTI.vision">
+<title>Kutunggu Kau Di Parkiran Cinta</title>
+</programme>
+<programme start="20260630190000 +0000" stop="20260630200000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260630200000 +0000" stop="20260630211500 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260630211500 +0000" stop="20260630230000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260630230000 +0000" stop="20260701010000 +0000" channel="RCTI.vision">
+<title>Upin Ipin</title>
+</programme>
+<programme start="20260701010000 +0000" stop="20260701024500 +0000" channel="RCTI.vision">
+<title>Entong (RCTI)</title>
+</programme>
+<programme start="20260701024500 +0000" stop="20260701040000 +0000" channel="RCTI.vision">
+<title>Menantu Penguras Harta</title>
+</programme>
+<programme start="20260701040000 +0000" stop="20260701043000 +0000" channel="RCTI.vision">
+<title>Go Spot (RCTI)</title>
+</programme>
+<programme start="20260701043000 +0000" stop="20260701103000 +0000" channel="RCTI.vision">
+<title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260701103000 +0000" stop="20260701120000 +0000" channel="RCTI.vision">
+<title>Tobat Jatuh Cinta (RCTI)</title>
+</programme>
 <programme start="20260630000000 +0000" stop="20260630004500 +0000" channel="MNCTV.vision">
 <title>Dora &amp; Sahabat</title>
 </programme>
@@ -73,35 +106,47 @@
 <programme start="20260630160000 +0000" stop="20260630170000 +0000" channel="MNCTV.vision">
 <title>Sugar Daddy</title>
 </programme>
-<programme start="20260629230000 +0000" stop="20260630020000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<programme start="20260630170000 +0000" stop="20260630190000 +0000" channel="MNCTV.vision">
+<title>Suparman Reborn</title>
 </programme>
-<programme start="20260630020000 +0000" stop="20260630023000 +0000" channel="GTV.vision">
-<title>CoComelon Dan Sahabat</title>
+<programme start="20260630190000 +0000" stop="20260630230000 +0000" channel="MNCTV.vision">
+<title>Suparman Reborn</title>
 </programme>
-<programme start="20260630023000 +0000" stop="20260630030000 +0000" channel="GTV.vision">
-<title>Buletin iNews Pagi</title>
+<programme start="20260630230000 +0000" stop="20260630231500 +0000" channel="MNCTV.vision">
+<title>CoComelon</title>
 </programme>
-<programme start="20260630030000 +0000" stop="20260630050000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<programme start="20260630231500 +0000" stop="20260701000000 +0000" channel="MNCTV.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20260630050000 +0000" stop="20260630073000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260701000000 +0000" stop="20260701004500 +0000" channel="MNCTV.vision">
+<title>Dora &amp; Sahabat</title>
 </programme>
-<programme start="20260630073000 +0000" stop="20260630083000 +0000" channel="GTV.vision">
+<programme start="20260701004500 +0000" stop="20260701010000 +0000" channel="MNCTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260630083000 +0000" stop="20260630100000 +0000" channel="GTV.vision">
-<title>Super Deal Indonesia</title>
+<programme start="20260701010000 +0000" stop="20260701041500 +0000" channel="MNCTV.vision">
+<title>Upin dan Ipin (MNCTV)</title>
+</programme>
+<programme start="20260701041500 +0000" stop="20260701044500 +0000" channel="MNCTV.vision">
+<title>Lintas iNews Siang</title>
+</programme>
+<programme start="20260701044500 +0000" stop="20260701051500 +0000" channel="MNCTV.vision">
+<title>Seleb On News</title>
+</programme>
+<programme start="20260701051500 +0000" stop="20260701070000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260701070000 +0000" stop="20260701090000 +0000" channel="MNCTV.vision">
+<title>Upin dan Ipin (MNCTV)</title>
+</programme>
+<programme start="20260701090000 +0000" stop="20260701103000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260701103000 +0000" stop="20260701120000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260630100000 +0000" stop="20260630110000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260630110000 +0000" stop="20260630120000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
-</programme>
-<programme start="20260630120000 +0000" stop="20260630133000 +0000" channel="GTV.vision">
-<title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260630133000 +0000" stop="20260630153000 +0000" channel="GTV.vision">
 <title>Drive Angry</title>
@@ -111,6 +156,42 @@
 </programme>
 <programme start="20260630163000 +0000" stop="20260630183000 +0000" channel="GTV.vision">
 <title>1001 Kisah</title>
+</programme>
+<programme start="20260630183000 +0000" stop="20260630190000 +0000" channel="GTV.vision">
+<title>Ragam Cerita</title>
+</programme>
+<programme start="20260630190000 +0000" stop="20260630210000 +0000" channel="GTV.vision">
+<title>Ragam Cerita</title>
+</programme>
+<programme start="20260630210000 +0000" stop="20260630230000 +0000" channel="GTV.vision">
+<title>Petualangan Fantasi</title>
+</programme>
+<programme start="20260630230000 +0000" stop="20260701020000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
+</programme>
+<programme start="20260701020000 +0000" stop="20260701023000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260701023000 +0000" stop="20260701030000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260701030000 +0000" stop="20260701050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
+</programme>
+<programme start="20260701050000 +0000" stop="20260701073000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260701073000 +0000" stop="20260701083000 +0000" channel="GTV.vision">
+<title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260701083000 +0000" stop="20260701100000 +0000" channel="GTV.vision">
+<title>Super Deal Indonesia</title>
+</programme>
+<programme start="20260701100000 +0000" stop="20260701110000 +0000" channel="GTV.vision">
+<title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260701110000 +0000" stop="20260701120000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260629234500 +0000" stop="20260630001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -1416,85 +1497,4 @@
 </programme>
 <programme start="20260630040000 +0000" stop="20260630043000 +0000" channel="JAK TV.vision">
 <title>Cave And Cavern</title>
-</programme>
-<programme start="20260630043000 +0000" stop="20260630050000 +0000" channel="JAK TV.vision">
-<title>Ninjao</title>
-</programme>
-<programme start="20260630050000 +0000" stop="20260630060000 +0000" channel="JAK TV.vision">
-<title>Lejel</title>
-</programme>
-<programme start="20260630060000 +0000" stop="20260630063000 +0000" channel="JAK TV.vision">
-<title>Kiddies World</title>
-</programme>
-<programme start="20260630063000 +0000" stop="20260630070000 +0000" channel="JAK TV.vision">
-<title>Penghormatan Burung Kepada...</title>
-</programme>
-<programme start="20260630070000 +0000" stop="20260630080000 +0000" channel="JAK TV.vision">
-<title>Medika Natura</title>
-</programme>
-<programme start="20260630080000 +0000" stop="20260630090000 +0000" channel="JAK TV.vision">
-<title>The Youth Doctor</title>
-</programme>
-<programme start="20260630090000 +0000" stop="20260630093000 +0000" channel="JAK TV.vision">
-<title>Cooking Time</title>
-</programme>
-<programme start="20260630093000 +0000" stop="20260630100000 +0000" channel="JAK TV.vision">
-<title>My Health My Choice</title>
-</programme>
-<programme start="20260630100000 +0000" stop="20260630110000 +0000" channel="JAK TV.vision">
-<title>Jendela Tiongkok</title>
-</programme>
-<programme start="20260630110000 +0000" stop="20260630113000 +0000" channel="JAK TV.vision">
-<title>Muslimpedia</title>
-</programme>
-<programme start="20260630113000 +0000" stop="20260630120000 +0000" channel="JAK TV.vision">
-<title>The Cloth Story</title>
-</programme>
-<programme start="20260630120000 +0000" stop="20260630123000 +0000" channel="JAK TV.vision">
-<title>Ninjao</title>
-</programme>
-<programme start="20260630123000 +0000" stop="20260630130000 +0000" channel="JAK TV.vision">
-<title>Dunia Kita</title>
-</programme>
-<programme start="20260630130000 +0000" stop="20260630140000 +0000" channel="JAK TV.vision">
-<title>Three Queens</title>
-</programme>
-<programme start="20260630140000 +0000" stop="20260630150000 +0000" channel="JAK TV.vision">
-<title>Medika Natura</title>
-</programme>
-<programme start="20260630150000 +0000" stop="20260630153000 +0000" channel="JAK TV.vision">
-<title>Inovator</title>
-</programme>
-<programme start="20260630153000 +0000" stop="20260630160000 +0000" channel="JAK TV.vision">
-<title>Mirror Story</title>
-</programme>
-<programme start="20260630160000 +0000" stop="20260630170000 +0000" channel="JAK TV.vision">
-<title>Like A Flowing River</title>
-</programme>
-<programme start="20260629230000 +0000" stop="20260630010000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260630010000 +0000" stop="20260630030000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260630030000 +0000" stop="20260630050000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260630050000 +0000" stop="20260630070000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260630070000 +0000" stop="20260630090000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260630090000 +0000" stop="20260630110000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260630110000 +0000" stop="20260630130000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260630130000 +0000" stop="20260630150000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260630150000 +0000" stop="20260630170000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
 </programme>
