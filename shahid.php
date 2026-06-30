@@ -4738,9 +4738,6 @@
     <programme start="20260630000000 +0000" stop="20260701235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260630000000 +0000" stop="20260701235959 +0000" channel="49922763891977.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260630000000 +0000" stop="20260630003016 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 4 Episode 19</title>
     </programme>
@@ -4854,6 +4851,9 @@
     </programme>
     <programme start="20260701231429 +0000" stop="20260701235959 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 2 Episode 5</title>
+    </programme>
+    <programme start="20260630000000 +0000" stop="20260701235959 +0000" channel="49922763891977.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260630000000 +0000" stop="20260630000000 +0000" channel="387251.shahid">
         <title>Super Miro  </title>

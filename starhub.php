@@ -3164,7 +3164,7 @@
         <title>News</title>
     </programme>
     <programme start="20260630031500 +0000" stop="20260630033000 +0000" channel="DW English HD.starhub">
-        <title>The global industrial business model is breaking. Is software the answer?</title>
+        <title>Can software save the European economy?</title>
     </programme>
     <programme start="20260630033000 +0000" stop="20260630040000 +0000" channel="DW English HD.starhub">
         <title>Minefield Europe - The Return of a Banned Weapon</title>
@@ -3191,7 +3191,7 @@
         <title>News</title>
     </programme>
     <programme start="20260630061500 +0000" stop="20260630063000 +0000" channel="DW English HD.starhub">
-        <title>The global industrial business model is breaking. Is software the answer?</title>
+        <title>Can software save the European economy?</title>
     </programme>
     <programme start="20260630063000 +0000" stop="20260630070000 +0000" channel="DW English HD.starhub">
         <title>Deep dive into classical music</title>
@@ -3199,17 +3199,17 @@
     <programme start="20260630070000 +0000" stop="20260630070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260630070200 +0000" stop="20260630071500 +0000" channel="DW English HD.starhub">
+    <programme start="20260630070200 +0000" stop="20260630071700 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260630071500 +0000" stop="20260630080000 +0000" channel="DW English HD.starhub">
+    <programme start="20260630071700 +0000" stop="20260630080000 +0000" channel="DW English HD.starhub">
         <title>Operation Barbarossa - War of Annihilation - Part 2 - Winter</title>
     </programme>
     <programme start="20260630080000 +0000" stop="20260630080200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260630080200 +0000" stop="20260630083000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Why Gen Z men are embracing Catholicism in the US</title>
     </programme>
     <programme start="20260630083000 +0000" stop="20260630090000 +0000" channel="DW English HD.starhub">
         <title>What if pollution isn&#039;t what you think it is?</title>
@@ -3236,7 +3236,7 @@
         <title>News</title>
     </programme>
     <programme start="20260630110200 +0000" stop="20260630113000 +0000" channel="DW English HD.starhub">
-        <title>PFAS in water: New solutions and recycling in focus</title>
+        <title>US Iran talks, again?!</title>
     </programme>
     <programme start="20260630113000 +0000" stop="20260630120000 +0000" channel="DW English HD.starhub">
         <title>Sleep smarter: How your body clock shapes your health</title>

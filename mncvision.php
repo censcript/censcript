@@ -3017,7 +3017,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260630080200 +0000" stop="20260630083000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Catholicism</title>
 </programme>
 <programme start="20260630083000 +0000" stop="20260630090000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: The Environment</title>
