@@ -1364,13 +1364,13 @@
         <title>Pistha (2022)</title>
     </programme>
     <programme start="20260630210000 +0000" stop="20260630213000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260630213000 +0000" stop="20260630220000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
     </programme>
     <programme start="20260630220000 +0000" stop="20260630223000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malarmalar</title>
+        <title>Malar</title>
     </programme>
     <programme start="20260630223000 +0000" stop="20260630230000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Mahabharatham</title>
@@ -1385,13 +1385,13 @@
         <title>Perazhagi</title>
     </programme>
     <programme start="20260701003000 +0000" stop="20260701010000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260701010000 +0000" stop="20260701013000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260701013000 +0000" stop="20260701020000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malarmalar</title>
+        <title>Malar</title>
     </programme>
     <programme start="20260701020000 +0000" stop="20260701050000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Goli Soda 2</title>
@@ -1406,13 +1406,13 @@
         <title>Jiivi 2</title>
     </programme>
     <programme start="20260701090000 +0000" stop="20260701093000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260701093000 +0000" stop="20260701100000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260701100000 +0000" stop="20260701103000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malarmalar</title>
+        <title>Malar</title>
     </programme>
     <programme start="20260701103000 +0000" stop="20260701110000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Mahabharatham</title>
@@ -1427,13 +1427,13 @@
         <title>Perazhagi</title>
     </programme>
     <programme start="20260701123000 +0000" stop="20260701130000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260701130000 +0000" stop="20260701133000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sillunu Oru Kaadhalsillunu Oru Kaadhal</title>
+        <title>Sillunu Oru Kaadhal</title>
     </programme>
     <programme start="20260701133000 +0000" stop="20260701140000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Malarmalar</title>
+        <title>Malar</title>
     </programme>
     <programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>

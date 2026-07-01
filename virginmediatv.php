@@ -403,8 +403,11 @@
 <programme start="20260701124500 +0000" stop="20260701130000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC News at One</title>
 </programme>
-<programme start="20260701130000 +0000" stop="20260701150000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260701130000 +0000" stop="20260701145500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 3</title>
+</programme>
+<programme start="20260701145500 +0000" stop="20260701150000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>DEC Venezuela Earthquake Appeal</title>
 </programme>
 <programme start="20260701150000 +0000" stop="20260701183000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: MOTD FIFA World Cup 2026 - Round of 32: England v Congo DR</title>
@@ -2374,11 +2377,8 @@
 <programme start="20260701134500 +0000" stop="20260701140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
-</programme>
-<programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
+<programme start="20260701140000 +0000" stop="20260701150000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20260701150000 +0000" stop="20260701153000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -4102,10 +4102,10 @@
 <programme start="20260701050000 +0000" stop="20260701060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260701100000 +0000" stop="20260701170000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260701100000 +0000" stop="20260701160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Matchday - Round of 32: England v DR Congo</title>
 </programme>
-<programme start="20260701170000 +0000" stop="20260701180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260701160000 +0000" stop="20260701180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Matchday - Round of 32: England v DR Congo</title>
 </programme>
 <programme start="20260701000000 +0000" stop="20260701010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
@@ -4924,10 +4924,10 @@
 <programme start="20260701050000 +0000" stop="20260701060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260701100000 +0000" stop="20260701170000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260701100000 +0000" stop="20260701160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Matchday - Round of 32: England v DR Congo</title>
 </programme>
-<programme start="20260701170000 +0000" stop="20260701180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260701160000 +0000" stop="20260701180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Matchday - Round of 32: England v DR Congo</title>
 </programme>
 <programme start="20260701000000 +0000" stop="20260701010000 +0000" channel="Sky_Sports_News.virginmediatv">

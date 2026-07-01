@@ -15528,7 +15528,7 @@
   </channel>
   <programme start="20260630140000 +0000" stop="20260630195500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Fiziev vs. Torres - Main</title>
-    <desc lang="en">All-action lightweights headline UFC’s return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
+    <desc lang="en">All-action lightweights headline UFC's return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630195500 +0000" stop="20260630200000 +0000" channel="unifisports1.unifitv">
@@ -15538,7 +15538,7 @@
   </programme>
   <programme start="20260630200000 +0000" stop="20260701010000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Kape vs. Horiguchi - Main</title>
-    <desc lang="en">A crucial matchup between flyweight contenders headlines UFC’s return to action at the Meta APEX in Las Vegas on Saturday, June 21 as second-ranked contender Manel “Starboy” Kape faces off with fifthranked Kyoji Horiguchi. A winner of seven of his last eight appearances and each of his last three outings, Kape makes his 2026 debut off a first-round knockout win over former title challenger Brandon Royval last December in the same building. A title challenger during his first stint with the promotion, Horiuchi has earned back-to-back wins since returning to the UFC last November and looks to cement his standing as a contender with a third straight standout performance.</desc>
+    <desc lang="en">A crucial matchup between flyweight contenders headlines UFC's return to action at the Meta APEX in Las Vegas on Saturday, June 21 as second-ranked contender Manel “Starboy” Kape faces off with fifthranked Kyoji Horiguchi. A winner of seven of his last eight appearances and each of his last three outings, Kape makes his 2026 debut off a first-round knockout win over former title challenger Brandon Royval last December in the same building. A title challenger during his first stint with the promotion, Horiuchi has earned back-to-back wins since returning to the UFC last November and looks to cement his standing as a contender with a third straight standout performance.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260701010000 +0000" stop="20260701015500 +0000" channel="unifisports1.unifitv">
@@ -15552,8 +15552,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260701020000 +0000" stop="20260701042500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 - SEMI-FINALS 1 - MALAYSIA vs INDONESIA  - (TEAM)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">TM ISTAF World Cup 2026 - SEMI-FINALS 1 - MALAYSIA vs INDONESIA - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260701042500 +0000" stop="20260701043000 +0000" channel="unifisports1.unifitv">
@@ -15563,7 +15563,7 @@
   </programme>
   <programme start="20260701043000 +0000" stop="20260701055500 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - FINAL - INDIA vs MALAYSIA - (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260701055500 +0000" stop="20260701060000 +0000" channel="unifisports1.unifitv">
@@ -15588,7 +15588,7 @@
   </programme>
   <programme start="20260701093000 +0000" stop="20260701100000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Flashback - 1101 - Gaethje vs Holloway</title>
-    <desc lang="en">UFC 300 was not only a milestone event for the world’s leading MMA organization but featured a highly anticipated bout between Justin Gaethje and Max Holloway as they battled for the “BMF” belt and the title of the “baddest” fighter on the planet. See their fight like never seen before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <desc lang="en">UFC 300 was not only a milestone event for the world's leading MMA organization but featured a highly anticipated bout between Justin Gaethje and Max Holloway as they battled for the “BMF” belt and the title of the “baddest” fighter on the planet. See their fight like never seen before with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260701100000 +0000" stop="20260701123000 +0000" channel="unifisports1.unifitv">
@@ -15613,7 +15613,7 @@
   </programme>
   <programme start="20260701140000 +0000" stop="20260701195500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Fiziev vs. Torres - Main</title>
-    <desc lang="en">All-action lightweights headline UFC’s return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
+    <desc lang="en">All-action lightweights headline UFC's return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
     <category lang="en">Sports</category>
   </programme>
 </tv>
