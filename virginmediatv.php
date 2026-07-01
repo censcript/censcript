@@ -52,17 +52,17 @@
 <programme start="20260701120000 +0000" stop="20260701124500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News: One O&#039;Clock</title>
 </programme>
-<programme start="20260701124500 +0000" stop="20260701142000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260701124500 +0000" stop="20260701144000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>EU Presidency Opening Ceremony</title>
 </programme>
-<programme start="20260701142000 +0000" stop="20260701145000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260701144000 +0000" stop="20260701151000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Home and Away</title>
 </programme>
-<programme start="20260701145000 +0000" stop="20260701151500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260701151000 +0000" stop="20260701153500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Shortland Street</title>
 </programme>
-<programme start="20260701151500 +0000" stop="20260701154500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Fair City</title>
+<programme start="20260701153500 +0000" stop="20260701154500 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>Donal&#039;s Soul Food Shorts</title>
 </programme>
 <programme start="20260701154500 +0000" stop="20260701164000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>MasterChef Australia</title>
@@ -328,17 +328,17 @@
 <programme start="20260701130000 +0000" stop="20260701134500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>RTÉ News: One O&#039;Clock</title>
 </programme>
-<programme start="20260701134500 +0000" stop="20260701152000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260701134500 +0000" stop="20260701154000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>EU Presidency Opening Ceremony</title>
 </programme>
-<programme start="20260701152000 +0000" stop="20260701155000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260701154000 +0000" stop="20260701161000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Home and Away</title>
 </programme>
-<programme start="20260701155000 +0000" stop="20260701161500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260701161000 +0000" stop="20260701163500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Shortland Street</title>
 </programme>
-<programme start="20260701161500 +0000" stop="20260701164500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Fair City</title>
+<programme start="20260701163500 +0000" stop="20260701164500 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Donal&#039;s Soul Food Shorts</title>
 </programme>
 <programme start="20260701164500 +0000" stop="20260701174000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>MasterChef Australia</title>
@@ -2308,7 +2308,16 @@
 <programme start="20260701124500 +0000" stop="20260701141000 +0000" channel="RTE_News_Now.virginmediatv">
     <title>EU Presidency Opening Ceremony</title>
 </programme>
-<programme start="20260701141000 +0000" stop="20260701164000 +0000" channel="RTE_News_Now.virginmediatv">
+<programme start="20260701141000 +0000" stop="20260701150000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Latest News and Weather</title>
+</programme>
+<programme start="20260701150000 +0000" stop="20260701160000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Latest News and Weather</title>
+</programme>
+<programme start="20260701160000 +0000" stop="20260701161000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Nuacht</title>
+</programme>
+<programme start="20260701161000 +0000" stop="20260701164000 +0000" channel="RTE_News_Now.virginmediatv">
     <title>Latest News and Weather</title>
 </programme>
 <programme start="20260701164000 +0000" stop="20260701165500 +0000" channel="RTE_News_Now.virginmediatv">
@@ -6382,7 +6391,10 @@
 <programme start="20260630175800 +0000" stop="20260701015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260701015800 +0000" stop="20260701060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260701015800 +0000" stop="20260701050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260701050000 +0000" stop="20260701060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260701114500 +0000" stop="20260701121000 +0000" channel="CBBC.virginmediatv">

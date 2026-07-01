@@ -685,9 +685,6 @@
 <programme start="20260701090000 +0000" stop="20260701110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260701150000 +0000" stop="20260701170000 +0000" channel="ANTV.vision">
-<title>Tahu Diri Dong</title>
-</programme>
 <programme start="20260701170000 +0000" stop="20260701190000 +0000" channel="ANTV.vision">
 <title>Star Abyss</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260702003000 +0000" stop="20260702010000 +0000" channel="BTV.vision">
 <title>Anak Hebat</title>
+</programme>
+<programme start="20260702010000 +0000" stop="20260702010500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>
