@@ -16261,14 +16261,29 @@
   <programme start="20260703030000 +0000" stop="20260703031500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260703031500 +0000" stop="20260703040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260703031500 +0000" stop="20260703033000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Point of no return (6)</title>
+  </programme>
+  <programme start="20260703033000 +0000" stop="20260703033500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
+  </programme>
+  <programme start="20260703033500 +0000" stop="20260703035500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Point of no return (7)</title>
+  </programme>
+  <programme start="20260703035500 +0000" stop="20260703040000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260703040000 +0000" stop="20260703043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260703043000 +0000" stop="20260703050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260703043000 +0000" stop="20260703045000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Poland 4.0 (5)</title>
+  </programme>
+  <programme start="20260703045000 +0000" stop="20260703045500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Online</title>
+  </programme>
+  <programme start="20260703045500 +0000" stop="20260703050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260703050000 +0000" stop="20260703051000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16417,8 +16432,14 @@
   <programme start="20260703141500 +0000" stop="20260703143000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1848)</title>
   </programme>
-  <programme start="20260703143000 +0000" stop="20260703150000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260703143000 +0000" stop="20260703143500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Online</title>
+  </programme>
+  <programme start="20260703143500 +0000" stop="20260703145500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Poland 4.0 (5)</title>
+  </programme>
+  <programme start="20260703145500 +0000" stop="20260703150000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260703150000 +0000" stop="20260703151000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>

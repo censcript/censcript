@@ -30,38 +30,53 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701010000 +0000" stop="20260701050000 +0000" channel="fifa1.unifitv">
+  <programme start="20260701010000 +0000" stop="20260701043000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) France vs Sweden : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701050000 +0000" stop="20260701053000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 1 - Mexico City : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260701053000 +0000" stop="20260701060000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 2 - Miami : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260701060000 +0000" stop="20260701100000 +0000" channel="fifa1.unifitv">
-    <title lang="en">(R) France vs Sweden : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260701100000 +0000" stop="20260701103000 +0000" channel="fifa1.unifitv">
+  <programme start="20260701043000 +0000" stop="20260701050000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 3 - Vancouver : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701103000 +0000" stop="20260701143000 +0000" channel="fifa1.unifitv">
+  <programme start="20260701050000 +0000" stop="20260701083000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) France vs Sweden : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="fifa1.unifitv">
+  <programme start="20260701083000 +0000" stop="20260701090000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 1 - Mexico City : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260701090000 +0000" stop="20260701123000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) France vs Sweden : FIFA World Cup™ 2026 Round of 32</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260701123000 +0000" stop="20260701130000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 1 - Mexico City : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260701130000 +0000" stop="20260701133000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 2 - Miami : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260701133000 +0000" stop="20260701140000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 3 - Vancouver : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 1 - Mexico City : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 2 - Miami : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -89,7 +104,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260630203000 +0000" stop="20260630233000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Egypt vs Iran : FIFA World Cup™ 2026 Round of 32</title>
+    <title lang="en">(R) Egypt vs Iran : FIFA World Cup™ 2026</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -98,53 +113,38 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701000000 +0000" stop="20260701040000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701000000 +0000" stop="20260701050000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) Mexico vs Ecuador : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 9:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701040000 +0000" stop="20260701043000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701050000 +0000" stop="20260701053000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701043000 +0000" stop="20260701050000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701053000 +0000" stop="20260701060000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701050000 +0000" stop="20260701090000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701060000 +0000" stop="20260701110000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Ivory Coast vs Norway : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701090000 +0000" stop="20260701093000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701110000 +0000" stop="20260701113000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701093000 +0000" stop="20260701100000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701113000 +0000" stop="20260701120000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260701100000 +0000" stop="20260701140000 +0000" channel="fifa2.unifitv">
+  <programme start="20260701120000 +0000" stop="20260701170000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Mexico vs Ecuador: FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260701150000 +0000" stop="20260701183000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Brazil vs Japan : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -1477,12 +1477,7 @@
     <desc lang="en">WTT United States Smash brings the world's elite table tennis players together for one of the sport's premier events, delivering high-intensity matches and unforgettable moments on the global stage.</desc>
     <category lang="en">Table Tennis</category>
   </programme>
-  <programme start="20260701050000 +0000" stop="20260701053000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 Global Champions League, Paris - Highlights</title>
-    <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-    <category lang="en">Extreme Sports</category>
-  </programme>
-  <programme start="20260701053000 +0000" stop="20260701115500 +0000" channel="spotv2.unifitv">
+  <programme start="20260701050000 +0000" stop="20260701115500 +0000" channel="spotv2.unifitv">
     <title lang="en">The Championships, Wimbledon 2026 - Day 2 First Round (No.1 Court)</title>
     <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
     <category lang="en">Tennis</category>
@@ -1986,10 +1981,10 @@
   </programme>
   <programme start="20260701113000 +0000" stop="20260701120000 +0000" channel="inspirasi.unifitv">
     <title lang="en">TRENDSETTER</title>
-    <desc lang="en">Trendsetter adalah rancangan mengenai trend fesyen dan gaya hidup. Kini kembali dalam musim terbaru bersama pengacara Zakuan Zainal. Episod kalini menampilkan 'Kedai Suza' dalam segmen Usha Kedai, Gaya Kerjaya 'Intan Serah' dan Bedah Kotak Aegis - SneakerLAH Wayang Loafers</desc>
+    <desc lang="en">Trendsetter adalah rancangan mengenai trend fesyen dan gaya hidup. Kini kembali dalam musim terbaru bersama pengacara Zakuan Zainal. Episod kalini menampilkan 'Icon Luxe' dalam segmen Usha Kedai, Gaya Kerjaya 'Pele L' dan Bedah Kotak AApparel - Denim Jeans</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">8.9.</episode-num>
-    <episode-num system="onscreen">S9E10</episode-num>
+    <episode-num system="xmltv_ns">8.8.</episode-num>
+    <episode-num system="onscreen">S9E9</episode-num>
   </programme>
   <programme start="20260701120000 +0000" stop="20260701130000 +0000" channel="inspirasi.unifitv">
     <title lang="en">KLTV 2026</title>

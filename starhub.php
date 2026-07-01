@@ -3211,6 +3211,18 @@
     <programme start="20260701153000 +0000" stop="20260701160000 +0000" channel="DW English HD.starhub">
         <title>The Environment Magazine</title>
     </programme>
+    <programme start="20260630160000 +0000" stop="20260630220000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20260630220000 +0000" stop="20260701040000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20260701040000 +0000" stop="20260701100000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
+    <programme start="20260701100000 +0000" stop="20260701160000 +0000" channel="Preview Channel.starhub">
+        <title>Preview Channel</title>
+    </programme>
     <programme start="20260630160000 +0000" stop="20260630170000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Intercontinental Express (1/7/26)</title>
     </programme>
