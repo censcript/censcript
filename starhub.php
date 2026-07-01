@@ -7831,10 +7831,7 @@
     <programme start="20260701010000 +0000" stop="20260701050000 +0000" channel="SPOTV2.starhub">
         <title>Day 3 Session 2</title>
     </programme>
-    <programme start="20260701050000 +0000" stop="20260701053000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20260701053000 +0000" stop="20260701115500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260701050000 +0000" stop="20260701115500 +0000" channel="SPOTV2.starhub">
         <title>Day 2 First Round (No.1 Court)</title>
     </programme>
     <programme start="20260701115500 +0000" stop="20260701200000 +0000" channel="SPOTV2.starhub">

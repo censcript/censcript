@@ -3286,28 +3286,28 @@
   <programme start="20260703215500 +0000" stop="20260703222200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
-  <programme start="20260702212100 +0000" stop="20260702221600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260702212000 +0000" stop="20260702221500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">S kuchařem kolem světa</title>
   </programme>
-  <programme start="20260702221600 +0000" stop="20260702231000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260702221500 +0000" stop="20260702231000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Pád Habsburků</title>
   </programme>
   <programme start="20260702231000 +0000" stop="20260702233600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Křesťanský magazín</title>
   </programme>
-  <programme start="20260702233600 +0000" stop="20260702234300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260702233600 +0000" stop="20260702234200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Divnopis</title>
   </programme>
-  <programme start="20260702234300 +0000" stop="20260703002600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260702234200 +0000" stop="20260703002500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na moll</title>
   </programme>
-  <programme start="20260703002600 +0000" stop="20260703004800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260703002500 +0000" stop="20260703004800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Kuželovský rodák Jan Pavlík</title>
   </programme>
-  <programme start="20260703004800 +0000" stop="20260703010300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260703004800 +0000" stop="20260703010200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Masada</title>
   </programme>
-  <programme start="20260703010300 +0000" stop="20260703013000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260703010200 +0000" stop="20260703013000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Jídlo s ručením omezeným</title>
   </programme>
   <programme start="20260703013000 +0000" stop="20260703015800 +0000" channel="ČT2.webtv.sk">
@@ -3322,10 +3322,10 @@
   <programme start="20260703025200 +0000" stop="20260703031900 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Žiješ jenom 2x (11/16)</title>
   </programme>
-  <programme start="20260703031900 +0000" stop="20260703034500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260703031900 +0000" stop="20260703034600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">K poctě zbraň! (1/8)</title>
   </programme>
-  <programme start="20260703034500 +0000" stop="20260703035900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260703034600 +0000" stop="20260703035900 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20260703035900 +0000" stop="20260703062500 +0000" channel="ČT2.webtv.sk">
@@ -8932,19 +8932,16 @@
   <programme start="20260703215500 +0000" stop="20260703224500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Walker, Texas Ranger II (15)</title>
   </programme>
-  <programme start="20260702200500 +0000" stop="20260702221500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Víc než podezření</title>
-  </programme>
-  <programme start="20260702221500 +0000" stop="20260702235000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260702213000 +0000" stop="20260702221500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Dokonalá skrýš</title>
   </programme>
-  <programme start="20260702235000 +0000" stop="20260703012500 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260702230500 +0000" stop="20260703004000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Vrátná</title>
   </programme>
-  <programme start="20260703012500 +0000" stop="20260703025500 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260703004000 +0000" stop="20260703020500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Kontraband</title>
   </programme>
-  <programme start="20260703025500 +0000" stop="20260703042000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260703020500 +0000" stop="20260703042000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260703042000 +0000" stop="20260703050500 +0000" channel="FilmBox.webtv.sk">

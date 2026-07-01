@@ -3790,7 +3790,10 @@
 <programme start="20260701030000 +0000" stop="20260701040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260701040000 +0000" stop="20260701060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260701040000 +0000" stop="20260701050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260701050000 +0000" stop="20260701060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260701120000 +0000" stop="20260701130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4612,7 +4615,10 @@
 <programme start="20260701030000 +0000" stop="20260701040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260701040000 +0000" stop="20260701060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260701040000 +0000" stop="20260701050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260701050000 +0000" stop="20260701060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260701120000 +0000" stop="20260701130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
