@@ -7714,37 +7714,37 @@
 <programme start="20260701000000 +0000" stop="20260701013000 +0000" channel="SCTV.mncvision">
     <title>Ratu Selendang Mayang Sejagat</title>
 </programme>
-<programme start="20260701013000 +0000" stop="20260701030000 +0000" channel="SCTV.mncvision">
+<programme start="20260701013000 +0000" stop="20260701030500 +0000" channel="SCTV.mncvision">
     <title>Pacar Gue Bukan Cewek Gedongan</title>
 </programme>
-<programme start="20260701030000 +0000" stop="20260701050000 +0000" channel="SCTV.mncvision">
+<programme start="20260701030500 +0000" stop="20260701050000 +0000" channel="SCTV.mncvision">
     <title>Putus Cinta Feeling Gud Lakasud</title>
 </programme>
-<programme start="20260701050000 +0000" stop="20260701053000 +0000" channel="SCTV.mncvision">
+<programme start="20260701050000 +0000" stop="20260701053400 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260701053000 +0000" stop="20260701070000 +0000" channel="SCTV.mncvision">
-    <title>Miss Mendoan Jadi Idaman</title>
+<programme start="20260701053400 +0000" stop="20260701071200 +0000" channel="SCTV.mncvision">
+    <title>Kuwa-Kuwi Cintamu Bangkit...</title>
 </programme>
-<programme start="20260701070000 +0000" stop="20260701083000 +0000" channel="SCTV.mncvision">
+<programme start="20260701071200 +0000" stop="20260701085100 +0000" channel="SCTV.mncvision">
     <title>Daycare Cinta Mbak Crush</title>
 </programme>
-<programme start="20260701083000 +0000" stop="20260701101500 +0000" channel="SCTV.mncvision">
-    <title>Sepupu Metal Bikin Cinta Brutal</title>
+<programme start="20260701085100 +0000" stop="20260701102900 +0000" channel="SCTV.mncvision">
+    <title>Pacar Trial Nona Es Kelapa Muda</title>
 </programme>
-<programme start="20260701101500 +0000" stop="20260701114500 +0000" channel="SCTV.mncvision">
+<programme start="20260701102900 +0000" stop="20260701115700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260701114500 +0000" stop="20260701131500 +0000" channel="SCTV.mncvision">
+<programme start="20260701115700 +0000" stop="20260701133400 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260701131500 +0000" stop="20260701144500 +0000" channel="SCTV.mncvision">
+<programme start="20260701133400 +0000" stop="20260701145500 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260701144500 +0000" stop="20260701160000 +0000" channel="SCTV.mncvision">
+<programme start="20260701145500 +0000" stop="20260701162300 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260701160000 +0000" stop="20260701163000 +0000" channel="SCTV.mncvision">
+<programme start="20260701162300 +0000" stop="20260701165300 +0000" channel="SCTV.mncvision">
     <title>Terungkap Cinta Bodyguard...</title>
 </programme>
 <programme start="20260630180900 +0000" stop="20260630190200 +0000" channel="SCTV HD.mncvision">
@@ -7771,37 +7771,37 @@
 <programme start="20260701000000 +0000" stop="20260701013000 +0000" channel="SCTV HD.mncvision">
     <title>Ratu Selendang Mayang Sejagat</title>
 </programme>
-<programme start="20260701013000 +0000" stop="20260701030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701013000 +0000" stop="20260701030500 +0000" channel="SCTV HD.mncvision">
     <title>Pacar Gue Bukan Cewek Gedongan</title>
 </programme>
-<programme start="20260701030000 +0000" stop="20260701050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701030500 +0000" stop="20260701050000 +0000" channel="SCTV HD.mncvision">
     <title>Putus Cinta Feeling Gud Lakasud</title>
 </programme>
-<programme start="20260701050000 +0000" stop="20260701053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701050000 +0000" stop="20260701053400 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260701053000 +0000" stop="20260701070000 +0000" channel="SCTV HD.mncvision">
-    <title>Miss Mendoan Jadi Idaman</title>
+<programme start="20260701053400 +0000" stop="20260701071200 +0000" channel="SCTV HD.mncvision">
+    <title>Kuwa-Kuwi Cintamu Bangkit...</title>
 </programme>
-<programme start="20260701070000 +0000" stop="20260701083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701071200 +0000" stop="20260701085100 +0000" channel="SCTV HD.mncvision">
     <title>Daycare Cinta Mbak Crush</title>
 </programme>
-<programme start="20260701083000 +0000" stop="20260701101500 +0000" channel="SCTV HD.mncvision">
-    <title>Sepupu Metal Bikin Cinta Brutal</title>
+<programme start="20260701085100 +0000" stop="20260701102900 +0000" channel="SCTV HD.mncvision">
+    <title>Pacar Trial Nona Es Kelapa Muda</title>
 </programme>
-<programme start="20260701101500 +0000" stop="20260701114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701102900 +0000" stop="20260701115700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260701114500 +0000" stop="20260701131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701115700 +0000" stop="20260701133400 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260701131500 +0000" stop="20260701144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701133400 +0000" stop="20260701145500 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260701144500 +0000" stop="20260701160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701145500 +0000" stop="20260701162300 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260701160000 +0000" stop="20260701163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260701162300 +0000" stop="20260701165300 +0000" channel="SCTV HD.mncvision">
     <title>Terungkap Cinta Bodyguard...</title>
 </programme>
 <programme start="20260630170000 +0000" stop="20260630180000 +0000" channel="Sindo News TV.mncvision">
