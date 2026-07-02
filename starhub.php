@@ -3023,7 +3023,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20260701233000 +0000" stop="20260702000000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Home for queer seniors embraces seniors</title>
     </programme>
     <programme start="20260702000000 +0000" stop="20260702000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3032,7 +3032,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260702003000 +0000" stop="20260702010000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Deep dive into classical music</title>
     </programme>
     <programme start="20260702010000 +0000" stop="20260702010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3050,7 +3050,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260702023000 +0000" stop="20260702030000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Progress and pressure: Who wins in the new world of work</title>
     </programme>
     <programme start="20260702030000 +0000" stop="20260702030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3059,10 +3059,10 @@
         <title>News</title>
     </programme>
     <programme start="20260702031500 +0000" stop="20260702033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why exercise alone won’t make you lose fat</title>
     </programme>
     <programme start="20260702033000 +0000" stop="20260702040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Beating India&#039;s heat - with an ancient cooling hack</title>
     </programme>
     <programme start="20260702040000 +0000" stop="20260702040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3080,7 +3080,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260702053000 +0000" stop="20260702060000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Home for queer seniors embraces seniors</title>
     </programme>
     <programme start="20260702060000 +0000" stop="20260702060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3089,7 +3089,7 @@
         <title>News</title>
     </programme>
     <programme start="20260702061500 +0000" stop="20260702063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Why exercise alone won’t make you lose fat</title>
     </programme>
     <programme start="20260702063000 +0000" stop="20260702070000 +0000" channel="DW English HD.starhub">
         <title>Romania - Torn Between Work and Home</title>
@@ -3104,10 +3104,10 @@
         <title>News</title>
     </programme>
     <programme start="20260702080200 +0000" stop="20260702083000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Progress and pressure: Who wins in the new world of work</title>
     </programme>
     <programme start="20260702083000 +0000" stop="20260702090000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Home for queer seniors embraces seniors</title>
     </programme>
     <programme start="20260702090000 +0000" stop="20260702090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3134,10 +3134,10 @@
         <title>News</title>
     </programme>
     <programme start="20260702111500 +0000" stop="20260702113000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>From Child Bride to Bodybuilding Champion</title>
     </programme>
     <programme start="20260702113000 +0000" stop="20260702120000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Home for queer seniors embraces seniors</title>
     </programme>
     <programme start="20260702120000 +0000" stop="20260702120300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3152,7 +3152,7 @@
         <title>News</title>
     </programme>
     <programme start="20260702131500 +0000" stop="20260702133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Interview with Albanian PM Edi Rama: &#039;There is no breakdown of trust in Albania&#039;</title>
     </programme>
     <programme start="20260702133000 +0000" stop="20260702140000 +0000" channel="DW English HD.starhub">
         <title>The Global Auto and Mobility Show</title>
@@ -3170,7 +3170,7 @@
         <title>News</title>
     </programme>
     <programme start="20260702153000 +0000" stop="20260702160000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>News</title>
     </programme>
     <programme start="20260701160000 +0000" stop="20260701220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -7235,13 +7235,13 @@
         <title>Verified Live</title>
     </programme>
     <programme start="20260701144000 +0000" stop="20260701163000 +0000" channel="Premier Sports.starhub">
-        <title>International Rugby Barbarians v South Africa</title>
+        <title>Nations Championship South Africa v Barbarians</title>
     </programme>
     <programme start="20260701163000 +0000" stop="20260701173000 +0000" channel="Premier Sports.starhub">
         <title>NRL Try Time</title>
     </programme>
     <programme start="20260701173000 +0000" stop="20260701192000 +0000" channel="Premier Sports.starhub">
-        <title>Super Rugby Grand Final</title>
+        <title>Super Rugby Hurricanes v Chiefs</title>
     </programme>
     <programme start="20260701192000 +0000" stop="20260701195000 +0000" channel="Premier Sports.starhub">
         <title>5 and 6 Nations Classics 2002 - Wales v France</title>
@@ -7262,7 +7262,7 @@
         <title>5 &amp; 6 Nations Classic Tries</title>
     </programme>
     <programme start="20260702025000 +0000" stop="20260702045000 +0000" channel="Premier Sports.starhub">
-        <title>Premiership Rugby Grand Final</title>
+        <title>Premiership Rugby Northampton v Exeter</title>
     </programme>
     <programme start="20260702045000 +0000" stop="20260702064000 +0000" channel="Premier Sports.starhub">
         <title>URC Leinster v Bulls</title>
@@ -7274,7 +7274,7 @@
         <title>5 and 6 Nations Classics 2014 - France v Ireland</title>
     </programme>
     <programme start="20260702090000 +0000" stop="20260702105000 +0000" channel="Premier Sports.starhub">
-        <title>Super Rugby Grand Final</title>
+        <title>Super Rugby Hurricanes v Chiefs</title>
     </programme>
     <programme start="20260702105000 +0000" stop="20260702111000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights Brisbane v Sydney</title>
@@ -7681,10 +7681,10 @@
     <programme start="20260701163000 +0000" stop="20260701193000 +0000" channel="Asianet Movies.starhub">
         <title>Karyasthan</title>
     </programme>
-    <programme start="20260701193000 +0000" stop="20260701213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260701193000 +0000" stop="20260701220500 +0000" channel="Asianet Movies.starhub">
         <title>Rakshadhikari Baiju Oppu</title>
     </programme>
-    <programme start="20260701213000 +0000" stop="20260701233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260701220500 +0000" stop="20260701233000 +0000" channel="Asianet Movies.starhub">
         <title>Kilipoyi</title>
     </programme>
     <programme start="20260701233000 +0000" stop="20260702013000 +0000" channel="Asianet Movies.starhub">
@@ -9128,98 +9128,98 @@
         <title>No Transmission</title>
     </programme>
     <programme start="20260701160000 +0000" stop="20260701162000 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: IRE vs IND, 2nd T20I</title>
+        <title>Highlights: IRE vs IND, 2nd T20I</title>
     </programme>
     <programme start="20260701162000 +0000" stop="20260701203200 +0000" channel="Cricbuzz.starhub">
         <title>LIVE: ENG vs IND, 1st T20I</title>
     </programme>
     <programme start="20260701203200 +0000" stop="20260701210400 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M36: RR vs SRH</title>
+        <title>Highlights: M36: RR vs SRH</title>
     </programme>
     <programme start="20260701210400 +0000" stop="20260701213500 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M52: RR vs GT</title>
+        <title>Highlights: M52: RR vs GT</title>
     </programme>
     <programme start="20260701213500 +0000" stop="20260701220000 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: NZ vs SA, 5th T20I</title>
+        <title>Highlights: NZ vs SA, 5th T20I</title>
     </programme>
     <programme start="20260701220000 +0000" stop="20260701221700 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M39: DC vs RCB</title>
+        <title>Highlights: M39: DC vs RCB</title>
     </programme>
     <programme start="20260701221700 +0000" stop="20260701224800 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M55: PBKS vs DC</title>
+        <title>Highlights: M55: PBKS vs DC</title>
     </programme>
     <programme start="20260701224800 +0000" stop="20260701231200 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M57: RCB vs KKR</title>
+        <title>Highlights: M57: RCB vs KKR</title>
     </programme>
     <programme start="20260701231200 +0000" stop="20260701233600 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M14: LAKR vs SO</title>
+        <title>Highlights: M14: LAKR vs SO</title>
     </programme>
     <programme start="20260701233600 +0000" stop="20260702000100 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: IRE vs IND, 1st T20I</title>
+        <title>Highlights: IRE vs IND, 1st T20I</title>
     </programme>
     <programme start="20260702000100 +0000" stop="20260702003600 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: IND vs AFG, 3rd ODI</title>
+        <title>Highlights: IND vs AFG, 3rd ODI</title>
     </programme>
     <programme start="20260702003600 +0000" stop="20260702010000 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M15: SFU vs WF</title>
+        <title>Highlights: M15: SFU vs WF</title>
     </programme>
     <programme start="20260702010000 +0000" stop="20260702053200 +0000" channel="Cricbuzz.starhub">
         <title>LIVE: M16: LAKR vs WF</title>
     </programme>
     <programme start="20260702053200 +0000" stop="20260702060400 +0000" channel="Cricbuzz.starhub">
-        <title>Cricbuzz Live</title>
+        <title>Highlights: M17: PBKS vs SRH</title>
     </programme>
     <programme start="20260702060400 +0000" stop="20260702062800 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: ENG vs IND, 1st T20I</title>
+        <title>Highlights: M33: MI vs CSK</title>
     </programme>
     <programme start="20260702062800 +0000" stop="20260702075600 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: ENG vs NZ, 2nd Test</title>
+        <title>Highlights: ENG vs NZ, 2nd Test</title>
     </programme>
     <programme start="20260702075600 +0000" stop="20260702082300 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: FINAL: RCB vs GT</title>
+        <title>Highlights: FINAL: RCB vs GT</title>
     </programme>
     <programme start="20260702082300 +0000" stop="20260702085700 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: IND vs AFG, 2nd ODI</title>
+        <title>Highlights: IND vs AFG, 2nd ODI</title>
     </programme>
     <programme start="20260702085700 +0000" stop="20260702092100 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: IRE vs IND, 2nd T20I</title>
+        <title>Highlights: IRE vs IND, 2nd T20I</title>
     </programme>
     <programme start="20260702092100 +0000" stop="20260702094500 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M16: LAKR vs WF</title>
+        <title>Highlights: M16: LAKR vs WF</title>
     </programme>
     <programme start="20260702094500 +0000" stop="20260702101700 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: Q2: GT vs RR</title>
+        <title>Highlights: Q2: GT vs RR</title>
     </programme>
     <programme start="20260702101700 +0000" stop="20260702104100 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: ENG vs IND, 1st T20I</title>
+        <title>Highlights: M13: WF vs TSK</title>
     </programme>
     <programme start="20260702104100 +0000" stop="20260702111100 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: WI vs SL, 1st ODI</title>
+        <title>Highlights: WI vs SL, 1st ODI</title>
     </programme>
     <programme start="20260702111100 +0000" stop="20260702113500 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: IRE vs IND, 1st T20I</title>
+        <title>Highlights: IRE vs IND, 1st T20I</title>
     </programme>
     <programme start="20260702113500 +0000" stop="20260702115900 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M10: MINY vs TSK</title>
+        <title>Highlights: M10: MINY vs TSK</title>
     </programme>
     <programme start="20260702115900 +0000" stop="20260702123000 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M62: DC vs RR</title>
+        <title>Highlights: M62: DC vs RR</title>
     </programme>
     <programme start="20260702123000 +0000" stop="20260702125400 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: ENG vs IND, 1st T20I</title>
+        <title>Highlights: M15: SFU vs WF</title>
     </programme>
     <programme start="20260702125400 +0000" stop="20260702131800 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: PAK vs AUS, 1st ODI</title>
+        <title>Highlights: PAK vs AUS, 1st ODI</title>
     </programme>
     <programme start="20260702131800 +0000" stop="20260702135000 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: Eliminator: SRH vs RR</title>
+        <title>Highlights: Eliminator: SRH vs RR</title>
     </programme>
     <programme start="20260702135000 +0000" stop="20260702151900 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: WI vs SL, 1st Test</title>
+        <title>Highlights: WI vs SL, 1st Test</title>
     </programme>
     <programme start="20260702151900 +0000" stop="20260702154500 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M11: SFU vs SO</title>
+        <title>Highlights: M11: SFU vs SO</title>
     </programme>
     <programme start="20260702154500 +0000" stop="20260702160000 +0000" channel="Cricbuzz.starhub">
-        <title>H/L: M39: DC vs RCB</title>
+        <title>Highlights: M39: DC vs RCB</title>
     </programme>
