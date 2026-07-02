@@ -358,13 +358,13 @@
   <programme start="20260703221500 +0000" stop="20260703230500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista VI (12)</title>
   </programme>
-  <programme start="20260703230500 +0000" stop="20260703235500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260703230500 +0000" stop="20260703235000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista VI (13)</title>
   </programme>
-  <programme start="20260703235500 +0000" stop="20260704003500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260703235000 +0000" stop="20260704003000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista VI (14)</title>
   </programme>
-  <programme start="20260704003500 +0000" stop="20260704023000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260704003000 +0000" stop="20260704023000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Smolu nosíš ty, láska</title>
   </programme>
   <programme start="20260704023000 +0000" stop="20260704031500 +0000" channel="Markíza.webtv.sk">
