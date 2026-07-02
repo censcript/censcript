@@ -70,9 +70,6 @@
 <programme start="20260703160000 +0000" stop="20260703180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260702163000 +0000" stop="20260702183000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 4 Rd 2 (C)[Live]</title>
-</programme>
 <programme start="20260702183000 +0000" stop="20260702200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 4 Rd 2 (D)[Live]</title>
 </programme>
@@ -108,9 +105,6 @@
 </programme>
 <programme start="20260703143000 +0000" stop="20260703163000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 5 Rd 3 (B)[Live]</title>
-</programme>
-<programme start="20260702180000 +0000" stop="20260702181500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260702181500 +0000" stop="20260702211500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>[4K]FIFA World Cup 2026™ -Rd of 32 - Spain vs Austria[Live]</title>
@@ -153,12 +147,6 @@
 </programme>
 <programme start="20260703160000 +0000" stop="20260703171500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260702180000 +0000" stop="20260702181000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E55</title>
-</programme>
-<programme start="20260702181000 +0000" stop="20260702181500 +0000" channel="Now Sports 618.nowtv">
-    <title>Count Down to Kick-off E9</title>
 </programme>
 <programme start="20260702181500 +0000" stop="20260702211500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 32 - Spain vs Austria[Live]</title>
