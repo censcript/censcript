@@ -16697,7 +16697,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260704080000 +0000" stop="20260704083000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящее Время. Интервью</title>
+    <title lang="id">Спецрепортаж: Схемы отъёма собственности на оккупированных территориях</title>
   </programme>
   <programme start="20260704083000 +0000" stop="20260704090000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Сибириада: Погреба</title>
@@ -16709,7 +16709,7 @@
     <title lang="id">Pеальное кино: Пять мечтателей и лошадь</title>
   </programme>
   <programme start="20260704120000 +0000" stop="20260704123000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтийский путь</title>
+    <title lang="id">Балтийский путь: Как жители Балтии распоряжаются накоплениями</title>
   </programme>
   <programme start="20260704123000 +0000" stop="20260704130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Pепортер</title>
@@ -16718,16 +16718,16 @@
     <title lang="id">Америка. Большое путешествие: Алабама</title>
   </programme>
   <programme start="20260704133000 +0000" stop="20260704140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Смотри в оба</title>
+    <title lang="id">Интервью: Маша Слоним</title>
   </programme>
   <programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20260704150000 +0000" stop="20260704153000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящее Время. Интервью</title>
+    <title lang="id">Спецрепортаж: Схемы отъёма собственности на оккупированных территориях</title>
   </programme>
   <programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Сибириада: Погреба</title>
   </programme>
   <programme start="20260704160000 +0000" stop="20260704170000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Как у них получилось: Сингапур</title>
@@ -16745,7 +16745,7 @@
     <title lang="id">Америка. Большое путешествие: Алабама</title>
   </programme>
   <programme start="20260704203000 +0000" stop="20260704210000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Смотри в оба</title>
+    <title lang="id">Интервью: Маша Слоним</title>
   </programme>
   <programme start="20260704210000 +0000" stop="20260704220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>

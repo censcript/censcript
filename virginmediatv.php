@@ -3973,7 +3973,10 @@
 <programme start="20260702010000 +0000" stop="20260702011500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
-<programme start="20260702011500 +0000" stop="20260702053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260702011500 +0000" stop="20260702050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Live: Major League Cricket - Los Angeles Knight Riders v Washington Freedom</title>
+</programme>
+<programme start="20260702050000 +0000" stop="20260702053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Major League Cricket - Los Angeles Knight Riders v Washington Freedom</title>
 </programme>
 <programme start="20260702053000 +0000" stop="20260702060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
@@ -4759,7 +4762,10 @@
 <programme start="20260702010000 +0000" stop="20260702011500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
-<programme start="20260702011500 +0000" stop="20260702053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260702011500 +0000" stop="20260702050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Live: Major League Cricket - Los Angeles Knight Riders v Washington Freedom</title>
+</programme>
+<programme start="20260702050000 +0000" stop="20260702053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Major League Cricket - Los Angeles Knight Riders v Washington Freedom</title>
 </programme>
 <programme start="20260702053000 +0000" stop="20260702060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">

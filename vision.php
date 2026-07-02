@@ -691,12 +691,6 @@
 <programme start="20260702090000 +0000" stop="20260702110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260702110000 +0000" stop="20260702130000 +0000" channel="ANTV.vision">
-<title>The Doll 2</title>
-</programme>
-<programme start="20260702130000 +0000" stop="20260702150000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 2: Teror Mangkujiwo</title>
-</programme>
 <programme start="20260702150000 +0000" stop="20260702170000 +0000" channel="ANTV.vision">
 <title>Atas Boleh Bawah Boleh</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260702203000 +0000" stop="20260702210000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20260702210000 +0000" stop="20260702213000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
+</programme>
+<programme start="20260702213000 +0000" stop="20260702220000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
