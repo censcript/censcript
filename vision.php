@@ -691,12 +691,6 @@
 <programme start="20260702090000 +0000" stop="20260702110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260702170000 +0000" stop="20260702190000 +0000" channel="ANTV.vision">
-<title>Young &amp; Dangerous: The Prequel</title>
-</programme>
-<programme start="20260702190000 +0000" stop="20260702210000 +0000" channel="ANTV.vision">
-<title>Zero</title>
-</programme>
 <programme start="20260702210000 +0000" stop="20260702213000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260702220000 +0000" stop="20260702230000 +0000" channel="BTV.vision">
 <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20260702230000 +0000" stop="20260702230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20260702230300 +0000" stop="20260703003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
