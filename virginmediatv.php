@@ -412,22 +412,22 @@
 <programme start="20260702173000 +0000" stop="20260702180000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC Newsline</title>
 </programme>
-<programme start="20260701232500 +0000" stop="20260702010500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260701230000 +0000" stop="20260702004000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Past Lives</title>
 </programme>
-<programme start="20260702010500 +0000" stop="20260702013500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>See Hear - Cafe Conversations</title>
+<programme start="20260702004000 +0000" stop="20260702010500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Joins BBC News</title>
 </programme>
-<programme start="20260702013500 +0000" stop="20260702020500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260702010500 +0000" stop="20260702013500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Do You Know Your Place? - Taunton</title>
 </programme>
-<programme start="20260702020500 +0000" stop="20260702023500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260702013500 +0000" stop="20260702020500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Peelers: The PSNI for Real - Episode 6</title>
 </programme>
-<programme start="20260702023500 +0000" stop="20260702032000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260702020500 +0000" stop="20260702025000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Two Weeks in August</title>
 </programme>
-<programme start="20260702032000 +0000" stop="20260702053000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260702025000 +0000" stop="20260702053000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20260702053000 +0000" stop="20260702063000 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -4282,11 +4282,8 @@
 <programme start="20260702030000 +0000" stop="20260702033000 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260702033000 +0000" stop="20260702043000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260702033000 +0000" stop="20260702050000 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
-</programme>
-<programme start="20260702043000 +0000" stop="20260702050000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
 </programme>
 <programme start="20260702050000 +0000" stop="20260702060000 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
