@@ -14649,57 +14649,71 @@
     <display-name>DW</display-name>
   </channel>
   <programme start="20260702153300 +0000" stop="20260702160300 +0000" channel="dw.unifitv">
-    <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702160300 +0000" stop="20260702163300 +0000" channel="dw.unifitv">
+  <programme start="20260702160300 +0000" stop="20260702160500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260702160500 +0000" stop="20260702163300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260702163300 +0000" stop="20260702170300 +0000" channel="dw.unifitv">
-    <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">To the Point</title>
+    <desc lang="en">Turkey is a key - but controversial - NATO ally. For years, President Erdogan has been cracking down hard on his political opponents. Is NATO prioritizing security while turning a blind eye to human rights?_x000D_ _x000D_ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Foreign Relations, Maximilian Popp, Der Spiegel</desc>
+    <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702170300 +0000" stop="20260702171800 +0000" channel="dw.unifitv">
+  <programme start="20260702170300 +0000" stop="20260702170500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702171800 +0000" stop="20260702173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+  <programme start="20260702170500 +0000" stop="20260702171800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260702171800 +0000" stop="20260702180300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">In 1776, America was torn: between loyalty to the British Crown, and its own desire for independence. 250 years later, digitized eyewitness accounts provide insights into daily life during the War of Independence for the first time.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702173300 +0000" stop="20260702180300 +0000" channel="dw.unifitv">
+  <programme start="20260702180300 +0000" stop="20260702180500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702180300 +0000" stop="20260702183300 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
+  <programme start="20260702180500 +0000" stop="20260702183300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260702183300 +0000" stop="20260702190300 +0000" channel="dw.unifitv">
-    <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <title lang="en">Focus on Europe</title>
+    <desc lang="en">A residential project in France is creating community for queer seniors. +++ Can the German pension system be saved?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14719,30 +14733,37 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260702191800 +0000" stop="20260702193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Interview</title>
+    <desc lang="en">Albanians have been protesting daily against planned luxury tourism project for a month. In this interview Albanian PM Edi Rama spoke to DW about these protests, AI and democracy.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260702193300 +0000" stop="20260702200300 +0000" channel="dw.unifitv">
-    <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
-    <category lang="en">Entertainment</category>
+    <title lang="en">Made in Germany</title>
+    <desc lang="en">Migration-driven growth, AI disruption and ageing societies reshape labor markets. The program explores who benefits—and who is left behind.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702200300 +0000" stop="20260702203300 +0000" channel="dw.unifitv">
+  <programme start="20260702200300 +0000" stop="20260702200500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702203300 +0000" stop="20260702210300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
+  <programme start="20260702200500 +0000" stop="20260702201800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260702201800 +0000" stop="20260702210300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">In 1776, America was torn: between loyalty to the British Crown, and its own desire for independence. 250 years later, digitized eyewitness accounts provide insights into daily life during the War of Independence for the first time.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14753,17 +14774,17 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702210500 +0000" stop="20260702211800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+  <programme start="20260702210500 +0000" stop="20260702213300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702211800 +0000" stop="20260702220300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">When the sun goes down, India's megacity most intense side comes to light. Queer subculture, everyday slum life and spiritual celebrity culture - Mumbai nightlife could hardly be more diverse. Anything is possible, here!</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20260702213300 +0000" stop="20260702220300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14774,17 +14795,24 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702220500 +0000" stop="20260702223300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
+  <programme start="20260702220500 +0000" stop="20260702221800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
+  <programme start="20260702221800 +0000" stop="20260702223300 +0000" channel="dw.unifitv">
+    <title lang="en">Interview</title>
+    <desc lang="en">Albanians have been protesting daily against planned luxury tourism project for a month. In this interview Albanian PM Edi Rama spoke to DW about these protests, AI and democracy.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
   <programme start="20260702223300 +0000" stop="20260702230300 +0000" channel="dw.unifitv">
-    <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
-    <category lang="en">Entertainment</category>
+    <title lang="en">REV</title>
+    <desc lang="en">VW is badging its new EVs with the names of old favorites like the Polo, while partnering with XPeng and Rivian on tech. Will its rebrand work? And: Therapy on wheels — rollerblading in Abuja and drifting in Kyív.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14802,16 +14830,9 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260702231800 +0000" stop="20260702233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260702233300 +0000" stop="20260703000300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+  <programme start="20260702231800 +0000" stop="20260703000300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">When the sun goes down, India's megacity most intense side comes to light. Queer subculture, everyday slum life and spiritual celebrity culture - Mumbai nightlife could hardly be more diverse. Anything is possible, here!</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14824,16 +14845,16 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260703000500 +0000" stop="20260703003300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
-    <category lang="en">News</category>
+    <title lang="en">To the Point</title>
+    <desc lang="en">Turkey is a key - but controversial - NATO ally. For years, President Erdogan has been cracking down hard on his political opponents. Is NATO prioritizing security while turning a blind eye to human rights?_x000D_ _x000D_ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Foreign Relations, Maximilian Popp, Der Spiegel</desc>
+    <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260703003300 +0000" stop="20260703010300 +0000" channel="dw.unifitv">
-    <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
-    <category lang="en">Entertainment</category>
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14853,7 +14874,7 @@
   </programme>
   <programme start="20260703011800 +0000" stop="20260703020300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
-    <desc lang="en">In 1776, America was torn: between loyalty to the British Crown, and its own desire for independence. 250 years later, digitized eyewitness accounts provide insights into daily life during the War of Independence for the first time.</desc>
+    <desc lang="en">Women in Latin America are recruited with brutal methods, then enslaved in Europe. A survivor recounts how she was lured to Spain with the promise of a job, then forced into prostitution.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14865,17 +14886,17 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703020500 +0000" stop="20260703023300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
+  <programme start="20260703020500 +0000" stop="20260703021800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703023300 +0000" stop="20260703030300 +0000" channel="dw.unifitv">
-    <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
-    <category lang="en">Magazine</category>
+  <programme start="20260703021800 +0000" stop="20260703030300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">In 1776, America was torn: between loyalty to the British Crown, and its own desire for independence. 250 years later, digitized eyewitness accounts provide insights into daily life during the War of Independence for the first time.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14886,24 +14907,17 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703030500 +0000" stop="20260703031800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703031800 +0000" stop="20260703033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20260703030500 +0000" stop="20260703033300 +0000" channel="dw.unifitv">
+    <title lang="en">To the Point</title>
+    <desc lang="en">Turkey is a key - but controversial - NATO ally. For years, President Erdogan has been cracking down hard on his political opponents. Is NATO prioritizing security while turning a blind eye to human rights?_x000D_ _x000D_ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Foreign Relations, Maximilian Popp, Der Spiegel</desc>
+    <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260703033300 +0000" stop="20260703040300 +0000" channel="dw.unifitv">
-    <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14923,7 +14937,7 @@
   </programme>
   <programme start="20260703041800 +0000" stop="20260703050300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
-    <desc lang="en">In 1776, America was torn: between loyalty to the British Crown, and its own desire for independence. 250 years later, digitized eyewitness accounts provide insights into daily life during the War of Independence for the first time.</desc>
+    <desc lang="en">When the sun goes down, India's megacity most intense side comes to light. Queer subculture, everyday slum life and spiritual celebrity culture - Mumbai nightlife could hardly be more diverse. Anything is possible, here!</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14935,17 +14949,24 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703050500 +0000" stop="20260703053300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
+  <programme start="20260703050500 +0000" stop="20260703051800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
+  <programme start="20260703051800 +0000" stop="20260703053300 +0000" channel="dw.unifitv">
+    <title lang="en">History Stories</title>
+    <desc lang="en">1776 gave the words. 2026 tests the promise. We're dissecting the Declaration of Independence line by line with no dusty textbook energy, just real talk about power, freedom, and who America was actually built for.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
   <programme start="20260703053300 +0000" stop="20260703060300 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
+    <title lang="en">In Good Shape</title>
+    <desc lang="en">Learn how bleeding gums and an unbalanced gut microbiome could be impacting your health, from your immune system to mental health. Plus, a look at AI used in the fight against healthcare inequality.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14963,100 +14984,72 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703061800 +0000" stop="20260703063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703063300 +0000" stop="20260703070300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703070300 +0000" stop="20260703070500 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703070500 +0000" stop="20260703071800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703071800 +0000" stop="20260703080300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">When the sun goes down, India's megacity most intense side comes to light. Queer subculture, everyday slum life and spiritual celebrity culture - Mumbai nightlife could hardly be more diverse. Anything is possible, here!</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703080300 +0000" stop="20260703080500 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703080500 +0000" stop="20260703083300 +0000" channel="dw.unifitv">
-    <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703083300 +0000" stop="20260703090300 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703090300 +0000" stop="20260703090500 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703090500 +0000" stop="20260703091800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703091800 +0000" stop="20260703100300 +0000" channel="dw.unifitv">
+  <programme start="20260703061800 +0000" stop="20260703070300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
     <desc lang="en">Women in Latin America are recruited with brutal methods, then enslaved in Europe. A survivor recounts how she was lured to Spain with the promise of a job, then forced into prostitution.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703100300 +0000" stop="20260703100500 +0000" channel="dw.unifitv">
+  <programme start="20260703070300 +0000" stop="20260703073300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703100500 +0000" stop="20260703101800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+  <programme start="20260703073300 +0000" stop="20260703080300 +0000" channel="dw.unifitv">
+    <title lang="en">To the Point</title>
+    <desc lang="en">Turkey is a key - but controversial - NATO ally. For years, President Erdogan has been cracking down hard on his political opponents. Is NATO prioritizing security while turning a blind eye to human rights?_x000D_ _x000D_ Our guests: Julia Hahn, DW Studio Istanbul; Aylin Matlé, German Council on Foreign Relations, Maximilian Popp, Der Spiegel</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703080300 +0000" stop="20260703083300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703101800 +0000" stop="20260703110300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">In 1776, America was torn: between loyalty to the British Crown, and its own desire for independence. 250 years later, digitized eyewitness accounts provide insights into daily life during the War of Independence for the first time.</desc>
+  <programme start="20260703083300 +0000" stop="20260703090300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco India</title>
+    <desc lang="en">Hiking experts map trails and teach sustainable trekking. Tackling dengue fever with the help of mosquitoes! Plus: Protecting deer - and farmers' livelihoods.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703090300 +0000" stop="20260703091800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703091800 +0000" stop="20260703093300 +0000" channel="dw.unifitv">
+    <title lang="en">History Stories</title>
+    <desc lang="en">1776 gave the words. 2026 tests the promise. We're dissecting the Declaration of Independence line by line with no dusty textbook energy, just real talk about power, freedom, and who America was actually built for.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703093300 +0000" stop="20260703100300 +0000" channel="dw.unifitv">
+    <title lang="en">Afrimaxx</title>
+    <desc lang="en">From a green promenade in Rosebank to the rhythm of Lagos, Afrimaxx explores how design, culture and fashion are reshaping African cities — grounded in heritage and driven by people.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703100300 +0000" stop="20260703103300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703103300 +0000" stop="20260703110300 +0000" channel="dw.unifitv">
+    <title lang="en">Best of DW Podcasts</title>
+    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15068,38 +15061,38 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703110500 +0000" stop="20260703113300 +0000" channel="dw.unifitv">
-    <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703113300 +0000" stop="20260703120300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703120300 +0000" stop="20260703120500 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703120500 +0000" stop="20260703121800 +0000" channel="dw.unifitv">
+  <programme start="20260703110500 +0000" stop="20260703111800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
     <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703121800 +0000" stop="20260703130300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">When the sun goes down, India's megacity most intense side comes to light. Queer subculture, everyday slum life and spiritual celebrity culture - Mumbai nightlife could hardly be more diverse. Anything is possible, here!</desc>
+  <programme start="20260703111800 +0000" stop="20260703113300 +0000" channel="dw.unifitv">
+    <title lang="en">History Stories</title>
+    <desc lang="en">1776 gave the words. 2026 tests the promise. We're dissecting the Declaration of Independence line by line with no dusty textbook energy, just real talk about power, freedom, and who America was actually built for.</desc>
     <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703113300 +0000" stop="20260703120300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">Millions depend on the Osun River—but its color reveals a dark secret. Plus: West Africa's water sachets—how waste can work for you. And how to save money on period products.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703120300 +0000" stop="20260703123300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703123300 +0000" stop="20260703130300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -15117,17 +15110,10 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703131800 +0000" stop="20260703133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+  <programme start="20260703131800 +0000" stop="20260703140300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Women in Latin America are recruited with brutal methods, then enslaved in Europe. A survivor recounts how she was lured to Spain with the promise of a job, then forced into prostitution.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703133300 +0000" stop="20260703140300 +0000" channel="dw.unifitv">
-    <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
-    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -15138,31 +15124,45 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703140500 +0000" stop="20260703141800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+  <programme start="20260703140500 +0000" stop="20260703143300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703141800 +0000" stop="20260703150300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">Women in Latin America are recruited with brutal methods, then enslaved in Europe. A survivor recounts how she was lured to Spain with the promise of a job, then forced into prostitution.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20260703143300 +0000" stop="20260703150300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco India</title>
+    <desc lang="en">Hiking experts map trails and teach sustainable trekking. Tackling dengue fever with the help of mosquitoes! Plus: Protecting deer - and farmers' livelihoods.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260703150300 +0000" stop="20260703153300 +0000" channel="dw.unifitv">
+  <programme start="20260703150300 +0000" stop="20260703150500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
+  <programme start="20260703150500 +0000" stop="20260703151800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703151800 +0000" stop="20260703153300 +0000" channel="dw.unifitv">
+    <title lang="en">History Stories</title>
+    <desc lang="en">1776 gave the words. 2026 tests the promise. We're dissecting the Declaration of Independence line by line with no dusty textbook energy, just real talk about power, freedom, and who America was actually built for.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
   <programme start="20260703153300 +0000" stop="20260703160300 +0000" channel="dw.unifitv">
-    <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
-    <category lang="en">Entertainment</category>
+    <title lang="en">Best of DW Podcasts</title>
+    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>

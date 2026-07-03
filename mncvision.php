@@ -3524,7 +3524,7 @@
     <title>Viral Kuliner</title>
 </programme>
 <programme start="20260703070000 +0000" stop="20260703083000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Cine Food</title>
+    <title>Cecep The MasterChef</title>
 </programme>
 <programme start="20260703083000 +0000" stop="20260703090000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Kuliner Anak Nusantara</title>
@@ -3632,7 +3632,7 @@
     <title>Viral Kuliner</title>
 </programme>
 <programme start="20260703070000 +0000" stop="20260703083000 +0000" channel="Food Travel HD.mncvision">
-    <title>Cine Food</title>
+    <title>Cecep The MasterChef</title>
 </programme>
 <programme start="20260703083000 +0000" stop="20260703090000 +0000" channel="Food Travel HD.mncvision">
     <title>Kuliner Anak Nusantara</title>
@@ -4947,204 +4947,6 @@
 </programme>
 <programme start="20260703160000 +0000" stop="20260703163000 +0000" channel="Indosiar HD.mncvision">
     <title>High Force</title>
-</programme>
-<programme start="20260702170000 +0000" stop="20260702173000 +0000" channel="iNews.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20260702173000 +0000" stop="20260702190000 +0000" channel="iNews.mncvision">
-    <title>UEFA Qual.: POR Vs HUN</title>
-</programme>
-<programme start="20260702190000 +0000" stop="20260702193000 +0000" channel="iNews.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20260702193000 +0000" stop="20260702203000 +0000" channel="iNews.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20260702203000 +0000" stop="20260702210000 +0000" channel="iNews.mncvision">
-    <title>Realita</title>
-</programme>
-<programme start="20260702210000 +0000" stop="20260702211500 +0000" channel="iNews.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20260702211500 +0000" stop="20260702223000 +0000" channel="iNews.mncvision">
-    <title>iNews Pagi (L)</title>
-</programme>
-<programme start="20260702223000 +0000" stop="20260702224000 +0000" channel="iNews.mncvision">
-    <title>Indonesia Raya</title>
-</programme>
-<programme start="20260702224000 +0000" stop="20260702230000 +0000" channel="iNews.mncvision">
-    <title>iNews Pagi (L)</title>
-</programme>
-<programme start="20260702230000 +0000" stop="20260702231500 +0000" channel="iNews.mncvision">
-    <title>iNews Sport Pagi (L)</title>
-</programme>
-<programme start="20260702231500 +0000" stop="20260702234500 +0000" channel="iNews.mncvision">
-    <title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260702234500 +0000" stop="20260703001500 +0000" channel="iNews.mncvision">
-    <title>Morning Update</title>
-</programme>
-<programme start="20260703001500 +0000" stop="20260703011500 +0000" channel="iNews.mncvision">
-    <title>iNews Room Pagi (L)</title>
-</programme>
-<programme start="20260703011500 +0000" stop="20260703020000 +0000" channel="iNews.mncvision">
-    <title>Lapor Polisi (L)</title>
-</programme>
-<programme start="20260703020000 +0000" stop="20260703025500 +0000" channel="iNews.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
-</programme>
-<programme start="20260703025500 +0000" stop="20260703030000 +0000" channel="iNews.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703030000 +0000" stop="20260703040000 +0000" channel="iNews.mncvision">
-    <title>iNews Today (L)</title>
-</programme>
-<programme start="20260703040000 +0000" stop="20260703060000 +0000" channel="iNews.mncvision">
-    <title>iNews Siang (L)</title>
-</programme>
-<programme start="20260703060000 +0000" stop="20260703071500 +0000" channel="iNews.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
-</programme>
-<programme start="20260703071500 +0000" stop="20260703080000 +0000" channel="iNews.mncvision">
-    <title>iSeleb (L)</title>
-</programme>
-<programme start="20260703080000 +0000" stop="20260703080500 +0000" channel="iNews.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703080500 +0000" stop="20260703093000 +0000" channel="iNews.mncvision">
-    <title>Realita (L)</title>
-</programme>
-<programme start="20260703093000 +0000" stop="20260703100000 +0000" channel="iNews.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20260703100000 +0000" stop="20260703100500 +0000" channel="iNews.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703100500 +0000" stop="20260703120000 +0000" channel="iNews.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20260703120000 +0000" stop="20260703133000 +0000" channel="iNews.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20260703133000 +0000" stop="20260703140000 +0000" channel="iNews.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20260703140000 +0000" stop="20260703140500 +0000" channel="iNews.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703140500 +0000" stop="20260703150000 +0000" channel="iNews.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20260703150000 +0000" stop="20260703150500 +0000" channel="iNews.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703150500 +0000" stop="20260703160000 +0000" channel="iNews.mncvision">
-    <title>iNews Files</title>
-</programme>
-<programme start="20260703160000 +0000" stop="20260703163000 +0000" channel="iNews.mncvision">
-    <title>iNews Malam (L)</title>
-</programme>
-<programme start="20260703163000 +0000" stop="20260702170000 +0000" channel="iNews.mncvision">
-    <title>iNews Sport (L)</title>
-</programme>
-<programme start="20260702170000 +0000" stop="20260702173000 +0000" channel="iNews HD.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20260702173000 +0000" stop="20260702190000 +0000" channel="iNews HD.mncvision">
-    <title>UEFA Qual.: POR Vs HUN</title>
-</programme>
-<programme start="20260702190000 +0000" stop="20260702193000 +0000" channel="iNews HD.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20260702193000 +0000" stop="20260702203000 +0000" channel="iNews HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20260702203000 +0000" stop="20260702210000 +0000" channel="iNews HD.mncvision">
-    <title>Realita</title>
-</programme>
-<programme start="20260702210000 +0000" stop="20260702211500 +0000" channel="iNews HD.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20260702211500 +0000" stop="20260702223000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Pagi (L)</title>
-</programme>
-<programme start="20260702223000 +0000" stop="20260702224000 +0000" channel="iNews HD.mncvision">
-    <title>Indonesia Raya</title>
-</programme>
-<programme start="20260702224000 +0000" stop="20260702230000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Pagi (L)</title>
-</programme>
-<programme start="20260702230000 +0000" stop="20260702231500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport Pagi (L)</title>
-</programme>
-<programme start="20260702231500 +0000" stop="20260702234500 +0000" channel="iNews HD.mncvision">
-    <title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260702234500 +0000" stop="20260703001500 +0000" channel="iNews HD.mncvision">
-    <title>Morning Update</title>
-</programme>
-<programme start="20260703001500 +0000" stop="20260703011500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room Pagi (L)</title>
-</programme>
-<programme start="20260703011500 +0000" stop="20260703020000 +0000" channel="iNews HD.mncvision">
-    <title>Lapor Polisi (L)</title>
-</programme>
-<programme start="20260703020000 +0000" stop="20260703025500 +0000" channel="iNews HD.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
-</programme>
-<programme start="20260703025500 +0000" stop="20260703030000 +0000" channel="iNews HD.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703030000 +0000" stop="20260703040000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Today (L)</title>
-</programme>
-<programme start="20260703040000 +0000" stop="20260703060000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Siang (L)</title>
-</programme>
-<programme start="20260703060000 +0000" stop="20260703071500 +0000" channel="iNews HD.mncvision">
-    <title>Konflik Timur Tengah (L)</title>
-</programme>
-<programme start="20260703071500 +0000" stop="20260703080000 +0000" channel="iNews HD.mncvision">
-    <title>iSeleb (L)</title>
-</programme>
-<programme start="20260703080000 +0000" stop="20260703080500 +0000" channel="iNews HD.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703080500 +0000" stop="20260703093000 +0000" channel="iNews HD.mncvision">
-    <title>Realita (L)</title>
-</programme>
-<programme start="20260703093000 +0000" stop="20260703100000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20260703100000 +0000" stop="20260703100500 +0000" channel="iNews HD.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703100500 +0000" stop="20260703120000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sore (L)</title>
-</programme>
-<programme start="20260703120000 +0000" stop="20260703133000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20260703133000 +0000" stop="20260703140000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20260703140000 +0000" stop="20260703140500 +0000" channel="iNews HD.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703140500 +0000" stop="20260703150000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Prime (L)</title>
-</programme>
-<programme start="20260703150000 +0000" stop="20260703150500 +0000" channel="iNews HD.mncvision">
-    <title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260703150500 +0000" stop="20260703160000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Files</title>
-</programme>
-<programme start="20260703160000 +0000" stop="20260703163000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Malam (L)</title>
-</programme>
-<programme start="20260703163000 +0000" stop="20260702170000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Sport (L)</title>
 </programme>
 <programme start="20260703020000 +0000" stop="20260703023000 +0000" channel="JAKTV.mncvision">
     <title>Chess Player</title>

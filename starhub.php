@@ -3077,7 +3077,7 @@
         <title>Interview with Albanian PM Edi Rama: &#039;There is no breakdown of trust in Albania&#039;</title>
     </programme>
     <programme start="20260703033000 +0000" stop="20260703040000 +0000" channel="DW English HD.starhub">
-        <title>Progress and pressure: Who wins in the new world of work</title>
+        <title>Canada joins Eurovision: Why does it want to be part of Europe’s biggest show?</title>
     </programme>
     <programme start="20260703040000 +0000" stop="20260703040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -7291,10 +7291,10 @@
     <programme start="20260702210000 +0000" stop="20260702225000 +0000" channel="Premier Sports.starhub">
         <title>NRL Raiders v Dragons</title>
     </programme>
-    <programme start="20260702225000 +0000" stop="20260703012000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260702232000 +0000" stop="20260703014000 +0000" channel="Premier Sports.starhub">
         <title>AFL Collingwood v Richmond</title>
     </programme>
-    <programme start="20260703012000 +0000" stop="20260703035000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260703014000 +0000" stop="20260703035000 +0000" channel="Premier Sports.starhub">
         <title>AFL Fremantle v Gold Coast</title>
     </programme>
     <programme start="20260703035000 +0000" stop="20260703045000 +0000" channel="Premier Sports.starhub">
