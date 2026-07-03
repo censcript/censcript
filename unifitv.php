@@ -144,38 +144,38 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260703060000 +0000" stop="20260703063000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260703063000 +0000" stop="20260703070000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260703070000 +0000" stop="20260703110000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Spain vs Austria : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260703110000 +0000" stop="20260703113000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260703113000 +0000" stop="20260703120000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260703120000 +0000" stop="20260703160000 +0000" channel="fifa2.unifitv">
+  <programme start="20260703063000 +0000" stop="20260703070000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260703070000 +0000" stop="20260703103000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) Spain vs Austria : FIFA World Cup™ 2026 Round of 32</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260703103000 +0000" stop="20260703110000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260703110000 +0000" stop="20260703143000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Switzeland vs Algeria : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260703160000 +0000" stop="20260703163000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
+  <programme start="20260703143000 +0000" stop="20260703150000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260703150000 +0000" stop="20260703183000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) Spain vs Austria : FIFA World Cup™ 2026 Round of 32</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="fifa3.unifitv">

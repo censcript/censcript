@@ -7291,6 +7291,9 @@
     <programme start="20260702210000 +0000" stop="20260702225000 +0000" channel="Premier Sports.starhub">
         <title>NRL Raiders v Dragons</title>
     </programme>
+    <programme start="20260702225000 +0000" stop="20260702232000 +0000" channel="Premier Sports.starhub">
+        <title>AFL Collingwood v Richmond</title>
+    </programme>
     <programme start="20260702232000 +0000" stop="20260703014000 +0000" channel="Premier Sports.starhub">
         <title>AFL Collingwood v Richmond</title>
     </programme>
