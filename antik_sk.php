@@ -865,58 +865,61 @@
   <programme start="20260705204000 +0000" stop="20260705223000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Na férovku, pán učiteľ</title>
   </programme>
-  <programme start="20260704203000 +0000" stop="20260704225500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260704203000 +0000" stop="20260704230000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dobrý Will Hunting</title>
   </programme>
-  <programme start="20260704225500 +0000" stop="20260705002500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260704230000 +0000" stop="20260705002500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Takmer dokonalá svadba</title>
   </programme>
-  <programme start="20260705002500 +0000" stop="20260705022000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705002500 +0000" stop="20260705022500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dobrý Will Hunting</title>
   </programme>
-  <programme start="20260705022000 +0000" stop="20260705040000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705022500 +0000" stop="20260705040000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Takmer dokonalá svadba</title>
   </programme>
   <programme start="20260705040000 +0000" stop="20260705050000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260705050000 +0000" stop="20260705062500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705050000 +0000" stop="20260705061500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260705062500 +0000" stop="20260705065500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705061500 +0000" stop="20260705064000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Priatelia V (8)</title>
+  </programme>
+  <programme start="20260705064000 +0000" stop="20260705070500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom V (7)</title>
   </programme>
-  <programme start="20260705065500 +0000" stop="20260705073000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705070500 +0000" stop="20260705074000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom VI (1)</title>
   </programme>
-  <programme start="20260705073000 +0000" stop="20260705080000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705074000 +0000" stop="20260705081000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom VI (2)</title>
   </programme>
-  <programme start="20260705080000 +0000" stop="20260705083500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705081000 +0000" stop="20260705084500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom VI (3)</title>
   </programme>
-  <programme start="20260705083500 +0000" stop="20260705092500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705084500 +0000" stop="20260705093000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire IX (1)</title>
   </programme>
-  <programme start="20260705092500 +0000" stop="20260705103000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705093000 +0000" stop="20260705103000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire IX (2)</title>
   </programme>
-  <programme start="20260705103000 +0000" stop="20260705114500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705103000 +0000" stop="20260705115000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260705114500 +0000" stop="20260705134500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705115000 +0000" stop="20260705134000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Cesta za zázrakom</title>
   </programme>
-  <programme start="20260705134500 +0000" stop="20260705155500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705134000 +0000" stop="20260705154000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Navždy mladý</title>
   </programme>
-  <programme start="20260705155500 +0000" stop="20260705183000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705154000 +0000" stop="20260705183000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Štyri svadby a jeden pohreb</title>
   </programme>
-  <programme start="20260705183000 +0000" stop="20260705205500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705183000 +0000" stop="20260705204500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Foter je lotor</title>
   </programme>
-  <programme start="20260705205500 +0000" stop="20260705224000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260705204500 +0000" stop="20260705223000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Splnený sľub</title>
   </programme>
   <programme start="20260704210000 +0000" stop="20260704220500 +0000" channel="Markíza Krimi.webtv.sk">
@@ -3778,16 +3781,16 @@
   <programme start="20260705212500 +0000" stop="20260705222500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Půlnoční hudba</title>
   </programme>
-  <programme start="20260704211000 +0000" stop="20260704221000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260704211000 +0000" stop="20260704220500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (4)</title>
   </programme>
-  <programme start="20260704221000 +0000" stop="20260704225500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260704220500 +0000" stop="20260704225000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
-  <programme start="20260704225500 +0000" stop="20260704234000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260704225000 +0000" stop="20260704233500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
-  <programme start="20260704234000 +0000" stop="20260705000500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260704233500 +0000" stop="20260705000500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">COOL Taxi</title>
   </programme>
   <programme start="20260705000500 +0000" stop="20260705003000 +0000" channel="Prima Cool SK.webtv.sk">
@@ -3796,13 +3799,13 @@
   <programme start="20260705003000 +0000" stop="20260705011000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260705011000 +0000" stop="20260705015500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705011000 +0000" stop="20260705015000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260705015500 +0000" stop="20260705024500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705015000 +0000" stop="20260705024000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Autosalon.tv</title>
   </programme>
-  <programme start="20260705024500 +0000" stop="20260705032000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705024000 +0000" stop="20260705032000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Partička</title>
   </programme>
   <programme start="20260705032000 +0000" stop="20260705034600 +0000" channel="Prima Cool SK.webtv.sk">
@@ -3841,25 +3844,25 @@
   <programme start="20260705103500 +0000" stop="20260705110500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">COOL Taxi</title>
   </programme>
-  <programme start="20260705110500 +0000" stop="20260705115500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705110500 +0000" stop="20260705120000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
-  <programme start="20260705115500 +0000" stop="20260705123500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705120000 +0000" stop="20260705124000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Partička</title>
   </programme>
-  <programme start="20260705123500 +0000" stop="20260705132500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705124000 +0000" stop="20260705133000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260705132500 +0000" stop="20260705142000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705133000 +0000" stop="20260705142500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260705142000 +0000" stop="20260705151500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705142500 +0000" stop="20260705152500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Autosalon.tv</title>
   </programme>
-  <programme start="20260705151500 +0000" stop="20260705161500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705152500 +0000" stop="20260705162000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (5)</title>
   </programme>
-  <programme start="20260705161500 +0000" stop="20260705171500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705162000 +0000" stop="20260705171500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (6)</title>
   </programme>
   <programme start="20260705171500 +0000" stop="20260705181500 +0000" channel="Prima Cool SK.webtv.sk">
@@ -3871,10 +3874,10 @@
   <programme start="20260705193500 +0000" stop="20260705201000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">RE-PLAY</title>
   </programme>
-  <programme start="20260705201000 +0000" stop="20260705211000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705201000 +0000" stop="20260705210500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (5)</title>
   </programme>
-  <programme start="20260705211000 +0000" stop="20260705220500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260705210500 +0000" stop="20260705220500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (6)</title>
   </programme>
   <programme start="20260704210500 +0000" stop="20260704220500 +0000" channel="Prima Love SK.webtv.sk">
@@ -6310,26 +6313,125 @@
   <programme start="20260705214000 +0000" stop="20260705223500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">Hlubina mimozemšťanů I (1)</title>
   </programme>
-  <programme start="20260705033000 +0000" stop="20260705050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako liečiť traumu</title>
+  <programme start="20260704220000 +0000" stop="20260704223000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
   </programme>
-  <programme start="20260705050000 +0000" stop="20260705073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Počúvam vás, alebo prečo je rozhovor so psychológom iný</title>
+  <programme start="20260704223000 +0000" stop="20260704230000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Odpovedá MUDr. Miloš bubán</title>
   </programme>
-  <programme start="20260705073000 +0000" stop="20260705110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">K25 k26 žalúdočné a dvanástnikové vredy</title>
+  <programme start="20260704230000 +0000" stop="20260704233000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Na začiatku bolo ochorenie obličiek</title>
   </programme>
-  <programme start="20260705110000 +0000" stop="20260705153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">R42 vertigo</title>
+  <programme start="20260704233000 +0000" stop="20260705000000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Seuxálne zdravie onkologických pacientov</title>
   </programme>
-  <programme start="20260705153000 +0000" stop="20260705193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Závislosť nie je slabá vôľa, ale choroba</title>
+  <programme start="20260705000000 +0000" stop="20260705010000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Cestovanie ideálne bez traumy</title>
   </programme>
-  <programme start="20260705193000 +0000" stop="20260705210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako liečiť traumu</title>
+  <programme start="20260705010000 +0000" stop="20260705015000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Artróza (osteoporóza)</title>
   </programme>
-  <programme start="20260705210000 +0000" stop="20260705233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Počúvam vás, alebo prečo je rozhovor so psychológom iný</title>
+  <programme start="20260705015000 +0000" stop="20260705020000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+  </programme>
+  <programme start="20260705020000 +0000" stop="20260705023000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260705023000 +0000" stop="20260705030000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Postupy pri tráviacich ťažkostiach a vhodné diéty</title>
+  </programme>
+  <programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako pripraviť dieťa na príchod na súrodenca</title>
+  </programme>
+  <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ochorenia semenníkov - varikokéla</title>
+  </programme>
+  <programme start="20260705040000 +0000" stop="20260705050000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Iza: ako využívame zdravotnícke dáta a analýzy na zlepšenie starostlivosti o pacientov</title>
+  </programme>
+  <programme start="20260705050000 +0000" stop="20260705060000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Tresty za vysvedčenia: cesta do pekla?</title>
+  </programme>
+  <programme start="20260705060000 +0000" stop="20260705063000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260705063000 +0000" stop="20260705070000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Poskytovanie zdravotnej starostlivosti nelicencovanými pracovníkmi</title>
+  </programme>
+  <programme start="20260705070000 +0000" stop="20260705073000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Pôrod - všetko, čo by mala vedieť každá budúca mamička</title>
+  </programme>
+  <programme start="20260705073000 +0000" stop="20260705080000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
+  </programme>
+  <programme start="20260705080000 +0000" stop="20260705083000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">O menopauze s MUDr. Emíliou mojtovou, phd. o probléme so štítnou žľazou</title>
+  </programme>
+  <programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Topenie</title>
+  </programme>
+  <programme start="20260705090000 +0000" stop="20260705100000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Depresia</title>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705103000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260705103000 +0000" stop="20260705110000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Odpovedá MUDr. Miloš bubán</title>
+  </programme>
+  <programme start="20260705110000 +0000" stop="20260705113000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Na začiatku bolo ochorenie obličiek</title>
+  </programme>
+  <programme start="20260705113000 +0000" stop="20260705120000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Seuxálne zdravie onkologických pacientov</title>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705130000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Cestovanie ideálne bez traumy</title>
+  </programme>
+  <programme start="20260705130000 +0000" stop="20260705135000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Artróza (osteoporóza)</title>
+  </programme>
+  <programme start="20260705135000 +0000" stop="20260705140000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705143000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260705143000 +0000" stop="20260705150000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Špecifiká výživy v období menopauzy</title>
+  </programme>
+  <programme start="20260705150000 +0000" stop="20260705153000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Začínajúca agresivita u detí</title>
+  </programme>
+  <programme start="20260705153000 +0000" stop="20260705160000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Rhinoplastika - plastická operácia nosa</title>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Kybernetická bezpečnosť v zdravotníctve 1.</title>
+  </programme>
+  <programme start="20260705170000 +0000" stop="20260705180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Radikalizácia mládeže: budú pribúdať tragédie a teroristické činy?</title>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705183000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260705183000 +0000" stop="20260705190000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Zmeny v úhradách liekov na výnimky</title>
+  </programme>
+  <programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Posledné dni pred dňom d</title>
+  </programme>
+  <programme start="20260705193000 +0000" stop="20260705200000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Metabolizmus</title>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260705203000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">O menopauze s MUDr. Soňou belanskou o mentálnych prejavoch menopauzy</title>
+  </programme>
+  <programme start="20260705203000 +0000" stop="20260705210000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Športovanie a bezpečnosť na ceste</title>
+  </programme>
+  <programme start="20260705210000 +0000" stop="20260705220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Láska</title>
   </programme>
   <programme start="20260704220000 +0000" stop="20260704230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
@@ -16144,10 +16246,10 @@
   <programme start="20260704212000 +0000" stop="20260704220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260704220300 +0000" stop="20260704224600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260704220300 +0000" stop="20260704224500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Co ludzie powiedza? (41)</title>
   </programme>
-  <programme start="20260704224600 +0000" stop="20260704230000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260704224500 +0000" stop="20260704230000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260704230000 +0000" stop="20260704230900 +0000" channel="TVP Info.webtv.sk">
@@ -16312,8 +16414,11 @@
   <programme start="20260705132700 +0000" stop="20260705133000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260705133000 +0000" stop="20260705140000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260705133000 +0000" stop="20260705134400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260705134400 +0000" stop="20260705140000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Reportaz TVP INFO (1058)</title>
   </programme>
   <programme start="20260705140000 +0000" stop="20260705150000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Dzien w godzine</title>

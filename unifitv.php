@@ -241,17 +241,17 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260703100000 +0000" stop="20260703133000 +0000" channel="fifa3.unifitv">
+  <programme start="20260703100000 +0000" stop="20260703143000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Netherlands vs Morocco : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260703133000 +0000" stop="20260703140000 +0000" channel="fifa3.unifitv">
+  <programme start="20260703143000 +0000" stop="20260703150000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260703140000 +0000" stop="20260703173000 +0000" channel="fifa3.unifitv">
+  <programme start="20260703150000 +0000" stop="20260703183000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Spain vs Austria : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
