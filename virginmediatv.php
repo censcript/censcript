@@ -136,8 +136,11 @@
 <programme start="20260703173000 +0000" stop="20260703203000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Live: FIFA World Cup 2026 - Round of 32: Australia v Egypt</title>
 </programme>
-<programme start="20260703000000 +0000" stop="20260703005000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260703000000 +0000" stop="20260703004700 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>I Kissed a Girl</title>
+</programme>
+<programme start="20260703004700 +0000" stop="20260703005000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Channel Off Air</title>
 </programme>
 <programme start="20260703005000 +0000" stop="20260703060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
