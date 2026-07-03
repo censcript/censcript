@@ -2809,14 +2809,11 @@
 <programme start="20260703053000 +0000" stop="20260703070000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Committees Replay</title>
 </programme>
-<programme start="20260703113000 +0000" stop="20260703131000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20260703112000 +0000" stop="20260703134500 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20260703131000 +0000" stop="20260703140000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
-</programme>
-<programme start="20260703140000 +0000" stop="20260703160000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20260703134500 +0000" stop="20260703160000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260703160000 +0000" stop="20260703190000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Topical Issues</title>
