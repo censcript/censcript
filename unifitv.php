@@ -1,5 +1,5 @@
 <!-- Fetching EPG from 2026-07-05 00:00:00 to 2026-07-06 00:00:00 MYT -->
-<!-- Total programs: 64, Total pages: 7 -->
+<!-- Total programs: 72, Total pages: 8 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="UnifiTV EPG Parser" generator-info-url="https://unifitv.com.my/">
   <channel id="fifa1.unifitv">
@@ -15348,5 +15348,632 @@
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <channel id="nhkworldjapan.unifitv">
+    <display-name>NHK WORLD-JAPAN</display-name>
+  </channel>
+  <programme start="20260704151500 +0000" stop="20260704160000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Train Cruise</title>
+    <desc lang="en">Travel the Iga Railway and Kintetsu Railway lines through Iga in Mie Prefecture, one of the Japan's leading ninja regions. Experience their traditions and training, and taste their portable rations.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2067.</episode-num>
+    <episode-num system="onscreen">S1E2068</episode-num>
+  </programme>
+  <programme start="20260704160000 +0000" stop="20260704160500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japanology Plus mini</title>
+    <desc lang="en">Japan now has roughly 8.5 million vacant homes - we look at various initiatives that aim to address this issue, including renovating homes as investments or using them to revitalise local communities.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6031.</episode-num>
+    <episode-num system="onscreen">S1E6032</episode-num>
+  </programme>
+  <programme start="20260704160500 +0000" stop="20260704161500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260704161500 +0000" stop="20260704164500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yokai</title>
+    <desc lang="en">The yokai Ubume was said to be a ghostly woman appearing at night asking passers-by to hold her child under threat of death - we examine how this terrifying figure came to be seen sympathetically.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3021.</episode-num>
+    <episode-num system="onscreen">S1E3022</episode-num>
+  </programme>
+  <programme start="20260704164500 +0000" stop="20260704170000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Kyle Card hikes along a 1000km trail following the Pacific Coast in northern Japan - he discovers local lifestyles, stunning nature, traces of the area's 2011 disaster and resilient people.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6216.</episode-num>
+    <episode-num system="onscreen">S1E6217</episode-num>
+  </programme>
+  <programme start="20260704170000 +0000" stop="20260704170500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyo-e Edo-Life</title>
+    <desc lang="en">Doodles or Ukiyo-e: A series of doodles by famous artist Utagawa Kuniyoshi turn out to be carefully considered depictions of the kabuki actors of the day; what kind of statement was he trying to make?</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
+  </programme>
+  <programme start="20260704170500 +0000" stop="20260704171500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260704171500 +0000" stop="20260704173000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Bosai: Science That Can Save Your Life</title>
+    <desc lang="en">Be earthquake-ready and learn survival tips for quakes and when you're trapped under rubble - you'll want to watch this before your next trip to Japan!</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2089.</episode-num>
+    <episode-num system="onscreen">S1E2090</episode-num>
+  </programme>
+  <programme start="20260704173000 +0000" stop="20260704173500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Design Museum Japan</title>
+    <desc lang="en">Hokkaido / Takeya Takayuki (model maker) Fishing boats in the herring industry-which thrived here until the 1950s-featured swirling decorations that made a big impression on Takeya, a Hokkaido native.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6057.</episode-num>
+    <episode-num system="onscreen">S1E6058</episode-num>
+  </programme>
+  <programme start="20260704173500 +0000" stop="20260704180500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Choreographers create the movement and staging of a kabuki performance, contributing hugely to its appeal - our guest, expert choreographer Fujima Kanjuro, talks about the intricacies of the job.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2034.</episode-num>
+    <episode-num system="onscreen">S1E2035</episode-num>
+  </programme>
+  <programme start="20260704180500 +0000" stop="20260704181500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260704181500 +0000" stop="20260704190500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The Deadly Escape Game of Refugees</title>
+    <desc lang="en">As the number of refugees in the world reaches unprecedented heights, smugglers have appeared claiming to transport them to safety but they instead become pawns in a game with their lives at stake.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4000.</episode-num>
+    <episode-num system="onscreen">S1E4001</episode-num>
+  </programme>
+  <programme start="20260704190500 +0000" stop="20260704191500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260704191500 +0000" stop="20260704195900 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Core Kyoto Special</title>
+    <desc lang="en">The Zen school of Buddhism emphasises the practice of zazen meditation as the path to enlightenment - the spirit of Zen flows through the gardens, art, cuisine and other aspects of Kyoto culture.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
+  </programme>
+  <programme start="20260704195900 +0000" stop="20260704200500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Trails to Oishii Tokyo mini 5min.</title>
+    <desc lang="en">We focus on moyashi (bean sprouts) - they may not look like much, but they're popular as they're packed with vitamins and minerals, are easy to use and - most important of all - are affordable.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6056.</episode-num>
+    <episode-num system="onscreen">S1E6057</episode-num>
+  </programme>
+  <programme start="20260704200500 +0000" stop="20260704201500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260704201500 +0000" stop="20260704204000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Darwin's Amazing Animals</title>
+    <desc lang="en">We all crave attention, but one bird goes the extra mile to rise above the flock. Come to Suriname - South America's smallest country - to catch the main attraction: the Guianan cock-of-the-rock!</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4029.</episode-num>
+    <episode-num system="onscreen">S1E4030</episode-num>
+  </programme>
+  <programme start="20260704204000 +0000" stop="20260704204500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Time-Lapse Journey</title>
+    <desc lang="en">Seto Inland Sea is the largest body of water of its kind in Japan - see the sights of the Great Seto Bridge and the shallow coastal waters through time-lapse photography.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6047.</episode-num>
+    <episode-num system="onscreen">S1E6048</episode-num>
+  </programme>
+  <programme start="20260704204500 +0000" stop="20260704205500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Story Land in Classical Japanese</title>
+    <desc lang="en">This programme presents masterpieces of classical Japanese literature - in both original forms and modern translations - with easy-to-understand imagery that conveys the world view of ancient Japan.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4042.</episode-num>
+    <episode-num system="onscreen">S1E4043</episode-num>
+  </programme>
+  <programme start="20260704205500 +0000" stop="20260704210500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Mitateru-phose</title>
+    <desc lang="en">This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4045.</episode-num>
+    <episode-num system="onscreen">S1E4046</episode-num>
+  </programme>
+  <programme start="20260704210500 +0000" stop="20260704211500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260704211500 +0000" stop="20260704220000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Train Cruise</title>
+    <desc lang="en">Travel the Iga Railway and Kintetsu Railway lines through Iga in Mie Prefecture, one of the Japan's leading ninja regions. Experience their traditions and training, and taste their portable rations.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2067.</episode-num>
+    <episode-num system="onscreen">S1E2068</episode-num>
+  </programme>
+  <programme start="20260704220000 +0000" stop="20260704220500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japanology Plus mini</title>
+    <desc lang="en">Japan now has roughly 8.5 million vacant homes - we look at various initiatives that aim to address this issue, including renovating homes as investments or using them to revitalise local communities.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6031.</episode-num>
+    <episode-num system="onscreen">S1E6032</episode-num>
+  </programme>
+  <programme start="20260704220500 +0000" stop="20260704221500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260704221500 +0000" stop="20260704224500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yokai</title>
+    <desc lang="en">The yokai Ubume was said to be a ghostly woman appearing at night asking passers-by to hold her child under threat of death - we examine how this terrifying figure came to be seen sympathetically.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3021.</episode-num>
+    <episode-num system="onscreen">S1E3022</episode-num>
+  </programme>
+  <programme start="20260704224500 +0000" stop="20260704230000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Kyle Card hikes along a 1000km trail following the Pacific Coast in northern Japan - he discovers local lifestyles, stunning nature, traces of the area's 2011 disaster and resilient people.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6216.</episode-num>
+    <episode-num system="onscreen">S1E6217</episode-num>
+  </programme>
+  <programme start="20260704230000 +0000" stop="20260704230500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyo-e Edo-Life</title>
+    <desc lang="en">Doodles or Ukiyo-e: A series of doodles by famous artist Utagawa Kuniyoshi turn out to be carefully considered depictions of the kabuki actors of the day; what kind of statement was he trying to make?</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
+  </programme>
+  <programme start="20260704230500 +0000" stop="20260704231500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260704231500 +0000" stop="20260704233000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Bosai: Science That Can Save Your Life</title>
+    <desc lang="en">Be earthquake-ready and learn survival tips for quakes and when you're trapped under rubble - you'll want to watch this before your next trip to Japan!</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2089.</episode-num>
+    <episode-num system="onscreen">S1E2090</episode-num>
+  </programme>
+  <programme start="20260704233000 +0000" stop="20260704233500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Design Museum Japan</title>
+    <desc lang="en">Hokkaido / Takeya Takayuki (model maker) Fishing boats in the herring industry-which thrived here until the 1950s-featured swirling decorations that made a big impression on Takeya, a Hokkaido native.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6057.</episode-num>
+    <episode-num system="onscreen">S1E6058</episode-num>
+  </programme>
+  <programme start="20260704233500 +0000" stop="20260705000500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Choreographers create the movement and staging of a kabuki performance, contributing hugely to its appeal - our guest, expert choreographer Fujima Kanjuro, talks about the intricacies of the job.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2034.</episode-num>
+    <episode-num system="onscreen">S1E2035</episode-num>
+  </programme>
+  <programme start="20260705000500 +0000" stop="20260705005500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The People Among the Plastic</title>
+    <desc lang="en">The Anthropocene era is when human activity started impacting our planet - inconvenient truths pile up in some of Indonesia's poorest communities where 'plastic farmers' can barely make ends meet.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3025.</episode-num>
+    <episode-num system="onscreen">S1E3026</episode-num>
+  </programme>
+  <programme start="20260705005500 +0000" stop="20260705010500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Nun's Seasonal Calendar</title>
+    <desc lang="en">In this episode, we learn about the summer dates of shousho and taisho. The temple chefs teach us how to make two seasonal specialties: somen noodle rolls and marinated summer vegetables.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6123.</episode-num>
+    <episode-num system="onscreen">S1E6124</episode-num>
+  </programme>
+  <programme start="20260705010500 +0000" stop="20260705011500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705011500 +0000" stop="20260705020500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Grand Sumo Legends</title>
+    <desc lang="en">84 tournaments as yokozuna, 1,187 career wins and 45 championships. These are some of the great records set by legendary Yokozuna Hakuho. We look back on his sumo career thorough archival footage.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5000.</episode-num>
+    <episode-num system="onscreen">S1E5001</episode-num>
+  </programme>
+  <programme start="20260705020500 +0000" stop="20260705021500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705021500 +0000" stop="20260705024500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">J-Melo</title>
+    <desc lang="en">Tune in to J-Melo for great Japanese music! This week, a live special with four diverse acts: three bands (Field of View, She's, and Negishio Tondon) plus the sana solo project sajou no hana.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2003.</episode-num>
+    <episode-num system="onscreen">S1E2004</episode-num>
+  </programme>
+  <programme start="20260705024500 +0000" stop="20260705025500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Little Charo</title>
+    <desc lang="en">An animated series about a Japanese dog who gets lost in New York City. Charo says 'I want to see my owner again!', and so he starts his adventure to find his way back home.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6115.</episode-num>
+    <episode-num system="onscreen">S1E6116</episode-num>
+  </programme>
+  <programme start="20260705025500 +0000" stop="20260705030000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japanology Plus mini</title>
+    <desc lang="en">Heavy machinery is indispensable in construction - we look at all kinds of machines, from small excavators to tower cranes for high-rise buildings and even cutting-edge remote operation systems.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6031.</episode-num>
+    <episode-num system="onscreen">S1E6032</episode-num>
+  </programme>
+  <programme start="20260705030000 +0000" stop="20260705030500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">A Cat's-Eye View of Japan</title>
+    <desc lang="en">Nyan lives in a porcelain workshop near Hikone Castle. He stays near his beloved owner during work time. Kuro lives at a temple that she patrols daily. She strikes a dramatic pose during her nap.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6044.</episode-num>
+    <episode-num system="onscreen">S1E6045</episode-num>
+  </programme>
+  <programme start="20260705030500 +0000" stop="20260705031500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705031500 +0000" stop="20260705034500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cycle Around Japan Highlights</title>
+    <desc lang="en">We experience a warm welcome in the hard-working small communities on the islands and coast of the Yamaguchi end of the Seto Inland Sea - they are poor in amenities but rich in happiness and kindness.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2069.</episode-num>
+    <episode-num system="onscreen">S1E2070</episode-num>
+  </programme>
+  <programme start="20260705034500 +0000" stop="20260705040500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The Wakey Show</title>
+    <desc lang="en">This episode features "Wakey's Door" on the Japanese school backpack randoseru,"Mind and Body Exercise" to move and feel refreshed, and a Comedy Writers skit, "I Lose Things." It energises kids.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5203.</episode-num>
+    <episode-num system="onscreen">S1E5204</episode-num>
+  </programme>
+  <programme start="20260705040500 +0000" stop="20260705041500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705041500 +0000" stop="20260705050500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Somewhere Street</title>
+    <desc lang="en">Once a bustling garment district, Sentier is now home to many Internet start-ups and hosts new restaurants, galleries and boutiques that make it a dynamic hub for trendsetting businesses in Paris.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4016.</episode-num>
+    <episode-num system="onscreen">S1E4017</episode-num>
+  </programme>
+  <programme start="20260705050500 +0000" stop="20260705051500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705051500 +0000" stop="20260705053000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ramen Japan</title>
+    <desc lang="en">A unique ramen loaded with fresh local vegetables! Savor a premium bowl packed with rich chicken flavour.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
+  </programme>
+  <programme start="20260705053000 +0000" stop="20260705053500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Gifts are exchanged in the traditional betrothal rite - paper cords are twisted into intricate shapes and decorate gifts.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6023.</episode-num>
+    <episode-num system="onscreen">S1E6024</episode-num>
+  </programme>
+  <programme start="20260705053500 +0000" stop="20260705055000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Easy Japanese for Work</title>
+    <desc lang="en">Today: cheering up a junior employee who is feeling down. Nyamjav Baljinnyam from Mongolia works at a car maintenance company - he takes on a role play challenge to help improve his Japanese skills.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2077.</episode-num>
+    <episode-num system="onscreen">S1E2078</episode-num>
+  </programme>
+  <programme start="20260705055000 +0000" stop="20260705060500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Zero Waste Life</title>
+    <desc lang="en">Taoda Ayane does amazing things with milk cartons by transforming them into accessories, bags, and even clothing - the cartons are strong and water-resistant and so her creations are practical too.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2092.</episode-num>
+    <episode-num system="onscreen">S1E2093</episode-num>
+  </programme>
+  <programme start="20260705060500 +0000" stop="20260705061500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705061500 +0000" stop="20260705070500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The People Among the Plastic</title>
+    <desc lang="en">The Anthropocene era is when human activity started impacting our planet - inconvenient truths pile up in some of Indonesia's poorest communities where 'plastic farmers' can barely make ends meet.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3025.</episode-num>
+    <episode-num system="onscreen">S1E3026</episode-num>
+  </programme>
+  <programme start="20260705070500 +0000" stop="20260705071500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705071500 +0000" stop="20260705080500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Grand Sumo Legends</title>
+    <desc lang="en">84 tournaments as yokozuna, 1,187 career wins and 45 championships. These are some of the great records set by legendary Yokozuna Hakuho. We look back on his sumo career thorough archival footage.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5000.</episode-num>
+    <episode-num system="onscreen">S1E5001</episode-num>
+  </programme>
+  <programme start="20260705080500 +0000" stop="20260705081500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705081500 +0000" stop="20260705090500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Somewhere Street</title>
+    <desc lang="en">Once a bustling garment district, Sentier is now home to many Internet start-ups and hosts new restaurants, galleries and boutiques that make it a dynamic hub for trendsetting businesses in Paris.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4016.</episode-num>
+    <episode-num system="onscreen">S1E4017</episode-num>
+  </programme>
+  <programme start="20260705090500 +0000" stop="20260705091500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705091500 +0000" stop="20260705094500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cycle Around Japan Highlights</title>
+    <desc lang="en">We experience a warm welcome in the hard-working small communities on the islands and coast of the Yamaguchi end of the Seto Inland Sea - they are poor in amenities but rich in happiness and kindness.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2069.</episode-num>
+    <episode-num system="onscreen">S1E2070</episode-num>
+  </programme>
+  <programme start="20260705094500 +0000" stop="20260705100500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The Wakey Show</title>
+    <desc lang="en">This episode features "Wakey's Door" on the Japanese school backpack randoseru,"Mind and Body Exercise" to move and feel refreshed, and a Comedy Writers skit, "I Lose Things." It energises kids.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5203.</episode-num>
+    <episode-num system="onscreen">S1E5204</episode-num>
+  </programme>
+  <programme start="20260705100500 +0000" stop="20260705101500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705101500 +0000" stop="20260705104500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">J-Melo</title>
+    <desc lang="en">Tune in to J-Melo for great Japanese music! This week, a live special with four diverse acts: three bands (Field of View, She's, and Negishio Tondon) plus the sana solo project sajou no hana.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2003.</episode-num>
+    <episode-num system="onscreen">S1E2004</episode-num>
+  </programme>
+  <programme start="20260705104500 +0000" stop="20260705105500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Little Charo</title>
+    <desc lang="en">An animated series about a Japanese dog who gets lost in New York City. Charo says 'I want to see my owner again!', and so he starts his adventure to find his way back home.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6115.</episode-num>
+    <episode-num system="onscreen">S1E6116</episode-num>
+  </programme>
+  <programme start="20260705105500 +0000" stop="20260705110000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japanology Plus mini</title>
+    <desc lang="en">Heavy machinery is indispensable in construction - we look at all kinds of machines, from small excavators to tower cranes for high-rise buildings and even cutting-edge remote operation systems.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6031.</episode-num>
+    <episode-num system="onscreen">S1E6032</episode-num>
+  </programme>
+  <programme start="20260705110000 +0000" stop="20260705110500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">A Cat's-Eye View of Japan</title>
+    <desc lang="en">Nyan lives in a porcelain workshop near Hikone Castle. He stays near his beloved owner during work time. Kuro lives at a temple that she patrols daily. She strikes a dramatic pose during her nap.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6044.</episode-num>
+    <episode-num system="onscreen">S1E6045</episode-num>
+  </programme>
+  <programme start="20260705110500 +0000" stop="20260705111500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705111500 +0000" stop="20260705113000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ramen Japan</title>
+    <desc lang="en">A unique ramen loaded with fresh local vegetables! Savor a premium bowl packed with rich chicken flavour.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
+  </programme>
+  <programme start="20260705113000 +0000" stop="20260705113500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Gifts are exchanged in the traditional betrothal rite - paper cords are twisted into intricate shapes and decorate gifts.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6023.</episode-num>
+    <episode-num system="onscreen">S1E6024</episode-num>
+  </programme>
+  <programme start="20260705113500 +0000" stop="20260705115000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Easy Japanese for Work</title>
+    <desc lang="en">Today: cheering up a junior employee who is feeling down. Nyamjav Baljinnyam from Mongolia works at a car maintenance company - he takes on a role play challenge to help improve his Japanese skills.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2077.</episode-num>
+    <episode-num system="onscreen">S1E2078</episode-num>
+  </programme>
+  <programme start="20260705115000 +0000" stop="20260705120500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Zero Waste Life</title>
+    <desc lang="en">Taoda Ayane does amazing things with milk cartons by transforming them into accessories, bags, and even clothing - the cartons are strong and water-resistant and so her creations are practical too.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2092.</episode-num>
+    <episode-num system="onscreen">S1E2093</episode-num>
+  </programme>
+  <programme start="20260705120500 +0000" stop="20260705121500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705121500 +0000" stop="20260705130500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The People Among the Plastic</title>
+    <desc lang="en">The Anthropocene era is when human activity started impacting our planet - inconvenient truths pile up in some of Indonesia's poorest communities where 'plastic farmers' can barely make ends meet.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3025.</episode-num>
+    <episode-num system="onscreen">S1E3026</episode-num>
+  </programme>
+  <programme start="20260705130500 +0000" stop="20260705131500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705131500 +0000" stop="20260705140500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Grand Sumo Legends</title>
+    <desc lang="en">84 tournaments as yokozuna, 1,187 career wins and 45 championships. These are some of the great records set by legendary Yokozuna Hakuho. We look back on his sumo career thorough archival footage.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5000.</episode-num>
+    <episode-num system="onscreen">S1E5001</episode-num>
+  </programme>
+  <programme start="20260705140500 +0000" stop="20260705141500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705141500 +0000" stop="20260705144500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cycle Around Japan Highlights</title>
+    <desc lang="en">We experience a warm welcome in the hard-working small communities on the islands and coast of the Yamaguchi end of the Seto Inland Sea - they are poor in amenities but rich in happiness and kindness.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2069.</episode-num>
+    <episode-num system="onscreen">S1E2070</episode-num>
+  </programme>
+  <programme start="20260705144500 +0000" stop="20260705150500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The Wakey Show</title>
+    <desc lang="en">This episode features "Wakey's Door" on the Japanese school backpack randoseru,"Mind and Body Exercise" to move and feel refreshed, and a Comedy Writers skit, "I Lose Things." It energises kids.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5203.</episode-num>
+    <episode-num system="onscreen">S1E5204</episode-num>
+  </programme>
+  <programme start="20260705150500 +0000" stop="20260705151500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260705151500 +0000" stop="20260705154500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">J-Melo</title>
+    <desc lang="en">Tune in to J-Melo for great Japanese music! This week, a live special with four diverse acts: three bands (Field of View, She's, and Negishio Tondon) plus the sana solo project sajou no hana.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2003.</episode-num>
+    <episode-num system="onscreen">S1E2004</episode-num>
+  </programme>
+  <programme start="20260705154500 +0000" stop="20260705155500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Little Charo</title>
+    <desc lang="en">An animated series about a Japanese dog who gets lost in New York City. Charo says 'I want to see my owner again!', and so he starts his adventure to find his way back home.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6115.</episode-num>
+    <episode-num system="onscreen">S1E6116</episode-num>
+  </programme>
+  <programme start="20260705155500 +0000" stop="20260705160000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japanology Plus mini</title>
+    <desc lang="en">Heavy machinery is indispensable in construction - we look at all kinds of machines, from small excavators to tower cranes for high-rise buildings and even cutting-edge remote operation systems.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6031.</episode-num>
+    <episode-num system="onscreen">S1E6032</episode-num>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705160500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">A Cat's-Eye View of Japan</title>
+    <desc lang="en">Nyan lives in a porcelain workshop near Hikone Castle. He stays near his beloved owner during work time. Kuro lives at a temple that she patrols daily. She strikes a dramatic pose during her nap.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6044.</episode-num>
+    <episode-num system="onscreen">S1E6045</episode-num>
+  </programme>
+  <channel id="unifisports1.unifitv">
+    <display-name>Unifi Sports 1</display-name>
+  </channel>
+  <programme start="20260704140000 +0000" stop="20260704195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Fiziev vs. Torres - Main</title>
+    <desc lang="en">All-action lightweights headline UFC's return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260704195500 +0000" stop="20260704200000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260704200000 +0000" stop="20260705010000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Kape vs. Horiguchi - Main</title>
+    <desc lang="en">A crucial matchup between flyweight contenders headlines UFC's return to action at the Meta APEX in Las Vegas on Saturday, June 21 as second-ranked contender Manel “Starboy” Kape faces off with fifthranked Kyoji Horiguchi. A winner of seven of his last eight appearances and each of his last three outings, Kape makes his 2026 debut off a first-round knockout win over former title challenger Brandon Royval last December in the same building. A title challenger during his first stint with the promotion, Horiuchi has earned back-to-back wins since returning to the UFC last November and looks to cement his standing as a contender with a third straight standout performance.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705010000 +0000" stop="20260705015500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 316: Dvalishvili vs O'Malley</title>
+    <desc lang="en">UFC 316 Countdown previews two bantamweight title fights. In the main event, men's champion Merab “The Machine” Dvalishvili battles “Suga” Sean O'Malley in a rematch. In the co-main event, women's title holder Julianna Pena takes on Kayla Harrison.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705015500 +0000" stop="20260705020000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705020000 +0000" stop="20260705023000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 7</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705023000 +0000" stop="20260705030000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 14</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC 305: Du Plessis vs Adesanya</title>
+    <desc lang="en">UFC 305 featured the battle for the middleweight title as reigning champion Dricus "Stillknocks" Du Plessis defended his belt against former champion Israel "The Last Stylebender" Adesanya. See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Connected - 801 - UFC Connected "Origins: Themba Gorimbo, Unbreakable: Njokuani Brothers, Warrior Code: Dricus du Plessis</title>
+    <desc lang="en">UFC welterweight Themba Gorimbo reveals how he overcame a life of hardship and adversity, from the trenches of the African gold mines to the biggest stage in MMA. Chidi Njokuani details his life-long journey to the octagon under the guidance and mentorship of his brother Anthony Njokuani, former UFC lightweight contender. UFC Middleweight Champion Dricus du Plessis reveals his keys to success in the octagon.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705040000 +0000" stop="20260705050000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Unleashed - 1806: Sensational Submissions</title>
+    <desc lang="en">There are some submissions even more impressive and surprising than a knockout. On this episode of UFC Unleashed we showcase 4 stunning submissions featuring Jessica Andrade, Dricus Du Plessis, Dustin Poirier and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705050000 +0000" stop="20260705080000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) AFL Premiership Season - Round 17 - Essendon v St Kilda</title>
+    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705080000 +0000" stop="20260705083000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1003 - Ultimate Knockouts "Hispanic Heritage Month 2023</title>
+    <desc lang="en">UFC Ultimate Knockouts celebrates Hispanic Heritage Month. See Edson Barboza, Polyana Viana, Marlon Vera, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 7</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 14</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705093000 +0000" stop="20260705100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC 305: Du Plessis vs Adesanya</title>
+    <desc lang="en">UFC 305 featured the battle for the middleweight title as reigning champion Dricus "Stillknocks" Du Plessis defended his belt against former champion Israel "The Last Stylebender" Adesanya. See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 313: Pereira vs Ankalaev</title>
+    <desc lang="en">After a historic 2024 that saw him defend his UFC light heavyweight title three times with three knockouts, Brazilian superstar Alex Pereira begins the new year in Las Vegas with a main event clash against number one contender Magomed Ankalaev. Plus former interim lightweight champion Justin Gaithje battles Rafael Fiziev for the second time, and much much more on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1003 - Ultimate Knockouts "Hispanic Heritage Month 2023</title>
+    <desc lang="en">UFC Ultimate Knockouts celebrates Hispanic Heritage Month. See Edson Barboza, Polyana Viana, Marlon Vera, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705130000 +0000" stop="20260705135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 316: Dvalishvili vs O'Malley</title>
+    <desc lang="en">UFC 316 Countdown previews two bantamweight title fights. In the main event, men's champion Merab “The Machine” Dvalishvili battles “Suga” Sean O'Malley in a rematch. In the co-main event, women's title holder Julianna Pena takes on Kayla Harrison.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705135500 +0000" stop="20260705140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Fiziev vs. Torres - Main</title>
+    <desc lang="en">All-action lightweights headline UFC's return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
+    <category lang="en">Sports</category>
   </programme>
 </tv>

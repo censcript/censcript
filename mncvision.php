@@ -5809,7 +5809,87 @@
 <programme start="20260705153500 +0000" stop="20260705160500 +0000" channel="Lifetime.mncvision">
     <title>The Boarding School Murders</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260704172500 +0000" stop="20260704182000 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S2, Ep 4</title>
+</programme>
+<programme start="20260704182000 +0000" stop="20260704191500 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S2, Ep 5</title>
+</programme>
+<programme start="20260704191500 +0000" stop="20260704201000 +0000" channel="Love Nature.mncvision">
+    <title>Jungle School S3, Ep 4</title>
+</programme>
+<programme start="20260704201000 +0000" stop="20260704210500 +0000" channel="Love Nature.mncvision">
+    <title>Jungle School S3, Ep 5</title>
+</programme>
+<programme start="20260704210500 +0000" stop="20260704220000 +0000" channel="Love Nature.mncvision">
+    <title>Jungle School S3, Ep 6</title>
+</programme>
+<programme start="20260704220000 +0000" stop="20260704222500 +0000" channel="Love Nature.mncvision">
+    <title>Strange Creatures S1, Ep 5</title>
+</programme>
+<programme start="20260704222500 +0000" stop="20260704232000 +0000" channel="Love Nature.mncvision">
+    <title>A Bee&#039;s Diary</title>
+</programme>
+<programme start="20260704232000 +0000" stop="20260705001500 +0000" channel="Love Nature.mncvision">
+    <title>Animal Empires S1, Ep 2</title>
+</programme>
+<programme start="20260705001500 +0000" stop="20260705011000 +0000" channel="Love Nature.mncvision">
+    <title>Snow Leopards S1, Ep 1</title>
+</programme>
+<programme start="20260705011000 +0000" stop="20260705020500 +0000" channel="Love Nature.mncvision">
+    <title>Snow Leopards S1, Ep 2</title>
+</programme>
+<programme start="20260705020500 +0000" stop="20260705030000 +0000" channel="Love Nature.mncvision">
+    <title>The Kimberley S1, Ep 1</title>
+</programme>
+<programme start="20260705030000 +0000" stop="20260705035000 +0000" channel="Love Nature.mncvision">
+    <title>The Kimberley S1, Ep 2</title>
+</programme>
+<programme start="20260705035000 +0000" stop="20260705044000 +0000" channel="Love Nature.mncvision">
+    <title>The Kimberley S1, Ep 3</title>
+</programme>
+<programme start="20260705044000 +0000" stop="20260705053500 +0000" channel="Love Nature.mncvision">
+    <title>Brazil Untamed S1, Ep 10</title>
+</programme>
+<programme start="20260705053500 +0000" stop="20260705063000 +0000" channel="Love Nature.mncvision">
+    <title>Supersenses S1, Ep 1</title>
+</programme>
+<programme start="20260705063000 +0000" stop="20260705072500 +0000" channel="Love Nature.mncvision">
+    <title>Supersenses S1, Ep 2</title>
+</programme>
+<programme start="20260705072500 +0000" stop="20260705082000 +0000" channel="Love Nature.mncvision">
+    <title>Supersenses S1, Ep 3</title>
+</programme>
+<programme start="20260705082000 +0000" stop="20260705091500 +0000" channel="Love Nature.mncvision">
+    <title>Island Of The Monsoon S1, Ep 1</title>
+</programme>
+<programme start="20260705091500 +0000" stop="20260705101000 +0000" channel="Love Nature.mncvision">
+    <title>Alien Abyss S1, Ep 1</title>
+</programme>
+<programme start="20260705101000 +0000" stop="20260705110500 +0000" channel="Love Nature.mncvision">
+    <title>Super Shark Highway S1, Ep 1</title>
+</programme>
+<programme start="20260705110500 +0000" stop="20260705120000 +0000" channel="Love Nature.mncvision">
+    <title>Super Shark Highway S1, Ep 2</title>
+</programme>
+<programme start="20260705120000 +0000" stop="20260705125500 +0000" channel="Love Nature.mncvision">
+    <title>Super Shark Highway S1, Ep 3</title>
+</programme>
+<programme start="20260705125500 +0000" stop="20260705135000 +0000" channel="Love Nature.mncvision">
+    <title>Super Shark Highway S1, Ep 4</title>
+</programme>
+<programme start="20260705135000 +0000" stop="20260705144500 +0000" channel="Love Nature.mncvision">
+    <title>Super Shark Highway S1, Ep 5</title>
+</programme>
+<programme start="20260705144500 +0000" stop="20260705154000 +0000" channel="Love Nature.mncvision">
+    <title>Super Shark Highway S1, Ep 6</title>
+</programme>
+<programme start="20260705154000 +0000" stop="20260705163500 +0000" channel="Love Nature.mncvision">
+    <title>Alien Abyss S1, Ep 1</title>
+</programme>
+<programme start="20260705163500 +0000" stop="20260704170500 +0000" channel="Love Nature.mncvision">
+    <title>Super Shark Highway S1, Ep 1</title>
+</programme>
 <programme start="20260704172500 +0000" stop="20260704182000 +0000" channel="Love Nature HD.mncvision">
     <title>My Best Friend&#039;s An... S2, Ep 4</title>
 </programme>

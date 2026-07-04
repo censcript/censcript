@@ -1,6 +1,3 @@
-<programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260704180000 +0000" stop="20260704200000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -35,9 +32,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260704180000 +0000" stop="20260704200000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -75,9 +69,6 @@
 </programme>
 <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260704163000 +0000" stop="20260704183000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 6 Rd 3 (C)[Live]</title>
 </programme>
 <programme start="20260704183000 +0000" stop="20260704200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 6 Rd 3 (D)[Live]</title>
@@ -300,9 +291,6 @@
 </programme>
 <programme start="20260705160000 +0000" stop="20260705181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 16 - Paraguay vs France</title>
-</programme>
-<programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Liverpool vs West Ham United</title>
 </programme>
 <programme start="20260704180000 +0000" stop="20260704200000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Burnley vs Brentford</title>

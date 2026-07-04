@@ -652,6 +652,15 @@
 <programme start="20260704090000 +0000" stop="20260704110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
+<programme start="20260704110000 +0000" stop="20260704130000 +0000" channel="ANTV.vision">
+<title>Rumah Kentang</title>
+</programme>
+<programme start="20260704130000 +0000" stop="20260704150000 +0000" channel="ANTV.vision">
+<title>Kuntilanak: Cermin Keramat</title>
+</programme>
+<programme start="20260704150000 +0000" stop="20260704170000 +0000" channel="ANTV.vision">
+<title>Depan Bisa Belakang Bisa</title>
+</programme>
 <programme start="20260704170000 +0000" stop="20260704190000 +0000" channel="ANTV.vision">
 <title>Righting Wrongs</title>
 </programme>
@@ -837,6 +846,9 @@
 </programme>
 <programme start="20260704124500 +0000" stop="20260704130000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
+</programme>
+<programme start="20260704130000 +0000" stop="20260704140000 +0000" channel="TVOne.vision">
+<title>Damai Indonesiaku Spesial UAS</title>
 </programme>
 <programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260705063000 +0000" stop="20260705070000 +0000" channel="BTV.vision">
 <title>Monster Jam</title>
-</programme>
-<programme start="20260705070000 +0000" stop="20260705073000 +0000" channel="BTV.vision">
-<title>Pecah Telur</title>
-</programme>
-<programme start="20260705073000 +0000" stop="20260705080000 +0000" channel="BTV.vision">
-<title>Meja Redaksi</title>
-</programme>
-<programme start="20260705080000 +0000" stop="20260705083000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20260705083000 +0000" stop="20260705100000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
 </programme>

@@ -796,7 +796,7 @@
   <programme start="20260706210000 +0000" stop="20260706222000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Rapl I (10)</title>
   </programme>
-  <programme start="20260705211000 +0000" stop="20260705231000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260705210500 +0000" stop="20260705231000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Dôvod žiť... a zomrieť</title>
   </programme>
   <programme start="20260705231000 +0000" stop="20260705235000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -811,8 +811,11 @@
   <programme start="20260706024500 +0000" stop="20260706040000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (5)</title>
   </programme>
-  <programme start="20260706040000 +0000" stop="20260706052500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706040000 +0000" stop="20260706050000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (6)</title>
+  </programme>
+  <programme start="20260706050000 +0000" stop="20260706052500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Alf II (10)</title>
   </programme>
   <programme start="20260706052500 +0000" stop="20260706054500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H V (16)</title>
@@ -820,52 +823,52 @@
   <programme start="20260706054500 +0000" stop="20260706064500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra V (4)</title>
   </programme>
-  <programme start="20260706064500 +0000" stop="20260706075000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706064500 +0000" stop="20260706074500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra V (5)</title>
   </programme>
-  <programme start="20260706075000 +0000" stop="20260706083000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706074500 +0000" stop="20260706082500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VI (6)</title>
   </programme>
-  <programme start="20260706083000 +0000" stop="20260706093000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706082500 +0000" stop="20260706092500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VI (7)</title>
   </programme>
-  <programme start="20260706093000 +0000" stop="20260706110000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706092500 +0000" stop="20260706105500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Tridsať prípadov majora Zemana (21)</title>
   </programme>
-  <programme start="20260706110000 +0000" stop="20260706114500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706105500 +0000" stop="20260706114000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána VI (21)</title>
   </programme>
-  <programme start="20260706114500 +0000" stop="20260706123500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706114000 +0000" stop="20260706123000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána VI (22)</title>
   </programme>
-  <programme start="20260706123500 +0000" stop="20260706133000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706123000 +0000" stop="20260706132500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra V (6)</title>
   </programme>
-  <programme start="20260706133000 +0000" stop="20260706143000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706132500 +0000" stop="20260706142000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">JAG - Vojenská generálna prokuratúra V (7)</title>
   </programme>
-  <programme start="20260706143000 +0000" stop="20260706153000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706142000 +0000" stop="20260706151500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 XIII (11)</title>
   </programme>
-  <programme start="20260706153000 +0000" stop="20260706163000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706151500 +0000" stop="20260706161000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 XIII (12)</title>
   </programme>
-  <programme start="20260706163000 +0000" stop="20260706173000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706161000 +0000" stop="20260706170500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VI (8)</title>
   </programme>
-  <programme start="20260706173000 +0000" stop="20260706182500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706170500 +0000" stop="20260706180000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VI (9)</title>
   </programme>
-  <programme start="20260706182500 +0000" stop="20260706190000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706180000 +0000" stop="20260706190000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H V (17)</title>
   </programme>
-  <programme start="20260706190000 +0000" stop="20260706210500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706190000 +0000" stop="20260706210000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Vice Versa</title>
   </programme>
-  <programme start="20260706210500 +0000" stop="20260706213500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706210000 +0000" stop="20260706213000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H V (16)</title>
   </programme>
-  <programme start="20260706213500 +0000" stop="20260706222500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260706213000 +0000" stop="20260706222000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VI (8)</title>
   </programme>
   <programme start="20260705204000 +0000" stop="20260705223000 +0000" channel="DajTo.webtv.sk">
@@ -2776,8 +2779,14 @@
   <programme start="20260705220000 +0000" stop="20260706040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
+  <programme start="20260706090000 +0000" stop="20260706101000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">O ČEM ZPÍVÁM</title>
+  </programme>
   <programme start="20260706103000 +0000" stop="20260706113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+  </programme>
+  <programme start="20260706120000 +0000" stop="20260706130500 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ARCHIV TELEVIZE ŠLÁGR</title>
   </programme>
   <programme start="20260706190000 +0000" stop="20260706220000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
