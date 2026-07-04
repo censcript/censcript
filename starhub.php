@@ -5005,7 +5005,7 @@
     <programme start="20260703210000 +0000" stop="20260703213000 +0000" channel="SPOTV.starhub">
         <title>Highlights 2</title>
     </programme>
-    <programme start="20260703213000 +0000" stop="20260703233000 +0000" channel="SPOTV.starhub">
+    <programme start="20260703213000 +0000" stop="20260703235000 +0000" channel="SPOTV.starhub">
         <title>Round 2 Session 2</title>
     </programme>
     <programme start="20260703235000 +0000" stop="20260704020000 +0000" channel="SPOTV.starhub">

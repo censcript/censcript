@@ -643,12 +643,6 @@
 <programme start="20260703223000 +0000" stop="20260704003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260704003000 +0000" stop="20260704023000 +0000" channel="ANTV.vision">
-<title>Genta Pertarungan</title>
-</programme>
-<programme start="20260704023000 +0000" stop="20260704060000 +0000" channel="ANTV.vision">
-<title>Albela</title>
-</programme>
 <programme start="20260704060000 +0000" stop="20260704073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -820,9 +814,6 @@
 <programme start="20260704010000 +0000" stop="20260704013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260704013000 +0000" stop="20260704020000 +0000" channel="TVOne.vision">
-<title>Antara</title>
-</programme>
 <programme start="20260704020000 +0000" stop="20260704023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -838,9 +829,6 @@
 <programme start="20260704040000 +0000" stop="20260704053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260704053000 +0000" stop="20260704060000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku</title>
-</programme>
 <programme start="20260704060000 +0000" stop="20260704070000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Siang</title>
 </programme>
@@ -849,9 +837,6 @@
 </programme>
 <programme start="20260704073000 +0000" stop="20260704080000 +0000" channel="TVOne.vision">
 <title>Kabar Bola Dunia</title>
-</programme>
-<programme start="20260704080000 +0000" stop="20260704090000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Akhir Pekan</title>
 </programme>
 <programme start="20260704090000 +0000" stop="20260704110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260705023000 +0000" stop="20260705030000 +0000" channel="BTV.vision">
 <title>Ini Indonesia</title>
+</programme>
+<programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="BTV.vision">
+<title>Vacation List</title>
+</programme>
+<programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="BTV.vision">
+<title>Cuan Iki</title>
+</programme>
+<programme start="20260705040000 +0000" stop="20260705053000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20260705053000 +0000" stop="20260705063000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20260705063000 +0000" stop="20260705070000 +0000" channel="BTV.vision">
+<title>Monster Jam</title>
 </programme>
