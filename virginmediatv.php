@@ -1913,7 +1913,7 @@
     <title>Antiques Road Trip</title>
 </programme>
 <programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="Really.virginmediatv">
-    <title>Antiques Road Trip</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260704150000 +0000" stop="20260704160000 +0000" channel="Really.virginmediatv">
     <title>Antiques Road Trip</title>

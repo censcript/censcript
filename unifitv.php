@@ -55,47 +55,37 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704003000 +0000" stop="20260704043000 +0000" channel="fifa1.unifitv">
+  <programme start="20260704003000 +0000" stop="20260704040000 +0000" channel="fifa1.unifitv">
     <title lang="en">(L) Colombia vs Ghana : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 2:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704043000 +0000" stop="20260704050000 +0000" channel="fifa1.unifitv">
+  <programme start="20260704040000 +0000" stop="20260704043000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704050000 +0000" stop="20260704053000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704053000 +0000" stop="20260704100000 +0000" channel="fifa1.unifitv">
+  <programme start="20260704043000 +0000" stop="20260704090000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Australia vs Egypt : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704100000 +0000" stop="20260704103000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704103000 +0000" stop="20260704143000 +0000" channel="fifa1.unifitv">
-    <title lang="en">(R) Colombia vs Ghana : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704143000 +0000" stop="20260704150000 +0000" channel="fifa1.unifitv">
+  <programme start="20260704090000 +0000" stop="20260704093000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704150000 +0000" stop="20260704153000 +0000" channel="fifa1.unifitv">
+  <programme start="20260704093000 +0000" stop="20260704130000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) Colombia vs Ghana : FIFA World Cup™ 2026 Round of 32</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260704130000 +0000" stop="20260704133000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704153000 +0000" stop="20260704200000 +0000" channel="fifa1.unifitv">
+  <programme start="20260704133000 +0000" stop="20260704180000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Australia vs Egypt : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
@@ -133,14 +123,9 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260703210000 +0000" stop="20260704010000 +0000" channel="fifa2.unifitv">
+  <programme start="20260703210000 +0000" stop="20260704013000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) Argentina vs Cape Verde : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 6:00 AM</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704010000 +0000" stop="20260704013000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260704013000 +0000" stop="20260704020000 +0000" channel="fifa2.unifitv">
@@ -148,38 +133,28 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704020000 +0000" stop="20260704060000 +0000" channel="fifa2.unifitv">
+  <programme start="20260704020000 +0000" stop="20260704063000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Argentina vs Cape Verde : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704060000 +0000" stop="20260704063000 +0000" channel="fifa2.unifitv">
+  <programme start="20260704063000 +0000" stop="20260704070000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704063000 +0000" stop="20260704070000 +0000" channel="fifa2.unifitv">
+  <programme start="20260704070000 +0000" stop="20260704113000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) Argentina vs Cape Verde : FIFA World Cup™ 2026 Round of 32</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260704113000 +0000" stop="20260704120000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704070000 +0000" stop="20260704110000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Argentina vs Cape Verde : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704110000 +0000" stop="20260704113000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704113000 +0000" stop="20260704120000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704120000 +0000" stop="20260704160000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Argentina vs Cape Verde : FIFA World Cup™ 2026 Round of 32</title>
+  <programme start="20260704120000 +0000" stop="20260704153000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) Spain vs Austria : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -4517,1479 +4492,6 @@
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
-  <channel id="duniasinemahd.unifitv">
-    <display-name>Dunia Sinema HD</display-name>
-  </channel>
-  <programme start="20260703140000 +0000" stop="20260703160000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Diari Abah</title>
-    <desc lang="en">Rahmat dipulaukan oleh tiga anaknya, Annur, Zarif &amp; Zakuan, setelah berkahwin buat kali kedua dengan Ashikin, ibu tunggal anak satu. Anak-anaknya menganggap kematian ibu mereka, Khalijad berpunca daripada keputusan Rahmat berkahwin lain. Namun mereka semua tersedar apabila Ashikin telah menyerahkan sebuah diari kepada mereka bertiga setelah Rahmat meninggal dunia. Tercatat dalam diari itu bahawa segala duit yang dikirimkan setiap bulan digunakan abah mereka untuk mendirikan rumah anak yatim atas permintaan arwah ibu mereka dengan nama Rumah Anak Yatim Cik Khalijah.</desc>
-    <category lang="en">Family</category>
-  </programme>
-  <programme start="20260703160000 +0000" stop="20260703180000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">3 Dara Pinggiran</title>
-    <desc lang="en">3 Dara Pinggiran mengisahkan tiga wanita dari latar hidup berbeza yang bergelut dengan cabaran hidup, cinta dan keluarga. Walaupun sering berdepan masalah dan salah faham, mereka saling menyokong antara satu sama lain dalam mencari kebahagiaan dan arah hidup masing-masing.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260703180000 +0000" stop="20260703200000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Gol &amp; Gincu 2</title>
-    <desc lang="en">Sekuel kepada Gol &amp; Gincu yang mengikuti kehidupan Putri dan rakan-rakannya selepas beberapa tahun. Mereka menghadapi cabaran baharu dalam kerjaya, cinta dan persahabatan, sambil cuba mengekalkan hubungan rapat yang telah lama terjalin.</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260703200000 +0000" stop="20260703220000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Matahari Tak Bercahaya</title>
-    <desc lang="en">Telefilem ini mengisahkan Mastura, seorang penjaga taska dan isteri kepada Shazan yang menjalani hidup bahagia di kampung. Namun semuanya berubah selepas satu insiden ketika menerima rawatan di hospital menyebabkan Mastura dijangkiti HIV secara tidak sengaja, lalu hidupnya berubah dari disenangi menjadi dibenci masyarakat kampung</desc>
-    <category lang="en">Family</category>
-  </programme>
-  <programme start="20260703220000 +0000" stop="20260704000000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Kasut Ku Kusut</title>
-    <desc lang="en">Kasut Ku Kusut mengisahkan seorang pemuda kampung bernama Manap yang berasa kecewa kerana kasut barunya telah hilang. Sementara itu, Markos, ahli kumpulan gangster Father Dragon, ditugaskan untuk membawa Suzi kepada ketua geng. Dalam perjalanan, mereka tersesat di sebuah kampung, dan Suzi berjaya melarikan diri lalu bertemu dengan Manap yang masih mencari kasutnya. Ketika Markos menemui mereka, Manap menyedari bahawa kasut yang dipakai oleh Markos kelihatan sangat mirip dengan kasutnya yang hilang.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260704000000 +0000" stop="20260704020000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Kaki Kitai</title>
-    <desc lang="en">Din AKA Drango dan Ayoi adalah dua sahabat yang juga merupakan penipu. Mereka berdua datang ke Kuala Lumpur dan secara tidak sengaja bertemu semula dengan seorang kawan lama yang kini bekerja sebagai pegawai polis. Namun, hidup mereka mula berubah apabila mereka menemui sebuah beg sampah yang dipenuhi dengan wang tunai, yang kemudian mereka gunakan untuk membayar hutang.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260704020000 +0000" stop="20260704030000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Ruang Temu</title>
-    <desc lang="en">Program temu bual bersama Tony Eusoff yang mengupas pengalaman peribadi beliau berkaitan pengalaman beliau di dalam industri seni</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260704030000 +0000" stop="20260704053000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">6 Jilake</title>
-    <desc lang="en">Sekumpulan samseng upahan yang dikenali sebagai “6 Jilake” ditugaskan oleh syarikat penjajah untuk menguasai lombong bijih timah di negeri Perak pada abad ke-18. Namun mereka berhadapan dengan seorang pendekar kampung yang hebat dan sukar dikalahkan, lalu tercetus konflik besar penuh aksi dan jenaka.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260704053000 +0000" stop="20260704073000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Gerabak Cinta</title>
-    <desc lang="en">Mengisahkan Luna, usahawan berjaya yang ditipu tunangnya, Razi. Dia kecewa apabila perniagaan yang mereka usahakan rugi kerana Razi terbabit dengan skandal wang serta mempunyai perempuan simpanan. Sementara itu, Gie pula baru saja dibuang kerja. Walaupun masih mencari kerja, dia sangat tenang dan tetap ceria. Gie reda dengan situasi menimpanya.</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260704073000 +0000" stop="20260704093000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Jin Notti</title>
-    <desc lang="en">Jin Notti, seekor jin nakal dari dunia jin, dihantar ke bumi untuk belajar menjadi baik dengan membantu manusia. Namun, misinya jadi huru-hara apabila dia jatuh cinta dengan gadis manusia bernama Amy, lalu mencetuskan pelbagai situasi lucu dan romantik antara dua dunia.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20260704093000 +0000" stop="20260704113000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Father &amp; Son</title>
-    <desc lang="en">Iman, seorang remaja, menjaga bapanya yang sakit. Selepas bapanya meninggal dunia, roh bapanya kembali untuk membantunya menghadapi sekolah, masalah buli, dan kehidupan cinta.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260704113000 +0000" stop="20260704133000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Jodoh Tak Salah Alamat</title>
-    <desc lang="en">Mengisahkan Luqman pernah mengenali seorang gadis bernama Diana ketika Diana melanggar keretanya dahulu. Diana berpenampilan seksi dan mengamalkan cara hidup barat membuatkan Luqman bersangka buruk terhadap Diana. Satu hari, Luqman ke masjid dan terserempak dengan seorang gadis cantik iaitu Adawiyah. Tanpa mengetahui, Adawiyah dan Diana adalah orang yang sama. Diana pernah terlibat dengan kemalangan dan sejak itu hidupnya berubah sepenuhnya.</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260704133000 +0000" stop="20260704140000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">Reaksiar</title>
-    <desc lang="en">Program yang memaparkan perkongsian pengalaman dan reaksi artis-artis jemputan setelah melihat kembali klip-klip lakonan mereka.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260704140000 +0000" stop="20260704160000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">My Dream My Wish</title>
-    <desc lang="en">Kisah tentang perjalanan hidup dan hubungan cinta yang diuji oleh takdir, di mana watak utama berdepan cabaran emosi, kehilangan, dan usaha untuk mengejar impian mereka dalam hidup.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260704160000 +0000" stop="20260704163000 +0000" channel="duniasinemahd.unifitv">
-    <title lang="en">One, Two, Trivia</title>
-    <desc lang="en">Sebuah program yang merungkai fakta-fakta menarik yang tersimpan dalam filem-filem klasik tempatan</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <channel id="pesonahd.unifitv">
-    <display-name>PESONA</display-name>
-  </channel>
-  <programme start="20260703140000 +0000" stop="20260703160000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Konser Luar Biasa Vol. 2 - Happy Birthday Rizky Ridho</title>
-    <desc lang="en">Saksikan Konser Luar Biasa Vol. 2 - Happy Birthday Rizki Ridho, sebuah persembahan istimewa meraikan hari lahir pasangan kembar ini dengan penuh kemeriahan dan kejutan. Raikan momen berharga ini bersama barisan bintang dangdut hebat.</desc>
-    <category lang="en">Singing</category>
-  </programme>
-  <programme start="20260703160000 +0000" stop="20260703170000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Saleha</title>
-    <desc lang="en">Saleha mengisahkan seorang gadis baik hati yang ditinggalkan oleh ayahnya dan dibesarkan oleh nenek. Selepas diculik dan kehilangan neneknya, dia dipersalahkan dan dihalau oleh keluarganya. Dengan semangat dan keimanan yang teguh, Saleha memulakan hidup baru di Jakarta sambil menyembunyikan penyakit serius.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.147.</episode-num>
-    <episode-num system="onscreen">S1E148</episode-num>
-  </programme>
-  <programme start="20260703170000 +0000" stop="20260703183000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Perjuanganku Mencari Ayah Yang Entah Dimana</title>
-    <desc lang="en">Ilham ingin segera berkahwin dengan Sandra, tetapi Sandra perlu mencari ayahnya untuk menjadi wali pernikahannya. Sayangnya, dia kecewa apabila mendapati ayahnya meminta RM200,000 sebagai syarat untuk menjadi walinya.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260703183000 +0000" stop="20260703200000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Neng Takoyaki Senyumnya Kok Gak Ada Di Menu</title>
-    <desc lang="en">Perkahwinan Bastian gagal apabila Sita, seorang peniaga takoyaki, muncul dan mendakwa bahawa dia ialah kekasih Bastian dan sedang hamil anaknya. Namun, kebenarannya terbongkar, Sita sebenarnya menerima bayaran daripada Bastian untuk menggagalkan perkahwinannya sendiri.</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260703200000 +0000" stop="20260703203000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Salingka Bumi Minang</title>
-    <desc lang="en">Dokumentari separa realiti yang meneroka Minang, sebuah wilayah di Indonesia yang terkenal sebagai Tanah Para Pedagang.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703203000 +0000" stop="20260703213000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Wanita Istimewa</title>
-    <desc lang="en">Mirsa (Alisia Rininta) dan Radit (Reuben Elishama) hidup sederhana di Padang sehingga satu kesilapan besar berlaku apabila Radit tanpa sedar membawa beg berisi dadah. Untuk melindungi suaminya, Mirsa menyerah diri dan dipenjara selama tujuh tahun, manakala bayi yang dilahirkannya terpaksa diserahkan kepada ibu mertuanya untuk dijaga. Selepas dibebaskan, Mirsa mencari keluarganya tetapi mendapati Radit sudah berpindah ke Jakarta. Jejak itu membawa Mirsa ke sebuah acara pelancaran perumahan di mana dia bertemu semula dengan Radit yang kini bersama isterinya Karina (Naomi Zaskia) dan berkenalan dengan Reza (Randy Pangalila), sementara tekanan daripada Pramana (Adipura) terhadap perkahwinan mereka mula terbongkar.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.91.</episode-num>
-    <episode-num system="onscreen">S1E92</episode-num>
-  </programme>
-  <programme start="20260703213000 +0000" stop="20260703233000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Karnaval SCTV 2024</title>
-    <desc lang="en">Karnaval SCTV merupakan sebuah rancangan varieti yang disiarkan di SCTV dan datang ke bandar anda. Ia dimeriahkan oleh para pelakon sinetron SCTV serta pemuzik tanah air. Karnaval SCTV kali ini hadir di Madiun dengan tetamu istimewa yang mengejutkan</desc>
-    <category lang="en">Singing</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20260703233000 +0000" stop="20260704003000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Pelangi Untuk Nirmala</title>
-    <desc lang="en">Persahabatan antara dua orang gadis, Pelangi dan Nirmala. Namun, persahabatan mereka ditentang oleh orang tua mereka kerana perbezaan strata sosial. Pelangi hidup dengan sederhana, sementara Nirmala hidup mewah.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260704003000 +0000" stop="20260704013000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Saleha</title>
-    <desc lang="en">Saleha mengisahkan seorang gadis baik hati yang ditinggalkan oleh ayahnya dan dibesarkan oleh nenek. Selepas diculik dan kehilangan neneknya, dia dipersalahkan dan dihalau oleh keluarganya. Dengan semangat dan keimanan yang teguh, Saleha memulakan hidup baru di Jakarta sambil menyembunyikan penyakit serius.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.147.</episode-num>
-    <episode-num system="onscreen">S1E148</episode-num>
-  </programme>
-  <programme start="20260704013000 +0000" stop="20260704030000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Perjuanganku Mencari Ayah Yang Entah Dimana</title>
-    <desc lang="en">Ilham ingin segera berkahwin dengan Sandra, tetapi Sandra perlu mencari ayahnya untuk menjadi wali pernikahannya. Sayangnya, dia kecewa apabila mendapati ayahnya meminta RM200,000 sebagai syarat untuk menjadi walinya.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260704030000 +0000" stop="20260704040000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Wanita Istimewa</title>
-    <desc lang="en">Mirsa (Alisia Rininta) dan Radit (Reuben Elishama) hidup sederhana di Padang sehingga satu kesilapan besar berlaku apabila Radit tanpa sedar membawa beg berisi dadah. Untuk melindungi suaminya, Mirsa menyerah diri dan dipenjara selama tujuh tahun, manakala bayi yang dilahirkannya terpaksa diserahkan kepada ibu mertuanya untuk dijaga. Selepas dibebaskan, Mirsa mencari keluarganya tetapi mendapati Radit sudah berpindah ke Jakarta. Jejak itu membawa Mirsa ke sebuah acara pelancaran perumahan di mana dia bertemu semula dengan Radit yang kini bersama isterinya Karina (Naomi Zaskia) dan berkenalan dengan Reza (Randy Pangalila), sementara tekanan daripada Pramana (Adipura) terhadap perkahwinan mereka mula terbongkar.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.91.</episode-num>
-    <episode-num system="onscreen">S1E92</episode-num>
-  </programme>
-  <programme start="20260704040000 +0000" stop="20260704050000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Cinta Setelah Cinta</title>
-    <desc lang="en">Starla menyangka dia telah menghadapi segalanya, tetapi penipuan Niko jauh lebih mendalam daripada yang disangkanya. Ketika dia terus berusaha mempertahankan perkahwinannya, ancaman baharu muncul. Ayu, yang masih taksub dengan Niko, semakin mengikatnya dalam perangkap dengan menggunakan anak mereka yang belum lahir sebagai umpan. Pada masa yang sama, naluri Starla merasakan ada sesuatu yang tidak kena, dan dia mula diburu oleh bayang-bayang serta rahsia gelap. Dengan keluarganya di ambang bahaya dan emosinya semakin tertekan, adakah Starla mampu melindungi orang-orang tersayang? Atau adakah pengkhianatan Niko akan mendorongnya melangkaui batas yang tidak boleh kembali?</desc>
-    <category lang="en">Romance</category>
-    <episode-num system="xmltv_ns">1.70.</episode-num>
-    <episode-num system="onscreen">S2E71</episode-num>
-  </programme>
-  <programme start="20260704050000 +0000" stop="20260704060000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Cinta Setelah Cinta</title>
-    <desc lang="en">Starla menyangka dia telah menghadapi segalanya, tetapi penipuan Niko jauh lebih mendalam daripada yang disangkanya. Ketika dia terus berusaha mempertahankan perkahwinannya, ancaman baharu muncul. Ayu, yang masih taksub dengan Niko, semakin mengikatnya dalam perangkap dengan menggunakan anak mereka yang belum lahir sebagai umpan. Pada masa yang sama, naluri Starla merasakan ada sesuatu yang tidak kena, dan dia mula diburu oleh bayang-bayang serta rahsia gelap. Dengan keluarganya di ambang bahaya dan emosinya semakin tertekan, adakah Starla mampu melindungi orang-orang tersayang? Atau adakah pengkhianatan Niko akan mendorongnya melangkaui batas yang tidak boleh kembali?</desc>
-    <category lang="en">Romance</category>
-    <episode-num system="xmltv_ns">1.71.</episode-num>
-    <episode-num system="onscreen">S2E72</episode-num>
-  </programme>
-  <programme start="20260704060000 +0000" stop="20260704070000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Cinta Setelah Cinta</title>
-    <desc lang="en">Starla menyangka dia telah menghadapi segalanya, tetapi penipuan Niko jauh lebih mendalam daripada yang disangkanya. Ketika dia terus berusaha mempertahankan perkahwinannya, ancaman baharu muncul. Ayu, yang masih taksub dengan Niko, semakin mengikatnya dalam perangkap dengan menggunakan anak mereka yang belum lahir sebagai umpan. Pada masa yang sama, naluri Starla merasakan ada sesuatu yang tidak kena, dan dia mula diburu oleh bayang-bayang serta rahsia gelap. Dengan keluarganya di ambang bahaya dan emosinya semakin tertekan, adakah Starla mampu melindungi orang-orang tersayang? Atau adakah pengkhianatan Niko akan mendorongnya melangkaui batas yang tidak boleh kembali?</desc>
-    <category lang="en">Romance</category>
-    <episode-num system="xmltv_ns">1.72.</episode-num>
-    <episode-num system="onscreen">S2E73</episode-num>
-  </programme>
-  <programme start="20260704070000 +0000" stop="20260704080000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Indonesia Pintar</title>
-    <desc lang="en">Rancangan permainan terbesar di Indonesia yang mempertandingkan kecerdasan dan kecekapan 100 pelajar sekolah. Program ini diisi dengan pelbagai permainan menarik dan hadiah keseluruhan bernilai jutaan rupiah.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <episode-num system="onscreen">S2E10</episode-num>
-  </programme>
-  <programme start="20260704080000 +0000" stop="20260704100000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Konser Luar Biasa Vol. 2 - Happy Birthday Rizky Ridho</title>
-    <desc lang="en">Saksikan Konser Luar Biasa Vol. 2 - Happy Birthday Rizki Ridho, sebuah persembahan istimewa meraikan hari lahir pasangan kembar ini dengan penuh kemeriahan dan kejutan. Raikan momen berharga ini bersama barisan bintang dangdut hebat.</desc>
-    <category lang="en">Singing</category>
-  </programme>
-  <programme start="20260704100000 +0000" stop="20260704110000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Saleha</title>
-    <desc lang="en">Saleha mengisahkan seorang gadis baik hati yang ditinggalkan oleh ayahnya dan dibesarkan oleh nenek. Selepas diculik dan kehilangan neneknya, dia dipersalahkan dan dihalau oleh keluarganya. Dengan semangat dan keimanan yang teguh, Saleha memulakan hidup baru di Jakarta sambil menyembunyikan penyakit serius.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.148.</episode-num>
-    <episode-num system="onscreen">S1E149</episode-num>
-  </programme>
-  <programme start="20260704110000 +0000" stop="20260704113000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Makan Terooos</title>
-    <desc lang="en">Jelajahi kekayaan masakan yang menampilkan rasa autentik. Sertai kami dalam pengembaraan rasa di seluruh Indonesia, hanya di Makan Terooos, di mana setiap hidangan memiliki kisahnya sendiri.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260704113000 +0000" stop="20260704123000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Wanita Istimewa</title>
-    <desc lang="en">Mirsa (Alisia Rininta) dan Radit (Reuben Elishama) hidup sederhana di Padang sehingga satu kesilapan besar berlaku apabila Radit tanpa sedar membawa beg berisi dadah. Untuk melindungi suaminya, Mirsa menyerah diri dan dipenjara selama tujuh tahun, manakala bayi yang dilahirkannya terpaksa diserahkan kepada ibu mertuanya untuk dijaga. Selepas dibebaskan, Mirsa mencari keluarganya tetapi mendapati Radit sudah berpindah ke Jakarta. Jejak itu membawa Mirsa ke sebuah acara pelancaran perumahan di mana dia bertemu semula dengan Radit yang kini bersama isterinya Karina (Naomi Zaskia) dan berkenalan dengan Reza (Randy Pangalila), sementara tekanan daripada Pramana (Adipura) terhadap perkahwinan mereka mula terbongkar.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.92.</episode-num>
-    <episode-num system="onscreen">S1E93</episode-num>
-  </programme>
-  <programme start="20260704123000 +0000" stop="20260704140000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Cinta Kan Membawamu Ke Titik Bahagia</title>
-    <desc lang="en">Reno, seorang penjual pecel, bertemu dengan Tiara yang berpura-pura menjadi orang kurang upaya demi menjejaki kehidupannya. Tiara terpaksa bersandiwara selepas diminta oleh bapa Reno untuk mengawasi serta menyiasat kehidupan Reno. Namun di sebalik tugas itu, Tiara mula jatuh hati terhadap Reno, begitu juga Reno yang sebenarnya turut menaruh perasaan terhadap Tiara.</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Lucky Voice</title>
-    <desc lang="en">Program permainan yang menguji pengetahuan muzik dengan pelbagai hadiah menarik.</desc>
-    <category lang="en">Edutainment</category>
-    <episode-num system="xmltv_ns">0.59.</episode-num>
-    <episode-num system="onscreen">S1E60</episode-num>
-  </programme>
-  <programme start="20260704150000 +0000" stop="20260704160000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Rindu Bukan Rindu</title>
-    <desc lang="en">Rindu Bukan Rindu mengisahkan kisah seorang wanita bernama Rindu yang merasa bertuah memiliki seorang lelaki bernama Devan. Kedua-duanya tinggal di Jepun dan menghabiskan masa bersama. Devan sentiasa berada di dekat Rindu, melindungi dan mencintainya. Hubungan di antara mereka terasa sangat rapat dan sempurna. Tetapi suatu hari, Rindu melihat Devan memegang tangan seorang wanita lain. Apakah yang terjadi di antara mereka?</desc>
-    <category lang="en">Romance</category>
-    <episode-num system="xmltv_ns">0.45.</episode-num>
-    <episode-num system="onscreen">S1E46</episode-num>
-  </programme>
-  <programme start="20260704160000 +0000" stop="20260704170000 +0000" channel="pesonahd.unifitv">
-    <title lang="en">Saleha</title>
-    <desc lang="en">Saleha mengisahkan seorang gadis baik hati yang ditinggalkan oleh ayahnya dan dibesarkan oleh nenek. Selepas diculik dan kehilangan neneknya, dia dipersalahkan dan dihalau oleh keluarganya. Dengan semangat dan keimanan yang teguh, Saleha memulakan hidup baru di Jakarta sambil menyembunyikan penyakit serius.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.148.</episode-num>
-    <episode-num system="onscreen">S1E149</episode-num>
-  </programme>
-  <channel id="tvnhd.unifitv">
-    <display-name>tvN HD</display-name>
-  </channel>
-  <programme start="20260703143500 +0000" stop="20260703162500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">KILL IT: Style Creator Showdown</title>
-    <desc lang="en">100 women compete in this high-stakes survival show to become the next global K-fashion icon.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260703162500 +0000" stop="20260703174500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Mr. Eo's Food World Tour</title>
-    <desc lang="en">Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703174500 +0000" stop="20260703184500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Walking Through The Village</title>
-    <desc lang="en">Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260703184500 +0000" stop="20260703201500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Mad Concrete Dreams</title>
-    <desc lang="en">Upon achieving the coveted status of a landlord, mounting debts lead Soo-Jong into participating a staged kidnapping, yet the plan spirals out of control as the fake kidnapping turns dangerously real.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260703201500 +0000" stop="20260703220500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">KILL IT: Style Creator Showdown</title>
-    <desc lang="en">100 women compete in this high-stakes survival show to become the next global K-fashion icon.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260703220500 +0000" stop="20260703235500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Rented in Finland</title>
-    <desc lang="en">Lee Je-hoon, Lee Dong-hwi, Cha Eun-woo, and Kwak Dong-yeon will leave their urban lives behind to experience the serene and picturesque rural life in Finland.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260703235500 +0000" stop="20260704001500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">You Can Cook With Sam Kim</title>
-    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260704001500 +0000" stop="20260704003500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">You Can Cook With Sam Kim</title>
-    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260704003500 +0000" stop="20260704015000 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Yumi's Cells 3</title>
-    <desc lang="en">Yu-mi, a bestselling novelist, meets her new editor Soon-rok. With her Love Cell still asleep from heartbreak, his quiet charm stirs something new. Could he be her long awaited endgame?</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <episode-num system="onscreen">S3E3</episode-num>
-  </programme>
-  <programme start="20260704015000 +0000" stop="20260704030500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Yumi's Cells 3</title>
-    <desc lang="en">Yu-mi, a bestselling novelist, meets her new editor Soon-rok. With her Love Cell still asleep from heartbreak, his quiet charm stirs something new. Could he be her long awaited endgame?</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <episode-num system="onscreen">S3E4</episode-num>
-  </programme>
-  <programme start="20260704030500 +0000" stop="20260704043500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Mad Concrete Dreams</title>
-    <desc lang="en">Upon achieving the coveted status of a landlord, mounting debts lead Soo-Jong into participating a staged kidnapping, yet the plan spirals out of control as the fake kidnapping turns dangerously real.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260704043500 +0000" stop="20260704064500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Undercover Chef - Korea</title>
-    <desc lang="en">Top celebrity chefs go undercover as a junior kitchen staff in the very country that shaped their culinary roots, challenge to earn recognition from locals in 5 days!</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260704064500 +0000" stop="20260704080500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Mr. Eo's Food World Tour</title>
-    <desc lang="en">Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260704080500 +0000" stop="20260704094500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">GBRB: Farm Operation - Go Go Farm</title>
-    <desc lang="en">The ultimate bestie trio Lee Kwang-soo, Kim Woo-bin, and Doh Kyung-soo head to Jeju Island for a "farm-tastic" new farm stay adventure.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260704094500 +0000" stop="20260704100000 +0000" channel="tvnhd.unifitv">
-    <title lang="en">You Can Cook With Sam Kim</title>
-    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260704100000 +0000" stop="20260704111500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Mad Concrete Dreams</title>
-    <desc lang="en">Upon achieving the coveted status of a landlord, mounting debts lead Soo-Jong into participating a staged kidnapping, yet the plan spirals out of control as the fake kidnapping turns dangerously real.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260704111500 +0000" stop="20260704124500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Mad Concrete Dreams</title>
-    <desc lang="en">Upon achieving the coveted status of a landlord, mounting debts lead Soo-Jong into participating a staged kidnapping, yet the plan spirals out of control as the fake kidnapping turns dangerously real.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260704124500 +0000" stop="20260704143500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">KILL IT: Style Creator Showdown</title>
-    <desc lang="en">100 women compete in this high-stakes survival show to become the next global K-fashion icon.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260704143500 +0000" stop="20260704162500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Rented in Finland</title>
-    <desc lang="en">Lee Je-hoon, Lee Dong-hwi, Cha Eun-woo, and Kwak Dong-yeon will leave their urban lives behind to experience the serene and picturesque rural life in Finland.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <channel id="tvbjade.unifitv">
-    <display-name>TVB Jade</display-name>
-  </channel>
-  <programme start="20260703155500 +0000" stop="20260703160500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Global View</title>
-    <desc lang="en">" Global View," curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260703160500 +0000" stop="20260703163500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big Boys Club</title>
-    <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2169.</episode-num>
-    <episode-num system="onscreen">S1E2170</episode-num>
-  </programme>
-  <programme start="20260703163500 +0000" stop="20260703173500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">The Inner Eye</title>
-    <desc lang="en">When “The Inner Eye “follows Shenzhen lawyer Tang Yingying as she handles a series of controversial cases and gradually transforms from someone driven by victory and profit into a lawyer who rediscovers her professional conscience. Through cases involving sexual assault allegations, inheritance disputes, emotional and medical conflicts, domestic violence, and public opinion against lawyers, she witnesses the darkness and vulnerability of human nature. As the lives of Dai Peilin, Lin Xiaoyun, Kang Jun, Fang Weian and others intertwine with hers, Tang learns to “cover her eyes” and listen to her inner sense of justice and integrity, ultimately finding her own rebirth in law, love and life.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260703173500 +0000" stop="20260703183500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Deadly Sins &amp; What's On Today</title>
-    <desc lang="en">The story follows Detective Inspector Ying Hoi (played by Owen Cheung) and Police Superintendent Ding Lok-fung (played by Bowie Lam). Though they share remarkably similar backgrounds, the two men have taken vastly different paths in life, leading to initial friction. However, they are forced to put their differences aside when a gruesome and complex serial murder case shakes the city.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260703183500 +0000" stop="20260703190500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Lo And Behold</title>
-    <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2842.</episode-num>
-    <episode-num system="onscreen">S1E2843</episode-num>
-  </programme>
-  <programme start="20260703190500 +0000" stop="20260703193500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.183.</episode-num>
-    <episode-num system="onscreen">S1E184</episode-num>
-  </programme>
-  <programme start="20260703193500 +0000" stop="20260703200500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Journey to Jianghu (SR.2)</title>
-    <desc lang="en">As the saying goes, "Reading ten thousand books is not as good as traveling ten thousand miles." Wayne Lai and Mak Cheung-ching embark on another journey, continuing their exploration of the magnificent landscapes depicted in Jin Yong's novels and delving into the martial arts world of Chinese history. They travel along the Yangtze and Yellow River basins, traversing Sichuan, Zhejiang, Henan, and Shanxi provinces, climbing Mount Emei's Golden Summit, visiting Baidi City, the Yue Fei Temple in Zhuxian Town, and exploring the Shaolin Temple on Mount Song. They experienced the weight of historical sites and savored local delicacies. The martial arts world is not only a stage for swords and shadows, but also a realm of intertwined human relationships. During their journey, they also reunited with Michelle Yim, Benny Chan, Louis Fan, and Jackie Lui, reminiscing about their past collaborations and laughing about bygone days.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260703200500 +0000" stop="20260703210500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Sword and Fairy 1</title>
-    <desc lang="en">"Sword and Fairy 1" is a period romance drama that tells the story of the complex and intertwined fates between Li Xiaoyao (played by He Yu) and Zhao Ling'er (played by Yang Yutong). Li Xiaoyao, a waiter with dreams of becoming a chivalrous hero, accidentally meets Zhao Ling'er, a descendant of Nuwa, and other like-minded companions. Together, they overcome numerous hardships and dangers, dedicating them-selves to finding the Spirit Pearl. Supporting each other, they bravely shoulder the responsibility of saving the world, unafraid of sacrifice, and ultimately together maintain peace and tranquility in the world.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
-  </programme>
-  <programme start="20260703210500 +0000" stop="20260703215000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big City Shop 2026</title>
-    <desc lang="en">“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends. The content is all-encompassing! In addition to hands-on demonstrations, experiences, or tests by the hosts, experts are invited to share their professional insights. In the cooking segment, several skilled culinary experts take turns showcasing simple and delicious healthy dishes and home-style recipes, helping everyone solve their cooking challenges.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2014.</episode-num>
-    <episode-num system="onscreen">S1E2015</episode-num>
-  </programme>
-  <programme start="20260703215000 +0000" stop="20260703220500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Happy Old Buddies</title>
-    <desc lang="en">Many people may think that older adults do not have sexual needs, but surveys have shown that this is not the case—older adults often experience less sexual activity due to various reasons. Clinical psychologist Lin Haoming from the Social Welfare Department explains the World Health Organization's definition of sexuality and offers advice for those hoping to rekindle their sex life with their partner. However, if one partner does not wish to resume sexual activity, how should both sides communicate?</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.68.</episode-num>
-    <episode-num system="onscreen">S1E69</episode-num>
-  </programme>
-  <programme start="20260703220500 +0000" stop="20260703223500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express</title>
-    <desc lang="en">Hong Kong brings together global cuisines, and its unique dishes and down-to-earth fare have captured the close attention of discerning food lovers! Food hosts and presenters such as Icy Wong,Snowy Choi,Carmen Ngai,Carmaney Wong , Jessica Liu , Gillian Ng keep up with the latest food news and deals, delving into the stories behind the flavors. Gathering firsthand information on popular eateries across various platforms, the hosts personally line up and taste the food, providing genuine reviews. Even takeout-only eateries with no dine-in option are in high demand—what are the must-try picks? Running a food business inevitably comes with its own mix of sweet, sour, bitter, and spicy experiences. The production team follows the proprietors through their busy day, from sourcing ingredients and preparing materials to opening for business, uncovering the "stories behind the flavors."</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.192.</episode-num>
-    <episode-num system="onscreen">S1E193</episode-num>
-  </programme>
-  <programme start="20260703223500 +0000" stop="20260703230500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.183.</episode-num>
-    <episode-num system="onscreen">S1E184</episode-num>
-  </programme>
-  <programme start="20260703230500 +0000" stop="20260704000500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Good Morning Hong Kong</title>
-    <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260704000500 +0000" stop="20260704010500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Cooking Beauties</title>
-    <desc lang="en">Edwin Siu, Bob, and Owen Cheung host the third season of "Cooking Beauties" A group of female celebrities, after hearing the dish name and a brief description of the cooking process, must then prepare a designated dish, maintaining an air of mystery while the male guests try to guess their identities. Each episode also features a specific fresh ingredient, allowing the female guests to unleash their creativity and produce unforgettable dishes, vying for high scores from the judges to become the new ultimate female chef. Low scores risk plunging them into the "Hell Chef" category, requiring a desperate comeback! Meanwhile, a group of beautiful apprentices are dedicated to developing bizarre and unusual dishes, striving to achieve "honors" status in their graduation exam!</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260704010500 +0000" stop="20260704013500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Dolce Vita 2021</title>
-    <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.44.</episode-num>
-    <episode-num system="onscreen">S1E45</episode-num>
-  </programme>
-  <programme start="20260704013500 +0000" stop="20260704020500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1726.</episode-num>
-    <episode-num system="onscreen">S1E1727</episode-num>
-  </programme>
-  <programme start="20260704020500 +0000" stop="20260704040500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Wife, Interrupted</title>
-    <desc lang="en">The story revolves around an ordinary man who risks himself to save his beloved wife. Computer engineer LEE YAN-LONG (Hubert Wu) and his wife CHIU CHEUK-WING (Moon Lau) lead an ordinary happy life until one day they get kidnapped by thugs, who threaten to kill CHEUK-WING, unless YAN-LONG repays them $100 million within 72 hours! Bewildered, YAN-LONG reports it to the police, thus re-encounters his former roommate, now hot-blooded detective LEUNG HIU-YEUNG (Alvin Ng) and high school crush TONG MEI-LAN (Ashley Chu). With help from MEI-LAN, YAN-LONG uncovers that everything is related to the youth hostel where he stayed years ago, and the online trading platform he ran with other roommates has become a money laundering hub. They investigate those that stayed in the hostel in search of the culprit, triggering memories of the past, and all the evidence seems to point at CHEUNG TSZ-KIN (Telford Wong). As the deadline approaches and the truth is just one step away, YAN-LONG discovers that each of them including his own wife has a secret side to themselves……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260704040500 +0000" stop="20260704043500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.183.</episode-num>
-    <episode-num system="onscreen">S1E184</episode-num>
-  </programme>
-  <programme start="20260704043500 +0000" stop="20260704050500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express</title>
-    <desc lang="en">Hong Kong brings together global cuisines, and its unique dishes and down-to-earth fare have captured the close attention of discerning food lovers! Food hosts and presenters such as Icy Wong,Snowy Choi,Carmen Ngai,Carmaney Wong , Jessica Liu , Gillian Ng keep up with the latest food news and deals, delving into the stories behind the flavors. Gathering firsthand information on popular eateries across various platforms, the hosts personally line up and taste the food, providing genuine reviews. Even takeout-only eateries with no dine-in option are in high demand—what are the must-try picks? Running a food business inevitably comes with its own mix of sweet, sour, bitter, and spicy experiences. The production team follows the proprietors through their busy day, from sourcing ingredients and preparing materials to opening for business, uncovering the "stories behind the flavors."</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.192.</episode-num>
-    <episode-num system="onscreen">S1E193</episode-num>
-  </programme>
-  <programme start="20260704050500 +0000" stop="20260704053500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scam Alert!</title>
-    <desc lang="en">The number of various scams continues to rise, with the amounts involved becoming increasingly staggering. It is reported that Hong Kong suffers an average daily loss of HK$25 million, with a scam occurring every 13 minutes… Scams targeting online shopping, job seeking, investment, dating apps, and telephone scams are becoming increasingly sophisticated. Citizens must raise their awareness of scams and be vigilant to avoid falling victim! Hosts Au Wing-Kuen, Edwin Siu, Lee Man-Fong, and Leung Man-Hau gather various real-life cases to gain a deeper understanding of how victims were scammed. The program will also recreate these scenarios in story form. Experts will appear to dissect different methods of committing these crimes, helping viewers identify money-grabbing traps and avoid becoming targets of scammers!</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260704053500 +0000" stop="20260704060500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">ChatSAT</title>
-    <desc lang="en">It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday. By discussing everything under the sun and chatting about the hottest topics, “Group friend” listeners can easily stay up to date with global trends by following the program.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
-  </programme>
-  <programme start="20260704060500 +0000" stop="20260704080500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Midlife, Sing &amp; Shine! 4</title>
-    <desc lang="en">" Midlife, Sing &amp; Shine! 4" has officially launched, continuing the success of the previous three seasons and once again providing a stage for singing enthusiasts to pursue their dreams. This season expands its recruitment efforts to North America and Australia, with several TVB artists participating "masked," igniting the flame of music globally and illuminating the hearts of countless dreamers. Stephanie Che continues to host, offering her warm smile to the contestants; Maria Cordero, Chow Kwok-fung, Cheung Ka-tim, Hai-er, and Gu Ya-wei also serve as judges, providing professional feedback and encouragement to the participants. On this new season's stage, everyone will weave an even more moving chapter with music, continuing the heartfelt story of " Midlife, Sing &amp; Shine! 4."</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <episode-num system="onscreen">S1E31</episode-num>
-  </programme>
-  <programme start="20260704080500 +0000" stop="20260704083500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Star Weekly</title>
-    <desc lang="en">The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, television, and concerts, especially people and events that netizens and friends in the industry are concerned about and discussing! With so much surrounding information, the show features a special "Fact Check" segment, where guests personally respond to various rumors, allowing the parties involved to clarify the truth!</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260704083500 +0000" stop="20260704090500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express Weekly</title>
-    <desc lang="en">Hong Kong is a melting pot of global cuisine! Food anchors and hosts like Carmaney Wong,Carmen Ngai,Gillian Ng stay up-to-date with the latest culinary trends, gathering information on top-rated restaurants from various platforms. The hosts personally sample the food and provide honest reviews; they uncover hidden gems in different districts and invite long-time expatriates to visit their favorite hometown eateries; renowned chefs and food critics also guide the way, offering expert recommendations. The program features a selection of popular restaurants featured in "Food News Report," highlighting their signature dishes and delivering quick deals, ensuring viewers stay up-to-date with the most delicious and affordable dining information.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.74.</episode-num>
-    <episode-num system="onscreen">S1E75</episode-num>
-  </programme>
-  <programme start="20260704090500 +0000" stop="20260704093500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Clash Of Chefs</title>
-    <desc lang="en">When "Master Ding" Li Jiading and "Third Sister" Xiao Xiuxiang, known for their blend of strength and gentleness, meet, a brand new kitchen battle is about to begin! These two star chefs will pull out all the stops, igniting a series of fierce competition! Each episode features guests who present challenges to Master Ding and Third Sister, including renowned chefs and food connoisseurs, requiring them to use the same ingredients or themes to create dishes with distinct styles, competing and sharing their culinary experiences. Guests will critique the dishes blindly, their honest palates offering unbiased judgments based solely on taste. Afterwards, the two will temporarily truce and become judges, handing over the baton to "star apprentices" Chen Wei and Tan Junyan to continue the culinary showdown!</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260704093500 +0000" stop="20260704100500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">ChatSAT</title>
-    <desc lang="en">It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday. By discussing everything under the sun and chatting about the hottest topics, “Group friend” listeners can easily stay up to date with global trends by following the program.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
-  </programme>
-  <programme start="20260704100500 +0000" stop="20260704103500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Dolce Vita 2021</title>
-    <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.44.</episode-num>
-    <episode-num system="onscreen">S1E45</episode-num>
-  </programme>
-  <programme start="20260704103500 +0000" stop="20260704110500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News At 18:30</title>
-    <desc lang="en">Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260704110500 +0000" stop="20260704114000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News Magazine 2026 &amp; Yes, Boss.</title>
-    <desc lang="en">"News Perspective" is a weekly program featuring in-depth coverage of notable news stories from Hong Kong and around the world. It focuses on social issues that matter most to Hong Kong residents and invites people from various sectors, scholars, and experts to discuss and analyze the underlying causes and developments.</desc>
-    <category lang="en">News </category>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <episode-num system="onscreen">S1E27</episode-num>
-  </programme>
-  <programme start="20260704114000 +0000" stop="20260704120500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.184.</episode-num>
-    <episode-num system="onscreen">S1E185</episode-num>
-  </programme>
-  <programme start="20260704120500 +0000" stop="20260704123500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hong Kong: Never Too Small</title>
-    <desc lang="en">Amidst the ebb and flow of time, local shops that depict the microcosm of the city are becoming increasingly rare. Yet, they are a vital part of the city's structure and an irreplaceable embodiment of the Hong Kong spirit. With this in mind, the down-to-earth host, Louis Yuen, leads viewers on a shop-by-shop exploration, visiting time-honored and modern shops across four key areas of daily life: clothing, food, housing, and transportation. He reveals the shops' operating history, the hardships of maintaining them, and the stories behind generations, using these tangible shops to preserve intangible memories and showcasing the enduring beauty of "small spaces."</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260704123500 +0000" stop="20260704133500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Music Money Monster</title>
-    <desc lang="en">Pushing the limits of vocal range and precise timing, the brand-new interactive music game show Music Money Monster" is hosted by Sammy, Eric Kwok, and Lee Yin-tung. A professional pitch analysis system tests the contestants. A nine-square grid represents nine difficulty levels. Contestants who connect three lines to "pass the level" can choose to withdraw their winnings, continue the challenge, or even attempt the most difficult Monster level. Failure results in zero prize money! The amateur version allows solo participants to compete for a top prize of NT$100,000. The celebrity version offers viewers a chance to win prizes and gifts by interacting with the contestants in the live stream and sending emojis to cheer them on.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20260704133500 +0000" stop="20260704142000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">J Music 2026</title>
-    <desc lang="en">J Music is dedicated to creating a high-quality music platform, providing singers with opportunities to showcase their musical talents while allowing music fans to gain a deeper understanding of their musical stories. The program invites popular singers as guests, who personally select their favorite new and old works, perform them live, and share their favorite tracks. New faces in the music scene will also appear, showcasing their musical potential through interactive exchanges. Furthermore, each episode closely follows the latest developments on the Jade Solid Gold Chart, featuring music videos and interviews with various singers, songwriters, and producers, who discuss their work and the people and events within the music industry.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.113.</episode-num>
-    <episode-num system="onscreen">S1E114</episode-num>
-  </programme>
-  <programme start="20260704142000 +0000" stop="20260704145000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Our Dearest Barbara Chan</title>
-    <desc lang="en">A moving retrospective documentary celebrating the extraordinary life, decades-long acting career, and powerful spiritual legacy of veteran Hong Kong actress Barbara Chan Man-yee, following her peaceful passing at age 65.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260704145000 +0000" stop="20260704152000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Journey To The Wealthy West</title>
-    <desc lang="en">What are the essential qualities and characteristics of successful people? Hosts Liu Chenzhi and Zheng Yanfeng, both familiar with foreign cultures, embark on a luxurious journey, visiting friends and guests living in the United States. They explore little-known stories of former NBA players, entrepreneurs, designers, wealthy women, artists, and collectors, understanding their definitions of success and witnessing affluent lifestyles and tastes. Stepping into the world of luxury, they visit super mansions in Beverly Hills, admire luxury cars and fine wine collections, explore Hollywood movie filming locations, and experience VIP activities and entertainment. The two hosts will also delve into NBA team arenas and the Academy Museum, offering viewers a truly eye-opening experience!</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260704152000 +0000" stop="20260704153500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News Roundup</title>
-    <desc lang="en">Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260704153500 +0000" stop="20260704160500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">ChatSAT</title>
-    <desc lang="en">It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday. By discussing everything under the sun and chatting about the hottest topics, “Group friend” listeners can easily stay up to date with global trends by following the program.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
-  </programme>
-  <channel id="unknown.unifitv">
-    <display-name>TVB Xing He</display-name>
-  </channel>
-  <programme start="20260703150500 +0000" stop="20260703160500 +0000" channel="unknown.unifitv">
-    <title lang="en">Provocateur</title>
-    <desc lang="en">Following deaths of his first and second wife, cosmetic mogul CHEUK KWAN-LAM (Gallen Lo), who is left alone living with his step-daughter CHEUK MAN-LEI (Jacqueline Wong), tries to turn over a new leaf. As fate would have it, he encounters a resourceful young man called POON SIU-KIT (Fred Cheng), through whom he sees a younger version of himself, so he cannot help developing a kindly feeling for him. His secretary CHAN HEI-MAN (Ali Lee) also has a very high regard for SIU-KIT after he joins the company as Marketing Manager, thinking he is going to lead the company to success. HEI-MAN has been drowning her sorrows at work ever since her husband HONG YAT-FUNG (Raymond Cho) disappeared years ago. Gradually, KWAN-LAM and everything about the company becomes her sole purpose in life. On the surface, SIU-KIT tries to curry favor with KWAN-LAM and gain HEI-MAN's trust. However, he conspires with a team of talented people on the sly to steal trade secrets from large corporations for money. They include a corporate spy LING CHUN (Cheung Wing Hong), socialite CHOW PUI-YUE (Roxanne Tong), IT genius TO CHI-YAN (Lai Wai Ling) and the "King of Disguise" LAM SHUN-FAI (Jack Wu). SIU-KIT has planned for years, seeking the best opportunity to take destructive revenge. Thus begins a tug of war between the two with a seemingly father-son like relationship......</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260703160500 +0000" stop="20260703170500 +0000" channel="unknown.unifitv">
-    <title lang="en">Country Spirit</title>
-    <desc lang="en">KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend's illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse. LUNG's sister, YIU (TANG SHUI MAN), loves SHUNG. However, she cannot forget her former love KOU (TSANG WAI KUEN) who is dead. LUNG's only son, SAN (MA TAK CHUNG, JOE) serves in the army. The family has not heard from him for a long time and assumes that he is dead. LUNG sets up a marriage for his missing son with FANG (SHEH CHARMAINE), who works as a ferry lady. FANG is stubborn and has conflicts with the KOO's family. SHUNG reminds her how to behave and helps her become more mature. SHUNG becomes a student of CHEUNG (YUEN WAH) and learns how to make wine. CHEUNG lost his wife early in their marriage, similar to YIU's situation. They soon develop into an argumentative couple. LUNG has a stroke. The whole family is falling apart. With SHUNG's help, FANG takes up the responsibility to manage the family and the factory. When their love starts sparkling, SAN suddenly comes home. Can SHUNG and FANG shed their moral burden?</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <episode-num system="onscreen">S1E27</episode-num>
-  </programme>
-  <programme start="20260703170500 +0000" stop="20260703180500 +0000" channel="unknown.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">TBC</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260703180500 +0000" stop="20260703190500 +0000" channel="unknown.unifitv">
-    <title lang="en">Communion</title>
-    <desc lang="en">After getting divorced, Au Yiu-cho (Kwok Chun On) and Tang Lai-kuen (Alice Chan) operate two restaurants coincidentally called Yuet Tak House in Hong Kong and on the mainland respectively. They never have issues with each other. In 2022, Lai-kuen abruptly returns to Hong Kong to open a branch. She even declares she wants to obtain the rights to the Yuet Tak House trademark through legal channels. The duo's little son Au Ka-kin (Chow Ka Lok) signs up for Greater Bay Area Youth Entrepreneurship Competition. He runs into his elder brother Au Ka-him (Ricco Ng), who is appointed as an instructor, and also fellow competitor Cheung Loi (Joey Thye). However, they familiarize with each other through conflict and strife, and they team up to create metaverse Yuet Tak House. Yuet Tak House physical store and its metaverse equivalent are both sued for copyright infringement, and Yiu-cho, Lai-kuen, Ka-kin and Ka-him face different hurdles. After all, they are related family members, so are they able to restore the initial bliss and tenderness to their relationship?</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260703190500 +0000" stop="20260703200500 +0000" channel="unknown.unifitv">
-    <title lang="en">Guts of Man</title>
-    <desc lang="en">TUNG FEI (CHAN KIN FUNG, SAMMUL) ignores his late father's last will and sneaks out of the Taohua Village, where he grew up, without his sister LAM's (KOI MING FAI, JOYCE) knowing it. He meets a fisherman's son SHEUNG FOON (NG CHEUK HAI, RON) on the way. He and FOON travel to the Qiantang River to see the tides. They meet a tycoon's daughter YING HIU SUET (CHO, MANDY LEE) and FEI falls in love with her at first sight. LAM and FEI find out, by chance, that their father died uncleared of a wrong charge. In order to clear their father's bad name, they settle down in Hangzhou. LAM meets an imperial guard TIK YING WAI (YUEN WAH), who pretends to be a construction worker, during her investigation. WAI's sworn brother was killed by the “Cangzhou Five Ghosts”. For the convenience of investigation, WAI hides his real identity. During the investigation, LAM and WAI find out that her father's death is closely connected with the “Cangzhou Five Ghosts” and SUET's father. Meanwhile, FEI and FOON have an argument over SUET. On the other hand, FEI, blinded by greed, hurts FOON badly…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260703200500 +0000" stop="20260703210500 +0000" channel="unknown.unifitv">
-    <title lang="en">Provocateur</title>
-    <desc lang="en">Following deaths of his first and second wife, cosmetic mogul CHEUK KWAN-LAM (Gallen Lo), who is left alone living with his step-daughter CHEUK MAN-LEI (Jacqueline Wong), tries to turn over a new leaf. As fate would have it, he encounters a resourceful young man called POON SIU-KIT (Fred Cheng), through whom he sees a younger version of himself, so he cannot help developing a kindly feeling for him. His secretary CHAN HEI-MAN (Ali Lee) also has a very high regard for SIU-KIT after he joins the company as Marketing Manager, thinking he is going to lead the company to success. HEI-MAN has been drowning her sorrows at work ever since her husband HONG YAT-FUNG (Raymond Cho) disappeared years ago. Gradually, KWAN-LAM and everything about the company becomes her sole purpose in life. On the surface, SIU-KIT tries to curry favor with KWAN-LAM and gain HEI-MAN's trust. However, he conspires with a team of talented people on the sly to steal trade secrets from large corporations for money. They include a corporate spy LING CHUN (Cheung Wing Hong), socialite CHOW PUI-YUE (Roxanne Tong), IT genius TO CHI-YAN (Lai Wai Ling) and the "King of Disguise" LAM SHUN-FAI (Jack Wu). SIU-KIT has planned for years, seeking the best opportunity to take destructive revenge. Thus begins a tug of war between the two with a seemingly father-son like relationship......</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260703210500 +0000" stop="20260703220500 +0000" channel="unknown.unifitv">
-    <title lang="en">Provocateur</title>
-    <desc lang="en">Following deaths of his first and second wife, cosmetic mogul CHEUK KWAN-LAM (Gallen Lo), who is left alone living with his step-daughter CHEUK MAN-LEI (Jacqueline Wong), tries to turn over a new leaf. As fate would have it, he encounters a resourceful young man called POON SIU-KIT (Fred Cheng), through whom he sees a younger version of himself, so he cannot help developing a kindly feeling for him. His secretary CHAN HEI-MAN (Ali Lee) also has a very high regard for SIU-KIT after he joins the company as Marketing Manager, thinking he is going to lead the company to success. HEI-MAN has been drowning her sorrows at work ever since her husband HONG YAT-FUNG (Raymond Cho) disappeared years ago. Gradually, KWAN-LAM and everything about the company becomes her sole purpose in life. On the surface, SIU-KIT tries to curry favor with KWAN-LAM and gain HEI-MAN's trust. However, he conspires with a team of talented people on the sly to steal trade secrets from large corporations for money. They include a corporate spy LING CHUN (Cheung Wing Hong), socialite CHOW PUI-YUE (Roxanne Tong), IT genius TO CHI-YAN (Lai Wai Ling) and the "King of Disguise" LAM SHUN-FAI (Jack Wu). SIU-KIT has planned for years, seeking the best opportunity to take destructive revenge. Thus begins a tug of war between the two with a seemingly father-son like relationship......</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260703220500 +0000" stop="20260703230500 +0000" channel="unknown.unifitv">
-    <title lang="en">Country Spirit</title>
-    <desc lang="en">KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend's illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse. LUNG's sister, YIU (TANG SHUI MAN), loves SHUNG. However, she cannot forget her former love KOU (TSANG WAI KUEN) who is dead. LUNG's only son, SAN (MA TAK CHUNG, JOE) serves in the army. The family has not heard from him for a long time and assumes that he is dead. LUNG sets up a marriage for his missing son with FANG (SHEH CHARMAINE), who works as a ferry lady. FANG is stubborn and has conflicts with the KOO's family. SHUNG reminds her how to behave and helps her become more mature. SHUNG becomes a student of CHEUNG (YUEN WAH) and learns how to make wine. CHEUNG lost his wife early in their marriage, similar to YIU's situation. They soon develop into an argumentative couple. LUNG has a stroke. The whole family is falling apart. With SHUNG's help, FANG takes up the responsibility to manage the family and the factory. When their love starts sparkling, SAN suddenly comes home. Can SHUNG and FANG shed their moral burden?</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <episode-num system="onscreen">S1E27</episode-num>
-  </programme>
-  <programme start="20260703230500 +0000" stop="20260704000500 +0000" channel="unknown.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">TBC</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260704000500 +0000" stop="20260704010500 +0000" channel="unknown.unifitv">
-    <title lang="en">Communion</title>
-    <desc lang="en">After getting divorced, Au Yiu-cho (Kwok Chun On) and Tang Lai-kuen (Alice Chan) operate two restaurants coincidentally called Yuet Tak House in Hong Kong and on the mainland respectively. They never have issues with each other. In 2022, Lai-kuen abruptly returns to Hong Kong to open a branch. She even declares she wants to obtain the rights to the Yuet Tak House trademark through legal channels. The duo's little son Au Ka-kin (Chow Ka Lok) signs up for Greater Bay Area Youth Entrepreneurship Competition. He runs into his elder brother Au Ka-him (Ricco Ng), who is appointed as an instructor, and also fellow competitor Cheung Loi (Joey Thye). However, they familiarize with each other through conflict and strife, and they team up to create metaverse Yuet Tak House. Yuet Tak House physical store and its metaverse equivalent are both sued for copyright infringement, and Yiu-cho, Lai-kuen, Ka-kin and Ka-him face different hurdles. After all, they are related family members, so are they able to restore the initial bliss and tenderness to their relationship?</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260704010500 +0000" stop="20260704020500 +0000" channel="unknown.unifitv">
-    <title lang="en">Guts of Man</title>
-    <desc lang="en">TUNG FEI (CHAN KIN FUNG, SAMMUL) ignores his late father's last will and sneaks out of the Taohua Village, where he grew up, without his sister LAM's (KOI MING FAI, JOYCE) knowing it. He meets a fisherman's son SHEUNG FOON (NG CHEUK HAI, RON) on the way. He and FOON travel to the Qiantang River to see the tides. They meet a tycoon's daughter YING HIU SUET (CHO, MANDY LEE) and FEI falls in love with her at first sight. LAM and FEI find out, by chance, that their father died uncleared of a wrong charge. In order to clear their father's bad name, they settle down in Hangzhou. LAM meets an imperial guard TIK YING WAI (YUEN WAH), who pretends to be a construction worker, during her investigation. WAI's sworn brother was killed by the “Cangzhou Five Ghosts”. For the convenience of investigation, WAI hides his real identity. During the investigation, LAM and WAI find out that her father's death is closely connected with the “Cangzhou Five Ghosts” and SUET's father. Meanwhile, FEI and FOON have an argument over SUET. On the other hand, FEI, blinded by greed, hurts FOON badly…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260704020500 +0000" stop="20260704030500 +0000" channel="unknown.unifitv">
-    <title lang="en">Provocateur</title>
-    <desc lang="en">Following deaths of his first and second wife, cosmetic mogul CHEUK KWAN-LAM (Gallen Lo), who is left alone living with his step-daughter CHEUK MAN-LEI (Jacqueline Wong), tries to turn over a new leaf. As fate would have it, he encounters a resourceful young man called POON SIU-KIT (Fred Cheng), through whom he sees a younger version of himself, so he cannot help developing a kindly feeling for him. His secretary CHAN HEI-MAN (Ali Lee) also has a very high regard for SIU-KIT after he joins the company as Marketing Manager, thinking he is going to lead the company to success. HEI-MAN has been drowning her sorrows at work ever since her husband HONG YAT-FUNG (Raymond Cho) disappeared years ago. Gradually, KWAN-LAM and everything about the company becomes her sole purpose in life. On the surface, SIU-KIT tries to curry favor with KWAN-LAM and gain HEI-MAN's trust. However, he conspires with a team of talented people on the sly to steal trade secrets from large corporations for money. They include a corporate spy LING CHUN (Cheung Wing Hong), socialite CHOW PUI-YUE (Roxanne Tong), IT genius TO CHI-YAN (Lai Wai Ling) and the "King of Disguise" LAM SHUN-FAI (Jack Wu). SIU-KIT has planned for years, seeking the best opportunity to take destructive revenge. Thus begins a tug of war between the two with a seemingly father-son like relationship......</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260704030500 +0000" stop="20260704040500 +0000" channel="unknown.unifitv">
-    <title lang="en">Provocateur</title>
-    <desc lang="en">Following deaths of his first and second wife, cosmetic mogul CHEUK KWAN-LAM (Gallen Lo), who is left alone living with his step-daughter CHEUK MAN-LEI (Jacqueline Wong), tries to turn over a new leaf. As fate would have it, he encounters a resourceful young man called POON SIU-KIT (Fred Cheng), through whom he sees a younger version of himself, so he cannot help developing a kindly feeling for him. His secretary CHAN HEI-MAN (Ali Lee) also has a very high regard for SIU-KIT after he joins the company as Marketing Manager, thinking he is going to lead the company to success. HEI-MAN has been drowning her sorrows at work ever since her husband HONG YAT-FUNG (Raymond Cho) disappeared years ago. Gradually, KWAN-LAM and everything about the company becomes her sole purpose in life. On the surface, SIU-KIT tries to curry favor with KWAN-LAM and gain HEI-MAN's trust. However, he conspires with a team of talented people on the sly to steal trade secrets from large corporations for money. They include a corporate spy LING CHUN (Cheung Wing Hong), socialite CHOW PUI-YUE (Roxanne Tong), IT genius TO CHI-YAN (Lai Wai Ling) and the "King of Disguise" LAM SHUN-FAI (Jack Wu). SIU-KIT has planned for years, seeking the best opportunity to take destructive revenge. Thus begins a tug of war between the two with a seemingly father-son like relationship......</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260704040500 +0000" stop="20260704050500 +0000" channel="unknown.unifitv">
-    <title lang="en">Country Spirit</title>
-    <desc lang="en">KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend's illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse. LUNG's sister, YIU (TANG SHUI MAN), loves SHUNG. However, she cannot forget her former love KOU (TSANG WAI KUEN) who is dead. LUNG's only son, SAN (MA TAK CHUNG, JOE) serves in the army. The family has not heard from him for a long time and assumes that he is dead. LUNG sets up a marriage for his missing son with FANG (SHEH CHARMAINE), who works as a ferry lady. FANG is stubborn and has conflicts with the KOO's family. SHUNG reminds her how to behave and helps her become more mature. SHUNG becomes a student of CHEUNG (YUEN WAH) and learns how to make wine. CHEUNG lost his wife early in their marriage, similar to YIU's situation. They soon develop into an argumentative couple. LUNG has a stroke. The whole family is falling apart. With SHUNG's help, FANG takes up the responsibility to manage the family and the factory. When their love starts sparkling, SAN suddenly comes home. Can SHUNG and FANG shed their moral burden?</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.26.</episode-num>
-    <episode-num system="onscreen">S1E27</episode-num>
-  </programme>
-  <programme start="20260704050500 +0000" stop="20260704060500 +0000" channel="unknown.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">TBC</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260704060500 +0000" stop="20260704070500 +0000" channel="unknown.unifitv">
-    <title lang="en">Communion</title>
-    <desc lang="en">After getting divorced, Au Yiu-cho (Kwok Chun On) and Tang Lai-kuen (Alice Chan) operate two restaurants coincidentally called Yuet Tak House in Hong Kong and on the mainland respectively. They never have issues with each other. In 2022, Lai-kuen abruptly returns to Hong Kong to open a branch. She even declares she wants to obtain the rights to the Yuet Tak House trademark through legal channels. The duo's little son Au Ka-kin (Chow Ka Lok) signs up for Greater Bay Area Youth Entrepreneurship Competition. He runs into his elder brother Au Ka-him (Ricco Ng), who is appointed as an instructor, and also fellow competitor Cheung Loi (Joey Thye). However, they familiarize with each other through conflict and strife, and they team up to create metaverse Yuet Tak House. Yuet Tak House physical store and its metaverse equivalent are both sued for copyright infringement, and Yiu-cho, Lai-kuen, Ka-kin and Ka-him face different hurdles. After all, they are related family members, so are they able to restore the initial bliss and tenderness to their relationship?</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260704070500 +0000" stop="20260704080500 +0000" channel="unknown.unifitv">
-    <title lang="en">Guts of Man</title>
-    <desc lang="en">TUNG FEI (CHAN KIN FUNG, SAMMUL) ignores his late father's last will and sneaks out of the Taohua Village, where he grew up, without his sister LAM's (KOI MING FAI, JOYCE) knowing it. He meets a fisherman's son SHEUNG FOON (NG CHEUK HAI, RON) on the way. He and FOON travel to the Qiantang River to see the tides. They meet a tycoon's daughter YING HIU SUET (CHO, MANDY LEE) and FEI falls in love with her at first sight. LAM and FEI find out, by chance, that their father died uncleared of a wrong charge. In order to clear their father's bad name, they settle down in Hangzhou. LAM meets an imperial guard TIK YING WAI (YUEN WAH), who pretends to be a construction worker, during her investigation. WAI's sworn brother was killed by the “Cangzhou Five Ghosts”. For the convenience of investigation, WAI hides his real identity. During the investigation, LAM and WAI find out that her father's death is closely connected with the “Cangzhou Five Ghosts” and SUET's father. Meanwhile, FEI and FOON have an argument over SUET. On the other hand, FEI, blinded by greed, hurts FOON badly…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260704080500 +0000" stop="20260704090500 +0000" channel="unknown.unifitv">
-    <title lang="en">Provocateur</title>
-    <desc lang="en">Following deaths of his first and second wife, cosmetic mogul CHEUK KWAN-LAM (Gallen Lo), who is left alone living with his step-daughter CHEUK MAN-LEI (Jacqueline Wong), tries to turn over a new leaf. As fate would have it, he encounters a resourceful young man called POON SIU-KIT (Fred Cheng), through whom he sees a younger version of himself, so he cannot help developing a kindly feeling for him. His secretary CHAN HEI-MAN (Ali Lee) also has a very high regard for SIU-KIT after he joins the company as Marketing Manager, thinking he is going to lead the company to success. HEI-MAN has been drowning her sorrows at work ever since her husband HONG YAT-FUNG (Raymond Cho) disappeared years ago. Gradually, KWAN-LAM and everything about the company becomes her sole purpose in life. On the surface, SIU-KIT tries to curry favor with KWAN-LAM and gain HEI-MAN's trust. However, he conspires with a team of talented people on the sly to steal trade secrets from large corporations for money. They include a corporate spy LING CHUN (Cheung Wing Hong), socialite CHOW PUI-YUE (Roxanne Tong), IT genius TO CHI-YAN (Lai Wai Ling) and the "King of Disguise" LAM SHUN-FAI (Jack Wu). SIU-KIT has planned for years, seeking the best opportunity to take destructive revenge. Thus begins a tug of war between the two with a seemingly father-son like relationship......</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260704090500 +0000" stop="20260704100500 +0000" channel="unknown.unifitv">
-    <title lang="en">Provocateur</title>
-    <desc lang="en">Following deaths of his first and second wife, cosmetic mogul CHEUK KWAN-LAM (Gallen Lo), who is left alone living with his step-daughter CHEUK MAN-LEI (Jacqueline Wong), tries to turn over a new leaf. As fate would have it, he encounters a resourceful young man called POON SIU-KIT (Fred Cheng), through whom he sees a younger version of himself, so he cannot help developing a kindly feeling for him. His secretary CHAN HEI-MAN (Ali Lee) also has a very high regard for SIU-KIT after he joins the company as Marketing Manager, thinking he is going to lead the company to success. HEI-MAN has been drowning her sorrows at work ever since her husband HONG YAT-FUNG (Raymond Cho) disappeared years ago. Gradually, KWAN-LAM and everything about the company becomes her sole purpose in life. On the surface, SIU-KIT tries to curry favor with KWAN-LAM and gain HEI-MAN's trust. However, he conspires with a team of talented people on the sly to steal trade secrets from large corporations for money. They include a corporate spy LING CHUN (Cheung Wing Hong), socialite CHOW PUI-YUE (Roxanne Tong), IT genius TO CHI-YAN (Lai Wai Ling) and the "King of Disguise" LAM SHUN-FAI (Jack Wu). SIU-KIT has planned for years, seeking the best opportunity to take destructive revenge. Thus begins a tug of war between the two with a seemingly father-son like relationship......</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260704100500 +0000" stop="20260704110500 +0000" channel="unknown.unifitv">
-    <title lang="en">ONE GOOD TURN DESERVES ANOTHER</title>
-    <desc lang="en">Young and beautiful Yee (Maggie Cheung) was held responsible for murdering a millionaire for his estate. She employed Shek (Chan Kai Tai) to defend for her. Shek was attracted to her mysterious background and fell for her seduction. It turned out that Yee was in fact the step-sister of Shek's wife Shan (So Yuk Wah). She blamed Shan's mother for taking her father away and she swore to take revenge. She seduced Shek and made him divorce Shan. Her plan went well, but then she discovered that she really fell for She…</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260704110500 +0000" stop="20260704120500 +0000" channel="unknown.unifitv">
-    <title lang="en">Offliners, The</title>
-    <desc lang="en">In Hong Kong, investing in finance, real estate and commerce are down-to-earth activities, but rich heiress WONG CHI-FEI (Katy Kung) prefers getting her head in the clouds, cofounding a start-up technology company with her best friend HUI CHING-WAI (Jason Chan). A network hacking incident allows CHI-FEI to have a chance to know how capable IT genius DING SHUN-HEI (Owen Cheung) is, so she invites him to join the company. SHUN-HEI is a geek and oblivious of his surroundings. He gets help from a nurse named CHEUNG LOI (Moon Lau) and overcomes his communication barriers. Gradually, he grows fond of her. Despite initial disagreements, CHI-FEI and SHUN-HEI become more cooperative and are even complementary to each other. Inadvertently, CHI-FEI develops feelings for SHUN-HEI…… Originally, CHI-FEI believes that technology is making the world a better place, however, her father WONG SAU-KEN (Joseph Lee), younger brother WONG CHI-LUNG (Marcus Lo) and SHUN-HEI's younger sister DING SHUN-YAN (Jacqueline Wong) are respectively engulfed in internet controversies!</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260704120500 +0000" stop="20260704130500 +0000" channel="unknown.unifitv">
-    <title lang="en">Heart And Greed</title>
-    <desc lang="en">LING LAI-YING (Louise Lee) and her husband WONG WING-CHING (Ha Yu) work hard to run their restaurant, eventually turning it into an entrepreneurial success involving real estate investing and business. LAI-YING's younger brother LING SHING-FUNG (Bosco Wong) even tries to help them get the company listed on the stock market. Initially, WING-CHING does not agree with this. After seeing the century old family print business run by his benefactor HUI NGA-LUN (Joseph Lee), who helped him get acquitted of a charge years ago, on the verge of bankruptcy, WING-CHING agrees to SHING-FUNG's proposal by merging the two families' businesses for mutual benefit. However, WING-CHING's sister-in-law LEUNG SHUN-WAH (Susanna Kwan) and her younger brother LEUNG CHAN (Louis Yuen) are strongly opposed to the idea. Moreover, the long-standing feud between them and NGA-LUN's wife YU SAU-WAI, AMELIA (Michelle Yim) and the Hui family's self-proclaimed upper-class social status leave a very bad impression on them. Nevertheless, with LAI-YING's support, WING-CHING reaches an agreement with the Huis. Unfortunately, the social inequality between the upper and lower classes gives rise to more conflicts. On top of that, the love between the second son of the Wong family, WONG WAI-KA (Vincent Wong), and the only daughter of the Hui family, HUI BUI-YI, BELLE (Eliza Sam), has transcended obstacles, which eventually forces WAI-KA to leave. Devastated, LAI-YING is also torn by the infidelity between her eldest daughter WONG YI-OI (Sharon Chan) and a married man named CHENG LAP-ON (Michael Tong). To make things worse, LAI-YING's favorite younger brother SHING-FUNG is not himself anymore after he gets involved in an on-again, off-again relationship with his friend FONG HEI-MAN (Priscilla Wong). Soon, the two families find themselves on the brink of open hostility and a massive war for revenge is brewing……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260704130500 +0000" stop="20260704140500 +0000" channel="unknown.unifitv">
-    <title lang="en">Heart And Greed</title>
-    <desc lang="en">LING LAI-YING (Louise Lee) and her husband WONG WING-CHING (Ha Yu) work hard to run their restaurant, eventually turning it into an entrepreneurial success involving real estate investing and business. LAI-YING's younger brother LING SHING-FUNG (Bosco Wong) even tries to help them get the company listed on the stock market. Initially, WING-CHING does not agree with this. After seeing the century old family print business run by his benefactor HUI NGA-LUN (Joseph Lee), who helped him get acquitted of a charge years ago, on the verge of bankruptcy, WING-CHING agrees to SHING-FUNG's proposal by merging the two families' businesses for mutual benefit. However, WING-CHING's sister-in-law LEUNG SHUN-WAH (Susanna Kwan) and her younger brother LEUNG CHAN (Louis Yuen) are strongly opposed to the idea. Moreover, the long-standing feud between them and NGA-LUN's wife YU SAU-WAI, AMELIA (Michelle Yim) and the Hui family's self-proclaimed upper-class social status leave a very bad impression on them. Nevertheless, with LAI-YING's support, WING-CHING reaches an agreement with the Huis. Unfortunately, the social inequality between the upper and lower classes gives rise to more conflicts. On top of that, the love between the second son of the Wong family, WONG WAI-KA (Vincent Wong), and the only daughter of the Hui family, HUI BUI-YI, BELLE (Eliza Sam), has transcended obstacles, which eventually forces WAI-KA to leave. Devastated, LAI-YING is also torn by the infidelity between her eldest daughter WONG YI-OI (Sharon Chan) and a married man named CHENG LAP-ON (Michael Tong). To make things worse, LAI-YING's favorite younger brother SHING-FUNG is not himself anymore after he gets involved in an on-again, off-again relationship with his friend FONG HEI-MAN (Priscilla Wong). Soon, the two families find themselves on the brink of open hostility and a massive war for revenge is brewing……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260704140500 +0000" stop="20260704150500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260704150500 +0000" stop="20260704160500 +0000" channel="unknown.unifitv">
-    <title lang="en">Apple-colada</title>
-    <desc lang="en">Once married into wealth but now debt-ridden, LEE MUNG-LU (Alice Chan) returns to Hong Kong from Malaysia to seek refuge with her niece LEE LOK-YEE (Eliza Sam). They are poles apart, often bickering. By chance, MUNG-LU learns that the fruit market owned by her elder brother was seized by FUNG TAI-KIN (Wong Kwong Leung) and his nephew FUNG BO (Raymond Wong). She seeks to reclaim the property by hook or by crook but ends up in hilarious chaos. LOK-YEE and her schoolmate WONG YAU-CHOI (Mat Yeung) are social workers devoted to helping others in Yau Ma Tei. They encounter legendary CHAN YUK-MAN (Crystal Fung) and get caught up in a controversy surrounding the fruit market and the society. Having gone through many ups and downs, MUNG-LU, LOK-YEE and YUK-MAN eventually bring significant change to the out-of-date fruit market……</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <channel id="cctv4hd.unifitv">
-    <display-name>CCTV-4</display-name>
-  </channel>
-  <programme start="20260703155400 +0000" stop="20260703164000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Shan He Jin Xiu</title>
-    <desc lang="en">Set in the mountainous regions of Central and Western China during the early 1990s, the drama tells the story of two villages with different surnames—Zhao and Li—that are forced to merge into a single village following a devastating natural disaster.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260703164000 +0000" stop="20260703172600 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Shan He Jin Xiu</title>
-    <desc lang="en">Set in the mountainous regions of Central and Western China during the early 1990s, the drama tells the story of two villages with different surnames—Zhao and Li—that are forced to merge into a single village following a devastating natural disaster.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260703172600 +0000" stop="20260703175600 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China Showbiz</title>
-    <desc lang="en">The China Showbiz gathers together a wide range of wonderful TV artistic works and directs viewers into a fabulous world of arts through works appreciation and review.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.125.</episode-num>
-    <episode-num system="onscreen">S1E126</episode-num>
-  </programme>
-  <programme start="20260703175600 +0000" stop="20260703180500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260703180500 +0000" stop="20260703183500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Network News</title>
-    <desc lang="en">Network News is a 30min news, news about china and the world.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260624.</episode-num>
-    <episode-num system="onscreen">S1E20260625</episode-num>
-  </programme>
-  <programme start="20260703183500 +0000" stop="20260703190700 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Walking around China</title>
-    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.100.</episode-num>
-    <episode-num system="onscreen">S1E101</episode-num>
-  </programme>
-  <programme start="20260703190700 +0000" stop="20260703191500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260703191500 +0000" stop="20260703200500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">On the Way</title>
-    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.130.</episode-num>
-    <episode-num system="onscreen">S1E131</episode-num>
-  </programme>
-  <programme start="20260703200500 +0000" stop="20260703203500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260703203500 +0000" stop="20260703210500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Focus Today</title>
-    <desc lang="en">Traces the current affairs from china and the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260624.</episode-num>
-    <episode-num system="onscreen">S1E20260625</episode-num>
-  </programme>
-  <programme start="20260703210500 +0000" stop="20260703213500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Memory of China</title>
-    <desc lang="en">Memory of China is the first history program of China, the TV program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.52.</episode-num>
-    <episode-num system="onscreen">S1E53</episode-num>
-  </programme>
-  <programme start="20260703213500 +0000" stop="20260703220500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Walking around China</title>
-    <desc lang="en">It focuses on the latest changes in China from a humanistic perspective, pays attention to new phenomena, new fashions, and new things around ordinary Chinese people,</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.100.</episode-num>
-    <episode-num system="onscreen">S1E101</episode-num>
-  </programme>
-  <programme start="20260703220500 +0000" stop="20260703223500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Across the Strait</title>
-    <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.175.</episode-num>
-    <episode-num system="onscreen">S1E176</episode-num>
-  </programme>
-  <programme start="20260703223500 +0000" stop="20260703230500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Asia Today</title>
-    <desc lang="en">Report the Asia News on Asian view</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260624.</episode-num>
-    <episode-num system="onscreen">S1E20260625</episode-num>
-  </programme>
-  <programme start="20260703230500 +0000" stop="20260703233500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260703233500 +0000" stop="20260704000500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Focus Today</title>
-    <desc lang="en">Traces the current affairs from china and the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260624.</episode-num>
-    <episode-num system="onscreen">S1E20260625</episode-num>
-  </programme>
-  <programme start="20260704000500 +0000" stop="20260704010500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Global News</title>
-    <desc lang="en">A one-hour morning news program</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260704010500 +0000" stop="20260704013300 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Asia Today</title>
-    <desc lang="en">Report the Asia News on Asian view</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260624.</episode-num>
-    <episode-num system="onscreen">S1E20260625</episode-num>
-  </programme>
-  <programme start="20260704013300 +0000" stop="20260704020300 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China Showbiz</title>
-    <desc lang="en">The China Showbiz gathers together a wide range of wonderful TV artistic works and directs viewers into a fabulous world of arts through works appreciation and review.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.125.</episode-num>
-    <episode-num system="onscreen">S1E126</episode-num>
-  </programme>
-  <programme start="20260704020300 +0000" stop="20260704020600 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <episode-num system="onscreen">S1E31</episode-num>
-  </programme>
-  <programme start="20260704020600 +0000" stop="20260704020900 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.38.</episode-num>
-    <episode-num system="onscreen">S1E39</episode-num>
-  </programme>
-  <programme start="20260704020900 +0000" stop="20260704025400 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">On the Way</title>
-    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.130.</episode-num>
-    <episode-num system="onscreen">S1E131</episode-num>
-  </programme>
-  <programme start="20260704025400 +0000" stop="20260704025800 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-    <episode-num system="onscreen">S1E34</episode-num>
-  </programme>
-  <programme start="20260704025800 +0000" stop="20260704030200 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">nostalgia</title>
-    <desc lang="en">Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling. In this show, the audience can enjoy the natural and cultural backgrounds of Chinese traditional villages, and will find their knowledge of this oriental country expand through the interviews of Chinese people overseas whose memory and nostalgia can also reveal the very core value of the Chinese traditional culture.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.34.</episode-num>
-    <episode-num system="onscreen">S1E35</episode-num>
-  </programme>
-  <programme start="20260704030200 +0000" stop="20260704033500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Memory of China</title>
-    <desc lang="en">Memory of China is the first history program of China, the TV program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.52.</episode-num>
-    <episode-num system="onscreen">S1E53</episode-num>
-  </programme>
-  <programme start="20260704033500 +0000" stop="20260704040500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Across the Strait</title>
-    <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.175.</episode-num>
-    <episode-num system="onscreen">S1E176</episode-num>
-  </programme>
-  <programme start="20260704040500 +0000" stop="20260704050800 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260704050800 +0000" stop="20260704055500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Hu Tuo Er Nv</title>
-    <desc lang="en">Set during the Anti-Japanese War, the drama follows the heroic battles, sacrifices, and legendary front-line achievements of the "Pingshan Regiment," a military unit formed by the brave locals of the Hutuo River region.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260704055500 +0000" stop="20260704064100 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Hu Tuo Er Nv</title>
-    <desc lang="en">Set during the Anti-Japanese War, the drama follows the heroic battles, sacrifices, and legendary front-line achievements of the "Pingshan Regiment," a military unit formed by the brave locals of the Hutuo River region.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260704064100 +0000" stop="20260704073000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Hu Tuo Er Nv</title>
-    <desc lang="en">Set during the Anti-Japanese War, the drama follows the heroic battles, sacrifices, and legendary front-line achievements of the "Pingshan Regiment," a military unit formed by the brave locals of the Hutuo River region.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260704073000 +0000" stop="20260704081700 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Hu Tuo Er Nv</title>
-    <desc lang="en">Set during the Anti-Japanese War, the drama follows the heroic battles, sacrifices, and legendary front-line achievements of the "Pingshan Regiment," a military unit formed by the brave locals of the Hutuo River region.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260704081700 +0000" stop="20260704090400 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Hu Tuo Er Nv</title>
-    <desc lang="en">Set during the Anti-Japanese War, the drama follows the heroic battles, sacrifices, and legendary front-line achievements of the "Pingshan Regiment," a military unit formed by the brave locals of the Hutuo River region.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260704090400 +0000" stop="20260704092000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Ordinary ingenuity</title>
-    <desc lang="en">" Ordinary Craftsmanship " is a series of character documentaries. With the theme of "Ordinary People, Extraordinary Dreams", it tells wonderful and extreme life stories.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.86.</episode-num>
-    <episode-num system="onscreen">S1E87</episode-num>
-  </programme>
-  <programme start="20260704092000 +0000" stop="20260704100500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">On the Way</title>
-    <desc lang="en">a large-scale tourism programme that is designed to present rich tourism resources in China and around the world</desc>
-    <category lang="en">Travel</category>
-    <episode-num system="xmltv_ns">0.131.</episode-num>
-    <episode-num system="onscreen">S1E132</episode-num>
-  </programme>
-  <programme start="20260704100500 +0000" stop="20260704103500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260704103500 +0000" stop="20260704110500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China Showbiz</title>
-    <desc lang="en">The China Showbiz gathers together a wide range of wonderful TV artistic works and directs viewers into a fabulous world of arts through works appreciation and review.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.126.</episode-num>
-    <episode-num system="onscreen">S1E127</episode-num>
-  </programme>
-  <programme start="20260704110500 +0000" stop="20260704113500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260704113500 +0000" stop="20260704120500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Asia Today</title>
-    <desc lang="en">Report the Asia News on Asian view</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260704120500 +0000" stop="20260704123500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Memory of China</title>
-    <desc lang="en">Memory of China is the first history program of China, the TV program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.53.</episode-num>
-    <episode-num system="onscreen">S1E54</episode-num>
-  </programme>
-  <programme start="20260704123500 +0000" stop="20260704130500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Across the Strait</title>
-    <desc lang="en">The Across the Strait traces the much-discussed issues across the Strait, reflects the will of the citizens on two sides of the Strait and details the Chinese Government's policy of “one country, two systems” in a bid to enhance the Taiwan fellowmen's understanding of the Mainland China.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.176.</episode-num>
-    <episode-num system="onscreen">S1E177</episode-num>
-  </programme>
-  <programme start="20260704130500 +0000" stop="20260704133500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">China News</title>
-    <desc lang="en">It concentrates on the latest news and social changes happening in china and all over the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260704133500 +0000" stop="20260704140500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Focus Today</title>
-    <desc lang="en">Traces the current affairs from china and the world</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260704140500 +0000" stop="20260704143500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Talk with LuJian</title>
-    <desc lang="en">Talk with LuJian</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
-  </programme>
-  <programme start="20260704143500 +0000" stop="20260704150800 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Network News</title>
-    <desc lang="en">Network News is a 30min news, news about china and the world.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260625.</episode-num>
-    <episode-num system="onscreen">S1E20260626</episode-num>
-  </programme>
-  <programme start="20260704150800 +0000" stop="20260704155400 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Shan He Jin Xiu</title>
-    <desc lang="en">Set in the mountainous regions of Central and Western China during the early 1990s, the drama tells the story of two villages with different surnames—Zhao and Li—that are forced to merge into a single village following a devastating natural disaster.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260704155400 +0000" stop="20260704164000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Shan He Jin Xiu</title>
-    <desc lang="en">Set in the mountainous regions of Central and Western China during the early 1990s, the drama tells the story of two villages with different surnames—Zhao and Li—that are forced to merge into a single village following a devastating natural disaster.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <channel id="phoenixhongkong.unifitv">
-    <display-name>Phoenix Hong Kong Channel</display-name>
-  </channel>
-  <programme start="20260703153300 +0000" stop="20260703160300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">BANK OF CHINA ASIAN FINANCIAL INSIGHT</title>
-    <desc lang="en">The new high-end financial program created by Phoenix is the best navigation for the audience on the investment journey.</desc>
-    <category lang="en">Business</category>
-    <episode-num system="xmltv_ns">0.20260702.</episode-num>
-    <episode-num system="onscreen">S1E20260703</episode-num>
-  </programme>
-  <programme start="20260703160300 +0000" stop="20260703163300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA RESOURCES ZOOM IN</title>
-    <desc lang="en">Pay attention to current political topics, major social events and news hot spots. Dig out more facts and backgrounds. Analyze the early consequences of news events, the fate of characters, and present authoritative views.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703163300 +0000" stop="20260703170300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">YILING NEWS TALK</title>
-    <desc lang="en">YILING NEWS TALK</desc>
-    <category lang="en">News </category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703170300 +0000" stop="20260703173300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TALK WITH WORLD LEADERS</title>
-    <desc lang="en">Talk With World Leaders reveals compelling insights into key international figures in the fields of politics, industry, business, science and the arts, giving Chinese audiences a closer look at the world leaders.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">2.20260703.</episode-num>
-    <episode-num system="onscreen">S3E20260704</episode-num>
-  </programme>
-  <programme start="20260703173300 +0000" stop="20260703180300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">NEWS DECODER</title>
-    <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703180300 +0000" stop="20260703183300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">FROM PHOENIX TO THE WORLD</title>
-    <desc lang="en">From Phoenix to the World, is a current affair commentary program where reporters from around the world interact directly with the anchors through satellite and telephone lines to put audiences in touch with important events right form where they happen.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">1.20260703.</episode-num>
-    <episode-num system="onscreen">S2E20260704</episode-num>
-  </programme>
-  <programme start="20260703183300 +0000" stop="20260703190300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703190300 +0000" stop="20260703193300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA RESOURCES ZOOM IN</title>
-    <desc lang="en">Pay attention to current political topics, major social events and news hot spots. Dig out more facts and backgrounds. Analyze the early consequences of news events, the fate of characters, and present authoritative views.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703193300 +0000" stop="20260703200300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHIEF EDITOR'S TIME</title>
-    <desc lang="en">Daily key issues around the world are discussed on Chief Editor's Time. In-depth analyses and discussion gives viewers a better understanding of the issue.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703200300 +0000" stop="20260703203300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TALK WITH WORLD LEADERS</title>
-    <desc lang="en">Talk With World Leaders reveals compelling insights into key international figures in the fields of politics, industry, business, science and the arts, giving Chinese audiences a closer look at the world leaders.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">2.20260703.</episode-num>
-    <episode-num system="onscreen">S3E20260704</episode-num>
-  </programme>
-  <programme start="20260703203300 +0000" stop="20260703210300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TOP VIEW</title>
-    <desc lang="en">High precision observation of space security and insight into the changes of the global situation. Travel through time and space and perceive the dimension of geography.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703210300 +0000" stop="20260703213300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">NEWS DECODER</title>
-    <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703213300 +0000" stop="20260703220300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">YILING NEWS TALK</title>
-    <desc lang="en">YILING NEWS TALK</desc>
-    <category lang="en">News </category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703220300 +0000" stop="20260703223300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA INSIGHT</title>
-    <desc lang="en">The newly launched observation documentary program. Each issue takes a foreigner as the protagonist, travels all over China and observes China's social conditions and Chinese people's life from a close perspective.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703223300 +0000" stop="20260703230300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703230300 +0000" stop="20260703235800 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX MORNING EXPRESS</title>
-    <desc lang="en">The bright and early morning news program has all the ingredients to get the audience off to a great start.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260703235800 +0000" stop="20260704000300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
-    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
-    <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704000300 +0000" stop="20260704005800 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX MORNING EXPRESS</title>
-    <desc lang="en">The bright and early morning news program has all the ingredients to get the audience off to a great start.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704005800 +0000" stop="20260704010300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
-    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
-    <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704010300 +0000" stop="20260704013300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHIEF EDITOR'S TIME</title>
-    <desc lang="en">Daily key issues around the world are discussed on Chief Editor's Time. In-depth analyses and discussion gives viewers a better understanding of the issue.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704013300 +0000" stop="20260704020300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TALK WITH WORLD LEADERS</title>
-    <desc lang="en">Talk With World Leaders reveals compelling insights into key international figures in the fields of politics, industry, business, science and the arts, giving Chinese audiences a closer look at the world leaders.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">2.20260703.</episode-num>
-    <episode-num system="onscreen">S3E20260704</episode-num>
-  </programme>
-  <programme start="20260704020300 +0000" stop="20260704023300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TOP VIEW</title>
-    <desc lang="en">High precision observation of space security and insight into the changes of the global situation. Travel through time and space and perceive the dimension of geography.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704023300 +0000" stop="20260704030300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704030300 +0000" stop="20260704033300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">NEWS DECODER</title>
-    <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704033300 +0000" stop="20260704040300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA RESOURCES ZOOM IN</title>
-    <desc lang="en">Pay attention to current political topics, major social events and news hot spots. Dig out more facts and backgrounds. Analyze the early consequences of news events, the fate of characters, and present authoritative views.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704040300 +0000" stop="20260704045800 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX MIDDAY EXPRESS</title>
-    <desc lang="en">Presenting the most update international and financial news breaking before lunch, viewers can turn it to stay informed about events happening around the world.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704045800 +0000" stop="20260704050300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
-    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
-    <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704050300 +0000" stop="20260704060000 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX NEWS EXPRESS</title>
-    <desc lang="en">“Phoenix News Express" focuses on local news in Hong Kong, while also paying attention to information developments in various fields at home and abroad.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704060000 +0000" stop="20260704060300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
-    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
-    <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704060300 +0000" stop="20260704063300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHIEF EDITOR'S TIME</title>
-    <desc lang="en">Daily key issues around the world are discussed on Chief Editor's Time. In-depth analyses and discussion gives viewers a better understanding of the issue.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704063300 +0000" stop="20260704070300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TALK WITH WORLD LEADERS</title>
-    <desc lang="en">Talk With World Leaders reveals compelling insights into key international figures in the fields of politics, industry, business, science and the arts, giving Chinese audiences a closer look at the world leaders.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">2.20260703.</episode-num>
-    <episode-num system="onscreen">S3E20260704</episode-num>
-  </programme>
-  <programme start="20260704070300 +0000" stop="20260704073300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TOP VIEW</title>
-    <desc lang="en">High precision observation of space security and insight into the changes of the global situation. Travel through time and space and perceive the dimension of geography.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704073300 +0000" stop="20260704080300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">NEWS DECODER</title>
-    <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704080300 +0000" stop="20260704083300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704083300 +0000" stop="20260704090300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CULTURAL CANVAS</title>
-    <desc lang="en">This refreshing cultural program shares with you the wisdom of life, extracting the truth from social events and casting new lights on the high minds of ancient sages.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704090300 +0000" stop="20260704093300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA RESOURCES ZOOM IN</title>
-    <desc lang="en">Pay attention to current political topics, major social events and news hot spots. Dig out more facts and backgrounds. Analyze the early consequences of news events, the fate of characters, and present authoritative views.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704093300 +0000" stop="20260704100300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">WESTWARD JOURNEY</title>
-    <desc lang="en">WESTWARD JOURNEY</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704100300 +0000" stop="20260704103000 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX FOCUS 1800</title>
-    <desc lang="en">Focusing on the global political issues and major social events. Phoenix Focus delivers news highlights to viewers, presenting authoritative views.</desc>
-    <category lang="en">Politics</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704103000 +0000" stop="20260704103300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
-    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
-    <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704103300 +0000" stop="20260704110300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">YILING NEWS TALK</title>
-    <desc lang="en">YILING NEWS TALK</desc>
-    <category lang="en">News </category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704110300 +0000" stop="20260704120000 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">THE WORLD CONNECTION</title>
-    <desc lang="en">The program provides a full range of news reports, covering the essence of news from across the Taiwan Strait and four regions. It also uses Phoenix's huge global interview network to provide global news that is less covered by local media, increasing the breadth and depth of the News.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704120000 +0000" stop="20260704120300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
-    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
-    <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704120300 +0000" stop="20260704123300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG PERSPECTIVES</title>
-    <desc lang="en">Hong Kong Perspectives offers interviews with major SAR government officials, Leg Co president, as well as experts from think tanks, the programmes explain the essence of the Basic Law and explores how it has been implemented citing examples from the past.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704123300 +0000" stop="20260704130300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">THE TRIO TALK</title>
-    <desc lang="en">Phoenix TV launches a new Cantonese current affairs talk show where three top experts dissect hot issues with sharp analysis, lively debate and witty, fast-paced exchanges.</desc>
-    <category lang="en">Politics </category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704130300 +0000" stop="20260704135800 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX EVENING EXPRESS</title>
-    <desc lang="en">Phoenix Evening Express reports world events with in-depth coverage of the latest social, economic, cultural and sports news from Mainland China, Taiwan and Hong Kong.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704135800 +0000" stop="20260704140300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
-    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
-    <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
-  <programme start="20260704140300 +0000" stop="20260704143300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">WE ARE ONE</title>
-    <desc lang="en">Through a documentary lens, 'We Are One' portrays people, animals, and nature in harmony, revealing a touching story of coexistence, purity, kindness, and love.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20250719.</episode-num>
-    <episode-num system="onscreen">S1E20250720</episode-num>
-  </programme>
-  <programme start="20260704143300 +0000" stop="20260704150300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG HOT KITCHEN</title>
-    <desc lang="en">Senior commentator Cheng Jiannan invited famous political and economic figures to gather at "Hong Kong Hot Kitchen" to use current affairs as ingredients, to illustrate other things, to see the big picture from the small details, to use creativity as cooking skills, to turn depth into the right degree of heat, to butcher the cow like a butcher, and to analyze and decode.</desc>
-    <category lang="en">Food</category>
-    <episode-num system="xmltv_ns">0.20250717.</episode-num>
-    <episode-num system="onscreen">S1E20250718</episode-num>
-  </programme>
-  <programme start="20260704150300 +0000" stop="20260704160300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PREMIUM SPECTACULAR</title>
-    <desc lang="en">Premium Spectacular offers Phoenix's finest documentaries in our weekend prime time slot. Each episode comes relevant to the latest news that hits the headlines. Themes range from hot current affair issues at home and abroad, to diverse topics of social, historical and cultural interests.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260703.</episode-num>
-    <episode-num system="onscreen">S1E20260704</episode-num>
-  </programme>
   <channel id="seti.unifitv">
     <display-name>SETI</display-name>
   </channel>
@@ -6295,618 +4797,9 @@
     <desc lang="en">A single mother Neelam and her daughter Nazia face horror as an evil force intrudes. With help from neighbor Gopi, they confront danger and persevere.</desc>
     <category lang="en">Horror</category>
   </programme>
-  <channel id="sonyyay.unifitv">
-    <display-name>Sony YAY!</display-name>
+  <channel id="unknown.unifitv">
+    <display-name>ZEE Tamil HD</display-name>
   </channel>
-  <programme start="20260703151000 +0000" stop="20260703161000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Honey Bunny As Bodyguard</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703161000 +0000" stop="20260703164000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Baalveer</title>
-    <desc lang="en">Baal Veer is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses these powers to help his friends, including Manav and Meher.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.114.</episode-num>
-    <episode-num system="onscreen">S1E115</episode-num>
-  </programme>
-  <programme start="20260703164000 +0000" stop="20260703164900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260703164900 +0000" stop="20260703165900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260703165900 +0000" stop="20260703171000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260703171000 +0000" stop="20260703172500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Hagola</title>
-    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
-    <episode-num system="onscreen">S1E33</episode-num>
-  </programme>
-  <programme start="20260703172500 +0000" stop="20260703174000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Hagola</title>
-    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-    <episode-num system="onscreen">S1E34</episode-num>
-  </programme>
-  <programme start="20260703174000 +0000" stop="20260703175500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260703175500 +0000" stop="20260703181000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="onscreen">S1E30</episode-num>
-  </programme>
-  <programme start="20260703181000 +0000" stop="20260703182500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260703182500 +0000" stop="20260703184000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260703184000 +0000" stop="20260703191000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Kicko &amp; Super Speedo</title>
-    <desc lang="en">A superhero child and his special car, Super Speedo, go on adventiures to save the world from villains.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260703191000 +0000" stop="20260703201000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Honey Bunny And The Superace Car</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260703201000 +0000" stop="20260703202500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260703202500 +0000" stop="20260703204000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260703204000 +0000" stop="20260703205500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Paap O Meter</title>
-    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20260703205500 +0000" stop="20260703211000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Paap O Meter</title>
-    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260703211000 +0000" stop="20260703212500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260703212500 +0000" stop="20260703214000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260703214000 +0000" stop="20260703221000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Kicko &amp; Super Speedo</title>
-    <desc lang="en">A superhero child and his special car, Super Speedo, go on adventiures to save the world from villains.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260703221000 +0000" stop="20260703222500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260703222500 +0000" stop="20260703224000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="onscreen">S1E30</episode-num>
-  </programme>
-  <programme start="20260703224000 +0000" stop="20260703225500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260703225500 +0000" stop="20260703231000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260703231000 +0000" stop="20260703231900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260703231900 +0000" stop="20260703232900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260703232900 +0000" stop="20260703234000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260703234000 +0000" stop="20260703235500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Hagola</title>
-    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
-    <episode-num system="onscreen">S1E33</episode-num>
-  </programme>
-  <programme start="20260703235500 +0000" stop="20260704001000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Hagola</title>
-    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-    <episode-num system="onscreen">S1E34</episode-num>
-  </programme>
-  <programme start="20260704001000 +0000" stop="20260704002500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260704002500 +0000" stop="20260704004000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="onscreen">S1E30</episode-num>
-  </programme>
-  <programme start="20260704004000 +0000" stop="20260704005500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260704005500 +0000" stop="20260704011000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260704011000 +0000" stop="20260704021000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Honey Bunny And The Superace Car</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260704021000 +0000" stop="20260704024000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Baalveer</title>
-    <desc lang="en">Baal Veer is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses these powers to help his friends, including Manav and Meher.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.114.</episode-num>
-    <episode-num system="onscreen">S1E115</episode-num>
-  </programme>
-  <programme start="20260704024000 +0000" stop="20260704025500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260704025500 +0000" stop="20260704031000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260704031000 +0000" stop="20260704032500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Paap O Meter</title>
-    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20260704032500 +0000" stop="20260704034000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Paap O Meter</title>
-    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260704034000 +0000" stop="20260704035500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260704035500 +0000" stop="20260704041000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260704041000 +0000" stop="20260704044000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Baalveer</title>
-    <desc lang="en">Baal Veer is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses these powers to help his friends, including Manav and Meher.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.114.</episode-num>
-    <episode-num system="onscreen">S1E115</episode-num>
-  </programme>
-  <programme start="20260704044000 +0000" stop="20260704045500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Hagola</title>
-    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
-    <episode-num system="onscreen">S1E33</episode-num>
-  </programme>
-  <programme start="20260704045500 +0000" stop="20260704051000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Hagola</title>
-    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-    <episode-num system="onscreen">S1E34</episode-num>
-  </programme>
-  <programme start="20260704051000 +0000" stop="20260704052500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260704052500 +0000" stop="20260704054000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="onscreen">S1E30</episode-num>
-  </programme>
-  <programme start="20260704054000 +0000" stop="20260704061000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Kicko &amp; Super Speedo</title>
-    <desc lang="en">A superhero child and his special car, Super Speedo, go on adventiures to save the world from villains.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260704061000 +0000" stop="20260704071000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Honey Bunny And The Superace Car</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260704071000 +0000" stop="20260704072500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260704072500 +0000" stop="20260704074000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260704074000 +0000" stop="20260704075500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Paap O Meter</title>
-    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20260704075500 +0000" stop="20260704081000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Paap O Meter</title>
-    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260704081000 +0000" stop="20260704082500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260704082500 +0000" stop="20260704084000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260704084000 +0000" stop="20260704091000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Baalveer</title>
-    <desc lang="en">Baal Veer is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses these powers to help his friends, including Manav and Meher.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.114.</episode-num>
-    <episode-num system="onscreen">S1E115</episode-num>
-  </programme>
-  <programme start="20260704091000 +0000" stop="20260704091900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260704091900 +0000" stop="20260704092900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260704092900 +0000" stop="20260704094000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260704094000 +0000" stop="20260704095500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Hagola</title>
-    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.32.</episode-num>
-    <episode-num system="onscreen">S1E33</episode-num>
-  </programme>
-  <programme start="20260704095500 +0000" stop="20260704101000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Hagola</title>
-    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.33.</episode-num>
-    <episode-num system="onscreen">S1E34</episode-num>
-  </programme>
-  <programme start="20260704101000 +0000" stop="20260704102500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <episode-num system="onscreen">S1E29</episode-num>
-  </programme>
-  <programme start="20260704102500 +0000" stop="20260704104000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Guru Aur Bhole</title>
-    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.29.</episode-num>
-    <episode-num system="onscreen">S1E30</episode-num>
-  </programme>
-  <programme start="20260704104000 +0000" stop="20260704105500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260704105500 +0000" stop="20260704111000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260704111000 +0000" stop="20260704112500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260704112500 +0000" stop="20260704114000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260704114000 +0000" stop="20260704115500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260704115500 +0000" stop="20260704121000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260704121000 +0000" stop="20260704122500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260704122500 +0000" stop="20260704124000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Sab Jholmaal Hai</title>
-    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260704124000 +0000" stop="20260704125500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260704125500 +0000" stop="20260704131000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260704131000 +0000" stop="20260704132500 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260704132500 +0000" stop="20260704134000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260704134000 +0000" stop="20260704135400 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260704135400 +0000" stop="20260704141000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260704141000 +0000" stop="20260704142400 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260704142400 +0000" stop="20260704144000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
-    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260704144000 +0000" stop="20260704144900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260704144900 +0000" stop="20260704145900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20260704145900 +0000" stop="20260704151000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260704151000 +0000" stop="20260704152000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260704152000 +0000" stop="20260704153000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260704153000 +0000" stop="20260704154000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260704154000 +0000" stop="20260704154900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260704154900 +0000" stop="20260704155900 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260704155900 +0000" stop="20260704161000 +0000" channel="sonyyay.unifitv">
-    <title lang="en">Oh My Lallan</title>
-    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
   <programme start="20260703153000 +0000" stop="20260703160000 +0000" channel="unknown.unifitv">
     <title lang="en">Idhayam</title>
     <desc lang="en">Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
@@ -8054,6 +5947,1957 @@
   <channel id="hits.unifitv">
     <display-name>HITS</display-name>
   </channel>
+  <programme start="20260703151000 +0000" stop="20260703161000 +0000" channel="hits.unifitv">
+    <title lang="en">The Incredible Hulk</title>
+    <desc lang="en">A desperate reporter tries to get an interview with the Hulk.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+    <episode-num system="onscreen">S4E12</episode-num>
+  </programme>
+  <programme start="20260703161000 +0000" stop="20260703164000 +0000" channel="hits.unifitv">
+    <title lang="en">Bewitched</title>
+    <desc lang="en">Darrin is frantic because a half-million dollar client has been turned into a monkey.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.15.</episode-num>
+    <episode-num system="onscreen">S5E16</episode-num>
+  </programme>
+  <programme start="20260703164000 +0000" stop="20260703171000 +0000" channel="hits.unifitv">
+    <title lang="en">Bewitched</title>
+    <desc lang="en">Feeling Samantha is deprived, Endora makes sure Darrin turns very generous.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.16.</episode-num>
+    <episode-num system="onscreen">S5E17</episode-num>
+  </programme>
+  <programme start="20260703171000 +0000" stop="20260703174000 +0000" channel="hits.unifitv">
+    <title lang="en">Bewitched</title>
+    <desc lang="en">Samantha has a terrible time when everything she says a comes out in rhyme.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.17.</episode-num>
+    <episode-num system="onscreen">S5E18</episode-num>
+  </programme>
+  <programme start="20260703174000 +0000" stop="20260703184000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">Grissom and his team investigate the strangely theatrical crime scene of another victim left by serial killer Paul Millander.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <episode-num system="onscreen">S2E13</episode-num>
+  </programme>
+  <programme start="20260703184000 +0000" stop="20260703194000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">When a man approaches Catherine with gruesome evidence of his mistress' kidnapping, she inadvertently becomes involved in the case.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <episode-num system="onscreen">S2E14</episode-num>
+  </programme>
+  <programme start="20260703194000 +0000" stop="20260703204000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">A body hidden in the Western Las Vegas Anthropology Department leads the CSI team to a disturbing case of child abuse.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <episode-num system="onscreen">S2E15</episode-num>
+  </programme>
+  <programme start="20260703204000 +0000" stop="20260703214000 +0000" channel="hits.unifitv">
+    <title lang="en">Beverly Hills, 90210</title>
+    <desc lang="en">It's Jim and Cindy's 17th wedding anniversary and Cindy's high school boyfriend, Glen Evans, comes to Beverly Hills to tell her he still has feelings for her, leading them to kiss.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260703214000 +0000" stop="20260703224000 +0000" channel="hits.unifitv">
+    <title lang="en">Beverly Hills, 90210</title>
+    <desc lang="en">Brenda is a trainee for a teen crisis hotline, although Andrea questions her devotion. The caller is a date rape victim and Brenda is desperate to learn the girl's identity to help her.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260703224000 +0000" stop="20260703234000 +0000" channel="hits.unifitv">
+    <title lang="en">Agatha Christie's Marple</title>
+    <desc lang="en">On a stormy night, family friend Louisa seeks Miss Marple's help. Marple sends Louisa and her son to Greenshaw's Folly, where Louisa becomes secretary to the eccentric Miss Greenshaw—soon drawing attention and becoming entangled in danger at the estate.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">5.3.</episode-num>
+    <episode-num system="onscreen">S6E4</episode-num>
+  </programme>
+  <programme start="20260703234000 +0000" stop="20260704004000 +0000" channel="hits.unifitv">
+    <title lang="en">Agatha Christie's Marple</title>
+    <desc lang="en">Miss Marple investigates the downfall of an optimistic young couple who ignored the warnings of a gypsy and built a dream home on allegedly cursed land.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">5.4.</episode-num>
+    <episode-num system="onscreen">S6E5</episode-num>
+  </programme>
+  <programme start="20260704004000 +0000" stop="20260704014000 +0000" channel="hits.unifitv">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Xena comes back to help Princess Diana once more. She takes the place of Diana, but there's an unexpected problem: another Xena look-alike is already trying to supplant the princess.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20260704014000 +0000" stop="20260704024000 +0000" channel="hits.unifitv">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Callisto, with Ares' help, takes Xena's body and leaves Xena, in Callisto's body, in Tartarus.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20260704024000 +0000" stop="20260704034000 +0000" channel="hits.unifitv">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Someone has made Ares mortal by stealing his sword, which leaves him incapable of putting Xena back in her own body and removes his control over the anger of peaceful people.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme start="20260704034000 +0000" stop="20260704044000 +0000" channel="hits.unifitv">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Over one holiday night, Xena and Gabrielle stage mini-dramas in King Silvus' bedroom to get him to change his bitter ways.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <episode-num system="onscreen">S2E9</episode-num>
+  </programme>
+  <programme start="20260704044000 +0000" stop="20260704051000 +0000" channel="hits.unifitv">
+    <title lang="en">Frasier</title>
+    <desc lang="en">When Bulldog wrongfully takes credit for foiling a robbery and saving Roz's life, Frasier becomes determined to make Bulldog "come clean."</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.17.</episode-num>
+    <episode-num system="onscreen">S5E18</episode-num>
+  </programme>
+  <programme start="20260704051000 +0000" stop="20260704054000 +0000" channel="hits.unifitv">
+    <title lang="en">Frasier</title>
+    <desc lang="en">Frasier's torn between his "lust" for his latest conquest and the realization that they have nothing in common except great sex.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.18.</episode-num>
+    <episode-num system="onscreen">S5E19</episode-num>
+  </programme>
+  <programme start="20260704054000 +0000" stop="20260704061000 +0000" channel="hits.unifitv">
+    <title lang="en">Frasier</title>
+    <desc lang="en">Niles gets Daphne to help him plan a phony dinner date with a neighbor so she won't realize how much he really cares for her.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.19.</episode-num>
+    <episode-num system="onscreen">S5E20</episode-num>
+  </programme>
+  <programme start="20260704061000 +0000" stop="20260704064000 +0000" channel="hits.unifitv">
+    <title lang="en">Frasier</title>
+    <desc lang="en">Roz worries about the fate of her new baby when she discovers that the parents of her baby's father have two of the biggest noses she's ever seen.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.20.</episode-num>
+    <episode-num system="onscreen">S5E21</episode-num>
+  </programme>
+  <programme start="20260704064000 +0000" stop="20260704074000 +0000" channel="hits.unifitv">
+    <title lang="en">The Incredible Hulk</title>
+    <desc lang="en">Banner is plunged into Chinatown intrigue when he unwillingly receives a mail-order bride.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <episode-num system="onscreen">S4E8</episode-num>
+  </programme>
+  <programme start="20260704074000 +0000" stop="20260704084000 +0000" channel="hits.unifitv">
+    <title lang="en">The Incredible Hulk</title>
+    <desc lang="en">Banner hopes for a cure to his own malady as he searches for another reported Hulk-like creature.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <episode-num system="onscreen">S4E9</episode-num>
+  </programme>
+  <programme start="20260704084000 +0000" stop="20260704094000 +0000" channel="hits.unifitv">
+    <title lang="en">The Incredible Hulk</title>
+    <desc lang="en">David must decide between ending his own torment with the rediscovered antidote or ridding the world of the Hulk's dangerous predecessor.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <episode-num system="onscreen">S4E10</episode-num>
+  </programme>
+  <programme start="20260704094000 +0000" stop="20260704104000 +0000" channel="hits.unifitv">
+    <title lang="en">Beverly Hills, 90210</title>
+    <desc lang="en">It's Jim and Cindy's 17th wedding anniversary and Cindy's high school boyfriend, Glen Evans, comes to Beverly Hills to tell her he still has feelings for her, leading them to kiss.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260704104000 +0000" stop="20260704114000 +0000" channel="hits.unifitv">
+    <title lang="en">Beverly Hills, 90210</title>
+    <desc lang="en">Brenda is a trainee for a teen crisis hotline, although Andrea questions her devotion. The caller is a date rape victim and Brenda is desperate to learn the girl's identity to help her.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260704114000 +0000" stop="20260704124000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">Grissom and his team investigate the strangely theatrical crime scene of another victim left by serial killer Paul Millander.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <episode-num system="onscreen">S2E13</episode-num>
+  </programme>
+  <programme start="20260704124000 +0000" stop="20260704134000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">When a man approaches Catherine with gruesome evidence of his mistress' kidnapping, she inadvertently becomes involved in the case.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <episode-num system="onscreen">S2E14</episode-num>
+  </programme>
+  <programme start="20260704134000 +0000" stop="20260704144000 +0000" channel="hits.unifitv">
+    <title lang="en">CSI: Crime Scene Investigation</title>
+    <desc lang="en">A body hidden in the Western Las Vegas Anthropology Department leads the CSI team to a disturbing case of child abuse.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <episode-num system="onscreen">S2E15</episode-num>
+  </programme>
+  <programme start="20260704144000 +0000" stop="20260704151000 +0000" channel="hits.unifitv">
+    <title lang="en">I Dream of Jeannie</title>
+    <desc lang="en">When Roger spreads the news that the stork is to visit the Nelson household, he doesn't know that Mrs. Djinn-Djinn, the genie dog, is the object of the visit -- not Jeannie.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.17.</episode-num>
+    <episode-num system="onscreen">S5E18</episode-num>
+  </programme>
+  <programme start="20260704151000 +0000" stop="20260704154000 +0000" channel="hits.unifitv">
+    <title lang="en">I Dream of Jeannie</title>
+    <desc lang="en">Curiosity captures Jeannie, Tony and Roger bring her back.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.18.</episode-num>
+    <episode-num system="onscreen">S5E19</episode-num>
+  </programme>
+  <programme start="20260704154000 +0000" stop="20260704161000 +0000" channel="hits.unifitv">
+    <title lang="en">I Dream of Jeannie</title>
+    <desc lang="en">Jeannie tries to get Tony the Best Husband Award and almost makes him the Worst Astronaut.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4.19.</episode-num>
+    <episode-num system="onscreen">S5E20</episode-num>
+  </programme>
+  <channel id="sonyyay.unifitv">
+    <display-name>Sony YAY!</display-name>
+  </channel>
+  <programme start="20260703151000 +0000" stop="20260703161000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Honey Bunny As Bodyguard</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703161000 +0000" stop="20260703164000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Baalveer</title>
+    <desc lang="en">Baal Veer is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses these powers to help his friends, including Manav and Meher.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20260703164000 +0000" stop="20260703164900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
+  </programme>
+  <programme start="20260703164900 +0000" stop="20260703165900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+  </programme>
+  <programme start="20260703165900 +0000" stop="20260703171000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+  </programme>
+  <programme start="20260703171000 +0000" stop="20260703172500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Hagola</title>
+    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+    <episode-num system="onscreen">S1E33</episode-num>
+  </programme>
+  <programme start="20260703172500 +0000" stop="20260703174000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Hagola</title>
+    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
+    <episode-num system="onscreen">S1E34</episode-num>
+  </programme>
+  <programme start="20260703174000 +0000" stop="20260703175500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20260703175500 +0000" stop="20260703181000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20260703181000 +0000" stop="20260703182500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260703182500 +0000" stop="20260703184000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260703184000 +0000" stop="20260703191000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Kicko &amp; Super Speedo</title>
+    <desc lang="en">A superhero child and his special car, Super Speedo, go on adventiures to save the world from villains.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260703191000 +0000" stop="20260703201000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Honey Bunny And The Superace Car</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703201000 +0000" stop="20260703202500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260703202500 +0000" stop="20260703204000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260703204000 +0000" stop="20260703205500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Paap O Meter</title>
+    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260703205500 +0000" stop="20260703211000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Paap O Meter</title>
+    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20260703211000 +0000" stop="20260703212500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260703212500 +0000" stop="20260703214000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260703214000 +0000" stop="20260703221000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Kicko &amp; Super Speedo</title>
+    <desc lang="en">A superhero child and his special car, Super Speedo, go on adventiures to save the world from villains.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260703221000 +0000" stop="20260703222500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20260703222500 +0000" stop="20260703224000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20260703224000 +0000" stop="20260703225500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260703225500 +0000" stop="20260703231000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260703231000 +0000" stop="20260703231900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
+  </programme>
+  <programme start="20260703231900 +0000" stop="20260703232900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+  </programme>
+  <programme start="20260703232900 +0000" stop="20260703234000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+  </programme>
+  <programme start="20260703234000 +0000" stop="20260703235500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Hagola</title>
+    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+    <episode-num system="onscreen">S1E33</episode-num>
+  </programme>
+  <programme start="20260703235500 +0000" stop="20260704001000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Hagola</title>
+    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
+    <episode-num system="onscreen">S1E34</episode-num>
+  </programme>
+  <programme start="20260704001000 +0000" stop="20260704002500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20260704002500 +0000" stop="20260704004000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20260704004000 +0000" stop="20260704005500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260704005500 +0000" stop="20260704011000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260704011000 +0000" stop="20260704021000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Honey Bunny And The Superace Car</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260704021000 +0000" stop="20260704024000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Baalveer</title>
+    <desc lang="en">Baal Veer is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses these powers to help his friends, including Manav and Meher.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20260704024000 +0000" stop="20260704025500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260704025500 +0000" stop="20260704031000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260704031000 +0000" stop="20260704032500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Paap O Meter</title>
+    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260704032500 +0000" stop="20260704034000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Paap O Meter</title>
+    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20260704034000 +0000" stop="20260704035500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260704035500 +0000" stop="20260704041000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260704041000 +0000" stop="20260704044000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Baalveer</title>
+    <desc lang="en">Baal Veer is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses these powers to help his friends, including Manav and Meher.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20260704044000 +0000" stop="20260704045500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Hagola</title>
+    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+    <episode-num system="onscreen">S1E33</episode-num>
+  </programme>
+  <programme start="20260704045500 +0000" stop="20260704051000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Hagola</title>
+    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
+    <episode-num system="onscreen">S1E34</episode-num>
+  </programme>
+  <programme start="20260704051000 +0000" stop="20260704052500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20260704052500 +0000" stop="20260704054000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20260704054000 +0000" stop="20260704061000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Kicko &amp; Super Speedo</title>
+    <desc lang="en">A superhero child and his special car, Super Speedo, go on adventiures to save the world from villains.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260704061000 +0000" stop="20260704071000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Honey Bunny And The Superace Car</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260704071000 +0000" stop="20260704072500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260704072500 +0000" stop="20260704074000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260704074000 +0000" stop="20260704075500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Paap O Meter</title>
+    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260704075500 +0000" stop="20260704081000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Paap O Meter</title>
+    <desc lang="en">Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20260704081000 +0000" stop="20260704082500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260704082500 +0000" stop="20260704084000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260704084000 +0000" stop="20260704091000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Baalveer</title>
+    <desc lang="en">Baal Veer is taken to a fairyland where he is blessed with special powers by six fairies, each having her own unique traits. He uses these powers to help his friends, including Manav and Meher.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20260704091000 +0000" stop="20260704091900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
+  </programme>
+  <programme start="20260704091900 +0000" stop="20260704092900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+  </programme>
+  <programme start="20260704092900 +0000" stop="20260704094000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+  </programme>
+  <programme start="20260704094000 +0000" stop="20260704095500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Hagola</title>
+    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+    <episode-num system="onscreen">S1E33</episode-num>
+  </programme>
+  <programme start="20260704095500 +0000" stop="20260704101000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Hagola</title>
+    <desc lang="en">HaGoLa' is the story of three naughty little friends - Lattha, Hathgola and Goli, who live in a unique world of objects.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
+    <episode-num system="onscreen">S1E34</episode-num>
+  </programme>
+  <programme start="20260704101000 +0000" stop="20260704102500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20260704102500 +0000" stop="20260704104000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Guru Aur Bhole</title>
+    <desc lang="en">Guru's onomatopoeic singing talents adds to Bhole's unique dancing style and brute strength which helps them to get out of many sticky situations in this animated musical comedy.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20260704104000 +0000" stop="20260704105500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260704105500 +0000" stop="20260704111000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260704111000 +0000" stop="20260704112500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260704112500 +0000" stop="20260704114000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260704114000 +0000" stop="20260704115500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260704115500 +0000" stop="20260704121000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260704121000 +0000" stop="20260704122500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260704122500 +0000" stop="20260704124000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Sab Jholmaal Hai</title>
+    <desc lang="en">A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260704124000 +0000" stop="20260704125500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260704125500 +0000" stop="20260704131000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260704131000 +0000" stop="20260704132500 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260704132500 +0000" stop="20260704134000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260704134000 +0000" stop="20260704135400 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260704135400 +0000" stop="20260704141000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260704141000 +0000" stop="20260704142400 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260704142400 +0000" stop="20260704144000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Prince Jai Aur Dumdaar Viru</title>
+    <desc lang="en">A prince and a commoner who are best friends keep having to thwart the plots of the prince's scheming, ambitious minister.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260704144000 +0000" stop="20260704144900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20260704144900 +0000" stop="20260704145900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20260704145900 +0000" stop="20260704151000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260704151000 +0000" stop="20260704152000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260704152000 +0000" stop="20260704153000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20260704153000 +0000" stop="20260704154000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
+  </programme>
+  <programme start="20260704154000 +0000" stop="20260704154900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
+  </programme>
+  <programme start="20260704154900 +0000" stop="20260704155900 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+  </programme>
+  <programme start="20260704155900 +0000" stop="20260704161000 +0000" channel="sonyyay.unifitv">
+    <title lang="en">Oh My Lallan</title>
+    <desc lang="en">Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+  </programme>
+  <programme start="20260703153000 +0000" stop="20260703160000 +0000" channel="unknown.unifitv">
+    <title lang="en">Idhayam</title>
+    <desc lang="en">Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1039.</episode-num>
+    <episode-num system="onscreen">S1E1040</episode-num>
+  </programme>
+  <programme start="20260703160000 +0000" stop="20260703163000 +0000" channel="unknown.unifitv">
+    <title lang="en">Varisu</title>
+    <desc lang="en">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.303.</episode-num>
+    <episode-num system="onscreen">S1E304</episode-num>
+  </programme>
+  <programme start="20260703163000 +0000" stop="20260703170000 +0000" channel="unknown.unifitv">
+    <title lang="en">Veera</title>
+    <desc lang="en">Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.677.</episode-num>
+    <episode-num system="onscreen">S1E678</episode-num>
+  </programme>
+  <programme start="20260703170000 +0000" stop="20260703173000 +0000" channel="unknown.unifitv">
+    <title lang="en">Veera</title>
+    <desc lang="en">Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.678.</episode-num>
+    <episode-num system="onscreen">S1E679</episode-num>
+  </programme>
+  <programme start="20260703173000 +0000" stop="20260703180000 +0000" channel="unknown.unifitv">
+    <title lang="en">Parijatham</title>
+    <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.234.</episode-num>
+    <episode-num system="onscreen">S1E235</episode-num>
+  </programme>
+  <programme start="20260703180000 +0000" stop="20260703183000 +0000" channel="unknown.unifitv">
+    <title lang="en">Ayali</title>
+    <desc lang="en">Tamizhselvi wants to be a doctor, but her village's old customs hold women back. Can she overcome these traditions in Veerappannai and achieve her dream?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.334.</episode-num>
+    <episode-num system="onscreen">S1E335</episode-num>
+  </programme>
+  <programme start="20260703183000 +0000" stop="20260703190000 +0000" channel="unknown.unifitv">
+    <title lang="en">Idhayam</title>
+    <desc lang="en">Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1026.</episode-num>
+    <episode-num system="onscreen">S1E1027</episode-num>
+  </programme>
+  <programme start="20260703190000 +0000" stop="20260703193000 +0000" channel="unknown.unifitv">
+    <title lang="en">Varisu</title>
+    <desc lang="en">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.303.</episode-num>
+    <episode-num system="onscreen">S1E304</episode-num>
+  </programme>
+  <programme start="20260703193000 +0000" stop="20260703200000 +0000" channel="unknown.unifitv">
+    <title lang="en">Annamalai Kudumbam</title>
+    <desc lang="en">Annamalai seeks a bride for her son Varun, finding Vennila with traditional values, but complications arise when Vennila's sister Vaanmathy stirs tension.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.179.</episode-num>
+    <episode-num system="onscreen">S1E180</episode-num>
+  </programme>
+  <programme start="20260703200000 +0000" stop="20260703203000 +0000" channel="unknown.unifitv">
+    <title lang="en">Vaagai Sooda Vaa</title>
+    <desc lang="en">Veluthambi dreams of a government job but ends up teaching poor village kids. When he discovers they're being forced into bonded labour, he resolves to fight for their freedom.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.59.</episode-num>
+    <episode-num system="onscreen">S1E60</episode-num>
+  </programme>
+  <programme start="20260703203000 +0000" stop="20260703210000 +0000" channel="unknown.unifitv">
+    <title lang="en">Gettimelam</title>
+    <desc lang="en">After facing humiliation from her family, Lakshmi vows to build a new house. Sivaraman joins her in this mission. But as they take on family responsibilities, will their dream be left behind?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.425.</episode-num>
+    <episode-num system="onscreen">S1E426</episode-num>
+  </programme>
+  <programme start="20260703210000 +0000" stop="20260703213000 +0000" channel="unknown.unifitv">
+    <title lang="en">Varisu</title>
+    <desc lang="en">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.303.</episode-num>
+    <episode-num system="onscreen">S1E304</episode-num>
+  </programme>
+  <programme start="20260703213000 +0000" stop="20260703220000 +0000" channel="unknown.unifitv">
+    <title lang="en">Sandhya Raagam</title>
+    <desc lang="en">Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.902.</episode-num>
+    <episode-num system="onscreen">S1E903</episode-num>
+  </programme>
+  <programme start="20260703220000 +0000" stop="20260703223000 +0000" channel="unknown.unifitv">
+    <title lang="en">Karthigai Deepam</title>
+    <desc lang="en">A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.1217.</episode-num>
+    <episode-num system="onscreen">S1E1218</episode-num>
+  </programme>
+  <programme start="20260703223000 +0000" stop="20260703230000 +0000" channel="unknown.unifitv">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260703230000 +0000" stop="20260703233000 +0000" channel="unknown.unifitv">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260703233000 +0000" stop="20260704000000 +0000" channel="unknown.unifitv">
+    <title lang="en">Annamalai Kudumbam</title>
+    <desc lang="en">Annamalai seeks a bride for her son Varun, finding Vennila with traditional values, but complications arise when Vennila's sister Vaanmathy stirs tension.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.186.</episode-num>
+    <episode-num system="onscreen">S1E187</episode-num>
+  </programme>
+  <programme start="20260704000000 +0000" stop="20260704003000 +0000" channel="unknown.unifitv">
+    <title lang="en">Vaagai Sooda Vaa</title>
+    <desc lang="en">Veluthambi dreams of a government job but ends up teaching poor village kids. When he discovers they're being forced into bonded labour, he resolves to fight for their freedom.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.71.</episode-num>
+    <episode-num system="onscreen">S1E72</episode-num>
+  </programme>
+  <programme start="20260704003000 +0000" stop="20260704030000 +0000" channel="unknown.unifitv">
+    <title lang="en">Chiyaangal</title>
+    <desc lang="en">A group of seven elderly friends embark on a journey to Chennai in order to fulfil their dreams. However, two of them die, making the rest work harder to finish what they started.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260704030000 +0000" stop="20260704033000 +0000" channel="unknown.unifitv">
+    <title lang="en">Parijatham</title>
+    <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.56.</episode-num>
+    <episode-num system="onscreen">S1E57</episode-num>
+  </programme>
+  <programme start="20260704033000 +0000" stop="20260704040000 +0000" channel="unknown.unifitv">
+    <title lang="en">Salangai Oli</title>
+    <desc lang="en">A tragedy separates Bhoomi and Gagan from their fathers, but Bhoomi hopes to find her roots, while Gagan despises his father. As fate entwines them, will truth bridge the chasm between hope and hate?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.491.</episode-num>
+    <episode-num system="onscreen">S1E492</episode-num>
+  </programme>
+  <programme start="20260704040000 +0000" stop="20260704043000 +0000" channel="unknown.unifitv">
+    <title lang="en">Salangai Oli</title>
+    <desc lang="en">A tragedy separates Bhoomi and Gagan from their fathers, but Bhoomi hopes to find her roots, while Gagan despises his father. As fate entwines them, will truth bridge the chasm between hope and hate?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.492.</episode-num>
+    <episode-num system="onscreen">S1E493</episode-num>
+  </programme>
+  <programme start="20260704043000 +0000" stop="20260704050000 +0000" channel="unknown.unifitv">
+    <title lang="en">Aval Varuvala</title>
+    <desc lang="en">Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.340.</episode-num>
+    <episode-num system="onscreen">S1E341</episode-num>
+  </programme>
+  <programme start="20260704050000 +0000" stop="20260704053000 +0000" channel="unknown.unifitv">
+    <title lang="en">Aval Varuvala</title>
+    <desc lang="en">Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.341.</episode-num>
+    <episode-num system="onscreen">S1E342</episode-num>
+  </programme>
+  <programme start="20260704053000 +0000" stop="20260704060000 +0000" channel="unknown.unifitv">
+    <title lang="en">Vaagai Sooda Vaa</title>
+    <desc lang="en">Veluthambi dreams of a government job but ends up teaching poor village kids. When he discovers they're being forced into bonded labour, he resolves to fight for their freedom.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.64.</episode-num>
+    <episode-num system="onscreen">S1E65</episode-num>
+  </programme>
+  <programme start="20260704060000 +0000" stop="20260704063000 +0000" channel="unknown.unifitv">
+    <title lang="en">Annamalai Kudumbam</title>
+    <desc lang="en">Annamalai seeks a bride for her son Varun, finding Vennila with traditional values, but complications arise when Vennila's sister Vaanmathy stirs tension.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.191.</episode-num>
+    <episode-num system="onscreen">S1E192</episode-num>
+  </programme>
+  <programme start="20260704063000 +0000" stop="20260704093000 +0000" channel="unknown.unifitv">
+    <title lang="en">J Baby</title>
+    <desc lang="en">Family life takes an unexpected turn when a spirited child challenges traditional routines, sparking laughter, emotional growth, and meaningful change within a close-knit household.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260704093000 +0000" stop="20260704100000 +0000" channel="unknown.unifitv">
+    <title lang="en">Varisu</title>
+    <desc lang="en">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.316.</episode-num>
+    <episode-num system="onscreen">S1E317</episode-num>
+  </programme>
+  <programme start="20260704100000 +0000" stop="20260704101500 +0000" channel="unknown.unifitv">
+    <title lang="en">Gettimelam</title>
+    <desc lang="en">After facing humiliation from her family, Lakshmi vows to build a new house. Sivaraman joins her in this mission. But as they take on family responsibilities, will their dream be left behind?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.440.</episode-num>
+    <episode-num system="onscreen">S1E441</episode-num>
+  </programme>
+  <programme start="20260704101500 +0000" stop="20260704103000 +0000" channel="unknown.unifitv">
+    <title lang="en">Gettimelam</title>
+    <desc lang="en">After facing humiliation from her family, Lakshmi vows to build a new house. Sivaraman joins her in this mission. But as they take on family responsibilities, will their dream be left behind?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.441.</episode-num>
+    <episode-num system="onscreen">S1E442</episode-num>
+  </programme>
+  <programme start="20260704103000 +0000" stop="20260704110000 +0000" channel="unknown.unifitv">
+    <title lang="en">Veera</title>
+    <desc lang="en">Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.679.</episode-num>
+    <episode-num system="onscreen">S1E680</episode-num>
+  </programme>
+  <programme start="20260704110000 +0000" stop="20260704113000 +0000" channel="unknown.unifitv">
+    <title lang="en">Veera</title>
+    <desc lang="en">Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.680.</episode-num>
+    <episode-num system="onscreen">S1E681</episode-num>
+  </programme>
+  <programme start="20260704113000 +0000" stop="20260704130000 +0000" channel="unknown.unifitv">
+    <title lang="en">Vinodhaya Sitham</title>
+    <desc lang="en">After dying in a car accident, a selfish man is miraculously granted 90 more days to live, giving him a second chance to mend his mistakes and rediscover the true meaning of life.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260704130000 +0000" stop="20260704133000 +0000" channel="unknown.unifitv">
+    <title lang="en">Ayali</title>
+    <desc lang="en">Tamizhselvi wants to be a doctor, but her village's old customs hold women back. Can she overcome these traditions in Veerappannai and achieve her dream?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.335.</episode-num>
+    <episode-num system="onscreen">S1E336</episode-num>
+  </programme>
+  <programme start="20260704133000 +0000" stop="20260704140000 +0000" channel="unknown.unifitv">
+    <title lang="en">Karthigai Deepam</title>
+    <desc lang="en">A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.1248.</episode-num>
+    <episode-num system="onscreen">S1E1249</episode-num>
+  </programme>
+  <programme start="20260704140000 +0000" stop="20260704143000 +0000" channel="unknown.unifitv">
+    <title lang="en">Dance Jodi Dance</title>
+    <desc lang="en">Dance Jodi Dance Queens</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260704143000 +0000" stop="20260704150000 +0000" channel="unknown.unifitv">
+    <title lang="en">Dance Jodi Dance</title>
+    <desc lang="en">Dance Jodi Dance Queens</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260704150000 +0000" stop="20260704153000 +0000" channel="unknown.unifitv">
+    <title lang="en">Dance Jodi Dance</title>
+    <desc lang="en">Dance Jodi Dance Queens</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="unknown.unifitv">
+    <title lang="en">Sandhya Raagam</title>
+    <desc lang="en">Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.915.</episode-num>
+    <episode-num system="onscreen">S1E916</episode-num>
+  </programme>
+  <programme start="20260704160000 +0000" stop="20260704163000 +0000" channel="unknown.unifitv">
+    <title lang="en">Varisu</title>
+    <desc lang="en">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.304.</episode-num>
+    <episode-num system="onscreen">S1E305</episode-num>
+  </programme>
+  <programme start="20260703130000 +0000" stop="20260703160000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Karan Arjun</title>
+    <desc lang="en">Reborn in different lands, Karan and Arjun reunite through their mother's faith, rising again to take revenge on those who destroyed them in a past life.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260703160000 +0000" stop="20260703190000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Krrish 3</title>
+    <desc lang="en">Krrish and his father must defeat human-animal mutants created by an evil genius, Kaal, who is hell-bent on destroying the world. His vile army is led by a chameleon mutant, Kaya.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260703190000 +0000" stop="20260703220000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Middle Class Love</title>
+    <desc lang="en">A young college boy is frustrated being in middle-class family setup and finds love the ideal way to get out of it.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260703220000 +0000" stop="20260704010000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Foot Fairy</title>
+    <desc lang="en">When a serial killer with a foot fetish goes on the loose in Mumbai targetting young women, CBI officer Vivan Deshmukh is tasked with finding the murderer. Will he succeed?</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260704010000 +0000" stop="20260704040000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Karan Arjun</title>
+    <desc lang="en">Reborn in different lands, Karan and Arjun reunite through their mother's faith, rising again to take revenge on those who destroyed them in a past life.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260704040000 +0000" stop="20260704070000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Jawaani Jaaneman</title>
+    <desc lang="en">A 40 year-old playboy's life turns upside down when he comes to know that he has a 20 something year-old daughter.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260704070000 +0000" stop="20260704100000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Veere Di Wedding</title>
+    <desc lang="en">Kalindi friends, come to meet her after they learn about her wedding with her boyfriend, Rishabh. Sakshi takes her girls to Thailand and they rediscover themselves.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260704100000 +0000" stop="20260704130000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Rehna Hai Terre Dil Mein</title>
+    <desc lang="en">Maddy impersonates Rajeev, the person his love interest, Reena, is about to marry and attempts to woo her. However, he is unprepared for the moment when the truth will be revealed.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260704130000 +0000" stop="20260704160000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Luck by Chance</title>
+    <desc lang="en">Aspiring actor Vikram wishes to make it big in Bollywood. His dream does come true, however, it affects his relationship with Sona.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260704160000 +0000" stop="20260704190000 +0000" channel="zeecinemahd.unifitv">
+    <title lang="en">Don Aur Doctor</title>
+    <desc lang="en">An honest doctor, Das, befriends Deva, a feared gangster. But when duty clashes with loyalty, their strong friendship faces a heartbreaking test.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260703134500 +0000" stop="20260703160000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Fantastic Beasts: The Crimes Of Grindelwald</title>
+    <desc lang="en">Grindelwald escapes custody and Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20260703160000 +0000" stop="20260703173500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Companion</title>
+    <desc lang="en">When Iris realizes that she is an AI companion for her boyfriend, she must embrace who she is and fight to survive in a battle for ultimate control.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260703173500 +0000" stop="20260703193000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Regretting You</title>
+    <desc lang="en">After a devastating accident, Morgan Grant and her daughter Clara must rediscover life and love in this heart-felt coming-of-age story.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260703193000 +0000" stop="20260703205500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Teen Titans Go! To The Movies</title>
+    <desc lang="en">The Teen Titans head to Tinsel Town to pursue their dream of starring in their own movies.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260703205500 +0000" stop="20260703224000 +0000" channel="hbohits.unifitv">
+    <title lang="en">The Room Next Door</title>
+    <desc lang="en">Ingrid and Martha were close friends in their youth. After years of being out of touch, they meet again in an extreme but strangely sweet situation.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260703224000 +0000" stop="20260704001000 +0000" channel="hbohits.unifitv">
+    <title lang="en">The Immortal Life Of Henrietta Lacks</title>
+    <desc lang="en">Based on the book of the same name, this HBO Original film tells the true story of a woman whose cells were used to create the first immortal human cell line.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260704001000 +0000" stop="20260704020500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Regretting You</title>
+    <desc lang="en">After a devastating accident, Morgan Grant and her daughter Clara must rediscover life and love in this heart-felt coming-of-age story.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260704020500 +0000" stop="20260704041000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Superman</title>
+    <desc lang="en">A Superman who's driven by compassion and an inherent belief in the goodness of humankind.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260704041000 +0000" stop="20260704054000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Kung Fu Panda 2</title>
+    <desc lang="en">Po's new life as The Dragon Warrior is threatened by the emergence of a formidable villain determined to conquer China and destroy Kung Fu.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260704054000 +0000" stop="20260704070500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Teen Titans Go! To The Movies</title>
+    <desc lang="en">The Teen Titans head to Tinsel Town to pursue their dream of starring in their own movies.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260704070500 +0000" stop="20260704084500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Get Out</title>
+    <desc lang="en">When a young African-American man visits his white girlfriend's family estate, he becomes ensnared in the more sinister, real reason for the invitation.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260704084500 +0000" stop="20260704103000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Imagine That</title>
+    <desc lang="en">When a successful executive suffers a crisis of confidence and his career is at stake, he finds the solution to his problems in his daughter's imaginary world.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260704103000 +0000" stop="20260704120000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Kung Fu Panda 2</title>
+    <desc lang="en">Po's new life as The Dragon Warrior is threatened by the emergence of a formidable villain determined to conquer China and destroy Kung Fu.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260704120000 +0000" stop="20260704135500 +0000" channel="hbohits.unifitv">
+    <title lang="en">Regretting You</title>
+    <desc lang="en">After a devastating accident, Morgan Grant and her daughter Clara must rediscover life and love in this heart-felt coming-of-age story.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260704135500 +0000" stop="20260704160000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Superman</title>
+    <desc lang="en">A Superman who's driven by compassion and an inherent belief in the goodness of humankind.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260704160000 +0000" stop="20260704175000 +0000" channel="hbohits.unifitv">
+    <title lang="en">Final Destination Bloodlines</title>
+    <desc lang="en">Plagued by a violent recurring nightmare, a college student heads home to track down the one person who might be able to save her family.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260703154500 +0000" stop="20260703173000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Polar Express</title>
+    <desc lang="en">A doubting boy finds out first-hand that Santa exists when he goes aboard a magical train headed for the North Pole.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260703173000 +0000" stop="20260703175200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Life &amp; Times Of Juniper Lee</title>
+    <desc lang="en">Auntie Roon, an ancient and cranky fish-riding witch, is returned from eight hundred years of banishment.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260703175200 +0000" stop="20260703181400 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Life &amp; Times Of Juniper Lee</title>
+    <desc lang="en">June is overwhelmed balancing her personal life with being the Te Xuan Ze until a 'helper elf' appears.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260703181400 +0000" stop="20260703184000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Life &amp; Times Of Juniper Lee</title>
+    <desc lang="en">Demons plot to kidnap Ray Ray and hold him ransom for a magical goblet.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260703184000 +0000" stop="20260703185100 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">During medieval times, Team Tennyson must fight to remember that they're not in the past at all, but actually at a Renaissance-esque faire- where "King Zombozo" has hypnotized its guests into thinking they live in the past!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <episode-num system="onscreen">S3E11</episode-num>
+  </programme>
+  <programme start="20260703185100 +0000" stop="20260703190200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">After an overpass collapses on the highway, Team Tennyson is in a traffic jam along with Simon Sez and family, but when Ben and Simon team up to tackle the gridlock together, Simon only makes matters much, much worse.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <episode-num system="onscreen">S3E12</episode-num>
+  </programme>
+  <programme start="20260703190200 +0000" stop="20260703191200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">At Biggie Box Japan, Ben waits in an epic line for the release of the latest Sumo Slammers video game, Cyber Slammers, but Ben must soon save the store- not from game-hungry customers, but from Steam Smythe, who wants to retro-fit a massive mech with steam punk powers!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <episode-num system="onscreen">S3E13</episode-num>
+  </programme>
+  <programme start="20260703191200 +0000" stop="20260703192200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">When Ben and family go to London to visit the legendary Big Ben, the Bugg Brothers are there to greet them - with yet another outrageously over-the-top plan of course: to shrink the Big Ben bell in order to steal it!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <episode-num system="onscreen">S3E14</episode-num>
+  </programme>
+  <programme start="20260703192200 +0000" stop="20260703194000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">After traveling to Tampa Beach, Florida, Team Tennyson hope to get some much-needed rest &amp; relaxation, but the tempests without a temper, the Weatherheads, have other plans that Ben must thwart: to build a new beach base!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <episode-num system="onscreen">S3E15</episode-num>
+  </programme>
+  <programme start="20260703194000 +0000" stop="20260703202500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ruby And The Well</title>
+    <desc lang="en">Ruby gets an intimidating wish about an extended Emerald family with secrets and surprises. Will she and her friends find the courage to grant it?</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260703202500 +0000" stop="20260703203700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe</title>
+    <desc lang="en">Princess Syllabob, the blobby daughter of Axalotly, King of the Deep, has been carried off by a gang of gulls and discarded on the forest floor.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20260703203700 +0000" stop="20260703204800 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe</title>
+    <desc lang="en">Struck down by a poisonous turnip, Prince Ivandoe &amp; Bert must seek a cure from the Wise Wizard of Wisdom.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260703204800 +0000" stop="20260703205900 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe</title>
+    <desc lang="en">Feral and her gang of cat-thieves have stolen Prince Ivandoe's map to Eagle Mountain. Cupcake, the pink-poodle survivalist offers to train Prince Ivandoe to become a Jungle Warrior</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20260703205900 +0000" stop="20260703211100 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe</title>
+    <desc lang="en">Whilst travelling through the notoriously dangerous Forest of Outlaws, Prince Ivandoe is repeatedly Princenapped!</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20260703211100 +0000" stop="20260703213000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Heroic Quest Of The Valiant Prince Ivandoe</title>
+    <desc lang="en">Prince Ivandoe is a prisoner in the castle dungeon of Jezabel's mother, Grizabella - the unpredictable and slightly terrifying "Queen of Thieves".</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20260703213000 +0000" stop="20260704000500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Wicked</title>
+    <desc lang="en">The untold story of the Witches of Oz, spotlighting the untold stories of Oz's most infamous characters.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260704000500 +0000" stop="20260704001600 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">When Grandpa Max's engineer buddy Phil Billings gifts Team Tennyson the Omni-Copter - a state of the art flying vehicle that can transport the Rustbucket for overseas adventures.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
+  </programme>
+  <programme start="20260704001600 +0000" stop="20260704002700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">During one last stop by a toy store before Ben, Gwen, and Grandpa Max's maiden voyage across the Atlantic, Ben runs into an old bully, Kevin 11, who now has new powers - able to transform into aliens just like Ben, such as the "bootleg" doppelgänger of Cannonbolt-- Wreckingbolt!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20260704002700 +0000" stop="20260704003800 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Team Tennyson goes international in the Omni-Copter and the first stop is for a hike in the Scottish Highlands, but the weather isn't just bad, it's foggy, and that means one thing and one thing only: the return of The Fogg!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="onscreen">S3E3</episode-num>
+  </programme>
+  <programme start="20260704003800 +0000" stop="20260704004900 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Back stateside, Ben can't get into a cat cosplay competition, Top Tail, without a costume of his own, but when he goes Rath - a new cat-like alien with an attitude - Ben's newfound wild side quickly becomes much more than he bargained for.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <episode-num system="onscreen">S3E4</episode-num>
+  </programme>
+  <programme start="20260704004900 +0000" stop="20260704010000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Ben, Gwen, and Grandpa Max next travel to Castle Bishopbrook to visit a distant relative who's royalty, but when Ben encounters a "ghost" at the haunted home, it turns out to actually be his new rival, Kevin 11, throwing even more twisted aliens his way: Thornblade, Undertow, and Dark Matter!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <episode-num system="onscreen">S3E5</episode-num>
+  </programme>
+  <programme start="20260704010000 +0000" stop="20260704011100 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">While in Paris, France, Ben catches Zombozo robbing the Louvre, but when Zombozo hypnotizes Ben to remain speechless, Ben must navigate a foreign land like a mime in order to stop the criminal clown and his travelling circus.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
+  </programme>
+  <programme start="20260704011100 +0000" stop="20260704012200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">A trip to the South Pole goes upside down when Team Tennyson lands on the North Pole instead, but Ben quickly discovers the culprits: Solar &amp; Polar Twain, magnetically-powered scientists who want to hold the world ransom by threatening to reverse Earth's magnetic poles!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <episode-num system="onscreen">S3E7</episode-num>
+  </programme>
+  <programme start="20260704012200 +0000" stop="20260704013300 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Ben, Gwen, and Grandpa Max arrive at a Native American national park to witness the Ayasha Plinths - an ancient Stonehenge-like rock formation - but when the sinister sorcerer Hex arrives, Ben must battle against a beast Hex magically made out of huge rocks!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <episode-num system="onscreen">S3E8</episode-num>
+  </programme>
+  <programme start="20260704013300 +0000" stop="20260704014400 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Team Tennyson checks out a Samurai Museum in Tokyo, where Ben is too impatient to wait out the Calligraphy experience for the more exciting-sounding Samurai one, but when a dangerous Samurai sword is stolen from the exhibit, Ben must take on its thief - the new Big Bad in town, the Forever Knight.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="onscreen">S3E9</episode-num>
+  </programme>
+  <programme start="20260704014400 +0000" stop="20260704015500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">During a tour of the Japanese Robotics Museum, Ben finds hero-gone-wrong Tim Buktu "trying to save" Tokyo from a Dragon, but has Tim finally turned over a new leaf, or is this just another one of his half-baked plans to play the part of hero?</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="onscreen">S3E10</episode-num>
+  </programme>
+  <programme start="20260704015500 +0000" stop="20260704020600 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">During medieval times, Team Tennyson must fight to remember that they're not in the past at all, but actually at a Renaissance-esque faire- where "King Zombozo" has hypnotized its guests into thinking they live in the past!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <episode-num system="onscreen">S3E11</episode-num>
+  </programme>
+  <programme start="20260704020600 +0000" stop="20260704021700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">After an overpass collapses on the highway, Team Tennyson is in a traffic jam along with Simon Sez and family, but when Ben and Simon team up to tackle the gridlock together, Simon only makes matters much, much worse.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <episode-num system="onscreen">S3E12</episode-num>
+  </programme>
+  <programme start="20260704021700 +0000" stop="20260704022700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">At Biggie Box Japan, Ben waits in an epic line for the release of the latest Sumo Slammers video game, Cyber Slammers, but Ben must soon save the store- not from game-hungry customers, but from Steam Smythe, who wants to retro-fit a massive mech with steam punk powers!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <episode-num system="onscreen">S3E13</episode-num>
+  </programme>
+  <programme start="20260704022700 +0000" stop="20260704023700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">When Ben and family go to London to visit the legendary Big Ben, the Bugg Brothers are there to greet them - with yet another outrageously over-the-top plan of course: to shrink the Big Ben bell in order to steal it!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+    <episode-num system="onscreen">S3E14</episode-num>
+  </programme>
+  <programme start="20260704023700 +0000" stop="20260704024700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">After traveling to Tampa Beach, Florida, Team Tennyson hope to get some much-needed rest &amp; relaxation, but the tempests without a temper, the Weatherheads, have other plans that Ben must thwart: to build a new beach base!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <episode-num system="onscreen">S3E15</episode-num>
+  </programme>
+  <programme start="20260704024700 +0000" stop="20260704025700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">While visiting China, Ben, Gwen, and Grandpa Max take a trek to the Great Wall, but their adventure is nearly ruined by daredevils LaGrange and Vin Ethanol trying to jump the international monument, and Ben must hop into the Rustbuggy to chase away the fast and furious foes.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.15.</episode-num>
+    <episode-num system="onscreen">S3E16</episode-num>
+  </programme>
+  <programme start="20260704025700 +0000" stop="20260704030700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">During a family cookout at a forest campsite, Charmcaster users her magic to switch places with Gwen, but when Ben catches "Charmcaster" sneaking about, he attacks- unaware it's actually his cursed cousin!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.16.</episode-num>
+    <episode-num system="onscreen">S3E17</episode-num>
+  </programme>
+  <programme start="20260704030700 +0000" stop="20260704031700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">In Aspen, Colorado, Ben, Gwen, and Grandpa Max are on a hike to find the Forgeti, but when they realize they've stumbled upon Billy Billions own "Winter in July" ski resort, Ben must battle Billy-with an assist from the Forgeti itself.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <episode-num system="onscreen">S3E18</episode-num>
+  </programme>
+  <programme start="20260704031700 +0000" stop="20260704032700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Ben hops into the Rustbuggy for a driving lesson along the sand dunes of Cape Cod, but he takes a freaky switchback turn when the Rustbuggy is mutated into a motor-monster by Bootleg - another alien transformation of Kevin 11, with powers similar to Upgrade!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.18.</episode-num>
+    <episode-num system="onscreen">S3E19</episode-num>
+  </programme>
+  <programme start="20260704032700 +0000" stop="20260704033700 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Team Tennyson travel to the Chrysalen Institute for some hot yoga and good vibes, only to find that the Bugg Brothers are on vacation, too- but are the sneaky insectoids really on holiday, or just cooking up yet another silly, yet high stakes scheme?</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+    <episode-num system="onscreen">S3E20</episode-num>
+  </programme>
+  <programme start="20260704033700 +0000" stop="20260704041000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">After a battle with Kevin gets mysteriously cut short, Ben turns his attention to one-upping Gwen at Space Camp, but when his arch-nemesis, Kevin, returns with his sights strangely set on his cousin, our hero must uncover who is really behind it all: Charmcaster!</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
+    <episode-num system="onscreen">S3E21</episode-num>
+  </programme>
+  <programme start="20260704041000 +0000" stop="20260704054500 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Gabby's Dollhouse: The Movie</title>
+    <desc lang="en">Gabby and Grandma Gigi's road trip to Cat Francisco takes an unexpected turn when Gabby's prized dollhouse is swiped by an eccentric cat lady.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260704054500 +0000" stop="20260704075000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Superman III</title>
+    <desc lang="en">In this third instalment of this series, Superman battles a supercomputer and the evil businessman exploiting it.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20260704075000 +0000" stop="20260704092000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The National Dog Show ('20)</title>
+    <desc lang="en">From the Kennel Club of Philadelphia, this cherished competition for all dog lovers returns for the 17th year. Hosted by John O'Hurley, the event features 2,000 of the nation's leading canines, including the world's largest, smallest and most exotic. Over 170 breeds strut their stuff with the hope of becoming this year's top dog. “The Dean” David Frei provides expert show commentary, and Mary Carillo chimes in as an adept sideline reporter for this ultimate canine showdown. But which dog will have their day, and which will leave with their tail between their legs? After all, there can only be one “Best in Show”.</desc>
+    <category lang="en">Entertaiment</category>
+  </programme>
+  <programme start="20260704092000 +0000" stop="20260704104000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Rugrats In Paris: The Movie</title>
+    <desc lang="en">Chuckie and the entire gang go to Paris with the hope of finding a new mom for his dad in this Rugrats film.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260704104000 +0000" stop="20260704120000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Rugrats Movie</title>
+    <desc lang="en">The Rugrats are lost in a forest and must put their heads together to find their way home.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260704120000 +0000" stop="20260704132000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Rugrats Go Wild</title>
+    <desc lang="en">The family vacation goes overboard when the Rugrats meet the Wild Thornberrys for a toon-spin of a time!</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260704132000 +0000" stop="20260704145000 +0000" channel="hbofamily.unifitv">
+    <title lang="en">Superman IV: The Quest For Peace</title>
+    <desc lang="en">Superman faces his toughest mission ever - to rid the world of all nuclear armaments but first he must win his battle against Lex Luther's new creation.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260704145000 +0000" stop="20260704151200 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Life &amp; Times Of Juniper Lee</title>
+    <desc lang="en">June has been doing her Te Xuan Ze thing (acting as the Protector) for just over a month, and it's become a real hassle.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260704151200 +0000" stop="20260704153400 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Life &amp; Times Of Juniper Lee</title>
+    <desc lang="en">When June's school chorus goes to a nursing home to perform, Roger finds half of a cursed Viking medallion.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260704153400 +0000" stop="20260704155600 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Life &amp; Times Of Juniper Lee</title>
+    <desc lang="en">Every year on April Fools' Day, Orchid Bay City is overrun by practical jokes.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260704155600 +0000" stop="20260704161800 +0000" channel="hbofamily.unifitv">
+    <title lang="en">The Life &amp; Times Of Juniper Lee</title>
+    <desc lang="en">June and Marcus (her secret crush) are given a class assignment to do a report on a mummy.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260703131000 +0000" stop="20260703160000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Elvis</title>
+    <desc lang="en">Visionary filmmaker Baz Luhrmann explores the life and music of Elvis Presley in this epic film starring Austin Butler and Tom Hanks.</desc>
+    <category lang="en">Biography</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703160000 +0000" stop="20260703180000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Way Back</title>
+    <desc lang="en">Oscar® winner Ben Affleck is Jack Cunningham, a former high school basketball phenom who faces his inner demons by agreeing to coach a mediocre high school basketball team.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703180000 +0000" stop="20260703183000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Dirty Money</title>
+    <desc lang="en">An auto junkyard inspires the guys to turn some rusted American classics into crisp American dollars.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260703183000 +0000" stop="20260703192000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Smallville</title>
+    <desc lang="en">After Lana gains the ability to see through other people's eyes, Clark and Lana race to find Chloe after Lana "watches" her being buried alive.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+  </programme>
+  <programme start="20260703192000 +0000" stop="20260703194000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Brooke and Kevin learn how to get zippers unstuck with the help of Graphite Man.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <episode-num system="onscreen">S2E9</episode-num>
+  </programme>
+  <programme start="20260703194000 +0000" stop="20260703200500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Learn how to get gum out of your hair and how to survive a zombie apocalypse.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <episode-num system="onscreen">S2E10</episode-num>
+  </programme>
+  <programme start="20260703200500 +0000" stop="20260703203000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Container Wars</title>
+    <desc lang="en">Bidders go head to head in a battle over some super heavyweight freight.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <episode-num system="onscreen">S3E4</episode-num>
+  </programme>
+  <programme start="20260703203000 +0000" stop="20260703205500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Container Wars</title>
+    <desc lang="en">The Israelis' go hard after what they think is vintage clothing, but will their fashion expertise pay off?</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <episode-num system="onscreen">S3E5</episode-num>
+  </programme>
+  <programme start="20260703205500 +0000" stop="20260703212000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Dirty Money</title>
+    <desc lang="en">Hoping that old toys bring new joy and lots of money, the Direstas attempt to create a giant Lite Brite coffee table.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260703212000 +0000" stop="20260703214500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Dirty Money</title>
+    <desc lang="en">An auto junkyard inspires the guys to turn some rusted American classics into crisp American dollars.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260703214500 +0000" stop="20260703221000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Impractical Jokers</title>
+    <desc lang="en">Joe, Sal, Murr, and Q host a team building seminar that's NOT safe for work.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">6.2.</episode-num>
+    <episode-num system="onscreen">S7E3</episode-num>
+  </programme>
+  <programme start="20260703221000 +0000" stop="20260703223500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Brooke and Kevin return with an explosion of brand new hacks!</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
+  <programme start="20260703223500 +0000" stop="20260703230000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Brooke and Kevin return with an explosion of brand new hacks!</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme start="20260703230000 +0000" stop="20260703232500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Our dynamic duo discovers how to hack vodka to taste like top shelf.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20260703232500 +0000" stop="20260703235000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Kevin and Brooke host the ultimate Battle of the Bags by discovering the best hacks for carrying groceries.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260703235000 +0000" stop="20260704001500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">This week's "Hack Master" will go to the extreme by hacking Kevin's brain.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme start="20260704001500 +0000" stop="20260704004000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Kevin and Brooke put the best shaving hacks to the test in the ultimate beard-off.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20260704004000 +0000" stop="20260704010500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Explore hacks for all ages, from staying clean while eating ribs, to staying young in your golden years.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20260704010500 +0000" stop="20260704013000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Brooke and Kevin discover the best hacks for stretching out shoes and removing coffee stains.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme start="20260704013000 +0000" stop="20260704015500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Brooke and Kevin learn how to get zippers unstuck with the help of Graphite Man.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+    <episode-num system="onscreen">S2E9</episode-num>
+  </programme>
+  <programme start="20260704015500 +0000" stop="20260704021500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Learn how to get gum out of your hair and how to survive a zombie apocalypse.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <episode-num system="onscreen">S2E10</episode-num>
+  </programme>
+  <programme start="20260704021500 +0000" stop="20260704023500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Howard invites Sheldon to travel with him to Houston.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6.17.</episode-num>
+    <episode-num system="onscreen">S7E18</episode-num>
+  </programme>
+  <programme start="20260704023500 +0000" stop="20260704030000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Sheldon visits his mom in Houston.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6.18.</episode-num>
+    <episode-num system="onscreen">S7E19</episode-num>
+  </programme>
+  <programme start="20260704030000 +0000" stop="20260704032500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Penny and Raj (and Sheldon) face major life decisions.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6.19.</episode-num>
+    <episode-num system="onscreen">S7E20</episode-num>
+  </programme>
+  <programme start="20260704032500 +0000" stop="20260704035000 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Penny helps Sheldon cope with a string theory breakup.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6.20.</episode-num>
+    <episode-num system="onscreen">S7E21</episode-num>
+  </programme>
+  <programme start="20260704035000 +0000" stop="20260704041500 +0000" channel="warnertv.unifitv">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Leonard reinstates "Anything Can Happen Thursday."</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6.21.</episode-num>
+    <episode-num system="onscreen">S7E22</episode-num>
+  </programme>
+  <programme start="20260704041500 +0000" stop="20260704061500 +0000" channel="warnertv.unifitv">
+    <title lang="en">East Of Eden</title>
+    <desc lang="en">Two brothers compete for their father's approval and a woman's love.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260704061500 +0000" stop="20260704081000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Rebel Without A Cause</title>
+    <desc lang="en">James Dean stars in a movie that shocked the United States with a performance that still electrifies the screen twenty-five years after his untimely death.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260704081000 +0000" stop="20260704083500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Friends</title>
+    <desc lang="en">Monica's cooking at the restaurant is harshly criticized in a newspaper.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">7.20.</episode-num>
+    <episode-num system="onscreen">S8E21</episode-num>
+  </programme>
+  <programme start="20260704083500 +0000" stop="20260704090000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Friends</title>
+    <desc lang="en">Rachel's pregnancy goes beyond her projected delivery date.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">7.21.</episode-num>
+    <episode-num system="onscreen">S8E22</episode-num>
+  </programme>
+  <programme start="20260704090000 +0000" stop="20260704092500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Friends</title>
+    <desc lang="en">In the one-hour season finale, Rachel waits in the hospital maternity ward.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">7.22.</episode-num>
+    <episode-num system="onscreen">S8E23</episode-num>
+  </programme>
+  <programme start="20260704092500 +0000" stop="20260704113500 +0000" channel="warnertv.unifitv">
+    <title lang="en">He's Just Not That Into You</title>
+    <desc lang="en">An interconnected group of young adults navigates their relationships, from the shallow end of the dating pool through the deep, murky waters of married life.</desc>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260704113500 +0000" stop="20260704131000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Into The Storm</title>
+    <desc lang="en">Told through the eyes and lenses of professional storm chasers, thrill-seeking amateurs, and courageous townspeople, "Into the Storm" documents an unprecedented onslaught of tornadoes touching down in the town of Silverton.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260704131000 +0000" stop="20260704152000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Justice League (2017)</title>
+    <desc lang="en">DC's Titanic Super Hero team join forces in the eagerly anticipated tentpole action adventure.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260704152000 +0000" stop="20260704171000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Dunkirk (2017)</title>
+    <desc lang="en">Evacuation of Allied soldiers from the British Empire, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260703153500 +0000" stop="20260703163500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">Both teams face off in the world cuisine challenge before competing in a charity night dinner service.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">22.10.</episode-num>
+    <episode-num system="onscreen">S23E11</episode-num>
+  </programme>
+  <programme start="20260703163500 +0000" stop="20260703173500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">MasterChef: Global Gauntlet</title>
+    <desc lang="en">Eight more home cooks compete to represent their heritage from the African region in the audition battles.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">15.2.</episode-num>
+    <episode-num system="onscreen">S16E3</episode-num>
+  </programme>
+  <programme start="20260703173500 +0000" stop="20260703183500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Special Forces: World's Toughest Test</title>
+    <desc lang="en">As the recruits experience the most challenging part of their journey, they must try their best to conceal that they have been working with the Special Forces in order to successfully pass selection.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="onscreen">S3E10</episode-num>
+  </programme>
+  <programme start="20260703183500 +0000" stop="20260703193500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Snapped: Killer Couples</title>
+    <desc lang="en">An immigrant from Pakistan is found brutally murdered inside his Washington, D.C., pizzeria. Given the lack of forced entry, investigators believe he knew his killer and a plot involving marriage fraud surfaces, leading to a deadly crime of passion.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">16.12.</episode-num>
+    <episode-num system="onscreen">S17E13</episode-num>
+  </programme>
+  <programme start="20260703193500 +0000" stop="20260703213500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">America's Got Talent</title>
+    <desc lang="en">With an army of loyal fans eager to find out what's in store, America's Got Talent returns to screens this year with more diverse talent, show-stopping moments and incredible drama than ever before.</desc>
+    <category lang="en">Talent Show</category>
+    <episode-num system="xmltv_ns">20.4.</episode-num>
+    <episode-num system="onscreen">S21E5</episode-num>
+  </programme>
+  <programme start="20260703213500 +0000" stop="20260703223500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Celebrity Wheel Of Fortune</title>
+    <desc lang="en">Hosted by Pat Sajak and Vanna White, "Celebrity Wheel of Fortune" welcomes celebrities to solve word puzzles for a chance to win up to $1 million. All of the money won goes to a charity of their choice.</desc>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <episode-num system="onscreen">S4E4</episode-num>
+  </programme>
+  <programme start="20260703223500 +0000" stop="20260703230500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11688.</episode-num>
+    <episode-num system="onscreen">S45E11689</episode-num>
+  </programme>
+  <programme start="20260703230500 +0000" stop="20260704000500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">MasterChef: Global Gauntlet</title>
+    <desc lang="en">Eight more home cooks compete to represent their heritage from the African region in the audition battles.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">15.2.</episode-num>
+    <episode-num system="onscreen">S16E3</episode-num>
+  </programme>
+  <programme start="20260704000500 +0000" stop="20260704010500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Special Forces: World's Toughest Test</title>
+    <desc lang="en">As the recruits experience the most challenging part of their journey, they must try their best to conceal that they have been working with the Special Forces in order to successfully pass selection.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="onscreen">S3E10</episode-num>
+  </programme>
+  <programme start="20260704010500 +0000" stop="20260704020500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Snapped: Killer Couples</title>
+    <desc lang="en">An immigrant from Pakistan is found brutally murdered inside his Washington, D.C., pizzeria. Given the lack of forced entry, investigators believe he knew his killer and a plot involving marriage fraud surfaces, leading to a deadly crime of passion.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">16.12.</episode-num>
+    <episode-num system="onscreen">S17E13</episode-num>
+  </programme>
+  <programme start="20260704020500 +0000" stop="20260704030500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Hell's Kitchen</title>
+    <desc lang="en">Both teams face off in the world cuisine challenge before competing in a charity night dinner service.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">22.10.</episode-num>
+    <episode-num system="onscreen">S23E11</episode-num>
+  </programme>
+  <programme start="20260704030500 +0000" stop="20260704040500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Agency: Central Intelligence</title>
+    <desc lang="en">Martian buys time with a bluff to Langley. Danny crosses the Rubicon.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260704040500 +0000" stop="20260704043500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11688.</episode-num>
+    <episode-num system="onscreen">S45E11689</episode-num>
+  </programme>
+  <programme start="20260704043500 +0000" stop="20260704053500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">MasterChef: Global Gauntlet</title>
+    <desc lang="en">Eight more home cooks compete to represent their heritage from the African region in the audition battles.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">15.2.</episode-num>
+    <episode-num system="onscreen">S16E3</episode-num>
+  </programme>
+  <programme start="20260704053500 +0000" stop="20260704063500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Special Forces: World's Toughest Test</title>
+    <desc lang="en">As the recruits experience the most challenging part of their journey, they must try their best to conceal that they have been working with the Special Forces in order to successfully pass selection.</desc>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="onscreen">S3E10</episode-num>
+  </programme>
+  <programme start="20260704063500 +0000" stop="20260704073500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Snapped: Killer Couples</title>
+    <desc lang="en">An immigrant from Pakistan is found brutally murdered inside his Washington, D.C., pizzeria. Given the lack of forced entry, investigators believe he knew his killer and a plot involving marriage fraud surfaces, leading to a deadly crime of passion.</desc>
+    <category lang="en">True Crime</category>
+    <episode-num system="xmltv_ns">16.12.</episode-num>
+    <episode-num system="onscreen">S17E13</episode-num>
+  </programme>
+  <programme start="20260704073500 +0000" stop="20260704083500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Who Wants To Be A Millionaire</title>
+    <desc lang="en">Celebrity contestants win money for charity by answering increasingly difficult questions.</desc>
+    <category lang="en">Game Show</category>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+    <episode-num system="onscreen">S4E5</episode-num>
+  </programme>
+  <programme start="20260704083500 +0000" stop="20260704090500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Lainey (AJ Michalka) surprises everyone with her college announcement, prompting Barry (Troy Gentile) to vow to follow in the footsteps of Doogie Howser: M.D. and become a doctor while still in high school.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.17.</episode-num>
+    <episode-num system="onscreen">S4E18</episode-num>
+  </programme>
+  <programme start="20260704090500 +0000" stop="20260704113500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Spider-Man: Across The Spider-Verse</title>
+    <desc lang="en">In a Multiverse of Spider-People where they clash on how to handle a new threat, Miles Morales must redefine what it means to be a hero so he can save the people he loves most.</desc>
+    <category lang="en">Movie</category>
+  </programme>
+  <programme start="20260704113500 +0000" stop="20260704120500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11688.</episode-num>
+    <episode-num system="onscreen">S45E11689</episode-num>
+  </programme>
+  <programme start="20260704120500 +0000" stop="20260704130500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Agency: Central Intelligence</title>
+    <desc lang="en">Martian buys time with a bluff to Langley. Danny crosses the Rubicon.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260704130500 +0000" stop="20260704150500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">America's Got Talent</title>
+    <desc lang="en">With an army of loyal fans eager to find out what's in store, America's Got Talent returns to screens this year with more diverse talent, show-stopping moments and incredible drama than ever before.</desc>
+    <category lang="en">Talent Show</category>
+    <episode-num system="xmltv_ns">20.4.</episode-num>
+    <episode-num system="onscreen">S21E5</episode-num>
+  </programme>
+  <programme start="20260704150500 +0000" stop="20260704153500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
+    <category lang="en">Chat show</category>
+    <episode-num system="xmltv_ns">44.11689.</episode-num>
+    <episode-num system="onscreen">S45E11690</episode-num>
+  </programme>
+  <programme start="20260704153500 +0000" stop="20260704160500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">The Goldbergs</title>
+    <desc lang="en">Lainey (AJ Michalka) surprises everyone with her college announcement, prompting Barry (Troy Gentile) to vow to follow in the footsteps of Doogie Howser: M.D. and become a doctor while still in high school.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.17.</episode-num>
+    <episode-num system="onscreen">S4E18</episode-num>
+  </programme>
   <programme start="20260703151000 +0000" stop="20260703161000 +0000" channel="hits.unifitv">
     <title lang="en">The Incredible Hulk</title>
     <desc lang="en">A desperate reporter tries to get an interview with the Hulk.</desc>
@@ -15401,583 +15245,5 @@
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <channel id="nhkworldjapan.unifitv">
-    <display-name>NHK WORLD-JAPAN</display-name>
-  </channel>
-  <programme start="20260703153500 +0000" stop="20260703160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4047.</episode-num>
-    <episode-num system="onscreen">S1E4048</episode-num>
-  </programme>
-  <programme start="20260703160500 +0000" stop="20260703163500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260703163500 +0000" stop="20260703170500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Frontrunners</title>
-    <desc lang="en">Mongolia's culture of meat-eating is contributing to health problems in this developing economy - chef Suzuki Yuko aims to introduce more vegetables through workshops and improved hospital menus.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2102.</episode-num>
-    <episode-num system="onscreen">S1E2103</episode-num>
-  </programme>
-  <programme start="20260703170500 +0000" stop="20260703173500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260703173500 +0000" stop="20260703180500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Asia Insight</title>
-    <desc lang="en">Thousands of children were separated from their families and taken to Indonesia during the country's occupation of East Timor - one project seeks to reunite these 'Stolen Children'.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2021.</episode-num>
-    <episode-num system="onscreen">S1E2022</episode-num>
-  </programme>
-  <programme start="20260703180500 +0000" stop="20260703183300 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Newsroom Tokyo</title>
-    <desc lang="en">This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260703183300 +0000" stop="20260703184800 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Direct Talk</title>
-    <desc lang="en">Ichiko Aoba puts distinctive, whispery vocals over floating, classical guitar melodies. We explore why her music captivates listeners around the world, despite being sung in Japanese.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2104.</episode-num>
-    <episode-num system="onscreen">S1E2105</episode-num>
-  </programme>
-  <programme start="20260703184800 +0000" stop="20260703190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">Reductions in Arctic sea ice caused by global warming have ironically led to record-breaking Northern Hemisphere snowfalls and frequent winter storms - what mechanism is at work?</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6127.</episode-num>
-    <episode-num system="onscreen">S1E6128</episode-num>
-  </programme>
-  <programme start="20260703190000 +0000" stop="20260703190500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">Night on the Town: A full moon shines above a bustling neighbourhood - featured prominently are kabuki theatres on hiatus, but people have still come out to take in the nightlife.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6029.</episode-num>
-    <episode-num system="onscreen">S1E6030</episode-num>
-  </programme>
-  <programme start="20260703190500 +0000" stop="20260703193500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Medical Frontiers</title>
-    <desc lang="en">Proton beam therapy precisely targets tumours while minimising damage to healthy tissue. It may benefit patients with hard-to-treat cancers and children vulnerable to treatment side effects.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2049.</episode-num>
-    <episode-num system="onscreen">S1E2050</episode-num>
-  </programme>
-  <programme start="20260703193500 +0000" stop="20260703200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Trailblazers</title>
-    <desc lang="en">Gunma Prefecture has a wealth of tourism resources - to promote its highlights, the prefecture has been implementing a unique marketing strategy. Leading the charge is its popular mascot Gunmachan.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6999.</episode-num>
-    <episode-num system="onscreen">S1E7000</episode-num>
-  </programme>
-  <programme start="20260703200500 +0000" stop="20260703203500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260703203500 +0000" stop="20260703210500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Design X Stories</title>
-    <desc lang="en">Today's theme: Vanishing Tools. As the rising age of artisans puts the survival of certain crafts at risk, we shine a light on the vanishing tools used to keep them alive and their anonymous designs.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2100.</episode-num>
-    <episode-num system="onscreen">S1E2101</episode-num>
-  </programme>
-  <programme start="20260703210500 +0000" stop="20260703213500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260703213500 +0000" stop="20260703220500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4047.</episode-num>
-    <episode-num system="onscreen">S1E4048</episode-num>
-  </programme>
-  <programme start="20260703220500 +0000" stop="20260703223500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260703223500 +0000" stop="20260703230500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Asia Insight</title>
-    <desc lang="en">Thousands of children were separated from their families and taken to Indonesia during the country's occupation of East Timor - one project seeks to reunite these 'Stolen Children'.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2021.</episode-num>
-    <episode-num system="onscreen">S1E2022</episode-num>
-  </programme>
-  <programme start="20260703230500 +0000" stop="20260703231500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260703231500 +0000" stop="20260703232000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Chatroom Japan</title>
-    <desc lang="en">A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6048.</episode-num>
-    <episode-num system="onscreen">S1E6049</episode-num>
-  </programme>
-  <programme start="20260703232000 +0000" stop="20260703233500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japan's Top Inventions</title>
-    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter. This time: silica gel rotors.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2090.</episode-num>
-    <episode-num system="onscreen">S1E2091</episode-num>
-  </programme>
-  <programme start="20260703233500 +0000" stop="20260704000500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japanology Plus</title>
-    <desc lang="en">The 19th-century educator Yoshida Shoin lived only 29 years, but his teachings helped shape Japan's modernisation - his words published as books remain popular today. We visit his birthplace of Hagi.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2031.</episode-num>
-    <episode-num system="onscreen">S1E2032</episode-num>
-  </programme>
-  <programme start="20260704000500 +0000" stop="20260704001500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704001500 +0000" stop="20260704010500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">The Deadly Escape Game of Refugees</title>
-    <desc lang="en">As the number of refugees in the world reaches unprecedented heights, smugglers have appeared claiming to transport them to safety but they instead become pawns in a game with their lives at stake.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4000.</episode-num>
-    <episode-num system="onscreen">S1E4001</episode-num>
-  </programme>
-  <programme start="20260704010500 +0000" stop="20260704011500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704011500 +0000" stop="20260704015900 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Core Kyoto Special</title>
-    <desc lang="en">The Zen school of Buddhism emphasises the practice of zazen meditation as the path to enlightenment - the spirit of Zen flows through the gardens, art, cuisine and other aspects of Kyoto culture.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3024.</episode-num>
-    <episode-num system="onscreen">S1E3025</episode-num>
-  </programme>
-  <programme start="20260704015900 +0000" stop="20260704020500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Trails to Oishii Tokyo mini 5min.</title>
-    <desc lang="en">We focus on moyashi (bean sprouts) - they may not look like much, but they're popular as they're packed with vitamins and minerals, are easy to use and - most important of all - are affordable.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6056.</episode-num>
-    <episode-num system="onscreen">S1E6057</episode-num>
-  </programme>
-  <programme start="20260704020500 +0000" stop="20260704021500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704021500 +0000" stop="20260704030000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Train Cruise</title>
-    <desc lang="en">Travel the Iga Railway and Kintetsu Railway lines through Iga in Mie Prefecture, one of the Japan's leading ninja regions. Experience their traditions and training, and taste their portable rations.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2067.</episode-num>
-    <episode-num system="onscreen">S1E2068</episode-num>
-  </programme>
-  <programme start="20260704030000 +0000" stop="20260704030500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japanology Plus mini</title>
-    <desc lang="en">Japan now has roughly 8.5 million vacant homes - we look at various initiatives that aim to address this issue, including renovating homes as investments or using them to revitalise local communities.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6031.</episode-num>
-    <episode-num system="onscreen">S1E6032</episode-num>
-  </programme>
-  <programme start="20260704030500 +0000" stop="20260704031500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704031500 +0000" stop="20260704034500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Design X Stories</title>
-    <desc lang="en">Today's theme: Vanishing Tools. As the rising age of artisans puts the survival of certain crafts at risk, we shine a light on the vanishing tools used to keep them alive and their anonymous designs.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2100.</episode-num>
-    <episode-num system="onscreen">S1E2101</episode-num>
-  </programme>
-  <programme start="20260704034500 +0000" stop="20260704035500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Story Land in Classical Japanese</title>
-    <desc lang="en">This programme presents masterpieces of classical Japanese literature - in both original forms and modern translations - with easy-to-understand imagery that conveys the world view of ancient Japan.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4042.</episode-num>
-    <episode-num system="onscreen">S1E4043</episode-num>
-  </programme>
-  <programme start="20260704035500 +0000" stop="20260704040500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Mitateru-phose</title>
-    <desc lang="en">This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4045.</episode-num>
-    <episode-num system="onscreen">S1E4046</episode-num>
-  </programme>
-  <programme start="20260704040500 +0000" stop="20260704041500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704041500 +0000" stop="20260704044500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Yokai</title>
-    <desc lang="en">The yokai Ubume was said to be a ghostly woman appearing at night asking passers-by to hold her child under threat of death - we examine how this terrifying figure came to be seen sympathetically.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3021.</episode-num>
-    <episode-num system="onscreen">S1E3022</episode-num>
-  </programme>
-  <programme start="20260704044500 +0000" stop="20260704050000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Cinematic Journey</title>
-    <desc lang="en">Kyle Card hikes along a 1000km trail following the Pacific Coast in northern Japan - he discovers local lifestyles, stunning nature, traces of the area's 2011 disaster and resilient people.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6216.</episode-num>
-    <episode-num system="onscreen">S1E6217</episode-num>
-  </programme>
-  <programme start="20260704050000 +0000" stop="20260704050500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">Doodles or Ukiyo-e: A series of doodles by famous artist Utagawa Kuniyoshi turn out to be carefully considered depictions of the kabuki actors of the day; what kind of statement was he trying to make?</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6029.</episode-num>
-    <episode-num system="onscreen">S1E6030</episode-num>
-  </programme>
-  <programme start="20260704050500 +0000" stop="20260704051500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704051500 +0000" stop="20260704053000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Be earthquake-ready and learn survival tips for quakes and when you're trapped under rubble - you'll want to watch this before your next trip to Japan!</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2089.</episode-num>
-    <episode-num system="onscreen">S1E2090</episode-num>
-  </programme>
-  <programme start="20260704053000 +0000" stop="20260704053500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Design Museum Japan</title>
-    <desc lang="en">Hokkaido / Takeya Takayuki (model maker) Fishing boats in the herring industry-which thrived here until the 1950s-featured swirling decorations that made a big impression on Takeya, a Hokkaido native.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6057.</episode-num>
-    <episode-num system="onscreen">S1E6058</episode-num>
-  </programme>
-  <programme start="20260704053500 +0000" stop="20260704060500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kabuki Kool</title>
-    <desc lang="en">Choreographers create the movement and staging of a kabuki performance, contributing hugely to its appeal - our guest, expert choreographer Fujima Kanjuro, talks about the intricacies of the job.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2034.</episode-num>
-    <episode-num system="onscreen">S1E2035</episode-num>
-  </programme>
-  <programme start="20260704060500 +0000" stop="20260704061500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704061500 +0000" stop="20260704070500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">The Deadly Escape Game of Refugees</title>
-    <desc lang="en">As the number of refugees in the world reaches unprecedented heights, smugglers have appeared claiming to transport them to safety but they instead become pawns in a game with their lives at stake.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4000.</episode-num>
-    <episode-num system="onscreen">S1E4001</episode-num>
-  </programme>
-  <programme start="20260704070500 +0000" stop="20260704071500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704071500 +0000" stop="20260704075900 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Core Kyoto Special</title>
-    <desc lang="en">The Zen school of Buddhism emphasises the practice of zazen meditation as the path to enlightenment - the spirit of Zen flows through the gardens, art, cuisine and other aspects of Kyoto culture.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3024.</episode-num>
-    <episode-num system="onscreen">S1E3025</episode-num>
-  </programme>
-  <programme start="20260704075900 +0000" stop="20260704080500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Trails to Oishii Tokyo mini 5min.</title>
-    <desc lang="en">We focus on moyashi (bean sprouts) - they may not look like much, but they're popular as they're packed with vitamins and minerals, are easy to use and - most important of all - are affordable.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6056.</episode-num>
-    <episode-num system="onscreen">S1E6057</episode-num>
-  </programme>
-  <programme start="20260704080500 +0000" stop="20260704081500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704081500 +0000" stop="20260704084500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Yokai</title>
-    <desc lang="en">The yokai Ubume was said to be a ghostly woman appearing at night asking passers-by to hold her child under threat of death - we examine how this terrifying figure came to be seen sympathetically.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3021.</episode-num>
-    <episode-num system="onscreen">S1E3022</episode-num>
-  </programme>
-  <programme start="20260704084500 +0000" stop="20260704090000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Cinematic Journey</title>
-    <desc lang="en">Kyle Card hikes along a 1000km trail following the Pacific Coast in northern Japan - he discovers local lifestyles, stunning nature, traces of the area's 2011 disaster and resilient people.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6216.</episode-num>
-    <episode-num system="onscreen">S1E6217</episode-num>
-  </programme>
-  <programme start="20260704090000 +0000" stop="20260704090500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">Doodles or Ukiyo-e: A series of doodles by famous artist Utagawa Kuniyoshi turn out to be carefully considered depictions of the kabuki actors of the day; what kind of statement was he trying to make?</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6029.</episode-num>
-    <episode-num system="onscreen">S1E6030</episode-num>
-  </programme>
-  <programme start="20260704090500 +0000" stop="20260704091500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704091500 +0000" stop="20260704094500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Design X Stories</title>
-    <desc lang="en">Today's theme: Vanishing Tools. As the rising age of artisans puts the survival of certain crafts at risk, we shine a light on the vanishing tools used to keep them alive and their anonymous designs.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2100.</episode-num>
-    <episode-num system="onscreen">S1E2101</episode-num>
-  </programme>
-  <programme start="20260704094500 +0000" stop="20260704095500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Story Land in Classical Japanese</title>
-    <desc lang="en">This programme presents masterpieces of classical Japanese literature - in both original forms and modern translations - with easy-to-understand imagery that conveys the world view of ancient Japan.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4042.</episode-num>
-    <episode-num system="onscreen">S1E4043</episode-num>
-  </programme>
-  <programme start="20260704095500 +0000" stop="20260704100500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Mitateru-phose</title>
-    <desc lang="en">This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4045.</episode-num>
-    <episode-num system="onscreen">S1E4046</episode-num>
-  </programme>
-  <programme start="20260704100500 +0000" stop="20260704101500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704101500 +0000" stop="20260704110000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Train Cruise</title>
-    <desc lang="en">Travel the Iga Railway and Kintetsu Railway lines through Iga in Mie Prefecture, one of the Japan's leading ninja regions. Experience their traditions and training, and taste their portable rations.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2067.</episode-num>
-    <episode-num system="onscreen">S1E2068</episode-num>
-  </programme>
-  <programme start="20260704110000 +0000" stop="20260704110500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japanology Plus mini</title>
-    <desc lang="en">Japan now has roughly 8.5 million vacant homes - we look at various initiatives that aim to address this issue, including renovating homes as investments or using them to revitalise local communities.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6031.</episode-num>
-    <episode-num system="onscreen">S1E6032</episode-num>
-  </programme>
-  <programme start="20260704110500 +0000" stop="20260704111500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704111500 +0000" stop="20260704113000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Be earthquake-ready and learn survival tips for quakes and when you're trapped under rubble - you'll want to watch this before your next trip to Japan!</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2089.</episode-num>
-    <episode-num system="onscreen">S1E2090</episode-num>
-  </programme>
-  <programme start="20260704113000 +0000" stop="20260704113500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Design Museum Japan</title>
-    <desc lang="en">Hokkaido / Takeya Takayuki (model maker) Fishing boats in the herring industry-which thrived here until the 1950s-featured swirling decorations that made a big impression on Takeya, a Hokkaido native.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6057.</episode-num>
-    <episode-num system="onscreen">S1E6058</episode-num>
-  </programme>
-  <programme start="20260704113500 +0000" stop="20260704120500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kabuki Kool</title>
-    <desc lang="en">Choreographers create the movement and staging of a kabuki performance, contributing hugely to its appeal - our guest, expert choreographer Fujima Kanjuro, talks about the intricacies of the job.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2034.</episode-num>
-    <episode-num system="onscreen">S1E2035</episode-num>
-  </programme>
-  <programme start="20260704120500 +0000" stop="20260704121500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704121500 +0000" stop="20260704130500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">The Deadly Escape Game of Refugees</title>
-    <desc lang="en">As the number of refugees in the world reaches unprecedented heights, smugglers have appeared claiming to transport them to safety but they instead become pawns in a game with their lives at stake.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4000.</episode-num>
-    <episode-num system="onscreen">S1E4001</episode-num>
-  </programme>
-  <programme start="20260704130500 +0000" stop="20260704131500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704131500 +0000" stop="20260704135900 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Core Kyoto Special</title>
-    <desc lang="en">The Zen school of Buddhism emphasises the practice of zazen meditation as the path to enlightenment - the spirit of Zen flows through the gardens, art, cuisine and other aspects of Kyoto culture.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3024.</episode-num>
-    <episode-num system="onscreen">S1E3025</episode-num>
-  </programme>
-  <programme start="20260704135900 +0000" stop="20260704140500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Trails to Oishii Tokyo mini 5min.</title>
-    <desc lang="en">We focus on moyashi (bean sprouts) - they may not look like much, but they're popular as they're packed with vitamins and minerals, are easy to use and - most important of all - are affordable.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6056.</episode-num>
-    <episode-num system="onscreen">S1E6057</episode-num>
-  </programme>
-  <programme start="20260704140500 +0000" stop="20260704141500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704141500 +0000" stop="20260704144000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Darwin's Amazing Animals</title>
-    <desc lang="en">We all crave attention, but one bird goes the extra mile to rise above the flock. Come to Suriname - South America's smallest country - to catch the main attraction: the Guianan cock-of-the-rock!</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4029.</episode-num>
-    <episode-num system="onscreen">S1E4030</episode-num>
-  </programme>
-  <programme start="20260704144000 +0000" stop="20260704144500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-Lapse Journey</title>
-    <desc lang="en">Seto Inland Sea is the largest body of water of its kind in Japan - see the sights of the Great Seto Bridge and the shallow coastal waters through time-lapse photography.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6047.</episode-num>
-    <episode-num system="onscreen">S1E6048</episode-num>
-  </programme>
-  <programme start="20260704144500 +0000" stop="20260704145500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Story Land in Classical Japanese</title>
-    <desc lang="en">This programme presents masterpieces of classical Japanese literature - in both original forms and modern translations - with easy-to-understand imagery that conveys the world view of ancient Japan.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4042.</episode-num>
-    <episode-num system="onscreen">S1E4043</episode-num>
-  </programme>
-  <programme start="20260704145500 +0000" stop="20260704150500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Mitateru-phose</title>
-    <desc lang="en">This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4045.</episode-num>
-    <episode-num system="onscreen">S1E4046</episode-num>
-  </programme>
-  <programme start="20260704150500 +0000" stop="20260704151500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-    <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20260704151500 +0000" stop="20260704160000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Train Cruise</title>
-    <desc lang="en">Travel the Iga Railway and Kintetsu Railway lines through Iga in Mie Prefecture, one of the Japan's leading ninja regions. Experience their traditions and training, and taste their portable rations.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.2067.</episode-num>
-    <episode-num system="onscreen">S1E2068</episode-num>
-  </programme>
-  <programme start="20260704160000 +0000" stop="20260704160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japanology Plus mini</title>
-    <desc lang="en">Japan now has roughly 8.5 million vacant homes - we look at various initiatives that aim to address this issue, including renovating homes as investments or using them to revitalise local communities.</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6031.</episode-num>
-    <episode-num system="onscreen">S1E6032</episode-num>
-  </programme>
-  <channel id="unifisports1.unifitv">
-    <display-name>Unifi Sports 1</display-name>
-  </channel>
-  <programme start="20260703140000 +0000" stop="20260703193000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Freedom 250: Topuria vs. Gaethje - Main</title>
-    <desc lang="en">On Sunday, June 15, the Octagon comes to Washington, D.C. as UFC Freedom 250 brings a star-studded lineup to The White House. In the main event, undefeated lightweight champion Ilia “El Matador” Topuria faces off with interim titleholder Justin “The Highlight” Gaethje to determine who is the undisputed best in the 155-pound weight class. In the co-main event, former middleweight and light heavyweight champion Alex “Poatan” Pereira looks to become the first fighter to hold UFC gold in three weight classes as he squares off with Ciryl “Bon Gamin” Gane in a clash for the interim UFC heavyweight title.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260703193000 +0000" stop="20260703195500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Ultimate Knockouts - 1003 - Ultimate Knockouts "Hispanic Heritage Month 2023</title>
-    <desc lang="en">UFC Ultimate Knockouts celebrates Hispanic Heritage Month. See Edson Barboza, Polyana Viana, Marlon Vera, and more.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260703195500 +0000" stop="20260703200000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
-    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260703200000 +0000" stop="20260704015500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Fiziev vs. Torres - Main</title>
-    <desc lang="en">All-action lightweights headline UFC's return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704015500 +0000" stop="20260704020000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
-    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704020000 +0000" stop="20260704023000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">Mencari Ramli Musim Ke - 3 - 7</title>
-    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704023000 +0000" stop="20260704030000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">Sensasi Bola - 14</title>
-    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704030000 +0000" stop="20260704055500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season - Round 17 - Hawthorn v Melbourne</title>
-    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704055500 +0000" stop="20260704060000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
-    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704060000 +0000" stop="20260704090000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season - Round 17 - Gold Coast Suns v Collingwood</title>
-    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704090000 +0000" stop="20260704090500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
-    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704090500 +0000" stop="20260704091000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT - LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT</title>
-    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704091000 +0000" stop="20260704091500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
-    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704091500 +0000" stop="20260704121500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season - Round 17 - Richmond v Carlton</title>
-    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704121500 +0000" stop="20260704122500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
-    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704122500 +0000" stop="20260704123000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT - LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT</title>
-    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704123000 +0000" stop="20260704130000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
-    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704130000 +0000" stop="20260704135500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Countdown - UFC 316: Dvalishvili vs O'Malley</title>
-    <desc lang="en">UFC 316 Countdown previews two bantamweight title fights. In the main event, men's champion Merab “The Machine” Dvalishvili battles “Suga” Sean O'Malley in a rematch. In the co-main event, women's title holder Julianna Pena takes on Kayla Harrison.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704135500 +0000" stop="20260704140000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
-    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260704140000 +0000" stop="20260704195500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Fiziev vs. Torres - Main</title>
-    <desc lang="en">All-action lightweights headline UFC's return to Baku, Azerbaijan on Saturday, June 27 as Rafael “Ataman” Fiziev and Manuel “El Loco” Torres meet in the main event at the National Gymnastics Arena. A rankings mainstay for the last several years, Fiziev, who represents Azerbaijan inside the Octagon, makes his second appearance in Baku after earning a unanimous decision win over Ignacio Bahamondes last year.</desc>
-    <category lang="en">Sports</category>
   </programme>
 </tv>

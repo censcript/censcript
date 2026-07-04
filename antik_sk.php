@@ -1228,13 +1228,13 @@
   <programme start="20260706210500 +0000" stop="20260707000000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260705210500 +0000" stop="20260705221500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260705212000 +0000" stop="20260705223000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260705221500 +0000" stop="20260706011000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260705223000 +0000" stop="20260706012500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260706011000 +0000" stop="20260706034000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260706012500 +0000" stop="20260706034000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260706034000 +0000" stop="20260706060000 +0000" channel="JOJ Šport 2.webtv.sk">

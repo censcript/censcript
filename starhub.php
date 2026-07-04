@@ -5008,26 +5008,23 @@
     <programme start="20260703213000 +0000" stop="20260703233000 +0000" channel="SPOTV.starhub">
         <title>Round 2 Session 2</title>
     </programme>
-    <programme start="20260703233000 +0000" stop="20260704002500 +0000" channel="SPOTV.starhub">
-        <title>Day 4</title>
-    </programme>
-    <programme start="20260704002500 +0000" stop="20260704013000 +0000" channel="SPOTV.starhub">
-        <title>Free Practice 2</title>
-    </programme>
-    <programme start="20260704013000 +0000" stop="20260704023000 +0000" channel="SPOTV.starhub">
-        <title>Day 5</title>
-    </programme>
-    <programme start="20260704023000 +0000" stop="20260704041500 +0000" channel="SPOTV.starhub">
+    <programme start="20260703235000 +0000" stop="20260704020000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20260704041500 +0000" stop="20260704050000 +0000" channel="SPOTV.starhub">
-        <title>WSL1304 Raglan Pro</title>
-    </programme>
-    <programme start="20260704050000 +0000" stop="20260704060000 +0000" channel="SPOTV.starhub">
+    <programme start="20260704020000 +0000" stop="20260704030000 +0000" channel="SPOTV.starhub">
         <title>Day 5</title>
     </programme>
-    <programme start="20260704060000 +0000" stop="20260704083000 +0000" channel="SPOTV.starhub">
+    <programme start="20260704030000 +0000" stop="20260704053000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
+    </programme>
+    <programme start="20260704053000 +0000" stop="20260704063000 +0000" channel="SPOTV.starhub">
+        <title>WSL1304 Raglan Pro</title>
+    </programme>
+    <programme start="20260704063000 +0000" stop="20260704073000 +0000" channel="SPOTV.starhub">
+        <title>Day 5</title>
+    </programme>
+    <programme start="20260704073000 +0000" stop="20260704083000 +0000" channel="SPOTV.starhub">
+        <title>Highlights 1</title>
     </programme>
     <programme start="20260704083000 +0000" stop="20260704113000 +0000" channel="SPOTV.starhub">
         <title>Round 2 Session 1</title>
