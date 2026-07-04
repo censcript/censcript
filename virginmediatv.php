@@ -3961,7 +3961,7 @@
 <programme start="20260704134500 +0000" stop="20260704161500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: Super League Rugby - Magic Weekend: Hull Kingston Rovers v Hull FC</title>
 </programme>
-<programme start="20260704161500 +0000" stop="20260704210000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260704161500 +0000" stop="20260704180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: US Senior Open Championship, Seniors PGA Golf - Day 3</title>
 </programme>
 <programme start="20260704000000 +0000" stop="20260704010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
@@ -4645,7 +4645,7 @@
 <programme start="20260704134500 +0000" stop="20260704161500 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: Super League Rugby - Magic Weekend: Hull Kingston Rovers v Hull FC</title>
 </programme>
-<programme start="20260704161500 +0000" stop="20260704210000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260704161500 +0000" stop="20260704180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: US Senior Open Championship, Seniors PGA Golf - Day 3</title>
 </programme>
 <programme start="20260704000000 +0000" stop="20260704010000 +0000" channel="Sky_Sports_News.virginmediatv">

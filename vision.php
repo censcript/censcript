@@ -652,9 +652,6 @@
 <programme start="20260704090000 +0000" stop="20260704110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260704150000 +0000" stop="20260704170000 +0000" channel="ANTV.vision">
-<title>Depan Bisa Belakang Bisa</title>
-</programme>
 <programme start="20260704170000 +0000" stop="20260704190000 +0000" channel="ANTV.vision">
 <title>Righting Wrongs</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260705080000 +0000" stop="20260705083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260705083000 +0000" stop="20260705100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
 </programme>
