@@ -6494,127 +6494,133 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260705223000 +0000" stop="20260705230000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Význam výživy v rámci prevencie ochorení</title>
+    <title lang="id">Kelo a treska s Brokolicovým pyré + horolezec</title>
   </programme>
   <programme start="20260705230000 +0000" stop="20260705233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Neurotické prejavy</title>
+    <title lang="id">Hyperbarická oxygénová terapia</title>
   </programme>
   <programme start="20260705233000 +0000" stop="20260706000000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">G60-g64 polyneuropatie a iné poruchy periférnej nervovej sústavy</title>
+    <title lang="id">Robotická chirurgia v banskej bystrici</title>
   </programme>
-  <programme start="20260706000000 +0000" stop="20260706010000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Obezita je komplexné ochorenie definované ako zvýšené množstvo tuku</title>
+  <programme start="20260706000000 +0000" stop="20260706003000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Inovatívne formy liečby ibd ochorenia</title>
   </programme>
-  <programme start="20260706010000 +0000" stop="20260706020000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nedostatok spánku poškodzuje mozog a ničí psychiku</title>
+  <programme start="20260706003000 +0000" stop="20260706010000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Učia braillovo písmo i chôdzu s Bielou palicou</title>
+  </programme>
+  <programme start="20260706010000 +0000" stop="20260706015000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nádory močového mechúra</title>
+  </programme>
+  <programme start="20260706015000 +0000" stop="20260706020000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Pečeň a diabetes</title>
   </programme>
   <programme start="20260706020000 +0000" stop="20260706023000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260706023000 +0000" stop="20260706030000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Liekový odpad odneste do lekárne</title>
+    <title lang="id">Poplatky u lekára: čo je zákonné a čo nie?</title>
   </programme>
   <programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Vojtova metóda</title>
+    <title lang="id">Polohy pri pôrode</title>
   </programme>
   <programme start="20260706033000 +0000" stop="20260706040000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Závislosť nie je slabá vôľa, ale choroba</title>
+    <title lang="id">Miniinvazívna operácia chrbtice</title>
   </programme>
   <programme start="20260706040000 +0000" stop="20260706043000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Závislosť na chvíľu otupí problémy, ktoré sa neskôr prehĺbia</title>
+    <title lang="id">O menopauze s MUDr. Petrom kaščákom, phd. o najčastejších príznakoch menopauzy</title>
   </programme>
   <programme start="20260706043000 +0000" stop="20260706050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Na najčastejšie otázky o epidemiológií pohlavne prenosných ochorení odpovedajú prof. MUDr. Alexandra bražinová a mgr. peter gába i.</title>
+    <title lang="id">Febrilné kŕče</title>
   </programme>
-  <programme start="20260706050000 +0000" stop="20260706053000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Med v liečbe infekčných chorôb</title>
-  </programme>
-  <programme start="20260706053000 +0000" stop="20260706060000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Potravinové intolerancie z pohľadu genetiky?</title>
+  <programme start="20260706050000 +0000" stop="20260706060000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Keď začína syndróm vyhorenia</title>
   </programme>
   <programme start="20260706060000 +0000" stop="20260706063000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260706063000 +0000" stop="20260706070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá MUDr. Marek káčerik, phd.</title>
+    <title lang="id">Význam výživy v rámci prevencie ochorení</title>
   </programme>
   <programme start="20260706070000 +0000" stop="20260706073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Transplantácia a urológia – keď sa spája špičková medicína s ľudskými príbehmi</title>
+    <title lang="id">Neurotické prejavy</title>
   </programme>
   <programme start="20260706073000 +0000" stop="20260706080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravie v hrsti</title>
+    <title lang="id">G60-g64 polyneuropatie a iné poruchy periférnej nervovej sústavy</title>
   </programme>
   <programme start="20260706080000 +0000" stop="20260706090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medicína bez traumy</title>
+    <title lang="id">Obezita je komplexné ochorenie definované ako zvýšené množstvo tuku</title>
   </programme>
-  <programme start="20260706090000 +0000" stop="20260706095000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kryokonzervácia (zmrazovanie) ľudských vajíčok</title>
-  </programme>
-  <programme start="20260706095000 +0000" stop="20260706100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Čeľustná ortopédia - úprava chrupu dospelého</title>
+  <programme start="20260706090000 +0000" stop="20260706100000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nedostatok spánku poškodzuje mozog a ničí psychiku</title>
   </programme>
   <programme start="20260706100000 +0000" stop="20260706103000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260706103000 +0000" stop="20260706110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Význam výživy v rámci prevencie ochorení</title>
+    <title lang="id">Kelo a treska s Brokolicovým pyré + horolezec</title>
   </programme>
   <programme start="20260706110000 +0000" stop="20260706113000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Neurotické prejavy</title>
+    <title lang="id">Hyperbarická oxygénová terapia</title>
   </programme>
   <programme start="20260706113000 +0000" stop="20260706120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">G60-g64 polyneuropatie a iné poruchy periférnej nervovej sústavy</title>
+    <title lang="id">Robotická chirurgia v banskej bystrici</title>
   </programme>
-  <programme start="20260706120000 +0000" stop="20260706130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Obezita je komplexné ochorenie definované ako zvýšené množstvo tuku</title>
+  <programme start="20260706120000 +0000" stop="20260706123000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Inovatívne formy liečby ibd ochorenia</title>
   </programme>
-  <programme start="20260706130000 +0000" stop="20260706140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nedostatok spánku poškodzuje mozog a ničí psychiku</title>
+  <programme start="20260706123000 +0000" stop="20260706130000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Učia braillovo písmo i chôdzu s Bielou palicou</title>
+  </programme>
+  <programme start="20260706130000 +0000" stop="20260706135000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nádory močového mechúra</title>
+  </programme>
+  <programme start="20260706135000 +0000" stop="20260706140000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Pečeň a diabetes</title>
   </programme>
   <programme start="20260706140000 +0000" stop="20260706143000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260706143000 +0000" stop="20260706150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kelo a treska s Brokolicovým pyré + horolezec</title>
+    <title lang="id">Itapa health &amp; care 2026: technológie menia budúcnosť zdravotníctva</title>
   </programme>
   <programme start="20260706150000 +0000" stop="20260706153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Hyperbarická oxygénová terapia</title>
+    <title lang="id">Juvenilná idiopatická artritída</title>
   </programme>
   <programme start="20260706153000 +0000" stop="20260706160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Robotická chirurgia v banskej bystrici</title>
+    <title lang="id">Drogy a iné návykové látky</title>
   </programme>
   <programme start="20260706160000 +0000" stop="20260706163000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ibd a intolerancie</title>
+    <title lang="id">Kedy sa pre nás alkohol stáva problémom?</title>
   </programme>
   <programme start="20260706163000 +0000" stop="20260706170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Učia braillovo písmo i chôdzu s Bielou palicou</title>
+    <title lang="id">Na najčastejšie otázky o epidemiológií pohlavne prenosných ochorení odpovedajú prof. MUDr. Alexandra bražinová a mgr. peter gába ii.</title>
   </programme>
-  <programme start="20260706170000 +0000" stop="20260706175000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nádory močového mechúra</title>
+  <programme start="20260706170000 +0000" stop="20260706173000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Trombotické vaskulárne komplikácie u pacientov s Covid-19</title>
   </programme>
-  <programme start="20260706175000 +0000" stop="20260706180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Pečeň a diabetes</title>
+  <programme start="20260706173000 +0000" stop="20260706180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Vstúpte do sveta mikrobiómu</title>
   </programme>
   <programme start="20260706180000 +0000" stop="20260706183000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260706183000 +0000" stop="20260706190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá MUDr. Mário drozdík</title>
+    <title lang="id">Poplatky u lekára: čo je zákonné a čo nie?</title>
   </programme>
   <programme start="20260706190000 +0000" stop="20260706193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Darovala mi obličku a tým aj druhú šancu na život</title>
+    <title lang="id">Polohy pri pôrode</title>
   </programme>
   <programme start="20260706193000 +0000" stop="20260706200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Rakovina krčka maternice</title>
+    <title lang="id">Miniinvazívna operácia chrbtice</title>
   </programme>
-  <programme start="20260706200000 +0000" stop="20260706210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">U lekárov sme veľmi často</title>
+  <programme start="20260706200000 +0000" stop="20260706203000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">O menopauze s MUDr. Petrom kaščákom, phd. o najčastejších príznakoch menopauzy</title>
   </programme>
-  <programme start="20260706210000 +0000" stop="20260706215000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Neplodnosť a problémy s Otehotnením</title>
+  <programme start="20260706203000 +0000" stop="20260706210000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Febrilné kŕče</title>
   </programme>
-  <programme start="20260706215000 +0000" stop="20260706220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Čeľustná ortopédia - úprava detského chrupu</title>
+  <programme start="20260706210000 +0000" stop="20260706220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Keď začína syndróm vyhorenia</title>
   </programme>
   <programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
