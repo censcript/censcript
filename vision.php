@@ -838,6 +838,9 @@
 <programme start="20260704073000 +0000" stop="20260704080000 +0000" channel="TVOne.vision">
 <title>Kabar Bola Dunia</title>
 </programme>
+<programme start="20260704080000 +0000" stop="20260704090000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Akhir Pekan</title>
+</programme>
 <programme start="20260704090000 +0000" stop="20260704110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260705053000 +0000" stop="20260705063000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
-</programme>
-<programme start="20260705063000 +0000" stop="20260705070000 +0000" channel="BTV.vision">
-<title>Monster Jam</title>
 </programme>

@@ -373,7 +373,7 @@
 <programme start="20260704141500 +0000" stop="20260704163000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: GAA - All-Ireland Hurling Championship, Semi-Final: Cork v Galway</title>
 </programme>
-<programme start="20260704163000 +0000" stop="20260704201000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260704163000 +0000" stop="20260704203000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 6</title>
 </programme>
 <programme start="20260704000000 +0000" stop="20260704010000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
