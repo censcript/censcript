@@ -8899,10 +8899,10 @@
   <programme start="20260706215000 +0000" stop="20260706224000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Walker, Texas Ranger II (17)</title>
   </programme>
-  <programme start="20260705195500 +0000" stop="20260705221500 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260705195500 +0000" stop="20260705221000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Ztracená legenda</title>
   </programme>
-  <programme start="20260705221500 +0000" stop="20260705234500 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260705221000 +0000" stop="20260705234500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Rytíř Apokalypsy</title>
   </programme>
   <programme start="20260705234500 +0000" stop="20260706013500 +0000" channel="FilmBox.webtv.sk">
