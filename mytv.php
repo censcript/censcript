@@ -1,31 +1,31 @@
     <programme start="20260704000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mẹ biển - Tập 24 </title>
     </programme>
-    <programme start="20260704000000 +0000" stop="20260704003000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704000000 +0000" stop="20260704002800 +0000" channel="VTV1 HD.mytv">
         <title> Ánh sáng tri thức: Khơi nguồn sáng tạo </title>
     </programme>
-    <programme start="20260704003000 +0000" stop="20260704004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704002800 +0000" stop="20260704004500 +0000" channel="VTV1 HD.mytv">
         <title> Văn học nghệ thuật: NSND Dương Minh Đức </title>
     </programme>
-    <programme start="20260704004500 +0000" stop="20260704011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704004500 +0000" stop="20260704011400 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu: Khi Vỹ hát </title>
     </programme>
-    <programme start="20260704011000 +0000" stop="20260704014000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704011400 +0000" stop="20260704014100 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Dấu ấn Đào Xá </title>
     </programme>
-    <programme start="20260704014000 +0000" stop="20260704020000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704014100 +0000" stop="20260704020000 +0000" channel="VTV1 HD.mytv">
         <title> Thể thao: Kết nối thể thao </title>
     </programme>
-    <programme start="20260704020000 +0000" stop="20260704023000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704020000 +0000" stop="20260704023100 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Bình yên Bảo Lộc </title>
     </programme>
-    <programme start="20260704023000 +0000" stop="20260704024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704023100 +0000" stop="20260704024500 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Khi trái tim loạn nhịp </title>
     </programme>
-    <programme start="20260704024500 +0000" stop="20260704033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704024500 +0000" stop="20260704032900 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 39 </title>
     </programme>
-    <programme start="20260704033000 +0000" stop="20260704041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704032900 +0000" stop="20260704041500 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 40 </title>
     </programme>
     <programme start="20260704041500 +0000" stop="20260704050500 +0000" channel="VTV1 HD.mytv">
@@ -37,10 +37,10 @@
     <programme start="20260704051000 +0000" stop="20260704053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260704053000 +0000" stop="20260704070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704053000 +0000" stop="20260704065900 +0000" channel="VTV1 HD.mytv">
         <title> Tiêu điểm chính sách </title>
     </programme>
-    <programme start="20260704070000 +0000" stop="20260704071500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260704065900 +0000" stop="20260704071500 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
     <programme start="20260704071500 +0000" stop="20260704080000 +0000" channel="VTV1 HD.mytv">

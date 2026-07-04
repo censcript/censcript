@@ -1907,22 +1907,22 @@
     <title>Fantasy Homes by the Sea - Tuscany</title>
 </programme>
 <programme start="20260704120000 +0000" stop="20260704130000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop</title>
+    <title>Antiques Road Trip</title>
 </programme>
 <programme start="20260704130000 +0000" stop="20260704140000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Wedding Rings, Dobbin the Pantomime Horse, Dreadnought Guitar</title>
+    <title>Antiques Road Trip</title>
 </programme>
 <programme start="20260704140000 +0000" stop="20260704150000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop</title>
+    <title>Antiques Road Trip</title>
 </programme>
 <programme start="20260704150000 +0000" stop="20260704160000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Silver Tea Set, Papa&#039;s Post Box and Leather Desk Folder</title>
+    <title>Antiques Road Trip</title>
 </programme>
 <programme start="20260704160000 +0000" stop="20260704170000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop</title>
+    <title>Antiques Road Trip</title>
 </programme>
 <programme start="20260704170000 +0000" stop="20260704180000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Tap Shoes, Silver Wedding Purse, Magicians Table</title>
+    <title>Money for Nothing</title>
 </programme>
 <programme start="20260704000000 +0000" stop="20260704003000 +0000" channel="Fashion_TV.virginmediatv">
     <title>Fashion First</title>

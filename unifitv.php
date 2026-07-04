@@ -20,14 +20,9 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260703170000 +0000" stop="20260703210000 +0000" channel="fifa1.unifitv">
+  <programme start="20260703170000 +0000" stop="20260703213000 +0000" channel="fifa1.unifitv">
     <title lang="en">(L) Australia vs Egypt : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 2:00 AM</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260703210000 +0000" stop="20260703213000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260703213000 +0000" stop="20260703220000 +0000" channel="fifa1.unifitv">
@@ -75,18 +70,13 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704053000 +0000" stop="20260704093000 +0000" channel="fifa1.unifitv">
+  <programme start="20260704053000 +0000" stop="20260704100000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Australia vs Egypt : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704093000 +0000" stop="20260704100000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260704100000 +0000" stop="20260704103000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -105,9 +95,9 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+  <programme start="20260704153000 +0000" stop="20260704200000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) Australia vs Egypt : FIFA World Cup™ 2026 Round of 32</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="fifa2.unifitv">
@@ -261,7 +251,7 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260704150000 +0000" stop="20260704183000 +0000" channel="fifa3.unifitv">
+  <programme start="20260704150000 +0000" stop="20260704193000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Australia vs Egypt : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
@@ -284,44 +274,39 @@
     <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260703213000 +0000" stop="20260703233000 +0000" channel="spotv.unifitv">
+  <programme start="20260703213000 +0000" stop="20260703235000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 U.S. Senior Open Championship - Round 2 Session 2</title>
     <desc lang="en">The world's top senior golfers compete for major championship glory, showcasing experience, precision, and resilience in one of senior golf's most prestigious events.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260703233000 +0000" stop="20260704002500 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Wimbledon Highlights - Day 4</title>
-    <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20260704002500 +0000" stop="20260704013000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) Formula E S12: Rd 12 Shanghai E-Prix - Free Practice 2</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260704013000 +0000" stop="20260704023000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Wimbledon Highlights - Day 5</title>
-    <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20260704023000 +0000" stop="20260704041500 +0000" channel="spotv.unifitv">
+  <programme start="20260703235000 +0000" stop="20260704020000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) Formula E S12: Rd 12 Shanghai E-Prix - Qualifying</title>
     <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260704041500 +0000" stop="20260704050000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 WSL Inside Pro Surfing - WSL1304 Raglan Pro</title>
-    <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
-    <category lang="en">Surfing</category>
-  </programme>
-  <programme start="20260704050000 +0000" stop="20260704060000 +0000" channel="spotv.unifitv">
+  <programme start="20260704020000 +0000" stop="20260704030000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Wimbledon Highlights - Day 5</title>
     <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20260704060000 +0000" stop="20260704083000 +0000" channel="spotv.unifitv">
+  <programme start="20260704030000 +0000" stop="20260704053000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) Formula E S12: Rd 12 Shanghai E-Prix - Race</title>
     <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260704053000 +0000" stop="20260704063000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 WSL Inside Pro Surfing - WSL1304 Raglan Pro</title>
+    <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+    <category lang="en">Surfing</category>
+  </programme>
+  <programme start="20260704063000 +0000" stop="20260704073000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Wimbledon Highlights - Day 5</title>
+    <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260704073000 +0000" stop="20260704083000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Supercars: betr Darwin Triple Crown - Highlights 1</title>
+    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260704083000 +0000" stop="20260704113000 +0000" channel="spotv.unifitv">

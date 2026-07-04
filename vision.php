@@ -643,9 +643,6 @@
 <programme start="20260703223000 +0000" stop="20260704003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260704003000 +0000" stop="20260704023000 +0000" channel="ANTV.vision">
-<title>Genta Pertarungan</title>
-</programme>
 <programme start="20260704023000 +0000" stop="20260704060000 +0000" channel="ANTV.vision">
 <title>Albela</title>
 </programme>
@@ -819,9 +816,6 @@
 </programme>
 <programme start="20260704010000 +0000" stop="20260704013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20260704013000 +0000" stop="20260704020000 +0000" channel="TVOne.vision">
-<title>Antara</title>
 </programme>
 <programme start="20260704020000 +0000" stop="20260704023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260705023000 +0000" stop="20260705030000 +0000" channel="BTV.vision">
 <title>Ini Indonesia</title>
+</programme>
+<programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="BTV.vision">
+<title>Vacation List</title>
+</programme>
+<programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="BTV.vision">
+<title>Cuan Iki</title>
 </programme>
