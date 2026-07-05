@@ -8026,7 +8026,6 @@
 <programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="SCTV HD.mncvision">
     <title>FTV Primetime</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260704173000 +0000" stop="20260704183000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>
 </programme>

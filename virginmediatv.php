@@ -2182,11 +2182,8 @@
 <programme start="20260705023000 +0000" stop="20260705030000 +0000" channel="BBC_News_24.virginmediatv">
     <title>AI Decoded</title>
 </programme>
-<programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260705030000 +0000" stop="20260705040000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC Wales Investigates - Swipe Right for Sperm</title>
 </programme>
 <programme start="20260705040000 +0000" stop="20260705043000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -3844,11 +3841,14 @@
 <programme start="20260705043000 +0000" stop="20260705050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>School of Golf - Chapter 10: Total Driving</title>
 </programme>
-<programme start="20260705050000 +0000" stop="20260705100000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260705050000 +0000" stop="20260705080000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>John Deere Classic, PGA Tour Golf - Day 3</title>
 </programme>
-<programme start="20260705110000 +0000" stop="20260705160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260705080000 +0000" stop="20260705130000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: BMW International Open, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260705130000 +0000" stop="20260705160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: Hulencourt Women&#039;s Open, LET Golf - Day 4</title>
 </programme>
 <programme start="20260705160000 +0000" stop="20260705170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: John Deere Classic, PGA Tour Golf - Day 4: Featured Groups</title>
@@ -4441,11 +4441,14 @@
 <programme start="20260705043000 +0000" stop="20260705050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>School of Golf - Chapter 10: Total Driving</title>
 </programme>
-<programme start="20260705050000 +0000" stop="20260705100000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260705050000 +0000" stop="20260705080000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>John Deere Classic, PGA Tour Golf - Day 3</title>
 </programme>
-<programme start="20260705110000 +0000" stop="20260705160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260705080000 +0000" stop="20260705130000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: BMW International Open, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260705130000 +0000" stop="20260705160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: Hulencourt Women&#039;s Open, LET Golf - Day 4</title>
 </programme>
 <programme start="20260705160000 +0000" stop="20260705170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: John Deere Classic, PGA Tour Golf - Day 4: Featured Groups</title>
