@@ -628,12 +628,6 @@
 <programme start="20260706114500 +0000" stop="20260706121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260704223000 +0000" stop="20260705003000 +0000" channel="ANTV.vision">
-<title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20260705003000 +0000" stop="20260705023000 +0000" channel="ANTV.vision">
-<title>Rio Sang Juara</title>
-</programme>
 <programme start="20260705023000 +0000" stop="20260705060000 +0000" channel="ANTV.vision">
 <title>Yeh Jawaani Hai Deewani</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260706090500 +0000" stop="20260706100000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260706100000 +0000" stop="20260706103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
+</programme>
+<programme start="20260706103000 +0000" stop="20260706120000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>

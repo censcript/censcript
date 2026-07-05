@@ -3976,11 +3976,14 @@
     <programme start="20260705063000 +0000" stop="20260705070000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Episode 21</title>
     </programme>
-    <programme start="20260705070000 +0000" stop="20260705110000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>John Deere Classic Round 3</title>
+    <programme start="20260705070000 +0000" stop="20260705080000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Principal Charity Classic</title>
     </programme>
-    <programme start="20260705110000 +0000" stop="20260705160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260705080000 +0000" stop="20260705130000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>BMW International Open Day 4</title>
+    </programme>
+    <programme start="20260705130000 +0000" stop="20260705160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>John Deere Classic Round 3</title>
     </programme>
     <programme start="20260704160000 +0000" stop="20260704161500 +0000" channel="France24.starhub">
         <title>News</title>
