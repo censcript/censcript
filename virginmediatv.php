@@ -3850,11 +3850,8 @@
 <programme start="20260705130000 +0000" stop="20260705160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Hulencourt Women&#039;s Open, LET Golf - Day 4</title>
 </programme>
-<programme start="20260705160000 +0000" stop="20260705170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Live: John Deere Classic, PGA Tour Golf - Day 4: Featured Groups</title>
-</programme>
-<programme start="20260705170000 +0000" stop="20260705220000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Live: John Deere Classic, PGA Tour Golf - Day 4</title>
+<programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: US Senior Open Championship, Seniors PGA Golf - Day 4</title>
 </programme>
 <programme start="20260705000000 +0000" stop="20260705001500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>RFL Women&#039;s Super League - Semi-Final 1: Leeds Rhinos v York Valkyrie</title>
@@ -4450,11 +4447,8 @@
 <programme start="20260705130000 +0000" stop="20260705160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Hulencourt Women&#039;s Open, LET Golf - Day 4</title>
 </programme>
-<programme start="20260705160000 +0000" stop="20260705170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Live: John Deere Classic, PGA Tour Golf - Day 4: Featured Groups</title>
-</programme>
-<programme start="20260705170000 +0000" stop="20260705220000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Live: John Deere Classic, PGA Tour Golf - Day 4</title>
+<programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: US Senior Open Championship, Seniors PGA Golf - Day 4</title>
 </programme>
 <programme start="20260705000000 +0000" stop="20260705001500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>RFL Women&#039;s Super League - Semi-Final 1: Leeds Rhinos v York Valkyrie</title>

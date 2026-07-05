@@ -3889,10 +3889,10 @@
   <programme start="20260707020500 +0000" stop="20260707023000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (605)</title>
   </programme>
-  <programme start="20260707023000 +0000" stop="20260707032000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260707023000 +0000" stop="20260707031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (129)</title>
   </programme>
-  <programme start="20260707032000 +0000" stop="20260707040000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260707031500 +0000" stop="20260707040000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Televizní noviny</title>
   </programme>
   <programme start="20260707040000 +0000" stop="20260707062500 +0000" channel="Nova International.webtv.sk">
@@ -3946,11 +3946,8 @@
   <programme start="20260707150000 +0000" stop="20260707152500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Odpolední Televizní noviny</title>
   </programme>
-  <programme start="20260707152500 +0000" stop="20260707153000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260707152500 +0000" stop="20260707154000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Odpolední Sportovní noviny</title>
-  </programme>
-  <programme start="20260707153000 +0000" stop="20260707154000 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Česko za zázraky a tajemstvím (13)</title>
   </programme>
   <programme start="20260707154000 +0000" stop="20260707164500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Na lovu III (149)</title>
@@ -17705,7 +17702,7 @@
     <title lang="id">My Street Piano</title>
   </programme>
   <programme start="20260707145000 +0000" stop="20260707150000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD-JAPAN Special program</title>
+    <title lang="id">Satellite Frequency Change Notice</title>
   </programme>
   <programme start="20260707150000 +0000" stop="20260707152800 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
