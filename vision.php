@@ -628,6 +628,15 @@
 <programme start="20260706114500 +0000" stop="20260706121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260705110000 +0000" stop="20260705130000 +0000" channel="ANTV.vision">
+<title>Rumah Kentang: The Beginning</title>
+</programme>
+<programme start="20260705130000 +0000" stop="20260705150000 +0000" channel="ANTV.vision">
+<title>Kuntilanak 2: Titisan...</title>
+</programme>
+<programme start="20260705150000 +0000" stop="20260705170000 +0000" channel="ANTV.vision">
+<title>Mana Bisa Tahan</title>
+</programme>
 <programme start="20260705170000 +0000" stop="20260705190000 +0000" channel="ANTV.vision">
 <title>The Inspector Wears Skirts</title>
 </programme>
@@ -1487,14 +1496,5 @@
 <title>Misa Minggu Kathedral</title>
 </programme>
 <programme start="20260705030000 +0000" stop="20260705030300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260705030300 +0000" stop="20260705033000 +0000" channel="TVRI.vision">
-<title>Ayo Kemuseum</title>
-</programme>
-<programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="TVRI.vision">
-<title>Anak Indonesia</title>
-</programme>
-<programme start="20260705040000 +0000" stop="20260705040300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
 </programme>

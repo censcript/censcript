@@ -2200,11 +2200,8 @@
 <programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>The Travel Show - USA: The Pursuit of Happiness - Part 2</title>
 </programme>
-<programme start="20260705130000 +0000" stop="20260705133000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260705130000 +0000" stop="20260705140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20260705133000 +0000" stop="20260705140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Tech Now</title>
 </programme>
 <programme start="20260705140000 +0000" stop="20260705143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
