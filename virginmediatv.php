@@ -349,19 +349,22 @@
 <programme start="20260705170000 +0000" stop="20260705210000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 7</title>
 </programme>
-<programme start="20260704232500 +0000" stop="20260705002000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260704211500 +0000" stop="20260705001000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>50 American Music Icons at the BBC</title>
+</programme>
+<programme start="20260705001000 +0000" stop="20260705010500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Today at Wimbledon - Day 6</title>
 </programme>
-<programme start="20260705002000 +0000" stop="20260705005000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260705010500 +0000" stop="20260705013500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>International T20 Cricket - 2nd T20: England v India</title>
 </programme>
-<programme start="20260705005000 +0000" stop="20260705030500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260705013500 +0000" stop="20260705030500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Godland</title>
 </programme>
-<programme start="20260705030500 +0000" stop="20260705040500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260705030500 +0000" stop="20260705035000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Who Do You Think You Are? - Joe Swash</title>
 </programme>
-<programme start="20260705040500 +0000" stop="20260705054500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260705035000 +0000" stop="20260705054500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20260705054500 +0000" stop="20260705063000 +0000" channel="BBC_TWO_HD.virginmediatv">
