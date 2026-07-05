@@ -2195,7 +2195,7 @@
     <title lang="id">Malí fidlikanti (2)</title>
   </programme>
   <programme start="20260706213000 +0000" stop="20260706222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (5)</title>
   </programme>
   <programme start="20260706222000 +0000" stop="20260706224500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Kung Fu Panda I (17)</title>
@@ -2282,7 +2282,7 @@
     <title lang="id">Pingu III (26)</title>
   </programme>
   <programme start="20260707045000 +0000" stop="20260707054000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (65)</title>
   </programme>
   <programme start="20260707054000 +0000" stop="20260707055000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun II (35)</title>
@@ -2303,7 +2303,7 @@
     <title lang="id">Rozprávky líšky a vlka I (19)</title>
   </programme>
   <programme start="20260707070500 +0000" stop="20260707072000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (177)</title>
   </programme>
   <programme start="20260707072000 +0000" stop="20260707073000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Smejko a Tanculienka I (14)</title>
@@ -2345,7 +2345,7 @@
     <title lang="id">Priatelia z farmy I (15)</title>
   </programme>
   <programme start="20260707103000 +0000" stop="20260707104500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (179)</title>
   </programme>
   <programme start="20260707104500 +0000" stop="20260707105500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou II./III. II (30)</title>
@@ -2405,7 +2405,7 @@
     <title lang="id">Barbie: Dreamtopia I (3)</title>
   </programme>
   <programme start="20260707151000 +0000" stop="20260707152500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (173)</title>
   </programme>
   <programme start="20260707152500 +0000" stop="20260707154000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Bob staviteľ II (48)</title>
@@ -2423,7 +2423,7 @@
     <title lang="id">Požiarnik Sam XVI (26)</title>
   </programme>
   <programme start="20260707162000 +0000" stop="20260707171000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (53)</title>
   </programme>
   <programme start="20260707171000 +0000" stop="20260707172000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď VIII (172)</title>
@@ -2444,7 +2444,7 @@
     <title lang="id">Barbie: Dom snov II (15)</title>
   </programme>
   <programme start="20260707185500 +0000" stop="20260707194500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (14)</title>
   </programme>
   <programme start="20260707194500 +0000" stop="20260707200000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Bob staviteľ II (49)</title>
@@ -2471,7 +2471,7 @@
     <title lang="id">Tomáš a Priatelia I (25)</title>
   </programme>
   <programme start="20260707213000 +0000" stop="20260707222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (4)</title>
   </programme>
   <programme start="20260706220000 +0000" stop="20260707030000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
