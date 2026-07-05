@@ -628,27 +628,6 @@
 <programme start="20260706114500 +0000" stop="20260706121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260705023000 +0000" stop="20260705060000 +0000" channel="ANTV.vision">
-<title>Yeh Jawaani Hai Deewani</title>
-</programme>
-<programme start="20260705060000 +0000" stop="20260705073000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
-</programme>
-<programme start="20260705073000 +0000" stop="20260705090000 +0000" channel="ANTV.vision">
-<title>Sayali</title>
-</programme>
-<programme start="20260705090000 +0000" stop="20260705110000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260705110000 +0000" stop="20260705130000 +0000" channel="ANTV.vision">
-<title>Rumah Kentang: The Beginning</title>
-</programme>
-<programme start="20260705130000 +0000" stop="20260705150000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 2: Titisan...</title>
-</programme>
-<programme start="20260705150000 +0000" stop="20260705170000 +0000" channel="ANTV.vision">
-<title>Mana Bisa Tahan</title>
-</programme>
 <programme start="20260705170000 +0000" stop="20260705190000 +0000" channel="ANTV.vision">
 <title>The Inspector Wears Skirts</title>
 </programme>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260706103000 +0000" stop="20260706120000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260705000000 +0000" stop="20260705010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
+</programme>
+<programme start="20260705010000 +0000" stop="20260705013000 +0000" channel="TVRI.vision">
+<title>Feature LKBN Antara</title>
+</programme>
+<programme start="20260705013000 +0000" stop="20260705030000 +0000" channel="TVRI.vision">
+<title>Misa Minggu Kathedral</title>
+</programme>
+<programme start="20260705030000 +0000" stop="20260705030300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260705030300 +0000" stop="20260705033000 +0000" channel="TVRI.vision">
+<title>Ayo Kemuseum</title>
+</programme>
+<programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="TVRI.vision">
+<title>Anak Indonesia</title>
+</programme>
+<programme start="20260705040000 +0000" stop="20260705040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>
