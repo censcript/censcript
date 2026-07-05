@@ -4228,59 +4228,59 @@
   <programme start="20260707031500 +0000" stop="20260707040000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Partička</title>
   </programme>
-  <programme start="20260707040000 +0000" stop="20260707042000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707040000 +0000" stop="20260707043000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Vlakem přes Labské údolí</title>
   </programme>
-  <programme start="20260707042000 +0000" stop="20260707051000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707043000 +0000" stop="20260707052000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (7)</title>
   </programme>
-  <programme start="20260707051000 +0000" stop="20260707061000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707052000 +0000" stop="20260707062000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (8)</title>
   </programme>
-  <programme start="20260707061000 +0000" stop="20260707070000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707062000 +0000" stop="20260707071000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
-  <programme start="20260707070000 +0000" stop="20260707075000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707071000 +0000" stop="20260707080000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260707075000 +0000" stop="20260707084000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707080000 +0000" stop="20260707085000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260707084000 +0000" stop="20260707094000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707085000 +0000" stop="20260707095000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Autosalon.tv</title>
   </programme>
-  <programme start="20260707094000 +0000" stop="20260707105500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707095000 +0000" stop="20260707111000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Grand Tour II (6)</title>
   </programme>
-  <programme start="20260707105500 +0000" stop="20260707115000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707111000 +0000" stop="20260707120500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
-  <programme start="20260707115000 +0000" stop="20260707123000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707120500 +0000" stop="20260707124000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Partička</title>
   </programme>
-  <programme start="20260707123000 +0000" stop="20260707132000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707124000 +0000" stop="20260707133000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260707132000 +0000" stop="20260707141500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707133000 +0000" stop="20260707142000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260707141500 +0000" stop="20260707151000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707142000 +0000" stop="20260707152000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Autosalon.tv</title>
   </programme>
-  <programme start="20260707151000 +0000" stop="20260707161000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707152000 +0000" stop="20260707162000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (9)</title>
   </programme>
-  <programme start="20260707161000 +0000" stop="20260707171500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707162000 +0000" stop="20260707171500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear XI (1)</title>
   </programme>
-  <programme start="20260707171500 +0000" stop="20260707181000 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707171500 +0000" stop="20260707181500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Partička</title>
   </programme>
-  <programme start="20260707181000 +0000" stop="20260707181500 +0000" channel="Prima Cool SK.webtv.sk">
+  <programme start="20260707181500 +0000" stop="20260707191000 +0000" channel="Prima Cool SK.webtv.sk">
+    <title lang="id">Prima Partička</title>
+  </programme>
+  <programme start="20260707191000 +0000" stop="20260707191500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Prima Pauza: Partička (40)</title>
-  </programme>
-  <programme start="20260707181500 +0000" stop="20260707191500 +0000" channel="Prima Cool SK.webtv.sk">
-    <title lang="id">Prima Partička</title>
   </programme>
   <programme start="20260707191500 +0000" stop="20260707203500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Grand Tour II (7)</title>

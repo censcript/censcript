@@ -1,6 +1,3 @@
-<programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260705220000 +0000" stop="20260706000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -31,9 +28,6 @@
 <programme start="20260706160000 +0000" stop="20260706180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260705220000 +0000" stop="20260706000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -62,9 +56,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260706160000 +0000" stop="20260706180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260705220000 +0000" stop="20260706000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -264,9 +255,6 @@
 </programme>
 <programme start="20260706161500 +0000" stop="20260706163000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Match Day +1 Highlights E25</title>
-</programme>
-<programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Brighton &amp; Hove Albion vs Arsenal</title>
 </programme>
 <programme start="20260705220000 +0000" stop="20260706000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Manchester City vs Nottingham Forest</title>
