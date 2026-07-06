@@ -2711,16 +2711,16 @@
     <title>African Voices - Episode 230</title>
 </programme>
 <programme start="20260706023000 +0000" stop="20260706024500 +0000" channel="CNN_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Marketplace Middle East - FII in Europe; Restaurant Rebound</title>
 </programme>
 <programme start="20260706024500 +0000" stop="20260706030000 +0000" channel="CNN_HD.virginmediatv">
     <title>Marketplace Africa - The Future of Medical Training; Stella Okoli</title>
 </programme>
 <programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="CNN_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Seasons - Women Redefining Luxury</title>
 </programme>
 <programme start="20260706033000 +0000" stop="20260706040000 +0000" channel="CNN_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Inside Africa - Africa&#039;s New Storytellers</title>
 </programme>
 <programme start="20260706040000 +0000" stop="20260706050000 +0000" channel="CNN_HD.virginmediatv">
     <title>CNN Newsroom</title>
@@ -3832,7 +3832,10 @@
 <programme start="20260705220000 +0000" stop="20260706011500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - Seattle Orcas v Texas Super Kings</title>
 </programme>
-<programme start="20260706011500 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260706011500 +0000" stop="20260706050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
+</programme>
+<programme start="20260706050000 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
 </programme>
 <programme start="20260706053000 +0000" stop="20260706060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4000,7 +4003,10 @@
 <programme start="20260705213000 +0000" stop="20260706011500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Major League Cricket - Seattle Orcas v Texas Super Kings</title>
 </programme>
-<programme start="20260706011500 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260706011500 +0000" stop="20260706050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
+</programme>
+<programme start="20260706050000 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
 </programme>
 <programme start="20260706053000 +0000" stop="20260706111500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
@@ -4669,7 +4675,10 @@
 <programme start="20260705220000 +0000" stop="20260706011500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - Seattle Orcas v Texas Super Kings</title>
 </programme>
-<programme start="20260706011500 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260706011500 +0000" stop="20260706050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
+</programme>
+<programme start="20260706050000 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
 </programme>
 <programme start="20260706053000 +0000" stop="20260706060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4834,7 +4843,10 @@
 <programme start="20260705213000 +0000" stop="20260706011500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Major League Cricket - Seattle Orcas v Texas Super Kings</title>
 </programme>
-<programme start="20260706011500 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260706011500 +0000" stop="20260706050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
+</programme>
+<programme start="20260706050000 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
 </programme>
 <programme start="20260706053000 +0000" stop="20260706111500 +0000" channel="Sky_Sports_Cricket.virginmediatv">

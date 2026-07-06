@@ -688,12 +688,6 @@
 <programme start="20260706090000 +0000" stop="20260706110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260706130000 +0000" stop="20260706150000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 3: Keris Pusaka</title>
-</programme>
-<programme start="20260706150000 +0000" stop="20260706170000 +0000" channel="ANTV.vision">
-<title>Siluman Kera</title>
-</programme>
 <programme start="20260706170000 +0000" stop="20260706190000 +0000" channel="ANTV.vision">
 <title>Ghost</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>Indonesia Update Cerita IDN</title>
 </programme>
 <programme start="20260707040000 +0000" stop="20260707050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
+</programme>
+<programme start="20260707050000 +0000" stop="20260707050500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260707050500 +0000" stop="20260707053000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
