@@ -73,37 +73,37 @@
     <programme start="20260706102700 +0000" stop="20260706110000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260706110000 +0000" stop="20260706114500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706110000 +0000" stop="20260706114300 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20260706114500 +0000" stop="20260706120000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706114300 +0000" stop="20260706120000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260706120000 +0000" stop="20260706124500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706120000 +0000" stop="20260706124300 +0000" channel="VTV1 HD.mytv">
         <title> Nhịp sống tuổi bạc </title>
     </programme>
-    <programme start="20260706124500 +0000" stop="20260706130000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706124300 +0000" stop="20260706130000 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Bản tay thứ ba trong phòng mổ </title>
     </programme>
-    <programme start="20260706130000 +0000" stop="20260706134500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706130000 +0000" stop="20260706134400 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê: Vùng đất Cẩm Nam </title>
     </programme>
-    <programme start="20260706134500 +0000" stop="20260706140000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706134400 +0000" stop="20260706140000 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
     <programme start="20260706140000 +0000" stop="20260706141500 +0000" channel="VTV1 HD.mytv">
         <title> Sống mới </title>
     </programme>
-    <programme start="20260706141500 +0000" stop="20260706145500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706141500 +0000" stop="20260706145000 +0000" channel="VTV1 HD.mytv">
         <title> Ánh sáng tri thức: AI trong giáo dục </title>
     </programme>
-    <programme start="20260706145500 +0000" stop="20260706151000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706145000 +0000" stop="20260706150600 +0000" channel="VTV1 HD.mytv">
         <title> Doanh nghiệp - Doanh nhân: Chuyển dịch </title>
     </programme>
-    <programme start="20260706151000 +0000" stop="20260706153000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706150600 +0000" stop="20260706152900 +0000" channel="VTV1 HD.mytv">
         <title> Cặp lá yêu thương </title>
     </programme>
-    <programme start="20260706153000 +0000" stop="20260706160000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260706152900 +0000" stop="20260706160000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
     <programme start="20260706160000 +0000" stop="20260706161500 +0000" channel="VTV1 HD.mytv">

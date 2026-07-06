@@ -1431,15 +1431,20 @@
     <desc lang="en">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
     <category lang="en">Sailing</category>
   </programme>
-  <programme start="20260706050000 +0000" stop="20260706060000 +0000" channel="spotv2.unifitv">
+  <programme start="20260706050000 +0000" stop="20260706061000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 FIA TCR World Tour, Le Castellet - Round 7 Race</title>
     <desc lang="en">Top touring car drivers compete across global circuits, delivering close racing, intense battles, and high-speed action in a world-class championship.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260706060000 +0000" stop="20260706115500 +0000" channel="spotv2.unifitv">
+  <programme start="20260706061000 +0000" stop="20260706112500 +0000" channel="spotv2.unifitv">
     <title lang="en">The Championships, Wimbledon 2026 - Day 7 Fourth Round (No.1 Court)</title>
     <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
     <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260706112500 +0000" stop="20260706115500 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 Longines Global Champions Tour, Paris - Highlights</title>
+    <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+    <category lang="en">Extreme Sports</category>
   </programme>
   <programme start="20260706115500 +0000" stop="20260706200000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) The Championships, Wimbledon 2026 - Day 8 Fourth Round (No.1 Court)</title>
@@ -6796,62 +6801,62 @@
     <title lang="en">Annamalai Kudumbam</title>
     <desc lang="en">Annamalai seeks a bride for her son Varun, finding Vennila with traditional values, but complications arise when Vennila's sister Vaanmathy stirs tension.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.191.</episode-num>
-    <episode-num system="onscreen">S1E192</episode-num>
+    <episode-num system="xmltv_ns">0.187.</episode-num>
+    <episode-num system="onscreen">S1E188</episode-num>
   </programme>
   <programme start="20260706000000 +0000" stop="20260706003000 +0000" channel="unknown.unifitv">
     <title lang="en">Vaagai Sooda Vaa</title>
     <desc lang="en">Veluthambi dreams of a government job but ends up teaching poor village kids. When he discovers they're being forced into bonded labour, he resolves to fight for their freedom.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.64.</episode-num>
-    <episode-num system="onscreen">S1E65</episode-num>
+    <episode-num system="xmltv_ns">0.72.</episode-num>
+    <episode-num system="onscreen">S1E73</episode-num>
   </programme>
   <programme start="20260706003000 +0000" stop="20260706030000 +0000" channel="unknown.unifitv">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <category lang="en">Entertainment</category>
+    <title lang="en">Bhaskar Oru Rascal</title>
+    <desc lang="en">Two kids, raised by single parents, want them to be happy. They try to get their parents together so they can be a real family.</desc>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijatham</title>
-    <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.57.</episode-num>
-    <episode-num system="onscreen">S1E58</episode-num>
+    <title lang="en">Karthigai Deepam</title>
+    <desc lang="en">A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.1249.</episode-num>
+    <episode-num system="onscreen">S1E1250</episode-num>
   </programme>
   <programme start="20260706033000 +0000" stop="20260706040000 +0000" channel="unknown.unifitv">
-    <title lang="en">Salangai Oli</title>
-    <desc lang="en">A tragedy separates Bhoomi and Gagan from their fathers, but Bhoomi hopes to find her roots, while Gagan despises his father. As fate entwines them, will truth bridge the chasm between hope and hate?</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.493.</episode-num>
-    <episode-num system="onscreen">S1E494</episode-num>
+    <title lang="en">Karthigai Deepam</title>
+    <desc lang="en">A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.1250.</episode-num>
+    <episode-num system="onscreen">S1E1251</episode-num>
   </programme>
   <programme start="20260706040000 +0000" stop="20260706043000 +0000" channel="unknown.unifitv">
-    <title lang="en">Salangai Oli</title>
-    <desc lang="en">A tragedy separates Bhoomi and Gagan from their fathers, but Bhoomi hopes to find her roots, while Gagan despises his father. As fate entwines them, will truth bridge the chasm between hope and hate?</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.494.</episode-num>
-    <episode-num system="onscreen">S1E495</episode-num>
+    <title lang="en">Karthigai Deepam</title>
+    <desc lang="en">A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.1251.</episode-num>
+    <episode-num system="onscreen">S1E1252</episode-num>
   </programme>
   <programme start="20260706043000 +0000" stop="20260706050000 +0000" channel="unknown.unifitv">
-    <title lang="en">Aval Varuvala</title>
-    <desc lang="en">Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.342.</episode-num>
-    <episode-num system="onscreen">S1E343</episode-num>
+    <title lang="en">Karthigai Deepam</title>
+    <desc lang="en">A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.1252.</episode-num>
+    <episode-num system="onscreen">S1E1253</episode-num>
   </programme>
   <programme start="20260706050000 +0000" stop="20260706053000 +0000" channel="unknown.unifitv">
-    <title lang="en">Aval Varuvala</title>
-    <desc lang="en">Divya rejects Jeeva's love due to her traumatic past, revealing her psycho husband. Just as she agrees to marry Jeeva, her husband resurfaces, complicating her life.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.343.</episode-num>
-    <episode-num system="onscreen">S1E344</episode-num>
+    <title lang="en">Karthigai Deepam</title>
+    <desc lang="en">A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+    <category lang="en">Romance</category>
+    <episode-num system="xmltv_ns">0.1253.</episode-num>
+    <episode-num system="onscreen">S1E1254</episode-num>
   </programme>
   <programme start="20260706053000 +0000" stop="20260706060000 +0000" channel="unknown.unifitv">
     <title lang="en">Vaagai Sooda Vaa</title>
     <desc lang="en">Veluthambi dreams of a government job but ends up teaching poor village kids. When he discovers they're being forced into bonded labour, he resolves to fight for their freedom.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.64.</episode-num>
-    <episode-num system="onscreen">S1E65</episode-num>
+    <episode-num system="xmltv_ns">0.65.</episode-num>
+    <episode-num system="onscreen">S1E66</episode-num>
   </programme>
   <programme start="20260706060000 +0000" stop="20260706063000 +0000" channel="unknown.unifitv">
     <title lang="en">Annamalai Kudumbam</title>
@@ -6861,9 +6866,9 @@
     <episode-num system="onscreen">S1E193</episode-num>
   </programme>
   <programme start="20260706063000 +0000" stop="20260706090000 +0000" channel="unknown.unifitv">
-    <title lang="en">Movie</title>
-    <desc lang="en">The movie name is yet to be announced by the channel.</desc>
-    <category lang="en">Entertainment</category>
+    <title lang="en">Amigos</title>
+    <desc lang="en">Siddharth discovers his look-alikes online. They meet to help him win over Ishika. But NIA targets Michael, who is also Bipin Roy. What is Bipin's plan, and how does it affect the three men's lives?</desc>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260706090000 +0000" stop="20260706093000 +0000" channel="unknown.unifitv">
     <title lang="en">Zee Flix</title>
@@ -6873,37 +6878,37 @@
     <episode-num system="onscreen">S1E250</episode-num>
   </programme>
   <programme start="20260706093000 +0000" stop="20260706100000 +0000" channel="unknown.unifitv">
+    <title lang="en">KCKC - Nesam</title>
+    <desc lang="en">KCKC - Nesam</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.222.</episode-num>
+    <episode-num system="onscreen">S1E223</episode-num>
+  </programme>
+  <programme start="20260706100000 +0000" stop="20260706103000 +0000" channel="unknown.unifitv">
     <title lang="en">Varisu</title>
     <desc lang="en">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.317.</episode-num>
     <episode-num system="onscreen">S1E318</episode-num>
   </programme>
-  <programme start="20260706100000 +0000" stop="20260706103000 +0000" channel="unknown.unifitv">
-    <title lang="en">Gettimelam</title>
-    <desc lang="en">After facing humiliation from her family, Lakshmi vows to build a new house. Sivaraman joins her in this mission. But as they take on family responsibilities, will their dream be left behind?</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.436.</episode-num>
-    <episode-num system="onscreen">S1E437</episode-num>
-  </programme>
   <programme start="20260706103000 +0000" stop="20260706110000 +0000" channel="unknown.unifitv">
-    <title lang="en">Zee Flix</title>
-    <desc lang="en">Tune in for best movie scenes.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.249.</episode-num>
-    <episode-num system="onscreen">S1E250</episode-num>
-  </programme>
-  <programme start="20260706110000 +0000" stop="20260706113000 +0000" channel="unknown.unifitv">
     <title lang="en">Veera</title>
     <desc lang="en">Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.681.</episode-num>
     <episode-num system="onscreen">S1E682</episode-num>
   </programme>
+  <programme start="20260706110000 +0000" stop="20260706113000 +0000" channel="unknown.unifitv">
+    <title lang="en">Veera</title>
+    <desc lang="en">Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.682.</episode-num>
+    <episode-num system="onscreen">S1E683</episode-num>
+  </programme>
   <programme start="20260706113000 +0000" stop="20260706120000 +0000" channel="unknown.unifitv">
     <title lang="en">Chinnanchiru Kiliye</title>
     <desc lang="en">Indhu, a self-made woman who won't bow or borrow, clashes with Karna, an enforcer of fear-driven patriarchy, triggering a powerful upheaval that shakes the empire everywhere.</desc>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.247.</episode-num>
     <episode-num system="onscreen">S1E248</episode-num>
   </programme>
@@ -6932,8 +6937,8 @@
     <title lang="en">Karthigai Deepam</title>
     <desc lang="en">A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
     <category lang="en">Romance</category>
-    <episode-num system="xmltv_ns">0.1249.</episode-num>
-    <episode-num system="onscreen">S1E1250</episode-num>
+    <episode-num system="xmltv_ns">0.1253.</episode-num>
+    <episode-num system="onscreen">S1E1254</episode-num>
   </programme>
   <programme start="20260706140000 +0000" stop="20260706141500 +0000" channel="unknown.unifitv">
     <title lang="en">Vaagai Sooda Vaa</title>
@@ -6974,8 +6979,8 @@
     <title lang="en">Varisu</title>
     <desc lang="en">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.317.</episode-num>
-    <episode-num system="onscreen">S1E318</episode-num>
+    <episode-num system="xmltv_ns">0.305.</episode-num>
+    <episode-num system="onscreen">S1E306</episode-num>
   </programme>
   <channel id="zeecinemahd.unifitv">
     <display-name>Zee Cinema HD</display-name>

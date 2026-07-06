@@ -349,26 +349,17 @@
 <programme start="20260706175500 +0000" stop="20260706180000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>RTÉ News with ISL</title>
 </programme>
-<programme start="20260705230000 +0000" stop="20260706023000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260705230000 +0000" stop="20260706034500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: MOTD FIFA World Cup 2026 - Round of 16: Mexico v England</title>
 </programme>
-<programme start="20260706023000 +0000" stop="20260706023500 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260706034500 +0000" stop="20260706035000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Newsday</title>
+</programme>
+<programme start="20260706035000 +0000" stop="20260706035500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Weather for the Week Ahead</title>
 </programme>
-<programme start="20260706023500 +0000" stop="20260706024500 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260706035500 +0000" stop="20260706040000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Joins BBC News</title>
-</programme>
-<programme start="20260706024500 +0000" stop="20260706030000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Newsday</title>
-</programme>
-<programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Newsday</title>
-</programme>
-<programme start="20260706033000 +0000" stop="20260706034500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Business Today</title>
-</programme>
-<programme start="20260706034500 +0000" stop="20260706040000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Newsday</title>
 </programme>
 <programme start="20260706040000 +0000" stop="20260706043000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC News</title>
@@ -4012,16 +4003,16 @@
 <programme start="20260706011500 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
 </programme>
-<programme start="20260706053000 +0000" stop="20260706110000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260706053000 +0000" stop="20260706111500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC Women&#039;s T20 World Cup - Final: England v Australia</title>
 </programme>
-<programme start="20260706113000 +0000" stop="20260706170000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260706114500 +0000" stop="20260706171500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC Women&#039;s T20 World Cup - Final: England v Australia</title>
 </programme>
-<programme start="20260706170000 +0000" stop="20260706173000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260706171500 +0000" stop="20260706174500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>International T20 Cricket - 1st T20: England v India</title>
 </programme>
-<programme start="20260706173000 +0000" stop="20260706180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260706174500 +0000" stop="20260706181500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>International T20 Cricket - 2nd T20: England v India</title>
 </programme>
 <programme start="20260706000000 +0000" stop="20260706003000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
@@ -4846,16 +4837,16 @@
 <programme start="20260706011500 +0000" stop="20260706053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Major League Cricket - San Francisco Unicorns v MI New York</title>
 </programme>
-<programme start="20260706053000 +0000" stop="20260706110000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260706053000 +0000" stop="20260706111500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC Women&#039;s T20 World Cup - Final: England v Australia</title>
 </programme>
-<programme start="20260706113000 +0000" stop="20260706170000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260706114500 +0000" stop="20260706171500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC Women&#039;s T20 World Cup - Final: England v Australia</title>
 </programme>
-<programme start="20260706170000 +0000" stop="20260706173000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260706171500 +0000" stop="20260706174500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>International T20 Cricket - 1st T20: England v India</title>
 </programme>
-<programme start="20260706173000 +0000" stop="20260706180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260706174500 +0000" stop="20260706181500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>International T20 Cricket - 2nd T20: England v India</title>
 </programme>
 <programme start="20260706000000 +0000" stop="20260706003000 +0000" channel="Sky_Sports_Golf.virginmediatv">
@@ -7639,17 +7630,47 @@
 <programme start="20260706040000 +0000" stop="20260706050000 +0000" channel="DCTV.virginmediatv">
     <title>Off Air</title>
 </programme>
-<programme start="20260706050000 +0000" stop="20260706090000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260706050000 +0000" stop="20260706055900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
 </programme>
-<programme start="20260706090000 +0000" stop="20260706130000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260706055900 +0000" stop="20260706062500 +0000" channel="DCTV.virginmediatv">
+    <title>Funky Junk</title>
 </programme>
-<programme start="20260706130000 +0000" stop="20260706170000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260706120000 +0000" stop="20260706125900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
 </programme>
-<programme start="20260706170000 +0000" stop="20260706210000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260706125900 +0000" stop="20260706132900 +0000" channel="DCTV.virginmediatv">
+    <title>Romancing Ireland - The Italian</title>
+</programme>
+<programme start="20260706132900 +0000" stop="20260706135700 +0000" channel="DCTV.virginmediatv">
+    <title>Soileir</title>
+</programme>
+<programme start="20260706135700 +0000" stop="20260706141500 +0000" channel="DCTV.virginmediatv">
+    <title>Location, Location, Location</title>
+</programme>
+<programme start="20260706141500 +0000" stop="20260706142500 +0000" channel="DCTV.virginmediatv">
+    <title>Science Investigators - Chemical Reactions</title>
+</programme>
+<programme start="20260706142500 +0000" stop="20260706143500 +0000" channel="DCTV.virginmediatv">
+    <title>The Last of Us</title>
+</programme>
+<programme start="20260706143500 +0000" stop="20260706152100 +0000" channel="DCTV.virginmediatv">
+    <title>The Battle of Clontarf, A 1000 Years On</title>
+</programme>
+<programme start="20260706152100 +0000" stop="20260706153200 +0000" channel="DCTV.virginmediatv">
+    <title>ABC of ISL</title>
+</programme>
+<programme start="20260706153200 +0000" stop="20260706160000 +0000" channel="DCTV.virginmediatv">
+    <title>Sign Up!</title>
+</programme>
+<programme start="20260706160000 +0000" stop="20260706170000 +0000" channel="DCTV.virginmediatv">
+    <title>The Ex and Brass Unbound: Coldweather: Live in Dublin</title>
+</programme>
+<programme start="20260706170000 +0000" stop="20260706175900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260706175900 +0000" stop="20260706182500 +0000" channel="DCTV.virginmediatv">
+    <title>Funky Junk</title>
 </programme>
 <programme start="20260705210000 +0000" stop="20260706010000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>

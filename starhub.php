@@ -2054,7 +2054,7 @@
         <title>Best of RG 2026: Day 10 Men&#039;s Singles QF Mensik v Fonseca</title>
     </programme>
     <programme start="20260706061000 +0000" stop="20260706064000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2026: Womne&#039;s Singles SF 1 Sabalenka v Svitolina</title>
+        <title>Mini Match - Australian Open 2026: Women&#039;s Singles SF 1 Sabalenka v Svitolina</title>
     </programme>
     <programme start="20260706064000 +0000" stop="20260706071000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: France vs New Zealand - Cup Final, Bordeaux - Men</title>
@@ -6349,13 +6349,10 @@
     <programme start="20260706153300 +0000" stop="20260706170700 +0000" channel="TV5MONDE HD.starhub">
         <title>Sous Le Tapis</title>
     </programme>
-    <programme start="20260705150000 +0000" stop="20260705200000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260705150000 +0000" stop="20260705204300 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX Canada Open (S300) Finals</title>
     </programme>
-    <programme start="20260705200000 +0000" stop="20260705203000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Pro Series - Tour of Oman Stage 1 Highlights</title>
-    </programme>
-    <programme start="20260705203000 +0000" stop="20260705210000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260705204300 +0000" stop="20260705210000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Pro Series - Tour of Oman Stage 2 Highlights</title>
     </programme>
     <programme start="20260705210000 +0000" stop="20260705224500 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6628,7 +6625,7 @@
     <programme start="20260706142500 +0000" stop="20260706150000 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
     </programme>
-    <programme start="20260706150000 +0000" stop="20260706161500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260706150000 +0000" stop="20260706162500 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Everton vs Liverpool PL 2021/22</title>
     </programme>
     <programme start="20260705150000 +0000" stop="20260705161500 +0000" channel="TestChannel2.starhub">
@@ -7831,17 +7828,20 @@
     <programme start="20260706013000 +0000" stop="20260706020000 +0000" channel="SPOTV2.starhub">
         <title>Grand Prix of Netherlands</title>
     </programme>
-    <programme start="20260706020000 +0000" stop="20260706043000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260706020000 +0000" stop="20260706044000 +0000" channel="SPOTV2.starhub">
         <title>Day 8 Session 2 Finals</title>
     </programme>
-    <programme start="20260706043000 +0000" stop="20260706050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260706044000 +0000" stop="20260706051000 +0000" channel="SPOTV2.starhub">
         <title>SailGP: Racing on the Edge S6</title>
     </programme>
-    <programme start="20260706050000 +0000" stop="20260706060000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260706051000 +0000" stop="20260706061000 +0000" channel="SPOTV2.starhub">
         <title>Round 7 Race</title>
     </programme>
-    <programme start="20260706060000 +0000" stop="20260706115500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260706061000 +0000" stop="20260706112500 +0000" channel="SPOTV2.starhub">
         <title>Day 7 Fourth Round (No.1 Court)</title>
+    </programme>
+    <programme start="20260706112500 +0000" stop="20260706115500 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20260706115500 +0000" stop="20260706200000 +0000" channel="SPOTV2.starhub">
         <title>Day 8 Fourth Round (No.1 Court)</title>
@@ -7921,7 +7921,7 @@
     <programme start="20260706133000 +0000" stop="20260706140000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260706140000 +0000" stop="20260706162000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260706140000 +0000" stop="20260706160000 +0000" channel="Dragon TV.starhub">
         <title>Overtime no more</title>
     </programme>
     <programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="Travelxp HD.starhub">

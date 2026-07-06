@@ -1084,10 +1084,10 @@
 <programme start="20260706142500 +0000" stop="20260706150000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFC Trending 2025/26, Ep 48</title>
 </programme>
-<programme start="20260706150000 +0000" stop="20260706160000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260706150000 +0000" stop="20260706162500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Classic: EVE Vs LIV</title>
 </programme>
-<programme start="20260706160000 +0000" stop="20260706163000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260706162500 +0000" stop="20260706165500 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2025/26: VIL Vs BET</title>
 </programme>
 <programme start="20260705170000 +0000" stop="20260705173000 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -1162,10 +1162,10 @@
 <programme start="20260706142500 +0000" stop="20260706150000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFC Trending 2025/26, Ep 48</title>
 </programme>
-<programme start="20260706150000 +0000" stop="20260706160000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260706150000 +0000" stop="20260706162500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Classic: EVE Vs LIV</title>
 </programme>
-<programme start="20260706160000 +0000" stop="20260706163000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260706162500 +0000" stop="20260706165500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: VIL Vs BET</title>
 </programme>
 <programme start="20260705171500 +0000" stop="20260705183000 +0000" channel="beIN Sports 2.mncvision">
@@ -6352,41 +6352,20 @@
 <programme start="20260706163000 +0000" stop="20260705170000 +0000" channel="Music TV.mncvision">
     <title>Indonesian Idol S14</title>
 </programme>
-<programme start="20260705173000 +0000" stop="20260705190000 +0000" channel="Music TV HD.mncvision">
+<programme start="20260705173000 +0000" stop="20260705213000 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
-<programme start="20260705190000 +0000" stop="20260705213000 +0000" channel="Music TV HD.mncvision">
-    <title>Suparman Reborn</title>
-</programme>
 <programme start="20260705213000 +0000" stop="20260705223000 +0000" channel="Music TV HD.mncvision">
-    <title>Made In India</title>
+    <title>K-Hits</title>
 </programme>
-<programme start="20260705223000 +0000" stop="20260705230000 +0000" channel="Music TV HD.mncvision">
+<programme start="20260705223000 +0000" stop="20260705233000 +0000" channel="Music TV HD.mncvision">
     <title>Juke Box</title>
 </programme>
-<programme start="20260705230000 +0000" stop="20260705231500 +0000" channel="Music TV HD.mncvision">
-    <title>CoComelon</title>
-</programme>
-<programme start="20260705231500 +0000" stop="20260705233000 +0000" channel="Music TV HD.mncvision">
-    <title>Kiko</title>
-</programme>
-<programme start="20260705233000 +0000" stop="20260706000000 +0000" channel="Music TV HD.mncvision">
+<programme start="20260705233000 +0000" stop="20260706001500 +0000" channel="Music TV HD.mncvision">
     <title>One Hour With</title>
 </programme>
-<programme start="20260706000000 +0000" stop="20260706001500 +0000" channel="Music TV HD.mncvision">
-    <title>Dora &amp; Sahabat</title>
-</programme>
-<programme start="20260706001500 +0000" stop="20260706004500 +0000" channel="Music TV HD.mncvision">
-    <title>The Next Didi Kempot</title>
-</programme>
-<programme start="20260706004500 +0000" stop="20260706010000 +0000" channel="Music TV HD.mncvision">
-    <title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260706010000 +0000" stop="20260706020000 +0000" channel="Music TV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260706020000 +0000" stop="20260706023000 +0000" channel="Music TV HD.mncvision">
-    <title>Ada Cinta Di Gerobak Dangdut</title>
+<programme start="20260706001500 +0000" stop="20260706023000 +0000" channel="Music TV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20260706023000 +0000" stop="20260706031500 +0000" channel="Music TV HD.mncvision">
     <title>Centang Dua</title>
@@ -6397,53 +6376,38 @@
 <programme start="20260706034500 +0000" stop="20260706041500 +0000" channel="Music TV HD.mncvision">
     <title>Di Balik Lagu</title>
 </programme>
-<programme start="20260706041500 +0000" stop="20260706044500 +0000" channel="Music TV HD.mncvision">
+<programme start="20260706041500 +0000" stop="20260706050000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
 </programme>
-<programme start="20260706044500 +0000" stop="20260706050000 +0000" channel="Music TV HD.mncvision">
-    <title>Seleb On News</title>
-</programme>
-<programme start="20260706050000 +0000" stop="20260706051500 +0000" channel="Music TV HD.mncvision">
+<programme start="20260706050000 +0000" stop="20260706070000 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
 </programme>
-<programme start="20260706051500 +0000" stop="20260706070000 +0000" channel="Music TV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
 <programme start="20260706070000 +0000" stop="20260706073000 +0000" channel="Music TV HD.mncvision">
-    <title>Idol Story</title>
+    <title>Kita Kepo</title>
 </programme>
-<programme start="20260706073000 +0000" stop="20260706090000 +0000" channel="Music TV HD.mncvision">
-    <title>KDI 2025</title>
+<programme start="20260706073000 +0000" stop="20260706100000 +0000" channel="Music TV HD.mncvision">
+    <title>Indonesian Idol S14</title>
 </programme>
-<programme start="20260706090000 +0000" stop="20260706100000 +0000" channel="Music TV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260706100000 +0000" stop="20260706103000 +0000" channel="Music TV HD.mncvision">
+<programme start="20260706100000 +0000" stop="20260706110000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
 </programme>
-<programme start="20260706103000 +0000" stop="20260706110000 +0000" channel="Music TV HD.mncvision">
-    <title>Upin &amp; Ipin</title>
-</programme>
 <programme start="20260706110000 +0000" stop="20260706120000 +0000" channel="Music TV HD.mncvision">
-    <title>Made In India</title>
+    <title>K-Hits</title>
 </programme>
 <programme start="20260706120000 +0000" stop="20260706130000 +0000" channel="Music TV HD.mncvision">
     <title>Juke Box</title>
 </programme>
 <programme start="20260706130000 +0000" stop="20260706140000 +0000" channel="Music TV HD.mncvision">
-    <title>Localicious</title>
+    <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
 <programme start="20260706140000 +0000" stop="20260706150000 +0000" channel="Music TV HD.mncvision">
-    <title>D Goyang</title>
+    <title>Idol Bae</title>
 </programme>
-<programme start="20260706150000 +0000" stop="20260706160000 +0000" channel="Music TV HD.mncvision">
-    <title>Ada Cinta Di Gerobak Dangdut</title>
-</programme>
-<programme start="20260706160000 +0000" stop="20260706163000 +0000" channel="Music TV HD.mncvision">
-    <title>Sugar Daddy</title>
+<programme start="20260706150000 +0000" stop="20260706163000 +0000" channel="Music TV HD.mncvision">
+    <title>Kilau DMD</title>
 </programme>
 <programme start="20260706163000 +0000" stop="20260705170000 +0000" channel="Music TV HD.mncvision">
-    <title>KDI 2025</title>
+    <title>Indonesian Idol S14</title>
 </programme>
 <programme start="20260705173000 +0000" stop="20260705190000 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah</title>
@@ -7834,10 +7798,10 @@
 <programme start="20260706101000 +0000" stop="20260706113400 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260706113400 +0000" stop="20260706125500 +0000" channel="SCTV.mncvision">
+<programme start="20260706113400 +0000" stop="20260706125400 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260706125500 +0000" stop="20260706143000 +0000" channel="SCTV.mncvision">
+<programme start="20260706125400 +0000" stop="20260706143000 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
 <programme start="20260706143000 +0000" stop="20260706150000 +0000" channel="SCTV.mncvision">
@@ -7888,10 +7852,10 @@
 <programme start="20260706101000 +0000" stop="20260706113400 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260706113400 +0000" stop="20260706125500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260706113400 +0000" stop="20260706125400 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260706125500 +0000" stop="20260706143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260706125400 +0000" stop="20260706143000 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
 <programme start="20260706143000 +0000" stop="20260706150000 +0000" channel="SCTV HD.mncvision">
@@ -8524,11 +8488,11 @@
 <programme start="20260706050000 +0000" stop="20260706060000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 FIA TCR World Tour</title>
 </programme>
-<programme start="20260706060000 +0000" stop="20260706090000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260706060000 +0000" stop="20260706112500 +0000" channel="SPOTV 2.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
 </programme>
-<programme start="20260706090000 +0000" stop="20260706115500 +0000" channel="SPOTV 2.mncvision">
-    <title>The C&#039;ships, Wimbledon 2026</title>
+<programme start="20260706112500 +0000" stop="20260706115500 +0000" channel="SPOTV 2.mncvision">
+    <title>Longines Global Champions Tour</title>
 </programme>
 <programme start="20260706115500 +0000" stop="20260706160000 +0000" channel="SPOTV 2.mncvision">
     <title>The C&#039;ships, Wimbledon 2026 (L)</title>
@@ -8554,11 +8518,11 @@
 <programme start="20260706050000 +0000" stop="20260706060000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 FIA TCR World Tour</title>
 </programme>
-<programme start="20260706060000 +0000" stop="20260706090000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260706060000 +0000" stop="20260706112500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
 </programme>
-<programme start="20260706090000 +0000" stop="20260706115500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>The C&#039;ships, Wimbledon 2026</title>
+<programme start="20260706112500 +0000" stop="20260706115500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Longines Global Champions Tour</title>
 </programme>
 <programme start="20260706115500 +0000" stop="20260706160000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>The C&#039;ships, Wimbledon 2026 (L)</title>
@@ -9124,13 +9088,10 @@
 <programme start="20260706114500 +0000" stop="20260706130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260706130000 +0000" stop="20260706140000 +0000" channel="Trans TV.mncvision">
-    <title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20260706140000 +0000" stop="20260706160000 +0000" channel="Trans TV.mncvision">
+<programme start="20260706130000 +0000" stop="20260706150000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260706160000 +0000" stop="20260706163000 +0000" channel="Trans TV.mncvision">
+<programme start="20260706150000 +0000" stop="20260706153000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260705182500 +0000" stop="20260705200500 +0000" channel="tvN.mncvision">
