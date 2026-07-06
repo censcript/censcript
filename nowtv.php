@@ -1,6 +1,3 @@
-<programme start="20260706200000 +0000" stop="20260706220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260706220000 +0000" stop="20260707000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -29,9 +26,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260707160000 +0000" stop="20260707180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260706200000 +0000" stop="20260706220000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260706220000 +0000" stop="20260707000000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -64,9 +58,6 @@
 <programme start="20260707160000 +0000" stop="20260707180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260706200000 +0000" stop="20260706220000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260706220000 +0000" stop="20260707000000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -97,12 +88,6 @@
 <programme start="20260707143000 +0000" stop="20260707163000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 9 QFs (B)[Live]</title>
 </programme>
-<programme start="20260706181500 +0000" stop="20260706211500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -Rd of 16 - Portugal vs Spain[Live]</title>
-</programme>
-<programme start="20260706211500 +0000" stop="20260706220000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260706220000 +0000" stop="20260706231500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -132,18 +117,6 @@
 </programme>
 <programme start="20260707151500 +0000" stop="20260707181500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>[4K]FIFA World Cup 2026™ -Rd of 16 - Argentina vs Egypt[Live]</title>
-</programme>
-<programme start="20260706181500 +0000" stop="20260706211500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Rd of 16 - Portugal vs Spain[Live]</title>
-</programme>
-<programme start="20260706211500 +0000" stop="20260706213000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E91</title>
-</programme>
-<programme start="20260706213000 +0000" stop="20260706214500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E92</title>
-</programme>
-<programme start="20260706214500 +0000" stop="20260706220000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E90</title>
 </programme>
 <programme start="20260706220000 +0000" stop="20260706221500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Best Moment E91</title>
@@ -267,9 +240,6 @@
 </programme>
 <programme start="20260707151500 +0000" stop="20260707181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 16 - Argentina vs Egypt[Live]</title>
-</programme>
-<programme start="20260706200000 +0000" stop="20260706220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Everton</title>
 </programme>
 <programme start="20260706220000 +0000" stop="20260707000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Liverpool vs Tottenham Hotspur</title>
