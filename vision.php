@@ -688,9 +688,6 @@
 <programme start="20260706090000 +0000" stop="20260706110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260706170000 +0000" stop="20260706190000 +0000" channel="ANTV.vision">
-<title>Ghost</title>
-</programme>
 <programme start="20260706190000 +0000" stop="20260706210000 +0000" channel="ANTV.vision">
 <title>Love Love Love</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260707050500 +0000" stop="20260707053000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260707053000 +0000" stop="20260707063000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
