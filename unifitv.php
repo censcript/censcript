@@ -25,54 +25,64 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260705190000 +0000" stop="20260705233000 +0000" channel="fifa1.unifitv">
+  <programme start="20260705190000 +0000" stop="20260705223000 +0000" channel="fifa1.unifitv">
     <title lang="en">(L) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 4:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260705233000 +0000" stop="20260706000000 +0000" channel="fifa1.unifitv">
+  <programme start="20260705223000 +0000" stop="20260705230000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 2 - Miami : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706000000 +0000" stop="20260706043000 +0000" channel="fifa1.unifitv">
+  <programme start="20260705230000 +0000" stop="20260706023000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706043000 +0000" stop="20260706050000 +0000" channel="fifa1.unifitv">
+  <programme start="20260706023000 +0000" stop="20260706030000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 16 - New York &amp; New Jersey : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706050000 +0000" stop="20260706093000 +0000" channel="fifa1.unifitv">
-    <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260706093000 +0000" stop="20260706100000 +0000" channel="fifa1.unifitv">
+  <programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 1 - Mexico City : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706100000 +0000" stop="20260706143000 +0000" channel="fifa1.unifitv">
+  <programme start="20260706033000 +0000" stop="20260706070000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706143000 +0000" stop="20260706150000 +0000" channel="fifa1.unifitv">
+  <programme start="20260706070000 +0000" stop="20260706073000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 2 - Miami : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706150000 +0000" stop="20260706153000 +0000" channel="fifa1.unifitv">
+  <programme start="20260706073000 +0000" stop="20260706080000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 16 - New York &amp; New Jersey : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260706080000 +0000" stop="20260706113000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260706113000 +0000" stop="20260706120000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 1 - Mexico City : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706153000 +0000" stop="20260706160000 +0000" channel="fifa1.unifitv">
+  <programme start="20260706120000 +0000" stop="20260706123000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 2 - Miami : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260706123000 +0000" stop="20260706160000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260706160000 +0000" stop="20260706163000 +0000" channel="fifa1.unifitv">
@@ -206,17 +216,17 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706103000 +0000" stop="20260706150000 +0000" channel="fifa3.unifitv">
+  <programme start="20260706103000 +0000" stop="20260706140000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706150000 +0000" stop="20260706160000 +0000" channel="fifa3.unifitv">
+  <programme start="20260706140000 +0000" stop="20260706143000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706160000 +0000" stop="20260706203000 +0000" channel="fifa3.unifitv">
+  <programme start="20260706143000 +0000" stop="20260706190000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Mexico vs England : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
