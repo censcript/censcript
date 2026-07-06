@@ -2711,16 +2711,16 @@
     <title>African Voices - Episode 230</title>
 </programme>
 <programme start="20260706023000 +0000" stop="20260706024500 +0000" channel="CNN_HD.virginmediatv">
-    <title>Marketplace Middle East</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260706024500 +0000" stop="20260706030000 +0000" channel="CNN_HD.virginmediatv">
     <title>Marketplace Africa - The Future of Medical Training; Stella Okoli</title>
 </programme>
 <programme start="20260706030000 +0000" stop="20260706033000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Seasons - &#039;Slow Luxury&#039; with Laura Jackson</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260706033000 +0000" stop="20260706040000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260706040000 +0000" stop="20260706050000 +0000" channel="CNN_HD.virginmediatv">
     <title>CNN Newsroom</title>

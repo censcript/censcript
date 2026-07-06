@@ -103,7 +103,7 @@
 <programme start="20260706090000 +0000" stop="20260706103000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260709103000 +0000" stop="20260709120000 +0000" channel="MNCTV.vision">
+<programme start="20260706103000 +0000" stop="20260706120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260706120000 +0000" stop="20260706130000 +0000" channel="MNCTV.vision">
@@ -111,6 +111,21 @@
 </programme>
 <programme start="20260706130000 +0000" stop="20260706160000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>
+</programme>
+<programme start="20260706160000 +0000" stop="20260706170000 +0000" channel="MNCTV.vision">
+<title>Sugar Daddy</title>
+</programme>
+<programme start="20260706170000 +0000" stop="20260706190000 +0000" channel="MNCTV.vision">
+<title>Suparman Reborn</title>
+</programme>
+<programme start="20260706190000 +0000" stop="20260706230000 +0000" channel="MNCTV.vision">
+<title>Suparman Reborn</title>
+</programme>
+<programme start="20260706230000 +0000" stop="20260706231500 +0000" channel="MNCTV.vision">
+<title>CoComelon</title>
+</programme>
+<programme start="20260706231500 +0000" stop="20260707000000 +0000" channel="MNCTV.vision">
+<title>Kiko</title>
 </programme>
 <programme start="20260707000000 +0000" stop="20260707004500 +0000" channel="MNCTV.vision">
 <title>Dora &amp; Sahabat</title>
@@ -176,6 +191,9 @@
 <title>1001 Kisah</title>
 </programme>
 <programme start="20260706183000 +0000" stop="20260706190000 +0000" channel="GTV.vision">
+<title>Ragam Cerita</title>
+</programme>
+<programme start="20260706190000 +0000" stop="20260706210000 +0000" channel="GTV.vision">
 <title>Ragam Cerita</title>
 </programme>
 <programme start="20260706210000 +0000" stop="20260706230000 +0000" channel="GTV.vision">
@@ -484,16 +502,13 @@
 <programme start="20260706114500 +0000" stop="20260706130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260706130000 +0000" stop="20260706140000 +0000" channel="Trans TV.vision">
-<title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20260706140000 +0000" stop="20260706160000 +0000" channel="Trans TV.vision">
+<programme start="20260706130000 +0000" stop="20260706150000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260706160000 +0000" stop="20260706180000 +0000" channel="Trans TV.vision">
+<programme start="20260706150000 +0000" stop="20260706170000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260706180000 +0000" stop="20260706220000 +0000" channel="Trans TV.vision">
+<programme start="20260706170000 +0000" stop="20260706220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20260706220000 +0000" stop="20260706233000 +0000" channel="Trans TV.vision">
@@ -672,9 +687,6 @@
 </programme>
 <programme start="20260706090000 +0000" stop="20260706110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260706110000 +0000" stop="20260706130000 +0000" channel="ANTV.vision">
-<title>Indigo</title>
 </programme>
 <programme start="20260706130000 +0000" stop="20260706150000 +0000" channel="ANTV.vision">
 <title>Kuntilanak 3: Keris Pusaka</title>
@@ -858,9 +870,6 @@
 </programme>
 <programme start="20260706110000 +0000" stop="20260706130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260706130000 +0000" stop="20260706140000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20260706140000 +0000" stop="20260706150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1479,4 +1488,13 @@
 </programme>
 <programme start="20260707023000 +0000" stop="20260707030000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
+</programme>
+<programme start="20260707030000 +0000" stop="20260707033000 +0000" channel="BTV.vision">
+<title>Vacation List</title>
+</programme>
+<programme start="20260707033000 +0000" stop="20260707040000 +0000" channel="BTV.vision">
+<title>Indonesia Update Cerita IDN</title>
+</programme>
+<programme start="20260707040000 +0000" stop="20260707050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
