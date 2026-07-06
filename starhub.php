@@ -6622,13 +6622,13 @@
     <programme start="20260706122500 +0000" stop="20260706130000 +0000" channel="beIN Sports HD.starhub">
         <title>FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026</title>
     </programme>
-    <programme start="20260706130000 +0000" stop="20260706141500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260706130000 +0000" stop="20260706142500 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Liverpool vs Man City PL 2021/22</title>
     </programme>
-    <programme start="20260706141500 +0000" stop="20260706144500 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260706142500 +0000" stop="20260706150000 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
     </programme>
-    <programme start="20260706144500 +0000" stop="20260706160000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260706150000 +0000" stop="20260706161500 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Everton vs Liverpool PL 2021/22</title>
     </programme>
     <programme start="20260705150000 +0000" stop="20260705161500 +0000" channel="TestChannel2.starhub">

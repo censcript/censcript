@@ -412,12 +412,12 @@
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706141500 +0000" stop="20260706144500 +0000" channel="beinsports.unifitv">
+  <programme start="20260706141500 +0000" stop="20260706150000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFC Trending - Episode Number 48</title>
     <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706144500 +0000" stop="20260706160000 +0000" channel="beinsports.unifitv">
+  <programme start="20260706150000 +0000" stop="20260706160000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Everton vs Liverpool PL 2021/22</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>

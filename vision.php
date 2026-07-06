@@ -661,62 +661,65 @@
 <programme start="20260707114500 +0000" stop="20260707121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260705230000 +0000" stop="20260706010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260705223000 +0000" stop="20260706003000 +0000" channel="ANTV.vision">
+<title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260706010000 +0000" stop="20260706023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706003000 +0000" stop="20260706023000 +0000" channel="ANTV.vision">
+<title>Prabu Anglingdarma 2</title>
 </programme>
 <programme start="20260706023000 +0000" stop="20260706060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Players</title>
 </programme>
 <programme start="20260706060000 +0000" stop="20260706073000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jhanak</title>
 </programme>
 <programme start="20260706073000 +0000" stop="20260706090000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Sayali</title>
 </programme>
-<programme start="20260706090000 +0000" stop="20260706113000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706090000 +0000" stop="20260706110000 +0000" channel="ANTV.vision">
+<title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260706113000 +0000" stop="20260706133000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706110000 +0000" stop="20260706130000 +0000" channel="ANTV.vision">
+<title>Indigo</title>
 </programme>
-<programme start="20260706133000 +0000" stop="20260706153000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706130000 +0000" stop="20260706150000 +0000" channel="ANTV.vision">
+<title>Kuntilanak 3: Keris Pusaka</title>
 </programme>
-<programme start="20260706153000 +0000" stop="20260706173000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706150000 +0000" stop="20260706170000 +0000" channel="ANTV.vision">
+<title>Siluman Kera</title>
 </programme>
-<programme start="20260706173000 +0000" stop="20260706193000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706170000 +0000" stop="20260706190000 +0000" channel="ANTV.vision">
+<title>Ghost</title>
 </programme>
-<programme start="20260706193000 +0000" stop="20260706220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706190000 +0000" stop="20260706210000 +0000" channel="ANTV.vision">
+<title>Love Love Love</title>
 </programme>
-<programme start="20260706220000 +0000" stop="20260706230000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706210000 +0000" stop="20260706213000 +0000" channel="ANTV.vision">
+<title>Karma Baik</title>
 </programme>
-<programme start="20260706230000 +0000" stop="20260707010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706213000 +0000" stop="20260706223000 +0000" channel="ANTV.vision">
+<title>Hati Ke Hati Bersama Mamah...</title>
 </programme>
-<programme start="20260707010000 +0000" stop="20260707023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260706223000 +0000" stop="20260707003000 +0000" channel="ANTV.vision">
+<title>Aini: Malaikat Tak Bersayap</title>
+</programme>
+<programme start="20260707003000 +0000" stop="20260707023000 +0000" channel="ANTV.vision">
+<title>Prabu Anglingdarma 3</title>
 </programme>
 <programme start="20260707023000 +0000" stop="20260707060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jeet</title>
 </programme>
 <programme start="20260707060000 +0000" stop="20260707073000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jhanak</title>
 </programme>
 <programme start="20260707073000 +0000" stop="20260707090000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Sayali</title>
 </programme>
-<programme start="20260707090000 +0000" stop="20260707113000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260707090000 +0000" stop="20260707110000 +0000" channel="ANTV.vision">
+<title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260707113000 +0000" stop="20260707133000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20260707110000 +0000" stop="20260707130000 +0000" channel="ANTV.vision">
+<title>Sumala</title>
 </programme>
 <programme start="20260706000000 +0000" stop="20260706010000 +0000" channel="RTV.vision">
 <title>RTV</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260707063000 +0000" stop="20260707070000 +0000" channel="BTV.vision">
 <title>Jendela Nusantara: Jawa Barat</title>
-</programme>
-<programme start="20260707070000 +0000" stop="20260707073000 +0000" channel="BTV.vision">
-<title>Anak Hebat</title>
 </programme>
