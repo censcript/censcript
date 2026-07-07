@@ -170,7 +170,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260707093000 +0000" stop="20260707100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+    <title>Talk To Al Jazeera: C. Hedges</title>
 </programme>
 <programme start="20260707100000 +0000" stop="20260707110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -7777,31 +7777,31 @@
 <programme start="20260707030000 +0000" stop="20260707050000 +0000" channel="SCTV.mncvision">
     <title>Get Married Bikin Get Panik</title>
 </programme>
-<programme start="20260707050000 +0000" stop="20260707053000 +0000" channel="SCTV.mncvision">
+<programme start="20260707050000 +0000" stop="20260707053100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260707053000 +0000" stop="20260707070000 +0000" channel="SCTV.mncvision">
+<programme start="20260707053100 +0000" stop="20260707070500 +0000" channel="SCTV.mncvision">
     <title>Cintaku Divermak Jelita</title>
 </programme>
-<programme start="20260707070000 +0000" stop="20260707083000 +0000" channel="SCTV.mncvision">
+<programme start="20260707070500 +0000" stop="20260707083800 +0000" channel="SCTV.mncvision">
     <title>Bola Cintamu Berhasil Gol...</title>
 </programme>
-<programme start="20260707083000 +0000" stop="20260707101500 +0000" channel="SCTV.mncvision">
+<programme start="20260707083800 +0000" stop="20260707101100 +0000" channel="SCTV.mncvision">
     <title>Abang Cabe Pilar Kehidupan</title>
 </programme>
-<programme start="20260707101500 +0000" stop="20260707115000 +0000" channel="SCTV.mncvision">
+<programme start="20260707101100 +0000" stop="20260707114700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260707115000 +0000" stop="20260707130000 +0000" channel="SCTV.mncvision">
+<programme start="20260707114700 +0000" stop="20260707130000 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260707130000 +0000" stop="20260707142100 +0000" channel="SCTV.mncvision">
+<programme start="20260707130000 +0000" stop="20260707142000 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260707142100 +0000" stop="20260707160000 +0000" channel="SCTV.mncvision">
+<programme start="20260707142000 +0000" stop="20260707154800 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260707160000 +0000" stop="20260707163000 +0000" channel="SCTV.mncvision">
+<programme start="20260707154800 +0000" stop="20260707161800 +0000" channel="SCTV.mncvision">
     <title>Aku Terjebak Petak Umpet Cinta</title>
 </programme>
 <programme start="20260706174000 +0000" stop="20260706185000 +0000" channel="SCTV HD.mncvision">
@@ -7837,31 +7837,31 @@
 <programme start="20260707030000 +0000" stop="20260707050000 +0000" channel="SCTV HD.mncvision">
     <title>Get Married Bikin Get Panik</title>
 </programme>
-<programme start="20260707050000 +0000" stop="20260707053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707050000 +0000" stop="20260707053100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260707053000 +0000" stop="20260707070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707053100 +0000" stop="20260707070500 +0000" channel="SCTV HD.mncvision">
     <title>Cintaku Divermak Jelita</title>
 </programme>
-<programme start="20260707070000 +0000" stop="20260707083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707070500 +0000" stop="20260707083800 +0000" channel="SCTV HD.mncvision">
     <title>Bola Cintamu Berhasil Gol...</title>
 </programme>
-<programme start="20260707083000 +0000" stop="20260707101500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707083800 +0000" stop="20260707101100 +0000" channel="SCTV HD.mncvision">
     <title>Abang Cabe Pilar Kehidupan</title>
 </programme>
-<programme start="20260707101500 +0000" stop="20260707115000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707101100 +0000" stop="20260707114700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260707115000 +0000" stop="20260707130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707114700 +0000" stop="20260707130000 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260707130000 +0000" stop="20260707142100 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707130000 +0000" stop="20260707142000 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260707142100 +0000" stop="20260707160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707142000 +0000" stop="20260707154800 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260707160000 +0000" stop="20260707163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260707154800 +0000" stop="20260707161800 +0000" channel="SCTV HD.mncvision">
     <title>Aku Terjebak Petak Umpet Cinta</title>
 </programme>
 <programme start="20260706170000 +0000" stop="20260706180000 +0000" channel="Sindo News TV.mncvision">

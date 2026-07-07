@@ -98,19 +98,29 @@
   <channel id="fifa2.unifitv">
     <display-name>Unifi FIFA World Cup 2026™ 2</display-name>
   </channel>
-  <programme start="20260706140000 +0000" stop="20260706183000 +0000" channel="fifa2.unifitv">
+  <programme start="20260706153000 +0000" stop="20260706203000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Mexico vs England : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 8:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706183000 +0000" stop="20260706190000 +0000" channel="fifa2.unifitv">
+  <programme start="20260706203000 +0000" stop="20260706210000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706190000 +0000" stop="20260706223000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Spain vs Austria : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
+  <programme start="20260706210000 +0000" stop="20260706213000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 12 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260706213000 +0000" stop="20260706220000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260706220000 +0000" stop="20260706223000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260706223000 +0000" stop="20260706230000 +0000" channel="fifa2.unifitv">
@@ -128,27 +138,37 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260707040000 +0000" stop="20260707083000 +0000" channel="fifa2.unifitv">
+  <programme start="20260707040000 +0000" stop="20260707073000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) USA vs Belgium : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260707083000 +0000" stop="20260707090000 +0000" channel="fifa2.unifitv">
+  <programme start="20260707073000 +0000" stop="20260707080000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260707090000 +0000" stop="20260707133000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) USA vs Belgium : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260707133000 +0000" stop="20260707140000 +0000" channel="fifa2.unifitv">
+  <programme start="20260707080000 +0000" stop="20260707083000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260707140000 +0000" stop="20260707183000 +0000" channel="fifa2.unifitv">
+  <programme start="20260707083000 +0000" stop="20260707120000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) USA vs Belgium : FIFA World Cup™ 2026 Round of 16</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260707120000 +0000" stop="20260707123000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260707123000 +0000" stop="20260707130000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260707130000 +0000" stop="20260707163000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) USA vs Belgium : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
     <category lang="en">Sports</category>
@@ -272,42 +292,37 @@
   <channel id="beinsports.unifitv">
     <display-name>beIN SPORTS 1</display-name>
   </channel>
-  <programme start="20260706150000 +0000" stop="20260706160000 +0000" channel="beinsports.unifitv">
+  <programme start="20260706150000 +0000" stop="20260706162500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Everton vs Liverpool PL 2021/22</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706160000 +0000" stop="20260706175000 +0000" channel="beinsports.unifitv">
+  <programme start="20260706162500 +0000" stop="20260706181500 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga - Villarreal vs Real Betis</title>
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706175000 +0000" stop="20260706184000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Formula Regional - Hungaroring Race 2</title>
-    <desc lang="en">From Leclerc and Fittipaldi to Antonelli and Colapinto, Formula Regional continues to deliver graduates who rise to the very top. It is the ultimate challenge for young stars on their path to the F1 spotlight.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260706184000 +0000" stop="20260706202500 +0000" channel="beinsports.unifitv">
+  <programme start="20260706181500 +0000" stop="20260706200000 +0000" channel="beinsports.unifitv">
     <title lang="en">UEFA Youth League - Real Madrid vs Man City - MD6</title>
     <desc lang="en">The UEFA Youth League is an annual football competition contested by the youth teams (U19) of the clubs competing in the UCL group stage, plus the domestic youth champions of the best-ranked national associations</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706202500 +0000" stop="20260706205500 +0000" channel="beinsports.unifitv">
+  <programme start="20260706200000 +0000" stop="20260706203000 +0000" channel="beinsports.unifitv">
     <title lang="en">FIA Truck Racing Highlights - Slovakiaring</title>
     <desc lang="en">Catch all the non-stop tumbling action from the European Truck Racing Championships, packed into a 30-mins thrilling highlight program</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706205500 +0000" stop="20260706221000 +0000" channel="beinsports.unifitv">
+  <programme start="20260706203000 +0000" stop="20260706215500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Liverpool vs Man City PL 2021/22</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706221000 +0000" stop="20260706224000 +0000" channel="beinsports.unifitv">
+  <programme start="20260706215500 +0000" stop="20260706223000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFC Trending - Episode Number 48</title>
     <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260706224000 +0000" stop="20260706235500 +0000" channel="beinsports.unifitv">
+  <programme start="20260706223000 +0000" stop="20260706235500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Everton vs Liverpool PL 2021/22</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
@@ -3673,19 +3688,19 @@
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
-  <programme start="20260707083000 +0000" stop="20260707090000 +0000" channel="salamhd.unifitv">
+  <programme start="20260707083000 +0000" stop="20260707085500 +0000" channel="salamhd.unifitv">
     <title lang="en">Puji Pujian &amp; Kalam Allah V2</title>
     <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
     <category lang="en">Religious</category>
   </programme>
-  <programme start="20260707090000 +0000" stop="20260707090500 +0000" channel="salamhd.unifitv">
+  <programme start="20260707085500 +0000" stop="20260707090000 +0000" channel="salamhd.unifitv">
     <title lang="en">Religious Clip</title>
     <desc lang="en">Dalam episod kali ini, topik yang di sampaikan ialah “Mata Panahan Syaitan”. Bersama Ustazah Wan Nurhazila yang akan membincangkan topik ini dengan lebih lanjut lagi.</desc>
     <category lang="en">Religious</category>
     <episode-num system="xmltv_ns">101.0.</episode-num>
     <episode-num system="onscreen">S102E1</episode-num>
   </programme>
-  <programme start="20260707090500 +0000" stop="20260707100000 +0000" channel="salamhd.unifitv">
+  <programme start="20260707090000 +0000" stop="20260707100000 +0000" channel="salamhd.unifitv">
     <title lang="en">Bicara Cinta Tertangguh</title>
     <desc lang="en">Irma, sepupu Suriya mencadangkan agar Suriya memperkenalkan Luqman kepada Firdaus sebagai teman lelaki supaya Firdaus tidak lagi perlu mencarikan jodoh buat Suriya. Tetapi Suriya tidak mahu mengambil kesempatan ke atas Luqman dan tidak mahu Luqman rasa dia menaruh hati kepadanya.</desc>
     <category lang="en">Drama</category>
@@ -3711,33 +3726,33 @@
     <desc lang="en">Zikir dan bacaan surah-surah lazim.</desc>
     <category lang="en">Religious</category>
   </programme>
-  <programme start="20260707110000 +0000" stop="20260707113500 +0000" channel="salamhd.unifitv">
+  <programme start="20260707110000 +0000" stop="20260707113000 +0000" channel="salamhd.unifitv">
     <title lang="en">Asbab Al Nuzul</title>
     <desc lang="en">Episod ini akan menerangkan surah al-Maun. Asbab Al Nuzul yang akan menjelaskan persoalan-persoalan yang menyebabkan turunnya satu-satu ayat atau beberapa ayat untuk menerangkan peristiwa dan hukumnya turunnya ayat Al- Quran. Ia berkaitan dengan beberapa ayat untuk menerangkan hal yang berhubungan dengan peristiwa tertentu atau memberikan jawapan tertentu dalam bahagian dari ilmu tafsir Qur'an.</desc>
     <category lang="en">Religious</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20260707113500 +0000" stop="20260707120500 +0000" channel="salamhd.unifitv">
+  <programme start="20260707113000 +0000" stop="20260707120000 +0000" channel="salamhd.unifitv">
     <title lang="en">Jom Fesyen</title>
     <desc lang="en">Jom Fesyen bersama pengacara anda Nadia Brian yang akan membawa para penonton mengembara ke seluruh pelosok negeri untuk menerokai dan mengenali lebih banyak fesyen dari pereka-pereka fesyen terkenal dan terkemuka di negara kita. Episod kali ini Nadia akan membawa penonton Jom Fesyen untuk merungkai evolusi kebaya klasik dari penggunaan kain kasar sehingga rekaan kebaya terkini.</desc>
     <category lang="en">Religious</category>
     <episode-num system="xmltv_ns">3.6.</episode-num>
     <episode-num system="onscreen">S4E7</episode-num>
   </programme>
-  <programme start="20260707120500 +0000" stop="20260707134000 +0000" channel="salamhd.unifitv">
+  <programme start="20260707120000 +0000" stop="20260707133000 +0000" channel="salamhd.unifitv">
     <title lang="en">Sebelah Kaki Untuk Papa</title>
     <desc lang="en">Mama Awan meninggal setelah mengalami kemalangan manakala papanya pula terselamat namun papanya hilang sebelah kaki. Setelah papanya keluar dari hospital Awan yang menjaga papanya manakala Bunga malu untuk mengaku jika kawan-kawannya tahu bahawa papanya cacat.</desc>
     <category lang="en">Family</category>
   </programme>
-  <programme start="20260707134000 +0000" stop="20260707141000 +0000" channel="salamhd.unifitv">
+  <programme start="20260707133000 +0000" stop="20260707140000 +0000" channel="salamhd.unifitv">
     <title lang="en">Cerita Bintang</title>
     <desc lang="en">Cerita Bintang 3 padat dengan informasi, mesej namun tetap menghiburkan. Bersesuaian dengan tajuknya, rancangan ini akan mengupas cerita tentang aktiviti terkini artis seperti perkembangan aktiviti seni dan artis akan berkongsi pengalaman berjaya dalam pernigaan yang dicebur. Artis berkongsi pengalaman jatuh bangun serta tips perniagaan yang ingin diketahui ramai. Episod kali ini Anis akan membawa penonton untuk menemu bual dengan Izzue Islam</desc>
     <category lang="en">Family</category>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <episode-num system="onscreen">S3E3</episode-num>
   </programme>
-  <programme start="20260707141000 +0000" stop="20260707150000 +0000" channel="salamhd.unifitv">
+  <programme start="20260707140000 +0000" stop="20260707150000 +0000" channel="salamhd.unifitv">
     <title lang="en">Aku Hanya Ingin Dicintai</title>
     <desc lang="en">Rani mengotakan janjinya untuk terus menyokong Rafi dan Maya. Maya yang masih belum dibebaskan daripada tuduhan Vishnu akan menerima bantuan guaman daripada peguam baik yang merupakan kawan Rani. Menurut hatinya, Rafi lebih suka bersama Maya. Dengan memilih untuk bersama Maya, secara tidak langsung bermakna Rafi sudah bersedia untuk berperang dengan ayahnya sendiri, Vishnu. Vishnu kemudiannya memberikan segala harapan dan kepercayaannya kepada anak tunggal di sisinya kini, Andre.</desc>
     <category lang="en">Drama</category>
@@ -4821,15 +4836,15 @@
     <episode-num system="onscreen">S1E2171</episode-num>
   </programme>
   <programme start="20260706163500 +0000" stop="20260706173500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">EMISSARY</title>
-    <desc lang="en">Jiang Dawei is an idealistic college student who joins the police force. He undergoes training at a law school and eventually becomes a police officer, surrounded by a diverse group of officers with varying personalities and backgrounds. Given the lawlessness of drug lords, Jiang Dawei accepts a secret order from his superior to orchestrate a frame-up and become an undercover detective, working as a trusted aide to a drug kingpin. He feigns compliance while secretly gathering evidence of the kingpin's crimes. Undercover, Jiang Dawei's personality drastically changes, and he faces misunderstanding from his father, relatives, and girlfriend, Wang Jiaqi. With no recourse, he vividly portrays the hardships of being a police officer.</desc>
+    <title lang="en">The Inner Eye</title>
+    <desc lang="en">When “The Inner Eye “follows Shenzhen lawyer Tang Yingying as she handles a series of controversial cases and gradually transforms from someone driven by victory and profit into a lawyer who rediscovers her professional conscience. Through cases involving sexual assault allegations, inheritance disputes, emotional and medical conflicts, domestic violence, and public opinion against lawyers, she witnesses the darkness and vulnerability of human nature. As the lives of Dai Peilin, Lin Xiaoyun, Kang Jun, Fang Weian and others intertwine with hers, Tang learns to “cover her eyes” and listen to her inner sense of justice and integrity, ultimately finding her own rebirth in law, love and life.</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260706173500 +0000" stop="20260706183500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Deadly Sins &amp; What's On Today</title>
-    <desc lang="en">Human desires can drive us to transform ourselves. However, when desires get out of line due to pure greed for money and power, or even fanciful lust, so much so that whimsical imaginings are infinitely exaggerated. And unintentionally, you just fall into the abyss of moral dilemma and commit all kinds of Deadly Sins. Crime Unit, New Territories East investigates successive cases, including Faceless Dead Woman, Stone Coffin Forbidden Love, One Hundred Million Murder Scheme, Dangerous Games, Dirty Bullets and Terrible Lover. Perplexing clues and tangled relationships become the foundation of a series of unbelievable mysteries, revealing the baffling dark side of human nature.</desc>
+    <desc lang="en">Human desires can drive us to transform ourselves. However, when desires get out of line due to pure greed for money and power, or even fanciful lust, so much so that whimsical imaginings are infinitely exaggerated. And unintentionally, you just fall into the abyss of moral dilemma and commit all kinds of Deadly Sins. Crime Unit, New Territories East investigates successive cases, including Faceless Corpse, Stone Coffin, $100 Million Motive for Murder, Dangerous Game, Dirty Bullet and Terrifying Lover. Perplexing clues and tangled relationships become the foundation of a series of unbelievable mysteries, revealing the baffling dark side of human nature.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -4932,7 +4947,7 @@
   </programme>
   <programme start="20260707030500 +0000" stop="20260707040500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Deadly Sins</title>
-    <desc lang="en">Human desires can drive us to transform ourselves. However, when desires get out of line due to pure greed for money and power, or even fanciful lust, so much so that whimsical imaginings are infinitely exaggerated. And unintentionally, you just fall into the abyss of moral dilemma and commit all kinds of Deadly Sins. Crime Unit, New Territories East investigates successive cases, including Faceless Dead Woman, Stone Coffin Forbidden Love, One Hundred Million Murder Scheme, Dangerous Games, Dirty Bullets and Terrible Lover. Perplexing clues and tangled relationships become the foundation of a series of unbelievable mysteries, revealing the baffling dark side of human nature.</desc>
+    <desc lang="en">Human desires can drive us to transform ourselves. However, when desires get out of line due to pure greed for money and power, or even fanciful lust, so much so that whimsical imaginings are infinitely exaggerated. And unintentionally, you just fall into the abyss of moral dilemma and commit all kinds of Deadly Sins. Crime Unit, New Territories East investigates successive cases, including Faceless Corpse, Stone Coffin, $100 Million Motive for Murder, Dangerous Game, Dirty Bullet and Terrifying Lover. Perplexing clues and tangled relationships become the foundation of a series of unbelievable mysteries, revealing the baffling dark side of human nature.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -5035,7 +5050,7 @@
   </programme>
   <programme start="20260707123500 +0000" stop="20260707133500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Deadly Sins</title>
-    <desc lang="en">Human desires can drive us to transform ourselves. However, when desires get out of line due to pure greed for money and power, or even fanciful lust, so much so that whimsical imaginings are infinitely exaggerated. And unintentionally, you just fall into the abyss of moral dilemma and commit all kinds of Deadly Sins. Crime Unit, New Territories East investigates successive cases, including Faceless Dead Woman, Stone Coffin Forbidden Love, One Hundred Million Murder Scheme, Dangerous Games, Dirty Bullets and Terrible Lover. Perplexing clues and tangled relationships become the foundation of a series of unbelievable mysteries, revealing the baffling dark side of human nature.</desc>
+    <desc lang="en">Human desires can drive us to transform ourselves. However, when desires get out of line due to pure greed for money and power, or even fanciful lust, so much so that whimsical imaginings are infinitely exaggerated. And unintentionally, you just fall into the abyss of moral dilemma and commit all kinds of Deadly Sins. Crime Unit, New Territories East investigates successive cases, including Faceless Corpse, Stone Coffin, $100 Million Motive for Murder, Dangerous Game, Dirty Bullet and Terrifying Lover. Perplexing clues and tangled relationships become the foundation of a series of unbelievable mysteries, revealing the baffling dark side of human nature.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>

@@ -4,10 +4,10 @@
     <programme start="20260707000000 +0000" stop="20260707003000 +0000" channel="VTV1 HD.mytv">
         <title> Cải cách hành chính: Sức trẻ trong cải cách hành chính </title>
     </programme>
-    <programme start="20260707003000 +0000" stop="20260707004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260707003000 +0000" stop="20260707004400 +0000" channel="VTV1 HD.mytv">
         <title> Báo chí toàn cảnh </title>
     </programme>
-    <programme start="20260707004500 +0000" stop="20260707011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260707004400 +0000" stop="20260707011000 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
     <programme start="20260707011000 +0000" stop="20260707020000 +0000" channel="VTV1 HD.mytv">
@@ -22,10 +22,10 @@
     <programme start="20260707024500 +0000" stop="20260707033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 45 </title>
     </programme>
-    <programme start="20260707033000 +0000" stop="20260707041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260707033000 +0000" stop="20260707041600 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Gia đình mình vui bất thình lình - Tập 46 </title>
     </programme>
-    <programme start="20260707041500 +0000" stop="20260707050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260707041600 +0000" stop="20260707050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Trà sen Bách Diệp Tây Hồ </title>
     </programme>
     <programme start="20260707050500 +0000" stop="20260707051000 +0000" channel="VTV1 HD.mytv">

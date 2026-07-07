@@ -377,7 +377,7 @@
         <title>Mechamato S3 - EP 7</title>
     </programme>
     <programme start="20260707013000 +0000" stop="20260707020000 +0000" channel="Suria.mewatch">
-        <title>5 Rencah 5 Rasa (2018) - EP 26</title>
+        <title>5 Rencah 5 Rasa S1 - EP 26</title>
     </programme>
     <programme start="20260707020000 +0000" stop="20260707030000 +0000" channel="Suria.mewatch">
         <title>Dendam Seorang Madu - EP 17</title>

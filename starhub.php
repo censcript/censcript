@@ -7789,7 +7789,7 @@
     <programme start="20260707103000 +0000" stop="20260707133000 +0000" channel="Asianet Movies.starhub">
         <title>Nerariyan C.B.I.</title>
     </programme>
-    <programme start="20260707133000 +0000" stop="20260707163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260707133000 +0000" stop="20260707160000 +0000" channel="Asianet Movies.starhub">
         <title>Vaazha</title>
     </programme>
     <programme start="20260706160000 +0000" stop="20260706170000 +0000" channel="Astro Warna HD.starhub">
