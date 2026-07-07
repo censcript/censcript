@@ -2159,13 +2159,13 @@
     <title>Clean &amp; Tidy with Shark</title>
 </programme>
 <programme start="20260707140000 +0000" stop="20260707150000 +0000" channel="QVC.virginmediatv">
-    <title>Garden &amp; DIY Sale</title>
+    <title>Up to 50% Off Garden Offers</title>
 </programme>
 <programme start="20260707150000 +0000" stop="20260707160000 +0000" channel="QVC.virginmediatv">
     <title>Beauty Heroes with ABC</title>
 </programme>
 <programme start="20260707160000 +0000" stop="20260707170000 +0000" channel="QVC.virginmediatv">
-    <title>Diamonique Jewellery</title>
+    <title>Luxury Jewellery</title>
 </programme>
 <programme start="20260707170000 +0000" stop="20260707180000 +0000" channel="QVC.virginmediatv">
     <title>Alpha-H Skincare</title>

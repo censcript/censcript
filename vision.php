@@ -682,6 +682,9 @@
 <programme start="20260706223000 +0000" stop="20260707003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
+<programme start="20260707003000 +0000" stop="20260707023000 +0000" channel="ANTV.vision">
+<title>Prabu Anglingdarma 3</title>
+</programme>
 <programme start="20260707023000 +0000" stop="20260707060000 +0000" channel="ANTV.vision">
 <title>Jeet</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260708020000 +0000" stop="20260708020500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260708020500 +0000" stop="20260708023000 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
 </programme>
