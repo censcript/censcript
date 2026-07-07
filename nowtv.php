@@ -1,6 +1,3 @@
-<programme start="20260707200000 +0000" stop="20260707220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260707220000 +0000" stop="20260708000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -31,9 +28,6 @@
 <programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260707200000 +0000" stop="20260707220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260707220000 +0000" stop="20260708000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -62,9 +56,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260707200000 +0000" stop="20260707220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260707220000 +0000" stop="20260708000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -276,9 +267,6 @@
 </programme>
 <programme start="20260708160000 +0000" stop="20260708181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 16 - Switzerland vs Colombia</title>
-</programme>
-<programme start="20260707200000 +0000" stop="20260707220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Wolverhampton Wanderers vs Arsenal</title>
 </programme>
 <programme start="20260707220000 +0000" stop="20260708000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Bournemouth vs Manchester United</title>

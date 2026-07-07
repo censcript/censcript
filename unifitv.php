@@ -15,44 +15,49 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260707200000 +0000" stop="20260708003000 +0000" channel="fifa1.unifitv">
+  <programme start="20260707200000 +0000" stop="20260708000000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Argentina vs Egypt : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708003000 +0000" stop="20260708010000 +0000" channel="fifa1.unifitv">
+  <programme start="20260708000000 +0000" stop="20260708003000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708010000 +0000" stop="20260708053000 +0000" channel="fifa1.unifitv">
+  <programme start="20260708003000 +0000" stop="20260708043000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Argentina vs Egypt : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708053000 +0000" stop="20260708060000 +0000" channel="fifa1.unifitv">
+  <programme start="20260708043000 +0000" stop="20260708050000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 8 -Philadelphia : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708060000 +0000" stop="20260708100000 +0000" channel="fifa1.unifitv">
+  <programme start="20260708050000 +0000" stop="20260708090000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Argentina vs Egypt : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708100000 +0000" stop="20260708103000 +0000" channel="fifa1.unifitv">
+  <programme start="20260708090000 +0000" stop="20260708093000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 6 - Los Angeles : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708103000 +0000" stop="20260708150000 +0000" channel="fifa1.unifitv">
+  <programme start="20260708093000 +0000" stop="20260708130000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Portugal vs Spain : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 3:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708150000 +0000" stop="20260709053000 +0000" channel="fifa1.unifitv">
+  <programme start="20260708130000 +0000" stop="20260708133000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 7 -Kansas City : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260708133000 +0000" stop="20260708170000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="fifa2.unifitv">
