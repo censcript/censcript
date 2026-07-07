@@ -2075,7 +2075,7 @@
     <title>iSeleb</title>
 </programme>
 <programme start="20260707110000 +0000" stop="20260707113000 +0000" channel="Celebrities TV.mncvision">
-    <title>Silet</title>
+    <title>Go Spot</title>
 </programme>
 <programme start="20260707113000 +0000" stop="20260707120000 +0000" channel="Celebrities TV.mncvision">
     <title>Seleb On News</title>
@@ -2090,7 +2090,7 @@
     <title>Jakarta Socialite</title>
 </programme>
 <programme start="20260707143000 +0000" stop="20260707150000 +0000" channel="Celebrities TV.mncvision">
-    <title>Silet</title>
+    <title>Go Spot</title>
 </programme>
 <programme start="20260707150000 +0000" stop="20260707153000 +0000" channel="Celebrities TV.mncvision">
     <title>iSeleb</title>
@@ -2327,70 +2327,70 @@
     <title>CGTN Documentary</title>
 </programme>
 <programme start="20260707020000 +0000" stop="20260707030000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Potala Palace, Ep 5</title>
 </programme>
 <programme start="20260707030000 +0000" stop="20260707033000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>60 Glorious Years: Poems, Ep 6</title>
 </programme>
 <programme start="20260707033000 +0000" stop="20260707040000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>My Coach Newton, Ep 5</title>
 </programme>
 <programme start="20260707040000 +0000" stop="20260707050000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Where Mighty Rivers Begin, Ep 5</title>
 </programme>
 <programme start="20260707050000 +0000" stop="20260707053000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Beneath The Sails, Ep 3</title>
 </programme>
 <programme start="20260707053000 +0000" stop="20260707060000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Timeless Ancient..., Ep 6</title>
 </programme>
 <programme start="20260707060000 +0000" stop="20260707070000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>History Speaks, Ep 2</title>
 </programme>
 <programme start="20260707070000 +0000" stop="20260707073000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Choice Of Gen Z S2</title>
 </programme>
 <programme start="20260707073000 +0000" stop="20260707080000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>A Road Of Prosperity, Ep 2</title>
 </programme>
 <programme start="20260707080000 +0000" stop="20260707090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Potala Palace, Ep 5</title>
 </programme>
 <programme start="20260707090000 +0000" stop="20260707093000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>60 Glorious Years: Poems, Ep 6</title>
 </programme>
 <programme start="20260707093000 +0000" stop="20260707100000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>My Coach Newton, Ep 5</title>
 </programme>
 <programme start="20260707100000 +0000" stop="20260707110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Where Mighty Rivers Begin, Ep 5</title>
 </programme>
 <programme start="20260707110000 +0000" stop="20260707113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Beneath The Sails, Ep 3</title>
 </programme>
 <programme start="20260707113000 +0000" stop="20260707120000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Timeless Ancient..., Ep 6</title>
 </programme>
 <programme start="20260707120000 +0000" stop="20260707130000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>History Speaks, Ep 2</title>
 </programme>
 <programme start="20260707130000 +0000" stop="20260707133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Choice Of Gen Z S2</title>
 </programme>
 <programme start="20260707133000 +0000" stop="20260707140000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>A Road Of Prosperity, Ep 2</title>
 </programme>
 <programme start="20260707140000 +0000" stop="20260707150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Potala Palace, Ep 5</title>
 </programme>
 <programme start="20260707150000 +0000" stop="20260707153000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>60 Glorious Years: Poems, Ep 6</title>
 </programme>
 <programme start="20260707153000 +0000" stop="20260707160000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>My Coach Newton, Ep 5</title>
 </programme>
 <programme start="20260707160000 +0000" stop="20260707163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Where Mighty Rivers Begin, Ep 5</title>
 </programme>
 <programme start="20260706170000 +0000" stop="20260706180000 +0000" channel="Channel News Asia.mncvision">
     <title>Singapore Hour</title>
