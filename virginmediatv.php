@@ -3751,7 +3751,10 @@
 <programme start="20260707020000 +0000" stop="20260707043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: WNBA Basketball - Seattle Storm at Los Angeles Sparks</title>
 </programme>
-<programme start="20260707043000 +0000" stop="20260707060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260707043000 +0000" stop="20260707050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260707050000 +0000" stop="20260707060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260707120000 +0000" stop="20260707130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4597,7 +4600,10 @@
 <programme start="20260707020000 +0000" stop="20260707043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: WNBA Basketball - Seattle Storm at Los Angeles Sparks</title>
 </programme>
-<programme start="20260707043000 +0000" stop="20260707060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260707043000 +0000" stop="20260707050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260707050000 +0000" stop="20260707060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260707120000 +0000" stop="20260707130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">

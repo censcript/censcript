@@ -222,7 +222,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260707130000 +0000" stop="20260707133000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>

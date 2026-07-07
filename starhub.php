@@ -6119,7 +6119,7 @@
         <title>Drop</title>
     </programme>
     <programme start="20260707140000 +0000" stop="20260707150000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 3</title>
+        <title>Rhaenyra Triumphant</title>
     </programme>
     <programme start="20260707150000 +0000" stop="20260707171500 +0000" channel="HBO Signature HD.starhub">
         <title>Shutter Island</title>
