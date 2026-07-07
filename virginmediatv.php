@@ -121,7 +121,7 @@
 <programme start="20260707150000 +0000" stop="20260707153000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Up All Night</title>
 </programme>
-<programme start="20260707153000 +0000" stop="20260707183000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260707153000 +0000" stop="20260707183500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Live: FIFA World Cup 2026 - Round of 16: Argentina v Egypt</title>
 </programme>
 <programme start="20260706235500 +0000" stop="20260707004500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -2347,14 +2347,14 @@
 <programme start="20260707053000 +0000" stop="20260707060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20260707120000 +0000" stop="20260707130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
-</programme>
-<programme start="20260707130000 +0000" stop="20260707133000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260707120000 +0000" stop="20260707123000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20260707133000 +0000" stop="20260707134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
+<programme start="20260707123000 +0000" stop="20260707130000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260707130000 +0000" stop="20260707134500 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News Now</title>
 </programme>
 <programme start="20260707134500 +0000" stop="20260707140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
@@ -2503,20 +2503,26 @@
 <programme start="20260707120000 +0000" stop="20260707121500 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260707121500 +0000" stop="20260707123000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707121500 +0000" stop="20260707122900 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260707123000 +0000" stop="20260707130000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707122900 +0000" stop="20260707124600 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260707130000 +0000" stop="20260707131500 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707124600 +0000" stop="20260707130000 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
+</programme>
+<programme start="20260707130000 +0000" stop="20260707131400 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260707131500 +0000" stop="20260707133000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707131400 +0000" stop="20260707132900 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260707133000 +0000" stop="20260707140000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707132900 +0000" stop="20260707134600 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
+</programme>
+<programme start="20260707134600 +0000" stop="20260707140000 +0000" channel="Euronews.virginmediatv">
+    <title>East West Connect</title>
 </programme>
 <programme start="20260707140000 +0000" stop="20260707141500 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
@@ -2524,26 +2530,35 @@
 <programme start="20260707141500 +0000" stop="20260707143000 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260707143000 +0000" stop="20260707150000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707143000 +0000" stop="20260707144600 +0000" channel="Euronews.virginmediatv">
     <title>Euronews Now</title>
 </programme>
-<programme start="20260707150000 +0000" stop="20260707151800 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707144600 +0000" stop="20260707150000 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
+</programme>
+<programme start="20260707150000 +0000" stop="20260707151400 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260707151800 +0000" stop="20260707153000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707151400 +0000" stop="20260707152900 +0000" channel="Euronews.virginmediatv">
+    <title>The European debrief</title>
+</programme>
+<programme start="20260707152900 +0000" stop="20260707154600 +0000" channel="Euronews.virginmediatv">
+    <title>The European debrief</title>
+</programme>
+<programme start="20260707154600 +0000" stop="20260707160000 +0000" channel="Euronews.virginmediatv">
     <title>News</title>
-</programme>
-<programme start="20260707153000 +0000" stop="20260707160000 +0000" channel="Euronews.virginmediatv">
-    <title>The European debrief</title>
 </programme>
 <programme start="20260707160000 +0000" stop="20260707161500 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260707161500 +0000" stop="20260707163000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707161500 +0000" stop="20260707162900 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
 </programme>
-<programme start="20260707163000 +0000" stop="20260707170000 +0000" channel="Euronews.virginmediatv">
+<programme start="20260707162900 +0000" stop="20260707164600 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
+</programme>
+<programme start="20260707164600 +0000" stop="20260707170000 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
 </programme>
 <programme start="20260707170000 +0000" stop="20260707171500 +0000" channel="Euronews.virginmediatv">
     <title>The European debrief</title>
@@ -4402,14 +4417,8 @@
 <programme start="20260707050000 +0000" stop="20260707060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Tour de France Cycling - Stage 3</title>
 </programme>
-<programme start="20260707110000 +0000" stop="20260707160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260707110000 +0000" stop="20260707163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Tour de France - Stage 4</title>
-</programme>
-<programme start="20260707160000 +0000" stop="20260707161500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>The Gruppetto</title>
-</programme>
-<programme start="20260707161500 +0000" stop="20260707163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>British Superbikes Rewind - Round 4: Snetterton 300</title>
 </programme>
 <programme start="20260707163000 +0000" stop="20260707170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>FIA European Rally Championship Highlights - Rally di Roma Capitale</title>
@@ -5152,14 +5161,8 @@
 <programme start="20260707050000 +0000" stop="20260707060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Tour de France Cycling - Stage 3</title>
 </programme>
-<programme start="20260707110000 +0000" stop="20260707160000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260707110000 +0000" stop="20260707163000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Tour de France - Stage 4</title>
-</programme>
-<programme start="20260707160000 +0000" stop="20260707161500 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>The Gruppetto</title>
-</programme>
-<programme start="20260707161500 +0000" stop="20260707163000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>British Superbikes Rewind - Round 4: Snetterton 300</title>
 </programme>
 <programme start="20260707163000 +0000" stop="20260707170000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>FIA European Rally Championship Highlights - Rally di Roma Capitale</title>
@@ -6340,7 +6343,10 @@
 <programme start="20260706175800 +0000" stop="20260707015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260707015800 +0000" stop="20260707060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260707015800 +0000" stop="20260707050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260707050000 +0000" stop="20260707060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260707115500 +0000" stop="20260707120500 +0000" channel="CBBC.virginmediatv">

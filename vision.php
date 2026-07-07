@@ -691,9 +691,6 @@
 <programme start="20260707090000 +0000" stop="20260707110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260707163000 +0000" stop="20260707183000 +0000" channel="ANTV.vision">
-<title>Reincarnation Of Golden Lotus</title>
-</programme>
 <programme start="20260707183000 +0000" stop="20260707210000 +0000" channel="ANTV.vision">
 <title>Zulmi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260708033000 +0000" stop="20260708040000 +0000" channel="BTV.vision">
 <title>Indonesia Update Dari Nol</title>
+</programme>
+<programme start="20260708040000 +0000" stop="20260708050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
