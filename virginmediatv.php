@@ -127,10 +127,10 @@
 <programme start="20260706235500 +0000" stop="20260707004500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Love Island</title>
 </programme>
-<programme start="20260707004500 +0000" stop="20260707010700 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260707004500 +0000" stop="20260707010900 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Jann - Hall Pass or Fail</title>
 </programme>
-<programme start="20260707010700 +0000" stop="20260707061000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260707010900 +0000" stop="20260707061000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260707120000 +0000" stop="20260707123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
