@@ -676,9 +676,6 @@
 <programme start="20260708090000 +0000" stop="20260708110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260708183000 +0000" stop="20260708210000 +0000" channel="ANTV.vision">
-<title>Race</title>
-</programme>
 <programme start="20260708210000 +0000" stop="20260708213000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260709080000 +0000" stop="20260709083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260709083000 +0000" stop="20260709090000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
 </programme>
