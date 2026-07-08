@@ -676,6 +676,12 @@
 <programme start="20260708090000 +0000" stop="20260708110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
+<programme start="20260708110000 +0000" stop="20260708130000 +0000" channel="ANTV.vision">
+<title>Menjelang Ajal</title>
+</programme>
+<programme start="20260708130000 +0000" stop="20260708143000 +0000" channel="ANTV.vision">
+<title>Nyi Blorong</title>
+</programme>
 <programme start="20260708143000 +0000" stop="20260708163000 +0000" channel="ANTV.vision">
 <title>Malaikat Bayangan</title>
 </programme>
@@ -855,6 +861,9 @@
 </programme>
 <programme start="20260708110000 +0000" stop="20260708130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260708130000 +0000" stop="20260708140000 +0000" channel="TVOne.vision">
+<title>Indonesia Bussines Forum</title>
 </programme>
 <programme start="20260708140000 +0000" stop="20260708150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260709050500 +0000" stop="20260709053000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
-</programme>
-<programme start="20260709053000 +0000" stop="20260709063000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
-</programme>
-<programme start="20260709063000 +0000" stop="20260709070000 +0000" channel="BTV.vision">
-<title>Jendela Nusantara: Jawa Barat</title>
-</programme>
-<programme start="20260709070000 +0000" stop="20260709073000 +0000" channel="BTV.vision">
-<title>Anak Hebat</title>
 </programme>
