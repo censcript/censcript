@@ -13231,7 +13231,7 @@
   </programme>
   <programme start="20260707193300 +0000" stop="20260707200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Caught between growing competition and trade tensions, can Europe remain competitive?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.43.</episode-num>
     <episode-num system="onscreen">S1E44</episode-num>
@@ -13242,9 +13242,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260707203300 +0000" stop="20260707210300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera Untangles</title>
-    <desc lang="en">How Darfur's atrocities grew from land conflict, state neglect, racist ideology and militias into what many actors and courts have called genocide.</desc>
+    <title lang="en">UpFront</title>
+    <desc lang="en">Marc Lamont Hill and Kimberle Crenshaw discuss the blind spots in US history on the country's 250th anniversary.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20260707210300 +0000" stop="20260707220300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
@@ -13300,7 +13302,7 @@
   </programme>
   <programme start="20260708043300 +0000" stop="20260708050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">U.S. Congressman Jim McGovern (Democratic Party) on the fight for the future of his party, and its prospects in challenging the Republican Party in November.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.26.</episode-num>
     <episode-num system="onscreen">S1E27</episode-num>
@@ -13324,7 +13326,7 @@
   </programme>
   <programme start="20260708063300 +0000" stop="20260708070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Caught between growing competition and trade tensions, can Europe remain competitive?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.43.</episode-num>
     <episode-num system="onscreen">S1E44</episode-num>
@@ -13350,7 +13352,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260708093300 +0000" stop="20260708100300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Apocalypse Maybe : OK, Doomer!</title>
+    <title lang="en">Apocalypse Maybe</title>
     <desc lang="en">How are our increasingly web-connected lives are impacted by the on-line hopes and fears of our planet's future.</desc>
     <category lang="en">News</category>
   </programme>
@@ -13387,11 +13389,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260708143300 +0000" stop="20260708150300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <title lang="en">The Listening Post</title>
+    <desc lang="en">The online campaign stoking South Africa's latest xenophobic backlash. Plus, will social media bans really save the kids?</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.44.</episode-num>
-    <episode-num system="onscreen">S1E45</episode-num>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <episode-num system="onscreen">S1E27</episode-num>
   </programme>
   <programme start="20260708150300 +0000" stop="20260708160300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>

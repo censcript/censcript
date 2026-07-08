@@ -673,12 +673,6 @@
 <programme start="20260707223000 +0000" stop="20260708003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260708003000 +0000" stop="20260708023000 +0000" channel="ANTV.vision">
-<title>Pedang Naga Wulung</title>
-</programme>
-<programme start="20260708023000 +0000" stop="20260708060000 +0000" channel="ANTV.vision">
-<title>Duplicate</title>
-</programme>
 <programme start="20260708060000 +0000" stop="20260708073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260709030000 +0000" stop="20260709033000 +0000" channel="BTV.vision">
 <title>Vacation List</title>
+</programme>
+<programme start="20260709033000 +0000" stop="20260709040000 +0000" channel="BTV.vision">
+<title>Indonesia Update Ototekno</title>
+</programme>
+<programme start="20260709040000 +0000" stop="20260709050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>

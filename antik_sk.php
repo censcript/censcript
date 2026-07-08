@@ -3592,7 +3592,7 @@
   <programme start="20260710040700 +0000" stop="20260710041500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Jogínci sportují</title>
   </programme>
-  <programme start="20260710041800 +0000" stop="20260710043100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260710041800 +0000" stop="20260710043000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">O myšce a medvědovi II</title>
   </programme>
   <programme start="20260710043100 +0000" stop="20260710044000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -9088,8 +9088,11 @@
   <programme start="20260710040000 +0000" stop="20260710054500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Hořko-sladko</title>
   </programme>
-  <programme start="20260710054500 +0000" stop="20260710084000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20260710054500 +0000" stop="20260710070500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Spůner</title>
+  </programme>
+  <programme start="20260710070500 +0000" stop="20260710084000 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Hospodu vám nedáme</title>
   </programme>
   <programme start="20260710084000 +0000" stop="20260710101000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Regina</title>
@@ -10619,7 +10622,7 @@
     <title lang="id">Jelení skvadra III (3)</title>
   </programme>
   <programme start="20260710001000 +0000" stop="20260710003500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Maličké království Bena a Holly I (25)</title>
+    <title lang="id">Maličké království Bena a Holly I (1)</title>
   </programme>
   <programme start="20260710003500 +0000" stop="20260710005500 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Tim Rex ve vesmíru II (8)</title>
@@ -17617,7 +17620,7 @@
   <programme start="20260710213000 +0000" stop="20260710215800 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Design X Stories</title>
   </programme>
-  <programme start="20260710215800 +0000" stop="20260711005800 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260710215800 +0000" stop="20260710220000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260709220000 +0000" stop="20260709223000 +0000" channel="Arirang TV.webtv.sk">
