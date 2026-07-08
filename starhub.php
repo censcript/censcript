@@ -656,7 +656,7 @@
         <title>Gutfeld!</title>
     </programme>
     <programme start="20260708080000 +0000" stop="20260708090000 +0000" channel="Fox News Channel.starhub">
-        <title>The Ingraham Angle</title>
+        <title>Fox &amp; Friends First</title>
     </programme>
     <programme start="20260708090000 +0000" stop="20260708100000 +0000" channel="Fox News Channel.starhub">
         <title>Fox &amp; Friends First</title>
@@ -3041,7 +3041,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20260707233000 +0000" stop="20260708000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Could algae make medical testing cruelty-free?</title>
     </programme>
     <programme start="20260708000000 +0000" stop="20260708000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3050,7 +3050,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260708003000 +0000" stop="20260708010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Under pressure: how education, industry and lives are being reshaped</title>
     </programme>
     <programme start="20260708010000 +0000" stop="20260708010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3068,7 +3068,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260708023000 +0000" stop="20260708030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Could algae make medical testing cruelty-free?</title>
     </programme>
     <programme start="20260708030000 +0000" stop="20260708030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3077,7 +3077,7 @@
         <title>News</title>
     </programme>
     <programme start="20260708031500 +0000" stop="20260708033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Urban heat crisis: UN‑Habitat chief calls for radical rethink</title>
     </programme>
     <programme start="20260708033000 +0000" stop="20260708040000 +0000" channel="DW English HD.starhub">
         <title>Dirty gold: Nigeria&#039;s toxic water threat</title>
@@ -3098,7 +3098,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260708053000 +0000" stop="20260708060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Under pressure: how education, industry and lives are being reshaped</title>
     </programme>
     <programme start="20260708060000 +0000" stop="20260708060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3107,7 +3107,7 @@
         <title>News</title>
     </programme>
     <programme start="20260708061500 +0000" stop="20260708063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Urban heat crisis: UN‑Habitat chief calls for radical rethink</title>
     </programme>
     <programme start="20260708063000 +0000" stop="20260708070000 +0000" channel="DW English HD.starhub">
         <title>How longevity begins with prevention</title>
@@ -3119,7 +3119,7 @@
         <title>News</title>
     </programme>
     <programme start="20260708071500 +0000" stop="20260708074500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Illegal Dolphin Hunting</title>
     </programme>
     <programme start="20260708074500 +0000" stop="20260708080000 +0000" channel="DW English HD.starhub">
         <title>Virtual people: Why you can’t always trust what you see</title>
@@ -3146,7 +3146,7 @@
         <title>News</title>
     </programme>
     <programme start="20260708101500 +0000" stop="20260708104500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Illegal Dolphin Hunting</title>
     </programme>
     <programme start="20260708104500 +0000" stop="20260708110000 +0000" channel="DW English HD.starhub">
         <title>Virtual people: Why you can’t always trust what you see</title>
@@ -3158,7 +3158,7 @@
         <title>The Sacred Cows of the Mafia</title>
     </programme>
     <programme start="20260708113000 +0000" stop="20260708120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Under pressure: how education, industry and lives are being reshaped</title>
     </programme>
     <programme start="20260708120000 +0000" stop="20260708120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3176,7 +3176,7 @@
         <title>News</title>
     </programme>
     <programme start="20260708131500 +0000" stop="20260708133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Poland on NATO&#039;s frontline: Can it stop Russia without the US?</title>
     </programme>
     <programme start="20260708133000 +0000" stop="20260708140000 +0000" channel="DW English HD.starhub">
         <title>Dirty gold: Nigeria&#039;s toxic water threat</title>

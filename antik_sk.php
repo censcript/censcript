@@ -433,13 +433,13 @@
   <programme start="20260710043000 +0000" stop="20260710044000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Momenty MS 2026</title>
   </programme>
-  <programme start="20260710044000 +0000" stop="20260710063500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260710044000 +0000" stop="20260710063000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Predkolá LM / EL / KL 2026</title>
   </programme>
-  <programme start="20260710063500 +0000" stop="20260710083500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260710063000 +0000" stop="20260710083000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20260710083500 +0000" stop="20260710100500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260710083000 +0000" stop="20260710100500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Cyklistika - Tour de France 2026 - Tour de France 2026 (6. etapa): Pau - Gavarnie-Gedre (186 km)</title>
   </programme>
   <programme start="20260710100500 +0000" stop="20260710102000 +0000" channel=":Šport.webtv.sk">
@@ -601,17 +601,17 @@
   <programme start="20260710085500 +0000" stop="20260710100000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Súdna sieň</title>
   </programme>
-  <programme start="20260710100000 +0000" stop="20260710103000 +0000" channel="JOJ.webtv.sk">
+  <programme start="20260710100000 +0000" stop="20260710103500 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Noviny o 12:00</title>
   </programme>
-  <programme start="20260710103000 +0000" stop="20260710113000 +0000" channel="JOJ.webtv.sk">
+  <programme start="20260710103500 +0000" stop="20260710120000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Hranica II (44)</title>
+  </programme>
+  <programme start="20260710120000 +0000" stop="20260710130000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Hawaii 5.0 I (19)</title>
   </programme>
-  <programme start="20260710113000 +0000" stop="20260710123000 +0000" channel="JOJ.webtv.sk">
+  <programme start="20260710130000 +0000" stop="20260710140000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Hawaii 5.0 I (20)</title>
-  </programme>
-  <programme start="20260710123000 +0000" stop="20260710140000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Nákupné maniačky</title>
   </programme>
   <programme start="20260710140000 +0000" stop="20260710151000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Inkognito</title>
@@ -775,17 +775,17 @@
   <programme start="20260710095500 +0000" stop="20260710110000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Súdna sieň</title>
   </programme>
-  <programme start="20260710110000 +0000" stop="20260710113000 +0000" channel="JOJ +1.webtv.sk">
+  <programme start="20260710110000 +0000" stop="20260710113500 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Noviny o 12:00</title>
   </programme>
-  <programme start="20260710113000 +0000" stop="20260710123000 +0000" channel="JOJ +1.webtv.sk">
+  <programme start="20260710113500 +0000" stop="20260710130000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Hranica II (44)</title>
+  </programme>
+  <programme start="20260710130000 +0000" stop="20260710140000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Hawaii 5.0 I (19)</title>
   </programme>
-  <programme start="20260710123000 +0000" stop="20260710133000 +0000" channel="JOJ +1.webtv.sk">
+  <programme start="20260710140000 +0000" stop="20260710150000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Hawaii 5.0 I (20)</title>
-  </programme>
-  <programme start="20260710133000 +0000" stop="20260710150000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Nákupné maniačky</title>
   </programme>
   <programme start="20260710150000 +0000" stop="20260710161000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Inkognito</title>
@@ -1240,8 +1240,8 @@
   <programme start="20260710200500 +0000" stop="20260710220500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Profesionál</title>
   </programme>
-  <programme start="20260709201000 +0000" stop="20260709230000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">MS 2026 vo futbale</title>
+  <programme start="20260709201500 +0000" stop="20260709230000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Basketbal Reprezentácia muži</title>
   </programme>
   <programme start="20260709230000 +0000" stop="20260710010500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
@@ -1249,29 +1249,32 @@
   <programme start="20260710010500 +0000" stop="20260710032500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260710032500 +0000" stop="20260710053000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260710032500 +0000" stop="20260710053500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Okolo Švajčiarska</title>
   </programme>
-  <programme start="20260710053000 +0000" stop="20260710070000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260710053500 +0000" stop="20260710070000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20260710070000 +0000" stop="20260710074000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260710070000 +0000" stop="20260710072500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260710074000 +0000" stop="20260710094500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260710072500 +0000" stop="20260710100000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal Reprezentácia muži</title>
   </programme>
-  <programme start="20260710094500 +0000" stop="20260710124000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Atletika - Diamantová liga</title>
-  </programme>
-  <programme start="20260710124000 +0000" stop="20260710130000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260710100000 +0000" stop="20260710130000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260710130000 +0000" stop="20260710151500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260710130000 +0000" stop="20260710140000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Tretí polčas</title>
   </programme>
-  <programme start="20260710151500 +0000" stop="20260710181500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260710140000 +0000" stop="20260710143000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Sumár dňa MS 2026 vo futbale</title>
+  </programme>
+  <programme start="20260710143000 +0000" stop="20260710173000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
+  </programme>
+  <programme start="20260710173000 +0000" stop="20260710181500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Tretí polčas</title>
   </programme>
   <programme start="20260710181500 +0000" stop="20260710185000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Štúdio MS 2026 vo futbale</title>
@@ -1279,10 +1282,10 @@
   <programme start="20260710185000 +0000" stop="20260710223500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260709212500 +0000" stop="20260710002000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260709204500 +0000" stop="20260709233500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260710002000 +0000" stop="20260710035000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260709233500 +0000" stop="20260710035000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260710035000 +0000" stop="20260710044000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1297,31 +1300,28 @@
   <programme start="20260710074000 +0000" stop="20260710094500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260710094500 +0000" stop="20260710101000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710094500 +0000" stop="20260710101500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260710101000 +0000" stop="20260710125000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710101500 +0000" stop="20260710125000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260710125000 +0000" stop="20260710153500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710125000 +0000" stop="20260710154000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Európska liga muži</title>
   </programme>
-  <programme start="20260710153500 +0000" stop="20260710160000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Sumár dňa MS 2026 vo futbale</title>
-  </programme>
-  <programme start="20260710160000 +0000" stop="20260710162500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710154000 +0000" stop="20260710155500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">JOJŠPORT štúdio</title>
   </programme>
-  <programme start="20260710162500 +0000" stop="20260710190000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710155500 +0000" stop="20260710180000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">U20 Eurobasket Divízia B</title>
   </programme>
-  <programme start="20260710190000 +0000" stop="20260710212500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710180000 +0000" stop="20260710210500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260710212500 +0000" stop="20260710215000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710210500 +0000" stop="20260710214000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260710215000 +0000" stop="20260711005000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710214000 +0000" stop="20260711004000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal Reprezentácia muži</title>
   </programme>
   <programme start="20260709215500 +0000" stop="20260709231000 +0000" channel="WAU.webtv.sk">
@@ -6584,121 +6584,130 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260709223000 +0000" stop="20260709230000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá MUDr. Miloš bubán</title>
+    <title lang="id">Kelo a tzatziki s Kuracím špízom + kľuky medzi stoličkami</title>
   </programme>
   <programme start="20260709230000 +0000" stop="20260709233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Na začiatku bolo ochorenie obličiek</title>
+    <title lang="id">Bariatrická chirurgia</title>
   </programme>
   <programme start="20260709233000 +0000" stop="20260710000000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Seuxálne zdravie onkologických pacientov</title>
+    <title lang="id">Algeziológ a liečba bolestí</title>
   </programme>
-  <programme start="20260710000000 +0000" stop="20260710010000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cestovanie ideálne bez traumy</title>
+  <programme start="20260710000000 +0000" stop="20260710003000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Probiotká a prebiotiká</title>
+  </programme>
+  <programme start="20260710003000 +0000" stop="20260710010000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Čo človek zažije, to mu nikto nikdy nezoberie</title>
   </programme>
   <programme start="20260710010000 +0000" stop="20260710015000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Artróza (osteoporóza)</title>
+    <title lang="id">Demencia</title>
   </programme>
   <programme start="20260710015000 +0000" stop="20260710020000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+    <title lang="id">Konvičkovanie</title>
   </programme>
   <programme start="20260710020000 +0000" stop="20260710023000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260710023000 +0000" stop="20260710030000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Postupy pri tráviacich ťažkostiach a vhodné diéty</title>
+    <title lang="id">Poskytovanie zdravotnej starostlivosti nelicencovanými pracovníkmi</title>
   </programme>
   <programme start="20260710030000 +0000" stop="20260710033000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako pripraviť dieťa na príchod na súrodenca</title>
+    <title lang="id">Pôrod - všetko, čo by mala vedieť každá budúca mamička</title>
   </programme>
   <programme start="20260710033000 +0000" stop="20260710040000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ochorenia semenníkov - varikokéla</title>
+    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
   </programme>
-  <programme start="20260710040000 +0000" stop="20260710050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Iza: ako využívame zdravotnícke dáta a analýzy na zlepšenie starostlivosti o pacientov</title>
+  <programme start="20260710040000 +0000" stop="20260710043000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">O menopauze s MUDr. Emíliou mojtovou, phd. o probléme so štítnou žľazou</title>
+  </programme>
+  <programme start="20260710043000 +0000" stop="20260710050000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Topenie</title>
   </programme>
   <programme start="20260710050000 +0000" stop="20260710060000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Tresty za vysvedčenia: cesta do pekla?</title>
+    <title lang="id">Depresia</title>
   </programme>
   <programme start="20260710060000 +0000" stop="20260710063000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260710063000 +0000" stop="20260710070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Poskytovanie zdravotnej starostlivosti nelicencovanými pracovníkmi</title>
+    <title lang="id">Špecifiká výživy v období menopauzy</title>
   </programme>
   <programme start="20260710070000 +0000" stop="20260710073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Pôrod - všetko, čo by mala vedieť každá budúca mamička</title>
+    <title lang="id">Začínajúca agresivita u detí</title>
   </programme>
   <programme start="20260710073000 +0000" stop="20260710080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
+    <title lang="id">Rhinoplastika - plastická operácia nosa</title>
   </programme>
-  <programme start="20260710080000 +0000" stop="20260710083000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze s MUDr. Emíliou mojtovou, phd. o probléme so štítnou žľazou</title>
-  </programme>
-  <programme start="20260710083000 +0000" stop="20260710090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Topenie</title>
+  <programme start="20260710080000 +0000" stop="20260710090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Kybernetická bezpečnosť v zdravotníctve 1.</title>
   </programme>
   <programme start="20260710090000 +0000" stop="20260710100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Depresia</title>
+    <title lang="id">Radikalizácia mládeže: budú pribúdať tragédie a teroristické činy?</title>
   </programme>
   <programme start="20260710100000 +0000" stop="20260710103000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260710103000 +0000" stop="20260710110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá MUDr. Miloš bubán</title>
+    <title lang="id">Kelo a tzatziki s Kuracím špízom + kľuky medzi stoličkami</title>
   </programme>
   <programme start="20260710110000 +0000" stop="20260710113000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Na začiatku bolo ochorenie obličiek</title>
+    <title lang="id">Bariatrická chirurgia</title>
   </programme>
   <programme start="20260710113000 +0000" stop="20260710120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Seuxálne zdravie onkologických pacientov</title>
+    <title lang="id">Algeziológ a liečba bolestí</title>
   </programme>
-  <programme start="20260710120000 +0000" stop="20260710130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cestovanie ideálne bez traumy</title>
+  <programme start="20260710120000 +0000" stop="20260710123000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Probiotká a prebiotiká</title>
+  </programme>
+  <programme start="20260710123000 +0000" stop="20260710130000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Čo človek zažije, to mu nikto nikdy nezoberie</title>
   </programme>
   <programme start="20260710130000 +0000" stop="20260710135000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Artróza (osteoporóza)</title>
+    <title lang="id">Demencia</title>
   </programme>
   <programme start="20260710135000 +0000" stop="20260710140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+    <title lang="id">Konvičkovanie</title>
   </programme>
   <programme start="20260710140000 +0000" stop="20260710143000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260710143000 +0000" stop="20260710150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Špecifiká výživy v období menopauzy</title>
+    <title lang="id">Bezpečnosť liekov v tehotenstve alebo pri dojčení</title>
   </programme>
   <programme start="20260710150000 +0000" stop="20260710153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Začínajúca agresivita u detí</title>
+    <title lang="id">Strojček na zuby</title>
   </programme>
-  <programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Rhinoplastika - plastická operácia nosa</title>
+  <programme start="20260710153000 +0000" stop="20260710163000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ty nepiješ?</title>
   </programme>
-  <programme start="20260710160000 +0000" stop="20260710170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kybernetická bezpečnosť v zdravotníctve 1.</title>
+  <programme start="20260710163000 +0000" stop="20260710170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Odpovedá prof. MUDr. Milan kokavec, phd., mph</title>
   </programme>
-  <programme start="20260710170000 +0000" stop="20260710180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Radikalizácia mládeže: budú pribúdať tragédie a teroristické činy?</title>
+  <programme start="20260710170000 +0000" stop="20260710173000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">V zdravom tele zdravý duch</title>
+  </programme>
+  <programme start="20260710173000 +0000" stop="20260710180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Mikrobióm a poruchy autistického spektra</title>
   </programme>
   <programme start="20260710180000 +0000" stop="20260710183000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260710183000 +0000" stop="20260710190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zmeny v úhradách liekov na výnimky</title>
+    <title lang="id">Poskytovanie zdravotnej starostlivosti nelicencovanými pracovníkmi</title>
   </programme>
   <programme start="20260710190000 +0000" stop="20260710193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Posledné dni pred dňom d</title>
+    <title lang="id">Pôrod - všetko, čo by mala vedieť každá budúca mamička</title>
   </programme>
   <programme start="20260710193000 +0000" stop="20260710200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Metabolizmus</title>
+    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
   </programme>
   <programme start="20260710200000 +0000" stop="20260710203000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze s MUDr. Soňou belanskou o mentálnych prejavoch menopauzy</title>
+    <title lang="id">O menopauze s MUDr. Emíliou mojtovou, phd. o probléme so štítnou žľazou</title>
   </programme>
   <programme start="20260710203000 +0000" stop="20260710210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Športovanie a bezpečnosť na ceste</title>
+    <title lang="id">Topenie</title>
   </programme>
   <programme start="20260710210000 +0000" stop="20260710220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Láska</title>
+    <title lang="id">Depresia</title>
   </programme>
   <programme start="20260709220000 +0000" stop="20260709230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>

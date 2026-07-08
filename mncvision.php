@@ -164,7 +164,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260708083000 +0000" stop="20260708090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera Untangles</title>
+    <title>Reframe: Silvia Fernandez</title>
 </programme>
 <programme start="20260708090000 +0000" stop="20260708093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -3053,7 +3053,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260708031500 +0000" stop="20260708033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Interview: Urban Heat Crisis</title>
 </programme>
 <programme start="20260708033000 +0000" stop="20260708040000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: Dirty Gold</title>
@@ -3074,7 +3074,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20260708053000 +0000" stop="20260708060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Pressure</title>
 </programme>
 <programme start="20260708060000 +0000" stop="20260708060200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3083,7 +3083,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260708061500 +0000" stop="20260708063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Interview: Urban Heat Crisis</title>
 </programme>
 <programme start="20260708063000 +0000" stop="20260708070000 +0000" channel="DW English.mncvision">
     <title>In Good Shape: The Health Show</title>
@@ -3095,7 +3095,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260708071500 +0000" stop="20260708074500 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Illegal Hunting</title>
 </programme>
 <programme start="20260708074500 +0000" stop="20260708080000 +0000" channel="DW English.mncvision">
     <title>Shift: Virtual People</title>
@@ -3689,7 +3689,7 @@
     <title>Gutfeld!</title>
 </programme>
 <programme start="20260708080000 +0000" stop="20260708090000 +0000" channel="FOX News.mncvision">
-    <title>The Ingraham Angle</title>
+    <title>Fox &amp; Friends First</title>
 </programme>
 <programme start="20260708090000 +0000" stop="20260708100000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>
