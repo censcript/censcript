@@ -133,6 +133,11 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
+  <programme start="20260708150000 +0000" stop="20260708183000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) USA vs Belgium : FIFA World Cup™ 2026 Round of 16</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 1:00 AM</desc>
+    <category lang="en">Sports</category>
+  </programme>
   <channel id="fifa3.unifitv">
     <display-name>Unifi FIFA World Cup 2026™ 3</display-name>
   </channel>
@@ -191,24 +196,24 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708070000 +0000" stop="20260708113000 +0000" channel="fifa3.unifitv">
+  <programme start="20260708070000 +0000" stop="20260708110000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Argentina vs Egypt : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708113000 +0000" stop="20260708120000 +0000" channel="fifa3.unifitv">
+  <programme start="20260708110000 +0000" stop="20260708113000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260708120000 +0000" stop="20260708123000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260708123000 +0000" stop="20260708170000 +0000" channel="fifa3.unifitv">
+  <programme start="20260708113000 +0000" stop="20260708160000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Switzerland vs Colombia : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
@@ -2267,14 +2272,14 @@
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20260707193000 +0000" stop="20260707203000 +0000" channel="tv1.unifitv">
+  <programme start="20260707193000 +0000" stop="20260707200000 +0000" channel="tv1.unifitv">
     <title lang="en">Alergi Mamat Romantik (Ulangan)</title>
     <desc lang="en">Mengisahkan kisah percintaan antara Kaisara dan Arjuna yang penuh kisah tersendiri.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
-  <programme start="20260707203000 +0000" stop="20260707210000 +0000" channel="tv1.unifitv">
+  <programme start="20260707200000 +0000" stop="20260707210000 +0000" channel="tv1.unifitv">
     <title lang="en">Medik - Q</title>
     <desc lang="en">Dr. Fasiha Latiff bersama tetamu undangan membincangkan tentang penyakit, mengenalipasti simptom dan rawatan susulan yang perlu diambil.</desc>
     <category lang="en">Drama</category>
@@ -2334,8 +2339,8 @@
     <title lang="en">Expedition With Steve Backshall</title>
     <desc lang="en">Dokumentari ini memaparkan pengembaraan Steve Backshall meneroka dunia liar, mencabar diri menghadapi cabaran ekstrem dan menguji ketahanan fizikal serta mental di pelbagai lokasi menakjubkan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20260708050000 +0000" stop="20260708053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -7541,26 +7546,26 @@
   <channel id="warnertv.unifitv">
     <display-name>Warner TV HD</display-name>
   </channel>
-  <programme start="20260707154000 +0000" stop="20260707180000 +0000" channel="warnertv.unifitv">
+  <programme start="20260707140000 +0000" stop="20260707163000 +0000" channel="warnertv.unifitv">
+    <title lang="en">King Richard</title>
+    <desc lang="en">Based on the true story of Venus and Serena Williams, this film follows their undeterred father's journey in raising the tennis superstars.</desc>
+    <category lang="en">Biography</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260707163000 +0000" stop="20260707185000 +0000" channel="warnertv.unifitv">
     <title lang="en">Jersey Boys</title>
     <desc lang="en">JERSEY BOYS tells the story of four young men from the wrong side of the tracks in New Jersey who came together to form the legendary 1960s rock group The Four Seasons.</desc>
     <category lang="en">Biography</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707180000 +0000" stop="20260707185000 +0000" channel="warnertv.unifitv">
+  <programme start="20260707185000 +0000" stop="20260707194000 +0000" channel="warnertv.unifitv">
     <title lang="en">Titans</title>
     <desc lang="en">Dick seeks out old friends Hawk and Dove for help.</desc>
     <category lang="en">Comedy</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260707185000 +0000" stop="20260707194000 +0000" channel="warnertv.unifitv">
-    <title lang="en">Smallville</title>
-    <desc lang="en">After Clark rescues Lana from a tornado, he discovers the storm's wrath has somehow powered up his spaceship and deposited it in a cornfield.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
   </programme>
   <programme start="20260707194000 +0000" stop="20260707200500 +0000" channel="warnertv.unifitv">
     <title lang="en">Hack My Life</title>
@@ -7702,12 +7707,19 @@
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <episode-num system="onscreen">S2E2</episode-num>
   </programme>
-  <programme start="20260708045000 +0000" stop="20260708054000 +0000" channel="warnertv.unifitv">
-    <title lang="en">Titans</title>
-    <desc lang="en">Meet the four Titans in the series premiere.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+  <programme start="20260708045000 +0000" stop="20260708051500 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Brooke reveals the Lazy Cook's latest endeavor: homemade microwaved potato chips.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <episode-num system="onscreen">S2E15</episode-num>
+  </programme>
+  <programme start="20260708051500 +0000" stop="20260708054000 +0000" channel="warnertv.unifitv">
+    <title lang="en">Hack My Life</title>
+    <desc lang="en">Brooke and Kevin test hacks for getting free parking, and Kevin finds the best hack for peeling eggs.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <episode-num system="onscreen">S2E16</episode-num>
   </programme>
   <programme start="20260708054000 +0000" stop="20260708060500 +0000" channel="warnertv.unifitv">
     <title lang="en">The Big Bang Theory</title>
@@ -14681,71 +14693,57 @@
     <display-name>DW</display-name>
   </channel>
   <programme start="20260707153300 +0000" stop="20260707160300 +0000" channel="dw.unifitv">
-    <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <title lang="en">Tomorrow Today</title>
+    <desc lang="en">A Swiss company has succeeded in linking 'mini-brains' called organoids with microchips. Is this the first step toward building computers based not on silicon, but on biological material and 'living' neurons?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707160300 +0000" stop="20260707160500 +0000" channel="dw.unifitv">
+  <programme start="20260707160300 +0000" stop="20260707163300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260707160500 +0000" stop="20260707163300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260707163300 +0000" stop="20260707170300 +0000" channel="dw.unifitv">
-    <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <title lang="en">Global Us</title>
+    <desc lang="en">Animals play a key role in many medical tests. Often they suffer and die. Could algae change that? Plus: Singapore's domestic workers become entrepreneurs</desc>
     <category lang="en">Magazine</category>
-    <episode-num system="xmltv_ns">0.2725.</episode-num>
-    <episode-num system="onscreen">S1E2726</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707170300 +0000" stop="20260707170500 +0000" channel="dw.unifitv">
+  <programme start="20260707170300 +0000" stop="20260707171800 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707170500 +0000" stop="20260707171800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260707171800 +0000" stop="20260707180300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">Sexual desire often feels like a spontaneous, almost uncontrollable sensation. A thought, a touch, a voice — and suddenly, the body and mind react. But arousal is less random than many people think!</desc>
+  <programme start="20260707171800 +0000" stop="20260707173300 +0000" channel="dw.unifitv">
+    <title lang="en">Interview</title>
+    <desc lang="en">Up to 8 degrees difference within one city: Anacláudia Rossbach shows how heat drives inequality and why faster political action is needed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707180300 +0000" stop="20260707180500 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
+  <programme start="20260707173300 +0000" stop="20260707180300 +0000" channel="dw.unifitv">
+    <title lang="en">REV</title>
+    <desc lang="en">Ukraine's "Unbreakable Line" remains a vital lifeline, carrying soldiers, families and evacuees despite constant attacks and drone threats. Plus: REV's verdicts on the new Leapmotor B05 and BYD Atto 3 Evo electric cars.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707180500 +0000" stop="20260707183300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
+  <programme start="20260707180300 +0000" stop="20260707183300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260707183300 +0000" stop="20260707190300 +0000" channel="dw.unifitv">
-    <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">Millions depend on the Osun River—but its color reveals a dark secret. Plus: West Africa's water sachets—how waste can work for you. And how to save money on period products.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14765,37 +14763,30 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260707191800 +0000" stop="20260707193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Interview</title>
+    <desc lang="en">Up to 8 degrees difference within one city: Anacláudia Rossbach shows how heat drives inequality and why faster political action is needed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260707193300 +0000" stop="20260707200300 +0000" channel="dw.unifitv">
-    <title lang="en">Eco Africa</title>
-    <desc lang="en">Millions depend on the Osun River—but its color reveals a dark secret. Plus: West Africa's water sachets—how waste can work for you. And how to save money on period products.</desc>
+    <title lang="en">Tomorrow Today</title>
+    <desc lang="en">A Swiss company has succeeded in linking 'mini-brains' called organoids with microchips. Is this the first step toward building computers based not on silicon, but on biological material and 'living' neurons?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707200300 +0000" stop="20260707200500 +0000" channel="dw.unifitv">
+  <programme start="20260707200300 +0000" stop="20260707203300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707200500 +0000" stop="20260707201800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+  <programme start="20260707203300 +0000" stop="20260707210300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260707201800 +0000" stop="20260707210300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">Sexual desire often feels like a spontaneous, almost uncontrollable sensation. A thought, a touch, a voice — and suddenly, the body and mind react. But arousal is less random than many people think!</desc>
-    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14806,16 +14797,23 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707210500 +0000" stop="20260707213300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
+  <programme start="20260707210500 +0000" stop="20260707211800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707213300 +0000" stop="20260707220300 +0000" channel="dw.unifitv">
-    <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+  <programme start="20260707211800 +0000" stop="20260707214800 +0000" channel="dw.unifitv">
+    <title lang="en">Close up</title>
+    <desc lang="en">Humans kill more than 100,000 dolphins worldwide each year. Many end up as bycatch in fishing nets. Others are hunted down. Japan, the Faroe Islands and West Africa are three places where the animals are slaughtered.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260707214800 +0000" stop="20260707220300 +0000" channel="dw.unifitv">
+    <title lang="en">Shift</title>
+    <desc lang="en">Content featuring AI-generated people is flooding the internet, and the technology behind it is getting better all the time. It's increasingly difficult to separate fact from fiction. What does this mean for us?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14827,23 +14825,16 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707220500 +0000" stop="20260707221800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+  <programme start="20260707220500 +0000" stop="20260707223300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707221800 +0000" stop="20260707223300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
   <programme start="20260707223300 +0000" stop="20260707230300 +0000" channel="dw.unifitv">
-    <title lang="en">In Good Shape</title>
-    <desc lang="en">Learn how bleeding gums and an unbalanced gut microbiome could be impacting your health, from your immune system to mental health. Plus, a look at AI used in the fight against healthcare inequality.</desc>
+    <title lang="en">The 77 Percent</title>
+    <desc lang="en">The World Cup claims to be global but Africa's top referee was blocked from entering. Fans face visa and cost barriers. Despite the challenges, 10 African teams are participating in the tournament. The talent is undeniable. So why is the system stacked against them?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14862,16 +14853,16 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707231800 +0000" stop="20260707234800 +0000" channel="dw.unifitv">
-    <title lang="en">Close up</title>
-    <desc lang="en">Close up</desc>
+  <programme start="20260707231800 +0000" stop="20260707233300 +0000" channel="dw.unifitv">
+    <title lang="en">Interview</title>
+    <desc lang="en">Up to 8 degrees difference within one city: Anacláudia Rossbach shows how heat drives inequality and why faster political action is needed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260707234800 +0000" stop="20260708000300 +0000" channel="dw.unifitv">
-    <title lang="en">Shift</title>
-    <desc lang="en">Content featuring AI-generated people is flooding the internet, and the technology behind it is getting better all the time. It's increasingly difficult to separate fact from fiction. What does this mean for us?</desc>
+  <programme start="20260707233300 +0000" stop="20260708000300 +0000" channel="dw.unifitv">
+    <title lang="en">Global Us</title>
+    <desc lang="en">Animals play a key role in many medical tests. Often they suffer and die. Could algae change that? Plus: Singapore's domestic workers become entrepreneurs</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14884,18 +14875,18 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260708000500 +0000" stop="20260708003300 +0000" channel="dw.unifitv">
-    <title lang="en">The 77 Percent</title>
-    <desc lang="en">The World Cup claims to be global but Africa's top referee was blocked from entering. Fans face visa and cost barriers. Despite the challenges, 10 African teams are participating in the tournament. The talent is undeniable. So why is the system stacked against them?</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260708003300 +0000" stop="20260708010300 +0000" channel="dw.unifitv">
-    <title lang="en">Eco India</title>
-    <desc lang="en">Hiking experts map trails and teach sustainable trekking. Tackling dengue fever with the help of mosquitoes! Plus: Protecting deer - and farmers' livelihoods.</desc>
+    <title lang="en">Made in Germany</title>
+    <desc lang="en">From classrooms to factories to careers, rising crises force change. We highlight new paths—from vocational training to recycling innovation.</desc>
     <category lang="en">Magazine</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.2725.</episode-num>
+    <episode-num system="onscreen">S1E2726</episode-num>
   </programme>
   <programme start="20260708010300 +0000" stop="20260708010500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
@@ -14904,9 +14895,16 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708010500 +0000" stop="20260708020300 +0000" channel="dw.unifitv">
+  <programme start="20260708010500 +0000" stop="20260708011800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708011800 +0000" stop="20260708020300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
-    <desc lang="en">IKEA is one of the world's largest consumers of wood. Almost 15 million cubic meters of the material are used every year in cheap IKEA products — with millions of trees felled for the mass production machine.</desc>
+    <desc lang="en">Sexual desire often feels like a spontaneous, almost uncontrollable sensation. A thought, a touch, a voice — and suddenly, the body and mind react. But arousal is less random than many people think!</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14918,23 +14916,16 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708020500 +0000" stop="20260708021800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+  <programme start="20260708020500 +0000" stop="20260708023300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708021800 +0000" stop="20260708024800 +0000" channel="dw.unifitv">
-    <title lang="en">Close up</title>
-    <desc lang="en">Close up</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708024800 +0000" stop="20260708030300 +0000" channel="dw.unifitv">
-    <title lang="en">Shift</title>
-    <desc lang="en">Content featuring AI-generated people is flooding the internet, and the technology behind it is getting better all the time. It's increasingly difficult to separate fact from fiction. What does this mean for us?</desc>
+  <programme start="20260708023300 +0000" stop="20260708030300 +0000" channel="dw.unifitv">
+    <title lang="en">Global Us</title>
+    <desc lang="en">Animals play a key role in many medical tests. Often they suffer and die. Could algae change that? Plus: Singapore's domestic workers become entrepreneurs</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14946,16 +14937,23 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708030500 +0000" stop="20260708033300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They're eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the 'Ndrangheta clan.</desc>
+  <programme start="20260708030500 +0000" stop="20260708031800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708031800 +0000" stop="20260708033300 +0000" channel="dw.unifitv">
+    <title lang="en">Interview</title>
+    <desc lang="en">Up to 8 degrees difference within one city: Anacláudia Rossbach shows how heat drives inequality and why faster political action is needed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260708033300 +0000" stop="20260708040300 +0000" channel="dw.unifitv">
-    <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">Millions depend on the Osun River—but its color reveals a dark secret. Plus: West Africa's water sachets—how waste can work for you. And how to save money on period products.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14976,7 +14974,7 @@
   </programme>
   <programme start="20260708041800 +0000" stop="20260708050300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
-    <desc lang="en">In 1776, America was torn: between loyalty to the British Crown, and its own desire for independence. 250 years later, digitized eyewitness accounts provide insights into daily life during the War of Independence for the first time.</desc>
+    <desc lang="en">Sexual desire often feels like a spontaneous, almost uncontrollable sensation. A thought, a touch, a voice — and suddenly, the body and mind react. But arousal is less random than many people think!</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14988,23 +14986,16 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708050500 +0000" stop="20260708051800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+  <programme start="20260708050500 +0000" stop="20260708053300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708051800 +0000" stop="20260708053300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
   <programme start="20260708053300 +0000" stop="20260708060300 +0000" channel="dw.unifitv">
-    <title lang="en">Eco Africa</title>
-    <desc lang="en">Millions depend on the Osun River—but its color reveals a dark secret. Plus: West Africa's water sachets—how waste can work for you. And how to save money on period products.</desc>
+    <title lang="en">Made in Germany</title>
+    <desc lang="en">From classrooms to factories to careers, rising crises force change. We highlight new paths—from vocational training to recycling innovation.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15016,73 +15007,115 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708060500 +0000" stop="20260708070300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">IKEA is one of the world's largest consumers of wood. Almost 15 million cubic meters of the material are used every year in cheap IKEA products — with millions of trees felled for the mass production machine.</desc>
+  <programme start="20260708060500 +0000" stop="20260708061800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708061800 +0000" stop="20260708063300 +0000" channel="dw.unifitv">
+    <title lang="en">Interview</title>
+    <desc lang="en">Up to 8 degrees difference within one city: Anacláudia Rossbach shows how heat drives inequality and why faster political action is needed.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708070300 +0000" stop="20260708073300 +0000" channel="dw.unifitv">
+  <programme start="20260708063300 +0000" stop="20260708070300 +0000" channel="dw.unifitv">
+    <title lang="en">In Good Shape</title>
+    <desc lang="en">Learn how bleeding gums and an unbalanced gut microbiome could be impacting your health, from your immune system to mental health. Plus, a look at AI used in the fight against healthcare inequality.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708070300 +0000" stop="20260708070500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708073300 +0000" stop="20260708080300 +0000" channel="dw.unifitv">
+  <programme start="20260708070500 +0000" stop="20260708071800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708071800 +0000" stop="20260708074800 +0000" channel="dw.unifitv">
+    <title lang="en">Close up</title>
+    <desc lang="en">Humans kill more than 100,000 dolphins worldwide each year. Many end up as bycatch in fishing nets. Others are hunted down. Japan, the Faroe Islands and West Africa are three places where the animals are slaughtered.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708074800 +0000" stop="20260708080300 +0000" channel="dw.unifitv">
+    <title lang="en">Shift</title>
+    <desc lang="en">Content featuring AI-generated people is flooding the internet, and the technology behind it is getting better all the time. It's increasingly difficult to separate fact from fiction. What does this mean for us?</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708080300 +0000" stop="20260708080500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708080500 +0000" stop="20260708083300 +0000" channel="dw.unifitv">
+    <title lang="en">The 77 Percent</title>
+    <desc lang="en">The World Cup claims to be global but Africa's top referee was blocked from entering. Fans face visa and cost barriers. Despite the challenges, 10 African teams are participating in the tournament. The talent is undeniable. So why is the system stacked against them?</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708083300 +0000" stop="20260708090300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
     <desc lang="en">Hiking experts map trails and teach sustainable trekking. Tackling dengue fever with the help of mosquitoes! Plus: Protecting deer - and farmers' livelihoods.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708080300 +0000" stop="20260708083300 +0000" channel="dw.unifitv">
+  <programme start="20260708090300 +0000" stop="20260708090500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708083300 +0000" stop="20260708090300 +0000" channel="dw.unifitv">
-    <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
-    <category lang="en">Magazine</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708090300 +0000" stop="20260708091800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708091800 +0000" stop="20260708093300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708093300 +0000" stop="20260708100300 +0000" channel="dw.unifitv">
-    <title lang="en">Close up</title>
-    <desc lang="en">Close up</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708100300 +0000" stop="20260708103300 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708103300 +0000" stop="20260708110300 +0000" channel="dw.unifitv">
+  <programme start="20260708090500 +0000" stop="20260708100300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
-    <desc lang="en">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They're eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the 'Ndrangheta clan.</desc>
+    <desc lang="en">IKEA is one of the world's largest consumers of wood. Almost 15 million cubic meters of the material are used every year in cheap IKEA products — with millions of trees felled for the mass production machine.</desc>
     <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708100300 +0000" stop="20260708100500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708100500 +0000" stop="20260708101800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708101800 +0000" stop="20260708104800 +0000" channel="dw.unifitv">
+    <title lang="en">Close up</title>
+    <desc lang="en">Humans kill more than 100,000 dolphins worldwide each year. Many end up as bycatch in fishing nets. Others are hunted down. Japan, the Faroe Islands and West Africa are three places where the animals are slaughtered.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708104800 +0000" stop="20260708110300 +0000" channel="dw.unifitv">
+    <title lang="en">Shift</title>
+    <desc lang="en">Content featuring AI-generated people is flooding the internet, and the technology behind it is getting better all the time. It's increasingly difficult to separate fact from fiction. What does this mean for us?</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -15093,38 +15126,38 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708110500 +0000" stop="20260708111800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708111800 +0000" stop="20260708113300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+  <programme start="20260708110500 +0000" stop="20260708113300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They're eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the 'Ndrangheta clan.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260708113300 +0000" stop="20260708120300 +0000" channel="dw.unifitv">
-    <title lang="en">The 77 Percent</title>
-    <desc lang="en">The World Cup claims to be global but Africa's top referee was blocked from entering. Fans face visa and cost barriers. Despite the challenges, 10 African teams are participating in the tournament. The talent is undeniable. So why is the system stacked against them?</desc>
+    <title lang="en">Made in Germany</title>
+    <desc lang="en">From classrooms to factories to careers, rising crises force change. We highlight new paths—from vocational training to recycling innovation.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708120300 +0000" stop="20260708123300 +0000" channel="dw.unifitv">
+  <programme start="20260708120300 +0000" stop="20260708120500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708123300 +0000" stop="20260708130300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
+  <programme start="20260708120500 +0000" stop="20260708121800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708121800 +0000" stop="20260708130300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">In 1776, America was torn: between loyalty to the British Crown, and its own desire for independence. 250 years later, digitized eyewitness accounts provide insights into daily life during the War of Independence for the first time.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -15135,10 +15168,24 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708130500 +0000" stop="20260708140300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">IKEA is one of the world's largest consumers of wood. Almost 15 million cubic meters of the material are used every year in cheap IKEA products — with millions of trees felled for the mass production machine.</desc>
+  <programme start="20260708130500 +0000" stop="20260708131800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708131800 +0000" stop="20260708133300 +0000" channel="dw.unifitv">
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Poland is doing everything it can to keep the US on side amid threats from Russia. But with the US scaling back in Europe, what's Poland's plan now?</desc>
     <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260708133300 +0000" stop="20260708140300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">Millions depend on the Osun River—but its color reveals a dark secret. Plus: West Africa's water sachets—how waste can work for you. And how to save money on period products.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -15149,47 +15196,26 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708140500 +0000" stop="20260708143300 +0000" channel="dw.unifitv">
-    <title lang="en">The Day</title>
-    <desc lang="en">The Day</desc>
-    <category lang="en">News</category>
+  <programme start="20260708140500 +0000" stop="20260708150300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">IKEA is one of the world's largest consumers of wood. Almost 15 million cubic meters of the material are used every year in cheap IKEA products — with millions of trees felled for the mass production machine.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708143300 +0000" stop="20260708150300 +0000" channel="dw.unifitv">
-    <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
-    <category lang="en">Magazine</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708150300 +0000" stop="20260708150500 +0000" channel="dw.unifitv">
+  <programme start="20260708150300 +0000" stop="20260708153300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260708150500 +0000" stop="20260708151800 +0000" channel="dw.unifitv">
-    <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260708151800 +0000" stop="20260708153300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
   <programme start="20260708153300 +0000" stop="20260708160300 +0000" channel="dw.unifitv">
-    <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <title lang="en">Eco India</title>
+    <desc lang="en">Hiking experts map trails and teach sustainable trekking. Tackling dengue fever with the help of mosquitoes! Plus: Protecting deer - and farmers' livelihoods.</desc>
     <category lang="en">Magazine</category>
-    <episode-num system="xmltv_ns">0.2525.</episode-num>
-    <episode-num system="onscreen">S1E2526</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <channel id="nhkworldjapan.unifitv">
     <display-name>NHK WORLD-JAPAN</display-name>

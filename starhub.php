@@ -2975,13 +2975,13 @@
         <title>News</title>
     </programme>
     <programme start="20260707163000 +0000" stop="20260707170000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Could algae make medical testing cruelty-free?</title>
     </programme>
     <programme start="20260707170000 +0000" stop="20260707171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260707171500 +0000" stop="20260707173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Urban heat crisis: UN‑Habitat chief calls for radical rethink</title>
     </programme>
     <programme start="20260707173000 +0000" stop="20260707180000 +0000" channel="DW English HD.starhub">
         <title>Ukraine&#039;s Unbreakable Line: Trains to the Frontline</title>
@@ -2999,7 +2999,7 @@
         <title>News</title>
     </programme>
     <programme start="20260707191500 +0000" stop="20260707193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Urban heat crisis: UN‑Habitat chief calls for radical rethink</title>
     </programme>
     <programme start="20260707193000 +0000" stop="20260707200000 +0000" channel="DW English HD.starhub">
         <title>Wetware computers - new superbrains from the lab?</title>
@@ -3017,7 +3017,7 @@
         <title>News</title>
     </programme>
     <programme start="20260707211500 +0000" stop="20260707214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Illegal Dolphin Hunting</title>
     </programme>
     <programme start="20260707214500 +0000" stop="20260707220000 +0000" channel="DW English HD.starhub">
         <title>Virtual people: Why you can’t always trust what you see</title>
@@ -3038,7 +3038,7 @@
         <title>News</title>
     </programme>
     <programme start="20260707231500 +0000" stop="20260707233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Urban heat crisis: UN‑Habitat chief calls for radical rethink</title>
     </programme>
     <programme start="20260707233000 +0000" stop="20260708000000 +0000" channel="DW English HD.starhub">
         <title>Could algae make medical testing cruelty-free?</title>

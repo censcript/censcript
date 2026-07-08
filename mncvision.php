@@ -7670,10 +7670,10 @@
     <title>Keserempet Cinta Penyanyi...</title>
 </programme>
 <programme start="20260707184500 +0000" stop="20260707195600 +0000" channel="SCTV.mncvision">
-    <title>Magang Cinta Tukang Sedot WC</title>
+    <title>Guru Adikku Cantik Sekali</title>
 </programme>
 <programme start="20260707195600 +0000" stop="20260707210600 +0000" channel="SCTV.mncvision">
-    <title>Jatuh Cinta Di Usia 22</title>
+    <title>Cintaku Bersemi Di Alun-Alun...</title>
 </programme>
 <programme start="20260707210600 +0000" stop="20260707213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
@@ -7705,32 +7705,32 @@
 <programme start="20260708070000 +0000" stop="20260708083000 +0000" channel="SCTV.mncvision">
     <title>Kopi Pahit Tapi Mbanya Manis</title>
 </programme>
-<programme start="20260708083000 +0000" stop="20260708101300 +0000" channel="SCTV.mncvision">
+<programme start="20260708083000 +0000" stop="20260708101400 +0000" channel="SCTV.mncvision">
     <title>Mau Keren Malah Jualan Es Legen</title>
 </programme>
-<programme start="20260708101300 +0000" stop="20260708115200 +0000" channel="SCTV.mncvision">
+<programme start="20260708101400 +0000" stop="20260708115300 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260708115200 +0000" stop="20260708131500 +0000" channel="SCTV.mncvision">
+<programme start="20260708115300 +0000" stop="20260708131300 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260708131500 +0000" stop="20260708143000 +0000" channel="SCTV.mncvision">
+<programme start="20260708131300 +0000" stop="20260708143100 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260708143000 +0000" stop="20260708160000 +0000" channel="SCTV.mncvision">
+<programme start="20260708143100 +0000" stop="20260708155600 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="SCTV.mncvision">
+<programme start="20260708155600 +0000" stop="20260708162600 +0000" channel="SCTV.mncvision">
     <title>Cintaku Pembantuku</title>
 </programme>
 <programme start="20260707173000 +0000" stop="20260707184500 +0000" channel="SCTV HD.mncvision">
     <title>Keserempet Cinta Penyanyi...</title>
 </programme>
 <programme start="20260707184500 +0000" stop="20260707195600 +0000" channel="SCTV HD.mncvision">
-    <title>Magang Cinta Tukang Sedot WC</title>
+    <title>Guru Adikku Cantik Sekali</title>
 </programme>
 <programme start="20260707195600 +0000" stop="20260707210600 +0000" channel="SCTV HD.mncvision">
-    <title>Jatuh Cinta Di Usia 22</title>
+    <title>Cintaku Bersemi Di Alun-Alun...</title>
 </programme>
 <programme start="20260707210600 +0000" stop="20260707213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
@@ -7762,22 +7762,22 @@
 <programme start="20260708070000 +0000" stop="20260708083000 +0000" channel="SCTV HD.mncvision">
     <title>Kopi Pahit Tapi Mbanya Manis</title>
 </programme>
-<programme start="20260708083000 +0000" stop="20260708101300 +0000" channel="SCTV HD.mncvision">
+<programme start="20260708083000 +0000" stop="20260708101400 +0000" channel="SCTV HD.mncvision">
     <title>Mau Keren Malah Jualan Es Legen</title>
 </programme>
-<programme start="20260708101300 +0000" stop="20260708115200 +0000" channel="SCTV HD.mncvision">
+<programme start="20260708101400 +0000" stop="20260708115300 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260708115200 +0000" stop="20260708131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260708115300 +0000" stop="20260708131300 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260708131500 +0000" stop="20260708143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260708131300 +0000" stop="20260708143100 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260708143000 +0000" stop="20260708160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260708143100 +0000" stop="20260708155600 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260708155600 +0000" stop="20260708162600 +0000" channel="SCTV HD.mncvision">
     <title>Cintaku Pembantuku</title>
 </programme>
 <programme start="20260707170000 +0000" stop="20260707180000 +0000" channel="Sindo News TV.mncvision">
@@ -8422,16 +8422,19 @@
 <programme start="20260708050000 +0000" stop="20260708080000 +0000" channel="SPOTV 2.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
 </programme>
-<programme start="20260708080000 +0000" stop="20260708110000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260708080000 +0000" stop="20260708100000 +0000" channel="SPOTV 2.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
+</programme>
+<programme start="20260708100000 +0000" stop="20260708110000 +0000" channel="SPOTV 2.mncvision">
+    <title>2026 Wimbledon Highlights</title>
 </programme>
 <programme start="20260708110000 +0000" stop="20260708115500 +0000" channel="SPOTV 2.mncvision">
     <title>2026 Harley-Davidson Bagger</title>
 </programme>
-<programme start="20260708115500 +0000" stop="20260708150000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260708115500 +0000" stop="20260708160000 +0000" channel="SPOTV 2.mncvision">
     <title>The C&#039;ships, Wimbledon 2026 (L)</title>
 </programme>
-<programme start="20260708150000 +0000" stop="20260708153000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="SPOTV 2.mncvision">
     <title>The C&#039;ships, Wimbledon 2026 (L)</title>
 </programme>
 <programme start="20260707180000 +0000" stop="20260707220000 +0000" channel="SPOTV 2 HD.mncvision">
@@ -8452,16 +8455,19 @@
 <programme start="20260708050000 +0000" stop="20260708080000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
 </programme>
-<programme start="20260708080000 +0000" stop="20260708110000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260708080000 +0000" stop="20260708100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
+</programme>
+<programme start="20260708100000 +0000" stop="20260708110000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2026 Wimbledon Highlights</title>
 </programme>
 <programme start="20260708110000 +0000" stop="20260708115500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 Harley-Davidson Bagger</title>
 </programme>
-<programme start="20260708115500 +0000" stop="20260708150000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260708115500 +0000" stop="20260708160000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>The C&#039;ships, Wimbledon 2026 (L)</title>
 </programme>
-<programme start="20260708150000 +0000" stop="20260708153000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>The C&#039;ships, Wimbledon 2026 (L)</title>
 </programme>
 <programme start="20260707182500 +0000" stop="20260707200000 +0000" channel="SPOTV HD.mncvision">
@@ -9361,32 +9367,26 @@
 <programme start="20260708080000 +0000" stop="20260708080300 +0000" channel="TVRI.mncvision">
     <title>Info Terkini</title>
 </programme>
-<programme start="20260708080300 +0000" stop="20260708100000 +0000" channel="TVRI.mncvision">
+<programme start="20260708080300 +0000" stop="20260708093000 +0000" channel="TVRI.mncvision">
     <title>Piala Dunia 2026: SWI Vs COL</title>
 </programme>
-<programme start="20260708100000 +0000" stop="20260708103000 +0000" channel="TVRI.mncvision">
-    <title>Jejak Pembangunan</title>
-</programme>
-<programme start="20260708103000 +0000" stop="20260708110000 +0000" channel="TVRI.mncvision">
+<programme start="20260708093000 +0000" stop="20260708100000 +0000" channel="TVRI.mncvision">
     <title>Skor Akhir</title>
+</programme>
+<programme start="20260708100000 +0000" stop="20260708110000 +0000" channel="TVRI.mncvision">
+    <title>Arah Angin</title>
 </programme>
 <programme start="20260708110000 +0000" stop="20260708120000 +0000" channel="TVRI.mncvision">
     <title>Klik Indonesia Petang</title>
 </programme>
-<programme start="20260708120000 +0000" stop="20260708130000 +0000" channel="TVRI.mncvision">
-    <title>Arah Angin</title>
+<programme start="20260708120000 +0000" stop="20260708140000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia 2026: ARG Vs EGY</title>
 </programme>
-<programme start="20260708130000 +0000" stop="20260708140000 +0000" channel="TVRI.mncvision">
+<programme start="20260708140000 +0000" stop="20260708150000 +0000" channel="TVRI.mncvision">
     <title>Jurnal Piala Dunia 2026</title>
 </programme>
-<programme start="20260708140000 +0000" stop="20260708143000 +0000" channel="TVRI.mncvision">
-    <title>Dunia Dalam Berita</title>
-</programme>
-<programme start="20260708143000 +0000" stop="20260708163000 +0000" channel="TVRI.mncvision">
+<programme start="20260708150000 +0000" stop="20260708153000 +0000" channel="TVRI.mncvision">
     <title>Piala Dunia 2026: BRA Vs NOR</title>
-</programme>
-<programme start="20260708163000 +0000" stop="20260707170000 +0000" channel="TVRI.mncvision">
-    <title>Klik Indonesia Malam</title>
 </programme>
 <programme start="20260707170500 +0000" stop="20260707184700 +0000" channel="UNIQUES.mncvision">
     <title>Beyond Paradise</title>

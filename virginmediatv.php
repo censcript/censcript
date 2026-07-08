@@ -85,25 +85,25 @@
 <programme start="20260708170100 +0000" stop="20260708180000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News: Six One</title>
 </programme>
-<programme start="20260707230000 +0000" stop="20260708001500 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260707234500 +0000" stop="20260708010000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Tommy Tiernan Show</title>
 </programme>
-<programme start="20260708001500 +0000" stop="20260708011000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260708010000 +0000" stop="20260708020000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Ireland&#039;s Fittest Family</title>
 </programme>
-<programme start="20260708011000 +0000" stop="20260708020500 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260708020000 +0000" stop="20260708025500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>NORAID: Irish America &amp; the IRA - Anti-Treaty City</title>
 </programme>
-<programme start="20260708020500 +0000" stop="20260708030000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260708025500 +0000" stop="20260708030000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Great House Revival - Post House</title>
 </programme>
-<programme start="20260708030000 +0000" stop="20260708035000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260708030000 +0000" stop="20260708034500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Michael Smurfit: Succession</title>
 </programme>
-<programme start="20260708035000 +0000" stop="20260708044000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260708034500 +0000" stop="20260708043500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Oiche Shamhna - Mistéir Ársa</title>
 </programme>
-<programme start="20260708044000 +0000" stop="20260708050000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260708043500 +0000" stop="20260708050000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260708050000 +0000" stop="20260708070000 +0000" channel="RTE_Two_HD.virginmediatv">
@@ -361,8 +361,14 @@
 <programme start="20260708175500 +0000" stop="20260708180000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>RTÉ News with ISL</title>
 </programme>
-<programme start="20260708000000 +0000" stop="20260708003000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260708000000 +0000" stop="20260708002000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC News</title>
+</programme>
+<programme start="20260708002000 +0000" stop="20260708002500 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Weather for the Week Ahead</title>
+</programme>
+<programme start="20260708002500 +0000" stop="20260708003000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Joins BBC News</title>
 </programme>
 <programme start="20260708003000 +0000" stop="20260708010000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Tech Now</title>
@@ -3874,7 +3880,10 @@
 <programme start="20260708030000 +0000" stop="20260708040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260708040000 +0000" stop="20260708060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260708040000 +0000" stop="20260708050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260708050000 +0000" stop="20260708060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260708120000 +0000" stop="20260708130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4717,7 +4726,10 @@
 <programme start="20260708030000 +0000" stop="20260708040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260708040000 +0000" stop="20260708060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260708040000 +0000" stop="20260708050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260708050000 +0000" stop="20260708060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260708120000 +0000" stop="20260708130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
