@@ -1,6 +1,3 @@
-<programme start="20260707220000 +0000" stop="20260708000000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260708000000 +0000" stop="20260708020000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -26,9 +23,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260707220000 +0000" stop="20260708000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260708000000 +0000" stop="20260708020000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -58,9 +52,6 @@
 <programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260707220000 +0000" stop="20260708000000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260708000000 +0000" stop="20260708020000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -88,12 +79,6 @@
 <programme start="20260708143000 +0000" stop="20260708163000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 10 QFs (B)[Live]</title>
 </programme>
-<programme start="20260707191500 +0000" stop="20260707221500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -Rd of 16 - Switzerland vs Colombia[Live]</title>
-</programme>
-<programme start="20260707221500 +0000" stop="20260708000000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260708000000 +0000" stop="20260708020000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -120,30 +105,6 @@
 </programme>
 <programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260707191500 +0000" stop="20260707221500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Rd of 16 - Switzerland vs Colombia[Live]</title>
-</programme>
-<programme start="20260707221500 +0000" stop="20260707223000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 1(C)</title>
-</programme>
-<programme start="20260707223000 +0000" stop="20260707224500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(A)</title>
-</programme>
-<programme start="20260707224500 +0000" stop="20260707230000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(B)</title>
-</programme>
-<programme start="20260707230000 +0000" stop="20260707231500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(C)</title>
-</programme>
-<programme start="20260707231500 +0000" stop="20260707233000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(A)</title>
-</programme>
-<programme start="20260707233000 +0000" stop="20260707234500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(B)</title>
-</programme>
-<programme start="20260707234500 +0000" stop="20260708000000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(C)</title>
 </programme>
 <programme start="20260708000000 +0000" stop="20260708001500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
@@ -268,9 +229,6 @@
 <programme start="20260708160000 +0000" stop="20260708181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 16 - Switzerland vs Colombia</title>
 </programme>
-<programme start="20260707220000 +0000" stop="20260708000000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Bournemouth vs Manchester United</title>
-</programme>
 <programme start="20260708000000 +0000" stop="20260708001500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Goals 25/26 -Week 31</title>
 </programme>
@@ -331,9 +289,6 @@
 <programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Chelsea vs Manchester City</title>
 </programme>
-<programme start="20260707200000 +0000" stop="20260708000000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260708000000 +0000" stop="20260708040000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -349,9 +304,6 @@
 <programme start="20260708160000 +0000" stop="20260708200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260707200000 +0000" stop="20260708000000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260708000000 +0000" stop="20260708040000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -365,9 +317,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260708160000 +0000" stop="20260708200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260707200000 +0000" stop="20260708000000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260708000000 +0000" stop="20260708040000 +0000" channel="Now Sports Premier League 4.nowtv">
