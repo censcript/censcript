@@ -4681,7 +4681,7 @@
 <programme start="20260708050000 +0000" stop="20260708070000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>World Rugby Junior Championship - Pool A: Georgia U20 v Uruguay U20</title>
 </programme>
-<programme start="20260708100000 +0000" stop="20260708200000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+<programme start="20260708100000 +0000" stop="20260708210000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 10</title>
 </programme>
 <programme start="20260707223000 +0000" stop="20260708003000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
@@ -5416,7 +5416,7 @@
 <programme start="20260708050000 +0000" stop="20260708070000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>World Rugby Junior Championship - Pool A: Georgia U20 v Uruguay U20</title>
 </programme>
-<programme start="20260708100000 +0000" stop="20260708200000 +0000" channel="Premier_Sports_1.virginmediatv">
+<programme start="20260708100000 +0000" stop="20260708210000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 10</title>
 </programme>
 <programme start="20260707223000 +0000" stop="20260708003000 +0000" channel="Premier_Sports_2.virginmediatv">

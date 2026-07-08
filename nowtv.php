@@ -1,6 +1,3 @@
-<programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260708180000 +0000" stop="20260708200000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -35,9 +32,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260709160000 +0000" stop="20260709180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260708180000 +0000" stop="20260708200000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -76,9 +70,6 @@
 <programme start="20260709160000 +0000" stop="20260709180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260708163000 +0000" stop="20260708183000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 10 QFs (C)[Live]</title>
-</programme>
 <programme start="20260708183000 +0000" stop="20260708200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 10 QFs (D)[Live]</title>
 </programme>
@@ -115,9 +106,6 @@
 <programme start="20260709143000 +0000" stop="20260709163000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 11 SFs &amp; Mixed Doubles Final (B)[Live]</title>
 </programme>
-<programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260708180000 +0000" stop="20260708200000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -153,9 +141,6 @@
 </programme>
 <programme start="20260709160000 +0000" stop="20260709180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260708160000 +0000" stop="20260708191500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Rd of 16 - Switzerland vs Colombia</title>
 </programme>
 <programme start="20260708191500 +0000" stop="20260708213000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 16 - Paraguay vs France</title>
@@ -258,9 +243,6 @@
 </programme>
 <programme start="20260709160000 +0000" stop="20260709183000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 16 - Argentina vs Egypt</title>
-</programme>
-<programme start="20260708160000 +0000" stop="20260708180000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Chelsea vs Manchester City</title>
 </programme>
 <programme start="20260708180000 +0000" stop="20260708200000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Crystal Palace vs Newcastle United</title>
