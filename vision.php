@@ -107,31 +107,31 @@
 <title>Suparman Reborn</title>
 </programme>
 <programme start="20260709190000 +0000" stop="20260709230000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20260709230000 +0000" stop="20260710010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko In The Deep Sea</title>
 </programme>
 <programme start="20260710010000 +0000" stop="20260710041500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260710041500 +0000" stop="20260710044500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Siang</title>
 </programme>
 <programme start="20260710044500 +0000" stop="20260710051500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Seleb On News</title>
 </programme>
 <programme start="20260710051500 +0000" stop="20260710070000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260710070000 +0000" stop="20260710090000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260710090000 +0000" stop="20260710103000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260710103000 +0000" stop="20260710120000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260709000000 +0000" stop="20260709020000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
@@ -657,9 +657,6 @@
 </programme>
 <programme start="20260708223000 +0000" stop="20260709003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20260709023000 +0000" stop="20260709060000 +0000" channel="ANTV.vision">
-<title>Golmaal Returns</title>
 </programme>
 <programme start="20260709060000 +0000" stop="20260709073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260710073000 +0000" stop="20260710080000 +0000" channel="BTV.vision">
 <title>Asal Usul</title>
+</programme>
+<programme start="20260710080000 +0000" stop="20260710083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>

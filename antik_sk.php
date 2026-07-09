@@ -1240,11 +1240,8 @@
   <programme start="20260711182000 +0000" stop="20260711220000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260710214000 +0000" stop="20260711004000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260710214000 +0000" stop="20260711011500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal Reprezentácia muži</title>
-  </programme>
-  <programme start="20260711004000 +0000" stop="20260711011500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
   <programme start="20260711011500 +0000" stop="20260711025500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Bedminton</title>
@@ -1267,10 +1264,10 @@
   <programme start="20260711095000 +0000" stop="20260711122000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260711122000 +0000" stop="20260711141000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260711122000 +0000" stop="20260711142500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal Reprezentácia muži</title>
   </programme>
-  <programme start="20260711141000 +0000" stop="20260711172000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260711142500 +0000" stop="20260711172000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Európska liga muži</title>
   </programme>
   <programme start="20260711172000 +0000" stop="20260711200000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -2785,17 +2782,14 @@
   <programme start="20260710220000 +0000" stop="20260711040000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260711040000 +0000" stop="20260711050000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260711040000 +0000" stop="20260711060000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">BUDÍČEK</title>
-  </programme>
-  <programme start="20260711050000 +0000" stop="20260711060000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ŠLÁGRMIX</title>
   </programme>
   <programme start="20260711060000 +0000" stop="20260711070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
   </programme>
   <programme start="20260711070000 +0000" stop="20260711090000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">DOPOLEDNÍ STUDIO</title>
+    <title lang="id">CO BYLO TO BYLO</title>
   </programme>
   <programme start="20260711090000 +0000" stop="20260711103000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DECHOVKA O JEDENÁCTÉ</title>
@@ -2803,11 +2797,8 @@
   <programme start="20260711103000 +0000" stop="20260711120000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260711120000 +0000" stop="20260711130000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
-  </programme>
-  <programme start="20260711130000 +0000" stop="20260711143000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ODPOLEDNÍ STUDIO</title>
+  <programme start="20260711120000 +0000" stop="20260711143000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT II</title>
   </programme>
   <programme start="20260711143000 +0000" stop="20260711163000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Čaj kolem páté</title>
@@ -8875,16 +8866,16 @@
   <programme start="20260711195500 +0000" stop="20260711221500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Tajemství dračí pečeti</title>
   </programme>
-  <programme start="20260710200000 +0000" stop="20260710232000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260710200000 +0000" stop="20260710223000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Legenda o královně Tomiris</title>
   </programme>
-  <programme start="20260710232000 +0000" stop="20260711010500 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260710223000 +0000" stop="20260711001500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Zlomené město</title>
   </programme>
-  <programme start="20260711010500 +0000" stop="20260711022500 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260711001500 +0000" stop="20260711013500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Smrtelná alliance</title>
   </programme>
-  <programme start="20260711022500 +0000" stop="20260711031000 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260711013500 +0000" stop="20260711031000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260711031000 +0000" stop="20260711035500 +0000" channel="FilmBox.webtv.sk">

@@ -9997,12 +9997,19 @@
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260709150500 +0000" stop="20260709160500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260709150500 +0000" stop="20260709160000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">May's Kitchen</title>
     <desc lang="en">May's daughter Leen invites her friends over for a pool party to celebrate the comeback of her friend Danya to town after living abroad for a while.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260709160000 +0000" stop="20260709162500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Spaghetti Conquest</title>
+    <desc lang="en">Chef Adam Swanson explores cooking in Italy and Thailand with a common ingredient: tomatoes.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <channel id="dreamworkshd.unifitv">
     <display-name>DreamWorks HD</display-name>
