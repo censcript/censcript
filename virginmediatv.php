@@ -154,10 +154,10 @@
 <programme start="20260708234500 +0000" stop="20260709005000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Love Island</title>
 </programme>
-<programme start="20260709005000 +0000" stop="20260709011400 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260709005000 +0000" stop="20260709011500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Jann - Whofundit</title>
 </programme>
-<programme start="20260709011400 +0000" stop="20260709061000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260709011500 +0000" stop="20260709061000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260709120000 +0000" stop="20260709123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -2459,7 +2459,7 @@
     <title>BBC News at Six</title>
 </programme>
 <programme start="20260709173000 +0000" stop="20260709180000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The World Today with Maryam Moshiri</title>
+    <title>The Iran War Today</title>
 </programme>
 <programme start="20260709000000 +0000" stop="20260709010000 +0000" channel="Sky_News_HD.virginmediatv">
     <title>Sky News</title>
@@ -2861,7 +2861,7 @@
     <title>The World Today with Maryam Moshiri</title>
 </programme>
 <programme start="20260709173000 +0000" stop="20260709174500 +0000" channel="BBC_News.virginmediatv">
-    <title>The World Today with Maryam Moshiri</title>
+    <title>The Iran War Today</title>
 </programme>
 <programme start="20260709174500 +0000" stop="20260709180000 +0000" channel="BBC_News.virginmediatv">
     <title>The World Today with Maryam Moshiri</title>

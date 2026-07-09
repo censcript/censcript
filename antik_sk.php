@@ -5011,6 +5011,45 @@
   <programme start="20260711200000 +0000" stop="20260711230000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Golf: PGA Tour</title>
   </programme>
+  <programme start="20260710210000 +0000" stop="20260710234500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: HK Nitra - VLCI Žilina</title>
+  </programme>
+  <programme start="20260710234500 +0000" stop="20260711034500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Šipky</title>
+  </programme>
+  <programme start="20260711034500 +0000" stop="20260711040000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Amin Sarr</title>
+  </programme>
+  <programme start="20260711040000 +0000" stop="20260711060000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Dánsko - Ukrajina</title>
+  </programme>
+  <programme start="20260711060000 +0000" stop="20260711080000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Řecko - Itálie</title>
+  </programme>
+  <programme start="20260711080000 +0000" stop="20260711100000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Řím - Inter</title>
+  </programme>
+  <programme start="20260711100000 +0000" stop="20260711110000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260711110000 +0000" stop="20260711150000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Šipky</title>
+  </programme>
+  <programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260711160000 +0000" stop="20260711170000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260711170000 +0000" stop="20260711210000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Šipky</title>
+  </programme>
+  <programme start="20260711210000 +0000" stop="20260711214500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">MVP</title>
+  </programme>
+  <programme start="20260711214500 +0000" stop="20260712001500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: Växjö - Malmö</title>
+  </programme>
   <programme start="20260710203000 +0000" stop="20260710223000 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Fotbal</title>
   </programme>
@@ -16896,6 +16935,114 @@
   </programme>
   <programme start="20260711210000 +0000" stop="20260711220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
+  </programme>
+  <programme start="20260710220000 +0000" stop="20260710223000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Masterclass</title>
+  </programme>
+  <programme start="20260710223000 +0000" stop="20260710234500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Feature film</title>
+  </programme>
+  <programme start="20260710234500 +0000" stop="20260711003000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Meeting on the First</title>
+  </programme>
+  <programme start="20260711003000 +0000" stop="20260711003500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">You Can!</title>
+  </programme>
+  <programme start="20260711003500 +0000" stop="20260711010500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Bell and Cotton</title>
+  </programme>
+  <programme start="20260711010500 +0000" stop="20260711013000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">People of Armenia</title>
+  </programme>
+  <programme start="20260711013000 +0000" stop="20260711022000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Differently</title>
+  </programme>
+  <programme start="20260711022000 +0000" stop="20260711023000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Repatriation diary</title>
+  </programme>
+  <programme start="20260711023000 +0000" stop="20260711030000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Ethnocolors</title>
+  </programme>
+  <programme start="20260711030000 +0000" stop="20260711033500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Parent Meeting</title>
+  </programme>
+  <programme start="20260711033500 +0000" stop="20260711041000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Be Well!</title>
+  </programme>
+  <programme start="20260711041000 +0000" stop="20260711044000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Interview with Anna Danielyan</title>
+  </programme>
+  <programme start="20260711044000 +0000" stop="20260711051500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">First Studio</title>
+  </programme>
+  <programme start="20260711051500 +0000" stop="20260711070000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Feature film</title>
+  </programme>
+  <programme start="20260711070000 +0000" stop="20260711072500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Bell and Cotton</title>
+  </programme>
+  <programme start="20260711072500 +0000" stop="20260711081500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Documentary film</title>
+  </programme>
+  <programme start="20260711081500 +0000" stop="20260711082000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">5 Minute ART</title>
+  </programme>
+  <programme start="20260711082000 +0000" stop="20260711090000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">The Mystery of Shahmar</title>
+  </programme>
+  <programme start="20260711090000 +0000" stop="20260711092000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260711092000 +0000" stop="20260711100000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Here and Now</title>
+  </programme>
+  <programme start="20260711100000 +0000" stop="20260711113000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Classical Concert</title>
+  </programme>
+  <programme start="20260711113000 +0000" stop="20260711121000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Parent Meeting</title>
+  </programme>
+  <programme start="20260711121000 +0000" stop="20260711123000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Yerevan</title>
+  </programme>
+  <programme start="20260711123000 +0000" stop="20260711125000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Publication</title>
+  </programme>
+  <programme start="20260711125000 +0000" stop="20260711130000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">The Hero of Our Time</title>
+  </programme>
+  <programme start="20260711130000 +0000" stop="20260711133000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260711133000 +0000" stop="20260711142000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Differently</title>
+  </programme>
+  <programme start="20260711142000 +0000" stop="20260711145000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">People of Armenia</title>
+  </programme>
+  <programme start="20260711145000 +0000" stop="20260711154000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Note by Note</title>
+  </programme>
+  <programme start="20260711154000 +0000" stop="20260711162000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">An Important Task</title>
+  </programme>
+  <programme start="20260711162000 +0000" stop="20260711170000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">First Studio</title>
+  </programme>
+  <programme start="20260711170000 +0000" stop="20260711175000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260711175000 +0000" stop="20260711192000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Feature film</title>
+  </programme>
+  <programme start="20260711192000 +0000" stop="20260711201000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Public Discussion with Tatev Danielyan</title>
+  </programme>
+  <programme start="20260711201000 +0000" stop="20260711204500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Here and Now</title>
+  </programme>
+  <programme start="20260711204500 +0000" stop="20260711221500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Classical Concert</title>
   </programme>
   <programme start="20260710220000 +0000" stop="20260710221500 +0000" channel="Euronews.webtv.sk">
     <title lang="id">Global Week-End</title>
