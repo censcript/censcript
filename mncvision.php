@@ -1637,7 +1637,7 @@
     <title>Berita Satu Malam</title>
 </programme>
 <programme start="20260709130000 +0000" stop="20260709140000 +0000" channel="BTV.mncvision">
-    <title>Jendela Dunia</title>
+    <title>Berita Satu Spesial</title>
 </programme>
 <programme start="20260709140000 +0000" stop="20260709150000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
@@ -7793,10 +7793,10 @@
     <title>Disambit Cinta Cewek Hoki</title>
 </programme>
 <programme start="20260708185100 +0000" stop="20260708200100 +0000" channel="SCTV.mncvision">
-    <title>Cintaku Full Mentok Di Kamu</title>
+    <title>Cintaku Diantara 3 Perempuan</title>
 </programme>
 <programme start="20260708200100 +0000" stop="20260708210600 +0000" channel="SCTV.mncvision">
-    <title>Dari Bunga Jadi Cinta</title>
+    <title>Mencari Cinta Sampai Ke Jogja</title>
 </programme>
 <programme start="20260708210600 +0000" stop="20260708213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
@@ -7811,49 +7811,49 @@
     <title>Halo Selebriti</title>
 </programme>
 <programme start="20260709000000 +0000" stop="20260709013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi Spesial</title>
+    <title>Chef Tampan Manisnya Wagelaseh</title>
 </programme>
 <programme start="20260709013000 +0000" stop="20260709030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi Spesial</title>
+    <title>Cinta Digesrek Sindikat...</title>
 </programme>
 <programme start="20260709030000 +0000" stop="20260709050000 +0000" channel="SCTV.mncvision">
     <title>CEO Of Cewek Jagoan Komplek</title>
 </programme>
-<programme start="20260709050000 +0000" stop="20260709053000 +0000" channel="SCTV.mncvision">
+<programme start="20260709050000 +0000" stop="20260709053400 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260709053000 +0000" stop="20260709070000 +0000" channel="SCTV.mncvision">
+<programme start="20260709053400 +0000" stop="20260709070700 +0000" channel="SCTV.mncvision">
     <title>Jadian Sama Cewek Duren</title>
 </programme>
-<programme start="20260709070000 +0000" stop="20260709083000 +0000" channel="SCTV.mncvision">
+<programme start="20260709070700 +0000" stop="20260709084000 +0000" channel="SCTV.mncvision">
     <title>Modal Dodol Nekad Bawa...</title>
 </programme>
-<programme start="20260709083000 +0000" stop="20260709101500 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Sore</title>
+<programme start="20260709084000 +0000" stop="20260709101500 +0000" channel="SCTV.mncvision">
+    <title>Status Palsu Jadi Beneran...</title>
 </programme>
-<programme start="20260709101500 +0000" stop="20260709114500 +0000" channel="SCTV.mncvision">
+<programme start="20260709101500 +0000" stop="20260709115400 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260709114500 +0000" stop="20260709131500 +0000" channel="SCTV.mncvision">
+<programme start="20260709115400 +0000" stop="20260709131500 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260709131500 +0000" stop="20260709144500 +0000" channel="SCTV.mncvision">
+<programme start="20260709131500 +0000" stop="20260709143500 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260709144500 +0000" stop="20260709160000 +0000" channel="SCTV.mncvision">
+<programme start="20260709143500 +0000" stop="20260709160300 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260709160000 +0000" stop="20260709163000 +0000" channel="SCTV.mncvision">
-    <title>Tercyduk Cinta Anak Bawang</title>
+<programme start="20260709160300 +0000" stop="20260709163300 +0000" channel="SCTV.mncvision">
+    <title>Sejuta Cinta Untuk Kikan</title>
 </programme>
 <programme start="20260708174100 +0000" stop="20260708185100 +0000" channel="SCTV HD.mncvision">
     <title>Disambit Cinta Cewek Hoki</title>
 </programme>
 <programme start="20260708185100 +0000" stop="20260708200100 +0000" channel="SCTV HD.mncvision">
-    <title>Cintaku Full Mentok Di Kamu</title>
+    <title>Cintaku Diantara 3 Perempuan</title>
 </programme>
 <programme start="20260708200100 +0000" stop="20260708210600 +0000" channel="SCTV HD.mncvision">
-    <title>Dari Bunga Jadi Cinta</title>
+    <title>Mencari Cinta Sampai Ke Jogja</title>
 </programme>
 <programme start="20260708210600 +0000" stop="20260708213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
@@ -7868,40 +7868,40 @@
     <title>Halo Selebriti</title>
 </programme>
 <programme start="20260709000000 +0000" stop="20260709013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi Spesial</title>
+    <title>Chef Tampan Manisnya Wagelaseh</title>
 </programme>
 <programme start="20260709013000 +0000" stop="20260709030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi Spesial</title>
+    <title>Cinta Digesrek Sindikat...</title>
 </programme>
 <programme start="20260709030000 +0000" stop="20260709050000 +0000" channel="SCTV HD.mncvision">
     <title>CEO Of Cewek Jagoan Komplek</title>
 </programme>
-<programme start="20260709050000 +0000" stop="20260709053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260709050000 +0000" stop="20260709053400 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260709053000 +0000" stop="20260709070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260709053400 +0000" stop="20260709070700 +0000" channel="SCTV HD.mncvision">
     <title>Jadian Sama Cewek Duren</title>
 </programme>
-<programme start="20260709070000 +0000" stop="20260709083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260709070700 +0000" stop="20260709084000 +0000" channel="SCTV HD.mncvision">
     <title>Modal Dodol Nekad Bawa...</title>
 </programme>
-<programme start="20260709083000 +0000" stop="20260709101500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Sore</title>
+<programme start="20260709084000 +0000" stop="20260709101500 +0000" channel="SCTV HD.mncvision">
+    <title>Status Palsu Jadi Beneran...</title>
 </programme>
-<programme start="20260709101500 +0000" stop="20260709114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260709101500 +0000" stop="20260709115400 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260709114500 +0000" stop="20260709131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260709115400 +0000" stop="20260709131500 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260709131500 +0000" stop="20260709144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260709131500 +0000" stop="20260709143500 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260709144500 +0000" stop="20260709160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260709143500 +0000" stop="20260709160300 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260709160000 +0000" stop="20260709163000 +0000" channel="SCTV HD.mncvision">
-    <title>Tercyduk Cinta Anak Bawang</title>
+<programme start="20260709160300 +0000" stop="20260709163300 +0000" channel="SCTV HD.mncvision">
+    <title>Sejuta Cinta Untuk Kikan</title>
 </programme>
 <programme start="20260708170000 +0000" stop="20260708180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>

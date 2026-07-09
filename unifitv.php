@@ -7,7 +7,7 @@
   </channel>
   <programme start="20260708133000 +0000" stop="20260708170000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260708170000 +0000" stop="20260708173000 +0000" channel="fifa1.unifitv">
@@ -17,7 +17,7 @@
   </programme>
   <programme start="20260708173000 +0000" stop="20260708213000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Argentina vs Egypt : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260708213000 +0000" stop="20260708220000 +0000" channel="fifa1.unifitv">
@@ -27,7 +27,7 @@
   </programme>
   <programme start="20260708220000 +0000" stop="20260709013000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Portugal vs Spain : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 3:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260709013000 +0000" stop="20260709020000 +0000" channel="fifa1.unifitv">
@@ -37,7 +37,7 @@
   </programme>
   <programme start="20260709020000 +0000" stop="20260709053000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260709053000 +0000" stop="20260709060000 +0000" channel="fifa1.unifitv">
@@ -47,7 +47,7 @@
   </programme>
   <programme start="20260709060000 +0000" stop="20260709100000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Argentina vs Egypt : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260709100000 +0000" stop="20260709103000 +0000" channel="fifa1.unifitv">
@@ -57,7 +57,7 @@
   </programme>
   <programme start="20260709103000 +0000" stop="20260709140000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Portugal vs Spain : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 3:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260709140000 +0000" stop="20260709143000 +0000" channel="fifa1.unifitv">
@@ -67,7 +67,7 @@
   </programme>
   <programme start="20260709143000 +0000" stop="20260709180000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 5:00 AM</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="fifa2.unifitv">
@@ -147,7 +147,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260708203000 +0000" stop="20260708210000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -157,7 +157,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260709013000 +0000" stop="20260709020000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 12 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -181,17 +181,17 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260709113000 +0000" stop="20260709153000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(R) Argentina vs Egypt : FIFA World Cup™ 2026 Round of 16</title>
+  <programme start="20260709113000 +0000" stop="20260709150000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260709153000 +0000" stop="20260709160000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
+  <programme start="20260709150000 +0000" stop="20260709153000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 12 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260709160000 +0000" stop="20260709203000 +0000" channel="fifa3.unifitv">
+  <programme start="20260709153000 +0000" stop="20260709200000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Switzerland vs Colombia : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>

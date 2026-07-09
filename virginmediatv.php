@@ -1934,10 +1934,10 @@
     <title>The Chase</title>
 </programme>
 <programme start="20260709030000 +0000" stop="20260709033000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye</title>
+    <title>Bullseye - Bullseye 11</title>
 </programme>
 <programme start="20260709033000 +0000" stop="20260709040000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye</title>
+    <title>Bullseye - Bullseye 12</title>
 </programme>
 <programme start="20260709040000 +0000" stop="20260709043000 +0000" channel="Challenge.virginmediatv">
     <title>Bullseye</title>
@@ -3856,7 +3856,10 @@
 <programme start="20260709003000 +0000" stop="20260709043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - MI New York v San Francisco Unicorns</title>
 </programme>
-<programme start="20260709043000 +0000" stop="20260709060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260709043000 +0000" stop="20260709050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260709050000 +0000" stop="20260709060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260709100000 +0000" stop="20260709160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4612,7 +4615,10 @@
 <programme start="20260709003000 +0000" stop="20260709043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - MI New York v San Francisco Unicorns</title>
 </programme>
-<programme start="20260709043000 +0000" stop="20260709060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260709043000 +0000" stop="20260709050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260709050000 +0000" stop="20260709060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260709100000 +0000" stop="20260709160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">

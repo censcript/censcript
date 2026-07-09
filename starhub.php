@@ -6449,7 +6449,7 @@
         <title>Yaariyan 2</title>
     </programme>
     <programme start="20260709143300 +0000" stop="20260709171200 +0000" channel="SONY MAX.starhub">
-        <title>Jaane Tu... Ya Jaane</title>
+        <title>Jaane Tuâ¦ Ya Jaane Na</title>
     </programme>
     <programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="Sky News HD.starhub">
         <title>The News Hour With Mark Austin</title>
@@ -7669,13 +7669,16 @@
     <programme start="20260708133000 +0000" stop="20260708163000 +0000" channel="Asianet Movies.starhub">
         <title>Classmates</title>
     </programme>
-    <programme start="20260708163000 +0000" stop="20260708193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260708163000 +0000" stop="20260708163500 +0000" channel="Asianet Movies.starhub">
         <title>Pappi Appacha</title>
     </programme>
-    <programme start="20260708193000 +0000" stop="20260708213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260708163500 +0000" stop="20260708193000 +0000" channel="Asianet Movies.starhub">
+        <title>Pappi Appacha</title>
+    </programme>
+    <programme start="20260708193000 +0000" stop="20260708220000 +0000" channel="Asianet Movies.starhub">
         <title>Kanaka Simhasanam</title>
     </programme>
-    <programme start="20260708213000 +0000" stop="20260708233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260708220000 +0000" stop="20260708234500 +0000" channel="Asianet Movies.starhub">
         <title>Thaskara Lahala</title>
     </programme>
     <programme start="20260708234500 +0000" stop="20260709013000 +0000" channel="Asianet Movies.starhub">
