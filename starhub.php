@@ -7678,7 +7678,7 @@
     <programme start="20260708213000 +0000" stop="20260708233000 +0000" channel="Asianet Movies.starhub">
         <title>Thaskara Lahala</title>
     </programme>
-    <programme start="20260708233000 +0000" stop="20260709013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260708234500 +0000" stop="20260709013000 +0000" channel="Asianet Movies.starhub">
         <title>Monayi Angane Aanaayi</title>
     </programme>
     <programme start="20260709013000 +0000" stop="20260709043000 +0000" channel="Asianet Movies.starhub">
