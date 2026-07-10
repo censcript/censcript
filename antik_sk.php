@@ -2995,7 +2995,7 @@
   <programme start="20260712213500 +0000" stop="20260712221500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Pěšáci víry</title>
   </programme>
-  <programme start="20260711212300 +0000" stop="20260711231600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260711212400 +0000" stop="20260711231600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisař Montalbano VIII (2)</title>
   </programme>
   <programme start="20260711231600 +0000" stop="20260712000000 +0000" channel="ČT1.webtv.sk">
@@ -3010,10 +3010,10 @@
   <programme start="20260712013000 +0000" stop="20260712020000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
-  <programme start="20260712020000 +0000" stop="20260712022500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260712020000 +0000" stop="20260712022600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zahrada je hra</title>
   </programme>
-  <programme start="20260712022500 +0000" stop="20260712025000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260712022600 +0000" stop="20260712025000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Chalupa je hra</title>
   </programme>
   <programme start="20260712025000 +0000" stop="20260712031500 +0000" channel="ČT1.webtv.sk">
@@ -3040,16 +3040,16 @@
   <programme start="20260712074500 +0000" stop="20260712080000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kalendárium</title>
   </programme>
-  <programme start="20260712080000 +0000" stop="20260712083100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260712080000 +0000" stop="20260712083000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulavá kamera</title>
   </programme>
-  <programme start="20260712083100 +0000" stop="20260712090100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260712083000 +0000" stop="20260712090100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Objektiv</title>
   </programme>
-  <programme start="20260712090100 +0000" stop="20260712095300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260712090100 +0000" stop="20260712095200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dynastie Nováků (7/13)</title>
   </programme>
-  <programme start="20260712095300 +0000" stop="20260712110000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260712095200 +0000" stop="20260712110000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Možná přijde i kouzelník</title>
   </programme>
   <programme start="20260712110000 +0000" stop="20260712110500 +0000" channel="ČT1.webtv.sk">
@@ -3376,10 +3376,10 @@
   <programme start="20260712003000 +0000" stop="20260712013000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ladí neladí</title>
   </programme>
-  <programme start="20260712013000 +0000" stop="20260712023000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260712013000 +0000" stop="20260712023100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Chinaski</title>
   </programme>
-  <programme start="20260712023000 +0000" stop="20260712025800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260712023100 +0000" stop="20260712025800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
   <programme start="20260712025800 +0000" stop="20260712031000 +0000" channel="ČT :D - ČT art.webtv.sk">
