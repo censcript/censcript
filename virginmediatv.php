@@ -4283,7 +4283,7 @@
     <title>Premier League Highlights - Manchester United v Manchester City</title>
 </programme>
 <programme start="20260710130000 +0000" stop="20260710134500 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Official United Podcast - Inside Carrington Podcast - Regeneration</title>
 </programme>
 <programme start="20260710134500 +0000" stop="20260710140000 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - Benjamin Sesko: The Gallery</title>
@@ -4319,10 +4319,10 @@
     <title>Season Review - Top Ten Celebrations</title>
 </programme>
 <programme start="20260710170000 +0000" stop="20260710174500 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Official United Podcast - Inside Carrington Podcast - Regeneration</title>
 </programme>
 <programme start="20260710174500 +0000" stop="20260710180000 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Barbershop</title>
 </programme>
 <programme start="20260710000000 +0000" stop="20260710010000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>F1 Explained</title>

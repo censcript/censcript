@@ -98,7 +98,7 @@
 <title>Entong</title>
 </programme>
 <programme start="20260710130000 +0000" stop="20260710160000 +0000" channel="MNCTV.vision">
-<title>DMD Panggung Rezeki (MNCTV)</title>
+<title>DMD Panggung Rezeki</title>
 </programme>
 <programme start="20260710160000 +0000" stop="20260710170000 +0000" channel="MNCTV.vision">
 <title>Menggapai Ikatan Cinta</title>
@@ -271,16 +271,16 @@
 <programme start="20260710170000 +0000" stop="20260710173000 +0000" channel="iNews.vision">
 <title>E-Max</title>
 </programme>
-<programme start="20260710173000 +0000" stop="20260710190000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260710173000 +0000" stop="20260710183000 +0000" channel="iNews.vision">
+<title>iNews Sore</title>
 </programme>
-<programme start="20260710190000 +0000" stop="20260710194500 +0000" channel="iNews.vision">
+<programme start="20260710183000 +0000" stop="20260710191500 +0000" channel="iNews.vision">
 <title>iNews Malam</title>
 </programme>
-<programme start="20260710194500 +0000" stop="20260710203000 +0000" channel="iNews.vision">
+<programme start="20260710191500 +0000" stop="20260710201500 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260710203000 +0000" stop="20260710210000 +0000" channel="iNews.vision">
+<programme start="20260710201500 +0000" stop="20260710210000 +0000" channel="iNews.vision">
 <title>Realita</title>
 </programme>
 <programme start="20260710210000 +0000" stop="20260710211500 +0000" channel="iNews.vision">
@@ -299,10 +299,10 @@
 <title>Special Report</title>
 </programme>
 <programme start="20260711003000 +0000" stop="20260711011500 +0000" channel="iNews.vision">
-<title>Breaking News</title>
+<title>Realita</title>
 </programme>
 <programme start="20260711011500 +0000" stop="20260711021500 +0000" channel="iNews.vision">
-<title>Realita</title>
+<title>The Prime Show</title>
 </programme>
 <programme start="20260711021500 +0000" stop="20260711032500 +0000" channel="iNews.vision">
 <title>iNews Files</title>
@@ -322,10 +322,10 @@
 <programme start="20260711075500 +0000" stop="20260711080000 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260711080000 +0000" stop="20260711084500 +0000" channel="iNews.vision">
+<programme start="20260711080000 +0000" stop="20260711090000 +0000" channel="iNews.vision">
 <title>Breaking News (Inews)</title>
 </programme>
-<programme start="20260711084500 +0000" stop="20260711100000 +0000" channel="iNews.vision">
+<programme start="20260711090000 +0000" stop="20260711100000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
 <programme start="20260711100000 +0000" stop="20260711100500 +0000" channel="iNews.vision">
@@ -652,6 +652,12 @@
 <programme start="20260709223000 +0000" stop="20260710003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
+<programme start="20260710003000 +0000" stop="20260710023000 +0000" channel="ANTV.vision">
+<title>Jin Galunggung</title>
+</programme>
+<programme start="20260710023000 +0000" stop="20260710060000 +0000" channel="ANTV.vision">
+<title>Commando: A One Man Army</title>
+</programme>
 <programme start="20260710060000 +0000" stop="20260710073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -663,6 +669,9 @@
 </programme>
 <programme start="20260710110000 +0000" stop="20260710130000 +0000" channel="ANTV.vision">
 <title>Iblis dalam Darah</title>
+</programme>
+<programme start="20260710130000 +0000" stop="20260710143000 +0000" channel="ANTV.vision">
+<title>Perkawinan Nyi Blorong</title>
 </programme>
 <programme start="20260710143000 +0000" stop="20260710163000 +0000" channel="ANTV.vision">
 <title>Darah Perjaka</title>
@@ -734,7 +743,7 @@
 <title>Nice Goal</title>
 </programme>
 <programme start="20260710120000 +0000" stop="20260710133000 +0000" channel="RTV.vision">
-<title>We Bare Bears 3</title>
+<title>We Bare Bears III</title>
 </programme>
 <programme start="20260710133000 +0000" stop="20260710143000 +0000" channel="RTV.vision">
 <title>The Tom &amp; Jerry</title>
@@ -1336,6 +1345,9 @@
 <programme start="20260709230300 +0000" stop="20260710003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
+<programme start="20260710003000 +0000" stop="20260710010000 +0000" channel="BTV.vision">
+<title>Anak Hebat</title>
+</programme>
 <programme start="20260710010000 +0000" stop="20260710010500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
 </programme>
@@ -1344,6 +1356,9 @@
 </programme>
 <programme start="20260710011500 +0000" stop="20260710014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
+</programme>
+<programme start="20260710014500 +0000" stop="20260710020000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20260710020000 +0000" stop="20260710020500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1359,6 +1374,9 @@
 </programme>
 <programme start="20260710033000 +0000" stop="20260710040000 +0000" channel="BTV.vision">
 <title>Relasi</title>
+</programme>
+<programme start="20260710040000 +0000" stop="20260710050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
 <programme start="20260710050000 +0000" stop="20260710050500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1447,6 +1465,9 @@
 <programme start="20260710230300 +0000" stop="20260711003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
+<programme start="20260711003000 +0000" stop="20260711010000 +0000" channel="BTV.vision">
+<title>Anak Hebat</title>
+</programme>
 <programme start="20260711010000 +0000" stop="20260711010500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
 </programme>
@@ -1455,6 +1476,9 @@
 </programme>
 <programme start="20260711011500 +0000" stop="20260711014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
+</programme>
+<programme start="20260711014500 +0000" stop="20260711020000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20260711020000 +0000" stop="20260711020500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1471,30 +1495,6 @@
 <programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="BTV.vision">
 <title>Cuan Iki</title>
 </programme>
-<programme start="20260711063000 +0000" stop="20260711070000 +0000" channel="BTV.vision">
-<title>Monster Jam</title>
-</programme>
-<programme start="20260711070000 +0000" stop="20260711073000 +0000" channel="BTV.vision">
-<title>Pecah Telur</title>
-</programme>
-<programme start="20260711073000 +0000" stop="20260711080000 +0000" channel="BTV.vision">
-<title>Meja Redaksi</title>
-</programme>
-<programme start="20260711100000 +0000" stop="20260711104500 +0000" channel="BTV.vision">
-<title>Dunia Binatang</title>
-</programme>
-<programme start="20260711104500 +0000" stop="20260711113000 +0000" channel="BTV.vision">
-<title>Dunia Alam</title>
-</programme>
-<programme start="20260711113000 +0000" stop="20260711120000 +0000" channel="BTV.vision">
-<title>Persona</title>
-</programme>
-<programme start="20260710000000 +0000" stop="20260710010000 +0000" channel="TVRI.vision">
-<title>Jendela Negeri</title>
-</programme>
-<programme start="20260710010000 +0000" stop="20260710020000 +0000" channel="TVRI.vision">
-<title>Women&#039;s Insight</title>
-</programme>
-<programme start="20260710020000 +0000" stop="20260710020300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
+<programme start="20260711040000 +0000" stop="20260711053000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
