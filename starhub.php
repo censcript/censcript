@@ -2927,7 +2927,7 @@
         <title>How Utrecht became the world’s best cycling city</title>
     </programme>
     <programme start="20260709193000 +0000" stop="20260709200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Recovery or Ruin: Can Germany Escape the Crisis?</title>
     </programme>
     <programme start="20260709200000 +0000" stop="20260709203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -2951,7 +2951,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260709223000 +0000" stop="20260709230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Recovery or Ruin: Can Germany Escape the Crisis?</title>
     </programme>
     <programme start="20260709230000 +0000" stop="20260709230200 +0000" channel="DW English HD.starhub">
         <title>News</title>

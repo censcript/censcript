@@ -1457,7 +1457,7 @@
     <title>UK Crime Files - Getting Away With Murder</title>
 </programme>
 <programme start="20260710010000 +0000" stop="20260710020000 +0000" channel="True_Crime.virginmediatv">
-    <title>Britain&#039;s Countryside Killers - Silence After Midnight</title>
+    <title>Britain&#039;s Countryside Killers - Fateful Encounters</title>
 </programme>
 <programme start="20260710020000 +0000" stop="20260710030000 +0000" channel="True_Crime.virginmediatv">
     <title>Murder UK - The Spree</title>
@@ -4282,8 +4282,11 @@
 <programme start="20260710123000 +0000" stop="20260710130000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Manchester United v Manchester City</title>
 </programme>
-<programme start="20260710130000 +0000" stop="20260710140000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington Podcast - Stadium Launch</title>
+<programme start="20260710130000 +0000" stop="20260710134500 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260710134500 +0000" stop="20260710140000 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - Benjamin Sesko: The Gallery</title>
 </programme>
 <programme start="20260710140000 +0000" stop="20260710143000 +0000" channel="MUTV.virginmediatv">
     <title>25 Memorable Old Trafford Moments</title>
@@ -4315,8 +4318,11 @@
 <programme start="20260710164500 +0000" stop="20260710170000 +0000" channel="MUTV.virginmediatv">
     <title>Season Review - Top Ten Celebrations</title>
 </programme>
-<programme start="20260710170000 +0000" stop="20260710180000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington Podcast - Stadium Launch</title>
+<programme start="20260710170000 +0000" stop="20260710174500 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260710174500 +0000" stop="20260710180000 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260710000000 +0000" stop="20260710010000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>F1 Explained</title>

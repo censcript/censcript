@@ -664,9 +664,6 @@
 <programme start="20260710110000 +0000" stop="20260710130000 +0000" channel="ANTV.vision">
 <title>Iblis dalam Darah</title>
 </programme>
-<programme start="20260710130000 +0000" stop="20260710143000 +0000" channel="ANTV.vision">
-<title>Perkawinan Nyi Blorong</title>
-</programme>
 <programme start="20260710143000 +0000" stop="20260710163000 +0000" channel="ANTV.vision">
 <title>Darah Perjaka</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260710010000 +0000" stop="20260710020000 +0000" channel="TVRI.vision">
 <title>Women&#039;s Insight</title>
+</programme>
+<programme start="20260710020000 +0000" stop="20260710020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>
