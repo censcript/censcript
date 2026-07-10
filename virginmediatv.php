@@ -28,16 +28,16 @@
 <programme start="20260710170500 +0000" stop="20260710180000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Six O&#039;Clock Show</title>
 </programme>
-<programme start="20260709231500 +0000" stop="20260710002000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260709232000 +0000" stop="20260710002500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Death in Paradise</title>
 </programme>
-<programme start="20260710002000 +0000" stop="20260710005500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260710002500 +0000" stop="20260710010400 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Prime Time</title>
 </programme>
-<programme start="20260710005500 +0000" stop="20260710014500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260710010400 +0000" stop="20260710015400 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show</title>
 </programme>
-<programme start="20260710014500 +0000" stop="20260710050000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260710015400 +0000" stop="20260710050000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260710050000 +0000" stop="20260710055000 +0000" channel="RTE_One_HD.virginmediatv">
@@ -289,19 +289,19 @@
 <programme start="20260710175500 +0000" stop="20260710185500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Impossible Engineering - Ultimate Football Stadium</title>
 </programme>
-<programme start="20260709231000 +0000" stop="20260710001500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260709231500 +0000" stop="20260710002000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Hidden Assets</title>
 </programme>
-<programme start="20260710001500 +0000" stop="20260710012000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260710002000 +0000" stop="20260710012500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Death in Paradise</title>
 </programme>
-<programme start="20260710012000 +0000" stop="20260710015500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260710012500 +0000" stop="20260710020400 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Prime Time</title>
 </programme>
-<programme start="20260710015500 +0000" stop="20260710024500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260710020400 +0000" stop="20260710025400 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show</title>
 </programme>
-<programme start="20260710024500 +0000" stop="20260710060000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260710025400 +0000" stop="20260710060000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260710112000 +0000" stop="20260710121500 +0000" channel="RTE_One_+1.virginmediatv">
@@ -3799,7 +3799,10 @@
 <programme start="20260710003000 +0000" stop="20260710043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - Washington Freedom v Los Angeles Knight Riders</title>
 </programme>
-<programme start="20260710043000 +0000" stop="20260710060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260710043000 +0000" stop="20260710050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260710050000 +0000" stop="20260710060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260710090000 +0000" stop="20260710174500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4567,7 +4570,10 @@
 <programme start="20260710003000 +0000" stop="20260710043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - Washington Freedom v Los Angeles Knight Riders</title>
 </programme>
-<programme start="20260710043000 +0000" stop="20260710060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260710043000 +0000" stop="20260710050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260710050000 +0000" stop="20260710060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260710090000 +0000" stop="20260710174500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">

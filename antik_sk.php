@@ -3100,10 +3100,10 @@
   <programme start="20260712213400 +0000" stop="20260712221900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Yellowstone (5/9)</title>
   </programme>
-  <programme start="20260711215500 +0000" stop="20260711224900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260711215500 +0000" stop="20260711224800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Láska a sex v Mexiku</title>
   </programme>
-  <programme start="20260711224900 +0000" stop="20260711230200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260711224800 +0000" stop="20260711230200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Záhady starého Egypta (2/10)</title>
   </programme>
   <programme start="20260711230200 +0000" stop="20260711235300 +0000" channel="ČT2.webtv.sk">

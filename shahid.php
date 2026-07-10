@@ -4,6 +4,381 @@
     <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="946946.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260710000000 +0000" stop="20260710000500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260710000500 +0000" stop="20260710005500 +0000" channel="862837.shahid">
+        <title>Sharq Gharb - Episode 11464</title>
+    </programme>
+    <programme start="20260710005500 +0000" stop="20260710010000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710010000 +0000" stop="20260710010500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260710010500 +0000" stop="20260710013500 +0000" channel="862837.shahid">
+        <title>Taqreer Asia - Episode 119</title>
+    </programme>
+    <programme start="20260710013500 +0000" stop="20260710015500 +0000" channel="862837.shahid">
+        <title>Tech Plus S3 - Episode 36</title>
+    </programme>
+    <programme start="20260710015500 +0000" stop="20260710030000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710030000 +0000" stop="20260710035000 +0000" channel="862837.shahid">
+        <title>The Asia Trade - Episode 534</title>
+    </programme>
+    <programme start="20260710035000 +0000" stop="20260710035500 +0000" channel="862837.shahid">
+        <title>Ayam Saudia - Episode 10</title>
+    </programme>
+    <programme start="20260710035500 +0000" stop="20260710040000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710040000 +0000" stop="20260710042500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710042500 +0000" stop="20260710043000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710043000 +0000" stop="20260710050000 +0000" channel="862837.shahid">
+        <title>Haiti Kalemat Ded Al Rasas</title>
+    </programme>
+    <programme start="20260710050000 +0000" stop="20260710055000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710055000 +0000" stop="20260710060000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710060000 +0000" stop="20260710065000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710065000 +0000" stop="20260710070000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710070000 +0000" stop="20260710075000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710075000 +0000" stop="20260710080000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710080000 +0000" stop="20260710085000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710085000 +0000" stop="20260710090000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710090000 +0000" stop="20260710093000 +0000" channel="862837.shahid">
+        <title>Tahdethat Al Souq</title>
+    </programme>
+    <programme start="20260710093000 +0000" stop="20260710100000 +0000" channel="862837.shahid">
+        <title>Taqa Plus - Episode 245</title>
+    </programme>
+    <programme start="20260710100000 +0000" stop="20260710114000 +0000" channel="862837.shahid">
+        <title>Weekend Al Qahira S3 - Episode 36</title>
+    </programme>
+    <programme start="20260710114000 +0000" stop="20260710114500 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710114500 +0000" stop="20260710115000 +0000" channel="862837.shahid">
+        <title>Hakaya wa nas - Episode 257</title>
+    </programme>
+    <programme start="20260710115000 +0000" stop="20260710120000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710120000 +0000" stop="20260710125000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710125000 +0000" stop="20260710130000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710130000 +0000" stop="20260710132500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710132500 +0000" stop="20260710133000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710133000 +0000" stop="20260710135500 +0000" channel="862837.shahid">
+        <title>Al Aswaq Al Americia - Episode 164</title>
+    </programme>
+    <programme start="20260710135500 +0000" stop="20260710140000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710140000 +0000" stop="20260710145000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710145000 +0000" stop="20260710150000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 167</title>
+    </programme>
+    <programme start="20260710150000 +0000" stop="20260710155000 +0000" channel="862837.shahid">
+        <title>Jalsat Al Masaa&#039; - Episode 1471</title>
+    </programme>
+    <programme start="20260710155000 +0000" stop="20260710155500 +0000" channel="862837.shahid">
+        <title>Lelnajah Qessa S2 - Episode 33</title>
+    </programme>
+    <programme start="20260710155500 +0000" stop="20260710160000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710160000 +0000" stop="20260710160500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260710160500 +0000" stop="20260710165500 +0000" channel="862837.shahid">
+        <title>Daifey Ma&#039;a Moataz El Demerdash - Episode 121</title>
+    </programme>
+    <programme start="20260710165500 +0000" stop="20260710170000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710170000 +0000" stop="20260710175000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710175000 +0000" stop="20260710180000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710180000 +0000" stop="20260710180500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710180500 +0000" stop="20260710185000 +0000" channel="862837.shahid">
+        <title>Ala Al Houdod - Episode 282</title>
+    </programme>
+    <programme start="20260710185000 +0000" stop="20260710190000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 167</title>
+    </programme>
+    <programme start="20260710190000 +0000" stop="20260710195000 +0000" channel="862837.shahid">
+        <title>Alwan Asharq - Episode 2062</title>
+    </programme>
+    <programme start="20260710195000 +0000" stop="20260710200000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710200000 +0000" stop="20260710205000 +0000" channel="862837.shahid">
+        <title>Al Irtidad Sharqan - Episode 1980</title>
+    </programme>
+    <programme start="20260710205000 +0000" stop="20260710205500 +0000" channel="862837.shahid">
+        <title>Hakaya wa nas - Episode 257</title>
+    </programme>
+    <programme start="20260710205500 +0000" stop="20260710210000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710210000 +0000" stop="20260710215000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260710215000 +0000" stop="20260710220000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710220000 +0000" stop="20260710222500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260710222500 +0000" stop="20260710223000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710223000 +0000" stop="20260710230000 +0000" channel="862837.shahid">
+        <title>Taqa Plus - Episode 245</title>
+    </programme>
+    <programme start="20260710230000 +0000" stop="20260710230500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260710230500 +0000" stop="20260710235500 +0000" channel="862837.shahid">
+        <title>Daifey Ma&#039;a Moataz El Demerdash - Episode 121</title>
+    </programme>
+    <programme start="20260710235500 +0000" stop="20260711000000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711000000 +0000" stop="20260711000500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711000500 +0000" stop="20260711005000 +0000" channel="862837.shahid">
+        <title>Ala Al Houdod - Episode 282</title>
+    </programme>
+    <programme start="20260711005000 +0000" stop="20260711010000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711010000 +0000" stop="20260711010500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711010500 +0000" stop="20260711015000 +0000" channel="862837.shahid">
+        <title>Amaleqat Al Difa - Episode 1</title>
+    </programme>
+    <programme start="20260711015000 +0000" stop="20260711020000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711020000 +0000" stop="20260711020500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711020500 +0000" stop="20260711023500 +0000" channel="862837.shahid">
+        <title>The David Rubenstein Show S2 - Episode 75</title>
+    </programme>
+    <programme start="20260711023500 +0000" stop="20260711030000 +0000" channel="862837.shahid">
+        <title>Taqreer Asia - Episode 119</title>
+    </programme>
+    <programme start="20260711030000 +0000" stop="20260711032500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711032500 +0000" stop="20260711033000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711033000 +0000" stop="20260711035500 +0000" channel="862837.shahid">
+        <title>Tech Plus S3 - Episode 36</title>
+    </programme>
+    <programme start="20260711035500 +0000" stop="20260711040000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711040000 +0000" stop="20260711041500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711041500 +0000" stop="20260711042000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711042000 +0000" stop="20260711050000 +0000" channel="862837.shahid">
+        <title>Al Philippin Atfal Al Dhahab</title>
+    </programme>
+    <programme start="20260711050000 +0000" stop="20260711050500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711050500 +0000" stop="20260711055500 +0000" channel="862837.shahid">
+        <title>Asharq Business Week - Episode 76</title>
+    </programme>
+    <programme start="20260711055500 +0000" stop="20260711060000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711060000 +0000" stop="20260711065000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711065000 +0000" stop="20260711070000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711070000 +0000" stop="20260711075000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711075000 +0000" stop="20260711080000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711080000 +0000" stop="20260711085000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711085000 +0000" stop="20260711090000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711090000 +0000" stop="20260711090500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711090500 +0000" stop="20260711095500 +0000" channel="862837.shahid">
+        <title>Daifey Ma&#039;a Moataz El Demerdash - Episode 121</title>
+    </programme>
+    <programme start="20260711095500 +0000" stop="20260711100000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711100000 +0000" stop="20260711100500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711100500 +0000" stop="20260711105500 +0000" channel="862837.shahid">
+        <title>Asharq Business Week - Episode 77</title>
+    </programme>
+    <programme start="20260711105500 +0000" stop="20260711110000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711110000 +0000" stop="20260711112500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711112500 +0000" stop="20260711113000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711113000 +0000" stop="20260711115500 +0000" channel="862837.shahid">
+        <title>Tech Plus S3 - Episode 36</title>
+    </programme>
+    <programme start="20260711115500 +0000" stop="20260711120000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711120000 +0000" stop="20260711125000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711125000 +0000" stop="20260711130000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711130000 +0000" stop="20260711135000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711135000 +0000" stop="20260711140000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711140000 +0000" stop="20260711142500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711142500 +0000" stop="20260711143000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711143000 +0000" stop="20260711150000 +0000" channel="862837.shahid">
+        <title>Taqreer Asia - Episode 119</title>
+    </programme>
+    <programme start="20260711150000 +0000" stop="20260711152500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711152500 +0000" stop="20260711155500 +0000" channel="862837.shahid">
+        <title>Tech Plus S3 - Episode 37</title>
+    </programme>
+    <programme start="20260711155500 +0000" stop="20260711160000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711160000 +0000" stop="20260711160500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711160500 +0000" stop="20260711165000 +0000" channel="862837.shahid">
+        <title>Amaleqat Al Difa - Episode 2</title>
+    </programme>
+    <programme start="20260711165000 +0000" stop="20260711170000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711170000 +0000" stop="20260711175000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711175000 +0000" stop="20260711180000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711180000 +0000" stop="20260711180500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20260711180500 +0000" stop="20260711185000 +0000" channel="862837.shahid">
+        <title>Ma&#039;a Wa Ded - Episode 279</title>
+    </programme>
+    <programme start="20260711185000 +0000" stop="20260711185500 +0000" channel="862837.shahid">
+        <title>Ayam Saudia - Episode 10</title>
+    </programme>
+    <programme start="20260711185500 +0000" stop="20260711190000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711190000 +0000" stop="20260711195000 +0000" channel="862837.shahid">
+        <title>Alwan Asharq - Episode 2063</title>
+    </programme>
+    <programme start="20260711195000 +0000" stop="20260711200000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711200000 +0000" stop="20260711200500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711200500 +0000" stop="20260711214500 +0000" channel="862837.shahid">
+        <title>Weekend Al Qahira S3 - Episode 36</title>
+    </programme>
+    <programme start="20260711214500 +0000" stop="20260711220000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711220000 +0000" stop="20260711222500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711222500 +0000" stop="20260711223000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260711223000 +0000" stop="20260711230000 +0000" channel="862837.shahid">
+        <title>The David Rubenstein Show S2 - Episode 75</title>
+    </programme>
+    <programme start="20260711230000 +0000" stop="20260711230500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260711230500 +0000" stop="20260711235000 +0000" channel="862837.shahid">
+        <title>Amaleqat Al Difa - Episode 2</title>
+    </programme>
+    <programme start="20260711235000 +0000" stop="20260712000000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260712000000 +0000" stop="20260711235959 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
     <programme start="20260710000000 +0000" stop="20260710003000 +0000" channel="387288.shahid">
         <title>Al Hadath News</title>
     </programme>
@@ -394,6 +769,9 @@
     <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="995495.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="946948.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260710000000 +0000" stop="20260710004128 +0000" channel="988045.shahid">
         <title>Eshna W Shofna Episode 14</title>
     </programme>
@@ -561,9 +939,6 @@
     </programme>
     <programme start="20260711232610 +0000" stop="20260711235959 +0000" channel="988045.shahid">
         <title>Maraya 97 Episode 17</title>
-    </programme>
-    <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="946948.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="49922763510387.shahid">
         <title>TV guide is not available</title>
@@ -2248,6 +2623,222 @@
     <programme start="20260711223000 +0000" stop="20260711235959 +0000" channel="387294.shahid">
         <title>Rogue</title>
     </programme>
+    <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="49922763891977.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260710000000 +0000" stop="20260710001258 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 10</title>
+    </programme>
+    <programme start="20260710001258 +0000" stop="20260710010137 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 1</title>
+    </programme>
+    <programme start="20260710010137 +0000" stop="20260710014342 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 2</title>
+    </programme>
+    <programme start="20260710014342 +0000" stop="20260710022646 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 3</title>
+    </programme>
+    <programme start="20260710022646 +0000" stop="20260710030632 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 4</title>
+    </programme>
+    <programme start="20260710030632 +0000" stop="20260710034554 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 5</title>
+    </programme>
+    <programme start="20260710034554 +0000" stop="20260710042426 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 6</title>
+    </programme>
+    <programme start="20260710042426 +0000" stop="20260710050258 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 7</title>
+    </programme>
+    <programme start="20260710050258 +0000" stop="20260710054749 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 8</title>
+    </programme>
+    <programme start="20260710054749 +0000" stop="20260710063152 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 9</title>
+    </programme>
+    <programme start="20260710063152 +0000" stop="20260710071451 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 10</title>
+    </programme>
+    <programme start="20260710071451 +0000" stop="20260710080333 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 1</title>
+    </programme>
+    <programme start="20260710080333 +0000" stop="20260710084544 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 2</title>
+    </programme>
+    <programme start="20260710084544 +0000" stop="20260710092841 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 3</title>
+    </programme>
+    <programme start="20260710092841 +0000" stop="20260710100828 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 4</title>
+    </programme>
+    <programme start="20260710100828 +0000" stop="20260710104747 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 5</title>
+    </programme>
+    <programme start="20260710104747 +0000" stop="20260710112619 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 6</title>
+    </programme>
+    <programme start="20260710112619 +0000" stop="20260710120452 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 7</title>
+    </programme>
+    <programme start="20260710120452 +0000" stop="20260710124940 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 8</title>
+    </programme>
+    <programme start="20260710124940 +0000" stop="20260710133339 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 9</title>
+    </programme>
+    <programme start="20260710133339 +0000" stop="20260710141631 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 10</title>
+    </programme>
+    <programme start="20260710141631 +0000" stop="20260710145611 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 11</title>
+    </programme>
+    <programme start="20260710145611 +0000" stop="20260710153844 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 12</title>
+    </programme>
+    <programme start="20260710153844 +0000" stop="20260710162208 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 13</title>
+    </programme>
+    <programme start="20260710162208 +0000" stop="20260710170225 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
+    </programme>
+    <programme start="20260710170225 +0000" stop="20260710174558 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
+    </programme>
+    <programme start="20260710174558 +0000" stop="20260710182751 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
+    </programme>
+    <programme start="20260710182751 +0000" stop="20260710190616 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
+    </programme>
+    <programme start="20260710190616 +0000" stop="20260710194919 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
+    </programme>
+    <programme start="20260710194919 +0000" stop="20260710202939 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
+    </programme>
+    <programme start="20260710202939 +0000" stop="20260710210722 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
+    </programme>
+    <programme start="20260710210722 +0000" stop="20260710214657 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 11</title>
+    </programme>
+    <programme start="20260710214657 +0000" stop="20260710222927 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 12</title>
+    </programme>
+    <programme start="20260710222927 +0000" stop="20260710231250 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 13</title>
+    </programme>
+    <programme start="20260710231250 +0000" stop="20260710235313 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
+    </programme>
+    <programme start="20260710235313 +0000" stop="20260711003654 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
+    </programme>
+    <programme start="20260711003654 +0000" stop="20260711011846 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
+    </programme>
+    <programme start="20260711011846 +0000" stop="20260711015711 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
+    </programme>
+    <programme start="20260711015711 +0000" stop="20260711024015 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
+    </programme>
+    <programme start="20260711024015 +0000" stop="20260711032033 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
+    </programme>
+    <programme start="20260711032033 +0000" stop="20260711035823 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
+    </programme>
+    <programme start="20260711035823 +0000" stop="20260711043812 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 11</title>
+    </programme>
+    <programme start="20260711043812 +0000" stop="20260711052050 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 12</title>
+    </programme>
+    <programme start="20260711052050 +0000" stop="20260711060417 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 13</title>
+    </programme>
+    <programme start="20260711060417 +0000" stop="20260711064438 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
+    </programme>
+    <programme start="20260711064438 +0000" stop="20260711072818 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
+    </programme>
+    <programme start="20260711072818 +0000" stop="20260711081015 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
+    </programme>
+    <programme start="20260711081015 +0000" stop="20260711084838 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
+    </programme>
+    <programme start="20260711084838 +0000" stop="20260711093142 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
+    </programme>
+    <programme start="20260711093142 +0000" stop="20260711101204 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
+    </programme>
+    <programme start="20260711101204 +0000" stop="20260711104946 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
+    </programme>
+    <programme start="20260711104946 +0000" stop="20260711112930 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 11</title>
+    </programme>
+    <programme start="20260711112930 +0000" stop="20260711121202 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 12</title>
+    </programme>
+    <programme start="20260711121202 +0000" stop="20260711125529 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 13</title>
+    </programme>
+    <programme start="20260711125529 +0000" stop="20260711133552 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
+    </programme>
+    <programme start="20260711133552 +0000" stop="20260711141934 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
+    </programme>
+    <programme start="20260711141934 +0000" stop="20260711150126 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
+    </programme>
+    <programme start="20260711150126 +0000" stop="20260711153953 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
+    </programme>
+    <programme start="20260711153953 +0000" stop="20260711162254 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
+    </programme>
+    <programme start="20260711162254 +0000" stop="20260711170314 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
+    </programme>
+    <programme start="20260711170314 +0000" stop="20260711174059 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
+    </programme>
+    <programme start="20260711174059 +0000" stop="20260711182352 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 21</title>
+    </programme>
+    <programme start="20260711182352 +0000" stop="20260711190334 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 22</title>
+    </programme>
+    <programme start="20260711190334 +0000" stop="20260711194321 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Episode 23</title>
+    </programme>
+    <programme start="20260711194321 +0000" stop="20260711202523 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 24</title>
+    </programme>
+    <programme start="20260711202523 +0000" stop="20260711210812 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 25</title>
+    </programme>
+    <programme start="20260711210812 +0000" stop="20260711215055 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 26</title>
+    </programme>
+    <programme start="20260711215055 +0000" stop="20260711223258 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 27</title>
+    </programme>
+    <programme start="20260711223258 +0000" stop="20260711231723 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 28</title>
+    </programme>
+    <programme start="20260711231723 +0000" stop="20260711235802 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 29</title>
+    </programme>
+    <programme start="20260711235802 +0000" stop="20260711235959 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 30</title>
+    </programme>
     <programme start="20260710000000 +0000" stop="20260710002112 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 4 Episode 9</title>
     </programme>
@@ -2502,222 +3093,6 @@
     </programme>
     <programme start="20260711233215 +0000" stop="20260711235959 +0000" channel="976272.shahid">
         <title>El Kebeer Awi Season 7 Episode 3</title>
-    </programme>
-    <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="49922763891977.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710000000 +0000" stop="20260710001258 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 10</title>
-    </programme>
-    <programme start="20260710001258 +0000" stop="20260710010137 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 1</title>
-    </programme>
-    <programme start="20260710010137 +0000" stop="20260710014342 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 2</title>
-    </programme>
-    <programme start="20260710014342 +0000" stop="20260710022646 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 3</title>
-    </programme>
-    <programme start="20260710022646 +0000" stop="20260710030632 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 4</title>
-    </programme>
-    <programme start="20260710030632 +0000" stop="20260710034554 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 5</title>
-    </programme>
-    <programme start="20260710034554 +0000" stop="20260710042426 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 6</title>
-    </programme>
-    <programme start="20260710042426 +0000" stop="20260710050258 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 7</title>
-    </programme>
-    <programme start="20260710050258 +0000" stop="20260710054749 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 8</title>
-    </programme>
-    <programme start="20260710054749 +0000" stop="20260710063152 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 9</title>
-    </programme>
-    <programme start="20260710063152 +0000" stop="20260710071451 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 10</title>
-    </programme>
-    <programme start="20260710071451 +0000" stop="20260710080333 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 1</title>
-    </programme>
-    <programme start="20260710080333 +0000" stop="20260710084544 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 2</title>
-    </programme>
-    <programme start="20260710084544 +0000" stop="20260710092841 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 3</title>
-    </programme>
-    <programme start="20260710092841 +0000" stop="20260710100828 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 4</title>
-    </programme>
-    <programme start="20260710100828 +0000" stop="20260710104747 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 5</title>
-    </programme>
-    <programme start="20260710104747 +0000" stop="20260710112619 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 6</title>
-    </programme>
-    <programme start="20260710112619 +0000" stop="20260710120452 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 7</title>
-    </programme>
-    <programme start="20260710120452 +0000" stop="20260710124940 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 8</title>
-    </programme>
-    <programme start="20260710124940 +0000" stop="20260710133339 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 9</title>
-    </programme>
-    <programme start="20260710133339 +0000" stop="20260710141631 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 10</title>
-    </programme>
-    <programme start="20260710141631 +0000" stop="20260710145611 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 11</title>
-    </programme>
-    <programme start="20260710145611 +0000" stop="20260710153844 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 12</title>
-    </programme>
-    <programme start="20260710153844 +0000" stop="20260710162208 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 13</title>
-    </programme>
-    <programme start="20260710162208 +0000" stop="20260710170225 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
-    </programme>
-    <programme start="20260710170225 +0000" stop="20260710174558 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
-    </programme>
-    <programme start="20260710174558 +0000" stop="20260710182751 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
-    </programme>
-    <programme start="20260710182751 +0000" stop="20260710190616 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
-    </programme>
-    <programme start="20260710190616 +0000" stop="20260710194919 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
-    </programme>
-    <programme start="20260710194919 +0000" stop="20260710202939 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
-    </programme>
-    <programme start="20260710202939 +0000" stop="20260710210722 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
-    </programme>
-    <programme start="20260710210722 +0000" stop="20260710214657 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 11</title>
-    </programme>
-    <programme start="20260710214657 +0000" stop="20260710222927 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 12</title>
-    </programme>
-    <programme start="20260710222927 +0000" stop="20260710231250 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 13</title>
-    </programme>
-    <programme start="20260710231250 +0000" stop="20260710235313 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
-    </programme>
-    <programme start="20260710235313 +0000" stop="20260711003654 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
-    </programme>
-    <programme start="20260711003654 +0000" stop="20260711011846 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
-    </programme>
-    <programme start="20260711011846 +0000" stop="20260711015711 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
-    </programme>
-    <programme start="20260711015711 +0000" stop="20260711024015 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
-    </programme>
-    <programme start="20260711024015 +0000" stop="20260711032033 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
-    </programme>
-    <programme start="20260711032033 +0000" stop="20260711035823 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
-    </programme>
-    <programme start="20260711035823 +0000" stop="20260711043812 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 11</title>
-    </programme>
-    <programme start="20260711043812 +0000" stop="20260711052050 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 12</title>
-    </programme>
-    <programme start="20260711052050 +0000" stop="20260711060417 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 13</title>
-    </programme>
-    <programme start="20260711060417 +0000" stop="20260711064438 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
-    </programme>
-    <programme start="20260711064438 +0000" stop="20260711072818 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
-    </programme>
-    <programme start="20260711072818 +0000" stop="20260711081015 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
-    </programme>
-    <programme start="20260711081015 +0000" stop="20260711084838 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
-    </programme>
-    <programme start="20260711084838 +0000" stop="20260711093142 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
-    </programme>
-    <programme start="20260711093142 +0000" stop="20260711101204 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
-    </programme>
-    <programme start="20260711101204 +0000" stop="20260711104946 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
-    </programme>
-    <programme start="20260711104946 +0000" stop="20260711112930 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 11</title>
-    </programme>
-    <programme start="20260711112930 +0000" stop="20260711121202 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 12</title>
-    </programme>
-    <programme start="20260711121202 +0000" stop="20260711125529 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 13</title>
-    </programme>
-    <programme start="20260711125529 +0000" stop="20260711133552 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 14</title>
-    </programme>
-    <programme start="20260711133552 +0000" stop="20260711141934 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
-    </programme>
-    <programme start="20260711141934 +0000" stop="20260711150126 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
-    </programme>
-    <programme start="20260711150126 +0000" stop="20260711153953 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 17</title>
-    </programme>
-    <programme start="20260711153953 +0000" stop="20260711162254 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 18</title>
-    </programme>
-    <programme start="20260711162254 +0000" stop="20260711170314 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 19</title>
-    </programme>
-    <programme start="20260711170314 +0000" stop="20260711174059 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 20</title>
-    </programme>
-    <programme start="20260711174059 +0000" stop="20260711182352 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 21</title>
-    </programme>
-    <programme start="20260711182352 +0000" stop="20260711190334 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 22</title>
-    </programme>
-    <programme start="20260711190334 +0000" stop="20260711194321 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Episode 23</title>
-    </programme>
-    <programme start="20260711194321 +0000" stop="20260711202523 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 24</title>
-    </programme>
-    <programme start="20260711202523 +0000" stop="20260711210812 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 25</title>
-    </programme>
-    <programme start="20260711210812 +0000" stop="20260711215055 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 26</title>
-    </programme>
-    <programme start="20260711215055 +0000" stop="20260711223258 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 27</title>
-    </programme>
-    <programme start="20260711223258 +0000" stop="20260711231723 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 28</title>
-    </programme>
-    <programme start="20260711231723 +0000" stop="20260711235802 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 29</title>
-    </programme>
-    <programme start="20260711235802 +0000" stop="20260711235959 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 30</title>
     </programme>
     <programme start="20260710000000 +0000" stop="20260710001650 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 7 Episode 22</title>
@@ -3003,390 +3378,6 @@
     </programme>
     <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710000000 +0000" stop="20260710000500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260710000500 +0000" stop="20260710005500 +0000" channel="862837.shahid">
-        <title>Sharq Gharb - Episode 11464</title>
-    </programme>
-    <programme start="20260710005500 +0000" stop="20260710010000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710010000 +0000" stop="20260710010500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260710010500 +0000" stop="20260710013500 +0000" channel="862837.shahid">
-        <title>Taqreer Asia - Episode 119</title>
-    </programme>
-    <programme start="20260710013500 +0000" stop="20260710015500 +0000" channel="862837.shahid">
-        <title>Tech Plus S3 - Episode 36</title>
-    </programme>
-    <programme start="20260710015500 +0000" stop="20260710020000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710020000 +0000" stop="20260710035000 +0000" channel="862837.shahid">
-        <title>The Asia Trade - Episode 534</title>
-    </programme>
-    <programme start="20260710035000 +0000" stop="20260710035500 +0000" channel="862837.shahid">
-        <title>Ayam Saudia - Episode 10</title>
-    </programme>
-    <programme start="20260710035500 +0000" stop="20260710040000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710040000 +0000" stop="20260710042500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710042500 +0000" stop="20260710043000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710043000 +0000" stop="20260710045500 +0000" channel="862837.shahid">
-        <title>Documentary</title>
-    </programme>
-    <programme start="20260710045500 +0000" stop="20260710050000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710050000 +0000" stop="20260710055000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710055000 +0000" stop="20260710060000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710060000 +0000" stop="20260710065000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710065000 +0000" stop="20260710070000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710070000 +0000" stop="20260710075000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710075000 +0000" stop="20260710080000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710080000 +0000" stop="20260710085000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710085000 +0000" stop="20260710090000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710090000 +0000" stop="20260710093000 +0000" channel="862837.shahid">
-        <title>Tahdethat Al Souq</title>
-    </programme>
-    <programme start="20260710093000 +0000" stop="20260710100000 +0000" channel="862837.shahid">
-        <title>Taqa Plus - Episode 245</title>
-    </programme>
-    <programme start="20260710100000 +0000" stop="20260710114000 +0000" channel="862837.shahid">
-        <title>Weekend Al Qahira S3 - Episode 36</title>
-    </programme>
-    <programme start="20260710114000 +0000" stop="20260710114500 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710114500 +0000" stop="20260710115000 +0000" channel="862837.shahid">
-        <title>Hakaya wa nas - Episode 257</title>
-    </programme>
-    <programme start="20260710115000 +0000" stop="20260710120000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710120000 +0000" stop="20260710125000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710125000 +0000" stop="20260710130000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710130000 +0000" stop="20260710132500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710132500 +0000" stop="20260710133000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710133000 +0000" stop="20260710135500 +0000" channel="862837.shahid">
-        <title>Al Aswaq Al Americia - Episode 164</title>
-    </programme>
-    <programme start="20260710135500 +0000" stop="20260710140000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710140000 +0000" stop="20260710145000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710145000 +0000" stop="20260710150000 +0000" channel="862837.shahid">
-        <title>Asharq Cinema - Episode 167</title>
-    </programme>
-    <programme start="20260710150000 +0000" stop="20260710155000 +0000" channel="862837.shahid">
-        <title>Jalsat Al Masaa&#039; - Episode 1471</title>
-    </programme>
-    <programme start="20260710155000 +0000" stop="20260710155500 +0000" channel="862837.shahid">
-        <title>Lelnajah Qessa S2 - Episode 33</title>
-    </programme>
-    <programme start="20260710155500 +0000" stop="20260710160000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710160000 +0000" stop="20260710160500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260710160500 +0000" stop="20260710165500 +0000" channel="862837.shahid">
-        <title>Daifey Ma&#039;a Moataz El Demerdash - Episode 121</title>
-    </programme>
-    <programme start="20260710165500 +0000" stop="20260710170000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710170000 +0000" stop="20260710175000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710175000 +0000" stop="20260710180000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710180000 +0000" stop="20260710180500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710180500 +0000" stop="20260710185000 +0000" channel="862837.shahid">
-        <title>Ala Al Houdod - Episode 282</title>
-    </programme>
-    <programme start="20260710185000 +0000" stop="20260710190000 +0000" channel="862837.shahid">
-        <title>Asharq Cinema - Episode 167</title>
-    </programme>
-    <programme start="20260710190000 +0000" stop="20260710195000 +0000" channel="862837.shahid">
-        <title>Alwan Asharq - Episode 2062</title>
-    </programme>
-    <programme start="20260710195000 +0000" stop="20260710200000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710200000 +0000" stop="20260710205000 +0000" channel="862837.shahid">
-        <title>Al Irtidad Sharqan - Episode 1980</title>
-    </programme>
-    <programme start="20260710205000 +0000" stop="20260710205500 +0000" channel="862837.shahid">
-        <title>Hakaya wa nas - Episode 257</title>
-    </programme>
-    <programme start="20260710205500 +0000" stop="20260710210000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710210000 +0000" stop="20260710215000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260710215000 +0000" stop="20260710220000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710220000 +0000" stop="20260710222500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260710222500 +0000" stop="20260710223000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260710223000 +0000" stop="20260710230000 +0000" channel="862837.shahid">
-        <title>Taqa Plus - Episode 245</title>
-    </programme>
-    <programme start="20260710230000 +0000" stop="20260710230500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260710230500 +0000" stop="20260710235500 +0000" channel="862837.shahid">
-        <title>Daifey Ma&#039;a Moataz El Demerdash - Episode 121</title>
-    </programme>
-    <programme start="20260710235500 +0000" stop="20260711000000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711000000 +0000" stop="20260711000500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711000500 +0000" stop="20260711005000 +0000" channel="862837.shahid">
-        <title>Ala Al Houdod - Episode 282</title>
-    </programme>
-    <programme start="20260711005000 +0000" stop="20260711010000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711010000 +0000" stop="20260711010500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711010500 +0000" stop="20260711015000 +0000" channel="862837.shahid">
-        <title>Amaleqat Al Difa - Episode 1</title>
-    </programme>
-    <programme start="20260711015000 +0000" stop="20260711020000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711020000 +0000" stop="20260711020500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711020500 +0000" stop="20260711023500 +0000" channel="862837.shahid">
-        <title>The David Rubenstein Show S2 - Episode 75</title>
-    </programme>
-    <programme start="20260711023500 +0000" stop="20260711030000 +0000" channel="862837.shahid">
-        <title>Taqreer Asia - Episode 119</title>
-    </programme>
-    <programme start="20260711030000 +0000" stop="20260711032500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711032500 +0000" stop="20260711033000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711033000 +0000" stop="20260711035500 +0000" channel="862837.shahid">
-        <title>Tech Plus S3 - Episode 36</title>
-    </programme>
-    <programme start="20260711035500 +0000" stop="20260711040000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711040000 +0000" stop="20260711042500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711042500 +0000" stop="20260711043000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711043000 +0000" stop="20260711045500 +0000" channel="862837.shahid">
-        <title>Documentary</title>
-    </programme>
-    <programme start="20260711045500 +0000" stop="20260711050000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711050000 +0000" stop="20260711050500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711050500 +0000" stop="20260711055500 +0000" channel="862837.shahid">
-        <title>Asharq Business Week - Episode 76</title>
-    </programme>
-    <programme start="20260711055500 +0000" stop="20260711060000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711060000 +0000" stop="20260711065000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711065000 +0000" stop="20260711070000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711070000 +0000" stop="20260711075000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711075000 +0000" stop="20260711080000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711080000 +0000" stop="20260711085000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711085000 +0000" stop="20260711090000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711090000 +0000" stop="20260711090500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711090500 +0000" stop="20260711095500 +0000" channel="862837.shahid">
-        <title>Daifey Ma&#039;a Moataz El Demerdash - Episode 121</title>
-    </programme>
-    <programme start="20260711095500 +0000" stop="20260711100000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711100000 +0000" stop="20260711100500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711100500 +0000" stop="20260711105500 +0000" channel="862837.shahid">
-        <title>Asharq Business Week - Episode 77</title>
-    </programme>
-    <programme start="20260711105500 +0000" stop="20260711110000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711110000 +0000" stop="20260711112500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711112500 +0000" stop="20260711113000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711113000 +0000" stop="20260711115500 +0000" channel="862837.shahid">
-        <title>Tech Plus S3 - Episode 36</title>
-    </programme>
-    <programme start="20260711115500 +0000" stop="20260711120000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711120000 +0000" stop="20260711125000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711125000 +0000" stop="20260711130000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711130000 +0000" stop="20260711130500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711130500 +0000" stop="20260711135500 +0000" channel="862837.shahid">
-        <title>Documentary</title>
-    </programme>
-    <programme start="20260711135500 +0000" stop="20260711140000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711140000 +0000" stop="20260711142500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711142500 +0000" stop="20260711143000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711143000 +0000" stop="20260711150000 +0000" channel="862837.shahid">
-        <title>Taqreer Asia - Episode 119</title>
-    </programme>
-    <programme start="20260711150000 +0000" stop="20260711152500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711152500 +0000" stop="20260711155500 +0000" channel="862837.shahid">
-        <title>Tech Plus S3 - Episode 37</title>
-    </programme>
-    <programme start="20260711155500 +0000" stop="20260711160000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711160000 +0000" stop="20260711160500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711160500 +0000" stop="20260711165000 +0000" channel="862837.shahid">
-        <title>Amaleqat Al Difa - Episode 2</title>
-    </programme>
-    <programme start="20260711165000 +0000" stop="20260711170000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711170000 +0000" stop="20260711175000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711175000 +0000" stop="20260711180000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711180000 +0000" stop="20260711180500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20260711180500 +0000" stop="20260711185000 +0000" channel="862837.shahid">
-        <title>Ma&#039;a Wa Ded - Episode 279</title>
-    </programme>
-    <programme start="20260711185000 +0000" stop="20260711185500 +0000" channel="862837.shahid">
-        <title>Ayam Saudia - Episode 10</title>
-    </programme>
-    <programme start="20260711185500 +0000" stop="20260711190000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711190000 +0000" stop="20260711195000 +0000" channel="862837.shahid">
-        <title>Alwan Asharq - Episode 2063</title>
-    </programme>
-    <programme start="20260711195000 +0000" stop="20260711200000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711200000 +0000" stop="20260711200500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711200500 +0000" stop="20260711214500 +0000" channel="862837.shahid">
-        <title>Weekend Al Qahira S3 - Episode 36</title>
-    </programme>
-    <programme start="20260711214500 +0000" stop="20260711220000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711220000 +0000" stop="20260711222500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711222500 +0000" stop="20260711223000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260711223000 +0000" stop="20260711230000 +0000" channel="862837.shahid">
-        <title>The David Rubenstein Show S2 - Episode 75</title>
-    </programme>
-    <programme start="20260711230000 +0000" stop="20260711230500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20260711230500 +0000" stop="20260711235000 +0000" channel="862837.shahid">
-        <title>Amaleqat Al Difa - Episode 2</title>
-    </programme>
-    <programme start="20260711235000 +0000" stop="20260712000000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260712000000 +0000" stop="20260711235959 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
     </programme>
     <programme start="20260710000000 +0000" stop="20260711235959 +0000" channel="951783.shahid">
         <title>TV guide is not available</title>

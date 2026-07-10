@@ -8557,45 +8557,7 @@
 <programme start="20260710164000 +0000" stop="20260709171000 +0000" channel="Studio Universal.mncvision">
     <title>Nanny McPhee</title>
 </programme>
-<programme start="20260709173000 +0000" stop="20260709192500 +0000" channel="Studio Universal HD.mncvision">
-    <title>American Graffiti</title>
-</programme>
-<programme start="20260709192500 +0000" stop="20260709221500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Scarface</title>
-</programme>
-<programme start="20260709221500 +0000" stop="20260709230000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Defying Gravity: Wicked</title>
-</programme>
-<programme start="20260709230000 +0000" stop="20260710003500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Happy Gilmore</title>
-</programme>
-<programme start="20260710003500 +0000" stop="20260710021000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Hop</title>
-</programme>
-<programme start="20260710021000 +0000" stop="20260710040000 +0000" channel="Studio Universal HD.mncvision">
-    <title>American Graffiti</title>
-</programme>
-<programme start="20260710040000 +0000" stop="20260710064500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Scarface</title>
-</programme>
-<programme start="20260710064500 +0000" stop="20260710081500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Happy Gilmore</title>
-</programme>
-<programme start="20260710081500 +0000" stop="20260710095500 +0000" channel="Studio Universal HD.mncvision">
-    <title>Nanny McPhee</title>
-</programme>
-<programme start="20260710095500 +0000" stop="20260710113000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Shark Tale</title>
-</programme>
-<programme start="20260710113000 +0000" stop="20260710143500 +0000" channel="Studio Universal HD.mncvision">
-    <title>King Kong</title>
-</programme>
-<programme start="20260710143500 +0000" stop="20260710164000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Downton Abbey</title>
-</programme>
-<programme start="20260710164000 +0000" stop="20260709171000 +0000" channel="Studio Universal HD.mncvision">
-    <title>Nanny McPhee</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260709183000 +0000" stop="20260709190700 +0000" channel="Superrix.mncvision">
     <title>Christmas Cheer</title>
 </programme>

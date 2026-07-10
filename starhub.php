@@ -1955,7 +1955,7 @@
         <title>Movie - Pudhiya Mannargal</title>
     </programme>
     <programme start="20260710073000 +0000" stop="20260710103000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Thoongathe thambi thoongathe</title>
+        <title>Movie - Thoongathe Thambi Thoongathe</title>
     </programme>
     <programme start="20260710103000 +0000" stop="20260710133000 +0000" channel="KTV HD.starhub">
         <title>Movie - Ragalai</title>
@@ -2963,7 +2963,7 @@
         <title>How Utrecht became the world’s best cycling city</title>
     </programme>
     <programme start="20260709233000 +0000" stop="20260710000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Boost or bust the AfD? Inside Friedrich Merz’ gamble to reform Germany</title>
     </programme>
     <programme start="20260710000000 +0000" stop="20260710000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -2972,7 +2972,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260710003000 +0000" stop="20260710010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Recovery or Ruin: Can Germany Escape the Crisis?</title>
     </programme>
     <programme start="20260710010000 +0000" stop="20260710010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3032,7 +3032,7 @@
         <title>How Utrecht became the world’s best cycling city</title>
     </programme>
     <programme start="20260710063000 +0000" stop="20260710070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Boost or bust the AfD? Inside Friedrich Merz’ gamble to reform Germany</title>
     </programme>
     <programme start="20260710070000 +0000" stop="20260710070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3047,7 +3047,7 @@
         <title>News</title>
     </programme>
     <programme start="20260710080200 +0000" stop="20260710083000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Recovery or Ruin: Can Germany Escape the Crisis?</title>
     </programme>
     <programme start="20260710083000 +0000" stop="20260710090000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -3074,10 +3074,10 @@
         <title>News</title>
     </programme>
     <programme start="20260710110200 +0000" stop="20260710113000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Recovery or Ruin: Can Germany Escape the Crisis?</title>
     </programme>
     <programme start="20260710113000 +0000" stop="20260710120000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Boost or bust the AfD? Inside Friedrich Merz’ gamble to reform Germany</title>
     </programme>
     <programme start="20260710120000 +0000" stop="20260710120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3095,7 +3095,7 @@
         <title>News</title>
     </programme>
     <programme start="20260710131500 +0000" stop="20260710133000 +0000" channel="DW English HD.starhub">
-        <title>VW’s comeback plan: Legacy vs. the EV revolution</title>
+        <title>Why Mercedes became South Africa’s icon</title>
     </programme>
     <programme start="20260710133000 +0000" stop="20260710140000 +0000" channel="DW English HD.starhub">
         <title>Find your fitness style: CrossFit, walking, healthy routines</title>
@@ -3113,7 +3113,7 @@
         <title>News</title>
     </programme>
     <programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Recovery or Ruin: Can Germany Escape the Crisis?</title>
     </programme>
     <programme start="20260709160000 +0000" stop="20260709220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3550,32 +3550,11 @@
     <programme start="20260709230000 +0000" stop="20260709231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 75</title>
     </programme>
-    <programme start="20260709231500 +0000" stop="20260710005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260709231500 +0000" stop="20260710000000 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
-    <programme start="20260710005400 +0000" stop="20260710005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20260710005500 +0000" stop="20260710010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20260710010000 +0000" stop="20260710010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
-    </programme>
-    <programme start="20260710010500 +0000" stop="20260710015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Wildlife Special Selection &quot;A Massive Gathering of Whale Sharks, the Caribbean Sea&quot; (R)</title>
-    </programme>
-    <programme start="20260710015000 +0000" stop="20260710015500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20260710015500 +0000" stop="20260710024500 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK Special &quot;Yoro Takeshi’s Life and Death&quot; (R)</title>
-    </programme>
-    <programme start="20260710024500 +0000" stop="20260710025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>no art, no life</title>
-    </programme>
-    <programme start="20260710025000 +0000" stop="20260710025500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone</title>
+    <programme start="20260710000000 +0000" stop="20260710025500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20260710025500 +0000" stop="20260710030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3598,7 +3577,10 @@
     <programme start="20260710040000 +0000" stop="20260710040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260710040500 +0000" stop="20260710055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260710040500 +0000" stop="20260710041600 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260710041600 +0000" stop="20260710055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20260710055000 +0000" stop="20260710055500 +0000" channel="NHK World Premium HD.starhub">
@@ -3682,16 +3664,16 @@
     <programme start="20260710143000 +0000" stop="20260710144000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Commentary</title>
     </programme>
-    <programme start="20260710144000 +0000" stop="20260710144500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260710144000 +0000" stop="20260710145000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20260710144500 +0000" stop="20260710152900 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260710145000 +0000" stop="20260710153400 +0000" channel="NHK World Premium HD.starhub">
         <title>International News Report 2026</title>
     </programme>
-    <programme start="20260710152900 +0000" stop="20260710153000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260710153400 +0000" stop="20260710153500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260710153000 +0000" stop="20260710161300 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260710153500 +0000" stop="20260710161800 +0000" channel="NHK World Premium HD.starhub">
         <title>Samurai Drama Selections &quot;Crossing of Heat Haze&quot; （11）(Final) (R)</title>
     </programme>
     <programme start="20260709151000 +0000" stop="20260709165000 +0000" channel="HBO HD.starhub">
