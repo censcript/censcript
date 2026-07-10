@@ -4735,11 +4735,8 @@
   <programme start="20260712003000 +0000" stop="20260712020500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">SC Magdeburg - MT Melsungen</title>
   </programme>
-  <programme start="20260712020500 +0000" stop="20260712050000 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20260712020500 +0000" stop="20260712050500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">SG Flensburg-Handewitt - Füchse Berlin</title>
-  </programme>
-  <programme start="20260712050000 +0000" stop="20260712050500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
   </programme>
   <programme start="20260712050500 +0000" stop="20260712064500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Argentina - Wales</title>

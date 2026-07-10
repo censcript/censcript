@@ -424,7 +424,7 @@
 <programme start="20260710100000 +0000" stop="20260710140000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 12</title>
 </programme>
-<programme start="20260710140000 +0000" stop="20260710183000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260710140000 +0000" stop="20260710181500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 12</title>
 </programme>
 <programme start="20260710000000 +0000" stop="20260710010000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
