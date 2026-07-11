@@ -3940,7 +3940,7 @@
 <programme start="20260711050000 +0000" stop="20260711070000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: NRL - Dolphins v Cronulla-Sutherland Sharks</title>
 </programme>
-<programme start="20260711090000 +0000" stop="20260711140000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260711080000 +0000" stop="20260711140000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: Scottish Open, DP World Tour Golf - Day 3</title>
 </programme>
 <programme start="20260711140000 +0000" stop="20260711160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4600,7 +4600,7 @@
 <programme start="20260711050000 +0000" stop="20260711070000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: NRL - Dolphins v Cronulla-Sutherland Sharks</title>
 </programme>
-<programme start="20260711090000 +0000" stop="20260711140000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260711080000 +0000" stop="20260711140000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: Scottish Open, DP World Tour Golf - Day 3</title>
 </programme>
 <programme start="20260711140000 +0000" stop="20260711160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
