@@ -1051,22 +1051,19 @@
   <programme start="20260713210500 +0000" stop="20260713220500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Pohotovosť II (6)</title>
   </programme>
-  <programme start="20260712210000 +0000" stop="20260712220500 +0000" channel="Markíza Krimi.webtv.sk">
-    <title lang="id">Zmiznutí a zabití III (10)</title>
-  </programme>
-  <programme start="20260712220500 +0000" stop="20260712224500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260712215500 +0000" stop="20260712223000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Polícia Chicago VI (15)</title>
   </programme>
-  <programme start="20260712224500 +0000" stop="20260712232500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260712223000 +0000" stop="20260712231000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Polícia Chicago VI (16)</title>
   </programme>
-  <programme start="20260712232500 +0000" stop="20260713001000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260712231000 +0000" stop="20260712235500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti V (30)</title>
   </programme>
-  <programme start="20260713001000 +0000" stop="20260713010000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260712235500 +0000" stop="20260713004500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti V (31)</title>
   </programme>
-  <programme start="20260713010000 +0000" stop="20260713013500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260713004500 +0000" stop="20260713013500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Zmiznutí a zabití III (10)</title>
   </programme>
   <programme start="20260713013500 +0000" stop="20260713030000 +0000" channel="Markíza Krimi.webtv.sk">
@@ -1102,13 +1099,13 @@
   <programme start="20260713101000 +0000" stop="20260713110500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (3)</title>
   </programme>
-  <programme start="20260713110500 +0000" stop="20260713121500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260713110500 +0000" stop="20260713122500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Policajné prípady (4)</title>
   </programme>
-  <programme start="20260713121500 +0000" stop="20260713131500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260713122500 +0000" stop="20260713132000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti IX (19)</title>
   </programme>
-  <programme start="20260713131500 +0000" stop="20260713141000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260713132000 +0000" stop="20260713141000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti IX (20)</title>
   </programme>
   <programme start="20260713141000 +0000" stop="20260713151000 +0000" channel="Markíza Krimi.webtv.sk">

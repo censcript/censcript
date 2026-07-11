@@ -7546,8 +7546,93 @@
 <programme start="20260712160000 +0000" stop="20260712163000 +0000" channel="RCTI HD.mncvision">
     <title>Semua Indah Karena Cinta</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260711175000 +0000" stop="20260711191500 +0000" channel="Rock Action.mncvision">
+    <title>Final Approach, Pt 1</title>
+</programme>
+<programme start="20260711191500 +0000" stop="20260711204500 +0000" channel="Rock Action.mncvision">
+    <title>Final Approach, Pt 2</title>
+</programme>
+<programme start="20260711204500 +0000" stop="20260711223000 +0000" channel="Rock Action.mncvision">
+    <title>Fist Of Legend</title>
+</programme>
+<programme start="20260711223000 +0000" stop="20260711235500 +0000" channel="Rock Action.mncvision">
+    <title>Pandemic, Pt 1</title>
+</programme>
+<programme start="20260711235500 +0000" stop="20260712012500 +0000" channel="Rock Action.mncvision">
+    <title>Pandemic, Pt 2</title>
+</programme>
+<programme start="20260712012500 +0000" stop="20260712031000 +0000" channel="Rock Action.mncvision">
+    <title>Dante&#039;s Peak</title>
+</programme>
+<programme start="20260712031000 +0000" stop="20260712044500 +0000" channel="Rock Action.mncvision">
+    <title>Rambo: First Blood, Pt 2</title>
+</programme>
+<programme start="20260712044500 +0000" stop="20260712062500 +0000" channel="Rock Action.mncvision">
+    <title>The Chinese Widow</title>
+</programme>
+<programme start="20260712062500 +0000" stop="20260712080000 +0000" channel="Rock Action.mncvision">
+    <title>Twin Dragons</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712100000 +0000" channel="Rock Action.mncvision">
+    <title>Around The World In 80 Days</title>
+</programme>
+<programme start="20260712100000 +0000" stop="20260712112500 +0000" channel="Rock Action.mncvision">
+    <title>Pandemic, Pt 1</title>
+</programme>
+<programme start="20260712112500 +0000" stop="20260712125500 +0000" channel="Rock Action.mncvision">
+    <title>Pandemic, Pt 2</title>
+</programme>
+<programme start="20260712125500 +0000" stop="20260712145500 +0000" channel="Rock Action.mncvision">
+    <title>Birdman</title>
+</programme>
+<programme start="20260712145500 +0000" stop="20260712152500 +0000" channel="Rock Action.mncvision">
+    <title>Mulholland Dr.</title>
+</programme>
+<programme start="20260711174500 +0000" stop="20260711192000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarian: King Solomon</title>
+</programme>
+<programme start="20260711192000 +0000" stop="20260711204500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Spy Kids: All Time In The World</title>
+</programme>
+<programme start="20260711204500 +0000" stop="20260711223500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarian: Quest For Spear</title>
+</programme>
+<programme start="20260711223500 +0000" stop="20260712000500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Bride Wars</title>
+</programme>
+<programme start="20260712000500 +0000" stop="20260712013500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Alvin And The Chipmunks</title>
+</programme>
+<programme start="20260712013500 +0000" stop="20260712031000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarian: King Solomon</title>
+</programme>
+<programme start="20260712031000 +0000" stop="20260712044000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Alvin And The Chipmunks</title>
+</programme>
+<programme start="20260712044000 +0000" stop="20260712063000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarian: Quest For Spear</title>
+</programme>
+<programme start="20260712063000 +0000" stop="20260712080000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Alvin And The Chipmunks</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712092500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Spy Kids: All Time In The World</title>
+</programme>
+<programme start="20260712092500 +0000" stop="20260712105500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Bride Wars</title>
+</programme>
+<programme start="20260712105500 +0000" stop="20260712123000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarian: King Solomon</title>
+</programme>
+<programme start="20260712123000 +0000" stop="20260712142000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Kindergarten Cop</title>
+</programme>
+<programme start="20260712142000 +0000" stop="20260712155000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Alvin And The Chipmunks</title>
+</programme>
+<programme start="20260712155000 +0000" stop="20260712162000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Librarian: Quest For Spear</title>
+</programme>
 <programme start="20260711180000 +0000" stop="20260711193000 +0000" channel="SCTV.mncvision">
     <title>FTV Utama</title>
 </programme>
@@ -7845,7 +7930,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260712163000 +0000" stop="20260711170000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2025/26: BMG Vs FCB</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260711183000 +0000" stop="20260711190000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Extra Time</title>
+</programme>
+<programme start="20260711190000 +0000" stop="20260711210000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2</title>
+</programme>
+<programme start="20260711210000 +0000" stop="20260711213000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260711213000 +0000" stop="20260711233000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Sportacular Int&#039;l: CRO Vs BEL</title>
+</programme>
+<programme start="20260711233000 +0000" stop="20260712013000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: SVW Vs FCU</title>
+</programme>
+<programme start="20260712013000 +0000" stop="20260712033000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Satu Hati Untuk Garuda</title>
+</programme>
+<programme start="20260712033000 +0000" stop="20260712040000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Extra Time</title>
+</programme>
+<programme start="20260712040000 +0000" stop="20260712060000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Pro Futsal League 2</title>
+</programme>
+<programme start="20260712060000 +0000" stop="20260712080000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Garuda Di Arena SEA Games</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712100000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: BMG Vs FCB</title>
+</programme>
+<programme start="20260712100000 +0000" stop="20260712103000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20260712103000 +0000" stop="20260712123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Sportacular Int&#039;l: GEO Vs ROU</title>
+</programme>
+<programme start="20260712123000 +0000" stop="20260712143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Satu Hati Untuk Garuda</title>
+</programme>
+<programme start="20260712143000 +0000" stop="20260712163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Garuda Di Arena SEA Games</title>
+</programme>
+<programme start="20260712163000 +0000" stop="20260711170000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Bundesliga 2025/26: BMG Vs FCB</title>
+</programme>
 <programme start="20260711173000 +0000" stop="20260711180000 +0000" channel="Sportstars.mncvision">
     <title>Bloopers</title>
 </programme>
@@ -8446,11 +8575,405 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260712165000 +0000" stop="20260711172000 +0000" channel="Studio Universal HD.mncvision">
     <title>The Jackal</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260711180900 +0000" stop="20260711200000 +0000" channel="Superrix.mncvision">
+    <title>Before Your Time</title>
+</programme>
+<programme start="20260711200000 +0000" stop="20260711220700 +0000" channel="Superrix.mncvision">
+    <title>Black Flowers</title>
+</programme>
+<programme start="20260711220700 +0000" stop="20260712001600 +0000" channel="Superrix.mncvision">
+    <title>Lost Souls: The Return</title>
+</programme>
+<programme start="20260712001600 +0000" stop="20260712015700 +0000" channel="Superrix.mncvision">
+    <title>Infinitum Subject Unknown</title>
+</programme>
+<programme start="20260712015700 +0000" stop="20260712034800 +0000" channel="Superrix.mncvision">
+    <title>Deadly Secrets: The Confession</title>
+</programme>
+<programme start="20260712034800 +0000" stop="20260712053700 +0000" channel="Superrix.mncvision">
+    <title>A Match Made At Christmas</title>
+</programme>
+<programme start="20260712053700 +0000" stop="20260712075400 +0000" channel="Superrix.mncvision">
+    <title>Occupation: Rainfall</title>
+</programme>
+<programme start="20260712075400 +0000" stop="20260712094400 +0000" channel="Superrix.mncvision">
+    <title>Lost Souls: The Return</title>
+</programme>
+<programme start="20260712094400 +0000" stop="20260712112400 +0000" channel="Superrix.mncvision">
+    <title>Killer Mom</title>
+</programme>
+<programme start="20260712112400 +0000" stop="20260712132000 +0000" channel="Superrix.mncvision">
+    <title>Deadly Secrets: The Confession</title>
+</programme>
+<programme start="20260712132000 +0000" stop="20260712144100 +0000" channel="Superrix.mncvision">
+    <title>In The Name Of God</title>
+</programme>
+<programme start="20260712144100 +0000" stop="20260712164700 +0000" channel="Superrix.mncvision">
+    <title>Chuck</title>
+</programme>
+<programme start="20260712164700 +0000" stop="20260711171700 +0000" channel="Superrix.mncvision">
+    <title>Lost Souls: The Return</title>
+</programme>
+<programme start="20260711180900 +0000" stop="20260711200000 +0000" channel="Superrix HD.mncvision">
+    <title>Before Your Time</title>
+</programme>
+<programme start="20260711200000 +0000" stop="20260711220700 +0000" channel="Superrix HD.mncvision">
+    <title>Black Flowers</title>
+</programme>
+<programme start="20260711220700 +0000" stop="20260712001600 +0000" channel="Superrix HD.mncvision">
+    <title>Lost Souls: The Return</title>
+</programme>
+<programme start="20260712001600 +0000" stop="20260712015700 +0000" channel="Superrix HD.mncvision">
+    <title>Infinitum Subject Unknown</title>
+</programme>
+<programme start="20260712015700 +0000" stop="20260712034800 +0000" channel="Superrix HD.mncvision">
+    <title>Deadly Secrets: The Confession</title>
+</programme>
+<programme start="20260712034800 +0000" stop="20260712053700 +0000" channel="Superrix HD.mncvision">
+    <title>A Match Made At Christmas</title>
+</programme>
+<programme start="20260712053700 +0000" stop="20260712075400 +0000" channel="Superrix HD.mncvision">
+    <title>Occupation: Rainfall</title>
+</programme>
+<programme start="20260712075400 +0000" stop="20260712094400 +0000" channel="Superrix HD.mncvision">
+    <title>Lost Souls: The Return</title>
+</programme>
+<programme start="20260712094400 +0000" stop="20260712112400 +0000" channel="Superrix HD.mncvision">
+    <title>Killer Mom</title>
+</programme>
+<programme start="20260712112400 +0000" stop="20260712132000 +0000" channel="Superrix HD.mncvision">
+    <title>Deadly Secrets: The Confession</title>
+</programme>
+<programme start="20260712132000 +0000" stop="20260712144100 +0000" channel="Superrix HD.mncvision">
+    <title>In The Name Of God</title>
+</programme>
+<programme start="20260712144100 +0000" stop="20260712164700 +0000" channel="Superrix HD.mncvision">
+    <title>Chuck</title>
+</programme>
+<programme start="20260712164700 +0000" stop="20260711171700 +0000" channel="Superrix HD.mncvision">
+    <title>Lost Souls: The Return</title>
+</programme>
+<programme start="20260711170000 +0000" stop="20260711173000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711173000 +0000" stop="20260711183000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711183000 +0000" stop="20260711190000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711193000 +0000" stop="20260711200000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711200000 +0000" stop="20260711203000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711203000 +0000" stop="20260711210000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711210000 +0000" stop="20260711213000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711213000 +0000" stop="20260711220000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711220000 +0000" stop="20260711223000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711223000 +0000" stop="20260711230000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711230000 +0000" stop="20260712000000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712000000 +0000" stop="20260712003000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712003000 +0000" stop="20260712010000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712010000 +0000" stop="20260712020000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712020000 +0000" stop="20260712023000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712023000 +0000" stop="20260712030000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712030000 +0000" stop="20260712033000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712033000 +0000" stop="20260712040000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712040000 +0000" stop="20260712043000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712043000 +0000" stop="20260712050000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712050000 +0000" stop="20260712053000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712053000 +0000" stop="20260712060000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712060000 +0000" stop="20260712070000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712070000 +0000" stop="20260712073000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712073000 +0000" stop="20260712080000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712090000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712090000 +0000" stop="20260712093000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712100000 +0000" stop="20260712103000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712103000 +0000" stop="20260712110000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712110000 +0000" stop="20260712113000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712113000 +0000" stop="20260712120000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712120000 +0000" stop="20260712123000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712123000 +0000" stop="20260712130000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712130000 +0000" stop="20260712133000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712133000 +0000" stop="20260712140000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712140000 +0000" stop="20260712143000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712143000 +0000" stop="20260712150000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712150000 +0000" stop="20260712153000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712153000 +0000" stop="20260712160000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712160000 +0000" stop="20260712163000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260712163000 +0000" stop="20260711170000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260711171500 +0000" stop="20260711174500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260711174500 +0000" stop="20260711175500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260711175500 +0000" stop="20260711183000 +0000" channel="Thrill.mncvision">
+    <title>Whisper Of Silent Body</title>
+</programme>
+<programme start="20260711183000 +0000" stop="20260711190000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260711193000 +0000" stop="20260711194500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260711194500 +0000" stop="20260711200000 +0000" channel="Thrill.mncvision">
+    <title>The Ones You Didn&#039;t Burn</title>
+</programme>
+<programme start="20260711200000 +0000" stop="20260711210000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260711210000 +0000" stop="20260711214500 +0000" channel="Thrill.mncvision">
+    <title>The Elite Of Devils</title>
+</programme>
+<programme start="20260711214500 +0000" stop="20260711223000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260711223000 +0000" stop="20260711225500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260711225500 +0000" stop="20260711233000 +0000" channel="Thrill.mncvision">
+    <title>The Case Of Disappearances</title>
+</programme>
+<programme start="20260711233000 +0000" stop="20260712001000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712001000 +0000" stop="20260712003000 +0000" channel="Thrill.mncvision">
+    <title>Possession Of Leah Dela Cruz</title>
+</programme>
+<programme start="20260712003000 +0000" stop="20260712013000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712013000 +0000" stop="20260712015500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712015500 +0000" stop="20260712023000 +0000" channel="Thrill.mncvision">
+    <title>Whisper Of Silent Body</title>
+</programme>
+<programme start="20260712023000 +0000" stop="20260712031500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712031500 +0000" stop="20260712034500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712034500 +0000" stop="20260712041500 +0000" channel="Thrill.mncvision">
+    <title>The Ones You Didn&#039;t Burn</title>
+</programme>
+<programme start="20260712041500 +0000" stop="20260712050000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712050000 +0000" stop="20260712054500 +0000" channel="Thrill.mncvision">
+    <title>The Elite Of Devils</title>
+</programme>
+<programme start="20260712054500 +0000" stop="20260712063000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712063000 +0000" stop="20260712065500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712065500 +0000" stop="20260712071500 +0000" channel="Thrill.mncvision">
+    <title>The Case Of Disappearances</title>
+</programme>
+<programme start="20260712071500 +0000" stop="20260712080000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712081000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712081000 +0000" stop="20260712090000 +0000" channel="Thrill.mncvision">
+    <title>Possession Of Leah Dela Cruz</title>
+</programme>
+<programme start="20260712090000 +0000" stop="20260712095500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712095500 +0000" stop="20260712100000 +0000" channel="Thrill.mncvision">
+    <title>Whisper Of Silent Body</title>
+</programme>
+<programme start="20260712100000 +0000" stop="20260712110000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712110000 +0000" stop="20260712114500 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712114500 +0000" stop="20260712121500 +0000" channel="Thrill.mncvision">
+    <title>The Ones You Didn&#039;t Burn</title>
+</programme>
+<programme start="20260712121500 +0000" stop="20260712130000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712130000 +0000" stop="20260712143000 +0000" channel="Thrill.mncvision">
+    <title>Creepy Pasta</title>
+</programme>
+<programme start="20260712143000 +0000" stop="20260712152000 +0000" channel="Thrill.mncvision">
+    <title>Sinister, Ep 1</title>
+</programme>
+<programme start="20260712152000 +0000" stop="20260712163000 +0000" channel="Thrill.mncvision">
+    <title>An Unquiet Grave</title>
+</programme>
+<programme start="20260712163000 +0000" stop="20260712164000 +0000" channel="Thrill.mncvision">
+    <title>Trans7</title>
+</programme>
+<programme start="20260712164000 +0000" stop="20260711171000 +0000" channel="Thrill.mncvision">
+    <title>Ghost Wedding</title>
+</programme>
+<programme start="20260711173000 +0000" stop="20260711181500 +0000" channel="Trans 7.mncvision">
+    <title>MotoGP Sprint Race Germany</title>
+</programme>
+<programme start="20260711181500 +0000" stop="20260711190000 +0000" channel="Trans 7.mncvision">
+    <title>Superbike 2026 UK</title>
+</programme>
+<programme start="20260711190000 +0000" stop="20260711201500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20260711201500 +0000" stop="20260711214500 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20260711214500 +0000" stop="20260711223000 +0000" channel="Trans 7.mncvision">
+    <title>Jalur Langit</title>
+</programme>
+<programme start="20260711223000 +0000" stop="20260711233000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi Akhir Pekan</title>
+</programme>
+<programme start="20260711233000 +0000" stop="20260712003000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20260712003000 +0000" stop="20260712013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20260712013000 +0000" stop="20260712021500 +0000" channel="Trans 7.mncvision">
+    <title>Bikin Seneng</title>
+</programme>
+<programme start="20260712021500 +0000" stop="20260712031500 +0000" channel="Trans 7.mncvision">
+    <title>Heits Abis</title>
+</programme>
+<programme start="20260712031500 +0000" stop="20260712041500 +0000" channel="Trans 7.mncvision">
+    <title>Obrolan Tiap Waktu</title>
+</programme>
+<programme start="20260712041500 +0000" stop="20260712050000 +0000" channel="Trans 7.mncvision">
+    <title>Enaknya Mantul</title>
+</programme>
+<programme start="20260712050000 +0000" stop="20260712054500 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Petualangan</title>
+</programme>
+<programme start="20260712054500 +0000" stop="20260712063000 +0000" channel="Trans 7.mncvision">
+    <title>The Explorer</title>
+</programme>
+<programme start="20260712063000 +0000" stop="20260712071500 +0000" channel="Trans 7.mncvision">
+    <title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20260712071500 +0000" stop="20260712080000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi Akhir Pekan</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712090000 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20260712090000 +0000" stop="20260712100000 +0000" channel="Trans 7.mncvision">
+    <title>Moto3 2026 Germany GP</title>
+</programme>
+<programme start="20260712100000 +0000" stop="20260712110000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20260712110000 +0000" stop="20260712114500 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260712114500 +0000" stop="20260712130000 +0000" channel="Trans 7.mncvision">
+    <title>MotoGP 2026 Germany GP</title>
+</programme>
+<programme start="20260712130000 +0000" stop="20260712143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20260712143000 +0000" stop="20260712154500 +0000" channel="Trans 7.mncvision">
+    <title>Bts</title>
+</programme>
+<programme start="20260712154500 +0000" stop="20260712163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20260712163000 +0000" stop="20260711170000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
 <programme start="20260711171500 +0000" stop="20260711220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Tech News</title>
 </programme>
@@ -8502,8 +9025,108 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260712151500 +0000" stop="20260712154500 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260711183000 +0000" stop="20260711190000 +0000" channel="tvN.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 3</title>
+</programme>
+<programme start="20260711190000 +0000" stop="20260711202000 +0000" channel="tvN.mncvision">
+    <title>Mr. Eo&#039;s Food World Tour, Ep 2</title>
+</programme>
+<programme start="20260711202000 +0000" stop="20260711220000 +0000" channel="tvN.mncvision">
+    <title>Guardian 10th Anniversary, Ep 1</title>
+</programme>
+<programme start="20260711220000 +0000" stop="20260711223000 +0000" channel="tvN.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 4</title>
+</programme>
+<programme start="20260711223000 +0000" stop="20260711225000 +0000" channel="tvN.mncvision">
+    <title>You Can Cook, Sam Kim, Ep 3</title>
+</programme>
+<programme start="20260711225000 +0000" stop="20260712003000 +0000" channel="tvN.mncvision">
+    <title>Rented In Finland, Ep 10</title>
+</programme>
+<programme start="20260712003000 +0000" stop="20260712014500 +0000" channel="tvN.mncvision">
+    <title>Filing For Love, Ep 1</title>
+</programme>
+<programme start="20260712014500 +0000" stop="20260712030000 +0000" channel="tvN.mncvision">
+    <title>Filing For Love, Ep 2</title>
+</programme>
+<programme start="20260712030000 +0000" stop="20260712044000 +0000" channel="tvN.mncvision">
+    <title>GBRB: Farm Operation, Ep 3</title>
+</programme>
+<programme start="20260712044000 +0000" stop="20260712060000 +0000" channel="tvN.mncvision">
+    <title>Mr. Eo&#039;s Food World Tour, Ep 2</title>
+</programme>
+<programme start="20260712060000 +0000" stop="20260712080000 +0000" channel="tvN.mncvision">
+    <title>Undercover Chef: Korea, Ep 7</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712094000 +0000" channel="tvN.mncvision">
+    <title>Guardian 10th Anniversary, Ep 1</title>
+</programme>
+<programme start="20260712094000 +0000" stop="20260712113000 +0000" channel="tvN.mncvision">
+    <title>Kill It: Style Creator..., Ep 5</title>
+</programme>
+<programme start="20260712113000 +0000" stop="20260712132000 +0000" channel="tvN.mncvision">
+    <title>Sixth Sense: City Tour, Ep 1</title>
+</programme>
+<programme start="20260712132000 +0000" stop="20260712143500 +0000" channel="tvN.mncvision">
+    <title>Yumi&#039;s Cells S3, Ep 5</title>
+</programme>
+<programme start="20260712143500 +0000" stop="20260712155500 +0000" channel="tvN.mncvision">
+    <title>Yumi&#039;s Cells S3, Ep 6</title>
+</programme>
+<programme start="20260712155500 +0000" stop="20260712162500 +0000" channel="tvN.mncvision">
+    <title>Filing For Love, Ep 1</title>
+</programme>
+<programme start="20260711183000 +0000" stop="20260711190000 +0000" channel="tvN HD.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 3</title>
+</programme>
+<programme start="20260711190000 +0000" stop="20260711202000 +0000" channel="tvN HD.mncvision">
+    <title>Mr. Eo&#039;s Food World Tour, Ep 2</title>
+</programme>
+<programme start="20260711202000 +0000" stop="20260711220000 +0000" channel="tvN HD.mncvision">
+    <title>Guardian 10th Anniversary, Ep 1</title>
+</programme>
+<programme start="20260711220000 +0000" stop="20260711223000 +0000" channel="tvN HD.mncvision">
+    <title>Chansung&#039;s Cooking, Ep 4</title>
+</programme>
+<programme start="20260711223000 +0000" stop="20260711225000 +0000" channel="tvN HD.mncvision">
+    <title>You Can Cook, Sam Kim, Ep 3</title>
+</programme>
+<programme start="20260711225000 +0000" stop="20260712003000 +0000" channel="tvN HD.mncvision">
+    <title>Rented In Finland, Ep 10</title>
+</programme>
+<programme start="20260712003000 +0000" stop="20260712014500 +0000" channel="tvN HD.mncvision">
+    <title>Filing For Love, Ep 1</title>
+</programme>
+<programme start="20260712014500 +0000" stop="20260712030000 +0000" channel="tvN HD.mncvision">
+    <title>Filing For Love, Ep 2</title>
+</programme>
+<programme start="20260712030000 +0000" stop="20260712044000 +0000" channel="tvN HD.mncvision">
+    <title>GBRB: Farm Operation, Ep 3</title>
+</programme>
+<programme start="20260712044000 +0000" stop="20260712060000 +0000" channel="tvN HD.mncvision">
+    <title>Mr. Eo&#039;s Food World Tour, Ep 2</title>
+</programme>
+<programme start="20260712060000 +0000" stop="20260712080000 +0000" channel="tvN HD.mncvision">
+    <title>Undercover Chef: Korea, Ep 7</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712094000 +0000" channel="tvN HD.mncvision">
+    <title>Guardian 10th Anniversary, Ep 1</title>
+</programme>
+<programme start="20260712094000 +0000" stop="20260712113000 +0000" channel="tvN HD.mncvision">
+    <title>Kill It: Style Creator..., Ep 5</title>
+</programme>
+<programme start="20260712113000 +0000" stop="20260712132000 +0000" channel="tvN HD.mncvision">
+    <title>Sixth Sense: City Tour, Ep 1</title>
+</programme>
+<programme start="20260712132000 +0000" stop="20260712143500 +0000" channel="tvN HD.mncvision">
+    <title>Yumi&#039;s Cells S3, Ep 5</title>
+</programme>
+<programme start="20260712143500 +0000" stop="20260712155500 +0000" channel="tvN HD.mncvision">
+    <title>Yumi&#039;s Cells S3, Ep 6</title>
+</programme>
+<programme start="20260712155500 +0000" stop="20260712162500 +0000" channel="tvN HD.mncvision">
+    <title>Filing For Love, Ep 1</title>
+</programme>
 <programme start="20260711173500 +0000" stop="20260711192000 +0000" channel="tvN Movies.mncvision">
     <title>Confession</title>
 </programme>
@@ -8582,7 +9205,87 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260712155500 +0000" stop="20260712162500 +0000" channel="tvN Movies HD.mncvision">
     <title>The Woman In The White Car</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260711180000 +0000" stop="20260711190000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260711193000 +0000" stop="20260711200000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260711200000 +0000" stop="20260711203000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260711203000 +0000" stop="20260711210000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260711210000 +0000" stop="20260711213000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260711213000 +0000" stop="20260711230000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260711230000 +0000" stop="20260711233000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260711233000 +0000" stop="20260712010000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712010000 +0000" stop="20260712013000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712013000 +0000" stop="20260712020000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712020000 +0000" stop="20260712023000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712023000 +0000" stop="20260712030000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712030000 +0000" stop="20260712033000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712033000 +0000" stop="20260712040000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712040000 +0000" stop="20260712053000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712053000 +0000" stop="20260712070000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712070000 +0000" stop="20260712073000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712073000 +0000" stop="20260712080000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712080000 +0000" stop="20260712090000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712090000 +0000" stop="20260712110000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712110000 +0000" stop="20260712130000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712130000 +0000" stop="20260712140000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712140000 +0000" stop="20260712150000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712150000 +0000" stop="20260712153000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712153000 +0000" stop="20260712160000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
+<programme start="20260712160000 +0000" stop="20260712163000 +0000" channel="tvOne.mncvision">
+    <title>tvOne</title>
+</programme>
 <programme start="20260711170000 +0000" stop="20260711173000 +0000" channel="TVRI.mncvision">
     <title>Dunia Dalam Berita</title>
 </programme>
