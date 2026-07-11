@@ -646,9 +646,6 @@
 <programme start="20260710223000 +0000" stop="20260711003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260711003000 +0000" stop="20260711023000 +0000" channel="ANTV.vision">
-<title>Banteng Mataram</title>
-</programme>
 <programme start="20260711023000 +0000" stop="20260711060000 +0000" channel="ANTV.vision">
 <title>Commando 2</title>
 </programme>
@@ -825,9 +822,6 @@
 </programme>
 <programme start="20260711010000 +0000" stop="20260711013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20260711013000 +0000" stop="20260711020000 +0000" channel="TVOne.vision">
-<title>Umroh Bersama Ust. Abdul</title>
 </programme>
 <programme start="20260711020000 +0000" stop="20260711023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
@@ -1496,5 +1490,11 @@
 <title>Tenggo Dan Jojo</title>
 </programme>
 <programme start="20260711013000 +0000" stop="20260711020000 +0000" channel="TVRI.vision">
+<title>Bikin Asik Aja</title>
+</programme>
+<programme start="20260711020000 +0000" stop="20260711020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260711020300 +0000" stop="20260711023000 +0000" channel="TVRI.vision">
 <title>Bikin Asik Aja</title>
 </programme>

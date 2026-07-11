@@ -6406,10 +6406,10 @@
     <programme start="20260711150000 +0000" stop="20260711163000 +0000" channel="TV5MONDE HD.starhub">
         <title>Climate disinformation: a danger to the planet</title>
     </programme>
-    <programme start="20260710120000 +0000" stop="20260710180000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260710120000 +0000" stop="20260710181700 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Genesis Scottish Open Day 2</title>
     </programme>
-    <programme start="20260710180000 +0000" stop="20260710183000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260710181700 +0000" stop="20260710183000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Season 4 Episode 10</title>
     </programme>
     <programme start="20260710183000 +0000" stop="20260710203000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -7048,9 +7048,6 @@
     <programme start="20260710213000 +0000" stop="20260710220000 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
     </programme>
-    <programme start="20260710220000 +0000" stop="20260710223000 +0000" channel="COLORS.starhub">
-        <title>Seher Hone Ko Hai</title>
-    </programme>
     <programme start="20260710223000 +0000" stop="20260710230000 +0000" channel="COLORS.starhub">
         <title>Juhi Mui</title>
     </programme>
@@ -7091,7 +7088,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20260711060000 +0000" stop="20260711063000 +0000" channel="COLORS.starhub">
-        <title>Bareilly Ki Bacchan</title>
+        <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260711063000 +0000" stop="20260711070000 +0000" channel="COLORS.starhub">
         <title>Juhi Mui</title>
@@ -7121,7 +7118,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="COLORS.starhub">
-        <title>Bareilly Ki Bacchan</title>
+        <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260711123000 +0000" stop="20260711130000 +0000" channel="COLORS.starhub">
         <title>Juhi Mui</title>
