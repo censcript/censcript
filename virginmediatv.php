@@ -2255,7 +2255,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260711003000 +0000" stop="20260711010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tech Now</title>
 </programme>
 <programme start="20260711010000 +0000" stop="20260711013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
