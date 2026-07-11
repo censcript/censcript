@@ -58,8 +58,8 @@
     <title>Football: AEK - De Graafschap (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260711210000 +0700" stop="20260711230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - ACF Fiorentina</title>
+<programme start="20260712230000 +0700" stop="20260713000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2024-25 E22</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260711230000 +0700" stop="20260712010000 +0700" channel="COSMOTE Sport 2 HD">
@@ -110,8 +110,8 @@
     <title>Football: SS Lazio - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260711220000 +0700" stop="20260711230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Serie A 2024-25 - Highlights</title>
+<programme start="20260712230000 +0700" stop="20260713010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260711230000 +0700" stop="20260711233000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,14 +230,6 @@
     <title>Basketball: Virtus Bologna - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260711210500 +0700" stop="20260711220500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260711220500 +0700" stop="20260711223500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260711223500 +0700" stop="20260711232500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
@@ -346,8 +338,8 @@
     <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260711203000 +0700" stop="20260711223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: HSG Wetzlar - SC Magdeburg</title>
+<programme start="20260712234000 +0700" stop="20260713010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260711223000 +0700" stop="20260712011500 +0700" channel="COSMOTE Sport 6 HD">
@@ -411,6 +403,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260712223000 +0700" stop="20260712232000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260712232000 +0700" stop="20260713004000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
