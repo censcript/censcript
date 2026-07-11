@@ -1,6 +1,3 @@
-<programme start="20260711200000 +0000" stop="20260711220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260711220000 +0000" stop="20260712000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -31,9 +28,6 @@
 <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260711200000 +0000" stop="20260711220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260711220000 +0000" stop="20260712000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -62,9 +56,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260711200000 +0000" stop="20260711220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260711220000 +0000" stop="20260712000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -258,9 +249,6 @@
 </programme>
 <programme start="20260712160000 +0000" stop="20260712181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -QF - Norway vs England</title>
-</programme>
-<programme start="20260711200000 +0000" stop="20260711220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Fulham</title>
 </programme>
 <programme start="20260711220000 +0000" stop="20260712000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Manchester United vs Liverpool</title>
