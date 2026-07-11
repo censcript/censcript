@@ -1086,6 +1086,84 @@
     <desc lang="en">In this action thriller directed by Michael Bay, desperate brothers hijack an ambulance after their heist goes awry, spiraling into the most insane escape LA has ever seen.</desc>
     <category lang="en">Movies</category>
   </programme>
+  <channel id="rockaction.unifitv">
+    <display-name>Rock Action HD</display-name>
+  </channel>
+  <programme start="20260710154000 +0000" stop="20260710172000 +0000" channel="rockaction.unifitv">
+    <title lang="en">War</title>
+    <desc lang="en">After his partner Tom Wynne and family are killed by the infamous and elusive assassin Rogue (Jet Li), FBI agent Jack Crawford (Jason Statham) becomes obsessed with revenge as his world unravels into a vortex of guilt and betrayal.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260710172000 +0000" stop="20260710185500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Rambo: First Blood Part II</title>
+    <desc lang="en">John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260710185500 +0000" stop="20260710203500 +0000" channel="rockaction.unifitv">
+    <title lang="en">The Chinese Widow</title>
+    <desc lang="en">In 1941, after bombing Tokyo, a US pilot makes an emergency landing in China. A local widow rescues him and risks everything to hide him from Japanese forces.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260710203500 +0000" stop="20260710220500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Twin Dragons</title>
+    <desc lang="en">Identical twins - a musician living in New York, and a mechanic living in Hong Kong - are separated in childhood but are unexpectedly reunited years later when the musician travels to Hong Kong for a concert.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260710220500 +0000" stop="20260711000500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Around The World In 80 Days</title>
+    <desc lang="en">It is 1872, and a British inventor, a Chinese thief and a French artist set off to circumnavigate the globe in 80 days. They travel by land, air, sea, and in-line skates in order to beat the clock and finish where they started.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711000500 +0000" stop="20260711013500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Rambo: First Blood</title>
+    <desc lang="en">Academy Award®-Nominee Sylvester Stallone stars in this explosive action-thriller that will keep you on the edge of your seat until the final, powerful frame!</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711013500 +0000" stop="20260711032500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Daylight</title>
+    <desc lang="en">Sylvester Stallone stars in Daylight as a fallen hero racing to rescue commuters trapped in a collapsing NYC tunnel. Explosive action and suspense power this high-stakes disaster thriller!</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711032500 +0000" stop="20260711051000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Fist Of Legend</title>
+    <desc lang="en">In 1937, a Chinese martial artist returns to Shanghai to find his teacher dead and his school harassed by the Japanese.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711051000 +0000" stop="20260711064500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Meteor Part 1</title>
+    <desc lang="en">An unmatched meteor shower alerts a scientist, his assistant, and a conspiracy theorist to a massive cover-up and an even massive threat: a meteor aiming to destroy Earth. They race to expose the truth and save the planet.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711064500 +0000" stop="20260711082500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Meteor Part 2</title>
+    <desc lang="en">An unmatched meteor shower alerts a scientist, his assistant, and a conspiracy theorist to a massive cover-up and an even massive threat: a meteor aiming to destroy Earth. They race to expose the truth and save the planet.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711082500 +0000" stop="20260711101500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Daylight</title>
+    <desc lang="en">Sylvester Stallone stars in Daylight as a fallen hero racing to rescue commuters trapped in a collapsing NYC tunnel. Explosive action and suspense power this high-stakes disaster thriller!</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711101500 +0000" stop="20260711115500 +0000" channel="rockaction.unifitv">
+    <title lang="en">The Chinese Widow</title>
+    <desc lang="en">In 1941, after bombing Tokyo, a US pilot makes an emergency landing in China. A local widow rescues him and risks everything to hide him from Japanese forces.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711115500 +0000" stop="20260711135500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Around The World In 80 Days</title>
+    <desc lang="en">It is 1872, and a British inventor, a Chinese thief and a French artist set off to circumnavigate the globe in 80 days. They travel by land, air, sea, and in-line skates in order to beat the clock and finish where they started.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260711135500 +0000" stop="20260711153000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Hard Target</title>
+    <desc lang="en">Jean-Claude Van Damme stars in this John Woo action thriller where a man battles a deadly group that hunts humans for sport. Also features Lance Henriksen and Wilford Brimley.</desc>
+    <category lang="en">Adventure</category>
+  </programme>
+  <programme start="20260711153000 +0000" stop="20260711171000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Universal Soldier</title>
+    <desc lang="en">Two soldiers killed in Vietnam are revived years later as cyborg super-soldiers. But when memories return, they break free—setting up a brutal showdown between former comrades.</desc>
+    <category lang="en">Action</category>
+  </programme>
   <channel id="celestialmovies.unifitv">
     <display-name>Celestial Movies</display-name>
   </channel>
@@ -1695,6 +1773,79 @@
     <desc lang="en">beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
     <category lang="en">Sports</category>
   </programme>
+  <channel id="beinsports4.unifitv">
+    <display-name>beIN SPORTS 4</display-name>
+  </channel>
+  <programme start="20260710140000 +0000" stop="20260710160000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260710160000 +0000" stop="20260710180000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260710180000 +0000" stop="20260710200000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260710200000 +0000" stop="20260710220000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260710220000 +0000" stop="20260711000000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711000000 +0000" stop="20260711020000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711020000 +0000" stop="20260711040000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711040000 +0000" stop="20260711060000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711060000 +0000" stop="20260711080000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711080000 +0000" stop="20260711100000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711100000 +0000" stop="20260711120000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711120000 +0000" stop="20260711140000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711140000 +0000" stop="20260711160000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260711160000 +0000" stop="20260711180000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
   <channel id="inspirasi.unifitv">
     <display-name>Inspirasi</display-name>
   </channel>
@@ -2146,391 +2297,6 @@
   <channel id="tv1.unifitv">
     <display-name>TV1</display-name>
   </channel>
-  <programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Innovation Nation</title>
-    <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260710160000 +0000" stop="20260710163000 +0000" channel="tv1.unifitv">
-    <title lang="en">BERITA TENGAH MALAM</title>
-    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260710163000 +0000" stop="20260710173000 +0000" channel="tv1.unifitv">
-    <title lang="en">Ultras Kampung Ubi</title>
-    <desc lang="en">Pak Habib menubuhkan pasukan bola sepak amatur Kampung Ubi untuk promosi. Pasukan kaki bangku berbilang bangsa menjadi viral, berdepan konflik, namun bersatu mengejar kejayaan impian bersama pasukan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260710173000 +0000" stop="20260710190000 +0000" channel="tv1.unifitv">
-    <title lang="en">Istimewa Lejen</title>
-    <desc lang="en">Persembahan nyanyian dari artis popular Malaysia.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260710190000 +0000" stop="20260710191500 +0000" channel="tv1.unifitv">
-    <title lang="en">Gigi-Pedia (Ulangan)</title>
-    <desc lang="en">Sebuah program majalah yang membawakan informasi berkaitan gigi yang merupakan antara struktur terkuat di dalam tubuh manusia. Para doktor turut memberikan penjelasan bagi memberikan pemahaman terperinci kepada penonton.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20260710191500 +0000" stop="20260710193000 +0000" channel="tv1.unifitv">
-    <title lang="en">Promo / PSA / Kapsul</title>
-    <desc lang="en">Promo / PSA / Kapsul</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260710193000 +0000" stop="20260710203000 +0000" channel="tv1.unifitv">
-    <title lang="en">Planet Sukan 2026</title>
-    <desc lang="en">Saksikan musim baharu Planet Sukan 2026, program bual bicara mengenai perkembangan sukan negara.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260710203000 +0000" stop="20260710210000 +0000" channel="tv1.unifitv">
-    <title lang="en">Eksplorasi Halal</title>
-    <desc lang="en">Program Eksplorasi Halal menyingkap isu, proses dan kepentingan pensijilan halal di Malaysia serta memberi pendedahan kepada masyarakat tentang pematuhan standard halal dalam pelbagai industri.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260710210000 +0000" stop="20260710213000 +0000" channel="tv1.unifitv">
-    <title lang="en">Lisanul Haq 2026</title>
-    <desc lang="en">Saksikan Lisanul Haq Dakwah dengan gaya jalanan secara santai kepada orang awam.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260710213000 +0000" stop="20260710220200 +0000" channel="tv1.unifitv">
-    <title lang="en">Surah Yassin (2023)</title>
-    <desc lang="en">Bacaan Yasin</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260710220200 +0000" stop="20260710230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Podcase Syariah</title>
-    <desc lang="en">Podcase Syariah mengupas isu-isu semasa berkaitan hukum Islam secara santai dan ilmiah. Menampilkan pakar untuk memberi penjelasan jelas, relevan dan mudah difahami oleh semua lapisan masyakarat.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260710230000 +0000" stop="20260710234400 +0000" channel="tv1.unifitv">
-    <title lang="en">BERITA PAGI</title>
-    <desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260710234400 +0000" stop="20260711000000 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : KANTA 744</title>
-    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711000000 +0000" stop="20260711020000 +0000" channel="tv1.unifitv">
-    <title lang="en">SIARAN LANGSUNG: GRANDSTAND HARI MENGUNDI</title>
-    <desc lang="en">Saksikan Siaran Langsung Grandstand Hari Mengundi.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711020000 +0000" stop="20260711020500 +0000" channel="tv1.unifitv">
-    <title lang="en">DUNIA 10</title>
-    <desc lang="en">Berita Dunia</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711020500 +0000" stop="20260711023000 +0000" channel="tv1.unifitv">
-    <title lang="en">Ready, Steady, Wiggle!</title>
-    <desc lang="en">Program animasi kanak-kanak berbahasa Inggeris ini the Wiggles yang terdiri daripada Evie, Anthony, Lucia, Lachlan, Tsehay, Caterina, John dan Simon menyanyi lagu-lagu kanak-kanak bersama mengikut tema tertentu dalam setiap episod.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260711023000 +0000" stop="20260711030000 +0000" channel="tv1.unifitv">
-    <title lang="en">Pocoyo</title>
-    <desc lang="en">Mengisahkan Pocoyo, seorang kanak-kanak yang gemar berpakaian serba biru dan sentiasa mempunyai perasaan ingin tahu yang tinggi, bersama kawan-kawannya iaitu Pato (Itik), Elly (gajah), Loula (anjing) dan Sleepy (anjing, mempelajari banyak perkara baharu sambil berseronok</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260711030000 +0000" stop="20260711033000 +0000" channel="tv1.unifitv">
-    <title lang="en">Hello Suri</title>
-    <desc lang="en">Sebuah majalah yang memaparkan tips pengurusan rumah tangga, susun atur dan hiasan di dalam dan di luar rumah dan pengurusan kewangan. Majalah ini mempunyai beberapa segmen iaitu segmen pengurusan rumah tangga, info suri dan ringgit suri.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Rona Sabah (Sr.17) 2026</title>
-    <desc lang="en">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260711040000 +0000" stop="20260711040500 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : BERITA SEMASA</title>
-    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711040500 +0000" stop="20260711043000 +0000" channel="tv1.unifitv">
-    <title lang="en">Gadis Inspirasi</title>
-    <desc lang="en">Program yang memaparkan 13 orang gadis yang bakal memberikan inspirasi.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260711043000 +0000" stop="20260711050000 +0000" channel="tv1.unifitv">
-    <title lang="en">Panorama 2026</title>
-    <desc lang="en">Rancangan berbentuk kemasyarakatan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260711050000 +0000" stop="20260711053000 +0000" channel="tv1.unifitv">
-    <title lang="en">BERITA TENGAH HARI</title>
-    <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711053000 +0000" stop="20260711070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Lembu Jasni Petola Kasim</title>
-    <desc lang="en">Jasni dan Kasim merupakan sahabat baik, namun Kasim sering mengambil kesempatan atas kebaikan Jasni kerana sikapnya yang kedekut. Apabila Kasim keterlaluan, isteri dan emak Jasni merancang sesuatu untuk memberi pengajaran kepadanya.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711070000 +0000" stop="20260711070500 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : BERITA SEMASA</title>
-    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711070500 +0000" stop="20260711073000 +0000" channel="tv1.unifitv">
-    <title lang="en">Pelikpedia</title>
-    <desc lang="en">Sebuah majalah travelog yang memaparkan keunikan dan kepelikan sesuatu tempat.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260711073000 +0000" stop="20260711080000 +0000" channel="tv1.unifitv">
-    <title lang="en">AI: Unpacking The Black Box</title>
-    <desc lang="en">Program majalah ini membincangkan bagaimana Kecerdasan Buatan (AI) mempengaruhi kehidupan manusia seiring perkembangan Revolusi Perindustrian. Ia turut mengupas kesan AI terhadap moral, pemikiran dan kepercayaan masyarakat.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260711080000 +0000" stop="20260711080500 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : BERITA SEMASA</title>
-    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711080500 +0000" stop="20260711083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Pastikan Sahih 2026</title>
-    <desc lang="en">Rancangan bual bicara santai untuk berkongsi maklumat yang benar dan menafikan berita-berita palsu yang viral di media sosial.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260711083000 +0000" stop="20260711090000 +0000" channel="tv1.unifitv">
-    <title lang="en">Singgah Sini</title>
-    <desc lang="en">Majalah travelog yang dihoskan oleh Arjaa Lee meninjau keunikan inap desa dan keindahan alam sekitar yang berhampiran serta aktiviti menarik yang boleh dilakukan di sana.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260711090000 +0000" stop="20260711100000 +0000" channel="tv1.unifitv">
-    <title lang="en">BERITA WILAYAH</title>
-    <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah seluruh Malaysia dalam rangkuman berita terkini.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711100000 +0000" stop="20260711103000 +0000" channel="tv1.unifitv">
-    <title lang="en">Iqra' 2026</title>
-    <desc lang="en">Saksikan Rancangan Iqra dan bertalaqqi bersama Ustaz Husaini Mahmur.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260711103000 +0000" stop="20260711104500 +0000" channel="tv1.unifitv">
-    <title lang="en">Promo / PSA / Kapsul</title>
-    <desc lang="en">Promo / PSA / Kapsul</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711104500 +0000" stop="20260711114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Ultras Kampung Ubi</title>
-    <desc lang="en">Pak Habib menubuhkan pasukan bola sepak amatur Kampung Ubi untuk promosi. Pasukan kaki bangku berbilang bangsa menjadi viral, berdepan konflik, namun bersatu mengejar kejayaan impian bersama pasukan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260711114400 +0000" stop="20260711120000 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : KANTA 744</title>
-    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="tv1.unifitv">
-    <title lang="en">BERITA PERDANA</title>
-    <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711123000 +0000" stop="20260711143000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung: Grandstand Malam Keputusan Pilihan Raya Negeri (PRN) Johor Ke - 16</title>
-    <desc lang="en">Saksikan Siaran Langsung Grandstand Malam Keputusan Pilihan Raya Negeri (PRN) Johor Ke - 16</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711143000 +0000" stop="20260711150000 +0000" channel="tv1.unifitv">
-    <title lang="en">Hero Joran</title>
-    <desc lang="en">Sebuah majalah travelog yang memaparkan lokasi-lokasi yang sesuai untuk aktiviti memancing. Selain itu juga, terdapat segmen petua memancing untuk semua kaki pancing.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Diari Rawat 2026</title>
-    <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260711160000 +0000" stop="20260711163000 +0000" channel="tv1.unifitv">
-    <title lang="en">BERITA TENGAH MALAM</title>
-    <desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260710150000 +0000" stop="20260710160000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Dihatiku Ada Kamu</title>
-    <desc lang="en">Pada tahun 2024, Rian dan anaknya, Farhan, yang sedang bermain dengan kapal terbang mainan, terganggu oleh kehadiran Adif, suami Rian yang terpisah. Rian, cemas dan cuba melindungi Farhan, segera meninggalkan kedai dengan anaknya. Di pejabat Afeeq, Afeeq mengetahui tentang pertemuan itu dan segera mencari mereka. Apabila Rian dan Adif bertemu, ketegangan memuncak apabila Adif menuntut Rian kembali kepadanya, menawarkan untuk mengembalikan segala yang diambil sebagai pertukaran. Rian menolak dan menegaskan bahawa dia tidak akan menyerahkan Farhan. Afeeq tiba, menumbuk Adif, dan melindungi Rian, sementara Adif sedih melihat Farhan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20260710160000 +0000" stop="20260710180000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Misteri Mona Ku Serumu Kembali</title>
-    <desc lang="en">Selepas Mona dilepaskan demi menyelamatkan anaknya, Anom dirawat di pusat psikiatri dan mengawal Mona sepenuhnya. Dakwaan pembunuhan rupanya halusinasi, menimbulkan persoalan tentang kebenaran sebenar di sebalik delusi Mona.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260710180000 +0000" stop="20260710190000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Concert Dia.. Lagenda Unplugged Salamiah Hassan</title>
-    <desc lang="en">Dalam rancangan ini, Salamiah Hassan berkongsi pelbagai cerita permulaan penglibatannya di dalam dunia seni nyanyian.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260710190000 +0000" stop="20260710200000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Concert Dia.. Lagenda Unplugged Dato' Yusni Hamid</title>
-    <desc lang="en">Dalam rancangan ini, Dato' Yusni Hamid berkongsi pelbagai cerita permulaan penglibatannya di dalam dunia seni nyanyian.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260710200000 +0000" stop="20260710220000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Misteri Mona Ku Serumu Kembali</title>
-    <desc lang="en">Selepas Mona dilepaskan demi menyelamatkan anaknya, Anom dirawat di pusat psikiatri dan mengawal Mona sepenuhnya. Dakwaan pembunuhan rupanya halusinasi, menimbulkan persoalan tentang kebenaran sebenar di sebalik delusi Mona.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260710220000 +0000" stop="20260710230000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Concert Dia.. Lagenda Unplugged Salamiah Hassan</title>
-    <desc lang="en">Dalam rancangan ini, Salamiah Hassan berkongsi pelbagai cerita permulaan penglibatannya di dalam dunia seni nyanyian.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260710230000 +0000" stop="20260711000000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Concert Dia.. Lagenda Unplugged Dato' Yusni Hamid</title>
-    <desc lang="en">Dalam rancangan ini, Dato' Yusni Hamid berkongsi pelbagai cerita permulaan penglibatannya di dalam dunia seni nyanyian.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260711000000 +0000" stop="20260711010000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Abang Lori Ohsem</title>
-    <desc lang="en">Dani menyerang Luqman dan menuduh Luqman mencaras Dani. Dia makin bengang dan berniat jahat untuk memusnahkan hubungan Lufia bersama Luqman yang baru hendak berputik. Dalam masa yang sama Luqman masih tidak putus asa memujuk ibunya. Nek Wan turun ke kuala lumpur untuk bertemu dengan Luqman kerana merindui cucunya. kedatangan Nek Wan ke Kuala Lumpur tanpa pengetahuan Mira kerana Mira masih memarahi Luqman. Luqman mengambil kesempatan untuk perkenalkan Lufia pada Nek Wan, dan Nek Wan begitu suka dengan keperibadian Lufia. Hubungan Lufia dan Luqman makin hari makin mekar, Luqman cuba untuk luahkan perasaan cintanya pada Lufia, namun telah disabotaj Dani. sehingga menyebabkan hubungan Luqman dan Lufia berantakan teruk.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260711010000 +0000" stop="20260711030000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Misteri Mona Ku Serumu Kembali</title>
-    <desc lang="en">Selepas Mona dilepaskan demi menyelamatkan anaknya, Anom dirawat di pusat psikiatri dan mengawal Mona sepenuhnya. Dakwaan pembunuhan rupanya halusinasi, menimbulkan persoalan tentang kebenaran sebenar di sebalik delusi Mona.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711030000 +0000" stop="20260711033000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Girls Only</title>
-    <desc lang="en">Girls Only musim terbaru menampilkan 2 pengacara baru iaitu Leiasm dan Aqilah Azali yang akan berkongsi dengan anda tentang solekkan, dandanan rambut, pemakaian hijab dan juga akan berborak santai</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">8.8.</episode-num>
-    <episode-num system="onscreen">S9E9</episode-num>
-  </programme>
-  <programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="sensasi.unifitv">
-    <title lang="en">TRENDSETTER</title>
-    <desc lang="en">Episod kalini menampilkan Kata Jantan dalam segmen Usha Kedai,Ashady tentang kerjaya beliau sebagai seorang pengusaha Box KL. Ambush Event Opt Raya Madness dan Bedah Kotak kasut Cloudzone X Kith</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">6.3.</episode-num>
-    <episode-num system="onscreen">S7E4</episode-num>
-  </programme>
-  <programme start="20260711040000 +0000" stop="20260711050000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Pink Smile</title>
-    <desc lang="en">Mengisahkan Melati mengherdik Luna kerana asyik ke Duncan Cafe untuk berjumpa dengan Areeq. Melati juga membuat fitnah kononnya Azhar, rakan sekerja mereka cuba mencabulnya. Areeq terpengaruh dan membuang Azhar. Selepas mendengar rintihan pekerjanya, Areeq percaya Melati sengaja membuat onak di cafenya. Satu hari, Luna muncul bersama Irin di sana, Areeq bersetuju untuk keluar bersama-sama mereka. Ini membuat Melati cemburu. Melati kemudiannya selfie gambarnya bersama Areeq semasa lelaki tersebut tertidur di cafe.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260711050000 +0000" stop="20260711060000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Pink Smile</title>
-    <desc lang="en">Mengisahkan hari pertama bulan puasa, pekerja Duncan Cafe terkesima apabila ternampak gambar Areeq lentuk dengan Melati dalam telefon yang sengaja disebarkan oleh Melati. Areeq langsung tidak mempedulikan Melati, membuat gadis tersebut semakin angau. Rysa cuba memujuk Faiz, namun tidak mendapat layanan kerana Faiz kekasih baru. Rysa mengadu perkara tersebut kepada Areeq (abang angkatnya). Areeq mulai sukakan Luna, mereka berbuka puasa bersama-sama di Duncan Cafe.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260711060000 +0000" stop="20260711070000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Pink Smile</title>
-    <desc lang="en">Mengisahkan Rysa mengadu kepada abang angkatnya Areeq selepas Faiz memutuskan hubungan cinta mereka kerana Faiz bosan dengan sikap Rysa yang terlalu cemburu. Areeq terlupa temujanjinya dengan Luna, menyebabkan Luna berterusan mencari Areeq di Cafe. Masing-masing masih malu meluahkan perasaan, Luna kemudiannya membuka rahsia dia sukakanya Areeq. Manakala Tuan Irsyad asyik termenung memikirkan Irin yang dibawa oleh Luna ke rumah sebelum ini, dia pernah berjumpa dengan Irin sebelum ini.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260711070000 +0000" stop="20260711080000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Pink Smile</title>
-    <desc lang="en">Mengisahkan Luna mengekori Areeq mulai mesra selepas Areeq mengajar Luna membuat kek. Luna terjumpa layang-layang lama yang pernah dia bermain dengan Areeq satu ketika lalu. Luna membawa anak yatim dari rumah Titian Kasih untuk berbuka puasa di Duncan Cafe. Luna juga membuat kejutan untuk sambutan hari jadi Areeq di sana. Mereka bertukar-tukar hadiah. Faiz meminta perhubungan dengan Rysa ditangguhkan untuk sementara, Areeq mahu Rysa pura-pura melupakan Faiz untuk sementara waktu. Faiz mula rindukan Rysa.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260711080000 +0000" stop="20260711083000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Deko Bajet</title>
-    <desc lang="en">Dengan bajet sebanyak RM2,000 sahaja, pereka bentuk dalaman Janna Baha selaku pengacara akan menghias semularuang tamu milik pasangan Norizan dan Basyiri di sebuah kuarters di Putrajaya.</desc>
-    <category lang="en">Interior Design</category>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
-    <episode-num system="onscreen">S3E9</episode-num>
-  </programme>
-  <programme start="20260711083000 +0000" stop="20260711110000 +0000" channel="sensasi.unifitv">
-    <title lang="en">One Day</title>
-    <desc lang="en">Seorang wanita menghidap amnesia sementara , hanya bertahan selama sehari. Rakan sekerjanya yang pemalu dan diam-diam mencintainya memberitahu bahawa mereka adalah pasangan, semata-mata untuk merasai pengalaman bersama dengannya walaupun hanya untuk satu hari.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260711110000 +0000" stop="20260711113000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Girls Only</title>
-    <desc lang="en">Girls Only musim terbaru menampilkan 2 pengacara baru iaitu Leiasm dan Aqilah Azali yang akan berkongsi dengan anda tentang solekkan, dandanan rambut, pemakaian hijab dan juga akan berborak santai</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">8.9.</episode-num>
-    <episode-num system="onscreen">S9E10</episode-num>
-  </programme>
-  <programme start="20260711113000 +0000" stop="20260711120000 +0000" channel="sensasi.unifitv">
-    <title lang="en">TRENDSETTER</title>
-    <desc lang="en">Episod kalini menampilkan Kata Jantan dalam segmen Usha Kedai,Ashady tentang kerjaya beliau sebagai seorang pengusaha Box KL. Ambush Event Opt Raya Madness dan Bedah Kotak kasut Cloudzone X Kith</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">6.3.</episode-num>
-    <episode-num system="onscreen">S7E4</episode-num>
-  </programme>
-  <programme start="20260711120000 +0000" stop="20260711130000 +0000" channel="sensasi.unifitv">
-    <title lang="en">HURU HARA</title>
-    <desc lang="en">Huru hara ini membincangkan tentang dunia hiburan, perjalanan kerjaya tetamu jemputan dan persembahan artis. Artis jemputan pada episod kali ini adalah Ezzaty Abdullah, Azwan Kombos, Bibi Qairina dan Iqbal M.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">17.7.</episode-num>
-    <episode-num system="onscreen">S18E8</episode-num>
-  </programme>
-  <programme start="20260711130000 +0000" stop="20260711150000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Pendosa Ingin Ke Syurga</title>
-    <desc lang="en">Abdullah meninggalkan keluarga bagi mencari rezeki di kota. Di Kota beliau dikenali sebagai Shawn, memperolehi kekayaan selepas melibatkan diri dengan gangterisma dan kelab malam. Di kampung, Aisyah isterinya yang ditinggalkan telah melahirkan seorang anak perempuan bernama Murni. 20 tahun kemudian akibat tekanan keluarga dan kemiskinan, Murni lari ke ibukota. Murni kemudiannya jatuh cinta dengan Shawn dan berkahwin. Perkahwinan mereka mendapat seorang zuriat lelaki bernama Adam. Shawn mulai berubah dan bertaubat. Setelah beberapa lama, Murni dan Shawn bercadang untuk kembali berjumpa dengan ibunya dan membawa anak mereka bersama. Sesampai di kampung, Shawn (Abdullah) menyedari gadis yang dikahwininya adalah anak kandungnya sendiri. Dia memohon ampun kepada isterinya Aisyah dan ibunya atas ketelanjurannya. Shawn kemudiannya berjumpa dengan seorang ustaz meminta nasihat, dia akhirnya meninggalkan keluarganya dan menghilangkan diri.</desc>
-    <category lang="en">Love</category>
-  </programme>
-  <programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Abang Lori Ohsem</title>
-    <desc lang="en">Sekali lagi Luqman diuji dalam percintaan. Dia tidak putus-putus memujuk Lufia dan meyakinkan Lufia yang dia tidak bersalah dan tiada langsung niat untuk mengapa-apakan Lufia. Lufia tetap tidak percaya pada Luqman dan mula menunjukkan kebenciannya pada Luqman. Dato Husin pula ingin melantik Luqman jadi pegawai pemasaran di dalam syarikatnya dan meminta Luqman untuk tinggalkan dunia lori. Dani yang mengetahui tentang rancangan Dato Husin, mula merasa geram dan cipta agenda baru untuk hapuskan Luqman. Walaupun tidak berjaya memujuk hati Lufia, Luqman akhirnya berjaya mendapatkan kemaafan daripada Mira dan Nek Wan. Luqman membawa Mira dan Nek Wan menaiki lorinya untuk dibawa bersiar sekitar KL, namun kecelakaan menimpa mereka apabila, lorinya terbabas kerana brek tidak berfungsi,</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260711160000 +0000" stop="20260711180000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Kahwin 5</title>
-    <desc lang="en">Dr K (Usop Wilcha) ialah seorang usahawan mangkuk plastik dari Perak yang sudah mempunyai empat isteri dari negeri berbeza (Selangor, Kelantan, Negeri Sembilan, Sabah). Kehidupannya tenang hingga dia terlibat dengan skandal bersama Farra, seorang setiausaha muda yang bersaudara dengan ketua gangster, Cico. Dr K ditekan untuk berkahwin lagi - mencetus dilema: kekalkan empat isteri atau cerai salah seorang demi menyelamatkan nyawa</desc>
-    <category lang="en">Comedy</category>
-  </programme>
   <programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="tv1.unifitv">
     <title lang="en">Innovation Nation</title>
     <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
@@ -11553,6 +11319,3601 @@
     <category lang="en">Kids</category>
     <episode-num system="xmltv_ns">1.224.</episode-num>
     <episode-num system="onscreen">S2E225</episode-num>
+  </programme>
+  <channel id="cbeebieshd.unifitv">
+    <display-name>Cbeebies HD</display-name>
+  </channel>
+  <programme start="20260710155200 +0000" stop="20260710160000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Evil Pea tricks Supertato into believing he has no superpowers without his red cape. When he rescues his friends without his cape he discovers he has superpowers cape or no cape!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260710160000 +0000" stop="20260710161000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Teletubbies</title>
+    <desc lang="en">The voice trumpet leads a game of 'I Spy' where the Teletubbies have to spot different colours - purple, green, yellow and red. What or who can they spot with those colours?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.84.</episode-num>
+    <episode-num system="onscreen">S1E85</episode-num>
+  </programme>
+  <programme start="20260710161000 +0000" stop="20260710161500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Yakka Dee</title>
+    <desc lang="en">Dee encourages a friend to say 'alien', and we go on a whirlwind word adventure.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">5.18.</episode-num>
+    <episode-num system="onscreen">S6E19</episode-num>
+  </programme>
+  <programme start="20260710161500 +0000" stop="20260710162500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Messy goes to OKIDO</title>
+    <desc lang="en">Messy's new friend is in a spot of hot bother! They go on an icy adventure to the South Pole, the desert and the mountains to help.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
+  </programme>
+  <programme start="20260710162500 +0000" stop="20260710164000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Mojo Swoptops</title>
+    <desc lang="en">Somebody stole the big hand off the clock tower. Mojo and Bo are on the case, but it is not as simple as it seems. Soon, they are pulling off a heist they never expected.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20260710164000 +0000" stop="20260710164700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bluey teaches Bingo how to use magic so she can make Mum play with her, but she forgets to explain the most important rule: never use magic for cheekiness.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="onscreen">S3E9</episode-num>
+  </programme>
+  <programme start="20260710164700 +0000" stop="20260710170000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bingo and Dad must brave a swooping magpie protecting its nest, when they go on a curry swap to Mackenzie's house through the park.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+    <episode-num system="onscreen">S3E8</episode-num>
+  </programme>
+  <programme start="20260710170000 +0000" stop="20260710170700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Roly needs a wee, but the door is locked and Duggee has mislaid the key. Not to worry, Duggee has his metal detector.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <episode-num system="onscreen">S5E10</episode-num>
+  </programme>
+  <programme start="20260710170700 +0000" stop="20260710171500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels find a dusty, old book behind a cupboard... it's Duggee's diary from when he was a teenager! The Squirrels are keen to write diaries of their own.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260710171500 +0000" stop="20260710172200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Super Squirrels are called to action! Time to stop Dr Catastrophe and save their toys!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260710172200 +0000" stop="20260710173000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Duggee looks all around, but can he find the Squirrels? Let's play Hide and Seek!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260710173000 +0000" stop="20260710174500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">The Go Jetters head to Scotland in search of the Loch Ness Monster, but Grandmaster Glitch plans to catch Nessie first, if only his Grimbler was up to the job.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <episode-num system="onscreen">S1E31</episode-num>
+  </programme>
+  <programme start="20260710174500 +0000" stop="20260710175200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bluey and Bingo want a pet. To show them how much work they'd be in for, Dad gets to transform his hand into their old friend Shaun, a chaotic, undisciplined Emu with a taste for trouble.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+    <episode-num system="onscreen">S1E50</episode-num>
+  </programme>
+  <programme start="20260710175200 +0000" stop="20260710180000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">After Dad eats her last chip, Bingo is given three chances to put Mum and Dad in "Dance Mode" as payback. But the others can't resist taking Bingo's turns for her.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
+  <programme start="20260710180000 +0000" stop="20260710180700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Tired of being told what to do, Bluey and Bingo enlist their giant invisible friend Tina to show Mum and Dad who's boss. Now they can do anything they want, until Mum and Dad rebel.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
+    <episode-num system="onscreen">S3E21</episode-num>
+  </programme>
+  <programme start="20260710180700 +0000" stop="20260710181500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bluey promises her customer, Bingo, the best tour ever in a game of Whale Watching, but they need Mum and Dad to join in, and they are too tired to play after a late night.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
+    <episode-num system="onscreen">S3E22</episode-num>
+  </programme>
+  <programme start="20260710181500 +0000" stop="20260710183000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Andy's Baby Animal Missions</title>
+    <desc lang="en">In this episode Andy, Jen and Scout head to the Pacific ocean, off the tropical islands of Hawaii, on a baby animal mission to see how a baby humpback whale prepares for its 5000 km migration North to the rich feeding grounds of Alaska.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260710183000 +0000" stop="20260710185500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Playtime Towers</title>
+    <desc lang="en">Bella and Lift visit the Cloud Kitchen, where Patch needs some help from the Playtimers to make hoopy owl bagels. It's time for a tasty adventure!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260710185500 +0000" stop="20260710190200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Duggee and the Squirrels hop inside the Biology Bus and miniaturize themselves.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.24.</episode-num>
+    <episode-num system="onscreen">S3E25</episode-num>
+  </programme>
+  <programme start="20260710190200 +0000" stop="20260710190900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Duggee is making a smoothie. The Squirrels can't agree on whether they like it or not!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.23.</episode-num>
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <programme start="20260710190900 +0000" stop="20260710191500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels are exploring in the attic when they find an old cassette tape.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.22.</episode-num>
+    <episode-num system="onscreen">S3E23</episode-num>
+  </programme>
+  <programme start="20260710191500 +0000" stop="20260710192500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">It's a rainy day and the team are stuck inside, so Foz reads them his favourite book: Around the World in 80 Days by Jules Verne. The Go Jetters are soon imagining they are characters from the story.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.35.</episode-num>
+    <episode-num system="onscreen">S3E36</episode-num>
+  </programme>
+  <programme start="20260710192500 +0000" stop="20260710193500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Kyan has to use some smooth talking to save the tourists and protect Blarney Castle.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.34.</episode-num>
+    <episode-num system="onscreen">S3E35</episode-num>
+  </programme>
+  <programme start="20260710193500 +0000" stop="20260710194000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Supertato and Runner Bean are competing for first place in this year's supermarket race, but Evil Pea has plans to win by cheating.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.30.</episode-num>
+    <episode-num system="onscreen">S2E31</episode-num>
+  </programme>
+  <programme start="20260710194000 +0000" stop="20260710195000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">When a Railway Show for little engines comes to Sodor, an overly excited Percy finally sees his chance to shine.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.2.</episode-num>
+    <episode-num system="onscreen">S24E3</episode-num>
+  </programme>
+  <programme start="20260710195000 +0000" stop="20260710195700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Sarah and Duck</title>
+    <desc lang="en">Sarah is fascinated by some mysterious music coming from the hedge.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.34.</episode-num>
+    <episode-num system="onscreen">S3E35</episode-num>
+  </programme>
+  <programme start="20260710195700 +0000" stop="20260710200500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Sarah and Duck</title>
+    <desc lang="en">Sarah &amp; Duck do a spot of gardening.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.35.</episode-num>
+    <episode-num system="onscreen">S3E36</episode-num>
+  </programme>
+  <programme start="20260710200500 +0000" stop="20260710201100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Stan Can</title>
+    <desc lang="en">Cynthia asks Stanley to teach her to fly an aeroplane for Fifi's birthday. Stanley constructs a flight simulator and has the help of their friends to put her through her paces.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260710201100 +0000" stop="20260710202000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Stan Can</title>
+    <desc lang="en">Myrtle wants everyone to see her new dance so enlists Stanley to gather some friends. However, the stereo breaks so they have to make their own music.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260710202000 +0000" stop="20260710202500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Funny Talking Animals</title>
+    <desc lang="en">Parties, presents, and lots of cake! The animals chat about everything they love about birthdays!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260710202500 +0000" stop="20260710203800 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">JoJo &amp; Gran Gran</title>
+    <desc lang="en">JoJo and Gran Gran run into Jared and Cynthia who are playing basketball. JoJo joins in, but she doesn't feel like she is tall enough to play it well.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <episode-num system="onscreen">S2E14</episode-num>
+  </programme>
+  <programme start="20260710203800 +0000" stop="20260710204500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bingo is helping Mum make an omelette for Dad's birthday breakfast, but cracking eggs is harder than it looks, and Dad is getting hungrier by the minute.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <episode-num system="onscreen">S3E4</episode-num>
+  </programme>
+  <programme start="20260710204500 +0000" stop="20260710205000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Dad pretends he was born yesterday. Bluey and Bingo have to guide him through his second day on Earth, especially when he discovers food is delicious and steals Lucky's Dad's pie.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <episode-num system="onscreen">S3E5</episode-num>
+  </programme>
+  <programme start="20260710205000 +0000" stop="20260710210000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">When Dad complains about how dissimilar Bluey and Bingo are, Bluey hatches a plan to make them more alike and happily introduces Mini-Bluey!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <episode-num system="onscreen">S3E6</episode-num>
+  </programme>
+  <programme start="20260710210000 +0000" stop="20260710210700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Snail is thrilled to be moving house as she wishes to escape the wet and sploshy place she currently calls home to a more spacious house on the hill.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <episode-num system="onscreen">S4E2</episode-num>
+  </programme>
+  <programme start="20260710210700 +0000" stop="20260710211400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Norrie skips into the Clubhouse and greets her friends. As they greet her, they reminisce about when they first met.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <episode-num system="onscreen">S4E1</episode-num>
+  </programme>
+  <programme start="20260710211400 +0000" stop="20260710212000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Squirrels play Copy the King!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
+  </programme>
+  <programme start="20260710212000 +0000" stop="20260710213000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">When Grandmaster Glitch makes popcorn in Mount Etna, Italy, he blocks the volcano and endangers farms on its slopes.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20260710213000 +0000" stop="20260710213500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Roots &amp; Fruits</title>
+    <desc lang="en">Live from the Roots and Fruits theatre, it's Coconut getting his moment in the limelight with his sea shanty Oh, the Big Waves - if he manages to overcome a little stage fright.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260710213500 +0000" stop="20260710214500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Roots &amp; Fruits</title>
+    <desc lang="en">Live from the Roots and Fruits theatre, it's the bouncing and singing Cranberries!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260710214500 +0000" stop="20260710215200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Supertato and Evil Pea get stuck inside a giant bubble together. They float through the air until Supertato and Evil Pea pop the bubble by driving it into a supermarket sign.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260710215200 +0000" stop="20260710220000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Evil Pea tricks Supertato into believing he has no superpowers without his red cape. When he rescues his friends without his cape he discovers he has superpowers cape or no cape!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260710220000 +0000" stop="20260710220700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels find a dusty, old book behind a cupboard... it's Duggee's diary from when he was a teenager! The Squirrels are keen to write diaries of their own.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260710220700 +0000" stop="20260710221400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Roly needs a wee, but the door is locked and Duggee has mislaid the key. Not to worry, Duggee has his metal detector.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <episode-num system="onscreen">S5E10</episode-num>
+  </programme>
+  <programme start="20260710221400 +0000" stop="20260710222000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels find Duggee's cheerleader pompoms, so he shows them his old moves. Time to practice: Duggee at the chess board, the Squirrels as a squad. There's a big match ahead...</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.10.</episode-num>
+    <episode-num system="onscreen">S5E11</episode-num>
+  </programme>
+  <programme start="20260710222000 +0000" stop="20260710222700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">When they're accidentally shut in the shed, Duggee shows the Squirrels how to make the time pass with calm breathing and made-up games. The Squirrels cope so well. Does Duggee?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.11.</episode-num>
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20260710222700 +0000" stop="20260710223500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels haven't been making good choices round the messy clubhouse. With Duggee's help, they start to get it right. But not before sending Roly's imagination into overdrive!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.12.</episode-num>
+    <episode-num system="onscreen">S5E13</episode-num>
+  </programme>
+  <programme start="20260710223500 +0000" stop="20260710224200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Duggee looks all around, but can he find the Squirrels? Let's play Hide and Seek!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260710224200 +0000" stop="20260710224900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Super Squirrels are called to action! Time to stop Dr Catastrophe and save their toys!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260710224900 +0000" stop="20260710225600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Join the chickens in space for the big finale of Agony and Eggstacy! Mucho Suspense!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
+  </programme>
+  <programme start="20260710225600 +0000" stop="20260710230300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Have you ever wondered what goes on at the Squirrel Club when the sun goes down?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260710230300 +0000" stop="20260710231000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Squirrels learn about butterflies and tortoises.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260710231000 +0000" stop="20260710232000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Teletubbies</title>
+    <desc lang="en">Laa-Laa and Po play a game of 'hide and seek'. They both take turns at hiding. Tinky Winky and Dispsy are hiding too and Laa-Laa and Po find them together.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20260710232000 +0000" stop="20260710232500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Teletubbies Ready Steady Go!</title>
+    <desc lang="en">Join the dance party with the Teletubbies! Tinky Winky, Dipsy, Laa-Laa and Po dance and sing and "Do the Tubby!".</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260710232500 +0000" stop="20260710233200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">When Bluey needs some assistance drawing a dragon for a story she is working on, she asks her dad, Bandit, for help.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.42.</episode-num>
+    <episode-num system="onscreen">S3E43</episode-num>
+  </programme>
+  <programme start="20260710233200 +0000" stop="20260710233900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.43.</episode-num>
+    <episode-num system="onscreen">S3E44</episode-num>
+  </programme>
+  <programme start="20260710233900 +0000" stop="20260710234600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">At the chemist, Bluey and Bingo have fun playing with the CCTV screens.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.44.</episode-num>
+    <episode-num system="onscreen">S3E45</episode-num>
+  </programme>
+  <programme start="20260710234600 +0000" stop="20260710235300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bingo and Lila are excited to play on their new waterslide.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.45.</episode-num>
+    <episode-num system="onscreen">S3E46</episode-num>
+  </programme>
+  <programme start="20260710235300 +0000" stop="20260711000000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">During a friendly game of neighbourhood cricket, the dads struggle to bowl Rusty out.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.46.</episode-num>
+    <episode-num system="onscreen">S3E47</episode-num>
+  </programme>
+  <programme start="20260711000000 +0000" stop="20260711001100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">Emily worries that she doesn't have a best friend. Soon she realises she's been surrounded by best friends all along.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.0.</episode-num>
+    <episode-num system="onscreen">S24E1</episode-num>
+  </programme>
+  <programme start="20260711001100 +0000" stop="20260711002200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">When Thomas discovers a missing dog rummaging around the railway yard, he tries to find the dog a new home.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.1.</episode-num>
+    <episode-num system="onscreen">S24E2</episode-num>
+  </programme>
+  <programme start="20260711002200 +0000" stop="20260711003500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">When a Railway Show for little engines comes to Sodor, an overly excited Percy finally sees his chance to shine.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.2.</episode-num>
+    <episode-num system="onscreen">S24E3</episode-num>
+  </programme>
+  <programme start="20260711003500 +0000" stop="20260711004600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Glitch is not happy when he has to work with Kyan in a Hollywood film.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
+  </programme>
+  <programme start="20260711004600 +0000" stop="20260711005700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Glitch and the Grimbots create some enormous blockages after flushing wet wipes.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20260711005700 +0000" stop="20260711011000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Can the Go Jetters save a rare bird's nest and find a lost trophy?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="onscreen">S3E3</episode-num>
+  </programme>
+  <programme start="20260711011000 +0000" stop="20260711012100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Mojo Swoptops</title>
+    <desc lang="en">It's pumpkin-picking day at Jackson's farm, but something spooky has been scaring all the pumpkin pickers. Mojo and Bo need to find out what's going on, and chase some ghosts!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260711012100 +0000" stop="20260711013500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Mojo Swoptops</title>
+    <desc lang="en">It's hard enough for Mojo and Bo to help Jackson get all his sheep back in their pen, but it's even harder when the hungry sheep start chewing up Preston's flower festival!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260711013500 +0000" stop="20260711014200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Evil Pea plots to take over the whole supermarket by making fake freezy sprinklers to fool Supertato. But what is her real plan, and will Supertato stop her?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <episode-num system="onscreen">S2E29</episode-num>
+  </programme>
+  <programme start="20260711014200 +0000" stop="20260711015000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Supertato reveals how he learned to control his potato powers, defeat Evil Pea and save the supermarket for the very first time.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.27.</episode-num>
+    <episode-num system="onscreen">S2E28</episode-num>
+  </programme>
+  <programme start="20260711015000 +0000" stop="20260711015200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">Get ready, set, dance in the supermarket aisles with Supertato, Runner Bean and the whole Tato Team! Featuring Nitro from Gladiators.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260711015200 +0000" stop="20260711015400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">Dance along with Carrot, the Tato Team's super cool, brave inventor. This song celebrates all things Carrot power!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260711015400 +0000" stop="20260711015500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">It's Veg-O-Vision time and Rylan Clark has some amazing fruit and veggie songs for you!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260711015500 +0000" stop="20260711020200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Duggee is cleaning his biscuit tin collection, one of the many things he collects. The squirrels are inspired to make their own collections.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <episode-num system="onscreen">S2E21</episode-num>
+  </programme>
+  <programme start="20260711020200 +0000" stop="20260711020900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">There has been a power cut and the squirrels use their torches to make shadows.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <episode-num system="onscreen">S2E22</episode-num>
+  </programme>
+  <programme start="20260711020900 +0000" stop="20260711021600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Duggee and the squirrels help to put on an amateur dramatic show.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <episode-num system="onscreen">S2E23</episode-num>
+  </programme>
+  <programme start="20260711021600 +0000" stop="20260711022500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Happy discovers his wobbly tooth has come out, but he's lost it! He's having a problem remembering where he was when it fell out.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
+    <episode-num system="onscreen">S2E24</episode-num>
+  </programme>
+  <programme start="20260711022500 +0000" stop="20260711023200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Duggee looks all around, but can he find the Squirrels? Let's play Hide and Seek!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260711023200 +0000" stop="20260711023900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Super Squirrels are called to action! Time to stop Dr Catastrophe and save their toys!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260711023900 +0000" stop="20260711024600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Join the chickens in space for the big finale of Agony and Eggstacy! Mucho Suspense!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
+  </programme>
+  <programme start="20260711024600 +0000" stop="20260711025300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Have you ever wondered what goes on at the Squirrel Club when the sun goes down?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260711025300 +0000" stop="20260711030000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Squirrels learn about butterflies and tortoises.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260711030000 +0000" stop="20260711030700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">While on a camping holiday, Bluey makes a new friend named called Jean-Luc. Bluey may not understand him, but they find a common language playing and hunting for a wild Daddy pig.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <episode-num system="onscreen">S1E43</episode-num>
+  </programme>
+  <programme start="20260711030700 +0000" stop="20260711031400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bingo and Bluey have five minutes to bed, just enough time to race to the summit of Mount Mumandad. But for them, facing powerful storms, avalanches and stinky spots will take teamwork.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <episode-num system="onscreen">S1E44</episode-num>
+  </programme>
+  <programme start="20260711031400 +0000" stop="20260711032100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">A quick trip to the shops proves tricky for Dad, when Bingo and Bluey want to play a game of 'Kids'. Now Bluey is Mum, Bingo's her baby and for Dad however, he is a very naughty boy.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20260711032100 +0000" stop="20260711032800 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">It's bedtime and Bingo can't remember where she left her beloved Floppy. Retracing their steps, Bingo and Bluey lead their Mum through their bizarre day in the hope of tracking her down.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.45.</episode-num>
+    <episode-num system="onscreen">S1E46</episode-num>
+  </programme>
+  <programme start="20260711032800 +0000" stop="20260711034300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Andy's Global Adventures</title>
+    <desc lang="en">Andy, Jen and Scout head off on a global adventure to Vienna, Austria, in search of European hamsters. The team discover that wild hamsters have a taste for flowers and candle wax.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260711034300 +0000" stop="20260711040000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Andy's Global Adventures</title>
+    <desc lang="en">Andy, Jen and Scout embark on a global adventure to Mongolia in eastern Asia to uncover the mystery of moving rocks. Along the way, they meet a family of Pallas's cats.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260711040000 +0000" stop="20260711040700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels find a dusty, old book behind a cupboard... it's Duggee's diary from when he was a teenager! The Squirrels are keen to write diaries of their own.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260711040700 +0000" stop="20260711041400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Roly needs a wee, but the door is locked and Duggee has mislaid the key. Not to worry, Duggee has his metal detector.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <episode-num system="onscreen">S5E10</episode-num>
+  </programme>
+  <programme start="20260711041400 +0000" stop="20260711042000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels find Duggee's cheerleader pompoms, so he shows them his old moves. Time to practice: Duggee at the chess board, the Squirrels as a squad. There's a big match ahead...</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.10.</episode-num>
+    <episode-num system="onscreen">S5E11</episode-num>
+  </programme>
+  <programme start="20260711042000 +0000" stop="20260711042700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">When they're accidentally shut in the shed, Duggee shows the Squirrels how to make the time pass with calm breathing and made-up games. The Squirrels cope so well. Does Duggee?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.11.</episode-num>
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20260711042700 +0000" stop="20260711043500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels haven't been making good choices round the messy clubhouse. With Duggee's help, they start to get it right. But not before sending Roly's imagination into overdrive!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.12.</episode-num>
+    <episode-num system="onscreen">S5E13</episode-num>
+  </programme>
+  <programme start="20260711043500 +0000" stop="20260711044200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Duggee looks all around, but can he find the Squirrels? Let's play Hide and Seek!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260711044200 +0000" stop="20260711044900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Super Squirrels are called to action! Time to stop Dr Catastrophe and save their toys!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260711044900 +0000" stop="20260711045600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Join the chickens in space for the big finale of Agony and Eggstacy! Mucho Suspense!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
+  </programme>
+  <programme start="20260711045600 +0000" stop="20260711050300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Have you ever wondered what goes on at the Squirrel Club when the sun goes down?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260711050300 +0000" stop="20260711051000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Squirrels learn about butterflies and tortoises.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260711051000 +0000" stop="20260711052000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Teletubbies</title>
+    <desc lang="en">Laa-Laa and Po play a game of 'hide and seek'. They both take turns at hiding. Tinky Winky and Dispsy are hiding too and Laa-Laa and Po find them together.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20260711052000 +0000" stop="20260711052500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Teletubbies Ready Steady Go!</title>
+    <desc lang="en">Join the dance party with the Teletubbies! Tinky Winky, Dipsy, Laa-Laa and Po dance and sing and "Do the Tubby!".</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260711052500 +0000" stop="20260711053200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">When Bluey needs some assistance drawing a dragon for a story she is working on, she asks her dad, Bandit, for help.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.42.</episode-num>
+    <episode-num system="onscreen">S3E43</episode-num>
+  </programme>
+  <programme start="20260711053200 +0000" stop="20260711053900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.43.</episode-num>
+    <episode-num system="onscreen">S3E44</episode-num>
+  </programme>
+  <programme start="20260711053900 +0000" stop="20260711054600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">At the chemist, Bluey and Bingo have fun playing with the CCTV screens.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.44.</episode-num>
+    <episode-num system="onscreen">S3E45</episode-num>
+  </programme>
+  <programme start="20260711054600 +0000" stop="20260711055300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bingo and Lila are excited to play on their new waterslide.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.45.</episode-num>
+    <episode-num system="onscreen">S3E46</episode-num>
+  </programme>
+  <programme start="20260711055300 +0000" stop="20260711060000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">During a friendly game of neighbourhood cricket, the dads struggle to bowl Rusty out.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.46.</episode-num>
+    <episode-num system="onscreen">S3E47</episode-num>
+  </programme>
+  <programme start="20260711060000 +0000" stop="20260711061100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">Emily worries that she doesn't have a best friend. Soon she realises she's been surrounded by best friends all along.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.0.</episode-num>
+    <episode-num system="onscreen">S24E1</episode-num>
+  </programme>
+  <programme start="20260711061100 +0000" stop="20260711062200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">When Thomas discovers a missing dog rummaging around the railway yard, he tries to find the dog a new home.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.1.</episode-num>
+    <episode-num system="onscreen">S24E2</episode-num>
+  </programme>
+  <programme start="20260711062200 +0000" stop="20260711063500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">When a Railway Show for little engines comes to Sodor, an overly excited Percy finally sees his chance to shine.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.2.</episode-num>
+    <episode-num system="onscreen">S24E3</episode-num>
+  </programme>
+  <programme start="20260711063500 +0000" stop="20260711064600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Glitch is not happy when he has to work with Kyan in a Hollywood film.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
+  </programme>
+  <programme start="20260711064600 +0000" stop="20260711065700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Glitch and the Grimbots create some enormous blockages after flushing wet wipes.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20260711065700 +0000" stop="20260711071000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Can the Go Jetters save a rare bird's nest and find a lost trophy?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="onscreen">S3E3</episode-num>
+  </programme>
+  <programme start="20260711071000 +0000" stop="20260711072100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Mojo Swoptops</title>
+    <desc lang="en">It's pumpkin-picking day at Jackson's farm, but something spooky has been scaring all the pumpkin pickers. Mojo and Bo need to find out what's going on, and chase some ghosts!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260711072100 +0000" stop="20260711073500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Mojo Swoptops</title>
+    <desc lang="en">It's hard enough for Mojo and Bo to help Jackson get all his sheep back in their pen, but it's even harder when the hungry sheep start chewing up Preston's flower festival!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260711073500 +0000" stop="20260711074200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Evil Pea plots to take over the whole supermarket by making fake freezy sprinklers to fool Supertato. But what is her real plan, and will Supertato stop her?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <episode-num system="onscreen">S2E29</episode-num>
+  </programme>
+  <programme start="20260711074200 +0000" stop="20260711075000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Supertato reveals how he learned to control his potato powers, defeat Evil Pea and save the supermarket for the very first time.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.27.</episode-num>
+    <episode-num system="onscreen">S2E28</episode-num>
+  </programme>
+  <programme start="20260711075000 +0000" stop="20260711075200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">Get ready, set, dance in the supermarket aisles with Supertato, Runner Bean and the whole Tato Team! Featuring Nitro from Gladiators.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260711075200 +0000" stop="20260711075400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">Dance along with Carrot, the Tato Team's super cool, brave inventor. This song celebrates all things Carrot power!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260711075400 +0000" stop="20260711075500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">It's Veg-O-Vision time and Rylan Clark has some amazing fruit and veggie songs for you!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260711075500 +0000" stop="20260711080200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Duggee is cleaning his biscuit tin collection, one of the many things he collects. The squirrels are inspired to make their own collections.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <episode-num system="onscreen">S2E21</episode-num>
+  </programme>
+  <programme start="20260711080200 +0000" stop="20260711080900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">There has been a power cut and the squirrels use their torches to make shadows.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <episode-num system="onscreen">S2E22</episode-num>
+  </programme>
+  <programme start="20260711080900 +0000" stop="20260711081600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Duggee and the squirrels help to put on an amateur dramatic show.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <episode-num system="onscreen">S2E23</episode-num>
+  </programme>
+  <programme start="20260711081600 +0000" stop="20260711082500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Happy discovers his wobbly tooth has come out, but he's lost it! He's having a problem remembering where he was when it fell out.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
+    <episode-num system="onscreen">S2E24</episode-num>
+  </programme>
+  <programme start="20260711082500 +0000" stop="20260711083200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Duggee looks all around, but can he find the Squirrels? Let's play Hide and Seek!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260711083200 +0000" stop="20260711083900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Super Squirrels are called to action! Time to stop Dr Catastrophe and save their toys!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260711083900 +0000" stop="20260711084600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Join the chickens in space for the big finale of Agony and Eggstacy! Mucho Suspense!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
+  </programme>
+  <programme start="20260711084600 +0000" stop="20260711085300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Have you ever wondered what goes on at the Squirrel Club when the sun goes down?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260711085300 +0000" stop="20260711090000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Squirrels learn about butterflies and tortoises.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260711090000 +0000" stop="20260711090700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">While on a camping holiday, Bluey makes a new friend named called Jean-Luc. Bluey may not understand him, but they find a common language playing and hunting for a wild Daddy pig.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <episode-num system="onscreen">S1E43</episode-num>
+  </programme>
+  <programme start="20260711090700 +0000" stop="20260711091400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bingo and Bluey have five minutes to bed, just enough time to race to the summit of Mount Mumandad. But for them, facing powerful storms, avalanches and stinky spots will take teamwork.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <episode-num system="onscreen">S1E44</episode-num>
+  </programme>
+  <programme start="20260711091400 +0000" stop="20260711092100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">A quick trip to the shops proves tricky for Dad, when Bingo and Bluey want to play a game of 'Kids'. Now Bluey is Mum, Bingo's her baby and for Dad however, he is a very naughty boy.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20260711092100 +0000" stop="20260711092800 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">It's bedtime and Bingo can't remember where she left her beloved Floppy. Retracing their steps, Bingo and Bluey lead their Mum through their bizarre day in the hope of tracking her down.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.45.</episode-num>
+    <episode-num system="onscreen">S1E46</episode-num>
+  </programme>
+  <programme start="20260711092800 +0000" stop="20260711094300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Andy's Global Adventures</title>
+    <desc lang="en">Andy, Jen and Scout head off on a global adventure to Vienna, Austria, in search of European hamsters. The team discover that wild hamsters have a taste for flowers and candle wax.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260711094300 +0000" stop="20260711100000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Andy's Global Adventures</title>
+    <desc lang="en">Andy, Jen and Scout embark on a global adventure to Mongolia in eastern Asia to uncover the mystery of moving rocks. Along the way, they meet a family of Pallas's cats.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260711100000 +0000" stop="20260711100700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels find a dusty, old book behind a cupboard... it's Duggee's diary from when he was a teenager! The Squirrels are keen to write diaries of their own.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <programme start="20260711100700 +0000" stop="20260711101400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Roly needs a wee, but the door is locked and Duggee has mislaid the key. Not to worry, Duggee has his metal detector.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <episode-num system="onscreen">S5E10</episode-num>
+  </programme>
+  <programme start="20260711101400 +0000" stop="20260711102000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels find Duggee's cheerleader pompoms, so he shows them his old moves. Time to practice: Duggee at the chess board, the Squirrels as a squad. There's a big match ahead...</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.10.</episode-num>
+    <episode-num system="onscreen">S5E11</episode-num>
+  </programme>
+  <programme start="20260711102000 +0000" stop="20260711102700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">When they're accidentally shut in the shed, Duggee shows the Squirrels how to make the time pass with calm breathing and made-up games. The Squirrels cope so well. Does Duggee?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.11.</episode-num>
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20260711102700 +0000" stop="20260711103500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels haven't been making good choices round the messy clubhouse. With Duggee's help, they start to get it right. But not before sending Roly's imagination into overdrive!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.12.</episode-num>
+    <episode-num system="onscreen">S5E13</episode-num>
+  </programme>
+  <programme start="20260711103500 +0000" stop="20260711104200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Duggee looks all around, but can he find the Squirrels? Let's play Hide and Seek!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260711104200 +0000" stop="20260711104900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Super Squirrels are called to action! Time to stop Dr Catastrophe and save their toys!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260711104900 +0000" stop="20260711105600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Join the chickens in space for the big finale of Agony and Eggstacy! Mucho Suspense!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
+  </programme>
+  <programme start="20260711105600 +0000" stop="20260711110300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Have you ever wondered what goes on at the Squirrel Club when the sun goes down?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260711110300 +0000" stop="20260711111000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Squirrels learn about butterflies and tortoises.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260711111000 +0000" stop="20260711112000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Teletubbies</title>
+    <desc lang="en">Laa-Laa and Po play a game of 'hide and seek'. They both take turns at hiding. Tinky Winky and Dispsy are hiding too and Laa-Laa and Po find them together.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20260711112000 +0000" stop="20260711112500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Teletubbies Ready Steady Go!</title>
+    <desc lang="en">Join the dance party with the Teletubbies! Tinky Winky, Dipsy, Laa-Laa and Po dance and sing and "Do the Tubby!".</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260711112500 +0000" stop="20260711113200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">When Bluey needs some assistance drawing a dragon for a story she is working on, she asks her dad, Bandit, for help.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.42.</episode-num>
+    <episode-num system="onscreen">S3E43</episode-num>
+  </programme>
+  <programme start="20260711113200 +0000" stop="20260711113900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.43.</episode-num>
+    <episode-num system="onscreen">S3E44</episode-num>
+  </programme>
+  <programme start="20260711113900 +0000" stop="20260711114600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">At the chemist, Bluey and Bingo have fun playing with the CCTV screens.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.44.</episode-num>
+    <episode-num system="onscreen">S3E45</episode-num>
+  </programme>
+  <programme start="20260711114600 +0000" stop="20260711115300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bingo and Lila are excited to play on their new waterslide.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.45.</episode-num>
+    <episode-num system="onscreen">S3E46</episode-num>
+  </programme>
+  <programme start="20260711115300 +0000" stop="20260711120000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">During a friendly game of neighbourhood cricket, the dads struggle to bowl Rusty out.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.46.</episode-num>
+    <episode-num system="onscreen">S3E47</episode-num>
+  </programme>
+  <programme start="20260711120000 +0000" stop="20260711121100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">Emily worries that she doesn't have a best friend. Soon she realises she's been surrounded by best friends all along.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.0.</episode-num>
+    <episode-num system="onscreen">S24E1</episode-num>
+  </programme>
+  <programme start="20260711121100 +0000" stop="20260711122200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">When Thomas discovers a missing dog rummaging around the railway yard, he tries to find the dog a new home.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.1.</episode-num>
+    <episode-num system="onscreen">S24E2</episode-num>
+  </programme>
+  <programme start="20260711122200 +0000" stop="20260711123500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Thomas &amp; Friends</title>
+    <desc lang="en">When a Railway Show for little engines comes to Sodor, an overly excited Percy finally sees his chance to shine.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">23.2.</episode-num>
+    <episode-num system="onscreen">S24E3</episode-num>
+  </programme>
+  <programme start="20260711123500 +0000" stop="20260711124600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Glitch is not happy when he has to work with Kyan in a Hollywood film.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
+  </programme>
+  <programme start="20260711124600 +0000" stop="20260711125700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Glitch and the Grimbots create some enormous blockages after flushing wet wipes.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20260711125700 +0000" stop="20260711131000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Go Jetters</title>
+    <desc lang="en">Can the Go Jetters save a rare bird's nest and find a lost trophy?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="onscreen">S3E3</episode-num>
+  </programme>
+  <programme start="20260711131000 +0000" stop="20260711132100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Mojo Swoptops</title>
+    <desc lang="en">It's pumpkin-picking day at Jackson's farm, but something spooky has been scaring all the pumpkin pickers. Mojo and Bo need to find out what's going on, and chase some ghosts!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260711132100 +0000" stop="20260711133500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Mojo Swoptops</title>
+    <desc lang="en">It's hard enough for Mojo and Bo to help Jackson get all his sheep back in their pen, but it's even harder when the hungry sheep start chewing up Preston's flower festival!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260711133500 +0000" stop="20260711134200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Evil Pea plots to take over the whole supermarket by making fake freezy sprinklers to fool Supertato. But what is her real plan, and will Supertato stop her?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <episode-num system="onscreen">S2E29</episode-num>
+  </programme>
+  <programme start="20260711134200 +0000" stop="20260711135000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato</title>
+    <desc lang="en">Supertato reveals how he learned to control his potato powers, defeat Evil Pea and save the supermarket for the very first time.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.27.</episode-num>
+    <episode-num system="onscreen">S2E28</episode-num>
+  </programme>
+  <programme start="20260711135000 +0000" stop="20260711135200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">Get ready, set, dance in the supermarket aisles with Supertato, Runner Bean and the whole Tato Team! Featuring Nitro from Gladiators.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260711135200 +0000" stop="20260711135400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">Dance along with Carrot, the Tato Team's super cool, brave inventor. This song celebrates all things Carrot power!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260711135400 +0000" stop="20260711135500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Supertato Songs</title>
+    <desc lang="en">It's Veg-O-Vision time and Rylan Clark has some amazing fruit and veggie songs for you!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260711135500 +0000" stop="20260711140200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Duggee is cleaning his biscuit tin collection, one of the many things he collects. The squirrels are inspired to make their own collections.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <episode-num system="onscreen">S2E21</episode-num>
+  </programme>
+  <programme start="20260711140200 +0000" stop="20260711140900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">There has been a power cut and the squirrels use their torches to make shadows.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <episode-num system="onscreen">S2E22</episode-num>
+  </programme>
+  <programme start="20260711140900 +0000" stop="20260711141600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Duggee and the squirrels help to put on an amateur dramatic show.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <episode-num system="onscreen">S2E23</episode-num>
+  </programme>
+  <programme start="20260711141600 +0000" stop="20260711142500 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">Happy discovers his wobbly tooth has come out, but he's lost it! He's having a problem remembering where he was when it fell out.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
+    <episode-num system="onscreen">S2E24</episode-num>
+  </programme>
+  <programme start="20260711142500 +0000" stop="20260711143200 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Duggee looks all around, but can he find the Squirrels? Let's play Hide and Seek!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260711143200 +0000" stop="20260711143900 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Super Squirrels are called to action! Time to stop Dr Catastrophe and save their toys!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
+  </programme>
+  <programme start="20260711143900 +0000" stop="20260711144600 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Join the chickens in space for the big finale of Agony and Eggstacy! Mucho Suspense!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
+  </programme>
+  <programme start="20260711144600 +0000" stop="20260711145300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">Have you ever wondered what goes on at the Squirrel Club when the sun goes down?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20260711145300 +0000" stop="20260711150000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee's Squirrel Club</title>
+    <desc lang="en">The Squirrels learn about butterflies and tortoises.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260711150000 +0000" stop="20260711150700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">While on a camping holiday, Bluey makes a new friend named called Jean-Luc. Bluey may not understand him, but they find a common language playing and hunting for a wild Daddy pig.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+    <episode-num system="onscreen">S1E43</episode-num>
+  </programme>
+  <programme start="20260711150700 +0000" stop="20260711151400 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">Bingo and Bluey have five minutes to bed, just enough time to race to the summit of Mount Mumandad. But for them, facing powerful storms, avalanches and stinky spots will take teamwork.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <episode-num system="onscreen">S1E44</episode-num>
+  </programme>
+  <programme start="20260711151400 +0000" stop="20260711152100 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">A quick trip to the shops proves tricky for Dad, when Bingo and Bluey want to play a game of 'Kids'. Now Bluey is Mum, Bingo's her baby and for Dad however, he is a very naughty boy.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20260711152100 +0000" stop="20260711152800 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Bluey</title>
+    <desc lang="en">It's bedtime and Bingo can't remember where she left her beloved Floppy. Retracing their steps, Bingo and Bluey lead their Mum through their bizarre day in the hope of tracking her down.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.45.</episode-num>
+    <episode-num system="onscreen">S1E46</episode-num>
+  </programme>
+  <programme start="20260711152800 +0000" stop="20260711154300 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Andy's Global Adventures</title>
+    <desc lang="en">Andy, Jen and Scout head off on a global adventure to Vienna, Austria, in search of European hamsters. The team discover that wild hamsters have a taste for flowers and candle wax.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260711154300 +0000" stop="20260711160000 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Andy's Global Adventures</title>
+    <desc lang="en">Andy, Jen and Scout embark on a global adventure to Mongolia in eastern Asia to uncover the mystery of moving rocks. Along the way, they meet a family of Pallas's cats.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260711160000 +0000" stop="20260711160700 +0000" channel="cbeebieshd.unifitv">
+    <title lang="en">Hey Duggee</title>
+    <desc lang="en">The Squirrels find a dusty, old book behind a cupboard... it's Duggee's diary from when he was a teenager! The Squirrels are keen to write diaries of their own.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
+    <episode-num system="onscreen">S5E9</episode-num>
+  </programme>
+  <channel id="nickelodeon.unifitv">
+    <display-name>Nickelodeon</display-name>
+  </channel>
+  <programme start="20260710155300 +0000" stop="20260710160300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">Jade's a great dancer which results in her facing Mr Best for dance off in person.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.102.</episode-num>
+    <episode-num system="onscreen">S1E103</episode-num>
+  </programme>
+  <programme start="20260710160300 +0000" stop="20260710162800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">When Sergio stays at the Louds, he soon gets into trouble when he doesn't want to hang out with the rest of the pets.  Unable to get Lily to go to sleep, Mom takes her for a drive where they happen to witness a burglary.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">6.711.</episode-num>
+    <episode-num system="onscreen">S7E712</episode-num>
+  </programme>
+  <programme start="20260710162800 +0000" stop="20260710165300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Leni must protect her mannequin friend Tanya when her boss, Ms. Carmichael, decides to update Reininger's.  When Dante buries a secret in The Royal Woods Cemetery, he must stop the Morticians Club from discovering what it is.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">6.713.</episode-num>
+    <episode-num system="onscreen">S7E714</episode-num>
+  </programme>
+  <programme start="20260710165300 +0000" stop="20260710170300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Annoyed by Leni's intrusive babysitting, Lisa accidentally blasts herself and Todd into space.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">5.617.</episode-num>
+    <episode-num system="onscreen">S6E618</episode-num>
+  </programme>
+  <programme start="20260710170300 +0000" stop="20260710172800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">That Girl Lay Lay</title>
+    <desc lang="en">The Alexanders get another visit from Young Dylan, whose cousin Rebecca joins Sadie at the launch event for the new version of their favorite video game, while Dylan enlists Lay Lay to help get his music on the game soundtrack.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.209.</episode-num>
+    <episode-num system="onscreen">S2E210</episode-num>
+  </programme>
+  <programme start="20260710172800 +0000" stop="20260710175300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Thundermans: Undercover</title>
+    <desc lang="en">Upset that Phoebe has a new partner, Max decides to partner with his friend Gideon. But things backfire when Max tries to turn Gideon into a supersized superhero. Chloe's friends pretend to be wealthy so they can bond with her new crush.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.203.</episode-num>
+    <episode-num system="onscreen">S2E204</episode-num>
+  </programme>
+  <programme start="20260710175300 +0000" stop="20260710181800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Henry Danger</title>
+    <desc lang="en">Kid Danger and Captain Man attempt to capture Mob Boss Rob Moss by infiltrating his daughter's the sweet sixteen birthday party.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.518.</episode-num>
+    <episode-num system="onscreen">S5E519</episode-num>
+  </programme>
+  <programme start="20260710181800 +0000" stop="20260710183800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Spongebob desperately searches for his missing name tag.  Plankton enlists his relatives to help him steal the Krabby Patty Secret Formula.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.57.</episode-num>
+    <episode-num system="onscreen">S3E58</episode-num>
+  </programme>
+  <programme start="20260710183800 +0000" stop="20260710190300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">While trying to beat a world record, SpongeBob forgets to feed Gary - for several weeks. So Gary runs away to downtown Bikini Bottom where he is taken in by a kind old woman.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">3.62.</episode-num>
+    <episode-num system="onscreen">S4E63</episode-num>
+  </programme>
+  <programme start="20260710190300 +0000" stop="20260710192800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Squidward's lazy Sunday is constantly interrupted by Spongebob and Patrick's Good Neighbor Club activities.  Squidward becomes obsessed with winning a prize from the Skill Crane.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">3.63.</episode-num>
+    <episode-num system="onscreen">S4E64</episode-num>
+  </programme>
+  <programme start="20260710192800 +0000" stop="20260710195300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Mr. Krabs sells the Krusty Krab to a conglomerate and explores the joys of retirement.  Squidward tricks his neighbor into believing that Spongebob has a laugh-related illness.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">3.64.</episode-num>
+    <episode-num system="onscreen">S4E65</episode-num>
+  </programme>
+  <programme start="20260710195300 +0000" stop="20260710201800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">Cecil shows Patrick his mustache collection.  The Star family brings a mandrake root into their home.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.121.</episode-num>
+    <episode-num system="onscreen">S1E122</episode-num>
+  </programme>
+  <programme start="20260710201800 +0000" stop="20260710203800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">Patrick hires other Patricks to entertain at parties.  Pat-Thos shares a Hamdonian tale of love and pork products.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.209.</episode-num>
+    <episode-num system="onscreen">S2E210</episode-num>
+  </programme>
+  <programme start="20260710203800 +0000" stop="20260710210300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">Desperate to save Wingnut from Tokka, Rahzar, &amp; the Monster Mutanimals, Donnie delves deeper into the lab of a mad scientist. Meanwhile, his brothers follow another Tokka to the Staten Island lab... only for things to take a disastrous turn!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.204.</episode-num>
+    <episode-num system="onscreen">S2E205</episode-num>
+  </programme>
+  <programme start="20260710210300 +0000" stop="20260710212300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Tales of the Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">When Leo, Mikey, and Raph are captured by the mad scientist Jordan Perry and his Monster Mutanimals, Donnie must stop a mutant invasion on Staten Island and save everyone from the terrifying creation known as Mutant Omega!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.205.</episode-num>
+    <episode-num system="onscreen">S2E206</episode-num>
+  </programme>
+  <programme start="20260710212300 +0000" stop="20260710214800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Sonic Prime</title>
+    <desc lang="en">Sonic and the crew of the Angel's Voyage aren't the only ones after the No Place Shard-the Chaos Council co-opted Nine's Shatterdrive tech and sent Rusty Rose and a legion of Eggforcers to grab it too!</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.107.</episode-num>
+    <episode-num system="onscreen">S1E108</episode-num>
+  </programme>
+  <programme start="20260710214800 +0000" stop="20260710221300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Sonic Prime</title>
+    <desc lang="en">In The Void, Shadow intercepts Sonic's latest Shatterspace transverse, for a personal face-to-fist encounter. Sonic assumes this Shadow is another distorted prism version of someone he knows until Shadow calls Sonic by name.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.108.</episode-num>
+    <episode-num system="onscreen">S1E109</episode-num>
+  </programme>
+  <programme start="20260710221300 +0000" stop="20260710223800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">Hope makes lots of noise whilst skateboarding, and her howls are heard around the city causing lots of drama.  The Twins manage the Smoothie Bar and the Marsups end up creating the best smoothie ever.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.107.</episode-num>
+    <episode-num system="onscreen">S1E108</episode-num>
+  </programme>
+  <programme start="20260710223800 +0000" stop="20260710225800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Best and Bester</title>
+    <desc lang="en">When Diamondo refuses to give the twins a ride in his spaceship they embark on some space exploration of their own.  Best becomes entangled in a series of awkward situations when he pretends to know someone he's never met before.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.115.</episode-num>
+    <episode-num system="onscreen">S1E116</episode-num>
+  </programme>
+  <programme start="20260710225800 +0000" stop="20260710232300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Best and Bester</title>
+    <desc lang="en">Bester unwittingly uncovers the not so delicious goings on in Fritz Fritter's top secret Donut Wonderland Factory.  Best and Bester dig up Captain Ironfoot's Cursed Amulet on the beach only to find that Deep Sea Belle wants it too.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.116.</episode-num>
+    <episode-num system="onscreen">S1E117</episode-num>
+  </programme>
+  <programme start="20260710232300 +0000" stop="20260710234300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">Quasar uses Patrick to communicate with the dumbest aliens in the universe.  Patrick and GrandPat have a staring contest to compete for the last lick of a baking spoon.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">3.408.</episode-num>
+    <episode-num system="onscreen">S4E409</episode-num>
+  </programme>
+  <programme start="20260710234300 +0000" stop="20260711000800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">After yet another Star house disaster, the fire marshal forces Patrick to watch a safety training video.  Patrick fails his way up the corporate ladder at Upturn's mall.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">3.409.</episode-num>
+    <episode-num system="onscreen">S4E410</episode-num>
+  </programme>
+  <programme start="20260711000800 +0000" stop="20260711002300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">After yet another Star house disaster, the fire marshal forces Patrick to watch a safety training video.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">3.409.</episode-num>
+    <episode-num system="onscreen">S4E410</episode-num>
+  </programme>
+  <programme start="20260711002300 +0000" stop="20260711004800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Sonic Prime</title>
+    <desc lang="en">Dr. Don't and Dr. Babbles - flanked by Eggforcers and captive tech guru, Nine - search the Boscage Maze for its powerful prism shard. Enter: Sonic with the same objective.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.109.</episode-num>
+    <episode-num system="onscreen">S1E110</episode-num>
+  </programme>
+  <programme start="20260711004800 +0000" stop="20260711010800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Thundermans: Undercover</title>
+    <desc lang="en">Mrs. Wong visits Secret Shores, and threatens to reveal the Thundermans' superhero identities to the town. But Max and Phoebe's plan to have Dr. Colosso keep her quiet backfires in ways they could not have imagined.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.207.</episode-num>
+    <episode-num system="onscreen">S2E208</episode-num>
+  </programme>
+  <programme start="20260711010800 +0000" stop="20260711013300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Danger Force</title>
+    <desc lang="en">Ray breaks up with Credenza, giving Danger Force only 48 hours to teach Ray how to forgive before his relationship is over forever. If Ray wants a future with Credenza, he must confront his past and learn to forgive his greatest enemy, Drex.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.310.</episode-num>
+    <episode-num system="onscreen">S3E311</episode-num>
+  </programme>
+  <programme start="20260711013300 +0000" stop="20260711015800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Henry Danger</title>
+    <desc lang="en">Henry and the gang set up a secret underground restaurant in the Man Cave for Charlotte's private dinner with music superstar Jack Swagger. When word gets out that Jack Swagger is in town, some unwanted guests crash the party.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">4.533.</episode-num>
+    <episode-num system="onscreen">S5E534</episode-num>
+  </programme>
+  <programme start="20260711015800 +0000" stop="20260711022300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">To get Lily to stop crying the kids give her an old singing toy from the attic but it quickly drives them crazy.  Dad declares war on the kids' devices so they decide to show Dad how great electronics and the internet are.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.224.</episode-num>
+    <episode-num system="onscreen">S2E225</episode-num>
+  </programme>
+  <programme start="20260711022300 +0000" stop="20260711024300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Everyone in the family has been working hard to save up for a family vacation. But while road tripping to their destination, everything that can go for the family wrong does.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.300.</episode-num>
+    <episode-num system="onscreen">S3E301</episode-num>
+  </programme>
+  <programme start="20260711024300 +0000" stop="20260711030300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">When Lori and Bobby find a kitten, they decide to coparent and swap the kitten back and forth between their homes.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">8.902.</episode-num>
+    <episode-num system="onscreen">S9E903</episode-num>
+  </programme>
+  <programme start="20260711030300 +0000" stop="20260711032800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Spongebob Squarepants</title>
+    <desc lang="en">Patrick invents a new board game, and invites SpongeBob, Sandy and Squidward to play it with him.  After accidentally flushing Mr. Krabs' safe, SpongeBob and Squidward must go into the sewers to find it.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">8.193.</episode-num>
+    <episode-num system="onscreen">S9E194</episode-num>
+  </programme>
+  <programme start="20260711032800 +0000" stop="20260711034800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob gets a pair of long pants, but they change his life in unexpected ways.  When Larry the Lobster opens a new gym in Bikini Bottom, SpongeBob becomes his best customer.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">8.194.</episode-num>
+    <episode-num system="onscreen">S9E195</episode-num>
+  </programme>
+  <programme start="20260711034800 +0000" stop="20260711040300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">Squidward and Bubble Bass are forced to tolerate each other's company on a trip to Jetsam City.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">13.295.</episode-num>
+    <episode-num system="onscreen">S14E296</episode-num>
+  </programme>
+  <programme start="20260711040300 +0000" stop="20260711042300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">It's the Chahuta's Chili eating contest, and soon it's revealed Marcel's a cheat.  When Hope takes Gran Gran's special ladle to the park to play it ends up at Professor Lopez's archaeological dig.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.105.</episode-num>
+    <episode-num system="onscreen">S1E106</episode-num>
+  </programme>
+  <programme start="20260711042300 +0000" stop="20260711044800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">Stan claims to have a real Marsupilami appearing in a show he's putting on, but it's a fake robot.  Acu thinks a fish-loving alien is in town, and Mica offers to help him track it down.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.106.</episode-num>
+    <episode-num system="onscreen">S1E107</episode-num>
+  </programme>
+  <programme start="20260711044800 +0000" stop="20260711051300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">When a sinkhole opens up at school, Lincoln and his classmates are forced to share lockers.  When Lana brings home a skunk to rehabilitate, Lola grows attached when she finds the skunk has finer tastes.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">5.625.</episode-num>
+    <episode-num system="onscreen">S6E626</episode-num>
+  </programme>
+  <programme start="20260711051300 +0000" stop="20260711053800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Eager to uncover secrets from the past, Lisa uses her technology to wake up a frozen caveman.  To win the prank war between Fairway University and their rival Par College, Lori recruits the help of Luan.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">6.700.</episode-num>
+    <episode-num system="onscreen">S7E701</episode-num>
+  </programme>
+  <programme start="20260711053800 +0000" stop="20260711055800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Lola struggles to dampen her sweet tooth when mom challenges her to go an entire week without sugar.  Lincoln strives to impress the Amazing Brailster when he's chosen to be his assistant at the Illusion Chateau.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">6.702.</episode-num>
+    <episode-num system="onscreen">S7E703</episode-num>
+  </programme>
+  <programme start="20260711055800 +0000" stop="20260711062300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Tired of the yearly cheer surrounding her birthday, Lucy casts a spell so her family will forget what day it is.  When Zach is given detention, Rusty and the rest of their friends try to toughen up him up so he'll fit in.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">6.703.</episode-num>
+    <episode-num system="onscreen">S7E704</episode-num>
+  </programme>
+  <programme start="20260711062300 +0000" stop="20260711064800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Wylde Pak</title>
+    <desc lang="en">Ellie &amp; the kids investigate cryptic Mrs. Withers. When Jack goes missing in her creepy home, Ellie and Lil must save him!  Eager to become Master Criminals, Lil &amp; Jack help Chuck with his "dirty laundry". But are they ready for a life of crime?</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.105.</episode-num>
+    <episode-num system="onscreen">S1E106</episode-num>
+  </programme>
+  <programme start="20260711064800 +0000" stop="20260711070800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Wylde Pak</title>
+    <desc lang="en">Min tries to avoid the usual Woori World chaos, but when the family splits up they all get lost in their own fiascos.  Jack's mission to find the rare DVD sequel of his favorite movie leads him to the mysterious Collector.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.209.</episode-num>
+    <episode-num system="onscreen">S2E210</episode-num>
+  </programme>
+  <programme start="20260711070800 +0000" stop="20260711073300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">When customers bring pets into the Krusty Krab, Mr. Krabs soon realizes pets are more profitable than owners.  Plankton ruins another date with Karen, so she puts the Chum Bucket on lockdown until he proves his affection.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">12.267.</episode-num>
+    <episode-num system="onscreen">S13E268</episode-num>
+  </programme>
+  <programme start="20260711073300 +0000" stop="20260711075800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob and Patrick make it their mission to reunite the recently fires robot band from Goofy Goober's.  Patrick is sent to the pound for acting like a worm, but he won't be able to leave unless SpongeBob can train him.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">12.269.</episode-num>
+    <episode-num system="onscreen">S13E270</episode-num>
+  </programme>
+  <programme start="20260711075800 +0000" stop="20260711081800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">Patrick spawns an adorable mini-Patrick who quickly becomes the star of the show (until he outgrows the role).  The Star family celebrates the Klopnodian holiday Swaptoberfest by swapping identities with each other.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.306.</episode-num>
+    <episode-num system="onscreen">S3E307</episode-num>
+  </programme>
+  <programme start="20260711081800 +0000" stop="20260711084300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">The Marsupilamis are great at making music, and when a music producer hears it Jade says it was her.  Lalou's cat adoption day doesn't go smoothly, when Punch is adopted by mistake.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.110.</episode-num>
+    <episode-num system="onscreen">S1E111</episode-num>
+  </programme>
+  <programme start="20260711084300 +0000" stop="20260711090300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">The Loud kids help Flip clean up his image to impress his middle school crush.  When the Mortician's Club can't afford tickets to Casket Con, they decide to start a business to raise money.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">5.602.</episode-num>
+    <episode-num system="onscreen">S6E603</episode-num>
+  </programme>
+  <programme start="20260711090300 +0000" stop="20260711092800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">After Lincoln tries to help Lynn get over a heckler at her soccer game, the Louds realize they all have critics.  Lincoln convinces his teacher, Mr. Bolhofner, to join the Doo-Dads in order to get a better seat in class.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">5.604.</episode-num>
+    <episode-num system="onscreen">S6E605</episode-num>
+  </programme>
+  <programme start="20260711092800 +0000" stop="20260711094800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Dad tears the house apart trying to find the cricket ruining his peaceful day alone in the house.  Tired of getting pummeled during dodgeball, Lincoln and the gang use Clyde's untapped rage without him knowing.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">5.605.</episode-num>
+    <episode-num system="onscreen">S6E606</episode-num>
+  </programme>
+  <programme start="20260711094800 +0000" stop="20260711101300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">After failing to make Chef Guy Grazer a meal on his show, the kids try to erase the footage before it airs.  The kids search all over Royal Woods to find the missing furniture they left outside while cleaning.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">5.607.</episode-num>
+    <episode-num system="onscreen">S6E608</episode-num>
+  </programme>
+  <programme start="20260711101300 +0000" stop="20260711103800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Thundermans: Undercover</title>
+    <desc lang="en">Max pretends to turn evil to infiltrate Mastermind's henchmen and steal the Chip-Chucker, a device that previously turned him evil.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.206.</episode-num>
+    <episode-num system="onscreen">S2E207</episode-num>
+  </programme>
+  <programme start="20260711103800 +0000" stop="20260711110300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Thundermans: Undercover</title>
+    <desc lang="en">Mrs. Wong visits Secret Shores, and threatens to reveal the Thundermans' superhero identities to the town. But Max and Phoebe's plan to have Dr. Colosso keep her quiet backfires in ways they could not have imagined.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.207.</episode-num>
+    <episode-num system="onscreen">S2E208</episode-num>
+  </programme>
+  <programme start="20260711110300 +0000" stop="20260711112800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Danger Force</title>
+    <desc lang="en">Captain Man makes twin superheroes, ShoutOut and AWOL, compete over who can catch more criminals using their own ways of crime-fighting.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.116.</episode-num>
+    <episode-num system="onscreen">S1E117</episode-num>
+  </programme>
+  <programme start="20260711112800 +0000" stop="20260711114800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Danger Force</title>
+    <desc lang="en">When Danger Force becomes the newest exhibit at an Alien Zoo, Miles must find a way to break them out before they become alien dinner.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.214.</episode-num>
+    <episode-num system="onscreen">S2E215</episode-num>
+  </programme>
+  <programme start="20260711114800 +0000" stop="20260711121300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Henry Danger</title>
+    <desc lang="en">Jasper's enthusiasm in crime fighting leads him to send Captain Man and Kid Danger into incidents that are not crimes. So when he is falsely accused of a burglary and sent to jail, Henry and Ray must find a way to set him free.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">2.304.</episode-num>
+    <episode-num system="onscreen">S3E305</episode-num>
+  </programme>
+  <programme start="20260711121300 +0000" stop="20260711123800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">That Girl Lay Lay</title>
+    <desc lang="en">Trish's college sorority is reuniting for a mother-daughter step contest, and Lay Lay agrees to take over for Sadie, who is locked in a battle with Marky over their personal space.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">1.215.</episode-num>
+    <episode-num system="onscreen">S2E216</episode-num>
+  </programme>
+  <programme start="20260711123800 +0000" stop="20260711125800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">Stan claims to have a real Marsupilami appearing in a show he's putting on, but it's a fake robot.  Acu thinks a fish-loving alien is in town, and Mica offers to help him track it down.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.106.</episode-num>
+    <episode-num system="onscreen">S1E107</episode-num>
+  </programme>
+  <programme start="20260711125800 +0000" stop="20260711132300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">Hope makes lots of noise whilst skateboarding, and her howls are heard around the city causing lots of drama.  The Twins manage the Smoothie Bar and the Marsups end up creating the best smoothie ever.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.107.</episode-num>
+    <episode-num system="onscreen">S1E108</episode-num>
+  </programme>
+  <programme start="20260711132300 +0000" stop="20260711134800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">When the Louds' bus gets a flat tire, they're invited to stay the night in a spooky couple's mysterious castle.  During a tour of the Parthenon, Lincoln puts on a soldier's helmet which sends him back to Ancient Greece.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">7.806.</episode-num>
+    <episode-num system="onscreen">S8E807</episode-num>
+  </programme>
+  <programme start="20260711134800 +0000" stop="20260711140800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">Lincoln and friends try to befriend new girl Kara when they learn she has access to a legendary missing comic book.  Miguel enlists Leni's help when he launches his own perfume line at Reininger's.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">7.807.</episode-num>
+    <episode-num system="onscreen">S8E808</episode-num>
+  </programme>
+  <programme start="20260711140800 +0000" stop="20260711141800 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Loud House</title>
+    <desc lang="en">The Loud kids make a trip to the supermarket to do the grocery shopping for Mom, but Lincoln has other plans.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.117.</episode-num>
+    <episode-num system="onscreen">S1E118</episode-num>
+  </programme>
+  <programme start="20260711141800 +0000" stop="20260711144300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">Sonic Prime</title>
+    <desc lang="en">Before the Prism Battle, Shadow and Sonic go head-to-head in an epic fight. In present-day New Yoke City, the Chaos Council discover Sonic's mysterious connection to their own coveted power source and plan to extract it by any means necessary.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.101.</episode-num>
+    <episode-num system="onscreen">S1E102</episode-num>
+  </programme>
+  <programme start="20260711144300 +0000" stop="20260711150300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Patrick Star Show</title>
+    <desc lang="en">Patrick messes with the space-time continuum.  While Cecil and Bunny celebrate their anniversary in outer space, Patrick and Squidina throw a house party.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.117.</episode-num>
+    <episode-num system="onscreen">S1E118</episode-num>
+  </programme>
+  <programme start="20260711150300 +0000" stop="20260711153300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">SpongeBob celebrates the anniversary of his friendship with Squidward. Squidward does not.  Squidward's lack of talent lands him in a court ordered music class.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">12.286.</episode-num>
+    <episode-num system="onscreen">S13E287</episode-num>
+  </programme>
+  <programme start="20260711153300 +0000" stop="20260711155300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">Mica's Marsup journal ends up in Acu's bag so he has to get it back before his friend finds it.  Twister, is fed up of Hope and Punch's pranks, so he builds his own cardboard house which Stan finds.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.103.</episode-num>
+    <episode-num system="onscreen">S1E104</episode-num>
+  </programme>
+  <programme start="20260711155300 +0000" stop="20260711160300 +0000" channel="nickelodeon.unifitv">
+    <title lang="en">The Marsupilamis</title>
+    <desc lang="en">Mica and Jade put on a play to win their school a prize, but forget a key prop so the Marsups step in to help.</desc>
+    <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.102.</episode-num>
+    <episode-num system="onscreen">S1E103</episode-num>
+  </programme>
+  <channel id="cartoonnetwork.unifitv">
+    <display-name>Cartoon Network</display-name>
+  </channel>
+  <programme start="20260710152300 +0000" stop="20260710160800 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Steven Universe</title>
+    <desc lang="en">Ep124, Ep122, Ep123-Steven goes into his room in the temple to look for answers.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">3.123.</episode-num>
+    <episode-num system="onscreen">S4E124</episode-num>
+  </programme>
+  <programme start="20260710160800 +0000" stop="20260710170800 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Regular Show</title>
+    <desc lang="en">Ep12, Ep20, Ep75, Ep119, Ep133-When Mordecai and Rigby order T-shirts for their non-existent band (Mordecai and the Rigbys), Margaret mistakes them for actual musicians.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20260710170800 +0000" stop="20260710180800 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Ep107, Ep184, Ep182, Ep181, Ep112-When Ben interferes with malicious magician Hex's quest for the earth-moving Titan Gloves at a flea market, he inadvertently switches bodies with Gwen forcing him to walk a mile in her shoes and vice-versa!</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.106.</episode-num>
+    <episode-num system="onscreen">S1E107</episode-num>
+  </programme>
+  <programme start="20260710180800 +0000" stop="20260710190800 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Courage The Cowardly Dog</title>
+    <desc lang="en">Ep13A, Ep25A, Ep29A, Ep29B, Ep6A-A tornado rips through Nowhere, destroying the farmhouse and turning Muriel into a little girl again--just 3-and-a-half years old. Courage must find a way to bring back his 'old' Muriel.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20260710190800 +0000" stop="20260710200800 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Regular Show</title>
+    <desc lang="en">Ep1, Ep40, Ep70, Ep98, Ep138-Rigby steals a magic keyboard from a preoccupied sorcerer. When Mordecai and Rigby accidentally make a hole in the wall while wrestling a stuffed animal, they use the keyboard to make Pops and Benson give them raises to try to pay for it.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260710200800 +0000" stop="20260710210800 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Ep258, Ep158, Ep160, Ep161, Ep245-Ben and Gwen don't want to go to the CD Library. CDs are for old people. Ew. Once Team Tennyson is there, Lord Decibel traps them inside and demands a ransom.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">3.257.</episode-num>
+    <episode-num system="onscreen">S4E258</episode-num>
+  </programme>
+  <programme start="20260710210800 +0000" stop="20260710220800 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">Ep1135, Ep1136, Ep1137, Ep1138, Ep1139-The Titans try to out prank each other on April Fools' Day.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">2.1134.</episode-num>
+    <episode-num system="onscreen">S3E1135</episode-num>
+  </programme>
+  <programme start="20260710220800 +0000" stop="20260710222300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Lamput</title>
+    <desc lang="en">Ep338, Ep340-Lamput likes nothing more than a pleasant evening watching the night sky for UFOs. The peaceful night is ruined, of course, by those pesky Docs. Which is a shame, because it's the one night where a UFO actually appears.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">2.337.</episode-num>
+    <episode-num system="onscreen">S3E338</episode-num>
+  </programme>
+  <programme start="20260710222300 +0000" stop="20260710232300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Grizzy And The Lemmings</title>
+    <desc lang="en">Ep314, Ep351, Ep346, Ep350, Ep324, Ep353, Ep352-The Lemmings have set up a long line of dominos in the cabin that ends with several giant ice blocks and a rocket outside.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">2.313.</episode-num>
+    <episode-num system="onscreen">S3E314</episode-num>
+  </programme>
+  <programme start="20260710232300 +0000" stop="20260711002300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">The Tom And Jerry Show</title>
+    <desc lang="en">Ep21A, Ep21B, Ep22A, Ep22B, Ep23A-Dr. Bigby upgrades Bot to a Bot-y Guard. When Tom sets off Bot's defensive systems, things get out of control and Jerry and Napoleon must disarm Bot without hurting him.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260711002300 +0000" stop="20260711012300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Ep411, Ep412, Ep413, Ep414, Ep415-At an amusement arcade, Teddy accidentally gets put in a claw machine as a prize!</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">3.410.</episode-num>
+    <episode-num system="onscreen">S4E411</episode-num>
+  </programme>
+  <programme start="20260711012300 +0000" stop="20260711015300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Submarine Jim</title>
+    <desc lang="en">Ep104, Ep121-Fed up with plankton, the crew is on edge. Cyril suggests a bold plan to get the red sauce humans use to flavor food. Jim eagerly agrees without thinking it through. Their supermarket mission quickly spirals out of control.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.103.</episode-num>
+    <episode-num system="onscreen">S1E104</episode-num>
+  </programme>
+  <programme start="20260711015300 +0000" stop="20260711025300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">Ep16A, Ep16B, Ep17A, Ep17B, Ep18A-When Robin starts doing power moves with Cyborg, Beast Boy gets very jealous.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20260711025300 +0000" stop="20260711032300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Regular Show</title>
+    <desc lang="en">Ep29, Ep30-Mordecai and Rigby find out that everyone has been invited by Muscle Man to High Five Ghost's birthday party except them. They decide to go anyway.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <episode-num system="onscreen">S2E29</episode-num>
+  </programme>
+  <programme start="20260711032300 +0000" stop="20260711035300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">The Wonderfully Weird World Of Gumball</title>
+    <desc lang="en">Ep103, Ep105-Gumball must find a way to save his relationship with Darwin after the boys are forced to live in separate rooms.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.102.</episode-num>
+    <episode-num system="onscreen">S1E103</episode-num>
+  </programme>
+  <programme start="20260711035300 +0000" stop="20260711042300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Ninjago: Dragons Rising</title>
+    <desc lang="en">Ep319-The Ninja reach the Caves of Bells while Lloyd and Arin fight their way through the Spectral Lands to summon the Arc Dragon.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">2.318.</episode-num>
+    <episode-num system="onscreen">S3E319</episode-num>
+  </programme>
+  <programme start="20260711042300 +0000" stop="20260711045300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Adventure Time</title>
+    <desc lang="en">Ep3A, Ep3B-The boys try to cool off but get trapped by the Ice King.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260711045300 +0000" stop="20260711052300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Ep64, Ep50-When Uncle Grandpa mistakenly transforms a young boy into a three-hundred-year-old man, he must manage to turn the kid back to normal before anyone gets hurts.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">1.63.</episode-num>
+    <episode-num system="onscreen">S2E64</episode-num>
+  </programme>
+  <programme start="20260711052300 +0000" stop="20260711055300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Ep58, Ep60-The gang gets nutty after repeatedly failing to open a mysterious package. Short: New Experiences with Beary Nice and Hot Dog Person Bumper: Archery</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">1.57.</episode-num>
+    <episode-num system="onscreen">S2E58</episode-num>
+  </programme>
+  <programme start="20260711055300 +0000" stop="20260711062300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Uncle Grandpa</title>
+    <desc lang="en">Ep66, Ep67-In this wild-western episode, Mr Gus repeatedly runs afoul of a crooked mayor (Pizza Steve) while winning the hearts of the townsfolk.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">1.65.</episode-num>
+    <episode-num system="onscreen">S2E66</episode-num>
+  </programme>
+  <programme start="20260711062300 +0000" stop="20260711065300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Lamput</title>
+    <desc lang="en">Ep407, Ep408, Ep409-Tuzki is back as the new intern at the lab &amp; he has a new mission - to capture Lamput! How can he do that to his friend?</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">3.406.</episode-num>
+    <episode-num system="onscreen">S4E407</episode-num>
+  </programme>
+  <programme start="20260711065300 +0000" stop="20260711075300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Ep128, Ep152, Ep146, Ep141, Ep133-Whilst trying to redecorate the hall, Bean is obstructed at every turn by his landlady's vile one-eyed cat. Bean pops it in the dustbin to keep it out of the way for a while. Just his luck that it's rubbish collection day.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.127.</episode-num>
+    <episode-num system="onscreen">S1E128</episode-num>
+  </programme>
+  <programme start="20260711075300 +0000" stop="20260711085300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">The Amazing World Of Gumball</title>
+    <desc lang="en">Ep99, Ep100, Ep101, Ep102, Ep104-When we last saw Gumball, he was hitting rewind on Rob's Universal Remote, just in time to save himself from being trapped in The Void. The remote has now taken Gumball back to the beginning of that disastrous day. Armed with the knowledge of what this day has in store, he must try and stop Rob from destroying his life.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">4.98.</episode-num>
+    <episode-num system="onscreen">S5E99</episode-num>
+  </programme>
+  <programme start="20260711085300 +0000" stop="20260711092300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Mechamato</title>
+    <desc lang="en">Ep3-Amato brings a damaged MechaBot back to the Prison Spaceship for repairs, but is stopped by the ship's defense system.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260711092300 +0000" stop="20260711095300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">Ep2A, Ep2B-Robin is inadvertently the getaway driver for a bank robbery, in the midst of his driving test.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260711095300 +0000" stop="20260711102300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Ninjago: Dragons Rising</title>
+    <desc lang="en">Ep319-The Ninja reach the Caves of Bells while Lloyd and Arin fight their way through the Spectral Lands to summon the Arc Dragon.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">2.318.</episode-num>
+    <episode-num system="onscreen">S3E319</episode-num>
+  </programme>
+  <programme start="20260711102300 +0000" stop="20260711112300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">The Powerpuff Girls</title>
+    <desc lang="en">Ep157, Ep158, Ep159, Ep160, Ep161-After Blossom and Buttercup break Schedulebot, they'll do anything to keep the truth from coming out.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">1.156.</episode-num>
+    <episode-num system="onscreen">S2E157</episode-num>
+  </programme>
+  <programme start="20260711112300 +0000" stop="20260711122300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">The Amazing World Of Gumball</title>
+    <desc lang="en">Ep11A, Ep11B, Ep12A, Ep12B, Ep13A-Gumball and Darwin's wish comes true when they suddenly turn into men.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260711122300 +0000" stop="20260711125300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Ep29, Ep30-Mr Bean is stuck in a lift and starts to annoy the other passengers.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">1.28.</episode-num>
+    <episode-num system="onscreen">S2E29</episode-num>
+  </programme>
+  <programme start="20260711125300 +0000" stop="20260711132300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Ep115, Ep124-In a dark and cobwebby corner of his attic, Mr. Bean finds a treasure map. The hunt is on! But tricky clues lead Bean up the chimney, round the bend, down the garden path, up the blinking wall and nearly all the way to Australia.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20260711132300 +0000" stop="20260711135300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Super Shiro</title>
+    <desc lang="en">Ep29, Ep30, Ep31, Ep32-Traces of the Bobobobobone are detected at a tooth exhibition. Shiro examines the various models of animal teeth when Deca begins chasing after Shiro.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <episode-num system="onscreen">S1E29</episode-num>
+  </programme>
+  <programme start="20260711135300 +0000" stop="20260711142300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Exchange Student Zero</title>
+    <desc lang="en">Ep5-An inferior set of Battle Day Zero cards is mysteriously released as a giveaway by a potato chip company. Hiro is on the case but the boys are distracted by the arrival of a giant devil baby Sweet Potato.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260711142300 +0000" stop="20260711152300 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Adventure Time</title>
+    <desc lang="en">Ep60B, Ep61A, Ep61B, Ep62A, Ep62B-Depressed by his feelings with Flame Princess, Finn enters a pillow fort where he enters a new world and makes a new life for himself.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">4.59.</episode-num>
+    <episode-num system="onscreen">S5E60</episode-num>
+  </programme>
+  <programme start="20260711152300 +0000" stop="20260711160800 +0000" channel="cartoonnetwork.unifitv">
+    <title lang="en">Steven Universe</title>
+    <desc lang="en">Ep28, Ep29, Ep30-Steven attempts to build a spaceship to let Pearl revisit the wonders of the cosmos.</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <episode-num system="onscreen">S1E28</episode-num>
+  </programme>
+  <channel id="aljazeera.unifitv">
+    <display-name>Al Jazeera</display-name>
+  </channel>
+  <programme start="20260710150300 +0000" stop="20260710160300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710160300 +0000" stop="20260710163300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710163300 +0000" stop="20260710170300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Al Jazeera Untangles</title>
+    <desc lang="en">How Darfur's atrocities grew from land conflict, state neglect, racist ideology and militias into what many actors and courts have called genocide.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710170300 +0000" stop="20260710173300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710173300 +0000" stop="20260710180300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1373.</episode-num>
+    <episode-num system="onscreen">S1E1374</episode-num>
+  </programme>
+  <programme start="20260710180300 +0000" stop="20260710190300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710190300 +0000" stop="20260710193300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710193300 +0000" stop="20260710200300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20260710200300 +0000" stop="20260710203300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710203300 +0000" stop="20260710210300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">UpFront</title>
+    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+  </programme>
+  <programme start="20260710210300 +0000" stop="20260710220300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710220300 +0000" stop="20260710230300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710230300 +0000" stop="20260710233300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710233300 +0000" stop="20260711000300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1373.</episode-num>
+    <episode-num system="onscreen">S1E1374</episode-num>
+  </programme>
+  <programme start="20260711000300 +0000" stop="20260711010300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711010300 +0000" stop="20260711013300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711013300 +0000" stop="20260711020300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">101 East</title>
+    <desc lang="en">101 East investigates allegations of widespread bulldozing of Muslim homes and businesses in India.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711020300 +0000" stop="20260711030300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711030300 +0000" stop="20260711040300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711040300 +0000" stop="20260711043300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711043300 +0000" stop="20260711050300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Al Jazeera Untangles</title>
+    <desc lang="en">How Darfur's atrocities grew from land conflict, state neglect, racist ideology and militias into what many actors and courts have called genocide.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711050300 +0000" stop="20260711053300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711053300 +0000" stop="20260711060300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1373.</episode-num>
+    <episode-num system="onscreen">S1E1374</episode-num>
+  </programme>
+  <programme start="20260711060300 +0000" stop="20260711063300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711063300 +0000" stop="20260711070300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20260711070300 +0000" stop="20260711080300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711080300 +0000" stop="20260711083300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711083300 +0000" stop="20260711090300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">UpFront</title>
+    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
+  </programme>
+  <programme start="20260711090300 +0000" stop="20260711093300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711093300 +0000" stop="20260711100300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Witness</title>
+    <desc lang="en">In the U.S., a group of college students and incarcerated students rethink justice, guilt and mercy together in a prison classroom.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711100300 +0000" stop="20260711110300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711110300 +0000" stop="20260711113300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711113300 +0000" stop="20260711120300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1373.</episode-num>
+    <episode-num system="onscreen">S1E1374</episode-num>
+  </programme>
+  <programme start="20260711120300 +0000" stop="20260711130300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711130300 +0000" stop="20260711140300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711140300 +0000" stop="20260711143300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711143300 +0000" stop="20260711150300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20260711150300 +0000" stop="20260711160300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <channel id="cgtnhd.unifitv">
+    <display-name>CGTN</display-name>
+  </channel>
+  <programme start="20260710153300 +0000" stop="20260710160300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The Vibe</title>
+    <desc lang="en">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260710160300 +0000" stop="20260710170300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Global Business</title>
+    <desc lang="en">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710170300 +0000" stop="20260710180300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Africa Live</title>
+    <desc lang="en">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710180300 +0000" stop="20260710190300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Global Business</title>
+    <desc lang="en">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710190300 +0000" stop="20260710193300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710193300 +0000" stop="20260710200300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">World Insight with Tian Wei</title>
+    <desc lang="en">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710200300 +0000" stop="20260710203300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710203300 +0000" stop="20260710210300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Dialogue</title>
+    <desc lang="en">It is a prime time daily English talk show on CGTN.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20260710210300 +0000" stop="20260710213300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Global Business</title>
+    <desc lang="en">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710213300 +0000" stop="20260710220300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The Point with Liu Xin</title>
+    <desc lang="en">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710220300 +0000" stop="20260710230300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Americas Now</title>
+    <desc lang="en">Americas Now profiles the development, diversity and challenges facing the Americas, particularly Latin America.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710230300 +0000" stop="20260710233300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The Heat</title>
+    <desc lang="en">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710233300 +0000" stop="20260711000300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711000300 +0000" stop="20260711010300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Global Business</title>
+    <desc lang="en">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711010300 +0000" stop="20260711013300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711013300 +0000" stop="20260711020300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">China 24</title>
+    <desc lang="en">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711020300 +0000" stop="20260711023300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711023300 +0000" stop="20260711030300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">World Insight with Tian Wei</title>
+    <desc lang="en">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711030300 +0000" stop="20260711031800 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711031800 +0000" stop="20260711033300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Sports Scene</title>
+    <desc lang="en">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711033300 +0000" stop="20260711040300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Travelogue</title>
+    <desc lang="en">Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.</desc>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20260711040300 +0000" stop="20260711050300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Global Watch</title>
+    <desc lang="en">GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711050300 +0000" stop="20260711060300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Big Story</title>
+    <desc lang="en">Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260711060300 +0000" stop="20260711063300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711063300 +0000" stop="20260711070300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The Heat</title>
+    <desc lang="en">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711070300 +0000" stop="20260711073300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711073300 +0000" stop="20260711080300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Sports Scene</title>
+    <desc lang="en">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711080300 +0000" stop="20260711083300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711083300 +0000" stop="20260711090300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Biz Talk</title>
+    <desc lang="en">A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what's happening in every facet of business.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20260711090300 +0000" stop="20260711093300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711093300 +0000" stop="20260711100300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Inheritors</title>
+    <desc lang="en">Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
+    <category lang="en">Education</category>
+  </programme>
+  <programme start="20260711100300 +0000" stop="20260711101800 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711101800 +0000" stop="20260711110300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Africa Live</title>
+    <desc lang="en">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711110300 +0000" stop="20260711113300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711113300 +0000" stop="20260711120300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Leaders Talk</title>
+    <desc lang="en">Leaders Talk is China Media Group's new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations. They will share their insights on the major events shaping today's world, providing an international viewpoint to understand our times, the visions we share, the challenges we face and the efforts we can make for a better future.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20260711120300 +0000" stop="20260711121800 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711121800 +0000" stop="20260711130300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">China 24</title>
+    <desc lang="en">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711130300 +0000" stop="20260711133300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711133300 +0000" stop="20260711140300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Biz Talk</title>
+    <desc lang="en">A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what's happening in every facet of business.</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20260711140300 +0000" stop="20260711143300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711143300 +0000" stop="20260711150300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Assignment Asia</title>
+    <desc lang="en">Assignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia.</desc>
+    <category lang="en">Education</category>
+  </programme>
+  <programme start="20260711150300 +0000" stop="20260711153300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711153300 +0000" stop="20260711160300 +0000" channel="cgtnhd.unifitv">
+    <title lang="en">Inheritors</title>
+    <desc lang="en">Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
+    <category lang="en">Education</category>
+  </programme>
+  <channel id="channelnewsasia.unifitv">
+    <display-name>CNA</display-name>
+  </channel>
+  <programme start="20260710150300 +0000" stop="20260710160300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">Visit a neighbourhood full of green, black and white surprises Meet a butcher who's redefining what it means to be a meatsmith, and custodians if Singapore's oldest trees. Finally, hang out at the coolest new spot in town.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260710160300 +0000" stop="20260710160600 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">1284.0.</episode-num>
+    <episode-num system="onscreen">S1285E1</episode-num>
+  </programme>
+  <programme start="20260710160600 +0000" stop="20260710170300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">East Asia Tonight</title>
+    <desc lang="en">Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260710170300 +0000" stop="20260710180300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">This Way Up</title>
+    <desc lang="en">Female trucker Yogita battles heavy fog and rain to pick up cargo in Meghalaya. In the Himalayas, trucker Sonu is faced with the worst natural disaster in the last 100 years.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260710180300 +0000" stop="20260710190300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Singapore Tonight 2026/2027</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260710190300 +0000" stop="20260710200300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">New Stirrings</title>
+    <desc lang="en">A new generation of hawkers is redefining tradition. From Michelin-trained chefs to robots in the kitchen, showing how creativity and passion are keeping Singapore's hawker spirit alive.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260710200300 +0000" stop="20260710210300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Tonight</title>
+    <desc lang="en">News and views from around the region, delivered with uniquely Asian perspectives.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260710210300 +0000" stop="20260710220300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">Visit a neighbourhood full of green, black and white surprises Meet a butcher who's redefining what it means to be a meatsmith, and custodians if Singapore's oldest trees. Finally, hang out at the coolest new spot in town.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260710220300 +0000" stop="20260710230300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Singapore Tonight 2026/2027</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260710230300 +0000" stop="20260710233300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260710233300 +0000" stop="20260711000300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">On The Red Dot</title>
+    <desc lang="en">On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260711000300 +0000" stop="20260711003300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711003300 +0000" stop="20260711010300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260711010300 +0000" stop="20260711013300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711013300 +0000" stop="20260711020300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">A Street Like This</title>
+    <desc lang="en">Spancer starts off the show with a bang! Bangkok, to be precise. He visits the country's oldest road - Charoen Krung Road and learns all about its current creative renaissance.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711020300 +0000" stop="20260711020500 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">1284.0.</episode-num>
+    <episode-num system="onscreen">S1285E1</episode-num>
+  </programme>
+  <programme start="20260711020500 +0000" stop="20260711030300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Singapore Hour</title>
+    <desc lang="en">Visit a neighbourhood full of green, black and white surprises Meet a butcher who's redefining what it means to be a meatsmith, and custodians if Singapore's oldest trees. Finally, hang out at the coolest new spot in town.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260711030300 +0000" stop="20260711033300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711033300 +0000" stop="20260711040300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">On The Red Dot</title>
+    <desc lang="en">On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260711040300 +0000" stop="20260711043300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711043300 +0000" stop="20260711050300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Money Mind</title>
+    <desc lang="en">Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260711050300 +0000" stop="20260711050500 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">1284.0.</episode-num>
+    <episode-num system="onscreen">S1285E1</episode-num>
+  </programme>
+  <programme start="20260711050500 +0000" stop="20260711060300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Insight 2026/2027</title>
+    <desc lang="en">Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260711060300 +0000" stop="20260711063300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711063300 +0000" stop="20260711070300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">They're your eyes and ears around the globe. CNA's network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260711070300 +0000" stop="20260711073300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711073300 +0000" stop="20260711080300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">A Street Like This</title>
+    <desc lang="en">Spancer starts off the show with a bang! Bangkok, to be precise. He visits the country's oldest road - Charoen Krung Road and learns all about its current creative renaissance.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711080300 +0000" stop="20260711080500 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">1284.0.</episode-num>
+    <episode-num system="onscreen">S1285E1</episode-num>
+  </programme>
+  <programme start="20260711080500 +0000" stop="20260711090300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">New Stirrings</title>
+    <desc lang="en">Episode 2 explores how hawkers reinvent and adapt to modern tastes while balancing growth, change and identity, capturing the evolving flavours of Singapore's hawker culture.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260711090300 +0000" stop="20260711093300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711093300 +0000" stop="20260711100300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260711100300 +0000" stop="20260711103300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711103300 +0000" stop="20260711110300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">A Street Like This</title>
+    <desc lang="en">Spancer starts off the show with a bang! Bangkok, to be precise. He visits the country's oldest road - Charoen Krung Road and learns all about its current creative renaissance.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711110300 +0000" stop="20260711110500 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">1284.0.</episode-num>
+    <episode-num system="onscreen">S1285E1</episode-num>
+  </programme>
+  <programme start="20260711110500 +0000" stop="20260711120300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Japan Hour</title>
+    <desc lang="en">Kumamoto Prefecture is the stage for cycling this time. The area, in the center of the island of Kyushu, is recovering from an earthquake in 2016. The program starts in the city of Kumamoto and works its way around the Amakusa island chain. It then heads for Mount Aso, where one of the world's largest volcanic craters is located. Meet the people and see the sights of this 4-day, 300km bicycle journey.</desc>
+    <category lang="en">Info-Educational</category>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <episode-num system="onscreen">S1E28</episode-num>
+  </programme>
+  <programme start="20260711120300 +0000" stop="20260711123300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Tonight</title>
+    <desc lang="en">News and views from around the region, delivered with uniquely Asian perspectives.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711123300 +0000" stop="20260711130300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Money Mind</title>
+    <desc lang="en">Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260711130300 +0000" stop="20260711130500 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">1284.0.</episode-num>
+    <episode-num system="onscreen">S1285E1</episode-num>
+  </programme>
+  <programme start="20260711130500 +0000" stop="20260711140300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">The Apprentice</title>
+    <desc lang="en">The Apprentice</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711140300 +0000" stop="20260711143300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Singapore Tonight 2026/2027</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711143300 +0000" stop="20260711150300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">On The Red Dot</title>
+    <desc lang="en">On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260711150300 +0000" stop="20260711150600 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">1284.0.</episode-num>
+    <episode-num system="onscreen">S1285E1</episode-num>
+  </programme>
+  <programme start="20260711150600 +0000" stop="20260711160300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">New Stirrings</title>
+    <desc lang="en">A new generation of hawkers is redefining tradition. From Michelin-trained chefs to robots in the kitchen, showing how creativity and passion are keeping Singapore's hawker spirit alive.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <channel id="euronews.unifitv">
+    <display-name>Euronews</display-name>
+  </channel>
+  <programme start="20260710153300 +0000" stop="20260710160300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710160300 +0000" stop="20260710161700 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710161700 +0000" stop="20260710163200 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710163200 +0000" stop="20260710165500 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710165500 +0000" stop="20260710170300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710170300 +0000" stop="20260710171800 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710171800 +0000" stop="20260710173300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710173300 +0000" stop="20260710180300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710180300 +0000" stop="20260710181700 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710181700 +0000" stop="20260710183300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710183300 +0000" stop="20260710184700 +0000" channel="euronews.unifitv">
+    <title lang="en">Made In Europe</title>
+    <desc lang="en">Featuring real stories of Europeans who are thriving due to the opportunities offered in Europe.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710184700 +0000" stop="20260710190300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710190300 +0000" stop="20260710191800 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710191800 +0000" stop="20260710193300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710193300 +0000" stop="20260710200300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710200300 +0000" stop="20260710201800 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710201800 +0000" stop="20260710203300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710203300 +0000" stop="20260710205000 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710205000 +0000" stop="20260710210300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710210300 +0000" stop="20260710211800 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710211800 +0000" stop="20260710213300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710213300 +0000" stop="20260710220300 +0000" channel="euronews.unifitv">
+    <title lang="en">The European debrief</title>
+    <desc lang="en">Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710220300 +0000" stop="20260710221800 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710221800 +0000" stop="20260710223300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710223300 +0000" stop="20260710230300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710230300 +0000" stop="20260710231800 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710231800 +0000" stop="20260710233300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260710233300 +0000" stop="20260711000300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711000300 +0000" stop="20260711001800 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711001800 +0000" stop="20260711003300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711003300 +0000" stop="20260711010300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711010300 +0000" stop="20260711011700 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711011700 +0000" stop="20260711013300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711013300 +0000" stop="20260711014900 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711014900 +0000" stop="20260711020300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711020300 +0000" stop="20260711021800 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711021800 +0000" stop="20260711023300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711023300 +0000" stop="20260711030300 +0000" channel="euronews.unifitv">
+    <title lang="en">Global Week-End</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711030300 +0000" stop="20260711031800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711031800 +0000" stop="20260711033300 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711033300 +0000" stop="20260711040300 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711040300 +0000" stop="20260711040800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711040800 +0000" stop="20260711043200 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711043200 +0000" stop="20260711043700 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711043700 +0000" stop="20260711050300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711050300 +0000" stop="20260711050800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711050800 +0000" stop="20260711053300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711053300 +0000" stop="20260711054100 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711054100 +0000" stop="20260711055100 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711055100 +0000" stop="20260711060300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711060300 +0000" stop="20260711060800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711060800 +0000" stop="20260711063200 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711063200 +0000" stop="20260711063700 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711063700 +0000" stop="20260711070300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711070300 +0000" stop="20260711070800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711070800 +0000" stop="20260711073300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711073300 +0000" stop="20260711074100 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711074100 +0000" stop="20260711075100 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711075100 +0000" stop="20260711080300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711080300 +0000" stop="20260711080800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711080800 +0000" stop="20260711083200 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711083200 +0000" stop="20260711083700 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711083700 +0000" stop="20260711090300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711090300 +0000" stop="20260711090800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711090800 +0000" stop="20260711093300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711093300 +0000" stop="20260711094100 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711094100 +0000" stop="20260711095100 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711095100 +0000" stop="20260711100300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711100300 +0000" stop="20260711100800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711100800 +0000" stop="20260711103200 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711103200 +0000" stop="20260711103700 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711103700 +0000" stop="20260711110300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711110300 +0000" stop="20260711110800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711110800 +0000" stop="20260711113300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711113300 +0000" stop="20260711114100 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711114100 +0000" stop="20260711115100 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711115100 +0000" stop="20260711120300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711120300 +0000" stop="20260711120800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711120800 +0000" stop="20260711123200 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711123200 +0000" stop="20260711123700 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711123700 +0000" stop="20260711130300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711130300 +0000" stop="20260711130800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711130800 +0000" stop="20260711133300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711133300 +0000" stop="20260711134100 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711134100 +0000" stop="20260711135100 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711135100 +0000" stop="20260711140300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711140300 +0000" stop="20260711140800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711140800 +0000" stop="20260711143200 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711143200 +0000" stop="20260711143700 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711143700 +0000" stop="20260711150300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711150300 +0000" stop="20260711150800 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711150800 +0000" stop="20260711153300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711153300 +0000" stop="20260711154100 +0000" channel="euronews.unifitv">
+    <title lang="en">5 minutes</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711154100 +0000" stop="20260711155100 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260711155100 +0000" stop="20260711160300 +0000" channel="euronews.unifitv">
+    <title lang="en">News</title>
+    <desc lang="en">The leading news stories of the moment.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <channel id="bernamatv.unifitv">
+    <display-name>Bernama TV</display-name>
+  </channel>
+  <programme start="20260710153000 +0000" stop="20260710160000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Tamil News</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710160000 +0000" stop="20260710170000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710170000 +0000" stop="20260710173000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Darah Muda</title>
+    <desc lang="en">Majalah bual bicara musim baharu mengangkat hal ehwal generasi baru merangkumi pencapaian dan inspirasi, cabaran dan dilema, minat dan gaya hidup serta isu-isu semasa dari perspektif belia.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710173000 +0000" stop="20260710180000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">The Nation</title>
+    <desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710180000 +0000" stop="20260710190000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710190000 +0000" stop="20260710193000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Paarvai</title>
+    <desc lang="en">Paarvai is a Tamil talk show featuring engaging discussions on current issues, topics related to the Indian community, and aspects of medical, social, and economic significance.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710193000 +0000" stop="20260710200000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Bernama World</title>
+    <desc lang="en">A comprehensive roundup of world news, covering a spectrum of events including political updates, economic trends, humanitarian efforts, environmental issues, and cultural highlights. Stay informed with diverse perspectives on the latest developments shaping our global landscape.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710200000 +0000" stop="20260710203000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">The Nation</title>
+    <desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710203000 +0000" stop="20260710210000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">ON e</title>
+    <desc lang="en">"ON e" memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260710210000 +0000" stop="20260710213000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Darah Muda</title>
+    <desc lang="en">Majalah bual bicara musim baharu mengangkat hal ehwal generasi baru merangkumi pencapaian dan inspirasi, cabaran dan dilema, minat dan gaya hidup serta isu-isu semasa dari perspektif belia.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710213000 +0000" stop="20260710220000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Bernama World</title>
+    <desc lang="en">A comprehensive roundup of world news, covering a spectrum of events including political updates, economic trends, humanitarian efforts, environmental issues, and cultural highlights. Stay informed with diverse perspectives on the latest developments shaping our global landscape.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710220000 +0000" stop="20260710221500 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Apa Kata Tetamu</title>
+    <desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di saluran BERNAMA TV.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710221500 +0000" stop="20260710223000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Sukan+ 360</title>
+    <desc lang="en">Rangkuman seminggu berita sukan seantero dunia. Merangkumi keputusan, aksi, isu semasa dan kontroversi sukan luar negara.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710223000 +0000" stop="20260710233000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260710233000 +0000" stop="20260711000000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Bernama World</title>
+    <desc lang="en">A comprehensive roundup of world news, covering a spectrum of events including political updates, economic trends, humanitarian efforts, environmental issues, and cultural highlights. Stay informed with diverse perspectives on the latest developments shaping our global landscape.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711000000 +0000" stop="20260711003000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">The Nation</title>
+    <desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711003000 +0000" stop="20260711010000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Radio@TV</title>
+    <desc lang="en">Saksikan BERNAMA Radio bersiaran dari konti BERNAMA Radio dengan perkembangan berita terkini.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711010000 +0000" stop="20260711020000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">SIARAN KHAS #UNDIJOHOR - HARI MENGUNDI</title>
+    <desc lang="en">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711020000 +0000" stop="20260711030000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711030000 +0000" stop="20260711033000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Paarvai</title>
+    <desc lang="en">Paarvai is a Tamil talk show featuring engaging discussions on current issues, topics related to the Indian community, and aspects of medical, social, and economic significance.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711040000 +0000" stop="20260711043000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Berita Mandarin Rtm-Bernama TV</title>
+    <desc lang="en">Perkongsian Berita Mandarin RTM disiarkan serentak pada 12 tengah hari setiap hari di saluran TV2 dan BERNAMA TV, serta perkongsian Berita Mandarin BERNAMA juga di kedua-dua saluran pada pukul 6.30 petang setiap hari mulai 6hb Disember 2025. Tidak kira siang atau malam, kami berkongsi satu kepercayaan - menyampaikan kebenaran, menghubungkan kita semua.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711043000 +0000" stop="20260711050000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">ON e</title>
+    <desc lang="en">"ON e" memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260711050000 +0000" stop="20260711053000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711053000 +0000" stop="20260711060000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Podcast Kasih Lensa Keluarga 2</title>
+    <desc lang="en">Sebuah program podcast bual bicara yang mengangkat pelbagai isu berkaitan pembangunan keluarga, dasar serta inisiatif kerajaan khususnya melalui Lembaga Penduduk dan Pembangunan Keluarga Negara (LPPKN). Setiap episod mengetengahkan topik-topik yang menyentuh reality masyarakat - dari perancangan keluarga, kesihatan reproduktif, hubungan kekeluargaan, kepada isu-isu kontemporari seperti keseimbangan kerja dan rumah, sokongan kesihatan mental, dan hak-hak wanita dan remaja dalam institusi keluarga moden.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711060000 +0000" stop="20260711063000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Bernama World</title>
+    <desc lang="en">A comprehensive roundup of world news, covering a spectrum of events including political updates, economic trends, humanitarian efforts, environmental issues, and cultural highlights. Stay informed with diverse perspectives on the latest developments shaping our global landscape.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711063000 +0000" stop="20260711070000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711070000 +0000" stop="20260711073000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">The Nation</title>
+    <desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711073000 +0000" stop="20260711074500 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Apa Kata Tetamu</title>
+    <desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di saluran BERNAMA TV.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711074500 +0000" stop="20260711080000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Sukan+ 360</title>
+    <desc lang="en">Rangkuman seminggu berita sukan seantero dunia. Merangkumi keputusan, aksi, isu semasa dan kontroversi sukan luar negara.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711080000 +0000" stop="20260711083000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Bernama Global</title>
+    <desc lang="en">Laporan berita antarabangsa terpilih yang disiarakan secara langsung setiap hari.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711083000 +0000" stop="20260711090000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">The Nation</title>
+    <desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711090000 +0000" stop="20260711093000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Darah Muda</title>
+    <desc lang="en">Majalah bual bicara musim baharu mengangkat hal ehwal generasi baru merangkumi pencapaian dan inspirasi, cabaran dan dilema, minat dan gaya hidup serta isu-isu semasa dari perspektif belia.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711093000 +0000" stop="20260711100000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Radio@TV</title>
+    <desc lang="en">Saksikan BERNAMA Radio bersiaran dari konti BERNAMA Radio dengan perkembangan berita terkini.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711100000 +0000" stop="20260711103000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Bernama News</title>
+    <desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711103000 +0000" stop="20260711110000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Berita Mandarin Rtm-Bernama TV</title>
+    <desc lang="en">Perkongsian Berita Mandarin RTM disiarkan serentak pada 12 tengah hari setiap hari di saluran TV2 dan BERNAMA TV, serta perkongsian Berita Mandarin BERNAMA juga di kedua-dua saluran pada pukul 6.30 petang setiap hari mulai 6hb Disember 2025. Tidak kira siang atau malam, kami berkongsi satu kepercayaan - menyampaikan kebenaran, menghubungkan kita semua.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711110000 +0000" stop="20260711113000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Tamil News</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711113000 +0000" stop="20260711120000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Sukan+ Close Up</title>
+    <desc lang="en">Program ini mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711123000 +0000" stop="20260711130000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">ON e</title>
+    <desc lang="en">"ON e" memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260711130000 +0000" stop="20260711143000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">SIARAN KHAS #UNDIJOHOR - KEPUTUSAN PRN JOHOR</title>
+    <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711143000 +0000" stop="20260711150000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Bernama News</title>
+    <desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711150000 +0000" stop="20260711153000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Buletin Bernama</title>
+    <desc lang="en">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711153000 +0000" stop="20260711160000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Tamil News</title>
+    <desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260711160000 +0000" stop="20260711170000 +0000" channel="bernamatv.unifitv">
+    <title lang="en">Ruang Bicara</title>
+    <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <channel id="parlimenmalaysia.unifitv">
+    <display-name>Parlimen Malaysia</display-name>
+  </channel>
+  <programme start="20260710040000 +0000" stop="20260710160000 +0000" channel="parlimenmalaysia.unifitv">
+    <title lang="en">Siaran Tamat</title>
+    <desc lang="en">Siaran Tamat</desc>
+    <category lang="en">Government</category>
+  </programme>
+  <programme start="20260710160000 +0000" stop="20260711040000 +0000" channel="parlimenmalaysia.unifitv">
+    <title lang="en">Siaran Tamat</title>
+    <desc lang="en">Siaran Tamat</desc>
+    <category lang="en">Government</category>
+  </programme>
+  <programme start="20260711040000 +0000" stop="20260711160000 +0000" channel="parlimenmalaysia.unifitv">
+    <title lang="en">Siaran Tamat</title>
+    <desc lang="en">Siaran Tamat</desc>
+    <category lang="en">Government</category>
+  </programme>
+  <programme start="20260711160000 +0000" stop="20260712040000 +0000" channel="parlimenmalaysia.unifitv">
+    <title lang="en">Siaran Tamat</title>
+    <desc lang="en">Siaran Tamat</desc>
+    <category lang="en">Government</category>
+  </programme>
+  <channel id="abcaustralia.unifitv">
+    <display-name>ABC Australia</display-name>
+  </channel>
+  <programme start="20260710153000 +0000" stop="20260710163000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">The Great Australian Bake Off - Bread Week</title>
+    <desc lang="en">In Bread Week, our 10 remaining amateur bakers compete to make a Sweet Loaf, a difficult Fougasse bread, and an eye-catching Bread Centrepiece.</desc>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <episode-num system="onscreen">S6E3</episode-num>
+  </programme>
+  <programme start="20260710163000 +0000" stop="20260710165500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Audra's Eat, Roam, Relish</title>
+    <desc lang="en">Audra Morrice journeys to the colourful island state of Sarawak, Malaysia where she indulges in a cultural feast for the senses via its rich gastronomy. Audra explores Malaysian roots through food, family and local culture.</desc>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260710165500 +0000" stop="20260710172000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Field To Feast</title>
+    <desc lang="en">Considered a tough nut to crack, Thanh explores how chestnuts are grown, cooked, and enjoyed. From shaking a chestnut trees to demonstrating some of the best ways to cook this winter delight.</desc>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260710172000 +0000" stop="20260710175500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Australian Story - Jumping the Gun (Part 1) - Anna Davey</title>
+    <desc lang="en">A devoted aunt investigates the mysterious death of her niece Amy Wensley, throwing doubt on the police case and exposing devastating investigative failures. (Part 1)</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2021.16.</episode-num>
+    <episode-num system="onscreen">S2022E17</episode-num>
+  </programme>
+  <programme start="20260710175500 +0000" stop="20260710183500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Australian Story - Jumping the Gun (Part 2) - Anna Davey</title>
+    <desc lang="en">Concluding the story about the mysterious death of Amy Wensley. As her family fights for justice, they discover a flawed police investigation and devastating forensic oversights.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2021.17.</episode-num>
+    <episode-num system="onscreen">S2022E18</episode-num>
+  </programme>
+  <programme start="20260710183500 +0000" stop="20260710190000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Asia News Week</title>
+    <desc lang="en">Girish Sawlani brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.24.</episode-num>
+    <episode-num system="onscreen">S2026E25</episode-num>
+  </programme>
+  <programme start="20260710190000 +0000" stop="20260710193000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">The World</title>
+    <desc lang="en">Now more than ever, we need to stay in touch with what's happening in our world. Manny Tsigas brings you the latest international news from ABC News correspondents around the globe, plus interviews with experts and guests.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.26.</episode-num>
+    <episode-num system="onscreen">S2026E27</episode-num>
+  </programme>
+  <programme start="20260710193000 +0000" stop="20260710201000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Wang Gungwu Lecture 2026 Cutdown</title>
+    <desc lang="en">Professor Kelvin Kong delivers the 2026 Wang Gungwu Lecture. Each year the lecture celebrates the life and work of a prominent Chinese Australian.</desc>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260710201000 +0000" stop="20260710210500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Judgment: Cases That Changed Australia - Mabo</title>
+    <desc lang="en">Terra Nullius: law or lie? Eddie Mabo and others challenge the legal fiction at the heart of colonisation and transform Australia's understanding of land and sovereignty.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260710210500 +0000" stop="20260710220500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Weekend Breakfast</title>
+    <desc lang="en">All the news you need to start your weekend. Johanna Nicholson and Lorna Dunkley bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.54.</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
+  </programme>
+  <programme start="20260710220500 +0000" stop="20260710230500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Weekend Breakfast</title>
+    <desc lang="en">All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.54.</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
+  </programme>
+  <programme start="20260710230500 +0000" stop="20260711010500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Weekend Breakfast</title>
+    <desc lang="en">All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.54.</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
+  </programme>
+  <programme start="20260711010500 +0000" stop="20260711020500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711020500 +0000" stop="20260711023500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">ABC News At Noon</title>
+    <desc lang="en">Melissa Mackay presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.54.</episode-num>
+    <episode-num system="onscreen">S2026E55</episode-num>
+  </programme>
+  <programme start="20260711023500 +0000" stop="20260711030500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Asia News Week</title>
+    <desc lang="en">Girish Sawlani brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.24.</episode-num>
+    <episode-num system="onscreen">S2026E25</episode-num>
+  </programme>
+  <programme start="20260711030500 +0000" stop="20260711060500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">AFL Premiership Season - Round 18 - St Kilda v Port Adelaide</title>
+    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2025.109.</episode-num>
+    <episode-num system="onscreen">S2026E110</episode-num>
+  </programme>
+  <programme start="20260711060500 +0000" stop="20260711092000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">AFL Premiership Season - Round 18 - GWS Giants v Geelong Cats</title>
+    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2025.110.</episode-num>
+    <episode-num system="onscreen">S2026E111</episode-num>
+  </programme>
+  <programme start="20260711092000 +0000" stop="20260711122000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">AFL Premiership Season - Round 18 - Carlton v Hawthorn</title>
+    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2025.111.</episode-num>
+    <episode-num system="onscreen">S2026E112</episode-num>
+  </programme>
+  <programme start="20260711122000 +0000" stop="20260711124500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">In Conversation with Sachin Tendulkar</title>
+    <desc lang="en">A masterclass with the Little Master. Paul Kennedy travelled to India for an exclusive one-on-one conversation with Sachin Tendulkar covering his batting technique, aggressive play, focus and deep love of cricket.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260711124500 +0000" stop="20260711130500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Jim Maxwell's Ashes Memories - 2023 - The Bairstow/Carey Incident at Lord's</title>
+    <desc lang="en">The voice of summer, ABC cricket commentator Jim Maxwell reflects on his six favourite Ashes moments, starting with the incident between Jonny Bairstow and Alex Carey at Lord's in 2023 when Bairstow was stumped.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2024.0.</episode-num>
+    <episode-num system="onscreen">S2025E1</episode-num>
+  </programme>
+  <programme start="20260711130500 +0000" stop="20260711132000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Jim Maxwell's Ashes Memories - 1972 - A Bob Massie Masterclass at Lord's</title>
+    <desc lang="en">Jim Maxwell and Corbin Middlemas look back at some of the moments that have defined the Ashes rivalry. Part two follows Jim to Lord's in 1972 where he watched from the stands as Bob Massie put on a bowling clinic.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2024.1.</episode-num>
+    <episode-num system="onscreen">S2025E2</episode-num>
+  </programme>
+  <programme start="20260711132000 +0000" stop="20260711141000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Four Corners</title>
+    <desc lang="en">The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2025.20.</episode-num>
+    <episode-num system="onscreen">S2026E21</episode-num>
+  </programme>
+  <programme start="20260711141000 +0000" stop="20260711150000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Judgment: Cases That Changed Australia - Mabo</title>
+    <desc lang="en">Terra Nullius: law or lie? Eddie Mabo and others challenge the legal fiction at the heart of colonisation and transform Australia's understanding of land and sovereignty.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260711150000 +0000" stop="20260711153000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">The World This Week</title>
+    <desc lang="en">Manny Tsigas brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.24.</episode-num>
+    <episode-num system="onscreen">S2026E25</episode-num>
+  </programme>
+  <programme start="20260711153000 +0000" stop="20260711155500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">First Generation</title>
+    <desc lang="en">First Generation follows nine inspiring people from the Asia-Pacific who built new lives and forged their own path. Their stories celebrate ambition, belonging, and the diverse spirit that defines modern Australia.</desc>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260711155500 +0000" stop="20260711162500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Asia News Week</title>
+    <desc lang="en">Girish Sawlani brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.24.</episode-num>
+    <episode-num system="onscreen">S2026E25</episode-num>
   </programme>
   <channel id="dw.unifitv">
     <display-name>DW</display-name>

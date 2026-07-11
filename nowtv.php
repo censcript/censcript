@@ -1,6 +1,3 @@
-<programme start="20260711100000 +0000" stop="20260711120000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260711120000 +0000" stop="20260711140000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -8,9 +5,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260711160000 +0000" stop="20260711180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260711100000 +0000" stop="20260711120000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260711120000 +0000" stop="20260711140000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -22,9 +16,6 @@
 <programme start="20260711160000 +0000" stop="20260711180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260711100000 +0000" stop="20260711115500 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260711115500 +0000" stop="20260711140000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 13 Gentlemen&apos;s Doubles Final[Live]</title>
 </programme>
@@ -34,9 +25,6 @@
 <programme start="20260711145500 +0000" stop="20260711170000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Ralph Lauren presents: [4K] The Championships Wimbledon 2026 (Centre Court) -Day 13 Ladies&apos; Sigles Final[Live]</title>
 </programme>
-<programme start="20260711100000 +0000" stop="20260711120000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260711120000 +0000" stop="20260711140000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -45,18 +33,6 @@
 </programme>
 <programme start="20260711160000 +0000" stop="20260711180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260711103000 +0000" stop="20260711124500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -QF - Spain vs Belgium</title>
-</programme>
-<programme start="20260711124500 +0000" stop="20260711130000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E33</title>
-</programme>
-<programme start="20260711130000 +0000" stop="20260711131500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
-</programme>
-<programme start="20260711131500 +0000" stop="20260711133000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E33</title>
 </programme>
 <programme start="20260711133000 +0000" stop="20260711134500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Match Day +1 Highlights E29</title>
@@ -88,15 +64,6 @@
 <programme start="20260711161500 +0000" stop="20260711163000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Match Day +1 Highlights E29</title>
 </programme>
-<programme start="20260711110000 +0000" stop="20260711130000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Newcastle United</title>
-</programme>
-<programme start="20260711130000 +0000" stop="20260711131500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E33</title>
-</programme>
-<programme start="20260711131500 +0000" stop="20260711133000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 34</title>
-</programme>
 <programme start="20260711133000 +0000" stop="20260711140000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Stories 26/27 -DEAN ASHTON</title>
 </programme>
@@ -118,25 +85,16 @@
 <programme start="20260711160000 +0000" stop="20260711180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Manchester United vs Liverpool</title>
 </programme>
-<programme start="20260711080000 +0000" stop="20260711120000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260711120000 +0000" stop="20260711160000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260711160000 +0000" stop="20260711200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260711080000 +0000" stop="20260711120000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260711120000 +0000" stop="20260711160000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260711160000 +0000" stop="20260711200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260711080000 +0000" stop="20260711120000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260711120000 +0000" stop="20260711160000 +0000" channel="Now Sports Premier League 4.nowtv">
