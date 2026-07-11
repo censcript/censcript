@@ -646,9 +646,6 @@
 <programme start="20260710223000 +0000" stop="20260711003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260711023000 +0000" stop="20260711060000 +0000" channel="ANTV.vision">
-<title>Commando 2</title>
-</programme>
 <programme start="20260711060000 +0000" stop="20260711073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260711020300 +0000" stop="20260711023000 +0000" channel="TVRI.vision">
 <title>Bikin Asik Aja</title>
+</programme>
+<programme start="20260711023000 +0000" stop="20260711030000 +0000" channel="TVRI.vision">
+<title>Asta Cita</title>
 </programme>
