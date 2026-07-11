@@ -658,6 +658,12 @@
 <programme start="20260711110000 +0000" stop="20260711130000 +0000" channel="ANTV.vision">
 <title>Gentayangan</title>
 </programme>
+<programme start="20260711130000 +0000" stop="20260711143000 +0000" channel="ANTV.vision">
+<title>Ratapan Dan Rintihan</title>
+</programme>
+<programme start="20260711143000 +0000" stop="20260711163000 +0000" channel="ANTV.vision">
+<title>Tarzan Penunggu Harta</title>
+</programme>
 <programme start="20260711163000 +0000" stop="20260711183000 +0000" channel="ANTV.vision">
 <title>The Blacksheep Affair</title>
 </programme>
@@ -846,6 +852,12 @@
 </programme>
 <programme start="20260711130000 +0000" stop="20260711140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
+</programme>
+<programme start="20260711140000 +0000" stop="20260711150000 +0000" channel="TVOne.vision">
+<title>Khazanah Quran</title>
+</programme>
+<programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="TVOne.vision">
+<title>Kabar Hari Ini (L)</title>
 </programme>
 <programme start="20260711160000 +0000" stop="20260711163000 +0000" channel="TVOne.vision">
 <title>Sport Style</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260711030000 +0000" stop="20260711030300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
-</programme>
-<programme start="20260711030300 +0000" stop="20260711033000 +0000" channel="TVRI.vision">
-<title>Bola +62</title>
-</programme>
-<programme start="20260711033000 +0000" stop="20260711040000 +0000" channel="TVRI.vision">
-<title>Anak Indonesia</title>
-</programme>
-<programme start="20260711040000 +0000" stop="20260711040300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260711040300 +0000" stop="20260711043000 +0000" channel="TVRI.vision">
-<title>Zona Piala Dunia</title>
 </programme>

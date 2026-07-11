@@ -334,10 +334,10 @@
 <programme start="20260711050000 +0000" stop="20260711090000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Breakfast</title>
 </programme>
-<programme start="20260711112000 +0000" stop="20260711150000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260711112000 +0000" stop="20260711142500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 13</title>
 </programme>
-<programme start="20260711150000 +0000" stop="20260711180000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260711142500 +0000" stop="20260711181500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Ladies&#039; Final</title>
 </programme>
 <programme start="20260710225500 +0000" stop="20260711005000 +0000" channel="BBC_TWO_HD.virginmediatv">

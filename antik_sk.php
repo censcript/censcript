@@ -463,13 +463,13 @@
   <programme start="20260713215100 +0000" stop="20260713225000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
   </programme>
-  <programme start="20260712211000 +0000" stop="20260712233000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260712211000 +0000" stop="20260712232500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Kong: Ostrov lebiek</title>
   </programme>
-  <programme start="20260712233000 +0000" stop="20260713010000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260712232500 +0000" stop="20260713005500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Alfa</title>
   </programme>
-  <programme start="20260713010000 +0000" stop="20260713030000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260713005500 +0000" stop="20260713030000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Hancock</title>
   </programme>
   <programme start="20260713030000 +0000" stop="20260713040000 +0000" channel="Markíza.webtv.sk">
@@ -496,16 +496,16 @@
   <programme start="20260713102000 +0000" stop="20260713111000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista VII (8)</title>
   </programme>
-  <programme start="20260713111000 +0000" stop="20260713120000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260713111000 +0000" stop="20260713120500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista VII (9)</title>
   </programme>
-  <programme start="20260713120000 +0000" stop="20260713130000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260713120500 +0000" stop="20260713130000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista VII (10)</title>
   </programme>
-  <programme start="20260713130000 +0000" stop="20260713135500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260713130000 +0000" stop="20260713140000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady</title>
   </programme>
-  <programme start="20260713135500 +0000" stop="20260713150000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260713140000 +0000" stop="20260713150000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (39)</title>
   </programme>
   <programme start="20260713150000 +0000" stop="20260713152500 +0000" channel="Markíza.webtv.sk">
@@ -790,19 +790,19 @@
   <programme start="20260713210000 +0000" stop="20260713222000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Rapl I (11)</title>
   </programme>
-  <programme start="20260712212000 +0000" stop="20260712230000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260712212000 +0000" stop="20260712230500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Mačka a pes</title>
   </programme>
-  <programme start="20260712230000 +0000" stop="20260712233000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260712230500 +0000" stop="20260712233000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Anderov rebrinák (17)</title>
   </programme>
-  <programme start="20260712233000 +0000" stop="20260713020000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260712233000 +0000" stop="20260713020500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Všetci sú za dverami (4)</title>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713024500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260713020500 +0000" stop="20260713025000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Dereš</title>
   </programme>
-  <programme start="20260713024500 +0000" stop="20260713040000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260713025000 +0000" stop="20260713040000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (12)</title>
   </programme>
   <programme start="20260713040000 +0000" stop="20260713051500 +0000" channel="Markíza Klasik.webtv.sk">
