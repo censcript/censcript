@@ -7048,6 +7048,9 @@
     <programme start="20260710213000 +0000" stop="20260710220000 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
     </programme>
+    <programme start="20260710220000 +0000" stop="20260710223000 +0000" channel="COLORS.starhub">
+        <title>Seher Hone Ko Hai</title>
+    </programme>
     <programme start="20260710223000 +0000" stop="20260710230000 +0000" channel="COLORS.starhub">
         <title>Juhi Mui</title>
     </programme>

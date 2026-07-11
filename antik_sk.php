@@ -85,37 +85,37 @@
   <programme start="20260713211500 +0000" stop="20260713221000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Alice Neversová</title>
   </programme>
-  <programme start="20260712211000 +0000" stop="20260712221000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260712210500 +0000" stop="20260712220900 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Noc v archíve</title>
   </programme>
-  <programme start="20260712221000 +0000" stop="20260712221200 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260712220900 +0000" stop="20260712221100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260712221200 +0000" stop="20260713011200 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260712221100 +0000" stop="20260713011200 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260713035500 +0000" stop="20260713040500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713035500 +0000" stop="20260713040000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Zázračný miniateliér</title>
   </programme>
-  <programme start="20260713040500 +0000" stop="20260713041500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713040000 +0000" stop="20260713041500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Geolino</title>
   </programme>
   <programme start="20260713041500 +0000" stop="20260713042500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Slimák Maťo a škriatok Klinček</title>
   </programme>
-  <programme start="20260713042500 +0000" stop="20260713043500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713042500 +0000" stop="20260713043000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Slimák Maťo a škriatok Klinček</title>
   </programme>
-  <programme start="20260713043500 +0000" stop="20260713044500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713043000 +0000" stop="20260713044500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Xavier Riddle a Tajné múzeum</title>
   </programme>
   <programme start="20260713044500 +0000" stop="20260713045000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Bluey III</title>
   </programme>
-  <programme start="20260713045000 +0000" stop="20260713050500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713045000 +0000" stop="20260713050000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Pinocchiova zázračná dedinka</title>
   </programme>
-  <programme start="20260713050500 +0000" stop="20260713051500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713050000 +0000" stop="20260713051500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Šéfkuchár Shane</title>
   </programme>
   <programme start="20260713051500 +0000" stop="20260713053000 +0000" channel="Dvojka.webtv.sk">
@@ -124,10 +124,10 @@
   <programme start="20260713053000 +0000" stop="20260713060000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Živá panoráma</title>
   </programme>
-  <programme start="20260713060000 +0000" stop="20260713060500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713060000 +0000" stop="20260713061000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hírek</title>
   </programme>
-  <programme start="20260713060500 +0000" stop="20260713063500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713061000 +0000" stop="20260713063500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Od prameňa (česky)</title>
   </programme>
   <programme start="20260713063500 +0000" stop="20260713070000 +0000" channel="Dvojka.webtv.sk">
@@ -181,10 +181,10 @@
   <programme start="20260713125500 +0000" stop="20260713135500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Popstory I</title>
   </programme>
-  <programme start="20260713135500 +0000" stop="20260713142000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713135500 +0000" stop="20260713142500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Trhoviská sveta</title>
   </programme>
-  <programme start="20260713142000 +0000" stop="20260713145000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260713142500 +0000" stop="20260713145000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Retro noviny</title>
   </programme>
   <programme start="20260713145000 +0000" stop="20260713160000 +0000" channel="Dvojka.webtv.sk">
@@ -235,8 +235,8 @@
   <programme start="20260713195000 +0000" stop="20260713214000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Nie je čo stratiť</title>
   </programme>
-  <programme start="20260713214000 +0000" stop="20260713220600 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Šesť zmyslov Paríža</title>
+  <programme start="20260713214000 +0000" stop="20260713220900 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Československý vesmír</title>
   </programme>
   <programme start="20260712215000 +0000" stop="20260712222000 +0000" channel=":24.webtv.sk">
     <title lang="id">Cez lupu</title>
