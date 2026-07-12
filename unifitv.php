@@ -224,27 +224,37 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712000000 +0000" stop="20260712063000 +0000" channel="fifa4.unifitv">
+  <programme start="20260712000000 +0000" stop="20260712043000 +0000" channel="fifa4.unifitv">
     <title lang="en">(L) Argentina vs Switzerland : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 9:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712063000 +0000" stop="20260712070000 +0000" channel="fifa4.unifitv">
+  <programme start="20260712043000 +0000" stop="20260712050000 +0000" channel="fifa4.unifitv">
     <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712070000 +0000" stop="20260712113000 +0000" channel="fifa4.unifitv">
+  <programme start="20260712050000 +0000" stop="20260712093000 +0000" channel="fifa4.unifitv">
     <title lang="en">(R) Argentina vs Switzerland : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712113000 +0000" stop="20260712120000 +0000" channel="fifa4.unifitv">
+  <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="fifa4.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712120000 +0000" stop="20260712163000 +0000" channel="fifa4.unifitv">
+  <programme start="20260712100000 +0000" stop="20260712143000 +0000" channel="fifa4.unifitv">
+    <title lang="en">(R) Argentina vs Switzerland : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260712143000 +0000" stop="20260712150000 +0000" channel="fifa4.unifitv">
+    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260712150000 +0000" stop="20260712193000 +0000" channel="fifa4.unifitv">
     <title lang="en">(R) Argentina vs Switzerland : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
@@ -4218,17 +4228,30 @@
     <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260712051500 +0000" stop="20260712071500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) Konsert Malam Budaya Sarawak</title>
+  <programme start="20260712051500 +0000" stop="20260712060000 +0000" channel="tvs.unifitv">
+    <title lang="en">Malam Budaya Sarawak</title>
     <desc lang="en">Siaran tertunda Konsert Malam Budaya Sarawak, bertempat di pentas utama Dataran Tun Tuanku Bujang Sibu, Sarawak.</desc>
     <category lang="en">Singing</category>
   </programme>
-  <programme start="20260712071500 +0000" stop="20260712074500 +0000" channel="tvs.unifitv">
-    <title lang="en">AI.5YA</title>
-    <desc lang="en">Famous YouTuber Jehan Jinx loses his crew and uses a mail-order robot, AI5YA, as his one-woman team and co-star. As fans want more of her, he must hide she's not human.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
+  <programme start="20260712060000 +0000" stop="20260712060500 +0000" channel="tvs.unifitv">
+    <title lang="en">(DL) TVS Ringkas</title>
+    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260712060500 +0000" stop="20260712070000 +0000" channel="tvs.unifitv">
+    <title lang="en">Malam Budaya Sarawak</title>
+    <desc lang="en">Siaran tertunda Konsert Malam Budaya Sarawak, bertempat di pentas utama Dataran Tun Tuanku Bujang Sibu, Sarawak.</desc>
+    <category lang="en">Singing</category>
+  </programme>
+  <programme start="20260712070000 +0000" stop="20260712070500 +0000" channel="tvs.unifitv">
+    <title lang="en">(DL) TVS Highlight</title>
+    <desc lang="en">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260712070500 +0000" stop="20260712074500 +0000" channel="tvs.unifitv">
+    <title lang="en">Malam Budaya Sarawak</title>
+    <desc lang="en">Siaran tertunda Konsert Malam Budaya Sarawak, bertempat di pentas utama Dataran Tun Tuanku Bujang Sibu, Sarawak.</desc>
+    <category lang="en">Singing</category>
   </programme>
   <programme start="20260712074500 +0000" stop="20260712080000 +0000" channel="tvs.unifitv">
     <title lang="en">Orang Kita</title>

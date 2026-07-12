@@ -16294,17 +16294,23 @@
   <programme start="20260714025500 +0000" stop="20260714030000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260714030000 +0000" stop="20260714031500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260714030000 +0000" stop="20260714031000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260714031500 +0000" stop="20260714040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260714031000 +0000" stop="20260714035500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Power Scramble (2)</title>
+  </programme>
+  <programme start="20260714035500 +0000" stop="20260714040000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260714040000 +0000" stop="20260714043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260714043000 +0000" stop="20260714050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260714043000 +0000" stop="20260714045500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Europe&apos;s Borderlands (4)</title>
+  </programme>
+  <programme start="20260714045500 +0000" stop="20260714050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260714050000 +0000" stop="20260714051000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16450,8 +16456,11 @@
   <programme start="20260714141500 +0000" stop="20260714143000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1859)</title>
   </programme>
-  <programme start="20260714143000 +0000" stop="20260714150000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260714143000 +0000" stop="20260714145500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Europe&apos;s Borderlands (4)</title>
+  </programme>
+  <programme start="20260714145500 +0000" stop="20260714150000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260714150000 +0000" stop="20260714151000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16747,10 +16756,10 @@
   <programme start="20260714165400 +0000" stop="20260714165900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260714165900 +0000" stop="20260714172500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260714165900 +0000" stop="20260714172600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kontrapunkt (595)</title>
   </programme>
-  <programme start="20260714172500 +0000" stop="20260714173000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260714172600 +0000" stop="20260714173000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Sprawdzam to Extra 1&apos; (47)</title>
   </programme>
   <programme start="20260714173000 +0000" stop="20260714175800 +0000" channel="TVP Info.webtv.sk">
@@ -16916,7 +16925,7 @@
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20260714000000 +0000" stop="20260714020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Изгнанные. Истории депортированных народов</title>
   </programme>
   <programme start="20260714020000 +0000" stop="20260714023000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главные фигуры: Сергей Шойгу</title>
@@ -16925,7 +16934,7 @@
     <title lang="id">DW. Будущее сегодня</title>
   </programme>
   <programme start="20260714030000 +0000" stop="20260714033000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Европейские ценности</title>
+    <title lang="id">Европейские ценности: Норвегия</title>
   </programme>
   <programme start="20260714033000 +0000" stop="20260714040000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -16934,10 +16943,10 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260714043000 +0000" stop="20260714050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия</title>
+    <title lang="id">Неизвестная Pоссия: Усолье-Сибирское</title>
   </programme>
   <programme start="20260714050000 +0000" stop="20260714070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Изгнанные. Истории депортированных народов</title>
   </programme>
   <programme start="20260714070000 +0000" stop="20260714073000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Утро</title>
@@ -16952,7 +16961,7 @@
     <title lang="id">Человек имеет право</title>
   </programme>
   <programme start="20260714100000 +0000" stop="20260714120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Изгнанные. Истории депортированных народов</title>
   </programme>
   <programme start="20260714120000 +0000" stop="20260714123000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальная история</title>
@@ -17417,7 +17426,7 @@
     <title lang="id">Direct Talk</title>
   </programme>
   <programme start="20260714014300 +0000" stop="20260714015300 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD TV Special program</title>
+    <title lang="id">Across Continents</title>
   </programme>
   <programme start="20260714015300 +0000" stop="20260714015500 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -18046,8 +18055,11 @@
   <programme start="20260714083000 +0000" stop="20260714090000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Witness</title>
   </programme>
-  <programme start="20260714090000 +0000" stop="20260714100000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260714090000 +0000" stop="20260714093000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
+  </programme>
+  <programme start="20260714093000 +0000" stop="20260714100000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Talk to Al Jazeera</title>
   </programme>
   <programme start="20260714100000 +0000" stop="20260714110000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>

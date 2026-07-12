@@ -6262,10 +6262,10 @@
     <programme start="20260712144600 +0000" stop="20260712170000 +0000" channel="TV5MONDE HD.starhub">
         <title>La Boite a Secrets</title>
     </programme>
-    <programme start="20260711133000 +0000" stop="20260711190000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260711133000 +0000" stop="20260711191200 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Genesis Scottish Open Day 3</title>
     </programme>
-    <programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260711191200 +0000" stop="20260711193000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 26</title>
     </programme>
     <programme start="20260711193000 +0000" stop="20260711213000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6286,8 +6286,11 @@
     <programme start="20260712020000 +0000" stop="20260712043000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Day 15 Morning Session: SF 2</title>
     </programme>
-    <programme start="20260712043000 +0000" stop="20260712083000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Day 15 Evening Session: SF 2 (Final)</title>
+    <programme start="20260712043000 +0000" stop="20260712060000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Open Capfinances Rouen Métropole (250) Final</title>
+    </programme>
+    <programme start="20260712060000 +0000" stop="20260712083000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Genesis Scottish Open Day 3</title>
     </programme>
     <programme start="20260712083000 +0000" stop="20260712113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Day 17 Evening Session: Final (10)</title>

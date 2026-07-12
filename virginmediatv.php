@@ -4159,8 +4159,11 @@
 <programme start="20260712030000 +0000" stop="20260712060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Australian Rules - Western Bulldogs v West Coast Eagles</title>
 </programme>
-<programme start="20260712110000 +0000" stop="20260712163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260712113000 +0000" stop="20260712160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Tour de France - Stage 9</title>
+</programme>
+<programme start="20260712160000 +0000" stop="20260712163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>The WRC Magazine - Rally Estonia</title>
 </programme>
 <programme start="20260712163000 +0000" stop="20260712173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -4735,8 +4738,11 @@
 <programme start="20260712030000 +0000" stop="20260712060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Australian Rules - Western Bulldogs v West Coast Eagles</title>
 </programme>
-<programme start="20260712110000 +0000" stop="20260712163000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260712113000 +0000" stop="20260712160000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Tour de France - Stage 9</title>
+</programme>
+<programme start="20260712160000 +0000" stop="20260712163000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>The WRC Magazine - Rally Estonia</title>
 </programme>
 <programme start="20260712163000 +0000" stop="20260712173000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Major League Baseball - Highlights</title>
