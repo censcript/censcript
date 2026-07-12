@@ -46,12 +46,6 @@
 <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260712100000 +0000" stop="20260712101500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
-</programme>
-<programme start="20260712101500 +0000" stop="20260712103000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E34</title>
-</programme>
 <programme start="20260712103000 +0000" stop="20260712124500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -QF - Argentina vs Switzerland</title>
 </programme>
@@ -96,15 +90,6 @@
 </programme>
 <programme start="20260712160000 +0000" stop="20260712191500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -QF - Norway vs England</title>
-</programme>
-<programme start="20260712100000 +0000" stop="20260712101500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 35</title>
-</programme>
-<programme start="20260712101500 +0000" stop="20260712103000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E34</title>
-</programme>
-<programme start="20260712103000 +0000" stop="20260712110000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -DEAN ASHTON</title>
 </programme>
 <programme start="20260712110000 +0000" stop="20260712130000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Arsenal vs Fulham</title>

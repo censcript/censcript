@@ -553,9 +553,6 @@
 <programme start="20260712080000 +0000" stop="20260712090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20260712090000 +0000" stop="20260712100000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Germany GP</title>
-</programme>
 <programme start="20260712100000 +0000" stop="20260712110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260713090000 +0000" stop="20260713090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260713090500 +0000" stop="20260713100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>
