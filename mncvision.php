@@ -9184,7 +9184,54 @@
 <programme start="20260713150000 +0000" stop="20260713153000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260712171000 +0000" stop="20260712182500 +0000" channel="tvN.mncvision">
+    <title>Filing For Love, Ep 2</title>
+</programme>
+<programme start="20260712182500 +0000" stop="20260712201000 +0000" channel="tvN.mncvision">
+    <title>GBRB: Farm Operation, Ep 3</title>
+</programme>
+<programme start="20260712201000 +0000" stop="20260712220000 +0000" channel="tvN.mncvision">
+    <title>Sixth Sense: City Tour, Ep 1</title>
+</programme>
+<programme start="20260712220000 +0000" stop="20260712232000 +0000" channel="tvN.mncvision">
+    <title>Mr. Eo&#039;s Food World Tour, Ep 2</title>
+</programme>
+<programme start="20260712232000 +0000" stop="20260713003000 +0000" channel="tvN.mncvision">
+    <title>Go Go With Mr. Paik, Ep 3</title>
+</programme>
+<programme start="20260713003000 +0000" stop="20260713030000 +0000" channel="tvN.mncvision">
+    <title>World Of Street Woman..., Ep 3</title>
+</programme>
+<programme start="20260713030000 +0000" stop="20260713041500 +0000" channel="tvN.mncvision">
+    <title>Yumi&#039;s Cells S3, Ep 5</title>
+</programme>
+<programme start="20260713041500 +0000" stop="20260713053500 +0000" channel="tvN.mncvision">
+    <title>Yumi&#039;s Cells S3, Ep 6</title>
+</programme>
+<programme start="20260713053500 +0000" stop="20260713071500 +0000" channel="tvN.mncvision">
+    <title>GBRB: Farm Operation, Ep 3</title>
+</programme>
+<programme start="20260713071500 +0000" stop="20260713083500 +0000" channel="tvN.mncvision">
+    <title>Mr. Eo&#039;s Food World Tour, Ep 1</title>
+</programme>
+<programme start="20260713083500 +0000" stop="20260713100000 +0000" channel="tvN.mncvision">
+    <title>Mr. Eo&#039;s Food World Tour, Ep 2</title>
+</programme>
+<programme start="20260713100000 +0000" stop="20260713120000 +0000" channel="tvN.mncvision">
+    <title>Sixth Sense: City Tour, Ep 1</title>
+</programme>
+<programme start="20260713120000 +0000" stop="20260713131500 +0000" channel="tvN.mncvision">
+    <title>Filing For Love, Ep 1</title>
+</programme>
+<programme start="20260713131500 +0000" stop="20260713143000 +0000" channel="tvN.mncvision">
+    <title>Filing For Love, Ep 2</title>
+</programme>
+<programme start="20260713143000 +0000" stop="20260713161000 +0000" channel="tvN.mncvision">
+    <title>Guardian 10th Anniversary, Ep 1</title>
+</programme>
+<programme start="20260713161000 +0000" stop="20260713164000 +0000" channel="tvN.mncvision">
+    <title>World Of Street Woman..., Ep 3</title>
+</programme>
 <programme start="20260712171000 +0000" stop="20260712182500 +0000" channel="tvN HD.mncvision">
     <title>Filing For Love, Ep 2</title>
 </programme>

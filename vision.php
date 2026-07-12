@@ -553,11 +553,17 @@
 <programme start="20260712080000 +0000" stop="20260712090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20260712090000 +0000" stop="20260712100000 +0000" channel="Trans 7.vision">
+<title>Moto3 2026 Germany GP</title>
+</programme>
 <programme start="20260712100000 +0000" stop="20260712110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
 <programme start="20260712110000 +0000" stop="20260712114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260712114500 +0000" stop="20260712130000 +0000" channel="Trans 7.vision">
+<title>MotoGP 2026 Germany GP</title>
 </programme>
 <programme start="20260712130000 +0000" stop="20260712143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -643,6 +649,12 @@
 <programme start="20260711223000 +0000" stop="20260712003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
+<programme start="20260712003000 +0000" stop="20260712023000 +0000" channel="ANTV.vision">
+<title>Gadis Bionik</title>
+</programme>
+<programme start="20260712023000 +0000" stop="20260712060000 +0000" channel="ANTV.vision">
+<title>Sangdil Sanam</title>
+</programme>
 <programme start="20260712060000 +0000" stop="20260712073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -651,6 +663,15 @@
 </programme>
 <programme start="20260712090000 +0000" stop="20260712110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260712110000 +0000" stop="20260712130000 +0000" channel="ANTV.vision">
+<title>Kutukan Cakar Monyet</title>
+</programme>
+<programme start="20260712130000 +0000" stop="20260712143000 +0000" channel="ANTV.vision">
+<title>Telaga Angker</title>
+</programme>
+<programme start="20260712143000 +0000" stop="20260712163000 +0000" channel="ANTV.vision">
+<title>Tarzan Raja Rimba</title>
 </programme>
 <programme start="20260712163000 +0000" stop="20260712183000 +0000" channel="ANTV.vision">
 <title>The Seventh Curse</title>
@@ -1476,25 +1497,4 @@
 </programme>
 <programme start="20260713080000 +0000" stop="20260713083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
-</programme>
-<programme start="20260713083000 +0000" stop="20260713090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260713090000 +0000" stop="20260713090500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260713090500 +0000" stop="20260713100000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20260713100000 +0000" stop="20260713103000 +0000" channel="BTV.vision">
-<title>Berita Merah Putih</title>
-</programme>
-<programme start="20260713103000 +0000" stop="20260713120000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20260712000000 +0000" stop="20260712004500 +0000" channel="TVRI.vision">
-<title>Bola Gembira</title>
-</programme>
-<programme start="20260712004500 +0000" stop="20260712010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
