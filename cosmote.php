@@ -50,10 +50,6 @@
     <title>Football: FC Copenhagen - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260713030000 +0700" stop="20260713050000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sporting CP - AVS Futebol</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260713050000 +0700" stop="20260713070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Como</title>
     <desc>Live: Tidak</desc>
@@ -102,8 +98,8 @@
     <title>Football: Vitoria Guimaraes - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260713024500 +0700" stop="20260713044500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Hull City - Wrexham</title>
+<programme start="20260714050000 +0700" stop="20260714070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Internazionale Milano - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260713044500 +0700" stop="20260713064500 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,10 +198,6 @@
     <title>Basketball: AEK - Levice</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260713034000 +0700" stop="20260713044000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260713044000 +0700" stop="20260713061000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
@@ -300,6 +292,10 @@
 </programme>
 <programme start="20260714035000 +0700" stop="20260714050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2026 Grand Prix Show</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260714050500 +0700" stop="20260714063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260713023000 +0700" stop="20260713053000 +0700" channel="COSMOTE Sport 6 HD">
