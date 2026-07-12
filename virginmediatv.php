@@ -343,11 +343,11 @@
 <programme start="20260712011500 +0000" stop="20260712021500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Queen James</title>
 </programme>
-<programme start="20260712021500 +0000" stop="20260712051500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>This Is BBC TWO</title>
-</programme>
-<programme start="20260712051500 +0000" stop="20260712070500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260712021500 +0000" stop="20260712045400 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>MOTD FIFA World Cup 2026 - Quarter-Final: Norway v England</title>
+</programme>
+<programme start="20260712045400 +0000" stop="20260712070500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>This Is BBC TWO</title>
 </programme>
 <programme start="20260712100000 +0000" stop="20260712120500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: Wimbledon 2026 - Day 14</title>

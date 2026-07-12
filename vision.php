@@ -559,9 +559,6 @@
 <programme start="20260712110000 +0000" stop="20260712114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
-<programme start="20260712114500 +0000" stop="20260712130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026 Germany GP</title>
-</programme>
 <programme start="20260712130000 +0000" stop="20260712143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -654,9 +651,6 @@
 </programme>
 <programme start="20260712090000 +0000" stop="20260712110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260712110000 +0000" stop="20260712130000 +0000" channel="ANTV.vision">
-<title>Kutukan Cakar Monyet</title>
 </programme>
 <programme start="20260712130000 +0000" stop="20260712143000 +0000" channel="ANTV.vision">
 <title>Telaga Angker</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260713090500 +0000" stop="20260713100000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260713100000 +0000" stop="20260713103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
+</programme>
+<programme start="20260713103000 +0000" stop="20260713120000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
