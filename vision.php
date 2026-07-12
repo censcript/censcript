@@ -652,9 +652,6 @@
 <programme start="20260712090000 +0000" stop="20260712110000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260712130000 +0000" stop="20260712143000 +0000" channel="ANTV.vision">
-<title>Telaga Angker</title>
-</programme>
 <programme start="20260712143000 +0000" stop="20260712163000 +0000" channel="ANTV.vision">
 <title>Tarzan Raja Rimba</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260713103000 +0000" stop="20260713120000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260712000000 +0000" stop="20260712004500 +0000" channel="TVRI.vision">
+<title>Bola Gembira</title>
 </programme>
