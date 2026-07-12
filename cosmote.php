@@ -58,10 +58,6 @@
     <title>Football: Noah - AZ Alkmaar</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260712050000 +0700" stop="20260712070000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Bologna - ACF Fiorentina</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260712070000 +0700" stop="20260712090000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -110,8 +106,8 @@
     <title>Football: SS Lazio - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260712043000 +0700" stop="20260712063000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Hibernian - Heart of Midlothian</title>
+<programme start="20260713070000 +0700" stop="20260713090000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260712063000 +0700" stop="20260712094500 +0700" channel="COSMOTE Sport 3 HD">
@@ -164,10 +160,6 @@
 </programme>
 <programme start="20260713064500 +0700" stop="20260713100000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Jacksonville Jaguars - Indianapolis Colts</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260712043000 +0700" stop="20260712063000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - VEF Riga</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260712063000 +0700" stop="20260712083000 +0700" channel="COSMOTE Sport 4 HD">
@@ -224,10 +216,6 @@
 </programme>
 <programme start="20260713060000 +0700" stop="20260713080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Virtus Bologna - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260712051000 +0700" stop="20260712061000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260712061000 +0700" stop="20260712071000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,8 +318,8 @@
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260712060000 +0700" stop="20260712070000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2026 - Highlights</title>
+<programme start="20260713074000 +0700" stop="20260713081000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260712070000 +0700" stop="20260712080000 +0700" channel="COSMOTE Sport 6 HD">
@@ -396,6 +384,10 @@
 </programme>
 <programme start="20260713063000 +0700" stop="20260713070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260713070000 +0700" stop="20260713100000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: Oktagon 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260712060000 +0700" stop="20260712080000 +0700" channel="COSMOTE Sport 7 HD">
