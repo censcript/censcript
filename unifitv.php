@@ -36,7 +36,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712053000 +0000" stop="20260712060000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 3 - Vancouver : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 6 - Los Angeles : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -46,7 +46,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712103000 +0000" stop="20260712110000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 4 - Boston : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 5 - Seatle : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -56,7 +56,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712153000 +0000" stop="20260712160000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 5 - Seatle : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 6 - Los Angeles : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -114,7 +114,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -124,7 +124,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260712143000 +0000" stop="20260712150000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
