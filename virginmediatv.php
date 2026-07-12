@@ -3847,8 +3847,8 @@
 <programme start="20260712043000 +0000" stop="20260712050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Golf Academy - John Rahm</title>
 </programme>
-<programme start="20260712050000 +0000" stop="20260712080000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>ISCO Championship, PGA Tour Golf - Day 3</title>
+<programme start="20260712050000 +0000" stop="20260712060000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Evian Championship, Ladies Euro Tour Golf - Day 4: Highlights</title>
 </programme>
 <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Evian Championship, Ladies Euro Tour Golf - Day 4</title>
@@ -3937,7 +3937,7 @@
 <programme start="20260712050000 +0000" stop="20260712060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Report - Quarter-Final: Norway v England</title>
 </programme>
-<programme start="20260712090000 +0000" stop="20260712140000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260712093000 +0000" stop="20260712140000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: Scottish Open, DP World Tour Golf - Day 4</title>
 </programme>
 <programme start="20260712140000 +0000" stop="20260712170000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4492,8 +4492,8 @@
 <programme start="20260712043000 +0000" stop="20260712050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Golf Academy - John Rahm</title>
 </programme>
-<programme start="20260712050000 +0000" stop="20260712080000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>ISCO Championship, PGA Tour Golf - Day 3</title>
+<programme start="20260712050000 +0000" stop="20260712060000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Evian Championship, Ladies Euro Tour Golf - Day 4: Highlights</title>
 </programme>
 <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Evian Championship, Ladies Euro Tour Golf - Day 4</title>
@@ -4582,7 +4582,7 @@
 <programme start="20260712050000 +0000" stop="20260712060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Report - Quarter-Final: Norway v England</title>
 </programme>
-<programme start="20260712090000 +0000" stop="20260712140000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260712093000 +0000" stop="20260712140000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: Scottish Open, DP World Tour Golf - Day 4</title>
 </programme>
 <programme start="20260712140000 +0000" stop="20260712170000 +0000" channel="Sky_Sports_Plus.virginmediatv">

@@ -649,12 +649,6 @@
 <programme start="20260711223000 +0000" stop="20260712003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260712003000 +0000" stop="20260712023000 +0000" channel="ANTV.vision">
-<title>Gadis Bionik</title>
-</programme>
-<programme start="20260712023000 +0000" stop="20260712060000 +0000" channel="ANTV.vision">
-<title>Sangdil Sanam</title>
-</programme>
 <programme start="20260712060000 +0000" stop="20260712073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260713080000 +0000" stop="20260713083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260713083000 +0000" stop="20260713090000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260713090000 +0000" stop="20260713090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>
