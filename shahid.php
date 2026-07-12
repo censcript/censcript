@@ -4099,261 +4099,6 @@
     <programme start="20260715000000 +0000" stop="20260714235959 +0000" channel="862837.shahid">
         <title>Akhbar Asharq</title>
     </programme>
-    <programme start="20260713000000 +0000" stop="20260713004100 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260713004100 +0000" stop="20260713012400 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 15</title>
-    </programme>
-    <programme start="20260713012400 +0000" stop="20260713021000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260713021000 +0000" stop="20260713030600 +0000" channel="387294.shahid">
-        <title>Nadeena 2026</title>
-    </programme>
-    <programme start="20260713030600 +0000" stop="20260713033800 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 110</title>
-    </programme>
-    <programme start="20260713033800 +0000" stop="20260713043700 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 1</title>
-    </programme>
-    <programme start="20260713043700 +0000" stop="20260713052000 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260713052000 +0000" stop="20260713060500 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 15</title>
-    </programme>
-    <programme start="20260713060500 +0000" stop="20260713065500 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260713065500 +0000" stop="20260713080000 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 1</title>
-    </programme>
-    <programme start="20260713080000 +0000" stop="20260713083500 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 110</title>
-    </programme>
-    <programme start="20260713083500 +0000" stop="20260713090500 +0000" channel="387294.shahid">
-        <title>Bahar Season 1 Episode 77</title>
-    </programme>
-    <programme start="20260713090500 +0000" stop="20260713100200 +0000" channel="387294.shahid">
-        <title>Nadeena 2026</title>
-    </programme>
-    <programme start="20260713100200 +0000" stop="20260713101000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713101000 +0000" stop="20260713110000 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260713110000 +0000" stop="20260713111000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713111000 +0000" stop="20260713115800 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260713115800 +0000" stop="20260713120500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713120500 +0000" stop="20260713124600 +0000" channel="387294.shahid">
-        <title>Amr Ikhlaa Season 3 Episode 16</title>
-    </programme>
-    <programme start="20260713124600 +0000" stop="20260713130000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713130000 +0000" stop="20260713135500 +0000" channel="387294.shahid">
-        <title>Nadeena 2026</title>
-    </programme>
-    <programme start="20260713135500 +0000" stop="20260713140000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713140000 +0000" stop="20260713145100 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 2</title>
-    </programme>
-    <programme start="20260713145100 +0000" stop="20260713150000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713150000 +0000" stop="20260713155500 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 17</title>
-    </programme>
-    <programme start="20260713155500 +0000" stop="20260713163000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 111</title>
-    </programme>
-    <programme start="20260713163000 +0000" stop="20260713170000 +0000" channel="387294.shahid">
-        <title>Bahar Season 1 Episode 78</title>
-    </programme>
-    <programme start="20260713170000 +0000" stop="20260713175000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260713175000 +0000" stop="20260713180000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713180000 +0000" stop="20260713185300 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260713185300 +0000" stop="20260713190000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713190000 +0000" stop="20260713201200 +0000" channel="387294.shahid">
-        <title>Top Chef Season 9 Episode 3</title>
-    </programme>
-    <programme start="20260713201200 +0000" stop="20260713202000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713202000 +0000" stop="20260713210000 +0000" channel="387294.shahid">
-        <title>Tash: Al Awda Season 19 Episode 10</title>
-    </programme>
-    <programme start="20260713210000 +0000" stop="20260713215500 +0000" channel="387294.shahid">
-        <title>Nadeena 2026</title>
-    </programme>
-    <programme start="20260713215500 +0000" stop="20260713220000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260713220000 +0000" stop="20260713223000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 111</title>
-    </programme>
-    <programme start="20260713223000 +0000" stop="20260713230000 +0000" channel="387294.shahid">
-        <title>Bahar Season 1 Episode 78</title>
-    </programme>
-    <programme start="20260713230000 +0000" stop="20260713234500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 2</title>
-    </programme>
-    <programme start="20260713234500 +0000" stop="20260714003000 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 17</title>
-    </programme>
-    <programme start="20260714003000 +0000" stop="20260714011500 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260714011500 +0000" stop="20260714020000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260714020000 +0000" stop="20260714025500 +0000" channel="387294.shahid">
-        <title>Nadeena 2026</title>
-    </programme>
-    <programme start="20260714025500 +0000" stop="20260714030000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714030000 +0000" stop="20260714033000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 111</title>
-    </programme>
-    <programme start="20260714033000 +0000" stop="20260714041900 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 2</title>
-    </programme>
-    <programme start="20260714041900 +0000" stop="20260714042500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714042500 +0000" stop="20260714051500 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 17</title>
-    </programme>
-    <programme start="20260714051500 +0000" stop="20260714060500 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 16</title>
-    </programme>
-    <programme start="20260714060500 +0000" stop="20260714065500 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260714065500 +0000" stop="20260714070000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714070000 +0000" stop="20260714074900 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 2</title>
-    </programme>
-    <programme start="20260714074900 +0000" stop="20260714075500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714075500 +0000" stop="20260714083000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 111</title>
-    </programme>
-    <programme start="20260714083000 +0000" stop="20260714083500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714083500 +0000" stop="20260714090500 +0000" channel="387294.shahid">
-        <title>Bahar Season 1 Episode 78</title>
-    </programme>
-    <programme start="20260714090500 +0000" stop="20260714100000 +0000" channel="387294.shahid">
-        <title>Nadeena 2026</title>
-    </programme>
-    <programme start="20260714100000 +0000" stop="20260714100500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714100500 +0000" stop="20260714105700 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 17</title>
-    </programme>
-    <programme start="20260714105700 +0000" stop="20260714110500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714110500 +0000" stop="20260714115600 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260714115600 +0000" stop="20260714120500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714120500 +0000" stop="20260714124500 +0000" channel="387294.shahid">
-        <title>Amr Ikhlaa Season 3 Episode 17</title>
-    </programme>
-    <programme start="20260714124500 +0000" stop="20260714130000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714130000 +0000" stop="20260714135500 +0000" channel="387294.shahid">
-        <title>Nadeena 2026</title>
-    </programme>
-    <programme start="20260714135500 +0000" stop="20260714140000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714140000 +0000" stop="20260714144900 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 3</title>
-    </programme>
-    <programme start="20260714144900 +0000" stop="20260714150000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714150000 +0000" stop="20260714154900 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 18</title>
-    </programme>
-    <programme start="20260714154900 +0000" stop="20260714155500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714155500 +0000" stop="20260714163000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 112</title>
-    </programme>
-    <programme start="20260714163000 +0000" stop="20260714165900 +0000" channel="387294.shahid">
-        <title>Bahar Season 1 Episode 79</title>
-    </programme>
-    <programme start="20260714165900 +0000" stop="20260714175100 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260714175100 +0000" stop="20260714180000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714180000 +0000" stop="20260714185000 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 17</title>
-    </programme>
-    <programme start="20260714185000 +0000" stop="20260714190000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714190000 +0000" stop="20260714201200 +0000" channel="387294.shahid">
-        <title>Top Chef Season 9 Episode 4</title>
-    </programme>
-    <programme start="20260714201200 +0000" stop="20260714202500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714202500 +0000" stop="20260714210000 +0000" channel="387294.shahid">
-        <title>Tash: Al Awda Season 19 Episode 11</title>
-    </programme>
-    <programme start="20260714210000 +0000" stop="20260714215500 +0000" channel="387294.shahid">
-        <title>Nadeena 2026</title>
-    </programme>
-    <programme start="20260714215500 +0000" stop="20260714220000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714220000 +0000" stop="20260714223000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 112</title>
-    </programme>
-    <programme start="20260714223000 +0000" stop="20260714230000 +0000" channel="387294.shahid">
-        <title>Bahar Season 1 Episode 79</title>
-    </programme>
-    <programme start="20260714230000 +0000" stop="20260714234500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 3</title>
-    </programme>
-    <programme start="20260714234500 +0000" stop="20260714235959 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 18</title>
-    </programme>
     <programme start="20260713000000 +0000" stop="20260713001011 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 1 Episode 12</title>
     </programme>
@@ -4629,6 +4374,261 @@
     </programme>
     <programme start="20260714234051 +0000" stop="20260714235959 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 5 Episode 13</title>
+    </programme>
+    <programme start="20260713000000 +0000" stop="20260713004100 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260713004100 +0000" stop="20260713012400 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 15</title>
+    </programme>
+    <programme start="20260713012400 +0000" stop="20260713021000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260713021000 +0000" stop="20260713030600 +0000" channel="387294.shahid">
+        <title>Nadeena 2026</title>
+    </programme>
+    <programme start="20260713030600 +0000" stop="20260713033800 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 110</title>
+    </programme>
+    <programme start="20260713033800 +0000" stop="20260713043700 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 1</title>
+    </programme>
+    <programme start="20260713043700 +0000" stop="20260713052000 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260713052000 +0000" stop="20260713060500 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 15</title>
+    </programme>
+    <programme start="20260713060500 +0000" stop="20260713065500 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260713065500 +0000" stop="20260713080000 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 1</title>
+    </programme>
+    <programme start="20260713080000 +0000" stop="20260713083500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 110</title>
+    </programme>
+    <programme start="20260713083500 +0000" stop="20260713090500 +0000" channel="387294.shahid">
+        <title>Bahar Season 1 Episode 77</title>
+    </programme>
+    <programme start="20260713090500 +0000" stop="20260713100200 +0000" channel="387294.shahid">
+        <title>Nadeena 2026</title>
+    </programme>
+    <programme start="20260713100200 +0000" stop="20260713101000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713101000 +0000" stop="20260713110000 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260713110000 +0000" stop="20260713111000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713111000 +0000" stop="20260713115800 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260713115800 +0000" stop="20260713120500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713120500 +0000" stop="20260713124600 +0000" channel="387294.shahid">
+        <title>Amr Ikhlaa Season 3 Episode 16</title>
+    </programme>
+    <programme start="20260713124600 +0000" stop="20260713130000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713130000 +0000" stop="20260713135500 +0000" channel="387294.shahid">
+        <title>Nadeena 2026</title>
+    </programme>
+    <programme start="20260713135500 +0000" stop="20260713140000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713140000 +0000" stop="20260713145100 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 2</title>
+    </programme>
+    <programme start="20260713145100 +0000" stop="20260713150000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713150000 +0000" stop="20260713155500 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 17</title>
+    </programme>
+    <programme start="20260713155500 +0000" stop="20260713163000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 111</title>
+    </programme>
+    <programme start="20260713163000 +0000" stop="20260713170000 +0000" channel="387294.shahid">
+        <title>Bahar Season 1 Episode 78</title>
+    </programme>
+    <programme start="20260713170000 +0000" stop="20260713175000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260713175000 +0000" stop="20260713180000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713180000 +0000" stop="20260713185300 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260713185300 +0000" stop="20260713190000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713190000 +0000" stop="20260713201200 +0000" channel="387294.shahid">
+        <title>Top Chef Season 9 Episode 3</title>
+    </programme>
+    <programme start="20260713201200 +0000" stop="20260713202000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713202000 +0000" stop="20260713210000 +0000" channel="387294.shahid">
+        <title>Tash: Al Awda Season 19 Episode 10</title>
+    </programme>
+    <programme start="20260713210000 +0000" stop="20260713215500 +0000" channel="387294.shahid">
+        <title>Nadeena 2026</title>
+    </programme>
+    <programme start="20260713215500 +0000" stop="20260713220000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260713220000 +0000" stop="20260713223000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 111</title>
+    </programme>
+    <programme start="20260713223000 +0000" stop="20260713230000 +0000" channel="387294.shahid">
+        <title>Bahar Season 1 Episode 78</title>
+    </programme>
+    <programme start="20260713230000 +0000" stop="20260713234500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 2</title>
+    </programme>
+    <programme start="20260713234500 +0000" stop="20260714003000 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 17</title>
+    </programme>
+    <programme start="20260714003000 +0000" stop="20260714011500 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260714011500 +0000" stop="20260714020000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260714020000 +0000" stop="20260714025500 +0000" channel="387294.shahid">
+        <title>Nadeena 2026</title>
+    </programme>
+    <programme start="20260714025500 +0000" stop="20260714030000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714030000 +0000" stop="20260714033000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 111</title>
+    </programme>
+    <programme start="20260714033000 +0000" stop="20260714041900 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 2</title>
+    </programme>
+    <programme start="20260714041900 +0000" stop="20260714042500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714042500 +0000" stop="20260714051500 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 17</title>
+    </programme>
+    <programme start="20260714051500 +0000" stop="20260714060500 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260714060500 +0000" stop="20260714065500 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260714065500 +0000" stop="20260714070000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714070000 +0000" stop="20260714074900 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 2</title>
+    </programme>
+    <programme start="20260714074900 +0000" stop="20260714075500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714075500 +0000" stop="20260714083000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 111</title>
+    </programme>
+    <programme start="20260714083000 +0000" stop="20260714083500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714083500 +0000" stop="20260714090500 +0000" channel="387294.shahid">
+        <title>Bahar Season 1 Episode 78</title>
+    </programme>
+    <programme start="20260714090500 +0000" stop="20260714100000 +0000" channel="387294.shahid">
+        <title>Nadeena 2026</title>
+    </programme>
+    <programme start="20260714100000 +0000" stop="20260714100500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714100500 +0000" stop="20260714105700 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 17</title>
+    </programme>
+    <programme start="20260714105700 +0000" stop="20260714110500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714110500 +0000" stop="20260714115600 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260714115600 +0000" stop="20260714120500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714120500 +0000" stop="20260714124500 +0000" channel="387294.shahid">
+        <title>Amr Ikhlaa Season 3 Episode 17</title>
+    </programme>
+    <programme start="20260714124500 +0000" stop="20260714130000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714130000 +0000" stop="20260714135500 +0000" channel="387294.shahid">
+        <title>Nadeena 2026</title>
+    </programme>
+    <programme start="20260714135500 +0000" stop="20260714140000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714140000 +0000" stop="20260714144900 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 3</title>
+    </programme>
+    <programme start="20260714144900 +0000" stop="20260714150000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714150000 +0000" stop="20260714154900 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 18</title>
+    </programme>
+    <programme start="20260714154900 +0000" stop="20260714155500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714155500 +0000" stop="20260714163000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 112</title>
+    </programme>
+    <programme start="20260714163000 +0000" stop="20260714165900 +0000" channel="387294.shahid">
+        <title>Bahar Season 1 Episode 79</title>
+    </programme>
+    <programme start="20260714165900 +0000" stop="20260714175100 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260714175100 +0000" stop="20260714180000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714180000 +0000" stop="20260714185000 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 17</title>
+    </programme>
+    <programme start="20260714185000 +0000" stop="20260714190000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714190000 +0000" stop="20260714201200 +0000" channel="387294.shahid">
+        <title>Top Chef Season 9 Episode 4</title>
+    </programme>
+    <programme start="20260714201200 +0000" stop="20260714202500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714202500 +0000" stop="20260714210000 +0000" channel="387294.shahid">
+        <title>Tash: Al Awda Season 19 Episode 11</title>
+    </programme>
+    <programme start="20260714210000 +0000" stop="20260714215500 +0000" channel="387294.shahid">
+        <title>Nadeena 2026</title>
+    </programme>
+    <programme start="20260714215500 +0000" stop="20260714220000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714220000 +0000" stop="20260714223000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 112</title>
+    </programme>
+    <programme start="20260714223000 +0000" stop="20260714230000 +0000" channel="387294.shahid">
+        <title>Bahar Season 1 Episode 79</title>
+    </programme>
+    <programme start="20260714230000 +0000" stop="20260714234500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 3</title>
+    </programme>
+    <programme start="20260714234500 +0000" stop="20260714235959 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 18</title>
     </programme>
     <programme start="20260713000000 +0000" stop="20260713000004 +0000" channel="49923172215352.shahid">
         <title>Kona Netlaqa</title>
