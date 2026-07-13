@@ -3685,6 +3685,9 @@
     <programme start="20260714015000 +0000" stop="20260714021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
     </programme>
+    <programme start="20260714021700 +0000" stop="20260714022000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
     <programme start="20260714022000 +0000" stop="20260714024500 +0000" channel="NHK World Premium HD.starhub">
         <title>Documentary on Popular Writers and Their Cats (R)</title>
     </programme>
@@ -3740,7 +3743,7 @@
         <title>Grand Sumo 2026 July Tournament at IG Arena (B)</title>
     </programme>
     <programme start="20260714090000 +0000" stop="20260714091000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News (B)</title>
+        <title>News</title>
     </programme>
     <programme start="20260714091000 +0000" stop="20260714092000 +0000" channel="NHK World Premium HD.starhub">
         <title>Let&#039;s Enjoy English and Meets the World</title>
