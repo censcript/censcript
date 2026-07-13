@@ -50,10 +50,6 @@
     <title>Football: KuPS Kuopio - Lech Poznan</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260713050000 +0700" stop="20260713070000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SS Lazio - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260713070000 +0700" stop="20260713090000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Udinese - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
@@ -102,8 +98,8 @@
     <title>Football: FC Internazionale Milano - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260713044500 +0700" stop="20260713064500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Celtic FC - Rangers FC</title>
+<programme start="20260714070000 +0700" stop="20260714090000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260713064500 +0700" stop="20260713100000 +0700" channel="COSMOTE Sport 3 HD">
@@ -206,10 +202,6 @@
     <title>Basketball: Armani Milano - Vanoli Cremona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260713044000 +0700" stop="20260713061000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260713061000 +0700" stop="20260713074000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
@@ -308,14 +300,6 @@
 </programme>
 <programme start="20260714063000 +0700" stop="20260714080000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260713053000 +0700" stop="20260713063000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2026 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260713063000 +0700" stop="20260713070000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260713070000 +0700" stop="20260713100000 +0700" channel="COSMOTE Sport 6 HD">
