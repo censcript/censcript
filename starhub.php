@@ -4921,19 +4921,19 @@
     <programme start="20260713030000 +0000" stop="20260713040000 +0000" channel="SPOTV.starhub">
         <title>Day 14</title>
     </programme>
-    <programme start="20260713040000 +0000" stop="20260713100000 +0000" channel="SPOTV.starhub">
+    <programme start="20260713040000 +0000" stop="20260713110000 +0000" channel="SPOTV.starhub">
         <title>Day 14 Ladies&#039; Doubles &amp; Gents&#039; Singles Final (Centre Court)</title>
     </programme>
-    <programme start="20260713100000 +0000" stop="20260713110000 +0000" channel="SPOTV.starhub">
+    <programme start="20260713110000 +0000" stop="20260713120000 +0000" channel="SPOTV.starhub">
         <title>SBK Tissot Superpole Race</title>
     </programme>
-    <programme start="20260713110000 +0000" stop="20260713140000 +0000" channel="SPOTV.starhub">
+    <programme start="20260713120000 +0000" stop="20260713144500 +0000" channel="SPOTV.starhub">
         <title>SSP/SBK Race 2</title>
     </programme>
-    <programme start="20260713140000 +0000" stop="20260713150000 +0000" channel="SPOTV.starhub">
+    <programme start="20260713144500 +0000" stop="20260713154500 +0000" channel="SPOTV.starhub">
         <title>Day 14</title>
     </programme>
-    <programme start="20260713150000 +0000" stop="20260713180000 +0000" channel="SPOTV.starhub">
+    <programme start="20260713154500 +0000" stop="20260713180000 +0000" channel="SPOTV.starhub">
         <title>Mixed Relay Series</title>
     </programme>
     <programme start="20260712154500 +0000" stop="20260712164000 +0000" channel="KBS World HD.starhub">

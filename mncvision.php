@@ -8545,19 +8545,19 @@
 <programme start="20260713040000 +0000" stop="20260713070000 +0000" channel="SPOTV.mncvision">
     <title>The Championships, Wimbledon</title>
 </programme>
-<programme start="20260713070000 +0000" stop="20260713100000 +0000" channel="SPOTV.mncvision">
+<programme start="20260713070000 +0000" stop="20260713110000 +0000" channel="SPOTV.mncvision">
     <title>The Championships, Wimbledon</title>
 </programme>
-<programme start="20260713100000 +0000" stop="20260713110000 +0000" channel="SPOTV.mncvision">
+<programme start="20260713110000 +0000" stop="20260713120000 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Prosecco Doc UK</title>
 </programme>
-<programme start="20260713110000 +0000" stop="20260713140000 +0000" channel="SPOTV.mncvision">
+<programme start="20260713120000 +0000" stop="20260713144500 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Prosecco Doc UK</title>
 </programme>
-<programme start="20260713140000 +0000" stop="20260713150000 +0000" channel="SPOTV.mncvision">
+<programme start="20260713144500 +0000" stop="20260713154500 +0000" channel="SPOTV.mncvision">
     <title>2026 Wimbledon HL</title>
 </programme>
-<programme start="20260713150000 +0000" stop="20260713153000 +0000" channel="SPOTV.mncvision">
+<programme start="20260713154500 +0000" stop="20260713161500 +0000" channel="SPOTV.mncvision">
     <title>2026 WTCS: Hamburg</title>
 </programme>
 <programme start="20260712170000 +0000" stop="20260712180000 +0000" channel="SPOTV 2.mncvision">
@@ -8644,19 +8644,19 @@
 <programme start="20260713040000 +0000" stop="20260713070000 +0000" channel="SPOTV HD.mncvision">
     <title>The Championships, Wimbledon</title>
 </programme>
-<programme start="20260713070000 +0000" stop="20260713100000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260713070000 +0000" stop="20260713110000 +0000" channel="SPOTV HD.mncvision">
     <title>The Championships, Wimbledon</title>
 </programme>
-<programme start="20260713100000 +0000" stop="20260713110000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260713110000 +0000" stop="20260713120000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WorldSBK: Prosecco Doc UK</title>
 </programme>
-<programme start="20260713110000 +0000" stop="20260713140000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260713120000 +0000" stop="20260713144500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WorldSBK: Prosecco Doc UK</title>
 </programme>
-<programme start="20260713140000 +0000" stop="20260713150000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260713144500 +0000" stop="20260713154500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 Wimbledon HL</title>
 </programme>
-<programme start="20260713150000 +0000" stop="20260713153000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260713154500 +0000" stop="20260713161500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WTCS: Hamburg</title>
 </programme>
 <programme start="20260712190000 +0000" stop="20260712204000 +0000" channel="Studio Universal.mncvision">

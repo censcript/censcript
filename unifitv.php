@@ -15421,8 +15421,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712171500 +0000" stop="20260712173000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Hit the Road</title>
+    <desc lang="en">Yamaguchi: A road trip through Yamaguchi in search of famed fugu, taking in sweeping seascapes and treasured landmarks along the way.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -15467,12 +15467,19 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260712191500 +0000" stop="20260712200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Showcase</title>
-    <desc lang="en">This programme covers a variety of genres, including pilot episodes of newly-developed programmes and special features.</desc>
+  <programme start="20260712191500 +0000" stop="20260712194500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">J-VIBES</title>
+    <desc lang="en">This programme highlights artists and works making an impact on the global stage.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3013.</episode-num>
-    <episode-num system="onscreen">S1E3014</episode-num>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
+  </programme>
+  <programme start="20260712194500 +0000" stop="20260712200500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">My Street Piano</title>
+    <desc lang="en">Kumamoto is recovering from the 2016 earthquake - a piano is placed in a shopping arcade for a limited period and people stop to play from their heart.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6302.</episode-num>
+    <episode-num system="onscreen">S1E6303</episode-num>
   </programme>
   <programme start="20260712200500 +0000" stop="20260712201500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15480,8 +15487,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712201500 +0000" stop="20260712204500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Cycle Around Japan Highlights</title>
-    <desc lang="en">Selected highlights from 'Cycle Around Japan'! Bicycle through inspiring scenery, meet the locals, and discover the living traditions of a hidden Japan.</desc>
+    <title lang="en">Cycle Around Taiwan Highlights</title>
+    <desc lang="en">In the third episode of our Taiwan series, we travel to Taiwan's south to meet vibrant, energetic families, like one that grows unique vegetables, and another which farms dragon tiger groupers.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2069.</episode-num>
     <episode-num system="onscreen">S1E2070</episode-num>
@@ -15507,7 +15514,7 @@
   </programme>
   <programme start="20260712211500 +0000" stop="20260712214500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">J-Melo</title>
-    <desc lang="en">Japan's exciting music scene, with pop, rock, traditional, live performances, artist interviews, all the latest news, video releases and more!</desc>
+    <desc lang="en">Tune in to J-Melo for great Japanese music! This week: rock band Frederic, whose 2014 hit "oddloop" has topped 200 million video views, plus Thai-born anisong singer MindaRyn.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2003.</episode-num>
     <episode-num system="onscreen">S1E2004</episode-num>
@@ -15539,8 +15546,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260712221500 +0000" stop="20260712223000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Hit the Road</title>
+    <desc lang="en">Yamaguchi: A road trip through Yamaguchi in search of famed fugu, taking in sweeping seascapes and treasured landmarks along the way.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -15561,7 +15568,7 @@
   </programme>
   <programme start="20260712225000 +0000" stop="20260712230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Zero Waste Life</title>
-    <desc lang="en">Meet people around Japan who strive for a life without waste under the traditional philosophy of 'mottainai', which values cherishing the things we have.</desc>
+    <desc lang="en">Inagaki Ryota, who runs a stone-carving business, and his partner - stone artisan Inoue Koji - use stone castoffs to make beautiful tableware that also helps keep food at an optimal temperature.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2092.</episode-num>
     <episode-num system="onscreen">S1E2093</episode-num>
@@ -15587,14 +15594,14 @@
   </programme>
   <programme start="20260712233500 +0000" stop="20260713000200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from July 12, Day 1 of the Grand Sumo Tournament in Nagoya.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
   </programme>
   <programme start="20260713000200 +0000" stop="20260713000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
-    <desc lang="en">'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+    <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2061.</episode-num>
     <episode-num system="onscreen">S1E2062</episode-num>
@@ -15612,8 +15619,8 @@
     <episode-num system="onscreen">S1E6049</episode-num>
   </programme>
   <programme start="20260713002000 +0000" stop="20260713003000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="en">Plankton: The Crisis in the Oceans</title>
+    <desc lang="en">One effect of climate change worldwide has been changes in plankton levels due to global warming such as algal blooms - these cause major damage to local fishing and aquaculture industries.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -15674,7 +15681,7 @@
   </programme>
   <programme start="20260713015000 +0000" stop="20260713020000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Cellist Lucas Garcia Muramoto has roots in both Japan and Brazil. Join us as we trace his journey of rich musical expression from his peaceful hometown in rural Japan to the international scene.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
@@ -15705,7 +15712,7 @@
   </programme>
   <programme start="20260713033500 +0000" stop="20260713040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Biz Stream</title>
-    <desc lang="en">This programme focuses on the latest Japanese business trends, corporate strategies and technologies - we look behind the scenes and discuss their global impact from various perspectives.</desc>
+    <desc lang="en">Changing of the Guard: This episode shows how technology and entertainment are making an impact on safety and security services in Japan.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2073.</episode-num>
     <episode-num system="onscreen">S1E2074</episode-num>
@@ -15717,14 +15724,14 @@
   </programme>
   <programme start="20260713043500 +0000" stop="20260713050200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from July 12, Day 1 of the Grand Sumo Tournament in Nagoya.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
   </programme>
   <programme start="20260713050200 +0000" stop="20260713050500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
-    <desc lang="en">'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+    <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2061.</episode-num>
     <episode-num system="onscreen">S1E2062</episode-num>
@@ -15769,7 +15776,7 @@
   </programme>
   <programme start="20260713065000 +0000" stop="20260713070000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Cellist Lucas Garcia Muramoto has roots in both Japan and Brazil. Join us as we trace his journey of rich musical expression from his peaceful hometown in rural Japan to the international scene.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
@@ -15800,14 +15807,14 @@
   </programme>
   <programme start="20260713083500 +0000" stop="20260713090200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from July 12, Day 1 of the Grand Sumo Tournament in Nagoya.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
   </programme>
   <programme start="20260713090200 +0000" stop="20260713090500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
-    <desc lang="en">'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+    <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2061.</episode-num>
     <episode-num system="onscreen">S1E2062</episode-num>
@@ -15850,14 +15857,14 @@
   </programme>
   <programme start="20260713113300 +0000" stop="20260713114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Hat and headpiece designer Hizume Nobuki is regularly commissioned by global fashion brands, and has won a respected French award. He talks about creating "magical" hats that make their wearer happy.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260713114800 +0000" stop="20260713120000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Cellist Lucas Garcia Muramoto has roots in both Japan and Brazil. Join us as we trace his journey of rich musical expression from his peaceful hometown in rural Japan to the international scene.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>

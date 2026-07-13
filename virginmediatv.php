@@ -4390,6 +4390,30 @@
 <programme start="20260713124500 +0000" stop="20260713194500 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
+<programme start="20260712231500 +0000" stop="20260713010000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260713010000 +0000" stop="20260713023000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260713023000 +0000" stop="20260713041500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260713041500 +0000" stop="20260713054500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260713054500 +0000" stop="20260713073000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260713104500 +0000" stop="20260713121500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260713121500 +0000" stop="20260713124500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Mark Your Card</title>
+</programme>
+<programme start="20260713124500 +0000" stop="20260713194500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Live: Racing</title>
+</programme>
 <programme start="20260712230000 +0000" stop="20260713010000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Chelsea v Manchester United</title>
 </programme>
