@@ -277,27 +277,27 @@
     <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20260713040000 +0000" stop="20260713100000 +0000" channel="spotv.unifitv">
+  <programme start="20260713040000 +0000" stop="20260713110000 +0000" channel="spotv.unifitv">
     <title lang="en">The Championships, Wimbledon 2026 - Day 14 Ladies' Doubles &amp; Gents' Singles Final (Centre Court)</title>
     <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20260713100000 +0000" stop="20260713110000 +0000" channel="spotv.unifitv">
+  <programme start="20260713110000 +0000" stop="20260713120000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WorldSBK: Rd 8 Prosecco Doc UK Round - SBK Tissot Superpole Race</title>
     <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260713110000 +0000" stop="20260713140000 +0000" channel="spotv.unifitv">
+  <programme start="20260713120000 +0000" stop="20260713144500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WorldSBK: Rd 8 Prosecco Doc UK Round - SSP/SBK Race 2</title>
     <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260713140000 +0000" stop="20260713150000 +0000" channel="spotv.unifitv">
+  <programme start="20260713144500 +0000" stop="20260713154500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Wimbledon Highlights - Day 14</title>
     <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20260713150000 +0000" stop="20260713180000 +0000" channel="spotv.unifitv">
+  <programme start="20260713154500 +0000" stop="20260713180000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WTCS, Hamburg - Mixed Relay Series</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
     <category lang="en">Triathlon</category>
@@ -4290,31 +4290,17 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260713081500 +0000" stop="20260713083000 +0000" channel="tvs.unifitv">
-    <title lang="en">VitalMotion</title>
-    <desc lang="en">VitalMotion is a dynamic and flexible exercise program designed to make fitness accessible for everyone.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260713083000 +0000" stop="20260713090000 +0000" channel="tvs.unifitv">
+  <programme start="20260713081500 +0000" stop="20260713084500 +0000" channel="tvs.unifitv">
     <title lang="en">Pewaris Legasi</title>
     <desc lang="en">Dalam kebimbangan minat remaja pada kerjaya kraftangan, pewaris gigih menjaga warisan ini. Rancangan ini memaparkan kerjaya kraftangan di Malaysia, menyeru penonton menghargai usaha mempertahankannya demi generasi akan datang.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
-  <programme start="20260713090000 +0000" stop="20260713093000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Berita Wilayah TVS</title>
-    <desc lang="en">Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
+  <programme start="20260713084500 +0000" stop="20260713100000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Majlis Pelancaran Sukan SEA 2027</title>
+    <desc lang="en">Siaran langsung Majlis Pelancaran Logo, Tema Dan Maskot Sukan SEA Ke-34 Dan Sukan Para ASEAN Ke-14 Tahun 2027 bertempat di IOI City Mall Putrajaya.</desc>
     <category lang="en">News</category>
-  </programme>
-  <programme start="20260713093000 +0000" stop="20260713100000 +0000" channel="tvs.unifitv">
-    <title lang="en">The Cloth Story</title>
-    <desc lang="en">The Cloth Story season 2 focuses on textiles, such as Pua, Songket, Tenun, Batik and Keringkam from the Borneo region. The cloth, the raw materials, the artisans, the history, the evolution and so much more.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <episode-num system="onscreen">S2E2</episode-num>
   </programme>
   <programme start="20260713100000 +0000" stop="20260713101500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Re Bao</title>
@@ -15951,9 +15937,14 @@
     <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713015500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260712200000 +0000" stop="20260713010000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 329: McGregor vs. Holloway 2 - Main</title>
     <desc lang="en">A colossal rematch is set to close out International Fight Week as “The Notorious” Conor McGregor returns to battle Max “Blessed” Holloway in the main event of UFC 329 at T-Mobile Arena in Las Vegas on Saturday, July 12. The two met first met in August 2013, with McGregor earning a unanimous decision win, and now they will cross paths again. This will be the former two-division world champion's first appearance since his twin meetings with Dusitn Poirier in 2021, while the former featherweight champion and BMF titleholder Holloway will be looking for a measure of a revenge and to add another massive victory to his already impressive resume.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260713010000 +0000" stop="20260713015500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 317: Topuria vs Oliveira</title>
+    <desc lang="en">UFC 317 Countdown previews two title fights, as former 145-pound king Ilia Topuria faces former 155-pound champion Charles Oliveira for the vacant lightweight title. In the co-main event, flyweight champ Alexandre Pantoja faces Kai Kara-France.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260713015500 +0000" stop="20260713020000 +0000" channel="unifisports1.unifitv">
@@ -16021,7 +16012,7 @@
     <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260713140000 +0000" stop="20260713195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260713140000 +0000" stop="20260713190000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 329: McGregor vs. Holloway 2 - Main</title>
     <desc lang="en">A colossal rematch is set to close out International Fight Week as “The Notorious” Conor McGregor returns to battle Max “Blessed” Holloway in the main event of UFC 329 at T-Mobile Arena in Las Vegas on Saturday, July 12. The two met first met in August 2013, with McGregor earning a unanimous decision win, and now they will cross paths again. This will be the former two-division world champion's first appearance since his twin meetings with Dusitn Poirier in 2021, while the former featherweight champion and BMF titleholder Holloway will be looking for a measure of a revenge and to add another massive victory to his already impressive resume.</desc>
     <category lang="en">Sports</category>
