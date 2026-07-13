@@ -97,8 +97,153 @@
 <programme start="20260714163000 +0000" stop="20260713170000 +0000" channel="ABC Australia.mncvision">
     <title>Back Roads</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260713170000 +0000" stop="20260713173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260713173000 +0000" stop="20260713180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260713180000 +0000" stop="20260713190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260713190000 +0000" stop="20260713193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260713193000 +0000" stop="20260713200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Apocalypse Maybe: This Feeling</title>
+</programme>
+<programme start="20260713200000 +0000" stop="20260713203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260713203000 +0000" stop="20260713210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Football Without Fear</title>
+</programme>
+<programme start="20260713210000 +0000" stop="20260713220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260713220000 +0000" stop="20260713230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260713230000 +0000" stop="20260713233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260713233000 +0000" stop="20260714000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260714000000 +0000" stop="20260714010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260714010000 +0000" stop="20260714013000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714013000 +0000" stop="20260714020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: Emily Feng</title>
+</programme>
+<programme start="20260714020000 +0000" stop="20260714030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260714030000 +0000" stop="20260714040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260714040000 +0000" stop="20260714043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714043000 +0000" stop="20260714050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>UpFront</title>
+</programme>
+<programme start="20260714050000 +0000" stop="20260714053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714053000 +0000" stop="20260714060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260714060000 +0000" stop="20260714063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714063000 +0000" stop="20260714070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Apocalypse Maybe: This Feeling</title>
+</programme>
+<programme start="20260714070000 +0000" stop="20260714080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260714080000 +0000" stop="20260714083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714083000 +0000" stop="20260714090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Football Without Fear</title>
+</programme>
+<programme start="20260714090000 +0000" stop="20260714093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714093000 +0000" stop="20260714100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: O. Sonko</title>
+</programme>
+<programme start="20260714100000 +0000" stop="20260714110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260714110000 +0000" stop="20260714113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714113000 +0000" stop="20260714120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260714120000 +0000" stop="20260714130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260714130000 +0000" stop="20260714140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260714140000 +0000" stop="20260714143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714143000 +0000" stop="20260714150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Apocalypse Maybe: This Feeling</title>
+</programme>
+<programme start="20260714150000 +0000" stop="20260714160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260714160000 +0000" stop="20260714163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260714163000 +0000" stop="20260713170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20260713170000 +0000" stop="20260713190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260713190000 +0000" stop="20260713210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260713210000 +0000" stop="20260713230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260713230000 +0000" stop="20260714010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260714010000 +0000" stop="20260714030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260714030000 +0000" stop="20260714050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260714050000 +0000" stop="20260714070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260714070000 +0000" stop="20260714090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260714090000 +0000" stop="20260714110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260714110000 +0000" stop="20260714130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260714130000 +0000" stop="20260714150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260714150000 +0000" stop="20260714153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
 <programme start="20260713170000 +0000" stop="20260713173000 +0000" channel="Animax.mncvision">
     <title>Ragna Crimson, Ep 6</title>
 </programme>
@@ -723,7 +868,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260714165500 +0000" stop="20260713172500 +0000" channel="BBC Earth HD.mncvision">
     <title>Amazing Railway Adv. S2, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260713170000 +0000" stop="20260713173000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20260713173000 +0000" stop="20260713180000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20260713180000 +0000" stop="20260713183000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20260713183000 +0000" stop="20260713190000 +0000" channel="BBC World News.mncvision">
+    <title>World Today With M. Moshiri</title>
+</programme>
+<programme start="20260713190000 +0000" stop="20260713193000 +0000" channel="BBC World News.mncvision">
+    <title>The Context USA</title>
+</programme>
+<programme start="20260713193000 +0000" stop="20260713200000 +0000" channel="BBC World News.mncvision">
+    <title>The Context USA</title>
+</programme>
+<programme start="20260713200000 +0000" stop="20260713203000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20260713203000 +0000" stop="20260713210000 +0000" channel="BBC World News.mncvision">
+    <title>The Context</title>
+</programme>
+<programme start="20260713210000 +0000" stop="20260713213000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20260713213000 +0000" stop="20260713220000 +0000" channel="BBC World News.mncvision">
+    <title>Newsnight</title>
+</programme>
+<programme start="20260713220000 +0000" stop="20260713230000 +0000" channel="BBC World News.mncvision">
+    <title>BBC World News America</title>
+</programme>
+<programme start="20260713230000 +0000" stop="20260713233000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260713233000 +0000" stop="20260714000000 +0000" channel="BBC World News.mncvision">
+    <title>Newscast</title>
+</programme>
+<programme start="20260714000000 +0000" stop="20260714003000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714003000 +0000" stop="20260714010000 +0000" channel="BBC World News.mncvision">
+    <title>Talking Business</title>
+</programme>
+<programme start="20260714010000 +0000" stop="20260714013000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260714013000 +0000" stop="20260714014500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260714014500 +0000" stop="20260714020000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260714020000 +0000" stop="20260714023000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260714023000 +0000" stop="20260714024500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260714024500 +0000" stop="20260714030000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260714030000 +0000" stop="20260714033000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260714033000 +0000" stop="20260714034500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260714034500 +0000" stop="20260714040000 +0000" channel="BBC World News.mncvision">
+    <title>Newsday</title>
+</programme>
+<programme start="20260714040000 +0000" stop="20260714043000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714043000 +0000" stop="20260714050000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260714050000 +0000" stop="20260714053000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714053000 +0000" stop="20260714060000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260714060000 +0000" stop="20260714063000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714063000 +0000" stop="20260714070000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260714070000 +0000" stop="20260714073000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714073000 +0000" stop="20260714080000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714080000 +0000" stop="20260714083000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714083000 +0000" stop="20260714090000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714090000 +0000" stop="20260714093000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714093000 +0000" stop="20260714100000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714100000 +0000" stop="20260714103000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714103000 +0000" stop="20260714104500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
+<programme start="20260714104500 +0000" stop="20260714110000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News</title>
+</programme>
+<programme start="20260714110000 +0000" stop="20260714113000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260714113000 +0000" stop="20260714120000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260714120000 +0000" stop="20260714123000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260714123000 +0000" stop="20260714130000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260714130000 +0000" stop="20260714133000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260714133000 +0000" stop="20260714134500 +0000" channel="BBC World News.mncvision">
+    <title>Business Today: NYSE</title>
+</programme>
+<programme start="20260714134500 +0000" stop="20260714140000 +0000" channel="BBC World News.mncvision">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20260714140000 +0000" stop="20260714143000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20260714143000 +0000" stop="20260714150000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20260714150000 +0000" stop="20260714153000 +0000" channel="BBC World News.mncvision">
+    <title>Verified Live</title>
+</programme>
+<programme start="20260714153000 +0000" stop="20260714160000 +0000" channel="BBC World News.mncvision">
+    <title>Business Today</title>
+</programme>
 <programme start="20260713183000 +0000" stop="20260713192000 +0000" channel="beIN Sports 1.mncvision">
     <title>Formula 4 Italian C&#039;ship 2026</title>
 </programme>
@@ -3628,9 +3922,198 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260714045000 +0000" stop="20260714052000 +0000" channel="France 24 English.mncvision">
     <title>Introduction (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260713183500 +0000" stop="20260713202500 +0000" channel="Galaxy.mncvision">
+    <title>Any Bullet Will Do</title>
+</programme>
+<programme start="20260713202500 +0000" stop="20260713215500 +0000" channel="Galaxy.mncvision">
+    <title>The Curse Of Sleeping Beauty</title>
+</programme>
+<programme start="20260713215500 +0000" stop="20260713232500 +0000" channel="Galaxy.mncvision">
+    <title>Wicked Games</title>
+</programme>
+<programme start="20260713232500 +0000" stop="20260714010500 +0000" channel="Galaxy.mncvision">
+    <title>The Canyons</title>
+</programme>
+<programme start="20260714010500 +0000" stop="20260714024000 +0000" channel="Galaxy.mncvision">
+    <title>Armed Response</title>
+</programme>
+<programme start="20260714024000 +0000" stop="20260714041500 +0000" channel="Galaxy.mncvision">
+    <title>Hunting Games</title>
+</programme>
+<programme start="20260714041500 +0000" stop="20260714055500 +0000" channel="Galaxy.mncvision">
+    <title>Murder Syndicate</title>
+</programme>
+<programme start="20260714055500 +0000" stop="20260714071500 +0000" channel="Galaxy.mncvision">
+    <title>The Killing Of K. Chamberlain</title>
+</programme>
+<programme start="20260714071500 +0000" stop="20260714085000 +0000" channel="Galaxy.mncvision">
+    <title>Spread</title>
+</programme>
+<programme start="20260714085000 +0000" stop="20260714102500 +0000" channel="Galaxy.mncvision">
+    <title>Revival</title>
+</programme>
+<programme start="20260714102500 +0000" stop="20260714120000 +0000" channel="Galaxy.mncvision">
+    <title>The Last Son</title>
+</programme>
+<programme start="20260714120000 +0000" stop="20260714140000 +0000" channel="Galaxy.mncvision">
+    <title>Crisis</title>
+</programme>
+<programme start="20260714140000 +0000" stop="20260714154500 +0000" channel="Galaxy.mncvision">
+    <title>Play Dead</title>
+</programme>
+<programme start="20260714154500 +0000" stop="20260714161500 +0000" channel="Galaxy.mncvision">
+    <title>A Street Cat Named Bob</title>
+</programme>
+<programme start="20260713182500 +0000" stop="20260713195500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Holmes And Watson</title>
+</programme>
+<programme start="20260713195500 +0000" stop="20260713213500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Envy</title>
+</programme>
+<programme start="20260713213500 +0000" stop="20260713231500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Rough Night</title>
+</programme>
+<programme start="20260713231500 +0000" stop="20260714005500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Grown Ups</title>
+</programme>
+<programme start="20260714005500 +0000" stop="20260714024000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Obsessed</title>
+</programme>
+<programme start="20260714024000 +0000" stop="20260714040000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Patient Zero</title>
+</programme>
+<programme start="20260714040000 +0000" stop="20260714053000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Zombieland</title>
+</programme>
+<programme start="20260714053000 +0000" stop="20260714065500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Ultraviolet</title>
+</programme>
+<programme start="20260714065500 +0000" stop="20260714085000 +0000" channel="Galaxy Premium.mncvision">
+    <title>The 5th Wave</title>
+</programme>
+<programme start="20260714085000 +0000" stop="20260714103500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Click</title>
+</programme>
+<programme start="20260714103500 +0000" stop="20260714121500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Rundown</title>
+</programme>
+<programme start="20260714121500 +0000" stop="20260714140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Men In Black: International</title>
+</programme>
+<programme start="20260714140000 +0000" stop="20260714155500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Chappie</title>
+</programme>
+<programme start="20260714155500 +0000" stop="20260714162500 +0000" channel="Galaxy Premium.mncvision">
+    <title>A Perfect Getaway</title>
+</programme>
+<programme start="20260713170000 +0000" stop="20260713174500 +0000" channel="Global Trekker.mncvision">
+    <title>Aerial Italy, Ep 3</title>
+</programme>
+<programme start="20260713174500 +0000" stop="20260713183000 +0000" channel="Global Trekker.mncvision">
+    <title>Aerial Italy, Ep 4</title>
+</programme>
+<programme start="20260713183000 +0000" stop="20260713192000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 6</title>
+</programme>
+<programme start="20260713192000 +0000" stop="20260713201000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 7</title>
+</programme>
+<programme start="20260713201000 +0000" stop="20260713210500 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 8</title>
+</programme>
+<programme start="20260713210500 +0000" stop="20260713220000 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 9</title>
+</programme>
+<programme start="20260713220000 +0000" stop="20260713225500 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 10</title>
+</programme>
+<programme start="20260713225500 +0000" stop="20260713232000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 1</title>
+</programme>
+<programme start="20260713232000 +0000" stop="20260713234500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 2</title>
+</programme>
+<programme start="20260713234500 +0000" stop="20260714001000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 3</title>
+</programme>
+<programme start="20260714001000 +0000" stop="20260714003500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Heroes, Ep 4</title>
+</programme>
+<programme start="20260714003500 +0000" stop="20260714012500 +0000" channel="Global Trekker.mncvision">
+    <title>Wildest Survival, Ep 10</title>
+</programme>
+<programme start="20260714012500 +0000" stop="20260714015500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Warrior Encounters, Ep 3</title>
+</programme>
+<programme start="20260714015500 +0000" stop="20260714022500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Warrior Encounters, Ep 4</title>
+</programme>
+<programme start="20260714022500 +0000" stop="20260714025000 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Warrior Encounters, Ep 5</title>
+</programme>
+<programme start="20260714025000 +0000" stop="20260714031500 +0000" channel="Global Trekker.mncvision">
+    <title>Wild Warrior Encounters, Ep 6</title>
+</programme>
+<programme start="20260714031500 +0000" stop="20260714040500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Myanmar</title>
+</programme>
+<programme start="20260714040500 +0000" stop="20260714043500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour Japan, Ep 3</title>
+</programme>
+<programme start="20260714043500 +0000" stop="20260714050500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour Japan, Ep 4</title>
+</programme>
+<programme start="20260714050500 +0000" stop="20260714053500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour Japan, Ep 5</title>
+</programme>
+<programme start="20260714053500 +0000" stop="20260714060500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour Japan, Ep 6</title>
+</programme>
+<programme start="20260714060500 +0000" stop="20260714063500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour Japan, Ep 7</title>
+</programme>
+<programme start="20260714063500 +0000" stop="20260714070500 +0000" channel="Global Trekker.mncvision">
+    <title>Destination Flavour Japan, Ep 8</title>
+</programme>
+<programme start="20260714070500 +0000" stop="20260714075500 +0000" channel="Global Trekker.mncvision">
+    <title>The Moviemakers, Ep 2</title>
+</programme>
+<programme start="20260714075500 +0000" stop="20260714085000 +0000" channel="Global Trekker.mncvision">
+    <title>The Moviemakers, Ep 3</title>
+</programme>
+<programme start="20260714085000 +0000" stop="20260714093500 +0000" channel="Global Trekker.mncvision">
+    <title>The Moviemakers, Ep 4</title>
+</programme>
+<programme start="20260714093500 +0000" stop="20260714102000 +0000" channel="Global Trekker.mncvision">
+    <title>Atlantic: In The Wild, Ep 4</title>
+</programme>
+<programme start="20260714102000 +0000" stop="20260714112000 +0000" channel="Global Trekker.mncvision">
+    <title>Naledi: A Baby Elephant&#039;s Tale</title>
+</programme>
+<programme start="20260714112000 +0000" stop="20260714121000 +0000" channel="Global Trekker.mncvision">
+    <title>Islands Of Creation</title>
+</programme>
+<programme start="20260714121000 +0000" stop="20260714130000 +0000" channel="Global Trekker.mncvision">
+    <title>Destination China: Yunnan, Ep 1</title>
+</programme>
+<programme start="20260714130000 +0000" stop="20260714135000 +0000" channel="Global Trekker.mncvision">
+    <title>Destination China: Yunnan, Ep 2</title>
+</programme>
+<programme start="20260714135000 +0000" stop="20260714143500 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 1</title>
+</programme>
+<programme start="20260714143500 +0000" stop="20260714160500 +0000" channel="Global Trekker.mncvision">
+    <title>Gameplay: Story Of Videogame</title>
+</programme>
+<programme start="20260714160500 +0000" stop="20260714163000 +0000" channel="Global Trekker.mncvision">
+    <title>WTF Is Crypto?, Ep 1</title>
+</programme>
+<programme start="20260714163000 +0000" stop="20260714165500 +0000" channel="Global Trekker.mncvision">
+    <title>WTF Is Crypto?, Ep 2</title>
+</programme>
+<programme start="20260714165500 +0000" stop="20260713172500 +0000" channel="Global Trekker.mncvision">
+    <title>WTF Is Crypto?, Ep 3</title>
+</programme>
 <programme start="20260713170000 +0000" stop="20260713174500 +0000" channel="Global Trekker HD.mncvision">
     <title>Aerial Italy, Ep 3</title>
 </programme>
@@ -3739,8 +4222,102 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260714165500 +0000" stop="20260713172500 +0000" channel="Global Trekker HD.mncvision">
     <title>WTF Is Crypto?, Ep 3</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260713183000 +0000" stop="20260713190000 +0000" channel="GTV.mncvision">
+    <title>Ragam Cerita</title>
+</programme>
+<programme start="20260713190000 +0000" stop="20260713210000 +0000" channel="GTV.mncvision">
+    <title>Ragam Cerita</title>
+</programme>
+<programme start="20260713210000 +0000" stop="20260713230000 +0000" channel="GTV.mncvision">
+    <title>Petualangan Fantasi</title>
+</programme>
+<programme start="20260713230000 +0000" stop="20260714000000 +0000" channel="GTV.mncvision">
+    <title>Legenda</title>
+</programme>
+<programme start="20260714000000 +0000" stop="20260714020000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714020000 +0000" stop="20260714023000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260714023000 +0000" stop="20260714030000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260714030000 +0000" stop="20260714050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714050000 +0000" stop="20260714073000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714073000 +0000" stop="20260714090000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714090000 +0000" stop="20260714110000 +0000" channel="GTV.mncvision">
+    <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260714110000 +0000" stop="20260714120000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714120000 +0000" stop="20260714133000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260714133000 +0000" stop="20260714153000 +0000" channel="GTV.mncvision">
+    <title>Snake Island Python</title>
+</programme>
+<programme start="20260714153000 +0000" stop="20260714163000 +0000" channel="GTV.mncvision">
+    <title>The Big Conspiration</title>
+</programme>
+<programme start="20260714163000 +0000" stop="20260713170000 +0000" channel="GTV.mncvision">
+    <title>1001 Kisah</title>
+</programme>
+<programme start="20260713183000 +0000" stop="20260713190000 +0000" channel="GTV HD.mncvision">
+    <title>Ragam Cerita</title>
+</programme>
+<programme start="20260713190000 +0000" stop="20260713210000 +0000" channel="GTV HD.mncvision">
+    <title>Ragam Cerita</title>
+</programme>
+<programme start="20260713210000 +0000" stop="20260713230000 +0000" channel="GTV HD.mncvision">
+    <title>Petualangan Fantasi</title>
+</programme>
+<programme start="20260713230000 +0000" stop="20260714000000 +0000" channel="GTV HD.mncvision">
+    <title>Legenda</title>
+</programme>
+<programme start="20260714000000 +0000" stop="20260714020000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714020000 +0000" stop="20260714023000 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260714023000 +0000" stop="20260714030000 +0000" channel="GTV HD.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260714030000 +0000" stop="20260714050000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714050000 +0000" stop="20260714073000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714073000 +0000" stop="20260714090000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714090000 +0000" stop="20260714110000 +0000" channel="GTV HD.mncvision">
+    <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260714110000 +0000" stop="20260714120000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260714120000 +0000" stop="20260714133000 +0000" channel="GTV HD.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260714133000 +0000" stop="20260714153000 +0000" channel="GTV HD.mncvision">
+    <title>Snake Island Python</title>
+</programme>
+<programme start="20260714153000 +0000" stop="20260714163000 +0000" channel="GTV HD.mncvision">
+    <title>The Big Conspiration</title>
+</programme>
+<programme start="20260714163000 +0000" stop="20260713170000 +0000" channel="GTV HD.mncvision">
+    <title>1001 Kisah</title>
+</programme>
 <programme start="20260713173000 +0000" stop="20260713180000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Dagelan Jowo New</title>
 </programme>
@@ -4002,7 +4579,39 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260714163000 +0000" stop="20260713170000 +0000" channel="HITS.mncvision">
     <title>Frasier S6, Ep 5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260713183000 +0000" stop="20260713203000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Epic Movie</title>
+</programme>
+<programme start="20260713203000 +0000" stop="20260713230000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Vertigo</title>
+</programme>
+<programme start="20260713230000 +0000" stop="20260714010000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Grown Ups</title>
+</programme>
+<programme start="20260714010000 +0000" stop="20260714031500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Love &amp; Other Drugs</title>
+</programme>
+<programme start="20260714031500 +0000" stop="20260714051500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Epic Movie</title>
+</programme>
+<programme start="20260714051500 +0000" stop="20260714074500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Vertigo</title>
+</programme>
+<programme start="20260714074500 +0000" stop="20260714094500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Grown Ups</title>
+</programme>
+<programme start="20260714094500 +0000" stop="20260714120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Specialist</title>
+</programme>
+<programme start="20260714120000 +0000" stop="20260714141500 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Big Boss</title>
+</programme>
+<programme start="20260714141500 +0000" stop="20260714161500 +0000" channel="HITS MOVIES.mncvision">
+    <title>I Am Legend</title>
+</programme>
+<programme start="20260714161500 +0000" stop="20260714164500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Love &amp; Other Drugs</title>
+</programme>
 <programme start="20260713183000 +0000" stop="20260713203000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Epic Movie</title>
 </programme>
@@ -6946,7 +7555,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260714160000 +0000" stop="20260714163000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Secrets Of Great White Shark</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260713171500 +0000" stop="20260713183000 +0000" channel="RCTI.mncvision">
+    <title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260713183000 +0000" stop="20260713190000 +0000" channel="RCTI.mncvision">
+    <title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260713190000 +0000" stop="20260713200000 +0000" channel="RCTI.mncvision">
+    <title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260713200000 +0000" stop="20260713211500 +0000" channel="RCTI.mncvision">
+    <title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260713211500 +0000" stop="20260713223000 +0000" channel="RCTI.mncvision">
+    <title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260713223000 +0000" stop="20260713230000 +0000" channel="RCTI.mncvision">
+    <title>Seputar iNews</title>
+</programme>
+<programme start="20260713230000 +0000" stop="20260714010000 +0000" channel="RCTI.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260714010000 +0000" stop="20260714024500 +0000" channel="RCTI.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20260714024500 +0000" stop="20260714040000 +0000" channel="RCTI.mncvision">
+    <title>Terlanjur Mencintaimu</title>
+</programme>
+<programme start="20260714040000 +0000" stop="20260714043000 +0000" channel="RCTI.mncvision">
+    <title>Go Spot Eksklusif</title>
+</programme>
+<programme start="20260714043000 +0000" stop="20260714063000 +0000" channel="RCTI.mncvision">
+    <title>Terikat Janji Selamanya</title>
+</programme>
+<programme start="20260714063000 +0000" stop="20260714080000 +0000" channel="RCTI.mncvision">
+    <title>Ikatan Cinta Aldebaran &amp; Andin</title>
+</programme>
+<programme start="20260714080000 +0000" stop="20260714103000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun Deui</title>
+</programme>
+<programme start="20260714103000 +0000" stop="20260714120000 +0000" channel="RCTI.mncvision">
+    <title>Tobat Jatuh Cinta</title>
+</programme>
+<programme start="20260714120000 +0000" stop="20260714133000 +0000" channel="RCTI.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260714133000 +0000" stop="20260714144500 +0000" channel="RCTI.mncvision">
+    <title>Terlanjur Mencintaimu</title>
+</programme>
+<programme start="20260714144500 +0000" stop="20260714160000 +0000" channel="RCTI.mncvision">
+    <title>Pengantin Pengganti</title>
+</programme>
+<programme start="20260714160000 +0000" stop="20260714163000 +0000" channel="RCTI.mncvision">
+    <title>Semua Indah Karena Cinta</title>
+</programme>
 <programme start="20260713171500 +0000" stop="20260713183000 +0000" channel="RCTI HD.mncvision">
     <title>Mega Film TV Malam</title>
 </programme>
@@ -7247,8 +7909,78 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260714160000 +0000" stop="20260714163000 +0000" channel="SCTV HD.mncvision">
     <title>Bumbu Cinta Diracik Rasa...</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260713170000 +0000" stop="20260713180000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20260713180000 +0000" stop="20260713183000 +0000" channel="Sindo News TV.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260713183000 +0000" stop="20260713200000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Breaking News</title>
+</programme>
+<programme start="20260713200000 +0000" stop="20260713210000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20260713210000 +0000" stop="20260713220000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20260713220000 +0000" stop="20260713230000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20260713230000 +0000" stop="20260714000000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260714000000 +0000" stop="20260714003000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Today</title>
+</programme>
+<programme start="20260714003000 +0000" stop="20260714020000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Today</title>
+</programme>
+<programme start="20260714020000 +0000" stop="20260714030000 +0000" channel="Sindo News TV.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260714030000 +0000" stop="20260714033000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Sport Pagi</title>
+</programme>
+<programme start="20260714033000 +0000" stop="20260714050000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Siang</title>
+</programme>
+<programme start="20260714050000 +0000" stop="20260714053000 +0000" channel="Sindo News TV.mncvision">
+    <title>Lintas iNews Siang</title>
+</programme>
+<programme start="20260714053000 +0000" stop="20260714063000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Today</title>
+</programme>
+<programme start="20260714063000 +0000" stop="20260714070000 +0000" channel="Sindo News TV.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260714070000 +0000" stop="20260714083000 +0000" channel="Sindo News TV.mncvision">
+    <title>iNews Siang</title>
+</programme>
+<programme start="20260714083000 +0000" stop="20260714093000 +0000" channel="Sindo News TV.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260714093000 +0000" stop="20260714110000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20260714110000 +0000" stop="20260714120000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260714120000 +0000" stop="20260714133000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Prime</title>
+</programme>
+<programme start="20260714133000 +0000" stop="20260714143000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20260714143000 +0000" stop="20260714153000 +0000" channel="Sindo News TV.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260714153000 +0000" stop="20260714163000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260714163000 +0000" stop="20260713170000 +0000" channel="Sindo News TV.mncvision">
+    <title>OMG</title>
+</programme>
 <programme start="20260713170000 +0000" stop="20260713180000 +0000" channel="Sindo News TV HD.mncvision">
     <title>iNews Sore</title>
 </programme>

@@ -142,9 +142,6 @@
 <programme start="20260714160000 +0000" stop="20260714180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260713160000 +0000" stop="20260713191500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -QF - Argentina vs Switzerland</title>
-</programme>
 <programme start="20260713191500 +0000" stop="20260713213000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -QF - France vs Morocco</title>
 </programme>

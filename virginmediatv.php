@@ -3967,8 +3967,17 @@
 <programme start="20260713050000 +0000" stop="20260713060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260713093000 +0000" stop="20260713173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260713093000 +0000" stop="20260713121500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Women&#039;s Test Cricket - One-Off Test, Day 4: England v India</title>
+</programme>
+<programme start="20260713121500 +0000" stop="20260713130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260713130000 +0000" stop="20260713170000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>The Open Championship: Live at the Range</title>
+</programme>
+<programme start="20260713170000 +0000" stop="20260713173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260713173000 +0000" stop="20260713180000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
@@ -4807,8 +4816,17 @@
 <programme start="20260713050000 +0000" stop="20260713060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260713093000 +0000" stop="20260713173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260713093000 +0000" stop="20260713121500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Women&#039;s Test Cricket - One-Off Test, Day 4: England v India</title>
+</programme>
+<programme start="20260713121500 +0000" stop="20260713130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260713130000 +0000" stop="20260713170000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>The Open Championship: Live at the Range</title>
+</programme>
+<programme start="20260713170000 +0000" stop="20260713173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
 </programme>
 <programme start="20260713173000 +0000" stop="20260713180000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
@@ -6538,7 +6556,10 @@
 <programme start="20260712175800 +0000" stop="20260713015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260713015800 +0000" stop="20260713060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260713015800 +0000" stop="20260713050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260713050000 +0000" stop="20260713060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260713115500 +0000" stop="20260713120500 +0000" channel="CBBC.virginmediatv">
