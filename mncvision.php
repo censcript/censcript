@@ -7646,7 +7646,7 @@
     <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20260713144500 +0000" stop="20260713160000 +0000" channel="RCTI.mncvision">
-    <title>3 Hati 1 Cinta</title>
+    <title>Mertua Red Flag</title>
 </programme>
 <programme start="20260713160000 +0000" stop="20260713163000 +0000" channel="RCTI.mncvision">
     <title>Semua Indah Karena Cinta</title>
@@ -7700,7 +7700,7 @@
     <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20260713144500 +0000" stop="20260713160000 +0000" channel="RCTI HD.mncvision">
-    <title>3 Hati 1 Cinta</title>
+    <title>Mertua Red Flag</title>
 </programme>
 <programme start="20260713160000 +0000" stop="20260713163000 +0000" channel="RCTI HD.mncvision">
     <title>Semua Indah Karena Cinta</title>

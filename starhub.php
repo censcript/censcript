@@ -2048,7 +2048,7 @@
         <title>World Rugby Junior World C&#039;ships 2026: England vs USA</title>
     </programme>
     <programme start="20260713030000 +0000" stop="20260713043000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best of RG 2026: Mixed Doubles Final Errani/Vavassori/ v Dabrowski/King</title>
+        <title>Best of RG 2026: Mixed Doubles Final Errani/Vavassori/v Dabrowski/King</title>
     </programme>
     <programme start="20260713043000 +0000" stop="20260713050000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: France vs New Zealand - Cup Final, Bordeaux - Men</title>
@@ -7924,7 +7924,7 @@
     <programme start="20260713140300 +0000" stop="20260713142800 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260713142800 +0000" stop="20260713160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260713142800 +0000" stop="20260713170000 +0000" channel="Dragon TV.starhub">
         <title>Overtime No More</title>
     </programme>
     <programme start="20260712160000 +0000" stop="20260712163000 +0000" channel="Travelxp HD.starhub">

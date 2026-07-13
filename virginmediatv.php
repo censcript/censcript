@@ -59,7 +59,7 @@
     <title>Fair City</title>
 </programme>
 <programme start="20260713140000 +0000" stop="20260713144000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Fair City</title>
+    <title>Fair City - Episode 85</title>
 </programme>
 <programme start="20260713144000 +0000" stop="20260713154000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>MasterChef Australia</title>
@@ -353,7 +353,7 @@
     <title>Fair City</title>
 </programme>
 <programme start="20260713150000 +0000" stop="20260713154000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Fair City</title>
+    <title>Fair City - Episode 85</title>
 </programme>
 <programme start="20260713154000 +0000" stop="20260713164000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>MasterChef Australia</title>
@@ -3961,7 +3961,10 @@
 <programme start="20260713003000 +0000" stop="20260713043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - Texas Super Kings v Los Angeles Knight Riders</title>
 </programme>
-<programme start="20260713043000 +0000" stop="20260713060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260713043000 +0000" stop="20260713050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260713050000 +0000" stop="20260713060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260713093000 +0000" stop="20260713173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4112,7 +4115,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260713044500 +0000" stop="20260713050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC T20 World Cup - 2016: India v Australia</title>
+    <title>ICC T20 World Cup - 2016: India v Bangladesh</title>
 </programme>
 <programme start="20260713050000 +0000" stop="20260713060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Women&#039;s Test Cricket - One-Off Test, Day 3: England v India</title>
@@ -4774,7 +4777,10 @@
 <programme start="20260713003000 +0000" stop="20260713043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - Texas Super Kings v Los Angeles Knight Riders</title>
 </programme>
-<programme start="20260713043000 +0000" stop="20260713060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260713043000 +0000" stop="20260713050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260713050000 +0000" stop="20260713060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260713093000 +0000" stop="20260713173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4922,7 +4928,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260713044500 +0000" stop="20260713050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC T20 World Cup - 2016: India v Australia</title>
+    <title>ICC T20 World Cup - 2016: India v Bangladesh</title>
 </programme>
 <programme start="20260713050000 +0000" stop="20260713060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Women&#039;s Test Cricket - One-Off Test, Day 3: England v India</title>
