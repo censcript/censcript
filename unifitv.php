@@ -10159,26 +10159,19 @@
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260714140000 +0000" stop="20260714150000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Go Where Hunan Abounds</title>
+  <programme start="20260714140000 +0000" stop="20260714150500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Go Where Flavors Of Hunan Abound</title>
     <desc lang="en">In Hengyang, the focus is on savory snacks and the city's famous spicy braised and stir-fried foods.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">2.10.</episode-num>
     <episode-num system="onscreen">S3E11</episode-num>
   </programme>
-  <programme start="20260714150000 +0000" stop="20260714160000 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20260714150500 +0000" stop="20260714160500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">May's Kitchen</title>
     <desc lang="en">May Yacoubi's most precious memories are from when she's hosting delicious banquets for friends and family. Now, she shares her tasty, diverse and crowd-pleasing recipes.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20260714160000 +0000" stop="20260714165500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Travel With Parents</title>
-    <desc lang="en">With Jiang Han's mom's limited mobility, we decided to embark on a staycation at Andaz Macau, immersing ourselves in a relaxing getaway filled with culinary delights.</desc>
-    <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <channel id="dreamworkshd.unifitv">
     <display-name>DreamWorks HD</display-name>

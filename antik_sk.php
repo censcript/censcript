@@ -1300,13 +1300,13 @@
   <programme start="20260716200500 +0000" stop="20260716221500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260715201000 +0000" stop="20260715224500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260715202000 +0000" stop="20260715225000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260715224500 +0000" stop="20260716000000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260715225000 +0000" stop="20260715231500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Sumár dňa MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260716000000 +0000" stop="20260716015000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260715231500 +0000" stop="20260716015000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260716015000 +0000" stop="20260716034500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -3358,10 +3358,10 @@
   <programme start="20260716062000 +0000" stop="20260716062100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Divoké historky ze savany (1/3)</title>
   </programme>
-  <programme start="20260716062100 +0000" stop="20260716071700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260716062100 +0000" stop="20260716071600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Místo iReportéra</title>
   </programme>
-  <programme start="20260716071700 +0000" stop="20260716091500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260716071600 +0000" stop="20260716091500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Bukanýr</title>
   </programme>
   <programme start="20260716091500 +0000" stop="20260716100000 +0000" channel="ČT2.webtv.sk">
@@ -3373,16 +3373,16 @@
   <programme start="20260716103000 +0000" stop="20260716105600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krajinou vína po Slovensku (2/6)</title>
   </programme>
-  <programme start="20260716105600 +0000" stop="20260716110300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260716105600 +0000" stop="20260716110200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Postřehy odjinud</title>
   </programme>
-  <programme start="20260716110300 +0000" stop="20260716115600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260716110200 +0000" stop="20260716115600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vzestup a pád nacistů (4/10)</title>
   </programme>
-  <programme start="20260716115600 +0000" stop="20260716124500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260716115600 +0000" stop="20260716124600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Život válečníka</title>
   </programme>
-  <programme start="20260716124500 +0000" stop="20260716133500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260716124600 +0000" stop="20260716133500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Stavba nejluxusnější výletní lodě na světě</title>
   </programme>
   <programme start="20260716133500 +0000" stop="20260716142500 +0000" channel="ČT2.webtv.sk">
@@ -3607,10 +3607,10 @@
   <programme start="20260716013500 +0000" stop="20260716020200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Divadlo žije!</title>
   </programme>
-  <programme start="20260716020200 +0000" stop="20260716021700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260716020200 +0000" stop="20260716021600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Čtenářský deník</title>
   </programme>
-  <programme start="20260716021700 +0000" stop="20260716024500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260716021600 +0000" stop="20260716024500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Uchem jehly</title>
   </programme>
   <programme start="20260716024500 +0000" stop="20260716031000 +0000" channel="ČT :D - ČT art.webtv.sk">

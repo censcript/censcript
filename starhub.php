@@ -3590,7 +3590,7 @@
         <title>Welcome To Halloween</title>
     </programme>
     <programme start="20260714131500 +0000" stop="20260714141500 +0000" channel="Cartoon Network.starhub">
-        <title>Escandalosos/The Mall/Tabes &amp; Charlie/Christmas Movies/Adopted</title>
+        <title>Escandalosos/The Mall/Tabes And Charlie/Christmas Movies/Adopted</title>
     </programme>
     <programme start="20260714141500 +0000" stop="20260714151500 +0000" channel="Cartoon Network.starhub">
         <title>King Worm/Who Would Win/Lady &amp; Peebles/You Made Me/The Hard Easy</title>

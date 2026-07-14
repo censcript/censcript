@@ -7819,34 +7819,34 @@
 <programme start="20260714013000 +0000" stop="20260714030000 +0000" channel="SCTV.mncvision">
     <title>Mas Car Wash Tydak Ramah</title>
 </programme>
-<programme start="20260714030000 +0000" stop="20260714050000 +0000" channel="SCTV.mncvision">
+<programme start="20260714030000 +0000" stop="20260714045400 +0000" channel="SCTV.mncvision">
     <title>Goyang Cendol Mantap Jiwa</title>
 </programme>
-<programme start="20260714050000 +0000" stop="20260714053000 +0000" channel="SCTV.mncvision">
+<programme start="20260714045400 +0000" stop="20260714052700 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260714053000 +0000" stop="20260714070000 +0000" channel="SCTV.mncvision">
+<programme start="20260714052700 +0000" stop="20260714070000 +0000" channel="SCTV.mncvision">
     <title>Duda Tamvan Jadi Rebutan</title>
 </programme>
-<programme start="20260714070000 +0000" stop="20260714083000 +0000" channel="SCTV.mncvision">
-    <title>Kuli Panggul Cintanya Mantul</title>
+<programme start="20260714070000 +0000" stop="20260714083200 +0000" channel="SCTV.mncvision">
+    <title>Jual Tanah Demi Pansos</title>
 </programme>
-<programme start="20260714083000 +0000" stop="20260714101500 +0000" channel="SCTV.mncvision">
-    <title>Amnesia Dulu Jatuh Cinta...</title>
+<programme start="20260714083200 +0000" stop="20260714100500 +0000" channel="SCTV.mncvision">
+    <title>Ratu Tutut Si Miss Halu</title>
 </programme>
-<programme start="20260714101500 +0000" stop="20260714114500 +0000" channel="SCTV.mncvision">
+<programme start="20260714100500 +0000" stop="20260714114700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260714114500 +0000" stop="20260714131500 +0000" channel="SCTV.mncvision">
+<programme start="20260714114700 +0000" stop="20260714131500 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260714131500 +0000" stop="20260714143000 +0000" channel="SCTV.mncvision">
+<programme start="20260714131500 +0000" stop="20260714143600 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260714143000 +0000" stop="20260714160000 +0000" channel="SCTV.mncvision">
+<programme start="20260714143600 +0000" stop="20260714160700 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260714160000 +0000" stop="20260714163000 +0000" channel="SCTV.mncvision">
+<programme start="20260714160700 +0000" stop="20260714163700 +0000" channel="SCTV.mncvision">
     <title>Bumbu Cinta Diracik Rasa...</title>
 </programme>
 <programme start="20260713172900 +0000" stop="20260713184500 +0000" channel="SCTV HD.mncvision">
@@ -7879,34 +7879,34 @@
 <programme start="20260714013000 +0000" stop="20260714030000 +0000" channel="SCTV HD.mncvision">
     <title>Mas Car Wash Tydak Ramah</title>
 </programme>
-<programme start="20260714030000 +0000" stop="20260714050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260714030000 +0000" stop="20260714045400 +0000" channel="SCTV HD.mncvision">
     <title>Goyang Cendol Mantap Jiwa</title>
 </programme>
-<programme start="20260714050000 +0000" stop="20260714053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260714045400 +0000" stop="20260714052700 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260714053000 +0000" stop="20260714070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260714052700 +0000" stop="20260714070000 +0000" channel="SCTV HD.mncvision">
     <title>Duda Tamvan Jadi Rebutan</title>
 </programme>
-<programme start="20260714070000 +0000" stop="20260714083000 +0000" channel="SCTV HD.mncvision">
-    <title>Kuli Panggul Cintanya Mantul</title>
+<programme start="20260714070000 +0000" stop="20260714083200 +0000" channel="SCTV HD.mncvision">
+    <title>Jual Tanah Demi Pansos</title>
 </programme>
-<programme start="20260714083000 +0000" stop="20260714101500 +0000" channel="SCTV HD.mncvision">
-    <title>Amnesia Dulu Jatuh Cinta...</title>
+<programme start="20260714083200 +0000" stop="20260714100500 +0000" channel="SCTV HD.mncvision">
+    <title>Ratu Tutut Si Miss Halu</title>
 </programme>
-<programme start="20260714101500 +0000" stop="20260714114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260714100500 +0000" stop="20260714114700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260714114500 +0000" stop="20260714131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260714114700 +0000" stop="20260714131500 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260714131500 +0000" stop="20260714143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260714131500 +0000" stop="20260714143600 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260714143000 +0000" stop="20260714160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260714143600 +0000" stop="20260714160700 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260714160000 +0000" stop="20260714163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260714160700 +0000" stop="20260714163700 +0000" channel="SCTV HD.mncvision">
     <title>Bumbu Cinta Diracik Rasa...</title>
 </programme>
 <programme start="20260713170000 +0000" stop="20260713180000 +0000" channel="Sindo News TV.mncvision">
