@@ -142,10 +142,10 @@
 <programme start="20260714001000 +0000" stop="20260714011500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Love Island</title>
 </programme>
-<programme start="20260714011500 +0000" stop="20260714013800 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260714011500 +0000" stop="20260714013700 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Jann - Lost and Found</title>
 </programme>
-<programme start="20260714013800 +0000" stop="20260714060500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260714013700 +0000" stop="20260714060500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260714120000 +0000" stop="20260714123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
