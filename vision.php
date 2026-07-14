@@ -658,6 +658,12 @@
 <programme start="20260713223000 +0000" stop="20260714003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
+<programme start="20260714003000 +0000" stop="20260714023000 +0000" channel="ANTV.vision">
+<title>Cakar Harimau</title>
+</programme>
+<programme start="20260714023000 +0000" stop="20260714060000 +0000" channel="ANTV.vision">
+<title>Hanu Man</title>
+</programme>
 <programme start="20260714060000 +0000" stop="20260714073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260715083000 +0000" stop="20260715090000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260715090000 +0000" stop="20260715090500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260715090500 +0000" stop="20260715100000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
 </programme>
