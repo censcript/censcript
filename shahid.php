@@ -1720,6 +1720,87 @@
     <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260714000000 +0000" stop="20260714060000 +0000" channel="1003218.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714060000 +0000" stop="20260714065900 +0000" channel="1003218.shahid">
+        <title>Market Open</title>
+    </programme>
+    <programme start="20260714065900 +0000" stop="20260714080000 +0000" channel="1003218.shahid">
+        <title>Market Pulse</title>
+    </programme>
+    <programme start="20260714080000 +0000" stop="20260714090000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 1</title>
+    </programme>
+    <programme start="20260714090000 +0000" stop="20260714100000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 2</title>
+    </programme>
+    <programme start="20260714100000 +0000" stop="20260714110000 +0000" channel="1003218.shahid">
+        <title>Power Lunch</title>
+    </programme>
+    <programme start="20260714110000 +0000" stop="20260714113000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 3</title>
+    </programme>
+    <programme start="20260714113000 +0000" stop="20260714130000 +0000" channel="1003218.shahid">
+        <title>Closing Bell</title>
+    </programme>
+    <programme start="20260714130000 +0000" stop="20260714140000 +0000" channel="1003218.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260714140000 +0000" stop="20260714150000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 4</title>
+    </programme>
+    <programme start="20260714150000 +0000" stop="20260714160000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 5</title>
+    </programme>
+    <programme start="20260714160000 +0000" stop="20260714160500 +0000" channel="1003218.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260714160500 +0000" stop="20260715060000 +0000" channel="1003218.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260715060000 +0000" stop="20260715065900 +0000" channel="1003218.shahid">
+        <title>Market Open</title>
+    </programme>
+    <programme start="20260715065900 +0000" stop="20260715080000 +0000" channel="1003218.shahid">
+        <title>Market Pulse</title>
+    </programme>
+    <programme start="20260715080000 +0000" stop="20260715090000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 1</title>
+    </programme>
+    <programme start="20260715090000 +0000" stop="20260715100000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 2</title>
+    </programme>
+    <programme start="20260715100000 +0000" stop="20260715110000 +0000" channel="1003218.shahid">
+        <title>Power Lunch</title>
+    </programme>
+    <programme start="20260715110000 +0000" stop="20260715113000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 3</title>
+    </programme>
+    <programme start="20260715113000 +0000" stop="20260715130000 +0000" channel="1003218.shahid">
+        <title>Closing Bell</title>
+    </programme>
+    <programme start="20260715130000 +0000" stop="20260715140000 +0000" channel="1003218.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260715140000 +0000" stop="20260715150000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 4</title>
+    </programme>
+    <programme start="20260715150000 +0000" stop="20260715160000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 5</title>
+    </programme>
+    <programme start="20260715160000 +0000" stop="20260715160500 +0000" channel="1003218.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260715160500 +0000" stop="20260715235959 +0000" channel="1003218.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="946942.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="49923264736646.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260714000000 +0000" stop="20260714001240 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 3 Episode 28</title>
     </programme>
@@ -1980,87 +2061,6 @@
     </programme>
     <programme start="20260715234618 +0000" stop="20260715235959 +0000" channel="976272.shahid">
         <title>Al Kabeer Awi Season 6 Episode 24</title>
-    </programme>
-    <programme start="20260714000000 +0000" stop="20260714060000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714060000 +0000" stop="20260714065900 +0000" channel="1003218.shahid">
-        <title>Market Open</title>
-    </programme>
-    <programme start="20260714065900 +0000" stop="20260714080000 +0000" channel="1003218.shahid">
-        <title>Market Pulse</title>
-    </programme>
-    <programme start="20260714080000 +0000" stop="20260714090000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 1</title>
-    </programme>
-    <programme start="20260714090000 +0000" stop="20260714100000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 2</title>
-    </programme>
-    <programme start="20260714100000 +0000" stop="20260714110000 +0000" channel="1003218.shahid">
-        <title>Power Lunch</title>
-    </programme>
-    <programme start="20260714110000 +0000" stop="20260714113000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 3</title>
-    </programme>
-    <programme start="20260714113000 +0000" stop="20260714130000 +0000" channel="1003218.shahid">
-        <title>Closing Bell</title>
-    </programme>
-    <programme start="20260714130000 +0000" stop="20260714140000 +0000" channel="1003218.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260714140000 +0000" stop="20260714150000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 4</title>
-    </programme>
-    <programme start="20260714150000 +0000" stop="20260714160000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 5</title>
-    </programme>
-    <programme start="20260714160000 +0000" stop="20260714160500 +0000" channel="1003218.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260714160500 +0000" stop="20260715060000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260715060000 +0000" stop="20260715065900 +0000" channel="1003218.shahid">
-        <title>Market Open</title>
-    </programme>
-    <programme start="20260715065900 +0000" stop="20260715080000 +0000" channel="1003218.shahid">
-        <title>Market Pulse</title>
-    </programme>
-    <programme start="20260715080000 +0000" stop="20260715090000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 1</title>
-    </programme>
-    <programme start="20260715090000 +0000" stop="20260715100000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 2</title>
-    </programme>
-    <programme start="20260715100000 +0000" stop="20260715110000 +0000" channel="1003218.shahid">
-        <title>Power Lunch</title>
-    </programme>
-    <programme start="20260715110000 +0000" stop="20260715113000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 3</title>
-    </programme>
-    <programme start="20260715113000 +0000" stop="20260715130000 +0000" channel="1003218.shahid">
-        <title>Closing Bell</title>
-    </programme>
-    <programme start="20260715130000 +0000" stop="20260715140000 +0000" channel="1003218.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260715140000 +0000" stop="20260715150000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 4</title>
-    </programme>
-    <programme start="20260715150000 +0000" stop="20260715160000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 5</title>
-    </programme>
-    <programme start="20260715160000 +0000" stop="20260715160500 +0000" channel="1003218.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260715160500 +0000" stop="20260715235959 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="946942.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="49923264736646.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="388566.shahid">
         <title>TV guide is not available</title>
@@ -2763,9 +2763,6 @@
     </programme>
     <programme start="20260715233000 +0000" stop="20260715235959 +0000" channel="387238.shahid">
         <title>Akhi Season 1 Episode 80</title>
-    </programme>
-    <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="946940.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260714000000 +0000" stop="20260714000034 +0000" channel="49923172215352.shahid">
         <title>Sa&#039;altak Habibi</title>
@@ -5037,6 +5034,9 @@
     </programme>
     <programme start="20260715235532 +0000" stop="20260715235959 +0000" channel="49923172215352.shahid">
         <title>Bektoub Esmak Ya Habiby</title>
+    </programme>
+    <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="946940.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260714000000 +0000" stop="20260715235959 +0000" channel="1029746.shahid">
         <title>TV guide is not available</title>

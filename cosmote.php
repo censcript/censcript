@@ -50,10 +50,6 @@
     <title>Football: Rijeka - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260714210000 +0700" stop="20260714230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260714230000 +0700" stop="20260715010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - AC Milan</title>
     <desc>Live: Tidak</desc>
@@ -102,6 +98,10 @@
     <title>Football: Udinese - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260715230000 +0700" stop="20260716010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260714220000 +0700" stop="20260715010000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Dallas Cowboys - Los Angeles Chargers</title>
     <desc>Live: Tidak</desc>
@@ -148,10 +148,6 @@
 </programme>
 <programme start="20260715212000 +0700" stop="20260716003000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: Indianapolis Colts - Jacksonville Jaguars</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260714195000 +0700" stop="20260714221000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Levice</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260714221000 +0700" stop="20260715001000 +0700" channel="COSMOTE Sport 4 HD">
@@ -206,12 +202,8 @@
     <title>Basketball: Bertram Derthona Tortona - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260714211500 +0700" stop="20260714221500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260714221500 +0700" stop="20260714224500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2026</title>
+<programme start="20260715234000 +0700" stop="20260716020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Fenerbahce - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260714224500 +0700" stop="20260715000000 +0700" channel="COSMOTE Sport 5 HD">
@@ -306,9 +298,9 @@
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260714200000 +0700" stop="20260714223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Stefanos Tsitsipas - Ignacio Buse (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260715235500 +0700" stop="20260716005500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260714223000 +0700" stop="20260715010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jaime Faria - Stan Wawrinka (L)</title>
@@ -353,10 +345,6 @@
 <programme start="20260715223000 +0700" stop="20260716010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260714220000 +0700" stop="20260714223000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260714223000 +0700" stop="20260715003500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2026 (L)</title>

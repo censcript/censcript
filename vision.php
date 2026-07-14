@@ -676,6 +676,9 @@
 <programme start="20260714100000 +0000" stop="20260714113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
+<programme start="20260714113000 +0000" stop="20260714133000 +0000" channel="ANTV.vision">
+<title>Air Terjun Pengantin</title>
+</programme>
 <programme start="20260714133000 +0000" stop="20260714150000 +0000" channel="ANTV.vision">
 <title>Ajian Ratu Laut Kidul</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260715083000 +0000" stop="20260715090000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260715090000 +0000" stop="20260715090500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
 </programme>

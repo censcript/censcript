@@ -1928,7 +1928,7 @@
     <title>Bullseye</title>
 </programme>
 <programme start="20260714043000 +0000" stop="20260714050000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye - Bullseye 1</title>
+    <title>Bullseye</title>
 </programme>
 <programme start="20260714050000 +0000" stop="20260714053000 +0000" channel="Challenge.virginmediatv">
     <title>Teleshopping</title>

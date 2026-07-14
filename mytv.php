@@ -109,19 +109,19 @@
     <programme start="20260714153100 +0000" stop="20260714160000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260714160000 +0000" stop="20260714161500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714160000 +0000" stop="20260714161300 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình Công thương: Chế biến sâu sản phẩm nông sản </title>
     </programme>
-    <programme start="20260714161500 +0000" stop="20260714163000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714161300 +0000" stop="20260714162900 +0000" channel="VTV1 HD.mytv">
         <title> Tạp chí Kinh tế cuối tuần </title>
     </programme>
-    <programme start="20260714163000 +0000" stop="20260714170000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714162900 +0000" stop="20260714170000 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20260714170000 +0000" stop="20260714171000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714170000 +0000" stop="20260714170700 +0000" channel="VTV1 HD.mytv">
         <title> Lao động và công đoàn: Nhân lực cho đường sắt cao tốc </title>
     </programme>
-    <programme start="20260714171000 +0000" stop="20260714172000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714170700 +0000" stop="20260714172000 +0000" channel="VTV1 HD.mytv">
         <title> Hành trình vẻ đẹp: Đến Lũng Rì học sự cân bằng </title>
     </programme>
     <programme start="20260714172000 +0000" stop="20260714173000 +0000" channel="VTV1 HD.mytv">
@@ -139,25 +139,25 @@
     <programme start="20260714194000 +0000" stop="20260714195500 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tin </title>
     </programme>
-    <programme start="20260714195500 +0000" stop="20260714200000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714195500 +0000" stop="20260714200300 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Khám phá ẩm thực bên biển Vũng Tàu </title>
     </programme>
-    <programme start="20260714200000 +0000" stop="20260714201000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714200300 +0000" stop="20260714200900 +0000" channel="VTV1 HD.mytv">
         <title> Đảng trong kỷ nguyên mới </title>
     </programme>
-    <programme start="20260714201000 +0000" stop="20260714203000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714200900 +0000" stop="20260714203100 +0000" channel="VTV1 HD.mytv">
         <title> Net Zero - Gửi tương lai </title>
     </programme>
-    <programme start="20260714203000 +0000" stop="20260714205500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714203100 +0000" stop="20260714205300 +0000" channel="VTV1 HD.mytv">
         <title> Hải quan Việt Nam </title>
     </programme>
-    <programme start="20260714205500 +0000" stop="20260714210000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714205300 +0000" stop="20260714205900 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Trời cao nguyên xanh - Tập 7 </title>
     </programme>
-    <programme start="20260714210000 +0000" stop="20260714213000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714205900 +0000" stop="20260714213300 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260714213000 +0000" stop="20260714215500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260714213300 +0000" stop="20260714215500 +0000" channel="VTV1 HD.mytv">
         <title> Việc tử tế </title>
     </programme>
     <programme start="20260714215500 +0000" stop="20260714220000 +0000" channel="VTV1 HD.mytv">
