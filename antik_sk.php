@@ -2848,8 +2848,11 @@
   <programme start="20260716070000 +0000" stop="20260716090000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DOPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20260716090000 +0000" stop="20260716103000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260716090000 +0000" stop="20260716101500 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DECHOVKA O JEDENÁCTÉ</title>
+  </programme>
+  <programme start="20260716101500 +0000" stop="20260716103000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">BYLINKÁRNA</title>
   </programme>
   <programme start="20260716103000 +0000" stop="20260716120000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>

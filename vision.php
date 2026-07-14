@@ -10,10 +10,7 @@
 <programme start="20260714040000 +0000" stop="20260714043000 +0000" channel="RCTI.vision">
 <title>Go Spot Eksklusif</title>
 </programme>
-<programme start="20260714043000 +0000" stop="20260714050000 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
-</programme>
-<programme start="20260714050000 +0000" stop="20260714063000 +0000" channel="RCTI.vision">
+<programme start="20260714043000 +0000" stop="20260714063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
 <programme start="20260714063000 +0000" stop="20260714080000 +0000" channel="RCTI.vision">
@@ -32,7 +29,7 @@
 <title>Terlanjur Mencintaimu (RCTI)</title>
 </programme>
 <programme start="20260714144500 +0000" stop="20260714160000 +0000" channel="RCTI.vision">
-<title>Dari Jalanan Jadi Tunangan</title>
+<title>Pengantin Pengganti</title>
 </programme>
 <programme start="20260714160000 +0000" stop="20260714171500 +0000" channel="RCTI.vision">
 <title>Semua Indah Karena Cinta</title>
@@ -49,8 +46,11 @@
 <programme start="20260714200000 +0000" stop="20260714211500 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260714211500 +0000" stop="20260714230000 +0000" channel="RCTI.vision">
+<programme start="20260714211500 +0000" stop="20260714223000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260714223000 +0000" stop="20260714230000 +0000" channel="RCTI.vision">
+<title>Seputar iNews</title>
 </programme>
 <programme start="20260714230000 +0000" stop="20260715010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
@@ -64,10 +64,7 @@
 <programme start="20260715040000 +0000" stop="20260715043000 +0000" channel="RCTI.vision">
 <title>Go Spot Eksklusif</title>
 </programme>
-<programme start="20260715043000 +0000" stop="20260715050000 +0000" channel="RCTI.vision">
-<title>Seputar iNews Siang</title>
-</programme>
-<programme start="20260715050000 +0000" stop="20260715063000 +0000" channel="RCTI.vision">
+<programme start="20260715043000 +0000" stop="20260715063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
 <programme start="20260715063000 +0000" stop="20260715080000 +0000" channel="RCTI.vision">
@@ -660,12 +657,6 @@
 </programme>
 <programme start="20260713223000 +0000" stop="20260714003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20260714003000 +0000" stop="20260714023000 +0000" channel="ANTV.vision">
-<title>Cakar Harimau</title>
-</programme>
-<programme start="20260714023000 +0000" stop="20260714060000 +0000" channel="ANTV.vision">
-<title>Hanu Man</title>
 </programme>
 <programme start="20260714060000 +0000" stop="20260714073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260715080000 +0000" stop="20260715083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260715083000 +0000" stop="20260715090000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260715090000 +0000" stop="20260715090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260715090500 +0000" stop="20260715100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>

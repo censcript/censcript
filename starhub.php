@@ -2497,18 +2497,6 @@
     <programme start="20260714153500 +0000" stop="20260714163000 +0000" channel="AXN HD.starhub">
         <title>Wolf Pack</title>
     </programme>
-    <programme start="20260713160000 +0000" stop="20260713220000 +0000" channel="ONE HD.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20260713220000 +0000" stop="20260714040000 +0000" channel="ONE HD.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20260714040000 +0000" stop="20260714100000 +0000" channel="ONE HD.starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20260714100000 +0000" stop="20260714160000 +0000" channel="ONE HD.starhub">
-        <title>End Of Transmission</title>
-    </programme>
     <programme start="20260713160000 +0000" stop="20260713163000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
     </programme>
@@ -6963,18 +6951,6 @@
     </programme>
     <programme start="20260714153000 +0000" stop="20260714160000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Journeys in Japan</title>
-    </programme>
-    <programme start="20260713160000 +0000" stop="20260713220000 +0000" channel="ONE (Malay).starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20260713220000 +0000" stop="20260714040000 +0000" channel="ONE (Malay).starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20260714040000 +0000" stop="20260714100000 +0000" channel="ONE (Malay).starhub">
-        <title>End Of Transmission</title>
-    </programme>
-    <programme start="20260714100000 +0000" stop="20260714160000 +0000" channel="ONE (Malay).starhub">
-        <title>End Of Transmission</title>
     </programme>
     <programme start="20260713160000 +0000" stop="20260713163000 +0000" channel="COLORS.starhub">
         <title>Juhi Mui</title>
