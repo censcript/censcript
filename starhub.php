@@ -7346,7 +7346,7 @@
         <title>NRL Tigers v Warriors</title>
     </programme>
     <programme start="20260714043000 +0000" stop="20260714062000 +0000" channel="Premier Sports.starhub">
-        <title>Super League Hull KR v  Wakefield</title>
+        <title>Super League Hull KR v Wakefield</title>
     </programme>
     <programme start="20260714062000 +0000" stop="20260714064000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights Fremantle v Sydney</title>
@@ -7750,16 +7750,16 @@
     <programme start="20260714150000 +0000" stop="20260714160000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2026)</title>
     </programme>
-    <programme start="20260713133000 +0000" stop="20260713163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260713133000 +0000" stop="20260713162000 +0000" channel="Asianet Movies.starhub">
         <title>Ennum Eppozhum</title>
     </programme>
-    <programme start="20260713163000 +0000" stop="20260713193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260713162000 +0000" stop="20260713185000 +0000" channel="Asianet Movies.starhub">
         <title>Jamna Pyari</title>
     </programme>
-    <programme start="20260713193000 +0000" stop="20260713213000 +0000" channel="Asianet Movies.starhub">
-        <title>Mayookham</title>
+    <programme start="20260713185000 +0000" stop="20260713214000 +0000" channel="Asianet Movies.starhub">
+        <title>Mayoogham</title>
     </programme>
-    <programme start="20260713213000 +0000" stop="20260713233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260713214000 +0000" stop="20260713233000 +0000" channel="Asianet Movies.starhub">
         <title>Thaskara Lahala</title>
     </programme>
     <programme start="20260713233000 +0000" stop="20260714013000 +0000" channel="Asianet Movies.starhub">
@@ -7768,10 +7768,10 @@
     <programme start="20260714013000 +0000" stop="20260714043000 +0000" channel="Asianet Movies.starhub">
         <title>Kochi Rajavu</title>
     </programme>
-    <programme start="20260714043000 +0000" stop="20260714073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260714043000 +0000" stop="20260714073500 +0000" channel="Asianet Movies.starhub">
         <title>Sreekrishnapurathe Nakshathrathilakkam</title>
     </programme>
-    <programme start="20260714073000 +0000" stop="20260714103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260714073500 +0000" stop="20260714103000 +0000" channel="Asianet Movies.starhub">
         <title>Porinchu Mariyam Jose</title>
     </programme>
     <programme start="20260714103000 +0000" stop="20260714133000 +0000" channel="Asianet Movies.starhub">

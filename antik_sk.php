@@ -406,11 +406,23 @@
   <programme start="20260716213000 +0000" stop="20260716220000 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy :24</title>
   </programme>
-  <programme start="20260715214000 +0000" stop="20260715233400 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260715214000 +0000" stop="20260715221000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260715233400 +0000" stop="20260716010000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260715221000 +0000" stop="20260715222400 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20260715222400 +0000" stop="20260715234500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Volejbal - Liga národov 2026 - Liga národov 2026 (muži; Osaka): Japonsko - Taliansko</title>
+  </programme>
+  <programme start="20260715234500 +0000" stop="20260715235500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20260715235500 +0000" stop="20260716004500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260716004500 +0000" stop="20260716010000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
   </programme>
   <programme start="20260716010000 +0000" stop="20260716015000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
@@ -4912,8 +4924,14 @@
   <programme start="20260716173000 +0000" stop="20260716180000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">MM Automotive</title>
   </programme>
-  <programme start="20260716180000 +0000" stop="20260716200000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">KF Shkëndija (MKD) - Europa FC (GIB)</title>
+  <programme start="20260716180000 +0000" stop="20260716183000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260716183000 +0000" stop="20260716190000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Topspeed</title>
+  </programme>
+  <programme start="20260716190000 +0000" stop="20260716200000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
   </programme>
   <programme start="20260716200000 +0000" stop="20260716210000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>

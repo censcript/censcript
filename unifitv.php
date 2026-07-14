@@ -5,82 +5,67 @@
   <channel id="fifa1.unifitv">
     <display-name>Unifi FIFA World Cup 2026™ 1</display-name>
   </channel>
-  <programme start="20260713120000 +0000" stop="20260713163000 +0000" channel="fifa1.unifitv">
+  <programme start="20260713140000 +0000" stop="20260713183000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Norway vs England : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260713163000 +0000" stop="20260713170000 +0000" channel="fifa1.unifitv">
+  <programme start="20260713183000 +0000" stop="20260713190000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 9 - Guadalajara : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260713170000 +0000" stop="20260713173000 +0000" channel="fifa1.unifitv">
+  <programme start="20260713190000 +0000" stop="20260713193000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260713173000 +0000" stop="20260713210000 +0000" channel="fifa1.unifitv">
+  <programme start="20260713193000 +0000" stop="20260713230000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Spain vs Belgium : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260713210000 +0000" stop="20260713213000 +0000" channel="fifa1.unifitv">
+  <programme start="20260713230000 +0000" stop="20260713233000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 9 - Guadalajara : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260713213000 +0000" stop="20260713220000 +0000" channel="fifa1.unifitv">
+  <programme start="20260713233000 +0000" stop="20260714000000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260713220000 +0000" stop="20260714020000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714000000 +0000" stop="20260714040000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) France vs Morocco : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714020000 +0000" stop="20260714023000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714040000 +0000" stop="20260714043000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 9 - Guadalajara : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714023000 +0000" stop="20260714030000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260714030000 +0000" stop="20260714073000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714043000 +0000" stop="20260714090000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Norway vs England : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714073000 +0000" stop="20260714080000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 9 - Guadalajara : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260714080000 +0000" stop="20260714083000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714090000 +0000" stop="20260714093000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714083000 +0000" stop="20260714120000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714093000 +0000" stop="20260714130000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) Spain vs Belgium : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714120000 +0000" stop="20260714123000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714130000 +0000" stop="20260714133000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 9 - Guadalajara : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714123000 +0000" stop="20260714130000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 10 - Houston : FIFA World Cup™ 26: Stories From the Cities</title>
-    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260714130000 +0000" stop="20260714170000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714133000 +0000" stop="20260714173000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) France vs Morocco : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
@@ -1564,14 +1549,14 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260713170000 +0000" stop="20260713173000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel Highlights - Cancun P2</title>
-    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260713173000 +0000" stop="20260713190000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260713170000 +0000" stop="20260713183000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Malaga P1 Day 1 Match 7 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260713183000 +0000" stop="20260713190000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Highlights - Cancun P2</title>
+    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260713190000 +0000" stop="20260713200000 +0000" channel="beinsports2.unifitv">
@@ -1712,37 +1697,37 @@
     <desc lang="en">Daily and weekly highlights from the world's oldest and most prestigious annual men's multi-stage road cycling race.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714040000 +0000" stop="20260714041000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCL - Arsenal vs Man Utd (2008/09)</title>
-    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260714041000 +0000" stop="20260714060000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260714040000 +0000" stop="20260714055000 +0000" channel="beinsports3.unifitv">
     <title lang="en">CAF CL - MC Alger vs Saint-Eloi Lupopo</title>
     <desc lang="en">Watch the top clubs from Africa's football league battle it out in the CAF Champions League.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714060000 +0000" stop="20260714070000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCL - Dortmund vs Monaco (2016/17)</title>
+  <programme start="20260714055000 +0000" stop="20260714060000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCL - Real Madrid vs Tottenham (2010/11)</title>
     <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714070000 +0000" stop="20260714073000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260714060000 +0000" stop="20260714063000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Tour de France Highlights - Weekly Highlights 1 - Cantal</title>
     <desc lang="en">Daily and weekly highlights from the world's oldest and most prestigious annual men's multi-stage road cycling race.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714073000 +0000" stop="20260714103000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260714063000 +0000" stop="20260714070000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Mass Participation - Trans Sahara Marathon</title>
+    <desc lang="en">International broadcast series documenting high-endurance race events and adventure challenges. The program captures elite competitors tackling intense marathons, ultra-trails, and multi-sport endurance courses worldwide.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260714070000 +0000" stop="20260714102000 +0000" channel="beinsports3.unifitv">
     <title lang="en">ONE Friday Fights - OFF 161</title>
     <desc lang="en">A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714103000 +0000" stop="20260714110000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260714102000 +0000" stop="20260714105000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Tour de France Highlights - Weekly Highlights 1 - Cantal</title>
     <desc lang="en">Daily and weekly highlights from the world's oldest and most prestigious annual men's multi-stage road cycling race.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714110000 +0000" stop="20260714160000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260714105000 +0000" stop="20260714160000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Tour de France - Stage 10 - Aurillac - Le Lioran (L)</title>
     <desc lang="en">The world's oldest and most prestigious annual men's multi-stage road cycling race.</desc>
     <category lang="en">Sports</category>
@@ -5046,8 +5031,8 @@
     <title lang="en">Hands Up 2026</title>
     <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1735.</episode-num>
-    <episode-num system="onscreen">S1E1736</episode-num>
+    <episode-num system="xmltv_ns">0.1736.</episode-num>
+    <episode-num system="onscreen">S1E1737</episode-num>
   </programme>
   <programme start="20260714020500 +0000" stop="20260714023500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Journey to Jianghu (SR.2) &amp; What's On Today</title>
@@ -5088,8 +5073,8 @@
     <title lang="en">Hands Up 2026</title>
     <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1735.</episode-num>
-    <episode-num system="onscreen">S1E1736</episode-num>
+    <episode-num system="xmltv_ns">0.1736.</episode-num>
+    <episode-num system="onscreen">S1E1737</episode-num>
   </programme>
   <programme start="20260714052500 +0000" stop="20260714061000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big City Shop 2026</title>
