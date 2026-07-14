@@ -50,10 +50,6 @@
     <title>Football: FC Lausanne - SK Sigma Olomouc</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260714050000 +0700" stop="20260714070000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: FC Internazionale Milano - Pisa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260714070000 +0700" stop="20260714090000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Juventus Football Club - SSC Napoli</title>
     <desc>Live: Tidak</desc>
@@ -102,12 +98,8 @@
     <title>Football: Genoa - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260714043500 +0700" stop="20260714063500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Celtic FC - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260714063500 +0700" stop="20260714065000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
+<programme start="20260715070500 +0700" stop="20260715090500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260714065000 +0700" stop="20260714100000 +0700" channel="COSMOTE Sport 3 HD">
@@ -154,8 +146,8 @@
     <title>Football: Dundee - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260714040000 +0700" stop="20260714062000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Levice</title>
+<programme start="20260715070000 +0700" stop="20260715100000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Dallas Cowboys - Los Angeles Chargers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260714062000 +0700" stop="20260714082000 +0700" channel="COSMOTE Sport 4 HD">
@@ -212,10 +204,6 @@
 </programme>
 <programme start="20260715060000 +0700" stop="20260715080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Reyer Venezia - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260714050500 +0700" stop="20260714063000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260714063000 +0700" stop="20260714080000 +0700" channel="COSMOTE Sport 5 HD">
