@@ -598,9 +598,6 @@
 <programme start="20260714171500 +0000" stop="20260714174500 +0000" channel="Trans 7.vision">
 <title>Sport7</title>
 </programme>
-<programme start="20260714174500 +0000" stop="20260714190000 +0000" channel="Trans 7.vision">
-<title>Prison On Fire</title>
-</programme>
 <programme start="20260714190000 +0000" stop="20260714214500 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -675,9 +672,6 @@
 </programme>
 <programme start="20260714100000 +0000" stop="20260714113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260714170000 +0000" stop="20260714190000 +0000" channel="ANTV.vision">
-<title>The Haunted Cop Shop</title>
 </programme>
 <programme start="20260714190000 +0000" stop="20260714210000 +0000" channel="ANTV.vision">
 <title>Chak De! India</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260715100000 +0000" stop="20260715103000 +0000" channel="BTV.vision">
 <title>Berita Merah Putih</title>
+</programme>
+<programme start="20260715103000 +0000" stop="20260715120000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260714000000 +0000" stop="20260714020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
