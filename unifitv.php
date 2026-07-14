@@ -15,48 +15,58 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714180000 +0000" stop="20260714223000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714180000 +0000" stop="20260714213000 +0000" channel="fifa1.unifitv">
     <title lang="en">(L) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 3:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714223000 +0000" stop="20260714230000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714213000 +0000" stop="20260714220000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714230000 +0000" stop="20260715033000 +0000" channel="fifa1.unifitv">
+  <programme start="20260714220000 +0000" stop="20260715013000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715033000 +0000" stop="20260715040000 +0000" channel="fifa1.unifitv">
+  <programme start="20260715013000 +0000" stop="20260715020000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715040000 +0000" stop="20260715083000 +0000" channel="fifa1.unifitv">
+  <programme start="20260715020000 +0000" stop="20260715053000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715083000 +0000" stop="20260715090000 +0000" channel="fifa1.unifitv">
+  <programme start="20260715053000 +0000" stop="20260715060000 +0000" channel="fifa1.unifitv">
     <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715090000 +0000" stop="20260715133000 +0000" channel="fifa1.unifitv">
+  <programme start="20260715060000 +0000" stop="20260715093000 +0000" channel="fifa1.unifitv">
     <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260715093000 +0000" stop="20260715100000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260715100000 +0000" stop="20260715133000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) Spain vs Belgium : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260715133000 +0000" stop="20260715140000 +0000" channel="fifa1.unifitv">
-    <title lang="en">EP 11 - Toronto : FIFA World Cup™ 26: Stories From the Cities</title>
+    <title lang="en">EP 12 - Atlanta : FIFA World Cup™ 26: Stories From the Cities</title>
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260715140000 +0000" stop="20260715173000 +0000" channel="fifa1.unifitv">
-    <title lang="en">(R) Spain vs Belgium : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
+    <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -78,48 +88,58 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714180000 +0000" stop="20260714223000 +0000" channel="fifa2.unifitv">
+  <programme start="20260714180000 +0000" stop="20260714213000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (B1 Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 3:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714223000 +0000" stop="20260714230000 +0000" channel="fifa2.unifitv">
+  <programme start="20260714213000 +0000" stop="20260714220000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714230000 +0000" stop="20260715033000 +0000" channel="fifa2.unifitv">
+  <programme start="20260714220000 +0000" stop="20260715013000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715033000 +0000" stop="20260715040000 +0000" channel="fifa2.unifitv">
+  <programme start="20260715013000 +0000" stop="20260715020000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715040000 +0000" stop="20260715083000 +0000" channel="fifa2.unifitv">
+  <programme start="20260715020000 +0000" stop="20260715053000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715083000 +0000" stop="20260715090000 +0000" channel="fifa2.unifitv">
+  <programme start="20260715053000 +0000" stop="20260715060000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715090000 +0000" stop="20260715133000 +0000" channel="fifa2.unifitv">
+  <programme start="20260715060000 +0000" stop="20260715093000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260715093000 +0000" stop="20260715100000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260715100000 +0000" stop="20260715133000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) Spain vs Belgium : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260715133000 +0000" stop="20260715140000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 6 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260715140000 +0000" stop="20260715173000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) Spain vs Belgium : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
+    <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
