@@ -1516,14 +1516,14 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260714170000 +0000" stop="20260714173000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel Highlights - Miami P1</title>
-    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260714173000 +0000" stop="20260714190000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260714170000 +0000" stop="20260714183000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Malaga P1 Day 2 Match 7 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260714183000 +0000" stop="20260714190000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Highlights - Miami P1</title>
+    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260714190000 +0000" stop="20260714200000 +0000" channel="beinsports2.unifitv">

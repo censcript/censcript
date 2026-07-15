@@ -6185,7 +6185,7 @@
     <title>Entong</title>
 </programme>
 <programme start="20260715130000 +0000" stop="20260715160000 +0000" channel="MNCTV.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20260715160000 +0000" stop="20260715163000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn</title>
@@ -6233,7 +6233,7 @@
     <title>Entong</title>
 </programme>
 <programme start="20260715130000 +0000" stop="20260715160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20260715160000 +0000" stop="20260715163000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>
