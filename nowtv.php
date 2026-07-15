@@ -1,6 +1,3 @@
-<programme start="20260715160000 +0000" stop="20260715180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260715180000 +0000" stop="20260715200000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -35,9 +32,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260716160000 +0000" stop="20260716180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260715160000 +0000" stop="20260715180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260715180000 +0000" stop="20260715200000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -76,9 +70,6 @@
 <programme start="20260716160000 +0000" stop="20260716180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260715160000 +0000" stop="20260715180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260715180000 +0000" stop="20260715200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -113,12 +104,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260716160000 +0000" stop="20260716180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260715160000 +0000" stop="20260715180000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260715180000 +0000" stop="20260715181500 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260715181500 +0000" stop="20260715211500 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -156,24 +141,6 @@
 </programme>
 <programme start="20260716160000 +0000" stop="20260716180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260715170000 +0000" stop="20260715171500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Match Day Express E35</title>
-</programme>
-<programme start="20260715171500 +0000" stop="20260715173000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Match Day +1 Highlights E31</title>
-</programme>
-<programme start="20260715173000 +0000" stop="20260715174500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(B)</title>
-</programme>
-<programme start="20260715174500 +0000" stop="20260715180000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
-</programme>
-<programme start="20260715180000 +0000" stop="20260715181000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E55</title>
-</programme>
-<programme start="20260715181000 +0000" stop="20260715181500 +0000" channel="Now Sports 618.nowtv">
-    <title>Count Down to Kick-off E19</title>
 </programme>
 <programme start="20260715181500 +0000" stop="20260715211500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -SF - England vs Argentina[Live]</title>
@@ -309,9 +276,6 @@
 </programme>
 <programme start="20260716160000 +0000" stop="20260716181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -SF - England vs Argentina</title>
-</programme>
-<programme start="20260715160000 +0000" stop="20260715180000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Tottenham Hotspur vs Burnley</title>
 </programme>
 <programme start="20260715180000 +0000" stop="20260715200000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Aston Villa vs Newcastle United</title>

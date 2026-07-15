@@ -1157,7 +1157,7 @@
     <title>Alan Carr: Yap Yap Yap Live</title>
 </programme>
 <programme start="20260715023500 +0000" stop="20260715031500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Christopher Nolan</title>
 </programme>
 <programme start="20260715031500 +0000" stop="20260715033500 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With Barry and Mindy&#039;s Wedding</title>
@@ -5702,7 +5702,7 @@
     <title>Alan Carr: Yap Yap Yap Live</title>
 </programme>
 <programme start="20260715033500 +0000" stop="20260715041500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Christopher Nolan</title>
 </programme>
 <programme start="20260715041500 +0000" stop="20260715043500 +0000" channel="Comedy_+1.virginmediatv">
     <title>Friends - The One With Barry and Mindy&#039;s Wedding</title>
@@ -6382,7 +6382,10 @@
 <programme start="20260714175800 +0000" stop="20260715015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260715015800 +0000" stop="20260715060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260715015800 +0000" stop="20260715050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260715050000 +0000" stop="20260715060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260715115500 +0000" stop="20260715120500 +0000" channel="CBBC.virginmediatv">
@@ -7445,7 +7448,7 @@
     <title>Alan Carr: Yap Yap Yap Live</title>
 </programme>
 <programme start="20260715023500 +0000" stop="20260715031500 +0000" channel="Comedy.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Christopher Nolan</title>
 </programme>
 <programme start="20260715031500 +0000" stop="20260715033500 +0000" channel="Comedy.virginmediatv">
     <title>Friends - The One With Barry and Mindy&#039;s Wedding</title>

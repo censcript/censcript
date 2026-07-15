@@ -2954,16 +2954,16 @@
         <title>News</title>
     </programme>
     <programme start="20260715163000 +0000" stop="20260715170000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Speed and precision: Inside Adidas’ hi-tech football boots</title>
     </programme>
     <programme start="20260715170000 +0000" stop="20260715171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260715171500 +0000" stop="20260715173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Arts Unveiled. Sigmund Freud was wild. But he might be right</title>
     </programme>
     <programme start="20260715173000 +0000" stop="20260715180000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>The Revival of Spain&#039;s Dictator Franco?</title>
     </programme>
     <programme start="20260715180000 +0000" stop="20260715183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -2978,10 +2978,10 @@
         <title>News</title>
     </programme>
     <programme start="20260715191500 +0000" stop="20260715193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Arts Unveiled. Sigmund Freud was wild. But he might be right</title>
     </programme>
     <programme start="20260715193000 +0000" stop="20260715200000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Inside Kenya&#039;s battle to end femicide</title>
     </programme>
     <programme start="20260715200000 +0000" stop="20260715203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3002,7 +3002,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260715223000 +0000" stop="20260715230000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Speed and precision: Inside Adidas’ hi-tech football boots</title>
     </programme>
     <programme start="20260715230000 +0000" stop="20260715230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3011,10 +3011,10 @@
         <title>News</title>
     </programme>
     <programme start="20260715231500 +0000" stop="20260715233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Arts Unveiled. Sigmund Freud was wild. But he might be right</title>
     </programme>
     <programme start="20260715233000 +0000" stop="20260716000000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Four migrant workers murdered in southern Italy</title>
     </programme>
     <programme start="20260716000000 +0000" stop="20260716000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
