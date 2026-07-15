@@ -6671,133 +6671,130 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260716223000 +0000" stop="20260716230000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kelo a pražená ryža + kľuky</title>
+    <title lang="id">Prečo sa lieky sťahujú z trhu?</title>
   </programme>
   <programme start="20260716230000 +0000" stop="20260716233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
+    <title lang="id">Skolióza u detí: ako ju rozpoznať, čo ju spôsobuje a ako správne cvičiť</title>
   </programme>
   <programme start="20260716233000 +0000" stop="20260717000000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Optická koherentná tomografia a optická koherentná tomografická angiografia</title>
+    <title lang="id">Ty nepiješ?</title>
   </programme>
   <programme start="20260717000000 +0000" stop="20260717003000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ibd ochorenia u detí</title>
+    <title lang="id">Ty raz skončíš na prednej hore!</title>
   </programme>
   <programme start="20260717003000 +0000" stop="20260717010000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Knihy ako mosty medzi ľuďmi</title>
+    <title lang="id">Odpovedá stomatochirurg mdDr. Andrej breza, mph</title>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717015000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nádory pankreasu</title>
+  <programme start="20260717010000 +0000" stop="20260717013000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Kmeňové bunky v liečbe sklerózy multiplex</title>
   </programme>
-  <programme start="20260717015000 +0000" stop="20260717020000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+  <programme start="20260717013000 +0000" stop="20260717020000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Kľúčom ku zdraviu je prevencia. čo to však znamená?</title>
   </programme>
   <programme start="20260717020000 +0000" stop="20260717023000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260717023000 +0000" stop="20260717030000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Generická preskripcia a výdaj náhradných liekov v lekárni</title>
+    <title lang="id">Odpovedá MUDr. Irina golierová, csc., mph.</title>
   </programme>
   <programme start="20260717030000 +0000" stop="20260717033000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Menštruácia bez tabu. aj na slovensku existuje menštruačná chudoba</title>
+    <title lang="id">Bez hanby o zápaloch močových ciest, hygiene, mužských tabu témach aj mýtoch</title>
   </programme>
   <programme start="20260717033000 +0000" stop="20260717040000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Reprodukčná imunológia</title>
+    <title lang="id">Ako sa nestratiť v mori informácií</title>
   </programme>
-  <programme start="20260717040000 +0000" stop="20260717043000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze s MUDr. Rebekou gabal a otázke príliš mladá na menopauzu?</title>
+  <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Čo sa deje s Pacientom po resuscitácii?</title>
   </programme>
-  <programme start="20260717043000 +0000" stop="20260717050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Popáleniny</title>
+  <programme start="20260717050000 +0000" stop="20260717055000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Závažné ochorenia mozgu - demencia a alzheimerova choroba 01</title>
   </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Smútok a smútková terapia</title>
+  <programme start="20260717055000 +0000" stop="20260717060000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Niťový lifting tváre</title>
   </programme>
   <programme start="20260717060000 +0000" stop="20260717063000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260717063000 +0000" stop="20260717070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Najčastejšie mýty o výžive a ako sa vyznať v informačnom chaose</title>
+    <title lang="id">Generická preskripcia a výdaj náhradných liekov v lekárni</title>
   </programme>
   <programme start="20260717070000 +0000" stop="20260717073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Psychológia - poruchy príjmu potravy</title>
+    <title lang="id">Menštruácia bez tabu. aj na slovensku existuje menštruačná chudoba</title>
   </programme>
   <programme start="20260717073000 +0000" stop="20260717080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Rhinoplastika - plastická operácia nosa</title>
+    <title lang="id">Reprodukčná imunológia</title>
   </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Dobré správy v oblasti rakoviny krvi</title>
+  <programme start="20260717080000 +0000" stop="20260717083000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">O menopauze s MUDr. Rebekou gabal a otázke príliš mladá na menopauzu?</title>
+  </programme>
+  <programme start="20260717083000 +0000" stop="20260717090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Popáleniny</title>
   </programme>
   <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prečo sa deti a mladí ľudia sebapoškodzujú a ako im pomôcť?</title>
+    <title lang="id">Smútok a smútková terapia</title>
   </programme>
   <programme start="20260717100000 +0000" stop="20260717103000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260717103000 +0000" stop="20260717110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kelo a pražená ryža + kľuky</title>
+    <title lang="id">Odpovedá MUDr. Irina golierová, csc., mph.</title>
   </programme>
   <programme start="20260717110000 +0000" stop="20260717113000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
+    <title lang="id">Bez hanby o zápaloch močových ciest, hygiene, mužských tabu témach aj mýtoch</title>
   </programme>
   <programme start="20260717113000 +0000" stop="20260717120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Optická koherentná tomografia a optická koherentná tomografická angiografia</title>
+    <title lang="id">Ako sa nestratiť v mori informácií</title>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717123000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ibd ochorenia u detí</title>
-  </programme>
-  <programme start="20260717123000 +0000" stop="20260717130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Knihy ako mosty medzi ľuďmi</title>
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Čo sa deje s Pacientom po resuscitácii?</title>
   </programme>
   <programme start="20260717130000 +0000" stop="20260717135000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nádory pankreasu</title>
+    <title lang="id">Závažné ochorenia mozgu - demencia a alzheimerova choroba 01</title>
   </programme>
   <programme start="20260717135000 +0000" stop="20260717140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+    <title lang="id">Niťový lifting tváre</title>
   </programme>
   <programme start="20260717140000 +0000" stop="20260717143000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260717143000 +0000" stop="20260717150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prečo sa lieky sťahujú z trhu?</title>
+    <title lang="id">Najčastejšie mýty o výžive a ako sa vyznať v informačnom chaose</title>
   </programme>
   <programme start="20260717150000 +0000" stop="20260717153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Skolióza u detí: ako ju rozpoznať, čo ju spôsobuje a ako správne cvičiť</title>
+    <title lang="id">Psychológia - poruchy príjmu potravy</title>
   </programme>
   <programme start="20260717153000 +0000" stop="20260717160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ty nepiješ?</title>
+    <title lang="id">Rhinoplastika - plastická operácia nosa</title>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717163000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ty raz skončíš na prednej hore!</title>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Dobré správy v oblasti rakoviny krvi</title>
   </programme>
-  <programme start="20260717163000 +0000" stop="20260717170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá stomatochirurg mdDr. Andrej breza, mph</title>
-  </programme>
-  <programme start="20260717170000 +0000" stop="20260717173000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kmeňové bunky v liečbe sklerózy multiplex</title>
-  </programme>
-  <programme start="20260717173000 +0000" stop="20260717180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kľúčom ku zdraviu je prevencia. čo to však znamená?</title>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Prečo sa deti a mladí ľudia sebapoškodzujú a ako im pomôcť?</title>
   </programme>
   <programme start="20260717180000 +0000" stop="20260717183000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260717183000 +0000" stop="20260717190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Generická preskripcia a výdaj náhradných liekov v lekárni</title>
+    <title lang="id">Kelo a pražená ryža + kľuky</title>
   </programme>
   <programme start="20260717190000 +0000" stop="20260717193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Menštruácia bez tabu. aj na slovensku existuje menštruačná chudoba</title>
+    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
   </programme>
   <programme start="20260717193000 +0000" stop="20260717200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Reprodukčná imunológia</title>
+    <title lang="id">Optická koherentná tomografia a optická koherentná tomografická angiografia</title>
   </programme>
   <programme start="20260717200000 +0000" stop="20260717203000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze s MUDr. Rebekou gabal a otázke príliš mladá na menopauzu?</title>
+    <title lang="id">Ibd ochorenia u detí</title>
   </programme>
   <programme start="20260717203000 +0000" stop="20260717210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Popáleniny</title>
+    <title lang="id">Knihy ako mosty medzi ľuďmi</title>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Smútok a smútková terapia</title>
+  <programme start="20260717210000 +0000" stop="20260717215000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nádory pankreasu</title>
+  </programme>
+  <programme start="20260717215000 +0000" stop="20260717220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
   </programme>
   <programme start="20260716220000 +0000" stop="20260716230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>

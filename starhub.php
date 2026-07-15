@@ -3041,7 +3041,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260716023000 +0000" stop="20260716030000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Speed and precision: Inside Adidas’ hi-tech football boots</title>
     </programme>
     <programme start="20260716030000 +0000" stop="20260716030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3050,7 +3050,7 @@
         <title>News</title>
     </programme>
     <programme start="20260716031500 +0000" stop="20260716033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Arts Unveiled. Sigmund Freud was wild. But he might be right</title>
     </programme>
     <programme start="20260716033000 +0000" stop="20260716040000 +0000" channel="DW English HD.starhub">
         <title>From forests to farms: India&#039;s environmental changemakers</title>
@@ -3071,7 +3071,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260716053000 +0000" stop="20260716060000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Four migrant workers murdered in southern Italy</title>
     </programme>
     <programme start="20260716060000 +0000" stop="20260716060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3080,7 +3080,7 @@
         <title>News</title>
     </programme>
     <programme start="20260716061500 +0000" stop="20260716063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Arts Unveiled. Sigmund Freud was wild. But he might be right</title>
     </programme>
     <programme start="20260716063000 +0000" stop="20260716070000 +0000" channel="DW English HD.starhub">
         <title>Forensics 3.0 - Closing in on criminals</title>
@@ -3095,10 +3095,10 @@
         <title>News</title>
     </programme>
     <programme start="20260716080200 +0000" stop="20260716083000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Speed and precision: Inside Adidas’ hi-tech football boots</title>
     </programme>
     <programme start="20260716083000 +0000" stop="20260716090000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Four migrant workers murdered in southern Italy</title>
     </programme>
     <programme start="20260716090000 +0000" stop="20260716090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3128,7 +3128,7 @@
         <title>The fastest Woman on a Surfboard</title>
     </programme>
     <programme start="20260716113000 +0000" stop="20260716120000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Four migrant workers murdered in southern Italy</title>
     </programme>
     <programme start="20260716120000 +0000" stop="20260716120300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3143,7 +3143,7 @@
         <title>News</title>
     </programme>
     <programme start="20260716131500 +0000" stop="20260716133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How this spectacular algae could replace lab animals</title>
     </programme>
     <programme start="20260716133000 +0000" stop="20260716140000 +0000" channel="DW English HD.starhub">
         <title>Swedish Americana: The American dream on European roads</title>

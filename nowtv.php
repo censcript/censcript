@@ -1,6 +1,3 @@
-<programme start="20260715200000 +0000" stop="20260715220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260715220000 +0000" stop="20260716000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -29,9 +26,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260716160000 +0000" stop="20260716180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260715200000 +0000" stop="20260715220000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260715220000 +0000" stop="20260716000000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -64,9 +58,6 @@
 <programme start="20260716160000 +0000" stop="20260716180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260715200000 +0000" stop="20260715220000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260715220000 +0000" stop="20260716000000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -95,12 +86,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260716160000 +0000" stop="20260716180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260715181500 +0000" stop="20260715211500 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>[4K]FIFA World Cup 2026™ -SF - England vs Argentina[Live]</title>
-</programme>
-<programme start="20260715211500 +0000" stop="20260715220000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260715220000 +0000" stop="20260716000000 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -132,30 +117,6 @@
 </programme>
 <programme start="20260716160000 +0000" stop="20260716180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260715181500 +0000" stop="20260715211500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -SF - England vs Argentina[Live]</title>
-</programme>
-<programme start="20260715211500 +0000" stop="20260715213000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 1(A)</title>
-</programme>
-<programme start="20260715213000 +0000" stop="20260715214500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 1(B)</title>
-</programme>
-<programme start="20260715214500 +0000" stop="20260715220000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 1(C)</title>
-</programme>
-<programme start="20260715220000 +0000" stop="20260715221500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(A)</title>
-</programme>
-<programme start="20260715221500 +0000" stop="20260715223000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(B)</title>
-</programme>
-<programme start="20260715223000 +0000" stop="20260715224500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(C)</title>
-</programme>
-<programme start="20260715224500 +0000" stop="20260715230000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(A)</title>
 </programme>
 <programme start="20260715230000 +0000" stop="20260715231500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd. 3(B)</title>
@@ -267,9 +228,6 @@
 </programme>
 <programme start="20260716160000 +0000" stop="20260716181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -SF - England vs Argentina</title>
-</programme>
-<programme start="20260715200000 +0000" stop="20260715220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Wolverhampton Wanderers vs Manchester City</title>
 </programme>
 <programme start="20260715220000 +0000" stop="20260716000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Tottenham Hotspur vs Burnley</title>
