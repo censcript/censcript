@@ -2045,7 +2045,7 @@
     <title>Kau Ditakdirkan Untukku</title>
 </programme>
 <programme start="20260714210000 +0000" stop="20260714213000 +0000" channel="Celebrities TV.mncvision">
-    <title>Celebrity Files</title>
+    <title>Celebrity Top 10</title>
 </programme>
 <programme start="20260714213000 +0000" stop="20260714220000 +0000" channel="Celebrities TV.mncvision">
     <title>Seleb On News</title>
@@ -5251,11 +5251,8 @@
 <programme start="20260715113000 +0000" stop="20260715120000 +0000" channel="JAKTV.mncvision">
     <title>The Cloth Story</title>
 </programme>
-<programme start="20260715120000 +0000" stop="20260715123000 +0000" channel="JAKTV.mncvision">
-    <title>Ninjao</title>
-</programme>
-<programme start="20260715123000 +0000" stop="20260715130000 +0000" channel="JAKTV.mncvision">
-    <title>Dunia Kita</title>
+<programme start="20260715120000 +0000" stop="20260715130000 +0000" channel="JAKTV.mncvision">
+    <title>Galeri Publik Tiens</title>
 </programme>
 <programme start="20260715130000 +0000" stop="20260715140000 +0000" channel="JAKTV.mncvision">
     <title>Like A Flowing River</title>
@@ -7838,40 +7835,40 @@
     <title>Hot Shot</title>
 </programme>
 <programme start="20260715000000 +0000" stop="20260715013000 +0000" channel="SCTV.mncvision">
-    <title>Tak Habis Fikri Ditembak...</title>
+    <title>3 Mas Ketir Jagoan Enyak</title>
 </programme>
 <programme start="20260715013000 +0000" stop="20260715030000 +0000" channel="SCTV.mncvision">
     <title>Cinta Monyet Never Forget</title>
 </programme>
-<programme start="20260715030000 +0000" stop="20260715050000 +0000" channel="SCTV.mncvision">
+<programme start="20260715030000 +0000" stop="20260715045700 +0000" channel="SCTV.mncvision">
     <title>Kasih Paham Bang Ilmu...</title>
 </programme>
-<programme start="20260715050000 +0000" stop="20260715053000 +0000" channel="SCTV.mncvision">
+<programme start="20260715045700 +0000" stop="20260715053000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260715053000 +0000" stop="20260715070000 +0000" channel="SCTV.mncvision">
     <title>Mencintaimu Ibarat Hutang</title>
 </programme>
 <programme start="20260715070000 +0000" stop="20260715083000 +0000" channel="SCTV.mncvision">
-    <title>Jodoh Terhalang Wasiat Bapak</title>
+    <title>Roti Bakar Aroma Rindu</title>
 </programme>
-<programme start="20260715083000 +0000" stop="20260715101500 +0000" channel="SCTV.mncvision">
+<programme start="20260715083000 +0000" stop="20260715100200 +0000" channel="SCTV.mncvision">
     <title>Ahlinya Ahli Daur Ulang Cinta</title>
 </programme>
-<programme start="20260715101500 +0000" stop="20260715114500 +0000" channel="SCTV.mncvision">
+<programme start="20260715100200 +0000" stop="20260715114500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
 <programme start="20260715114500 +0000" stop="20260715131500 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260715131500 +0000" stop="20260715143000 +0000" channel="SCTV.mncvision">
+<programme start="20260715131500 +0000" stop="20260715143400 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260715143000 +0000" stop="20260715160000 +0000" channel="SCTV.mncvision">
+<programme start="20260715143400 +0000" stop="20260715160400 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260715160000 +0000" stop="20260715163000 +0000" channel="SCTV.mncvision">
-    <title>FTV Primetime</title>
+<programme start="20260715160400 +0000" stop="20260715163400 +0000" channel="SCTV.mncvision">
+    <title>Dangdut Kelaz Aku Kamu...</title>
 </programme>
 <programme start="20260714175300 +0000" stop="20260714190800 +0000" channel="SCTV HD.mncvision">
     <title>Kukatakan Cinta Kepada Awan</title>
@@ -7895,40 +7892,40 @@
     <title>Hot Shot</title>
 </programme>
 <programme start="20260715000000 +0000" stop="20260715013000 +0000" channel="SCTV HD.mncvision">
-    <title>Tak Habis Fikri Ditembak...</title>
+    <title>3 Mas Ketir Jagoan Enyak</title>
 </programme>
 <programme start="20260715013000 +0000" stop="20260715030000 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Monyet Never Forget</title>
 </programme>
-<programme start="20260715030000 +0000" stop="20260715050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260715030000 +0000" stop="20260715045700 +0000" channel="SCTV HD.mncvision">
     <title>Kasih Paham Bang Ilmu...</title>
 </programme>
-<programme start="20260715050000 +0000" stop="20260715053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260715045700 +0000" stop="20260715053000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260715053000 +0000" stop="20260715070000 +0000" channel="SCTV HD.mncvision">
     <title>Mencintaimu Ibarat Hutang</title>
 </programme>
 <programme start="20260715070000 +0000" stop="20260715083000 +0000" channel="SCTV HD.mncvision">
-    <title>Jodoh Terhalang Wasiat Bapak</title>
+    <title>Roti Bakar Aroma Rindu</title>
 </programme>
-<programme start="20260715083000 +0000" stop="20260715101500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260715083000 +0000" stop="20260715100200 +0000" channel="SCTV HD.mncvision">
     <title>Ahlinya Ahli Daur Ulang Cinta</title>
 </programme>
-<programme start="20260715101500 +0000" stop="20260715114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260715100200 +0000" stop="20260715114500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
 <programme start="20260715114500 +0000" stop="20260715131500 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260715131500 +0000" stop="20260715143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260715131500 +0000" stop="20260715143400 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260715143000 +0000" stop="20260715160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260715143400 +0000" stop="20260715160400 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260715160000 +0000" stop="20260715163000 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Primetime</title>
+<programme start="20260715160400 +0000" stop="20260715163400 +0000" channel="SCTV HD.mncvision">
+    <title>Dangdut Kelaz Aku Kamu...</title>
 </programme>
 <programme start="20260714170000 +0000" stop="20260714180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>

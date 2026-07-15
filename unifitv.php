@@ -13156,7 +13156,7 @@
   </programme>
   <programme start="20260714163300 +0000" stop="20260714170300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Iran expert Ali Vaez breaks down the consequences of Iran and the U.S. going back to all-out war.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.27.</episode-num>
     <episode-num system="onscreen">S1E28</episode-num>
@@ -13185,7 +13185,7 @@
   </programme>
   <programme start="20260714193300 +0000" stop="20260714200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">As politicians and sanctioned states turn to cryptocurrency, can regulators keep up?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.44.</episode-num>
     <episode-num system="onscreen">S1E45</episode-num>
@@ -13197,7 +13197,7 @@
   </programme>
   <programme start="20260714203300 +0000" stop="20260714210300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Untangles</title>
-    <desc lang="en">How colonial identity, extremist politics and hate radio helped turn Rwanda's recognised genocide against the Tutsi into an organised mass murder.</desc>
+    <desc lang="en">How Darfur's atrocities grew from land conflict, state neglect, racist ideology and militias into what many actors and courts have called genocide.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260714210300 +0000" stop="20260714220300 +0000" channel="aljazeera.unifitv">
@@ -13233,8 +13233,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260715013300 +0000" stop="20260715020300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Witness</title>
-    <desc lang="en">Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
+    <title lang="en">Al Jazeera Reels</title>
+    <desc lang="en">As America turns 250, seven stories explore whether the country built on freedom, opportunity and reinvention can still live up to its own promises.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260715020300 +0000" stop="20260715030300 +0000" channel="aljazeera.unifitv">
@@ -13254,7 +13254,7 @@
   </programme>
   <programme start="20260715043300 +0000" stop="20260715050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Iran expert Ali Vaez breaks down the consequences of Iran and the U.S. going back to all-out war.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.27.</episode-num>
     <episode-num system="onscreen">S1E28</episode-num>
@@ -13278,7 +13278,7 @@
   </programme>
   <programme start="20260715063300 +0000" stop="20260715070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">As politicians and sanctioned states turn to cryptocurrency, can regulators keep up?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.44.</episode-num>
     <episode-num system="onscreen">S1E45</episode-num>
@@ -13295,7 +13295,7 @@
   </programme>
   <programme start="20260715083300 +0000" stop="20260715090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Untangles</title>
-    <desc lang="en">How colonial identity, extremist politics and hate radio helped turn Rwanda's recognised genocide against the Tutsi into an organised mass murder.</desc>
+    <desc lang="en">How Darfur's atrocities grew from land conflict, state neglect, racist ideology and militias into what many actors and courts have called genocide.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260715090300 +0000" stop="20260715093300 +0000" channel="aljazeera.unifitv">
@@ -13342,7 +13342,7 @@
   </programme>
   <programme start="20260715143300 +0000" stop="20260715150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">How coverage of Khamenei's funeral exposed the limits of familiar narratives about Iran. Plus, the lies we are told about our food.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.27.</episode-num>
     <episode-num system="onscreen">S1E28</episode-num>
