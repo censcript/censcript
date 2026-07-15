@@ -4283,7 +4283,7 @@
     <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260715110000 +0000" stop="20260715120000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants</title>
+    <title>Dongeng Penguasa Hutan</title>
 </programme>
 <programme start="20260715120000 +0000" stop="20260715133000 +0000" channel="GTV.mncvision">
     <title>New Family 100</title>
@@ -4331,7 +4331,7 @@
     <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260715110000 +0000" stop="20260715120000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
+    <title>Dongeng Penguasa Hutan</title>
 </programme>
 <programme start="20260715120000 +0000" stop="20260715133000 +0000" channel="GTV HD.mncvision">
     <title>New Family 100</title>

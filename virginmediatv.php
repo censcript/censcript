@@ -3904,7 +3904,10 @@
 <programme start="20260715030000 +0000" stop="20260715040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260715040000 +0000" stop="20260715060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260715040000 +0000" stop="20260715050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260715050000 +0000" stop="20260715060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260715110000 +0000" stop="20260715130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4415,7 +4418,7 @@
     <title>The Official United Podcast - Inside Carrington Podcast - Kobbie Mainoo</title>
 </programme>
 <programme start="20260715124500 +0000" stop="20260715130000 +0000" channel="MUTV.virginmediatv">
-    <title>Kit Launch - Home Kit 26/27 - Behind The Scenes</title>
+    <title>Signing Interview: Andrey Santos</title>
 </programme>
 <programme start="20260715130000 +0000" stop="20260715140000 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington Podcast - Darren Fletcher</title>
@@ -4430,7 +4433,7 @@
     <title>The Official United Podcast - Inside Carrington Podcast - Regeneration</title>
 </programme>
 <programme start="20260715154500 +0000" stop="20260715160000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Benjamin Sesko: The Gallery</title>
+    <title>Signing Interview: Andrey Santos</title>
 </programme>
 <programme start="20260715160000 +0000" stop="20260715170000 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington Podcast - Ella Toone</title>
@@ -4696,7 +4699,10 @@
 <programme start="20260715030000 +0000" stop="20260715040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260715040000 +0000" stop="20260715060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260715040000 +0000" stop="20260715050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>World Cup Report</title>
+</programme>
+<programme start="20260715050000 +0000" stop="20260715060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>World Cup Report</title>
 </programme>
 <programme start="20260715110000 +0000" stop="20260715130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
