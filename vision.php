@@ -676,9 +676,6 @@
 <programme start="20260715100000 +0000" stop="20260715113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260715133000 +0000" stop="20260715160000 +0000" channel="ANTV.vision">
-<title>Tuan Tanah Kedawung</title>
-</programme>
 <programme start="20260715160000 +0000" stop="20260715180000 +0000" channel="ANTV.vision">
 <title>Menumpas Teroris</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260716033000 +0000" stop="20260716040000 +0000" channel="BTV.vision">
 <title>Indonesia Update Ototekno</title>
+</programme>
+<programme start="20260716040000 +0000" stop="20260716050000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
