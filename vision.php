@@ -664,9 +664,6 @@
 <programme start="20260714223000 +0000" stop="20260715003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260715003000 +0000" stop="20260715023000 +0000" channel="ANTV.vision">
-<title>7 Manusia Harimau</title>
-</programme>
 <programme start="20260715023000 +0000" stop="20260715060000 +0000" channel="ANTV.vision">
 <title>Asoka</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260715060000 +0000" stop="20260715080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260715080000 +0000" stop="20260715080300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
