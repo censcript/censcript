@@ -4705,23 +4705,8 @@
   <programme start="20260718153000 +0000" stop="20260718160000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoride</title>
   </programme>
-  <programme start="20260718160000 +0000" stop="20260718163000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260718163000 +0000" stop="20260718170000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Topspeed</title>
-  </programme>
-  <programme start="20260718170000 +0000" stop="20260718173000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718183000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260718183000 +0000" stop="20260718190000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Topspeed</title>
+  <programme start="20260718160000 +0000" stop="20260718190000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Speedway Euro Championship, Zielona Góra</title>
   </programme>
   <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>

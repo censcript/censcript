@@ -700,9 +700,6 @@
 <programme start="20260716100000 +0000" stop="20260716113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260716113000 +0000" stop="20260716133000 +0000" channel="ANTV.vision">
-<title>Saranjana</title>
-</programme>
 <programme start="20260716133000 +0000" stop="20260716153000 +0000" channel="ANTV.vision">
 <title>Yang Perkasa</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260717010000 +0000" stop="20260717010500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260717010500 +0000" stop="20260717011500 +0000" channel="BTV.vision">
+<title>Anak Hebat</title>
 </programme>

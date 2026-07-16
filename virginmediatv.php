@@ -376,11 +376,14 @@
 <programme start="20260716175500 +0000" stop="20260716180000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>RTÉ News with ISL</title>
 </programme>
-<programme start="20260716000000 +0000" stop="20260716000500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Weather for the Week Ahead</title>
+<programme start="20260715223000 +0000" stop="20260716000500 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Rush</title>
 </programme>
-<programme start="20260716000500 +0000" stop="20260716003000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260716000500 +0000" stop="20260716002500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Joins BBC News</title>
+</programme>
+<programme start="20260716002500 +0000" stop="20260716003000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Weather for the Week Ahead</title>
 </programme>
 <programme start="20260716003000 +0000" stop="20260716010000 +0000" channel="BBC1_HD.virginmediatv">
     <title>The Climate Question - Is Climate Change Ruining Our Sleep?</title>
@@ -4021,7 +4024,10 @@
 <programme start="20260715211500 +0000" stop="20260716011500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Major League Cricket - Qualifier: San Francisco Unicorns v Los Angeles Knight Riders</title>
 </programme>
-<programme start="20260716011500 +0000" stop="20260716053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260716011500 +0000" stop="20260716050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Live: Major League Cricket - Eliminator: Washington Freedom v MI New York</title>
+</programme>
+<programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Major League Cricket - Eliminator: Washington Freedom v MI New York</title>
 </programme>
 <programme start="20260716053000 +0000" stop="20260716060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
@@ -4150,11 +4156,11 @@
 <programme start="20260716050000 +0000" stop="20260716060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Report - World Cup Report 15.07.26</title>
 </programme>
-<programme start="20260716083000 +0000" stop="20260716140500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260716085500 +0000" stop="20260716140500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: The Open Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20260716140500 +0000" stop="20260716193000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live: The Open Championship, PGA Tour Golf - Day 1: Player Stream</title>
+    <title>Live: The Open Championship, PGA Tour Golf - Day 1: Rory McIlroy Player Stream</title>
 </programme>
 <programme start="20260716000000 +0000" stop="20260716010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>World Cup Report - World Cup Report 15.07.26</title>
@@ -4873,7 +4879,10 @@
 <programme start="20260715211500 +0000" stop="20260716011500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Major League Cricket - Qualifier: San Francisco Unicorns v Los Angeles Knight Riders</title>
 </programme>
-<programme start="20260716011500 +0000" stop="20260716053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260716011500 +0000" stop="20260716050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Live: Major League Cricket - Eliminator: Washington Freedom v MI New York</title>
+</programme>
+<programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Major League Cricket - Eliminator: Washington Freedom v MI New York</title>
 </programme>
 <programme start="20260716053000 +0000" stop="20260716060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
@@ -5002,11 +5011,11 @@
 <programme start="20260716050000 +0000" stop="20260716060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Report - World Cup Report 15.07.26</title>
 </programme>
-<programme start="20260716083000 +0000" stop="20260716140500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260716085500 +0000" stop="20260716140500 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: The Open Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20260716140500 +0000" stop="20260716193000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live: The Open Championship, PGA Tour Golf - Day 1: Player Stream</title>
+    <title>Live: The Open Championship, PGA Tour Golf - Day 1: Rory McIlroy Player Stream</title>
 </programme>
 <programme start="20260716000000 +0000" stop="20260716010000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>World Cup Report - World Cup Report 15.07.26</title>
