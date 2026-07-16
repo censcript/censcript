@@ -4927,8 +4927,11 @@
     <programme start="20260716030000 +0000" stop="20260716040000 +0000" channel="SPOTV.starhub">
         <title>Last-Chance Qualifier</title>
     </programme>
-    <programme start="20260716040000 +0000" stop="20260716050000 +0000" channel="SPOTV.starhub">
+    <programme start="20260716040000 +0000" stop="20260716043000 +0000" channel="SPOTV.starhub">
         <title>Heroes Classic</title>
+    </programme>
+    <programme start="20260716043000 +0000" stop="20260716050000 +0000" channel="SPOTV.starhub">
+        <title>Highlights 2</title>
     </programme>
     <programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
@@ -7952,7 +7955,7 @@
         <title>Cappadocia, Turkey</title>
     </programme>
     <programme start="20260716001500 +0000" stop="20260716003000 +0000" channel="Travelxp HD.starhub">
-        <title>Peru’s Unique Experiences</title>
+        <title>Peru&#039;s Unique Experiences</title>
     </programme>
     <programme start="20260716003000 +0000" stop="20260716010000 +0000" channel="Travelxp HD.starhub">
         <title>Cape Town</title>

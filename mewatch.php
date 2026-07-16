@@ -10,8 +10,11 @@
     <programme start="20260715173000 +0000" stop="20260715190000 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026 - Pre-Show - Semi-Finals: England vs Argentina</title>
     </programme>
-    <programme start="20260715190000 +0000" stop="20260715213000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260715190000 +0000" stop="20260715211400 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026 - Semi-Finals: England vs Argentina</title>
+    </programme>
+    <programme start="20260715211400 +0000" stop="20260715213000 +0000" channel="Channel 5.mewatch">
+        <title>Just For Laughs S25 - EP 11</title>
     </programme>
     <programme start="20260715213000 +0000" stop="20260715220000 +0000" channel="Channel 5.mewatch">
         <title>The Contenders 26 - EP 37</title>

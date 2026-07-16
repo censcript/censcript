@@ -5569,84 +5569,6 @@
 <programme start="20260716163500 +0000" stop="20260715170500 +0000" channel="KIX.mncvision">
     <title>The Monkey Is Back</title>
 </programme>
-<programme start="20260715170000 +0000" stop="20260715173000 +0000" channel="Kompas TV.mncvision">
-    <title>Kilas Kompas</title>
-</programme>
-<programme start="20260715173000 +0000" stop="20260715180000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260715180000 +0000" stop="20260715193000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Petang</title>
-</programme>
-<programme start="20260715193000 +0000" stop="20260715200000 +0000" channel="Kompas TV.mncvision">
-    <title>Indonesia Update</title>
-</programme>
-<programme start="20260715200000 +0000" stop="20260715210000 +0000" channel="Kompas TV.mncvision">
-    <title>Kalam Hati</title>
-</programme>
-<programme start="20260715210000 +0000" stop="20260715213000 +0000" channel="Kompas TV.mncvision">
-    <title>Borgol</title>
-</programme>
-<programme start="20260715213000 +0000" stop="20260715233000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Pagi</title>
-</programme>
-<programme start="20260715233000 +0000" stop="20260716000000 +0000" channel="Kompas TV.mncvision">
-    <title>Jurnal Nusantara</title>
-</programme>
-<programme start="20260716000000 +0000" stop="20260716023000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Pagi</title>
-</programme>
-<programme start="20260716023000 +0000" stop="20260716030000 +0000" channel="Kompas TV.mncvision">
-    <title>Mata Indonesia</title>
-</programme>
-<programme start="20260716030000 +0000" stop="20260716033000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260716033000 +0000" stop="20260716040000 +0000" channel="Kompas TV.mncvision">
-    <title>Borgol</title>
-</programme>
-<programme start="20260716040000 +0000" stop="20260716060000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Siang</title>
-</programme>
-<programme start="20260716060000 +0000" stop="20260716070000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Siang</title>
-</programme>
-<programme start="20260716070000 +0000" stop="20260716073000 +0000" channel="Kompas TV.mncvision">
-    <title>Berkas Kompas</title>
-</programme>
-<programme start="20260716073000 +0000" stop="20260716080000 +0000" channel="Kompas TV.mncvision">
-    <title>Jurnal Merah Putih</title>
-</programme>
-<programme start="20260716080000 +0000" stop="20260716082900 +0000" channel="Kompas TV.mncvision">
-    <title>Indonesia Update</title>
-</programme>
-<programme start="20260716082900 +0000" stop="20260716090000 +0000" channel="Kompas TV.mncvision">
-    <title>Borgol</title>
-</programme>
-<programme start="20260716090000 +0000" stop="20260716103000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Petang</title>
-</programme>
-<programme start="20260716103000 +0000" stop="20260716123000 +0000" channel="Kompas TV.mncvision">
-    <title>Sapa Indonesia Malam</title>
-</programme>
-<programme start="20260716123000 +0000" stop="20260716133000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260716133000 +0000" stop="20260716143000 +0000" channel="Kompas TV.mncvision">
-    <title>Rosi</title>
-</programme>
-<programme start="20260716143000 +0000" stop="20260716153000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Malam</title>
-</programme>
-<programme start="20260716153000 +0000" stop="20260716160000 +0000" channel="Kompas TV.mncvision">
-    <title>Berita Utama</title>
-</programme>
-<programme start="20260716160000 +0000" stop="20260716163000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas Sport</title>
-</programme>
-<programme start="20260716163000 +0000" stop="20260715170000 +0000" channel="Kompas TV.mncvision">
-    <title>Kilas Kompas</title>
-</programme>
 <programme start="20260715173000 +0000" stop="20260715183000 +0000" channel="LIFE.mncvision">
     <title>Good News</title>
 </programme>
@@ -7918,40 +7840,40 @@
 <programme start="20260715230000 +0000" stop="20260716000000 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260716000000 +0000" stop="20260716013000 +0000" channel="SCTV.mncvision">
-    <title>Abang Cupang Mendadak Sayang</title>
+<programme start="20260716000000 +0000" stop="20260716012600 +0000" channel="SCTV.mncvision">
+    <title>Cinta Luar Biasa Dari Orang Biasa</title>
 </programme>
-<programme start="20260716013000 +0000" stop="20260716030000 +0000" channel="SCTV.mncvision">
+<programme start="20260716012600 +0000" stop="20260716030000 +0000" channel="SCTV.mncvision">
     <title>Playboy Asli Bukan...</title>
 </programme>
-<programme start="20260716030000 +0000" stop="20260716050000 +0000" channel="SCTV.mncvision">
+<programme start="20260716030000 +0000" stop="20260716045400 +0000" channel="SCTV.mncvision">
     <title>Sebut Saja Si Kembang Desa</title>
 </programme>
-<programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="SCTV.mncvision">
+<programme start="20260716045400 +0000" stop="20260716052500 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260716053000 +0000" stop="20260716070000 +0000" channel="SCTV.mncvision">
+<programme start="20260716052500 +0000" stop="20260716065800 +0000" channel="SCTV.mncvision">
     <title>Jodoh Direview Cinta Yang Viral</title>
 </programme>
-<programme start="20260716070000 +0000" stop="20260716083000 +0000" channel="SCTV.mncvision">
-    <title>Kamu Tercandu Gurame Cintaku</title>
+<programme start="20260716065800 +0000" stop="20260716083000 +0000" channel="SCTV.mncvision">
+    <title>Berakit Ke Hulu Berenang Ke...</title>
 </programme>
-<programme start="20260716083000 +0000" stop="20260716101500 +0000" channel="SCTV.mncvision">
-    <title>Si Cantik Milik Cowok Cadangan</title>
+<programme start="20260716083000 +0000" stop="20260716100300 +0000" channel="SCTV.mncvision">
+    <title>Biduan Syantik Be Like</title>
 </programme>
-<programme start="20260716101500 +0000" stop="20260716114500 +0000" channel="SCTV.mncvision">
+<programme start="20260716100300 +0000" stop="20260716114700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260716114500 +0000" stop="20260716131500 +0000" channel="SCTV.mncvision">
+<programme start="20260716114700 +0000" stop="20260716131500 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260716131500 +0000" stop="20260716143000 +0000" channel="SCTV.mncvision">
+<programme start="20260716131500 +0000" stop="20260716143500 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260716143000 +0000" stop="20260716160000 +0000" channel="SCTV.mncvision">
+<programme start="20260716143500 +0000" stop="20260716160700 +0000" channel="SCTV.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260716160000 +0000" stop="20260716163000 +0000" channel="SCTV.mncvision">
+<programme start="20260716160700 +0000" stop="20260716163700 +0000" channel="SCTV.mncvision">
     <title>Cintaku Pembantuku</title>
 </programme>
 <programme start="20260715174700 +0000" stop="20260715185700 +0000" channel="SCTV HD.mncvision">
@@ -7975,40 +7897,40 @@
 <programme start="20260715230000 +0000" stop="20260716000000 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260716000000 +0000" stop="20260716013000 +0000" channel="SCTV HD.mncvision">
-    <title>Abang Cupang Mendadak Sayang</title>
+<programme start="20260716000000 +0000" stop="20260716012600 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Luar Biasa Dari Orang Biasa</title>
 </programme>
-<programme start="20260716013000 +0000" stop="20260716030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716012600 +0000" stop="20260716030000 +0000" channel="SCTV HD.mncvision">
     <title>Playboy Asli Bukan...</title>
 </programme>
-<programme start="20260716030000 +0000" stop="20260716050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716030000 +0000" stop="20260716045400 +0000" channel="SCTV HD.mncvision">
     <title>Sebut Saja Si Kembang Desa</title>
 </programme>
-<programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716045400 +0000" stop="20260716052500 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260716053000 +0000" stop="20260716070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716052500 +0000" stop="20260716065800 +0000" channel="SCTV HD.mncvision">
     <title>Jodoh Direview Cinta Yang Viral</title>
 </programme>
-<programme start="20260716070000 +0000" stop="20260716083000 +0000" channel="SCTV HD.mncvision">
-    <title>Kamu Tercandu Gurame Cintaku</title>
+<programme start="20260716065800 +0000" stop="20260716083000 +0000" channel="SCTV HD.mncvision">
+    <title>Berakit Ke Hulu Berenang Ke...</title>
 </programme>
-<programme start="20260716083000 +0000" stop="20260716101500 +0000" channel="SCTV HD.mncvision">
-    <title>Si Cantik Milik Cowok Cadangan</title>
+<programme start="20260716083000 +0000" stop="20260716100300 +0000" channel="SCTV HD.mncvision">
+    <title>Biduan Syantik Be Like</title>
 </programme>
-<programme start="20260716101500 +0000" stop="20260716114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716100300 +0000" stop="20260716114700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260716114500 +0000" stop="20260716131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716114700 +0000" stop="20260716131500 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260716131500 +0000" stop="20260716143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716131500 +0000" stop="20260716143500 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260716143000 +0000" stop="20260716160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716143500 +0000" stop="20260716160700 +0000" channel="SCTV HD.mncvision">
     <title>Sebening Cinta</title>
 </programme>
-<programme start="20260716160000 +0000" stop="20260716163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260716160700 +0000" stop="20260716163700 +0000" channel="SCTV HD.mncvision">
     <title>Cintaku Pembantuku</title>
 </programme>
 <programme start="20260715170000 +0000" stop="20260715180000 +0000" channel="Sindo News TV.mncvision">
@@ -8474,10 +8396,10 @@
     <title>Sportacular International Match</title>
 </programme>
 <programme start="20260715170000 +0000" stop="20260715190000 +0000" channel="Sportstars 4.mncvision">
-    <title>V-League Women</title>
+    <title>Garuda Di Arena SEA Games</title>
 </programme>
 <programme start="20260715190000 +0000" stop="20260715210000 +0000" channel="Sportstars 4.mncvision">
-    <title>Garuda Di Arena SEA Games</title>
+    <title>V-League Women</title>
 </programme>
 <programme start="20260715210000 +0000" stop="20260715230000 +0000" channel="Sportstars 4.mncvision">
     <title>Bundesliga</title>
@@ -8510,10 +8432,10 @@
     <title>Sportacular International Match</title>
 </programme>
 <programme start="20260715170000 +0000" stop="20260715190000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>V-League Women</title>
+    <title>Garuda Di Arena SEA Games</title>
 </programme>
 <programme start="20260715190000 +0000" stop="20260715210000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Garuda Di Arena SEA Games</title>
+    <title>V-League Women</title>
 </programme>
 <programme start="20260715210000 +0000" stop="20260715230000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
@@ -8629,8 +8551,11 @@
 <programme start="20260716030000 +0000" stop="20260716040000 +0000" channel="SPOTV.mncvision">
     <title>154th Open Week: Qualifier</title>
 </programme>
-<programme start="20260716040000 +0000" stop="20260716050000 +0000" channel="SPOTV.mncvision">
+<programme start="20260716040000 +0000" stop="20260716043000 +0000" channel="SPOTV.mncvision">
     <title>154th Open Week: Heroes Classic</title>
+</programme>
+<programme start="20260716043000 +0000" stop="20260716050000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E: Shanghai E-Prix HL</title>
 </programme>
 <programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="SPOTV.mncvision">
     <title>2025/26 A-League Men HL</title>
@@ -8749,8 +8674,11 @@
 <programme start="20260716030000 +0000" stop="20260716040000 +0000" channel="SPOTV HD.mncvision">
     <title>154th Open Week: Qualifier</title>
 </programme>
-<programme start="20260716040000 +0000" stop="20260716050000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260716040000 +0000" stop="20260716043000 +0000" channel="SPOTV HD.mncvision">
     <title>154th Open Week: Heroes Classic</title>
+</programme>
+<programme start="20260716043000 +0000" stop="20260716050000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E: Shanghai E-Prix HL</title>
 </programme>
 <programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="SPOTV HD.mncvision">
     <title>2025/26 A-League Men HL</title>

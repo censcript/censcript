@@ -682,9 +682,6 @@
 <programme start="20260715223000 +0000" stop="20260716003000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260716023000 +0000" stop="20260716060000 +0000" channel="ANTV.vision">
-<title>Golmaal: Fun Unlimited</title>
-</programme>
 <programme start="20260716060000 +0000" stop="20260716073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260717010000 +0000" stop="20260717010500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260717010500 +0000" stop="20260717011500 +0000" channel="BTV.vision">
+<title>Anak Hebat</title>
 </programme>
