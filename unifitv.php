@@ -2995,14 +2995,9 @@
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <episode-num system="onscreen">S1E21</episode-num>
   </programme>
-  <programme start="20260716060000 +0000" stop="20260716080000 +0000" channel="didiktv.unifitv">
-    <title lang="en">PROGRAM KHAS: ANUGERAH SUKAN KPM-MSSM-MILO 2025</title>
-    <desc lang="en">PROGRAM KHAS: ANUGERAH SUKAN KPM-MSSM-MILO 2025</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260716080000 +0000" stop="20260716090000 +0000" channel="didiktv.unifitv">
-    <title lang="en">MENENGAH RENDAH 2022</title>
-    <desc lang="en">MENENGAH RENDAH 2022</desc>
+  <programme start="20260716060000 +0000" stop="20260716090000 +0000" channel="didiktv.unifitv">
+    <title lang="en">PROGRAM KHAS</title>
+    <desc lang="en">PROGRAM KHAS</desc>
     <category lang="en">Education</category>
   </programme>
   <programme start="20260716090000 +0000" stop="20260716100000 +0000" channel="didiktv.unifitv">

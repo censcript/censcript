@@ -7591,16 +7591,16 @@
     <programme start="20260716030000 +0000" stop="20260716032500 +0000" channel="ABC Australia HD.starhub">
         <title>Bondi Rescue S17</title>
     </programme>
-    <programme start="20260716032500 +0000" stop="20260716041000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716032500 +0000" stop="20260716040500 +0000" channel="ABC Australia HD.starhub">
         <title>Ambulance Australia S3</title>
     </programme>
-    <programme start="20260716041000 +0000" stop="20260716050000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716040500 +0000" stop="20260716045500 +0000" channel="ABC Australia HD.starhub">
         <title>We Will Decide</title>
     </programme>
-    <programme start="20260716050000 +0000" stop="20260716055500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716045500 +0000" stop="20260716054500 +0000" channel="ABC Australia HD.starhub">
         <title>Aaron Chen</title>
     </programme>
-    <programme start="20260716055500 +0000" stop="20260716070000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716054500 +0000" stop="20260716070000 +0000" channel="ABC Australia HD.starhub">
         <title>Natalie Siegel-Brown - Inspector-General of Aged Care</title>
     </programme>
     <programme start="20260716070000 +0000" stop="20260716080000 +0000" channel="ABC Australia HD.starhub">
@@ -7618,25 +7618,25 @@
     <programme start="20260716091500 +0000" stop="20260716121500 +0000" channel="ABC Australia HD.starhub">
         <title>Round 19 - Geelong Cats v St Kilda</title>
     </programme>
-    <programme start="20260716121500 +0000" stop="20260716130000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716121500 +0000" stop="20260716131000 +0000" channel="ABC Australia HD.starhub">
         <title>We Will Decide</title>
     </programme>
-    <programme start="20260716130000 +0000" stop="20260716133500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716131000 +0000" stop="20260716134500 +0000" channel="ABC Australia HD.starhub">
         <title>Fairlie Arrow Abduction Hoax</title>
     </programme>
-    <programme start="20260716133500 +0000" stop="20260716142000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716134500 +0000" stop="20260716143000 +0000" channel="ABC Australia HD.starhub">
         <title>Ambulance Australia S3</title>
     </programme>
-    <programme start="20260716142000 +0000" stop="20260716143500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716143000 +0000" stop="20260716144500 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2026)</title>
     </programme>
-    <programme start="20260716143500 +0000" stop="20260716145000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716144500 +0000" stop="20260716150000 +0000" channel="ABC Australia HD.starhub">
         <title>The Business (2026)</title>
     </programme>
-    <programme start="20260716145000 +0000" stop="20260716152500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716150000 +0000" stop="20260716153500 +0000" channel="ABC Australia HD.starhub">
         <title>7.30 (2026)</title>
     </programme>
-    <programme start="20260716152500 +0000" stop="20260716162500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260716153500 +0000" stop="20260716163000 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2026)</title>
     </programme>
     <programme start="20260715133000 +0000" stop="20260715163000 +0000" channel="Asianet Movies.starhub">

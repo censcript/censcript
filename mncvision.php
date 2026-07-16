@@ -52,28 +52,28 @@
 <programme start="20260716091500 +0000" stop="20260716121500 +0000" channel="ABC Australia.mncvision">
     <title>AFL: Geelong Vs St. Kilda</title>
 </programme>
-<programme start="20260716121500 +0000" stop="20260716130000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260716121500 +0000" stop="20260716131000 +0000" channel="ABC Australia.mncvision">
     <title>Judgment: Changed Australia</title>
 </programme>
-<programme start="20260716130000 +0000" stop="20260716133500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260716131000 +0000" stop="20260716134500 +0000" channel="ABC Australia.mncvision">
     <title>I Was Actually There</title>
 </programme>
-<programme start="20260716133500 +0000" stop="20260716142000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260716134500 +0000" stop="20260716143000 +0000" channel="ABC Australia.mncvision">
     <title>Ambulance Australia</title>
 </programme>
-<programme start="20260716142000 +0000" stop="20260716143500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260716143000 +0000" stop="20260716144500 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>
 </programme>
-<programme start="20260716143500 +0000" stop="20260716145000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260716144500 +0000" stop="20260716150000 +0000" channel="ABC Australia.mncvision">
     <title>The Business</title>
 </programme>
-<programme start="20260716145000 +0000" stop="20260716152500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260716150000 +0000" stop="20260716153500 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20260716152500 +0000" stop="20260716162500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260716153500 +0000" stop="20260716163000 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20260716162500 +0000" stop="20260716165500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260716163000 +0000" stop="20260715170000 +0000" channel="ABC Australia.mncvision">
     <title>Judgment: Changed Australia</title>
 </programme>
 <programme start="20260715170000 +0000" stop="20260715173000 +0000" channel="Al Jazeera English.mncvision">
@@ -5568,6 +5568,84 @@
 </programme>
 <programme start="20260716163500 +0000" stop="20260715170500 +0000" channel="KIX.mncvision">
     <title>The Monkey Is Back</title>
+</programme>
+<programme start="20260715170000 +0000" stop="20260715173000 +0000" channel="Kompas TV.mncvision">
+    <title>Kilas Kompas</title>
+</programme>
+<programme start="20260715173000 +0000" stop="20260715180000 +0000" channel="Kompas TV.mncvision">
+    <title>Berita Utama</title>
+</programme>
+<programme start="20260715180000 +0000" stop="20260715193000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Petang</title>
+</programme>
+<programme start="20260715193000 +0000" stop="20260715200000 +0000" channel="Kompas TV.mncvision">
+    <title>Indonesia Update</title>
+</programme>
+<programme start="20260715200000 +0000" stop="20260715210000 +0000" channel="Kompas TV.mncvision">
+    <title>Kalam Hati</title>
+</programme>
+<programme start="20260715210000 +0000" stop="20260715213000 +0000" channel="Kompas TV.mncvision">
+    <title>Borgol</title>
+</programme>
+<programme start="20260715213000 +0000" stop="20260715233000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Pagi</title>
+</programme>
+<programme start="20260715233000 +0000" stop="20260716000000 +0000" channel="Kompas TV.mncvision">
+    <title>Jurnal Nusantara</title>
+</programme>
+<programme start="20260716000000 +0000" stop="20260716023000 +0000" channel="Kompas TV.mncvision">
+    <title>Sapa Indonesia Pagi</title>
+</programme>
+<programme start="20260716023000 +0000" stop="20260716030000 +0000" channel="Kompas TV.mncvision">
+    <title>Mata Indonesia</title>
+</programme>
+<programme start="20260716030000 +0000" stop="20260716033000 +0000" channel="Kompas TV.mncvision">
+    <title>Berita Utama</title>
+</programme>
+<programme start="20260716033000 +0000" stop="20260716040000 +0000" channel="Kompas TV.mncvision">
+    <title>Borgol</title>
+</programme>
+<programme start="20260716040000 +0000" stop="20260716060000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Siang</title>
+</programme>
+<programme start="20260716060000 +0000" stop="20260716070000 +0000" channel="Kompas TV.mncvision">
+    <title>Sapa Indonesia Siang</title>
+</programme>
+<programme start="20260716070000 +0000" stop="20260716073000 +0000" channel="Kompas TV.mncvision">
+    <title>Berkas Kompas</title>
+</programme>
+<programme start="20260716073000 +0000" stop="20260716080000 +0000" channel="Kompas TV.mncvision">
+    <title>Jurnal Merah Putih</title>
+</programme>
+<programme start="20260716080000 +0000" stop="20260716082900 +0000" channel="Kompas TV.mncvision">
+    <title>Indonesia Update</title>
+</programme>
+<programme start="20260716082900 +0000" stop="20260716090000 +0000" channel="Kompas TV.mncvision">
+    <title>Borgol</title>
+</programme>
+<programme start="20260716090000 +0000" stop="20260716103000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Petang</title>
+</programme>
+<programme start="20260716103000 +0000" stop="20260716123000 +0000" channel="Kompas TV.mncvision">
+    <title>Sapa Indonesia Malam</title>
+</programme>
+<programme start="20260716123000 +0000" stop="20260716133000 +0000" channel="Kompas TV.mncvision">
+    <title>Berita Utama</title>
+</programme>
+<programme start="20260716133000 +0000" stop="20260716143000 +0000" channel="Kompas TV.mncvision">
+    <title>Rosi</title>
+</programme>
+<programme start="20260716143000 +0000" stop="20260716153000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Malam</title>
+</programme>
+<programme start="20260716153000 +0000" stop="20260716160000 +0000" channel="Kompas TV.mncvision">
+    <title>Berita Utama</title>
+</programme>
+<programme start="20260716160000 +0000" stop="20260716163000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Sport</title>
+</programme>
+<programme start="20260716163000 +0000" stop="20260715170000 +0000" channel="Kompas TV.mncvision">
+    <title>Kilas Kompas</title>
 </programme>
 <programme start="20260715173000 +0000" stop="20260715183000 +0000" channel="LIFE.mncvision">
     <title>Good News</title>
