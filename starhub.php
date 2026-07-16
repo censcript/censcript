@@ -2981,7 +2981,7 @@
         <title>How this spectacular algae could replace lab animals</title>
     </programme>
     <programme start="20260716193000 +0000" stop="20260716200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>The Strait of Hormuz: Iran&#039;s Most Powerful Weapon?</title>
     </programme>
     <programme start="20260716200000 +0000" stop="20260716203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3005,7 +3005,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260716223000 +0000" stop="20260716230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>The Strait of Hormuz: Iran&#039;s Most Powerful Weapon?</title>
     </programme>
     <programme start="20260716230000 +0000" stop="20260716230200 +0000" channel="DW English HD.starhub">
         <title>News</title>

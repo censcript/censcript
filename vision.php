@@ -170,7 +170,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260716110000 +0000" stop="20260716120000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>Dongeng Penguasa Hutan</title>
 </programme>
 <programme start="20260716120000 +0000" stop="20260716133000 +0000" channel="GTV.vision">
 <title>New Family 100 (GTV)</title>
@@ -215,13 +215,13 @@
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260717073000 +0000" stop="20260717090000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260717090000 +0000" stop="20260717110000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>Dongeng Penguasa Hutan</title>
 </programme>
 <programme start="20260715234500 +0000" stop="20260716001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -377,7 +377,7 @@
 <title>iNews Today</title>
 </programme>
 <programme start="20260716063000 +0000" stop="20260716070000 +0000" channel="SindoNews.vision">
-<title>Seputar iNews Siang</title>
+<title>SINDO Today</title>
 </programme>
 <programme start="20260716070000 +0000" stop="20260716083000 +0000" channel="SindoNews.vision">
 <title>iNews Siang</title>
@@ -412,8 +412,11 @@
 <programme start="20260716180000 +0000" stop="20260716183000 +0000" channel="SindoNews.vision">
 <title>iNews Sport</title>
 </programme>
-<programme start="20260716183000 +0000" stop="20260716200000 +0000" channel="SindoNews.vision">
+<programme start="20260716183000 +0000" stop="20260716190000 +0000" channel="SindoNews.vision">
 <title>SINDO Breaking News</title>
+</programme>
+<programme start="20260716190000 +0000" stop="20260716200000 +0000" channel="SindoNews.vision">
+<title>SINDO Prime</title>
 </programme>
 <programme start="20260716200000 +0000" stop="20260716210000 +0000" channel="SindoNews.vision">
 <title>iNews Malam</title>
@@ -449,7 +452,7 @@
 <title>iNews Today</title>
 </programme>
 <programme start="20260717063000 +0000" stop="20260717070000 +0000" channel="SindoNews.vision">
-<title>Seputar iNews Siang</title>
+<title>SINDO Today</title>
 </programme>
 <programme start="20260717070000 +0000" stop="20260717083000 +0000" channel="SindoNews.vision">
 <title>iNews Siang</title>
@@ -679,8 +682,11 @@
 <programme start="20260717114500 +0000" stop="20260717121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260715223000 +0000" stop="20260716003000 +0000" channel="ANTV.vision">
-<title>Aini: Malaikat Tak Bersayap</title>
+<programme start="20260715230000 +0000" stop="20260716023000 +0000" channel="ANTV.vision">
+<title>Waqt: The Race Against Time</title>
+</programme>
+<programme start="20260716023000 +0000" stop="20260716060000 +0000" channel="ANTV.vision">
+<title>Dilwale</title>
 </programme>
 <programme start="20260716060000 +0000" stop="20260716073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -694,35 +700,23 @@
 <programme start="20260716100000 +0000" stop="20260716113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260716113000 +0000" stop="20260716133000 +0000" channel="ANTV.vision">
-<title>Saranjana</title>
-</programme>
-<programme start="20260716133000 +0000" stop="20260716150000 +0000" channel="ANTV.vision">
-<title>Santet: Pelebur Nyawa</title>
-</programme>
-<programme start="20260716150000 +0000" stop="20260716173000 +0000" channel="ANTV.vision">
-<title>Pasukan Berani Mati</title>
-</programme>
-<programme start="20260716173000 +0000" stop="20260716190000 +0000" channel="ANTV.vision">
+<programme start="20260716180000 +0000" stop="20260716190000 +0000" channel="ANTV.vision">
 <title>Ghost Office</title>
 </programme>
-<programme start="20260716190000 +0000" stop="20260716210000 +0000" channel="ANTV.vision">
-<title>Hum Hain Rahi Pyar Ke</title>
-</programme>
-<programme start="20260716210000 +0000" stop="20260716213000 +0000" channel="ANTV.vision">
-<title>Karma Baik</title>
-</programme>
-<programme start="20260716213000 +0000" stop="20260716223000 +0000" channel="ANTV.vision">
-<title>Hati Ke Hati Bersama Mamah...</title>
-</programme>
-<programme start="20260716223000 +0000" stop="20260717003000 +0000" channel="ANTV.vision">
+<programme start="20260716190000 +0000" stop="20260716203000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260717003000 +0000" stop="20260717023000 +0000" channel="ANTV.vision">
-<title>Dari Mata Turun Ke Hati</title>
+<programme start="20260716203000 +0000" stop="20260716213000 +0000" channel="ANTV.vision">
+<title>Karma Baik</title>
+</programme>
+<programme start="20260716213000 +0000" stop="20260716230000 +0000" channel="ANTV.vision">
+<title>Hati Ke Hati Bersama Mamah...</title>
+</programme>
+<programme start="20260716230000 +0000" stop="20260717023000 +0000" channel="ANTV.vision">
+<title>Army</title>
 </programme>
 <programme start="20260717023000 +0000" stop="20260717060000 +0000" channel="ANTV.vision">
-<title>Aankhen</title>
+<title>Humko Tumse Pyar Hai</title>
 </programme>
 <programme start="20260717060000 +0000" stop="20260717073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260717010500 +0000" stop="20260717011500 +0000" channel="BTV.vision">
 <title>Anak Hebat</title>
+</programme>
+<programme start="20260717011500 +0000" stop="20260717014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20260717014500 +0000" stop="20260717020000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>

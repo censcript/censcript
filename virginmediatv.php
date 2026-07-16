@@ -3901,7 +3901,10 @@
 <programme start="20260715213000 +0000" stop="20260716011500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - Qualifier: San Francisco Unicorns v Los Angeles Knight Riders</title>
 </programme>
-<programme start="20260716011500 +0000" stop="20260716053000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260716011500 +0000" stop="20260716050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: Major League Cricket - Eliminator: Washington Freedom v MI New York</title>
+</programme>
+<programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Major League Cricket - Eliminator: Washington Freedom v MI New York</title>
 </programme>
 <programme start="20260716053000 +0000" stop="20260716173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4756,7 +4759,10 @@
 <programme start="20260715213000 +0000" stop="20260716011500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - Qualifier: San Francisco Unicorns v Los Angeles Knight Riders</title>
 </programme>
-<programme start="20260716011500 +0000" stop="20260716053000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260716011500 +0000" stop="20260716050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: Major League Cricket - Eliminator: Washington Freedom v MI New York</title>
+</programme>
+<programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Major League Cricket - Eliminator: Washington Freedom v MI New York</title>
 </programme>
 <programme start="20260716053000 +0000" stop="20260716173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
