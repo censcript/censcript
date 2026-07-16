@@ -73,48 +73,58 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715180000 +0000" stop="20260715223000 +0000" channel="fifa2.unifitv">
+  <programme start="20260715180000 +0000" stop="20260715213000 +0000" channel="fifa2.unifitv">
     <title lang="en">(L) England vs Argentina: FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico. Kick-off time 3:00 AM</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715223000 +0000" stop="20260715230000 +0000" channel="fifa2.unifitv">
+  <programme start="20260715213000 +0000" stop="20260715220000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260715230000 +0000" stop="20260716033000 +0000" channel="fifa2.unifitv">
+  <programme start="20260715220000 +0000" stop="20260716013000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) England vs Argentina: FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260716033000 +0000" stop="20260716040000 +0000" channel="fifa2.unifitv">
+  <programme start="20260716013000 +0000" stop="20260716020000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260716040000 +0000" stop="20260716083000 +0000" channel="fifa2.unifitv">
+  <programme start="20260716020000 +0000" stop="20260716053000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) England vs Argentina: FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260716083000 +0000" stop="20260716090000 +0000" channel="fifa2.unifitv">
+  <programme start="20260716053000 +0000" stop="20260716060000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260716090000 +0000" stop="20260716133000 +0000" channel="fifa2.unifitv">
+  <programme start="20260716060000 +0000" stop="20260716093000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) England vs Argentina: FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716093000 +0000" stop="20260716100000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716100000 +0000" stop="20260716133000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260716133000 +0000" stop="20260716140000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260716140000 +0000" stop="20260716173000 +0000" channel="fifa2.unifitv">
-    <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
+    <title lang="en">(R) England vs Argentina: FIFA World Cup™ 2026 Semi-Finals (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -229,10 +239,15 @@
     <desc lang="en">12 players compete over 18 holes for the very last place in The Open's field. It's the ultimate pressure-cooker for golfers chasing their Open dream -one round, one spot, no second chances.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260716040000 +0000" stop="20260716050000 +0000" channel="spotv.unifitv">
+  <programme start="20260716040000 +0000" stop="20260716043000 +0000" channel="spotv.unifitv">
     <title lang="en">The 154th Open Week - Heroes Classic</title>
     <desc lang="en">A short-format challenge during The Open week, celebrating how the heroes of golf inspire people around the world to play the game while showcasing the work of The Open and The R&amp;A to grow the sport globally</desc>
     <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260716043000 +0000" stop="20260716050000 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 13 Shanghai E-Prix - Highlights 2</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260716050000 +0000" stop="20260716053000 +0000" channel="spotv.unifitv">
     <title lang="en">2025/26 A-League Men Round 24 - Highlights</title>
@@ -14456,7 +14471,7 @@ Raishah</desc>
   </channel>
   <programme start="20260715153300 +0000" stop="20260715160300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">Could children fight pollution with a camera? Can a humble grass become clean fuel? And: Can a remarkable woman scientist solve a tiger mystery?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14491,7 +14506,7 @@ Raishah</desc>
   </programme>
   <programme start="20260715173300 +0000" stop="20260715180300 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">Close up</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14631,7 +14646,7 @@ Raishah</desc>
   </programme>
   <programme start="20260716003300 +0000" stop="20260716010300 +0000" channel="dw.unifitv">
     <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Arts Unveiled</desc>
+    <desc lang="en">Newly accessible Nazi Party records are prompting Germans to revisit family histories. Plus: a portrait of writer Ingeborg Bachmann and the New York photography of émigré photographer Fred Stein.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14701,7 +14716,7 @@ Raishah</desc>
   </programme>
   <programme start="20260716033300 +0000" stop="20260716040300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">Could children fight pollution with a camera? Can a humble grass become clean fuel? And: Can a remarkable woman scientist solve a tiger mystery?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15390,9 +15405,69 @@ Raishah</desc>
     <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260716060000 +0000" stop="20260716153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260716060000 +0000" stop="20260716083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 315: Muhammad vs Della Maddalena</title>
     <desc lang="en">When the Octagon returns to Montreal for the first time since 2015, fans are treated to a stacked card headlined by a championship doubleheader. In the main event, Belal Muhammad defends his welterweight crown for the first time against Australian powerhouse Jack Della Maddalena, and Manon Fiorot battles to be the first female French champion against Flyweight phenom Valentina Shevchenko. Plus, the return of Jose Aldo and much more on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716083000 +0000" stop="20260716090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 9</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716090000 +0000" stop="20260716090500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716090500 +0000" stop="20260716091000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT - LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT</title>
+    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716091000 +0000" stop="20260716091500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716091500 +0000" stop="20260716121500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) AFL Premiership Season - Round 19 - Geelong Cats v St Kilda</title>
+    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716121500 +0000" stop="20260716122000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716122000 +0000" stop="20260716122500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT - LALIGA HISTORIC MOMENTS GERARD PIQUE'S RETIREMENT</title>
+    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716122500 +0000" stop="20260716123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716123000 +0000" stop="20260716130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1003 - Ultimate Knockouts "Hispanic Heritage Month 2023</title>
+    <desc lang="en">UFC Ultimate Knockouts celebrates Hispanic Heritage Month. See Edson Barboza, Polyana Viana, Marlon Vera, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716130000 +0000" stop="20260716135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 318: Holloway vs Poirier 3</title>
+    <desc lang="en">UFC 318 Countdown takes an inside look at the promotion's return to New Orleans, where lightweight Dustin “The Diamond” Poirier will enter the Octagon for the last time against the current BMF champion Max “Blessed” Holloway to end their trilogy</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716135500 +0000" stop="20260716140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260716140000 +0000" stop="20260716190000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC 329: McGregor vs. Holloway 2 - Main</title>
+    <desc lang="en">A colossal rematch is set to close out International Fight Week as “The Notorious” Conor McGregor returns to battle Max “Blessed” Holloway in the main event of UFC 329 at T-Mobile Arena in Las Vegas on Saturday, July 12. The two met first met in August 2013, with McGregor earning a unanimous decision win, and now they will cross paths again. This will be the former two-division world champion's first appearance since his twin meetings with Dusitn Poirier in 2021, while the former featherweight champion and BMF titleholder Holloway will be looking for a measure of a revenge and to add another massive victory to his already impressive resume.</desc>
     <category lang="en">Sports</category>
   </programme>
 </tv>

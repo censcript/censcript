@@ -376,14 +376,14 @@
 <programme start="20260715213000 +0000" stop="20260715223000 +0000" channel="ANTV.mncvision">
     <title>Hati Ke Hati Bersama Mamah...</title>
 </programme>
-<programme start="20260715223000 +0000" stop="20260716003000 +0000" channel="ANTV.mncvision">
+<programme start="20260715223000 +0000" stop="20260715230000 +0000" channel="ANTV.mncvision">
     <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
-<programme start="20260716003000 +0000" stop="20260716023000 +0000" channel="ANTV.mncvision">
-    <title>Pendekar Jagad Kelana</title>
+<programme start="20260715230000 +0000" stop="20260716023000 +0000" channel="ANTV.mncvision">
+    <title>Waqt: The Race Against Time</title>
 </programme>
 <programme start="20260716023000 +0000" stop="20260716060000 +0000" channel="ANTV.mncvision">
-    <title>Golmaal: Fun Unlimited</title>
+    <title>Dilwale</title>
 </programme>
 <programme start="20260716060000 +0000" stop="20260716073000 +0000" channel="ANTV.mncvision">
     <title>Jhanak</title>
@@ -400,10 +400,10 @@
 <programme start="20260716113000 +0000" stop="20260716133000 +0000" channel="ANTV.mncvision">
     <title>Saranjana</title>
 </programme>
-<programme start="20260716133000 +0000" stop="20260716150000 +0000" channel="ANTV.mncvision">
-    <title>Santet: Pelebur Nyawa</title>
+<programme start="20260716133000 +0000" stop="20260716153000 +0000" channel="ANTV.mncvision">
+    <title>Yang Perkasa</title>
 </programme>
-<programme start="20260716150000 +0000" stop="20260716153000 +0000" channel="ANTV.mncvision">
+<programme start="20260716153000 +0000" stop="20260716160000 +0000" channel="ANTV.mncvision">
     <title>Pasukan Berani Mati</title>
 </programme>
 <programme start="20260715170000 +0000" stop="20260715173000 +0000" channel="Arirang.mncvision">
