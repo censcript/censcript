@@ -3088,16 +3088,16 @@
   <programme start="20260717225000 +0000" stop="20260717231600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Plné hnízdo v Plzeňském kraji 2</title>
   </programme>
-  <programme start="20260717231600 +0000" stop="20260717235800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260717231600 +0000" stop="20260717235700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na forbíně TM</title>
   </programme>
-  <programme start="20260717235800 +0000" stop="20260718002200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260717235700 +0000" stop="20260718002100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Přes nový práh</title>
   </programme>
-  <programme start="20260718002200 +0000" stop="20260718025300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260718002100 +0000" stop="20260718025200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20260718025300 +0000" stop="20260718031900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260718025200 +0000" stop="20260718031900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Plné hnízdo v Olomouckém kraji 2</title>
   </programme>
   <programme start="20260718031900 +0000" stop="20260718033000 +0000" channel="ČT1.webtv.sk">
@@ -3115,10 +3115,10 @@
   <programme start="20260718052000 +0000" stop="20260718063000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Píseň pro Rudolfa III. III (4)</title>
   </programme>
-  <programme start="20260718063000 +0000" stop="20260718073600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260718063000 +0000" stop="20260718073700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zaspala nevěsta</title>
   </programme>
-  <programme start="20260718073600 +0000" stop="20260718081500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260718073700 +0000" stop="20260718081500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Úsměvy Jaromíra Vašty</title>
   </programme>
   <programme start="20260718081500 +0000" stop="20260718090500 +0000" channel="ČT1.webtv.sk">
@@ -3142,13 +3142,13 @@
   <programme start="20260718110500 +0000" stop="20260718114500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Anynka a čert</title>
   </programme>
-  <programme start="20260718114500 +0000" stop="20260718123700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260718114500 +0000" stop="20260718123600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Jak Jaromil ke štěstí přišel</title>
   </programme>
-  <programme start="20260718123700 +0000" stop="20260718131800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260718123600 +0000" stop="20260718131700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Slunečnice</title>
   </programme>
-  <programme start="20260718131800 +0000" stop="20260718142000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260718131700 +0000" stop="20260718142000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Konec semestru</title>
   </programme>
   <programme start="20260718142000 +0000" stop="20260718151100 +0000" channel="ČT1.webtv.sk">
@@ -15883,11 +15883,8 @@
   <programme start="20260717223000 +0000" stop="20260717223200 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260717223200 +0000" stop="20260717224000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Brief (25)</title>
-  </programme>
-  <programme start="20260717224000 +0000" stop="20260717224500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
+  <programme start="20260717223200 +0000" stop="20260717224500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">TVP World Special Report (5)</title>
   </programme>
   <programme start="20260717224500 +0000" stop="20260717225500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Interviews - Dancing with the Russian Bear (7)</title>
@@ -15965,10 +15962,10 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20260718051000 +0000" stop="20260718052000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Brief (25)</title>
+    <title lang="id">TVP World Special Report (5)</title>
   </programme>
   <programme start="20260718052000 +0000" stop="20260718053500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1863)</title>
+    <title lang="id">Interviews - Dancing with the Russian Bear (7)</title>
   </programme>
   <programme start="20260718053500 +0000" stop="20260718055500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">News in Depth</title>
@@ -16130,7 +16127,7 @@
     <title lang="id">World News Online</title>
   </programme>
   <programme start="20260718173500 +0000" stop="20260718174500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Brief (25)</title>
+    <title lang="id">World Talks (1863)</title>
   </programme>
   <programme start="20260718174500 +0000" stop="20260718180000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Crossing borders. Run for freedom. (10)</title>
@@ -16141,10 +16138,10 @@
   <programme start="20260718183000 +0000" stop="20260718183200 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260718183200 +0000" stop="20260718185000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260718183200 +0000" stop="20260718185500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">UNESCO: Poland&apos;s Treasures (3)</title>
   </programme>
-  <programme start="20260718185000 +0000" stop="20260718190000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260718185500 +0000" stop="20260718190000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
   <programme start="20260718190000 +0000" stop="20260718191500 +0000" channel="TVP World.webtv.sk">

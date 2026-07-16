@@ -3026,7 +3026,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260717003000 +0000" stop="20260717010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>The Strait of Hormuz: Iran&#039;s Most Powerful Weapon?</title>
     </programme>
     <programme start="20260717010000 +0000" stop="20260717010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3101,7 +3101,7 @@
         <title>News</title>
     </programme>
     <programme start="20260717080200 +0000" stop="20260717083000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>The Strait of Hormuz: Iran&#039;s Most Powerful Weapon?</title>
     </programme>
     <programme start="20260717083000 +0000" stop="20260717090000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -3128,7 +3128,7 @@
         <title>News</title>
     </programme>
     <programme start="20260717110200 +0000" stop="20260717113000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>The Strait of Hormuz: Iran&#039;s Most Powerful Weapon?</title>
     </programme>
     <programme start="20260717113000 +0000" stop="20260717120000 +0000" channel="DW English HD.starhub">
         <title>Best of DW Podcasts</title>
@@ -3167,7 +3167,7 @@
         <title>News</title>
     </programme>
     <programme start="20260717153000 +0000" stop="20260717160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>The Strait of Hormuz: Iran&#039;s Most Powerful Weapon?</title>
     </programme>
     <programme start="20260716160000 +0000" stop="20260716220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3649,32 +3649,26 @@
     <programme start="20260717034500 +0000" stop="20260717040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 80 (R)</title>
     </programme>
-    <programme start="20260717040000 +0000" stop="20260717040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+    <programme start="20260717040000 +0000" stop="20260717045500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Classical Music Club</title>
     </programme>
-    <programme start="20260717040500 +0000" stop="20260717055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News Around Japan</title>
-    </programme>
-    <programme start="20260717055000 +0000" stop="20260717055500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20260717045500 +0000" stop="20260717055500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Somewhere Street &quot;Busan, South Korea&quot; (R)</title>
     </programme>
     <programme start="20260717055500 +0000" stop="20260717060000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Music Album</title>
     </programme>
     <programme start="20260717060000 +0000" stop="20260717061000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Darwin&#039;s Amazing Animals 10min.</title>
     </programme>
     <programme start="20260717061000 +0000" stop="20260717062500 +0000" channel="NHK World Premium HD.starhub">
         <title>Health for Today</title>
     </programme>
     <programme start="20260717062500 +0000" stop="20260717064000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 27 (R)</title>
+    </programme>
+    <programme start="20260717064000 +0000" stop="20260717065500 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Drama Serial &quot;Midnight Taxi&quot; Ep. 28 (R)</title>
-    </programme>
-    <programme start="20260717064000 +0000" stop="20260717065000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mimicries--Natural Science for Kids</title>
-    </programme>
-    <programme start="20260717065000 +0000" stop="20260717065500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone (R)</title>
     </programme>
     <programme start="20260717065500 +0000" stop="20260717090000 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 July Tournament at IG Arena (B)</title>
