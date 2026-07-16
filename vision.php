@@ -215,7 +215,7 @@
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260717073000 +0000" stop="20260717090000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260717090000 +0000" stop="20260717110000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
@@ -684,6 +684,9 @@
 </programme>
 <programme start="20260715230000 +0000" stop="20260716023000 +0000" channel="ANTV.vision">
 <title>Waqt: The Race Against Time</title>
+</programme>
+<programme start="20260716023000 +0000" stop="20260716060000 +0000" channel="ANTV.vision">
+<title>Dilwale</title>
 </programme>
 <programme start="20260716060000 +0000" stop="20260716073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260717010000 +0000" stop="20260717010500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260717010500 +0000" stop="20260717011500 +0000" channel="BTV.vision">
-<title>Anak Hebat</title>
 </programme>
