@@ -700,9 +700,6 @@
 <programme start="20260716100000 +0000" stop="20260716113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260716180000 +0000" stop="20260716190000 +0000" channel="ANTV.vision">
-<title>Ghost Office</title>
-</programme>
 <programme start="20260716190000 +0000" stop="20260716203000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260717014500 +0000" stop="20260717020000 +0000" channel="BTV.vision">
 <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20260717020000 +0000" stop="20260717020500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>
