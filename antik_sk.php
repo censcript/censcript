@@ -6368,22 +6368,22 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260718223000 +0000" stop="20260718230000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Generická preskripcia a výdaj náhradných liekov v lekárni</title>
+    <title lang="id">Odpovedá dr.h.c. prof. MUDr. Ján breza, drsc., mha, mph</title>
   </programme>
   <programme start="20260718230000 +0000" stop="20260718233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Menštruácia bez tabu. aj na slovensku existuje menštruačná chudoba</title>
+    <title lang="id">Prečo sa netreba hanbiť hovoriť o problémoch v urológii</title>
   </programme>
   <programme start="20260718233000 +0000" stop="20260719000000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Reprodukčná imunológia</title>
+    <title lang="id">Prevencia a rakovina prsníka</title>
   </programme>
-  <programme start="20260719000000 +0000" stop="20260719003000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze s MUDr. Rebekou gabal a otázke príliš mladá na menopauzu?</title>
+  <programme start="20260719000000 +0000" stop="20260719010000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Horúčka – pomocník alebo nepriateľ?</title>
   </programme>
-  <programme start="20260719003000 +0000" stop="20260719010000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Popáleniny</title>
+  <programme start="20260719010000 +0000" stop="20260719015000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Závažné ochorenia mozgu - demencia a alzheimerova choroba 02</title>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719020000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Smútok a smútková terapia</title>
+  <programme start="20260719015000 +0000" stop="20260719020000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Laserové odstránenie znamienka</title>
   </programme>
   <programme start="20260719020000 +0000" stop="20260719023000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
@@ -6410,88 +6410,82 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260719063000 +0000" stop="20260719070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Najčastejšie mýty o výžive a ako sa vyznať v informačnom chaose</title>
+    <title lang="id">Prečo je dobré rozumieť zmluvám</title>
   </programme>
   <programme start="20260719070000 +0000" stop="20260719073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Psychológia - poruchy príjmu potravy</title>
+    <title lang="id">Čo je pôrodnícke násilie a prečo sa o ňom začína viac hovoriť</title>
   </programme>
   <programme start="20260719073000 +0000" stop="20260719080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Rhinoplastika - plastická operácia nosa</title>
+    <title lang="id">F32 - f22 depresia</title>
   </programme>
-  <programme start="20260719080000 +0000" stop="20260719090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Dobré správy v oblasti rakoviny krvi</title>
+  <programme start="20260719080000 +0000" stop="20260719083000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">O menopauze s MUDr. Zuzanou kosibovou o stigme menom menopauza</title>
+  </programme>
+  <programme start="20260719083000 +0000" stop="20260719090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Bezpečnosť na trampolíne</title>
   </programme>
   <programme start="20260719090000 +0000" stop="20260719100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prečo sa deti a mladí ľudia sebapoškodzujú a ako im pomôcť?</title>
+    <title lang="id">Úzkosť</title>
   </programme>
   <programme start="20260719100000 +0000" stop="20260719103000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260719103000 +0000" stop="20260719110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kelo a pražená ryža + kľuky</title>
+    <title lang="id">Odpovedá dr.h.c. prof. MUDr. Ján breza, drsc., mha, mph</title>
   </programme>
   <programme start="20260719110000 +0000" stop="20260719113000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
+    <title lang="id">Prečo sa netreba hanbiť hovoriť o problémoch v urológii</title>
   </programme>
   <programme start="20260719113000 +0000" stop="20260719120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Optická koherentná tomografia a optická koherentná tomografická angiografia</title>
+    <title lang="id">Prevencia a rakovina prsníka</title>
   </programme>
-  <programme start="20260719120000 +0000" stop="20260719123000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ibd ochorenia u detí</title>
-  </programme>
-  <programme start="20260719123000 +0000" stop="20260719130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Knihy ako mosty medzi ľuďmi</title>
+  <programme start="20260719120000 +0000" stop="20260719130000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Horúčka – pomocník alebo nepriateľ?</title>
   </programme>
   <programme start="20260719130000 +0000" stop="20260719135000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nádory pankreasu</title>
+    <title lang="id">Závažné ochorenia mozgu - demencia a alzheimerova choroba 02</title>
   </programme>
   <programme start="20260719135000 +0000" stop="20260719140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+    <title lang="id">Laserové odstránenie znamienka</title>
   </programme>
   <programme start="20260719140000 +0000" stop="20260719143000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260719143000 +0000" stop="20260719150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prečo je dobré rozumieť zmluvám</title>
+    <title lang="id">Život a výživa diabetika 1 typu</title>
   </programme>
   <programme start="20260719150000 +0000" stop="20260719153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Čo je pôrodnícke násilie a prečo sa o ňom začína viac hovoriť</title>
+    <title lang="id">Psychológia - šikana</title>
   </programme>
   <programme start="20260719153000 +0000" stop="20260719160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">F32 - f22 depresia</title>
+    <title lang="id">Cholesterol</title>
   </programme>
-  <programme start="20260719160000 +0000" stop="20260719163000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze s MUDr. Zuzanou kosibovou o stigme menom menopauza</title>
-  </programme>
-  <programme start="20260719163000 +0000" stop="20260719170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Bezpečnosť na trampolíne</title>
+  <programme start="20260719160000 +0000" stop="20260719170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Klinické skúšky: neviditeľná, ale kľúčová sila za modernými liečbami</title>
   </programme>
   <programme start="20260719170000 +0000" stop="20260719180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Úzkosť</title>
+    <title lang="id">Diagnóza als: ako nájsť nádej v beznádeji?</title>
   </programme>
   <programme start="20260719180000 +0000" stop="20260719183000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260719183000 +0000" stop="20260719190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prečo sa lieky sťahujú z trhu?</title>
+    <title lang="id">Generická preskripcia a výdaj náhradných liekov v lekárni</title>
   </programme>
   <programme start="20260719190000 +0000" stop="20260719193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Skolióza u detí: ako ju rozpoznať, čo ju spôsobuje a ako správne cvičiť</title>
+    <title lang="id">Menštruácia bez tabu. aj na slovensku existuje menštruačná chudoba</title>
   </programme>
   <programme start="20260719193000 +0000" stop="20260719200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ty nepiješ?</title>
+    <title lang="id">Reprodukčná imunológia</title>
   </programme>
   <programme start="20260719200000 +0000" stop="20260719203000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ty raz skončíš na prednej hore!</title>
+    <title lang="id">O menopauze s MUDr. Rebekou gabal a otázke príliš mladá na menopauzu?</title>
   </programme>
   <programme start="20260719203000 +0000" stop="20260719210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá stomatochirurg mdDr. Andrej breza, mph</title>
+    <title lang="id">Popáleniny</title>
   </programme>
-  <programme start="20260719210000 +0000" stop="20260719213000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kmeňové bunky v liečbe sklerózy multiplex</title>
-  </programme>
-  <programme start="20260719213000 +0000" stop="20260719220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kľúčom ku zdraviu je prevencia. čo to však znamená?</title>
+  <programme start="20260719210000 +0000" stop="20260719220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Smútok a smútková terapia</title>
   </programme>
   <programme start="20260718220000 +0000" stop="20260718230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
@@ -16730,22 +16724,22 @@
     <title lang="id">Настоящее Время. Интервью</title>
   </programme>
   <programme start="20260718223000 +0000" stop="20260718230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Сибириада: Тыва – беднейший регион PФ</title>
   </programme>
   <programme start="20260718230000 +0000" stop="20260719000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">VOTVOT</title>
+    <title lang="id">Как у них получилось: Исландия</title>
   </programme>
   <programme start="20260719000000 +0000" stop="20260719020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Свидетели Путина</title>
   </programme>
   <programme start="20260719020000 +0000" stop="20260719023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтийский путь</title>
+    <title lang="id">Балтийский путь: Как жители Балтии распоряжаются накоплениями</title>
   </programme>
   <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW. Pепортер</title>
+    <title lang="id">DW. #вТPЕНДde: Ксения Лученко</title>
   </programme>
   <programme start="20260719030000 +0000" stop="20260719033000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Америка. Большое путешествие</title>
+    <title lang="id">Америка. Большое путешествие: Небраска</title>
   </programme>
   <programme start="20260719033000 +0000" stop="20260719040000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Смотри в оба</title>
@@ -16754,10 +16748,10 @@
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20260719050000 +0000" stop="20260719070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Свидетели Путина</title>
   </programme>
   <programme start="20260719070000 +0000" stop="20260719073000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Система</title>
+    <title lang="id">СИСТЕМА: Главный по Аурусам</title>
   </programme>
   <programme start="20260719073000 +0000" stop="20260719080000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Европа в фокусе</title>
@@ -16772,10 +16766,10 @@
     <title lang="id">DW. Искусство в деталях</title>
   </programme>
   <programme start="20260719100000 +0000" stop="20260719120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Свидетели Путина</title>
   </programme>
   <programme start="20260719120000 +0000" stop="20260719123000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Открой Молдову</title>
+    <title lang="id">Открой Молдову: Иностранцы, выбравшие Молдову для учебы</title>
   </programme>
   <programme start="20260719123000 +0000" stop="20260719130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW.Интервью</title>
@@ -16784,7 +16778,7 @@
     <title lang="id">DW. Европа в фокусе</title>
   </programme>
   <programme start="20260719133000 +0000" stop="20260719140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Сибириада: Напас – пуп земли</title>
   </programme>
   <programme start="20260719140000 +0000" stop="20260719150000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Человек имеет право</title>
@@ -16799,10 +16793,10 @@
     <title lang="id">DW. Искусство в деталях</title>
   </programme>
   <programme start="20260719170000 +0000" stop="20260719190000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Евродонбасс</title>
   </programme>
   <programme start="20260719190000 +0000" stop="20260719193000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Открой Молдову</title>
+    <title lang="id">Открой Молдову: Иностранцы, выбравшие Молдову для учебы</title>
   </programme>
   <programme start="20260719193000 +0000" stop="20260719200000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW.Интервью</title>
@@ -16811,7 +16805,7 @@
     <title lang="id">DW. Европа в фокусе</title>
   </programme>
   <programme start="20260719203000 +0000" stop="20260719210000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Сибириада: Напас – пуп земли</title>
   </programme>
   <programme start="20260719210000 +0000" stop="20260719220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Человек имеет право</title>

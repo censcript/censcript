@@ -19,10 +19,10 @@
 <programme start="20260717080000 +0000" stop="20260717103000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui (RCTI)</title>
 </programme>
-<programme start="20260715103000 +0000" stop="20260715120000 +0000" channel="RCTI.vision">
+<programme start="20260717103000 +0000" stop="20260717120000 +0000" channel="RCTI.vision">
 <title>Tobat Jatuh Cinta (RCTI)</title>
 </programme>
-<programme start="20260715120000 +0000" stop="20260715133000 +0000" channel="RCTI.vision">
+<programme start="20260717120000 +0000" stop="20260717133000 +0000" channel="RCTI.vision">
 <title>Terikat Janji (RCTI)</title>
 </programme>
 <programme start="20260717133000 +0000" stop="20260717144500 +0000" channel="RCTI.vision">
@@ -31,22 +31,22 @@
 <programme start="20260717144500 +0000" stop="20260717160000 +0000" channel="RCTI.vision">
 <title>Cinta Masa Lalu</title>
 </programme>
-<programme start="20260715160000 +0000" stop="20260715171500 +0000" channel="RCTI.vision">
+<programme start="20260717160000 +0000" stop="20260717171500 +0000" channel="RCTI.vision">
 <title>Semua Indah Karena Cinta</title>
 </programme>
-<programme start="20260715171500 +0000" stop="20260715183000 +0000" channel="RCTI.vision">
+<programme start="20260717171500 +0000" stop="20260717183000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260715183000 +0000" stop="20260715190000 +0000" channel="RCTI.vision">
+<programme start="20260717183000 +0000" stop="20260717190000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260715190000 +0000" stop="20260715200000 +0000" channel="RCTI.vision">
+<programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260715200000 +0000" stop="20260715211500 +0000" channel="RCTI.vision">
+<programme start="20260717200000 +0000" stop="20260717211500 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260715211500 +0000" stop="20260715223000 +0000" channel="RCTI.vision">
+<programme start="20260717211500 +0000" stop="20260717230000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
 <programme start="20260717230000 +0000" stop="20260718010000 +0000" channel="RCTI.vision">
@@ -64,7 +64,7 @@
 <programme start="20260718093000 +0000" stop="20260718103000 +0000" channel="RCTI.vision">
 <title>Opsi Jalan Keluar</title>
 </programme>
-<programme start="20260711103000 +0000" stop="20260711120000 +0000" channel="RCTI.vision">
+<programme start="20260718103000 +0000" stop="20260718120000 +0000" channel="RCTI.vision">
 <title>Tobat Jatuh Cinta (RCTI)</title>
 </programme>
 <programme start="20260717000000 +0000" stop="20260717004500 +0000" channel="MNCTV.vision">

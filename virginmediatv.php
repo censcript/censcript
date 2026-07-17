@@ -1949,7 +1949,7 @@
     <title>Bullseye - Bullseye 12</title>
 </programme>
 <programme start="20260717043000 +0000" stop="20260717050000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye - Bullseye 13</title>
+    <title>Bullseye</title>
 </programme>
 <programme start="20260717050000 +0000" stop="20260717053000 +0000" channel="Challenge.virginmediatv">
     <title>Teleshopping</title>
@@ -4190,7 +4190,7 @@
     <title>ATP &amp; WTA Classic Matches - WTA Finals 2007: Justine Henin v Maria Sharapova</title>
 </programme>
 <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: WTA German Open 2026 - Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Mallorca Championships 2026 - Final</title>
@@ -4937,7 +4937,7 @@
     <title>ATP &amp; WTA Classic Matches - WTA Finals 2007: Justine Henin v Maria Sharapova</title>
 </programme>
 <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: WTA German Open 2026 - Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Mallorca Championships 2026 - Final</title>

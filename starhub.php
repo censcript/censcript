@@ -7412,7 +7412,7 @@
         <title>Part 2</title>
     </programme>
     <programme start="20260717003000 +0000" stop="20260717013000 +0000" channel="Hits HD.starhub">
-        <title>Part 4</title>
+        <title>Part 2</title>
     </programme>
     <programme start="20260717013000 +0000" stop="20260717023000 +0000" channel="Hits HD.starhub">
         <title>Danse Diabolique</title>
@@ -7433,7 +7433,7 @@
         <title>Part 3</title>
     </programme>
     <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="Hits HD.starhub">
-        <title>Part 1</title>
+        <title>Part 3</title>
     </programme>
     <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="Hits HD.starhub">
         <title>Spring Dance</title>
