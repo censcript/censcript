@@ -685,6 +685,12 @@
 <programme start="20260717100000 +0000" stop="20260717113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaan</title>
 </programme>
+<programme start="20260717153000 +0000" stop="20260717173000 +0000" channel="ANTV.vision">
+<title>Naga Sakti</title>
+</programme>
+<programme start="20260717173000 +0000" stop="20260717190000 +0000" channel="ANTV.vision">
+<title>Will Of Iron</title>
+</programme>
 <programme start="20260717190000 +0000" stop="20260717203000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260717224500 +0000" stop="20260717234500 +0000" channel="MDTV.vision">
 <title>Jelajah Masjid Nusantara</title>
-</programme>
-<programme start="20260717234500 +0000" stop="20260718010000 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20260718010000 +0000" stop="20260718015500 +0000" channel="MDTV.vision">
-<title>Fakta +62 Weekend</title>
 </programme>

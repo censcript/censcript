@@ -94,6 +94,9 @@
     <programme start="20260718020000 +0000" stop="20260718023000 +0000" channel="Zee TV.starhub">
         <title>Ganga Mai Ki Betiyan</title>
     </programme>
+    <programme start="20260718023000 +0000" stop="20260718030000 +0000" channel="Zee TV.starhub">
+        <title>Tu Hi Re Dil Mein</title>
+    </programme>
     <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="Zee TV.starhub">
         <title>Maa Hai Na</title>
     </programme>
@@ -104,7 +107,7 @@
         <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260718073000 +0000" stop="20260718080000 +0000" channel="Zee TV.starhub">
-        <title>Grand Truck Rasoi</title>
+        <title>Grand Trunk Rasoi S02</title>
     </programme>
     <programme start="20260718080000 +0000" stop="20260718090000 +0000" channel="Zee TV.starhub">
         <title>Maa Hai Na</title>
@@ -125,7 +128,7 @@
         <title>Lakshmi Nivas</title>
     </programme>
     <programme start="20260718120000 +0000" stop="20260718123000 +0000" channel="Zee TV.starhub">
-        <title>Saru</title>
+        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260718123000 +0000" stop="20260718130000 +0000" channel="Zee TV.starhub">
         <title>Ganga Mai Ki Betiyan</title>
@@ -3581,7 +3584,7 @@
         <title>Health for Today</title>
     </programme>
     <programme start="20260718053200 +0000" stop="20260718054200 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mimicries--Natural Science for Kids</title>
+        <title>Mimicries--Natural Science for Kids (R)</title>
     </programme>
     <programme start="20260718054200 +0000" stop="20260718054500 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
@@ -3613,8 +3616,11 @@
     <programme start="20260718103000 +0000" stop="20260718110700 +0000" channel="NHK World Premium HD.starhub">
         <title>Strolling with Tamori</title>
     </programme>
-    <programme start="20260718110700 +0000" stop="20260718115300 +0000" channel="NHK World Premium HD.starhub">
-        <title>TBA</title>
+    <programme start="20260718110700 +0000" stop="20260718113700 +0000" channel="NHK World Premium HD.starhub">
+        <title>Illustrating Pythagorean Equipment From PythagoraSwitch Part 1 Encore (R)</title>
+    </programme>
+    <programme start="20260718113700 +0000" stop="20260718115300 +0000" channel="NHK World Premium HD.starhub">
+        <title>100 Beautiful Mountains of Japan Mini</title>
     </programme>
     <programme start="20260718115300 +0000" stop="20260718115500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
