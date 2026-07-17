@@ -685,12 +685,6 @@
 <programme start="20260717100000 +0000" stop="20260717113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaan</title>
 </programme>
-<programme start="20260717113000 +0000" stop="20260717133000 +0000" channel="ANTV.vision">
-<title>Iblis Dalam Kandungan</title>
-</programme>
-<programme start="20260717133000 +0000" stop="20260717153000 +0000" channel="ANTV.vision">
-<title>Dendam 2 Jagoan</title>
-</programme>
 <programme start="20260717153000 +0000" stop="20260717173000 +0000" channel="ANTV.vision">
 <title>Naga Sakti</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260717200500 +0000" stop="20260717210000 +0000" channel="MDTV.vision">
 <title>What&#039;s Wrong With Secretary Kim</title>
+</programme>
+<programme start="20260717210000 +0000" stop="20260717224500 +0000" channel="MDTV.vision">
+<title>Top Spot</title>
+</programme>
+<programme start="20260717224500 +0000" stop="20260717234500 +0000" channel="MDTV.vision">
+<title>Jelajah Masjid Nusantara</title>
 </programme>

@@ -1133,16 +1133,13 @@
     <title>Dara O Briain: Craic Dealer</title>
 </programme>
 <programme start="20260717025000 +0000" stop="20260717031500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>The Daily Show - July 15, 2026</title>
+    <title>The Daily Show</title>
 </programme>
 <programme start="20260717031500 +0000" stop="20260717033500 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One with Frank Jr</title>
 </programme>
-<programme start="20260717033500 +0000" stop="20260717040000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20260717033500 +0000" stop="20260717050000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With the Flashback</title>
-</programme>
-<programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Teleshopping</title>
 </programme>
 <programme start="20260717050000 +0000" stop="20260717053000 +0000" channel="Comedy_HD.virginmediatv">
     <title>The Real Cruise People</title>
@@ -3986,7 +3983,7 @@
     <title>The Hundred - Women&#039;s Final: Southern Brave v Northern Superchargers</title>
 </programme>
 <programme start="20260717173000 +0000" stop="20260717211500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Live: Women&#039;s T20 Blast - Final: TBA v TBA</title>
+    <title>Live: Women&#039;s T20 Blast - Final: The Blaze v TBA</title>
 </programme>
 <programme start="20260716233000 +0000" stop="20260717003000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Kaulig Companies, PGA Tour Champions Golf - Highlights</title>
@@ -4190,7 +4187,7 @@
     <title>ATP &amp; WTA Classic Matches - WTA Finals 2007: Justine Henin v Maria Sharapova</title>
 </programme>
 <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: WTA German Open 2026 - Final</title>
 </programme>
 <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Mallorca Championships 2026 - Final</title>
@@ -4733,7 +4730,7 @@
     <title>The Hundred - Women&#039;s Final: Southern Brave v Northern Superchargers</title>
 </programme>
 <programme start="20260717173000 +0000" stop="20260717211500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Live: Women&#039;s T20 Blast - Final: TBA v TBA</title>
+    <title>Live: Women&#039;s T20 Blast - Final: The Blaze v TBA</title>
 </programme>
 <programme start="20260716233000 +0000" stop="20260717003000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Kaulig Companies, PGA Tour Champions Golf - Highlights</title>
@@ -4937,7 +4934,7 @@
     <title>ATP &amp; WTA Classic Matches - WTA Finals 2007: Justine Henin v Maria Sharapova</title>
 </programme>
 <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: WTA German Open 2026 - Final</title>
 </programme>
 <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Mallorca Championships 2026 - Final</title>
@@ -5573,7 +5570,7 @@
     <title>Dara O Briain: Craic Dealer</title>
 </programme>
 <programme start="20260717035000 +0000" stop="20260717041500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>The Daily Show - July 15, 2026</title>
+    <title>The Daily Show</title>
 </programme>
 <programme start="20260717041500 +0000" stop="20260717043500 +0000" channel="Comedy_+1.virginmediatv">
     <title>Friends - The One with Frank Jr</title>
@@ -7316,7 +7313,7 @@
     <title>Dara O Briain: Craic Dealer</title>
 </programme>
 <programme start="20260717025000 +0000" stop="20260717031500 +0000" channel="Comedy.virginmediatv">
-    <title>The Daily Show - July 15, 2026</title>
+    <title>The Daily Show</title>
 </programme>
 <programme start="20260717031500 +0000" stop="20260717033500 +0000" channel="Comedy.virginmediatv">
     <title>Friends - The One with Frank Jr</title>
