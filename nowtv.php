@@ -118,18 +118,6 @@
 <programme start="20260718160000 +0000" stop="20260718180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260717200000 +0000" stop="20260717221500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -QF - France vs Morocco</title>
-</programme>
-<programme start="20260717221500 +0000" stop="20260717223000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(B)</title>
-</programme>
-<programme start="20260717223000 +0000" stop="20260717224500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(C)</title>
-</programme>
-<programme start="20260717224500 +0000" stop="20260717230000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
-</programme>
 <programme start="20260717230000 +0000" stop="20260718013000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -SF - England vs Argentina</title>
 </programme>
