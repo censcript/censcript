@@ -3989,7 +3989,7 @@
     <title>The Hundred - Women&#039;s Final: Southern Brave v Northern Superchargers</title>
 </programme>
 <programme start="20260717173000 +0000" stop="20260717211500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Live: Women&#039;s T20 Blast - Final: The Blaze v TBA</title>
+    <title>Live: Women&#039;s T20 Blast - Final: The Blaze v Durham</title>
 </programme>
 <programme start="20260716233000 +0000" stop="20260717003000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Kaulig Companies, PGA Tour Champions Golf - Highlights</title>
@@ -4736,7 +4736,7 @@
     <title>The Hundred - Women&#039;s Final: Southern Brave v Northern Superchargers</title>
 </programme>
 <programme start="20260717173000 +0000" stop="20260717211500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Live: Women&#039;s T20 Blast - Final: The Blaze v TBA</title>
+    <title>Live: Women&#039;s T20 Blast - Final: The Blaze v Durham</title>
 </programme>
 <programme start="20260716233000 +0000" stop="20260717003000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Kaulig Companies, PGA Tour Champions Golf - Highlights</title>

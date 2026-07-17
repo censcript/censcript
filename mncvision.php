@@ -6613,7 +6613,69 @@
 <programme start="20260718163000 +0000" stop="20260717170000 +0000" channel="Music TV HD.mncvision">
     <title>KDI 2025</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260717173000 +0000" stop="20260717190000 +0000" channel="Muslim TV.mncvision">
+    <title>Live Dari Mekkah</title>
+</programme>
+<programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Lentera Hati</title>
+</programme>
+<programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="Muslim TV.mncvision">
+    <title>Catatan Hati Seorang Istri 2</title>
+</programme>
+<programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S3</title>
+</programme>
+<programme start="20260717220000 +0000" stop="20260717233000 +0000" channel="Muslim TV.mncvision">
+    <title>Hafiz Indonesia 2022</title>
+</programme>
+<programme start="20260717233000 +0000" stop="20260718003000 +0000" channel="Muslim TV.mncvision">
+    <title>Penyejuk Hati</title>
+</programme>
+<programme start="20260718003000 +0000" stop="20260718013000 +0000" channel="Muslim TV.mncvision">
+    <title>Kun Anta S3</title>
+</programme>
+<programme start="20260718013000 +0000" stop="20260718020000 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20260718020000 +0000" stop="20260718031500 +0000" channel="Muslim TV.mncvision">
+    <title>Catatan Harian Aisha</title>
+</programme>
+<programme start="20260718031500 +0000" stop="20260718041500 +0000" channel="Muslim TV.mncvision">
+    <title>Aku Mencintaimu Karena Allah</title>
+</programme>
+<programme start="20260718041500 +0000" stop="20260718053000 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20260718053000 +0000" stop="20260718070000 +0000" channel="Muslim TV.mncvision">
+    <title>Maaf Untuk Mama</title>
+</programme>
+<programme start="20260718070000 +0000" stop="20260718083000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Hati Indonesia</title>
+</programme>
+<programme start="20260718083000 +0000" stop="20260718093000 +0000" channel="Muslim TV.mncvision">
+    <title>Catatan Harian Aisha</title>
+</programme>
+<programme start="20260718093000 +0000" stop="20260718103000 +0000" channel="Muslim TV.mncvision">
+    <title>Cahaya Lentera Hati</title>
+</programme>
+<programme start="20260718103000 +0000" stop="20260718114500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S3</title>
+</programme>
+<programme start="20260718114500 +0000" stop="20260718130000 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S3</title>
+</programme>
+<programme start="20260718130000 +0000" stop="20260718140000 +0000" channel="Muslim TV.mncvision">
+    <title>Catatan Harian Aisha</title>
+</programme>
+<programme start="20260718140000 +0000" stop="20260718150000 +0000" channel="Muslim TV.mncvision">
+    <title>Aku Mencintaimu Karena Allah</title>
+</programme>
+<programme start="20260718150000 +0000" stop="20260718160000 +0000" channel="Muslim TV.mncvision">
+    <title>Catatan Hati Seorang Istri 2</title>
+</programme>
+<programme start="20260718160000 +0000" stop="20260718163000 +0000" channel="Muslim TV.mncvision">
+    <title>Maaf Untuk Mama</title>
+</programme>
 <programme start="20260717170000 +0000" stop="20260717173000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
