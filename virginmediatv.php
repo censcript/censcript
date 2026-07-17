@@ -4096,7 +4096,7 @@
 <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260717083000 +0000" stop="20260717135500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260717090700 +0000" stop="20260717135500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: The Open Championship, PGA Tour Golf - Day 2: Featured Group</title>
 </programme>
 <programme start="20260717135500 +0000" stop="20260717193000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4843,7 +4843,7 @@
 <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260717083000 +0000" stop="20260717135500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260717090700 +0000" stop="20260717135500 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: The Open Championship, PGA Tour Golf - Day 2: Featured Group</title>
 </programme>
 <programme start="20260717135500 +0000" stop="20260717193000 +0000" channel="Sky_Sports_Plus.virginmediatv">

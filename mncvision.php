@@ -401,7 +401,7 @@
     <title>Jaane Anjaane</title>
 </programme>
 <programme start="20260717100000 +0000" stop="20260717113000 +0000" channel="ANTV.mncvision">
-    <title>Teri Meri Doriyaan</title>
+    <title>Teri Meri Doriyaann</title>
 </programme>
 <programme start="20260717113000 +0000" stop="20260717133000 +0000" channel="ANTV.mncvision">
     <title>Iblis Dalam Kandungan</title>
@@ -4340,7 +4340,7 @@
     <title>Shark Attack 2</title>
 </programme>
 <programme start="20260717153000 +0000" stop="20260717160000 +0000" channel="GTV.mncvision">
-    <title>Indonesia International Open</title>
+    <title>Predator PBC Indonesia Open</title>
 </programme>
 <programme start="20260716170000 +0000" stop="20260716183000 +0000" channel="GTV HD.mncvision">
     <title>1001 Kisah</title>
@@ -4388,7 +4388,7 @@
     <title>Shark Attack 2</title>
 </programme>
 <programme start="20260717153000 +0000" stop="20260717160000 +0000" channel="GTV HD.mncvision">
-    <title>Indonesia International Open</title>
+    <title>Predator PBC Indonesia Open</title>
 </programme>
 <programme start="20260716210000 +0000" stop="20260716213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
