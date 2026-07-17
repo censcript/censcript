@@ -433,14 +433,20 @@
 <programme start="20260717053000 +0000" stop="20260717061500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Travelling Auctioneers</title>
 </programme>
-<programme start="20260717120000 +0000" stop="20260717123000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260717114500 +0000" stop="20260717121500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Political Thinking with Nick Robinson</title>
+</programme>
+<programme start="20260717121500 +0000" stop="20260717124500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Richard Osman&#039;s House of Games</title>
 </programme>
-<programme start="20260717123000 +0000" stop="20260717133000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260717124500 +0000" stop="20260717133000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Mastermind - Final</title>
 </programme>
-<programme start="20260717133000 +0000" stop="20260717141500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260717133000 +0000" stop="20260717134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Farmers&#039; Country Showdown - Blenheim Palace Food Festival</title>
+</programme>
+<programme start="20260717134500 +0000" stop="20260717141500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Coast - The Hidden History of Harbours 2</title>
 </programme>
 <programme start="20260717141500 +0000" stop="20260717151500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Hidden World of Hospitality with Tom Kerridge - Join the Club</title>
@@ -6259,7 +6265,10 @@
 <programme start="20260716175800 +0000" stop="20260717015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260717015800 +0000" stop="20260717060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260717015800 +0000" stop="20260717050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260717115500 +0000" stop="20260717120500 +0000" channel="CBBC.virginmediatv">

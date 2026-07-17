@@ -49,17 +49,14 @@
     <programme start="20260717163000 +0000" stop="20260717170000 +0000" channel="Zee TV.starhub">
         <title>Tumm Se Tumm Tak</title>
     </programme>
-    <programme start="20260717170000 +0000" stop="20260717173000 +0000" channel="Zee TV.starhub">
-        <title>Saru</title>
-    </programme>
-    <programme start="20260717173000 +0000" stop="20260717180000 +0000" channel="Zee TV.starhub">
-        <title>Vasudha</title>
+    <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="Zee TV.starhub">
+        <title>Lakshmi Nivas</title>
     </programme>
     <programme start="20260717180000 +0000" stop="20260717183000 +0000" channel="Zee TV.starhub">
-        <title>Jagadhatri</title>
+        <title>Vasudha</title>
     </programme>
     <programme start="20260717183000 +0000" stop="20260717190000 +0000" channel="Zee TV.starhub">
-        <title>Saru</title>
+        <title>Jagadhatri</title>
     </programme>
     <programme start="20260717190000 +0000" stop="20260717193000 +0000" channel="Zee TV.starhub">
         <title>Tumm Se Tumm Tak</title>
@@ -96,9 +93,6 @@
     </programme>
     <programme start="20260718020000 +0000" stop="20260718023000 +0000" channel="Zee TV.starhub">
         <title>Ganga Mai Ki Betiyan</title>
-    </programme>
-    <programme start="20260718023000 +0000" stop="20260718030000 +0000" channel="Zee TV.starhub">
-        <title>Tu Hi Re Dil Mein</title>
     </programme>
     <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="Zee TV.starhub">
         <title>Maa Hai Na</title>
@@ -3482,7 +3476,7 @@
         <title>Chinese Navi</title>
     </programme>
     <programme start="20260717173000 +0000" stop="20260717174000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mimicries--Natural Science for Kids (R)</title>
+        <title>Mimicries--Natural Science for Kids</title>
     </programme>
     <programme start="20260717174000 +0000" stop="20260717174500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
