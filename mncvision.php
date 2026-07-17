@@ -5314,11 +5314,11 @@
 <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="Kids TV.mncvision">
     <title>Morphle</title>
 </programme>
-<programme start="20260717010000 +0000" stop="20260717041500 +0000" channel="Kids TV.mncvision">
+<programme start="20260717010000 +0000" stop="20260717042000 +0000" channel="Kids TV.mncvision">
     <title>Sahabat Selamanya Upin &amp; Ipin</title>
 </programme>
-<programme start="20260717041500 +0000" stop="20260717043000 +0000" channel="Kids TV.mncvision">
-    <title>Thomas &amp; Friends S21</title>
+<programme start="20260717042000 +0000" stop="20260717043000 +0000" channel="Kids TV.mncvision">
+    <title>O Iya Ya</title>
 </programme>
 <programme start="20260717043000 +0000" stop="20260717050000 +0000" channel="Kids TV.mncvision">
     <title>Entong Animasi</title>
@@ -5419,11 +5419,11 @@
 <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="Kids TV HD.mncvision">
     <title>Morphle</title>
 </programme>
-<programme start="20260717010000 +0000" stop="20260717041500 +0000" channel="Kids TV HD.mncvision">
+<programme start="20260717010000 +0000" stop="20260717042000 +0000" channel="Kids TV HD.mncvision">
     <title>Sahabat Selamanya Upin &amp; Ipin</title>
 </programme>
-<programme start="20260717041500 +0000" stop="20260717043000 +0000" channel="Kids TV HD.mncvision">
-    <title>Thomas &amp; Friends S21</title>
+<programme start="20260717042000 +0000" stop="20260717043000 +0000" channel="Kids TV HD.mncvision">
+    <title>O Iya Ya</title>
 </programme>
 <programme start="20260717043000 +0000" stop="20260717050000 +0000" channel="Kids TV HD.mncvision">
     <title>Entong Animasi</title>

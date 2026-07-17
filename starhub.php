@@ -7117,8 +7117,14 @@
     <programme start="20260717003000 +0000" stop="20260717010000 +0000" channel="BBC World News HD.starhub">
         <title>Farage&#039;s Fight With The Media</title>
     </programme>
-    <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20260717010000 +0000" stop="20260717013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
+    </programme>
+    <programme start="20260717013000 +0000" stop="20260717014500 +0000" channel="BBC World News HD.starhub">
+        <title>Business Today</title>
+    </programme>
+    <programme start="20260717014500 +0000" stop="20260717020000 +0000" channel="BBC World News HD.starhub">
+        <title>Newsday</title>
     </programme>
     <programme start="20260717020000 +0000" stop="20260717023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7630,32 +7636,35 @@
     <programme start="20260716133000 +0000" stop="20260716163000 +0000" channel="Asianet Movies.starhub">
         <title>Bro Daddy</title>
     </programme>
-    <programme start="20260716163000 +0000" stop="20260716193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260716163000 +0000" stop="20260716163500 +0000" channel="Asianet Movies.starhub">
         <title>Manassinakkare</title>
     </programme>
-    <programme start="20260716193000 +0000" stop="20260716213000 +0000" channel="Asianet Movies.starhub">
-        <title>Parthan kanda paralokam</title>
+    <programme start="20260716163500 +0000" stop="20260716183000 +0000" channel="Asianet Movies.starhub">
+        <title>Manassinakkare</title>
     </programme>
-    <programme start="20260716213000 +0000" stop="20260716233000 +0000" channel="Asianet Movies.starhub">
-        <title>Aayudham</title>
+    <programme start="20260716183000 +0000" stop="20260716210000 +0000" channel="Asianet Movies.starhub">
+        <title>Valatty</title>
     </programme>
-    <programme start="20260716233000 +0000" stop="20260717013000 +0000" channel="Asianet Movies.starhub">
-        <title>By The People</title>
+    <programme start="20260716210000 +0000" stop="20260716231000 +0000" channel="Asianet Movies.starhub">
+        <title>Vakkalathu Narayanankutty</title>
+    </programme>
+    <programme start="20260716231000 +0000" stop="20260717013000 +0000" channel="Asianet Movies.starhub">
+        <title>Killadiraman</title>
     </programme>
     <programme start="20260717013000 +0000" stop="20260717043000 +0000" channel="Asianet Movies.starhub">
-        <title>China Town</title>
+        <title>Parava</title>
     </programme>
     <programme start="20260717043000 +0000" stop="20260717073000 +0000" channel="Asianet Movies.starhub">
-        <title>Evidam Swargamanu</title>
+        <title>Varathan</title>
     </programme>
     <programme start="20260717073000 +0000" stop="20260717103000 +0000" channel="Asianet Movies.starhub">
-        <title>Thanneer Mathan dinangal</title>
+        <title>Innathe Chinthavishayam</title>
     </programme>
     <programme start="20260717103000 +0000" stop="20260717133000 +0000" channel="Asianet Movies.starhub">
-        <title>Return Of The Dragon</title>
+        <title>Thuruppugulan</title>
     </programme>
-    <programme start="20260717133000 +0000" stop="20260717163000 +0000" channel="Asianet Movies.starhub">
-        <title>Prince and Family</title>
+    <programme start="20260717133000 +0000" stop="20260717170000 +0000" channel="Asianet Movies.starhub">
+        <title>Romancham</title>
     </programme>
     <programme start="20260716160000 +0000" stop="20260716170000 +0000" channel="Astro Warna HD.starhub">
         <title>Melukis Senja</title>

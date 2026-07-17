@@ -673,9 +673,6 @@
 <programme start="20260718113000 +0000" stop="20260718121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260716230000 +0000" stop="20260717023000 +0000" channel="ANTV.vision">
-<title>Army</title>
-</programme>
 <programme start="20260717023000 +0000" stop="20260717060000 +0000" channel="ANTV.vision">
 <title>Humko Tumse Pyar Hai</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260718010500 +0000" stop="20260718011500 +0000" channel="BTV.vision">
 <title>Anak Hebat</title>
+</programme>
+<programme start="20260718011500 +0000" stop="20260718014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>
