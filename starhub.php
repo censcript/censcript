@@ -4535,7 +4535,7 @@
         <title>Kadhal Kadhal Kadhal</title>
     </programme>
     <programme start="20260717023000 +0000" stop="20260717033000 +0000" channel="Vijay TV HD.starhub">
-        <title>Azhagae Azhagu</title>
+        <title>Second Love</title>
     </programme>
     <programme start="20260717033000 +0000" stop="20260717050000 +0000" channel="Vijay TV HD.starhub">
         <title>Cooku With Comali S07 - Double Trouble</title>
@@ -4598,7 +4598,7 @@
         <title>Kadhal Kadhal Kadhal</title>
     </programme>
     <programme start="20260717143000 +0000" stop="20260717153000 +0000" channel="Vijay TV HD.starhub">
-        <title>Azhagae Azhagu</title>
+        <title>Second Love</title>
     </programme>
     <programme start="20260717153000 +0000" stop="20260717160000 +0000" channel="Vijay TV HD.starhub">
         <title>Azhagae Azhagu</title>
@@ -6065,7 +6065,7 @@
         <title>Everyday People</title>
     </programme>
     <programme start="20260717040500 +0000" stop="20260717044000 +0000" channel="HBO Signature HD.starhub">
-        <title>Life, Larry And The Pursuit Of Unhappiness S1</title>
+        <title>Episode 3</title>
     </programme>
     <programme start="20260717044000 +0000" stop="20260717063500 +0000" channel="HBO Signature HD.starhub">
         <title>The Huntsman: Winter&#039;s War</title>
