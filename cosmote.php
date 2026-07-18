@@ -62,8 +62,8 @@
     <title>Football: AZ Alkmaar - Noah</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260718050000 +0700" stop="20260718070000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Fortuna Sittard</title>
+<programme start="20260719070000 +0700" stop="20260719100000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Viktoria Plzen - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260718070000 +0700" stop="20260718090000 +0700" channel="COSMOTE Sport 2 HD">
@@ -122,12 +122,8 @@
     <title>Football: Juventus Football Club - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260718044000 +0700" stop="20260718064000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Dundee United - Heart of Midlothian</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260718064000 +0700" stop="20260718065500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
+<programme start="20260719071500 +0700" stop="20260719091500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260718065500 +0700" stop="20260718100000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,8 +170,8 @@
     <title>Football: Aberdeen - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260718041000 +0700" stop="20260718061000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Karditsa</title>
+<programme start="20260719070000 +0700" stop="20260719103000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Philadelphia Eagles - San Francisco 49ers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260718061000 +0700" stop="20260718081000 +0700" channel="COSMOTE Sport 4 HD">
@@ -228,10 +224,6 @@
 </programme>
 <programme start="20260719063000 +0700" stop="20260719083000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Napoli - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260718053500 +0700" stop="20260718064000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260718064000 +0700" stop="20260718071000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,6 +330,10 @@
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260719071500 +0700" stop="20260719082500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260718060000 +0700" stop="20260718100000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
@@ -381,6 +377,10 @@
 <programme start="20260719063000 +0700" stop="20260719070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2025 - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260719070000 +0700" stop="20260719100000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: UFC Fight Night 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260718060000 +0700" stop="20260718080000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
