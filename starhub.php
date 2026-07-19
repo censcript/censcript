@@ -2224,17 +2224,89 @@
     <programme start="20260719143000 +0000" stop="20260719163000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UniCredit Iasi Open (250) Final</title>
     </programme>
-    <programme start="20260718160000 +0000" stop="20260718220000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260718154500 +0000" stop="20260718173000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>It&#039;s Showtime</title>
     </programme>
-    <programme start="20260718220000 +0000" stop="20260719040000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Juan Conversations with Rose Eclarinal S3</title>
     </programme>
-    <programme start="20260719040000 +0000" stop="20260719100000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>TV Patrol Sabado</title>
     </programme>
-    <programme start="20260719100000 +0000" stop="20260719160000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Kapamilya Deal Or No Deal</title>
+    </programme>
+    <programme start="20260718200000 +0000" stop="20260718210000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Everybody Sing</title>
+    </programme>
+    <programme start="20260718210000 +0000" stop="20260718230000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Bes and the Beshies</title>
+    </programme>
+    <programme start="20260718230000 +0000" stop="20260718233000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Pamilya Talk With Tita Jing S7</title>
+    </programme>
+    <programme start="20260718233000 +0000" stop="20260719003000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>The B Side</title>
+    </programme>
+    <programme start="20260719003000 +0000" stop="20260719010000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Citizen Pinoy</title>
+    </programme>
+    <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>My Puhunan: Kaya Mo!</title>
+    </programme>
+    <programme start="20260719013000 +0000" stop="20260719023000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Bro. Eddie Classics</title>
+    </programme>
+    <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Kapamilya Journeys Of Hope With Fr. Tito Caluag</title>
+    </programme>
+    <programme start="20260719030000 +0000" stop="20260719040000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>The Healing Eucharist</title>
+    </programme>
+    <programme start="20260719040000 +0000" stop="20260719050000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Y Speak 2.0</title>
+    </programme>
+    <programme start="20260719050000 +0000" stop="20260719054500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Home Away From Home S6</title>
+    </programme>
+    <programme start="20260719054500 +0000" stop="20260719061500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tao Po</title>
+    </programme>
+    <programme start="20260719061500 +0000" stop="20260719070000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tubig To Handle</title>
+    </programme>
+    <programme start="20260719070000 +0000" stop="20260719073000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Loida Lewis Podcast</title>
+    </programme>
+    <programme start="20260719073000 +0000" stop="20260719080000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Chef RV&#039;s Kitchen S21</title>
+    </programme>
+    <programme start="20260719080000 +0000" stop="20260719083000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Are You G? With MJ Felipe S2</title>
+    </programme>
+    <programme start="20260719083000 +0000" stop="20260719093000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>TV Patrol Linggo Live</title>
+    </programme>
+    <programme start="20260719093000 +0000" stop="20260719113000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>ASAP XP</title>
+    </programme>
+    <programme start="20260719113000 +0000" stop="20260719123000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Kapamilya Deal Or No Deal</title>
+    </programme>
+    <programme start="20260719123000 +0000" stop="20260719134500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Everybody Sing</title>
+    </programme>
+    <programme start="20260719134500 +0000" stop="20260719144500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Maalaala Mo Kaya</title>
+    </programme>
+    <programme start="20260719144500 +0000" stop="20260719151500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Wrizzards: Underground Uprising</title>
+    </programme>
+    <programme start="20260719151500 +0000" stop="20260719154500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tatlong Bituin Sa Hilaga</title>
+    </programme>
+    <programme start="20260719154500 +0000" stop="20260719164500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Rated Korina</title>
     </programme>
     <programme start="20260718160000 +0000" stop="20260718180000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>Premier League 2025/26</title>

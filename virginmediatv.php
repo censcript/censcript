@@ -70,13 +70,13 @@
 <programme start="20260719173000 +0000" stop="20260719183000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>All Creatures Great and Small - Our Hearts Are Full</title>
 </programme>
-<programme start="20260718233000 +0000" stop="20260719002000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260718234000 +0000" stop="20260719003000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Love Rat</title>
 </programme>
-<programme start="20260719002000 +0000" stop="20260719012500 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260719003000 +0000" stop="20260719013500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Memorial: The Story of HIV/AIDS in Ireland</title>
 </programme>
-<programme start="20260719012500 +0000" stop="20260719050000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260719013500 +0000" stop="20260719050000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260719050000 +0000" stop="20260719065000 +0000" channel="RTE_Two_HD.virginmediatv">
