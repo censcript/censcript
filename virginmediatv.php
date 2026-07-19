@@ -2177,7 +2177,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260719033000 +0000" stop="20260719040000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Global Eye - On the trail of Mexico&#039;s &#039;fentanyl king&#039;</title>
+    <title>The Media Show</title>
 </programme>
 <programme start="20260719040000 +0000" stop="20260719043000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -2210,7 +2210,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260719153000 +0000" stop="20260719160000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Global Eye - On the trail of Mexico&#039;s &#039;fentanyl king&#039;</title>
+    <title>The Media Show</title>
 </programme>
 <programme start="20260719160000 +0000" stop="20260719170000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
