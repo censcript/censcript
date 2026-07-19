@@ -577,9 +577,6 @@
 <programme start="20260719163000 +0000" stop="20260719170000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
-<programme start="20260719170000 +0000" stop="20260719190000 +0000" channel="Trans 7.vision">
-<title>Flu</title>
-</programme>
 <programme start="20260719190000 +0000" stop="20260719214500 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -642,12 +639,6 @@
 </programme>
 <programme start="20260719090000 +0000" stop="20260719100000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20260719153000 +0000" stop="20260719173000 +0000" channel="ANTV.vision">
-<title>Jurus Sakti</title>
-</programme>
-<programme start="20260719173000 +0000" stop="20260719190000 +0000" channel="ANTV.vision">
-<title>Wheres Officer Tuba</title>
 </programme>
 <programme start="20260719190000 +0000" stop="20260719210000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -1496,5 +1487,14 @@
 <title>MDTV</title>
 </programme>
 <programme start="20260719212000 +0000" stop="20260719224000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260719224000 +0000" stop="20260719235000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260719235000 +0000" stop="20260720010500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260720010500 +0000" stop="20260720020000 +0000" channel="MDTV.vision">
 <title>MDTV</title>
 </programme>

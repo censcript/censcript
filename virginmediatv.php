@@ -4216,14 +4216,11 @@
 <programme start="20260719104500 +0000" stop="20260719163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Tour de France - Stage 15</title>
 </programme>
-<programme start="20260719163000 +0000" stop="20260719164500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v Sri Lanka, 2nd Test: Best Bowling</title>
+<programme start="20260719163000 +0000" stop="20260719173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Major League Baseball - Highlights</title>
 </programme>
-<programme start="20260719164500 +0000" stop="20260719170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v Sri Lanka, 2nd Test: Best Batting</title>
-</programme>
-<programme start="20260719170000 +0000" stop="20260719180000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>One-Day International Cricket - 3rd ODI: West Indies v New Zealand</title>
+<programme start="20260719173000 +0000" stop="20260719203000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: Major League Baseball - New York Mets at Philadelphia Phillies</title>
 </programme>
 <programme start="20260718233000 +0000" stop="20260719013000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Major League Baseball - Home Run Derby</title>
@@ -4240,23 +4237,11 @@
 <programme start="20260719100000 +0000" stop="20260719123000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: FIA World Rally Championship - Rally Estonia: SS18 Power Stage</title>
 </programme>
-<programme start="20260719123000 +0000" stop="20260719124500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>TNT Sports Reload</title>
+<programme start="20260719123000 +0000" stop="20260719133000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>One-Day International Cricket - 3rd ODI: West Indies v New Zealand</title>
 </programme>
-<programme start="20260719124500 +0000" stop="20260719154500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Global Champions Tour - Riesenbeck</title>
-</programme>
-<programme start="20260719154500 +0000" stop="20260719160000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>MotoGP Rewind - German Grand Prix</title>
-</programme>
-<programme start="20260719160000 +0000" stop="20260719163000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>MLB Plays of the Week</title>
-</programme>
-<programme start="20260719163000 +0000" stop="20260719173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
-</programme>
-<programme start="20260719173000 +0000" stop="20260719203000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Major League Baseball - New York Mets at Philadelphia Phillies</title>
+<programme start="20260719133000 +0000" stop="20260719223000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Live: One-Day International Cricket - 4th ODI: West Indies v New Zealand</title>
 </programme>
 <programme start="20260718234500 +0000" stop="20260719004500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Australia Championship Supercars - Townsville 500</title>
@@ -4792,14 +4777,11 @@
 <programme start="20260719104500 +0000" stop="20260719163000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Tour de France - Stage 15</title>
 </programme>
-<programme start="20260719163000 +0000" stop="20260719164500 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v Sri Lanka, 2nd Test: Best Bowling</title>
+<programme start="20260719163000 +0000" stop="20260719173000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Major League Baseball - Highlights</title>
 </programme>
-<programme start="20260719164500 +0000" stop="20260719170000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v Sri Lanka, 2nd Test: Best Batting</title>
-</programme>
-<programme start="20260719170000 +0000" stop="20260719180000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>One-Day International Cricket - 3rd ODI: West Indies v New Zealand</title>
+<programme start="20260719173000 +0000" stop="20260719203000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Live: Major League Baseball - New York Mets at Philadelphia Phillies</title>
 </programme>
 <programme start="20260718233000 +0000" stop="20260719013000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Major League Baseball - Home Run Derby</title>
@@ -4816,23 +4798,11 @@
 <programme start="20260719100000 +0000" stop="20260719123000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: FIA World Rally Championship - Rally Estonia: SS18 Power Stage</title>
 </programme>
-<programme start="20260719123000 +0000" stop="20260719124500 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>TNT Sports Reload</title>
+<programme start="20260719123000 +0000" stop="20260719133000 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>One-Day International Cricket - 3rd ODI: West Indies v New Zealand</title>
 </programme>
-<programme start="20260719124500 +0000" stop="20260719154500 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Live: Global Champions Tour - Riesenbeck</title>
-</programme>
-<programme start="20260719154500 +0000" stop="20260719160000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>MotoGP Rewind - German Grand Prix</title>
-</programme>
-<programme start="20260719160000 +0000" stop="20260719163000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>MLB Plays of the Week</title>
-</programme>
-<programme start="20260719163000 +0000" stop="20260719173000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
-</programme>
-<programme start="20260719173000 +0000" stop="20260719203000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Live: Major League Baseball - New York Mets at Philadelphia Phillies</title>
+<programme start="20260719133000 +0000" stop="20260719223000 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>Live: One-Day International Cricket - 4th ODI: West Indies v New Zealand</title>
 </programme>
 <programme start="20260718234500 +0000" stop="20260719004500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Australia Championship Supercars - Townsville 500</title>
@@ -5923,7 +5893,10 @@
 <programme start="20260718175800 +0000" stop="20260719015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260719015800 +0000" stop="20260719060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260719015800 +0000" stop="20260719050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260719050000 +0000" stop="20260719060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260719115000 +0000" stop="20260719121500 +0000" channel="CBBC.virginmediatv">

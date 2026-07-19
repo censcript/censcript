@@ -1,6 +1,3 @@
-<programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -35,9 +32,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260720160000 +0000" stop="20260720180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -76,9 +70,6 @@
 <programme start="20260720160000 +0000" stop="20260720180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -115,9 +106,6 @@
 <programme start="20260720160000 +0000" stop="20260720180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260719160000 +0000" stop="20260719173000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260719173000 +0000" stop="20260719220000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>[4K]FIFA World Cup 2026™ -Final - Spain vs Argentina[Live]</title>
 </programme>
@@ -150,12 +138,6 @@
 </programme>
 <programme start="20260720160000 +0000" stop="20260720180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260719163000 +0000" stop="20260719172500 +0000" channel="Now Sports 618.nowtv">
-    <title>Road to Final 2026[Live]</title>
-</programme>
-<programme start="20260719172500 +0000" stop="20260719173000 +0000" channel="Now Sports 618.nowtv">
-    <title>Count Down to Kick-off E21</title>
 </programme>
 <programme start="20260719173000 +0000" stop="20260719220000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Final - Spain vs Argentina[Live]</title>
@@ -288,9 +270,6 @@
 </programme>
 <programme start="20260720160000 +0000" stop="20260720181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Haiti vs Scotland</title>
-</programme>
-<programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Manchester City</title>
 </programme>
 <programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Bournemouth vs Newcastle United</title>

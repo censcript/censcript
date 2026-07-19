@@ -111,13 +111,18 @@
   <channel id="fifa3.unifitv">
     <display-name>Unifi FIFA World Cup 2026™ 3</display-name>
   </channel>
-  <programme start="20260719150000 +0000" stop="20260719193000 +0000" channel="fifa3.unifitv">
+  <programme start="20260719150000 +0000" stop="20260719190000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) France vs England: FIFA World Cup™ 2026 Third Place (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260719193000 +0000" stop="20260719200000 +0000" channel="fifa3.unifitv">
+  <programme start="20260719190000 +0000" stop="20260719193000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260719193000 +0000" stop="20260719200000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
