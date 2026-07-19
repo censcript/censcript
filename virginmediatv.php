@@ -3904,8 +3904,17 @@
 <programme start="20260719050000 +0000" stop="20260719060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260719083000 +0000" stop="20260719180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260719081500 +0000" stop="20260719161500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: The Open Championship, PGA Tour Golf - Day 4: Featured Group</title>
+</programme>
+<programme start="20260719161500 +0000" stop="20260719163000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>My Ryder Cup - Justin Rose</title>
+</programme>
+<programme start="20260719163000 +0000" stop="20260719170000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Chronicles of a Champion Golfer - Tiger Woods</title>
+</programme>
+<programme start="20260719170000 +0000" stop="20260719180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>The Open Championship Official Film - 1984</title>
 </programme>
 <programme start="20260719000000 +0000" stop="20260719010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>World Cup Report</title>
@@ -4591,8 +4600,17 @@
 <programme start="20260719050000 +0000" stop="20260719060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>World Cup Report</title>
 </programme>
-<programme start="20260719083000 +0000" stop="20260719180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260719081500 +0000" stop="20260719161500 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: The Open Championship, PGA Tour Golf - Day 4: Featured Group</title>
+</programme>
+<programme start="20260719161500 +0000" stop="20260719163000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>My Ryder Cup - Justin Rose</title>
+</programme>
+<programme start="20260719163000 +0000" stop="20260719170000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Chronicles of a Champion Golfer - Tiger Woods</title>
+</programme>
+<programme start="20260719170000 +0000" stop="20260719180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>The Open Championship Official Film - 1984</title>
 </programme>
 <programme start="20260719000000 +0000" stop="20260719010000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>World Cup Report</title>

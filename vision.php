@@ -634,9 +634,6 @@
 <programme start="20260720114500 +0000" stop="20260720121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260719023000 +0000" stop="20260719060000 +0000" channel="ANTV.vision">
-<title>Dil Ka Rishta</title>
-</programme>
 <programme start="20260719060000 +0000" stop="20260719073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -645,12 +642,6 @@
 </programme>
 <programme start="20260719090000 +0000" stop="20260719100000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20260719100000 +0000" stop="20260719113000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaan</title>
-</programme>
-<programme start="20260719113000 +0000" stop="20260719133000 +0000" channel="ANTV.vision">
-<title>Pengabdi Setan</title>
 </programme>
 <programme start="20260719133000 +0000" stop="20260719153000 +0000" channel="ANTV.vision">
 <title>Angkara Membara</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260719172500 +0000" stop="20260719190000 +0000" channel="MDTV.vision">
 <title>86</title>
+</programme>
+<programme start="20260719190000 +0000" stop="20260719193000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260719193000 +0000" stop="20260719203000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260719203000 +0000" stop="20260719212000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
