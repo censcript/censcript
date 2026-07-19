@@ -3835,23 +3835,20 @@
 <programme start="20260719090000 +0000" stop="20260719183000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: The Open Championship, PGA Tour Golf - Day 4</title>
 </programme>
-<programme start="20260719000000 +0000" stop="20260719001500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>Super League Rugby - Warrington Wolves v Huddersfield Giants</title>
+<programme start="20260718232000 +0000" stop="20260719002000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL Football - Tennessee Titans at Jacksonville Jaguars</title>
 </programme>
-<programme start="20260719001500 +0000" stop="20260719003000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+<programme start="20260719002000 +0000" stop="20260719003500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Super League Rugby - St. Helens v Hull Kingston Rovers</title>
 </programme>
-<programme start="20260719003000 +0000" stop="20260719004500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+<programme start="20260719003500 +0000" stop="20260719005000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Super League Rugby - Hull Kingston Rovers v Hull FC</title>
 </programme>
-<programme start="20260719004500 +0000" stop="20260719010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+<programme start="20260719005000 +0000" stop="20260719010500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Super League Rugby - Warrington Wolves v Leigh Leopards</title>
 </programme>
-<programme start="20260719010000 +0000" stop="20260719034500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+<programme start="20260719010500 +0000" stop="20260719040000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Super League Rugby - Warrington Wolves v Hull Kingston Rovers</title>
-</programme>
-<programme start="20260719034500 +0000" stop="20260719040000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>RFL Women&#039;s Super League - Wigan Warriors v Leeds Rhinos</title>
 </programme>
 <programme start="20260719040000 +0000" stop="20260719041500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Super League Rugby - Leeds Rhinos v Catalans Dragons</title>
@@ -4525,23 +4522,20 @@
 <programme start="20260719090000 +0000" stop="20260719183000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: The Open Championship, PGA Tour Golf - Day 4</title>
 </programme>
-<programme start="20260719000000 +0000" stop="20260719001500 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>Super League Rugby - Warrington Wolves v Huddersfield Giants</title>
+<programme start="20260718232000 +0000" stop="20260719002000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - Tennessee Titans at Jacksonville Jaguars</title>
 </programme>
-<programme start="20260719001500 +0000" stop="20260719003000 +0000" channel="Sky_Sports_Action.virginmediatv">
+<programme start="20260719002000 +0000" stop="20260719003500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Super League Rugby - St. Helens v Hull Kingston Rovers</title>
 </programme>
-<programme start="20260719003000 +0000" stop="20260719004500 +0000" channel="Sky_Sports_Action.virginmediatv">
+<programme start="20260719003500 +0000" stop="20260719005000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Super League Rugby - Hull Kingston Rovers v Hull FC</title>
 </programme>
-<programme start="20260719004500 +0000" stop="20260719010000 +0000" channel="Sky_Sports_Action.virginmediatv">
+<programme start="20260719005000 +0000" stop="20260719010500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Super League Rugby - Warrington Wolves v Leigh Leopards</title>
 </programme>
-<programme start="20260719010000 +0000" stop="20260719034500 +0000" channel="Sky_Sports_Action.virginmediatv">
+<programme start="20260719010500 +0000" stop="20260719040000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Super League Rugby - Warrington Wolves v Hull Kingston Rovers</title>
-</programme>
-<programme start="20260719034500 +0000" stop="20260719040000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>RFL Women&#039;s Super League - Wigan Warriors v Leeds Rhinos</title>
 </programme>
 <programme start="20260719040000 +0000" stop="20260719041500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Super League Rugby - Leeds Rhinos v Catalans Dragons</title>
@@ -5911,10 +5905,7 @@
 <programme start="20260718175800 +0000" stop="20260719015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260719015800 +0000" stop="20260719050000 +0000" channel="CBBC.virginmediatv">
-    <title>This is CBBC!</title>
-</programme>
-<programme start="20260719050000 +0000" stop="20260719060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260719015800 +0000" stop="20260719060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260719115000 +0000" stop="20260719121500 +0000" channel="CBBC.virginmediatv">
