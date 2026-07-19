@@ -1,288 +1,249 @@
-<programme start="20260718000000 +0000" stop="20260718020000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719040000 +0000" stop="20260719060000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718020000 +0000" stop="20260718040000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719060000 +0000" stop="20260719080000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718040000 +0000" stop="20260718060000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719080000 +0000" stop="20260719100000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718060000 +0000" stop="20260718080000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719100000 +0000" stop="20260719120000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718080000 +0000" stop="20260718100000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719120000 +0000" stop="20260719140000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718100000 +0000" stop="20260718120000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719140000 +0000" stop="20260719160000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718120000 +0000" stop="20260718140000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718140000 +0000" stop="20260718160000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719040000 +0000" stop="20260719060000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718160000 +0000" stop="20260718180000 +0000" channel="Now Sports 4K 1.nowtv">
+<programme start="20260719060000 +0000" stop="20260719080000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718000000 +0000" stop="20260718020000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719080000 +0000" stop="20260719100000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718020000 +0000" stop="20260718040000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719100000 +0000" stop="20260719120000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718040000 +0000" stop="20260718060000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719120000 +0000" stop="20260719125500 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718060000 +0000" stop="20260718080000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719125500 +0000" stop="20260719150000 +0000" channel="Now Sports 4K 2.nowtv">
+    <title>[4K] Formula 1 Main Race 2026 -FORMULA 1 MOET &amp; CHANDON Belgian Grand Prix 2026[Live]</title>
+</programme>
+<programme start="20260719150000 +0000" stop="20260719160000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718080000 +0000" stop="20260718100000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718100000 +0000" stop="20260718120000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719040000 +0000" stop="20260719060000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718120000 +0000" stop="20260718140000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719060000 +0000" stop="20260719080000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718140000 +0000" stop="20260718160000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719080000 +0000" stop="20260719100000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718160000 +0000" stop="20260718180000 +0000" channel="Now Sports 4K 2.nowtv">
+<programme start="20260719100000 +0000" stop="20260719120000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718000000 +0000" stop="20260718020000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719120000 +0000" stop="20260719140000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718020000 +0000" stop="20260718040000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719140000 +0000" stop="20260719160000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718040000 +0000" stop="20260718060000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718060000 +0000" stop="20260718080000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719040000 +0000" stop="20260719060000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718080000 +0000" stop="20260718100000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719060000 +0000" stop="20260719080000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718100000 +0000" stop="20260718120000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719080000 +0000" stop="20260719100000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718120000 +0000" stop="20260718140000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719100000 +0000" stop="20260719120000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718140000 +0000" stop="20260718160000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719120000 +0000" stop="20260719140000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718160000 +0000" stop="20260718180000 +0000" channel="Now Sports 4K 3.nowtv">
+<programme start="20260719140000 +0000" stop="20260719160000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718000000 +0000" stop="20260718020000 +0000" channel="Now Sports 4K CH616.nowtv">
+<programme start="20260719160000 +0000" stop="20260719173000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718020000 +0000" stop="20260718040000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
+<programme start="20260719033000 +0000" stop="20260719060000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ -3rd Place - France vs England</title>
 </programme>
-<programme start="20260718040000 +0000" stop="20260718060000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718060000 +0000" stop="20260718080000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718080000 +0000" stop="20260718100000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718100000 +0000" stop="20260718120000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718120000 +0000" stop="20260718140000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718140000 +0000" stop="20260718160000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718160000 +0000" stop="20260718180000 +0000" channel="Now Sports 4K CH616.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260717230000 +0000" stop="20260718013000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -SF - England vs Argentina</title>
-</programme>
-<programme start="20260718013000 +0000" stop="20260718014500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
-</programme>
-<programme start="20260718014500 +0000" stop="20260718050000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -QF - Argentina vs Switzerland</title>
-</programme>
-<programme start="20260718050000 +0000" stop="20260718071500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -SF - France vs Spain</title>
-</programme>
-<programme start="20260718071500 +0000" stop="20260718073000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(B)</title>
-</programme>
-<programme start="20260718073000 +0000" stop="20260718074500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 2(C)</title>
-</programme>
-<programme start="20260718074500 +0000" stop="20260718080000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(A)</title>
-</programme>
-<programme start="20260718080000 +0000" stop="20260718103000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -SF - England vs Argentina</title>
-</programme>
-<programme start="20260718103000 +0000" stop="20260718104500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(C)</title>
-</programme>
-<programme start="20260718104500 +0000" stop="20260718110000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
-</programme>
-<programme start="20260718110000 +0000" stop="20260718131500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -SF - France vs Spain</title>
-</programme>
-<programme start="20260718131500 +0000" stop="20260718133000 +0000" channel="Now Sports 618.nowtv">
+<programme start="20260719060000 +0000" stop="20260719061500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd of 32(B)</title>
 </programme>
-<programme start="20260718133000 +0000" stop="20260718134500 +0000" channel="Now Sports 618.nowtv">
+<programme start="20260719061500 +0000" stop="20260719063000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719063000 +0000" stop="20260719064500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
 </programme>
-<programme start="20260718134500 +0000" stop="20260718140000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 1(A)</title>
+<programme start="20260719064500 +0000" stop="20260719070000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
 </programme>
-<programme start="20260718140000 +0000" stop="20260718150000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ World Cup Happy Hour E33</title>
+<programme start="20260719070000 +0000" stop="20260719093000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ -3rd Place - France vs England</title>
 </programme>
-<programme start="20260718150000 +0000" stop="20260718150500 +0000" channel="Now Sports 618.nowtv">
-    <title>Count Down to Kick-off E20</title>
-</programme>
-<programme start="20260718150500 +0000" stop="20260718151500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E47</title>
-</programme>
-<programme start="20260718151500 +0000" stop="20260718153000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Best Moment E49</title>
-</programme>
-<programme start="20260718153000 +0000" stop="20260718154500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(B)</title>
-</programme>
-<programme start="20260718154500 +0000" stop="20260718160000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(C)</title>
-</programme>
-<programme start="20260718160000 +0000" stop="20260718161500 +0000" channel="Now Sports 618.nowtv">
+<programme start="20260719093000 +0000" stop="20260719094500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
 </programme>
-<programme start="20260718161500 +0000" stop="20260718163000 +0000" channel="Now Sports 618.nowtv">
+<programme start="20260719094500 +0000" stop="20260719100000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719100000 +0000" stop="20260719101500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd of 32(B)</title>
 </programme>
-<programme start="20260718000000 +0000" stop="20260718001500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 3</title>
+<programme start="20260719101500 +0000" stop="20260719103000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
 </programme>
-<programme start="20260718001500 +0000" stop="20260718003000 +0000" channel="Now Sports Premier League 1.nowtv">
+<programme start="20260719103000 +0000" stop="20260719130000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ -3rd Place - France vs England</title>
+</programme>
+<programme start="20260719130000 +0000" stop="20260719131500 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719131500 +0000" stop="20260719133000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
 </programme>
-<programme start="20260718003000 +0000" stop="20260718010000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -NORWICH, THE NEARLY MEN</title>
+<programme start="20260719133000 +0000" stop="20260719134500 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day +1 Highlights E33</title>
 </programme>
-<programme start="20260718010000 +0000" stop="20260718030000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Wolverhampton Wanderers vs Everton</title>
-</programme>
-<programme start="20260718030000 +0000" stop="20260718050000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Tottenham Hotspur vs Bournemouth</title>
-</programme>
-<programme start="20260718050000 +0000" stop="20260718053000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -NORWICH, THE NEARLY MEN</title>
-</programme>
-<programme start="20260718053000 +0000" stop="20260718054500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 3</title>
-</programme>
-<programme start="20260718054500 +0000" stop="20260718060000 +0000" channel="Now Sports Premier League 1.nowtv">
+<programme start="20260719134500 +0000" stop="20260719140000 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
 </programme>
-<programme start="20260718060000 +0000" stop="20260718080000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Liverpool vs Arsenal</title>
+<programme start="20260719140000 +0000" stop="20260719150000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ World Cup Happy Hour E34</title>
 </programme>
-<programme start="20260718080000 +0000" stop="20260718100000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Wolverhampton Wanderers vs Everton</title>
+<programme start="20260719150000 +0000" stop="20260719150500 +0000" channel="Now Sports 618.nowtv">
+    <title>Count Down to Kick-off E21</title>
 </programme>
-<programme start="20260718100000 +0000" stop="20260718101500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 3</title>
+<programme start="20260719150500 +0000" stop="20260719151500 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Best Moment E45</title>
 </programme>
-<programme start="20260718101500 +0000" stop="20260718103000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(B)</title>
+<programme start="20260719151500 +0000" stop="20260719153000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Best Moment E46</title>
 </programme>
-<programme start="20260718103000 +0000" stop="20260718110000 +0000" channel="Now Sports Premier League 1.nowtv">
+<programme start="20260719153000 +0000" stop="20260719154500 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719154500 +0000" stop="20260719160000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day +1 Highlights E33</title>
+</programme>
+<programme start="20260719160000 +0000" stop="20260719161500 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719161500 +0000" stop="20260719163000 +0000" channel="Now Sports 618.nowtv">
+    <title>FIFA World Cup 2026™ Match Day +1 Highlights E33</title>
+</programme>
+<programme start="20260719030000 +0000" stop="20260719050000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>Premier League 25/26 -Burnley vs Liverpool</title>
+</programme>
+<programme start="20260719050000 +0000" stop="20260719051500 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719051500 +0000" stop="20260719053000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>PL Goals 25/26 -Week 4</title>
+</programme>
+<programme start="20260719053000 +0000" stop="20260719060000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Stories 26/27 -NORWICH, THE NEARLY MEN</title>
 </programme>
-<programme start="20260718110000 +0000" stop="20260718130000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Tottenham Hotspur vs Bournemouth</title>
-</programme>
-<programme start="20260718130000 +0000" stop="20260718133000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -NORWICH, THE NEARLY MEN</title>
-</programme>
-<programme start="20260718133000 +0000" stop="20260718134500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 3</title>
-</programme>
-<programme start="20260718134500 +0000" stop="20260718140000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
-</programme>
-<programme start="20260718140000 +0000" stop="20260718150000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ World Cup Happy Hour E33</title>
-</programme>
-<programme start="20260718150000 +0000" stop="20260718151500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 3</title>
-</programme>
-<programme start="20260718151500 +0000" stop="20260718153000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
-</programme>
-<programme start="20260718153000 +0000" stop="20260718154500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(B)</title>
-</programme>
-<programme start="20260718154500 +0000" stop="20260718160000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
-</programme>
-<programme start="20260718160000 +0000" stop="20260718180000 +0000" channel="Now Sports Premier League 1.nowtv">
+<programme start="20260719060000 +0000" stop="20260719080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -West Ham United vs Tottenham Hotspur</title>
 </programme>
-<programme start="20260718000000 +0000" stop="20260718040000 +0000" channel="Now Sports Premier League 2.nowtv">
+<programme start="20260719080000 +0000" stop="20260719100000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>Premier League 25/26 -Fulham vs Leeds United</title>
+</programme>
+<programme start="20260719100000 +0000" stop="20260719103000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>PL Stories 26/27 -NORWICH, THE NEARLY MEN</title>
+</programme>
+<programme start="20260719103000 +0000" stop="20260719104500 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719104500 +0000" stop="20260719110000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>PL Goals 25/26 -Week 4</title>
+</programme>
+<programme start="20260719110000 +0000" stop="20260719130000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>Premier League 25/26 -Burnley vs Liverpool</title>
+</programme>
+<programme start="20260719130000 +0000" stop="20260719131500 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719131500 +0000" stop="20260719133000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>PL Goals 25/26 -Week 4</title>
+</programme>
+<programme start="20260719133000 +0000" stop="20260719140000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>PL Stories 26/27 -NORWICH, THE NEARLY MEN</title>
+</programme>
+<programme start="20260719140000 +0000" stop="20260719150000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>FIFA World Cup 2026™ World Cup Happy Hour E34</title>
+</programme>
+<programme start="20260719150000 +0000" stop="20260719151500 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>FIFA World Cup 2026™ Match Day +1 Highlights E33</title>
+</programme>
+<programme start="20260719151500 +0000" stop="20260719153000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719153000 +0000" stop="20260719154500 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>FIFA World Cup 2026™ Match Day +1 Highlights E33</title>
+</programme>
+<programme start="20260719154500 +0000" stop="20260719160000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>FIFA World Cup 2026™ Match Day Express E37</title>
+</programme>
+<programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Now Sports Premier League 1.nowtv">
+    <title>Premier League 25/26 -Arsenal vs Manchester City</title>
+</programme>
+<programme start="20260719040000 +0000" stop="20260719080000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718040000 +0000" stop="20260718080000 +0000" channel="Now Sports Premier League 2.nowtv">
+<programme start="20260719080000 +0000" stop="20260719120000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718080000 +0000" stop="20260718120000 +0000" channel="Now Sports Premier League 2.nowtv">
+<programme start="20260719120000 +0000" stop="20260719160000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718120000 +0000" stop="20260718160000 +0000" channel="Now Sports Premier League 2.nowtv">
+<programme start="20260719160000 +0000" stop="20260719200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718160000 +0000" stop="20260718200000 +0000" channel="Now Sports Premier League 2.nowtv">
+<programme start="20260719040000 +0000" stop="20260719080000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718000000 +0000" stop="20260718040000 +0000" channel="Now Sports Premier League 3.nowtv">
+<programme start="20260719080000 +0000" stop="20260719120000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718040000 +0000" stop="20260718080000 +0000" channel="Now Sports Premier League 3.nowtv">
+<programme start="20260719120000 +0000" stop="20260719160000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718080000 +0000" stop="20260718120000 +0000" channel="Now Sports Premier League 3.nowtv">
+<programme start="20260719160000 +0000" stop="20260719200000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718120000 +0000" stop="20260718160000 +0000" channel="Now Sports Premier League 3.nowtv">
+<programme start="20260719040000 +0000" stop="20260719080000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718160000 +0000" stop="20260718200000 +0000" channel="Now Sports Premier League 3.nowtv">
+<programme start="20260719080000 +0000" stop="20260719120000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718000000 +0000" stop="20260718040000 +0000" channel="Now Sports Premier League 4.nowtv">
+<programme start="20260719120000 +0000" stop="20260719160000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260718040000 +0000" stop="20260718080000 +0000" channel="Now Sports Premier League 4.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718080000 +0000" stop="20260718120000 +0000" channel="Now Sports Premier League 4.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718120000 +0000" stop="20260718160000 +0000" channel="Now Sports Premier League 4.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260718160000 +0000" stop="20260718200000 +0000" channel="Now Sports Premier League 4.nowtv">
+<programme start="20260719160000 +0000" stop="20260719200000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
