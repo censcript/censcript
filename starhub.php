@@ -2209,13 +2209,10 @@
     <programme start="20260719013000 +0000" stop="20260719020000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#597</title>
     </programme>
-    <programme start="20260719020000 +0000" stop="20260719070000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260719020000 +0000" stop="20260719090000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>DAIHATSU Japan Open (S750) Finals</title>
     </programme>
-    <programme start="20260719070000 +0000" stop="20260719083000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Plava Laguna Croatia Open Umag (250) Final</title>
-    </programme>
-    <programme start="20260719083000 +0000" stop="20260719113000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260719090000 +0000" stop="20260719113000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FN16: Prelims: du Plessis vs Usman</title>
     </programme>
     <programme start="20260719113000 +0000" stop="20260719143000 +0000" channel="Hub Sports 2 HD.starhub">

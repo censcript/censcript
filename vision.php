@@ -634,9 +634,6 @@
 <programme start="20260720114500 +0000" stop="20260720121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260718230000 +0000" stop="20260719023000 +0000" channel="ANTV.vision">
-<title>Golmaal: Fun Unlimited</title>
-</programme>
 <programme start="20260719023000 +0000" stop="20260719060000 +0000" channel="ANTV.vision">
 <title>Dil Ka Rishta</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260719163000 +0000" stop="20260719172500 +0000" channel="MDTV.vision">
 <title>Customs Protection</title>
+</programme>
+<programme start="20260719172500 +0000" stop="20260719190000 +0000" channel="MDTV.vision">
+<title>86</title>
 </programme>
