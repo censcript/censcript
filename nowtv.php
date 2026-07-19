@@ -118,18 +118,6 @@
 <programme start="20260720160000 +0000" stop="20260720180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260719220000 +0000" stop="20260719221500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
-</programme>
-<programme start="20260719221500 +0000" stop="20260719223000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(B)</title>
-</programme>
-<programme start="20260719223000 +0000" stop="20260719224500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 16</title>
-</programme>
-<programme start="20260719224500 +0000" stop="20260719230000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
-</programme>
 <programme start="20260719230000 +0000" stop="20260719231500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd of 32(B)</title>
 </programme>

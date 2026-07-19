@@ -7,14 +7,8 @@
     <programme start="20260719170000 +0000" stop="20260719190000 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026: Closing Ceremony</title>
     </programme>
-    <programme start="20260719190000 +0000" stop="20260719220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260719190000 +0000" stop="20260719224500 +0000" channel="Channel 5.mewatch">
         <title>(Live) FIFA World Cup 2026 - Final: Spain vs Argentina</title>
-    </programme>
-    <programme start="20260719220000 +0000" stop="20260719223000 +0000" channel="Channel 5.mewatch">
-        <title>Yu-Gi-Oh! Duel Monsters - EP 95</title>
-    </programme>
-    <programme start="20260719223000 +0000" stop="20260719224500 +0000" channel="Channel 5.mewatch">
-        <title>Lupin&#039;s Tales S1 - EP 37</title>
     </programme>
     <programme start="20260719224500 +0000" stop="20260719230000 +0000" channel="Channel 5.mewatch">
         <title>Lupin&#039;s Tales S1 - EP 39</title>
@@ -119,7 +113,7 @@
         <title>Luke Nguyen’s India - EP 5</title>
     </programme>
     <programme start="20260720130000 +0000" stop="20260720133000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>News Tonight</title>
     </programme>
     <programme start="20260720133000 +0000" stop="20260720163000 +0000" channel="Channel 5.mewatch">
         <title>FIFA World Cup 2026 - Final: Spain vs Argentina</title>
