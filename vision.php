@@ -643,9 +643,6 @@
 <programme start="20260719090000 +0000" stop="20260719100000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260719133000 +0000" stop="20260719153000 +0000" channel="ANTV.vision">
-<title>Angkara Membara</title>
-</programme>
 <programme start="20260719153000 +0000" stop="20260719173000 +0000" channel="ANTV.vision">
 <title>Jurus Sakti</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>MDTV</title>
 </programme>
 <programme start="20260719203000 +0000" stop="20260719212000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260719212000 +0000" stop="20260719224000 +0000" channel="MDTV.vision">
 <title>MDTV</title>
 </programme>
