@@ -1,6 +1,3 @@
-<programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260719200000 +0000" stop="20260719220000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -34,9 +31,6 @@
 <programme start="20260720160000 +0000" stop="20260720180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260719200000 +0000" stop="20260719220000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -68,9 +62,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260720160000 +0000" stop="20260720180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260719200000 +0000" stop="20260719220000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -271,9 +262,6 @@
 <programme start="20260720160000 +0000" stop="20260720181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Haiti vs Scotland</title>
 </programme>
-<programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Bournemouth vs Newcastle United</title>
-</programme>
 <programme start="20260719200000 +0000" stop="20260719220000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Sunderland vs Aston Villa</title>
 </programme>
@@ -340,9 +328,6 @@
 <programme start="20260720160000 +0000" stop="20260720180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Manchester City vs Burnley</title>
 </programme>
-<programme start="20260719160000 +0000" stop="20260719200000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260719200000 +0000" stop="20260720000000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -361,9 +346,6 @@
 <programme start="20260720160000 +0000" stop="20260720200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260719160000 +0000" stop="20260719200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260719200000 +0000" stop="20260720000000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -380,9 +362,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260720160000 +0000" stop="20260720200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260719160000 +0000" stop="20260719200000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260719200000 +0000" stop="20260720000000 +0000" channel="Now Sports Premier League 4.nowtv">
