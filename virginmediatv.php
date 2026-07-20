@@ -4208,22 +4208,22 @@
     <title>World Cup Report</title>
 </programme>
 <programme start="20260720120000 +0000" stop="20260720130000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Lunchtime Live</title>
 </programme>
 <programme start="20260720130000 +0000" stop="20260720140000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20260720140000 +0000" stop="20260720150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20260720150000 +0000" stop="20260720160000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20260720160000 +0000" stop="20260720170000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sky Sports News</title>
 </programme>
 <programme start="20260720170000 +0000" stop="20260720180000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sky Sports News</title>
 </programme>
 <programme start="20260719213500 +0000" stop="20260720011000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Live: IndyCar Series Racing - Borchetta Bourbon Music City Grand Prix: Race</title>
@@ -4958,22 +4958,22 @@
     <title>World Cup Report</title>
 </programme>
 <programme start="20260720120000 +0000" stop="20260720130000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Lunchtime Live</title>
 </programme>
 <programme start="20260720130000 +0000" stop="20260720140000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20260720140000 +0000" stop="20260720150000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20260720150000 +0000" stop="20260720160000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20260720160000 +0000" stop="20260720170000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sky Sports News</title>
 </programme>
 <programme start="20260720170000 +0000" stop="20260720180000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>World Cup Report</title>
+    <title>Sky Sports News</title>
 </programme>
 <programme start="20260719213500 +0000" stop="20260720011000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Live: IndyCar Series Racing - Borchetta Bourbon Music City Grand Prix: Race</title>

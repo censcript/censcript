@@ -2960,7 +2960,7 @@
         <title>News</title>
     </programme>
     <programme start="20260719161500 +0000" stop="20260719163000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>No Future? The Growing Exodus of Young Turks</title>
     </programme>
     <programme start="20260719163000 +0000" stop="20260719170000 +0000" channel="DW English HD.starhub">
         <title>Tradition, Creativity and New Perspectives</title>
@@ -2972,13 +2972,13 @@
         <title>How Nukaaraq Olsen preserves Greenland’s sled dog culture</title>
     </programme>
     <programme start="20260719173000 +0000" stop="20260719180000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Tracing Jewish History in Krakow</title>
     </programme>
     <programme start="20260719180000 +0000" stop="20260719181500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260719181500 +0000" stop="20260719183000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>AI under pressure: scams, security and sustainability</title>
     </programme>
     <programme start="20260719183000 +0000" stop="20260719190000 +0000" channel="DW English HD.starhub">
         <title>How elevators can make or break a wheelchair user&#039;s journey</title>
@@ -3005,7 +3005,7 @@
         <title>My Life, My Pet</title>
     </programme>
     <programme start="20260719211500 +0000" stop="20260719213000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>No Future? The Growing Exodus of Young Turks</title>
     </programme>
     <programme start="20260719213000 +0000" stop="20260719220000 +0000" channel="DW English HD.starhub">
         <title>Climate solution transitions - cities, construction &amp; energy</title>
@@ -3017,7 +3017,7 @@
         <title>Tradition, Creativity and New Perspectives</title>
     </programme>
     <programme start="20260719223000 +0000" stop="20260719230000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>World Cup 2026: How can African Nations&#039; teams fix performance gaps</title>
     </programme>
     <programme start="20260719230000 +0000" stop="20260719230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3026,7 +3026,7 @@
         <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260719231500 +0000" stop="20260719233000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>AI under pressure: scams, security and sustainability</title>
     </programme>
     <programme start="20260719233000 +0000" stop="20260720000000 +0000" channel="DW English HD.starhub">
         <title>How elevators can make or break a wheelchair user&#039;s journey</title>
