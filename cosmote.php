@@ -1,7 +1,3 @@
-<programme start="20260720220000 +0700" stop="20260721000000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Bologna - AS Roma</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260721000000 +0700" stop="20260721020000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AZ Alkmaar - AC Sparta Praha</title>
     <desc>Live: Tidak</desc>
@@ -50,8 +46,8 @@
     <title>Football: VfB Stuttgart - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260720211500 +0700" stop="20260720231000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Pisa - AC Milan</title>
+<programme start="20260722000000 +0700" stop="20260722020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Lech Poznan - FC Shakhtar Donetsk</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260720231000 +0700" stop="20260721010500 +0700" channel="COSMOTE Sport 2 HD">
@@ -102,8 +98,12 @@
     <title>Football: Atalanta - SSC Napoli</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260720213000 +0700" stop="20260721003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>American Football: Denver Broncos - New England Patriots</title>
+<programme start="20260721230000 +0700" stop="20260722010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260722010000 +0700" stop="20260722030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SC Braga - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260721003000 +0700" stop="20260721023000 +0700" channel="COSMOTE Sport 3 HD">
@@ -150,8 +150,8 @@
     <title>American Football: Seattle Seahawks - Los Angeles Rams</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260720215500 +0700" stop="20260720235500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Armani Milano - Bon Reggio Emilia</title>
+<programme start="20260722003000 +0700" stop="20260722023000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: APOEL - Omonoia FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260720235500 +0700" stop="20260721021000 +0700" channel="COSMOTE Sport 4 HD">
@@ -206,16 +206,8 @@
     <title>Basketball: Reyer Venezia - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260720210500 +0700" stop="20260720221000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260720221000 +0700" stop="20260720234500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260720234500 +0700" stop="20260721004500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260722000000 +0700" stop="20260722020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Merkezefendi - Karsiyaka</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260721004500 +0700" stop="20260721022500 +0700" channel="COSMOTE Sport 5 HD">
@@ -306,9 +298,13 @@
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260720220000 +0700" stop="20260721000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Frederico Ferreira Silva - Luca Van Assche (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260721233000 +0700" stop="20260722010000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260722010000 +0700" stop="20260722023500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260721000000 +0700" stop="20260721023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Henrique Rocha - Pedro Martinez (L)</title>
@@ -346,9 +342,9 @@
     <title>Tennis: Stan Wawrinka - Roman Andres Burruchaga (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260720220000 +0700" stop="20260721000000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260722000000 +0700" stop="20260722023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Botic van de Zandschulp - Jaime Faria (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260721000000 +0700" stop="20260721020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -398,8 +394,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260720220000 +0700" stop="20260721000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260722000000 +0700" stop="20260722020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260721000000 +0700" stop="20260721020000 +0700" channel="COSMOTE Sport 8 HD">
@@ -450,8 +446,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260720220000 +0700" stop="20260721000000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260722000000 +0700" stop="20260722020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260721000000 +0700" stop="20260721020000 +0700" channel="COSMOTE Sport 9 HD">
@@ -499,6 +495,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260721220000 +0700" stop="20260722000000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260722000000 +0700" stop="20260722020000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

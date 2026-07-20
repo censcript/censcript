@@ -865,9 +865,6 @@
 <programme start="20260720110000 +0000" stop="20260720130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260720130000 +0000" stop="20260720143000 +0000" channel="TVOne.vision">
-<title>Talkshow Hari Anak Nasional</title>
-</programme>
 <programme start="20260720143000 +0000" stop="20260720153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260721040000 +0000" stop="20260721050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260721050000 +0000" stop="20260721050500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>
