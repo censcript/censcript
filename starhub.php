@@ -6370,7 +6370,10 @@
     <programme start="20260720150000 +0000" stop="20260720170000 +0000" channel="TV5MONDE HD.starhub">
         <title>Pingouin Et Goeland Et Leurs 500 Petits</title>
     </programme>
-    <programme start="20260719160000 +0000" stop="20260719180000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260719121800 +0000" stop="20260719161800 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Day 2 Afternoon Session</title>
+    </programme>
+    <programme start="20260719161800 +0000" stop="20260719180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Indian Wells</title>
     </programme>
     <programme start="20260719180000 +0000" stop="20260719220000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -7753,10 +7756,10 @@
     <programme start="20260719163000 +0000" stop="20260719193000 +0000" channel="Asianet Movies.starhub">
         <title>Crazy Gopalan</title>
     </programme>
-    <programme start="20260719193000 +0000" stop="20260719213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260719193000 +0000" stop="20260719214000 +0000" channel="Asianet Movies.starhub">
         <title>Money Ratnam</title>
     </programme>
-    <programme start="20260719213000 +0000" stop="20260719233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260719214000 +0000" stop="20260719233000 +0000" channel="Asianet Movies.starhub">
         <title>By The People</title>
     </programme>
     <programme start="20260719233000 +0000" stop="20260720013000 +0000" channel="Asianet Movies.starhub">

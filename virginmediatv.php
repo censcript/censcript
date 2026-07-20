@@ -4270,13 +4270,10 @@
 <programme start="20260720043000 +0000" stop="20260720044500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - WTA Final</title>
 </programme>
-<programme start="20260720044500 +0000" stop="20260720050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260720044500 +0000" stop="20260720060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
 </programme>
-<programme start="20260720050000 +0000" stop="20260720070000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP Nordea Open 2026 - Final</title>
-</programme>
-<programme start="20260720090000 +0000" stop="20260720190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260720080000 +0000" stop="20260720190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis</title>
 </programme>
 <programme start="20260719170000 +0000" stop="20260720004500 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
@@ -4312,13 +4309,10 @@
 <programme start="20260720053000 +0000" stop="20260720061500 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260720104500 +0000" stop="20260720121500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260720121500 +0000" stop="20260720124500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260720120000 +0000" stop="20260720123000 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260720124500 +0000" stop="20260720201500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260720123000 +0000" stop="20260720201500 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260719233000 +0000" stop="20260720010000 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -4339,13 +4333,10 @@
 <programme start="20260720053000 +0000" stop="20260720061500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260720104500 +0000" stop="20260720121500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260720121500 +0000" stop="20260720124500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260720120000 +0000" stop="20260720123000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260720124500 +0000" stop="20260720201500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260720123000 +0000" stop="20260720201500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260719233000 +0000" stop="20260720020000 +0000" channel="MUTV.virginmediatv">
@@ -5038,13 +5029,10 @@
 <programme start="20260720043000 +0000" stop="20260720044500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - WTA Final</title>
 </programme>
-<programme start="20260720044500 +0000" stop="20260720050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260720044500 +0000" stop="20260720060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
 </programme>
-<programme start="20260720050000 +0000" stop="20260720070000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP Nordea Open 2026 - Final</title>
-</programme>
-<programme start="20260720090000 +0000" stop="20260720190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260720080000 +0000" stop="20260720190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis</title>
 </programme>
 <programme start="20260720000000 +0000" stop="20260720010000 +0000" channel="Sky_Sports_F1.virginmediatv">
