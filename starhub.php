@@ -3035,22 +3035,22 @@
         <title>News</title>
     </programme>
     <programme start="20260720000200 +0000" stop="20260720003000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260720003000 +0000" stop="20260720010000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Choquequirao’s cable car: Impact on heritage and livelihoods</title>
     </programme>
     <programme start="20260720010000 +0000" stop="20260720010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260720010200 +0000" stop="20260720011500 +0000" channel="DW English HD.starhub">
-        <title>Understand the world, one story at a time</title>
+        <title>News</title>
     </programme>
     <programme start="20260720011500 +0000" stop="20260720014500 +0000" channel="DW English HD.starhub">
         <title>Couchsurfing in Argentina - Soccer fever, tango and wild Patagonia</title>
     </programme>
     <programme start="20260720014500 +0000" stop="20260720020000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>No Future? The Growing Exodus of Young Turks</title>
     </programme>
     <programme start="20260720020000 +0000" stop="20260720020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3059,7 +3059,7 @@
         <title>Creative solutions to urban heat</title>
     </programme>
     <programme start="20260720023000 +0000" stop="20260720030000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>World Cup 2026: How can African Nations&#039; teams fix performance gaps</title>
     </programme>
     <programme start="20260720030000 +0000" stop="20260720030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3068,7 +3068,7 @@
         <title>Beauty trends —  the good, the bad and the ugly.</title>
     </programme>
     <programme start="20260720033000 +0000" stop="20260720040000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Tracing Jewish History in Krakow</title>
     </programme>
     <programme start="20260720040000 +0000" stop="20260720040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3077,10 +3077,10 @@
         <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260720041500 +0000" stop="20260720044500 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Choquequirao’s cable car: Impact on heritage and livelihoods</title>
     </programme>
     <programme start="20260720044500 +0000" stop="20260720050000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>No Future? The Growing Exodus of Young Turks</title>
     </programme>
     <programme start="20260720050000 +0000" stop="20260720050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3098,16 +3098,16 @@
         <title>How Nukaaraq Olsen preserves Greenland’s sled dog culture</title>
     </programme>
     <programme start="20260720061500 +0000" stop="20260720063000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>AI under pressure: scams, security and sustainability</title>
     </programme>
     <programme start="20260720063000 +0000" stop="20260720070000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>How a Zimbabwean chef is challenging meat culture</title>
     </programme>
     <programme start="20260720070000 +0000" stop="20260720070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260720070200 +0000" stop="20260720071500 +0000" channel="DW English HD.starhub">
-        <title>Understand the world, one story at a time</title>
+        <title>News</title>
     </programme>
     <programme start="20260720071500 +0000" stop="20260720080000 +0000" channel="DW English HD.starhub">
         <title>Nigeria’s Mysterious Art Treasures - The Ilé-Ifè Bronzes</title>
@@ -3119,7 +3119,7 @@
         <title>Couchsurfing in Argentina - Soccer fever, tango and wild Patagonia</title>
     </programme>
     <programme start="20260720083000 +0000" stop="20260720090000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>World Cup 2026: How can African Nations&#039; teams fix performance gaps</title>
     </programme>
     <programme start="20260720090000 +0000" stop="20260720090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3143,16 +3143,16 @@
         <title>News</title>
     </programme>
     <programme start="20260720110200 +0000" stop="20260720113000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>How a Zimbabwean chef is challenging meat culture</title>
     </programme>
     <programme start="20260720113000 +0000" stop="20260720120000 +0000" channel="DW English HD.starhub">
-        <title>Business Podcast</title>
+        <title>News</title>
     </programme>
     <programme start="20260720120000 +0000" stop="20260720120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260720120200 +0000" stop="20260720121500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260720121500 +0000" stop="20260720130000 +0000" channel="DW English HD.starhub">
         <title>Nigeria’s Mysterious Art Treasures - The Ilé-Ifè Bronzes</title>
@@ -3164,7 +3164,7 @@
         <title>News</title>
     </programme>
     <programme start="20260720131500 +0000" stop="20260720133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Inside Albania’s biggest protests EVER: Why Gen Z is taking to the streets</title>
     </programme>
     <programme start="20260720133000 +0000" stop="20260720140000 +0000" channel="DW English HD.starhub">
         <title>Inside South Africa´s Xenophobia Crisis</title>
@@ -3182,7 +3182,7 @@
         <title>News</title>
     </programme>
     <programme start="20260720153000 +0000" stop="20260720160000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Choquequirao’s cable car: Impact on heritage and livelihoods</title>
     </programme>
     <programme start="20260719160000 +0000" stop="20260719220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -7993,7 +7993,7 @@
     <programme start="20260720133000 +0000" stop="20260720140000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260720140000 +0000" stop="20260720162000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260720140000 +0000" stop="20260720160000 +0000" channel="Dragon TV.starhub">
         <title>Overtime no more</title>
     </programme>
     <programme start="20260719160000 +0000" stop="20260719163000 +0000" channel="Travelxp HD.starhub">

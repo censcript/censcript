@@ -29,7 +29,7 @@
 <title>Terlanjur Mencintaimu (RCTI)</title>
 </programme>
 <programme start="20260720144500 +0000" stop="20260720160000 +0000" channel="RCTI.vision">
-<title>Obsession</title>
+<title>Rasa Yang Pernah Ada</title>
 </programme>
 <programme start="20260720160000 +0000" stop="20260720171500 +0000" channel="RCTI.vision">
 <title>Semua Indah Karena Cinta</title>
@@ -43,11 +43,8 @@
 <programme start="20260720190000 +0000" stop="20260720200000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260720200000 +0000" stop="20260720211500 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
-</programme>
-<programme start="20260720211500 +0000" stop="20260720223000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
+<programme start="20260720200000 +0000" stop="20260720223000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun S2</title>
 </programme>
 <programme start="20260720223000 +0000" stop="20260720230000 +0000" channel="RCTI.vision">
 <title>Seputar iNews</title>
@@ -829,41 +826,119 @@
 <programme start="20260721110000 +0000" stop="20260721130000 +0000" channel="RTV.vision">
 <title>BoBoiBoy Galaxy</title>
 </programme>
-<programme start="20260720000000 +0000" stop="20260720030000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260719233000 +0000" stop="20260720013000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260720030000 +0000" stop="20260720060000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720013000 +0000" stop="20260720020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
 </programme>
-<programme start="20260720060000 +0000" stop="20260720090000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720020000 +0000" stop="20260720023000 +0000" channel="TVOne.vision">
+<title>Breaking News (L)</title>
 </programme>
-<programme start="20260720090000 +0000" stop="20260720120000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720023000 +0000" stop="20260720033000 +0000" channel="TVOne.vision">
+<title>Pagi-Pagi Seru</title>
 </programme>
-<programme start="20260720120000 +0000" stop="20260720150000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720033000 +0000" stop="20260720040000 +0000" channel="TVOne.vision">
+<title>Metropolitan</title>
 </programme>
-<programme start="20260720150000 +0000" stop="20260720180000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720040000 +0000" stop="20260720053000 +0000" channel="TVOne.vision">
+<title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260720180000 +0000" stop="20260720210000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720053000 +0000" stop="20260720063000 +0000" channel="TVOne.vision">
+<title>Breaking News (L)</title>
 </programme>
-<programme start="20260720210000 +0000" stop="20260721000000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720063000 +0000" stop="20260720073000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Siang</title>
 </programme>
-<programme start="20260721000000 +0000" stop="20260721030000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720073000 +0000" stop="20260720080000 +0000" channel="TVOne.vision">
+<title>Kabar Bola Dunia</title>
 </programme>
-<programme start="20260721030000 +0000" stop="20260721060000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720080000 +0000" stop="20260720083000 +0000" channel="TVOne.vision">
+<title>Kabar Merah Putih</title>
 </programme>
-<programme start="20260721060000 +0000" stop="20260721090000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720083000 +0000" stop="20260720090000 +0000" channel="TVOne.vision">
+<title>Berita Utama Kriminal</title>
 </programme>
-<programme start="20260721090000 +0000" stop="20260721120000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260720090000 +0000" stop="20260720110000 +0000" channel="TVOne.vision">
+<title>Kabar Petang (L)</title>
+</programme>
+<programme start="20260720110000 +0000" stop="20260720130000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260720130000 +0000" stop="20260720143000 +0000" channel="TVOne.vision">
+<title>Talkshow Hari Anak Nasional</title>
+</programme>
+<programme start="20260720143000 +0000" stop="20260720153000 +0000" channel="TVOne.vision">
+<title>Kabar Utama 2</title>
+</programme>
+<programme start="20260720153000 +0000" stop="20260720160000 +0000" channel="TVOne.vision">
+<title>Pesta Sepakbola</title>
+</programme>
+<programme start="20260720160000 +0000" stop="20260720170000 +0000" channel="TVOne.vision">
+<title>Kabar Hari Ini</title>
+</programme>
+<programme start="20260720170000 +0000" stop="20260720173000 +0000" channel="TVOne.vision">
+<title>Kabar Arena Malam</title>
+</programme>
+<programme start="20260720173000 +0000" stop="20260720180000 +0000" channel="TVOne.vision">
+<title>Berita Utama Kriminal</title>
+</programme>
+<programme start="20260720180000 +0000" stop="20260720190000 +0000" channel="TVOne.vision">
+<title>Kabar Petang</title>
+</programme>
+<programme start="20260720190000 +0000" stop="20260720200000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20260720200000 +0000" stop="20260720203000 +0000" channel="TVOne.vision">
+<title>Kabar Utama 2</title>
+</programme>
+<programme start="20260720203000 +0000" stop="20260720210000 +0000" channel="TVOne.vision">
+<title>Kabar Hari Ini</title>
+</programme>
+<programme start="20260720210000 +0000" stop="20260720213000 +0000" channel="TVOne.vision">
+<title>Kabar Arena Pagi 2</title>
+</programme>
+<programme start="20260720213000 +0000" stop="20260720230000 +0000" channel="TVOne.vision">
+<title>Kabar Pagi (L)</title>
+</programme>
+<programme start="20260720230000 +0000" stop="20260720233000 +0000" channel="TVOne.vision">
+<title>Kabar Arena Pagi 2 (L)</title>
+</programme>
+<programme start="20260720233000 +0000" stop="20260721013000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20260721013000 +0000" stop="20260721020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
+</programme>
+<programme start="20260721020000 +0000" stop="20260721023000 +0000" channel="TVOne.vision">
+<title>Breaking News (L)</title>
+</programme>
+<programme start="20260721023000 +0000" stop="20260721033000 +0000" channel="TVOne.vision">
+<title>Pagi-Pagi Seru</title>
+</programme>
+<programme start="20260721033000 +0000" stop="20260721040000 +0000" channel="TVOne.vision">
+<title>Metropolitan</title>
+</programme>
+<programme start="20260721040000 +0000" stop="20260721053000 +0000" channel="TVOne.vision">
+<title>Kabar Siang (L)</title>
+</programme>
+<programme start="20260721053000 +0000" stop="20260721063000 +0000" channel="TVOne.vision">
+<title>Breaking News (L)</title>
+</programme>
+<programme start="20260721063000 +0000" stop="20260721073000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Siang</title>
+</programme>
+<programme start="20260721073000 +0000" stop="20260721083000 +0000" channel="TVOne.vision">
+<title>Kabar Merah Putih</title>
+</programme>
+<programme start="20260721083000 +0000" stop="20260721090000 +0000" channel="TVOne.vision">
+<title>Berita Utama Kriminal</title>
+</programme>
+<programme start="20260721090000 +0000" stop="20260721110000 +0000" channel="TVOne.vision">
+<title>Kabar Petang (L)</title>
+</programme>
+<programme start="20260721110000 +0000" stop="20260721130000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
 <programme start="20260720000000 +0000" stop="20260720023000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Pagi</title>
@@ -1422,79 +1497,4 @@
 </programme>
 <programme start="20260721040000 +0000" stop="20260721050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
-</programme>
-<programme start="20260721050000 +0000" stop="20260721050500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260721050500 +0000" stop="20260721053000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20260721053000 +0000" stop="20260721063000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah</title>
-</programme>
-<programme start="20260721063000 +0000" stop="20260721070000 +0000" channel="BTV.vision">
-<title>Jendela Nusantara: Jawa Barat</title>
-</programme>
-<programme start="20260721070000 +0000" stop="20260721073000 +0000" channel="BTV.vision">
-<title>Pecah Telur</title>
-</programme>
-<programme start="20260721073000 +0000" stop="20260721080000 +0000" channel="BTV.vision">
-<title>Indonesia Update Cerita IDN</title>
-</programme>
-<programme start="20260721080000 +0000" stop="20260721083000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20260721083000 +0000" stop="20260721090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260721090000 +0000" stop="20260721090500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260721090500 +0000" stop="20260721100000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20260721100000 +0000" stop="20260721103000 +0000" channel="BTV.vision">
-<title>Berita Merah Putih</title>
-</programme>
-<programme start="20260721103000 +0000" stop="20260721120000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20260720000000 +0000" stop="20260720004500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720004500 +0000" stop="20260720010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720010000 +0000" stop="20260720030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720030000 +0000" stop="20260720033000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720033000 +0000" stop="20260720040000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720040000 +0000" stop="20260720040300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720040300 +0000" stop="20260720043000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720043000 +0000" stop="20260720060000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720060000 +0000" stop="20260720080000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720080000 +0000" stop="20260720080300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720080300 +0000" stop="20260720103000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720103000 +0000" stop="20260720110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260720110000 +0000" stop="20260720120000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

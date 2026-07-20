@@ -1603,14 +1603,11 @@
 <programme start="20260720053000 +0000" stop="20260720063000 +0000" channel="BTV.mncvision">
     <title>Jalan Dakwah</title>
 </programme>
-<programme start="20260720063000 +0000" stop="20260720070000 +0000" channel="BTV.mncvision">
-    <title>Jendela Nusantara: Jawa Barat</title>
-</programme>
-<programme start="20260720070000 +0000" stop="20260720073000 +0000" channel="BTV.mncvision">
+<programme start="20260720063000 +0000" stop="20260720073000 +0000" channel="BTV.mncvision">
     <title>Pecah Telur</title>
 </programme>
 <programme start="20260720073000 +0000" stop="20260720080000 +0000" channel="BTV.mncvision">
-    <title>Indonesia Update Cerita Jakarta</title>
+    <title>Jendela Dunia</title>
 </programme>
 <programme start="20260720080000 +0000" stop="20260720083000 +0000" channel="BTV.mncvision">
     <title>Berita Kriminal</title>
@@ -9407,79 +9404,70 @@
     <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20260719170000 +0000" stop="20260719180000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Bola Gembira: Final Piala Dunia</title>
 </programme>
-<programme start="20260719180000 +0000" stop="20260719200000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260719180000 +0000" stop="20260719190000 +0000" channel="TVRI.mncvision">
+    <title>Pre Match</title>
 </programme>
-<programme start="20260719200000 +0000" stop="20260719204500 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260719190000 +0000" stop="20260719210000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia 2026: SPA Vs ARG</title>
 </programme>
-<programme start="20260719204500 +0000" stop="20260719210000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260719210000 +0000" stop="20260719213000 +0000" channel="TVRI.mncvision">
+    <title>Closing Ceremony</title>
 </programme>
-<programme start="20260719210000 +0000" stop="20260719230000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260719213000 +0000" stop="20260719220000 +0000" channel="TVRI.mncvision">
+    <title>Post Match</title>
 </programme>
-<programme start="20260719230000 +0000" stop="20260719233000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260719220000 +0000" stop="20260719223000 +0000" channel="TVRI.mncvision">
+    <title>Sportpedia</title>
 </programme>
-<programme start="20260719233000 +0000" stop="20260720000000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260719223000 +0000" stop="20260719230000 +0000" channel="TVRI.mncvision">
+    <title>Asta Cita</title>
 </programme>
-<programme start="20260720000000 +0000" stop="20260720004500 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260719230000 +0000" stop="20260720000000 +0000" channel="TVRI.mncvision">
+    <title>Klik Indonesia Pagi</title>
 </programme>
-<programme start="20260720004500 +0000" stop="20260720010000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720000000 +0000" stop="20260720010000 +0000" channel="TVRI.mncvision">
+    <title>Jendela Negeri</title>
 </programme>
-<programme start="20260720010000 +0000" stop="20260720030000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260720030000 +0000" stop="20260720033000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720010000 +0000" stop="20260720033000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia 2026: SPA Vs ARG</title>
 </programme>
 <programme start="20260720033000 +0000" stop="20260720040000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Jejak Pembangunan</title>
 </programme>
 <programme start="20260720040000 +0000" stop="20260720040300 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Info Terkini</title>
 </programme>
 <programme start="20260720040300 +0000" stop="20260720043000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Zona Piala Dunia</title>
 </programme>
-<programme start="20260720043000 +0000" stop="20260720060000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720043000 +0000" stop="20260720053000 +0000" channel="TVRI.mncvision">
+    <title>Klik Indonesia Siang</title>
 </programme>
-<programme start="20260720060000 +0000" stop="20260720080000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720053000 +0000" stop="20260720073000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia 2026: FRA Vs SPA</title>
 </programme>
-<programme start="20260720080000 +0000" stop="20260720080300 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720073000 +0000" stop="20260720093000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia 2026: ENG Vs ARG</title>
 </programme>
-<programme start="20260720080300 +0000" stop="20260720103000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720093000 +0000" stop="20260720100000 +0000" channel="TVRI.mncvision">
+    <title>Zona Piala Dunia</title>
 </programme>
-<programme start="20260720103000 +0000" stop="20260720110000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720100000 +0000" stop="20260720110000 +0000" channel="TVRI.mncvision">
+    <title>Indonesia Bicara</title>
 </programme>
 <programme start="20260720110000 +0000" stop="20260720120000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Klik Indonesia Petang</title>
 </programme>
-<programme start="20260720120000 +0000" stop="20260720130000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720120000 +0000" stop="20260720153000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia Closing Ceremony</title>
 </programme>
-<programme start="20260720130000 +0000" stop="20260720140000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260720140000 +0000" stop="20260720143000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260720143000 +0000" stop="20260720163000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260720153000 +0000" stop="20260720163000 +0000" channel="TVRI.mncvision">
+    <title>Jurnal Piala Dunia 2026</title>
 </programme>
 <programme start="20260720163000 +0000" stop="20260719170000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Klik Indonesia Malam</title>
 </programme>
 <programme start="20260719170400 +0000" stop="20260719191800 +0000" channel="UNIQUES.mncvision">
     <title>Iron Fist: Rebellion</title>
