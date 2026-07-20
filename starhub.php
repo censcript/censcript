@@ -2243,7 +2243,7 @@
         <title>#597</title>
     </programme>
     <programme start="20260720080000 +0000" stop="20260720100000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Brazil vs Egypt</title>
+        <title>UniCredit Iasi Open (250) Final</title>
     </programme>
     <programme start="20260720100000 +0000" stop="20260720110000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC 318: Holloway vs Poirier 3</title>
@@ -6649,8 +6649,11 @@
     <programme start="20260720134000 +0000" stop="20260720153000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV Classic 2025/26: Newcastle vs Liverpool PL 23/24</title>
     </programme>
-    <programme start="20260720153000 +0000" stop="20260720160000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260720153000 +0000" stop="20260720154500 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
+    </programme>
+    <programme start="20260720154500 +0000" stop="20260720160000 +0000" channel="beIN Sports HD.starhub">
+        <title>Best Goalkeeper: Joan Garcia</title>
     </programme>
     <programme start="20260719150000 +0000" stop="20260719161500 +0000" channel="TestChannel2.starhub">
         <title>Family By Choice</title>
@@ -7771,7 +7774,7 @@
     <programme start="20260720103000 +0000" stop="20260720133000 +0000" channel="Asianet Movies.starhub">
         <title>2018: Everyone Is A Hero</title>
     </programme>
-    <programme start="20260720133000 +0000" stop="20260720173000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260720133000 +0000" stop="20260720172000 +0000" channel="Asianet Movies.starhub">
         <title>RRR</title>
     </programme>
     <programme start="20260719160000 +0000" stop="20260719170000 +0000" channel="Astro Warna HD.starhub">
