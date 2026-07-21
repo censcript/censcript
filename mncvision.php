@@ -7816,31 +7816,31 @@
 <programme start="20260721030000 +0000" stop="20260721050000 +0000" channel="SCTV.mncvision">
     <title>Pura-Pura Pacaran Demi Konten</title>
 </programme>
-<programme start="20260721050000 +0000" stop="20260721053000 +0000" channel="SCTV.mncvision">
+<programme start="20260721050000 +0000" stop="20260721052200 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260721053000 +0000" stop="20260721070000 +0000" channel="SCTV.mncvision">
+<programme start="20260721052200 +0000" stop="20260721065600 +0000" channel="SCTV.mncvision">
     <title>Cinta Itu Harus Berjalan...</title>
 </programme>
-<programme start="20260721070000 +0000" stop="20260721083000 +0000" channel="SCTV.mncvision">
+<programme start="20260721065600 +0000" stop="20260721083000 +0000" channel="SCTV.mncvision">
     <title>Tour Guide Penggaet Hati</title>
 </programme>
 <programme start="20260721083000 +0000" stop="20260721100500 +0000" channel="SCTV.mncvision">
-    <title>Bodgyguard Pujaan Hati</title>
+    <title>Kukira Pacar Sewaan Ternyata...</title>
 </programme>
-<programme start="20260721100500 +0000" stop="20260721114500 +0000" channel="SCTV.mncvision">
+<programme start="20260721100500 +0000" stop="20260721114600 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260721114500 +0000" stop="20260721131500 +0000" channel="SCTV.mncvision">
+<programme start="20260721114600 +0000" stop="20260721131500 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260721131500 +0000" stop="20260721143000 +0000" channel="SCTV.mncvision">
+<programme start="20260721131500 +0000" stop="20260721143800 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260721143000 +0000" stop="20260721160000 +0000" channel="SCTV.mncvision">
+<programme start="20260721143800 +0000" stop="20260721160700 +0000" channel="SCTV.mncvision">
     <title>Sebening  Cinta</title>
 </programme>
-<programme start="20260721160000 +0000" stop="20260721163000 +0000" channel="SCTV.mncvision">
+<programme start="20260721160700 +0000" stop="20260721163700 +0000" channel="SCTV.mncvision">
     <title>Cireng Rasa Kangen</title>
 </programme>
 <programme start="20260720172800 +0000" stop="20260720184900 +0000" channel="SCTV HD.mncvision">
@@ -7876,31 +7876,31 @@
 <programme start="20260721030000 +0000" stop="20260721050000 +0000" channel="SCTV HD.mncvision">
     <title>Pura-Pura Pacaran Demi Konten</title>
 </programme>
-<programme start="20260721050000 +0000" stop="20260721053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260721050000 +0000" stop="20260721052200 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260721053000 +0000" stop="20260721070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260721052200 +0000" stop="20260721065600 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Itu Harus Berjalan...</title>
 </programme>
-<programme start="20260721070000 +0000" stop="20260721083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260721065600 +0000" stop="20260721083000 +0000" channel="SCTV HD.mncvision">
     <title>Tour Guide Penggaet Hati</title>
 </programme>
 <programme start="20260721083000 +0000" stop="20260721100500 +0000" channel="SCTV HD.mncvision">
-    <title>Bodgyguard Pujaan Hati</title>
+    <title>Kukira Pacar Sewaan Ternyata...</title>
 </programme>
-<programme start="20260721100500 +0000" stop="20260721114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260721100500 +0000" stop="20260721114600 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260721114500 +0000" stop="20260721131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260721114600 +0000" stop="20260721131500 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260721131500 +0000" stop="20260721143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260721131500 +0000" stop="20260721143800 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260721143000 +0000" stop="20260721160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260721143800 +0000" stop="20260721160700 +0000" channel="SCTV HD.mncvision">
     <title>Sebening  Cinta</title>
 </programme>
-<programme start="20260721160000 +0000" stop="20260721163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260721160700 +0000" stop="20260721163700 +0000" channel="SCTV HD.mncvision">
     <title>Cireng Rasa Kangen</title>
 </programme>
 <programme start="20260720170000 +0000" stop="20260720180000 +0000" channel="Sindo News TV.mncvision">
