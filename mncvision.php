@@ -6380,7 +6380,7 @@
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
 <programme start="20260721140000 +0000" stop="20260721150000 +0000" channel="Music TV.mncvision">
-    <title>Idol Bae</title>
+    <title>Mendadak Seleb</title>
 </programme>
 <programme start="20260721150000 +0000" stop="20260721163000 +0000" channel="Music TV.mncvision">
     <title>Kilau DMD</title>
@@ -6437,7 +6437,7 @@
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
 <programme start="20260721140000 +0000" stop="20260721150000 +0000" channel="Music TV HD.mncvision">
-    <title>Idol Bae</title>
+    <title>Mendadak Seleb</title>
 </programme>
 <programme start="20260721150000 +0000" stop="20260721163000 +0000" channel="Music TV HD.mncvision">
     <title>Kilau DMD</title>

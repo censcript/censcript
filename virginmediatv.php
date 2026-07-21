@@ -1,10 +1,10 @@
 <programme start="20260720231000 +0000" stop="20260721000500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Code of Silence</title>
 </programme>
-<programme start="20260721000500 +0000" stop="20260721005100 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260721000500 +0000" stop="20260721005500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Bay</title>
 </programme>
-<programme start="20260721005100 +0000" stop="20260721051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260721005500 +0000" stop="20260721051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260721051500 +0000" stop="20260721060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
@@ -463,10 +463,10 @@
 <programme start="20260721001000 +0000" stop="20260721010500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Code of Silence</title>
 </programme>
-<programme start="20260721010500 +0000" stop="20260721015100 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260721010500 +0000" stop="20260721015500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>The Bay</title>
 </programme>
-<programme start="20260721015100 +0000" stop="20260721061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260721015500 +0000" stop="20260721061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260721100000 +0000" stop="20260721123000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
