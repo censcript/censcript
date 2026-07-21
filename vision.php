@@ -544,6 +544,9 @@
 <programme start="20260721054500 +0000" stop="20260721063000 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
+<programme start="20260721063000 +0000" stop="20260721071500 +0000" channel="Trans 7.vision">
+<title>Indonesiaku</title>
+</programme>
 <programme start="20260721071500 +0000" stop="20260721080000 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -649,56 +652,62 @@
 <programme start="20260722114500 +0000" stop="20260722121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260720230000 +0000" stop="20260721023000 +0000" channel="ANTV.vision">
-<title>Hello Brother</title>
+<programme start="20260720230000 +0000" stop="20260721010000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
+</programme>
+<programme start="20260721010000 +0000" stop="20260721023000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260721023000 +0000" stop="20260721060000 +0000" channel="ANTV.vision">
-<title>Koi Mil Gaya</title>
+<title>ANTV</title>
 </programme>
 <programme start="20260721060000 +0000" stop="20260721073000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<title>ANTV</title>
 </programme>
 <programme start="20260721073000 +0000" stop="20260721090000 +0000" channel="ANTV.vision">
-<title>Sayali</title>
+<title>ANTV</title>
 </programme>
-<programme start="20260721090000 +0000" stop="20260721100000 +0000" channel="ANTV.vision">
-<title>Jaane Anjaane</title>
+<programme start="20260721090000 +0000" stop="20260721113000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260721100000 +0000" stop="20260721113000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaann</title>
+<programme start="20260721113000 +0000" stop="20260721133000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260721173000 +0000" stop="20260721190000 +0000" channel="ANTV.vision">
-<title>Dreadnaught</title>
+<programme start="20260721133000 +0000" stop="20260721153000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260721190000 +0000" stop="20260721203000 +0000" channel="ANTV.vision">
-<title>Aini: Malaikat Tak Bersayap</title>
+<programme start="20260721153000 +0000" stop="20260721173000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260721203000 +0000" stop="20260721213000 +0000" channel="ANTV.vision">
-<title>Karma Baik</title>
+<programme start="20260721173000 +0000" stop="20260721193000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260721213000 +0000" stop="20260721230000 +0000" channel="ANTV.vision">
-<title>Hati Ke Hati Bersama Mamah...</title>
+<programme start="20260721193000 +0000" stop="20260721220000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260721230000 +0000" stop="20260722023000 +0000" channel="ANTV.vision">
-<title>Deewane Huye Paagal</title>
+<programme start="20260721220000 +0000" stop="20260721230000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
+</programme>
+<programme start="20260721230000 +0000" stop="20260722010000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
+</programme>
+<programme start="20260722010000 +0000" stop="20260722023000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260722023000 +0000" stop="20260722060000 +0000" channel="ANTV.vision">
-<title>Krrish</title>
+<title>ANTV</title>
 </programme>
 <programme start="20260722060000 +0000" stop="20260722073000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<title>ANTV</title>
 </programme>
-<programme start="20260722073000 +0000" stop="20260722090000 +0000" channel="ANTV.vision">
-<title>Sayali</title>
+<programme start="20260722073000 +0000" stop="20260722083000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="ANTV.vision">
-<title>Jaane Anjaane</title>
+<programme start="20260722083000 +0000" stop="20260722103000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260722100000 +0000" stop="20260722113000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260722113000 +0000" stop="20260722133000 +0000" channel="ANTV.vision">
-<title>Mata Batin</title>
+<programme start="20260722103000 +0000" stop="20260722120000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260720233000 +0000" stop="20260721013000 +0000" channel="RTV.vision">
 <title>METAL CARDBOT</title>
@@ -1351,11 +1360,14 @@
 <programme start="20260721053000 +0000" stop="20260721063000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
-<programme start="20260721063000 +0000" stop="20260721073000 +0000" channel="BTV.vision">
+<programme start="20260721063000 +0000" stop="20260721070000 +0000" channel="BTV.vision">
+<title>Jendela Nusantara: Jawa Barat</title>
+</programme>
+<programme start="20260721070000 +0000" stop="20260721073000 +0000" channel="BTV.vision">
 <title>Pecah Telur</title>
 </programme>
 <programme start="20260721073000 +0000" stop="20260721080000 +0000" channel="BTV.vision">
-<title>Jendela Dunia</title>
+<title>Indonesia Update Cerita IDN</title>
 </programme>
 <programme start="20260721080000 +0000" stop="20260721083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
@@ -1468,11 +1480,14 @@
 <programme start="20260722053000 +0000" stop="20260722063000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
-<programme start="20260722063000 +0000" stop="20260722073000 +0000" channel="BTV.vision">
+<programme start="20260722063000 +0000" stop="20260722070000 +0000" channel="BTV.vision">
+<title>Jendela Nusantara: Jawa Barat</title>
+</programme>
+<programme start="20260722070000 +0000" stop="20260722073000 +0000" channel="BTV.vision">
 <title>Pecah Telur</title>
 </programme>
 <programme start="20260722073000 +0000" stop="20260722080000 +0000" channel="BTV.vision">
-<title>Jendela Dunia</title>
+<title>Indonesia Update Dari Nol</title>
 </programme>
 <programme start="20260722080000 +0000" stop="20260722083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20260722090000 +0000" stop="20260722090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260722090500 +0000" stop="20260722100000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="BTV.vision">
-<title>Berita Merah Putih</title>
-</programme>
-<programme start="20260722103000 +0000" stop="20260722120000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20260721000000 +0000" stop="20260721010000 +0000" channel="TVRI.vision">
-<title>Jendela Negeri</title>
-</programme>
-<programme start="20260721010000 +0000" stop="20260721020000 +0000" channel="TVRI.vision">
-<title>Bersama Perempuan</title>
 </programme>

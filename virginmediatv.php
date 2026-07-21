@@ -4426,11 +4426,8 @@
 <programme start="20260721050000 +0000" stop="20260721060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Premier League Goals of the Season - 2011/12</title>
 </programme>
-<programme start="20260721103000 +0000" stop="20260721161500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260721103000 +0000" stop="20260721164500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Tour de France - Stage 16</title>
-</programme>
-<programme start="20260721161500 +0000" stop="20260721164500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Race Bikes - Episode 2</title>
 </programme>
 <programme start="20260721164500 +0000" stop="20260721170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>TNT Sports Cricket Reload - West Indies v Sri Lanka, 2nd Test: Best Bowling</title>
@@ -5077,11 +5074,8 @@
 <programme start="20260721050000 +0000" stop="20260721060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Premier League Goals of the Season - 2011/12</title>
 </programme>
-<programme start="20260721103000 +0000" stop="20260721161500 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260721103000 +0000" stop="20260721164500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Tour de France - Stage 16</title>
-</programme>
-<programme start="20260721161500 +0000" stop="20260721164500 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Race Bikes - Episode 2</title>
 </programme>
 <programme start="20260721164500 +0000" stop="20260721170000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>TNT Sports Cricket Reload - West Indies v Sri Lanka, 2nd Test: Best Bowling</title>
@@ -6274,7 +6268,10 @@
 <programme start="20260720175800 +0000" stop="20260721015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260721015800 +0000" stop="20260721060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260721015800 +0000" stop="20260721050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260721050000 +0000" stop="20260721060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260721120000 +0000" stop="20260721122500 +0000" channel="CBBC.virginmediatv">
