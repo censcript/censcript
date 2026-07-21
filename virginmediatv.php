@@ -163,10 +163,10 @@
 <programme start="20260721150000 +0000" stop="20260721160000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Tipping Point</title>
 </programme>
-<programme start="20260721160000 +0000" stop="20260721165500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260721160000 +0000" stop="20260721170000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>The Chase</title>
 </programme>
-<programme start="20260721165500 +0000" stop="20260721180000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260721170000 +0000" stop="20260721180000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Tipping Point</title>
 </programme>
 <programme start="20260720230000 +0000" stop="20260721000500 +0000" channel="TG4_HD.virginmediatv">
@@ -4211,7 +4211,7 @@
     <title>ATP Tour: This Week</title>
 </programme>
 <programme start="20260721010000 +0000" stop="20260721011500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260721011500 +0000" stop="20260721013000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Miami Open 2026 - ATP Final</title>
@@ -4220,7 +4220,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260721014500 +0000" stop="20260721020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260721020000 +0000" stop="20260721030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Swiss Open Gstaad 2026 - Final</title>
@@ -4991,7 +4991,7 @@
     <title>ATP Tour: This Week</title>
 </programme>
 <programme start="20260721010000 +0000" stop="20260721011500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260721011500 +0000" stop="20260721013000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Miami Open 2026 - ATP Final</title>
@@ -5000,7 +5000,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260721014500 +0000" stop="20260721020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260721020000 +0000" stop="20260721030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Swiss Open Gstaad 2026 - Final</title>
