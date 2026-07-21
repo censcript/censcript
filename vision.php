@@ -544,9 +544,6 @@
 <programme start="20260721054500 +0000" stop="20260721063000 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20260721063000 +0000" stop="20260721071500 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20260721071500 +0000" stop="20260721080000 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260722090500 +0000" stop="20260722100000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
 </programme>

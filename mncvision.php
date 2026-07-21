@@ -425,7 +425,7 @@
     <title>Teri Meri Doriyaann</title>
 </programme>
 <programme start="20260721113000 +0000" stop="20260721133000 +0000" channel="ANTV.mncvision">
-    <title>Menjelang Magrib 2</title>
+    <title>Si Manis Jembatan Ancol</title>
 </programme>
 <programme start="20260721133000 +0000" stop="20260721153000 +0000" channel="ANTV.mncvision">
     <title>Menantang Prahara</title>
@@ -7826,7 +7826,7 @@
     <title>Tour Guide Penggaet Hati</title>
 </programme>
 <programme start="20260721083000 +0000" stop="20260721100500 +0000" channel="SCTV.mncvision">
-    <title>Kukira Pacar Sewaan Ternyata...</title>
+    <title>Malik Sang Malin Kundang</title>
 </programme>
 <programme start="20260721100500 +0000" stop="20260721114600 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
@@ -7886,7 +7886,7 @@
     <title>Tour Guide Penggaet Hati</title>
 </programme>
 <programme start="20260721083000 +0000" stop="20260721100500 +0000" channel="SCTV HD.mncvision">
-    <title>Kukira Pacar Sewaan Ternyata...</title>
+    <title>Malik Sang Malin Kundang</title>
 </programme>
 <programme start="20260721100500 +0000" stop="20260721114600 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
