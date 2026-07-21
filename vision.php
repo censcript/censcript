@@ -667,9 +667,6 @@
 <programme start="20260721100000 +0000" stop="20260721113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260721153000 +0000" stop="20260721173000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 2</title>
-</programme>
 <programme start="20260721173000 +0000" stop="20260721190000 +0000" channel="ANTV.vision">
 <title>Dreadnaught</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260721000000 +0000" stop="20260721010000 +0000" channel="TVRI.vision">
 <title>Jendela Negeri</title>
+</programme>
+<programme start="20260721010000 +0000" stop="20260721020000 +0000" channel="TVRI.vision">
+<title>Bersama Perempuan</title>
 </programme>
