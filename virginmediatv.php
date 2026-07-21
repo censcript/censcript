@@ -2396,7 +2396,7 @@
     <title>Verified Live</title>
 </programme>
 <programme start="20260721153000 +0000" stop="20260721154500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260721154500 +0000" stop="20260721160000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
