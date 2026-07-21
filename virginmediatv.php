@@ -4352,7 +4352,7 @@
     <title>All the Goals - MU Women 25/26</title>
 </programme>
 <programme start="20260721140000 +0000" stop="20260721141500 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Kobbie Mainoo x Academy</title>
+    <title>Signing Interview: Youri Tielemans</title>
 </programme>
 <programme start="20260721141500 +0000" stop="20260721143000 +0000" channel="MUTV.virginmediatv">
     <title>Signing Interview: Andrey Santos</title>

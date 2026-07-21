@@ -4,10 +4,10 @@
     <programme start="20260721000000 +0000" stop="20260721003000 +0000" channel="VTV1 HD.mytv">
         <title> Cải cách hành chính: Chạm đến người dân </title>
     </programme>
-    <programme start="20260721003000 +0000" stop="20260721004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260721003000 +0000" stop="20260721004600 +0000" channel="VTV1 HD.mytv">
         <title> Báo chí toàn cảnh </title>
     </programme>
-    <programme start="20260721004500 +0000" stop="20260721011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260721004600 +0000" stop="20260721011000 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
     <programme start="20260721011000 +0000" stop="20260721020000 +0000" channel="VTV1 HD.mytv">
@@ -22,10 +22,10 @@
     <programme start="20260721024500 +0000" stop="20260721033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mẹ Rơm - Tập 17 </title>
     </programme>
-    <programme start="20260721033000 +0000" stop="20260721041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260721033000 +0000" stop="20260721041300 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mẹ Rơm - Tập 18 </title>
     </programme>
-    <programme start="20260721041500 +0000" stop="20260721050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260721041300 +0000" stop="20260721050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Hành trình ẩm thực của những cây sen </title>
     </programme>
     <programme start="20260721050500 +0000" stop="20260721051000 +0000" channel="VTV1 HD.mytv">
@@ -34,10 +34,10 @@
     <programme start="20260721051000 +0000" stop="20260721053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260721053000 +0000" stop="20260721070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260721053000 +0000" stop="20260721070100 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260721070000 +0000" stop="20260721072500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260721070100 +0000" stop="20260721072500 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
     <programme start="20260721072500 +0000" stop="20260721073000 +0000" channel="VTV1 HD.mytv">
