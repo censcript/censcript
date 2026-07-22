@@ -2818,8 +2818,11 @@
   <programme start="20260724133000 +0000" stop="20260724143000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">DOPOLEDNÍ DECHOVKA</title>
   </programme>
-  <programme start="20260724170000 +0000" stop="20260724190000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260724170000 +0000" stop="20260724180000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">DOPOLEDNÍ DECHOVKA</title>
+  </programme>
+  <programme start="20260724180000 +0000" stop="20260724190000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">HARMONIKY</title>
   </programme>
   <programme start="20260724190000 +0000" stop="20260724220000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
@@ -2914,38 +2917,8 @@
   <programme start="20260724201000 +0000" stop="20260724220000 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Pohybe</title>
   </programme>
-  <programme start="20260723214500 +0000" stop="20260723220500 +0000" channel="TV LUX.webtv.sk">
+  <programme start="20260723214500 +0000" stop="20260724004500 +0000" channel="TV LUX.webtv.sk">
     <title lang="id">Z prameňa</title>
-  </programme>
-  <programme start="20260723220500 +0000" stop="20260723222500 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Kvízovka</title>
-  </programme>
-  <programme start="20260723222500 +0000" stop="20260723225500 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Ruženec</title>
-  </programme>
-  <programme start="20260723225500 +0000" stop="20260723235500 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">U Nikodéma</title>
-  </programme>
-  <programme start="20260723235500 +0000" stop="20260724001000 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Zneužívanie</title>
-  </programme>
-  <programme start="20260724001000 +0000" stop="20260724002500 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Nápovedy z vedy</title>
-  </programme>
-  <programme start="20260724002500 +0000" stop="20260724010000 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Quo vadis</title>
-  </programme>
-  <programme start="20260724010000 +0000" stop="20260724012500 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Hodina milosrdenstva</title>
-  </programme>
-  <programme start="20260724012500 +0000" stop="20260724020500 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Hudba v (kon)texte života</title>
-  </programme>
-  <programme start="20260724020500 +0000" stop="20260724023000 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Peter medzi nami</title>
-  </programme>
-  <programme start="20260724023000 +0000" stop="20260724050000 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Ruženec</title>
   </programme>
   <programme start="20260724050000 +0000" stop="20260724054000 +0000" channel="TV LUX.webtv.sk">
     <title lang="id">Svätá omša z kaplnky TV LUX</title>

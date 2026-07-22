@@ -2346,17 +2346,12 @@
     <desc lang="en">Bacaan Surah Al Waqiah.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260721220200 +0000" stop="20260721225500 +0000" channel="tv1.unifitv">
+  <programme start="20260721220200 +0000" stop="20260721230000 +0000" channel="tv1.unifitv">
     <title lang="en">Bismillah 2026</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260721225500 +0000" stop="20260721230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran</title>
-    <desc lang="en">Kapsul Jiran</desc>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20260721230000 +0000" stop="20260721234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -2431,17 +2426,12 @@
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260722080500 +0000" stop="20260722082700 +0000" channel="tv1.unifitv">
+  <programme start="20260722080500 +0000" stop="20260722083000 +0000" channel="tv1.unifitv">
     <title lang="en">Gigi-Pedia (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang membawakan informasi berkaitan gigi yang merupakan antara struktur terkuat di dalam tubuh manusia. Para doktor turut memberikan penjelasan bagi memberikan pemahaman terperinci kepada penonton.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.23.</episode-num>
     <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20260722082700 +0000" stop="20260722083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran</title>
-    <desc lang="en">Kapsul Jiran</desc>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20260722083000 +0000" stop="20260722090000 +0000" channel="tv1.unifitv">
     <title lang="en">Biz Malaysia 2026</title>
@@ -2495,8 +2485,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260722141500 +0000" stop="20260722143000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran / Promo / PSA / Kapsul</title>
-    <desc lang="en">Kapsul Jiran / Promo / PSA / Kapsul</desc>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260722143000 +0000" stop="20260722153000 +0000" channel="tv1.unifitv">

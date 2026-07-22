@@ -4499,7 +4499,7 @@
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260722173000 +0000" stop="20260722203000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Major League Baseball - Pittsburgh Pirates at New York Yankees</title>
+    <title>Live: Major League Baseball - Baltimore Orioles at Boston Red Sox</title>
 </programme>
 <programme start="20260721223000 +0000" stop="20260722013000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: Major League Baseball - Los Angeles Dodgers at Philadelphia Phillies</title>
@@ -5207,7 +5207,7 @@
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260722173000 +0000" stop="20260722203000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: Major League Baseball - Pittsburgh Pirates at New York Yankees</title>
+    <title>Live: Major League Baseball - Baltimore Orioles at Boston Red Sox</title>
 </programme>
 <programme start="20260721223000 +0000" stop="20260722013000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: Major League Baseball - Los Angeles Dodgers at Philadelphia Phillies</title>

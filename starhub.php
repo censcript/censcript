@@ -3088,10 +3088,10 @@
     <programme start="20260722060000 +0000" stop="20260722060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260722060200 +0000" stop="20260722061500 +0000" channel="DW English HD.starhub">
+    <programme start="20260722060200 +0000" stop="20260722062000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260722061500 +0000" stop="20260722063000 +0000" channel="DW English HD.starhub">
+    <programme start="20260722062000 +0000" stop="20260722063000 +0000" channel="DW English HD.starhub">
         <title>Mumbai 2050</title>
     </programme>
     <programme start="20260722063000 +0000" stop="20260722070000 +0000" channel="DW English HD.starhub">
@@ -3100,13 +3100,13 @@
     <programme start="20260722070000 +0000" stop="20260722070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260722070200 +0000" stop="20260722071500 +0000" channel="DW English HD.starhub">
+    <programme start="20260722070200 +0000" stop="20260722071700 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260722071500 +0000" stop="20260722074500 +0000" channel="DW English HD.starhub">
+    <programme start="20260722071700 +0000" stop="20260722074700 +0000" channel="DW English HD.starhub">
         <title>Tiny Rooms at Sky-High Prices - Berlin&#039;s Rental Rip-Off</title>
     </programme>
-    <programme start="20260722074500 +0000" stop="20260722080000 +0000" channel="DW English HD.starhub">
+    <programme start="20260722074700 +0000" stop="20260722080000 +0000" channel="DW English HD.starhub">
         <title>AI under pressure: scams, security and sustainability</title>
     </programme>
     <programme start="20260722080000 +0000" stop="20260722080200 +0000" channel="DW English HD.starhub">
