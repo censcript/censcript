@@ -5,7 +5,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260722042500 +0000" stop="20260722051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Tonight Show</title>
+    <title>The Tonight Show - The Tonight Show - Tue, 21 Jul</title>
 </programme>
 <programme start="20260722051500 +0000" stop="20260722060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Six O&#039;Clock Show</title>
@@ -467,7 +467,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260722052500 +0000" stop="20260722061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>The Tonight Show</title>
+    <title>The Tonight Show - The Tonight Show - Tue, 21 Jul</title>
 </programme>
 <programme start="20260722100000 +0000" stop="20260722123000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>This Morning</title>
@@ -1151,7 +1151,7 @@
     <title>Jack Whitehall: Live at the Hammersmith Apollo</title>
 </programme>
 <programme start="20260722023000 +0000" stop="20260722031500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Ben Wikler</title>
 </programme>
 <programme start="20260722031500 +0000" stop="20260722033500 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With All the Jealousy</title>
@@ -5747,7 +5747,7 @@
     <title>Jack Whitehall: Live at the Hammersmith Apollo</title>
 </programme>
 <programme start="20260722033000 +0000" stop="20260722041500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Ben Wikler</title>
 </programme>
 <programme start="20260722041500 +0000" stop="20260722043500 +0000" channel="Comedy_+1.virginmediatv">
     <title>Friends - The One With All the Jealousy</title>
@@ -6421,7 +6421,10 @@
 <programme start="20260721175800 +0000" stop="20260722015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260722015800 +0000" stop="20260722060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260722015800 +0000" stop="20260722050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260722120000 +0000" stop="20260722123000 +0000" channel="CBBC.virginmediatv">
@@ -7673,7 +7676,7 @@
     <title>Jack Whitehall: Live at the Hammersmith Apollo</title>
 </programme>
 <programme start="20260722023000 +0000" stop="20260722031500 +0000" channel="Comedy.virginmediatv">
-    <title>The Daily Show</title>
+    <title>The Daily Show - Ben Wikler</title>
 </programme>
 <programme start="20260722031500 +0000" stop="20260722033500 +0000" channel="Comedy.virginmediatv">
     <title>Friends - The One With All the Jealousy</title>

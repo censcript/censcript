@@ -5819,7 +5819,7 @@
         <title>1700 Afternoon News</title>
     </programme>
     <programme start="20260723100000 +0000" stop="20260723110000 +0000" channel="TVBS-NEWS.starhub">
-        <title>1800/1900 Evening News</title>
+        <title>9/11/25</title>
     </programme>
     <programme start="20260723110000 +0000" stop="20260723120000 +0000" channel="TVBS-NEWS.starhub">
         <title>1800/1900 Evening News</title>
@@ -6607,11 +6607,14 @@
     <programme start="20260723102500 +0000" stop="20260723110000 +0000" channel="beIN Sports HD.starhub">
         <title>FORMULA 1 MOET AND CHANDON BELGIAN GRAND PRIX 2026</title>
     </programme>
-    <programme start="20260723110000 +0000" stop="20260723130000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260723110000 +0000" stop="20260723125000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Conference League 2025/26 - Road To Glory: Shelbourne vs Crystal Palace - MD5</title>
     </programme>
+    <programme start="20260723125000 +0000" stop="20260723130000 +0000" channel="beIN Sports HD.starhub">
+        <title>Javi Puado</title>
+    </programme>
     <programme start="20260723130000 +0000" stop="20260723144500 +0000" channel="beIN Sports HD.starhub">
-        <title>GT World Challenge Europe 2026: Misano Qualifying 2, Sprint Cup</title>
+        <title>GT World Challenge Europe 2026: Misano Race 2, Sprint Cup</title>
     </programme>
     <programme start="20260723144500 +0000" stop="20260723150000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga Club Classic Archive: Barcelona vs Real Madrid - 2022/23</title>
@@ -7750,7 +7753,7 @@
     <programme start="20260722231500 +0000" stop="20260723005500 +0000" channel="SPOTV2.starhub">
         <title>2026 The Asian Tournament, Chengdu Game 8 Sichuan Jincheng Whale vs HK Vanta Black Dragons</title>
     </programme>
-    <programme start="20260723010000 +0000" stop="20260723130000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260723005500 +0000" stop="20260723130000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Qualifying &amp; Round of 32</title>
     </programme>
     <programme start="20260723130000 +0000" stop="20260723133100 +0000" channel="SPOTV2.starhub">
