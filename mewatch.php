@@ -734,14 +734,14 @@
         <title>No programme available now.</title>
     </programme>
     <programme start="20260721160000 +0000" stop="20260722160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 24 July, Friday 8.00pm. Hyundai Cup 2026</title>
+        <title>No Programme available now. Next Broadcast on 24 July, Friday 7.25pm. Hyundai Cup 2026</title>
     </programme>
     <programme start="20260722160000 +0000" stop="20260723160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 24 July, Friday 8.00pm. Hyundai Cup 2026</title>
+        <title>No Programme available now. Next Broadcast on 24 July, Friday 7.25pm. Hyundai Cup 2026</title>
     </programme>
     <programme start="20260721160000 +0000" stop="20260722160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 24 July, Friday 9.00pm. Hyundai Cup 2026</title>
+        <title>No Programme available now. Next Broadcast on 24 July, Friday 9.03pm. Hyundai Cup 2033</title>
     </programme>
     <programme start="20260722160000 +0000" stop="20260723160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 24 July, Friday 9.00pm. Hyundai Cup 2026</title>
+        <title>No Programme available now. Next Broadcast on 24 July, Friday 9.03pm. Hyundai Cup 2034</title>
     </programme>

@@ -13096,7 +13096,7 @@
   </programme>
   <programme start="20260721163300 +0000" stop="20260721170300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Brian Winter, vice president of the Council of the Americas, argues that immigration, drugs and competition with China are driving U.S. policy on Latin America.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.28.</episode-num>
     <episode-num system="onscreen">S1E29</episode-num>
@@ -13125,7 +13125,7 @@
   </programme>
   <programme start="20260721193300 +0000" stop="20260721200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">As climate funding is cut, who will pay for the developing world to adapt?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.45.</episode-num>
     <episode-num system="onscreen">S1E46</episode-num>
@@ -13189,7 +13189,7 @@
   </programme>
   <programme start="20260722033300 +0000" stop="20260722040300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Leading architect warns we're still building for yesterday's climate and says we must adapt our cities to extreme heat.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.481.</episode-num>
     <episode-num system="onscreen">S1E482</episode-num>
@@ -13201,7 +13201,7 @@
   </programme>
   <programme start="20260722043300 +0000" stop="20260722050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Brian Winter, vice president of the Council of the Americas, argues that immigration, drugs and competition with China are driving U.S. policy on Latin America.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.28.</episode-num>
     <episode-num system="onscreen">S1E29</episode-num>
@@ -13225,7 +13225,7 @@
   </programme>
   <programme start="20260722063300 +0000" stop="20260722070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">As climate funding is cut, who will pay for the developing world to adapt?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.45.</episode-num>
     <episode-num system="onscreen">S1E46</episode-num>
@@ -13291,7 +13291,7 @@
   </programme>
   <programme start="20260722143300 +0000" stop="20260722150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">How far have U.S. politics - and media - really shifted on the topic of Israel? Plus, a YouTube sensation becomes a political force in South Korea.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.28.</episode-num>
     <episode-num system="onscreen">S1E29</episode-num>
