@@ -16864,8 +16864,11 @@
   <programme start="20260724001500 +0000" stop="20260724010500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Ojciec Mateusz XXXV (3)</title>
   </programme>
-  <programme start="20260724010500 +0000" stop="20260724020000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260724010500 +0000" stop="20260724015000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Ojciec Mateusz XXXV (4)</title>
+  </programme>
+  <programme start="20260724015000 +0000" stop="20260724020000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Niezwykłe miejsca (62)</title>
   </programme>
   <programme start="20260724020000 +0000" stop="20260724030000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Polonia 24. Tygodnik (119)</title>

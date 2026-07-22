@@ -655,6 +655,9 @@
 <programme start="20260723114500 +0000" stop="20260723121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260721230000 +0000" stop="20260722023000 +0000" channel="ANTV.vision">
+<title>Deewane Huye Paagal</title>
+</programme>
 <programme start="20260722023000 +0000" stop="20260722060000 +0000" channel="ANTV.vision">
 <title>Krrish</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260723090000 +0000" stop="20260723090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260723090500 +0000" stop="20260723100000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
 </programme>

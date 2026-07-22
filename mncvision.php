@@ -5854,13 +5854,13 @@
 <programme start="20260722133000 +0000" stop="20260722143000 +0000" channel="MDTV.mncvision">
     <title>Kupu Malam</title>
 </programme>
-<programme start="20260722143000 +0000" stop="20260722153500 +0000" channel="MDTV.mncvision">
-    <title>Betty La Fea</title>
+<programme start="20260722143000 +0000" stop="20260722153000 +0000" channel="MDTV.mncvision">
+    <title>Fatamorgana</title>
 </programme>
-<programme start="20260722153500 +0000" stop="20260722163500 +0000" channel="MDTV.mncvision">
+<programme start="20260722153000 +0000" stop="20260722163000 +0000" channel="MDTV.mncvision">
     <title>Jatanras</title>
 </programme>
-<programme start="20260722163500 +0000" stop="20260721170500 +0000" channel="MDTV.mncvision">
+<programme start="20260722163000 +0000" stop="20260721170000 +0000" channel="MDTV.mncvision">
     <title>Customs Protection</title>
 </programme>
 <programme start="20260721170000 +0000" stop="20260721170500 +0000" channel="Metro TV.mncvision">
@@ -7726,34 +7726,34 @@
 <programme start="20260722011500 +0000" stop="20260722030000 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260722030000 +0000" stop="20260722050000 +0000" channel="SCTV.mncvision">
+<programme start="20260722030000 +0000" stop="20260722044200 +0000" channel="SCTV.mncvision">
     <title>Gue Tunjukkin Gadis Teh Siap...</title>
 </programme>
-<programme start="20260722050000 +0000" stop="20260722053000 +0000" channel="SCTV.mncvision">
+<programme start="20260722044200 +0000" stop="20260722051600 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260722053000 +0000" stop="20260722070000 +0000" channel="SCTV.mncvision">
-    <title>Hujan Cintamu Membasahi Hati</title>
+<programme start="20260722051600 +0000" stop="20260722065200 +0000" channel="SCTV.mncvision">
+    <title>Kutunggu Jomblonya Ratu Ayam</title>
 </programme>
-<programme start="20260722070000 +0000" stop="20260722083000 +0000" channel="SCTV.mncvision">
-    <title>Oppa KW Berdamage Maximum</title>
+<programme start="20260722065200 +0000" stop="20260722083000 +0000" channel="SCTV.mncvision">
+    <title>Dari Terminal Turun Ke Hati</title>
 </programme>
-<programme start="20260722083000 +0000" stop="20260722100500 +0000" channel="SCTV.mncvision">
-    <title>Bodgyguard Pujaan Hati</title>
+<programme start="20260722083000 +0000" stop="20260722100100 +0000" channel="SCTV.mncvision">
+    <title>Gadis Si Batu Menangis</title>
 </programme>
-<programme start="20260722100500 +0000" stop="20260722114500 +0000" channel="SCTV.mncvision">
+<programme start="20260722100100 +0000" stop="20260722114500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
 <programme start="20260722114500 +0000" stop="20260722131500 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260722131500 +0000" stop="20260722143000 +0000" channel="SCTV.mncvision">
+<programme start="20260722131500 +0000" stop="20260722143800 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260722143000 +0000" stop="20260722160000 +0000" channel="SCTV.mncvision">
+<programme start="20260722143800 +0000" stop="20260722160800 +0000" channel="SCTV.mncvision">
     <title>Sebening  Cinta</title>
 </programme>
-<programme start="20260722160000 +0000" stop="20260722163000 +0000" channel="SCTV.mncvision">
+<programme start="20260722160800 +0000" stop="20260722163800 +0000" channel="SCTV.mncvision">
     <title>Cubit-Cubit Cinta Kue Cubit</title>
 </programme>
 <programme start="20260721174900 +0000" stop="20260721190000 +0000" channel="SCTV HD.mncvision">
@@ -7783,34 +7783,34 @@
 <programme start="20260722011500 +0000" stop="20260722030000 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260722030000 +0000" stop="20260722050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260722030000 +0000" stop="20260722044200 +0000" channel="SCTV HD.mncvision">
     <title>Gue Tunjukkin Gadis Teh Siap...</title>
 </programme>
-<programme start="20260722050000 +0000" stop="20260722053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260722044200 +0000" stop="20260722051600 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260722053000 +0000" stop="20260722070000 +0000" channel="SCTV HD.mncvision">
-    <title>Hujan Cintamu Membasahi Hati</title>
+<programme start="20260722051600 +0000" stop="20260722065200 +0000" channel="SCTV HD.mncvision">
+    <title>Kutunggu Jomblonya Ratu Ayam</title>
 </programme>
-<programme start="20260722070000 +0000" stop="20260722083000 +0000" channel="SCTV HD.mncvision">
-    <title>Oppa KW Berdamage Maximum</title>
+<programme start="20260722065200 +0000" stop="20260722083000 +0000" channel="SCTV HD.mncvision">
+    <title>Dari Terminal Turun Ke Hati</title>
 </programme>
-<programme start="20260722083000 +0000" stop="20260722100500 +0000" channel="SCTV HD.mncvision">
-    <title>Bodgyguard Pujaan Hati</title>
+<programme start="20260722083000 +0000" stop="20260722100100 +0000" channel="SCTV HD.mncvision">
+    <title>Gadis Si Batu Menangis</title>
 </programme>
-<programme start="20260722100500 +0000" stop="20260722114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260722100100 +0000" stop="20260722114500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
 <programme start="20260722114500 +0000" stop="20260722131500 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260722131500 +0000" stop="20260722143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260722131500 +0000" stop="20260722143800 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260722143000 +0000" stop="20260722160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260722143800 +0000" stop="20260722160800 +0000" channel="SCTV HD.mncvision">
     <title>Sebening  Cinta</title>
 </programme>
-<programme start="20260722160000 +0000" stop="20260722163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260722160800 +0000" stop="20260722163800 +0000" channel="SCTV HD.mncvision">
     <title>Cubit-Cubit Cinta Kue Cubit</title>
 </programme>
 <programme start="20260721170000 +0000" stop="20260721180000 +0000" channel="Sindo News TV.mncvision">

@@ -1508,12 +1508,12 @@
     <desc lang="en">WTT United States Smash brings the world's elite table tennis players together for one of the sport's premier events, delivering high-intensity matches and unforgettable moments on the global stage.</desc>
     <category lang="en">Table Tennis</category>
   </programme>
-  <programme start="20260722143000 +0000" stop="20260722153000 +0000" channel="spotv2.unifitv">
+  <programme start="20260722143000 +0000" stop="20260722151500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Moto4 British Cup Rd 3 Snetterton 300 - Race 2</title>
     <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260722153000 +0000" stop="20260722173500 +0000" channel="spotv2.unifitv">
+  <programme start="20260722151500 +0000" stop="20260722170500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 GT World Challenge Asia, Fuji - Race 2</title>
     <desc lang="en">Top GT teams and drivers compete across Asia's premier circuits, delivering high-speed action, intense rivalries, and world-class sports car racing.</desc>
     <category lang="en">Motorsports</category>
@@ -6904,11 +6904,9 @@
     <category lang="en">Action</category>
   </programme>
   <programme start="20260722093000 +0000" stop="20260722100000 +0000" channel="unknown.unifitv">
-    <title lang="en">KCKC - Moothavan</title>
-    <desc lang="en">A child travels from Lakshadweep to Mumbai, searching for Akbar, his brother. Akbar left home because of his sexuality, and the child wants to find him.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.238.</episode-num>
-    <episode-num system="onscreen">S1E239</episode-num>
+    <title lang="en">Zee Flix</title>
+    <desc lang="en">Tune in for best movie scenes.</desc>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20260722100000 +0000" stop="20260722103000 +0000" channel="unknown.unifitv">
     <title lang="en">Varisu</title>
