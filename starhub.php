@@ -1952,7 +1952,7 @@
         <title>Wednesday, July 22, 2026 1am ET</title>
     </programme>
     <programme start="20260722054500 +0000" stop="20260722060000 +0000" channel="CNN HD.starhub">
-        <title>Wednesday, July 22, 2026 145am ET</title>
+        <title>Tuesday, July 21, 2026 945am ET</title>
     </programme>
     <programme start="20260722060000 +0000" stop="20260722070000 +0000" channel="CNN HD.starhub">
         <title>Wednesday, July 22, 2026 2am ET</title>
@@ -1961,7 +1961,7 @@
         <title>Wednesday, July 22, 2026 3am ET</title>
     </programme>
     <programme start="20260722074500 +0000" stop="20260722080000 +0000" channel="CNN HD.starhub">
-        <title>Wednesday, July 22, 2026 145am ET</title>
+        <title>Tuesday, July 21, 2026 945am ET</title>
     </programme>
     <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="CNN HD.starhub">
         <title>Episode 277</title>
@@ -7798,10 +7798,10 @@
     <programme start="20260722114500 +0000" stop="20260722143000 +0000" channel="SPOTV2.starhub">
         <title>Day 8 Session 2 Finals</title>
     </programme>
-    <programme start="20260722143000 +0000" stop="20260722153000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260722143000 +0000" stop="20260722151500 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
-    <programme start="20260722153000 +0000" stop="20260722173500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260722151500 +0000" stop="20260722170500 +0000" channel="SPOTV2.starhub">
         <title>Race 2</title>
     </programme>
     <programme start="20260721160000 +0000" stop="20260721163600 +0000" channel="Dragon TV.starhub">

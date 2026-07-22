@@ -4649,7 +4649,7 @@
     <title>Liga Profesional de Fútbol - Final: River Plate v Belgrano</title>
 </programme>
 <programme start="20260722110000 +0000" stop="20260722130000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>LaLiga - FC Barcelona v Real Madrid</title>
+    <title>UEFA Champions League Football - Second Qualifying Round, 1st Leg: Sturm Graz v Heart of Midlothian</title>
 </programme>
 <programme start="20260722130000 +0000" stop="20260722150000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>Coppa Italia - Final: SS Lazio v Internazionale</title>
@@ -5357,7 +5357,7 @@
     <title>Liga Profesional de Fútbol - Final: River Plate v Belgrano</title>
 </programme>
 <programme start="20260722110000 +0000" stop="20260722130000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>LaLiga - FC Barcelona v Real Madrid</title>
+    <title>UEFA Champions League Football - Second Qualifying Round, 1st Leg: Sturm Graz v Heart of Midlothian</title>
 </programme>
 <programme start="20260722130000 +0000" stop="20260722150000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>Coppa Italia - Final: SS Lazio v Internazionale</title>
