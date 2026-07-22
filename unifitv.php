@@ -152,41 +152,41 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260722003000 +0000" stop="20260722010000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
+    <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260722010000 +0000" stop="20260722013000 +0000" channel="fifa3.unifitv">
+  <programme start="20260722010000 +0000" stop="20260722050000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) France vs England: FIFA World Cup™ 2026 Third Place (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260722013000 +0000" stop="20260722020000 +0000" channel="fifa3.unifitv">
+  <programme start="20260722050000 +0000" stop="20260722053000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260722020000 +0000" stop="20260722083000 +0000" channel="fifa3.unifitv">
+  <programme start="20260722053000 +0000" stop="20260722113000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Spain vs Argentina: FIFA World Cup™ 2026 Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260722083000 +0000" stop="20260722090000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
+  <programme start="20260722113000 +0000" stop="20260722120000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 5 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260722090000 +0000" stop="20260722123000 +0000" channel="fifa3.unifitv">
+  <programme start="20260722120000 +0000" stop="20260722153000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260722123000 +0000" stop="20260722130000 +0000" channel="fifa3.unifitv">
+  <programme start="20260722153000 +0000" stop="20260722160000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260722130000 +0000" stop="20260722170000 +0000" channel="fifa3.unifitv">
+  <programme start="20260722160000 +0000" stop="20260722200000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) England vs Argentina: FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
@@ -1262,7 +1262,7 @@
   </programme>
   <programme start="20260722003300 +0000" stop="20260722010300 +0000" channel="bbcworldnewshd.unifitv">
     <title lang="en">Tech Now</title>
-    <desc lang="en">Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
+    <desc lang="en">Ammie Sekhon goes behind the scenes of WWE to see the tech that takes the show around the world, while Suranjana Tewari takes us inside a robotics factory in Beijing.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260722010300 +0000" stop="20260722013300 +0000" channel="bbcworldnewshd.unifitv">
@@ -4429,12 +4429,12 @@
     <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260722114000 +0000" stop="20260722120000 +0000" channel="tvs.unifitv">
+  <programme start="20260722114000 +0000" stop="20260722121500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) UTAMA 740</title>
     <desc lang="en">UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260722120000 +0000" stop="20260722140000 +0000" channel="tvs.unifitv">
+  <programme start="20260722121500 +0000" stop="20260722140000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Majlis Perhimpunan Hari Sarawak</title>
     <desc lang="en">Siaran Langsung Sambutan Majlis Perhimpunan Hari Sarawak 2026 yang bertemakan Sarawak Maju Makmur, di Dataran Tun Tuanku Bujang Sibu, Sarawak</desc>
     <category lang="en">Culture</category>
@@ -4984,11 +4984,11 @@
     <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260722080500 +0000" stop="20260722083500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Dolce Vita 2021</title>
+    <title lang="en">Dolce Vita 2022</title>
     <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.50.</episode-num>
-    <episode-num system="onscreen">S1E51</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722083500 +0000" stop="20260722090500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Joy Of Nature</title>
@@ -14582,9 +14582,9 @@
     <display-name>DW</display-name>
   </channel>
   <programme start="20260721153300 +0000" stop="20260721160300 +0000" channel="dw.unifitv">
-    <title lang="en">Tomorrow Today</title>
-    <desc lang="en">Tomorrow Today</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">The Dip</title>
+    <desc lang="en">DW speaks with former EU trade commissioner Cecilia Malmström and consultant Cristina Caffarra about whether Europe's rulebook is protecting citizens or holding back growth. At stake is whether Europe can compete with the United States and China without giving up the values that define its economic model.</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14597,7 +14597,7 @@
   </programme>
   <programme start="20260721163300 +0000" stop="20260721170300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">A cable car could turn the remote Inca city of Choquequirao into a tourist hotspot. At what cost? Plus: in Berlin we check out bike lanes, speed limits and future mobility.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14610,15 +14610,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260721171800 +0000" stop="20260721173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Asia 2050</title>
+    <desc lang="en">Mumbai is one of the most densely populated metropolises in India. Lack of space, pollution and ever-increasing population are the biggest challenges of Mumbai. How Mumbai can become an ideal metropolis by 2050, know in this documentary.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260721173300 +0000" stop="20260721180300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">BrokenLifts helps people in wheelchairs navigate Berlin's public transport system. A teen wheelchair user takes us to meet those behind the project. And more inspiring women on the move: in India, Thailand and Vietnam.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14632,7 +14632,7 @@
   </programme>
   <programme start="20260721183300 +0000" stop="20260721190300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">Could indigenous African plant-based food traditions be revived? Can an AI-powered pangolin help save the species? Plus, hope from a chess game made of recycled plastic.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14652,15 +14652,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260721191800 +0000" stop="20260721193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Asia 2050</title>
+    <desc lang="en">Mumbai is one of the most densely populated metropolises in India. Lack of space, pollution and ever-increasing population are the biggest challenges of Mumbai. How Mumbai can become an ideal metropolis by 2050, know in this documentary.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260721193300 +0000" stop="20260721200300 +0000" channel="dw.unifitv">
     <title lang="en">Tomorrow Today</title>
-    <desc lang="en">Tomorrow Today</desc>
+    <desc lang="en">Innovative projects involving bricks made from soil, urban greenery, superblocks and solar power show how climate action is setting new standards - even if conservation measures don't always win public support.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14695,14 +14695,14 @@
   </programme>
   <programme start="20260721211800 +0000" stop="20260721214800 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">Just under 6 square meters for 600 euros a month. People moving to Berlin often find only overpriced, furnished short-term rooms available. It's all due to the city's housing shortage: Germany has rent cap laws, but they don't apply to temporary, furnished accommodation.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260721214800 +0000" stop="20260721220300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI is transforming our world. But alongside new opportunities come new risks: a $400,000 AI scam, concerns over data centers' energy and water use, and warnings that AI could accelerate cyberattacks. Who's accountable?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14723,7 +14723,7 @@
   </programme>
   <programme start="20260721223300 +0000" stop="20260721230300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">As anti-immigrant sentiment grows in South Africa, tensions are rising. We explore what is driving the anger and why migrants are becoming scapegoats for problems such as corruption and inequality.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14743,15 +14743,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260721231800 +0000" stop="20260721233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Asia 2050</title>
+    <desc lang="en">Mumbai is one of the most densely populated metropolises in India. Lack of space, pollution and ever-increasing population are the biggest challenges of Mumbai. How Mumbai can become an ideal metropolis by 2050, know in this documentary.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260721233300 +0000" stop="20260722000300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">A cable car could turn the remote Inca city of Choquequirao into a tourist hotspot. At what cost? Plus: in Berlin we check out bike lanes, speed limits and future mobility.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14814,7 +14814,7 @@
   </programme>
   <programme start="20260722023300 +0000" stop="20260722030300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">A cable car could turn the remote Inca city of Choquequirao into a tourist hotspot. At what cost? Plus: in Berlin we check out bike lanes, speed limits and future mobility.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14834,15 +14834,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722031800 +0000" stop="20260722033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Asia 2050</title>
+    <desc lang="en">Mumbai is one of the most densely populated metropolises in India. Lack of space, pollution and ever-increasing population are the biggest challenges of Mumbai. How Mumbai can become an ideal metropolis by 2050, know in this documentary.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722033300 +0000" stop="20260722040300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">Could indigenous African plant-based food traditions be revived? Can an AI-powered pangolin help save the species? Plus, hope from a chess game made of recycled plastic.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14904,8 +14904,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722061800 +0000" stop="20260722063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Asia 2050</title>
+    <desc lang="en">Mumbai is one of the most densely populated metropolises in India. Lack of space, pollution and ever-increasing population are the biggest challenges of Mumbai. How Mumbai can become an ideal metropolis by 2050, know in this documentary.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14933,14 +14933,14 @@
   </programme>
   <programme start="20260722071800 +0000" stop="20260722074800 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">Just under 6 square meters for 600 euros a month. People moving to Berlin often find only overpriced, furnished short-term rooms available. It's all due to the city's housing shortage: Germany has rent cap laws, but they don't apply to temporary, furnished accommodation.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722074800 +0000" stop="20260722080300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI is transforming our world. But alongside new opportunities come new risks: a $400,000 AI scam, concerns over data centers' energy and water use, and warnings that AI could accelerate cyberattacks. Who's accountable?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14954,14 +14954,14 @@
   </programme>
   <programme start="20260722080500 +0000" stop="20260722083300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">As anti-immigrant sentiment grows in South Africa, tensions are rising. We explore what is driving the anger and why migrants are becoming scapegoats for problems such as corruption and inequality.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722083300 +0000" stop="20260722090300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">In Chennai and Taipei, urban heat is tackled with different approaches. Plus: how AI-operated beehives help support tribal livelihoods.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14996,14 +14996,14 @@
   </programme>
   <programme start="20260722101800 +0000" stop="20260722104800 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">Just under 6 square meters for 600 euros a month. People moving to Berlin often find only overpriced, furnished short-term rooms available. It's all due to the city's housing shortage: Germany has rent cap laws, but they don't apply to temporary, furnished accommodation.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722104800 +0000" stop="20260722110300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI is transforming our world. But alongside new opportunities come new risks: a $400,000 AI scam, concerns over data centers' energy and water use, and warnings that AI could accelerate cyberattacks. Who's accountable?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15065,15 +15065,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722131800 +0000" stop="20260722133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">History Stories</title>
+    <desc lang="en">The Nazi Party membership records are published online by the U.S. National Archives, easily accessible to anyone. Files that had long lain hidden are now giving answers to the question of millions of Germans: Were my grandparents Nazis?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260722133300 +0000" stop="20260722140300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">Could indigenous African plant-based food traditions be revived? Can an AI-powered pangolin help save the species? Plus, hope from a chess game made of recycled plastic.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15101,7 +15101,7 @@
   </programme>
   <programme start="20260722153300 +0000" stop="20260722160300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">In Chennai and Taipei, urban heat is tackled with different approaches. Plus: how AI-operated beehives help support tribal livelihoods.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15111,7 +15111,7 @@
   </channel>
   <programme start="20260721153500 +0000" stop="20260721160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Journeys in Japan</title>
-    <desc lang="en">English-speaking visitors travel the length of Japan, exploring the local culture, meeting the people and offering travel hints rarely found in guidebooks.</desc>
+    <desc lang="en">Do Minh Khai travels into Ise-Shima, the heart of pearls where they were first cultivated - she experiences harvesting, sees pearl art, and even tastes a new pearl product.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2006.</episode-num>
     <episode-num system="onscreen">S1E2007</episode-num>
@@ -15123,14 +15123,14 @@
   </programme>
   <programme start="20260721163500 +0000" stop="20260721170200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from July 21, Day 10 of the Grand Sumo Tournament in Nagoya.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
   </programme>
   <programme start="20260721170200 +0000" stop="20260721170500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
-    <desc lang="en">'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+    <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye...</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2061.</episode-num>
     <episode-num system="onscreen">S1E2062</episode-num>
@@ -15142,7 +15142,7 @@
   </programme>
   <programme start="20260721173500 +0000" stop="20260721180500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dining with the Chef</title>
-    <desc lang="en">Traditional techniques and resourceful recipes as Chefs Saito and Rika present their unique approaches to cooking delicious Japanese food!</desc>
+    <desc lang="en">Join Harry Sugiyama and Chef Kuwakino for a showcase of Niigata's natural bounty. Simple techniques bring out the fresh flavours of sansai-Japan's wild mountain vegetables.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2018.</episode-num>
     <episode-num system="onscreen">S1E2019</episode-num>
@@ -15154,7 +15154,7 @@
   </programme>
   <programme start="20260721183300 +0000" stop="20260721184800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Kitajima Masaaki published the world's first paper on how the spread of COVID-19 could be tracked by monitoring wastewater in 2020 - he talks about making an impact on infectious disease control.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
@@ -15168,14 +15168,14 @@
   </programme>
   <programme start="20260721190000 +0000" stop="20260721190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">Sudden Shower: Caught in an evening shower, Edo townspeople scramble across a bridge in search of shelter - on the river beyond, a lone figure steers his boat unfazed by the rain. Where is he going?</desc>
+    <desc lang="en">A Bedtime Routine: On hot and humid summer nights, nothing can get in the way of sleep like mosquitoes - we learn about the tools Edo townspeople had at their disposal to fight these pesky insects.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6029.</episode-num>
     <episode-num system="onscreen">S1E6030</episode-num>
   </programme>
   <programme start="20260721190500 +0000" stop="20260721193500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">Japan's resale market is booming. Amid rising costs of living, appliance stores and municipalities join in while resellers expand abroad, leveraging the quality and reliability of 'Used in Japan.'</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
@@ -15194,7 +15194,7 @@
   </programme>
   <programme start="20260721203500 +0000" stop="20260721210500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Science View</title>
-    <desc lang="en">Science for our future - we look at the cutting-edge research, innovations and technology being created by Japanese scientists and engineers.</desc>
+    <desc lang="en">Digital technology can now reveal how dinosaurs once lived. Plus, researchers turn the hidden abilities of rose petals into healthcare technology.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2014.</episode-num>
     <episode-num system="onscreen">S1E2015</episode-num>
@@ -15206,7 +15206,7 @@
   </programme>
   <programme start="20260721213500 +0000" stop="20260721220500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Journeys in Japan</title>
-    <desc lang="en">English-speaking visitors travel the length of Japan, exploring the local culture, meeting the people and offering travel hints rarely found in guidebooks.</desc>
+    <desc lang="en">Do Minh Khai travels into Ise-Shima, the heart of pearls where they were first cultivated - she experiences harvesting, sees pearl art, and even tastes a new pearl product.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2006.</episode-num>
     <episode-num system="onscreen">S1E2007</episode-num>
@@ -15218,7 +15218,7 @@
   </programme>
   <programme start="20260721223500 +0000" stop="20260721230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dining with the Chef</title>
-    <desc lang="en">Traditional techniques and resourceful recipes as Chefs Saito and Rika present their unique approaches to cooking delicious Japanese food!</desc>
+    <desc lang="en">Join Harry Sugiyama and Chef Kuwakino for a showcase of Niigata's natural bounty. Simple techniques bring out the fresh flavours of sansai-Japan's wild mountain vegetables.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2018.</episode-num>
     <episode-num system="onscreen">S1E2019</episode-num>
@@ -15230,14 +15230,14 @@
   </programme>
   <programme start="20260721233500 +0000" stop="20260722000200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from July 21, Day 10 of the Grand Sumo Tournament in Nagoya.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
   </programme>
   <programme start="20260722000200 +0000" stop="20260722000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
-    <desc lang="en">'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+    <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye...</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2061.</episode-num>
     <episode-num system="onscreen">S1E2062</episode-num>
@@ -15249,7 +15249,7 @@
   </programme>
   <programme start="20260722003500 +0000" stop="20260722010500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dive in Tokyo</title>
-    <desc lang="en">Tokyo: a place where both tradition and the latest trends coexist. Join us on a journey to historic old towns and encounter many fun surprises along the way!</desc>
+    <desc lang="en">Shimonoseki is situated along the Kanmon Straits, which have long served as a key shipping lane. Join us as we learn how the city has had a front seat to several turning points in Japanese history.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2101.</episode-num>
     <episode-num system="onscreen">S1E2102</episode-num>
@@ -15261,14 +15261,14 @@
   </programme>
   <programme start="20260722013500 +0000" stop="20260722015000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">An in-depth interview programme featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+    <desc lang="en">Fukasawa Naoto was named Personality of the Year at the German Design Award 2026. He talks about how he designs products that are beloved by people around the world.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260722015000 +0000" stop="20260722020500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan's Top Inventions</title>
-    <desc lang="en">Made in Japan! The fascinating stories and secrets hidden behind the creation of Japan's most loved and intriguing inventions.</desc>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter. This time: non-loosening bolts.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2090.</episode-num>
     <episode-num system="onscreen">S1E2091</episode-num>
@@ -15292,7 +15292,7 @@
   </programme>
   <programme start="20260722033500 +0000" stop="20260722040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Science View</title>
-    <desc lang="en">Science for our future - we look at the cutting-edge research, innovations and technology being created by Japanese scientists and engineers.</desc>
+    <desc lang="en">Digital technology can now reveal how dinosaurs once lived. Plus, researchers turn the hidden abilities of rose petals into healthcare technology.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2014.</episode-num>
     <episode-num system="onscreen">S1E2015</episode-num>
@@ -15304,14 +15304,14 @@
   </programme>
   <programme start="20260722043500 +0000" stop="20260722050200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from July 21, Day 10 of the Grand Sumo Tournament in Nagoya.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
   </programme>
   <programme start="20260722050200 +0000" stop="20260722050500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
-    <desc lang="en">'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+    <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye...</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2061.</episode-num>
     <episode-num system="onscreen">S1E2062</episode-num>
@@ -15323,7 +15323,7 @@
   </programme>
   <programme start="20260722053500 +0000" stop="20260722060500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dive in Tokyo</title>
-    <desc lang="en">Tokyo: a place where both tradition and the latest trends coexist. Join us on a journey to historic old towns and encounter many fun surprises along the way!</desc>
+    <desc lang="en">Shimonoseki is situated along the Kanmon Straits, which have long served as a key shipping lane. Join us as we learn how the city has had a front seat to several turning points in Japanese history.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2101.</episode-num>
     <episode-num system="onscreen">S1E2102</episode-num>
@@ -15335,14 +15335,14 @@
   </programme>
   <programme start="20260722063500 +0000" stop="20260722065000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">An in-depth interview programme featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+    <desc lang="en">Fukasawa Naoto was named Personality of the Year at the German Design Award 2026. He talks about how he designs products that are beloved by people around the world.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260722065000 +0000" stop="20260722070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan's Top Inventions</title>
-    <desc lang="en">Made in Japan! The fascinating stories and secrets hidden behind the creation of Japan's most loved and intriguing inventions.</desc>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter. This time: non-loosening bolts.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2090.</episode-num>
     <episode-num system="onscreen">S1E2091</episode-num>
@@ -15366,14 +15366,14 @@
   </programme>
   <programme start="20260722083500 +0000" stop="20260722090200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from July 21, Day 10 of the Grand Sumo Tournament in Nagoya.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2060.</episode-num>
     <episode-num system="onscreen">S1E2061</episode-num>
   </programme>
   <programme start="20260722090200 +0000" stop="20260722090500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
-    <desc lang="en">'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+    <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye...</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2061.</episode-num>
     <episode-num system="onscreen">S1E2062</episode-num>
@@ -15385,7 +15385,7 @@
   </programme>
   <programme start="20260722093500 +0000" stop="20260722100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Science View</title>
-    <desc lang="en">Science for our future - we look at the cutting-edge research, innovations and technology being created by Japanese scientists and engineers.</desc>
+    <desc lang="en">Digital technology can now reveal how dinosaurs once lived. Plus, researchers turn the hidden abilities of rose petals into healthcare technology.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2014.</episode-num>
     <episode-num system="onscreen">S1E2015</episode-num>
@@ -15404,7 +15404,7 @@
   </programme>
   <programme start="20260722105000 +0000" stop="20260722110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">With about 28 times the warming effect of CO2, methane lies in an ice-like form beneath the seabed. Rising sea temperatures dissociates it, releasing methane gas. How do we stop this time bomb?</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -15423,7 +15423,7 @@
   </programme>
   <programme start="20260722113300 +0000" stop="20260722114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">The majority of Niger in Africa is occupied by the Sahara - desertification is a major problem. Oyama Shuichi introduces his method of increasing vegetation using household waste.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
@@ -15437,7 +15437,7 @@
   </programme>
   <programme start="20260722120000 +0000" stop="20260722120500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">Sudden Shower: Caught in an evening shower, Edo townspeople scramble across a bridge in search of shelter - on the river beyond, a lone figure steers his boat unfazed by the rain. Where is he going?</desc>
+    <desc lang="en">A Bedtime Routine: On hot and humid summer nights, nothing can get in the way of sleep like mosquitoes - we learn about the tools Edo townspeople had at their disposal to fight these pesky insects.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6029.</episode-num>
     <episode-num system="onscreen">S1E6030</episode-num>
@@ -15449,14 +15449,14 @@
   </programme>
   <programme start="20260722123500 +0000" stop="20260722125000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">An in-depth interview programme featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+    <desc lang="en">Fukasawa Naoto was named Personality of the Year at the German Design Award 2026. He talks about how he designs products that are beloved by people around the world.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260722125000 +0000" stop="20260722130500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan's Top Inventions</title>
-    <desc lang="en">Made in Japan! The fascinating stories and secrets hidden behind the creation of Japan's most loved and intriguing inventions.</desc>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter. This time: non-loosening bolts.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2090.</episode-num>
     <episode-num system="onscreen">S1E2091</episode-num>
@@ -15492,7 +15492,7 @@
   </programme>
   <programme start="20260722153500 +0000" stop="20260722160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dive in Tokyo</title>
-    <desc lang="en">Tokyo: a place where both tradition and the latest trends coexist. Join us on a journey to historic old towns and encounter many fun surprises along the way!</desc>
+    <desc lang="en">Shimonoseki is situated along the Kanmon Straits, which have long served as a key shipping lane. Join us as we learn how the city has had a front seat to several turning points in Japanese history.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2101.</episode-num>
     <episode-num system="onscreen">S1E2102</episode-num>

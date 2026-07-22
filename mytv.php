@@ -22,10 +22,10 @@
     <programme start="20260722024500 +0000" stop="20260722033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mẹ Rơm - Tập 19 </title>
     </programme>
-    <programme start="20260722033000 +0000" stop="20260722041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260722033000 +0000" stop="20260722041200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mẹ Rơm - Tập 20 </title>
     </programme>
-    <programme start="20260722041500 +0000" stop="20260722050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260722041200 +0000" stop="20260722050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Hành trình tận hưởng thiên nhiên </title>
     </programme>
     <programme start="20260722050500 +0000" stop="20260722051000 +0000" channel="VTV1 HD.mytv">
@@ -34,16 +34,16 @@
     <programme start="20260722051000 +0000" stop="20260722053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260722053000 +0000" stop="20260722070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260722053000 +0000" stop="20260722070200 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260722070000 +0000" stop="20260722072500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260722070200 +0000" stop="20260722072400 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20260722072500 +0000" stop="20260722073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260722072400 +0000" stop="20260722072900 +0000" channel="VTV1 HD.mytv">
         <title> Nẻo về nguồn cội: Nét chạm bạc miền núi cao </title>
     </programme>
-    <programme start="20260722073000 +0000" stop="20260722074500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260722072900 +0000" stop="20260722074500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Vị công thần thời Lý </title>
     </programme>
     <programme start="20260722074500 +0000" stop="20260722080000 +0000" channel="VTV1 HD.mytv">
