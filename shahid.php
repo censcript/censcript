@@ -4102,9 +4102,6 @@
     <programme start="20260724231500 +0000" stop="20260724235959 +0000" channel="387238.shahid">
         <title>Drama Queen Season 1 Episode 26</title>
     </programme>
-    <programme start="20260723000000 +0000" stop="20260724235959 +0000" channel="49922904934759.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260723000000 +0000" stop="20260723001500 +0000" channel="49923122575716.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -4295,6 +4292,9 @@
         <title>Oreed Rajolan Season 1 Episode 36</title>
     </programme>
     <programme start="20260724054100 +0000" stop="20260724235959 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260723000000 +0000" stop="20260724235959 +0000" channel="49922904934759.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260723000000 +0000" stop="20260724235959 +0000" channel="946946.shahid">
@@ -5514,9 +5514,6 @@
     </programme>
     <programme start="20260724232000 +0000" stop="20260724235959 +0000" channel="387294.shahid">
         <title>Al Motawahesh Season 1 Episode 117</title>
-    </programme>
-    <programme start="20260723000000 +0000" stop="20260724235959 +0000" channel="1007223.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260723000000 +0000" stop="20260723000629 +0000" channel="49923172117967.shahid">
         <title>Laytek Maai - Abdo Night</title>
@@ -6990,4 +6987,7 @@
     </programme>
     <programme start="20260724235609 +0000" stop="20260724235959 +0000" channel="49923172117967.shahid">
         <title>Sara El Layl</title>
+    </programme>
+    <programme start="20260723000000 +0000" stop="20260724235959 +0000" channel="1007223.shahid">
+        <title>TV guide is not available</title>
     </programme>

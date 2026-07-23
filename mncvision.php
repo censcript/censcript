@@ -4271,7 +4271,7 @@
     <title>Dongeng Penguasa Hutan</title>
 </programme>
 <programme start="20260723120000 +0000" stop="20260723133000 +0000" channel="GTV.mncvision">
-    <title>Take Me Out Indonesia</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260723133000 +0000" stop="20260723153000 +0000" channel="GTV.mncvision">
     <title>Tropic Thunder</title>
@@ -4319,7 +4319,7 @@
     <title>Dongeng Penguasa Hutan</title>
 </programme>
 <programme start="20260723120000 +0000" stop="20260723133000 +0000" channel="GTV HD.mncvision">
-    <title>Take Me Out Indonesia</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260723133000 +0000" stop="20260723153000 +0000" channel="GTV HD.mncvision">
     <title>Tropic Thunder</title>
@@ -5032,13 +5032,13 @@
 <programme start="20260723140000 +0000" stop="20260723140500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260723140500 +0000" stop="20260723150000 +0000" channel="iNews.mncvision">
+<programme start="20260723140500 +0000" stop="20260723152500 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260723150000 +0000" stop="20260723150500 +0000" channel="iNews.mncvision">
+<programme start="20260723152500 +0000" stop="20260723153000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260723150500 +0000" stop="20260723163000 +0000" channel="iNews.mncvision">
+<programme start="20260723153000 +0000" stop="20260723163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260723163000 +0000" stop="20260722170000 +0000" channel="iNews.mncvision">
@@ -5128,13 +5128,13 @@
 <programme start="20260723140000 +0000" stop="20260723140500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260723140500 +0000" stop="20260723150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260723140500 +0000" stop="20260723152500 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260723150000 +0000" stop="20260723150500 +0000" channel="iNews HD.mncvision">
+<programme start="20260723152500 +0000" stop="20260723153000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260723150500 +0000" stop="20260723163000 +0000" channel="iNews HD.mncvision">
+<programme start="20260723153000 +0000" stop="20260723163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260723163000 +0000" stop="20260722170000 +0000" channel="iNews HD.mncvision">
