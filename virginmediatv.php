@@ -4025,7 +4025,7 @@
     <title>EFL - League 2 Play-Off Final: Coventry City v Exeter City</title>
 </programme>
 <programme start="20260722210000 +0000" stop="20260723004500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Men&#039;s: Southern Brave v Welsh Fire</title>
+    <title>The Hundred - Women&#039;s: Southern Brave v Welsh Fire</title>
 </programme>
 <programme start="20260723004500 +0000" stop="20260723010000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Women&#039;s: Southern Brave v Welsh Fire</title>
@@ -4256,7 +4256,7 @@
     <title>EFL Greatest - 2016/17: Luton Town v Blackpool</title>
 </programme>
 <programme start="20260723160000 +0000" stop="20260723170000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Live: Women&#039;s Scottish Open, Ladies European Tour Golf - Day 1</title>
+    <title>One-Day International Cricket - 2nd ODI: England v India</title>
 </programme>
 <programme start="20260723170000 +0000" stop="20260723180000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>One-Day International Cricket - 3rd ODI: England v India</title>
@@ -4796,7 +4796,7 @@
     <title>EFL - League 2 Play-Off Final: Coventry City v Exeter City</title>
 </programme>
 <programme start="20260722210000 +0000" stop="20260723004500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Men&#039;s: Southern Brave v Welsh Fire</title>
+    <title>The Hundred - Women&#039;s: Southern Brave v Welsh Fire</title>
 </programme>
 <programme start="20260723004500 +0000" stop="20260723010000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Women&#039;s: Southern Brave v Welsh Fire</title>
@@ -5027,7 +5027,7 @@
     <title>EFL Greatest - 2016/17: Luton Town v Blackpool</title>
 </programme>
 <programme start="20260723160000 +0000" stop="20260723170000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Live: Women&#039;s Scottish Open, Ladies European Tour Golf - Day 1</title>
+    <title>One-Day International Cricket - 2nd ODI: England v India</title>
 </programme>
 <programme start="20260723170000 +0000" stop="20260723180000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>One-Day International Cricket - 3rd ODI: England v India</title>

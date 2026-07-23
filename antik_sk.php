@@ -17167,10 +17167,10 @@
   <programme start="20260724222800 +0000" stop="20260724223000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
-  <programme start="20260724223000 +0000" stop="20260724225700 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260724223000 +0000" stop="20260724225600 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Today&apos;s Close-Up</title>
   </programme>
-  <programme start="20260724225700 +0000" stop="20260724230000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260724225600 +0000" stop="20260724230000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260724230000 +0000" stop="20260724232800 +0000" channel="NHK World Japan.webtv.sk">
@@ -17245,10 +17245,10 @@
   <programme start="20260725042800 +0000" stop="20260725043000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
-  <programme start="20260725043000 +0000" stop="20260725045700 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260725043000 +0000" stop="20260725045600 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Today&apos;s Close-Up</title>
   </programme>
-  <programme start="20260725045700 +0000" stop="20260725050000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260725045600 +0000" stop="20260725050000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260725050000 +0000" stop="20260725052800 +0000" channel="NHK World Japan.webtv.sk">
@@ -18683,7 +18683,7 @@
     <title lang="id">Tg1</title>
   </programme>
   <programme start="20260724221500 +0000" stop="20260724223000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">TIM Summer Hits</title>
+    <title lang="id">TIM Summer Hits (3)</title>
   </programme>
   <programme start="20260724223000 +0000" stop="20260724234000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Codice - La vita e digitale</title>
