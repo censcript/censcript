@@ -13,8 +13,11 @@
 <programme start="20260723043000 +0000" stop="20260723063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260723063000 +0000" stop="20260723103000 +0000" channel="RCTI.vision">
+<programme start="20260723063000 +0000" stop="20260723080000 +0000" channel="RCTI.vision">
 <title>Ikatan Cinta Aldebaran &amp; Andin</title>
+</programme>
+<programme start="20260723080000 +0000" stop="20260723103000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun Deui (RCTI)</title>
 </programme>
 <programme start="20260723103000 +0000" stop="20260723120000 +0000" channel="RCTI.vision">
 <title>Tobat Jatuh Cinta (RCTI)</title>
@@ -61,8 +64,11 @@
 <programme start="20260724043000 +0000" stop="20260724063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260724063000 +0000" stop="20260724103000 +0000" channel="RCTI.vision">
+<programme start="20260724063000 +0000" stop="20260724080000 +0000" channel="RCTI.vision">
 <title>Ikatan Cinta Aldebaran &amp; Andin</title>
+</programme>
+<programme start="20260724080000 +0000" stop="20260724103000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun Deui (RCTI)</title>
 </programme>
 <programme start="20260724103000 +0000" stop="20260724120000 +0000" channel="RCTI.vision">
 <title>Tobat Jatuh Cinta (RCTI)</title>
@@ -655,6 +661,9 @@
 <programme start="20260724114500 +0000" stop="20260724121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260723023000 +0000" stop="20260723060000 +0000" channel="ANTV.vision">
+<title>Krrish 3</title>
+</programme>
 <programme start="20260723060000 +0000" stop="20260723073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1000,7 +1009,7 @@
 <programme start="20260724060000 +0000" stop="20260724070000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Siang</title>
 </programme>
-<programme start="20260717070000 +0000" stop="20260717073000 +0000" channel="Kompas TV.vision">
+<programme start="20260724070000 +0000" stop="20260724073000 +0000" channel="Kompas TV.vision">
 <title>Kompas Sport</title>
 </programme>
 <programme start="20260724073000 +0000" stop="20260724080000 +0000" channel="Kompas TV.vision">
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260724090000 +0000" stop="20260724090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260724090500 +0000" stop="20260724100000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20260724100000 +0000" stop="20260724103000 +0000" channel="BTV.vision">
-<title>Berita Merah Putih</title>
-</programme>
-<programme start="20260724103000 +0000" stop="20260724120000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
 </programme>

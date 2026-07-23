@@ -4,8 +4,11 @@
     <programme start="20260724093000 +0000" stop="20260724121500 +0000" channel="Unknown Channel.mewatch">
         <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Heats - 24 July 2026</title>
     </programme>
-    <programme start="20260724121500 +0000" stop="20260724155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260724121500 +0000" stop="20260724133000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260724133000 +0000" stop="20260724170000 +0000" channel="Unknown Channel.mewatch">
+        <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Preliminary Round</title>
     </programme>
     <programme start="20260724160000 +0000" stop="20260724180000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
