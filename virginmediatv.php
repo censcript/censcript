@@ -6569,7 +6569,7 @@
     <title>In the Night Garden - Over and Under</title>
 </programme>
 <programme start="20260723175000 +0000" stop="20260723175800 +0000" channel="Cbeebies.virginmediatv">
-    <title>Cbeebies Bedtime Stories - New and Trending:23/07/2026</title>
+    <title>Cbeebies Bedtime Stories - New and Trending:Eilish McColgan - Mabel and the Mountain</title>
 </programme>
 <programme start="20260723175800 +0000" stop="20260724015800 +0000" channel="Cbeebies.virginmediatv">
     <title>This Is CBeebies</title>
