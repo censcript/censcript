@@ -1,7 +1,7 @@
-    <programme start="20260722160000 +0000" stop="20260723095500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260722160000 +0000" stop="20260723094900 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260723095500 +0000" stop="20260723111000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260723094900 +0000" stop="20260723111000 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Pairs Sectional Play - NIR vs SGP</title>
     </programme>
     <programme start="20260723111000 +0000" stop="20260723155959 +0000" channel="Unknown Channel.mewatch">

@@ -1000,7 +1000,7 @@
 <programme start="20260724060000 +0000" stop="20260724070000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Siang</title>
 </programme>
-<programme start="20260724070000 +0000" stop="20260724073000 +0000" channel="Kompas TV.vision">
+<programme start="20260717070000 +0000" stop="20260717073000 +0000" channel="Kompas TV.vision">
 <title>Kompas Sport</title>
 </programme>
 <programme start="20260724073000 +0000" stop="20260724080000 +0000" channel="Kompas TV.vision">
