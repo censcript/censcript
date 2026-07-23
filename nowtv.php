@@ -1,6 +1,3 @@
-<programme start="20260723040000 +0000" stop="20260723060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260723060000 +0000" stop="20260723080000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -17,9 +14,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260723160000 +0000" stop="20260723180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260723040000 +0000" stop="20260723060000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260723060000 +0000" stop="20260723080000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -40,9 +34,6 @@
 <programme start="20260723160000 +0000" stop="20260723180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260723040000 +0000" stop="20260723060000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260723060000 +0000" stop="20260723080000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -59,9 +50,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260723160000 +0000" stop="20260723180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260723040000 +0000" stop="20260723060000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260723060000 +0000" stop="20260723080000 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -81,21 +69,6 @@
 </programme>
 <programme start="20260723160000 +0000" stop="20260723180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260723020000 +0000" stop="20260723041500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ -Rd of 32 - Colombia vs Ghana</title>
-</programme>
-<programme start="20260723041500 +0000" stop="20260723043000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(B)</title>
-</programme>
-<programme start="20260723043000 +0000" stop="20260723044500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd. 3(C)</title>
-</programme>
-<programme start="20260723044500 +0000" stop="20260723050000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
-</programme>
-<programme start="20260723050000 +0000" stop="20260723060000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Road to the Champion</title>
 </programme>
 <programme start="20260723060000 +0000" stop="20260723081500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 32 - Switzerland vs Algeria</title>
@@ -138,15 +111,6 @@
 </programme>
 <programme start="20260723160000 +0000" stop="20260723181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 16 - Canada vs Morocco</title>
-</programme>
-<programme start="20260723030000 +0000" stop="20260723050000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Liverpool vs Manchester United</title>
-</programme>
-<programme start="20260723050000 +0000" stop="20260723053000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -SOARING SEAGULLS</title>
-</programme>
-<programme start="20260723053000 +0000" stop="20260723060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -NORWICH, THE NEARLY MEN</title>
 </programme>
 <programme start="20260723060000 +0000" stop="20260723080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Nottingham Forest vs Chelsea</title>
