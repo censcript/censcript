@@ -10,16 +10,13 @@
     <programme start="20260724133000 +0000" stop="20260724170000 +0000" channel="Unknown Channel.mewatch">
         <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Preliminary Round</title>
     </programme>
-    <programme start="20260724160000 +0000" stop="20260724180000 +0000" channel="Unknown Channel.mewatch">
-        <title>No programme streaming LIVE at this moment</title>
-    </programme>
     <programme start="20260723160000 +0000" stop="20260723190000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260723190000 +0000" stop="20260723210000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260723190000 +0000" stop="20260723212500 +0000" channel="Unknown Channel.mewatch">
         <title>Opening Ceremony - Glasgow 2026 Commonwealth Games Opening Ceremony - Glasgow 2026 Commonwealth Games</title>
     </programme>
-    <programme start="20260723210000 +0000" stop="20260724090000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260723212500 +0000" stop="20260724090000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260724090000 +0000" stop="20260724150000 +0000" channel="Unknown Channel.mewatch">
@@ -43,11 +40,8 @@
     <programme start="20260724090000 +0000" stop="20260724123000 +0000" channel="Unknown Channel.mewatch">
         <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Preliminary Round</title>
     </programme>
-    <programme start="20260724123000 +0000" stop="20260724133000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260724123000 +0000" stop="20260724155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
-    </programme>
-    <programme start="20260724133000 +0000" stop="20260724170000 +0000" channel="Unknown Channel.mewatch">
-        <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Preliminary Round</title>
     </programme>
     <programme start="20260723160000 +0000" stop="20260724155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
