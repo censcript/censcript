@@ -332,13 +332,18 @@
     <desc lang="en">Catch up with all the best bits from the weekend's race.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260723110000 +0000" stop="20260723130000 +0000" channel="beinsports.unifitv">
+  <programme start="20260723110000 +0000" stop="20260723125000 +0000" channel="beinsports.unifitv">
     <title lang="en">UEFA Conference League - Shelbourne vs Crystal Palace - MD5</title>
     <desc lang="en">Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at RB Arena,Leipzig</desc>
     <category lang="en">Sports</category>
   </programme>
+  <programme start="20260723125000 +0000" stop="20260723130000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Goals Galore - Javi Puado</title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
   <programme start="20260723130000 +0000" stop="20260723144500 +0000" channel="beinsports.unifitv">
-    <title lang="en">GT World Challenge Europe - Misano Qualifying 2, Sprint Cup</title>
+    <title lang="en">GT World Challenge Europe - Misano Race 2, Sprint Cup</title>
     <desc lang="en">The 16th season of the premier European GT3 championship, featuring a 10-round calendar split between Endurance and Sprint Cups</desc>
     <category lang="en">Sports</category>
   </programme>

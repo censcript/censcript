@@ -731,10 +731,10 @@
         <title>No programme available now. Next broadcast on 24th July, Friday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260722160000 +0000" stop="20260723160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now.</title>
+        <title>No Programme available now. Next Broadcast on 26th July, Sunday 08.55am. PPA Asia 500 Leapmotor Singapore Open 2026</title>
     </programme>
     <programme start="20260723160000 +0000" stop="20260724160000 +0000" channel="Live 2.mewatch">
-        <title>No programme available now.</title>
+        <title>No Programme available now. Next Broadcast on 26th July, Sunday 08.55am. PPA Asia 500 Leapmotor Singapore Open 2026</title>
     </programme>
     <programme start="20260722160000 +0000" stop="20260723160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 24 July, Friday 7.25pm. Hyundai Cup 2026</title>

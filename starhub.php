@@ -7615,7 +7615,7 @@
     <programme start="20260722213000 +0000" stop="20260722233000 +0000" channel="Asianet Movies.starhub">
         <title>Aakasam</title>
     </programme>
-    <programme start="20260722233000 +0000" stop="20260723013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260722231000 +0000" stop="20260723013000 +0000" channel="Asianet Movies.starhub">
         <title>Novel</title>
     </programme>
     <programme start="20260723013000 +0000" stop="20260723043000 +0000" channel="Asianet Movies.starhub">

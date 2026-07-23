@@ -661,9 +661,6 @@
 <programme start="20260724114500 +0000" stop="20260724121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260722230000 +0000" stop="20260723023000 +0000" channel="ANTV.vision">
-<title>Hum Hain Rahi Pyar Ke</title>
-</programme>
 <programme start="20260723023000 +0000" stop="20260723060000 +0000" channel="ANTV.vision">
 <title>Krrish 3</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260724083000 +0000" stop="20260724090000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260724090000 +0000" stop="20260724090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>

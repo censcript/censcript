@@ -6449,7 +6449,7 @@
     <title>Live Dari Mekkah</title>
 </programme>
 <programme start="20260722190000 +0000" stop="20260722200000 +0000" channel="Muslim TV.mncvision">
-    <title>Cahaya Lentera Hati</title>
+    <title>Cahaya Lentera Hati Spesial</title>
 </programme>
 <programme start="20260722200000 +0000" stop="20260722210000 +0000" channel="Muslim TV.mncvision">
     <title>Catatan Hati Seorang Istri 2</title>
