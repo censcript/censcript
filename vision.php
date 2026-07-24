@@ -628,9 +628,6 @@
 <programme start="20260724100000 +0000" stop="20260724113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260724113000 +0000" stop="20260724133000 +0000" channel="ANTV.vision">
-<title>Almarhum</title>
-</programme>
 <programme start="20260724133000 +0000" stop="20260724153000 +0000" channel="ANTV.vision">
 <title>Gadis Pendekar</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260724050000 +0000" stop="20260724060000 +0000" channel="MDTV.vision">
 <title>Resep Chef Devina</title>
+</programme>
+<programme start="20260724060000 +0000" stop="20260724073000 +0000" channel="MDTV.vision">
+<title>Makan Enak Lagiii</title>
 </programme>

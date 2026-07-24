@@ -70,11 +70,8 @@
     <programme start="20260723180000 +0000" stop="20260723190000 +0000" channel="Channel 5.mewatch">
         <title>Beat Shazam USA S7 - EP 5</title>
     </programme>
-    <programme start="20260723190000 +0000" stop="20260723210000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) Glasgow 2026 Commonwealth Games : Opening Ceremony - Episode 1</title>
-    </programme>
-    <programme start="20260723210000 +0000" stop="20260723212900 +0000" channel="Channel 5.mewatch">
-        <title>Talking Point - EP 12</title>
+    <programme start="20260723190000 +0000" stop="20260723212900 +0000" channel="Channel 5.mewatch">
+        <title>(Live) Glasgow 2026 Commonwealth Games : Opening Ceremony - Opening Ceremony</title>
     </programme>
     <programme start="20260723212900 +0000" stop="20260723220000 +0000" channel="Channel 5.mewatch">
         <title>Jason&#039;s Table: Masterful Dishes - EP 3</title>
@@ -170,10 +167,10 @@
         <title>Films &amp; Stars - EP 15</title>
     </programme>
     <programme start="20260724090000 +0000" stop="20260724113000 +0000" channel="Channel 5.mewatch">
-        <title>Glasgow 2026 Commonwealth Games : Opening Ceremony - Episode 1</title>
+        <title>Glasgow 2026 Commonwealth Games : Opening Ceremony - Opening Ceremony</title>
     </programme>
     <programme start="20260724113000 +0000" stop="20260724140000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) ASEAN Hyundai Cup 2026 - EP 1</title>
+        <title>(Live) ASEAN Championship 2026 (Hyundai Cup) - Group Stage: Cambodia vs Singapore</title>
     </programme>
     <programme start="20260724140000 +0000" stop="20260724143000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
