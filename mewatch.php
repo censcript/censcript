@@ -1,7 +1,7 @@
-    <programme start="20260723160000 +0000" stop="20260724093000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260723160000 +0000" stop="20260724092100 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260724093000 +0000" stop="20260724121500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260724092100 +0000" stop="20260724121500 +0000" channel="Unknown Channel.mewatch">
         <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Heats - 24 July 2026</title>
     </programme>
     <programme start="20260724121500 +0000" stop="20260724133000 +0000" channel="Unknown Channel.mewatch">
@@ -71,7 +71,7 @@
         <title>Beat Shazam USA S7 - EP 5</title>
     </programme>
     <programme start="20260723190000 +0000" stop="20260723210000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) Glasgow 2026 Commonwealth Games : Opening Ceremony - EP 1</title>
+        <title>(Live) Glasgow 2026 Commonwealth Games : Opening Ceremony - Episode 1</title>
     </programme>
     <programme start="20260723210000 +0000" stop="20260723212900 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 12</title>
@@ -170,7 +170,7 @@
         <title>Films &amp; Stars - EP 15</title>
     </programme>
     <programme start="20260724090000 +0000" stop="20260724113000 +0000" channel="Channel 5.mewatch">
-        <title>Glasgow 2026 Commonwealth Games : Opening Ceremony - EP 1</title>
+        <title>Glasgow 2026 Commonwealth Games : Opening Ceremony - Episode 1</title>
     </programme>
     <programme start="20260724113000 +0000" stop="20260724140000 +0000" channel="Channel 5.mewatch">
         <title>(Live) ASEAN Hyundai Cup 2026 - EP 1</title>

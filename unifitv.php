@@ -6262,65 +6262,50 @@
   <channel id="zeethirai.unifitv">
     <display-name>Zee Thirai</display-name>
   </channel>
-  <programme start="20260723133000 +0000" stop="20260723163000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">2</title>
-    <desc lang="en">After mobiles start mysteriously flying out of the hands of people in Chennai, Dr Vaseegaran summons his trusted robot Chitti to ward off the bird-shaped supernatural powers of Pakshirajan.</desc>
+  <programme start="20260723140000 +0000" stop="20260723163000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Karthikeya 2</title>
+    <desc lang="en">Trapped in a web of conspiracies and betrayal, Karthikeya, a doctor, must retrieve a mythological treasure and clear his name.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260723163000 +0000" stop="20260723183000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Rekka</title>
-    <desc lang="en">A young man, known for helping couples elope, is forced by a gangster to kidnap a politician's daughter after he stops the wedding of a girl who didn't want to marry him.</desc>
+  <programme start="20260723163000 +0000" stop="20260723193000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Rathnam</title>
+    <desc lang="en">Rathnam, a henchman for MLA Panner Selvam, rescues a girl during her interview trip to Vellore. As he becomes her protector, he questions how long he can shield her from danger.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260723183000 +0000" stop="20260723190000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260723190000 +0000" stop="20260723193000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260723193000 +0000" stop="20260723200000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260723200000 +0000" stop="20260723223000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Cold Case</title>
-    <desc lang="en">When a skull is found in a package, ACP Sathyajith is assigned to identify the victim and catch the killer. Meanwhile, a journalist haunted by a spirit investigates the mystery.</desc>
-    <category lang="en">Horror</category>
+  <programme start="20260723193000 +0000" stop="20260723223000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">The Priest</title>
+    <desc lang="en">Father Carmen investigates mysterious suicides, stumbling upon a disturbing fact with serious consequences.</desc>
+    <category lang="en">Mystery</category>
   </programme>
   <programme start="20260723223000 +0000" stop="20260724010000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Salim</title>
-    <desc lang="en">Salim, a doctor, runs into trouble for being too generous towards his patients. Soon, his patience with the justice system snaps and he takes the law into his own hands.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260724010000 +0000" stop="20260724043000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Deiva Machan</title>
-    <desc lang="en">Karthi is guided by visions of a man on a white horse as he strives to arrange his sister's marriage. However, an ominous prophecy soon unfolds, bringing unexpected troubles his way.</desc>
+    <title lang="en">Malaysia To Amnesia</title>
+    <desc lang="en">Fed up with his married life, Arun starts an extra-marital affair and soon leaves for Malaysia to meet his girlfriend. However, things take a turn when he lands up in Chennai suffering from amnesia.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20260724043000 +0000" stop="20260724073000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Kishkindapuri</title>
-    <desc lang="en">During a ghost tour, visitors enter a radio station and awaken a dormant spirit. Trapped inside, they must find a way out as supernatural forces threaten them.</desc>
-    <category lang="en">Thriller</category>
+  <programme start="20260724010000 +0000" stop="20260724043000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Bhola Shankar</title>
+    <desc lang="en">In Kolkata, a taxi driver fights to build a new life with his sister, but his dark past catches up with him as he battles the city's dangerous underworld.</desc>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20260724073000 +0000" stop="20260724103000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Balle Khilladi</title>
-    <desc lang="en">An amnesiac scientist, is in love with Nandana, who is unaware of his condition. Things take a turn when he has to convince her parents.</desc>
-    <category lang="en">Family</category>
+  <programme start="20260724043000 +0000" stop="20260724080000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Podhuvaga En Manasu Thangam</title>
+    <desc lang="en">A young man's dream to do good deeds for the upliftment of his village is interrupted by an influential man, who does not want anyone to grow above him.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260724080000 +0000" stop="20260724103000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Estate</title>
+    <desc lang="en">A journalist and colleagues investigate Covelone Estate, rumored haunted. Their perilous exploration uncovers dangerous truths, threatening their lives as suspense and fear escalate.</desc>
+    <category lang="en">Horror</category>
   </programme>
   <programme start="20260724103000 +0000" stop="20260724140000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Veeran</title>
-    <desc lang="en">A 15-year-old boy living in Veeranor, gets struck by lightning and goes into a short coma. After recovery, he gradually realizes that he has superpowers of lightning and mind control.</desc>
+    <title lang="en">Mirch Masala</title>
+    <desc lang="en">Varala, a jobless young man, leaves his home to prove himself to his father. However, before achieving his goal, he falls in love with Sameera and tries to woo and save her from gangster Biju.</desc>
     <category lang="en">Action</category>
   </programme>
   <programme start="20260724140000 +0000" stop="20260724163000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Dhilluku Dhuddu 2</title>
-    <desc lang="en">In a bid to escape from Viji's antics, his neighbours lure him to fall in love with Maya. However, everything turns upside down when he realises that a ghost is protecting Maya.</desc>
-    <category lang="en">Horror</category>
+    <title lang="en">Kadaisi Nodigal</title>
+    <desc lang="en">When a serial killer goes on a murder spree, Samuel, a forensic expert, uses his skills to find evidence and uncover the killer's identity.</desc>
+    <category lang="en">Thriller</category>
   </programme>
   <channel id="sonyyay.unifitv">
     <display-name>Sony YAY!</display-name>
