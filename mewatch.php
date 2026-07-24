@@ -25,7 +25,7 @@
     <programme start="20260724150000 +0000" stop="20260724155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260724160000 +0000" stop="20260725073000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260723160000 +0000" stop="20260724073000 +0000" channel="Unknown Channel.mewatch">
@@ -43,10 +43,19 @@
     <programme start="20260724123000 +0000" stop="20260724155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260723160000 +0000" stop="20260724155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260724160000 +0000" stop="20260724165000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260724160000 +0000" stop="20260724165000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260723160000 +0000" stop="20260724120000 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260724120000 +0000" stop="20260724150000 +0000" channel="Unknown Channel.mewatch">
+        <title>Para Powerlifting - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Lightweight - Finals</title>
+    </programme>
+    <programme start="20260724150000 +0000" stop="20260724155959 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260724160000 +0000" stop="20260724170000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260723160000 +0000" stop="20260723163000 +0000" channel="Channel 5.mewatch">

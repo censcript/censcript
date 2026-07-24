@@ -4292,7 +4292,7 @@
     <title>ASEAN C&#039;ship Hyundai Cup (L)</title>
 </programme>
 <programme start="20260724153000 +0000" stop="20260724160000 +0000" channel="GTV.mncvision">
-    <title>Predator PBC Indonesia Open</title>
+    <title>ASEAN C&#039;ship Hyundai Cup</title>
 </programme>
 <programme start="20260723170000 +0000" stop="20260723183000 +0000" channel="GTV HD.mncvision">
     <title>1001 Kisah</title>
@@ -4340,7 +4340,7 @@
     <title>ASEAN C&#039;ship Hyundai Cup (L)</title>
 </programme>
 <programme start="20260724153000 +0000" stop="20260724160000 +0000" channel="GTV HD.mncvision">
-    <title>Predator PBC Indonesia Open</title>
+    <title>ASEAN C&#039;ship Hyundai Cup</title>
 </programme>
 <programme start="20260723210000 +0000" stop="20260723213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
@@ -8156,15 +8156,12 @@
     <title>Proliga</title>
 </programme>
 <programme start="20260724043000 +0000" stop="20260724050000 +0000" channel="Sportstars.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20260724050000 +0000" stop="20260724053000 +0000" channel="Sportstars.mncvision">
     <title>iNews Sport</title>
 </programme>
-<programme start="20260724053000 +0000" stop="20260724065000 +0000" channel="Sportstars.mncvision">
+<programme start="20260724050000 +0000" stop="20260724064500 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
 </programme>
-<programme start="20260724065000 +0000" stop="20260724130000 +0000" channel="Sportstars.mncvision">
+<programme start="20260724064500 +0000" stop="20260724130000 +0000" channel="Sportstars.mncvision">
     <title>Sirkuit Nasional B: SF (L)</title>
 </programme>
 <programme start="20260724130000 +0000" stop="20260724133000 +0000" channel="Sportstars.mncvision">
@@ -8477,15 +8474,12 @@
     <title>Proliga</title>
 </programme>
 <programme start="20260724043000 +0000" stop="20260724050000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20260724050000 +0000" stop="20260724053000 +0000" channel="Sportstars HD.mncvision">
     <title>iNews Sport</title>
 </programme>
-<programme start="20260724053000 +0000" stop="20260724065000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20260724050000 +0000" stop="20260724064500 +0000" channel="Sportstars HD.mncvision">
     <title>Best Of Badminton</title>
 </programme>
-<programme start="20260724065000 +0000" stop="20260724130000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20260724064500 +0000" stop="20260724130000 +0000" channel="Sportstars HD.mncvision">
     <title>Sirkuit Nasional B: SF (L)</title>
 </programme>
 <programme start="20260724130000 +0000" stop="20260724133000 +0000" channel="Sportstars HD.mncvision">

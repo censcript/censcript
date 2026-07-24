@@ -4412,17 +4412,55 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260724061500 +0000" stop="20260724064500 +0000" channel="tvs.unifitv">
+  <programme start="20260724061500 +0000" stop="20260724063000 +0000" channel="tvs.unifitv">
+    <title lang="en">Orang Kita</title>
+    <desc lang="en">Orang Kita, bersama MINTRED, memaparkan kisah inspirasi usahawan tempatan. Rancangan ini menyerlahkan semangat juang, ketekunan, dan inovasi yang membawa kejayaan, memberi inspirasi kepada usahawan baru dengan keyakinan.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260724063000 +0000" stop="20260724070000 +0000" channel="tvs.unifitv">
     <title lang="en">Borneo's Unique Building</title>
     <desc lang="en">Siri dokumentari yang memfokuskan kepada senibina bangunan dan infrastruktur di Sarawak, yang menampilkan dua binaan iaitu satu senibina moden/kontemporari dan satu lagi senibina tradisi/kolonial.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260724064500 +0000" stop="20260724090000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) MTCC Round 3</title>
-    <desc lang="en">Live Malaysia Touring Car Championship (MTCC), the nation's premier touring car racing series, developed and managed by PETRONAS Sepang International Circuit.</desc>
-    <category lang="en">Motorsports</category>
+  <programme start="20260724070000 +0000" stop="20260724070500 +0000" channel="tvs.unifitv">
+    <title lang="en">(DL) TVS Highlight</title>
+    <desc lang="en">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260724070500 +0000" stop="20260724080000 +0000" channel="tvs.unifitv">
+    <title lang="en">Roots And Routes</title>
+    <desc lang="en">This documentary explores the tension between national identity, personal loyalty, and the search for belonging in a world shaped by migration, expatriation, and shifting citizenship. The film questions whether nationality is defined by paperwork, by where one's heart lies, or by something far more complex.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20260724080000 +0000" stop="20260724080500 +0000" channel="tvs.unifitv">
+    <title lang="en">(DL) TVS Ringkas</title>
+    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260724080500 +0000" stop="20260724081500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Fillers</title>
+    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260724081500 +0000" stop="20260724083000 +0000" channel="tvs.unifitv">
+    <title lang="en">Sarawak My Pride</title>
+    <desc lang="en">This 6-episode TV magazine series follows some of Sarawak's most inspiring individuals who've made their mark across Malaysia. Told through a mix of on-screen hosting, heartfelt narration, and cinematic visuals, each 15-minute episode dives into their origins, challenges, triumphs, and the unshakable identity they carry from Borneo</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260724083000 +0000" stop="20260724090000 +0000" channel="tvs.unifitv">
+    <title lang="en">Journey of The Bidayuh</title>
+    <desc lang="en">James Ritchie will take us to discover more about the Bidayuh. A documentary series that will touch on the aspects of Bidayuh culture, tradition, history and where this race fares in today's world.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260724090000 +0000" stop="20260724093000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Berita Wilayah TVS</title>
