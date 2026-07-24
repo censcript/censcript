@@ -628,12 +628,6 @@
 <programme start="20260725113000 +0000" stop="20260725121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260723230000 +0000" stop="20260724023000 +0000" channel="ANTV.vision">
-<title>Shuddh Desi Romance</title>
-</programme>
-<programme start="20260724023000 +0000" stop="20260724060000 +0000" channel="ANTV.vision">
-<title>Phir Bhi Dil Hai Hindustani</title>
-</programme>
 <programme start="20260724060000 +0000" stop="20260724073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260724033000 +0000" stop="20260724040000 +0000" channel="TVRI.vision">
 <title>Teras Istana</title>
+</programme>
+<programme start="20260724040000 +0000" stop="20260724040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260724040300 +0000" stop="20260724043000 +0000" channel="TVRI.vision">
+<title>Zona Piala Dunia</title>
 </programme>

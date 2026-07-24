@@ -6229,10 +6229,7 @@
 <programme start="20260723175800 +0000" stop="20260724015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260724015800 +0000" stop="20260724050000 +0000" channel="CBBC.virginmediatv">
-    <title>This is CBBC!</title>
-</programme>
-<programme start="20260724050000 +0000" stop="20260724060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260724015800 +0000" stop="20260724060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260724120000 +0000" stop="20260724123000 +0000" channel="CBBC.virginmediatv">

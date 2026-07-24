@@ -2704,13 +2704,13 @@
   <programme start="20260726182000 +0000" stop="20260726220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
-  <programme start="20260725220000 +0000" stop="20260726073000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260725220000 +0000" stop="20260726070000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
   <programme start="20260726080000 +0000" stop="20260726103000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">DOPOLEDNÍ DECHOVKA</title>
   </programme>
-  <programme start="20260726103000 +0000" stop="20260726133000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260726103000 +0000" stop="20260726113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260726140000 +0000" stop="20260726163000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -16204,25 +16204,25 @@
   <programme start="20260726002500 +0000" stop="20260726010200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260726010200 +0000" stop="20260726011500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260726010200 +0000" stop="20260726010600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260726011500 +0000" stop="20260726014300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260726010600 +0000" stop="20260726011900 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Teleplotki</title>
+  </programme>
+  <programme start="20260726011900 +0000" stop="20260726015100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kiedys to było... (122)</title>
   </programme>
-  <programme start="20260726014300 +0000" stop="20260726015000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Pogoda Info</title>
-  </programme>
-  <programme start="20260726015000 +0000" stop="20260726022100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260726015100 +0000" stop="20260726022300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polacy w kosmosie</title>
   </programme>
-  <programme start="20260726022100 +0000" stop="20260726031800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260726022300 +0000" stop="20260726031900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Muzyczna wyspa</title>
   </programme>
-  <programme start="20260726031800 +0000" stop="20260726034000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260726031900 +0000" stop="20260726034100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rok w ogrodzie (1175)</title>
   </programme>
-  <programme start="20260726034000 +0000" stop="20260726035800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260726034100 +0000" stop="20260726035800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rok w ogrodzie Extra (448)</title>
   </programme>
   <programme start="20260726035800 +0000" stop="20260726040000 +0000" channel="TVP Info.webtv.sk">
@@ -16291,10 +16291,10 @@
   <programme start="20260726063000 +0000" stop="20260726063500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260726063500 +0000" stop="20260726063800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260726063500 +0000" stop="20260726063900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260726063800 +0000" stop="20260726070000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260726063900 +0000" stop="20260726070000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Senior</title>
   </programme>
   <programme start="20260726070000 +0000" stop="20260726070500 +0000" channel="TVP Info.webtv.sk">

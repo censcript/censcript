@@ -7759,14 +7759,14 @@
 <programme start="20260724152500 +0000" stop="20260724155500 +0000" channel="Rock Entertainment.mncvision">
     <title>Tin Man, Pt 1</title>
 </programme>
-<programme start="20260723173000 +0000" stop="20260723184500 +0000" channel="SCTV.mncvision">
+<programme start="20260723175300 +0000" stop="20260723190300 +0000" channel="SCTV.mncvision">
     <title>Cinta Anti Palsu-Palsu Club</title>
 </programme>
-<programme start="20260723184500 +0000" stop="20260723200000 +0000" channel="SCTV.mncvision">
-    <title>Sinema Malam</title>
+<programme start="20260723190300 +0000" stop="20260723200300 +0000" channel="SCTV.mncvision">
+    <title>Bukan Pacar Biasa</title>
 </programme>
-<programme start="20260723200000 +0000" stop="20260723210500 +0000" channel="SCTV.mncvision">
-    <title>Sinema Dini Hari</title>
+<programme start="20260723200300 +0000" stop="20260723210500 +0000" channel="SCTV.mncvision">
+    <title>Pagi-Pagi Ketemu Jodoh</title>
 </programme>
 <programme start="20260723210500 +0000" stop="20260723213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
@@ -7786,44 +7786,44 @@
 <programme start="20260724011500 +0000" stop="20260724030000 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260724030000 +0000" stop="20260724050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260724030000 +0000" stop="20260724045000 +0000" channel="SCTV.mncvision">
+    <title>Neng Gali Kubur Etalase Berapa</title>
 </programme>
-<programme start="20260724050000 +0000" stop="20260724053000 +0000" channel="SCTV.mncvision">
+<programme start="20260724045000 +0000" stop="20260724052400 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260724053000 +0000" stop="20260724070000 +0000" channel="SCTV.mncvision">
+<programme start="20260724052400 +0000" stop="20260724065400 +0000" channel="SCTV.mncvision">
     <title>Anak Magang Bikin Sayang</title>
 </programme>
-<programme start="20260724070000 +0000" stop="20260724083000 +0000" channel="SCTV.mncvision">
+<programme start="20260724065400 +0000" stop="20260724082700 +0000" channel="SCTV.mncvision">
     <title>Proyek Cinta Juragan Pasir</title>
 </programme>
-<programme start="20260724083000 +0000" stop="20260724100500 +0000" channel="SCTV.mncvision">
-    <title>Badut Kok Nangis Katanya Kuat</title>
+<programme start="20260724082700 +0000" stop="20260724100000 +0000" channel="SCTV.mncvision">
+    <title>Tenggelamnya Cinta Situ...</title>
 </programme>
-<programme start="20260724100500 +0000" stop="20260724114500 +0000" channel="SCTV.mncvision">
+<programme start="20260724100000 +0000" stop="20260724114400 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260724114500 +0000" stop="20260724131500 +0000" channel="SCTV.mncvision">
+<programme start="20260724114400 +0000" stop="20260724131400 +0000" channel="SCTV.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260724131500 +0000" stop="20260724143000 +0000" channel="SCTV.mncvision">
+<programme start="20260724131400 +0000" stop="20260724143900 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260724143000 +0000" stop="20260724160000 +0000" channel="SCTV.mncvision">
+<programme start="20260724143900 +0000" stop="20260724161200 +0000" channel="SCTV.mncvision">
     <title>Sebening  Cinta</title>
 </programme>
-<programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="SCTV.mncvision">
+<programme start="20260724161200 +0000" stop="20260724164200 +0000" channel="SCTV.mncvision">
     <title>FTV Primetime</title>
 </programme>
-<programme start="20260723173000 +0000" stop="20260723184500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260723175300 +0000" stop="20260723190300 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Anti Palsu-Palsu Club</title>
 </programme>
-<programme start="20260723184500 +0000" stop="20260723200000 +0000" channel="SCTV HD.mncvision">
-    <title>Sinema Malam</title>
+<programme start="20260723190300 +0000" stop="20260723200300 +0000" channel="SCTV HD.mncvision">
+    <title>Bukan Pacar Biasa</title>
 </programme>
-<programme start="20260723200000 +0000" stop="20260723210500 +0000" channel="SCTV HD.mncvision">
-    <title>Sinema Dini Hari</title>
+<programme start="20260723200300 +0000" stop="20260723210500 +0000" channel="SCTV HD.mncvision">
+    <title>Pagi-Pagi Ketemu Jodoh</title>
 </programme>
 <programme start="20260723210500 +0000" stop="20260723213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
@@ -7843,34 +7843,34 @@
 <programme start="20260724011500 +0000" stop="20260724030000 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260724030000 +0000" stop="20260724050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260724030000 +0000" stop="20260724045000 +0000" channel="SCTV HD.mncvision">
+    <title>Neng Gali Kubur Etalase Berapa</title>
 </programme>
-<programme start="20260724050000 +0000" stop="20260724053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260724045000 +0000" stop="20260724052400 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260724053000 +0000" stop="20260724070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260724052400 +0000" stop="20260724065400 +0000" channel="SCTV HD.mncvision">
     <title>Anak Magang Bikin Sayang</title>
 </programme>
-<programme start="20260724070000 +0000" stop="20260724083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260724065400 +0000" stop="20260724082700 +0000" channel="SCTV HD.mncvision">
     <title>Proyek Cinta Juragan Pasir</title>
 </programme>
-<programme start="20260724083000 +0000" stop="20260724100500 +0000" channel="SCTV HD.mncvision">
-    <title>Badut Kok Nangis Katanya Kuat</title>
+<programme start="20260724082700 +0000" stop="20260724100000 +0000" channel="SCTV HD.mncvision">
+    <title>Tenggelamnya Cinta Situ...</title>
 </programme>
-<programme start="20260724100500 +0000" stop="20260724114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260724100000 +0000" stop="20260724114400 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260724114500 +0000" stop="20260724131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260724114400 +0000" stop="20260724131400 +0000" channel="SCTV HD.mncvision">
     <title>Lautan Cinta</title>
 </programme>
-<programme start="20260724131500 +0000" stop="20260724143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260724131400 +0000" stop="20260724143900 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260724143000 +0000" stop="20260724160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260724143900 +0000" stop="20260724161200 +0000" channel="SCTV HD.mncvision">
     <title>Sebening  Cinta</title>
 </programme>
-<programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260724161200 +0000" stop="20260724164200 +0000" channel="SCTV HD.mncvision">
     <title>FTV Primetime</title>
 </programme>
 <programme start="20260723170000 +0000" stop="20260723180000 +0000" channel="Sindo News TV.mncvision">

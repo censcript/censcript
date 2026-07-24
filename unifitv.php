@@ -151,73 +151,58 @@
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260723173000 +0000" stop="20260723210000 +0000" channel="fifa3.unifitv">
+  <programme start="20260723173000 +0000" stop="20260723213000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260723210000 +0000" stop="20260723213000 +0000" channel="fifa3.unifitv">
+  <programme start="20260723213000 +0000" stop="20260723220000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260723213000 +0000" stop="20260724020000 +0000" channel="fifa3.unifitv">
+  <programme start="20260723220000 +0000" stop="20260724023000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Netherlands vs Morocco : FIFA World Cup™ 2026 Round of 32</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724020000 +0000" stop="20260724023000 +0000" channel="fifa3.unifitv">
+  <programme start="20260724023000 +0000" stop="20260724030000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724023000 +0000" stop="20260724060000 +0000" channel="fifa3.unifitv">
+  <programme start="20260724030000 +0000" stop="20260724063000 +0000" channel="fifa3.unifitv">
     <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724060000 +0000" stop="20260724063000 +0000" channel="fifa3.unifitv">
+  <programme start="20260724063000 +0000" stop="20260724070000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724063000 +0000" stop="20260724070000 +0000" channel="fifa3.unifitv">
+  <programme start="20260724070000 +0000" stop="20260724073000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724070000 +0000" stop="20260724103000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(R) Canada vs Morocco : FIFA World Cup™ 2026 Round of 16</title>
+  <programme start="20260724073000 +0000" stop="20260724120000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) Norway vs England : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724103000 +0000" stop="20260724110000 +0000" channel="fifa3.unifitv">
+  <programme start="20260724120000 +0000" stop="20260724123000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724110000 +0000" stop="20260724113000 +0000" channel="fifa3.unifitv">
+  <programme start="20260724123000 +0000" stop="20260724130000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724113000 +0000" stop="20260724150000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(R) Brazil vs Norway : FIFA World Cup™ 2026 Round of 16</title>
-    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260724150000 +0000" stop="20260724153000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260724153000 +0000" stop="20260724160000 +0000" channel="fifa3.unifitv">
-    <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260724160000 +0000" stop="20260724193000 +0000" channel="fifa3.unifitv">
-    <title lang="en">(R) Canada vs Morocco : FIFA World Cup™ 2026 Round of 16</title>
+  <programme start="20260724130000 +0000" stop="20260724173000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) Argentina vs Switzerland : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
