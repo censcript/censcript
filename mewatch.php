@@ -4,10 +4,10 @@
     <programme start="20260724170000 +0000" stop="20260724175000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260724175000 +0000" stop="20260724210000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260724175000 +0000" stop="20260724213000 +0000" channel="Unknown Channel.mewatch">
         <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Semi-finals | Finals - 25 July 2026</title>
     </programme>
-    <programme start="20260724210000 +0000" stop="20260725092000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260724213000 +0000" stop="20260725092000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260725092000 +0000" stop="20260725121500 +0000" channel="Unknown Channel.mewatch">
@@ -739,25 +739,25 @@
     <programme start="20260725160000 +0000" stop="20260726005500 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 26th July, Sunday 08.55am. PPA Asia 500 Leapmotor Singapore Open 2026</title>
     </programme>
-    <programme start="20260724160000 +0000" stop="20260725093400 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 25 July, Saturday 5.34pm. Hyundai Cup 2026 </title>
+    <programme start="20260724160000 +0000" stop="20260725093300 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 25 July, Saturday 5.33pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260725093400 +0000" stop="20260725120000 +0000" channel="Live 5.mewatch">
+    <programme start="20260725093300 +0000" stop="20260725122000 +0000" channel="Live 5.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Myanmar vs Malaysia</title>
     </programme>
-    <programme start="20260725120000 +0000" stop="20260725160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260725122000 +0000" stop="20260725160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 27 July, Monday 7.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260725160000 +0000" stop="20260726160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 27 July, Monday 7.00pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260724160000 +0000" stop="20260725130000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 25 July, Saturday 9.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260724160000 +0000" stop="20260725123300 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 25 July, Saturday 8.33pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260725130000 +0000" stop="20260725150000 +0000" channel="Live 6.mewatch">
+    <programme start="20260725123300 +0000" stop="20260725152000 +0000" channel="Live 6.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Laos vs Thailand</title>
     </programme>
-    <programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="Live 6.mewatch">
+    <programme start="20260725152000 +0000" stop="20260725160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 27 July, Monday 9.30pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260725160000 +0000" stop="20260726160000 +0000" channel="Live 6.mewatch">
