@@ -8299,14 +8299,8 @@
 <programme start="20260724070000 +0000" stop="20260724090000 +0000" channel="Sportstars 3.mncvision">
     <title>Sportacular International Match</title>
 </programme>
-<programme start="20260724090000 +0000" stop="20260724093000 +0000" channel="Sportstars 3.mncvision">
-    <title>Extra Time</title>
-</programme>
-<programme start="20260724093000 +0000" stop="20260724100000 +0000" channel="Sportstars 3.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20260724100000 +0000" stop="20260724110000 +0000" channel="Sportstars 3.mncvision">
-    <title>Formula E: Tokyo Round 14 (L)</title>
+<programme start="20260724090000 +0000" stop="20260724110000 +0000" channel="Sportstars 3.mncvision">
+    <title>Garuda Di Arena SEA Games</title>
 </programme>
 <programme start="20260724110000 +0000" stop="20260724130000 +0000" channel="Sportstars 3.mncvision">
     <title>V-League Women</title>
@@ -8341,14 +8335,8 @@
 <programme start="20260724070000 +0000" stop="20260724090000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Sportacular International Match</title>
 </programme>
-<programme start="20260724090000 +0000" stop="20260724093000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Extra Time</title>
-</programme>
-<programme start="20260724093000 +0000" stop="20260724100000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20260724100000 +0000" stop="20260724110000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Formula E: Tokyo Round 14 (L)</title>
+<programme start="20260724090000 +0000" stop="20260724110000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Garuda Di Arena SEA Games</title>
 </programme>
 <programme start="20260724110000 +0000" stop="20260724130000 +0000" channel="sportstars 3 HD.mncvision">
     <title>V-League Women</title>

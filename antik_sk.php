@@ -1108,73 +1108,73 @@
   <programme start="20260726201500 +0000" stop="20260726221500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Ďalších 48 hodín</title>
   </programme>
-  <programme start="20260725213000 +0000" stop="20260726001000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260725202500 +0000" stop="20260725235500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260726001000 +0000" stop="20260726021000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260725235500 +0000" stop="20260726015500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260726021000 +0000" stop="20260726040500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726015500 +0000" stop="20260726035000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260726040500 +0000" stop="20260726064000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726035000 +0000" stop="20260726063500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260726064000 +0000" stop="20260726090000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726063500 +0000" stop="20260726084000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260726090000 +0000" stop="20260726105000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726084000 +0000" stop="20260726105000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">U18 Eurobasket 2026</title>
   </programme>
   <programme start="20260726105000 +0000" stop="20260726135000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Eurobasket U18 2026</title>
   </programme>
-  <programme start="20260726135000 +0000" stop="20260726163500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726135000 +0000" stop="20260726171000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20260726163500 +0000" stop="20260726180000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726171000 +0000" stop="20260726181500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260726180000 +0000" stop="20260726185000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726181500 +0000" stop="20260726192500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260726185000 +0000" stop="20260726205000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">U20 Eurobasket Divízia B</title>
+  <programme start="20260726192500 +0000" stop="20260726214000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260726205000 +0000" stop="20260726230500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726214000 +0000" stop="20260727001500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260725205500 +0000" stop="20260725234000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260725212000 +0000" stop="20260725232500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260725234000 +0000" stop="20260726021500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260725232500 +0000" stop="20260726020500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20260726021500 +0000" stop="20260726042500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726020500 +0000" stop="20260726041500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260726042500 +0000" stop="20260726063500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726041500 +0000" stop="20260726062500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260726063500 +0000" stop="20260726084500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726062500 +0000" stop="20260726082500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260726084500 +0000" stop="20260726111500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726082500 +0000" stop="20260726111000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260726111500 +0000" stop="20260726142500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726111000 +0000" stop="20260726142500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260726142500 +0000" stop="20260726165000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726142500 +0000" stop="20260726164500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260726165000 +0000" stop="20260726185500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726164500 +0000" stop="20260726185500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260726185500 +0000" stop="20260726213500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726185500 +0000" stop="20260726212500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260726213500 +0000" stop="20260727002500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260726212500 +0000" stop="20260727004000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260725215500 +0000" stop="20260725230500 +0000" channel="WAU.webtv.sk">
@@ -3034,34 +3034,34 @@
   <programme start="20260725210400 +0000" stop="20260725224700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisař Montalbano VIII (4)</title>
   </programme>
-  <programme start="20260725224700 +0000" stop="20260725231500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260725224700 +0000" stop="20260725231700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Plné hnízdo v Ústeckém kraji 2</title>
   </programme>
-  <programme start="20260725231500 +0000" stop="20260725233200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260725231700 +0000" stop="20260725233400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Trakijec z Vítkova</title>
   </programme>
-  <programme start="20260725233200 +0000" stop="20260726002500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260725233400 +0000" stop="20260726002700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Tichý život Divé Báry</title>
   </programme>
-  <programme start="20260726002500 +0000" stop="20260726005300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260726002700 +0000" stop="20260726005500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
-  <programme start="20260726005300 +0000" stop="20260726014000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260726005500 +0000" stop="20260726014100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bolkoviny</title>
   </programme>
-  <programme start="20260726014000 +0000" stop="20260726020300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260726014100 +0000" stop="20260726020500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zahrada je hra</title>
   </programme>
-  <programme start="20260726020300 +0000" stop="20260726022600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260726020500 +0000" stop="20260726022800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bydlení je hra</title>
   </programme>
-  <programme start="20260726022600 +0000" stop="20260726025000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260726022800 +0000" stop="20260726025100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Chalupa je hra</title>
   </programme>
-  <programme start="20260726025000 +0000" stop="20260726031700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260726025100 +0000" stop="20260726031900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Suchá Loz</title>
   </programme>
-  <programme start="20260726031700 +0000" stop="20260726033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260726031900 +0000" stop="20260726033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Etiketa</title>
   </programme>
   <programme start="20260726033000 +0000" stop="20260726040000 +0000" channel="ČT1.webtv.sk">
@@ -3145,16 +3145,16 @@
   <programme start="20260726214000 +0000" stop="20260726223000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Yellowstone (9/9)</title>
   </programme>
-  <programme start="20260725195000 +0000" stop="20260725231300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260725195000 +0000" stop="20260725231000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ponorka</title>
   </programme>
-  <programme start="20260725231300 +0000" stop="20260726000700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260725231000 +0000" stop="20260726000500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dopamin: Jak aplikace klamou náš mozek</title>
   </programme>
-  <programme start="20260726000700 +0000" stop="20260726001900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260726000500 +0000" stop="20260726001800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Záhady starého Egypta (4/10)</title>
   </programme>
-  <programme start="20260726001900 +0000" stop="20260726010700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260726001800 +0000" stop="20260726010700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Starověké říše</title>
   </programme>
   <programme start="20260726010700 +0000" stop="20260726013500 +0000" channel="ČT2.webtv.sk">
@@ -19273,25 +19273,25 @@
   <programme start="20260726200000 +0000" stop="20260726220000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">DEVADESÁTKY</title>
   </programme>
-  <programme start="20260725180000 +0000" stop="20260725233000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260725175900 +0000" stop="20260725233000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retro party</title>
   </programme>
-  <programme start="20260725233000 +0000" stop="20260726030000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260725233000 +0000" stop="20260726025900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Revolution</title>
   </programme>
-  <programme start="20260726030000 +0000" stop="20260726060000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726025900 +0000" stop="20260726055900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Restart</title>
   </programme>
-  <programme start="20260726060000 +0000" stop="20260726070000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726055900 +0000" stop="20260726070000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retrománie</title>
   </programme>
   <programme start="20260726070000 +0000" stop="20260726080000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Replay 80&apos;</title>
   </programme>
-  <programme start="20260726080000 +0000" stop="20260726090000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726080000 +0000" stop="20260726085900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Replay 90&apos;</title>
   </programme>
-  <programme start="20260726090000 +0000" stop="20260726110000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726085900 +0000" stop="20260726110000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Refresh</title>
   </programme>
   <programme start="20260726110000 +0000" stop="20260726123000 +0000" channel="Retro Music Television.webtv.sk">
@@ -19300,10 +19300,10 @@
   <programme start="20260726123000 +0000" stop="20260726140000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Rekreace</title>
   </programme>
-  <programme start="20260726140000 +0000" stop="20260726150000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726140000 +0000" stop="20260726145900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Repete</title>
   </programme>
-  <programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726145900 +0000" stop="20260726153000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Rentgen</title>
   </programme>
   <programme start="20260726153000 +0000" stop="20260726160000 +0000" channel="Retro Music Television.webtv.sk">
@@ -19312,13 +19312,13 @@
   <programme start="20260726160000 +0000" stop="20260726173000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Republika</title>
   </programme>
-  <programme start="20260726173000 +0000" stop="20260726180000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726173000 +0000" stop="20260726175900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Reproduktor</title>
   </programme>
-  <programme start="20260726180000 +0000" stop="20260726210000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726175900 +0000" stop="20260726205900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Regenerace</title>
   </programme>
-  <programme start="20260726210000 +0000" stop="20260726220000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260726205900 +0000" stop="20260726220000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retro love</title>
   </programme>
   <programme start="20260725220000 +0000" stop="20260725222000 +0000" channel="Rebel.webtv.sk">
