@@ -16,10 +16,10 @@
     <programme start="20260726160000 +0000" stop="20260726175000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260725144000 +0000" stop="20260725195000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260725144000 +0000" stop="20260725210000 +0000" channel="Unknown Channel.mewatch">
         <title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games Women&#039;s Team Final &amp; Individual Qualification</title>
     </programme>
-    <programme start="20260725195000 +0000" stop="20260726084500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260725210000 +0000" stop="20260726084500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260726084500 +0000" stop="20260726101000 +0000" channel="Unknown Channel.mewatch">
@@ -43,10 +43,10 @@
     <programme start="20260725165800 +0000" stop="20260725175000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260725175000 +0000" stop="20260725203000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260725175000 +0000" stop="20260725203700 +0000" channel="Unknown Channel.mewatch">
         <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Preliminary Round</title>
     </programme>
-    <programme start="20260725203000 +0000" stop="20260726133500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260725203700 +0000" stop="20260726133500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260726133500 +0000" stop="20260726145500 +0000" channel="Unknown Channel.mewatch">
@@ -61,13 +61,19 @@
     <programme start="20260725151500 +0000" stop="20260725164000 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Pairs Sectional Play - MAS vs COK</title>
     </programme>
-    <programme start="20260725164000 +0000" stop="20260725180500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260725164000 +0000" stop="20260725164100 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260725164100 +0000" stop="20260725180500 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Pairs Sectional Play - AUS vs SGP</title>
     </programme>
-    <programme start="20260725180500 +0000" stop="20260725193000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260725180500 +0000" stop="20260725180600 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260725180600 +0000" stop="20260725192800 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Singles Sectional Play - NIR vs SGP</title>
     </programme>
-    <programme start="20260725193000 +0000" stop="20260726082000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260725192800 +0000" stop="20260726082000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260726082000 +0000" stop="20260726110000 +0000" channel="Unknown Channel.mewatch">

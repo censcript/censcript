@@ -4246,7 +4246,7 @@
 <programme start="20260725160000 +0000" stop="20260725163000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ted&#039;s Notebook - Hungarian Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260725163000 +0000" stop="20260725183000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260725163000 +0000" stop="20260725185000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Hungarian Grand Prix: Qualifying</title>
 </programme>
 <programme start="20260724230000 +0000" stop="20260725020000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4858,7 +4858,7 @@
 <programme start="20260725160000 +0000" stop="20260725163000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ted&#039;s Notebook - Hungarian Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260725163000 +0000" stop="20260725183000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260725163000 +0000" stop="20260725185000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Hungarian Grand Prix: Qualifying</title>
 </programme>
 <programme start="20260724230000 +0000" stop="20260725020000 +0000" channel="TNT_Sports_1.virginmediatv">

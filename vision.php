@@ -538,6 +538,12 @@
 <programme start="20260725143000 +0000" stop="20260725150000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260725150000 +0000" stop="20260725163000 +0000" channel="Trans 7.vision">
+<title>The New L-Men Of The Year 2026</title>
+</programme>
+<programme start="20260725163000 +0000" stop="20260725181500 +0000" channel="Trans 7.vision">
+<title>Once A Thief</title>
+</programme>
 <programme start="20260725181500 +0000" stop="20260725190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -610,8 +616,23 @@
 <programme start="20260725073000 +0000" stop="20260725084500 +0000" channel="ANTV.vision">
 <title>Sayali</title>
 </programme>
+<programme start="20260725084500 +0000" stop="20260725104500 +0000" channel="ANTV.vision">
+<title>Festival ANTV Rame</title>
+</programme>
 <programme start="20260725104500 +0000" stop="20260725120000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260725120000 +0000" stop="20260725140000 +0000" channel="ANTV.vision">
+<title>Bernapas Dalam Kubur</title>
+</programme>
+<programme start="20260725140000 +0000" stop="20260725160000 +0000" channel="ANTV.vision">
+<title>Serbuan Halilintar</title>
+</programme>
+<programme start="20260725160000 +0000" stop="20260725180000 +0000" channel="ANTV.vision">
+<title>Ken Arok &amp; Ken Dedes</title>
+</programme>
+<programme start="20260725180000 +0000" stop="20260725190000 +0000" channel="ANTV.vision">
+<title>Teenage Mutant Ninja Turtles 2</title>
 </programme>
 <programme start="20260725190000 +0000" stop="20260725203000 +0000" channel="ANTV.vision">
 <title>Aini: Malaikat Tak Bersayap</title>
@@ -771,6 +792,9 @@
 </programme>
 <programme start="20260725130000 +0000" stop="20260725140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
+</programme>
+<programme start="20260725140000 +0000" stop="20260725150000 +0000" channel="TVOne.vision">
+<title>Solo Bersholawat</title>
 </programme>
 <programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
@@ -1473,28 +1497,4 @@
 </programme>
 <programme start="20260725043000 +0000" stop="20260725053000 +0000" channel="TVRI.vision">
 <title>Klik Indonesia Siang</title>
-</programme>
-<programme start="20260725053000 +0000" stop="20260725073000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260725073000 +0000" stop="20260725093000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260725093000 +0000" stop="20260725100000 +0000" channel="TVRI.vision">
-<title>Skor Akhir</title>
-</programme>
-<programme start="20260725100000 +0000" stop="20260725103000 +0000" channel="TVRI.vision">
-<title>Kabayan Milenial</title>
-</programme>
-<programme start="20260725103000 +0000" stop="20260725110000 +0000" channel="TVRI.vision">
-<title>Film Pendek</title>
-</programme>
-<programme start="20260725110000 +0000" stop="20260725120000 +0000" channel="TVRI.vision">
-<title>Klik Indonesia Petang</title>
-</programme>
-<programme start="20260725120000 +0000" stop="20260725140000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260725140000 +0000" stop="20260725143000 +0000" channel="TVRI.vision">
-<title>Dunia Dalam Berita</title>
 </programme>
