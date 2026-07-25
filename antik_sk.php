@@ -15112,28 +15112,28 @@
   <programme start="20260727210000 +0000" stop="20260728031000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20260726214000 +0000" stop="20260726220600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260726214200 +0000" stop="20260726220800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry Erika Sibala</title>
   </programme>
-  <programme start="20260726220600 +0000" stop="20260726225000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Dnes bez lopty - Ivan Gondor</title>
+  <programme start="20260726220800 +0000" stop="20260726223600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TĽAČOVÁ KONFERENCIA: MFK Zemplín Michalovce pred štartom novej sezóny</title>
   </programme>
-  <programme start="20260726225000 +0000" stop="20260726233100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260726223600 +0000" stop="20260726231700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Folklór na Východe - Jozef Kopča</title>
   </programme>
-  <programme start="20260726233100 +0000" stop="20260726234800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260726231700 +0000" stop="20260726233400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">TLAČOVÁ KONFERENCIA: Prvý oficiálny kandidát na primátora mesta Trebišov</title>
   </programme>
-  <programme start="20260726234800 +0000" stop="20260727001300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260726233400 +0000" stop="20260726235900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry - Dominik Frajkor</title>
   </programme>
-  <programme start="20260727001300 +0000" stop="20260727003600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260726235900 +0000" stop="20260727002200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">TLAČOVÁ KONFERENCIA: Igor Šimko podpísal dohodu so Zemplínom</title>
   </programme>
-  <programme start="20260727003600 +0000" stop="20260727011300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260727002200 +0000" stop="20260727005900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Martin Čornej</title>
   </programme>
-  <programme start="20260727011300 +0000" stop="20260727030000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260727005900 +0000" stop="20260727030000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva PSK - 22.6.2026</title>
   </programme>
   <programme start="20260727030000 +0000" stop="20260727031000 +0000" channel="TV Zemplín.webtv.sk">

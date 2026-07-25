@@ -5986,7 +5986,10 @@
 <programme start="20260724175800 +0000" stop="20260725015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260725015800 +0000" stop="20260725060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260725015800 +0000" stop="20260725050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260725050000 +0000" stop="20260725060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260725115500 +0000" stop="20260725120500 +0000" channel="CBBC.virginmediatv">
@@ -7639,50 +7642,50 @@
 <programme start="20260725033200 +0000" stop="20260725034100 +0000" channel="TV5.virginmediatv">
     <title>Ding Dong : Les Spéciaux - Germany</title>
 </programme>
-<programme start="20260725034100 +0000" stop="20260725042400 +0000" channel="TV5.virginmediatv">
+<programme start="20260725034100 +0000" stop="20260725040800 +0000" channel="TV5.virginmediatv">
     <title>Les Maternelles d&#039;Afrique - Comment trouver sa place dans une famille recomposée ?</title>
 </programme>
-<programme start="20260725042400 +0000" stop="20260725042900 +0000" channel="TV5.virginmediatv">
-    <title>Meteo</title>
+<programme start="20260725040800 +0000" stop="20260725045000 +0000" channel="TV5.virginmediatv">
+    <title>Silence ça pousse ! - Jacky Chéry / Phytoplankton / Parc de la Jaillière</title>
 </programme>
-<programme start="20260725042900 +0000" stop="20260725045000 +0000" channel="TV5.virginmediatv">
+<programme start="20260725045000 +0000" stop="20260725045900 +0000" channel="TV5.virginmediatv">
     <title>Télématin</title>
 </programme>
-<programme start="20260725045000 +0000" stop="20260725052900 +0000" channel="TV5.virginmediatv">
+<programme start="20260725045900 +0000" stop="20260725052900 +0000" channel="TV5.virginmediatv">
+    <title>Skate le monde - Episode 12</title>
+</programme>
+<programme start="20260725052900 +0000" stop="20260725054600 +0000" channel="TV5.virginmediatv">
     <title>Télématin</title>
 </programme>
-<programme start="20260725052900 +0000" stop="20260725060000 +0000" channel="TV5.virginmediatv">
-    <title>Télématin</title>
+<programme start="20260725054600 +0000" stop="20260725060000 +0000" channel="TV5.virginmediatv">
+    <title>Château ! - Islette; Bouges</title>
 </programme>
-<programme start="20260725113000 +0000" stop="20260725120200 +0000" channel="TV5.virginmediatv">
-    <title>Le Journal de la RTBF</title>
+<programme start="20260725120000 +0000" stop="20260725134700 +0000" channel="TV5.virginmediatv">
+    <title>Fort Boyard, Les Origines - Episode 3</title>
 </programme>
-<programme start="20260725120200 +0000" stop="20260725123800 +0000" channel="TV5.virginmediatv">
-    <title>Nismet - Episode 1</title>
-</programme>
-<programme start="20260725123800 +0000" stop="20260725131700 +0000" channel="TV5.virginmediatv">
-    <title>Nismet - Episode 2</title>
-</programme>
-<programme start="20260725131700 +0000" stop="20260725134700 +0000" channel="TV5.virginmediatv">
-    <title>Strip-Tease - Episode 3</title>
-</programme>
-<programme start="20260725134700 +0000" stop="20260725140000 +0000" channel="TV5.virginmediatv">
+<programme start="20260725134700 +0000" stop="20260725135700 +0000" channel="TV5.virginmediatv">
     <title>Le dessous des cartes</title>
 </programme>
-<programme start="20260725140000 +0000" stop="20260725141200 +0000" channel="TV5.virginmediatv">
-    <title>Woolly Woolly - The Shiniest Shiny</title>
+<programme start="20260725135700 +0000" stop="20260725142400 +0000" channel="TV5.virginmediatv">
+    <title>Dans la bulle de...</title>
 </programme>
-<programme start="20260725141200 +0000" stop="20260725142400 +0000" channel="TV5.virginmediatv">
-    <title>Le refuge d&#039;Audrey - Le biberon de la chauve-souris</title>
-</programme>
-<programme start="20260725142400 +0000" stop="20260725144500 +0000" channel="TV5.virginmediatv">
+<programme start="20260725142400 +0000" stop="20260725142700 +0000" channel="TV5.virginmediatv">
     <title>Premier trio - Episode 25</title>
 </programme>
-<programme start="20260725144500 +0000" stop="20260725150700 +0000" channel="TV5.virginmediatv">
+<programme start="20260725142700 +0000" stop="20260725144500 +0000" channel="TV5.virginmediatv">
+    <title>Questions pour un champion</title>
+</programme>
+<programme start="20260725144500 +0000" stop="20260725150000 +0000" channel="TV5.virginmediatv">
     <title>Compostman et moi - L&#039;hôtel à insectes</title>
 </programme>
-<programme start="20260725150700 +0000" stop="20260725160000 +0000" channel="TV5.virginmediatv">
+<programme start="20260725150000 +0000" stop="20260725150700 +0000" channel="TV5.virginmediatv">
+    <title>C&#039;est archivé près de chez vous: le grand quiz - Episode 7</title>
+</programme>
+<programme start="20260725150700 +0000" stop="20260725155300 +0000" channel="TV5.virginmediatv">
     <title>Objectif Monde - Brazil and the challenges facing Lula</title>
+</programme>
+<programme start="20260725155300 +0000" stop="20260725160000 +0000" channel="TV5.virginmediatv">
+    <title>Voyages vert vous - Sri Lanka : traditions, éléphants et ressource insolite</title>
 </programme>
 <programme start="20260725160000 +0000" stop="20260725162700 +0000" channel="TV5.virginmediatv">
     <title>64&#039; actu</title>
@@ -7696,14 +7699,11 @@
 <programme start="20260725165300 +0000" stop="20260725170100 +0000" channel="TV5.virginmediatv">
     <title>L&#039;invité</title>
 </programme>
-<programme start="20260725170100 +0000" stop="20260725172300 +0000" channel="TV5.virginmediatv">
-    <title>Un si grand soleil - Episode 29</title>
+<programme start="20260725170100 +0000" stop="20260725173000 +0000" channel="TV5.virginmediatv">
+    <title>Génération F</title>
 </programme>
-<programme start="20260725172300 +0000" stop="20260725174600 +0000" channel="TV5.virginmediatv">
-    <title>Un si grand soleil - Episode 30</title>
-</programme>
-<programme start="20260725174600 +0000" stop="20260725180000 +0000" channel="TV5.virginmediatv">
-    <title>Maestro !</title>
+<programme start="20260725173000 +0000" stop="20260725180000 +0000" channel="TV5.virginmediatv">
+    <title>Rassemblance - Kohndo Assogba (Bénin)</title>
 </programme>
 <programme start="20260724210000 +0000" stop="20260725010000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
