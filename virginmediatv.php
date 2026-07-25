@@ -7609,11 +7609,8 @@
 <programme start="20260725173000 +0000" stop="20260725180000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tu Hi Re Dil Mein - Episode 36</title>
 </programme>
-<programme start="20260724235300 +0000" stop="20260725003300 +0000" channel="TV5.virginmediatv">
-    <title>To Be Announced</title>
-</programme>
-<programme start="20260725003300 +0000" stop="20260725004700 +0000" channel="TV5.virginmediatv">
-    <title>Version française</title>
+<programme start="20260724235300 +0000" stop="20260725004700 +0000" channel="TV5.virginmediatv">
+    <title>L&#039;Abîme - Episode 6</title>
 </programme>
 <programme start="20260725004700 +0000" stop="20260725010700 +0000" channel="TV5.virginmediatv">
     <title>180 jours</title>
@@ -7643,7 +7640,7 @@
     <title>Ding Dong : Les Spéciaux - Germany</title>
 </programme>
 <programme start="20260725034100 +0000" stop="20260725042400 +0000" channel="TV5.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Les Maternelles d&#039;Afrique - Comment trouver sa place dans une famille recomposée ?</title>
 </programme>
 <programme start="20260725042400 +0000" stop="20260725042900 +0000" channel="TV5.virginmediatv">
     <title>Meteo</title>
