@@ -7624,11 +7624,11 @@
 <programme start="20260725030200 +0000" stop="20260725033200 +0000" channel="TV5.virginmediatv">
     <title>Suisse en scène - Invitées : Camille et Julie Berthollet</title>
 </programme>
-<programme start="20260725033200 +0000" stop="20260725035800 +0000" channel="TV5.virginmediatv">
+<programme start="20260725033200 +0000" stop="20260725034100 +0000" channel="TV5.virginmediatv">
     <title>Ding Dong : Les Spéciaux - Germany</title>
 </programme>
-<programme start="20260725035800 +0000" stop="20260725042400 +0000" channel="TV5.virginmediatv">
-    <title>Le 6h00 info</title>
+<programme start="20260725034100 +0000" stop="20260725042400 +0000" channel="TV5.virginmediatv">
+    <title>Les Maternelles d&#039;Afrique</title>
 </programme>
 <programme start="20260725042400 +0000" stop="20260725042900 +0000" channel="TV5.virginmediatv">
     <title>Meteo</title>
