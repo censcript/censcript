@@ -16684,10 +16684,10 @@
   <programme start="20260727000500 +0000" stop="20260727003000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260727003000 +0000" stop="20260727003400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260727003000 +0000" stop="20260727003500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260727003400 +0000" stop="20260727010800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260727003500 +0000" stop="20260727010800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Portfel Kowalskiego (77)</title>
   </programme>
   <programme start="20260727010800 +0000" stop="20260727013900 +0000" channel="TVP Info.webtv.sk">
@@ -16891,10 +16891,16 @@
   <programme start="20260727204500 +0000" stop="20260727210000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
   </programme>
-  <programme start="20260727210000 +0000" stop="20260727213000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Panorama Dnia</title>
+  <programme start="20260727210000 +0000" stop="20260727211500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Wydarzy sie jutro</title>
   </programme>
-  <programme start="20260727213000 +0000" stop="20260727220300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260727211500 +0000" stop="20260727213000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Rewers</title>
+  </programme>
+  <programme start="20260727213000 +0000" stop="20260727214500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Wydarzy sie w pogodzie</title>
+  </programme>
+  <programme start="20260727214500 +0000" stop="20260727220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
   <programme start="20260726215500 +0000" stop="20260726224000 +0000" channel="TVP Polonia.webtv.sk">

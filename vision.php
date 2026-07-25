@@ -616,6 +616,9 @@
 <programme start="20260725073000 +0000" stop="20260725084500 +0000" channel="ANTV.vision">
 <title>Sayali</title>
 </programme>
+<programme start="20260725084500 +0000" stop="20260725104500 +0000" channel="ANTV.vision">
+<title>Festival ANTV Rame</title>
+</programme>
 <programme start="20260725104500 +0000" stop="20260725120000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260725043000 +0000" stop="20260725053000 +0000" channel="TVRI.vision">
 <title>Klik Indonesia Siang</title>
-</programme>
-<programme start="20260725053000 +0000" stop="20260725073000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

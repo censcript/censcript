@@ -7609,26 +7609,41 @@
 <programme start="20260725173000 +0000" stop="20260725180000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tu Hi Re Dil Mein - Episode 36</title>
 </programme>
-<programme start="20260724230000 +0000" stop="20260725003300 +0000" channel="TV5.virginmediatv">
-    <title>César Wagner - Un mariage, deux enterrements</title>
+<programme start="20260724235300 +0000" stop="20260725003300 +0000" channel="TV5.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20260725003300 +0000" stop="20260725010700 +0000" channel="TV5.virginmediatv">
+<programme start="20260725003300 +0000" stop="20260725004700 +0000" channel="TV5.virginmediatv">
     <title>Version française</title>
 </programme>
-<programme start="20260725010700 +0000" stop="20260725020000 +0000" channel="TV5.virginmediatv">
+<programme start="20260725004700 +0000" stop="20260725010700 +0000" channel="TV5.virginmediatv">
+    <title>180 jours</title>
+</programme>
+<programme start="20260725010700 +0000" stop="20260725013300 +0000" channel="TV5.virginmediatv">
     <title>Magazine</title>
 </programme>
-<programme start="20260725020000 +0000" stop="20260725030200 +0000" channel="TV5.virginmediatv">
+<programme start="20260725013300 +0000" stop="20260725020000 +0000" channel="TV5.virginmediatv">
+    <title>Tendance XXI - Musée Galliera / House of Trudon</title>
+</programme>
+<programme start="20260725020000 +0000" stop="20260725023000 +0000" channel="TV5.virginmediatv">
     <title>Le 23h</title>
 </programme>
-<programme start="20260725030200 +0000" stop="20260725033200 +0000" channel="TV5.virginmediatv">
+<programme start="20260725023000 +0000" stop="20260725025100 +0000" channel="TV5.virginmediatv">
+    <title>Le match dans le match</title>
+</programme>
+<programme start="20260725025100 +0000" stop="20260725030200 +0000" channel="TV5.virginmediatv">
+    <title>Le match dans le match</title>
+</programme>
+<programme start="20260725030200 +0000" stop="20260725031500 +0000" channel="TV5.virginmediatv">
     <title>Suisse en scène - Invitées : Camille et Julie Berthollet</title>
+</programme>
+<programme start="20260725031500 +0000" stop="20260725033200 +0000" channel="TV5.virginmediatv">
+    <title>Le beau vélo de RAVeL</title>
 </programme>
 <programme start="20260725033200 +0000" stop="20260725034100 +0000" channel="TV5.virginmediatv">
     <title>Ding Dong : Les Spéciaux - Germany</title>
 </programme>
 <programme start="20260725034100 +0000" stop="20260725042400 +0000" channel="TV5.virginmediatv">
-    <title>Les Maternelles d&#039;Afrique</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260725042400 +0000" stop="20260725042900 +0000" channel="TV5.virginmediatv">
     <title>Meteo</title>
