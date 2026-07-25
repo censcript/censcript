@@ -1412,7 +1412,7 @@
         <title>TVBS Sisy&#039;s World News Europe</title>
     </programme>
     <programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="TVBS Asia.starhub">
-        <title>Super Taste:Family On The Road</title>
+        <title>Super Taste: Family On The Road</title>
     </programme>
     <programme start="20260724160000 +0000" stop="20260724161000 +0000" channel="Cbeebies HD.starhub">
         <title>Tiddlytubby Party</title>
@@ -1738,26 +1738,23 @@
     <programme start="20260725003000 +0000" stop="20260725022000 +0000" channel="beIN Sports 3.starhub">
         <title>Reignwood Icons of Football 2026: Tournament Highlights</title>
     </programme>
-    <programme start="20260725022000 +0000" stop="20260725041000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260725022000 +0000" stop="20260725040500 +0000" channel="beIN Sports 3.starhub">
         <title>Super Lig 2025/26: Galatasaray vs Kayserispor</title>
     </programme>
-    <programme start="20260725041000 +0000" stop="20260725043500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260725040500 +0000" stop="20260725043000 +0000" channel="beIN Sports 3.starhub">
         <title>Volume 4</title>
     </programme>
-    <programme start="20260725043500 +0000" stop="20260725053500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260725043000 +0000" stop="20260725053500 +0000" channel="beIN Sports 3.starhub">
         <title>Ferrari Challenge Japan 2026: Trofeo Pirelli Race 1, Suzuka</title>
     </programme>
     <programme start="20260725053500 +0000" stop="20260725055500 +0000" channel="beIN Sports 3.starhub">
         <title>2011/12</title>
     </programme>
-    <programme start="20260725055500 +0000" stop="20260725063000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260725055500 +0000" stop="20260725062500 +0000" channel="beIN Sports 3.starhub">
         <title>Stage 19 - Gap - Alpe d&#039;Huez</title>
     </programme>
-    <programme start="20260725063000 +0000" stop="20260725072000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260725062500 +0000" stop="20260725073500 +0000" channel="beIN Sports 3.starhub">
         <title>Ferrari Challenge Japan 2026: Coppa Shell Race 1, Suzuka</title>
-    </programme>
-    <programme start="20260725072000 +0000" stop="20260725073500 +0000" channel="beIN Sports 3.starhub">
-        <title>Scholes Goals</title>
     </programme>
     <programme start="20260725073500 +0000" stop="20260725083000 +0000" channel="beIN Sports 3.starhub">
         <title>UEL Season Review</title>
@@ -1859,7 +1856,7 @@
         <title>Friday, July 24, 2026 5PM</title>
     </programme>
     <programme start="20260724213000 +0000" stop="20260724220000 +0000" channel="CNN HD.starhub">
-        <title>Friday, July 24, 2026 530pm ET</title>
+        <title>Friday, July 24, 2026 830am ET</title>
     </programme>
     <programme start="20260724220000 +0000" stop="20260724230000 +0000" channel="CNN HD.starhub">
         <title>Friday, July 24, 2026 6pm ET</title>
@@ -1868,7 +1865,7 @@
         <title>Friday, July 24, 2026 7PM</title>
     </programme>
     <programme start="20260725000000 +0000" stop="20260725010000 +0000" channel="CNN HD.starhub">
-        <title>Saturday, April 25, 2026 8PM</title>
+        <title>Friday, July 24, 2026 9PM</title>
     </programme>
     <programme start="20260725010000 +0000" stop="20260725020000 +0000" channel="CNN HD.starhub">
         <title>Saturday, April 25, 2026 9PM</title>
@@ -1877,7 +1874,7 @@
         <title>Friday, July 24, 2026 10PM</title>
     </programme>
     <programme start="20260725030000 +0000" stop="20260725040000 +0000" channel="CNN HD.starhub">
-        <title>Friday, July 24, 2026 11PM</title>
+        <title>Episode 265</title>
     </programme>
     <programme start="20260725040000 +0000" stop="20260725050000 +0000" channel="CNN HD.starhub">
         <title>Saturday, July 25, 2026 12am ET</title>
@@ -1892,7 +1889,7 @@
         <title>Saturday, July 25, 2026 2am ET</title>
     </programme>
     <programme start="20260725063000 +0000" stop="20260725070000 +0000" channel="CNN HD.starhub">
-        <title>Episode 232</title>
+        <title>Gugu Gumede and S&#039;Dumo Mtshali</title>
     </programme>
     <programme start="20260725070000 +0000" stop="20260725073000 +0000" channel="CNN HD.starhub">
         <title>Saturday, July 25, 2026 3am ET</title>
@@ -1910,7 +1907,7 @@
         <title>Saturday, July 25, 2026 5am ET</title>
     </programme>
     <programme start="20260725100000 +0000" stop="20260725103000 +0000" channel="CNN HD.starhub">
-        <title>Episode 232</title>
+        <title>Gugu Gumede and S&#039;Dumo Mtshali</title>
     </programme>
     <programme start="20260725103000 +0000" stop="20260725110000 +0000" channel="CNN HD.starhub">
         <title>Uganda&#039;s Boxing Renaissance</title>
@@ -1939,20 +1936,29 @@
     <programme start="20260724170000 +0000" stop="20260724200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thulluvatho Ilamai</title>
     </programme>
-    <programme start="20260724200000 +0000" stop="20260724210000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260724200000 +0000" stop="20260724223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Nalla Pambu</title>
     </programme>
-    <programme start="20260724210000 +0000" stop="20260724220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260724223000 +0000" stop="20260725010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Rathna</title>
     </programme>
-    <programme start="20260724220000 +0000" stop="20260725040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260725010000 +0000" stop="20260725013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20260725040000 +0000" stop="20260725100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260725013000 +0000" stop="20260725043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Kannukkul Nilavu</title>
     </programme>
-    <programme start="20260725100000 +0000" stop="20260725160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260725043000 +0000" stop="20260725073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pistha</title>
+    </programme>
+    <programme start="20260725073000 +0000" stop="20260725103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Koodi Vazhndal Kodi Nanmai</title>
+    </programme>
+    <programme start="20260725103000 +0000" stop="20260725133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Pandavar Bhoomi</title>
+    </programme>
+    <programme start="20260725133000 +0000" stop="20260725170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Motta Siva Ketta Siva</title>
     </programme>
     <programme start="20260724115000 +0000" stop="20260724161500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Tour de France 2026: Stage 19 - Gap - Alpe d&#039;Huez</title>
@@ -1982,7 +1988,7 @@
         <title>Women&#039;s Super League 2025/26: Brighton vs Leicester</title>
     </programme>
     <programme start="20260725011000 +0000" stop="20260725030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>World Rugby Junior World C&#039;ships 2026: France vs Australia</title>
+        <title>World Rugby Junior World C&#039;ship 2026: France vs Australia</title>
     </programme>
     <programme start="20260725030000 +0000" stop="20260725043000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Bordeaux P2 Day 6 Final - Men</title>
@@ -2015,7 +2021,7 @@
         <title>Roland Garros Match Highlights: 2025 Women&#039;s Singles SF 2 Gauff v Boisson</title>
     </programme>
     <programme start="20260725090000 +0000" stop="20260725095000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Formula 4 Italian C&#039;ships 2026: Mugello Race 1</title>
+        <title>Formula 4 Italian C&#039;ship 2026: Mugello Race 1</title>
     </programme>
     <programme start="20260725095000 +0000" stop="20260725102000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>GKA Magazine 2: SFT E-Foil World Cup Shenzhen</title>
@@ -2209,17 +2215,98 @@
     <programme start="20260725140000 +0000" stop="20260725160000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FN17: Prelims: Ankalaev vs Guskov (JIP)</title>
     </programme>
-    <programme start="20260724160000 +0000" stop="20260724220000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260724141500 +0000" stop="20260724161500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>It&#039;s Showtime</title>
     </programme>
-    <programme start="20260724220000 +0000" stop="20260725040000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260724161500 +0000" stop="20260724165500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Sigabo</title>
     </programme>
-    <programme start="20260725040000 +0000" stop="20260725100000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260724165500 +0000" stop="20260724173500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Blood VS. Duty</title>
     </programme>
-    <programme start="20260725100000 +0000" stop="20260725160000 +0000" channel="The Filipino Channel HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260724173500 +0000" stop="20260724181500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>The Alibi</title>
+    </programme>
+    <programme start="20260724181500 +0000" stop="20260724185000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Incognito</title>
+    </programme>
+    <programme start="20260724185000 +0000" stop="20260724192500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Iron Heart</title>
+    </programme>
+    <programme start="20260724192500 +0000" stop="20260724200000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Linlang</title>
+    </programme>
+    <programme start="20260724200000 +0000" stop="20260724213000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>TV Patrol Weekday Global Edition</title>
+    </programme>
+    <programme start="20260724213000 +0000" stop="20260724223000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tabing Ilog</title>
+    </programme>
+    <programme start="20260724223000 +0000" stop="20260724230000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Juan Big Bite</title>
+    </programme>
+    <programme start="20260724230000 +0000" stop="20260724233000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Wow</title>
+    </programme>
+    <programme start="20260724233000 +0000" stop="20260725000000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tubig To Handle (Sat)</title>
+    </programme>
+    <programme start="20260725000000 +0000" stop="20260725003000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tubig To Handle (Sun)</title>
+    </programme>
+    <programme start="20260725003000 +0000" stop="20260725010000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Astig Vegan S4</title>
+    </programme>
+    <programme start="20260725010000 +0000" stop="20260725020000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tulong Ko, Pasa Mo</title>
+    </programme>
+    <programme start="20260725020000 +0000" stop="20260725023000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Ano Na Bev S6</title>
+    </programme>
+    <programme start="20260725023000 +0000" stop="20260725030000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Kapamilya Daily Mass</title>
+    </programme>
+    <programme start="20260725030000 +0000" stop="20260725040000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Darna</title>
+    </programme>
+    <programme start="20260725040000 +0000" stop="20260725063000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>It&#039;s Showtime</title>
+    </programme>
+    <programme start="20260725063000 +0000" stop="20260725071500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Philippines Strangest Mysteries Part 1</title>
+    </programme>
+    <programme start="20260725071500 +0000" stop="20260725074500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Pamilya Talk With Tita Jing S7</title>
+    </programme>
+    <programme start="20260725074500 +0000" stop="20260725084500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Tulong Ko, Pasa Mo</title>
+    </programme>
+    <programme start="20260725084500 +0000" stop="20260725091500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Home Away From Home S6</title>
+    </programme>
+    <programme start="20260725091500 +0000" stop="20260725094500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Juan Conversations with Rose Eclarinal S3</title>
+    </programme>
+    <programme start="20260725094500 +0000" stop="20260725104500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>TV Patrol Sabado Live</title>
+    </programme>
+    <programme start="20260725104500 +0000" stop="20260725113000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Ibang Level &#039;To</title>
+    </programme>
+    <programme start="20260725113000 +0000" stop="20260725123000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Kapamilya Deal Or No Deal</title>
+    </programme>
+    <programme start="20260725123000 +0000" stop="20260725134500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>Everybody Sing</title>
+    </programme>
+    <programme start="20260725134500 +0000" stop="20260725145500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>The Crossings: Finding Our Way Home Through Stories</title>
+    </programme>
+    <programme start="20260725145500 +0000" stop="20260725154500 +0000" channel="The Filipino Channel HD.starhub">
+        <title>The B Side S2</title>
+    </programme>
+    <programme start="20260725154500 +0000" stop="20260725173000 +0000" channel="The Filipino Channel HD.starhub">
+        <title>It&#039;s Showtime</title>
     </programme>
     <programme start="20260724160000 +0000" stop="20260724220000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
@@ -2377,20 +2464,20 @@
     <programme start="20260725053000 +0000" stop="20260725060000 +0000" channel="Sun TV.starhub">
         <title>PUTHU VASANTHAM</title>
     </programme>
-    <programme start="20260725060000 +0000" stop="20260725070000 +0000" channel="Sun TV.starhub">
+    <programme start="20260725060000 +0000" stop="20260725063000 +0000" channel="Sun TV.starhub">
+        <title>Siragugal</title>
+    </programme>
+    <programme start="20260725063000 +0000" stop="20260725073000 +0000" channel="Sun TV.starhub">
         <title>LAKSHMI &amp; Iru Malragal - Mahasangamam</title>
     </programme>
-    <programme start="20260725070000 +0000" stop="20260725073000 +0000" channel="Sun TV.starhub">
-        <title>AADUKALAM</title>
-    </programme>
     <programme start="20260725073000 +0000" stop="20260725080000 +0000" channel="Sun TV.starhub">
-        <title>Movie-</title>
+        <title>Movie-  DHARMADURAI</title>
     </programme>
     <programme start="20260725080000 +0000" stop="20260725083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260725083000 +0000" stop="20260725103000 +0000" channel="Sun TV.starhub">
-        <title>Movie contd -</title>
+        <title>Movie contd -  DHARMADURAI</title>
     </programme>
     <programme start="20260725103000 +0000" stop="20260725110000 +0000" channel="Sun TV.starhub">
         <title>Annam</title>
@@ -2546,7 +2633,7 @@
         <title>Beached</title>
     </programme>
     <programme start="20260724210000 +0000" stop="20260724213000 +0000" channel="ANC.starhub">
-        <title>Insights: Israel And Middle East</title>
+        <title>Women Of Style</title>
     </programme>
     <programme start="20260724213000 +0000" stop="20260724220000 +0000" channel="ANC.starhub">
         <title>Executive Class</title>
@@ -2627,19 +2714,19 @@
         <title>ANC Presents</title>
     </programme>
     <programme start="20260725123000 +0000" stop="20260725130000 +0000" channel="ANC.starhub">
-        <title>ANC Presents</title>
+        <title>Juan Conversations</title>
     </programme>
     <programme start="20260725130000 +0000" stop="20260725133000 +0000" channel="ANC.starhub">
         <title>ANC Presents</title>
     </programme>
     <programme start="20260725133000 +0000" stop="20260725140000 +0000" channel="ANC.starhub">
-        <title>Juan Conversations</title>
+        <title>Executive Class</title>
     </programme>
     <programme start="20260725140000 +0000" stop="20260725143000 +0000" channel="ANC.starhub">
-        <title>24x24</title>
+        <title>24X24</title>
     </programme>
     <programme start="20260725143000 +0000" stop="20260725150000 +0000" channel="ANC.starhub">
-        <title>24x24</title>
+        <title>24X24</title>
     </programme>
     <programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="ANC.starhub">
         <title>Metabeats</title>
@@ -3236,19 +3323,16 @@
         <title>News</title>
     </programme>
     <programme start="20260725023000 +0000" stop="20260725043000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - KOODAL NAGAR (U)</title>
+        <title>MOVIE - AGILAN (U/A)</title>
     </programme>
     <programme start="20260725043000 +0000" stop="20260725073000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - SILAMBATTAM (U/A)</title>
+        <title>MOVIE - MOZHI (U)</title>
     </programme>
     <programme start="20260725073000 +0000" stop="20260725080000 +0000" channel="Kalaignar TV.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260725080000 +0000" stop="20260725110000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - IMSAI ARASAN 23AM PULIKESI (U)</title>
-    </programme>
-    <programme start="20260725110000 +0000" stop="20260725120000 +0000" channel="Kalaignar TV.starhub">
-        <title>Iruvar</title>
+    <programme start="20260725080000 +0000" stop="20260725120000 +0000" channel="Kalaignar TV.starhub">
+        <title>MOVIE - INDIAN (U/A)</title>
     </programme>
     <programme start="20260725120000 +0000" stop="20260725123000 +0000" channel="Kalaignar TV.starhub">
         <title>News</title>
@@ -3482,7 +3566,7 @@
         <title>Fun with Okinawa Dialects (R)</title>
     </programme>
     <programme start="20260724183000 +0000" stop="20260724184500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Scent of the Wind&quot; (R)</title>
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 85 (R)</title>
     </programme>
     <programme start="20260724184500 +0000" stop="20260724193000 +0000" channel="NHK World Premium HD.starhub">
         <title>Saturday Drama  &quot;Amagi Pass&quot; Part 2 (R)</title>
@@ -3518,7 +3602,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260724230000 +0000" stop="20260724231500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Scent of the Wind&quot;</title>
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Week 17</title>
     </programme>
     <programme start="20260724231500 +0000" stop="20260725000000 +0000" channel="NHK World Premium HD.starhub">
         <title>Trivia Quizzes--You&#039;ll Get Scolded by Chiko-chan! (R)</title>
@@ -3563,7 +3647,7 @@
         <title>Fun with Okinawa Dialects</title>
     </programme>
     <programme start="20260725034500 +0000" stop="20260725040000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Scent of the Wind&quot; (R)</title>
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Week 17 (R)</title>
     </programme>
     <programme start="20260725040000 +0000" stop="20260725040500 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
@@ -4202,19 +4286,19 @@
         <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20260724230000 +0000" stop="20260724233000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
+        <title>Bloomberg Next Africa</title>
     </programme>
     <programme start="20260724233000 +0000" stop="20260725000000 +0000" channel="Bloomberg Television HD.starhub">
         <title>The Mishal Husain Show</title>
     </programme>
     <programme start="20260725000000 +0000" stop="20260725003000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Leaders with Francine Lacqua: The Podcast</title>
+        <title>Honeywell CEO Vimal Kapur on Reinventing an Industrial Giant</title>
     </programme>
     <programme start="20260725003000 +0000" stop="20260725010000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The Circuit</title>
+        <title>Rafael Nadal: The Champion&#039;s Mindset On and Off the Tennis Court</title>
     </programme>
     <programme start="20260725010000 +0000" stop="20260725013000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The David Rubenstein Show</title>
+        <title>Michele Kang, Washington Spirit Owner, Kynisca Founder and CEO</title>
     </programme>
     <programme start="20260725013000 +0000" stop="20260725020000 +0000" channel="Bloomberg Television HD.starhub">
         <title>Bloomberg Originals</title>
@@ -4223,19 +4307,16 @@
         <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20260725030000 +0000" stop="20260725033000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The Circuit</title>
+        <title>VivaTech x Bloomberg Awards</title>
     </programme>
     <programme start="20260725033000 +0000" stop="20260725040000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Posthuman</title>
+        <title>Bloomberg Tech: Decoding the Future</title>
     </programme>
     <programme start="20260725040000 +0000" stop="20260725050000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The Deal with Alex Rodriguez and Jason Kelly</title>
+        <title>How Wall Street Found Riches in America&#039;s Zombie Debts</title>
     </programme>
-    <programme start="20260725050000 +0000" stop="20260725053000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Posthuman</title>
-    </programme>
-    <programme start="20260725053000 +0000" stop="20260725060000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The Circuit</title>
+    <programme start="20260725050000 +0000" stop="20260725060000 +0000" channel="Bloomberg Television HD.starhub">
+        <title>Inside North Korea&#039;s Secret Remote IT Workforce</title>
     </programme>
     <programme start="20260725060000 +0000" stop="20260725063000 +0000" channel="Bloomberg Television HD.starhub">
         <title>The Mishal Husain Show</title>
@@ -4247,13 +4328,13 @@
         <title>Bloomberg Wall Street Week</title>
     </programme>
     <programme start="20260725080000 +0000" stop="20260725083000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg Originals</title>
+        <title>Greg Fleming, Rockefeller Capital Management President and CEO</title>
     </programme>
     <programme start="20260725083000 +0000" stop="20260725090000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Posthuman</title>
+        <title>Alan Waxman Is a Sports Superinvestor</title>
     </programme>
     <programme start="20260725090000 +0000" stop="20260725093000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
+        <title>How the Electrical Grid Is Being Rebuilt for AI</title>
     </programme>
     <programme start="20260725093000 +0000" stop="20260725100000 +0000" channel="Bloomberg Television HD.starhub">
         <title>The Mishal Husain Show</title>
@@ -4271,7 +4352,7 @@
         <title>The Mishal Husain Show</title>
     </programme>
     <programme start="20260725153000 +0000" stop="20260725160000 +0000" channel="Bloomberg Television HD.starhub">
-        <title>The David Rubenstein Show</title>
+        <title>Michele Kang, Washington Spirit Owner, Kynisca Founder and CEO</title>
     </programme>
     <programme start="20260724150000 +0000" stop="20260724180000 +0000" channel="Zee Cinema.starhub">
         <title>Heropanti 2</title>
@@ -7076,7 +7157,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260725053000 +0000" stop="20260725060000 +0000" channel="BBC World News HD.starhub">
-        <title>Global Eye</title>
+        <title>AI Decoded</title>
     </programme>
     <programme start="20260725060000 +0000" stop="20260725063000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7097,7 +7178,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260725093000 +0000" stop="20260725100000 +0000" channel="BBC World News HD.starhub">
-        <title>Global Eye</title>
+        <title>Inside Hungary&#039;s Political Earthquake</title>
     </programme>
     <programme start="20260725100000 +0000" stop="20260725103000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7121,7 +7202,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260725133000 +0000" stop="20260725140000 +0000" channel="BBC World News HD.starhub">
-        <title>Global Eye</title>
+        <title>AI Decoded</title>
     </programme>
     <programme start="20260725140000 +0000" stop="20260725143000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7138,11 +7219,8 @@
     <programme start="20260724142000 +0000" stop="20260724161000 +0000" channel="Premier Sports.starhub">
         <title>NRL Rabbitohs v Storm</title>
     </programme>
-    <programme start="20260724161000 +0000" stop="20260724180000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260724161000 +0000" stop="20260724183000 +0000" channel="Premier Sports.starhub">
         <title>International Rugby Argentina v England</title>
-    </programme>
-    <programme start="20260724180000 +0000" stop="20260724183000 +0000" channel="Premier Sports.starhub">
-        <title>5 and 6 Nations Classics 2003 - England v Scotland</title>
     </programme>
     <programme start="20260724183000 +0000" stop="20260724211500 +0000" channel="Premier Sports.starhub">
         <title>LIVE Super League LIVE Wigan v St Helens</title>
@@ -7507,35 +7585,32 @@
     <programme start="20260725154000 +0000" stop="20260725160500 +0000" channel="ABC Australia HD.starhub">
         <title>First Generation S1</title>
     </programme>
-    <programme start="20260724160000 +0000" stop="20260724193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260724160000 +0000" stop="20260724185000 +0000" channel="Asianet Movies.starhub">
         <title>Dhrona (2010)</title>
     </programme>
-    <programme start="20260724193000 +0000" stop="20260724213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260724185000 +0000" stop="20260724212000 +0000" channel="Asianet Movies.starhub">
         <title>Shakespeare M.A. Malayalam</title>
     </programme>
-    <programme start="20260724213000 +0000" stop="20260724233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260724212000 +0000" stop="20260724231000 +0000" channel="Asianet Movies.starhub">
         <title>Deepangal Sakshi</title>
     </programme>
-    <programme start="20260724233000 +0000" stop="20260725013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260724231000 +0000" stop="20260725013000 +0000" channel="Asianet Movies.starhub">
         <title>Iruvattam Manavatty</title>
     </programme>
-    <programme start="20260725013000 +0000" stop="20260725043000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260725013000 +0000" stop="20260725042000 +0000" channel="Asianet Movies.starhub">
+        <title>Kunjiramayanam</title>
     </programme>
-    <programme start="20260725043000 +0000" stop="20260725073000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260725042000 +0000" stop="20260725073000 +0000" channel="Asianet Movies.starhub">
+        <title>Srungaravelan</title>
     </programme>
     <programme start="20260725073000 +0000" stop="20260725103000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>Pullippulikalum Aattinkuttiyum</title>
     </programme>
     <programme start="20260725103000 +0000" stop="20260725133000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+        <title>A.R.M.</title>
     </programme>
-    <programme start="20260725133000 +0000" stop="20260725153000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
-    </programme>
-    <programme start="20260725153000 +0000" stop="20260725160000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260725133000 +0000" stop="20260725162000 +0000" channel="Asianet Movies.starhub">
+        <title>Mr. X</title>
     </programme>
     <programme start="20260724160000 +0000" stop="20260724170000 +0000" channel="Astro Warna HD.starhub">
         <title>Melukis Senja</title>
@@ -8897,7 +8972,7 @@
         <title>TVBS Sisy&#039;s World News Europe</title>
     </programme>
     <programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="TestChannel 993.starhub">
-        <title>Super Taste:Family On The Road</title>
+        <title>Super Taste: Family On The Road</title>
     </programme>
     <programme start="20260724160000 +0000" stop="20260724220000 +0000" channel="Cricbuzz 2.starhub">
         <title>No Transmission</title>
