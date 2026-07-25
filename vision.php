@@ -610,9 +610,6 @@
 <programme start="20260726113000 +0000" stop="20260726121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260724230000 +0000" stop="20260725023000 +0000" channel="ANTV.vision">
-<title>Saheb Biwi Aur Gangster 3</title>
-</programme>
 <programme start="20260725023000 +0000" stop="20260725060000 +0000" channel="ANTV.vision">
 <title>Om Shanti Om</title>
 </programme>
@@ -765,9 +762,6 @@
 </programme>
 <programme start="20260725010000 +0000" stop="20260725013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20260725013000 +0000" stop="20260725020000 +0000" channel="TVOne.vision">
-<title>Antara</title>
 </programme>
 <programme start="20260725020000 +0000" stop="20260725023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260725033000 +0000" stop="20260725040000 +0000" channel="TVRI.vision">
 <title>Pesona Indonesia</title>
+</programme>
+<programme start="20260725040000 +0000" stop="20260725040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260725040300 +0000" stop="20260725043000 +0000" channel="TVRI.vision">
+<title>Anak Indonesia</title>
 </programme>

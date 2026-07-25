@@ -1700,17 +1700,17 @@
     <desc lang="en">24 of the most iconic former footballers made up of Champions League, Premier League, La Liga, Serie A, and World Cup winners, will trade boots for golf clubs in an unforgettable showdown</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260725022000 +0000" stop="20260725041000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260725022000 +0000" stop="20260725040500 +0000" channel="beinsports3.unifitv">
     <title lang="en">Super Lig - Galatasaray vs Kayserispor</title>
     <desc lang="en">beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260725041000 +0000" stop="20260725043500 +0000" channel="beinsports3.unifitv">
+  <programme start="20260725040500 +0000" stop="20260725043000 +0000" channel="beinsports3.unifitv">
     <title lang="en">MUTV: OT1000 United PL Goals - Volume 4</title>
     <desc lang="en">Relive all 1000 goals scored by United at the Theatre of Dreams</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260725043500 +0000" stop="20260725053500 +0000" channel="beinsports3.unifitv">
+  <programme start="20260725043000 +0000" stop="20260725053500 +0000" channel="beinsports3.unifitv">
     <title lang="en">Ferrari Challenge - Trofeo Pirelli Race 1, Suzuka (L)</title>
     <desc lang="en">The Japanese series is a can't miss part of the equation, offering Ferrari Challenge racing with an unmistakable Japanese flavor, bringing together the true Japanese motorsport heritage and Maranello's finest in a vintage display of grace and determination.</desc>
     <category lang="en">Sports</category>
@@ -1720,19 +1720,14 @@
     <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260725055500 +0000" stop="20260725063000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260725055500 +0000" stop="20260725062500 +0000" channel="beinsports3.unifitv">
     <title lang="en">Tour de France Highlights - Stage 19 - Gap - Alpe d'Huez</title>
     <desc lang="en">Daily and weekly highlights from the world's oldest and most prestigious annual men's multi-stage road cycling race.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260725063000 +0000" stop="20260725072000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260725062500 +0000" stop="20260725073500 +0000" channel="beinsports3.unifitv">
     <title lang="en">Ferrari Challenge - Coppa Shell Race 1, Suzuka (L)</title>
     <desc lang="en">The Japanese series is a can't miss part of the equation, offering Ferrari Challenge racing with an unmistakable Japanese flavor, bringing together the true Japanese motorsport heritage and Maranello's finest in a vintage display of grace and determination.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260725072000 +0000" stop="20260725073500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: Top Ten - Scholes Goals</title>
-    <desc lang="en">Catch our collection of Manchester United Top Tens: Goals, matches moments and more, from the Red Devils MUTV archives.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260725073500 +0000" stop="20260725083000 +0000" channel="beinsports3.unifitv">
@@ -5018,18 +5013,18 @@
     <episode-num system="onscreen">S1E34</episode-num>
   </programme>
   <programme start="20260725080500 +0000" stop="20260725083500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Miss Hong Kong Pageant 2026 Hunan Moments</title>
-    <desc lang="en">Miss Hong Kong Pageant 2026 Hunan Moments</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260725083500 +0000" stop="20260725090500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Star Weekly</title>
     <desc lang="en">The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, television, and concerts, especially people and events that netizens and friends in the industry are concerned about and discussing! With so much surrounding information, the show features a special "Fact Check" segment, where guests personally respond to various rumors, allowing the parties involved to clarify the truth!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.31.</episode-num>
     <episode-num system="onscreen">S1E32</episode-num>
+  </programme>
+  <programme start="20260725083500 +0000" stop="20260725090500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Gourmet Express Weekly</title>
+    <desc lang="en">Hong Kong is a melting pot of global cuisine! Food anchors and hosts like Carmaney Wong,Carmen Ngai,Gillian Ng stay up-to-date with the latest culinary trends, gathering information on top-rated restaurants from various platforms. The hosts personally sample the food and provide honest reviews; they uncover hidden gems in different districts and invite long-time expatriates to visit their favorite hometown eateries; renowned chefs and food critics also guide the way, offering expert recommendations. The program features a selection of popular restaurants featured in "Food News Report," highlighting their signature dishes and delivering quick deals, ensuring viewers stay up-to-date with the most delicious and affordable dining information.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.77.</episode-num>
+    <episode-num system="onscreen">S1E78</episode-num>
   </programme>
   <programme start="20260725090500 +0000" stop="20260725093500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Clash Of Chefs</title>
@@ -5085,28 +5080,19 @@
     <episode-num system="xmltv_ns">0.23.</episode-num>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20260725133500 +0000" stop="20260725142000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">J Music 2026</title>
-    <desc lang="en">J Music is dedicated to creating a high-quality music platform, providing singers with opportunities to showcase their musical talents while allowing music fans to gain a deeper understanding of their musical stories. The program invites popular singers as guests, who personally select their favorite new and old works, perform them live, and share their favorite tracks. New faces in the music scene will also appear, showcasing their musical potential through interactive exchanges. Furthermore, each episode closely follows the latest developments on the Jade Solid Gold Chart, featuring music videos and interviews with various singers, songwriters, and producers, who discuss their work and the people and events within the music industry.</desc>
+  <programme start="20260725133500 +0000" stop="20260725140500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">The Gallant Gent - Patrick Tse</title>
+    <desc lang="en">Patrick Tse, a legendary figure in Hong Kong's film and television industry, known as "Brother Four," passed away in mid-July due to illness. A leading man since the era of Cantonese films, he captivated audiences with his handsome looks and superb acting skills, his career spanning film, television, and variety shows, maintaining his charm for decades. In the hearts of viewers, Brother Four was forever dashing and debonair, a highly charismatic male star. His starring roles in dramas such as "The King of Gamblers" and "The Legend of the Condor Heroes" created many memorable characters. This special feature reviews Patrick Tse's acting career, revisits classic moments, and, through the memories of friends like Liza Wang and Fung Bo-bo, reminisces about Brother Four's dashing life.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.116.</episode-num>
-    <episode-num system="onscreen">S1E117</episode-num>
   </programme>
-  <programme start="20260725142000 +0000" stop="20260725145000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express Weekly</title>
-    <desc lang="en">Hong Kong is a melting pot of global cuisine! Food anchors and hosts like Carmaney Wong,Carmen Ngai,Gillian Ng stay up-to-date with the latest culinary trends, gathering information on top-rated restaurants from various platforms. The hosts personally sample the food and provide honest reviews; they uncover hidden gems in different districts and invite long-time expatriates to visit their favorite hometown eateries; renowned chefs and food critics also guide the way, offering expert recommendations. The program features a selection of popular restaurants featured in "Food News Report," highlighting their signature dishes and delivering quick deals, ensuring viewers stay up-to-date with the most delicious and affordable dining information.</desc>
+  <programme start="20260725140500 +0000" stop="20260725150500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">You Are Not Alone Again</title>
+    <desc lang="en">"'You Are Not Alone' triumphantly returns! In its second season, the show is once again led by the 'King of Ghosts' Leung Si Ho, together with co-hosts Wong Yiu Ying and Wong Chi Yan, as well as editors Wong Ying Yeuk and Tong Chi Yan, bringing audiences even more frights and surprises. Each episode focuses on a different supernatural theme, featuring heavyweight guests who share ghost stories and reveal the secrets of rituals and industry customs. With a world full of mysteries, the program gathers paranormal news from around the globe, and Chi Yan will travel to South Korea and Taiwan to explore local supernatural phenomena. Real-time interaction with the audience is also a highlight of 'Spirit Connection,' with the team closely following live broadcasts,</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.78.</episode-num>
-    <episode-num system="onscreen">S1E79</episode-num>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
-  <programme start="20260725145000 +0000" stop="20260725152000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Thai Rogered (Sr.11)</title>
-    <desc lang="en">"Thailand expert" Hu Huichong once again leads the "Tom Yum Family" members to introduce the latest travel information in Bangkok, including glamorous massage parlors with perfect photo spots, newly opened shopping malls with sky parks, and buffet restaurants hailed as the pinnacle of Bangkok tourism. The content is truly rich in Thai elements. In addition, "Bobo" Huang Jingling continues to appear in this episode, giving away plenty of perks. She will accompany Hu Huichong to visit Ayutthaya, Khao Yai, and other areas around Bangkok, recommending popular holiday destinations for locals. Besides "unboxing" hotels, they will also visit pseudo-Japanese photo spots and hotel-attached children's playgrounds, guaranteeing an authentic Thai experience.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260725152000 +0000" stop="20260725153500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260725150500 +0000" stop="20260725153500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News Roundup</title>
     <desc lang="en">Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
     <category lang="en">News </category>

@@ -28,16 +28,16 @@
     <programme start="20260725024500 +0000" stop="20260725033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Lối về miền hoa - Tập 1 </title>
     </programme>
-    <programme start="20260725033000 +0000" stop="20260725041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260725033000 +0000" stop="20260725041000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Lối về miền hoa - Tập 2 </title>
     </programme>
-    <programme start="20260725041500 +0000" stop="20260725050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260725041000 +0000" stop="20260725050400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Chuyện về loài cá xuất hiện nơi đền vua </title>
     </programme>
-    <programme start="20260725050500 +0000" stop="20260725051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260725050400 +0000" stop="20260725050900 +0000" channel="VTV1 HD.mytv">
         <title> Kinh tế bạc: Điểm tựa tuổi già </title>
     </programme>
-    <programme start="20260725051000 +0000" stop="20260725053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260725050900 +0000" stop="20260725053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20260725053000 +0000" stop="20260725070000 +0000" channel="VTV1 HD.mytv">
