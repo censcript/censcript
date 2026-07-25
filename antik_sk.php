@@ -1186,17 +1186,17 @@
   <programme start="20260727205500 +0000" stop="20260727225500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Turbulencia</title>
   </programme>
-  <programme start="20260726214000 +0000" stop="20260727001500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260726214000 +0000" stop="20260727001000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260727001500 +0000" stop="20260727021500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260727001000 +0000" stop="20260727021000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260727021500 +0000" stop="20260727041000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260727021000 +0000" stop="20260727041000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20260727041000 +0000" stop="20260727063000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Volejbal - Európska liga muži</title>
+    <title lang="id">Atletika - Gold Continental Tour</title>
   </programme>
   <programme start="20260727063000 +0000" stop="20260727090500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga muži</title>
@@ -1222,28 +1222,28 @@
   <programme start="20260727004000 +0000" stop="20260727024000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale D</title>
   </programme>
-  <programme start="20260727024000 +0000" stop="20260727044000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727024000 +0000" stop="20260727043500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260727044000 +0000" stop="20260727065000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727043500 +0000" stop="20260727065000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260727065000 +0000" stop="20260727090000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727065000 +0000" stop="20260727090500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260727090000 +0000" stop="20260727120500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727090500 +0000" stop="20260727122000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260727120500 +0000" stop="20260727142000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727122000 +0000" stop="20260727143500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260727142000 +0000" stop="20260727172000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727143500 +0000" stop="20260727173500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260727172000 +0000" stop="20260727201000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727173500 +0000" stop="20260727203000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260727201000 +0000" stop="20260727223500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727203000 +0000" stop="20260727225500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260726215000 +0000" stop="20260726230500 +0000" channel="WAU.webtv.sk">

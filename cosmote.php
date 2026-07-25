@@ -58,10 +58,6 @@
     <title>Football: Borussia Dortmund - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260726030000 +0700" stop="20260726050000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SL Benfica - Vitoria Guimaraes</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260726050000 +0700" stop="20260726070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Torino</title>
     <desc>Live: Tidak</desc>
@@ -108,6 +104,10 @@
 </programme>
 <programme start="20260727030000 +0700" stop="20260727050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Vitoria Guimaraes - Tondela</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260727050000 +0700" stop="20260727070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260726025500 +0700" stop="20260726050500 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +250,6 @@
     <title>Basketball: Tenerife - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260726024500 +0700" stop="20260726043000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260726043000 +0700" stop="20260726060500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -350,10 +346,6 @@
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260726040000 +0700" stop="20260726043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2026 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260726043000 +0700" stop="20260726070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Alexander Bublik - Quentin Halys</title>
     <desc>Live: Tidak</desc>
@@ -400,6 +392,10 @@
 </programme>
 <programme start="20260727030000 +0700" stop="20260727053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260727053000 +0700" stop="20260727083000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: UFC Fight Night 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260726040000 +0700" stop="20260726060000 +0700" channel="COSMOTE Sport 7 HD">
