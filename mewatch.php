@@ -37,10 +37,10 @@
     <programme start="20260726162000 +0000" stop="20260726165000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260726165000 +0000" stop="20260726200000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260726165000 +0000" stop="20260726203000 +0000" channel="Unknown Channel.mewatch">
         <title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games Women&#039;s All-Around Final</title>
     </programme>
-    <programme start="20260726200000 +0000" stop="20260727085000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260726203000 +0000" stop="20260727085000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260727085000 +0000" stop="20260727123000 +0000" channel="Unknown Channel.mewatch">

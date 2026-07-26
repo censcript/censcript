@@ -4273,10 +4273,7 @@
 <programme start="20260726100000 +0000" stop="20260726130000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Fencing World Championships - Hong Kong: Day 5</title>
 </programme>
-<programme start="20260726130000 +0000" stop="20260726133000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Tour de France Femmes - Preview: Road to Yellow</title>
-</programme>
-<programme start="20260726133000 +0000" stop="20260726153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260726130000 +0000" stop="20260726153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 2: West Indies v Pakistan</title>
 </programme>
 <programme start="20260726153000 +0000" stop="20260726184500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4888,10 +4885,7 @@
 <programme start="20260726100000 +0000" stop="20260726130000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Fencing World Championships - Hong Kong: Day 5</title>
 </programme>
-<programme start="20260726130000 +0000" stop="20260726133000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Tour de France Femmes - Preview: Road to Yellow</title>
-</programme>
-<programme start="20260726133000 +0000" stop="20260726153000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260726130000 +0000" stop="20260726153000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 2: West Indies v Pakistan</title>
 </programme>
 <programme start="20260726153000 +0000" stop="20260726184500 +0000" channel="TNT_Sports_1.virginmediatv">

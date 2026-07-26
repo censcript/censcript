@@ -565,9 +565,6 @@
 <programme start="20260726154500 +0000" stop="20260726163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260726163000 +0000" stop="20260726181500 +0000" channel="Trans 7.vision">
-<title>A Better Tomorrow</title>
-</programme>
 <programme start="20260726181500 +0000" stop="20260726190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -648,9 +645,6 @@
 </programme>
 <programme start="20260726113000 +0000" stop="20260726133000 +0000" channel="ANTV.vision">
 <title>Malam Keramat</title>
-</programme>
-<programme start="20260726173000 +0000" stop="20260726190000 +0000" channel="ANTV.vision">
-<title>Teenage Mutant Ninja Turtles 3</title>
 </programme>
 <programme start="20260726190000 +0000" stop="20260726210000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260726233000 +0000" stop="20260727000000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260727000000 +0000" stop="20260727010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260727010000 +0000" stop="20260727013000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
