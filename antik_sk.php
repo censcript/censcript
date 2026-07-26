@@ -466,16 +466,16 @@
   <programme start="20260728210500 +0000" stop="20260728220500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
   </programme>
-  <programme start="20260727211500 +0000" stop="20260727223500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260727212000 +0000" stop="20260727224000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Druhá šanca III (12)</title>
   </programme>
-  <programme start="20260727223500 +0000" stop="20260727232500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260727224000 +0000" stop="20260727233000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XXI (3)</title>
   </programme>
-  <programme start="20260727232500 +0000" stop="20260728000500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260727233000 +0000" stop="20260728001500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XXI (4)</title>
   </programme>
-  <programme start="20260728000500 +0000" stop="20260728011500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260728001500 +0000" stop="20260728011500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
   <programme start="20260728011500 +0000" stop="20260728020000 +0000" channel="Markíza.webtv.sk">
@@ -817,7 +817,7 @@
   <programme start="20260728214000 +0000" stop="20260728230500 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Nikto nie je dokonalý</title>
   </programme>
-  <programme start="20260727215500 +0000" stop="20260727224000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260727220000 +0000" stop="20260727224000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (16)</title>
   </programme>
   <programme start="20260727224000 +0000" stop="20260727232500 +0000" channel="Markíza Klasik.webtv.sk">
@@ -847,25 +847,25 @@
   <programme start="20260728075000 +0000" stop="20260728085000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Pobrežná hliadka I (13)</title>
   </programme>
-  <programme start="20260728085000 +0000" stop="20260728093000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728085000 +0000" stop="20260728093500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (15)</title>
   </programme>
-  <programme start="20260728093000 +0000" stop="20260728101500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728093500 +0000" stop="20260728102000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (16)</title>
   </programme>
-  <programme start="20260728101500 +0000" stop="20260728114000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728102000 +0000" stop="20260728114500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Pozri, kto to hovorí 2</title>
   </programme>
-  <programme start="20260728114000 +0000" stop="20260728123000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728114500 +0000" stop="20260728123500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána VIII (9)</title>
   </programme>
-  <programme start="20260728123000 +0000" stop="20260728131500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728123500 +0000" stop="20260728132000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána VIII (10)</title>
   </programme>
-  <programme start="20260728131500 +0000" stop="20260728141000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728132000 +0000" stop="20260728141500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Pobrežná hliadka I (14)</title>
   </programme>
-  <programme start="20260728141000 +0000" stop="20260728150500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728141500 +0000" stop="20260728150500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Pobrežná hliadka I (15)</title>
   </programme>
   <programme start="20260728150500 +0000" stop="20260728160000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -877,19 +877,19 @@
   <programme start="20260728165000 +0000" stop="20260728174000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (17)</title>
   </programme>
-  <programme start="20260728174000 +0000" stop="20260728183000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728174000 +0000" stop="20260728182500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (18)</title>
   </programme>
-  <programme start="20260728183000 +0000" stop="20260728190000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728182500 +0000" stop="20260728190000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H VI (14)</title>
   </programme>
-  <programme start="20260728190000 +0000" stop="20260728212000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728190000 +0000" stop="20260728211500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Vesmírni kovboji</title>
   </programme>
-  <programme start="20260728212000 +0000" stop="20260728215500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728211500 +0000" stop="20260728215500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H VI (13)</title>
   </programme>
-  <programme start="20260728215500 +0000" stop="20260728224000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260728215500 +0000" stop="20260728223500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (17)</title>
   </programme>
   <programme start="20260727215000 +0000" stop="20260727231500 +0000" channel="DajTo.webtv.sk">
@@ -1240,10 +1240,10 @@
   <programme start="20260728205500 +0000" stop="20260728230000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Rallye smrti 2</title>
   </programme>
-  <programme start="20260727195000 +0000" stop="20260727220500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260727195500 +0000" stop="20260727221000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260727220500 +0000" stop="20260728002000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260727221000 +0000" stop="20260728002000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20260728002000 +0000" stop="20260728023500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1255,31 +1255,31 @@
   <programme start="20260728044500 +0000" stop="20260728073500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260728073500 +0000" stop="20260728101500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260728073500 +0000" stop="20260728100500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Európska liga ženy</title>
   </programme>
-  <programme start="20260728101500 +0000" stop="20260728122500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260728100500 +0000" stop="20260728122000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Gold Continental Tour</title>
   </programme>
-  <programme start="20260728122500 +0000" stop="20260728133500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260728122000 +0000" stop="20260728133000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260728133500 +0000" stop="20260728154500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260728133000 +0000" stop="20260728154000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260728154500 +0000" stop="20260728184000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260728154000 +0000" stop="20260728184000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260728184000 +0000" stop="20260728211000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260728184000 +0000" stop="20260728213000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260728211000 +0000" stop="20260728231000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260728213000 +0000" stop="20260728233000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">U18 Eurobasket 2026</title>
   </programme>
-  <programme start="20260727203000 +0000" stop="20260727225500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727211000 +0000" stop="20260727233000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260727225500 +0000" stop="20260728010000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260727233000 +0000" stop="20260728010000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260728010000 +0000" stop="20260728032000 +0000" channel="JOJ Šport 2.webtv.sk">
