@@ -2845,14 +2845,8 @@
   <programme start="20260727220000 +0000" stop="20260728080000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260728080000 +0000" stop="20260728103000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">DOPOLEDNÍ DECHOVKA</title>
-  </programme>
-  <programme start="20260728103000 +0000" stop="20260728140000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260728103000 +0000" stop="20260728120000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
-  </programme>
-  <programme start="20260728140000 +0000" stop="20260728190000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">DOPOLEDNÍ DECHOVKA</title>
   </programme>
   <programme start="20260728190000 +0000" stop="20260728220000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
