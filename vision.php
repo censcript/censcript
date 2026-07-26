@@ -805,9 +805,6 @@
 <programme start="20260726110000 +0000" stop="20260726130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260726130000 +0000" stop="20260726140000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
-</programme>
 <programme start="20260726140000 +0000" stop="20260726150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260726200000 +0000" stop="20260726204500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260726204500 +0000" stop="20260726210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

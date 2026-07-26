@@ -2203,16 +2203,10 @@
     <programme start="20260726020000 +0000" stop="20260726050000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FN17: Prelims: Ankalaev vs Guskov (JIP)</title>
     </programme>
-    <programme start="20260726050000 +0000" stop="20260726100000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260726050000 +0000" stop="20260726115600 +0000" channel="Hub Sports 2 HD.starhub">
         <title>VICTOR China Open (S1000) Finals</title>
     </programme>
-    <programme start="20260726100000 +0000" stop="20260726103000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#1374</title>
-    </programme>
-    <programme start="20260726103000 +0000" stop="20260726110000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#598</title>
-    </programme>
-    <programme start="20260726110000 +0000" stop="20260726130000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260726115600 +0000" stop="20260726130000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Liverpool vs Sunderland</title>
     </programme>
     <programme start="20260726130000 +0000" stop="20260726160000 +0000" channel="Hub Sports 2 HD.starhub">

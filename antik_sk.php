@@ -3862,10 +3862,10 @@
   <programme start="20260728020000 +0000" stop="20260728022500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (19)</title>
   </programme>
-  <programme start="20260728022500 +0000" stop="20260728032000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260728022500 +0000" stop="20260728031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (149)</title>
   </programme>
-  <programme start="20260728032000 +0000" stop="20260728040000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260728031500 +0000" stop="20260728040000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Televizní noviny</title>
   </programme>
   <programme start="20260728040000 +0000" stop="20260728063000 +0000" channel="Nova International.webtv.sk">
@@ -6716,106 +6716,109 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260728023000 +0000" stop="20260728030000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá dr.h.c. prof. MUDr. Ján breza, drsc., mha, mph</title>
+    <title lang="id">Prečo je dobré rozumieť zmluvám</title>
   </programme>
   <programme start="20260728030000 +0000" stop="20260728033000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prečo sa netreba hanbiť hovoriť o problémoch v urológii</title>
+    <title lang="id">Čo je pôrodnícke násilie a prečo sa o ňom začína viac hovoriť</title>
   </programme>
   <programme start="20260728033000 +0000" stop="20260728040000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prevencia a rakovina prsníka</title>
+    <title lang="id">F32 - f22 depresia</title>
   </programme>
-  <programme start="20260728040000 +0000" stop="20260728050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Horúčka – pomocník alebo nepriateľ?</title>
+  <programme start="20260728040000 +0000" stop="20260728043000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">O menopauze s MUDr. Zuzanou kosibovou o stigme menom menopauza</title>
   </programme>
-  <programme start="20260728050000 +0000" stop="20260728055000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Závažné ochorenia mozgu - demencia a alzheimerova choroba 02</title>
+  <programme start="20260728043000 +0000" stop="20260728050000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Bezpečnosť na trampolíne</title>
   </programme>
-  <programme start="20260728055000 +0000" stop="20260728060000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Laserové odstránenie znamienka</title>
+  <programme start="20260728050000 +0000" stop="20260728060000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Úzkosť</title>
   </programme>
   <programme start="20260728060000 +0000" stop="20260728063000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260728063000 +0000" stop="20260728070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prečo je dobré rozumieť zmluvám</title>
+    <title lang="id">Odpovedá dr.h.c. prof. MUDr. Ján breza, drsc., mha, mph</title>
   </programme>
   <programme start="20260728070000 +0000" stop="20260728073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Čo je pôrodnícke násilie a prečo sa o ňom začína viac hovoriť</title>
+    <title lang="id">Prečo sa netreba hanbiť hovoriť o problémoch v urológii</title>
   </programme>
   <programme start="20260728073000 +0000" stop="20260728080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">F32 - f22 depresia</title>
+    <title lang="id">Prevencia a rakovina prsníka</title>
   </programme>
-  <programme start="20260728080000 +0000" stop="20260728083000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze s MUDr. Zuzanou kosibovou o stigme menom menopauza</title>
+  <programme start="20260728080000 +0000" stop="20260728090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Horúčka – pomocník alebo nepriateľ?</title>
   </programme>
-  <programme start="20260728083000 +0000" stop="20260728090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Bezpečnosť na trampolíne</title>
+  <programme start="20260728090000 +0000" stop="20260728095000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Závažné ochorenia mozgu - demencia a alzheimerova choroba 02</title>
   </programme>
-  <programme start="20260728090000 +0000" stop="20260728100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Úzkosť</title>
+  <programme start="20260728095000 +0000" stop="20260728100000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Laserové odstránenie znamienka</title>
   </programme>
   <programme start="20260728100000 +0000" stop="20260728103000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260728103000 +0000" stop="20260728110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá dr.h.c. prof. MUDr. Ján breza, drsc., mha, mph</title>
+    <title lang="id">Život a výživa diabetika 1 typu</title>
   </programme>
   <programme start="20260728110000 +0000" stop="20260728113000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prečo sa netreba hanbiť hovoriť o problémoch v urológii</title>
+    <title lang="id">Psychológia - šikana</title>
   </programme>
   <programme start="20260728113000 +0000" stop="20260728120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Prevencia a rakovina prsníka</title>
+    <title lang="id">Cholesterol</title>
   </programme>
   <programme start="20260728120000 +0000" stop="20260728130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Horúčka – pomocník alebo nepriateľ?</title>
+    <title lang="id">Klinické skúšky: neviditeľná, ale kľúčová sila za modernými liečbami</title>
   </programme>
-  <programme start="20260728130000 +0000" stop="20260728135000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Závažné ochorenia mozgu - demencia a alzheimerova choroba 02</title>
-  </programme>
-  <programme start="20260728135000 +0000" stop="20260728140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Laserové odstránenie znamienka</title>
+  <programme start="20260728130000 +0000" stop="20260728140000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza als: ako nájsť nádej v beznádeji?</title>
   </programme>
   <programme start="20260728140000 +0000" stop="20260728143000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260728143000 +0000" stop="20260728150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Život a výživa diabetika 1 typu</title>
+    <title lang="id">Kelo a plnené bataty + skracovačky</title>
   </programme>
   <programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Psychológia - šikana</title>
+    <title lang="id">Bariatrická chirurgia</title>
   </programme>
   <programme start="20260728153000 +0000" stop="20260728160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cholesterol</title>
+    <title lang="id">Stav hepatológie na slovensku podnietil vznik projektu sirius</title>
   </programme>
-  <programme start="20260728160000 +0000" stop="20260728170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Klinické skúšky: neviditeľná, ale kľúčová sila za modernými liečbami</title>
+  <programme start="20260728160000 +0000" stop="20260728163000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Klinické skúšania</title>
   </programme>
-  <programme start="20260728170000 +0000" stop="20260728180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza als: ako nájsť nádej v beznádeji?</title>
+  <programme start="20260728163000 +0000" stop="20260728170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">So zrakovým postihnutím sa nevyrovnáte, ale naučíte sa s Ním žiť...</title>
+  </programme>
+  <programme start="20260728170000 +0000" stop="20260728175000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Rakovina kože</title>
+  </programme>
+  <programme start="20260728175000 +0000" stop="20260728180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Úrazy v detskom veku</title>
   </programme>
   <programme start="20260728180000 +0000" stop="20260728183000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260728183000 +0000" stop="20260728190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kelo a plnené bataty + skracovačky</title>
+    <title lang="id">V čakačkách na operácie nastal pozitívny vývoj</title>
   </programme>
   <programme start="20260728190000 +0000" stop="20260728193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Bariatrická chirurgia</title>
+    <title lang="id">Ovisnutý kútik a nedovreté oko: ako rozpoznať parézu tvárového nervu u detí</title>
   </programme>
   <programme start="20260728193000 +0000" stop="20260728200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Stav hepatológie na slovensku podnietil vznik projektu sirius</title>
+    <title lang="id">Chorobné hranie</title>
   </programme>
   <programme start="20260728200000 +0000" stop="20260728203000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Klinické skúšania</title>
+    <title lang="id">Nipt - neinvazívne prenatálne testy</title>
   </programme>
   <programme start="20260728203000 +0000" stop="20260728210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">So zrakovým postihnutím sa nevyrovnáte, ale naučíte sa s Ním žiť...</title>
+    <title lang="id">Odpovedá MUDr. František tobiáš</title>
   </programme>
-  <programme start="20260728210000 +0000" stop="20260728215000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Rakovina kože</title>
+  <programme start="20260728210000 +0000" stop="20260728213000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Úloha baktérií pri chronických ranách</title>
   </programme>
-  <programme start="20260728215000 +0000" stop="20260728220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Úrazy v detskom veku</title>
+  <programme start="20260728213000 +0000" stop="20260728220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Mikrobióm a dysbióza</title>
   </programme>
   <programme start="20260727220000 +0000" stop="20260727230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
@@ -16465,11 +16468,11 @@
   <programme start="20260728025500 +0000" stop="20260728030000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260728030000 +0000" stop="20260728031500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
+  <programme start="20260728030000 +0000" stop="20260728035500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Madam Coach</title>
   </programme>
-  <programme start="20260728031500 +0000" stop="20260728040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260728035500 +0000" stop="20260728040000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260728040000 +0000" stop="20260728043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>

@@ -7,10 +7,10 @@
     <programme start="20260725213000 +0000" stop="20260726092000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260726092000 +0000" stop="20260726120000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260726092000 +0000" stop="20260726114300 +0000" channel="Unknown Channel.mewatch">
         <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Heats - 26 July 2026</title>
     </programme>
-    <programme start="20260726120000 +0000" stop="20260726155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260726114300 +0000" stop="20260726155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260726160000 +0000" stop="20260726175000 +0000" channel="Unknown Channel.mewatch">
@@ -22,13 +22,13 @@
     <programme start="20260725204500 +0000" stop="20260726085000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260726085000 +0000" stop="20260726101000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260726085000 +0000" stop="20260726100500 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Pairs Sectional Play - SGP vs IOM</title>
     </programme>
-    <programme start="20260726101000 +0000" stop="20260726105000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260726100500 +0000" stop="20260726105800 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260726105000 +0000" stop="20260726140000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260726105800 +0000" stop="20260726140000 +0000" channel="Unknown Channel.mewatch">
         <title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games Men&#039;s All-Around Final</title>
     </programme>
     <programme start="20260726140000 +0000" stop="20260726155000 +0000" channel="Unknown Channel.mewatch">
