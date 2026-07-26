@@ -7645,47 +7645,41 @@
 <programme start="20260726032800 +0000" stop="20260726033600 +0000" channel="TV5.virginmediatv">
     <title>Tarmac Comedy</title>
 </programme>
-<programme start="20260726033600 +0000" stop="20260726042400 +0000" channel="TV5.virginmediatv">
+<programme start="20260726033600 +0000" stop="20260726040200 +0000" channel="TV5.virginmediatv">
     <title>Wari</title>
 </programme>
-<programme start="20260726042400 +0000" stop="20260726042900 +0000" channel="TV5.virginmediatv">
-    <title>Meteo</title>
+<programme start="20260726040200 +0000" stop="20260726045000 +0000" channel="TV5.virginmediatv">
+    <title>Silence ça pousse ! - Grégoire Wolinski / Villes éponges / Jardins de Chatelaison</title>
 </programme>
-<programme start="20260726042900 +0000" stop="20260726045000 +0000" channel="TV5.virginmediatv">
+<programme start="20260726045000 +0000" stop="20260726045300 +0000" channel="TV5.virginmediatv">
     <title>Télématin</title>
 </programme>
-<programme start="20260726045000 +0000" stop="20260726052900 +0000" channel="TV5.virginmediatv">
-    <title>Télématin</title>
+<programme start="20260726045300 +0000" stop="20260726045800 +0000" channel="TV5.virginmediatv">
+    <title>Klass - Pourquoi tout vient de Chine ?</title>
 </programme>
-<programme start="20260726052900 +0000" stop="20260726060000 +0000" channel="TV5.virginmediatv">
-    <title>Télématin</title>
+<programme start="20260726045800 +0000" stop="20260726060000 +0000" channel="TV5.virginmediatv">
+    <title>Des géants dans ma cité, Royal de Luxe à Bellevue</title>
 </programme>
-<programme start="20260726113000 +0000" stop="20260726120200 +0000" channel="TV5.virginmediatv">
+<programme start="20260726113000 +0000" stop="20260726120100 +0000" channel="TV5.virginmediatv">
     <title>Le Journal de la RTBF</title>
 </programme>
-<programme start="20260726120200 +0000" stop="20260726133400 +0000" channel="TV5.virginmediatv">
-    <title>Ardennes - Toute âme a ses petits secrets</title>
+<programme start="20260726120100 +0000" stop="20260726131800 +0000" channel="TV5.virginmediatv">
+    <title>2 G</title>
 </programme>
-<programme start="20260726133400 +0000" stop="20260726140000 +0000" channel="TV5.virginmediatv">
-    <title>Tendance XXI - Special: Fashion Shows</title>
+<programme start="20260726131800 +0000" stop="20260726134900 +0000" channel="TV5.virginmediatv">
+    <title>Matière grise - Episode 2</title>
 </programme>
-<programme start="20260726140000 +0000" stop="20260726141200 +0000" channel="TV5.virginmediatv">
-    <title>Woolly Woolly - Backwards Bother</title>
+<programme start="20260726134900 +0000" stop="20260726143100 +0000" channel="TV5.virginmediatv">
+    <title>Tu bluffes</title>
 </programme>
-<programme start="20260726141200 +0000" stop="20260726142400 +0000" channel="TV5.virginmediatv">
-    <title>Le refuge d&#039;Audrey - Un invité turbulent</title>
+<programme start="20260726143100 +0000" stop="20260726150400 +0000" channel="TV5.virginmediatv">
+    <title>Questions pour un champion</title>
 </programme>
-<programme start="20260726142400 +0000" stop="20260726144500 +0000" channel="TV5.virginmediatv">
-    <title>Premier trio - La finale</title>
+<programme start="20260726150400 +0000" stop="20260726155200 +0000" channel="TV5.virginmediatv">
+    <title>Skate le monde - Canada&#039;s West Coast</title>
 </programme>
-<programme start="20260726144500 +0000" stop="20260726150600 +0000" channel="TV5.virginmediatv">
-    <title>Compostman et moi - Poulette</title>
-</programme>
-<programme start="20260726150600 +0000" stop="20260726153300 +0000" channel="TV5.virginmediatv">
-    <title>Ramdam</title>
-</programme>
-<programme start="20260726153300 +0000" stop="20260726160000 +0000" channel="TV5.virginmediatv">
-    <title>Maghreb-Orient-Express - Episode 34</title>
+<programme start="20260726155200 +0000" stop="20260726160000 +0000" channel="TV5.virginmediatv">
+    <title>Voyages vert vous - Bali et îles Gili: artisanat et préservation des océans</title>
 </programme>
 <programme start="20260726160000 +0000" stop="20260726162700 +0000" channel="TV5.virginmediatv">
     <title>64&#039; actu</title>
@@ -7694,19 +7688,16 @@
     <title>Meteo</title>
 </programme>
 <programme start="20260726163000 +0000" stop="20260726165300 +0000" channel="TV5.virginmediatv">
-    <title>Allons-y Franco !</title>
+    <title>64&#039; débat</title>
 </programme>
 <programme start="20260726165300 +0000" stop="20260726170100 +0000" channel="TV5.virginmediatv">
     <title>L&#039;invité</title>
 </programme>
-<programme start="20260726170100 +0000" stop="20260726172300 +0000" channel="TV5.virginmediatv">
-    <title>Un si grand soleil - Episode 29</title>
+<programme start="20260726170100 +0000" stop="20260726174800 +0000" channel="TV5.virginmediatv">
+    <title>Jeunesses ! - Episode 1</title>
 </programme>
-<programme start="20260726172300 +0000" stop="20260726174600 +0000" channel="TV5.virginmediatv">
-    <title>Un si grand soleil - Episode 31</title>
-</programme>
-<programme start="20260726174600 +0000" stop="20260726180000 +0000" channel="TV5.virginmediatv">
-    <title>Maestro ! - Episode 10</title>
+<programme start="20260726174800 +0000" stop="20260726180000 +0000" channel="TV5.virginmediatv">
+    <title>Maestro ! - La Traviata</title>
 </programme>
 <programme start="20260725210000 +0000" stop="20260726010000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>

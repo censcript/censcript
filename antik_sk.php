@@ -3313,7 +3313,7 @@
   <programme start="20260728213000 +0000" stop="20260728230000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Klub vyšetřovatelek z Marlow I (1/2)</title>
   </programme>
-  <programme start="20260727210800 +0000" stop="20260727221000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260727210600 +0000" stop="20260727221000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vězeň (4/6)</title>
   </programme>
   <programme start="20260727221000 +0000" stop="20260727223600 +0000" channel="ČT2.webtv.sk">
@@ -4348,7 +4348,7 @@
   <programme start="20260728210500 +0000" stop="20260728220500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (53)</title>
   </programme>
-  <programme start="20260727214000 +0000" stop="20260727222500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260727214500 +0000" stop="20260727222500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVII (6)</title>
   </programme>
   <programme start="20260727222500 +0000" stop="20260727230500 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -4357,10 +4357,10 @@
   <programme start="20260727230500 +0000" stop="20260727234500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVII (4)</title>
   </programme>
-  <programme start="20260727234500 +0000" stop="20260728002500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260727234500 +0000" stop="20260728003000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVI (19)</title>
   </programme>
-  <programme start="20260728002500 +0000" stop="20260728011000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260728003000 +0000" stop="20260728011000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVI (20)</title>
   </programme>
   <programme start="20260728011000 +0000" stop="20260728015000 +0000" channel="Prima Krimi SK.webtv.sk">
