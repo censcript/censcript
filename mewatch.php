@@ -187,11 +187,11 @@
     <programme start="20260726130000 +0000" stop="20260726133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260726133000 +0000" stop="20260726160000 +0000" channel="Channel 5.mewatch">
-        <title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games: Men&#039;s Individual All-Around Final</title>
+    <programme start="20260726133000 +0000" stop="20260726150000 +0000" channel="Channel 5.mewatch">
+        <title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games: Men&#039;s All-Around Final</title>
     </programme>
-    <programme start="20260726160000 +0000" stop="20260726163000 +0000" channel="Channel 5.mewatch">
-        <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Heats - 26 July 2026</title>
+    <programme start="20260726150000 +0000" stop="20260726170000 +0000" channel="Channel 5.mewatch">
+        <title>Weightlifting - Glasgow 2026 Commonwealth Games: Men&#039;s 60kg Final</title>
     </programme>
     <programme start="20260725143000 +0000" stop="20260725170000 +0000" channel="Channel 8.mewatch">
         <title>King of Hawkers</title>
