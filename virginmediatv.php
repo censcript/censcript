@@ -2243,7 +2243,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260726123000 +0000" stop="20260726130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Media Show</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260726130000 +0000" stop="20260726133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -7648,11 +7648,8 @@
 <programme start="20260726033600 +0000" stop="20260726040200 +0000" channel="TV5.virginmediatv">
     <title>Wari</title>
 </programme>
-<programme start="20260726040200 +0000" stop="20260726045000 +0000" channel="TV5.virginmediatv">
+<programme start="20260726040200 +0000" stop="20260726045300 +0000" channel="TV5.virginmediatv">
     <title>Silence ça pousse ! - Grégoire Wolinski / Villes éponges / Jardins de Chatelaison</title>
-</programme>
-<programme start="20260726045000 +0000" stop="20260726045300 +0000" channel="TV5.virginmediatv">
-    <title>Télématin</title>
 </programme>
 <programme start="20260726045300 +0000" stop="20260726045800 +0000" channel="TV5.virginmediatv">
     <title>Klass - Pourquoi tout vient de Chine ?</title>
