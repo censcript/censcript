@@ -50,52 +50,107 @@
     <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
     <category lang="en">Sports</category>
   </programme>
+  <programme start="20260727053000 +0000" stop="20260727093000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) France vs England: FIFA World Cup™ 2026 Third Place (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727093000 +0000" stop="20260727100000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 13 - Monterrey : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727100000 +0000" stop="20260727103000 +0000" channel="fifa1.unifitv">
+    <title lang="en">EP 14 - San Francisco : FIFA World Cup™ 26: Stories From the Cities</title>
+    <desc lang="en">FIFA World Cup™ 26: Stories From the Cities is a 16-episode documentary series exploring the cultural grassroots, history, and community dimensions of football across the 16 North American host cities. Hosted by Jenny Chiu and various local experts, it spotlights the unique "soccer soul" of each location</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727103000 +0000" stop="20260727163000 +0000" channel="fifa1.unifitv">
+    <title lang="en">(R) Spain vs Argentina: FIFA World Cup™ 2026 Final (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
   <channel id="fifa2.unifitv">
     <display-name>Unifi FIFA World Cup 2026™ 2</display-name>
   </channel>
   <programme start="20260726123000 +0000" stop="20260726170000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026 Round of 32</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260726170000 +0000" stop="20260726173000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">EP 11 : Preview FIFA World Cup™ 2026</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260726173000 +0000" stop="20260726180000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 12 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">EP 12 : Preview FIFA World Cup™ 2026</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260726180000 +0000" stop="20260726223000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Netherlands vs Morocco : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">(R) Netherlands vs Morocco : FIFA World Cup™ 2026 Round of 32</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260726223000 +0000" stop="20260726230000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 1 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">EP 1 : Preview FIFA World Cup™ 2026</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260726230000 +0000" stop="20260727000000 +0000" channel="fifa2.unifitv">
     <title lang="en">EP 2 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">EP 2 : Preview FIFA World Cup™ 2026</desc>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260727000000 +0000" stop="20260727043000 +0000" channel="fifa2.unifitv">
     <title lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026 Round of 32</title>
-    <desc lang="en">(R) Germany vs Paraguay : FIFA World Cup™ 2026 Round of 32</desc>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260727043000 +0000" stop="20260727050000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">EP 11 : Preview FIFA World Cup™ 2026</desc>
+    <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260727050000 +0000" stop="20260727053000 +0000" channel="fifa2.unifitv">
-    <title lang="en">EP 12 : Preview FIFA World Cup™ 2026</title>
-    <desc lang="en">EP 12 : Preview FIFA World Cup™ 2026</desc>
+    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727053000 +0000" stop="20260727090000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727090000 +0000" stop="20260727093000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727093000 +0000" stop="20260727100000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727100000 +0000" stop="20260727133000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) England vs Argentina: FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727133000 +0000" stop="20260727140000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 3 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727140000 +0000" stop="20260727143000 +0000" channel="fifa2.unifitv">
+    <title lang="en">EP 4 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 team preparation for the tournament</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727143000 +0000" stop="20260727180000 +0000" channel="fifa2.unifitv">
+    <title lang="en">(R) France vs Spain : FIFA World Cup™ 2026 Semi-Finals (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="fifa3.unifitv">
@@ -106,14 +161,79 @@
     <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260726190000 +0000" stop="20260727074000 +0000" channel="fifa3.unifitv">
+  <programme start="20260726190000 +0000" stop="20260726193000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 7 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260727074000 +0000" stop="20260727081000 +0000" channel="fifa3.unifitv">
+  <programme start="20260726193000 +0000" stop="20260726200000 +0000" channel="fifa3.unifitv">
     <title lang="en">EP 8 : Preview FIFA World Cup™ 2026</title>
     <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726200000 +0000" stop="20260727003000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) Norway vs England : FIFA World Cup™ 2026 Quarter-Final (BI Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727003000 +0000" stop="20260727010000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 9 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727010000 +0000" stop="20260727013000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 10 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727013000 +0000" stop="20260727060000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) Argentina vs Switzerland : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727060000 +0000" stop="20260727063000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727063000 +0000" stop="20260727070000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 12 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727070000 +0000" stop="20260727103000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) France vs Morocco : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727103000 +0000" stop="20260727110000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727110000 +0000" stop="20260727113000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 12 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727113000 +0000" stop="20260727150000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) Spain vs Belgium : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727150000 +0000" stop="20260727153000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 11 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="fifa3.unifitv">
+    <title lang="en">EP 12 : Preview FIFA World Cup™ 2026</title>
+    <desc lang="en">Preview FIFA World Cup™ 2026 actions</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727160000 +0000" stop="20260727193000 +0000" channel="fifa3.unifitv">
+    <title lang="en">(R) France vs Morocco : FIFA World Cup™ 2026 Quarter-Final (BM Grandstand)</title>
+    <desc lang="en">The FIFA World Cup™ 2026 delivers the biggest edition in history, uniting 48 teams across 16 host cities in the USA, Canada, and Mexico.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
