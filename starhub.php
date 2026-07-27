@@ -3655,17 +3655,14 @@
     <programme start="20260726230000 +0000" stop="20260726231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 86</title>
     </programme>
-    <programme start="20260726231500 +0000" stop="20260727005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+    <programme start="20260726235500 +0000" stop="20260727000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
     </programme>
-    <programme start="20260727005400 +0000" stop="20260727005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20260727005500 +0000" stop="20260727010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
+    <programme start="20260727000000 +0000" stop="20260727010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Somewhere Street (R)</title>
     </programme>
     <programme start="20260727010000 +0000" stop="20260727010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
+        <title>Mini Program</title>
     </programme>
     <programme start="20260727010500 +0000" stop="20260727015100 +0000" channel="NHK World Premium HD.starhub">
         <title>Project X: The Challengers-New Beginnings &quot;A Location-Based Mobile Game&quot; (R)</title>
@@ -3739,17 +3736,11 @@
     <programme start="20260727085900 +0000" stop="20260727090000 +0000" channel="NHK World Premium HD.starhub">
         <title>1-Minute Anime: Songs for SDGs</title>
     </programme>
-    <programme start="20260727090000 +0000" stop="20260727091000 +0000" channel="NHK World Premium HD.starhub">
-        <title>News (B)</title>
+    <programme start="20260727090000 +0000" stop="20260727093000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
     </programme>
-    <programme start="20260727091000 +0000" stop="20260727092500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Kid&#039;s Discovery</title>
-    </programme>
-    <programme start="20260727092500 +0000" stop="20260727095500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260727093000 +0000" stop="20260727100000 +0000" channel="NHK World Premium HD.starhub">
         <title>Nyan-chu! Space! Broadcasting! (R)</title>
-    </programme>
-    <programme start="20260727095500 +0000" stop="20260727100000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
     </programme>
     <programme start="20260727100000 +0000" stop="20260727103000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 7 (B)</title>
@@ -7924,7 +7915,7 @@
     <programme start="20260727141900 +0000" stop="20260727144400 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260727144400 +0000" stop="20260727160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260727144400 +0000" stop="20260727170000 +0000" channel="Dragon TV.starhub">
         <title>Overtime No More</title>
     </programme>
     <programme start="20260726160000 +0000" stop="20260726163000 +0000" channel="Travelxp HD.starhub">

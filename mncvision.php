@@ -6799,14 +6799,11 @@
 <programme start="20260727090000 +0000" stop="20260727091000 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-<programme start="20260727091000 +0000" stop="20260727092500 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260727091000 +0000" stop="20260727093000 +0000" channel="NHK World Premium.mncvision">
     <title>Kid&#039;s Discovery</title>
 </programme>
-<programme start="20260727092500 +0000" stop="20260727095500 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260727093000 +0000" stop="20260727100000 +0000" channel="NHK World Premium.mncvision">
     <title>Nyan-Chu! Space! Broadcasting!</title>
-</programme>
-<programme start="20260727095500 +0000" stop="20260727100000 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
 </programme>
 <programme start="20260727100000 +0000" stop="20260727103000 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News 7</title>
@@ -6814,8 +6811,11 @@
 <programme start="20260727103000 +0000" stop="20260727105700 +0000" channel="NHK World Premium.mncvision">
     <title>Today&#039;s Close-Up</title>
 </programme>
-<programme start="20260727105700 +0000" stop="20260727112700 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260727105700 +0000" stop="20260727114300 +0000" channel="NHK World Premium.mncvision">
     <title>Tsurube&#039;s Salute To Families</title>
+</programme>
+<programme start="20260727114300 +0000" stop="20260727121300 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
 </programme>
 <programme start="20260726170000 +0000" stop="20260726172500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Santiago Of The Seas</title>

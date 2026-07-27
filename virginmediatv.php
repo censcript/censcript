@@ -133,10 +133,10 @@
 <programme start="20260727001000 +0000" stop="20260727005500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Hell&#039;s Kitchen USA - Episode 4</title>
 </programme>
-<programme start="20260727005500 +0000" stop="20260727012300 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260727005500 +0000" stop="20260727012500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Dubai Hustle - Sand Storm</title>
 </programme>
-<programme start="20260727012300 +0000" stop="20260727060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260727012500 +0000" stop="20260727060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260727120000 +0000" stop="20260727123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -4076,7 +4076,7 @@
     <title>The Hundred - Women&#039;s: Welsh Fire v MI London</title>
 </programme>
 <programme start="20260727124500 +0000" stop="20260727130000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Women&#039;s: Manchester Super Giants v Birmingham Phoenix</title>
+    <title>The Hundred - Women&#039;s: Southern Brave v Welsh Fire</title>
 </programme>
 <programme start="20260727130000 +0000" stop="20260727131500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Women&#039;s: Trent Rockets v London Spirit</title>
@@ -4886,7 +4886,7 @@
     <title>The Hundred - Women&#039;s: Welsh Fire v MI London</title>
 </programme>
 <programme start="20260727124500 +0000" stop="20260727130000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Women&#039;s: Manchester Super Giants v Birmingham Phoenix</title>
+    <title>The Hundred - Women&#039;s: Southern Brave v Welsh Fire</title>
 </programme>
 <programme start="20260727130000 +0000" stop="20260727131500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Women&#039;s: Trent Rockets v London Spirit</title>
@@ -6899,10 +6899,10 @@
     <title>The Wonderfully Weird World of Gumball - The Distance; The Butts; The Thing; The Cheerleader</title>
 </programme>
 <programme start="20260727140000 +0000" stop="20260727143000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Amazing World of Gumball - The Future; The Ex</title>
+    <title>Gumball: Best of Banana Joe - The Ex; The Future</title>
 </programme>
 <programme start="20260727143000 +0000" stop="20260727150000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Amazing World of Gumball - The Drama; The Ghouls</title>
+    <title>Gumball: Best of Carrie - The Drama; The Ghouls</title>
 </programme>
 <programme start="20260727150000 +0000" stop="20260727160000 +0000" channel="Cartoon_Network.virginmediatv">
     <title>The Amazing World of Gumball - The Hero; The Photo; The Tag; The Lesson</title>

@@ -279,12 +279,12 @@
     <desc lang="en">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260727080000 +0000" stop="20260727120000 +0000" channel="spotv.unifitv">
+  <programme start="20260727080000 +0000" stop="20260727112000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WTCS, London - Women's and Men's Race</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
     <category lang="en">Triathlon</category>
   </programme>
-  <programme start="20260727120000 +0000" stop="20260727173000 +0000" channel="spotv.unifitv">
+  <programme start="20260727112000 +0000" stop="20260727173000 +0000" channel="spotv.unifitv">
     <title lang="en">ISPS HANDA Senior Open 2026 - Final Round</title>
     <desc lang="en">Golf's leading senior players compete for one of the most prestigious titles in the over-50 game, showcasing experience, skill, and championship excellence on the international stage.</desc>
     <category lang="en">Golf</category>
@@ -1470,17 +1470,17 @@
     <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20260727074000 +0000" stop="20260727120000 +0000" channel="spotv2.unifitv">
+  <programme start="20260727074000 +0000" stop="20260727121000 +0000" channel="spotv2.unifitv">
     <title lang="en">The Championships, Wimbledon 2026 - Day 10 Quarterfinals (No.1 Court)</title>
     <desc lang="en">Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20260727120000 +0000" stop="20260727130000 +0000" channel="spotv2.unifitv">
+  <programme start="20260727121000 +0000" stop="20260727130000 +0000" channel="spotv2.unifitv">
     <title lang="en">Faultless - Ep 1</title>
     <desc lang="en">An exclusive documentary series following the world's top show jumpers and their horses, revealing the trust, sacrifice, and determination behind the pursuit of excellence at the sport's biggest events.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20260727130000 +0000" stop="20260727163000 +0000" channel="spotv2.unifitv">
+  <programme start="20260727130000 +0000" stop="20260727170000 +0000" channel="spotv2.unifitv">
     <title lang="en">WTT Star Contender Sao Jose dos Campos 2026 - Day 4 Session 1</title>
     <desc lang="en">Emerging top table tennis players compete for vital ranking points and the opportunity to take the next step toward the WTT Champions Series.</desc>
     <category lang="en">Table Tennis</category>
