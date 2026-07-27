@@ -76,11 +76,8 @@
 <programme start="20260727170000 +0000" stop="20260727170100 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Angelus - Bolinree, Roscommon</title>
 </programme>
-<programme start="20260727170100 +0000" stop="20260727173000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260727170100 +0000" stop="20260727180000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News: Six One</title>
-</programme>
-<programme start="20260727173000 +0000" stop="20260727180000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Reeling in the Years - 1984</title>
 </programme>
 <programme start="20260726233000 +0000" stop="20260727003000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Hunting Wives - Cheat Day</title>
