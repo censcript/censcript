@@ -5908,11 +5908,14 @@
 <programme start="20260727060000 +0000" stop="20260727073000 +0000" channel="MDTV.mncvision">
     <title>Makan Enak</title>
 </programme>
-<programme start="20260727073000 +0000" stop="20260727090000 +0000" channel="MDTV.mncvision">
+<programme start="20260727073000 +0000" stop="20260727082500 +0000" channel="MDTV.mncvision">
     <title>Laper Mata</title>
 </programme>
-<programme start="20260727090000 +0000" stop="20260727103000 +0000" channel="MDTV.mncvision">
+<programme start="20260727082500 +0000" stop="20260727093000 +0000" channel="MDTV.mncvision">
     <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260727093000 +0000" stop="20260727103000 +0000" channel="MDTV.mncvision">
+    <title>Main Drama Casting</title>
 </programme>
 <programme start="20260727103000 +0000" stop="20260727123000 +0000" channel="MDTV.mncvision">
     <title>Carita de �ngel</title>
@@ -8500,13 +8503,13 @@
 <programme start="20260727060000 +0000" stop="20260727080000 +0000" channel="SPOTV.mncvision">
     <title>2026 LIV Golf League: U.K.</title>
 </programme>
-<programme start="20260727080000 +0000" stop="20260727120000 +0000" channel="SPOTV.mncvision">
+<programme start="20260727080000 +0000" stop="20260727112000 +0000" channel="SPOTV.mncvision">
     <title>2026 WTCS: London</title>
 </programme>
-<programme start="20260727120000 +0000" stop="20260727150000 +0000" channel="SPOTV.mncvision">
+<programme start="20260727112000 +0000" stop="20260727142000 +0000" channel="SPOTV.mncvision">
     <title>ISPS Handa Senior Open 2026</title>
 </programme>
-<programme start="20260727150000 +0000" stop="20260727153000 +0000" channel="SPOTV.mncvision">
+<programme start="20260727142000 +0000" stop="20260727145000 +0000" channel="SPOTV.mncvision">
     <title>ISPS Handa Senior Open 2026</title>
 </programme>
 <programme start="20260726170000 +0000" stop="20260726213000 +0000" channel="SPOTV 2.mncvision">
@@ -8524,17 +8527,14 @@
 <programme start="20260727024500 +0000" stop="20260727074000 +0000" channel="SPOTV 2.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
 </programme>
-<programme start="20260727074000 +0000" stop="20260727120000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260727074000 +0000" stop="20260727121000 +0000" channel="SPOTV 2.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
 </programme>
-<programme start="20260727120000 +0000" stop="20260727130000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260727121000 +0000" stop="20260727130000 +0000" channel="SPOTV 2.mncvision">
     <title>Faultless, Ep 1</title>
 </programme>
-<programme start="20260727130000 +0000" stop="20260727163000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260727130000 +0000" stop="20260727133000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Star Contender Sao Jose</title>
-</programme>
-<programme start="20260727163000 +0000" stop="20260726170000 +0000" channel="SPOTV 2.mncvision">
-    <title>Longines Global Champions Tour</title>
 </programme>
 <programme start="20260726170000 +0000" stop="20260726213000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>NASCAR Brickyard 400 (L)</title>
@@ -8551,17 +8551,14 @@
 <programme start="20260727024500 +0000" stop="20260727074000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
 </programme>
-<programme start="20260727074000 +0000" stop="20260727120000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260727074000 +0000" stop="20260727121000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>The C&#039;ships, Wimbledon 2026</title>
 </programme>
-<programme start="20260727120000 +0000" stop="20260727130000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260727121000 +0000" stop="20260727130000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Faultless, Ep 1</title>
 </programme>
-<programme start="20260727130000 +0000" stop="20260727163000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260727130000 +0000" stop="20260727133000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Star Contender Sao Jose</title>
-</programme>
-<programme start="20260727163000 +0000" stop="20260726170000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Longines Global Champions Tour</title>
 </programme>
 <programme start="20260726170000 +0000" stop="20260726180000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WSL Inside Pro Surfing</title>
@@ -8587,13 +8584,13 @@
 <programme start="20260727060000 +0000" stop="20260727080000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 LIV Golf League: U.K.</title>
 </programme>
-<programme start="20260727080000 +0000" stop="20260727120000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260727080000 +0000" stop="20260727112000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WTCS: London</title>
 </programme>
-<programme start="20260727120000 +0000" stop="20260727150000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260727112000 +0000" stop="20260727142000 +0000" channel="SPOTV HD.mncvision">
     <title>ISPS Handa Senior Open 2026</title>
 </programme>
-<programme start="20260727150000 +0000" stop="20260727153000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260727142000 +0000" stop="20260727145000 +0000" channel="SPOTV HD.mncvision">
     <title>ISPS Handa Senior Open 2026</title>
 </programme>
 <programme start="20260726185000 +0000" stop="20260726210500 +0000" channel="Studio Universal.mncvision">

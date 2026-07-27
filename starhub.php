@@ -4972,10 +4972,10 @@
     <programme start="20260727030000 +0000" stop="20260727080000 +0000" channel="SPOTV.starhub">
         <title>Round 4</title>
     </programme>
-    <programme start="20260727080000 +0000" stop="20260727120000 +0000" channel="SPOTV.starhub">
+    <programme start="20260727080000 +0000" stop="20260727112000 +0000" channel="SPOTV.starhub">
         <title>Women&#039;s and Men&#039;s Race</title>
     </programme>
-    <programme start="20260727120000 +0000" stop="20260727173000 +0000" channel="SPOTV.starhub">
+    <programme start="20260727112000 +0000" stop="20260727173000 +0000" channel="SPOTV.starhub">
         <title>Final Round</title>
     </programme>
     <programme start="20260726154500 +0000" stop="20260726171500 +0000" channel="KBS World HD.starhub">
@@ -7834,13 +7834,13 @@
     <programme start="20260727024500 +0000" stop="20260727074000 +0000" channel="SPOTV2.starhub">
         <title>Day 9 Quarterfinals (No.1 Court)</title>
     </programme>
-    <programme start="20260727074000 +0000" stop="20260727120000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260727074000 +0000" stop="20260727121000 +0000" channel="SPOTV2.starhub">
         <title>Day 10 Quarterfinals (No.1 Court)</title>
     </programme>
-    <programme start="20260727120000 +0000" stop="20260727130000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260727121000 +0000" stop="20260727130000 +0000" channel="SPOTV2.starhub">
         <title>Faultless</title>
     </programme>
-    <programme start="20260727130000 +0000" stop="20260727163000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260727130000 +0000" stop="20260727170000 +0000" channel="SPOTV2.starhub">
         <title>Day 4 Session 1</title>
     </programme>
     <programme start="20260726160000 +0000" stop="20260726170700 +0000" channel="Dragon TV.starhub">

@@ -2970,14 +2970,21 @@
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <episode-num system="onscreen">S3E7</episode-num>
   </programme>
-  <programme start="20260726233000 +0000" stop="20260727010000 +0000" channel="didiktv.unifitv">
-    <title lang="en">PROGRAM KHAS 2026</title>
-    <desc lang="en">Perhimpunan Bulanan KPM.</desc>
+  <programme start="20260726233000 +0000" stop="20260727000000 +0000" channel="didiktv.unifitv">
+    <title lang="en">KESENIAN 24/25</title>
+    <desc lang="en">Program ini menyediakan pelbagai kemahiran dalam kesenian membabitkan elemen seperti nyanyian, seni tari dan seni visual yang memainkan peranan penting dalam pembangunan sahsiah murid.</desc>
     <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260727010000 +0000" stop="20260727020000 +0000" channel="didiktv.unifitv">
+  <programme start="20260727000000 +0000" stop="20260727013000 +0000" channel="didiktv.unifitv">
+    <title lang="en">PECUTAN 2022 Q3 Q4</title>
+    <desc lang="en">Episod ini menyediakan perkongsian teknik menjawab soalan peperiksaan Sijil Pelajaran Malaysia (SPM) 2021 dan penekanantopik-topik penting dalam Kertas 1 merangkumi empat bidang utama yang berkemungkinan diajukan dalam peperiksaan SPM sebenar.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260727013000 +0000" stop="20260727020000 +0000" channel="didiktv.unifitv">
     <title lang="en">MENENGAH ATAS 2022</title>
     <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
     <category lang="en">Education</category>

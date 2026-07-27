@@ -19,10 +19,10 @@
     <programme start="20260726155000 +0000" stop="20260726201200 +0000" channel="Unknown Channel.mewatch">
         <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Preliminary Round</title>
     </programme>
-    <programme start="20260726201200 +0000" stop="20260727075000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260726201200 +0000" stop="20260727080400 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260727075000 +0000" stop="20260727103000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260727080400 +0000" stop="20260727103000 +0000" channel="Unknown Channel.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games Men&#039;s 71kg Final</title>
     </programme>
     <programme start="20260727103000 +0000" stop="20260727115000 +0000" channel="Unknown Channel.mewatch">
@@ -91,8 +91,14 @@
     <programme start="20260726150000 +0000" stop="20260726170000 +0000" channel="Channel 5.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games: Men&#039;s 60kg Final</title>
     </programme>
-    <programme start="20260726170000 +0000" stop="20260726210000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260726170000 +0000" stop="20260726200000 +0000" channel="Channel 5.mewatch">
         <title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games: Women&#039;s All-Around Final</title>
+    </programme>
+    <programme start="20260726200000 +0000" stop="20260726203100 +0000" channel="Channel 5.mewatch">
+        <title>Planet Action S4 - EP 1</title>
+    </programme>
+    <programme start="20260726203100 +0000" stop="20260726210000 +0000" channel="Channel 5.mewatch">
+        <title>Famous Foodies S3 - EP 1</title>
     </programme>
     <programme start="20260726210000 +0000" stop="20260726220000 +0000" channel="Channel 5.mewatch">
         <title>Junior Bake Off S8 - EP 14</title>
@@ -787,25 +793,25 @@
     <programme start="20260727160000 +0000" stop="20260728160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260726160000 +0000" stop="20260727110000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 27 July, Monday 7.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260726160000 +0000" stop="20260727103400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 27 July, Monday 6.34pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260727110000 +0000" stop="20260727130000 +0000" channel="Live 5.mewatch">
+    <programme start="20260727103400 +0000" stop="20260727132000 +0000" channel="Live 5.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Singapore vs Timor-Leste</title>
     </programme>
-    <programme start="20260727130000 +0000" stop="20260727160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260727132000 +0000" stop="20260727160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28 July, Tuesday 6.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260727160000 +0000" stop="20260728100000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 28 July, Tuesday 6.00pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260726160000 +0000" stop="20260727133000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 27 July, Monday 9.30pm. Hyundai Cup 2026 </title>
+    <programme start="20260726160000 +0000" stop="20260727131000 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 27 July, Monday 9.10pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260727133000 +0000" stop="20260727153000 +0000" channel="Live 6.mewatch">
+    <programme start="20260727131000 +0000" stop="20260727155000 +0000" channel="Live 6.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Indonesia vs Cambodia</title>
     </programme>
-    <programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="Live 6.mewatch">
+    <programme start="20260727155000 +0000" stop="20260727160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 28 July, Tuesday 9.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260727160000 +0000" stop="20260728130000 +0000" channel="Live 6.mewatch">

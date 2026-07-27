@@ -4288,23 +4288,17 @@
 <programme start="20260727170000 +0000" stop="20260727180000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Tennis: ATP Generali Open 2026 - Final</title>
 </programme>
-<programme start="20260726233000 +0000" stop="20260727013000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260726233000 +0000" stop="20260727004500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Estoril Open 2026 - Final</title>
 </programme>
-<programme start="20260727013000 +0000" stop="20260727014500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Indian Wells 2025 - WTA Final</title>
+<programme start="20260727004500 +0000" stop="20260727023000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live Tennis: ATP Estoril Open 2026 - Final</title>
 </programme>
-<programme start="20260727014500 +0000" stop="20260727020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Rome Open 2025 - ATP Final</title>
-</programme>
-<programme start="20260727020000 +0000" stop="20260727021500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Miami Open 2025 - WTA Final</title>
-</programme>
-<programme start="20260727021500 +0000" stop="20260727023000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP Geneva Open 2025 - Final</title>
-</programme>
-<programme start="20260727023000 +0000" stop="20260727030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260727023000 +0000" stop="20260727024500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>WTA All Access</title>
+</programme>
+<programme start="20260727024500 +0000" stop="20260727030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: ATP &amp; WTA Indian Wells 2025 - WTA Final</title>
 </programme>
 <programme start="20260727030000 +0000" stop="20260727040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>The Best of Serena Williams - Miami Open, Semi-Final 2002: Serena Williams v Venus Williams</title>
@@ -5104,23 +5098,17 @@
 <programme start="20260727170000 +0000" stop="20260727180000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Tennis: ATP Generali Open 2026 - Final</title>
 </programme>
-<programme start="20260726233000 +0000" stop="20260727013000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260726233000 +0000" stop="20260727004500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Estoril Open 2026 - Final</title>
 </programme>
-<programme start="20260727013000 +0000" stop="20260727014500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Indian Wells 2025 - WTA Final</title>
+<programme start="20260727004500 +0000" stop="20260727023000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live Tennis: ATP Estoril Open 2026 - Final</title>
 </programme>
-<programme start="20260727014500 +0000" stop="20260727020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Rome Open 2025 - ATP Final</title>
-</programme>
-<programme start="20260727020000 +0000" stop="20260727021500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Miami Open 2025 - WTA Final</title>
-</programme>
-<programme start="20260727021500 +0000" stop="20260727023000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP Geneva Open 2025 - Final</title>
-</programme>
-<programme start="20260727023000 +0000" stop="20260727030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260727023000 +0000" stop="20260727024500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>WTA All Access</title>
+</programme>
+<programme start="20260727024500 +0000" stop="20260727030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: ATP &amp; WTA Indian Wells 2025 - WTA Final</title>
 </programme>
 <programme start="20260727030000 +0000" stop="20260727040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>The Best of Serena Williams - Miami Open, Semi-Final 2002: Serena Williams v Venus Williams</title>
