@@ -1654,8 +1654,8 @@
 <programme start="20260727155500 +0000" stop="20260727170000 +0000" channel="ITV4.virginmediatv">
     <title>The Champions - The Gun Runners</title>
 </programme>
-<programme start="20260727170000 +0000" stop="20260727195000 +0000" channel="ITV4.virginmediatv">
-    <title>FIA Formula E - Tokyo ePrix: Race 2</title>
+<programme start="20260727170000 +0000" stop="20260727180000 +0000" channel="ITV4.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260727000000 +0000" stop="20260727003000 +0000" channel="Comedy_Extra.virginmediatv">
     <title>Friends - The One With the Hypnosis Tape</title>
@@ -4549,17 +4549,20 @@
 <programme start="20260727050000 +0000" stop="20260727060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Tour de Pologne - Women&#039;s Stage 3</title>
 </programme>
-<programme start="20260727113000 +0000" stop="20260727150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260727113000 +0000" stop="20260727153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Shanghai Masters Snooker - Round 1: Ronnie O&#039;Sullivan v Liu Linhao</title>
 </programme>
-<programme start="20260727150000 +0000" stop="20260727153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>UCI World Cup Mountain Biking - Bellwald: Enduro</title>
 </programme>
-<programme start="20260727153000 +0000" stop="20260727163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260727160000 +0000" stop="20260727163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Tour de France Cycling - Stage 21</title>
 </programme>
-<programme start="20260727163000 +0000" stop="20260727173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260727163000 +0000" stop="20260727170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Tour de Pologne - Women&#039;s Stage 3</title>
+</programme>
+<programme start="20260727170000 +0000" stop="20260727173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260727173000 +0000" stop="20260727183000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -4606,10 +4609,10 @@
 <programme start="20260727053000 +0000" stop="20260727060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>UEFA Champions League Football - Quarter-Final, 2nd Leg: Manchester City v Tottenham Hotspur</title>
 </programme>
-<programme start="20260727084500 +0000" stop="20260727123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260727084500 +0000" stop="20260727122000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Commonwealth Games Athletics - Day 1</title>
 </programme>
-<programme start="20260727123000 +0000" stop="20260727163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260727122000 +0000" stop="20260727163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Commonwealth Games Artistic Gymnastics - Apparatus Finals</title>
 </programme>
 <programme start="20260727163000 +0000" stop="20260727170000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5200,17 +5203,20 @@
 <programme start="20260727050000 +0000" stop="20260727060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Tour de Pologne - Women&#039;s Stage 3</title>
 </programme>
-<programme start="20260727113000 +0000" stop="20260727150000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260727113000 +0000" stop="20260727153000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Shanghai Masters Snooker - Round 1: Ronnie O&#039;Sullivan v Liu Linhao</title>
 </programme>
-<programme start="20260727150000 +0000" stop="20260727153000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>UCI World Cup Mountain Biking - Bellwald: Enduro</title>
 </programme>
-<programme start="20260727153000 +0000" stop="20260727163000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260727160000 +0000" stop="20260727163000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Tour de France Cycling - Stage 21</title>
 </programme>
-<programme start="20260727163000 +0000" stop="20260727173000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260727163000 +0000" stop="20260727170000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Tour de Pologne - Women&#039;s Stage 3</title>
+</programme>
+<programme start="20260727170000 +0000" stop="20260727173000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260727173000 +0000" stop="20260727183000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -5257,10 +5263,10 @@
 <programme start="20260727053000 +0000" stop="20260727060000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>UEFA Champions League Football - Quarter-Final, 2nd Leg: Manchester City v Tottenham Hotspur</title>
 </programme>
-<programme start="20260727084500 +0000" stop="20260727123000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260727084500 +0000" stop="20260727122000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Commonwealth Games Athletics - Day 1</title>
 </programme>
-<programme start="20260727123000 +0000" stop="20260727163000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260727122000 +0000" stop="20260727163000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Commonwealth Games Artistic Gymnastics - Apparatus Finals</title>
 </programme>
 <programme start="20260727163000 +0000" stop="20260727170000 +0000" channel="TNT_Sports_3.virginmediatv">
@@ -6376,7 +6382,10 @@
 <programme start="20260726175800 +0000" stop="20260727015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260727015800 +0000" stop="20260727060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260727015800 +0000" stop="20260727050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260727050000 +0000" stop="20260727060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260727120000 +0000" stop="20260727123000 +0000" channel="CBBC.virginmediatv">

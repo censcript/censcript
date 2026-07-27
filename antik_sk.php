@@ -2825,7 +2825,7 @@
     <title lang="id">ŠLÁGR MIŠMAŠ</title>
   </programme>
   <programme start="20260729040000 +0000" stop="20260729050000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Šlágr Budíček</title>
+    <title lang="id">RANNÍ BUDÍČEK</title>
   </programme>
   <programme start="20260729050000 +0000" stop="20260729060000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ŠLÁGRMIX</title>
@@ -2843,16 +2843,16 @@
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260729120000 +0000" stop="20260729130000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
+    <title lang="id">SÁZKA NA HIT II</title>
   </programme>
   <programme start="20260729130000 +0000" stop="20260729143000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20260729143000 +0000" stop="20260729160000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260729143000 +0000" stop="20260729175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">LATTÉ O PŮL PÁTÉ</title>
   </programme>
-  <programme start="20260729160000 +0000" stop="20260729182000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PODVEČERNÍ ZÁBAVA</title>
+  <programme start="20260729175000 +0000" stop="20260729182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT II</title>
   </programme>
   <programme start="20260729182000 +0000" stop="20260729220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
@@ -2860,7 +2860,7 @@
   <programme start="20260728220000 +0000" stop="20260729040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260729103000 +0000" stop="20260729120000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260729103000 +0000" stop="20260729113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260729190000 +0000" stop="20260729220000 +0000" channel="Šláger Muzika.webtv.sk">
