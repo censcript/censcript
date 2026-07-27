@@ -1655,7 +1655,7 @@
     <title>The Champions - The Gun Runners</title>
 </programme>
 <programme start="20260727170000 +0000" stop="20260727180000 +0000" channel="ITV4.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Motorbike Show - Episode 4</title>
 </programme>
 <programme start="20260727000000 +0000" stop="20260727003000 +0000" channel="Comedy_Extra.virginmediatv">
     <title>Friends - The One With the Hypnosis Tape</title>
@@ -4562,7 +4562,7 @@
     <title>Tour de Pologne - Women&#039;s Stage 3</title>
 </programme>
 <programme start="20260727170000 +0000" stop="20260727173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Ally&#039;s Social Club - Ronnie O&#039;Sullivan</title>
 </programme>
 <programme start="20260727173000 +0000" stop="20260727183000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -5216,7 +5216,7 @@
     <title>Tour de Pologne - Women&#039;s Stage 3</title>
 </programme>
 <programme start="20260727170000 +0000" stop="20260727173000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Ally&#039;s Social Club - Ronnie O&#039;Sullivan</title>
 </programme>
 <programme start="20260727173000 +0000" stop="20260727183000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Major League Baseball - Highlights</title>
