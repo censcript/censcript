@@ -1657,7 +1657,7 @@
 <programme start="20260727155500 +0000" stop="20260727170000 +0000" channel="ITV4.virginmediatv">
     <title>The Champions - The Gun Runners</title>
 </programme>
-<programme start="20260727170000 +0000" stop="20260727193500 +0000" channel="ITV4.virginmediatv">
+<programme start="20260727170000 +0000" stop="20260727195000 +0000" channel="ITV4.virginmediatv">
     <title>FIA Formula E - Tokyo ePrix: Race 2</title>
 </programme>
 <programme start="20260727000000 +0000" stop="20260727003000 +0000" channel="Comedy_Extra.virginmediatv">
@@ -1672,22 +1672,22 @@
 <programme start="20260727013000 +0000" stop="20260727020000 +0000" channel="Comedy_Extra.virginmediatv">
     <title>Impractical Jokers - Off the Reservation</title>
 </programme>
-<programme start="20260727020000 +0000" stop="20260727024000 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20260727020000 +0000" stop="20260727024500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>The Daily Show - Ben Wikler</title>
 </programme>
-<programme start="20260727024000 +0000" stop="20260727030500 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20260727024500 +0000" stop="20260727031000 +0000" channel="Comedy_Extra.virginmediatv">
     <title>The Daily Show - July 21, 2026</title>
 </programme>
-<programme start="20260727030500 +0000" stop="20260727033000 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20260727031000 +0000" stop="20260727034500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>The Daily Show - Episode 91</title>
 </programme>
-<programme start="20260727033000 +0000" stop="20260727035500 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20260727034500 +0000" stop="20260727035500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>The Daily Show - Episode 92</title>
 </programme>
-<programme start="20260727035500 +0000" stop="20260727041500 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20260727035500 +0000" stop="20260727041000 +0000" channel="Comedy_Extra.virginmediatv">
     <title>Mike Judge&#039;s Beavis and Butt-Head - Scent of a Dumbass &amp; New Couch</title>
 </programme>
-<programme start="20260727041500 +0000" stop="20260727043500 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20260727041000 +0000" stop="20260727043500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>Everybody Loves Raymond - The Apartment</title>
 </programme>
 <programme start="20260727043500 +0000" stop="20260727050000 +0000" channel="Comedy_Extra.virginmediatv">
@@ -1745,7 +1745,7 @@
     <title>Judge Judy - Episode 200</title>
 </programme>
 <programme start="20260727014000 +0000" stop="20260727020500 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Series 8, Episode 201</title>
+    <title>Judge Judy - Episode 201</title>
 </programme>
 <programme start="20260727020500 +0000" stop="20260727023000 +0000" channel="True_Crime_Xtra.virginmediatv">
     <title>Judge Judy - Episode 202</title>
@@ -2935,11 +2935,11 @@
 <programme start="20260727173000 +0000" stop="20260727180000 +0000" channel="BBC_News.virginmediatv">
     <title>The World Today with Maryam Moshiri</title>
 </programme>
-<programme start="20260726230000 +0000" stop="20260727013000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Joint Committee on Housing, Local Government and Heritage</title>
+<programme start="20260726214000 +0000" stop="20260727001000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha</title>
 </programme>
-<programme start="20260727013000 +0000" stop="20260727051000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Irish Association of Former Parliamentarians</title>
+<programme start="20260727001000 +0000" stop="20260727051000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Housing, Local Government and Heritage</title>
 </programme>
 <programme start="20260727051000 +0000" stop="20260727071000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Joint Committee on Key Issues affecting the Traveller Community</title>
@@ -4553,7 +4553,7 @@
     <title>Tour de Pologne - Women&#039;s Stage 3</title>
 </programme>
 <programme start="20260727113000 +0000" stop="20260727150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Shanghai Masters Snooker - Round 1</title>
+    <title>Live: Shanghai Masters Snooker - Round 1: Ronnie O&#039;Sullivan v Liu Linhao</title>
 </programme>
 <programme start="20260727150000 +0000" stop="20260727153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>UCI World Cup Mountain Biking - Bellwald: Enduro</title>
@@ -5204,7 +5204,7 @@
     <title>Tour de Pologne - Women&#039;s Stage 3</title>
 </programme>
 <programme start="20260727113000 +0000" stop="20260727150000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: Shanghai Masters Snooker - Round 1</title>
+    <title>Live: Shanghai Masters Snooker - Round 1: Ronnie O&#039;Sullivan v Liu Linhao</title>
 </programme>
 <programme start="20260727150000 +0000" stop="20260727153000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>UCI World Cup Mountain Biking - Bellwald: Enduro</title>
