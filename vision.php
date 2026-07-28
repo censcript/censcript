@@ -11,7 +11,7 @@
 <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20260728040000 +0000" stop="20260728043000 +0000" channel="RCTI.vision">
-<title>Go Spot Eksklusif</title>
+<title>Go Spot Ekslusif (RCTI)</title>
 </programme>
 <programme start="20260728043000 +0000" stop="20260728063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
@@ -59,7 +59,7 @@
 <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
 <programme start="20260729040000 +0000" stop="20260729043000 +0000" channel="RCTI.vision">
-<title>Go Spot Eksklusif</title>
+<title>Go Spot Ekslusif (RCTI)</title>
 </programme>
 <programme start="20260729043000 +0000" stop="20260729063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
@@ -146,7 +146,7 @@
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260729090000 +0000" stop="20260729110000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260729110000 +0000" stop="20260729120000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
@@ -862,9 +862,6 @@
 <programme start="20260728110000 +0000" stop="20260728130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260728130000 +0000" stop="20260728143000 +0000" channel="TVOne.vision">
-<title>Catatan Demokrasi (L)</title>
-</programme>
 <programme start="20260728143000 +0000" stop="20260728153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260729050500 +0000" stop="20260729053000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260729053000 +0000" stop="20260729063000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>

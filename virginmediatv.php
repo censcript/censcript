@@ -83,7 +83,7 @@
     <title>RTÉ News: Six One</title>
 </programme>
 <programme start="20260728173000 +0000" stop="20260728180000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Reeling in the Years - 1985</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260727235500 +0000" stop="20260728010000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Julius Caesar: The Making of a Dictator - Ides of March</title>
