@@ -4450,11 +4450,8 @@
 <programme start="20260728170000 +0000" stop="20260728173000 +0000" channel="MUTV.virginmediatv">
     <title>Carrick: Life Before United</title>
 </programme>
-<programme start="20260728173000 +0000" stop="20260728174500 +0000" channel="MUTV.virginmediatv">
-    <title>The United Archives - 2017/18: Manchester United v Watford</title>
-</programme>
-<programme start="20260728174500 +0000" stop="20260728180000 +0000" channel="MUTV.virginmediatv">
-    <title>Kit Launch - Away Kit 26/27 - Behind The Scenes</title>
+<programme start="20260728173000 +0000" stop="20260728180000 +0000" channel="MUTV.virginmediatv">
+    <title>The Match Highlights - Pre-Season Friendly: Rosenborg v Manchester United</title>
 </programme>
 <programme start="20260728000000 +0000" stop="20260728003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Canada 2026</title>

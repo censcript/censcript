@@ -3107,10 +3107,10 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260728031500 +0000" stop="20260728033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Planet A: Plugging Oil Wells</title>
 </programme>
 <programme start="20260728033000 +0000" stop="20260728040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Kif In The Rif</title>
 </programme>
 <programme start="20260728040000 +0000" stop="20260728040300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3125,7 +3125,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20260728053000 +0000" stop="20260728060000 +0000" channel="DW English.mncvision">
-    <title>The Dip: Brazil&#039;s Payment</title>
+    <title>The Dip</title>
 </programme>
 <programme start="20260728060000 +0000" stop="20260728060200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3134,7 +3134,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260728061500 +0000" stop="20260728063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Planet A: Plugging Oil Wells</title>
 </programme>
 <programme start="20260728063000 +0000" stop="20260728070000 +0000" channel="DW English.mncvision">
     <title>Arts Unveiled: The Art World</title>

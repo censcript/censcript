@@ -814,9 +814,6 @@
 <programme start="20260727233000 +0000" stop="20260728013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260728013000 +0000" stop="20260728020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat (L)</title>
-</programme>
 <programme start="20260728020000 +0000" stop="20260728023000 +0000" channel="TVOne.vision">
 <title>Breaking News (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260729083000 +0000" stop="20260729090000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260729090000 +0000" stop="20260729090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>

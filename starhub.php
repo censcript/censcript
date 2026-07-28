@@ -3074,7 +3074,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20260727233000 +0000" stop="20260728000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Kif in the Rif - Morocco&#039;s Cannabis Legalization</title>
     </programme>
     <programme start="20260728000000 +0000" stop="20260728000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3107,10 +3107,10 @@
         <title>News</title>
     </programme>
     <programme start="20260728031500 +0000" stop="20260728033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>LA is plugging oil wells you never knew existed</title>
     </programme>
     <programme start="20260728033000 +0000" stop="20260728040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Kif in the Rif - Morocco&#039;s Cannabis Legalization</title>
     </programme>
     <programme start="20260728040000 +0000" stop="20260728040300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3125,7 +3125,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260728053000 +0000" stop="20260728060000 +0000" channel="DW English HD.starhub">
-        <title>Brazil&#039;s digital payment system is going strong, but can something similar work in Europe?</title>
+        <title>Can Europe build its own Pix?</title>
     </programme>
     <programme start="20260728060000 +0000" stop="20260728060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3134,7 +3134,7 @@
         <title>News</title>
     </programme>
     <programme start="20260728061500 +0000" stop="20260728063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>LA is plugging oil wells you never knew existed</title>
     </programme>
     <programme start="20260728063000 +0000" stop="20260728070000 +0000" channel="DW English HD.starhub">
         <title>Connecting Worlds</title>
@@ -3152,7 +3152,7 @@
         <title>News</title>
     </programme>
     <programme start="20260728080200 +0000" stop="20260728083000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Why Manila keeps flooding despite billions spent on defenses</title>
     </programme>
     <programme start="20260728083000 +0000" stop="20260728090000 +0000" channel="DW English HD.starhub">
         <title>The fight against food waste in Uganda</title>
@@ -3164,10 +3164,10 @@
         <title>News</title>
     </programme>
     <programme start="20260728091500 +0000" stop="20260728094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Kif in the Rif - Morocco&#039;s Cannabis Legalization</title>
     </programme>
     <programme start="20260728094500 +0000" stop="20260728100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Losing Paradise: Borneo&#039;s Orangutans Fight to Survive</title>
     </programme>
     <programme start="20260728100000 +0000" stop="20260728100300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3179,7 +3179,7 @@
         <title>News</title>
     </programme>
     <programme start="20260728110200 +0000" stop="20260728113000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>Can earthquakes be created on demand and predicted?</title>
     </programme>
     <programme start="20260728113000 +0000" stop="20260728120000 +0000" channel="DW English HD.starhub">
         <title>Misdiagnoses and medical bias: The gender gap in healthcare</title>
@@ -3191,7 +3191,7 @@
         <title>News</title>
     </programme>
     <programme start="20260728121500 +0000" stop="20260728124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Kif in the Rif - Morocco&#039;s Cannabis Legalization</title>
     </programme>
     <programme start="20260728124500 +0000" stop="20260728130000 +0000" channel="DW English HD.starhub">
         <title>Can VR create empathy?</title>
@@ -3203,7 +3203,7 @@
         <title>News</title>
     </programme>
     <programme start="20260728131500 +0000" stop="20260728133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Indias&#039;s Carbon Neutral Villages 2050</title>
     </programme>
     <programme start="20260728133000 +0000" stop="20260728140000 +0000" channel="DW English HD.starhub">
         <title>Contaminated and scarce: The growing fight for clean water</title>
@@ -3215,16 +3215,16 @@
         <title>News</title>
     </programme>
     <programme start="20260728141500 +0000" stop="20260728144500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Kif in the Rif - Morocco&#039;s Cannabis Legalization</title>
     </programme>
     <programme start="20260728144500 +0000" stop="20260728150000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Losing Paradise: Borneo&#039;s Orangutans Fight to Survive</title>
     </programme>
     <programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260728153000 +0000" stop="20260728160000 +0000" channel="DW English HD.starhub">
-        <title>Brazil&#039;s digital payment system is going strong, but can something similar work in Europe?</title>
+        <title>Can Europe build its own Pix?</title>
     </programme>
     <programme start="20260727160000 +0000" stop="20260727220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -4543,9 +4543,6 @@
     <programme start="20260727183000 +0000" stop="20260727190000 +0000" channel="Vijay TV HD.starhub">
         <title>Sindhu Bairavi Kacheri Arambam</title>
     </programme>
-    <programme start="20260727190000 +0000" stop="20260727193000 +0000" channel="Vijay TV HD.starhub">
-        <title>Azhagae Azhagu</title>
-    </programme>
     <programme start="20260727193000 +0000" stop="20260727200000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
     </programme>
@@ -4651,11 +4648,11 @@
     <programme start="20260728140000 +0000" stop="20260728143000 +0000" channel="Vijay TV HD.starhub">
         <title>Kadhal Kadhal Kadhal</title>
     </programme>
-    <programme start="20260728143000 +0000" stop="20260728153000 +0000" channel="Vijay TV HD.starhub">
-        <title>Second Love</title>
+    <programme start="20260728143000 +0000" stop="20260728150000 +0000" channel="Vijay TV HD.starhub">
+        <title>Onna Irukka Kaththukkanum</title>
     </programme>
-    <programme start="20260728153000 +0000" stop="20260728160000 +0000" channel="Vijay TV HD.starhub">
-        <title>Azhagae Azhagu</title>
+    <programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="Vijay TV HD.starhub">
+        <title>Second Love</title>
     </programme>
     <programme start="20260727160000 +0000" stop="20260727163000 +0000" channel="Asianet.starhub">
         <title>Kattathe Kilikoodu</title>
@@ -7819,10 +7816,10 @@
     <programme start="20260728013000 +0000" stop="20260728043000 +0000" channel="Asianet Movies.starhub">
         <title>Rakshadhikari Baiju Oppu</title>
     </programme>
-    <programme start="20260728043000 +0000" stop="20260728073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260728043000 +0000" stop="20260728072000 +0000" channel="Asianet Movies.starhub">
         <title>Udaharanam Sujatha</title>
     </programme>
-    <programme start="20260728073000 +0000" stop="20260728103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260728072000 +0000" stop="20260728103000 +0000" channel="Asianet Movies.starhub">
         <title>Two Countries</title>
     </programme>
     <programme start="20260728103000 +0000" stop="20260728133000 +0000" channel="Asianet Movies.starhub">
