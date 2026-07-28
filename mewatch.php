@@ -95,7 +95,7 @@
         <title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Individual Apparatus Finals</title>
     </programme>
     <programme start="20260728180000 +0000" stop="20260728210000 +0000" channel="Channel 5.mewatch">
-        <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Semi-finals | Finals</title>
+        <title>Athletics &amp; Para Athletics | Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Semi-finals | Finals - 29 July 2026</title>
     </programme>
     <programme start="20260728210000 +0000" stop="20260728220000 +0000" channel="Channel 5.mewatch">
         <title>The Weakest Link UK: Series 4 - EP 4</title>
