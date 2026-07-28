@@ -128,7 +128,7 @@
     <title lang="id">Pinocchiova zázračná dedinka</title>
   </programme>
   <programme start="20260730050000 +0000" stop="20260730053000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Tedova top desiatka</title>
+    <title lang="id">Tedova top desiatka I (3)</title>
   </programme>
   <programme start="20260730053000 +0000" stop="20260730060000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Živá panoráma</title>
@@ -218,7 +218,7 @@
     <title lang="id">Pinocchiova zázračná dedinka</title>
   </programme>
   <programme start="20260730172000 +0000" stop="20260730174000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Tedova top desiatka</title>
+    <title lang="id">Tedova top desiatka I (4)</title>
   </programme>
   <programme start="20260730174000 +0000" stop="20260730180000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Geolino</title>
@@ -664,22 +664,22 @@
   <programme start="20260729210500 +0000" stop="20260729224500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Utajený šéf II (6)</title>
   </programme>
-  <programme start="20260729224500 +0000" stop="20260729234500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260729224500 +0000" stop="20260729234000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XXI (8)</title>
   </programme>
-  <programme start="20260729234500 +0000" stop="20260730003500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260729234000 +0000" stop="20260730003000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XXI (9)</title>
   </programme>
-  <programme start="20260730003500 +0000" stop="20260730011500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260730003000 +0000" stop="20260730011000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XXI (10)</title>
   </programme>
-  <programme start="20260730011500 +0000" stop="20260730023500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260730011000 +0000" stop="20260730021500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260730023500 +0000" stop="20260730031500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260730021500 +0000" stop="20260730030000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Susedské prípady (3)</title>
   </programme>
-  <programme start="20260730031500 +0000" stop="20260730040000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260730030000 +0000" stop="20260730040000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Rodinné prípady (51)</title>
   </programme>
   <programme start="20260730040000 +0000" stop="20260730050000 +0000" channel="Markíza +1.webtv.sk">
@@ -1223,7 +1223,7 @@
     <title lang="id">Panelák IX (157)</title>
   </programme>
   <programme start="20260730084000 +0000" stop="20260730095500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">9-1-1 II (5)</title>
+    <title lang="id">Letecké katastrofy XIII (5)</title>
   </programme>
   <programme start="20260730095500 +0000" stop="20260730102500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Simpsonovci XXIX (3)</title>
@@ -4343,7 +4343,7 @@
     <title lang="id">Rodinná pouta II (58)</title>
   </programme>
   <programme start="20260730115500 +0000" stop="20260730134000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Rosamunde Pilcher I (71)</title>
+    <title lang="id">Rosamunde Pilcher</title>
   </programme>
   <programme start="20260730134000 +0000" stop="20260730143500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Láska beze slov (59)</title>
@@ -4361,7 +4361,7 @@
     <title lang="id">Záchranáři z hor XIII (8)</title>
   </programme>
   <programme start="20260730181500 +0000" stop="20260730200000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Rosamunde Pilcher I (74)</title>
+    <title lang="id">Rosamunde Pilcher</title>
   </programme>
   <programme start="20260730200000 +0000" stop="20260730210500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfová!</title>
@@ -4891,8 +4891,11 @@
   <programme start="20260730053500 +0000" stop="20260730060000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoring</title>
   </programme>
-  <programme start="20260730060000 +0000" stop="20260730070000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260730060000 +0000" stop="20260730063000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260730063000 +0000" stop="20260730070000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">AutoGRATIS</title>
   </programme>
   <programme start="20260730070000 +0000" stop="20260730073000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoride</title>
@@ -4904,7 +4907,7 @@
     <title lang="id">GarazTV</title>
   </programme>
   <programme start="20260730083000 +0000" stop="20260730090000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Za rybami světových moří</title>
+    <title lang="id">Martin z Martina</title>
   </programme>
   <programme start="20260730090000 +0000" stop="20260730093000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DRIVE IT - Ondrej Macko</title>
@@ -4916,7 +4919,7 @@
     <title lang="id">DominicCars</title>
   </programme>
   <programme start="20260730103000 +0000" stop="20260730104500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
+    <title lang="id">Cargo Magazín</title>
   </programme>
   <programme start="20260730104500 +0000" stop="20260730110000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Martin z Martina</title>
@@ -4925,7 +4928,7 @@
     <title lang="id">Švihák testuje</title>
   </programme>
   <programme start="20260730111500 +0000" stop="20260730113000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
+    <title lang="id">Piok Cars</title>
   </programme>
   <programme start="20260730113000 +0000" stop="20260730120000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>
@@ -4934,13 +4937,16 @@
     <title lang="id">DominicCars</title>
   </programme>
   <programme start="20260730123000 +0000" stop="20260730130000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
+    <title lang="id">AutoGRATIS</title>
   </programme>
   <programme start="20260730130000 +0000" stop="20260730131500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Martin z Martina</title>
   </programme>
-  <programme start="20260730131500 +0000" stop="20260730141500 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260730131500 +0000" stop="20260730134500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260730134500 +0000" stop="20260730141500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Cargo Magazín</title>
   </programme>
   <programme start="20260730141500 +0000" stop="20260730143000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Švihák testuje</title>
@@ -4951,31 +4957,13 @@
   <programme start="20260730153000 +0000" stop="20260730160000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoride</title>
   </programme>
-  <programme start="20260730160000 +0000" stop="20260730163000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Zachytáme s Rybostrojem</title>
+  <programme start="20260730160000 +0000" stop="20260730180000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">FC Pyunik (ARM) - Debreceni VSC (HUN)</title>
   </programme>
-  <programme start="20260730163000 +0000" stop="20260730170000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
+  <programme start="20260730180000 +0000" stop="20260730200000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">KF Shkëndija (MKD) - NK Bravo (SVN)</title>
   </programme>
-  <programme start="20260730170000 +0000" stop="20260730173000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260730173000 +0000" stop="20260730180000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260730180000 +0000" stop="20260730183000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260730183000 +0000" stop="20260730193000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260730193000 +0000" stop="20260730200000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260730200000 +0000" stop="20260730203000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260730203000 +0000" stop="20260730210000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260730200000 +0000" stop="20260730210000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
   <programme start="20260730210000 +0000" stop="20260730213000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -5003,7 +4991,7 @@
     <title lang="id">Vytuningované jazdy Fínsko</title>
   </programme>
   <programme start="20260730090000 +0000" stop="20260730093000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">CARSHOW</title>
+    <title lang="id">Cargo Magazín</title>
   </programme>
   <programme start="20260730093000 +0000" stop="20260730100000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Autožurnál</title>
@@ -5018,25 +5006,28 @@
     <title lang="id">Výběrová auta</title>
   </programme>
   <programme start="20260730113000 +0000" stop="20260730121500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Celebritné preteky na kolesách</title>
+    <title lang="id">DominicCars</title>
   </programme>
   <programme start="20260730121500 +0000" stop="20260730124500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DominicCars</title>
+    <title lang="id">MM Automotive</title>
   </programme>
   <programme start="20260730124500 +0000" stop="20260730130000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Švihák testuje</title>
   </programme>
   <programme start="20260730130000 +0000" stop="20260730133000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
+    <title lang="id">DominicCars</title>
   </programme>
-  <programme start="20260730133000 +0000" stop="20260730141500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Vytuningované jazdy Fínsko</title>
+  <programme start="20260730133000 +0000" stop="20260730134500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Cargo Magazín</title>
+  </programme>
+  <programme start="20260730134500 +0000" stop="20260730141500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
   </programme>
   <programme start="20260730141500 +0000" stop="20260730150000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">DRIVE IT - Ondrej Macko</title>
   </programme>
   <programme start="20260730150000 +0000" stop="20260730154500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
+    <title lang="id">Topspeed</title>
   </programme>
   <programme start="20260730154500 +0000" stop="20260730163000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
@@ -5050,14 +5041,8 @@
   <programme start="20260730173000 +0000" stop="20260730180000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Výběrová auta</title>
   </programme>
-  <programme start="20260730180000 +0000" stop="20260730190000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260730190000 +0000" stop="20260730191500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260730191500 +0000" stop="20260730200000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
+  <programme start="20260730180000 +0000" stop="20260730200000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Vancouver Open</title>
   </programme>
   <programme start="20260730200000 +0000" stop="20260730203000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
@@ -5066,7 +5051,7 @@
     <title lang="id">DRIVE IT - Ondrej Macko</title>
   </programme>
   <programme start="20260730210000 +0000" stop="20260730213000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Vytuningované jazdy Fínsko</title>
+    <title lang="id">AutoGRATIS</title>
   </programme>
   <programme start="20260730213000 +0000" stop="20260730220000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Motoring</title>
