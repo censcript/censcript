@@ -28,10 +28,10 @@
     <programme start="20260727172000 +0000" stop="20260727211300 +0000" channel="Unknown Channel.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals</title>
     </programme>
-    <programme start="20260727211300 +0000" stop="20260728082000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260727211300 +0000" stop="20260728083500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728082000 +0000" stop="20260728110000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728083500 +0000" stop="20260728110000 +0000" channel="Unknown Channel.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games Men&#039;s 88kg Final</title>
     </programme>
     <programme start="20260728110000 +0000" stop="20260728115000 +0000" channel="Unknown Channel.mewatch">
@@ -55,16 +55,22 @@
     <programme start="20260727185000 +0000" stop="20260727212200 +0000" channel="Unknown Channel.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games Men&#039;s 79kg Final</title>
     </programme>
-    <programme start="20260727212200 +0000" stop="20260728072000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260727212200 +0000" stop="20260728090000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728072000 +0000" stop="20260728123000 +0000" channel="Unknown Channel.mewatch">
-        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Para Mixed Pairs B2-B3 | Women&#039;s Pairs | Men&#039;s Singles - Finals</title>
+    <programme start="20260728090000 +0000" stop="20260728102500 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Pairs Finals - MAS vs ENG</title>
     </programme>
-    <programme start="20260728123000 +0000" stop="20260728125000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728102500 +0000" stop="20260728102600 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728125000 +0000" stop="20260728153000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728102600 +0000" stop="20260728125000 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs Finals - MAS vs ENG</title>
+    </programme>
+    <programme start="20260728125000 +0000" stop="20260728125100 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260728125100 +0000" stop="20260728153000 +0000" channel="Unknown Channel.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games Women&#039;s 63kg Final</title>
     </programme>
     <programme start="20260728153000 +0000" stop="20260728155959 +0000" channel="Unknown Channel.mewatch">
@@ -793,25 +799,25 @@
     <programme start="20260728160000 +0000" stop="20260729160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260727160000 +0000" stop="20260728100000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 28 July, Tuesday 6.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260727160000 +0000" stop="20260728093300 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 28 July, Tuesday 5.33pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260728100000 +0000" stop="20260728120000 +0000" channel="Live 5.mewatch">
+    <programme start="20260728093300 +0000" stop="20260728122000 +0000" channel="Live 5.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Philippines vs Myanmar</title>
     </programme>
-    <programme start="20260728120000 +0000" stop="20260728160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260728122000 +0000" stop="20260728160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 31 July, Friday 6.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260728160000 +0000" stop="20260729160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 31 July, Friday 6.00pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260727160000 +0000" stop="20260728130000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 28 July, Tuesday 9.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260727160000 +0000" stop="20260728123300 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 28 July, Tuesday 8.33pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260728130000 +0000" stop="20260728150000 +0000" channel="Live 6.mewatch">
+    <programme start="20260728123300 +0000" stop="20260728152000 +0000" channel="Live 6.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Malaysia vs Laos</title>
     </programme>
-    <programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="Live 6.mewatch">
+    <programme start="20260728152000 +0000" stop="20260728160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 31 July, Friday 9.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260728160000 +0000" stop="20260729160000 +0000" channel="Live 6.mewatch">

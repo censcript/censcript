@@ -2069,7 +2069,7 @@
         <title>Women&#039;s Super League 2025/26: Leicester vs Man City</title>
     </programme>
     <programme start="20260728011000 +0000" stop="20260728030000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>World Rugby Junior World C&#039;ship 2026: Japan vs USA - 13th Place Semi final</title>
+        <title>World Rugby Junior World C&#039;ships 2026: Japan vs USA - 13th Place Semi final</title>
     </programme>
     <programme start="20260728030000 +0000" stop="20260728050000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>PSG TV 2025/26: Lyon vs PSG</title>
@@ -8035,7 +8035,7 @@
     <programme start="20260728143000 +0000" stop="20260728150000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260728150000 +0000" stop="20260728170000 +0000" channel="Dragon TV.starhub">
         <title>the city of musicals</title>
     </programme>
     <programme start="20260727160000 +0000" stop="20260727163000 +0000" channel="Travelxp HD.starhub">

@@ -3775,10 +3775,10 @@
   <programme start="20260730135000 +0000" stop="20260730140200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Maličké království Bena a Holly</title>
   </programme>
-  <programme start="20260730140200 +0000" stop="20260730140500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260730140200 +0000" stop="20260730140900 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Bing</title>
   </programme>
-  <programme start="20260730140500 +0000" stop="20260730141600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260730140900 +0000" stop="20260730141600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Anna a kamarádi</title>
   </programme>
   <programme start="20260730141600 +0000" stop="20260730142700 +0000" channel="ČT :D - ČT art.webtv.sk">

@@ -7640,10 +7640,10 @@
     <title>Go Spot Eksklusif</title>
 </programme>
 <programme start="20260728043000 +0000" stop="20260728063000 +0000" channel="RCTI.mncvision">
-    <title>Ikatan Cinta Aldebaran &amp; Andin</title>
+    <title>Terikat Janji Selamanya</title>
 </programme>
 <programme start="20260728063000 +0000" stop="20260728120000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun Deui</title>
+    <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260728120000 +0000" stop="20260728133000 +0000" channel="RCTI.mncvision">
     <title>Terikat Janji</title>
@@ -7688,10 +7688,10 @@
     <title>Go Spot Eksklusif</title>
 </programme>
 <programme start="20260728043000 +0000" stop="20260728063000 +0000" channel="RCTI HD.mncvision">
-    <title>Ikatan Cinta Aldebaran &amp; Andin</title>
+    <title>Terikat Janji Selamanya</title>
 </programme>
 <programme start="20260728063000 +0000" stop="20260728120000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun Deui</title>
+    <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260728120000 +0000" stop="20260728133000 +0000" channel="RCTI HD.mncvision">
     <title>Terikat Janji</title>

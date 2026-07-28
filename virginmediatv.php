@@ -3854,7 +3854,7 @@
     <title>Live: The Hundred - Women&#039;s: Northern Superchargers v Manchester Originals</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728203000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: The Hundred - Men&#039;s: Northern Superchargers v Manchester Originals</title>
+    <title>Live: The Hundred - Men&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
 </programme>
 <programme start="20260728000000 +0000" stop="20260728020000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>Prem Classics - 2005/06: Bolton v Chelsea</title>
@@ -4052,7 +4052,7 @@
     <title>Live: The Hundred - Women&#039;s: Northern Superchargers v Manchester Originals</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728203000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Live: The Hundred - Men&#039;s: Northern Superchargers v Manchester Originals</title>
+    <title>Live: The Hundred - Men&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
 </programme>
 <programme start="20260728000000 +0000" stop="20260728010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>3M Open, PGA Tour Golf - Day 4</title>
@@ -4724,7 +4724,7 @@
     <title>Live: The Hundred - Women&#039;s: Northern Superchargers v Manchester Originals</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728203000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: The Hundred - Men&#039;s: Northern Superchargers v Manchester Originals</title>
+    <title>Live: The Hundred - Men&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
 </programme>
 <programme start="20260728000000 +0000" stop="20260728020000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>Prem Classics - 2005/06: Bolton v Chelsea</title>
@@ -4919,7 +4919,7 @@
     <title>Live: The Hundred - Women&#039;s: Northern Superchargers v Manchester Originals</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728203000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Live: The Hundred - Men&#039;s: Northern Superchargers v Manchester Originals</title>
+    <title>Live: The Hundred - Men&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
 </programme>
 <programme start="20260728000000 +0000" stop="20260728010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>3M Open, PGA Tour Golf - Day 4</title>

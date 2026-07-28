@@ -2386,17 +2386,12 @@
     <desc lang="en">Bacaan Surah Ar Rahman.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260727220200 +0000" stop="20260727225500 +0000" channel="tv1.unifitv">
+  <programme start="20260727220200 +0000" stop="20260727230000 +0000" channel="tv1.unifitv">
     <title lang="en">Anda Musykil 2026</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa dalam Anda Musykil.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260727225500 +0000" stop="20260727230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran</title>
-    <desc lang="en">Kapsul Jiran</desc>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20260727230000 +0000" stop="20260727234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -2471,17 +2466,12 @@
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260728080500 +0000" stop="20260728082700 +0000" channel="tv1.unifitv">
+  <programme start="20260728080500 +0000" stop="20260728083000 +0000" channel="tv1.unifitv">
     <title lang="en">Prima Facie (Ulangan)</title>
     <desc lang="en">Sebuah program dokudrama yang memaparkan undang-undang yang terdapat di dalam sistem perundangan Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260728082700 +0000" stop="20260728083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran</title>
-    <desc lang="en">Kapsul Jiran</desc>
-    <category lang="en">Drama</category>
   </programme>
   <programme start="20260728083000 +0000" stop="20260728090000 +0000" channel="tv1.unifitv">
     <title lang="en">Biz Malaysia 2026</title>
@@ -2535,8 +2525,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260728141500 +0000" stop="20260728143000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran/ Promo / PSA / Kapsul</title>
-    <desc lang="en">Kapsul Jiran/ Promo / PSA / Kapsul</desc>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260728143000 +0000" stop="20260728153000 +0000" channel="tv1.unifitv">
