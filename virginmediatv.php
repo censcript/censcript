@@ -3851,7 +3851,7 @@
     <title>Transfer 360 - Dimitar Berbatov</title>
 </programme>
 <programme start="20260728140000 +0000" stop="20260728170000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: The Hundred - Women&#039;s: Northern Superchargers v Manchester Originals</title>
+    <title>Live: The Hundred - Women&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728203000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: The Hundred - Men&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
@@ -4022,7 +4022,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260728043000 +0000" stop="20260728044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC T20 World Cup - 2016: India v Australia</title>
+    <title>ICC T20 World Cup - 2016: India v Bangladesh</title>
 </programme>
 <programme start="20260728044500 +0000" stop="20260728050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s: Trent Rockets v London Spirit</title>
@@ -4049,7 +4049,7 @@
     <title>The Hundred - Men&#039;s: Southern Brave v MI London</title>
 </programme>
 <programme start="20260728134500 +0000" stop="20260728170000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Live: The Hundred - Women&#039;s: Northern Superchargers v Manchester Originals</title>
+    <title>Live: The Hundred - Women&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728203000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: The Hundred - Men&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
@@ -4613,7 +4613,7 @@
     <title>Tour de France Cycling - Stage 21</title>
 </programme>
 <programme start="20260728113000 +0000" stop="20260728150000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Shanghai Masters Snooker - Round 2</title>
+    <title>Live: Shanghai Masters Snooker - Round 2: Kyren Wilson v Ronnie O&#039;Sullivan</title>
 </programme>
 <programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>NWSL - Episode 51</title>
@@ -4721,7 +4721,7 @@
     <title>Transfer 360 - Dimitar Berbatov</title>
 </programme>
 <programme start="20260728140000 +0000" stop="20260728170000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: The Hundred - Women&#039;s: Northern Superchargers v Manchester Originals</title>
+    <title>Live: The Hundred - Women&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728203000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: The Hundred - Men&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
@@ -4889,7 +4889,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260728043000 +0000" stop="20260728044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC T20 World Cup - 2016: India v Australia</title>
+    <title>ICC T20 World Cup - 2016: India v Bangladesh</title>
 </programme>
 <programme start="20260728044500 +0000" stop="20260728050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s: Trent Rockets v London Spirit</title>
@@ -4916,7 +4916,7 @@
     <title>The Hundred - Men&#039;s: Southern Brave v MI London</title>
 </programme>
 <programme start="20260728134500 +0000" stop="20260728170000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Live: The Hundred - Women&#039;s: Northern Superchargers v Manchester Originals</title>
+    <title>Live: The Hundred - Women&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728203000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: The Hundred - Men&#039;s: Sunrisers Leeds v Manchester Super Giants</title>
@@ -5327,7 +5327,7 @@
     <title>Tour de France Cycling - Stage 21</title>
 </programme>
 <programme start="20260728113000 +0000" stop="20260728150000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: Shanghai Masters Snooker - Round 2</title>
+    <title>Live: Shanghai Masters Snooker - Round 2: Kyren Wilson v Ronnie O&#039;Sullivan</title>
 </programme>
 <programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>NWSL - Episode 51</title>

@@ -10,10 +10,10 @@
     <programme start="20260727210000 +0000" stop="20260728092000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728092000 +0000" stop="20260728121500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728092000 +0000" stop="20260728115800 +0000" channel="Unknown Channel.mewatch">
         <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Heats - 28 July 2026</title>
     </programme>
-    <programme start="20260728121500 +0000" stop="20260728151500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728115800 +0000" stop="20260728151500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260728151500 +0000" stop="20260728164000 +0000" channel="Unknown Channel.mewatch">
@@ -26,7 +26,7 @@
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260727172000 +0000" stop="20260727211300 +0000" channel="Unknown Channel.mewatch">
-        <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals</title>
+        <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals - 28 Jul 2026</title>
     </programme>
     <programme start="20260727211300 +0000" stop="20260728083500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
@@ -59,18 +59,18 @@
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260728090000 +0000" stop="20260728102500 +0000" channel="Unknown Channel.mewatch">
-        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Pairs Finals - MAS vs ENG</title>
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Pairs Finals - MAS vs ENG | Medal Ceremony</title>
     </programme>
     <programme start="20260728102500 +0000" stop="20260728102600 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728102600 +0000" stop="20260728125000 +0000" channel="Unknown Channel.mewatch">
-        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs Finals - MAS vs ENG</title>
+    <programme start="20260728102600 +0000" stop="20260728115500 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs Finals - MAS vs ENG | Medal Ceremony</title>
     </programme>
-    <programme start="20260728125000 +0000" stop="20260728125100 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728115500 +0000" stop="20260728130500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728125100 +0000" stop="20260728153000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728130500 +0000" stop="20260728153000 +0000" channel="Unknown Channel.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games Women&#039;s 63kg Final</title>
     </programme>
     <programme start="20260728153000 +0000" stop="20260728155959 +0000" channel="Unknown Channel.mewatch">
@@ -91,10 +91,10 @@
     <programme start="20260727222000 +0000" stop="20260728085000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728085000 +0000" stop="20260728114500 +0000" channel="Unknown Channel.mewatch">
-        <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Heats</title>
+    <programme start="20260728085000 +0000" stop="20260728114800 +0000" channel="Unknown Channel.mewatch">
+        <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Heats - 28 Jul 2026</title>
     </programme>
-    <programme start="20260728114500 +0000" stop="20260728151500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728114800 +0000" stop="20260728151500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260728151500 +0000" stop="20260728164000 +0000" channel="Unknown Channel.mewatch">
