@@ -6728,124 +6728,127 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260729223000 +0000" stop="20260729230000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá doc. MUDr. Michal chovanec, phd.</title>
+    <title lang="id">Body positivity a výživa – kde sú hranice?</title>
   </programme>
   <programme start="20260729230000 +0000" stop="20260729233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Bez hanby o zápaloch močových ciest, hygiene, mužských tabu témach aj mýtoch</title>
+    <title lang="id">Nočné pomočovanie</title>
   </programme>
   <programme start="20260729233000 +0000" stop="20260730000000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Pohyb onkologických pacientov</title>
+    <title lang="id">K05 zápal ďasien</title>
   </programme>
   <programme start="20260730000000 +0000" stop="20260730010000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Neurologické ochorenia a ich prvé príznaky</title>
+    <title lang="id">Robotická chirurgia pre detských pacientov: historický míľnik slovenskej medicíny</title>
   </programme>
-  <programme start="20260730010000 +0000" stop="20260730015000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Schizofrénia</title>
-  </programme>
-  <programme start="20260730015000 +0000" stop="20260730020000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Hrčka v prsníku</title>
+  <programme start="20260730010000 +0000" stop="20260730020000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Šokujúci trend: zdá sa, že spoločnosť hlúpne, vedci zistili, že nám klesá iq</title>
   </programme>
   <programme start="20260730020000 +0000" stop="20260730023000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260730023000 +0000" stop="20260730030000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá MUDr. Miloš bubán</title>
+    <title lang="id">Kelo a tzatziki s Kuracím špízom + kľuky medzi stoličkami</title>
   </programme>
   <programme start="20260730030000 +0000" stop="20260730033000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Na začiatku bolo ochorenie obličiek</title>
+    <title lang="id">Bariatrická chirurgia</title>
   </programme>
   <programme start="20260730033000 +0000" stop="20260730040000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Seuxálne zdravie onkologických pacientov</title>
+    <title lang="id">Algeziológ a liečba bolestí</title>
   </programme>
-  <programme start="20260730040000 +0000" stop="20260730050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cestovanie ideálne bez traumy</title>
+  <programme start="20260730040000 +0000" stop="20260730043000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Probiotká a prebiotiká</title>
+  </programme>
+  <programme start="20260730043000 +0000" stop="20260730050000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Čo človek zažije, to mu nikto nikdy nezoberie</title>
   </programme>
   <programme start="20260730050000 +0000" stop="20260730055000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Artróza (osteoporóza)</title>
+    <title lang="id">Demencia</title>
   </programme>
   <programme start="20260730055000 +0000" stop="20260730060000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+    <title lang="id">Konvičkovanie</title>
   </programme>
   <programme start="20260730060000 +0000" stop="20260730063000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260730063000 +0000" stop="20260730070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Výber, zmena lekára a povinnosti lekára poskytnúť zdravotnú starostlivosť resp. právo na odmietnutie zdravotnej starostlivosti</title>
+    <title lang="id">Odpovedá doc. MUDr. Michal chovanec, phd.</title>
   </programme>
   <programme start="20260730070000 +0000" stop="20260730073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Čo nás čaká po pôrode</title>
+    <title lang="id">Bez hanby o zápaloch močových ciest, hygiene, mužských tabu témach aj mýtoch</title>
   </programme>
   <programme start="20260730073000 +0000" stop="20260730080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Liečba rázovými vlnami</title>
+    <title lang="id">Pohyb onkologických pacientov</title>
   </programme>
-  <programme start="20260730080000 +0000" stop="20260730083000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze so zuzanou líškovou o stravovaní najmä v období (peri)menopauzy</title>
+  <programme start="20260730080000 +0000" stop="20260730090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Neurologické ochorenia a ich prvé príznaky</title>
   </programme>
-  <programme start="20260730083000 +0000" stop="20260730090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Uhryznutie psom</title>
+  <programme start="20260730090000 +0000" stop="20260730095000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Schizofrénia</title>
   </programme>
-  <programme start="20260730090000 +0000" stop="20260730100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Adhd (porucha pozornosti)</title>
+  <programme start="20260730095000 +0000" stop="20260730100000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Hrčka v prsníku</title>
   </programme>
   <programme start="20260730100000 +0000" stop="20260730103000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260730103000 +0000" stop="20260730110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá doc. MUDr. Michal chovanec, phd.</title>
+    <title lang="id">Body positivity a výživa – kde sú hranice?</title>
   </programme>
   <programme start="20260730110000 +0000" stop="20260730113000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Bez hanby o zápaloch močových ciest, hygiene, mužských tabu témach aj mýtoch</title>
+    <title lang="id">Nočné pomočovanie</title>
   </programme>
   <programme start="20260730113000 +0000" stop="20260730120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Pohyb onkologických pacientov</title>
+    <title lang="id">K05 zápal ďasien</title>
   </programme>
   <programme start="20260730120000 +0000" stop="20260730130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Neurologické ochorenia a ich prvé príznaky</title>
+    <title lang="id">Robotická chirurgia pre detských pacientov: historický míľnik slovenskej medicíny</title>
   </programme>
-  <programme start="20260730130000 +0000" stop="20260730135000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Schizofrénia</title>
-  </programme>
-  <programme start="20260730135000 +0000" stop="20260730140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Hrčka v prsníku</title>
+  <programme start="20260730130000 +0000" stop="20260730140000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Šokujúci trend: zdá sa, že spoločnosť hlúpne, vedci zistili, že nám klesá iq</title>
   </programme>
   <programme start="20260730140000 +0000" stop="20260730143000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260730143000 +0000" stop="20260730150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Body positivity a výživa – kde sú hranice?</title>
+    <title lang="id">Kelo a cuketové cestoviny + sklápačky</title>
   </programme>
   <programme start="20260730150000 +0000" stop="20260730153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nočné pomočovanie</title>
+    <title lang="id">Hyperbarická oxygénová terapia</title>
   </programme>
   <programme start="20260730153000 +0000" stop="20260730160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">K05 zápal ďasien</title>
+    <title lang="id">Endoprotézy váhonosných kĺbov kolena a bedra</title>
   </programme>
-  <programme start="20260730160000 +0000" stop="20260730170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Robotická chirurgia pre detských pacientov: historický míľnik slovenskej medicíny</title>
+  <programme start="20260730160000 +0000" stop="20260730163000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako zlepšiť kvalitu života ibd pacientov</title>
   </programme>
-  <programme start="20260730170000 +0000" stop="20260730180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Šokujúci trend: zdá sa, že spoločnosť hlúpne, vedci zistili, že nám klesá iq</title>
+  <programme start="20260730163000 +0000" stop="20260730170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Bariéry okolo nás (ale aj v nás)</title>
+  </programme>
+  <programme start="20260730170000 +0000" stop="20260730175000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Infarkt myokardu</title>
+  </programme>
+  <programme start="20260730175000 +0000" stop="20260730180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Otužovanie detí</title>
   </programme>
   <programme start="20260730180000 +0000" stop="20260730183000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260730183000 +0000" stop="20260730190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Poskytovanie zdravotnej starostlivosti nelicencovanými pracovníkmi</title>
+    <title lang="id">Odpovedá MUDr. Miloš bubán</title>
   </programme>
   <programme start="20260730190000 +0000" stop="20260730193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Pôrod - všetko, čo by mala vedieť každá budúca mamička</title>
+    <title lang="id">Na začiatku bolo ochorenie obličiek</title>
   </programme>
   <programme start="20260730193000 +0000" stop="20260730200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Klinika popálenín a rekonštrukčnej chirurgie</title>
+    <title lang="id">Seuxálne zdravie onkologických pacientov</title>
   </programme>
-  <programme start="20260730200000 +0000" stop="20260730203000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze s MUDr. Emíliou mojtovou, phd. o probléme so štítnou žľazou</title>
+  <programme start="20260730200000 +0000" stop="20260730210000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Cestovanie ideálne bez traumy</title>
   </programme>
-  <programme start="20260730203000 +0000" stop="20260730210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Topenie</title>
+  <programme start="20260730210000 +0000" stop="20260730215000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Artróza (osteoporóza)</title>
   </programme>
-  <programme start="20260730210000 +0000" stop="20260730220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Depresia</title>
+  <programme start="20260730215000 +0000" stop="20260730220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
   </programme>
   <programme start="20260729220000 +0000" stop="20260729230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>

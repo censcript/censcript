@@ -3017,16 +3017,16 @@
         <title>News</title>
     </programme>
     <programme start="20260727171500 +0000" stop="20260727173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>LA is plugging oil wells you never knew existed</title>
     </programme>
     <programme start="20260727173000 +0000" stop="20260727180000 +0000" channel="DW English HD.starhub">
-        <title>Brazil&#039;s digital payment system is going strong, but can something similar work in Europe?</title>
+        <title>Can Europe build its own Pix?</title>
     </programme>
     <programme start="20260727180000 +0000" stop="20260727183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260727183000 +0000" stop="20260727190000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Kif in the Rif - Morocco&#039;s Cannabis Legalization</title>
     </programme>
     <programme start="20260727190000 +0000" stop="20260727190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3035,10 +3035,10 @@
         <title>News</title>
     </programme>
     <programme start="20260727191500 +0000" stop="20260727193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>LA is plugging oil wells you never knew existed</title>
     </programme>
     <programme start="20260727193000 +0000" stop="20260727200000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>The Commonwealth in Africa: real impact or empty promises?</title>
     </programme>
     <programme start="20260727200000 +0000" stop="20260727203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3062,7 +3062,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260727223000 +0000" stop="20260727230000 +0000" channel="DW English HD.starhub">
-        <title>Brazil&#039;s digital payment system is going strong, but can something similar work in Europe?</title>
+        <title>Can Europe build its own Pix?</title>
     </programme>
     <programme start="20260727230000 +0000" stop="20260727230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3071,7 +3071,7 @@
         <title>News</title>
     </programme>
     <programme start="20260727231500 +0000" stop="20260727233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>LA is plugging oil wells you never knew existed</title>
     </programme>
     <programme start="20260727233000 +0000" stop="20260728000000 +0000" channel="DW English HD.starhub">
         <title>Kif in the Rif - Morocco&#039;s Cannabis Legalization</title>
@@ -4542,6 +4542,9 @@
     </programme>
     <programme start="20260727183000 +0000" stop="20260727190000 +0000" channel="Vijay TV HD.starhub">
         <title>Sindhu Bairavi Kacheri Arambam</title>
+    </programme>
+    <programme start="20260727190000 +0000" stop="20260727193000 +0000" channel="Vijay TV HD.starhub">
+        <title>Azhagae Azhagu</title>
     </programme>
     <programme start="20260727193000 +0000" stop="20260727200000 +0000" channel="Vijay TV HD.starhub">
         <title>Kanmani Anbudan</title>
@@ -6487,8 +6490,11 @@
     <programme start="20260728080000 +0000" stop="20260728083000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 4</title>
     </programme>
-    <programme start="20260728083000 +0000" stop="20260728113000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260728083000 +0000" stop="20260728110000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala Citi DC Open (500) Day 1 R1 Session 2</title>
+    </programme>
+    <programme start="20260728110000 +0000" stop="20260728113000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Episode 28</title>
     </programme>
     <programme start="20260728113000 +0000" stop="20260728114500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 164</title>

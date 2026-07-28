@@ -4252,8 +4252,6 @@
     <title lang="en">TVS Music</title>
     <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
     <category lang="en">Pop Culture</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260728001500 +0000" stop="20260728003000 +0000" channel="tvs.unifitv">
     <title lang="en">Orang Kita</title>
@@ -4295,8 +4293,6 @@
     <title lang="en">TVS Fillers</title>
     <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260728021500 +0000" stop="20260728024500 +0000" channel="tvs.unifitv">
     <title lang="en">Agrotech Heroes</title>
@@ -4339,8 +4335,6 @@
     <title lang="en">TVS Fillers</title>
     <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260728043000 +0000" stop="20260728050000 +0000" channel="tvs.unifitv">
     <title lang="en">Alunan Borneo</title>
@@ -4377,8 +4371,6 @@
     <title lang="en">TVS Music</title>
     <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
     <category lang="en">Pop Culture</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260728061500 +0000" stop="20260728063000 +0000" channel="tvs.unifitv">
     <title lang="en">Borneo Wildlife &amp; Nature</title>
@@ -4403,8 +4395,6 @@
     <title lang="en">TVS Fillers</title>
     <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260728071500 +0000" stop="20260728073000 +0000" channel="tvs.unifitv">
     <title lang="en">Kamek, Ali Wallace</title>
@@ -4429,8 +4419,6 @@
     <title lang="en">TVS Music</title>
     <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
     <category lang="en">Pop Culture</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260728081500 +0000" stop="20260728083000 +0000" channel="tvs.unifitv">
     <title lang="en">Nomads of the Rainforest</title>
