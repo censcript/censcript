@@ -11,7 +11,7 @@
 <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20260728040000 +0000" stop="20260728043000 +0000" channel="RCTI.vision">
-<title>Go Spot Ekslusif (RCTI)</title>
+<title>Go Spot Eksklusif</title>
 </programme>
 <programme start="20260728043000 +0000" stop="20260728063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
@@ -59,7 +59,7 @@
 <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
 <programme start="20260729040000 +0000" stop="20260729043000 +0000" channel="RCTI.vision">
-<title>Go Spot Ekslusif (RCTI)</title>
+<title>Go Spot Eksklusif</title>
 </programme>
 <programme start="20260729043000 +0000" stop="20260729063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
@@ -146,7 +146,7 @@
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260729090000 +0000" stop="20260729110000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260729110000 +0000" stop="20260729120000 +0000" channel="MNCTV.vision">
 <title>Entong</title>

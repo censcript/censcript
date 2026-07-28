@@ -37,7 +37,7 @@
     <programme start="20260728110000 +0000" stop="20260728115000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728115000 +0000" stop="20260728163000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728115000 +0000" stop="20260728162300 +0000" channel="Unknown Channel.mewatch">
         <title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Individual Apparatus Finals</title>
     </programme>
     <programme start="20260727150100 +0000" stop="20260727162500 +0000" channel="Unknown Channel.mewatch">
@@ -70,10 +70,10 @@
     <programme start="20260728115500 +0000" stop="20260728130500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260728130500 +0000" stop="20260728153000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728130500 +0000" stop="20260728152000 +0000" channel="Unknown Channel.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games Women&#039;s 63kg Final</title>
     </programme>
-    <programme start="20260728153000 +0000" stop="20260728155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260728152000 +0000" stop="20260728155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260728160000 +0000" stop="20260728162000 +0000" channel="Unknown Channel.mewatch">
