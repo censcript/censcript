@@ -4546,10 +4546,10 @@
 <programme start="20260729123000 +0000" stop="20260729141500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: UCI Continental Circuits - Tour de l&#039;Ain: Stage 2</title>
 </programme>
-<programme start="20260729141500 +0000" stop="20260729154500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260729141500 +0000" stop="20260729160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Danmark Rundt - Stage 1</title>
 </programme>
-<programme start="20260729154500 +0000" stop="20260729161500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260729160000 +0000" stop="20260729161500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>The WRC Magazine - Rally Finland</title>
 </programme>
 <programme start="20260729161500 +0000" stop="20260729164500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5227,10 +5227,10 @@
 <programme start="20260729123000 +0000" stop="20260729141500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: UCI Continental Circuits - Tour de l&#039;Ain: Stage 2</title>
 </programme>
-<programme start="20260729141500 +0000" stop="20260729154500 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260729141500 +0000" stop="20260729160000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Danmark Rundt - Stage 1</title>
 </programme>
-<programme start="20260729154500 +0000" stop="20260729161500 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260729160000 +0000" stop="20260729161500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>The WRC Magazine - Rally Finland</title>
 </programme>
 <programme start="20260729161500 +0000" stop="20260729164500 +0000" channel="TNT_Sports_3.virginmediatv">
@@ -6382,7 +6382,10 @@
 <programme start="20260728175800 +0000" stop="20260729015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260729015800 +0000" stop="20260729060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260729015800 +0000" stop="20260729050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260729050000 +0000" stop="20260729060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260729120000 +0000" stop="20260729123000 +0000" channel="CBBC.virginmediatv">
