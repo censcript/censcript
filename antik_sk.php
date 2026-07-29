@@ -3316,40 +3316,40 @@
   <programme start="20260731045600 +0000" stop="20260731052500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krásné živé památky</title>
   </programme>
-  <programme start="20260731052500 +0000" stop="20260731055100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731052500 +0000" stop="20260731055200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Stopy, fakta, tajemství</title>
   </programme>
-  <programme start="20260731055100 +0000" stop="20260731062000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731055200 +0000" stop="20260731062000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Magické hlubiny (6/6)</title>
   </programme>
   <programme start="20260731062000 +0000" stop="20260731071100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tajemství Velkých jezer I (1/3)</title>
   </programme>
-  <programme start="20260731071100 +0000" stop="20260731074000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731071100 +0000" stop="20260731074100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dobrodružství vědy a techniky</title>
   </programme>
-  <programme start="20260731074000 +0000" stop="20260731083500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731074100 +0000" stop="20260731083500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Psouni prérioví aneb Tenkrát na západě</title>
   </programme>
   <programme start="20260731083500 +0000" stop="20260731084500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krásy evropského pobřeží</title>
   </programme>
-  <programme start="20260731084500 +0000" stop="20260731092500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731084500 +0000" stop="20260731092600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">České tajemno (5/6)</title>
   </programme>
-  <programme start="20260731092500 +0000" stop="20260731093200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731092600 +0000" stop="20260731093300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Postřehy odjinud</title>
   </programme>
-  <programme start="20260731093200 +0000" stop="20260731102500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731093300 +0000" stop="20260731102600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Pevnost supů</title>
   </programme>
-  <programme start="20260731102500 +0000" stop="20260731104100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731102600 +0000" stop="20260731104100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vzkaz Ludvíka Kundery</title>
   </programme>
-  <programme start="20260731104100 +0000" stop="20260731114000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731104100 +0000" stop="20260731114100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Lidové tradice v krajích České republiky</title>
   </programme>
-  <programme start="20260731114000 +0000" stop="20260731121000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731114100 +0000" stop="20260731121000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krajinou příběhů českých hradů známých i neznámých III (8/10)</title>
   </programme>
   <programme start="20260731121000 +0000" stop="20260731130500 +0000" channel="ČT2.webtv.sk">
@@ -3367,10 +3367,10 @@
   <programme start="20260731145500 +0000" stop="20260731152300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Sousedé</title>
   </programme>
-  <programme start="20260731152300 +0000" stop="20260731155000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731152300 +0000" stop="20260731155100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ondráš v zemi samurajů</title>
   </programme>
-  <programme start="20260731155000 +0000" stop="20260731162000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260731155100 +0000" stop="20260731162000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krajinou vína po Slovensku (5/6)</title>
   </programme>
   <programme start="20260731162000 +0000" stop="20260731171500 +0000" channel="ČT2.webtv.sk">

@@ -4522,138 +4522,6 @@
     <programme start="20260729155000 +0000" stop="20260729164000 +0000" channel="Citra Entertainment.starhub">
         <title>TAKDIR</title>
     </programme>
-    <programme start="20260728160000 +0000" stop="20260728163000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
-    </programme>
-    <programme start="20260728163000 +0000" stop="20260728170000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20260728170000 +0000" stop="20260728173000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20260728173000 +0000" stop="20260728180000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    </programme>
-    <programme start="20260728180000 +0000" stop="20260728183000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kadhal Kadhal Kadhal</title>
-    </programme>
-    <programme start="20260728183000 +0000" stop="20260728190000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
-    </programme>
-    <programme start="20260728190000 +0000" stop="20260728193000 +0000" channel="Vijay TV HD.starhub">
-        <title>Azhagae Azhagu</title>
-    </programme>
-    <programme start="20260728193000 +0000" stop="20260728200000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kanmani Anbudan</title>
-    </programme>
-    <programme start="20260728200000 +0000" stop="20260728203000 +0000" channel="Vijay TV HD.starhub">
-        <title>Thendrale Mella Pesu</title>
-    </programme>
-    <programme start="20260728203000 +0000" stop="20260728210000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
-    </programme>
-    <programme start="20260728210000 +0000" stop="20260728213000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kadhal Kadhal Kadhal</title>
-    </programme>
-    <programme start="20260728213000 +0000" stop="20260728220000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20260728220000 +0000" stop="20260728223000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
-    </programme>
-    <programme start="20260728223000 +0000" stop="20260728230000 +0000" channel="Vijay TV HD.starhub">
-        <title>Onna Irukka Kaththukkanum</title>
-    </programme>
-    <programme start="20260728230000 +0000" stop="20260728233000 +0000" channel="Vijay TV HD.starhub">
-        <title>Thaai Maman- Thaiku Nigaranavan</title>
-    </programme>
-    <programme start="20260728233000 +0000" stop="20260729000000 +0000" channel="Vijay TV HD.starhub">
-        <title>Azhagae Azhagu</title>
-    </programme>
-    <programme start="20260729000000 +0000" stop="20260729003000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
-    </programme>
-    <programme start="20260729003000 +0000" stop="20260729010000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20260729010000 +0000" stop="20260729013000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20260729013000 +0000" stop="20260729020000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    </programme>
-    <programme start="20260729020000 +0000" stop="20260729023000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kadhal Kadhal Kadhal</title>
-    </programme>
-    <programme start="20260729023000 +0000" stop="20260729033000 +0000" channel="Vijay TV HD.starhub">
-        <title>Second Love</title>
-    </programme>
-    <programme start="20260729033000 +0000" stop="20260729050000 +0000" channel="Vijay TV HD.starhub">
-        <title>Cooku With Comali S07 - Double Trouble</title>
-    </programme>
-    <programme start="20260729050000 +0000" stop="20260729053000 +0000" channel="Vijay TV HD.starhub">
-        <title>Azhagae Azhagu</title>
-    </programme>
-    <programme start="20260729053000 +0000" stop="20260729060000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
-    </programme>
-    <programme start="20260729060000 +0000" stop="20260729063000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20260729063000 +0000" stop="20260729070000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20260729070000 +0000" stop="20260729073000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    </programme>
-    <programme start="20260729073000 +0000" stop="20260729080000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kanmani Anbudan</title>
-    </programme>
-    <programme start="20260729080000 +0000" stop="20260729083000 +0000" channel="Vijay TV HD.starhub">
-        <title>Thendrale Mella Pesu</title>
-    </programme>
-    <programme start="20260729083000 +0000" stop="20260729090000 +0000" channel="Vijay TV HD.starhub">
-        <title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai</title>
-    </programme>
-    <programme start="20260729090000 +0000" stop="20260729093000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kadhal Kadhal Kadhal</title>
-    </programme>
-    <programme start="20260729093000 +0000" stop="20260729100000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20260729100000 +0000" stop="20260729103000 +0000" channel="Vijay TV HD.starhub">
-        <title>Sindhu Bairavi Kacheri Arambam</title>
-    </programme>
-    <programme start="20260729103000 +0000" stop="20260729110000 +0000" channel="Vijay TV HD.starhub">
-        <title>Onna Irukka Kaththukkanum</title>
-    </programme>
-    <programme start="20260729110000 +0000" stop="20260729113000 +0000" channel="Vijay TV HD.starhub">
-        <title>Thaai Maman- Thaiku Nigaranavan</title>
-    </programme>
-    <programme start="20260729113000 +0000" stop="20260729120000 +0000" channel="Vijay TV HD.starhub">
-        <title>Azhagae Azhagu</title>
-    </programme>
-    <programme start="20260729120000 +0000" stop="20260729123000 +0000" channel="Vijay TV HD.starhub">
-        <title>Pandian Stores Thanthai Sol Mikka Mandhi</title>
-    </programme>
-    <programme start="20260729123000 +0000" stop="20260729130000 +0000" channel="Vijay TV HD.starhub">
-        <title>Ayyanar Thunai</title>
-    </programme>
-    <programme start="20260729130000 +0000" stop="20260729133000 +0000" channel="Vijay TV HD.starhub">
-        <title>Siragadikka Aasai</title>
-    </programme>
-    <programme start="20260729133000 +0000" stop="20260729140000 +0000" channel="Vijay TV HD.starhub">
-        <title>Chinna Marumagal Panirendaam Vaguppu</title>
-    </programme>
-    <programme start="20260729140000 +0000" stop="20260729143000 +0000" channel="Vijay TV HD.starhub">
-        <title>Kadhal Kadhal Kadhal</title>
-    </programme>
-    <programme start="20260729143000 +0000" stop="20260729150000 +0000" channel="Vijay TV HD.starhub">
-        <title>Onna Irukka Kaththukkanum</title>
-    </programme>
-    <programme start="20260729150000 +0000" stop="20260729160000 +0000" channel="Vijay TV HD.starhub">
-        <title>Second Love</title>
-    </programme>
     <programme start="20260728160000 +0000" stop="20260728163000 +0000" channel="Asianet.starhub">
         <title>Kattathe Kilikoodu</title>
     </programme>
@@ -7960,7 +7828,7 @@
     <programme start="20260729150000 +0000" stop="20260729153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260729153000 +0000" stop="20260729160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260729153000 +0000" stop="20260729170000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20260728160000 +0000" stop="20260728163000 +0000" channel="Travelxp HD.starhub">

@@ -61,10 +61,10 @@
     <programme start="20260729120000 +0000" stop="20260729124500 +0000" channel="VTV1 HD.mytv">
         <title> Nhịp sống tuổi bạc </title>
     </programme>
-    <programme start="20260729124500 +0000" stop="20260729130000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260729124500 +0000" stop="20260729125900 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Mắt sáng cho người bệnh Đái tháo đường </title>
     </programme>
-    <programme start="20260729130000 +0000" stop="20260729134500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260729125900 +0000" stop="20260729134500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Nhịp sống miền chiêm trũng </title>
     </programme>
     <programme start="20260729134500 +0000" stop="20260729140000 +0000" channel="VTV1 HD.mytv">
@@ -73,10 +73,10 @@
     <programme start="20260729140000 +0000" stop="20260729141500 +0000" channel="VTV1 HD.mytv">
         <title> Giai điệu kết nối </title>
     </programme>
-    <programme start="20260729141500 +0000" stop="20260729150000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260729141500 +0000" stop="20260729150300 +0000" channel="VTV1 HD.mytv">
         <title> Văn học nghệ thuật: DANAFF - Nhịp cầu từ Châu Á ra thế giới </title>
     </programme>
-    <programme start="20260729150000 +0000" stop="20260729153000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260729150300 +0000" stop="20260729153000 +0000" channel="VTV1 HD.mytv">
         <title> Sống an toàn </title>
     </programme>
     <programme start="20260729153000 +0000" stop="20260729160000 +0000" channel="VTV1 HD.mytv">
