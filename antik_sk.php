@@ -409,58 +409,67 @@
   <programme start="20260731003500 +0000" stop="20260731004500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260731004500 +0000" stop="20260731014500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731004500 +0000" stop="20260731014000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260731014500 +0000" stop="20260731015500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731014000 +0000" stop="20260731015000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260731015500 +0000" stop="20260731024500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731015000 +0000" stop="20260731024000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260731024500 +0000" stop="20260731025500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731024000 +0000" stop="20260731025000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260731025500 +0000" stop="20260731034500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731025000 +0000" stop="20260731034000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260731034500 +0000" stop="20260731054000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731034000 +0000" stop="20260731035000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20260731035000 +0000" stop="20260731054500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20260731054000 +0000" stop="20260731070000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731054500 +0000" stop="20260731070500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Volejbal - Liga národov 2026 - Liga národov 2026 (muži; Ning-po) - štvrťfinále: Slovinsko - Turecko</title>
   </programme>
-  <programme start="20260731070000 +0000" stop="20260731081500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731070500 +0000" stop="20260731082000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Volejbal - Liga národov 2026 - Liga národov 2026 (muži; Ning-po) - štvrťfinále: Japonsko - Čína</title>
   </programme>
-  <programme start="20260731081500 +0000" stop="20260731100000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - MONACObet liga 2026/2027 - MONACObet liga 2026/27 (1. kolo): FC ŠTK 1914 Šamorín - OFK Dynamo Malženice</title>
-  </programme>
-  <programme start="20260731100000 +0000" stop="20260731115000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731082000 +0000" stop="20260731101000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Predkolá LM / EL / KL 2026 - Konferenčná liga 2026/27 (2. predkolo - odveta): CSKA 1948 Sofia - Spartak Trnava</title>
   </programme>
-  <programme start="20260731115000 +0000" stop="20260731134000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731101000 +0000" stop="20260731120000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Predkolá LM / EL / KL 2026 - Konferenčná liga 2026/27 (2. predkolo - odveta): GKS Katowice - MŠK Žilina</title>
   </programme>
-  <programme start="20260731134000 +0000" stop="20260731153500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731120000 +0000" stop="20260731135000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Predkolá LM / EL / KL 2026 - Konferenčná liga 2026/27 (2. predkolo - odveta): Velež Mostar - DAC Dunajská Streda</title>
   </programme>
-  <programme start="20260731153500 +0000" stop="20260731155500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731135000 +0000" stop="20260731141500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MONACObet liga</title>
   </programme>
-  <programme start="20260731155500 +0000" stop="20260731175500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731141500 +0000" stop="20260731161500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Liga majstrov 2026/27 (2. predkolo): odveta</title>
   </programme>
-  <programme start="20260731175500 +0000" stop="20260731185500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731161500 +0000" stop="20260731171500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty Niké liga</title>
   </programme>
-  <programme start="20260731185500 +0000" stop="20260731202500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731171500 +0000" stop="20260731184500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Volejbal - Liga národov 2026 - Liga národov 2026 (muži; Ning-po) - štvrťfinále: Taliansko - USA</title>
   </programme>
-  <programme start="20260731202500 +0000" stop="20260731204000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731184500 +0000" stop="20260731190000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Cyklomagazín</title>
+  </programme>
+  <programme start="20260731190000 +0000" stop="20260731195000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Atletika - Majstrovstvá Slovenska 2026</title>
+  </programme>
+  <programme start="20260731195000 +0000" stop="20260731210000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Atletika - Majstrovstvá Slovenska 2026</title>
+  </programme>
+  <programme start="20260731210000 +0000" stop="20260731211000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260731204000 +0000" stop="20260731221000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260731211000 +0000" stop="20260731224000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Volejbal - Liga národov 2026 - Liga národov 2026 (muži; Ning-po) - štvrťfinále: Poľsko - Ukrajina</title>
   </programme>
   <programme start="20260730213500 +0000" stop="20260730223000 +0000" channel="Markíza.webtv.sk">
@@ -16387,17 +16396,20 @@
   <programme start="20260731025500 +0000" stop="20260731030000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260731030000 +0000" stop="20260731031500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260731030000 +0000" stop="20260731031000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260731031500 +0000" stop="20260731040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260731031000 +0000" stop="20260731040000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Ukrainer (1)</title>
   </programme>
   <programme start="20260731040000 +0000" stop="20260731043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260731043000 +0000" stop="20260731050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260731043000 +0000" stop="20260731045500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Polskie Parki Narodowe (11)</title>
+  </programme>
+  <programme start="20260731045500 +0000" stop="20260731050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260731050000 +0000" stop="20260731051000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16546,8 +16558,11 @@
   <programme start="20260731141500 +0000" stop="20260731143000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1876)</title>
   </programme>
-  <programme start="20260731143000 +0000" stop="20260731150000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260731143000 +0000" stop="20260731145500 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Polskie Parki Narodowe (11)</title>
+  </programme>
+  <programme start="20260731145500 +0000" stop="20260731150000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260731150000 +0000" stop="20260731151000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16598,7 +16613,7 @@
     <title lang="id">Weather</title>
   </programme>
   <programme start="20260731183200 +0000" stop="20260731184000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Brief (27)</title>
+    <title lang="id">TVP World Special Report (7)</title>
   </programme>
   <programme start="20260731184000 +0000" stop="20260731184500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
@@ -19247,9 +19262,6 @@
     <title lang="id">Sommersi</title>
   </programme>
   <programme start="20260730230000 +0000" stop="20260731040000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">RaiNews</title>
-  </programme>
-  <programme start="20260731040000 +0000" stop="20260731060000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">RaiNews</title>
   </programme>
   <programme start="20260731060000 +0000" stop="20260731083500 +0000" channel="Rai Tre.webtv.sk">

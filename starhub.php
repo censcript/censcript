@@ -7181,7 +7181,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260729003000 +0000" stop="20260729010000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Inside the Esports World Cup</title>
     </programme>
     <programme start="20260729010000 +0000" stop="20260729013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7199,7 +7199,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260729024500 +0000" stop="20260729030000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>Why People in China Aren&#039;t Spending</title>
     </programme>
     <programme start="20260729030000 +0000" stop="20260729033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7208,7 +7208,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260729034500 +0000" stop="20260729040000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>Why People in China Aren&#039;t Spending</title>
     </programme>
     <programme start="20260729040000 +0000" stop="20260729043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

@@ -5032,10 +5032,10 @@
 <programme start="20260729140000 +0000" stop="20260729150000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260729150000 +0000" stop="20260729150500 +0000" channel="iNews.mncvision">
+<programme start="20260729150000 +0000" stop="20260729151000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals</title>
 </programme>
-<programme start="20260729150500 +0000" stop="20260729163000 +0000" channel="iNews.mncvision">
+<programme start="20260729151000 +0000" stop="20260729163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260729163000 +0000" stop="20260728170000 +0000" channel="iNews.mncvision">
@@ -5116,10 +5116,10 @@
 <programme start="20260729140000 +0000" stop="20260729150000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260729150000 +0000" stop="20260729150500 +0000" channel="iNews HD.mncvision">
+<programme start="20260729150000 +0000" stop="20260729151000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals</title>
 </programme>
-<programme start="20260729150500 +0000" stop="20260729163000 +0000" channel="iNews HD.mncvision">
+<programme start="20260729151000 +0000" stop="20260729163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260729163000 +0000" stop="20260728170000 +0000" channel="iNews HD.mncvision">
@@ -8069,7 +8069,7 @@
     <title>Sportacular Int&#039;l: BEL Vs TUN</title>
 </programme>
 <programme start="20260729123000 +0000" stop="20260729143000 +0000" channel="Soccer Channel.mncvision">
-    <title>Hyundai C&#039;ship &#039;26: SIN Vs TLS</title>
+    <title>Hyundai C&#039;ship &#039;26: IDN Vs CAM</title>
 </programme>
 <programme start="20260729143000 +0000" stop="20260729163000 +0000" channel="Soccer Channel.mncvision">
     <title>Garuda Di Arena SEA Games</title>
@@ -8114,7 +8114,7 @@
     <title>Sportacular Int&#039;l: BEL Vs TUN</title>
 </programme>
 <programme start="20260729123000 +0000" stop="20260729143000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Hyundai C&#039;ship &#039;26: SIN Vs TLS</title>
+    <title>Hyundai C&#039;ship &#039;26: IDN Vs CAM</title>
 </programme>
 <programme start="20260729143000 +0000" stop="20260729163000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Garuda Di Arena SEA Games</title>
