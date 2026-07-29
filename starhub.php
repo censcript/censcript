@@ -6443,10 +6443,10 @@
         <title>bitpanda Hamburg Open</title>
     </programme>
     <programme start="20260728220000 +0000" stop="20260729000000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mubadala Citi DC Open (500) Day 2 R1 Session 3</title>
+        <title>(DNU) Mubadala Citi DC Open (500) Day 2 R1 Session 3</title>
     </programme>
     <programme start="20260729000000 +0000" stop="20260729020000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mubadala Citi DC Open (500) Day 2 R1 Session 4</title>
+        <title>(DNU) Mubadala Citi DC Open (500) Day 2 R1 Session 4</title>
     </programme>
     <programme start="20260729020000 +0000" stop="20260729023000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 4</title>
@@ -6475,17 +6475,14 @@
     <programme start="20260729113000 +0000" stop="20260729120000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open</title>
     </programme>
-    <programme start="20260729120000 +0000" stop="20260729133000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mubadala Citi DC Open (500) Day 2 R1 Session 3</title>
+    <programme start="20260729120000 +0000" stop="20260729150000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Mifel Tennis Open (250) Day 2 R1 Session 1</title>
     </programme>
-    <programme start="20260729133000 +0000" stop="20260729140000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260729150000 +0000" stop="20260729153000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Season 4 Episode 12</title>
     </programme>
-    <programme start="20260729140000 +0000" stop="20260729143000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260729153000 +0000" stop="20260729160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Season 4 Episode 13</title>
-    </programme>
-    <programme start="20260729143000 +0000" stop="20260729160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mubadala Citi DC Open (500) Day 2 R1 Session 4</title>
     </programme>
     <programme start="20260728135800 +0000" stop="20260728165500 +0000" channel="SONY MAX.starhub">
         <title>Jaaneman</title>

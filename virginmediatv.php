@@ -46,22 +46,22 @@
 <programme start="20260729053500 +0000" stop="20260729060500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260729120000 +0000" stop="20260729121500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260729120000 +0000" stop="20260729122000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News: One O&#039;Clock</title>
 </programme>
-<programme start="20260729121500 +0000" stop="20260729124000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260729122000 +0000" stop="20260729124500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Home and Away - Episode 113</title>
 </programme>
-<programme start="20260729124000 +0000" stop="20260729131000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260729124500 +0000" stop="20260729131500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Shortland Street - Episode 217</title>
 </programme>
-<programme start="20260729131000 +0000" stop="20260729134000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260729131500 +0000" stop="20260729134500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Fair City - Episode 92</title>
 </programme>
-<programme start="20260729134000 +0000" stop="20260729141000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>EastEnders - Episode 119</title>
+<programme start="20260729134500 +0000" stop="20260729141500 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>EastEnders - EastEnders 7372</title>
 </programme>
-<programme start="20260729141000 +0000" stop="20260729144500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260729141500 +0000" stop="20260729144500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Full Irish Hidden Camera Show - Episode 8</title>
 </programme>
 <programme start="20260729144500 +0000" stop="20260729154500 +0000" channel="RTE_One_HD.virginmediatv">
@@ -79,11 +79,8 @@
 <programme start="20260729170000 +0000" stop="20260729170100 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Angelus - Carrick-on-Shannon, Leitrim</title>
 </programme>
-<programme start="20260729170100 +0000" stop="20260729173000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260729170100 +0000" stop="20260729180000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News: Six One</title>
-</programme>
-<programme start="20260729173000 +0000" stop="20260729180000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Reeling in the Years - 1985</title>
 </programme>
 <programme start="20260728225500 +0000" stop="20260729001500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Tommy Tiernan Show - Episode 13</title>
@@ -337,22 +334,22 @@
 <programme start="20260729123000 +0000" stop="20260729130000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>10 Things to Know About - Episode 1</title>
 </programme>
-<programme start="20260729130000 +0000" stop="20260729131500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260729130000 +0000" stop="20260729132000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>RTÉ News: One O&#039;Clock</title>
 </programme>
-<programme start="20260729131500 +0000" stop="20260729134000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260729132000 +0000" stop="20260729134500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Home and Away - Episode 113</title>
 </programme>
-<programme start="20260729134000 +0000" stop="20260729141000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260729134500 +0000" stop="20260729141500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Shortland Street - Episode 217</title>
 </programme>
-<programme start="20260729141000 +0000" stop="20260729144000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260729141500 +0000" stop="20260729144500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Fair City - Episode 92</title>
 </programme>
-<programme start="20260729144000 +0000" stop="20260729151000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>EastEnders - Episode 119</title>
+<programme start="20260729144500 +0000" stop="20260729151500 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>EastEnders - EastEnders 7372</title>
 </programme>
-<programme start="20260729151000 +0000" stop="20260729154500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260729151500 +0000" stop="20260729154500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Full Irish Hidden Camera Show - Episode 8</title>
 </programme>
 <programme start="20260729154500 +0000" stop="20260729164500 +0000" channel="RTE_One_+1.virginmediatv">
@@ -4477,14 +4474,29 @@
 <programme start="20260729050000 +0000" stop="20260729060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>UCI Continental Circuits - Tour de l&#039;Ain: Stage 1</title>
 </programme>
-<programme start="20260729083000 +0000" stop="20260729123000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260729083000 +0000" stop="20260729124500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Fencing World Championships - Hong Kong: Day 8</title>
 </programme>
-<programme start="20260729123000 +0000" stop="20260729133000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260729124500 +0000" stop="20260729133000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Test Cricket - 1st Test, Day 4: West Indies v Pakistan</title>
 </programme>
-<programme start="20260729133000 +0000" stop="20260729220000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Test Cricket - 1st Test, Day 5: West Indies v Pakistan</title>
+<programme start="20260729133000 +0000" stop="20260729134500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>The Gruppetto - Episode 26</title>
+</programme>
+<programme start="20260729134500 +0000" stop="20260729154500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: Danmark Rundt - Stage 1</title>
+</programme>
+<programme start="20260729154500 +0000" stop="20260729161500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Tour de France Femmes - Preview: Road to Yellow</title>
+</programme>
+<programme start="20260729161500 +0000" stop="20260729164500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Premier League Stories - Kevin Keegan</title>
+</programme>
+<programme start="20260729164500 +0000" stop="20260729170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Training Day - MLB</title>
+</programme>
+<programme start="20260729170000 +0000" stop="20260729200000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: Major League Baseball - Atlanta Braves at New York Mets</title>
 </programme>
 <programme start="20260729000000 +0000" stop="20260729010000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Commonwealth Games Swimming - Day 5</title>
@@ -5143,14 +5155,29 @@
 <programme start="20260729050000 +0000" stop="20260729060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>UCI Continental Circuits - Tour de l&#039;Ain: Stage 1</title>
 </programme>
-<programme start="20260729083000 +0000" stop="20260729123000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260729083000 +0000" stop="20260729124500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Fencing World Championships - Hong Kong: Day 8</title>
 </programme>
-<programme start="20260729123000 +0000" stop="20260729133000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260729124500 +0000" stop="20260729133000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Test Cricket - 1st Test, Day 4: West Indies v Pakistan</title>
 </programme>
-<programme start="20260729133000 +0000" stop="20260729220000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: Test Cricket - 1st Test, Day 5: West Indies v Pakistan</title>
+<programme start="20260729133000 +0000" stop="20260729134500 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>The Gruppetto - Episode 26</title>
+</programme>
+<programme start="20260729134500 +0000" stop="20260729154500 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Live: Danmark Rundt - Stage 1</title>
+</programme>
+<programme start="20260729154500 +0000" stop="20260729161500 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Tour de France Femmes - Preview: Road to Yellow</title>
+</programme>
+<programme start="20260729161500 +0000" stop="20260729164500 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Premier League Stories - Kevin Keegan</title>
+</programme>
+<programme start="20260729164500 +0000" stop="20260729170000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Training Day - MLB</title>
+</programme>
+<programme start="20260729170000 +0000" stop="20260729200000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Live: Major League Baseball - Atlanta Braves at New York Mets</title>
 </programme>
 <programme start="20260729000000 +0000" stop="20260729010000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Commonwealth Games Swimming - Day 5</title>

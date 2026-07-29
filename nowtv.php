@@ -1,13 +1,7 @@
-<programme start="20260729120000 +0000" stop="20260729140000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260729140000 +0000" stop="20260729160000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260729160000 +0000" stop="20260729180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260729120000 +0000" stop="20260729140000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260729140000 +0000" stop="20260729160000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -16,16 +10,10 @@
 <programme start="20260729160000 +0000" stop="20260729180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260729120000 +0000" stop="20260729140000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260729140000 +0000" stop="20260729160000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260729160000 +0000" stop="20260729180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260729120000 +0000" stop="20260729140000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260729140000 +0000" stop="20260729160000 +0000" channel="Now Sports 4K CH616.nowtv">
@@ -33,18 +21,6 @@
 </programme>
 <programme start="20260729160000 +0000" stop="20260729180000 +0000" channel="Now Sports 4K CH616.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260729130000 +0000" stop="20260729131500 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(A)</title>
-</programme>
-<programme start="20260729131500 +0000" stop="20260729133000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -Rd of 32(B)</title>
-</programme>
-<programme start="20260729133000 +0000" stop="20260729151000 +0000" channel="Now Sports 618.nowtv">
-    <title>The story of the FIFA World Cup 2026™ - Tournament Review</title>
-</programme>
-<programme start="20260729151000 +0000" stop="20260729153000 +0000" channel="Now Sports 618.nowtv">
-    <title>FIFA World Cup 2026™ Goals -QF/SF/Final</title>
 </programme>
 <programme start="20260729153000 +0000" stop="20260729154500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ Goals -Rd. 2(B)</title>
@@ -54,15 +30,6 @@
 </programme>
 <programme start="20260729160000 +0000" stop="20260729181500 +0000" channel="Now Sports 618.nowtv">
     <title>FIFA World Cup 2026™ -Rd of 32 - France vs Sweden</title>
-</programme>
-<programme start="20260729130000 +0000" stop="20260729150000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Liverpool vs Sunderland</title>
-</programme>
-<programme start="20260729150000 +0000" stop="20260729151500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 16</title>
-</programme>
-<programme start="20260729151500 +0000" stop="20260729153000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 17</title>
 </programme>
 <programme start="20260729153000 +0000" stop="20260729160000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Stories 26/27 -A FAMILY UNITED</title>

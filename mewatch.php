@@ -34,13 +34,13 @@
     <programme start="20260729085500 +0000" stop="20260729120600 +0000" channel="Unknown Channel.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Heats - 29 Jul 2026</title>
     </programme>
-    <programme start="20260729120600 +0000" stop="20260729125000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729120600 +0000" stop="20260729130500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260729125000 +0000" stop="20260729153000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729130500 +0000" stop="20260729150800 +0000" channel="Unknown Channel.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games Men&#039;s 94kg Final</title>
     </programme>
-    <programme start="20260729153000 +0000" stop="20260729155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729150800 +0000" stop="20260729155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260729160000 +0000" stop="20260729172000 +0000" channel="Unknown Channel.mewatch">
@@ -220,11 +220,8 @@
     <programme start="20260729130000 +0000" stop="20260729133000 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260729133000 +0000" stop="20260729153000 +0000" channel="Channel 5.mewatch">
-        <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Heats</title>
-    </programme>
-    <programme start="20260729153000 +0000" stop="20260729163000 +0000" channel="Channel 5.mewatch">
-        <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Bronze Medal Matches</title>
+    <programme start="20260729133000 +0000" stop="20260729163000 +0000" channel="Channel 5.mewatch">
+        <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Heats - 29 Jul 2026</title>
     </programme>
     <programme start="20260728160000 +0000" stop="20260728170000 +0000" channel="Channel 8.mewatch">
         <title>The Legend of Heroes - Hot Blooded - EP 30</title>
