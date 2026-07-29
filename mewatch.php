@@ -1,10 +1,10 @@
     <programme start="20260729160000 +0000" stop="20260729175000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260729175000 +0000" stop="20260729211500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729175000 +0000" stop="20260729211700 +0000" channel="Unknown Channel.mewatch">
         <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals - 30 July 2026</title>
     </programme>
-    <programme start="20260729211500 +0000" stop="20260730085000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729211700 +0000" stop="20260730085000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260730085000 +0000" stop="20260730123000 +0000" channel="Unknown Channel.mewatch">
@@ -40,10 +40,10 @@
     <programme start="20260730145000 +0000" stop="20260730180000 +0000" channel="Unknown Channel.mewatch">
         <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals | Medal Ceremony</title>
     </programme>
-    <programme start="20260729152000 +0000" stop="20260729205000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729152000 +0000" stop="20260729204400 +0000" channel="Unknown Channel.mewatch">
         <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Bronze and Gold Medal Match | Medal Ceremony</title>
     </programme>
-    <programme start="20260729205000 +0000" stop="20260730113500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729204400 +0000" stop="20260730113500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260730113500 +0000" stop="20260730130000 +0000" channel="Unknown Channel.mewatch">
@@ -89,10 +89,10 @@
         <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Heats - 29 July 2026</title>
     </programme>
     <programme start="20260729170000 +0000" stop="20260729180000 +0000" channel="Channel 5.mewatch">
-        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games: Para Men’s Pairs B6-B8 - SCO vs SGP: Para Men’s Pairs B6-B8 - SCO vs SGP</title>
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games: Para Men’s Pairs B6-B8 - SCO vs SGP</title>
     </programme>
     <programme start="20260729180000 +0000" stop="20260729210000 +0000" channel="Channel 5.mewatch">
-        <title>Swimming &amp; Para Swimming | Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Semi-finals | Finals - 30 Jul 2026: Men&#039;s &amp; Women&#039;s Finals - 30 Jul 2026</title>
+        <title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Finals - 30 Jul 2026</title>
     </programme>
     <programme start="20260729210000 +0000" stop="20260729220000 +0000" channel="Channel 5.mewatch">
         <title>The Cube Australia - EP 1</title>

@@ -523,10 +523,10 @@
   <programme start="20260731121500 +0000" stop="20260731131000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XXII (6)</title>
   </programme>
-  <programme start="20260731131000 +0000" stop="20260731140500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260731131000 +0000" stop="20260731140000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady (5)</title>
   </programme>
-  <programme start="20260731140500 +0000" stop="20260731150000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260731140000 +0000" stop="20260731150000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (5)</title>
   </programme>
   <programme start="20260731150000 +0000" stop="20260731152500 +0000" channel="Markíza.webtv.sk">
@@ -4399,20 +4399,20 @@
   <programme start="20260731214000 +0000" stop="20260731222500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVII (14)</title>
   </programme>
-  <programme start="20260730212000 +0000" stop="20260730230500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260730210000 +0000" stop="20260730224500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Maigret (30)</title>
   </programme>
-  <programme start="20260730230500 +0000" stop="20260730235500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260730224500 +0000" stop="20260730233500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG II (5)</title>
   </programme>
-  <programme start="20260730235500 +0000" stop="20260731004000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260730233500 +0000" stop="20260731002000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG II (6)</title>
   </programme>
-  <programme start="20260731004000 +0000" stop="20260731012500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731002000 +0000" stop="20260731010500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vražedná čísla II (17)</title>
   </programme>
-  <programme start="20260731012500 +0000" stop="20260731020000 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">Moje místa: Jan Potměšil</title>
+  <programme start="20260731010500 +0000" stop="20260731020000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Moje místa: Pavel Nový</title>
   </programme>
   <programme start="20260731020000 +0000" stop="20260731022500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ušák Jaromíra Bosáka (132)</title>
@@ -4429,47 +4429,53 @@
   <programme start="20260731031500 +0000" stop="20260731040000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zahradní proměny X (1)</title>
   </programme>
-  <programme start="20260731040000 +0000" stop="20260731041000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731040000 +0000" stop="20260731041500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ve dvou se to lépe vaří (recepty) (22)</title>
   </programme>
-  <programme start="20260731041000 +0000" stop="20260731051000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731041500 +0000" stop="20260731051500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Moje místa: Jana Švandová</title>
+  </programme>
+  <programme start="20260731051500 +0000" stop="20260731060500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vražedná čísla II (17)</title>
   </programme>
-  <programme start="20260731051000 +0000" stop="20260731061000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731060500 +0000" stop="20260731070000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zahradní proměny X (2)</title>
   </programme>
-  <programme start="20260731061000 +0000" stop="20260731080500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731070000 +0000" stop="20260731084500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Maigret (30)</title>
   </programme>
-  <programme start="20260731080500 +0000" stop="20260731090500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731084500 +0000" stop="20260731094000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG II (5)</title>
   </programme>
-  <programme start="20260731090500 +0000" stop="20260731100500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731094000 +0000" stop="20260731103500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG II (6)</title>
   </programme>
-  <programme start="20260731100500 +0000" stop="20260731122000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731103500 +0000" stop="20260731123500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Živelná pohroma</title>
   </programme>
-  <programme start="20260731122000 +0000" stop="20260731132000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731123500 +0000" stop="20260731133000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vražedná čísla II (18)</title>
   </programme>
-  <programme start="20260731132000 +0000" stop="20260731151000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731133000 +0000" stop="20260731151000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Maigret (31)</title>
   </programme>
   <programme start="20260731151000 +0000" stop="20260731160500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zahradní proměny X (3)</title>
   </programme>
-  <programme start="20260731160500 +0000" stop="20260731170500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731160500 +0000" stop="20260731171000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG II (7)</title>
   </programme>
-  <programme start="20260731170500 +0000" stop="20260731181000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731171000 +0000" stop="20260731181000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG II (8)</title>
   </programme>
-  <programme start="20260731181000 +0000" stop="20260731200500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731181000 +0000" stop="20260731200000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Tajná zbraň</title>
   </programme>
-  <programme start="20260731200500 +0000" stop="20260731220500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260731200000 +0000" stop="20260731214500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Malý Velký Bojovník</title>
+  </programme>
+  <programme start="20260731214500 +0000" stop="20260731232000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Maigret (31)</title>
   </programme>
   <programme start="20260730213500 +0000" stop="20260730221500 +0000" channel="Barrandov.webtv.sk">
     <title lang="id">Mazec</title>
