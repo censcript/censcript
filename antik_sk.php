@@ -697,10 +697,10 @@
   <programme start="20260731131500 +0000" stop="20260731141000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XXII (6)</title>
   </programme>
-  <programme start="20260731141000 +0000" stop="20260731150500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260731141000 +0000" stop="20260731150000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Susedské prípady (5)</title>
   </programme>
-  <programme start="20260731150500 +0000" stop="20260731160000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Rodinné prípady (5)</title>
   </programme>
   <programme start="20260731160000 +0000" stop="20260731162500 +0000" channel="Markíza +1.webtv.sk">
@@ -4900,8 +4900,11 @@
   <programme start="20260731183000 +0000" stop="20260731190000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Topspeed</title>
   </programme>
-  <programme start="20260731190000 +0000" stop="20260731200000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260731190000 +0000" stop="20260731195000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260731195000 +0000" stop="20260731200000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">ENDURO magazín</title>
   </programme>
   <programme start="20260731200000 +0000" stop="20260731210000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
@@ -5641,7 +5644,7 @@
   <programme start="20260731210900 +0000" stop="20260731215400 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Afričtí lovci III (1)</title>
   </programme>
-  <programme start="20260731215400 +0000" stop="20260801005400 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260731215400 +0000" stop="20260731224300 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Smrtící řeky</title>
   </programme>
   <programme start="20260730220000 +0000" stop="20260730230000 +0000" channel="Discovery.webtv.sk">

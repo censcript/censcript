@@ -46,10 +46,10 @@
     <programme start="20260729073000 +0000" stop="20260729074800 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Sắc hoa trên váy áo người Mông </title>
     </programme>
-    <programme start="20260729074800 +0000" stop="20260729080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260729074800 +0000" stop="20260729080700 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình trực tiếp: Quán triệt, triển khai Nghị quyết hội nghị Trung ương Đảng lần thứ ba </title>
     </programme>
-    <programme start="20260729080000 +0000" stop="20260729113000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260729080700 +0000" stop="20260729113000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20260729113000 +0000" stop="20260729114500 +0000" channel="VTV1 HD.mytv">

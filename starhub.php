@@ -3008,7 +3008,7 @@
         <title>News</title>
     </programme>
     <programme start="20260728163000 +0000" stop="20260728170000 +0000" channel="DW English HD.starhub">
-        <title>Why Manila keeps flooding despite billions spent on defenses</title>
+        <title>Merz Under Pressure: What the Berlin Pride Attack Changes for Germany</title>
     </programme>
     <programme start="20260728170000 +0000" stop="20260728171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3035,7 +3035,7 @@
         <title>Indias&#039;s Carbon Neutral Villages 2050</title>
     </programme>
     <programme start="20260728193000 +0000" stop="20260728200000 +0000" channel="DW English HD.starhub">
-        <title>Can earthquakes be created on demand and predicted?</title>
+        <title>Merz Under Pressure: What the Berlin Pride Attack Changes for Germany</title>
     </programme>
     <programme start="20260728200000 +0000" stop="20260728203000 +0000" channel="DW English HD.starhub">
         <title>News</title>

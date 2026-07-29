@@ -7801,35 +7801,38 @@
 <programme start="20260729011500 +0000" stop="20260729030000 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260729030000 +0000" stop="20260729050000 +0000" channel="SCTV.mncvision">
+<programme start="20260729030000 +0000" stop="20260729044700 +0000" channel="SCTV.mncvision">
     <title>Pawang Hati Anti Tanggal Tua</title>
 </programme>
-<programme start="20260729050000 +0000" stop="20260729053000 +0000" channel="SCTV.mncvision">
+<programme start="20260729044700 +0000" stop="20260729052200 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260729053000 +0000" stop="20260729070000 +0000" channel="SCTV.mncvision">
+<programme start="20260729052200 +0000" stop="20260729070000 +0000" channel="SCTV.mncvision">
     <title>Izin Naksir Ketua Montir Mania</title>
 </programme>
-<programme start="20260729070000 +0000" stop="20260729083000 +0000" channel="SCTV.mncvision">
+<programme start="20260729070000 +0000" stop="20260729083400 +0000" channel="SCTV.mncvision">
     <title>Kupon Cinta Dibuang Sayang</title>
 </programme>
-<programme start="20260729083000 +0000" stop="20260729101500 +0000" channel="SCTV.mncvision">
+<programme start="20260729083400 +0000" stop="20260729101100 +0000" channel="SCTV.mncvision">
     <title>Inem KW Undercover</title>
 </programme>
-<programme start="20260729101500 +0000" stop="20260729114500 +0000" channel="SCTV.mncvision">
+<programme start="20260729101100 +0000" stop="20260729115000 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260729114500 +0000" stop="20260729131500 +0000" channel="SCTV.mncvision">
+<programme start="20260729115000 +0000" stop="20260729131200 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260729131500 +0000" stop="20260729144500 +0000" channel="SCTV.mncvision">
+<programme start="20260729131200 +0000" stop="20260729143400 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260729144500 +0000" stop="20260729160000 +0000" channel="SCTV.mncvision">
+<programme start="20260729143400 +0000" stop="20260729155600 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260729160000 +0000" stop="20260729163000 +0000" channel="SCTV.mncvision">
+<programme start="20260729155600 +0000" stop="20260729165300 +0000" channel="SCTV.mncvision">
     <title>The Sexy Doctor Is Mine</title>
+</programme>
+<programme start="20260729165300 +0000" stop="20260728172300 +0000" channel="SCTV.mncvision">
+    <title>Cintaku Pembantuku</title>
 </programme>
 <programme start="20260728170500 +0000" stop="20260728182600 +0000" channel="SCTV HD.mncvision">
     <title>Pacarku Bidan Biduan</title>
@@ -7858,35 +7861,38 @@
 <programme start="20260729011500 +0000" stop="20260729030000 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260729030000 +0000" stop="20260729050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729030000 +0000" stop="20260729044700 +0000" channel="SCTV HD.mncvision">
     <title>Pawang Hati Anti Tanggal Tua</title>
 </programme>
-<programme start="20260729050000 +0000" stop="20260729053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729044700 +0000" stop="20260729052200 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260729053000 +0000" stop="20260729070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729052200 +0000" stop="20260729070000 +0000" channel="SCTV HD.mncvision">
     <title>Izin Naksir Ketua Montir Mania</title>
 </programme>
-<programme start="20260729070000 +0000" stop="20260729083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729070000 +0000" stop="20260729083400 +0000" channel="SCTV HD.mncvision">
     <title>Kupon Cinta Dibuang Sayang</title>
 </programme>
-<programme start="20260729083000 +0000" stop="20260729101500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729083400 +0000" stop="20260729101100 +0000" channel="SCTV HD.mncvision">
     <title>Inem KW Undercover</title>
 </programme>
-<programme start="20260729101500 +0000" stop="20260729114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729101100 +0000" stop="20260729115000 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260729114500 +0000" stop="20260729131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729115000 +0000" stop="20260729131200 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260729131500 +0000" stop="20260729144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729131200 +0000" stop="20260729143400 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260729144500 +0000" stop="20260729160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729143400 +0000" stop="20260729155600 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260729160000 +0000" stop="20260729163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729155600 +0000" stop="20260729165300 +0000" channel="SCTV HD.mncvision">
     <title>The Sexy Doctor Is Mine</title>
+</programme>
+<programme start="20260729165300 +0000" stop="20260728172300 +0000" channel="SCTV HD.mncvision">
+    <title>Cintaku Pembantuku</title>
 </programme>
 <programme start="20260728170000 +0000" stop="20260728180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>

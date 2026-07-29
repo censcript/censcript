@@ -3235,9 +3235,6 @@
     <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="49923086914927.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="946948.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260729000000 +0000" stop="20260729000828 +0000" channel="969745.shahid">
         <title>Abu Al Malayeen Season 1 Episode 6</title>
     </programme>
@@ -3433,13 +3430,10 @@
     <programme start="20260730235846 +0000" stop="20260730235959 +0000" channel="969745.shahid">
         <title>Abu Al Malayeen Season 1 Episode 26</title>
     </programme>
+    <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="946948.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="951783.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="49923088717401.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260729000000 +0000" stop="20260729001024 +0000" channel="989622.shahid">
@@ -3534,6 +3528,12 @@
     </programme>
     <programme start="20260730235903 +0000" stop="20260730235959 +0000" channel="989622.shahid">
         <title>Adrenalin</title>
+    </programme>
+    <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="49923088717401.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260729000000 +0000" stop="20260730235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
