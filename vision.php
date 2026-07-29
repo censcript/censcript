@@ -271,10 +271,10 @@
 <programme start="20260729140000 +0000" stop="20260729150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260729150000 +0000" stop="20260729150500 +0000" channel="iNews.vision">
+<programme start="20260729150000 +0000" stop="20260729151000 +0000" channel="iNews.vision">
 <title>Breaking Goals</title>
 </programme>
-<programme start="20260729150500 +0000" stop="20260729163000 +0000" channel="iNews.vision">
+<programme start="20260729151000 +0000" stop="20260729163000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20260729163000 +0000" stop="20260729170000 +0000" channel="iNews.vision">
@@ -858,9 +858,6 @@
 </programme>
 <programme start="20260729110000 +0000" stop="20260729130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260729130000 +0000" stop="20260729140000 +0000" channel="TVOne.vision">
-<title>Indonesia Bussines Forum (L)</title>
 </programme>
 <programme start="20260729140000 +0000" stop="20260729150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260730050500 +0000" stop="20260730053000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260730053000 +0000" stop="20260730063000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>

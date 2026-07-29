@@ -64,10 +64,10 @@
 <programme start="20260729141500 +0000" stop="20260729144500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Full Irish Hidden Camera Show - Episode 8</title>
 </programme>
-<programme start="20260729144500 +0000" stop="20260729154500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260729144500 +0000" stop="20260729155000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>MasterChef Australia - Episode 42</title>
 </programme>
-<programme start="20260729154500 +0000" stop="20260729164500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260729155000 +0000" stop="20260729164500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>At Your Service - Jewel Lodge</title>
 </programme>
 <programme start="20260729164500 +0000" stop="20260729165500 +0000" channel="RTE_One_HD.virginmediatv">
@@ -352,10 +352,10 @@
 <programme start="20260729151500 +0000" stop="20260729154500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Full Irish Hidden Camera Show - Episode 8</title>
 </programme>
-<programme start="20260729154500 +0000" stop="20260729164500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260729154500 +0000" stop="20260729165000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>MasterChef Australia - Episode 42</title>
 </programme>
-<programme start="20260729164500 +0000" stop="20260729174500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260729165000 +0000" stop="20260729174500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>At Your Service - Jewel Lodge</title>
 </programme>
 <programme start="20260729174500 +0000" stop="20260729175500 +0000" channel="RTE_One_+1.virginmediatv">
