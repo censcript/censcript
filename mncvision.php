@@ -5482,8 +5482,11 @@
 <programme start="20260728173000 +0000" stop="20260728183000 +0000" channel="Kompas TV.mncvision">
     <title>Berita Utama</title>
 </programme>
-<programme start="20260728183000 +0000" stop="20260728193000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260728183000 +0000" stop="20260728190000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Petang</title>
+</programme>
+<programme start="20260728190000 +0000" stop="20260728193000 +0000" channel="Kompas TV.mncvision">
+    <title>Suara Alfa Omega</title>
 </programme>
 <programme start="20260728193000 +0000" stop="20260728200000 +0000" channel="Kompas TV.mncvision">
     <title>Indonesia Update</title>
@@ -5494,11 +5497,26 @@
 <programme start="20260728210000 +0000" stop="20260728213000 +0000" channel="Kompas TV.mncvision">
     <title>Borgol</title>
 </programme>
-<programme start="20260728213000 +0000" stop="20260729000000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260728213000 +0000" stop="20260728220000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Pagi</title>
 </programme>
-<programme start="20260729000000 +0000" stop="20260729023000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260728220000 +0000" stop="20260728223000 +0000" channel="Kompas TV.mncvision">
+    <title>Household Of Faith</title>
+</programme>
+<programme start="20260728223000 +0000" stop="20260728230000 +0000" channel="Kompas TV.mncvision">
+    <title>Life Music</title>
+</programme>
+<programme start="20260728230000 +0000" stop="20260729000000 +0000" channel="Kompas TV.mncvision">
+    <title>Suara Alfa Omega</title>
+</programme>
+<programme start="20260729000000 +0000" stop="20260729010000 +0000" channel="Kompas TV.mncvision">
     <title>Sapa Indonesia Pagi</title>
+</programme>
+<programme start="20260729010000 +0000" stop="20260729020000 +0000" channel="Kompas TV.mncvision">
+    <title>Building A Better You</title>
+</programme>
+<programme start="20260729020000 +0000" stop="20260729023000 +0000" channel="Kompas TV.mncvision">
+    <title>Good News</title>
 </programme>
 <programme start="20260729023000 +0000" stop="20260729030000 +0000" channel="Kompas TV.mncvision">
     <title>Mini Series Korlantas Polri</title>
@@ -5509,11 +5527,20 @@
 <programme start="20260729033000 +0000" stop="20260729040000 +0000" channel="Kompas TV.mncvision">
     <title>Borgol</title>
 </programme>
-<programme start="20260729040000 +0000" stop="20260729060000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260729040000 +0000" stop="20260729050000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Siang</title>
 </programme>
-<programme start="20260729060000 +0000" stop="20260729070000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260729050000 +0000" stop="20260729053000 +0000" channel="Kompas TV.mncvision">
+    <title>Way Out</title>
+</programme>
+<programme start="20260729053000 +0000" stop="20260729060000 +0000" channel="Kompas TV.mncvision">
+    <title>Shalom Doc</title>
+</programme>
+<programme start="20260729060000 +0000" stop="20260729063000 +0000" channel="Kompas TV.mncvision">
     <title>Sapa Indonesia Siang</title>
+</programme>
+<programme start="20260729063000 +0000" stop="20260729070000 +0000" channel="Kompas TV.mncvision">
+    <title>Life Music</title>
 </programme>
 <programme start="20260729070000 +0000" stop="20260729073000 +0000" channel="Kompas TV.mncvision">
     <title>Zona Inspirasi</title>
@@ -5527,20 +5554,35 @@
 <programme start="20260729083000 +0000" stop="20260729090000 +0000" channel="Kompas TV.mncvision">
     <title>Borgol</title>
 </programme>
-<programme start="20260729090000 +0000" stop="20260729103000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260729090000 +0000" stop="20260729093000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Petang</title>
 </programme>
-<programme start="20260729103000 +0000" stop="20260729123000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260729093000 +0000" stop="20260729103000 +0000" channel="Kompas TV.mncvision">
+    <title>Suara Alfa Omega</title>
+</programme>
+<programme start="20260729103000 +0000" stop="20260729113000 +0000" channel="Kompas TV.mncvision">
     <title>Sapa Indonesia Malam</title>
 </programme>
-<programme start="20260729123000 +0000" stop="20260729133000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260729113000 +0000" stop="20260729123000 +0000" channel="Kompas TV.mncvision">
+    <title>Good News</title>
+</programme>
+<programme start="20260729123000 +0000" stop="20260729130000 +0000" channel="Kompas TV.mncvision">
     <title>Berita Utama</title>
 </programme>
-<programme start="20260729133000 +0000" stop="20260729143000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260729130000 +0000" stop="20260729133000 +0000" channel="Kompas TV.mncvision">
+    <title>Shalom Doc</title>
+</programme>
+<programme start="20260729133000 +0000" stop="20260729140000 +0000" channel="Kompas TV.mncvision">
     <title>Satu Meja The Forum</title>
 </programme>
-<programme start="20260729143000 +0000" stop="20260729153000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260729140000 +0000" stop="20260729143000 +0000" channel="Kompas TV.mncvision">
+    <title>Saat Teduh Bersama</title>
+</programme>
+<programme start="20260729143000 +0000" stop="20260729150000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Malam</title>
+</programme>
+<programme start="20260729150000 +0000" stop="20260729153000 +0000" channel="Kompas TV.mncvision">
+    <title>Life Music</title>
 </programme>
 <programme start="20260729153000 +0000" stop="20260729160000 +0000" channel="Kompas TV.mncvision">
     <title>Berita Utama</title>
@@ -5648,7 +5690,7 @@
     <title>In The Gap With Choco De Jesus</title>
 </programme>
 <programme start="20260729160000 +0000" stop="20260729163000 +0000" channel="LIFE.mncvision">
-    <title>Solusi</title>
+    <title>Sentuhan Kasih</title>
 </programme>
 <programme start="20260729163000 +0000" stop="20260728170000 +0000" channel="LIFE.mncvision">
     <title>Building A Better You</title>

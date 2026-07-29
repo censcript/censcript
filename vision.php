@@ -271,10 +271,10 @@
 <programme start="20260729140000 +0000" stop="20260729150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260729150000 +0000" stop="20260729150500 +0000" channel="iNews.vision">
+<programme start="20260729150000 +0000" stop="20260729151000 +0000" channel="iNews.vision">
 <title>Breaking Goals</title>
 </programme>
-<programme start="20260729150500 +0000" stop="20260729163000 +0000" channel="iNews.vision">
+<programme start="20260729151000 +0000" stop="20260729163000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20260729163000 +0000" stop="20260729170000 +0000" channel="iNews.vision">

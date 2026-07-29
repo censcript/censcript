@@ -4790,35 +4790,21 @@
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20260728220500 +0000" stop="20260728232000 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Go Go With Mr. Paik</title>
-    <desc lang="en">Korean star chef Paik Jong-won, together with Onew, Jung Chae-yeon, Lee Seung-hoon and Gong Seung-yeon are travelling to Malaysia, Thailand and Singapore, enjoying their holiday as well as exploring local markets for exotic ingredients to cook their meals.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260728232000 +0000" stop="20260729003500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Go Go With Mr. Paik</title>
-    <desc lang="en">Korean star chef Paik Jong-won, together with Onew, Jung Chae-yeon, Lee Seung-hoon and Gong Seung-yeon are travelling to Malaysia, Thailand and Singapore, enjoying their holiday as well as exploring local markets for exotic ingredients to cook their meals.</desc>
+  <programme start="20260728220500 +0000" stop="20260729002000 +0000" channel="tvnhd.unifitv">
+    <title lang="en">World of Street Woman Fighter</title>
+    <desc lang="en">The Street Woman Fighter series make a triumphant return on a global stage! 6 dance crews from different countries set to compete in an upgraded match to win the title of International Champion!</desc>
     <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20260729003500 +0000" stop="20260729005500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">You Can Cook With Sam Kim</title>
-    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
+  <programme start="20260729002000 +0000" stop="20260729012000 +0000" channel="tvnhd.unifitv">
+    <title lang="en">Walking Through The Village</title>
+    <desc lang="en">Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260729005500 +0000" stop="20260729012500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Chansung's Cooking</title>
-    <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260729012500 +0000" stop="20260729030500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260729012000 +0000" stop="20260729030500 +0000" channel="tvnhd.unifitv">
     <title lang="en">GBRB: Farm Operation - Go Go Farm</title>
     <desc lang="en">The ultimate bestie trio Lee Kwang-soo, Kim Woo-bin, and Doh Kyung-soo head to Jeju Island for a "farm-tastic" new farm stay adventure.</desc>
     <category lang="en">Variety</category>
@@ -4832,33 +4818,33 @@
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20260729041500 +0000" stop="20260729060500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">KILL IT: Style Creator Showdown</title>
-    <desc lang="en">100 women compete in this high-stakes survival show to become the next global K-fashion icon.</desc>
+  <programme start="20260729041500 +0000" stop="20260729055500 +0000" channel="tvnhd.unifitv">
+    <title lang="en">Guardian 10th Anniversary</title>
+    <desc lang="en">To celebrate the 10th anniversary of 'Guardian: The Lonely and Great God', its beloved stars reunite for a special trip together and revisit meaningful places from the drama.</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260729060500 +0000" stop="20260729081500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260729055500 +0000" stop="20260729073500 +0000" channel="tvnhd.unifitv">
+    <title lang="en">Guardian 10th Anniversary</title>
+    <desc lang="en">To celebrate the 10th anniversary of 'Guardian: The Lonely and Great God', its beloved stars reunite for a special trip together and revisit meaningful places from the drama.</desc>
+    <category lang="en">Variety</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260729073500 +0000" stop="20260729093500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Undercover Chef - Korea</title>
     <desc lang="en">Top celebrity chefs go undercover as a junior kitchen staff in the very country that shaped their culinary roots, challenge to earn recognition from locals in 5 days!</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme start="20260729081500 +0000" stop="20260729102500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Undercover Chef - Korea</title>
-    <desc lang="en">Top celebrity chefs go undercover as a junior kitchen staff in the very country that shaped their culinary roots, challenge to earn recognition from locals in 5 days!</desc>
+  <programme start="20260729093500 +0000" stop="20260729105000 +0000" channel="tvnhd.unifitv">
+    <title lang="en">Mr. Eo's Food World Tour</title>
+    <desc lang="en">Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260729102500 +0000" stop="20260729105000 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Chansung's Cooking</title>
-    <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260729105000 +0000" stop="20260729121000 +0000" channel="tvnhd.unifitv">
     <title lang="en">Mr. Eo's Food World Tour</title>

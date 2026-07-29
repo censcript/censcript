@@ -1168,8 +1168,11 @@
 <programme start="20260729031500 +0000" stop="20260729033500 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With the Screamer</title>
 </programme>
-<programme start="20260729033500 +0000" stop="20260729050000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20260729033500 +0000" stop="20260729040000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With Ross&#039;s Thing</title>
+</programme>
+<programme start="20260729040000 +0000" stop="20260729050000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Teleshopping</title>
 </programme>
 <programme start="20260729050000 +0000" stop="20260729053000 +0000" channel="Comedy_HD.virginmediatv">
     <title>The Real Cruise People</title>

@@ -820,10 +820,10 @@
   <programme start="20260731214000 +0000" stop="20260731235000 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Čierni baróni</title>
   </programme>
-  <programme start="20260730214000 +0000" stop="20260730222500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260730214000 +0000" stop="20260730223000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (21)</title>
   </programme>
-  <programme start="20260730222500 +0000" stop="20260730231000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260730223000 +0000" stop="20260730231000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (22)</title>
   </programme>
   <programme start="20260730231000 +0000" stop="20260731000000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -859,34 +859,34 @@
   <programme start="20260731085500 +0000" stop="20260731093500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (22)</title>
   </programme>
-  <programme start="20260731093500 +0000" stop="20260731113500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731093500 +0000" stop="20260731113000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Superpolicajt</title>
   </programme>
-  <programme start="20260731113500 +0000" stop="20260731122000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731113000 +0000" stop="20260731121500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána VIII (15)</title>
   </programme>
-  <programme start="20260731122000 +0000" stop="20260731131000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731121500 +0000" stop="20260731130500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Hviezdna brána VIII (16)</title>
   </programme>
-  <programme start="20260731131000 +0000" stop="20260731140500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731130500 +0000" stop="20260731140000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Pobrežná hliadka I (20)</title>
   </programme>
-  <programme start="20260731140500 +0000" stop="20260731150000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731140000 +0000" stop="20260731145500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Pobrežná hliadka I (21)</title>
   </programme>
-  <programme start="20260731150000 +0000" stop="20260731155500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731145500 +0000" stop="20260731155000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 XVI (9)</title>
   </programme>
-  <programme start="20260731155500 +0000" stop="20260731164500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731155000 +0000" stop="20260731164500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Kobra 11 XVI (10)</title>
   </programme>
-  <programme start="20260731164500 +0000" stop="20260731173500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731164500 +0000" stop="20260731173000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (23)</title>
   </programme>
-  <programme start="20260731173500 +0000" stop="20260731183000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731173000 +0000" stop="20260731182500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VII (24)</title>
   </programme>
-  <programme start="20260731183000 +0000" stop="20260731190000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260731182500 +0000" stop="20260731190000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H VI (17)</title>
   </programme>
   <programme start="20260731190000 +0000" stop="20260731213500 +0000" channel="Markíza Klasik.webtv.sk">
@@ -1793,10 +1793,10 @@
     <title lang="id">Doslova</title>
   </programme>
   <programme start="20260731043500 +0000" stop="20260731051500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V tieni zločinu</title>
+    <title lang="id">V tieni zločinu - Jozef Čentéš</title>
   </programme>
   <programme start="20260731051500 +0000" stop="20260731055500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Len peniaze nestačia</title>
+    <title lang="id">Len peniaze nestačia - Ján Palenčár</title>
   </programme>
   <programme start="20260731055500 +0000" stop="20260731070000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Kvety Tatier</title>
@@ -1838,13 +1838,16 @@
     <title lang="id">Slovenská klasika: Námestie svätej Alžbety</title>
   </programme>
   <programme start="20260731174500 +0000" stop="20260731182500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V tieni zločinu</title>
+    <title lang="id">V tieni zločinu - Juraj Zábojník</title>
   </programme>
   <programme start="20260731182500 +0000" stop="20260731192500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Toto je Anglicko (2)</title>
   </programme>
-  <programme start="20260731192500 +0000" stop="20260731222500 +0000" channel="Kanal1.webtv.sk">
+  <programme start="20260731192500 +0000" stop="20260731212500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Bohuš je rázovitý dedinský chlapík, ktorý žije sám v rozpadajúcej sa chalupe. Väčšinu času však so svojimi kumpánmi trávi popíjaním slivovice a záhaľčivým povaľovaním v tráve. Jeho spokojný život sa zmení v okamihu, keď sa objaví advokát Ulrich</title>
+  </programme>
+  <programme start="20260731212500 +0000" stop="20260731231500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Zlatá éra českého filmu: Dobří holubi se vracejí</title>
   </programme>
   <programme start="20260730220000 +0000" stop="20260730222500 +0000" channel="Jojko.webtv.sk">
     <title lang="id">Moe a jeho šou III (21)</title>
