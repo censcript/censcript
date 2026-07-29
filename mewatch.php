@@ -25,10 +25,10 @@
     <programme start="20260729160000 +0000" stop="20260729172000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260729172000 +0000" stop="20260729201000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729172000 +0000" stop="20260729210000 +0000" channel="Unknown Channel.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Semi-finals | Finals - 30 Jul 2026</title>
     </programme>
-    <programme start="20260729201000 +0000" stop="20260730085000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729210000 +0000" stop="20260730085000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260730085000 +0000" stop="20260730120000 +0000" channel="Unknown Channel.mewatch">
@@ -40,10 +40,10 @@
     <programme start="20260730145000 +0000" stop="20260730180000 +0000" channel="Unknown Channel.mewatch">
         <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals | Medal Ceremony</title>
     </programme>
-    <programme start="20260729152000 +0000" stop="20260729203000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729152000 +0000" stop="20260729205000 +0000" channel="Unknown Channel.mewatch">
         <title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Bronze and Gold Medal Match | Medal Ceremony</title>
     </programme>
-    <programme start="20260729203000 +0000" stop="20260730113500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260729205000 +0000" stop="20260730113500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260730113500 +0000" stop="20260730130000 +0000" channel="Unknown Channel.mewatch">
@@ -59,7 +59,7 @@
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Sectional Play - SGP vs NIU</title>
     </programme>
     <programme start="20260729164000 +0000" stop="20260729180500 +0000" channel="Unknown Channel.mewatch">
-        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Para Women&#039;s Pairs - NZL vs MAS</title>
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Para Women&#039;s Pairs B6-B8 - NZL vs MAS</title>
     </programme>
     <programme start="20260729180500 +0000" stop="20260729193000 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Sectional Play - MAS vs ZAM</title>

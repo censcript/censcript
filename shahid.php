@@ -2266,6 +2266,9 @@
     <programme start="20260731235650 +0000" stop="20260731235959 +0000" channel="49923172215352.shahid">
         <title>Tebka Mayel</title>
     </programme>
+    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="946940.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260730000000 +0000" stop="20260730000500 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
     </programme>
@@ -2559,9 +2562,6 @@
     </programme>
     <programme start="20260801000000 +0000" stop="20260731235959 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="946940.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260730000000 +0000" stop="20260730001500 +0000" channel="49923122575716.shahid">
         <title>El Me&#039;allem Season 1 Episode 12</title>
@@ -3919,9 +3919,6 @@
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="49922763510387.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260730000000 +0000" stop="20260730003226 +0000" channel="988045.shahid">
         <title>Hakaya Season 3 Episode 5</title>
     </programme>
@@ -4089,6 +4086,9 @@
     </programme>
     <programme start="20260731233253 +0000" stop="20260731235959 +0000" channel="988045.shahid">
         <title>Maraya 97 Episode 8</title>
+    </programme>
+    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="49922763510387.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="49923088717401.shahid">
         <title>TV guide is not available</title>
@@ -6379,9 +6379,6 @@
     <programme start="20260801000000 +0000" stop="20260731235959 +0000" channel="387288.shahid">
         <title>Al Hadath News</title>
     </programme>
-    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260730000000 +0000" stop="20260730000000 +0000" channel="387251.shahid">
         <title>Embratoriyyet Meem  </title>
     </programme>
@@ -6585,6 +6582,15 @@
     </programme>
     <programme start="20260801000000 +0000" stop="20260731235959 +0000" channel="387251.shahid">
         <title>Qorrat Aynik  </title>
+    </programme>
+    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="414449.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="49923264736646.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="946948.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260730000000 +0000" stop="20260730001607 +0000" channel="992538.shahid">
         <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 29</title>
@@ -6816,12 +6822,6 @@
     </programme>
     <programme start="20260731235107 +0000" stop="20260731235959 +0000" channel="992538.shahid">
         <title>El Le&#039;ba Season 1 Episode 15</title>
-    </programme>
-    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="49923264736646.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="946948.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260730000000 +0000" stop="20260730003955 +0000" channel="989622.shahid">
         <title>45 Youm</title>
