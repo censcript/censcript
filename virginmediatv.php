@@ -2063,10 +2063,10 @@
     <title>Teleshopping</title>
 </programme>
 <programme start="20260730115000 +0000" stop="20260730122500 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Classic EastEnders - Episode 233</title>
+    <title>Classic EastEnders - Episode 22</title>
 </programme>
 <programme start="20260730122500 +0000" stop="20260730130000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Classic EastEnders - Episode 234</title>
+    <title>Classic EastEnders - Episode 23</title>
 </programme>
 <programme start="20260730130000 +0000" stop="20260730133000 +0000" channel="UandDrama_HD.virginmediatv">
     <title>Classic Neighbours - Episode 17</title>

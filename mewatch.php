@@ -13,10 +13,10 @@
     <programme start="20260730123500 +0000" stop="20260730130500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260730130500 +0000" stop="20260730153000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730130500 +0000" stop="20260730152200 +0000" channel="Unknown Channel.mewatch">
         <title>Weightlifting - Glasgow 2026 Commonwealth Games Women&#039;s +86kg Final</title>
     </programme>
-    <programme start="20260730153000 +0000" stop="20260730155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730152200 +0000" stop="20260730155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260730160000 +0000" stop="20260730172000 +0000" channel="Unknown Channel.mewatch">
@@ -49,10 +49,10 @@
     <programme start="20260730113500 +0000" stop="20260730125300 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs Sectional Play - MAS vs NIU</title>
     </programme>
-    <programme start="20260730125300 +0000" stop="20260730152000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730125300 +0000" stop="20260730150800 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260730152000 +0000" stop="20260730164500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730150800 +0000" stop="20260730164500 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Sectional Play - MAS vs IND</title>
     </programme>
     <programme start="20260729151500 +0000" stop="20260729164000 +0000" channel="Unknown Channel.mewatch">
