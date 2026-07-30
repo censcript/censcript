@@ -2249,25 +2249,25 @@
     <title>Handbag Emporium</title>
 </programme>
 <programme start="20260730050000 +0000" stop="20260730060000 +0000" channel="QVC.virginmediatv">
-    <title>Handbag Emporium</title>
+    <title>Garden &amp; DIY Offers</title>
 </programme>
 <programme start="20260730120000 +0000" stop="20260730130000 +0000" channel="QVC.virginmediatv">
-    <title>Handbag Emporium</title>
+    <title>1PM With Bosch</title>
 </programme>
 <programme start="20260730130000 +0000" stop="20260730140000 +0000" channel="QVC.virginmediatv">
-    <title>Garden &amp; DIY Sale</title>
+    <title>Accessories Sale</title>
 </programme>
 <programme start="20260730140000 +0000" stop="20260730150000 +0000" channel="QVC.virginmediatv">
-    <title>The Jewellery Box</title>
+    <title>Jewellery Sale</title>
 </programme>
 <programme start="20260730150000 +0000" stop="20260730160000 +0000" channel="QVC.virginmediatv">
-    <title>Handbag Emporium</title>
+    <title>Clean &amp; Tidy Garden Care</title>
 </programme>
 <programme start="20260730160000 +0000" stop="20260730170000 +0000" channel="QVC.virginmediatv">
-    <title>SKINN Skincare</title>
+    <title>Up to 50% off SKINN</title>
 </programme>
 <programme start="20260730170000 +0000" stop="20260730180000 +0000" channel="QVC.virginmediatv">
-    <title>Panda London Bedding</title>
+    <title>Home Top Offers</title>
 </programme>
 <programme start="20260730000000 +0000" stop="20260730003000 +0000" channel="Food_Network.virginmediatv">
     <title>Mystery Diners - Singles Night</title>

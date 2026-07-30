@@ -3571,8 +3571,11 @@
     <programme start="20260730164000 +0000" stop="20260730171000 +0000" channel="NHK World Premium HD.starhub">
         <title>Shogi Focus</title>
     </programme>
-    <programme start="20260730171000 +0000" stop="20260730174000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260730171000 +0000" stop="20260730173500 +0000" channel="NHK World Premium HD.starhub">
         <title>HAYAUTA: Songs for Fresh Morning</title>
+    </programme>
+    <programme start="20260730173500 +0000" stop="20260730174000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Camera-eyed Japan</title>
     </programme>
     <programme start="20260730174000 +0000" stop="20260730174500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3593,7 +3596,7 @@
         <title>The &quot;Instruction Manual&quot; Show &quot;Thinking Patterns&quot; (R)</title>
     </programme>
     <programme start="20260730193000 +0000" stop="20260730195800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Lyric Analysis Class of Classic Pop Songs &quot;ZARD&quot; (R)</title>
+        <title>JAPAN DELISH</title>
     </programme>
     <programme start="20260730195800 +0000" stop="20260730200000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
