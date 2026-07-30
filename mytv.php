@@ -4,10 +4,10 @@
     <programme start="20260730000000 +0000" stop="20260730003000 +0000" channel="VTV1 HD.mytv">
         <title> Phụ nữ và cuộc sống: Phụ nữ làm chủ an sinh </title>
     </programme>
-    <programme start="20260730003000 +0000" stop="20260730004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260730003000 +0000" stop="20260730004400 +0000" channel="VTV1 HD.mytv">
         <title> Tổ quốc trong tim </title>
     </programme>
-    <programme start="20260730004500 +0000" stop="20260730011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260730004400 +0000" stop="20260730011000 +0000" channel="VTV1 HD.mytv">
         <title> Giai điệu kết nối </title>
     </programme>
     <programme start="20260730011000 +0000" stop="20260730020000 +0000" channel="VTV1 HD.mytv">
@@ -19,19 +19,19 @@
     <programme start="20260730023000 +0000" stop="20260730024500 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Cảnh báo cong vẹo cột sống </title>
     </programme>
-    <programme start="20260730024500 +0000" stop="20260730033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260730024500 +0000" stop="20260730033100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Lối về miền hoa - Tập 11 </title>
     </programme>
-    <programme start="20260730033000 +0000" stop="20260730041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260730033100 +0000" stop="20260730041200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Lối về miền hoa - Tập 12 </title>
     </programme>
-    <programme start="20260730041500 +0000" stop="20260730050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260730041200 +0000" stop="20260730050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Khám phá bãi Thơm từ những điều bình dị </title>
     </programme>
-    <programme start="20260730050500 +0000" stop="20260730051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260730050500 +0000" stop="20260730050900 +0000" channel="VTV1 HD.mytv">
         <title> Phụ nữ và cuộc sống: Phụ nữ làm chủ an sinh </title>
     </programme>
-    <programme start="20260730051000 +0000" stop="20260730053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260730050900 +0000" stop="20260730053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20260730053000 +0000" stop="20260730070000 +0000" channel="VTV1 HD.mytv">

@@ -4549,7 +4549,7 @@
 <programme start="20260730073000 +0000" stop="20260730170000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: Commonwealth Games 360 - Day 7</title>
 </programme>
-<programme start="20260730170000 +0000" stop="20260730213000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260730170000 +0000" stop="20260730213500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: Commonwealth Games 360 - Day 7</title>
 </programme>
 <programme start="20260729224500 +0000" stop="20260730001500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5197,7 +5197,7 @@
 <programme start="20260730073000 +0000" stop="20260730170000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: Commonwealth Games 360 - Day 7</title>
 </programme>
-<programme start="20260730170000 +0000" stop="20260730213000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260730170000 +0000" stop="20260730213500 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: Commonwealth Games 360 - Day 7</title>
 </programme>
 <programme start="20260729224500 +0000" stop="20260730001500 +0000" channel="TNT_Sports_3.virginmediatv">
