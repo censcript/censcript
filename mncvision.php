@@ -4234,11 +4234,11 @@
 <programme start="20260730110000 +0000" stop="20260730130000 +0000" channel="GTV.mncvision">
     <title>Kisah Burung Yang Setia</title>
 </programme>
-<programme start="20260730130000 +0000" stop="20260730143000 +0000" channel="GTV.mncvision">
-    <title>Metamorphosis</title>
+<programme start="20260730130000 +0000" stop="20260730150000 +0000" channel="GTV.mncvision">
+    <title>Mad Spider Sea</title>
 </programme>
-<programme start="20260730143000 +0000" stop="20260730160000 +0000" channel="GTV.mncvision">
-    <title>ASEAN C&#039;ship Hyundai Cup</title>
+<programme start="20260730150000 +0000" stop="20260730160000 +0000" channel="GTV.mncvision">
+    <title>The Lost Souls</title>
 </programme>
 <programme start="20260730160000 +0000" stop="20260730163000 +0000" channel="GTV.mncvision">
     <title>Arab Maklum</title>
@@ -4288,11 +4288,11 @@
 <programme start="20260730110000 +0000" stop="20260730130000 +0000" channel="GTV HD.mncvision">
     <title>Kisah Burung Yang Setia</title>
 </programme>
-<programme start="20260730130000 +0000" stop="20260730143000 +0000" channel="GTV HD.mncvision">
-    <title>Metamorphosis</title>
+<programme start="20260730130000 +0000" stop="20260730150000 +0000" channel="GTV HD.mncvision">
+    <title>Mad Spider Sea</title>
 </programme>
-<programme start="20260730143000 +0000" stop="20260730160000 +0000" channel="GTV HD.mncvision">
-    <title>ASEAN C&#039;ship Hyundai Cup</title>
+<programme start="20260730150000 +0000" stop="20260730160000 +0000" channel="GTV HD.mncvision">
+    <title>The Lost Souls</title>
 </programme>
 <programme start="20260730160000 +0000" stop="20260730163000 +0000" channel="GTV HD.mncvision">
     <title>Arab Maklum</title>

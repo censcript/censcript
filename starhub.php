@@ -2252,7 +2252,7 @@
         <title>Hail Baja Rally Final Highlights</title>
     </programme>
     <programme start="20260729223000 +0000" stop="20260730003000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Mubadala DC Open (500) Day 3 Session 3</title>
+        <title>(DNU) Mubadala DC Open (500) Day 3 Session 3</title>
     </programme>
     <programme start="20260730003000 +0000" stop="20260730013000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Episode 4</title>
@@ -2285,7 +2285,7 @@
         <title>Mubadala DC Open (500) Day 3 Session 2</title>
     </programme>
     <programme start="20260730153000 +0000" stop="20260730170000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Mubadala DC Open (500) Day 3 Session 3</title>
+        <title>Livesport Prague Open (250) Final</title>
     </programme>
     <programme start="20260729140000 +0000" stop="20260729161500 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -6473,7 +6473,7 @@
         <title>Mubadala Citi DC Open (500) Day 3 R2 Session 2</title>
     </programme>
     <programme start="20260730133000 +0000" stop="20260730150000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mubadala Citi DC Open (500) Day 3 R2 Session 3</title>
+        <title>Mifel Tennis Open (250) Day 3 R2 Session 2</title>
     </programme>
     <programme start="20260730150000 +0000" stop="20260730170000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala Citi DC Open (500) Day 4 R2 Session 1</title>
