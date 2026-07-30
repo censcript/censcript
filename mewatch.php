@@ -1,10 +1,10 @@
     <programme start="20260730160000 +0000" stop="20260730172000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260730172000 +0000" stop="20260730220000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730172000 +0000" stop="20260730210500 +0000" channel="Unknown Channel.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Semi-finals | Finals - 31 Jul 2026</title>
     </programme>
-    <programme start="20260730220000 +0000" stop="20260731085000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730210500 +0000" stop="20260731085000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260731085000 +0000" stop="20260731125000 +0000" channel="Unknown Channel.mewatch">
