@@ -103,14 +103,8 @@
 <programme start="20260730231500 +0000" stop="20260731000000 +0000" channel="MNCTV.vision">
 <title>Dora &amp; Sahabat</title>
 </programme>
-<programme start="20260731000000 +0000" stop="20260731003000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
-</programme>
 <programme start="20260731003000 +0000" stop="20260731010000 +0000" channel="MNCTV.vision">
 <title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260731010000 +0000" stop="20260731041500 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260731041500 +0000" stop="20260731050000 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -783,9 +777,6 @@
 </programme>
 <programme start="20260730110000 +0000" stop="20260730130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260730130000 +0000" stop="20260730140000 +0000" channel="TVOne.vision">
-<title>Dua Sisi (L)</title>
 </programme>
 <programme start="20260730140000 +0000" stop="20260730150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260730110000 +0000" stop="20260730120000 +0000" channel="TVRI.vision">
 <title>Klik Indonesia Petang</title>
+</programme>
+<programme start="20260730120000 +0000" stop="20260730130000 +0000" channel="TVRI.vision">
+<title>Indonesia Bicara</title>
+</programme>
+<programme start="20260730130000 +0000" stop="20260730133000 +0000" channel="TVRI.vision">
+<title>Jelajah Kopi</title>
+</programme>
+<programme start="20260730133000 +0000" stop="20260730140000 +0000" channel="TVRI.vision">
+<title>Bumi</title>
 </programme>
