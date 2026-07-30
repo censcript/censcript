@@ -166,204 +166,6 @@
     <programme start="20260731233253 +0000" stop="20260731235959 +0000" channel="988045.shahid">
         <title>Maraya 97 Episode 8</title>
     </programme>
-    <programme start="20260730000000 +0000" stop="20260730001500 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260730001500 +0000" stop="20260730005900 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260730005900 +0000" stop="20260730015000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260730015000 +0000" stop="20260730023500 +0000" channel="387294.shahid">
-        <title>Nasamat Ayloul Season 1 Episode 8</title>
-    </programme>
-    <programme start="20260730023500 +0000" stop="20260730031500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 14</title>
-    </programme>
-    <programme start="20260730031500 +0000" stop="20260730035000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 123</title>
-    </programme>
-    <programme start="20260730035000 +0000" stop="20260730042000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 74</title>
-    </programme>
-    <programme start="20260730042000 +0000" stop="20260730051000 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260730051000 +0000" stop="20260730060600 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260730060600 +0000" stop="20260730070000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260730070000 +0000" stop="20260730075500 +0000" channel="387294.shahid">
-        <title>Nasamat Ayloul Season 1 Episode 8</title>
-    </programme>
-    <programme start="20260730075500 +0000" stop="20260730085000 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 14</title>
-    </programme>
-    <programme start="20260730085000 +0000" stop="20260730092500 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 123</title>
-    </programme>
-    <programme start="20260730092500 +0000" stop="20260730100000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 74</title>
-    </programme>
-    <programme start="20260730100000 +0000" stop="20260730105500 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260730105500 +0000" stop="20260730115000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260730115000 +0000" stop="20260730123500 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260730123500 +0000" stop="20260730130500 +0000" channel="387294.shahid">
-        <title>Al Maktab Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260730130500 +0000" stop="20260730140000 +0000" channel="387294.shahid">
-        <title>Nasamat Ayloul Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260730140000 +0000" stop="20260730145500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 15</title>
-    </programme>
-    <programme start="20260730145500 +0000" stop="20260730155900 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 30</title>
-    </programme>
-    <programme start="20260730155900 +0000" stop="20260730163100 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 124</title>
-    </programme>
-    <programme start="20260730163100 +0000" stop="20260730170000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 75</title>
-    </programme>
-    <programme start="20260730170000 +0000" stop="20260730180000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260730180000 +0000" stop="20260730190000 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260730190000 +0000" stop="20260730200500 +0000" channel="387294.shahid">
-        <title>Arabs Got Talent Season 7 Episode 5</title>
-    </programme>
-    <programme start="20260730200500 +0000" stop="20260730203500 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 124</title>
-    </programme>
-    <programme start="20260730203500 +0000" stop="20260730210400 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 75</title>
-    </programme>
-    <programme start="20260730210400 +0000" stop="20260730220000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260730220000 +0000" stop="20260730224500 +0000" channel="387294.shahid">
-        <title>Nasamat Ayloul Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260730224500 +0000" stop="20260730232000 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 15</title>
-    </programme>
-    <programme start="20260730232000 +0000" stop="20260731002000 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 30</title>
-    </programme>
-    <programme start="20260731002000 +0000" stop="20260731010500 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260731010500 +0000" stop="20260731020000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260731020000 +0000" stop="20260731024000 +0000" channel="387294.shahid">
-        <title>Nasamat Ayloul Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260731024000 +0000" stop="20260731031600 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 15</title>
-    </programme>
-    <programme start="20260731031600 +0000" stop="20260731034600 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 124</title>
-    </programme>
-    <programme start="20260731034600 +0000" stop="20260731041500 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 75</title>
-    </programme>
-    <programme start="20260731041500 +0000" stop="20260731051500 +0000" channel="387294.shahid">
-        <title>Kaf Wa Dofouf Season 1 Episode 30</title>
-    </programme>
-    <programme start="20260731051500 +0000" stop="20260731060000 +0000" channel="387294.shahid">
-        <title>Umm Badeela Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260731060000 +0000" stop="20260731064500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 11</title>
-    </programme>
-    <programme start="20260731064500 +0000" stop="20260731072500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 12</title>
-    </programme>
-    <programme start="20260731072500 +0000" stop="20260731080500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 13</title>
-    </programme>
-    <programme start="20260731080500 +0000" stop="20260731084500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 14</title>
-    </programme>
-    <programme start="20260731084500 +0000" stop="20260731092500 +0000" channel="387294.shahid">
-        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 15</title>
-    </programme>
-    <programme start="20260731092500 +0000" stop="20260731093000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260731093000 +0000" stop="20260731100500 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 121</title>
-    </programme>
-    <programme start="20260731100500 +0000" stop="20260731104000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 122</title>
-    </programme>
-    <programme start="20260731104000 +0000" stop="20260731111500 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 123</title>
-    </programme>
-    <programme start="20260731111500 +0000" stop="20260731114900 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 124</title>
-    </programme>
-    <programme start="20260731114900 +0000" stop="20260731115500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260731115500 +0000" stop="20260731123000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 72</title>
-    </programme>
-    <programme start="20260731123000 +0000" stop="20260731130000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 73</title>
-    </programme>
-    <programme start="20260731130000 +0000" stop="20260731133000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 74</title>
-    </programme>
-    <programme start="20260731133000 +0000" stop="20260731140000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 75</title>
-    </programme>
-    <programme start="20260731140000 +0000" stop="20260731141500 +0000" channel="387294.shahid">
-        <title>Al Dunia Allamatni: Best Of 2</title>
-    </programme>
-    <programme start="20260731141500 +0000" stop="20260731143000 +0000" channel="387294.shahid">
-        <title>Kafo Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260731143000 +0000" stop="20260731163600 +0000" channel="387294.shahid">
-        <title>Bi Khosous Ba&#039;d Al Nas</title>
-    </programme>
-    <programme start="20260731163600 +0000" stop="20260731165500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260731165500 +0000" stop="20260731172500 +0000" channel="387294.shahid">
-        <title>Hamed Hilou Season 2 Episode 7</title>
-    </programme>
-    <programme start="20260731172500 +0000" stop="20260731173000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260731173000 +0000" stop="20260731183000 +0000" channel="387294.shahid">
-        <title>Takeshi&#039;s Castle Season 2 Episode 5</title>
-    </programme>
-    <programme start="20260731183000 +0000" stop="20260731210500 +0000" channel="387294.shahid">
-        <title>Laylat Al Mosiqar Talal: Hafl Ahlam Fi Dar El Opera El Masriyya</title>
-    </programme>
-    <programme start="20260731210500 +0000" stop="20260731230000 +0000" channel="387294.shahid">
-        <title>El Kinz: El Hob Wa El Maseer</title>
-    </programme>
-    <programme start="20260731230000 +0000" stop="20260731233500 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 122</title>
-    </programme>
-    <programme start="20260731233500 +0000" stop="20260731235959 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 123</title>
-    </programme>
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="986024.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -697,9 +499,6 @@
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="388566.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="1007223.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260730000000 +0000" stop="20260730003955 +0000" channel="989622.shahid">
         <title>45 Youm</title>
     </programme>
@@ -786,6 +585,9 @@
     </programme>
     <programme start="20260731221313 +0000" stop="20260731235959 +0000" channel="989622.shahid">
         <title>Captain Hima</title>
+    </programme>
+    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="1007223.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="946942.shahid">
         <title>TV guide is not available</title>
@@ -1531,6 +1333,9 @@
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="49923086914927.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260730000000 +0000" stop="20260730004518 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 5 Episode 11</title>
     </programme>
@@ -1635,9 +1440,6 @@
     </programme>
     <programme start="20260731231945 +0000" stop="20260731235959 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 2 Episode 10</title>
-    </programme>
-    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="49923086914927.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="946946.shahid">
         <title>TV guide is not available</title>
@@ -2299,6 +2101,9 @@
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260730000000 +0000" stop="20260730001627 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 13 Episode 21</title>
     </programme>
@@ -2548,14 +2353,209 @@
     <programme start="20260731235409 +0000" stop="20260731235959 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 16 Episode 22</title>
     </programme>
-    <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="946948.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260730000000 +0000" stop="20260731235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260730000000 +0000" stop="20260730001500 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260730001500 +0000" stop="20260730005900 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260730005900 +0000" stop="20260730015000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260730015000 +0000" stop="20260730023500 +0000" channel="387294.shahid">
+        <title>Nasamat Ayloul Season 1 Episode 8</title>
+    </programme>
+    <programme start="20260730023500 +0000" stop="20260730031500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 14</title>
+    </programme>
+    <programme start="20260730031500 +0000" stop="20260730035000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 123</title>
+    </programme>
+    <programme start="20260730035000 +0000" stop="20260730042000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 74</title>
+    </programme>
+    <programme start="20260730042000 +0000" stop="20260730051000 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260730051000 +0000" stop="20260730060600 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260730060600 +0000" stop="20260730070000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260730070000 +0000" stop="20260730075500 +0000" channel="387294.shahid">
+        <title>Nasamat Ayloul Season 1 Episode 8</title>
+    </programme>
+    <programme start="20260730075500 +0000" stop="20260730085000 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 14</title>
+    </programme>
+    <programme start="20260730085000 +0000" stop="20260730092500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 123</title>
+    </programme>
+    <programme start="20260730092500 +0000" stop="20260730100000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 74</title>
+    </programme>
+    <programme start="20260730100000 +0000" stop="20260730105500 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260730105500 +0000" stop="20260730115000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260730115000 +0000" stop="20260730123500 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260730123500 +0000" stop="20260730130500 +0000" channel="387294.shahid">
+        <title>Al Maktab Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260730130500 +0000" stop="20260730140000 +0000" channel="387294.shahid">
+        <title>Nasamat Ayloul Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260730140000 +0000" stop="20260730145500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 15</title>
+    </programme>
+    <programme start="20260730145500 +0000" stop="20260730155900 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 30</title>
+    </programme>
+    <programme start="20260730155900 +0000" stop="20260730163100 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 124</title>
+    </programme>
+    <programme start="20260730163100 +0000" stop="20260730170000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 75</title>
+    </programme>
+    <programme start="20260730170000 +0000" stop="20260730180000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260730180000 +0000" stop="20260730190000 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260730190000 +0000" stop="20260730200500 +0000" channel="387294.shahid">
+        <title>Arabs Got Talent Season 7 Episode 5</title>
+    </programme>
+    <programme start="20260730200500 +0000" stop="20260730203500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 124</title>
+    </programme>
+    <programme start="20260730203500 +0000" stop="20260730210400 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 75</title>
+    </programme>
+    <programme start="20260730210400 +0000" stop="20260730220000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260730220000 +0000" stop="20260730224500 +0000" channel="387294.shahid">
+        <title>Nasamat Ayloul Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260730224500 +0000" stop="20260730232000 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 15</title>
+    </programme>
+    <programme start="20260730232000 +0000" stop="20260731002000 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 30</title>
+    </programme>
+    <programme start="20260731002000 +0000" stop="20260731010500 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260731010500 +0000" stop="20260731020000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260731020000 +0000" stop="20260731024000 +0000" channel="387294.shahid">
+        <title>Nasamat Ayloul Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260731024000 +0000" stop="20260731031600 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 15</title>
+    </programme>
+    <programme start="20260731031600 +0000" stop="20260731034600 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 124</title>
+    </programme>
+    <programme start="20260731034600 +0000" stop="20260731041500 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 75</title>
+    </programme>
+    <programme start="20260731041500 +0000" stop="20260731051500 +0000" channel="387294.shahid">
+        <title>Kaf Wa Dofouf Season 1 Episode 30</title>
+    </programme>
+    <programme start="20260731051500 +0000" stop="20260731060000 +0000" channel="387294.shahid">
+        <title>Umm Badeela Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260731060000 +0000" stop="20260731064500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 11</title>
+    </programme>
+    <programme start="20260731064500 +0000" stop="20260731072500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 12</title>
+    </programme>
+    <programme start="20260731072500 +0000" stop="20260731080500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 13</title>
+    </programme>
+    <programme start="20260731080500 +0000" stop="20260731084500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 14</title>
+    </programme>
+    <programme start="20260731084500 +0000" stop="20260731092500 +0000" channel="387294.shahid">
+        <title>El Maddah: Ostouret El Nehaya Season 6 Episode 15</title>
+    </programme>
+    <programme start="20260731092500 +0000" stop="20260731093000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260731093000 +0000" stop="20260731100500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 121</title>
+    </programme>
+    <programme start="20260731100500 +0000" stop="20260731104000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 122</title>
+    </programme>
+    <programme start="20260731104000 +0000" stop="20260731111500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 123</title>
+    </programme>
+    <programme start="20260731111500 +0000" stop="20260731114900 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 124</title>
+    </programme>
+    <programme start="20260731114900 +0000" stop="20260731115500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260731115500 +0000" stop="20260731123000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 72</title>
+    </programme>
+    <programme start="20260731123000 +0000" stop="20260731130000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 73</title>
+    </programme>
+    <programme start="20260731130000 +0000" stop="20260731133000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 74</title>
+    </programme>
+    <programme start="20260731133000 +0000" stop="20260731140000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 75</title>
+    </programme>
+    <programme start="20260731140000 +0000" stop="20260731141500 +0000" channel="387294.shahid">
+        <title>Al Dunia Allamatni: Best Of 2</title>
+    </programme>
+    <programme start="20260731141500 +0000" stop="20260731143000 +0000" channel="387294.shahid">
+        <title>Kafo Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260731143000 +0000" stop="20260731163600 +0000" channel="387294.shahid">
+        <title>Bi Khosous Ba&#039;d Al Nas</title>
+    </programme>
+    <programme start="20260731163600 +0000" stop="20260731165500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260731165500 +0000" stop="20260731172500 +0000" channel="387294.shahid">
+        <title>Hamed Hilou Season 2 Episode 7</title>
+    </programme>
+    <programme start="20260731172500 +0000" stop="20260731173000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260731173000 +0000" stop="20260731183000 +0000" channel="387294.shahid">
+        <title>Takeshi&#039;s Castle Season 2 Episode 5</title>
+    </programme>
+    <programme start="20260731183000 +0000" stop="20260731210500 +0000" channel="387294.shahid">
+        <title>Laylat Al Mosiqar Talal: Hafl Ahlam Fi Dar El Opera El Masriyya</title>
+    </programme>
+    <programme start="20260731210500 +0000" stop="20260731230000 +0000" channel="387294.shahid">
+        <title>El Kinz: El Hob Wa El Maseer</title>
+    </programme>
+    <programme start="20260731230000 +0000" stop="20260731233500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 122</title>
+    </programme>
+    <programme start="20260731233500 +0000" stop="20260731235959 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 123</title>
     </programme>
     <programme start="20260730000000 +0000" stop="20260730001750 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 7 Episode 5</title>

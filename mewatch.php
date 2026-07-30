@@ -67,10 +67,10 @@
     <programme start="20260729193000 +0000" stop="20260730072000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260730072000 +0000" stop="20260730084500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730072000 +0000" stop="20260730085100 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Para Men&#039;s Pairs B6-B8 - AUS vs SGP</title>
     </programme>
-    <programme start="20260730084500 +0000" stop="20260730113500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730085100 +0000" stop="20260730113500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260730113500 +0000" stop="20260730130000 +0000" channel="Unknown Channel.mewatch">

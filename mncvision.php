@@ -7871,7 +7871,7 @@
     <title>Si Buluk Jatuh Cinta</title>
 </programme>
 <programme start="20260729194200 +0000" stop="20260729210300 +0000" channel="SCTV.mncvision">
-    <title>1/2 Cintaku Untukmu...</title>
+    <title>Supir Andong Belahan Jiwaku</title>
 </programme>
 <programme start="20260729210300 +0000" stop="20260729213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
@@ -7882,50 +7882,53 @@
 <programme start="20260729220000 +0000" stop="20260729230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260729230000 +0000" stop="20260730000000 +0000" channel="SCTV.mncvision">
+<programme start="20260729230000 +0000" stop="20260730001100 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260730000000 +0000" stop="20260730011500 +0000" channel="SCTV.mncvision">
+<programme start="20260730001100 +0000" stop="20260730010700 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260730011500 +0000" stop="20260730030000 +0000" channel="SCTV.mncvision">
-    <title>Asmara Gen Z New Era</title>
+<programme start="20260730010700 +0000" stop="20260730025400 +0000" channel="SCTV.mncvision">
+    <title>Bos Galak Kesabaran Setipis...</title>
 </programme>
-<programme start="20260730030000 +0000" stop="20260730050000 +0000" channel="SCTV.mncvision">
+<programme start="20260730025400 +0000" stop="20260730045200 +0000" channel="SCTV.mncvision">
     <title>Satpam Kalcer Bikin Deg-Deg Ser</title>
 </programme>
-<programme start="20260730050000 +0000" stop="20260730053000 +0000" channel="SCTV.mncvision">
+<programme start="20260730045200 +0000" stop="20260730052800 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260730053000 +0000" stop="20260730070000 +0000" channel="SCTV.mncvision">
-    <title>ART Cantik Patut Dilestarikan</title>
+<programme start="20260730052800 +0000" stop="20260730070500 +0000" channel="SCTV.mncvision">
+    <title>Kasih Paham Bos Bos Bos</title>
 </programme>
-<programme start="20260730070000 +0000" stop="20260730083000 +0000" channel="SCTV.mncvision">
-    <title>Aroma Cinta Ikan Asin</title>
+<programme start="20260730070500 +0000" stop="20260730084100 +0000" channel="SCTV.mncvision">
+    <title>Trust Issue Level Pak Pol...</title>
 </programme>
-<programme start="20260730083000 +0000" stop="20260730101500 +0000" channel="SCTV.mncvision">
-    <title>Demi Kamu Aku Kudu Strong</title>
+<programme start="20260730084100 +0000" stop="20260730101900 +0000" channel="SCTV.mncvision">
+    <title>Definisi Mas-Mas Jawa Greenflag</title>
 </programme>
-<programme start="20260730101500 +0000" stop="20260730114500 +0000" channel="SCTV.mncvision">
+<programme start="20260730101900 +0000" stop="20260730114700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260730114500 +0000" stop="20260730131500 +0000" channel="SCTV.mncvision">
+<programme start="20260730114700 +0000" stop="20260730131100 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260730131500 +0000" stop="20260730144500 +0000" channel="SCTV.mncvision">
+<programme start="20260730131100 +0000" stop="20260730143500 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260730144500 +0000" stop="20260730160000 +0000" channel="SCTV.mncvision">
+<programme start="20260730143500 +0000" stop="20260730155700 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260730160000 +0000" stop="20260730163000 +0000" channel="SCTV.mncvision">
+<programme start="20260730155700 +0000" stop="20260730165600 +0000" channel="SCTV.mncvision">
     <title>The Sexy Doctor Is Mine</title>
+</programme>
+<programme start="20260730165600 +0000" stop="20260729172600 +0000" channel="SCTV.mncvision">
+    <title>Duda Shadis Bikin Cintaku...</title>
 </programme>
 <programme start="20260729182600 +0000" stop="20260729194200 +0000" channel="SCTV HD.mncvision">
     <title>Si Buluk Jatuh Cinta</title>
 </programme>
 <programme start="20260729194200 +0000" stop="20260729210300 +0000" channel="SCTV HD.mncvision">
-    <title>1/2 Cintaku Untukmu...</title>
+    <title>Supir Andong Belahan Jiwaku</title>
 </programme>
 <programme start="20260729210300 +0000" stop="20260729213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
@@ -7936,44 +7939,47 @@
 <programme start="20260729220000 +0000" stop="20260729230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260729230000 +0000" stop="20260730000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260729230000 +0000" stop="20260730001100 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260730000000 +0000" stop="20260730011500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260730001100 +0000" stop="20260730010700 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260730011500 +0000" stop="20260730030000 +0000" channel="SCTV HD.mncvision">
-    <title>Asmara Gen Z New Era</title>
+<programme start="20260730010700 +0000" stop="20260730025400 +0000" channel="SCTV HD.mncvision">
+    <title>Bos Galak Kesabaran Setipis...</title>
 </programme>
-<programme start="20260730030000 +0000" stop="20260730050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260730025400 +0000" stop="20260730045200 +0000" channel="SCTV HD.mncvision">
     <title>Satpam Kalcer Bikin Deg-Deg Ser</title>
 </programme>
-<programme start="20260730050000 +0000" stop="20260730053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260730045200 +0000" stop="20260730052800 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260730053000 +0000" stop="20260730070000 +0000" channel="SCTV HD.mncvision">
-    <title>ART Cantik Patut Dilestarikan</title>
+<programme start="20260730052800 +0000" stop="20260730070500 +0000" channel="SCTV HD.mncvision">
+    <title>Kasih Paham Bos Bos Bos</title>
 </programme>
-<programme start="20260730070000 +0000" stop="20260730083000 +0000" channel="SCTV HD.mncvision">
-    <title>Aroma Cinta Ikan Asin</title>
+<programme start="20260730070500 +0000" stop="20260730084100 +0000" channel="SCTV HD.mncvision">
+    <title>Trust Issue Level Pak Pol...</title>
 </programme>
-<programme start="20260730083000 +0000" stop="20260730101500 +0000" channel="SCTV HD.mncvision">
-    <title>Demi Kamu Aku Kudu Strong</title>
+<programme start="20260730084100 +0000" stop="20260730101900 +0000" channel="SCTV HD.mncvision">
+    <title>Definisi Mas-Mas Jawa Greenflag</title>
 </programme>
-<programme start="20260730101500 +0000" stop="20260730114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260730101900 +0000" stop="20260730114700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260730114500 +0000" stop="20260730131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260730114700 +0000" stop="20260730131100 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260730131500 +0000" stop="20260730144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260730131100 +0000" stop="20260730143500 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260730144500 +0000" stop="20260730160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260730143500 +0000" stop="20260730155700 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260730160000 +0000" stop="20260730163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260730155700 +0000" stop="20260730165600 +0000" channel="SCTV HD.mncvision">
     <title>The Sexy Doctor Is Mine</title>
+</programme>
+<programme start="20260730165600 +0000" stop="20260729172600 +0000" channel="SCTV HD.mncvision">
+    <title>Duda Shadis Bikin Cintaku...</title>
 </programme>
 <programme start="20260729170000 +0000" stop="20260729180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>

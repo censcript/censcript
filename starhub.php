@@ -7957,7 +7957,7 @@
     <programme start="20260730153000 +0000" stop="20260730155500 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260730155500 +0000" stop="20260730160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260730155500 +0000" stop="20260730170000 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
     <programme start="20260729160000 +0000" stop="20260729163000 +0000" channel="Travelxp HD.starhub">
