@@ -1163,7 +1163,7 @@
     <title>Michael McIntyre&#039;s Big Show - Episode 3</title>
 </programme>
 <programme start="20260730025000 +0000" stop="20260730031500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>The Daily Show - Episode 94</title>
+    <title>The Daily Show - Jeff Hiller</title>
 </programme>
 <programme start="20260730031500 +0000" stop="20260730033500 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With the Ultimate Fighting Champion</title>
@@ -1607,7 +1607,7 @@
     <title>Midsomer Murders - The Stitcher Society</title>
 </programme>
 <programme start="20260730143500 +0000" stop="20260730154000 +0000" channel="ITV3.virginmediatv">
-    <title>Classic Emmerdale - Episode 321</title>
+    <title>Classic Emmerdale - Episode 10</title>
 </programme>
 <programme start="20260730154000 +0000" stop="20260730161500 +0000" channel="ITV3.virginmediatv">
     <title>Classic Coronation Street - Episode 251</title>
@@ -4606,11 +4606,8 @@
 <programme start="20260730053000 +0000" stop="20260730060000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Discovery Golf - Episode 24</title>
 </programme>
-<programme start="20260730113000 +0000" stop="20260730150000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260730113000 +0000" stop="20260730160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Shanghai Masters Snooker - Quarter-Final: Shaun Murphy v Wu Yize</title>
-</programme>
-<programme start="20260730150000 +0000" stop="20260730160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>SailGP - Great Britain SGP</title>
 </programme>
 <programme start="20260730160000 +0000" stop="20260730163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>SailGP: Racing on the Edge - Episode 4</title>
@@ -5254,11 +5251,8 @@
 <programme start="20260730053000 +0000" stop="20260730060000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Discovery Golf - Episode 24</title>
 </programme>
-<programme start="20260730113000 +0000" stop="20260730150000 +0000" channel="TNT_Sports_4.virginmediatv">
+<programme start="20260730113000 +0000" stop="20260730160000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: Shanghai Masters Snooker - Quarter-Final: Shaun Murphy v Wu Yize</title>
-</programme>
-<programme start="20260730150000 +0000" stop="20260730160000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>SailGP - Great Britain SGP</title>
 </programme>
 <programme start="20260730160000 +0000" stop="20260730163000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>SailGP: Racing on the Edge - Episode 4</title>
@@ -5684,7 +5678,7 @@
     <title>Michael McIntyre&#039;s Big Show - Episode 3</title>
 </programme>
 <programme start="20260730035000 +0000" stop="20260730041500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>The Daily Show - Episode 94</title>
+    <title>The Daily Show - Jeff Hiller</title>
 </programme>
 <programme start="20260730041500 +0000" stop="20260730043500 +0000" channel="Comedy_+1.virginmediatv">
     <title>Friends - The One With the Ultimate Fighting Champion</title>
@@ -7580,7 +7574,7 @@
     <title>Michael McIntyre&#039;s Big Show - Episode 3</title>
 </programme>
 <programme start="20260730025000 +0000" stop="20260730031500 +0000" channel="Comedy.virginmediatv">
-    <title>The Daily Show - Episode 94</title>
+    <title>The Daily Show - Jeff Hiller</title>
 </programme>
 <programme start="20260730031500 +0000" stop="20260730033500 +0000" channel="Comedy.virginmediatv">
     <title>Friends - The One With the Ultimate Fighting Champion</title>
