@@ -1537,123 +1537,6 @@
 <programme start="20260731160000 +0000" stop="20260731163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Money</title>
 </programme>
-<programme start="20260730170000 +0000" stop="20260730182700 +0000" channel="BTV.mncvision">
-    <title>ONE Vault</title>
-</programme>
-<programme start="20260730182700 +0000" stop="20260730183000 +0000" channel="BTV.mncvision">
-    <title>Tanah Airku</title>
-</programme>
-<programme start="20260730183000 +0000" stop="20260730190000 +0000" channel="BTV.mncvision">
-    <title>Saksi Mata</title>
-</programme>
-<programme start="20260730190000 +0000" stop="20260730193000 +0000" channel="BTV.mncvision">
-    <title>Indonesia Update Ekspos</title>
-</programme>
-<programme start="20260730193000 +0000" stop="20260730200000 +0000" channel="BTV.mncvision">
-    <title>Berita Kriminal</title>
-</programme>
-<programme start="20260730200000 +0000" stop="20260730203000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260730203000 +0000" stop="20260730210000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
-</programme>
-<programme start="20260730210000 +0000" stop="20260730213000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260730213000 +0000" stop="20260730220000 +0000" channel="BTV.mncvision">
-    <title>Spot On</title>
-</programme>
-<programme start="20260730220000 +0000" stop="20260730230000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Pagi</title>
-</programme>
-<programme start="20260730230000 +0000" stop="20260730230300 +0000" channel="BTV.mncvision">
-    <title>Indonesia Raya</title>
-</programme>
-<programme start="20260730230300 +0000" stop="20260731003000 +0000" channel="BTV.mncvision">
-    <title>Jalan Dakwah</title>
-</programme>
-<programme start="20260731003000 +0000" stop="20260731010000 +0000" channel="BTV.mncvision">
-    <title>FYI</title>
-</programme>
-<programme start="20260731010000 +0000" stop="20260731010500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260731010500 +0000" stop="20260731011500 +0000" channel="BTV.mncvision">
-    <title>FYI</title>
-</programme>
-<programme start="20260731011500 +0000" stop="20260731014500 +0000" channel="BTV.mncvision">
-    <title>Kuyliner</title>
-</programme>
-<programme start="20260731014500 +0000" stop="20260731020000 +0000" channel="BTV.mncvision">
-    <title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20260731020000 +0000" stop="20260731020500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260731020500 +0000" stop="20260731023000 +0000" channel="BTV.mncvision">
-    <title>Masak Ala Devina Hermawan</title>
-</programme>
-<programme start="20260731023000 +0000" stop="20260731030000 +0000" channel="BTV.mncvision">
-    <title>Investor Market Today</title>
-</programme>
-<programme start="20260731030000 +0000" stop="20260731033000 +0000" channel="BTV.mncvision">
-    <title>Jendela Nusantara</title>
-</programme>
-<programme start="20260731033000 +0000" stop="20260731040000 +0000" channel="BTV.mncvision">
-    <title>Relasi</title>
-</programme>
-<programme start="20260731040000 +0000" stop="20260731050000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Siang</title>
-</programme>
-<programme start="20260731050000 +0000" stop="20260731050500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260731050500 +0000" stop="20260731053000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Siang</title>
-</programme>
-<programme start="20260731053000 +0000" stop="20260731063000 +0000" channel="BTV.mncvision">
-    <title>Jalan Dakwah</title>
-</programme>
-<programme start="20260731063000 +0000" stop="20260731073000 +0000" channel="BTV.mncvision">
-    <title>Pecah Telur</title>
-</programme>
-<programme start="20260731073000 +0000" stop="20260731080000 +0000" channel="BTV.mncvision">
-    <title>Jendela Dunia</title>
-</programme>
-<programme start="20260731080000 +0000" stop="20260731083000 +0000" channel="BTV.mncvision">
-    <title>Berita Kriminal</title>
-</programme>
-<programme start="20260731083000 +0000" stop="20260731090000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260731090000 +0000" stop="20260731090500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260731090500 +0000" stop="20260731100000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260731100000 +0000" stop="20260731103000 +0000" channel="BTV.mncvision">
-    <title>Berita Merah Putih</title>
-</programme>
-<programme start="20260731103000 +0000" stop="20260731120000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260731120000 +0000" stop="20260731130000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
-</programme>
-<programme start="20260731130000 +0000" stop="20260731140000 +0000" channel="BTV.mncvision">
-    <title>Jendela Dunia</title>
-</programme>
-<programme start="20260731140000 +0000" stop="20260731150000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
-</programme>
-<programme start="20260731160000 +0000" stop="20260731163000 +0000" channel="BTV.mncvision">
-    <title>Mitos Tengah Malam</title>
-</programme>
 <programme start="20260730170000 +0000" stop="20260730170300 +0000" channel="BUDDY STARS.mncvision">
     <title>Hey Duggee S5, Ep 4</title>
 </programme>
@@ -6628,11 +6511,8 @@
 <programme start="20260731093000 +0000" stop="20260731100000 +0000" channel="NHK World.mncvision">
     <title>Japan Railway Journal</title>
 </programme>
-<programme start="20260731100000 +0000" stop="20260731103000 +0000" channel="NHK World.mncvision">
+<programme start="20260731100000 +0000" stop="20260731110000 +0000" channel="NHK World.mncvision">
     <title>NHK News 7</title>
-</programme>
-<programme start="20260731103000 +0000" stop="20260731110000 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
 </programme>
 <programme start="20260731110000 +0000" stop="20260731112800 +0000" channel="NHK World.mncvision">
     <title>Newsroom Tokyo</title>
@@ -6658,8 +6538,11 @@
 <programme start="20260731133000 +0000" stop="20260731135500 +0000" channel="NHK World.mncvision">
     <title>Jujutsu: The Art Of Flexibility</title>
 </programme>
-<programme start="20260731135500 +0000" stop="20260731142500 +0000" channel="NHK World.mncvision">
+<programme start="20260731135500 +0000" stop="20260731140000 +0000" channel="NHK World.mncvision">
     <title>Ramen Japan</title>
+</programme>
+<programme start="20260731140000 +0000" stop="20260731143000 +0000" channel="NHK World.mncvision">
+    <title>NHK Newsline</title>
 </programme>
 <programme start="20260730171000 +0000" stop="20260730173500 +0000" channel="NHK World Premium.mncvision">
     <title>Hayauta: Song For Morning</title>
@@ -7782,6 +7665,60 @@
 </programme>
 <programme start="20260731161500 +0000" stop="20260731164500 +0000" channel="Rock Entertainment.mncvision">
     <title>Real Housewives Of..., Ep 8</title>
+</programme>
+<programme start="20260730182900 +0000" stop="20260730194700 +0000" channel="SCTV.mncvision">
+    <title>Bidadari Kecebur Empang</title>
+</programme>
+<programme start="20260730194700 +0000" stop="20260730210400 +0000" channel="SCTV.mncvision">
+    <title>Satu Cinta Yang Kupercaya</title>
+</programme>
+<programme start="20260730210400 +0000" stop="20260730213000 +0000" channel="SCTV.mncvision">
+    <title>Barakallah</title>
+</programme>
+<programme start="20260730213000 +0000" stop="20260730220000 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
+</programme>
+<programme start="20260730220000 +0000" stop="20260730230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260730230000 +0000" stop="20260731000000 +0000" channel="SCTV.mncvision">
+    <title>Halo Selebriti</title>
+</programme>
+<programme start="20260731000000 +0000" stop="20260731011500 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260731011500 +0000" stop="20260731025200 +0000" channel="SCTV.mncvision">
+    <title>Sultan Roti Mah Bebas</title>
+</programme>
+<programme start="20260731025200 +0000" stop="20260731044700 +0000" channel="SCTV.mncvision">
+    <title>Cinta Tak Perlu Dibagi</title>
+</programme>
+<programme start="20260731044700 +0000" stop="20260731052200 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260731052200 +0000" stop="20260731070000 +0000" channel="SCTV.mncvision">
+    <title>Kukejar Sultan Kudapat</title>
+</programme>
+<programme start="20260731070000 +0000" stop="20260731083600 +0000" channel="SCTV.mncvision">
+    <title>Playboy Mode Ganteng</title>
+</programme>
+<programme start="20260731083600 +0000" stop="20260731101000 +0000" channel="SCTV.mncvision">
+    <title>Kita Kawal Mas Teacher...</title>
+</programme>
+<programme start="20260731101000 +0000" stop="20260731114400 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z New Era</title>
+</programme>
+<programme start="20260731114400 +0000" stop="20260731131000 +0000" channel="SCTV.mncvision">
+    <title>Seindah Masa Remaja</title>
+</programme>
+<programme start="20260731131000 +0000" stop="20260731143500 +0000" channel="SCTV.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
+</programme>
+<programme start="20260731143500 +0000" stop="20260731160300 +0000" channel="SCTV.mncvision">
+    <title>Biarkan Hati Bicara</title>
+</programme>
+<programme start="20260731160300 +0000" stop="20260731163300 +0000" channel="SCTV.mncvision">
+    <title>The Sexy Doctor Is Mine</title>
 </programme>
 <programme start="20260730182900 +0000" stop="20260730194700 +0000" channel="SCTV HD.mncvision">
     <title>Bidadari Kecebur Empang</title>

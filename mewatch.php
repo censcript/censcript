@@ -184,10 +184,10 @@
     <programme start="20260731103000 +0000" stop="20260731123000 +0000" channel="Channel 5.mewatch">
         <title>The Bad Guys</title>
     </programme>
-    <programme start="20260731123000 +0000" stop="20260731130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260731123000 +0000" stop="20260731125900 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260731130000 +0000" stop="20260731150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260731125900 +0000" stop="20260731150000 +0000" channel="Channel 5.mewatch">
         <title>(Live) ASEAN Championship 2026 (Hyundai Cup) - Group Stage: Vietnam vs Singapore</title>
     </programme>
     <programme start="20260731150000 +0000" stop="20260731165000 +0000" channel="Channel 5.mewatch">

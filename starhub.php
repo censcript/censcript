@@ -1960,8 +1960,11 @@
     <programme start="20260731140000 +0000" stop="20260731150000 +0000" channel="CNN HD.starhub">
         <title>Friday, July 31, 2026 10am ET</title>
     </programme>
-    <programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="CNN HD.starhub">
-        <title>Friday, July 31, 2026 11am ET</title>
+    <programme start="20260731150000 +0000" stop="20260731153000 +0000" channel="CNN HD.starhub">
+        <title>Thursday, July 30, 2026 11am ET</title>
+    </programme>
+    <programme start="20260731153000 +0000" stop="20260731160000 +0000" channel="CNN HD.starhub">
+        <title>Thursday, July 30, 2026 1130am ET</title>
     </programme>
     <programme start="20260730133000 +0000" stop="20260730170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Thenavattu</title>
@@ -7681,13 +7684,13 @@
     <programme start="20260730133000 +0000" stop="20260730170000 +0000" channel="Asianet Movies.starhub">
         <title>Empuraan</title>
     </programme>
-    <programme start="20260730170000 +0000" stop="20260730193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260730170000 +0000" stop="20260730195000 +0000" channel="Asianet Movies.starhub">
         <title>Naran</title>
     </programme>
-    <programme start="20260730193000 +0000" stop="20260730213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260730195000 +0000" stop="20260730220000 +0000" channel="Asianet Movies.starhub">
         <title>Tournament</title>
     </programme>
-    <programme start="20260730213000 +0000" stop="20260730233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260730220000 +0000" stop="20260730232000 +0000" channel="Asianet Movies.starhub">
         <title>Kayyoppu</title>
     </programme>
     <programme start="20260730232000 +0000" stop="20260731013000 +0000" channel="Asianet Movies.starhub">

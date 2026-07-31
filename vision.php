@@ -112,13 +112,13 @@
 <programme start="20260801110000 +0000" stop="20260801120000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
 </programme>
-<programme start="20260730234500 +0000" stop="20260731003000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260730234500 +0000" stop="20260731010000 +0000" channel="GTV.vision">
+<title>PAW Patrol</title>
 </programme>
-<programme start="20260731003000 +0000" stop="20260731010000 +0000" channel="GTV.vision">
-<title>CoComelon Dan Sahabat</title>
+<programme start="20260731010000 +0000" stop="20260731020000 +0000" channel="GTV.vision">
+<title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260731010000 +0000" stop="20260731030000 +0000" channel="GTV.vision">
+<programme start="20260731020000 +0000" stop="20260731030000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260731030000 +0000" stop="20260731033000 +0000" channel="GTV.vision">
@@ -130,14 +130,23 @@
 <programme start="20260731053000 +0000" stop="20260731073000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260731073000 +0000" stop="20260731090000 +0000" channel="GTV.vision">
+<programme start="20260731073000 +0000" stop="20260731083000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
+</programme>
+<programme start="20260731083000 +0000" stop="20260731120000 +0000" channel="GTV.vision">
+<title>GTV</title>
+</programme>
+<programme start="20260731120000 +0000" stop="20260731123000 +0000" channel="GTV.vision">
+<title>Siasat Cerdas Si Raja Hutan</title>
+</programme>
+<programme start="20260731123000 +0000" stop="20260731150000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260731150000 +0000" stop="20260731153000 +0000" channel="GTV.vision">
 <title>The Crimson Pearl&#039;s Secret</title>
 </programme>
-<programme start="20260731170000 +0000" stop="20260731190000 +0000" channel="GTV.vision">
-<title>Uang Kaget</title>
+<programme start="20260731153000 +0000" stop="20260731170000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260731190000 +0000" stop="20260731210000 +0000" channel="GTV.vision">
 <title>Ragam Cerita</title>
@@ -150,9 +159,6 @@
 </programme>
 <programme start="20260731233000 +0000" stop="20260801000000 +0000" channel="GTV.vision">
 <title>BIMA-S</title>
-</programme>
-<programme start="20260801000000 +0000" stop="20260801010000 +0000" channel="GTV.vision">
-<title>The Helping Heroes</title>
 </programme>
 <programme start="20260801010000 +0000" stop="20260801030000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
@@ -487,35 +493,113 @@
 <programme start="20260731163000 +0000" stop="20260731171500 +0000" channel="Trans 7.vision">
 <title>Misteri Dunia</title>
 </programme>
+<programme start="20260731171500 +0000" stop="20260731174500 +0000" channel="Trans 7.vision">
+<title>Redaksi Malam</title>
+</programme>
+<programme start="20260731174500 +0000" stop="20260731183000 +0000" channel="Trans 7.vision">
+<title>Sport7</title>
+</programme>
+<programme start="20260731183000 +0000" stop="20260731190000 +0000" channel="Trans 7.vision">
+<title>Best Fishing</title>
+</programme>
+<programme start="20260731190000 +0000" stop="20260731193000 +0000" channel="Trans 7.vision">
+<title>Dracin</title>
+</programme>
+<programme start="20260731193000 +0000" stop="20260731201500 +0000" channel="Trans 7.vision">
+<title>On The Spot</title>
+</programme>
+<programme start="20260731201500 +0000" stop="20260731210000 +0000" channel="Trans 7.vision">
+<title>LOL ComediHa!</title>
+</programme>
+<programme start="20260731210000 +0000" stop="20260731214500 +0000" channel="Trans 7.vision">
+<title>Ujung-Ujungnya Damkar</title>
+</programme>
+<programme start="20260731214500 +0000" stop="20260731223000 +0000" channel="Trans 7.vision">
+<title>Jalur Langit</title>
+</programme>
+<programme start="20260731223000 +0000" stop="20260731233000 +0000" channel="Trans 7.vision">
+<title>Redaksi Pagi Akhir Pekan</title>
+</programme>
+<programme start="20260731233000 +0000" stop="20260801003000 +0000" channel="Trans 7.vision">
+<title>Spotlite</title>
+</programme>
+<programme start="20260801003000 +0000" stop="20260801013000 +0000" channel="Trans 7.vision">
+<title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20260801013000 +0000" stop="20260801021500 +0000" channel="Trans 7.vision">
+<title>Bikin Seneng</title>
+</programme>
+<programme start="20260801021500 +0000" stop="20260801031500 +0000" channel="Trans 7.vision">
+<title>Heits Abis</title>
+</programme>
+<programme start="20260801031500 +0000" stop="20260801041500 +0000" channel="Trans 7.vision">
+<title>Obrolan Tiap Waktu</title>
+</programme>
+<programme start="20260801041500 +0000" stop="20260801050000 +0000" channel="Trans 7.vision">
+<title>Enaknya Mantul</title>
+</programme>
+<programme start="20260801050000 +0000" stop="20260801054500 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang</title>
+</programme>
+<programme start="20260801054500 +0000" stop="20260801063000 +0000" channel="Trans 7.vision">
+<title>The Explorer</title>
+</programme>
+<programme start="20260801063000 +0000" stop="20260801071500 +0000" channel="Trans 7.vision">
+<title>Mancing Mania Strike Back</title>
+</programme>
+<programme start="20260801071500 +0000" stop="20260801081500 +0000" channel="Trans 7.vision">
+<title>Redaksi Pagi Akhir Pekan</title>
+</programme>
+<programme start="20260801081500 +0000" stop="20260801090000 +0000" channel="Trans 7.vision">
+<title>Cuan Bos</title>
+</programme>
+<programme start="20260801090000 +0000" stop="20260801100000 +0000" channel="Trans 7.vision">
+<title>Makan Receh</title>
+</programme>
+<programme start="20260801100000 +0000" stop="20260801110000 +0000" channel="Trans 7.vision">
+<title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20260801110000 +0000" stop="20260801113000 +0000" channel="Trans 7.vision">
+<title>Legenda Bertuah</title>
+</programme>
+<programme start="20260801113000 +0000" stop="20260801121500 +0000" channel="Trans 7.vision">
+<title>Secret Story</title>
+</programme>
+<programme start="20260730230000 +0000" stop="20260731023000 +0000" channel="ANTV.vision">
+<title>One 2 Ka 4</title>
+</programme>
+<programme start="20260731023000 +0000" stop="20260731060000 +0000" channel="ANTV.vision">
+<title>Bang Bang</title>
+</programme>
+<programme start="20260731060000 +0000" stop="20260731073000 +0000" channel="ANTV.vision">
+<title>Jhanak</title>
+</programme>
+<programme start="20260731073000 +0000" stop="20260731090000 +0000" channel="ANTV.vision">
+<title>Sayali</title>
+</programme>
+<programme start="20260731090000 +0000" stop="20260731103000 +0000" channel="ANTV.vision">
+<title>Jaane Anjaane</title>
+</programme>
+<programme start="20260731103000 +0000" stop="20260731113000 +0000" channel="ANTV.vision">
+<title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260731113000 +0000" stop="20260731140000 +0000" channel="ANTV.vision">
+<title>Pandangan Pertama</title>
+</programme>
+<programme start="20260731140000 +0000" stop="20260731160000 +0000" channel="ANTV.vision">
+<title>Pembalasan Ratu Laut Selatan</title>
+</programme>
+<programme start="20260731160000 +0000" stop="20260731180000 +0000" channel="ANTV.vision">
+<title>Lukisan Berlumur Darah</title>
+</programme>
 <programme start="20260731180000 +0000" stop="20260731190000 +0000" channel="ANTV.vision">
 <title>The Iron Fisted Monk</title>
-</programme>
-<programme start="20260731190000 +0000" stop="20260731203000 +0000" channel="ANTV.vision">
-<title>Aini: Malaikat Tak Bersayap</title>
-</programme>
-<programme start="20260731203000 +0000" stop="20260731213000 +0000" channel="ANTV.vision">
-<title>Karma Baik</title>
-</programme>
-<programme start="20260731213000 +0000" stop="20260731230000 +0000" channel="ANTV.vision">
-<title>Hati Ke Hati Bersama Mamah...</title>
 </programme>
 <programme start="20260731230000 +0000" stop="20260801023000 +0000" channel="ANTV.vision">
 <title>Kabhi Haan Kabhi Naa</title>
 </programme>
 <programme start="20260801023000 +0000" stop="20260801060000 +0000" channel="ANTV.vision">
 <title>Jawan</title>
-</programme>
-<programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
-</programme>
-<programme start="20260801073000 +0000" stop="20260801090000 +0000" channel="ANTV.vision">
-<title>Sayali</title>
-</programme>
-<programme start="20260801090000 +0000" stop="20260801103000 +0000" channel="ANTV.vision">
-<title>Jaane Anjaane</title>
-</programme>
-<programme start="20260801103000 +0000" stop="20260801120000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaann</title>
 </programme>
 <programme start="20260731000000 +0000" stop="20260731013000 +0000" channel="RTV.vision">
 <title>Grizzy And The Lemmings</title>
@@ -643,9 +727,6 @@
 <programme start="20260731053000 +0000" stop="20260731063000 +0000" channel="TVOne.vision">
 <title>Breaking News (L)</title>
 </programme>
-<programme start="20260731063000 +0000" stop="20260731073000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Siang (L)</title>
-</programme>
 <programme start="20260731073000 +0000" stop="20260731083000 +0000" channel="TVOne.vision">
 <title>Kabar Merah Putih (L)</title>
 </programme>
@@ -673,23 +754,65 @@
 <programme start="20260731163000 +0000" stop="20260731170000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
 </programme>
-<programme start="20260731180000 +0000" stop="20260731210000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260731170000 +0000" stop="20260731193000 +0000" channel="TVOne.vision">
+<title>TV One</title>
 </programme>
-<programme start="20260731210000 +0000" stop="20260801000000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260731193000 +0000" stop="20260731200000 +0000" channel="TVOne.vision">
+<title>TV One</title>
 </programme>
-<programme start="20260801000000 +0000" stop="20260801030000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260731200000 +0000" stop="20260731203000 +0000" channel="TVOne.vision">
+<title>TV One</title>
 </programme>
-<programme start="20260801030000 +0000" stop="20260801060000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260731203000 +0000" stop="20260731210000 +0000" channel="TVOne.vision">
+<title>TV One</title>
 </programme>
-<programme start="20260801060000 +0000" stop="20260801090000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260731210000 +0000" stop="20260731213000 +0000" channel="TVOne.vision">
+<title>TV One</title>
 </programme>
-<programme start="20260801090000 +0000" stop="20260801120000 +0000" channel="TVOne.vision">
-<title>TVOne</title>
+<programme start="20260731213000 +0000" stop="20260731230000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260731230000 +0000" stop="20260731233000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260731233000 +0000" stop="20260801010000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801010000 +0000" stop="20260801020000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801020000 +0000" stop="20260801023000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801030000 +0000" stop="20260801033000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801033000 +0000" stop="20260801040000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801040000 +0000" stop="20260801053000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801053000 +0000" stop="20260801070000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801070000 +0000" stop="20260801073000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801080000 +0000" stop="20260801090000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801090000 +0000" stop="20260801110000 +0000" channel="TVOne.vision">
+<title>TV One</title>
+</programme>
+<programme start="20260801110000 +0000" stop="20260801130000 +0000" channel="TVOne.vision">
+<title>TV One</title>
 </programme>
 <programme start="20260731000000 +0000" stop="20260731023000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Pagi</title>
@@ -1374,127 +1497,4 @@
 </programme>
 <programme start="20260731130000 +0000" stop="20260731133000 +0000" channel="TVRI.vision">
 <title>Jelajah Kopi</title>
-</programme>
-<programme start="20260731133000 +0000" stop="20260731140000 +0000" channel="TVRI.vision">
-<title>Bumi</title>
-</programme>
-<programme start="20260731140000 +0000" stop="20260731143000 +0000" channel="TVRI.vision">
-<title>Dunia Dalam Berita</title>
-</programme>
-<programme start="20260731163000 +0000" stop="20260731170000 +0000" channel="TVRI.vision">
-<title>Klik Indonesia Malam</title>
-</programme>
-<programme start="20260731170000 +0000" stop="20260731173000 +0000" channel="TVRI.vision">
-<title>Monitor Olahraga</title>
-</programme>
-<programme start="20260731173000 +0000" stop="20260731193000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260731193000 +0000" stop="20260731213000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260731213000 +0000" stop="20260731230000 +0000" channel="TVRI.vision">
-<title>Serambi Islami</title>
-</programme>
-<programme start="20260731230000 +0000" stop="20260801000000 +0000" channel="TVRI.vision">
-<title>Klik Indonesia Pagi</title>
-</programme>
-<programme start="20260801000000 +0000" stop="20260801010000 +0000" channel="TVRI.vision">
-<title>Jendela Negeri</title>
-</programme>
-<programme start="20260801010000 +0000" stop="20260801020000 +0000" channel="TVRI.vision">
-<title>Bikin Asik Aja</title>
-</programme>
-<programme start="20260801020000 +0000" stop="20260801020300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260801020300 +0000" stop="20260801023000 +0000" channel="TVRI.vision">
-<title>Bermain Matematika</title>
-</programme>
-<programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="TVRI.vision">
-<title>Mari Menggambar</title>
-</programme>
-<programme start="20260801030000 +0000" stop="20260801030300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260801030300 +0000" stop="20260801033000 +0000" channel="TVRI.vision">
-<title>Pesona Indonesia</title>
-</programme>
-<programme start="20260801033000 +0000" stop="20260801040000 +0000" channel="TVRI.vision">
-<title>Inspirasi Indonesia</title>
-</programme>
-<programme start="20260801040000 +0000" stop="20260801040300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260801040300 +0000" stop="20260801043000 +0000" channel="TVRI.vision">
-<title>Anak Indonesia</title>
-</programme>
-<programme start="20260801043000 +0000" stop="20260801050000 +0000" channel="TVRI.vision">
-<title>Belajar Bersama</title>
-</programme>
-<programme start="20260801050000 +0000" stop="20260801060000 +0000" channel="TVRI.vision">
-<title>Klik Indonesia Siang</title>
-</programme>
-<programme start="20260801060000 +0000" stop="20260801080000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260801080000 +0000" stop="20260801090000 +0000" channel="TVRI.vision">
-<title>VAR (Visual, Aksi, Reaksi)</title>
-</programme>
-<programme start="20260801090000 +0000" stop="20260801093000 +0000" channel="TVRI.vision">
-<title>Spotlight</title>
-</programme>
-<programme start="20260801093000 +0000" stop="20260801103000 +0000" channel="TVRI.vision">
-<title>Buah Hatiku Sayang</title>
-</programme>
-<programme start="20260801103000 +0000" stop="20260801110000 +0000" channel="TVRI.vision">
-<title>Film Pendek</title>
-</programme>
-<programme start="20260801110000 +0000" stop="20260801120000 +0000" channel="TVRI.vision">
-<title>Klik Indonesia Petang</title>
-</programme>
-<programme start="20260731000000 +0000" stop="20260731003000 +0000" channel="DAAI TV.vision">
-<title>Dr. Panda</title>
-</programme>
-<programme start="20260731003000 +0000" stop="20260731010000 +0000" channel="DAAI TV.vision">
-<title>Darwin &amp; Newts</title>
-</programme>
-<programme start="20260731010000 +0000" stop="20260731013000 +0000" channel="DAAI TV.vision">
-<title>Clifford</title>
-</programme>
-<programme start="20260731013000 +0000" stop="20260731020000 +0000" channel="DAAI TV.vision">
-<title>@Indonesia</title>
-</programme>
-<programme start="20260731020000 +0000" stop="20260731030000 +0000" channel="DAAI TV.vision">
-<title>Bincang Sehati</title>
-</programme>
-<programme start="20260731030000 +0000" stop="20260731033000 +0000" channel="DAAI TV.vision">
-<title>Sehat Ala Timur</title>
-</programme>
-<programme start="20260731033000 +0000" stop="20260731040000 +0000" channel="DAAI TV.vision">
-<title>Vegetarian Kitchen</title>
-</programme>
-<programme start="20260731040000 +0000" stop="20260731050000 +0000" channel="DAAI TV.vision">
-<title>Petualangan Si Pemimpi</title>
-</programme>
-<programme start="20260731050000 +0000" stop="20260731060000 +0000" channel="DAAI TV.vision">
-<title>Halo Indonesia</title>
-</programme>
-<programme start="20260731060000 +0000" stop="20260731063000 +0000" channel="DAAI TV.vision">
-<title>Potret</title>
-</programme>
-<programme start="20260731063000 +0000" stop="20260731070000 +0000" channel="DAAI TV.vision">
-<title>Tek Tok</title>
-</programme>
-<programme start="20260731070000 +0000" stop="20260731073000 +0000" channel="DAAI TV.vision">
-<title>Bingkai Sumatera</title>
-</programme>
-<programme start="20260731073000 +0000" stop="20260731080000 +0000" channel="DAAI TV.vision">
-<title>Bumiku Satu</title>
-</programme>
-<programme start="20260731080000 +0000" stop="20260731090000 +0000" channel="DAAI TV.vision">
-<title>The Golden Dream</title>
-</programme>
-<programme start="20260731090000 +0000" stop="20260731093000 +0000" channel="DAAI TV.vision">
-<title>Cerita Sahabat</title>
 </programme>

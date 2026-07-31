@@ -9351,7 +9351,7 @@
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260731154000 +0000" stop="20260731163500 +0000" channel="lovenaturehd.unifitv">
+  <programme start="20260731154000 +0000" stop="20260731164000 +0000" channel="lovenaturehd.unifitv">
     <title lang="en">Tusker: Brotherhood of Elephants</title>
     <desc lang="en">Become immersed in the intricate lives of tuskers with Craig, Pascal, and Esau, three male African elephants in all stages of life. Get a rare glimpse into the subtle language, complex interactions, and deep bonds of the world's largest land mammal.</desc>
     <category lang="en">Wildlife</category>
