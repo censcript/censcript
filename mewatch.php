@@ -37,10 +37,10 @@
     <programme start="20260731164300 +0000" stop="20260731193000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260731193000 +0000" stop="20260731205500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260731193000 +0000" stop="20260731204800 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Sectional Play - NIR vs SGP</title>
     </programme>
-    <programme start="20260731205500 +0000" stop="20260801072000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260731204800 +0000" stop="20260801072000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260801072000 +0000" stop="20260801084500 +0000" channel="Unknown Channel.mewatch">
@@ -61,8 +61,17 @@
     <programme start="20260801151500 +0000" stop="20260801164000 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Sectional Play - MAS vs WAL</title>
     </programme>
-    <programme start="20260731160000 +0000" stop="20260801155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260731160000 +0000" stop="20260801095000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260801095000 +0000" stop="20260801130000 +0000" channel="Unknown Channel.mewatch">
+        <title>Judo - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Elimination Rounds | Quarter-finals | Repechage | Semi-finals</title>
+    </programme>
+    <programme start="20260801130000 +0000" stop="20260801145000 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260801145000 +0000" stop="20260801174500 +0000" channel="Unknown Channel.mewatch">
+        <title>Judo - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals</title>
     </programme>
     <programme start="20260801160000 +0000" stop="20260802075000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
