@@ -4,10 +4,10 @@
     <programme start="20260730172000 +0000" stop="20260730210500 +0000" channel="Unknown Channel.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Semi-finals | Finals - 31 Jul 2026</title>
     </programme>
-    <programme start="20260730210500 +0000" stop="20260731085000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730210500 +0000" stop="20260731093000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260731085000 +0000" stop="20260731125000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260731093000 +0000" stop="20260731125000 +0000" channel="Unknown Channel.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Heats - 31 Jul 2026</title>
     </programme>
     <programme start="20260731125000 +0000" stop="20260731155959 +0000" channel="Unknown Channel.mewatch">
@@ -19,7 +19,13 @@
     <programme start="20260730145000 +0000" stop="20260730183400 +0000" channel="Unknown Channel.mewatch">
         <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals | Medal Ceremony</title>
     </programme>
-    <programme start="20260730183400 +0000" stop="20260731145000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730183400 +0000" stop="20260731085000 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260731085000 +0000" stop="20260731140000 +0000" channel="Unknown Channel.mewatch">
+        <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Qualifications | Quarter-finals</title>
+    </programme>
+    <programme start="20260731140000 +0000" stop="20260731145000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260731145000 +0000" stop="20260731192000 +0000" channel="Unknown Channel.mewatch">
@@ -40,13 +46,22 @@
     <programme start="20260731084500 +0000" stop="20260731101000 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Para Men&#039;s Pairs B6-B8 - NZL vs SGP</title>
     </programme>
-    <programme start="20260731101000 +0000" stop="20260731113500 +0000" channel="Unknown Channel.mewatch">
-        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Sectional Play - SGP vs BOT</title>
-    </programme>
-    <programme start="20260731113500 +0000" stop="20260731151500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260731101000 +0000" stop="20260731101100 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260731151500 +0000" stop="20260731164000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260731101100 +0000" stop="20260731113500 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Sectional Play - SGP vs BOT</title>
+    </programme>
+    <programme start="20260731113500 +0000" stop="20260731135000 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260731135000 +0000" stop="20260731151500 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Para Women&#039;s Pairs B6-B8 - AUS vs MAS</title>
+    </programme>
+    <programme start="20260731151500 +0000" stop="20260731151600 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260731151600 +0000" stop="20260731164000 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Sectional Play - MAS vs RSA</title>
     </programme>
     <programme start="20260730160000 +0000" stop="20260730193000 +0000" channel="Unknown Channel.mewatch">
@@ -58,10 +73,10 @@
     <programme start="20260730205500 +0000" stop="20260731084500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260731084500 +0000" stop="20260731101000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260731084500 +0000" stop="20260731100400 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs Sectional Play - WAL vs MAS</title>
     </programme>
-    <programme start="20260731101000 +0000" stop="20260731155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260731100400 +0000" stop="20260731155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260731160000 +0000" stop="20260801155959 +0000" channel="Unknown Channel.mewatch">
@@ -316,10 +331,10 @@
     <programme start="20260730163000 +0000" stop="20260730173000 +0000" channel="Channel U.mewatch">
         <title>Three Bold Siblings - EP 69</title>
     </programme>
-    <programme start="20260730173000 +0000" stop="20260730183000 +0000" channel="Channel U.mewatch">
+    <programme start="20260730173000 +0000" stop="20260730220000 +0000" channel="Channel U.mewatch">
         <title>Three Bold Siblings - EP 70</title>
     </programme>
-    <programme start="20260730183000 +0000" stop="20260731025700 +0000" channel="Channel U.mewatch">
+    <programme start="20260730220000 +0000" stop="20260731025700 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260731025700 +0000" stop="20260731031400 +0000" channel="Channel U.mewatch">

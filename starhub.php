@@ -1387,7 +1387,7 @@
     <programme start="20260731140000 +0000" stop="20260731143000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260731143000 +0000" stop="20260731210000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260731143000 +0000" stop="20260731173000 +0000" channel="COLORS Tamil HD.starhub">
         <title>60 Vayathu Maaniram</title>
     </programme>
     <programme start="20260730160000 +0000" stop="20260730180000 +0000" channel="TVBS Asia.starhub">

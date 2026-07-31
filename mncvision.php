@@ -1537,6 +1537,123 @@
 <programme start="20260731160000 +0000" stop="20260731163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Money</title>
 </programme>
+<programme start="20260730170000 +0000" stop="20260730182700 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
+<programme start="20260730182700 +0000" stop="20260730183000 +0000" channel="BTV.mncvision">
+    <title>Tanah Airku</title>
+</programme>
+<programme start="20260730183000 +0000" stop="20260730190000 +0000" channel="BTV.mncvision">
+    <title>Saksi Mata</title>
+</programme>
+<programme start="20260730190000 +0000" stop="20260730193000 +0000" channel="BTV.mncvision">
+    <title>Indonesia Update Ekspos</title>
+</programme>
+<programme start="20260730193000 +0000" stop="20260730200000 +0000" channel="BTV.mncvision">
+    <title>Berita Kriminal</title>
+</programme>
+<programme start="20260730200000 +0000" stop="20260730203000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260730203000 +0000" stop="20260730210000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260730210000 +0000" stop="20260730213000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260730213000 +0000" stop="20260730220000 +0000" channel="BTV.mncvision">
+    <title>Spot On</title>
+</programme>
+<programme start="20260730220000 +0000" stop="20260730230000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20260730230000 +0000" stop="20260730230300 +0000" channel="BTV.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20260730230300 +0000" stop="20260731003000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20260731003000 +0000" stop="20260731010000 +0000" channel="BTV.mncvision">
+    <title>FYI</title>
+</programme>
+<programme start="20260731010000 +0000" stop="20260731010500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260731010500 +0000" stop="20260731011500 +0000" channel="BTV.mncvision">
+    <title>FYI</title>
+</programme>
+<programme start="20260731011500 +0000" stop="20260731014500 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20260731014500 +0000" stop="20260731020000 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20260731020000 +0000" stop="20260731020500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260731020500 +0000" stop="20260731023000 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20260731023000 +0000" stop="20260731030000 +0000" channel="BTV.mncvision">
+    <title>Investor Market Today</title>
+</programme>
+<programme start="20260731030000 +0000" stop="20260731033000 +0000" channel="BTV.mncvision">
+    <title>Jendela Nusantara</title>
+</programme>
+<programme start="20260731033000 +0000" stop="20260731040000 +0000" channel="BTV.mncvision">
+    <title>Relasi</title>
+</programme>
+<programme start="20260731040000 +0000" stop="20260731050000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260731050000 +0000" stop="20260731050500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260731050500 +0000" stop="20260731053000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260731053000 +0000" stop="20260731063000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20260731063000 +0000" stop="20260731073000 +0000" channel="BTV.mncvision">
+    <title>Pecah Telur</title>
+</programme>
+<programme start="20260731073000 +0000" stop="20260731080000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20260731080000 +0000" stop="20260731083000 +0000" channel="BTV.mncvision">
+    <title>Berita Kriminal</title>
+</programme>
+<programme start="20260731083000 +0000" stop="20260731090000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260731090000 +0000" stop="20260731090500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260731090500 +0000" stop="20260731100000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260731100000 +0000" stop="20260731103000 +0000" channel="BTV.mncvision">
+    <title>Berita Merah Putih</title>
+</programme>
+<programme start="20260731103000 +0000" stop="20260731120000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260731120000 +0000" stop="20260731130000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260731130000 +0000" stop="20260731141500 +0000" channel="BTV.mncvision">
+    <title>Money Lab</title>
+</programme>
+<programme start="20260731141500 +0000" stop="20260731150000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260731160000 +0000" stop="20260731163000 +0000" channel="BTV.mncvision">
+    <title>Mitos Tengah Malam</title>
+</programme>
 <programme start="20260730170000 +0000" stop="20260730170300 +0000" channel="BUDDY STARS.mncvision">
     <title>Hey Duggee S5, Ep 4</title>
 </programme>

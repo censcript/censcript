@@ -727,12 +727,6 @@
 <programme start="20260731053000 +0000" stop="20260731063000 +0000" channel="TVOne.vision">
 <title>Breaking News (L)</title>
 </programme>
-<programme start="20260731073000 +0000" stop="20260731083000 +0000" channel="TVOne.vision">
-<title>Kabar Merah Putih (L)</title>
-</programme>
-<programme start="20260731083000 +0000" stop="20260731090000 +0000" channel="TVOne.vision">
-<title>Berita Utama Kriminal (L)</title>
-</programme>
 <programme start="20260731090000 +0000" stop="20260731110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260731130000 +0000" stop="20260731133000 +0000" channel="TVRI.vision">
 <title>Jelajah Kopi</title>
+</programme>
+<programme start="20260731133000 +0000" stop="20260731140000 +0000" channel="TVRI.vision">
+<title>Bumi</title>
+</programme>
+<programme start="20260731140000 +0000" stop="20260731143000 +0000" channel="TVRI.vision">
+<title>Dunia Dalam Berita</title>
 </programme>
