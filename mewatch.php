@@ -19,13 +19,7 @@
     <programme start="20260730145000 +0000" stop="20260730183400 +0000" channel="Unknown Channel.mewatch">
         <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals | Medal Ceremony</title>
     </programme>
-    <programme start="20260730183400 +0000" stop="20260731085000 +0000" channel="Unknown Channel.mewatch">
-        <title>No programme streaming LIVE at this moment</title>
-    </programme>
-    <programme start="20260731085000 +0000" stop="20260731140000 +0000" channel="Unknown Channel.mewatch">
-        <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Qualifications | Quarter-finals | Final</title>
-    </programme>
-    <programme start="20260731140000 +0000" stop="20260731145000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260730183400 +0000" stop="20260731145000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260731145000 +0000" stop="20260731192000 +0000" channel="Unknown Channel.mewatch">
@@ -769,25 +763,25 @@
     <programme start="20260731160000 +0000" stop="20260801160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now.</title>
     </programme>
-    <programme start="20260730160000 +0000" stop="20260731100000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 31 July, Friday 6.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260730160000 +0000" stop="20260731093200 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 31 July, Friday 5.32pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260731100000 +0000" stop="20260731120000 +0000" channel="Live 5.mewatch">
+    <programme start="20260731093200 +0000" stop="20260731122000 +0000" channel="Live 5.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Timor Leste vs Indonesia</title>
     </programme>
-    <programme start="20260731120000 +0000" stop="20260731160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260731122000 +0000" stop="20260731160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 01 August, Saturday 6.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260731160000 +0000" stop="20260801100000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 01 August, Saturday 6.00pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260730160000 +0000" stop="20260731130000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 31 July, Friday 9.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260730160000 +0000" stop="20260731123300 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 31 July, Friday 8.33pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260731130000 +0000" stop="20260731150000 +0000" channel="Live 6.mewatch">
+    <programme start="20260731123300 +0000" stop="20260731152000 +0000" channel="Live 6.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Vietnam vs Singapore</title>
     </programme>
-    <programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="Live 6.mewatch">
+    <programme start="20260731152000 +0000" stop="20260731160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 01 August, Saturday 9.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260731160000 +0000" stop="20260801130000 +0000" channel="Live 6.mewatch">

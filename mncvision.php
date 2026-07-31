@@ -7783,60 +7783,6 @@
 <programme start="20260731161500 +0000" stop="20260731164500 +0000" channel="Rock Entertainment.mncvision">
     <title>Real Housewives Of..., Ep 8</title>
 </programme>
-<programme start="20260730182900 +0000" stop="20260730194700 +0000" channel="SCTV.mncvision">
-    <title>Bidadari Kecebur Empang</title>
-</programme>
-<programme start="20260730194700 +0000" stop="20260730210400 +0000" channel="SCTV.mncvision">
-    <title>Satu Cinta Yang Kupercaya</title>
-</programme>
-<programme start="20260730210400 +0000" stop="20260730213000 +0000" channel="SCTV.mncvision">
-    <title>Barakallah</title>
-</programme>
-<programme start="20260730213000 +0000" stop="20260730220000 +0000" channel="SCTV.mncvision">
-    <title>Buser</title>
-</programme>
-<programme start="20260730220000 +0000" stop="20260730230000 +0000" channel="SCTV.mncvision">
-    <title>Liputan 6 Pagi (L)</title>
-</programme>
-<programme start="20260730230000 +0000" stop="20260731000000 +0000" channel="SCTV.mncvision">
-    <title>Halo Selebriti</title>
-</programme>
-<programme start="20260731000000 +0000" stop="20260731011500 +0000" channel="SCTV.mncvision">
-    <title>Tiba-Tiba Kuis</title>
-</programme>
-<programme start="20260731011500 +0000" stop="20260731030000 +0000" channel="SCTV.mncvision">
-    <title>Sultan Roti Mah Bebas</title>
-</programme>
-<programme start="20260731030000 +0000" stop="20260731050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi</title>
-</programme>
-<programme start="20260731050000 +0000" stop="20260731053000 +0000" channel="SCTV.mncvision">
-    <title>Liputan 6 Siang (L)</title>
-</programme>
-<programme start="20260731053000 +0000" stop="20260731070000 +0000" channel="SCTV.mncvision">
-    <title>Lapor Ketua, Api Cemburu Padam</title>
-</programme>
-<programme start="20260731070000 +0000" stop="20260731083000 +0000" channel="SCTV.mncvision">
-    <title>Diputer Dicelup, Pacaran Yuk...</title>
-</programme>
-<programme start="20260731083000 +0000" stop="20260731101500 +0000" channel="SCTV.mncvision">
-    <title>Kita Kawal Mas Teacher...</title>
-</programme>
-<programme start="20260731101500 +0000" stop="20260731114500 +0000" channel="SCTV.mncvision">
-    <title>Asmara Gen Z New Era</title>
-</programme>
-<programme start="20260731114500 +0000" stop="20260731131500 +0000" channel="SCTV.mncvision">
-    <title>Seindah Masa Remaja</title>
-</programme>
-<programme start="20260731131500 +0000" stop="20260731144500 +0000" channel="SCTV.mncvision">
-    <title>Wajah Cinta Yang Lain</title>
-</programme>
-<programme start="20260731144500 +0000" stop="20260731160000 +0000" channel="SCTV.mncvision">
-    <title>Biarkan Hati Bicara</title>
-</programme>
-<programme start="20260731160000 +0000" stop="20260731163000 +0000" channel="SCTV.mncvision">
-    <title>The Sexy Doctor Is Mine</title>
-</programme>
 <programme start="20260730182900 +0000" stop="20260730194700 +0000" channel="SCTV HD.mncvision">
     <title>Bidadari Kecebur Empang</title>
 </programme>
@@ -7858,37 +7804,37 @@
 <programme start="20260731000000 +0000" stop="20260731011500 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260731011500 +0000" stop="20260731030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260731011500 +0000" stop="20260731025200 +0000" channel="SCTV HD.mncvision">
     <title>Sultan Roti Mah Bebas</title>
 </programme>
-<programme start="20260731030000 +0000" stop="20260731050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260731025200 +0000" stop="20260731044700 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Tak Perlu Dibagi</title>
 </programme>
-<programme start="20260731050000 +0000" stop="20260731053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260731044700 +0000" stop="20260731052200 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260731053000 +0000" stop="20260731070000 +0000" channel="SCTV HD.mncvision">
-    <title>Lapor Ketua, Api Cemburu Padam</title>
+<programme start="20260731052200 +0000" stop="20260731070000 +0000" channel="SCTV HD.mncvision">
+    <title>Kukejar Sultan Kudapat</title>
 </programme>
-<programme start="20260731070000 +0000" stop="20260731083000 +0000" channel="SCTV HD.mncvision">
-    <title>Diputer Dicelup, Pacaran Yuk...</title>
+<programme start="20260731070000 +0000" stop="20260731083600 +0000" channel="SCTV HD.mncvision">
+    <title>Playboy Mode Ganteng</title>
 </programme>
-<programme start="20260731083000 +0000" stop="20260731101500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260731083600 +0000" stop="20260731101000 +0000" channel="SCTV HD.mncvision">
     <title>Kita Kawal Mas Teacher...</title>
 </programme>
-<programme start="20260731101500 +0000" stop="20260731114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260731101000 +0000" stop="20260731114400 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260731114500 +0000" stop="20260731131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260731114400 +0000" stop="20260731131000 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260731131500 +0000" stop="20260731144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260731131000 +0000" stop="20260731143500 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260731144500 +0000" stop="20260731160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260731143500 +0000" stop="20260731160300 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260731160000 +0000" stop="20260731163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260731160300 +0000" stop="20260731163300 +0000" channel="SCTV HD.mncvision">
     <title>The Sexy Doctor Is Mine</title>
 </programme>
 <programme start="20260730170000 +0000" stop="20260730180000 +0000" channel="Sindo News TV.mncvision">

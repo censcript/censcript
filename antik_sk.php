@@ -913,13 +913,13 @@
   <programme start="20260802212000 +0000" stop="20260802232500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Stretávka</title>
   </programme>
-  <programme start="20260801220000 +0000" stop="20260801233500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260801220000 +0000" stop="20260801233000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Svadba a iné pohromy</title>
   </programme>
-  <programme start="20260801233500 +0000" stop="20260802010000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260801233000 +0000" stop="20260802005500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dobrodružstvo s mojím ex</title>
   </programme>
-  <programme start="20260802010000 +0000" stop="20260802023500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802005500 +0000" stop="20260802023500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Žena cestovateľa v čase</title>
   </programme>
   <programme start="20260802023500 +0000" stop="20260802040000 +0000" channel="Doma.webtv.sk">
@@ -928,40 +928,40 @@
   <programme start="20260802040000 +0000" stop="20260802050000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260802050000 +0000" stop="20260802061500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802050000 +0000" stop="20260802062000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260802061500 +0000" stop="20260802065500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802062000 +0000" stop="20260802070500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia VI (25)</title>
   </programme>
-  <programme start="20260802065500 +0000" stop="20260802072500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802070500 +0000" stop="20260802074500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia VII (1)</title>
   </programme>
-  <programme start="20260802072500 +0000" stop="20260802080000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802074500 +0000" stop="20260802081000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia VII (2)</title>
   </programme>
-  <programme start="20260802080000 +0000" stop="20260802082500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802081000 +0000" stop="20260802085000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia VII (3)</title>
   </programme>
-  <programme start="20260802082500 +0000" stop="20260802090500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802085000 +0000" stop="20260802091000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia VII (4)</title>
   </programme>
-  <programme start="20260802090500 +0000" stop="20260802095000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802091000 +0000" stop="20260802095500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire X (5)</title>
   </programme>
-  <programme start="20260802095000 +0000" stop="20260802105000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802095500 +0000" stop="20260802105500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire X (6)</title>
   </programme>
-  <programme start="20260802105000 +0000" stop="20260802121000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802105500 +0000" stop="20260802121500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260802121000 +0000" stop="20260802135500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802121500 +0000" stop="20260802140000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Ako chutí láska</title>
   </programme>
-  <programme start="20260802135500 +0000" stop="20260802154500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802140000 +0000" stop="20260802155000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dobrodružstvo s mojím ex</title>
   </programme>
-  <programme start="20260802154500 +0000" stop="20260802183000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260802155000 +0000" stop="20260802183000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Tak dobre, ako sa len dá</title>
   </programme>
   <programme start="20260802183000 +0000" stop="20260802202000 +0000" channel="Doma.webtv.sk">
@@ -1108,8 +1108,8 @@
   <programme start="20260802202500 +0000" stop="20260802231000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Smrtonosná pasca</title>
   </programme>
-  <programme start="20260801211500 +0000" stop="20260801235500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Plážový volejbal</title>
+  <programme start="20260801214000 +0000" stop="20260801235500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260801235500 +0000" stop="20260802024500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
@@ -1130,7 +1130,7 @@
     <title lang="id">U18 Eurobasket 2026</title>
   </programme>
   <programme start="20260802132000 +0000" stop="20260802155000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Hokej - Reprezentácia</title>
+    <title lang="id">Plážový volejbal</title>
   </programme>
   <programme start="20260802155000 +0000" stop="20260802181000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
@@ -1144,19 +1144,19 @@
   <programme start="20260801213000 +0000" stop="20260801233000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260801233000 +0000" stop="20260802014500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260801233000 +0000" stop="20260802011500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260802014500 +0000" stop="20260802034500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260802011500 +0000" stop="20260802031500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260802034500 +0000" stop="20260802055000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260802031500 +0000" stop="20260802052000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260802055000 +0000" stop="20260802074500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260802052000 +0000" stop="20260802071000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260802074500 +0000" stop="20260802095000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260802071000 +0000" stop="20260802095000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20260802095000 +0000" stop="20260802115500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1165,16 +1165,16 @@
   <programme start="20260802115500 +0000" stop="20260802141500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260802141500 +0000" stop="20260802163500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260802141500 +0000" stop="20260802161000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260802163500 +0000" stop="20260802185500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260802161000 +0000" stop="20260802182000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260802185500 +0000" stop="20260802212000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260802182000 +0000" stop="20260802205500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260802212000 +0000" stop="20260803001000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260802205500 +0000" stop="20260802233000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260801215500 +0000" stop="20260801225500 +0000" channel="WAU.webtv.sk">

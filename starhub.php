@@ -7690,7 +7690,7 @@
     <programme start="20260730213000 +0000" stop="20260730233000 +0000" channel="Asianet Movies.starhub">
         <title>Kayyoppu</title>
     </programme>
-    <programme start="20260730233000 +0000" stop="20260731013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260730232000 +0000" stop="20260731013000 +0000" channel="Asianet Movies.starhub">
         <title>Bhaagamathie</title>
     </programme>
     <programme start="20260731013000 +0000" stop="20260731043000 +0000" channel="Asianet Movies.starhub">
