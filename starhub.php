@@ -3634,9 +3634,6 @@
     <programme start="20260801000000 +0000" stop="20260801002800 +0000" channel="NHK World Premium HD.starhub">
         <title>Darwin&#039;s Amazing Animals &quot;The Animal Brothers&quot; (R)</title>
     </programme>
-    <programme start="20260801002800 +0000" stop="20260801003000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
     <programme start="20260801003000 +0000" stop="20260801010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Document 72 Hours (R)</title>
     </programme>

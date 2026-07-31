@@ -4912,6 +4912,51 @@
   <programme start="20260802170000 +0000" stop="20260802200000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Golf: PGA Tour</title>
   </programme>
+  <programme start="20260801220000 +0000" stop="20260802001500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Nizozemsko - Alžírsko</title>
+  </programme>
+  <programme start="20260802001500 +0000" stop="20260802030000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: HK Poprad - HC Slovan Bratislava</title>
+  </programme>
+  <programme start="20260802030000 +0000" stop="20260802040000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Box: Miguel Angel Cotto - Carlos Ramirez</title>
+  </programme>
+  <programme start="20260802040000 +0000" stop="20260802061500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Moldavsko - Bulharsko</title>
+  </programme>
+  <programme start="20260802061500 +0000" stop="20260802083000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Arménie - Moldavsko</title>
+  </programme>
+  <programme start="20260802083000 +0000" stop="20260802104500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Anglie - Kostarika</title>
+  </programme>
+  <programme start="20260802104500 +0000" stop="20260802110000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Zlaté okamžiky</title>
+  </programme>
+  <programme start="20260802110000 +0000" stop="20260802130000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">WNBA: Phoenix Mercury - New York Liberty</title>
+  </programme>
+  <programme start="20260802130000 +0000" stop="20260802140000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260802140000 +0000" stop="20260802160000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20260802160000 +0000" stop="20260802180000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20260802180000 +0000" stop="20260802200000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20260802200000 +0000" stop="20260802204500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">MVP</title>
+  </programme>
+  <programme start="20260802204500 +0000" stop="20260802211500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis, WTA 250, Hobart, sestřih</title>
+  </programme>
+  <programme start="20260802211500 +0000" stop="20260802221500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
   <programme start="20260801220000 +0000" stop="20260802000000 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Házená</title>
   </programme>

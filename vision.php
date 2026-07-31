@@ -592,12 +592,6 @@
 <programme start="20260731103000 +0000" stop="20260731113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260731160000 +0000" stop="20260731180000 +0000" channel="ANTV.vision">
-<title>Lukisan Berlumur Darah</title>
-</programme>
-<programme start="20260731180000 +0000" stop="20260731190000 +0000" channel="ANTV.vision">
-<title>The Iron Fisted Monk</title>
-</programme>
 <programme start="20260731190000 +0000" stop="20260731203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260731110000 +0000" stop="20260731120000 +0000" channel="TVRI.vision">
 <title>Klik Indonesia Petang</title>
+</programme>
+<programme start="20260731120000 +0000" stop="20260731130000 +0000" channel="TVRI.vision">
+<title>Indonesia Bicara</title>
+</programme>
+<programme start="20260731130000 +0000" stop="20260731133000 +0000" channel="TVRI.vision">
+<title>Jelajah Kopi</title>
 </programme>

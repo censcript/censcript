@@ -2,1543 +2,6 @@
 <!-- Total programs: 69, Total pages: 7 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="UnifiTV EPG Parser" generator-info-url="https://unifitv.com.my/">
-  <channel id="spotv.unifitv">
-    <display-name>SPOTV</display-name>
-  </channel>
-  <programme start="20260731080000 +0000" stop="20260731180000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) AIG Women's Open 2026 - Round 2</title>
-    <desc lang="en">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20260731180000 +0000" stop="20260731232000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 LIV Golf League, U.K. - Round 4</title>
-    <desc lang="en">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20260731232000 +0000" stop="20260801001500 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Hyundai Archery World Cup, Stage 4 Madrid (ESP) - Recurve Highlights</title>
-    <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
-    <category lang="en">Archery</category>
-  </programme>
-  <programme start="20260801001500 +0000" stop="20260801034500 +0000" channel="spotv.unifitv">
-    <title lang="en">Reserve Cup Series Marbella 2026 - Day 3</title>
-    <desc lang="en">Reserve Cup Series features elite padel competition led by celebrity team captains, as top players battle in a high-profile event blending sport, lifestyle, and entertainment.</desc>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20260801034500 +0000" stop="20260801044000 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 15 Tokyo E-Prix - Highlights 1</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260801044000 +0000" stop="20260801060000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) 2026 Supercars: Bosch Power Tools Perth Super 440 - Race 23</title>
-    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260801060000 +0000" stop="20260801081500 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 U.S. Junior Amateur Championship - Final</title>
-    <desc lang="en">The nation's leading junior golfers battle for one of amateur golf's most prestigious championships, highlighting emerging talent and future stars of the sport.</desc>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20260801081500 +0000" stop="20260801093000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) 2026 Supercars: Bosch Power Tools Perth Super 440 - Race 24</title>
-    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260801093000 +0000" stop="20260801103000 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Highlights 1</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260801103000 +0000" stop="20260801110000 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 15 Tokyo E-Prix - Highlights 2</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260801110000 +0000" stop="20260801180000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) AIG Women's Open 2026 - Round 3</title>
-    <desc lang="en">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
-    <category lang="en">Golf</category>
-  </programme>
-  <channel id="beinsports.unifitv">
-    <display-name>beIN SPORTS 1</display-name>
-  </channel>
-  <programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="beinsports.unifitv">
-    <title lang="en">WRC - Rally Finland SS9 Hoho 2 (L)</title>
-    <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731160000 +0000" stop="20260731164000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Best Goals Of The Season</title>
-    <desc lang="en">beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731164000 +0000" stop="20260731165300 +0000" channel="beinsports.unifitv">
-    <title lang="en">Chasing the Dream - Budapest, Hungary</title>
-    <desc lang="en">Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731165300 +0000" stop="20260731190000 +0000" channel="beinsports.unifitv">
-    <title lang="en">WAFCON - South Africa vs Ivory Coast (L)</title>
-    <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731190000 +0000" stop="20260731195300 +0000" channel="beinsports.unifitv">
-    <title lang="en">Formula 4 - Mugello Race 4</title>
-    <desc lang="en">The Formula 4 Italian Championship is the benchmark of F4 worldwide, the first crucial step from karting to F1</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731195300 +0000" stop="20260731220000 +0000" channel="beinsports.unifitv">
-    <title lang="en">WAFCON - Burkina Faso vs Tanzania (L)</title>
-    <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="beinsports.unifitv">
-    <title lang="en">UEFA Conference League - Crystal Palace vs Rayo Vallecano - Final</title>
-    <desc lang="en">Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at RB Arena,Leipzig</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LFCTV - Liverpool vs Wrexham - Friendly</title>
-    <desc lang="en">Enjoy every Liverpool match from the Premier League, FA Cup and Carabao Cup and friendlies, from LFCTV on beIN SPORTS</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801020000 +0000" stop="20260801023000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LFC Trending - Episode Number 50</title>
-    <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Le Mans Cup Highlights - Road to Le Mans</title>
-    <desc lang="en">Highlights of the eleventh season of the premier European endurance support series, featuring a record 45-car grid across LMP3 and GT3 classes</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801030000 +0000" stop="20260801050000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Rayo Vallecano vs Real Sociedad</title>
-    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801050000 +0000" stop="20260801060000 +0000" channel="beinsports.unifitv">
-    <title lang="en">ERC - Rally Poland SS 12 Silesian Voivodeship 1</title>
-    <desc lang="en">The 74th season of the premier European rallying series, featuring a seven-round, all-asphalt/gravel calendar starting in Spain.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="beinsports.unifitv">
-    <title lang="en">ERC - Rally Poland SS 15 Silesian Voivodeship 2 - PS</title>
-    <desc lang="en">The 74th season of the premier European rallying series, featuring a seven-round, all-asphalt/gravel calendar starting in Spain.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801070000 +0000" stop="20260801090000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Formula 1 Main Race - FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026</title>
-    <desc lang="en">beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801090000 +0000" stop="20260801100000 +0000" channel="beinsports.unifitv">
-    <title lang="en">WRC - Rally Finland SS14 Leustu 1 (L)</title>
-    <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801100000 +0000" stop="20260801110000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Ferrari Challenge - Race 1, Brands Hatch</title>
-    <desc lang="en">The UK Championship of the Ferrari Challenge Series enters its eighth season on a high, starting the calendar abroad for the second year running, and with the most extensive calendar ever - taking the top of British talent to all premiere circuits in Great Britain - and beyond!</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801110000 +0000" stop="20260801120000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Ferrari Challenge - Race 2, Brands Hatch</title>
-    <desc lang="en">The UK Championship of the Ferrari Challenge Series enters its eighth season on a high, starting the calendar abroad for the second year running, and with the most extensive calendar ever - taking the top of British talent to all premiere circuits in Great Britain - and beyond!</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801120000 +0000" stop="20260801123000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Porsche Mobil 1 Supercup Highlights - Budapest, Hungary</title>
-    <desc lang="en">Catch up on all the action from the Porsche Mobil 1 Supercup in this 30-min highlights.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801123000 +0000" stop="20260801125000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Chasing the Dream - Budapest, Hungary</title>
-    <desc lang="en">Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801125000 +0000" stop="20260801133000 +0000" channel="beinsports.unifitv">
-    <title lang="en">GT World Challenge Europe - Magny-Cours Qualifying 1, Sprint Cup (L)</title>
-    <desc lang="en">The 16th season of the premier European GT3 championship, featuring a 10-round calendar split between Endurance and Sprint Cups</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801133000 +0000" stop="20260801135500 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Best Saves Of The Season</title>
-    <desc lang="en">beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801135500 +0000" stop="20260801160000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Pre Season Friendly - Cardiff vs Roma (L)</title>
-    <desc lang="en">The 2026/27 football season begins here as beIN SPORTS brings you the best of the pre season friendly action featuring Premier League, LaLiga, Bundesliga, Serie A and Ligue 1 teams.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801160000 +0000" stop="20260801170000 +0000" channel="beinsports.unifitv">
-    <title lang="en">WRC - Rally Finland SS18 Leustu 2 (L)</title>
-    <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <channel id="hbohd.unifitv">
-    <display-name>HBO</display-name>
-  </channel>
-  <programme start="20260731143500 +0000" stop="20260731160500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Gray Matter</title>
-    <desc lang="en">16-year-old Aurora longs for a normal life - but must first learn to control her psychic powers.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731160500 +0000" stop="20260731173500 +0000" channel="hbohd.unifitv">
-    <title lang="en">All The Devils Are Here</title>
-    <desc lang="en">After a heist, four criminals lay low in a remote safehouse. As paranoia builds, one thing becomes clear: the real threat is already inside.</desc>
-    <category lang="en">Suspense</category>
-  </programme>
-  <programme start="20260731173500 +0000" stop="20260731191000 +0000" channel="hbohd.unifitv">
-    <title lang="en">Heart Eyes</title>
-    <desc lang="en">When the "Heart Eyes Killer" strikes, a pair of co-workers are mistaken for a couple by the elusive couple-hunting killer.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260731191000 +0000" stop="20260731193500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
-    <category lang="en">Entertaiment</category>
-    <episode-num system="xmltv_ns">0.1179.</episode-num>
-    <episode-num system="onscreen">S1E1180</episode-num>
-  </programme>
-  <programme start="20260731193500 +0000" stop="20260731220000 +0000" channel="hbohd.unifitv">
-    <title lang="en">Eddington</title>
-    <desc lang="en">In May of 2020, a standoff between a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260731220000 +0000" stop="20260731232500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Teen Titans Go! To The Movies</title>
-    <desc lang="en">The Teen Titans head to Tinsel Town to pursue their dream of starring in their own movies.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260731232500 +0000" stop="20260801011000 +0000" channel="hbohd.unifitv">
-    <title lang="en">The Polar Express</title>
-    <desc lang="en">A doubting boy finds out first-hand that Santa exists when he goes aboard a magical train headed for the North Pole.</desc>
-    <category lang="en">Family</category>
-  </programme>
-  <programme start="20260801011000 +0000" stop="20260801025500 +0000" channel="hbohd.unifitv">
-    <title lang="en">The Bad Guys 2</title>
-    <desc lang="en">In this new action-packed chapter the now-reformed Bad Guys are forced to pull one last heist, masterminded by a new team of criminals: The Bad Girls.</desc>
-    <category lang="en">Family</category>
-  </programme>
-  <programme start="20260801025500 +0000" stop="20260801042500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Jurassic Park III</title>
-    <desc lang="en">Tricked into rescuing a boy from an island that once bred dinosaurs, a paleontologist discovers that its inhabitants are deadlier than he imagined.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801042500 +0000" stop="20260801055500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Smurfs</title>
-    <desc lang="en">Smurfette and the Smurfs team up with new friends to save Papa Smurf after he's kidnapped and realize their destiny is to protect the universe.</desc>
-    <category lang="en">Family</category>
-  </programme>
-  <programme start="20260801055500 +0000" stop="20260801080500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Pacific Rim</title>
-    <desc lang="en">A sci-fi action epic about a ragtag band of humans coming together in the year 2020 to fight legions of monstrous creatures rising from the sea.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801080500 +0000" stop="20260801094500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Gabby's Dollhouse: The Movie</title>
-    <desc lang="en">Gabby and Grandma Gigi's road trip to Cat Francisco takes an unexpected turn when Gabby's prized dollhouse is swiped by an eccentric cat lady.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801094500 +0000" stop="20260801114500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Crazy Rich Asians</title>
-    <desc lang="en">Chinese-American New Yorker Rachel Chu travels to Singapore with her boyfriend Nick to attend his best friend's wedding. Before long, his secret is out: Nick's family is wealthy, and he's considered the most eligible bachelor in Asia…</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260801114500 +0000" stop="20260801140000 +0000" channel="hbohd.unifitv">
-    <title lang="en">Wicked: For Good</title>
-    <desc lang="en">In the epic conclusion to the story of the witches of Oz, Elphaba and Glinda must reunite if they are to change themselves—and all of Oz—for good.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20260801140000 +0000" stop="20260801161500 +0000" channel="hbohd.unifitv">
-    <title lang="en">Wuthering Heights</title>
-    <desc lang="en">Wuthering Heights</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <channel id="cinemax.unifitv">
-    <display-name>Cinemax</display-name>
-  </channel>
-  <programme start="20260731150000 +0000" stop="20260731170000 +0000" channel="cinemax.unifitv">
-    <title lang="en">Allied</title>
-    <desc lang="en">When an Intelligence Officer learns that his wife may be working with the enemy in secret, he has only 3 days to prove her innocence and save his family.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731170000 +0000" stop="20260731183500 +0000" channel="cinemax.unifitv">
-    <title lang="en">Alarum</title>
-    <desc lang="en">Forced out of hiding, former assassin couple Joe and Lara Travers must use their deadly skills from their past to survive the imminent threat.</desc>
-    <category lang="en">Suspense</category>
-  </programme>
-  <programme start="20260731183500 +0000" stop="20260731202000 +0000" channel="cinemax.unifitv">
-    <title lang="en">Civil War</title>
-    <desc lang="en">In a dystopian future America, a team of military-embedded journalists races against time to reach Washington, D.C., before rebel factions descend upon the White House.</desc>
-    <category lang="en">Suspense</category>
-  </programme>
-  <programme start="20260731202000 +0000" stop="20260731214000 +0000" channel="cinemax.unifitv">
-    <title lang="en">THE DICTATOR</title>
-    <desc lang="en">A hard-hitting HBO Original docu-drama by director Gus Van Sant that delves into the reality of high-school life.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731214000 +0000" stop="20260731230000 +0000" channel="cinemax.unifitv">
-    <title lang="en">The Gallows</title>
-    <desc lang="en">A group of students find out that some things are better left alone when they attempt to resurrect a production in honour of an actor who died during the school play.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260731230000 +0000" stop="20260801002500 +0000" channel="cinemax.unifitv">
-    <title lang="en">Life Support</title>
-    <desc lang="en">An HBO Original Movie, Life Support tells the tale of an HIV-positive woman who learns lessons of love and strength through helping others.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801002500 +0000" stop="20260801021000 +0000" channel="cinemax.unifitv">
-    <title lang="en">Caddo Lake</title>
-    <desc lang="en">The disappearance of an eight-year-old girl sets off a chain of events.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801021000 +0000" stop="20260801035000 +0000" channel="cinemax.unifitv">
-    <title lang="en">Changing Lanes</title>
-    <desc lang="en">A moment of self-absorption and a spark of anger will cause two men to cross the line between right and wrong, good and evil, rage and redemption.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801035000 +0000" stop="20260801054500 +0000" channel="cinemax.unifitv">
-    <title lang="en">Dinner For Schmucks</title>
-    <desc lang="en">To climb the corporate ladder, Tim must bring the biggest buffoon to his boss's dinner party and outshine his rivals.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260801054500 +0000" stop="20260801072500 +0000" channel="cinemax.unifitv">
-    <title lang="en">Wifelike</title>
-    <desc lang="en">Designed to behave like the late wife of a detective, an artificial human questions her reality as memories of a past life begin to resurface.</desc>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20260801072500 +0000" stop="20260801090500 +0000" channel="cinemax.unifitv">
-    <title lang="en">Drop</title>
-    <desc lang="en">Dating can be deadly. Violet's dinner with Henry is upended by a series of phone drops presenting a sinister choice: kill her date or lose her child.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801090500 +0000" stop="20260801093500 +0000" channel="cinemax.unifitv">
-    <title lang="en">Hollywood On Set</title>
-    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1179.</episode-num>
-    <episode-num system="onscreen">S1E1180</episode-num>
-  </programme>
-  <programme start="20260801093500 +0000" stop="20260801111500 +0000" channel="cinemax.unifitv">
-    <title lang="en">Too Big To Fail</title>
-    <desc lang="en">A film on the 2008 Wall Street financial crisis that explores the inner sanctum of the powerful group that decided the fate of the world's economy.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801111500 +0000" stop="20260801131000 +0000" channel="cinemax.unifitv">
-    <title lang="en">Recount</title>
-    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court's ruling in favor of G. W. Bush.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801131000 +0000" stop="20260801150000 +0000" channel="cinemax.unifitv">
-    <title lang="en">Get Smart</title>
-    <desc lang="en">Steve Carell is Maxwell Smart, a top-secret spy who blunders through every mission with Anne Hathaway, who stars as the sexy Agent 99.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260801150000 +0000" stop="20260801171000 +0000" channel="cinemax.unifitv">
-    <title lang="en">Shazam!</title>
-    <desc lang="en">A kid has the ability to turn into Shazam, an adult superhero. But he needs to master his powers quickly to fight the deadly forces of evil.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <channel id="tvnmovieshd.unifitv">
-    <display-name>tvN Movies HD</display-name>
-  </channel>
-  <programme start="20260731141000 +0000" stop="20260731161000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE SNITCH</title>
-    <desc lang="en">Kang-soo was falsely accused and imprisoned. A prosecutor offered him a deal to be a snitch in exchange for a reduced sentence and Kang-soo starts to shake up the drug investigation...</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260731161000 +0000" stop="20260731175500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE FAVOR</title>
-    <desc lang="en">A family's prayers are answered by a mysterious savior, but as miracles spread, they uncover a chilling truth: every gift comes with a deadly curse.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260731175500 +0000" stop="20260731195500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">LIFE IS BEAUTIFUL</title>
-    <desc lang="en">Se-yeon, devoted her entire life to her family, suddenly learns she is gravely ill. Now she is determined to live for herself more than ever and looks for her first love with the help of her husband.</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260731195500 +0000" stop="20260731212500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">BOY IN THE POOL</title>
-    <desc lang="en">Seok-young bumps into Woo-ju and they get closer after Woo-ju saves her from drowning. They lost touch after Woo-ju moves to Seoul to be a swimmer. Will they be able to meet again?</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731212500 +0000" stop="20260731224500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">DON'T GO TOO FAR</title>
-    <desc lang="en">While arguing on the division of their father's ?2B inheritance, the eldest brother received a call to realize his son was kidnapped, and the ransom demanded was ?2B...</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731224500 +0000" stop="20260801002000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE GLORIOUS MY REVENGE</title>
-    <desc lang="en">Detective Ryu lost his beloved son in a hit-and-run accident. As the statute of limitations passed without finding the criminal, he ran into the murderer of his son.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801002000 +0000" stop="20260801021500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">ONCE WE WERE US</title>
-    <desc lang="en">Former lovers Eun-ho and Jeong-won unexpectedly reunite on a flight to Korea, giving them a second chance to reminisce about their past and share long-buried words with each other.</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260801021500 +0000" stop="20260801040500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE FAVOR</title>
-    <desc lang="en">A family's prayers are answered by a mysterious savior, but as miracles spread, they uncover a chilling truth: every gift comes with a deadly curse.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260801040500 +0000" stop="20260801055000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">OH! MY GHOST</title>
-    <desc lang="en">FD Taemin meets a female ghost who lives in the studio he works. As mysterious events happened in the studio, they join hands to investigate and protect his job and her sleeping place.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260801055000 +0000" stop="20260801080000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE BOYS</title>
-    <desc lang="en">3 boys were imprisoned as murderers. Next year, detective Hwang got a tip and reopen the case. However, he was demoted. 16 years later, the only witness and the boys return to find Hwang.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801080000 +0000" stop="20260801100500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">HONEYSWEET</title>
-    <desc lang="en">Chi-ho is a successful product designer. Il-young works in a loan company. They meet at her company when he try to pay his brother's debt. Coincidence brings them to become closer.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260801100500 +0000" stop="20260801120500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">ONLY GOD KNOWS EVERYTHING</title>
-    <desc lang="en">Do-woon has just been ordained. During confession, a man admits to killing his mother. Torn between his duty as a priest and his desire for revenge as a son, he confronts a demonic group.</desc>
-    <category lang="en">Thriller</category>
-  </programme>
-  <programme start="20260801120500 +0000" stop="20260801141000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">THE OLD WOMAN WITH THE KNIFE</title>
-    <desc lang="en">A legendary assassin named Hornclaw is now aging. She faces declining health while mentoring a reckless apprentice, Bullfight, and confronting a deadly rival obsessed with her.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801141000 +0000" stop="20260801155000 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">WHAT A MAN WANTS</title>
-    <desc lang="en">Taxi driver Seok-geun, his sister Mi-young, and their spouses face infidelity, desire, and tangled emotions while searching for love, laughter, and meaning in their lives.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260801155000 +0000" stop="20260801173500 +0000" channel="tvnmovieshd.unifitv">
-    <title lang="en">DEVILS</title>
-    <desc lang="en">Jae-hwan is a detective catching the serial murderer Jin-hyeok and they have a physical struggle. When Jae-hwan wakes up in the hospital, he realized their bodies have been switched...</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <channel id="hitsmovies.unifitv">
-    <display-name>HITS Movies</display-name>
-  </channel>
-  <programme start="20260731150000 +0000" stop="20260731180000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Anatomy Of A Murder</title>
-    <desc lang="en">The truth proves elusive for a former prosecutor who is enlisted to defend an Army officer accused of murdering his wife's rapist.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Out Of Time</title>
-    <desc lang="en">A Florida police chief must solve a vicious double homicide before he himself falls under suspicion.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260731200000 +0000" stop="20260731214500 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Walking Tall (2004)</title>
-    <desc lang="en">Chris Vaughn, a former soldier of the US Special Forces, returns to his hometown, where he discovers that it has been overrun by a shady casino owner and corrupt police officers.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260731214500 +0000" stop="20260731233000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Kung Fu Panda 3</title>
-    <desc lang="en">In the biggest and most awesome Kung Fu Panda movie yet, Po must train a village of fun-loving, clumsy pandas to defeat a supernatural villain that threatens to destroy Kung Fu.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20260731233000 +0000" stop="20260801023000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Anatomy Of A Murder</title>
-    <desc lang="en">The truth proves elusive for a former prosecutor who is enlisted to defend an Army officer accused of murdering his wife's rapist.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801023000 +0000" stop="20260801043000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Out Of Time</title>
-    <desc lang="en">A Florida police chief must solve a vicious double homicide before he himself falls under suspicion.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801043000 +0000" stop="20260801061500 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Walking Tall (2004)</title>
-    <desc lang="en">Chris Vaughn, a former soldier of the US Special Forces, returns to his hometown, where he discovers that it has been overrun by a shady casino owner and corrupt police officers.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801061500 +0000" stop="20260801080000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Kung Fu Panda 3</title>
-    <desc lang="en">In the biggest and most awesome Kung Fu Panda movie yet, Po must train a village of fun-loving, clumsy pandas to defeat a supernatural villain that threatens to destroy Kung Fu.</desc>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20260801080000 +0000" stop="20260801110000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Anatomy Of A Murder</title>
-    <desc lang="en">The truth proves elusive for a former prosecutor who is enlisted to defend an Army officer accused of murdering his wife's rapist.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801110000 +0000" stop="20260801130000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">The Scorpion King</title>
-    <desc lang="en">In a time of darkness and in the face of evil, one man dared to fight back. Utilising his combat skills as an assassin, a warrior defies an empire to become a legend and unite a nation.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801130000 +0000" stop="20260801153000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">The Perfect Storm</title>
-    <desc lang="en">Sebastian Junger's phenomenal best seller hits the screen starring George Clooney as the veteran skipper of a fishing boat on a collision course with fate in the suspense-filled true story of The Perfect Storm.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801153000 +0000" stop="20260801173000 +0000" channel="hitsmovies.unifitv">
-    <title lang="en">Ultraviolet</title>
-    <desc lang="en">In a future ruled by biotech tyranny, infected warrior Violet battles to protect a child carrying humanity's last hope, igniting a violent rebellion.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <channel id="degup.unifitv">
-    <display-name>DEGUP</display-name>
-  </channel>
-  <programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="degup.unifitv">
-    <title lang="en">Misteri Wan Peah EP17</title>
-    <desc lang="en">Yeh Kumbang berjumpa dengan Nurin, tiba-tiba Aisha pula hilang dari rumah kerana mengikut Wan Peah ke dalam hutan berhampiran. Gani Gagap dan Li Kelubi turut membantu mencarinya tetapi masih gagal. Akhirnya Aisha ditemui ditepi sungai bersama-sama Wan Peah. Farhan dan Cikgu Siti juga keluar mencari Aisha, mereka bersepakat mahu berhadapan dengan Wan Peah kerana mengetahui dia bukan hantu. Cikgu Zaiton membuat fitnah kerana cemburu melihat perhubungan Farhan dengan Cikgu Siti. Akibat tidak berpuas hati, Farhan bersemuka dengan Cikgu Zaiton sehingga berlaku pergaduhan antara mereka.</desc>
-    <category lang="en">Horror</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
-  </programme>
-  <programme start="20260731160000 +0000" stop="20260731170000 +0000" channel="degup.unifitv">
-    <title lang="en">Parole Examiner Lee EP9</title>
-    <desc lang="en">Pengerusi Ojung Group, Ji Dong-man, cuba menyuap Han-shin dengan tawaran jawatan tinggi. Apabila ditolak, Dong-man membalas dengan menuduh Han-shin menerima rasuah. Han-shin digantung tugas sementara siasatan dalaman dijalankan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260731170000 +0000" stop="20260731180000 +0000" channel="degup.unifitv">
-    <title lang="en">The Equalizer S2 EP12</title>
-    <desc lang="en">McCall membantu seorang akauntan samseng, Bert Singer, menjelajah bandar untuk mencari lejar bukti yang hilang yang mesti diberikannya kepada FBI sebagai pertukaran untuk kemasukan ke Program Perlindungan Saksi Persekutuan.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
-    <episode-num system="onscreen">S2E12</episode-num>
-  </programme>
-  <programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="degup.unifitv">
-    <title lang="en">Jin Qorin</title>
-    <desc lang="en">Seno sangat menyayangi isterinya Alya dan anak perempuannya Reva. Namun begitu, ada satu rahsia besar yang mesti disembunyikan olehnya dalam rumah tangga.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260731200000 +0000" stop="20260731220000 +0000" channel="degup.unifitv">
-    <title lang="en">Ruthless</title>
-    <desc lang="en">Seorang guru dengan masa lalu gelap bertindak ganas untuk menyelamatkan pelajarnya daripada sindiket jenayah.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="degup.unifitv">
-    <title lang="en">Hollow Man 2</title>
-    <desc lang="en">Seorang detektif Seattle dan seorang ahli biologi sedang melarikan diri daripada pembunuh upahan halimunan yang berbahaya dan menjadi penyangak.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801000000 +0000" stop="20260801010000 +0000" channel="degup.unifitv">
-    <title lang="en">Black S2 EP7</title>
-    <desc lang="en">Black menerima bantuan dalam kesnya daripada sumber yang tidak disangka-sangka dan dia hampir menemui tebusan. Keadaan semasa membuatkan Aisya menebus salahnya terhadap Black. Black tidak dapat lagi menafikan perasaannya terhadap Sofia dan dia berasa celaru dalam cara menghadapi takdir cinta mereka. Borhan cuba membina semula sasaran sebenar dendam Lelaki Berparut Cangkuk dengan cuba mengait semua mangsa. Satu kematian yang tidak dijangka menawarkan satu klu</desc>
-    <category lang="en">Fantasy</category>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <episode-num system="onscreen">S2E7</episode-num>
-  </programme>
-  <programme start="20260801010000 +0000" stop="20260801020000 +0000" channel="degup.unifitv">
-    <title lang="en">Black S2 EP8</title>
-    <desc lang="en">Black dan Sofia keluar janji temu seharian. Tapi kebahagiaan hilang apabila 007 dan 416 membawa berita buruk buat Black - orang atasan tidak gembira dengan kurangnya kemajuan yang dibuat oleh Black. Borhan telah membuat penemuan yang mengerikan dan dia menyedari yang dia akhirnya telah menemui bukti muktamad. Semuanya tertuju ke arah seseorang yang dia syak selama ini, tapi dia membuat satu lagi penemuan yang sangat mengejutkan.</desc>
-    <category lang="en">Fantasy</category>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <episode-num system="onscreen">S2E8</episode-num>
-  </programme>
-  <programme start="20260801020000 +0000" stop="20260801040000 +0000" channel="degup.unifitv">
-    <title lang="en">Tarung: City of The Darkness</title>
-    <desc lang="en">Kisah persahabatan sejati empat pemuda dalam menghadapi kerasnya hidup dan cabaran masalah yang mereka hadapi.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801040000 +0000" stop="20260801050000 +0000" channel="degup.unifitv">
-    <title lang="en">Hysteria! EP5</title>
-    <desc lang="en">Insiden tragis menguatkan paranoia. Keluarga mula terheret dalam konflik yang semakin berbahaya.</desc>
-    <category lang="en">Horror</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260801050000 +0000" stop="20260801070000 +0000" channel="degup.unifitv">
-    <title lang="en">The Shift</title>
-    <desc lang="en">Serangan pengganas Islam di sebuah sekolah di Brussels</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801070000 +0000" stop="20260801090000 +0000" channel="degup.unifitv">
-    <title lang="en">Jin Qorin</title>
-    <desc lang="en">Seno sangat menyayangi isterinya Alya dan anak perempuannya Reva. Namun begitu, ada satu rahsia besar yang mesti disembunyikan olehnya dalam rumah tangga.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260801090000 +0000" stop="20260801110000 +0000" channel="degup.unifitv">
-    <title lang="en">Jalan Puncak Alam</title>
-    <desc lang="en">Jalan Puncak Alam mengisahkan seorang pelajar UiTM bernama Azizi yang terpaksa melalui jalan sunyi itu pada lewat malam untuk pulang ke rumah selepas bekerja di kampus. Dalam perjalanan, motosikal yang ditunggang Azizi tiba-tiba kehabisan minyak. Azizi kemudian menghubungi Hanif untuk meminta bantuan. Hanif segera menuju ke tempat motosikal Azizi rosak dan dari situ, mereka diganggu oleh makhluk halus. Apabila Hanif dan Azizi melihat keadaan sekeliling, hampir semuanya telah selesai, namun pertemuan mereka dengan seorang pemancing telah membuka satu perkara yang tidak masuk akal.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260801110000 +0000" stop="20260801120000 +0000" channel="degup.unifitv">
-    <title lang="en">Perempuan Ilmu Hitam EP7</title>
-    <desc lang="en">Memaparkan Syamil dan Lisa menghubungi polis selepas mereka menemui mayat Pak Samad semasa ke rumahnya. Syamil datang ke rumah Bakri selepas dihubungi oleh Nasrun bagi mengubati sakit Bakri, malangnya Azhar terlebih dahulu membawa Bakri ke rumah Mbah Nira untuk memulihkannya. Kesempatan itu digunakan oleh Afifa bagi menggunakan ilmu hitam secara dalaman ke atas Bakri, walaupun pada fizikalnya Bakri telah disembuhkan oleh Mbah Nira. Lisa marahkan Afifa kerana melepaskan Bakri dan Azhar balik kerana peluang yang ada tidak digunakan bagi mereka membalas dendam. Di rumah, Bakri sekali lagi di rasuk sehingga hampir membunuh Azhar. Nasrun terpaksa menghubungi Syamil untuk memulihkan Bakri dengan menggunakan pendekatan Islamik. Akibatnya, Afifa terkesan dan hampir mati.</desc>
-    <category lang="en">Horror</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260801120000 +0000" stop="20260801130000 +0000" channel="degup.unifitv">
-    <title lang="en">The Equalizer S3 EP12</title>
-    <desc lang="en">Seorang lelaki bangun tanpa ingatan dengan pistol di tangan dan pasukan cuba jejak semula apa yang berlaku malam sebelumnya.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-    <episode-num system="onscreen">S3E12</episode-num>
-  </programme>
-  <programme start="20260801130000 +0000" stop="20260801140000 +0000" channel="degup.unifitv">
-    <title lang="en">Obsesi Dia EP7</title>
-    <desc lang="en">Alia seorang wanita yang mirip tak tumpah seperti Affiyah.Dia sering diganggu mimpi didatangi seorang pemain biola wanita yang menuduhnya sebagai pembunuh. Zacky pula berhadapan dengan masalah diugut dan dibelasah kerana enggan menyertai satu kejohanan tinju. Dr Flora yang merawat Zacky sempat melihat sekeping gambar Zacky bersama Affiyah. Dr Flora terkejut dan memberitahu Zacky bahawa dia ada seorang kakitangan bernama Alia yang saling tak tumpah mirip Affiyah. Zacky lebih mementingkan diri untuk bertemu Alia sehingga sanggup mengenepikan urusan perniagaan keluarga. Sikapnya itu menimbulkan ketegangan ahli keluarga.Setelah membuat helah Zacky berjaya menemui Alia di klinik Dr Flora</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260801140000 +0000" stop="20260801160000 +0000" channel="degup.unifitv">
-    <title lang="en">Petualangan Anak Penangkap Hantu</title>
-    <desc lang="en">Pengembaraan sekumpulan kanak-kanak yang suka menangkap hantu. Mereka ialah Rafi, Zidan dan Chacha. Seperti Pemburu Hantu sebenar, mereka mempunyai alat yang boleh membantu mereka menyiapkan misi menangkap.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260801160000 +0000" stop="20260801170000 +0000" channel="degup.unifitv">
-    <title lang="en">Parole Examiner Lee EP10</title>
-    <desc lang="en">Seo-yoon dan Hwa-ran mengumpulkan bukti kukuh mengaitkan Myeong-seob dengan jenayah besar dan manipulasi parol. Pasukan upahan Dong-man mula mengejar mereka. Sementara itu, Han-shin bersedia kembali membongkar kebenaran.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <channel id="axn.unifitv">
-    <display-name>AXN</display-name>
-  </channel>
-  <programme start="20260731145000 +0000" stop="20260731181000 +0000" channel="axn.unifitv">
-    <title lang="en">KING KONG</title>
-    <desc lang="en">Oscar® winner Peter Jackson directs Naomi Watts, Jack Black and Adrien Brody in this cinematic vision filled with non-stop action, terrifying creatures and groundbreaking special effects.</desc>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20260731181000 +0000" stop="20260731184000 +0000" channel="axn.unifitv">
-    <title lang="en">CYRIL: SIMPLY MAGIC</title>
-    <desc lang="en">Join Cyril on a journey of self-discovery in various locations across Asia as he shares the marvels of his magic.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260731184000 +0000" stop="20260731193000 +0000" channel="axn.unifitv">
-    <title lang="en">S.W.A.T.</title>
-    <desc lang="en">Inspired by the television series and the feature film, S.W.A.T. stars Shemar Moore as a locally born and raised S.W.A.T. sergeant newly tasked to run a specialized tactical unit that is the last stop in law enforcement in Los Angeles. Torn between loyalty to where he was raised and allegiance to his brothers in blue, former Marine Daniel “Hondo” Harrelson has everything it takes to be an excellent leader and to bridge the divide between his two worlds.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">7.1.</episode-num>
-    <episode-num system="onscreen">S8E2</episode-num>
-  </programme>
-  <programme start="20260731193000 +0000" stop="20260731202500 +0000" channel="axn.unifitv">
-    <title lang="en">ROOKIE, THE</title>
-    <desc lang="en">A troubling incident at a school draws the team into a complex case, while Celina's temporary missing persons assignment leads her into a dangerous situation</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">7.13.</episode-num>
-    <episode-num system="onscreen">S8E14</episode-num>
-  </programme>
-  <programme start="20260731202500 +0000" stop="20260731211500 +0000" channel="axn.unifitv">
-    <title lang="en">ELSBETH</title>
-    <desc lang="en">While investigating the death of an employee at New York's most exclusive jewelry store, Elsbeth and the team uncover plans for a gala heist orchestrated by a chic VIP customer.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <episode-num system="onscreen">S2E4</episode-num>
-  </programme>
-  <programme start="20260731211500 +0000" stop="20260731221000 +0000" channel="axn.unifitv">
-    <title lang="en">RED EYE</title>
-    <desc lang="en">While Hana investigates a murder at Heathrow, a threat is made against Delaney's jet.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
-  </programme>
-  <programme start="20260731221000 +0000" stop="20260731230000 +0000" channel="axn.unifitv">
-    <title lang="en">SIGHT UNSEEN</title>
-    <desc lang="en">Jake (Daniel Gillies) and Tess (Dolly Lewis) investigate the shooting of a trucker when the Vice Squad shows up, demanding they cut their main suspect loose before they compromise one of Vice's investigations. When the same suspect is found dead in the interrogation room, both squads are thrown under suspicion and the station is put into lockdown as the clock starts ticking on Jake and Tess' investigation. The stakes spiral when Jake's life is put into peril and Tess is cut off when the power goes out in Sunny's (Agam Darshi) building Meanwhile, Kye (Ennis Esmer) and Sunny's relationship deepens until Sunny overhears a suspicious phone call.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260731230000 +0000" stop="20260731235000 +0000" channel="axn.unifitv">
-    <title lang="en">SIGHT UNSEEN</title>
-    <desc lang="en">Tess (Dolly Lewis) and Sunny (Agam Darshi) explore themes of hidden identity as they investigate the murder of a realtor's assistant in the glossy mansion he was prepping to sell, only to discover that neither the realtor that the victim was working for nor the buyers he was prepping the mansion for are who they seem to be. As Tess and Sunny investigate, Tess discovers Sunny might have secrets of her own. Meanwhile, Sunny confronts Kye.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260731235000 +0000" stop="20260801004000 +0000" channel="axn.unifitv">
-    <title lang="en">NCIS: SYDNEY</title>
-    <desc lang="en">When a shark spits out the arm of an ex-US Navy SEAL, the team's investigation tests the loyalty of a band of former navy divers and uncovers a murky surveillance plot that could have ties to one of the Allies.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260801004000 +0000" stop="20260801013500 +0000" channel="axn.unifitv">
-    <title lang="en">NCIS: SYDNEY</title>
-    <desc lang="en">When a US Petty Officer's body is found in Sydney's historic Rocks area, a decades old Navy Cross medal holds the clue to solving the murder, leading the team on a wild ghost chase to catch a killer.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260801013500 +0000" stop="20260801035000 +0000" channel="axn.unifitv">
-    <title lang="en">BOURNE IDENTITY, THE</title>
-    <desc lang="en">Oscar® winner Matt Damon stars in this action-packed thriller about an elite government agent who is pulled from the sea with two bullets in his back and no memory of his violent past.</desc>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20260801035000 +0000" stop="20260801042000 +0000" channel="axn.unifitv">
-    <title lang="en">CYRIL: SIMPLY MAGIC</title>
-    <desc lang="en">Join Cyril on a journey of self-discovery in various locations across Asia as he shares the marvels of his magic.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260801042000 +0000" stop="20260801051000 +0000" channel="axn.unifitv">
-    <title lang="en">FBI: INTERNATIONAL</title>
-    <desc lang="en">The Fly Team meets Supervisory Special Agent Wesley “Wes” Mitchell when his partner is shot in LA.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <episode-num system="onscreen">S4E1</episode-num>
-  </programme>
-  <programme start="20260801051000 +0000" stop="20260801060500 +0000" channel="axn.unifitv">
-    <title lang="en">CORONER</title>
-    <desc lang="en">Jenny and Donovan investigate the death of a lab assistant - but Jenny's personal interest in the lab risks clouding the case for her.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20260801060500 +0000" stop="20260801065500 +0000" channel="axn.unifitv">
-    <title lang="en">DOC</title>
-    <desc lang="en">An outdated medical proxy sparks conflict between a patient's ex and partner as Amy, Jake, and intern Hannah probe a student's sudden blindness.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <episode-num system="onscreen">S2E4</episode-num>
-  </programme>
-  <programme start="20260801065500 +0000" stop="20260801075000 +0000" channel="axn.unifitv">
-    <title lang="en">FBI</title>
-    <desc lang="en">When a federal whistleblower is murdered while in FBI custody along with two agents, the team is stunned to find a familiar perpetrator has resurfaced. Meanwhile, OA wrestles with telling the team what is happening in his personal life.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">7.11.</episode-num>
-    <episode-num system="onscreen">S8E12</episode-num>
-  </programme>
-  <programme start="20260801075000 +0000" stop="20260801111000 +0000" channel="axn.unifitv">
-    <title lang="en">KING KONG</title>
-    <desc lang="en">Oscar® winner Peter Jackson directs Naomi Watts, Jack Black and Adrien Brody in this cinematic vision filled with non-stop action, terrifying creatures and groundbreaking special effects.</desc>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20260801111000 +0000" stop="20260801120500 +0000" channel="axn.unifitv">
-    <title lang="en">DOC</title>
-    <desc lang="en">An outdated medical proxy sparks conflict between a patient's ex and partner as Amy, Jake, and intern Hannah probe a student's sudden blindness.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <episode-num system="onscreen">S2E4</episode-num>
-  </programme>
-  <programme start="20260801120500 +0000" stop="20260801130000 +0000" channel="axn.unifitv">
-    <title lang="en">NCIS: SYDNEY</title>
-    <desc lang="en">When a Marine linked to Mackey's ill-fated rescue mission in Afghanistan is found dead, old enemies emerge and the person she cares for most comes under threat.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-    <episode-num system="onscreen">S3E15</episode-num>
-  </programme>
-  <programme start="20260801130000 +0000" stop="20260801135500 +0000" channel="axn.unifitv">
-    <title lang="en">FBI</title>
-    <desc lang="en">When a federal whistleblower is murdered while in FBI custody along with two agents, the team is stunned to find a familiar perpetrator has resurfaced. Meanwhile, OA wrestles with telling the team what is happening in his personal life.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">7.11.</episode-num>
-    <episode-num system="onscreen">S8E12</episode-num>
-  </programme>
-  <programme start="20260801135500 +0000" stop="20260801145000 +0000" channel="axn.unifitv">
-    <title lang="en">CIA</title>
-    <desc lang="en">Colin and Bill race to stop a company from covering up their intelligence theft while taking down a dangerous person from Colin's past.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260801145000 +0000" stop="20260801154000 +0000" channel="axn.unifitv">
-    <title lang="en">FBI: INTERNATIONAL</title>
-    <desc lang="en">The Fly Team meets Supervisory Special Agent Wesley “Wes” Mitchell when his partner is shot in LA.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <episode-num system="onscreen">S4E1</episode-num>
-  </programme>
-  <programme start="20260801154000 +0000" stop="20260801173500 +0000" channel="axn.unifitv">
-    <title lang="en">EQUALIZER 3, THE</title>
-    <desc lang="en">Since giving up his life as a government assassin, Robert McCall (Denzel Washington) has struggled to reconcile the horrific things he's done in the past and finds a strange solace in serving justice on behalf of the oppressed. Finding himself surprisingly at home in Southern Italy, he discovers his new friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.</desc>
-    <category lang="en">Movies</category>
-  </programme>
-  <channel id="rockaction.unifitv">
-    <display-name>Rock Action HD</display-name>
-  </channel>
-  <programme start="20260731154500 +0000" stop="20260731173000 +0000" channel="rockaction.unifitv">
-    <title lang="en">The Kingdom</title>
-    <desc lang="en">Jamie Foxx leads an elite FBI team to hunt a terrorist in Saudi Arabia in The Kingdom—a tense clash of cultures and justice, directed by Peter Berg and produced by Michael Mann.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260731173000 +0000" stop="20260731195000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Mulholland Dr</title>
-    <desc lang="en">A hopeful actress in Los Angeles befriends an amnesiac woman, and as they search for her identity, reality and illusion blur in a dreamlike thriller about ambition, identity, and Hollywood's dark side.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731195000 +0000" stop="20260731215000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Birdman</title>
-    <desc lang="en">In an effort to jumpstart his career after his superhero movie franchise dies, a psychotic actor writes, directs, and stars in a broadway play that becomes an unlikely hit after he tries to shoots himself in the head during the premiere.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260731215000 +0000" stop="20260801001000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Robin Hood</title>
-    <desc lang="en">Russell Crowe stars as Robin Hood in Ridley Scott's epic reimagining—fighting corruption and sparking a rebellion that turns a humble outlaw into a timeless symbol of freedom.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801001000 +0000" stop="20260801023000 +0000" channel="rockaction.unifitv">
-    <title lang="en">L.A. Confidential</title>
-    <desc lang="en">Amidst corruption, murder and the glamour of famous movie stars, three police officer fight to uncover the truth of a brutal mass murder.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801023000 +0000" stop="20260801042500 +0000" channel="rockaction.unifitv">
-    <title lang="en">Knight And Day</title>
-    <desc lang="en">When a fugitive couple's glamorous and sometimes deadly adventure erupts into a maze of double-crosses, close escapes, false identities, and head-spinning romantic snafus, they come to realize that all they can count on is each other.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801042500 +0000" stop="20260801060000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Twin Dragons</title>
-    <desc lang="en">Identical twins - a musician living in New York, and a mechanic living in Hong Kong - are separated in childhood but are unexpectedly reunited years later when the musician travels to Hong Kong for a concert.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801060000 +0000" stop="20260801080000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Around The World In 80 Days</title>
-    <desc lang="en">It is 1872, and a British inventor, a Chinese thief and a French artist set off to circumnavigate the globe in 80 days. They travel by land, air, sea, and in-line skates in order to beat the clock and finish where they started.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801080000 +0000" stop="20260801094000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Rambo 3</title>
-    <desc lang="en">Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801094000 +0000" stop="20260801114000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Birdman</title>
-    <desc lang="en">In an effort to jumpstart his career after his superhero movie franchise dies, a psychotic actor writes, directs, and stars in a broadway play that becomes an unlikely hit after he tries to shoots himself in the head during the premiere.</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260801114000 +0000" stop="20260801135500 +0000" channel="rockaction.unifitv">
-    <title lang="en">L.A. Confidential</title>
-    <desc lang="en">Amidst corruption, murder and the glamour of famous movie stars, three police officer fight to uncover the truth of a brutal mass murder.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801135500 +0000" stop="20260801161000 +0000" channel="rockaction.unifitv">
-    <title lang="en">Terminator 2: Judgement Day</title>
-    <desc lang="en">Arnold Schwarzenegger reprises his career-changing role as the Terminator in this explosive film that was selected as one of AFI's Top Ten Sci-Fi films of all time.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <channel id="celestialmovies.unifitv">
-    <display-name>Celestial Movies</display-name>
-  </channel>
-  <programme start="20260731151500 +0000" stop="20260731171000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Old Fox</title>
-    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731171000 +0000" stop="20260731192000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Schemes in Antiques</title>
-    <desc lang="en">Despite his family's expertise in ancient Chinese relics, Xu Yuan becomes an electronics shop owner to distance himself from his disgraced family. However, when an antique is to be returned to China, Xu Yuan uncovers an ancient mystery and soon embarks on a journey that can finally restore his family's reputation but may also cost him his life.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260731192000 +0000" stop="20260731205000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Montages of a Modern Motherhood</title>
-    <desc lang="en">Shu Zhen's life takes a sharp downturn after the birth of her daughter. Exhausted by the demands of caring for a newborn and neglected by her indifferent husband, she finds herself caught in growing family conflicts, postnatal turmoil, and unyielding work stress. Through long and lonely nights, will the dawn bring her hope or despair?</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260731221500 +0000" stop="20260731231000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Wolf Hiding</title>
-    <desc lang="en">A cold-blooded killer, Chen An vows to take revenge for her sister who was killed by a crime gang. Dealing with the police and the triad at the same time, a final battle between good and evil has just begun!</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260731231000 +0000" stop="20260801011000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Everything Under Control</title>
-    <desc lang="en">During a diamond heist, one of the security escorts, Jelly, steals the diamonds and flees. Fellow security escorts, Yau Shing and Penguin, are forced to help the robber track down the diamonds. They stumble onto a remote village along the way, encountering strange villagers and mysterious incidents. Can they finally locate Jelly and the diamonds?</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <programme start="20260801011000 +0000" stop="20260801030000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">We are Family</title>
-    <desc lang="en">Struggling as an extra, Chi Kwong joins a rent-a-family company run by Carlos and aspiring actress Catherine, and rent themselves out as make-believe relatives. As they surrogate different families, they unravel the complexities of family relationships, forging deeper connections along the way.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801030000 +0000" stop="20260801051500 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Wu Kong</title>
-    <desc lang="en">Set 500 years before the Monkey King Wu Kong wreaks havoc in the heavenly kingdom, the movie tells the story of how Wu Kong who, unwilling to bow to his own destiny, sets out to rebel against the gods.</desc>
-    <category lang="en">Fantasy</category>
-  </programme>
-  <programme start="20260801051500 +0000" stop="20260801070000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">77 Heartwarmings</title>
-    <desc lang="en">After breaking up with Adam, Eva focuses on her career but Adam still wants to make up and tries to move her 77 times. Things become more complicated when a Thai movie idol courts Eva. It is at this time that Eva's mother becomes very ill, and she considers marriage in order to fulfil her mother's wish. Will Adam succeed in warming Eva's heart?</desc>
-    <category lang="en">Romance</category>
-  </programme>
-  <programme start="20260801070000 +0000" stop="20260801085000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Rob N Roll</title>
-    <desc lang="en">A ruthless bandit, Tian, has plotted an intense and quick armed robbery. When he encounters Hui and Shui who also plan for a robbery, they decide to team up for the heist. However, their ad-hoc and dramatic robbery has started a war with the police hot on pursuit, putting their lives on the line!</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801085000 +0000" stop="20260801105500 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Cloudy Mountain</title>
-    <desc lang="en">When a decade-long tunnel project is about to complete, an earthquake strikes and leads to a series of subsidence and landslides. The tunnel and a nearby town are at stake. A retired soldier and his son step up to try and stop the disasters at source. Will the authority decide to blow up the tunnel to save the 160,000 people in town?</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801105500 +0000" stop="20260801130000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Under Current</title>
-    <desc lang="en">A charity gala turns deadly when the finance director is found dead and HK$200 million in donations vanish. Lawyer Ma Ying Fung joins an inspector to uncover a web of money laundering and murder.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260801130000 +0000" stop="20260801152000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Operation Hadal</title>
-    <desc lang="en">An elite deep-sea special forces unit teams up with the submarine “Long Jing” to thwart an international super-submarine conspiracy. Facing enemy ambushes and navigating treacherous waters, they dive into a dangerous underwater battlefield, where a life-or-death showdown unfolds beneath the sea.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260801152000 +0000" stop="20260801170000 +0000" channel="celestialmovies.unifitv">
-    <title lang="en">Life Must Go On</title>
-    <desc lang="en">When the “midnight gymnasium” programme for wayward teenage girls is at funding risk, social worker Yanki puts together a dodgeball team to compete in a match and save it. With an ex-star athlete John as the coach, the girls realize they must face their problems and overcome their challenges instead of dodging them. Can they finally win the match?</desc>
-    <category lang="en">Comedy</category>
-  </programme>
-  <channel id="bbcworldnewshd.unifitv">
-    <display-name>BBC World News HD</display-name>
-  </channel>
-  <programme start="20260731153300 +0000" stop="20260731160300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731160300 +0000" stop="20260731163300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731163300 +0000" stop="20260731170300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Focus on Africa</title>
-    <desc lang="en">The biggest African and international stories from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731170300 +0000" stop="20260731173300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731173300 +0000" stop="20260731180300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731180300 +0000" stop="20260731183300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731183300 +0000" stop="20260731190300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731190300 +0000" stop="20260731193300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731193300 +0000" stop="20260731200300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731200300 +0000" stop="20260731203300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731203300 +0000" stop="20260731210300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731210300 +0000" stop="20260731213300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731213300 +0000" stop="20260731220300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731220300 +0000" stop="20260731223300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731223300 +0000" stop="20260731224800 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731224800 +0000" stop="20260731230300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731230300 +0000" stop="20260731233300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260731233300 +0000" stop="20260801000300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801000300 +0000" stop="20260801003300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801003300 +0000" stop="20260801010300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Yasmin Morgan-Griffiths finds out how new technologies are being used to measure the world's forests in more detail than ever before. Suranjana Tewari takes us inside a robotics factory in Beijing.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801010300 +0000" stop="20260801013300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801013300 +0000" stop="20260801020300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Clive Myrie's Caribbean Adventure-La Vega - Dominican Republic</title>
-    <desc lang="en">Every February, the city of La Vega bursts into life with loud and colourful street carnivals. Clive meets talented costume makers before suiting up for the parade.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801020300 +0000" stop="20260801023300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801023300 +0000" stop="20260801030300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Racing on the Edge-The Power of Opportunity</title>
-    <desc lang="en">One opportunity transformed Kai Hockley and Anna Weis. As they chase SailGP success, their journeys show how a single chance can inspire others to dream bigger and redefine what's possible.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801030300 +0000" stop="20260801033300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801033300 +0000" stop="20260801040300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801040300 +0000" stop="20260801043300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801043300 +0000" stop="20260801050300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Travel Show-The Traveller Who Wouldn't Stop</title>
-    <desc lang="en">The Travel Show meets Thor Pedersen - the man attempting to become the most travelled person in Denmark by aiming to visit 1001 regions across the globe over the course of his lifetime.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801050300 +0000" stop="20260801053300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801053300 +0000" stop="20260801060300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Secret Jungle Hospital</title>
-    <desc lang="en">With drones flying overhead, a hidden hospital in Myanmar is battling to save lives in the midst of war. The BBC's Quentin Sommerville and team spent time with rebels close to the front line.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801060300 +0000" stop="20260801063300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801063300 +0000" stop="20260801070300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Yasmin Morgan-Griffiths finds out how new technologies are being used to measure the world's forests in more detail than ever before. Suranjana Tewari takes us inside a robotics factory in Beijing.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801070300 +0000" stop="20260801073300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801073300 +0000" stop="20260801080300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Clive Myrie's Caribbean Adventure (r)-La Vega - Dominican Republic</title>
-    <desc lang="en">Every February, the city of La Vega bursts into life with loud and colourful street carnivals. Clive meets talented costume makers before suiting up for the parade.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801080300 +0000" stop="20260801090300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801090300 +0000" stop="20260801093300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801093300 +0000" stop="20260801100300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Global Eye-Japan's Changing Identity</title>
-    <desc lang="en">Kurumi Mori reports on Japan's changing identity and BBC Eye talks to Ukrainians civilians abused in Russian-occupied Ukraine and tracks down those likely responsible.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801100300 +0000" stop="20260801103300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801103300 +0000" stop="20260801110300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801110300 +0000" stop="20260801113300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801113300 +0000" stop="20260801120300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Focus on Africa: The Conversation</title>
-    <desc lang="en">This week, Focus on Africa: The Conversation hears from men who have conducted paternity tests on their children.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801120300 +0000" stop="20260801123300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801123300 +0000" stop="20260801130300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">China's Greatest Treasures-The Art of Ancient Fashion</title>
-    <desc lang="en">BBC art historian Alastair Sooke discovers how historic fashion design still resonates with people in China today, and how it has become a way in which people can celebrate their identity.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801130300 +0000" stop="20260801133300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801133300 +0000" stop="20260801140300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Secret Jungle Hospital</title>
-    <desc lang="en">With drones flying overhead, a hidden hospital in Myanmar is battling to save lives in the midst of war. The BBC's Quentin Sommerville and team spent time with rebels close to the front line.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801140300 +0000" stop="20260801143300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801143300 +0000" stop="20260801150300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801150300 +0000" stop="20260801153300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260801153300 +0000" stop="20260801160300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Racing on the Edge (r)-The Power of Opportunity</title>
-    <desc lang="en">One opportunity transformed Kai Hockley and Anna Weis. As they chase SailGP success, their journeys show how a single chance can inspire others to dream bigger and redefine what's possible.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <channel id="spotv2.unifitv">
-    <display-name>SPOTV2</display-name>
-  </channel>
-  <programme start="20260731125000 +0000" stop="20260731163000 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) GOTF 2026: Basketball 3x3 Freestyle - Day 3 Round of 16</title>
-    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20260731163000 +0000" stop="20260731173000 +0000" channel="spotv2.unifitv">
-    <title lang="en">Faultless - Ep 5</title>
-    <desc lang="en">An exclusive documentary series following the world's top show jumpers and their horses, revealing the trust, sacrifice, and determination behind the pursuit of excellence at the sport's biggest events.</desc>
-    <category lang="en">Extreme Sports</category>
-  </programme>
-  <programme start="20260731173000 +0000" stop="20260731180000 +0000" channel="spotv2.unifitv">
-    <title lang="en">WPBL S2, Mumbai Highlights - Day 8 Tie 1 Mumbai vs Rajasthan</title>
-    <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731180000 +0000" stop="20260731194000 +0000" channel="spotv2.unifitv">
-    <title lang="en">King George VI &amp; QE Stakes 2026</title>
-    <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
-    <category lang="en">Extreme Sports</category>
-  </programme>
-  <programme start="20260731194000 +0000" stop="20260731203000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP After the flag - Half Season Recap</title>
-    <desc lang="en">Join MotoGP presenters for a review of the biggest stories and highlights from the first half of the 2026 season.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260731203000 +0000" stop="20260731210000 +0000" channel="spotv2.unifitv">
-    <title lang="en">WPBL S2, Mumbai Highlights - Day 7 Tie 1 Chennai vs Bengaluru</title>
-    <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731210000 +0000" stop="20260731223000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 The Asian Tournament, Chengdu - Game 12 HK Vanta Black Dragons vs Shenzhen New Century</title>
-    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20260731223000 +0000" stop="20260731235000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 The Asian Tournament, Chengdu - Game 15 Macau Black Knights vs Shenzhen New Century</title>
-    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20260731235000 +0000" stop="20260801013000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 The Asian Tournament, Chengdu - Game 16 Philippine Aces United vs HK Vanta Black Dragons</title>
-    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20260801013000 +0000" stop="20260801021000 +0000" channel="spotv2.unifitv">
-    <title lang="en">SailGP: Racing on the Edge S6 - Ep 4</title>
-    <desc lang="en">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
-    <category lang="en">Sailing</category>
-  </programme>
-  <programme start="20260801021000 +0000" stop="20260801051500 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) 1/8 2026 MLB Regular Season - Los Angeles Dodgers vs Boston Red Sox</title>
-    <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20260801051500 +0000" stop="20260801070000 +0000" channel="spotv2.unifitv">
-    <title lang="en">King George VI &amp; QE Stakes 2026</title>
-    <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
-    <category lang="en">Extreme Sports</category>
-  </programme>
-  <programme start="20260801070000 +0000" stop="20260801075500 +0000" channel="spotv2.unifitv">
-    <title lang="en">SailGP S6: Emirates Great Britain Sail Grand Prix - Highlights</title>
-    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
-    <category lang="en">Sailing</category>
-  </programme>
-  <programme start="20260801075500 +0000" stop="20260801084500 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP After the flag - Half Season Recap</title>
-    <desc lang="en">Join MotoGP presenters for a review of the biggest stories and highlights from the first half of the 2026 season.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260801084500 +0000" stop="20260801125000 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) Games of the Future 2026: Battle Royal PUBG - Match Day 2</title>
-    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
-    <category lang="en">eSports</category>
-  </programme>
-  <programme start="20260801125000 +0000" stop="20260801163000 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) GOTF 2026: Basketball 3x3 Freestyle - Day 4 Quarterfinals</title>
-    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
-    <category lang="en">Basketball</category>
-  </programme>
-  <channel id="beinsports2.unifitv">
-    <display-name>beIN SPORTS 2</display-name>
-  </channel>
-  <programme start="20260731150000 +0000" stop="20260731163000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Pretoria P1 Day 5 QF Match 6 (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731163000 +0000" stop="20260731180000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Pretoria P1 Day 5 QF Match 7 (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731180000 +0000" stop="20260731183000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel Highlights - Cancun P2</title>
-    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731183000 +0000" stop="20260731200000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Buenos Aires P1 Day 2 Match 3</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731200000 +0000" stop="20260731213000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Buenos Aires P1 Day 2 Match 4</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731213000 +0000" stop="20260731232000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Women's Super League - Man City vs Everton</title>
-    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731232000 +0000" stop="20260801011000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Women's Super League - Chelsea vs West Ham</title>
-    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801011000 +0000" stop="20260801030000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Junior World Championship - Georgia vs Italy - 9th Place Semi Final</title>
-    <desc lang="en">The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801030000 +0000" stop="20260801050000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">PSG TV - Metz vs PSG</title>
-    <desc lang="en">Catch every PSG match from Ligue 1 and Coupe de France amongst others only on beIN Sports</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801050000 +0000" stop="20260801053000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros Mini - Men's Singles Rd 2 Sinner v Cerundolo</title>
-    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801053000 +0000" stop="20260801060000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros Mini - Women's Singles Rd 2 Sabalenka v Jacquemot</title>
-    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS Series Highlights - Singapore</title>
-    <desc lang="en">HSBC SVNS Series Highlights - Singapore</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801070000 +0000" stop="20260801073000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Australian Open Mini - Men's Singles Rd 2 Djokovic v Maestrelli</title>
-    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Australian Open Mini - Men's Singles Rd 2 Sinner v Duckworth</title>
-    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801080000 +0000" stop="20260801083000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel Highlights - Italy Major</title>
-    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801083000 +0000" stop="20260801085500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - Canada vs Spain - Pool Stage, Bordeaux - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801085500 +0000" stop="20260801092000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - USA vs Great Britain - Pool Stage, Bordeaux - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801092000 +0000" stop="20260801094500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - Japan vs Fiji - Pool Stage, Bordeaux - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801094500 +0000" stop="20260801101000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - Australia vs Brazil - Pool Stage, Bordeaux - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801101000 +0000" stop="20260801103500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - France vs South Africa - Pool Stage, Bordeaux - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801103500 +0000" stop="20260801110000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - New Zealand vs Argentina - Pool Stage, Bordeaux - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801110000 +0000" stop="20260801123000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Pretoria P1 Day 6 SF1 - Women (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801123000 +0000" stop="20260801140000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Pretoria P1 Day 6 SF2 - Women (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801140000 +0000" stop="20260801142500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - France vs Japan - 5th Place Play-Off, Valladolid - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801142500 +0000" stop="20260801145500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Australian Open Mini - Women's Singles Rd 3 Sabalenka v Potapova</title>
-    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801145500 +0000" stop="20260801170000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Pre Season Friendly - Hamburg vs Everton (L)</title>
-    <desc lang="en">The 2026/27 football season begins here as beIN SPORTS brings you the best of the pre season friendly action featuring Premier League, LaLiga, Bundesliga, Serie A and Ligue 1 teams.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <channel id="beinsports3.unifitv">
-    <display-name>beIN SPORTS 3</display-name>
-  </channel>
-  <programme start="20260731133000 +0000" stop="20260731163000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">ONE Friday Fights - OFF 164 (L)</title>
-    <desc lang="en">A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731163000 +0000" stop="20260731180000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">SailGP - Portsmouth, Great Britain Day 2</title>
-    <desc lang="en">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">CAF CL - Pyramids FC vs AS FAR</title>
-    <desc lang="en">Watch the top clubs from Africa's football league battle it out in the CAF Champions League.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731200000 +0000" stop="20260731210000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCI World Tour Highlights - Tour Auvergne-Rhone-Alpes</title>
-    <desc lang="en">Highlights of the premier men's elite road cycling tour.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731210000 +0000" stop="20260731230000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCI Women's World Tour - La Vuelta Femenina - Stage 5</title>
-    <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731230000 +0000" stop="20260731233000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Racing On The Edge - Episode Number 4</title>
-    <desc lang="en">This premium storytelling series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731233000 +0000" stop="20260801022000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Tour de France - Stage 1 - Barcelona</title>
-    <desc lang="en">The world's oldest and most prestigious annual men's multi-stage road cycling race.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801022000 +0000" stop="20260801023000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCL - PSV vs Milan (2008/09)</title>
-    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Racing On The Edge - Episode Number 4</title>
-    <desc lang="en">This premium storytelling series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801030000 +0000" stop="20260801040000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV All The Goals - Ronaldo</title>
-    <desc lang="en">In this MUTV special, enjoy every goal from this United legend, from 1 yard tap-ins to 30 yard screamers and everything in between.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801040000 +0000" stop="20260801055000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Women's Super League - Aston Villa vs Liverpool</title>
-    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801055000 +0000" stop="20260801060000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCL - PSV vs Milan (2008/09)</title>
-    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">SailGP - Portsmouth, Great Britain Day 1</title>
-    <desc lang="en">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801073000 +0000" stop="20260801090000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">SailGP - Portsmouth, Great Britain Day 2</title>
-    <desc lang="en">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801090000 +0000" stop="20260801093000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Racing On The Edge - Episode Number 4</title>
-    <desc lang="en">This premium storytelling series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801093000 +0000" stop="20260801095500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: 2000 Premier League Goals - 2009/10</title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801095500 +0000" stop="20260801120000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Dortmund Pre Season Friendly - FC Tokyo vs Dortmund (L)</title>
-    <desc lang="en">The Black and Yellows play two friendly matches as part of their BVB Evonik Japan Tour in preparations for their 2026/27 campaign.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801120000 +0000" stop="20260801121500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: 2000 Premier League Goals - 2016/17</title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCI Women's World Tour Highlights - Santos Tour Down Under - One Day Race</title>
-    <desc lang="en">Highlights of the premier annual female elite road cycling tour.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801124500 +0000" stop="20260801131500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Mass Participation - Transvulcania</title>
-    <desc lang="en">International broadcast series documenting high-endurance race events and adventure challenges. The program captures elite competitors tackling intense marathons, ultra-trails, and multi-sport endurance courses worldwide.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801131500 +0000" stop="20260801133500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: One Love - Supporting Each Other</title>
-    <desc lang="en">Go behind the scenes with some of our most dedicated supporters' clubs, to uncover the fascinating stories, experiences and sacrifices these fans make to follow the club.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801133500 +0000" stop="20260801134500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCL - PSV vs Milan (2008/09)</title>
-    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801134500 +0000" stop="20260801161500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCI Women's World Tour - Tour de France Femmes - Stage 1 (L)</title>
-    <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <channel id="beinsports4.unifitv">
-    <display-name>beIN SPORTS 4</display-name>
-  </channel>
-  <programme start="20260731140000 +0000" stop="20260731160000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731160000 +0000" stop="20260731180000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731200000 +0000" stop="20260731220000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801020000 +0000" stop="20260801040000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801040000 +0000" stop="20260801060000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801060000 +0000" stop="20260801080000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801080000 +0000" stop="20260801100000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801100000 +0000" stop="20260801120000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801120000 +0000" stop="20260801140000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801140000 +0000" stop="20260801160000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801160000 +0000" stop="20260801180000 +0000" channel="beinsports4.unifitv">
-    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
-    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
-    <category lang="en">Sports</category>
-  </programme>
   <channel id="inspirasi.unifitv">
     <display-name>Inspirasi</display-name>
   </channel>
@@ -1994,6 +457,119 @@
     <title lang="en">11 Cinta Sebelum Kamu</title>
     <desc lang="en">Ray, bekas playboy, melamar tunangnya Khadeja. Namun ibunya, Dato' Shikin - seorang ibu tunggal dan peguam - menetapkan syarat unik untuk restu: Ray mesti meminta maaf secara peribadi kepada 11 bekas teman wanitanya, merakam momen itu dalam tempoh 30 hari</desc>
     <category lang="en">Drama</category>
+  </programme>
+  <channel id="degup.unifitv">
+    <display-name>DEGUP</display-name>
+  </channel>
+  <programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="degup.unifitv">
+    <title lang="en">Misteri Wan Peah EP17</title>
+    <desc lang="en">Yeh Kumbang berjumpa dengan Nurin, tiba-tiba Aisha pula hilang dari rumah kerana mengikut Wan Peah ke dalam hutan berhampiran. Gani Gagap dan Li Kelubi turut membantu mencarinya tetapi masih gagal. Akhirnya Aisha ditemui ditepi sungai bersama-sama Wan Peah. Farhan dan Cikgu Siti juga keluar mencari Aisha, mereka bersepakat mahu berhadapan dengan Wan Peah kerana mengetahui dia bukan hantu. Cikgu Zaiton membuat fitnah kerana cemburu melihat perhubungan Farhan dengan Cikgu Siti. Akibat tidak berpuas hati, Farhan bersemuka dengan Cikgu Zaiton sehingga berlaku pergaduhan antara mereka.</desc>
+    <category lang="en">Horror</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
+  </programme>
+  <programme start="20260731160000 +0000" stop="20260731170000 +0000" channel="degup.unifitv">
+    <title lang="en">Parole Examiner Lee EP9</title>
+    <desc lang="en">Pengerusi Ojung Group, Ji Dong-man, cuba menyuap Han-shin dengan tawaran jawatan tinggi. Apabila ditolak, Dong-man membalas dengan menuduh Han-shin menerima rasuah. Han-shin digantung tugas sementara siasatan dalaman dijalankan.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20260731170000 +0000" stop="20260731180000 +0000" channel="degup.unifitv">
+    <title lang="en">The Equalizer S2 EP12</title>
+    <desc lang="en">McCall membantu seorang akauntan samseng, Bert Singer, menjelajah bandar untuk mencari lejar bukti yang hilang yang mesti diberikannya kepada FBI sebagai pertukaran untuk kemasukan ke Program Perlindungan Saksi Persekutuan.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <episode-num system="onscreen">S2E12</episode-num>
+  </programme>
+  <programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="degup.unifitv">
+    <title lang="en">Jin Qorin</title>
+    <desc lang="en">Seno sangat menyayangi isterinya Alya dan anak perempuannya Reva. Namun begitu, ada satu rahsia besar yang mesti disembunyikan olehnya dalam rumah tangga.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260731200000 +0000" stop="20260731220000 +0000" channel="degup.unifitv">
+    <title lang="en">Ruthless</title>
+    <desc lang="en">Seorang guru dengan masa lalu gelap bertindak ganas untuk menyelamatkan pelajarnya daripada sindiket jenayah.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="degup.unifitv">
+    <title lang="en">Hollow Man 2</title>
+    <desc lang="en">Seorang detektif Seattle dan seorang ahli biologi sedang melarikan diri daripada pembunuh upahan halimunan yang berbahaya dan menjadi penyangak.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801000000 +0000" stop="20260801010000 +0000" channel="degup.unifitv">
+    <title lang="en">Black S2 EP7</title>
+    <desc lang="en">Black menerima bantuan dalam kesnya daripada sumber yang tidak disangka-sangka dan dia hampir menemui tebusan. Keadaan semasa membuatkan Aisya menebus salahnya terhadap Black. Black tidak dapat lagi menafikan perasaannya terhadap Sofia dan dia berasa celaru dalam cara menghadapi takdir cinta mereka. Borhan cuba membina semula sasaran sebenar dendam Lelaki Berparut Cangkuk dengan cuba mengait semua mangsa. Satu kematian yang tidak dijangka menawarkan satu klu</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20260801010000 +0000" stop="20260801020000 +0000" channel="degup.unifitv">
+    <title lang="en">Black S2 EP8</title>
+    <desc lang="en">Black dan Sofia keluar janji temu seharian. Tapi kebahagiaan hilang apabila 007 dan 416 membawa berita buruk buat Black - orang atasan tidak gembira dengan kurangnya kemajuan yang dibuat oleh Black. Borhan telah membuat penemuan yang mengerikan dan dia menyedari yang dia akhirnya telah menemui bukti muktamad. Semuanya tertuju ke arah seseorang yang dia syak selama ini, tapi dia membuat satu lagi penemuan yang sangat mengejutkan.</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme start="20260801020000 +0000" stop="20260801040000 +0000" channel="degup.unifitv">
+    <title lang="en">Tarung: City of The Darkness</title>
+    <desc lang="en">Kisah persahabatan sejati empat pemuda dalam menghadapi kerasnya hidup dan cabaran masalah yang mereka hadapi.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801040000 +0000" stop="20260801050000 +0000" channel="degup.unifitv">
+    <title lang="en">Hysteria! EP5</title>
+    <desc lang="en">Insiden tragis menguatkan paranoia. Keluarga mula terheret dalam konflik yang semakin berbahaya.</desc>
+    <category lang="en">Horror</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260801050000 +0000" stop="20260801070000 +0000" channel="degup.unifitv">
+    <title lang="en">The Shift</title>
+    <desc lang="en">Serangan pengganas Islam di sebuah sekolah di Brussels</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801070000 +0000" stop="20260801090000 +0000" channel="degup.unifitv">
+    <title lang="en">Jin Qorin</title>
+    <desc lang="en">Seno sangat menyayangi isterinya Alya dan anak perempuannya Reva. Namun begitu, ada satu rahsia besar yang mesti disembunyikan olehnya dalam rumah tangga.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260801090000 +0000" stop="20260801110000 +0000" channel="degup.unifitv">
+    <title lang="en">Jalan Puncak Alam</title>
+    <desc lang="en">Jalan Puncak Alam mengisahkan seorang pelajar UiTM bernama Azizi yang terpaksa melalui jalan sunyi itu pada lewat malam untuk pulang ke rumah selepas bekerja di kampus. Dalam perjalanan, motosikal yang ditunggang Azizi tiba-tiba kehabisan minyak. Azizi kemudian menghubungi Hanif untuk meminta bantuan. Hanif segera menuju ke tempat motosikal Azizi rosak dan dari situ, mereka diganggu oleh makhluk halus. Apabila Hanif dan Azizi melihat keadaan sekeliling, hampir semuanya telah selesai, namun pertemuan mereka dengan seorang pemancing telah membuka satu perkara yang tidak masuk akal.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260801110000 +0000" stop="20260801120000 +0000" channel="degup.unifitv">
+    <title lang="en">Perempuan Ilmu Hitam EP7</title>
+    <desc lang="en">Memaparkan Syamil dan Lisa menghubungi polis selepas mereka menemui mayat Pak Samad semasa ke rumahnya. Syamil datang ke rumah Bakri selepas dihubungi oleh Nasrun bagi mengubati sakit Bakri, malangnya Azhar terlebih dahulu membawa Bakri ke rumah Mbah Nira untuk memulihkannya. Kesempatan itu digunakan oleh Afifa bagi menggunakan ilmu hitam secara dalaman ke atas Bakri, walaupun pada fizikalnya Bakri telah disembuhkan oleh Mbah Nira. Lisa marahkan Afifa kerana melepaskan Bakri dan Azhar balik kerana peluang yang ada tidak digunakan bagi mereka membalas dendam. Di rumah, Bakri sekali lagi di rasuk sehingga hampir membunuh Azhar. Nasrun terpaksa menghubungi Syamil untuk memulihkan Bakri dengan menggunakan pendekatan Islamik. Akibatnya, Afifa terkesan dan hampir mati.</desc>
+    <category lang="en">Horror</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260801120000 +0000" stop="20260801130000 +0000" channel="degup.unifitv">
+    <title lang="en">The Equalizer S3 EP12</title>
+    <desc lang="en">Seorang lelaki bangun tanpa ingatan dengan pistol di tangan dan pasukan cuba jejak semula apa yang berlaku malam sebelumnya.</desc>
+    <category lang="en">Action</category>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <episode-num system="onscreen">S3E12</episode-num>
+  </programme>
+  <programme start="20260801130000 +0000" stop="20260801140000 +0000" channel="degup.unifitv">
+    <title lang="en">Obsesi Dia EP7</title>
+    <desc lang="en">Alia seorang wanita yang mirip tak tumpah seperti Affiyah.Dia sering diganggu mimpi didatangi seorang pemain biola wanita yang menuduhnya sebagai pembunuh. Zacky pula berhadapan dengan masalah diugut dan dibelasah kerana enggan menyertai satu kejohanan tinju. Dr Flora yang merawat Zacky sempat melihat sekeping gambar Zacky bersama Affiyah. Dr Flora terkejut dan memberitahu Zacky bahawa dia ada seorang kakitangan bernama Alia yang saling tak tumpah mirip Affiyah. Zacky lebih mementingkan diri untuk bertemu Alia sehingga sanggup mengenepikan urusan perniagaan keluarga. Sikapnya itu menimbulkan ketegangan ahli keluarga.Setelah membuat helah Zacky berjaya menemui Alia di klinik Dr Flora</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260801140000 +0000" stop="20260801160000 +0000" channel="degup.unifitv">
+    <title lang="en">Petualangan Anak Penangkap Hantu</title>
+    <desc lang="en">Pengembaraan sekumpulan kanak-kanak yang suka menangkap hantu. Mereka ialah Rafi, Zidan dan Chacha. Seperti Pemburu Hantu sebenar, mereka mempunyai alat yang boleh membantu mereka menyiapkan misi menangkap.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260801160000 +0000" stop="20260801170000 +0000" channel="degup.unifitv">
+    <title lang="en">Parole Examiner Lee EP10</title>
+    <desc lang="en">Seo-yoon dan Hwa-ran mengumpulkan bukti kukuh mengaitkan Myeong-seob dengan jenayah besar dan manipulasi parol. Pasukan upahan Dong-man mula mengejar mereka. Sementara itu, Han-shin bersedia kembali membongkar kebenaran.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <channel id="tv1.unifitv">
     <display-name>TV1</display-name>
@@ -4503,6 +3079,84 @@
     <episode-num system="xmltv_ns">0.160.</episode-num>
     <episode-num system="onscreen">S1E161</episode-num>
   </programme>
+  <channel id="tvnmovieshd.unifitv">
+    <display-name>tvN Movies HD</display-name>
+  </channel>
+  <programme start="20260731141000 +0000" stop="20260731161000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE SNITCH</title>
+    <desc lang="en">Kang-soo was falsely accused and imprisoned. A prosecutor offered him a deal to be a snitch in exchange for a reduced sentence and Kang-soo starts to shake up the drug investigation...</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260731161000 +0000" stop="20260731175500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE FAVOR</title>
+    <desc lang="en">A family's prayers are answered by a mysterious savior, but as miracles spread, they uncover a chilling truth: every gift comes with a deadly curse.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260731175500 +0000" stop="20260731195500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">LIFE IS BEAUTIFUL</title>
+    <desc lang="en">Se-yeon, devoted her entire life to her family, suddenly learns she is gravely ill. Now she is determined to live for herself more than ever and looks for her first love with the help of her husband.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260731195500 +0000" stop="20260731212500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">BOY IN THE POOL</title>
+    <desc lang="en">Seok-young bumps into Woo-ju and they get closer after Woo-ju saves her from drowning. They lost touch after Woo-ju moves to Seoul to be a swimmer. Will they be able to meet again?</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731212500 +0000" stop="20260731224500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">DON'T GO TOO FAR</title>
+    <desc lang="en">While arguing on the division of their father's ?2B inheritance, the eldest brother received a call to realize his son was kidnapped, and the ransom demanded was ?2B...</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731224500 +0000" stop="20260801002000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE GLORIOUS MY REVENGE</title>
+    <desc lang="en">Detective Ryu lost his beloved son in a hit-and-run accident. As the statute of limitations passed without finding the criminal, he ran into the murderer of his son.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801002000 +0000" stop="20260801021500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">ONCE WE WERE US</title>
+    <desc lang="en">Former lovers Eun-ho and Jeong-won unexpectedly reunite on a flight to Korea, giving them a second chance to reminisce about their past and share long-buried words with each other.</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260801021500 +0000" stop="20260801040500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE FAVOR</title>
+    <desc lang="en">A family's prayers are answered by a mysterious savior, but as miracles spread, they uncover a chilling truth: every gift comes with a deadly curse.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260801040500 +0000" stop="20260801055000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">OH! MY GHOST</title>
+    <desc lang="en">FD Taemin meets a female ghost who lives in the studio he works. As mysterious events happened in the studio, they join hands to investigate and protect his job and her sleeping place.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260801055000 +0000" stop="20260801080000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE BOYS</title>
+    <desc lang="en">3 boys were imprisoned as murderers. Next year, detective Hwang got a tip and reopen the case. However, he was demoted. 16 years later, the only witness and the boys return to find Hwang.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801080000 +0000" stop="20260801100500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">HONEYSWEET</title>
+    <desc lang="en">Chi-ho is a successful product designer. Il-young works in a loan company. They meet at her company when he try to pay his brother's debt. Coincidence brings them to become closer.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260801100500 +0000" stop="20260801120500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">ONLY GOD KNOWS EVERYTHING</title>
+    <desc lang="en">Do-woon has just been ordained. During confession, a man admits to killing his mother. Torn between his duty as a priest and his desire for revenge as a son, he confronts a demonic group.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260801120500 +0000" stop="20260801141000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">THE OLD WOMAN WITH THE KNIFE</title>
+    <desc lang="en">A legendary assassin named Hornclaw is now aging. She faces declining health while mentoring a reckless apprentice, Bullfight, and confronting a deadly rival obsessed with her.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801141000 +0000" stop="20260801155000 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">WHAT A MAN WANTS</title>
+    <desc lang="en">Taxi driver Seok-geun, his sister Mi-young, and their spouses face infidelity, desire, and tangled emotions while searching for love, laughter, and meaning in their lives.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260801155000 +0000" stop="20260801173500 +0000" channel="tvnmovieshd.unifitv">
+    <title lang="en">DEVILS</title>
+    <desc lang="en">Jae-hwan is a detective catching the serial murderer Jin-hyeok and they have a physical struggle. When Jae-hwan wakes up in the hospital, he realized their bodies have been switched...</desc>
+    <category lang="en">Action</category>
+  </programme>
   <channel id="tvnhd.unifitv">
     <display-name>tvN HD</display-name>
   </channel>
@@ -5876,6 +4530,74 @@
     <episode-num system="xmltv_ns">0.47.</episode-num>
     <episode-num system="onscreen">S1E48</episode-num>
   </programme>
+  <channel id="celestialmovies.unifitv">
+    <display-name>Celestial Movies</display-name>
+  </channel>
+  <programme start="20260731151500 +0000" stop="20260731171000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Old Fox</title>
+    <desc lang="en">In 1989, young Liao Jie and his father save for a home, unaware of rising property prices. Frustrated by poverty, he learns from their landlord Old Fox who teaches him survival in society. Liao Jie ends up hurting Old Fox with what he has learnt, but his empathy prevents him from becoming like Old Fox.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731171000 +0000" stop="20260731192000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Schemes in Antiques</title>
+    <desc lang="en">Despite his family's expertise in ancient Chinese relics, Xu Yuan becomes an electronics shop owner to distance himself from his disgraced family. However, when an antique is to be returned to China, Xu Yuan uncovers an ancient mystery and soon embarks on a journey that can finally restore his family's reputation but may also cost him his life.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260731192000 +0000" stop="20260731205000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Montages of a Modern Motherhood</title>
+    <desc lang="en">Shu Zhen's life takes a sharp downturn after the birth of her daughter. Exhausted by the demands of caring for a newborn and neglected by her indifferent husband, she finds herself caught in growing family conflicts, postnatal turmoil, and unyielding work stress. Through long and lonely nights, will the dawn bring her hope or despair?</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731221500 +0000" stop="20260731231000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Wolf Hiding</title>
+    <desc lang="en">A cold-blooded killer, Chen An vows to take revenge for her sister who was killed by a crime gang. Dealing with the police and the triad at the same time, a final battle between good and evil has just begun!</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260731231000 +0000" stop="20260801011000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Everything Under Control</title>
+    <desc lang="en">During a diamond heist, one of the security escorts, Jelly, steals the diamonds and flees. Fellow security escorts, Yau Shing and Penguin, are forced to help the robber track down the diamonds. They stumble onto a remote village along the way, encountering strange villagers and mysterious incidents. Can they finally locate Jelly and the diamonds?</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260801011000 +0000" stop="20260801030000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">We are Family</title>
+    <desc lang="en">Struggling as an extra, Chi Kwong joins a rent-a-family company run by Carlos and aspiring actress Catherine, and rent themselves out as make-believe relatives. As they surrogate different families, they unravel the complexities of family relationships, forging deeper connections along the way.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801030000 +0000" stop="20260801051500 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Wu Kong</title>
+    <desc lang="en">Set 500 years before the Monkey King Wu Kong wreaks havoc in the heavenly kingdom, the movie tells the story of how Wu Kong who, unwilling to bow to his own destiny, sets out to rebel against the gods.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20260801051500 +0000" stop="20260801070000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">77 Heartwarmings</title>
+    <desc lang="en">After breaking up with Adam, Eva focuses on her career but Adam still wants to make up and tries to move her 77 times. Things become more complicated when a Thai movie idol courts Eva. It is at this time that Eva's mother becomes very ill, and she considers marriage in order to fulfil her mother's wish. Will Adam succeed in warming Eva's heart?</desc>
+    <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260801070000 +0000" stop="20260801085000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Rob N Roll</title>
+    <desc lang="en">A ruthless bandit, Tian, has plotted an intense and quick armed robbery. When he encounters Hui and Shui who also plan for a robbery, they decide to team up for the heist. However, their ad-hoc and dramatic robbery has started a war with the police hot on pursuit, putting their lives on the line!</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801085000 +0000" stop="20260801105500 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Cloudy Mountain</title>
+    <desc lang="en">When a decade-long tunnel project is about to complete, an earthquake strikes and leads to a series of subsidence and landslides. The tunnel and a nearby town are at stake. A retired soldier and his son step up to try and stop the disasters at source. Will the authority decide to blow up the tunnel to save the 160,000 people in town?</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801105500 +0000" stop="20260801130000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Under Current</title>
+    <desc lang="en">A charity gala turns deadly when the finance director is found dead and HK$200 million in donations vanish. Lawyer Ma Ying Fung joins an inspector to uncover a web of money laundering and murder.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801130000 +0000" stop="20260801152000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Operation Hadal</title>
+    <desc lang="en">An elite deep-sea special forces unit teams up with the submarine “Long Jing” to thwart an international super-submarine conspiracy. Facing enemy ambushes and navigating treacherous waters, they dive into a dangerous underwater battlefield, where a life-or-death showdown unfolds beneath the sea.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801152000 +0000" stop="20260801170000 +0000" channel="celestialmovies.unifitv">
+    <title lang="en">Life Must Go On</title>
+    <desc lang="en">When the “midnight gymnasium” programme for wayward teenage girls is at funding risk, social worker Yanki puts together a dodgeball team to compete in a match and save it. With an ex-star athlete John as the coach, the girls realize they must face their problems and overcome their challenges instead of dodging them. Can they finally win the match?</desc>
+    <category lang="en">Comedy</category>
+  </programme>
   <channel id="celestialclassicmovies.unifitv">
     <display-name>Celestial Classic Movies</display-name>
   </channel>
@@ -6931,6 +5653,86 @@
     <desc lang="en">A young man renowned for his martial arts skills sees his life take a dramatic turn when a secret government agency recruits him for a dangerous mission to thwart the plans of a group of terrorists.</desc>
     <category lang="en">Action</category>
   </programme>
+  <channel id="hbohd.unifitv">
+    <display-name>HBO</display-name>
+  </channel>
+  <programme start="20260731143500 +0000" stop="20260731160500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Gray Matter</title>
+    <desc lang="en">16-year-old Aurora longs for a normal life - but must first learn to control her psychic powers.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731160500 +0000" stop="20260731173500 +0000" channel="hbohd.unifitv">
+    <title lang="en">All The Devils Are Here</title>
+    <desc lang="en">After a heist, four criminals lay low in a remote safehouse. As paranoia builds, one thing becomes clear: the real threat is already inside.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260731173500 +0000" stop="20260731191000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Heart Eyes</title>
+    <desc lang="en">When the "Heart Eyes Killer" strikes, a pair of co-workers are mistaken for a couple by the elusive couple-hunting killer.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260731191000 +0000" stop="20260731193500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Entertaiment</category>
+    <episode-num system="xmltv_ns">0.1179.</episode-num>
+    <episode-num system="onscreen">S1E1180</episode-num>
+  </programme>
+  <programme start="20260731193500 +0000" stop="20260731220000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Eddington</title>
+    <desc lang="en">In May of 2020, a standoff between a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260731220000 +0000" stop="20260731232500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Teen Titans Go! To The Movies</title>
+    <desc lang="en">The Teen Titans head to Tinsel Town to pursue their dream of starring in their own movies.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260731232500 +0000" stop="20260801011000 +0000" channel="hbohd.unifitv">
+    <title lang="en">The Polar Express</title>
+    <desc lang="en">A doubting boy finds out first-hand that Santa exists when he goes aboard a magical train headed for the North Pole.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260801011000 +0000" stop="20260801025500 +0000" channel="hbohd.unifitv">
+    <title lang="en">The Bad Guys 2</title>
+    <desc lang="en">In this new action-packed chapter the now-reformed Bad Guys are forced to pull one last heist, masterminded by a new team of criminals: The Bad Girls.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260801025500 +0000" stop="20260801042500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Jurassic Park III</title>
+    <desc lang="en">Tricked into rescuing a boy from an island that once bred dinosaurs, a paleontologist discovers that its inhabitants are deadlier than he imagined.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801042500 +0000" stop="20260801055500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Smurfs</title>
+    <desc lang="en">Smurfette and the Smurfs team up with new friends to save Papa Smurf after he's kidnapped and realize their destiny is to protect the universe.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20260801055500 +0000" stop="20260801080500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Pacific Rim</title>
+    <desc lang="en">A sci-fi action epic about a ragtag band of humans coming together in the year 2020 to fight legions of monstrous creatures rising from the sea.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801080500 +0000" stop="20260801094500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Gabby's Dollhouse: The Movie</title>
+    <desc lang="en">Gabby and Grandma Gigi's road trip to Cat Francisco takes an unexpected turn when Gabby's prized dollhouse is swiped by an eccentric cat lady.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801094500 +0000" stop="20260801114500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Crazy Rich Asians</title>
+    <desc lang="en">Chinese-American New Yorker Rachel Chu travels to Singapore with her boyfriend Nick to attend his best friend's wedding. Before long, his secret is out: Nick's family is wealthy, and he's considered the most eligible bachelor in Asia…</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260801114500 +0000" stop="20260801140000 +0000" channel="hbohd.unifitv">
+    <title lang="en">Wicked: For Good</title>
+    <desc lang="en">In the epic conclusion to the story of the witches of Oz, Elphaba and Glinda must reunite if they are to change themselves—and all of Oz—for good.</desc>
+    <category lang="en">Fantasy</category>
+  </programme>
+  <programme start="20260801140000 +0000" stop="20260801161500 +0000" channel="hbohd.unifitv">
+    <title lang="en">Wuthering Heights</title>
+    <desc lang="en">Wuthering Heights</desc>
+    <category lang="en">Drama</category>
+  </programme>
   <channel id="hbohits.unifitv">
     <display-name>HBO Hits</display-name>
   </channel>
@@ -7358,6 +6160,154 @@
     <episode-num system="xmltv_ns">54.2.</episode-num>
     <episode-num system="onscreen">S55E3</episode-num>
   </programme>
+  <channel id="cinemax.unifitv">
+    <display-name>Cinemax</display-name>
+  </channel>
+  <programme start="20260731150000 +0000" stop="20260731170000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Allied</title>
+    <desc lang="en">When an Intelligence Officer learns that his wife may be working with the enemy in secret, he has only 3 days to prove her innocence and save his family.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731170000 +0000" stop="20260731183500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Alarum</title>
+    <desc lang="en">Forced out of hiding, former assassin couple Joe and Lara Travers must use their deadly skills from their past to survive the imminent threat.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260731183500 +0000" stop="20260731202000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Civil War</title>
+    <desc lang="en">In a dystopian future America, a team of military-embedded journalists races against time to reach Washington, D.C., before rebel factions descend upon the White House.</desc>
+    <category lang="en">Suspense</category>
+  </programme>
+  <programme start="20260731202000 +0000" stop="20260731214000 +0000" channel="cinemax.unifitv">
+    <title lang="en">THE DICTATOR</title>
+    <desc lang="en">A hard-hitting HBO Original docu-drama by director Gus Van Sant that delves into the reality of high-school life.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731214000 +0000" stop="20260731230000 +0000" channel="cinemax.unifitv">
+    <title lang="en">The Gallows</title>
+    <desc lang="en">A group of students find out that some things are better left alone when they attempt to resurrect a production in honour of an actor who died during the school play.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260731230000 +0000" stop="20260801002500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Life Support</title>
+    <desc lang="en">An HBO Original Movie, Life Support tells the tale of an HIV-positive woman who learns lessons of love and strength through helping others.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801002500 +0000" stop="20260801021000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Caddo Lake</title>
+    <desc lang="en">The disappearance of an eight-year-old girl sets off a chain of events.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801021000 +0000" stop="20260801035000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Changing Lanes</title>
+    <desc lang="en">A moment of self-absorption and a spark of anger will cause two men to cross the line between right and wrong, good and evil, rage and redemption.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801035000 +0000" stop="20260801054500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Dinner For Schmucks</title>
+    <desc lang="en">To climb the corporate ladder, Tim must bring the biggest buffoon to his boss's dinner party and outshine his rivals.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260801054500 +0000" stop="20260801072500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Wifelike</title>
+    <desc lang="en">Designed to behave like the late wife of a detective, an artificial human questions her reality as memories of a past life begin to resurface.</desc>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20260801072500 +0000" stop="20260801090500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Drop</title>
+    <desc lang="en">Dating can be deadly. Violet's dinner with Henry is upended by a series of phone drops presenting a sinister choice: kill her date or lose her child.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801090500 +0000" stop="20260801093500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Hollywood On Set</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1179.</episode-num>
+    <episode-num system="onscreen">S1E1180</episode-num>
+  </programme>
+  <programme start="20260801093500 +0000" stop="20260801111500 +0000" channel="cinemax.unifitv">
+    <title lang="en">Too Big To Fail</title>
+    <desc lang="en">A film on the 2008 Wall Street financial crisis that explores the inner sanctum of the powerful group that decided the fate of the world's economy.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801111500 +0000" stop="20260801131000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Recount</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court's ruling in favor of G. W. Bush.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801131000 +0000" stop="20260801150000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Get Smart</title>
+    <desc lang="en">Steve Carell is Maxwell Smart, a top-secret spy who blunders through every mission with Anne Hathaway, who stars as the sexy Agent 99.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260801150000 +0000" stop="20260801171000 +0000" channel="cinemax.unifitv">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">A kid has the ability to turn into Shazam, an adult superhero. But he needs to master his powers quickly to fight the deadly forces of evil.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <channel id="hitsmovies.unifitv">
+    <display-name>HITS Movies</display-name>
+  </channel>
+  <programme start="20260731150000 +0000" stop="20260731180000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Anatomy Of A Murder</title>
+    <desc lang="en">The truth proves elusive for a former prosecutor who is enlisted to defend an Army officer accused of murdering his wife's rapist.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Out Of Time</title>
+    <desc lang="en">A Florida police chief must solve a vicious double homicide before he himself falls under suspicion.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260731200000 +0000" stop="20260731214500 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Walking Tall (2004)</title>
+    <desc lang="en">Chris Vaughn, a former soldier of the US Special Forces, returns to his hometown, where he discovers that it has been overrun by a shady casino owner and corrupt police officers.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260731214500 +0000" stop="20260731233000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Kung Fu Panda 3</title>
+    <desc lang="en">In the biggest and most awesome Kung Fu Panda movie yet, Po must train a village of fun-loving, clumsy pandas to defeat a supernatural villain that threatens to destroy Kung Fu.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260731233000 +0000" stop="20260801023000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Anatomy Of A Murder</title>
+    <desc lang="en">The truth proves elusive for a former prosecutor who is enlisted to defend an Army officer accused of murdering his wife's rapist.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801023000 +0000" stop="20260801043000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Out Of Time</title>
+    <desc lang="en">A Florida police chief must solve a vicious double homicide before he himself falls under suspicion.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801043000 +0000" stop="20260801061500 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Walking Tall (2004)</title>
+    <desc lang="en">Chris Vaughn, a former soldier of the US Special Forces, returns to his hometown, where he discovers that it has been overrun by a shady casino owner and corrupt police officers.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801061500 +0000" stop="20260801080000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Kung Fu Panda 3</title>
+    <desc lang="en">In the biggest and most awesome Kung Fu Panda movie yet, Po must train a village of fun-loving, clumsy pandas to defeat a supernatural villain that threatens to destroy Kung Fu.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20260801080000 +0000" stop="20260801110000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Anatomy Of A Murder</title>
+    <desc lang="en">The truth proves elusive for a former prosecutor who is enlisted to defend an Army officer accused of murdering his wife's rapist.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801110000 +0000" stop="20260801130000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">The Scorpion King</title>
+    <desc lang="en">In a time of darkness and in the face of evil, one man dared to fight back. Utilising his combat skills as an assassin, a warrior defies an empire to become a legend and unite a nation.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801130000 +0000" stop="20260801153000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">The Perfect Storm</title>
+    <desc lang="en">Sebastian Junger's phenomenal best seller hits the screen starring George Clooney as the veteran skipper of a fishing boat on a collision course with fate in the suspense-filled true story of The Perfect Storm.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801153000 +0000" stop="20260801173000 +0000" channel="hitsmovies.unifitv">
+    <title lang="en">Ultraviolet</title>
+    <desc lang="en">In a future ruled by biotech tyranny, infected warrior Violet battles to protect a child carrying humanity's last hope, igniting a violent rebellion.</desc>
+    <category lang="en">Action</category>
+  </programme>
   <channel id="warnertv.unifitv">
     <display-name>Warner TV HD</display-name>
   </channel>
@@ -7746,6 +6696,162 @@
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">3.21.</episode-num>
     <episode-num system="onscreen">S4E22</episode-num>
+  </programme>
+  <channel id="axn.unifitv">
+    <display-name>AXN</display-name>
+  </channel>
+  <programme start="20260731145000 +0000" stop="20260731181000 +0000" channel="axn.unifitv">
+    <title lang="en">KING KONG</title>
+    <desc lang="en">Oscar® winner Peter Jackson directs Naomi Watts, Jack Black and Adrien Brody in this cinematic vision filled with non-stop action, terrifying creatures and groundbreaking special effects.</desc>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20260731181000 +0000" stop="20260731184000 +0000" channel="axn.unifitv">
+    <title lang="en">CYRIL: SIMPLY MAGIC</title>
+    <desc lang="en">Join Cyril on a journey of self-discovery in various locations across Asia as he shares the marvels of his magic.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260731184000 +0000" stop="20260731193000 +0000" channel="axn.unifitv">
+    <title lang="en">S.W.A.T.</title>
+    <desc lang="en">Inspired by the television series and the feature film, S.W.A.T. stars Shemar Moore as a locally born and raised S.W.A.T. sergeant newly tasked to run a specialized tactical unit that is the last stop in law enforcement in Los Angeles. Torn between loyalty to where he was raised and allegiance to his brothers in blue, former Marine Daniel “Hondo” Harrelson has everything it takes to be an excellent leader and to bridge the divide between his two worlds.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">7.1.</episode-num>
+    <episode-num system="onscreen">S8E2</episode-num>
+  </programme>
+  <programme start="20260731193000 +0000" stop="20260731202500 +0000" channel="axn.unifitv">
+    <title lang="en">ROOKIE, THE</title>
+    <desc lang="en">A troubling incident at a school draws the team into a complex case, while Celina's temporary missing persons assignment leads her into a dangerous situation</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">7.13.</episode-num>
+    <episode-num system="onscreen">S8E14</episode-num>
+  </programme>
+  <programme start="20260731202500 +0000" stop="20260731211500 +0000" channel="axn.unifitv">
+    <title lang="en">ELSBETH</title>
+    <desc lang="en">While investigating the death of an employee at New York's most exclusive jewelry store, Elsbeth and the team uncover plans for a gala heist orchestrated by a chic VIP customer.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260731211500 +0000" stop="20260731221000 +0000" channel="axn.unifitv">
+    <title lang="en">RED EYE</title>
+    <desc lang="en">While Hana investigates a murder at Heathrow, a threat is made against Delaney's jet.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
+  <programme start="20260731221000 +0000" stop="20260731230000 +0000" channel="axn.unifitv">
+    <title lang="en">SIGHT UNSEEN</title>
+    <desc lang="en">Jake (Daniel Gillies) and Tess (Dolly Lewis) investigate the shooting of a trucker when the Vice Squad shows up, demanding they cut their main suspect loose before they compromise one of Vice's investigations. When the same suspect is found dead in the interrogation room, both squads are thrown under suspicion and the station is put into lockdown as the clock starts ticking on Jake and Tess' investigation. The stakes spiral when Jake's life is put into peril and Tess is cut off when the power goes out in Sunny's (Agam Darshi) building Meanwhile, Kye (Ennis Esmer) and Sunny's relationship deepens until Sunny overhears a suspicious phone call.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260731230000 +0000" stop="20260731235000 +0000" channel="axn.unifitv">
+    <title lang="en">SIGHT UNSEEN</title>
+    <desc lang="en">Tess (Dolly Lewis) and Sunny (Agam Darshi) explore themes of hidden identity as they investigate the murder of a realtor's assistant in the glossy mansion he was prepping to sell, only to discover that neither the realtor that the victim was working for nor the buyers he was prepping the mansion for are who they seem to be. As Tess and Sunny investigate, Tess discovers Sunny might have secrets of her own. Meanwhile, Sunny confronts Kye.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260731235000 +0000" stop="20260801004000 +0000" channel="axn.unifitv">
+    <title lang="en">NCIS: SYDNEY</title>
+    <desc lang="en">When a shark spits out the arm of an ex-US Navy SEAL, the team's investigation tests the loyalty of a band of former navy divers and uncovers a murky surveillance plot that could have ties to one of the Allies.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260801004000 +0000" stop="20260801013500 +0000" channel="axn.unifitv">
+    <title lang="en">NCIS: SYDNEY</title>
+    <desc lang="en">When a US Petty Officer's body is found in Sydney's historic Rocks area, a decades old Navy Cross medal holds the clue to solving the murder, leading the team on a wild ghost chase to catch a killer.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260801013500 +0000" stop="20260801035000 +0000" channel="axn.unifitv">
+    <title lang="en">BOURNE IDENTITY, THE</title>
+    <desc lang="en">Oscar® winner Matt Damon stars in this action-packed thriller about an elite government agent who is pulled from the sea with two bullets in his back and no memory of his violent past.</desc>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20260801035000 +0000" stop="20260801042000 +0000" channel="axn.unifitv">
+    <title lang="en">CYRIL: SIMPLY MAGIC</title>
+    <desc lang="en">Join Cyril on a journey of self-discovery in various locations across Asia as he shares the marvels of his magic.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260801042000 +0000" stop="20260801051000 +0000" channel="axn.unifitv">
+    <title lang="en">FBI: INTERNATIONAL</title>
+    <desc lang="en">The Fly Team meets Supervisory Special Agent Wesley “Wes” Mitchell when his partner is shot in LA.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <episode-num system="onscreen">S4E1</episode-num>
+  </programme>
+  <programme start="20260801051000 +0000" stop="20260801060500 +0000" channel="axn.unifitv">
+    <title lang="en">CORONER</title>
+    <desc lang="en">Jenny and Donovan investigate the death of a lab assistant - but Jenny's personal interest in the lab risks clouding the case for her.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20260801060500 +0000" stop="20260801065500 +0000" channel="axn.unifitv">
+    <title lang="en">DOC</title>
+    <desc lang="en">An outdated medical proxy sparks conflict between a patient's ex and partner as Amy, Jake, and intern Hannah probe a student's sudden blindness.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260801065500 +0000" stop="20260801075000 +0000" channel="axn.unifitv">
+    <title lang="en">FBI</title>
+    <desc lang="en">When a federal whistleblower is murdered while in FBI custody along with two agents, the team is stunned to find a familiar perpetrator has resurfaced. Meanwhile, OA wrestles with telling the team what is happening in his personal life.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
+    <episode-num system="onscreen">S8E12</episode-num>
+  </programme>
+  <programme start="20260801075000 +0000" stop="20260801111000 +0000" channel="axn.unifitv">
+    <title lang="en">KING KONG</title>
+    <desc lang="en">Oscar® winner Peter Jackson directs Naomi Watts, Jack Black and Adrien Brody in this cinematic vision filled with non-stop action, terrifying creatures and groundbreaking special effects.</desc>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20260801111000 +0000" stop="20260801120500 +0000" channel="axn.unifitv">
+    <title lang="en">DOC</title>
+    <desc lang="en">An outdated medical proxy sparks conflict between a patient's ex and partner as Amy, Jake, and intern Hannah probe a student's sudden blindness.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20260801120500 +0000" stop="20260801130000 +0000" channel="axn.unifitv">
+    <title lang="en">NCIS: SYDNEY</title>
+    <desc lang="en">When a Marine linked to Mackey's ill-fated rescue mission in Afghanistan is found dead, old enemies emerge and the person she cares for most comes under threat.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+    <episode-num system="onscreen">S3E15</episode-num>
+  </programme>
+  <programme start="20260801130000 +0000" stop="20260801135500 +0000" channel="axn.unifitv">
+    <title lang="en">FBI</title>
+    <desc lang="en">When a federal whistleblower is murdered while in FBI custody along with two agents, the team is stunned to find a familiar perpetrator has resurfaced. Meanwhile, OA wrestles with telling the team what is happening in his personal life.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
+    <episode-num system="onscreen">S8E12</episode-num>
+  </programme>
+  <programme start="20260801135500 +0000" stop="20260801145000 +0000" channel="axn.unifitv">
+    <title lang="en">CIA</title>
+    <desc lang="en">Colin and Bill race to stop a company from covering up their intelligence theft while taking down a dangerous person from Colin's past.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20260801145000 +0000" stop="20260801154000 +0000" channel="axn.unifitv">
+    <title lang="en">FBI: INTERNATIONAL</title>
+    <desc lang="en">The Fly Team meets Supervisory Special Agent Wesley “Wes” Mitchell when his partner is shot in LA.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <episode-num system="onscreen">S4E1</episode-num>
+  </programme>
+  <programme start="20260801154000 +0000" stop="20260801173500 +0000" channel="axn.unifitv">
+    <title lang="en">EQUALIZER 3, THE</title>
+    <desc lang="en">Since giving up his life as a government assassin, Robert McCall (Denzel Washington) has struggled to reconcile the horrific things he's done in the past and finds a strange solace in serving justice on behalf of the oppressed. Finding himself surprisingly at home in Southern Italy, he discovers his new friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.</desc>
+    <category lang="en">Movies</category>
   </programme>
   <channel id="hits.unifitv">
     <display-name>HITS</display-name>
@@ -8661,6 +7767,69 @@
     <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">14.17.</episode-num>
     <episode-num system="onscreen">S15E18</episode-num>
+  </programme>
+  <channel id="rockaction.unifitv">
+    <display-name>Rock Action HD</display-name>
+  </channel>
+  <programme start="20260731154500 +0000" stop="20260731173000 +0000" channel="rockaction.unifitv">
+    <title lang="en">The Kingdom</title>
+    <desc lang="en">Jamie Foxx leads an elite FBI team to hunt a terrorist in Saudi Arabia in The Kingdom—a tense clash of cultures and justice, directed by Peter Berg and produced by Michael Mann.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260731173000 +0000" stop="20260731195000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Mulholland Dr</title>
+    <desc lang="en">A hopeful actress in Los Angeles befriends an amnesiac woman, and as they search for her identity, reality and illusion blur in a dreamlike thriller about ambition, identity, and Hollywood's dark side.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260731195000 +0000" stop="20260731215000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Birdman</title>
+    <desc lang="en">In an effort to jumpstart his career after his superhero movie franchise dies, a psychotic actor writes, directs, and stars in a broadway play that becomes an unlikely hit after he tries to shoots himself in the head during the premiere.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260731215000 +0000" stop="20260801001000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Robin Hood</title>
+    <desc lang="en">Russell Crowe stars as Robin Hood in Ridley Scott's epic reimagining—fighting corruption and sparking a rebellion that turns a humble outlaw into a timeless symbol of freedom.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801001000 +0000" stop="20260801023000 +0000" channel="rockaction.unifitv">
+    <title lang="en">L.A. Confidential</title>
+    <desc lang="en">Amidst corruption, murder and the glamour of famous movie stars, three police officer fight to uncover the truth of a brutal mass murder.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801023000 +0000" stop="20260801042500 +0000" channel="rockaction.unifitv">
+    <title lang="en">Knight And Day</title>
+    <desc lang="en">When a fugitive couple's glamorous and sometimes deadly adventure erupts into a maze of double-crosses, close escapes, false identities, and head-spinning romantic snafus, they come to realize that all they can count on is each other.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801042500 +0000" stop="20260801060000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Twin Dragons</title>
+    <desc lang="en">Identical twins - a musician living in New York, and a mechanic living in Hong Kong - are separated in childhood but are unexpectedly reunited years later when the musician travels to Hong Kong for a concert.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801060000 +0000" stop="20260801080000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Around The World In 80 Days</title>
+    <desc lang="en">It is 1872, and a British inventor, a Chinese thief and a French artist set off to circumnavigate the globe in 80 days. They travel by land, air, sea, and in-line skates in order to beat the clock and finish where they started.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801080000 +0000" stop="20260801094000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Rambo 3</title>
+    <desc lang="en">Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260801094000 +0000" stop="20260801114000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Birdman</title>
+    <desc lang="en">In an effort to jumpstart his career after his superhero movie franchise dies, a psychotic actor writes, directs, and stars in a broadway play that becomes an unlikely hit after he tries to shoots himself in the head during the premiere.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20260801114000 +0000" stop="20260801135500 +0000" channel="rockaction.unifitv">
+    <title lang="en">L.A. Confidential</title>
+    <desc lang="en">Amidst corruption, murder and the glamour of famous movie stars, three police officer fight to uncover the truth of a brutal mass murder.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260801135500 +0000" stop="20260801161000 +0000" channel="rockaction.unifitv">
+    <title lang="en">Terminator 2: Judgement Day</title>
+    <desc lang="en">Arnold Schwarzenegger reprises his career-changing role as the Terminator in this explosive film that was selected as one of AFI's Top Ten Sci-Fi films of all time.</desc>
+    <category lang="en">Action</category>
   </programme>
   <channel id="bbcearthhd.unifitv">
     <display-name>BBC Earth HD</display-name>
@@ -12910,6 +12079,254 @@
     <episode-num system="xmltv_ns">0.45.</episode-num>
     <episode-num system="onscreen">S1E46</episode-num>
   </programme>
+  <channel id="bbcworldnewshd.unifitv">
+    <display-name>BBC World News HD</display-name>
+  </channel>
+  <programme start="20260731153300 +0000" stop="20260731160300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731160300 +0000" stop="20260731163300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731163300 +0000" stop="20260731170300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Focus on Africa</title>
+    <desc lang="en">The biggest African and international stories from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731170300 +0000" stop="20260731173300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731173300 +0000" stop="20260731180300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731180300 +0000" stop="20260731183300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731183300 +0000" stop="20260731190300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731190300 +0000" stop="20260731193300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731193300 +0000" stop="20260731200300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731200300 +0000" stop="20260731203300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731203300 +0000" stop="20260731210300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731210300 +0000" stop="20260731213300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC World News America</title>
+    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731213300 +0000" stop="20260731220300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731220300 +0000" stop="20260731223300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC World News America</title>
+    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731223300 +0000" stop="20260731224800 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The President's Path</title>
+    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731224800 +0000" stop="20260731230300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731230300 +0000" stop="20260731233300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260731233300 +0000" stop="20260801000300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Talking Business</title>
+    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801000300 +0000" stop="20260801003300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801003300 +0000" stop="20260801010300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Tech Now</title>
+    <desc lang="en">Yasmin Morgan-Griffiths finds out how new technologies are being used to measure the world's forests in more detail than ever before. Suranjana Tewari takes us inside a robotics factory in Beijing.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801010300 +0000" stop="20260801013300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801013300 +0000" stop="20260801020300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Clive Myrie's Caribbean Adventure-La Vega - Dominican Republic</title>
+    <desc lang="en">Every February, the city of La Vega bursts into life with loud and colourful street carnivals. Clive meets talented costume makers before suiting up for the parade.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801020300 +0000" stop="20260801023300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801023300 +0000" stop="20260801030300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Racing on the Edge-The Power of Opportunity</title>
+    <desc lang="en">One opportunity transformed Kai Hockley and Anna Weis. As they chase SailGP success, their journeys show how a single chance can inspire others to dream bigger and redefine what's possible.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801030300 +0000" stop="20260801033300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801033300 +0000" stop="20260801040300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Media Show</title>
+    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801040300 +0000" stop="20260801043300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801043300 +0000" stop="20260801050300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Travel Show-The Traveller Who Wouldn't Stop</title>
+    <desc lang="en">The Travel Show meets Thor Pedersen - the man attempting to become the most travelled person in Denmark by aiming to visit 1001 regions across the globe over the course of his lifetime.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801050300 +0000" stop="20260801053300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801053300 +0000" stop="20260801060300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Secret Jungle Hospital</title>
+    <desc lang="en">With drones flying overhead, a hidden hospital in Myanmar is battling to save lives in the midst of war. The BBC's Quentin Sommerville and team spent time with rebels close to the front line.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801060300 +0000" stop="20260801063300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801063300 +0000" stop="20260801070300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Tech Now</title>
+    <desc lang="en">Yasmin Morgan-Griffiths finds out how new technologies are being used to measure the world's forests in more detail than ever before. Suranjana Tewari takes us inside a robotics factory in Beijing.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801070300 +0000" stop="20260801073300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801073300 +0000" stop="20260801080300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Clive Myrie's Caribbean Adventure (r)-La Vega - Dominican Republic</title>
+    <desc lang="en">Every February, the city of La Vega bursts into life with loud and colourful street carnivals. Clive meets talented costume makers before suiting up for the parade.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801080300 +0000" stop="20260801090300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801090300 +0000" stop="20260801093300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801093300 +0000" stop="20260801100300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Global Eye-Japan's Changing Identity</title>
+    <desc lang="en">Kurumi Mori reports on Japan's changing identity and BBC Eye talks to Ukrainians civilians abused in Russian-occupied Ukraine and tracks down those likely responsible.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801100300 +0000" stop="20260801103300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801103300 +0000" stop="20260801110300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Talking Business</title>
+    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801110300 +0000" stop="20260801113300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801113300 +0000" stop="20260801120300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Focus on Africa: The Conversation</title>
+    <desc lang="en">This week, Focus on Africa: The Conversation hears from men who have conducted paternity tests on their children.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801120300 +0000" stop="20260801123300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801123300 +0000" stop="20260801130300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">China's Greatest Treasures-The Art of Ancient Fashion</title>
+    <desc lang="en">BBC art historian Alastair Sooke discovers how historic fashion design still resonates with people in China today, and how it has become a way in which people can celebrate their identity.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801130300 +0000" stop="20260801133300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801133300 +0000" stop="20260801140300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Secret Jungle Hospital</title>
+    <desc lang="en">With drones flying overhead, a hidden hospital in Myanmar is battling to save lives in the midst of war. The BBC's Quentin Sommerville and team spent time with rebels close to the front line.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801140300 +0000" stop="20260801143300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801143300 +0000" stop="20260801150300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">The Media Show</title>
+    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801150300 +0000" stop="20260801153300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260801153300 +0000" stop="20260801160300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Racing on the Edge (r)-The Power of Opportunity</title>
+    <desc lang="en">One opportunity transformed Kai Hockley and Anna Weis. As they chase SailGP success, their journeys show how a single chance can inspire others to dream bigger and redefine what's possible.</desc>
+    <category lang="en">News</category>
+  </programme>
   <channel id="aljazeera.unifitv">
     <display-name>Al Jazeera</display-name>
   </channel>
@@ -15707,6 +15124,589 @@
   <programme start="20260801140000 +0000" stop="20260801195500 +0000" channel="unifisports1.unifitv">
     <title lang="en">(L) UFC Fight Night: Medi? vs. Rodriguez - Main</title>
     <desc lang="en">On Saturday, August 1, UFC makes its debut at Belgrade Arena in Belgrade, Serbia with a Fight Night card headlined by a welterweight contest between electric finisher Uros “The Doctor” Medic and Daniel Rodriguez. A native of Novi Sad, Medic currently sits at No. 14 in the divisional ranks and earns his first main event assignment on the strength of consecutive first-round stoppage wins over Gilbert Urbina, Muslim Salikhov, and Geoff Neal. Positioned one spot behind him in the rankings, Rodriguez has similarly won three straight, most recently besting Kevin Holland at UFC 318 last summer in New Orleans.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="spotv.unifitv">
+    <display-name>SPOTV</display-name>
+  </channel>
+  <programme start="20260731080000 +0000" stop="20260731180000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) AIG Women's Open 2026 - Round 2</title>
+    <desc lang="en">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260731180000 +0000" stop="20260731232000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 LIV Golf League, U.K. - Round 4</title>
+    <desc lang="en">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260731232000 +0000" stop="20260801001500 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Hyundai Archery World Cup, Stage 4 Madrid (ESP) - Recurve Highlights</title>
+    <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
+    <category lang="en">Archery</category>
+  </programme>
+  <programme start="20260801001500 +0000" stop="20260801034500 +0000" channel="spotv.unifitv">
+    <title lang="en">Reserve Cup Series Marbella 2026 - Day 3</title>
+    <desc lang="en">Reserve Cup Series features elite padel competition led by celebrity team captains, as top players battle in a high-profile event blending sport, lifestyle, and entertainment.</desc>
+    <category lang="en">Padel</category>
+  </programme>
+  <programme start="20260801034500 +0000" stop="20260801044000 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 15 Tokyo E-Prix - Highlights 1</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260801044000 +0000" stop="20260801060000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) 2026 Supercars: Bosch Power Tools Perth Super 440 - Race 23</title>
+    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260801060000 +0000" stop="20260801081500 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 U.S. Junior Amateur Championship - Final</title>
+    <desc lang="en">The nation's leading junior golfers battle for one of amateur golf's most prestigious championships, highlighting emerging talent and future stars of the sport.</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260801081500 +0000" stop="20260801093000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) 2026 Supercars: Bosch Power Tools Perth Super 440 - Race 24</title>
+    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260801093000 +0000" stop="20260801103000 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Highlights 1</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260801103000 +0000" stop="20260801110000 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 15 Tokyo E-Prix - Highlights 2</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260801110000 +0000" stop="20260801180000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) AIG Women's Open 2026 - Round 3</title>
+    <desc lang="en">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <channel id="spotv2.unifitv">
+    <display-name>SPOTV2</display-name>
+  </channel>
+  <programme start="20260731125000 +0000" stop="20260731163000 +0000" channel="spotv2.unifitv">
+    <title lang="en">(L) GOTF 2026: Basketball 3x3 Freestyle - Day 3 Round of 16</title>
+    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260731163000 +0000" stop="20260731173000 +0000" channel="spotv2.unifitv">
+    <title lang="en">Faultless - Ep 5</title>
+    <desc lang="en">An exclusive documentary series following the world's top show jumpers and their horses, revealing the trust, sacrifice, and determination behind the pursuit of excellence at the sport's biggest events.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260731173000 +0000" stop="20260731180000 +0000" channel="spotv2.unifitv">
+    <title lang="en">WPBL S2, Mumbai Highlights - Day 8 Tie 1 Mumbai vs Rajasthan</title>
+    <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731180000 +0000" stop="20260731194000 +0000" channel="spotv2.unifitv">
+    <title lang="en">King George VI &amp; QE Stakes 2026</title>
+    <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260731194000 +0000" stop="20260731203000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP After the flag - Half Season Recap</title>
+    <desc lang="en">Join MotoGP presenters for a review of the biggest stories and highlights from the first half of the 2026 season.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260731203000 +0000" stop="20260731210000 +0000" channel="spotv2.unifitv">
+    <title lang="en">WPBL S2, Mumbai Highlights - Day 7 Tie 1 Chennai vs Bengaluru</title>
+    <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731210000 +0000" stop="20260731223000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 The Asian Tournament, Chengdu - Game 12 HK Vanta Black Dragons vs Shenzhen New Century</title>
+    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260731223000 +0000" stop="20260731235000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 The Asian Tournament, Chengdu - Game 15 Macau Black Knights vs Shenzhen New Century</title>
+    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260731235000 +0000" stop="20260801013000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 The Asian Tournament, Chengdu - Game 16 Philippine Aces United vs HK Vanta Black Dragons</title>
+    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260801013000 +0000" stop="20260801021000 +0000" channel="spotv2.unifitv">
+    <title lang="en">SailGP: Racing on the Edge S6 - Ep 4</title>
+    <desc lang="en">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
+    <category lang="en">Sailing</category>
+  </programme>
+  <programme start="20260801021000 +0000" stop="20260801051500 +0000" channel="spotv2.unifitv">
+    <title lang="en">(L) 1/8 2026 MLB Regular Season - Los Angeles Dodgers vs Boston Red Sox</title>
+    <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260801051500 +0000" stop="20260801070000 +0000" channel="spotv2.unifitv">
+    <title lang="en">King George VI &amp; QE Stakes 2026</title>
+    <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260801070000 +0000" stop="20260801075500 +0000" channel="spotv2.unifitv">
+    <title lang="en">SailGP S6: Emirates Great Britain Sail Grand Prix - Highlights</title>
+    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+    <category lang="en">Sailing</category>
+  </programme>
+  <programme start="20260801075500 +0000" stop="20260801084500 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP After the flag - Half Season Recap</title>
+    <desc lang="en">Join MotoGP presenters for a review of the biggest stories and highlights from the first half of the 2026 season.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260801084500 +0000" stop="20260801125000 +0000" channel="spotv2.unifitv">
+    <title lang="en">(L) Games of the Future 2026: Battle Royal PUBG - Match Day 2</title>
+    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
+    <category lang="en">eSports</category>
+  </programme>
+  <programme start="20260801125000 +0000" stop="20260801163000 +0000" channel="spotv2.unifitv">
+    <title lang="en">(L) GOTF 2026: Basketball 3x3 Freestyle - Day 4 Quarterfinals</title>
+    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <channel id="beinsports.unifitv">
+    <display-name>beIN SPORTS 1</display-name>
+  </channel>
+  <programme start="20260731150000 +0000" stop="20260731160000 +0000" channel="beinsports.unifitv">
+    <title lang="en">WRC - Rally Finland SS9 Hoho 2 (L)</title>
+    <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731160000 +0000" stop="20260731164000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga - Best Goals Of The Season</title>
+    <desc lang="en">beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731164000 +0000" stop="20260731165300 +0000" channel="beinsports.unifitv">
+    <title lang="en">Chasing the Dream - Budapest, Hungary</title>
+    <desc lang="en">Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731165300 +0000" stop="20260731190000 +0000" channel="beinsports.unifitv">
+    <title lang="en">WAFCON - South Africa vs Ivory Coast (L)</title>
+    <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731190000 +0000" stop="20260731195300 +0000" channel="beinsports.unifitv">
+    <title lang="en">Formula 4 - Mugello Race 4</title>
+    <desc lang="en">The Formula 4 Italian Championship is the benchmark of F4 worldwide, the first crucial step from karting to F1</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731195300 +0000" stop="20260731220000 +0000" channel="beinsports.unifitv">
+    <title lang="en">WAFCON - Burkina Faso vs Tanzania (L)</title>
+    <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="beinsports.unifitv">
+    <title lang="en">UEFA Conference League - Crystal Palace vs Rayo Vallecano - Final</title>
+    <desc lang="en">Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at RB Arena,Leipzig</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LFCTV - Liverpool vs Wrexham - Friendly</title>
+    <desc lang="en">Enjoy every Liverpool match from the Premier League, FA Cup and Carabao Cup and friendlies, from LFCTV on beIN SPORTS</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801020000 +0000" stop="20260801023000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LFC Trending - Episode Number 50</title>
+    <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Le Mans Cup Highlights - Road to Le Mans</title>
+    <desc lang="en">Highlights of the eleventh season of the premier European endurance support series, featuring a record 45-car grid across LMP3 and GT3 classes</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801030000 +0000" stop="20260801050000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga - Rayo Vallecano vs Real Sociedad</title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801050000 +0000" stop="20260801060000 +0000" channel="beinsports.unifitv">
+    <title lang="en">ERC - Rally Poland SS 12 Silesian Voivodeship 1</title>
+    <desc lang="en">The 74th season of the premier European rallying series, featuring a seven-round, all-asphalt/gravel calendar starting in Spain.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="beinsports.unifitv">
+    <title lang="en">ERC - Rally Poland SS 15 Silesian Voivodeship 2 - PS</title>
+    <desc lang="en">The 74th season of the premier European rallying series, featuring a seven-round, all-asphalt/gravel calendar starting in Spain.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801070000 +0000" stop="20260801090000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Formula 1 Main Race - FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026</title>
+    <desc lang="en">beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801090000 +0000" stop="20260801100000 +0000" channel="beinsports.unifitv">
+    <title lang="en">WRC - Rally Finland SS14 Leustu 1 (L)</title>
+    <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801100000 +0000" stop="20260801110000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Ferrari Challenge - Race 1, Brands Hatch</title>
+    <desc lang="en">The UK Championship of the Ferrari Challenge Series enters its eighth season on a high, starting the calendar abroad for the second year running, and with the most extensive calendar ever - taking the top of British talent to all premiere circuits in Great Britain - and beyond!</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801110000 +0000" stop="20260801120000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Ferrari Challenge - Race 2, Brands Hatch</title>
+    <desc lang="en">The UK Championship of the Ferrari Challenge Series enters its eighth season on a high, starting the calendar abroad for the second year running, and with the most extensive calendar ever - taking the top of British talent to all premiere circuits in Great Britain - and beyond!</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801120000 +0000" stop="20260801123000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Porsche Mobil 1 Supercup Highlights - Budapest, Hungary</title>
+    <desc lang="en">Catch up on all the action from the Porsche Mobil 1 Supercup in this 30-min highlights.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801123000 +0000" stop="20260801125000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Chasing the Dream - Budapest, Hungary</title>
+    <desc lang="en">Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801125000 +0000" stop="20260801133000 +0000" channel="beinsports.unifitv">
+    <title lang="en">GT World Challenge Europe - Magny-Cours Qualifying 1, Sprint Cup (L)</title>
+    <desc lang="en">The 16th season of the premier European GT3 championship, featuring a 10-round calendar split between Endurance and Sprint Cups</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801133000 +0000" stop="20260801135500 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga - Best Saves Of The Season</title>
+    <desc lang="en">beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801135500 +0000" stop="20260801160000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Pre Season Friendly - Cardiff vs Roma (L)</title>
+    <desc lang="en">The 2026/27 football season begins here as beIN SPORTS brings you the best of the pre season friendly action featuring Premier League, LaLiga, Bundesliga, Serie A and Ligue 1 teams.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801160000 +0000" stop="20260801170000 +0000" channel="beinsports.unifitv">
+    <title lang="en">WRC - Rally Finland SS18 Leustu 2 (L)</title>
+    <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="beinsports2.unifitv">
+    <display-name>beIN SPORTS 2</display-name>
+  </channel>
+  <programme start="20260731150000 +0000" stop="20260731163000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Pretoria P1 Day 5 QF Match 6 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731163000 +0000" stop="20260731180000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Pretoria P1 Day 5 QF Match 7 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731180000 +0000" stop="20260731183000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Highlights - Cancun P2</title>
+    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731183000 +0000" stop="20260731200000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Buenos Aires P1 Day 2 Match 3</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731200000 +0000" stop="20260731213000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Buenos Aires P1 Day 2 Match 4</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731213000 +0000" stop="20260731232000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Women's Super League - Man City vs Everton</title>
+    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731232000 +0000" stop="20260801011000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Women's Super League - Chelsea vs West Ham</title>
+    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801011000 +0000" stop="20260801030000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Junior World Championship - Georgia vs Italy - 9th Place Semi Final</title>
+    <desc lang="en">The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801030000 +0000" stop="20260801050000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">PSG TV - Metz vs PSG</title>
+    <desc lang="en">Catch every PSG match from Ligue 1 and Coupe de France amongst others only on beIN Sports</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801050000 +0000" stop="20260801053000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Roland Garros Mini - Men's Singles Rd 2 Sinner v Cerundolo</title>
+    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801053000 +0000" stop="20260801060000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Roland Garros Mini - Women's Singles Rd 2 Sabalenka v Jacquemot</title>
+    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series Highlights - Singapore</title>
+    <desc lang="en">HSBC SVNS Series Highlights - Singapore</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801070000 +0000" stop="20260801073000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Australian Open Mini - Men's Singles Rd 2 Djokovic v Maestrelli</title>
+    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Australian Open Mini - Men's Singles Rd 2 Sinner v Duckworth</title>
+    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801080000 +0000" stop="20260801083000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Highlights - Italy Major</title>
+    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801083000 +0000" stop="20260801085500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - Canada vs Spain - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801085500 +0000" stop="20260801092000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - USA vs Great Britain - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801092000 +0000" stop="20260801094500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - Japan vs Fiji - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801094500 +0000" stop="20260801101000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - Australia vs Brazil - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801101000 +0000" stop="20260801103500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - France vs South Africa - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801103500 +0000" stop="20260801110000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - New Zealand vs Argentina - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801110000 +0000" stop="20260801123000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Pretoria P1 Day 6 SF1 - Women (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801123000 +0000" stop="20260801140000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Pretoria P1 Day 6 SF2 - Women (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801140000 +0000" stop="20260801142500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - France vs Japan - 5th Place Play-Off, Valladolid - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801142500 +0000" stop="20260801145500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Australian Open Mini - Women's Singles Rd 3 Sabalenka v Potapova</title>
+    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801145500 +0000" stop="20260801170000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Pre Season Friendly - Hamburg vs Everton (L)</title>
+    <desc lang="en">The 2026/27 football season begins here as beIN SPORTS brings you the best of the pre season friendly action featuring Premier League, LaLiga, Bundesliga, Serie A and Ligue 1 teams.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="beinsports3.unifitv">
+    <display-name>beIN SPORTS 3</display-name>
+  </channel>
+  <programme start="20260731133000 +0000" stop="20260731163000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">ONE Friday Fights - OFF 164 (L)</title>
+    <desc lang="en">A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731163000 +0000" stop="20260731180000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">SailGP - Portsmouth, Great Britain Day 2</title>
+    <desc lang="en">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">CAF CL - Pyramids FC vs AS FAR</title>
+    <desc lang="en">Watch the top clubs from Africa's football league battle it out in the CAF Champions League.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731200000 +0000" stop="20260731210000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCI World Tour Highlights - Tour Auvergne-Rhone-Alpes</title>
+    <desc lang="en">Highlights of the premier men's elite road cycling tour.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731210000 +0000" stop="20260731230000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCI Women's World Tour - La Vuelta Femenina - Stage 5</title>
+    <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731230000 +0000" stop="20260731233000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Racing On The Edge - Episode Number 4</title>
+    <desc lang="en">This premium storytelling series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731233000 +0000" stop="20260801022000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Tour de France - Stage 1 - Barcelona</title>
+    <desc lang="en">The world's oldest and most prestigious annual men's multi-stage road cycling race.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801022000 +0000" stop="20260801023000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCL - PSV vs Milan (2008/09)</title>
+    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Racing On The Edge - Episode Number 4</title>
+    <desc lang="en">This premium storytelling series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801030000 +0000" stop="20260801040000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV All The Goals - Ronaldo</title>
+    <desc lang="en">In this MUTV special, enjoy every goal from this United legend, from 1 yard tap-ins to 30 yard screamers and everything in between.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801040000 +0000" stop="20260801055000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Women's Super League - Aston Villa vs Liverpool</title>
+    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801055000 +0000" stop="20260801060000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCL - PSV vs Milan (2008/09)</title>
+    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">SailGP - Portsmouth, Great Britain Day 1</title>
+    <desc lang="en">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801073000 +0000" stop="20260801090000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">SailGP - Portsmouth, Great Britain Day 2</title>
+    <desc lang="en">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801090000 +0000" stop="20260801093000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Racing On The Edge - Episode Number 4</title>
+    <desc lang="en">This premium storytelling series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801093000 +0000" stop="20260801095500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: 2000 Premier League Goals - 2009/10</title>
+    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801095500 +0000" stop="20260801120000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Dortmund Pre Season Friendly - FC Tokyo vs Dortmund (L)</title>
+    <desc lang="en">The Black and Yellows play two friendly matches as part of their BVB Evonik Japan Tour in preparations for their 2026/27 campaign.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801120000 +0000" stop="20260801121500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: 2000 Premier League Goals - 2016/17</title>
+    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCI Women's World Tour Highlights - Santos Tour Down Under - One Day Race</title>
+    <desc lang="en">Highlights of the premier annual female elite road cycling tour.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801124500 +0000" stop="20260801131500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Mass Participation - Transvulcania</title>
+    <desc lang="en">International broadcast series documenting high-endurance race events and adventure challenges. The program captures elite competitors tackling intense marathons, ultra-trails, and multi-sport endurance courses worldwide.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801131500 +0000" stop="20260801133500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: One Love - Supporting Each Other</title>
+    <desc lang="en">Go behind the scenes with some of our most dedicated supporters' clubs, to uncover the fascinating stories, experiences and sacrifices these fans make to follow the club.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801133500 +0000" stop="20260801134500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCL - PSV vs Milan (2008/09)</title>
+    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801134500 +0000" stop="20260801161500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCI Women's World Tour - Tour de France Femmes - Stage 1 (L)</title>
+    <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="beinsports4.unifitv">
+    <display-name>beIN SPORTS 4</display-name>
+  </channel>
+  <programme start="20260731140000 +0000" stop="20260731160000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731160000 +0000" stop="20260731180000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731180000 +0000" stop="20260731200000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731200000 +0000" stop="20260731220000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801020000 +0000" stop="20260801040000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801040000 +0000" stop="20260801060000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801060000 +0000" stop="20260801080000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801080000 +0000" stop="20260801100000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801100000 +0000" stop="20260801120000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801120000 +0000" stop="20260801140000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801140000 +0000" stop="20260801160000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801160000 +0000" stop="20260801180000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
     <category lang="en">Sports</category>
   </programme>
 </tv>
