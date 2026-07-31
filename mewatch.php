@@ -73,9 +73,6 @@
     <programme start="20260801145000 +0000" stop="20260801174500 +0000" channel="Unknown Channel.mewatch">
         <title>Judo - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals</title>
     </programme>
-    <programme start="20260801160000 +0000" stop="20260802075000 +0000" channel="Unknown Channel.mewatch">
-        <title>No programme streaming LIVE at this moment</title>
-    </programme>
     <programme start="20260731150000 +0000" stop="20260731165000 +0000" channel="Channel 5.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Heats - 31 Jul 2026</title>
     </programme>
@@ -191,7 +188,7 @@
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Heats and Finals - 1 Aug 2026</title>
     </programme>
     <programme start="20260801144500 +0000" stop="20260801172000 +0000" channel="Channel 5.mewatch">
-        <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Final</title>
+        <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games: Men&#039;s &amp; Women&#039;s Finals</title>
     </programme>
     <programme start="20260731160000 +0000" stop="20260731170000 +0000" channel="Channel 8.mewatch">
         <title>Heroes - EP 3</title>
