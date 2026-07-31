@@ -26,7 +26,7 @@
 <title>Cintaku Sebulat Tahu</title>
 </programme>
 <programme start="20260731200000 +0000" stop="20260731230000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S4</title>
+<title>Preman Pensiun S3</title>
 </programme>
 <programme start="20260731230000 +0000" stop="20260801010000 +0000" channel="RCTI.vision">
 <title>Upin &amp; Ipin</title>
@@ -148,6 +148,9 @@
 <programme start="20260731153000 +0000" stop="20260731170000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
+<programme start="20260731170000 +0000" stop="20260731190000 +0000" channel="GTV.vision">
+<title>Uang Kaget</title>
+</programme>
 <programme start="20260731190000 +0000" stop="20260731210000 +0000" channel="GTV.vision">
 <title>Ragam Cerita</title>
 </programme>
@@ -159,6 +162,9 @@
 </programme>
 <programme start="20260731233000 +0000" stop="20260801000000 +0000" channel="GTV.vision">
 <title>BIMA-S</title>
+</programme>
+<programme start="20260801000000 +0000" stop="20260801010000 +0000" channel="GTV.vision">
+<title>The Helping Heroes</title>
 </programme>
 <programme start="20260801010000 +0000" stop="20260801030000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
@@ -245,7 +251,7 @@
 <title>iNews</title>
 </programme>
 <programme start="20260731190000 +0000" stop="20260731193000 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
+<title>iNews Room</title>
 </programme>
 <programme start="20260731193000 +0000" stop="20260731201500 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -271,14 +277,17 @@
 <programme start="20260801003000 +0000" stop="20260801013000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
-<programme start="20260801013000 +0000" stop="20260801023000 +0000" channel="iNews.vision">
+<programme start="20260801013000 +0000" stop="20260801021500 +0000" channel="iNews.vision">
 <title>Realita</title>
 </programme>
-<programme start="20260801023000 +0000" stop="20260801033000 +0000" channel="iNews.vision">
+<programme start="20260801021500 +0000" stop="20260801031500 +0000" channel="iNews.vision">
 <title>iNews Files</title>
 </programme>
-<programme start="20260801033000 +0000" stop="20260801053000 +0000" channel="iNews.vision">
+<programme start="20260801031500 +0000" stop="20260801051500 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
+</programme>
+<programme start="20260801051500 +0000" stop="20260801053000 +0000" channel="iNews.vision">
+<title>Cahaya Hati The Series</title>
 </programme>
 <programme start="20260801053000 +0000" stop="20260801070000 +0000" channel="iNews.vision">
 <title>Cahaya Hati Indonesia (L)</title>
@@ -595,11 +604,32 @@
 <programme start="20260731180000 +0000" stop="20260731190000 +0000" channel="ANTV.vision">
 <title>The Iron Fisted Monk</title>
 </programme>
+<programme start="20260731190000 +0000" stop="20260731203000 +0000" channel="ANTV.vision">
+<title>Karma Baik</title>
+</programme>
+<programme start="20260731203000 +0000" stop="20260731213000 +0000" channel="ANTV.vision">
+<title>Karma Baik</title>
+</programme>
+<programme start="20260731213000 +0000" stop="20260731230000 +0000" channel="ANTV.vision">
+<title>Hati Ke Hati Bersama Mamah...</title>
+</programme>
 <programme start="20260731230000 +0000" stop="20260801023000 +0000" channel="ANTV.vision">
 <title>Kabhi Haan Kabhi Naa</title>
 </programme>
 <programme start="20260801023000 +0000" stop="20260801060000 +0000" channel="ANTV.vision">
 <title>Jawan</title>
+</programme>
+<programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="ANTV.vision">
+<title>Jhanak</title>
+</programme>
+<programme start="20260801073000 +0000" stop="20260801090000 +0000" channel="ANTV.vision">
+<title>Sayali</title>
+</programme>
+<programme start="20260801090000 +0000" stop="20260801103000 +0000" channel="ANTV.vision">
+<title>Jaane Anjaane</title>
+</programme>
+<programme start="20260801103000 +0000" stop="20260801120000 +0000" channel="ANTV.vision">
+<title>Teri Meri Doriyaann</title>
 </programme>
 <programme start="20260731000000 +0000" stop="20260731013000 +0000" channel="RTV.vision">
 <title>Grizzy And The Lemmings</title>
@@ -1249,9 +1279,6 @@
 <programme start="20260730230300 +0000" stop="20260731003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
-<programme start="20260731003000 +0000" stop="20260731010000 +0000" channel="BTV.vision">
-<title>FYI</title>
-</programme>
 <programme start="20260731010000 +0000" stop="20260731010500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
 </programme>
@@ -1260,9 +1287,6 @@
 </programme>
 <programme start="20260731011500 +0000" stop="20260731014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
-</programme>
-<programme start="20260731014500 +0000" stop="20260731020000 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
 </programme>
 <programme start="20260731020000 +0000" stop="20260731020500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1473,28 +1497,4 @@
 </programme>
 <programme start="20260731090000 +0000" stop="20260731093000 +0000" channel="TVRI.vision">
 <title>Skor Akhir</title>
-</programme>
-<programme start="20260731093000 +0000" stop="20260731100000 +0000" channel="TVRI.vision">
-<title>Asta Cita</title>
-</programme>
-<programme start="20260731100000 +0000" stop="20260731103000 +0000" channel="TVRI.vision">
-<title>Ayo Bertani</title>
-</programme>
-<programme start="20260731103000 +0000" stop="20260731110000 +0000" channel="TVRI.vision">
-<title>Teras Istana</title>
-</programme>
-<programme start="20260731110000 +0000" stop="20260731120000 +0000" channel="TVRI.vision">
-<title>Klik Indonesia Petang</title>
-</programme>
-<programme start="20260731120000 +0000" stop="20260731130000 +0000" channel="TVRI.vision">
-<title>Indonesia Bicara</title>
-</programme>
-<programme start="20260731130000 +0000" stop="20260731133000 +0000" channel="TVRI.vision">
-<title>Jelajah Kopi</title>
-</programme>
-<programme start="20260731133000 +0000" stop="20260731140000 +0000" channel="TVRI.vision">
-<title>Bumi</title>
-</programme>
-<programme start="20260731140000 +0000" stop="20260731143000 +0000" channel="TVRI.vision">
-<title>Dunia Dalam Berita</title>
 </programme>

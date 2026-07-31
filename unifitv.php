@@ -2349,8 +2349,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260731000000 +0000" stop="20260731020000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung: Sambutan Hari Pahlawan 2026</title>
-    <desc lang="en">Siaran Langsung: Sambutan Hari Pahlawan 2026</desc>
+    <title lang="en">LIVE : SELAMAT PAGI MALAYSIA</title>
+    <desc lang="en">Bersama-sama pengacara membincangkan isu-isu terkini dalam Selamat Pagi Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260731020000 +0000" stop="20260731020500 +0000" channel="tv1.unifitv">
@@ -10473,7 +10473,7 @@
     <episode-num system="xmltv_ns">0.24.</episode-num>
     <episode-num system="onscreen">S1E25</episode-num>
   </programme>
-  <programme start="20260731155500 +0000" stop="20260731161700 +0000" channel="dreamworkshd.unifitv">
+  <programme start="20260731155500 +0000" stop="20260731162000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Trollhunters: Tales of Arcadia</title>
     <desc lang="en">Jim is dealt an emotional blow in his final fight with Angor Rot and must decide if his team is finally ready to cross over into the Darklands.</desc>
     <category lang="en">Action</category>

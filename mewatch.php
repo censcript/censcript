@@ -331,10 +331,10 @@
     <programme start="20260730163000 +0000" stop="20260730173000 +0000" channel="Channel U.mewatch">
         <title>Three Bold Siblings - EP 69</title>
     </programme>
-    <programme start="20260730173000 +0000" stop="20260730220000 +0000" channel="Channel U.mewatch">
+    <programme start="20260730173000 +0000" stop="20260730183000 +0000" channel="Channel U.mewatch">
         <title>Three Bold Siblings - EP 70</title>
     </programme>
-    <programme start="20260730220000 +0000" stop="20260731025700 +0000" channel="Channel U.mewatch">
+    <programme start="20260730183000 +0000" stop="20260731025700 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260731025700 +0000" stop="20260731031400 +0000" channel="Channel U.mewatch">
