@@ -4768,10 +4768,10 @@
   <programme start="20260802210500 +0000" stop="20260802230000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">JAR - Skotsko</title>
   </programme>
-  <programme start="20260801203000 +0000" stop="20260801221500 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260801203000 +0000" stop="20260801222000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Brentford FC - Aston Villa</title>
   </programme>
-  <programme start="20260801221500 +0000" stop="20260802000000 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260801222000 +0000" stop="20260802000000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Wolverhampton Wanderers - Everton FC</title>
   </programme>
   <programme start="20260802000000 +0000" stop="20260802010000 +0000" channel="Nova Sport 2.webtv.sk">
