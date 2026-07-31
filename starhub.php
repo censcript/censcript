@@ -3656,7 +3656,7 @@
         <title>Songs for Everyone</title>
     </programme>
     <programme start="20260731033000 +0000" stop="20260731034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Magnificent Sight!--Mountain Lodges in Europe</title>
+        <title>Drama Serial &quot;Massan&quot; Encore Ep. 150 (Final)</title>
     </programme>
     <programme start="20260731034500 +0000" stop="20260731040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 90 (R)</title>
@@ -3671,7 +3671,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260731055500 +0000" stop="20260731060000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>World Music Album</title>
     </programme>
     <programme start="20260731060000 +0000" stop="20260731061000 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
@@ -3680,10 +3680,10 @@
         <title>Health for Today (R)</title>
     </programme>
     <programme start="20260731062500 +0000" stop="20260731064000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama &quot;Hoshi Shinichi&#039;s Short Story: The Frozen Time&quot; Encore (R)</title>
+        <title>Fishing Crazy</title>
     </programme>
     <programme start="20260731064000 +0000" stop="20260731065000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mimicries--Natural Science for Kids</title>
+        <title>Points at Issue</title>
     </programme>
     <programme start="20260731065000 +0000" stop="20260731073500 +0000" channel="NHK World Premium HD.starhub">
         <title>We Hope Our Healthy Lives That Do Not Lead to Disease (R)</title>
