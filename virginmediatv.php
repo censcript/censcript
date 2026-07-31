@@ -2426,7 +2426,7 @@
     <title>Business Today</title>
 </programme>
 <programme start="20260731120000 +0000" stop="20260731130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260731130000 +0000" stop="20260731133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
