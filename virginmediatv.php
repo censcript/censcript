@@ -4214,7 +4214,7 @@
     <title>The Match Highlights - Pre-Season Friendly: Manchester United v Wrexham</title>
 </programme>
 <programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Highlights - Pre-Season Friendly: Rosenborg v Manchester United</title>
+    <title>Channel Off Air</title>
 </programme>
 <programme start="20260801030000 +0000" stop="20260801053000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Replayed - Pre-Season Friendly: Rosenborg v Manchester United</title>

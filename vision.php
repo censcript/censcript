@@ -517,9 +517,6 @@
 <programme start="20260802113000 +0000" stop="20260802121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260731230000 +0000" stop="20260801023000 +0000" channel="ANTV.vision">
-<title>Kabhi Haan Kabhi Naa</title>
-</programme>
 <programme start="20260801023000 +0000" stop="20260801060000 +0000" channel="ANTV.vision">
 <title>Jawan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260801130000 +0000" stop="20260801140000 +0000" channel="TVRI.vision">
 <title>Musik Hub</title>
+</programme>
+<programme start="20260801140000 +0000" stop="20260801143000 +0000" channel="TVRI.vision">
+<title>Dunia Dalam Berita</title>
 </programme>

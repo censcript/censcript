@@ -1756,25 +1756,10 @@
     <programme start="20260801093000 +0000" stop="20260801095500 +0000" channel="beIN Sports 3.starhub">
         <title>2009/10</title>
     </programme>
-    <programme start="20260801095500 +0000" stop="20260801120000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260801095500 +0000" stop="20260801120500 +0000" channel="beIN Sports 3.starhub">
         <title>Dortmund Pre Season Friendly 2026: FC Tokyo vs Dortmund</title>
     </programme>
-    <programme start="20260801120000 +0000" stop="20260801121500 +0000" channel="beIN Sports 3.starhub">
-        <title>2016/17</title>
-    </programme>
-    <programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="beIN Sports 3.starhub">
-        <title>Santos Tour Down Under - One Day Race</title>
-    </programme>
-    <programme start="20260801124500 +0000" stop="20260801131500 +0000" channel="beIN Sports 3.starhub">
-        <title>Transvulcania</title>
-    </programme>
-    <programme start="20260801131500 +0000" stop="20260801133500 +0000" channel="beIN Sports 3.starhub">
-        <title>Supporting Each Other</title>
-    </programme>
-    <programme start="20260801133500 +0000" stop="20260801134500 +0000" channel="beIN Sports 3.starhub">
-        <title>UCL Classic Matches PSV vs Milan (2008/09)</title>
-    </programme>
-    <programme start="20260801134500 +0000" stop="20260801161500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260801120500 +0000" stop="20260801161500 +0000" channel="beIN Sports 3.starhub">
         <title>UCI Women&#039;s World Tour 2026: Tour de France Femmes - Stage 1</title>
     </programme>
     <programme start="20260731153000 +0000" stop="20260731163000 +0000" channel="Sun Music.starhub">
@@ -3634,6 +3619,9 @@
     <programme start="20260801000000 +0000" stop="20260801002800 +0000" channel="NHK World Premium HD.starhub">
         <title>Darwin&#039;s Amazing Animals &quot;The Animal Brothers&quot; (R)</title>
     </programme>
+    <programme start="20260801002800 +0000" stop="20260801003000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
     <programme start="20260801003000 +0000" stop="20260801010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Document 72 Hours (R)</title>
     </programme>
@@ -3680,7 +3668,7 @@
         <title>Historical Drama &quot;BROTHERS IN ARMS&quot; Ep. 29 (R)</title>
     </programme>
     <programme start="20260801045000 +0000" stop="20260801055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Somewhere Street &quot;Hoi An, Vietnam&quot; (R)</title>
+        <title>Somewhere Street &quot;Hoi An, Vietnam&quot;</title>
     </programme>
     <programme start="20260801055000 +0000" stop="20260801065000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mukai Osamu Travels to Bonito Country the Maldives Encore</title>
@@ -6869,7 +6857,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260801011000 +0000" stop="20260801020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>World Heritage Under Threat</title>
     </programme>
     <programme start="20260801020000 +0000" stop="20260801021000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6926,7 +6914,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260801071000 +0000" stop="20260801080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>World Heritage Under Threat</title>
     </programme>
     <programme start="20260801080000 +0000" stop="20260801081000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -6983,7 +6971,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260801131000 +0000" stop="20260801140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>World Heritage Under Threat</title>
     </programme>
     <programme start="20260801140000 +0000" stop="20260801141000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7687,23 +7675,23 @@
     <programme start="20260731213000 +0000" stop="20260731233000 +0000" channel="Asianet Movies.starhub">
         <title>Malayali</title>
     </programme>
-    <programme start="20260731233000 +0000" stop="20260801033000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260731232000 +0000" stop="20260801013000 +0000" channel="Asianet Movies.starhub">
         <title>Youth Festival</title>
     </programme>
-    <programme start="20260801033000 +0000" stop="20260801063000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260801013000 +0000" stop="20260801043000 +0000" channel="Asianet Movies.starhub">
+        <title>One</title>
     </programme>
-    <programme start="20260801063000 +0000" stop="20260801093000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260801043000 +0000" stop="20260801073000 +0000" channel="Asianet Movies.starhub">
+        <title>Christian Brothers</title>
     </programme>
-    <programme start="20260801093000 +0000" stop="20260801123000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260801073000 +0000" stop="20260801103000 +0000" channel="Asianet Movies.starhub">
+        <title>Ring Master</title>
     </programme>
-    <programme start="20260801123000 +0000" stop="20260801153000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260801103000 +0000" stop="20260801133000 +0000" channel="Asianet Movies.starhub">
+        <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20260801153000 +0000" stop="20260801160000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260801133000 +0000" stop="20260801163000 +0000" channel="Asianet Movies.starhub">
+        <title>Pulimurugan</title>
     </programme>
     <programme start="20260731160000 +0000" stop="20260731170000 +0000" channel="Astro Warna HD.starhub">
         <title>Kulepas Dengan Ikhlas</title>
