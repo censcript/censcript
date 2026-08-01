@@ -15514,8 +15514,8 @@
   <programme start="20260803214500 +0000" stop="20260803220000 +0000" channel="CETV.webtv.sk">
     <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260802200000 +0000" stop="20260802230000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Ezoterická poradňa s Renátou</title>
+  <programme start="20260802220000 +0000" stop="20260803030000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Nočné vysielanie pre pánov</title>
   </programme>
   <programme start="20260803030000 +0000" stop="20260803033000 +0000" channel="TV8.webtv.sk">
     <title lang="id">Dobré rady starej mamy</title>

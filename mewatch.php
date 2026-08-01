@@ -1,10 +1,10 @@
     <programme start="20260801160000 +0000" stop="20260801175000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260801175000 +0000" stop="20260801213500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801175000 +0000" stop="20260801220000 +0000" channel="Unknown Channel.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals - 2 Aug 2026</title>
     </programme>
-    <programme start="20260801213500 +0000" stop="20260802075000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801220000 +0000" stop="20260802075000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260802075000 +0000" stop="20260802121500 +0000" channel="Unknown Channel.mewatch">
