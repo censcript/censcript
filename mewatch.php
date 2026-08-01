@@ -31,13 +31,16 @@
     <programme start="20260801164000 +0000" stop="20260801180500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260801180500 +0000" stop="20260801193000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801180500 +0000" stop="20260801192500 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs Semi-final - MAS vs NIR</title>
     </programme>
-    <programme start="20260801193000 +0000" stop="20260801205500 +0000" channel="Unknown Channel.mewatch">
-        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Single Semi-final - ENG vs NFK</title>
+    <programme start="20260801192500 +0000" stop="20260801193000 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260801205500 +0000" stop="20260802085000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801193000 +0000" stop="20260801203500 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Single Semi-final - GGY vs MAS</title>
+    </programme>
+    <programme start="20260801203500 +0000" stop="20260802085000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260802085000 +0000" stop="20260802120000 +0000" channel="Unknown Channel.mewatch">
