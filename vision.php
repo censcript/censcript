@@ -532,9 +532,6 @@
 <programme start="20260801103000 +0000" stop="20260801120000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260801120000 +0000" stop="20260801143000 +0000" channel="ANTV.vision">
-<title>Aston Villa Pre-Season</title>
-</programme>
 <programme start="20260801143000 +0000" stop="20260801163000 +0000" channel="ANTV.vision">
 <title>Sundel Bolong 2</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260801140000 +0000" stop="20260801143000 +0000" channel="TVRI.vision">
 <title>Dunia Dalam Berita</title>
+</programme>
+<programme start="20260801143000 +0000" stop="20260801163000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

@@ -64,10 +64,10 @@
     <programme start="20260731160000 +0000" stop="20260801095000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260801095000 +0000" stop="20260801130000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801095000 +0000" stop="20260801134300 +0000" channel="Unknown Channel.mewatch">
         <title>Judo - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Elimination Rounds | Quarter-finals | Repechage | Semi-finals</title>
     </programme>
-    <programme start="20260801130000 +0000" stop="20260801145000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801134300 +0000" stop="20260801145000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260801145000 +0000" stop="20260801174500 +0000" channel="Unknown Channel.mewatch">
