@@ -6439,7 +6439,7 @@
     <programme start="20260731170000 +0000" stop="20260731180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>HSBC Championships</title>
     </programme>
-    <programme start="20260731180000 +0000" stop="20260731220000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260731180000 +0000" stop="20260731225200 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala Citi DC Open (500) QF 1 &amp; 2</title>
     </programme>
     <programme start="20260731225200 +0000" stop="20260801011000 +0000" channel="Hub Sports 1  HD.starhub">

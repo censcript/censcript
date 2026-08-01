@@ -2690,7 +2690,7 @@
     <title lang="id">ŠLÁGR MIŠMAŠ</title>
   </programme>
   <programme start="20260803040000 +0000" stop="20260803050000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Šlágr Budíček</title>
+    <title lang="id">RANNÍ BUDÍČEK</title>
   </programme>
   <programme start="20260803050000 +0000" stop="20260803060000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ŠLÁGRMIX</title>
@@ -2708,7 +2708,7 @@
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260803120000 +0000" stop="20260803130000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
+    <title lang="id">Sázka na hit II</title>
   </programme>
   <programme start="20260803130000 +0000" stop="20260803150000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Vždy je něco nového!</title>
@@ -3718,10 +3718,10 @@
   <programme start="20260803020500 +0000" stop="20260803023000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (25)</title>
   </programme>
-  <programme start="20260803023000 +0000" stop="20260803032000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260803023000 +0000" stop="20260803031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (155)</title>
   </programme>
-  <programme start="20260803032000 +0000" stop="20260803040000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260803031500 +0000" stop="20260803040000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Televizní noviny</title>
   </programme>
   <programme start="20260803040000 +0000" stop="20260803061500 +0000" channel="Nova International.webtv.sk">

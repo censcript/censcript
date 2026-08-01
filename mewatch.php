@@ -7,13 +7,13 @@
     <programme start="20260731211500 +0000" stop="20260801085500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260801085500 +0000" stop="20260801125000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801085500 +0000" stop="20260801124000 +0000" channel="Unknown Channel.mewatch">
         <title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Finals - 1 Aug 2026</title>
     </programme>
-    <programme start="20260801125000 +0000" stop="20260801155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801124000 +0000" stop="20260801155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260801160000 +0000" stop="20260801172000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801160000 +0000" stop="20260801175000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260731145000 +0000" stop="20260731192000 +0000" channel="Unknown Channel.mewatch">
@@ -22,10 +22,10 @@
     <programme start="20260731192000 +0000" stop="20260801085000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260801085000 +0000" stop="20260801123000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801085000 +0000" stop="20260801115000 +0000" channel="Unknown Channel.mewatch">
         <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Qualifications | Quarter-finals | Semi-finals</title>
     </programme>
-    <programme start="20260801123000 +0000" stop="20260801135000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801115000 +0000" stop="20260801135000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260801135000 +0000" stop="20260801180000 +0000" channel="Unknown Channel.mewatch">

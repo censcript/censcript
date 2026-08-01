@@ -1,11 +1,3 @@
-<programme start="20260801170000 +0700" stop="20260801190000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Atalanta - Borussia Dortmund</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260801190000 +0700" stop="20260801193000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine E35</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260801193000 +0700" stop="20260801213000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Willem 2 - OFI (L)</title>
     <desc>Live: Ya</desc>
@@ -58,9 +50,9 @@
     <title>UEFA Champions League Magazine E35</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260801165500 +0700" stop="20260801190000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SL Benfica - SC Braga</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260802190000 +0700" stop="20260802210000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: AEK - Sint-Truiden (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260801190000 +0700" stop="20260801210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Rio Ave - Sporting CP</title>
@@ -110,8 +102,8 @@
     <title>Football: Sporting CP - Gil Vicente</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260801170000 +0700" stop="20260801190000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Pafos FC - Aris Limassol</title>
+<programme start="20260802190500 +0700" stop="20260802211000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SC Braga - CF Estrela de Amadora</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260801190000 +0700" stop="20260801210000 +0700" channel="COSMOTE Sport 3 HD">
@@ -158,9 +150,13 @@
     <title>Football: Aberdeen - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260801173000 +0700" stop="20260801193500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Fenerbahce - Trabzonspor</title>
+<programme start="20260802190000 +0700" stop="20260802200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260802200000 +0700" stop="20260802220000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Johnstone - Kilmarnock (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260801193500 +0700" stop="20260801213500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Valencia Basket Club</title>
@@ -206,12 +202,12 @@
     <title>Basketball: Galatasaray - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260801172000 +0700" stop="20260801182000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260802191000 +0700" stop="20260802204000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260801182000 +0700" stop="20260801192000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260802204000 +0700" stop="20260802213000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260801192000 +0700" stop="20260801202000 +0700" channel="COSMOTE Sport 5 HD">
@@ -306,9 +302,9 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260801180000 +0700" stop="20260801200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260802200000 +0700" stop="20260802213500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260801200000 +0700" stop="20260801220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2026 (L)</title>
@@ -362,9 +358,9 @@
     <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260801180000 +0700" stop="20260801200000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260802200000 +0700" stop="20260802230000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260801200000 +0700" stop="20260801220000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -426,8 +422,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260801180000 +0700" stop="20260801200000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260802200000 +0700" stop="20260802210000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260801200000 +0700" stop="20260801220000 +0700" channel="COSMOTE Sport 8 HD">
@@ -478,8 +474,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260801180000 +0700" stop="20260801200000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260802200000 +0700" stop="20260802220000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260801200000 +0700" stop="20260801220000 +0700" channel="COSMOTE Sport 9 HD">
@@ -527,6 +523,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260802180000 +0700" stop="20260802200000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260802200000 +0700" stop="20260802220000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

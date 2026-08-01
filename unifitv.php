@@ -15597,37 +15597,12 @@
     <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801095500 +0000" stop="20260801120000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260801095500 +0000" stop="20260801120500 +0000" channel="beinsports3.unifitv">
     <title lang="en">Dortmund Pre Season Friendly - FC Tokyo vs Dortmund (L)</title>
     <desc lang="en">The Black and Yellows play two friendly matches as part of their BVB Evonik Japan Tour in preparations for their 2026/27 campaign.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801120000 +0000" stop="20260801121500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: 2000 Premier League Goals - 2016/17</title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801121500 +0000" stop="20260801124500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCI Women's World Tour Highlights - Santos Tour Down Under - One Day Race</title>
-    <desc lang="en">Highlights of the premier annual female elite road cycling tour.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801124500 +0000" stop="20260801131500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Mass Participation - Transvulcania</title>
-    <desc lang="en">International broadcast series documenting high-endurance race events and adventure challenges. The program captures elite competitors tackling intense marathons, ultra-trails, and multi-sport endurance courses worldwide.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801131500 +0000" stop="20260801133500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: One Love - Supporting Each Other</title>
-    <desc lang="en">Go behind the scenes with some of our most dedicated supporters' clubs, to uncover the fascinating stories, experiences and sacrifices these fans make to follow the club.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801133500 +0000" stop="20260801134500 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCL - PSV vs Milan (2008/09)</title>
-    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260801134500 +0000" stop="20260801161500 +0000" channel="beinsports3.unifitv">
+  <programme start="20260801120500 +0000" stop="20260801161500 +0000" channel="beinsports3.unifitv">
     <title lang="en">UCI Women's World Tour - Tour de France Femmes - Stage 1 (L)</title>
     <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
     <category lang="en">Sports</category>
