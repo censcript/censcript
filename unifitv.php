@@ -1459,18 +1459,14 @@
     <episode-num system="onscreen">S1E27</episode-num>
   </programme>
   <programme start="20260801130000 +0000" stop="20260801133000 +0000" channel="didiktv.unifitv">
-    <title lang="en">CIPTA RASA SIHAT</title>
-    <desc lang="en">Episod ini hos Akhmal bersama tetamu Suhaila aka Plum, seorang pensyarah dan pempengaruh digital berkongsi resipi dan cara menyediakan menu sihat iaitu Roti Ayam dan Telur, Udang Telur Masin, Roti Mantou dan Salad Buah-Buahan.</desc>
+    <title lang="en">GENERASI MADANI 2026</title>
+    <desc lang="en">GENERASI MADANI 2026</desc>
     <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260801133000 +0000" stop="20260801140000 +0000" channel="didiktv.unifitv">
-    <title lang="en">DESTINASI KERJAYA 24/25</title>
-    <desc lang="en">Program ini menyediakan panduan tentang memilih kerjaya, memperoleh kemahiran yang diperlukan dan menavigasi peluang pekerjaan merangkumi penilaian kendiri untuk membantu murid mengenal pasti kekuatan, minat,serta pilihan kerjaya yang sesuai.</desc>
+    <title lang="en">SEKOLAHKU</title>
+    <desc lang="en">SEKOLAHKU</desc>
     <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
   </programme>
   <programme start="20260801140000 +0000" stop="20260801150000 +0000" channel="didiktv.unifitv">
     <title lang="en">MAJALAH DIDIK</title>
