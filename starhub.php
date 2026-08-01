@@ -6442,25 +6442,13 @@
     <programme start="20260731180000 +0000" stop="20260731220000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala Citi DC Open (500) QF 1 &amp; 2</title>
     </programme>
-    <programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260731225200 +0000" stop="20260801011000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala Citi DC Open (500) QF 3</title>
     </programme>
-    <programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260801011000 +0000" stop="20260801035200 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala Citi DC Open (500) QF 4</title>
     </programme>
-    <programme start="20260801020000 +0000" stop="20260801023000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Episode 29</title>
-    </programme>
-    <programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mutua Madrid Open</title>
-    </programme>
-    <programme start="20260801030000 +0000" stop="20260801033000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Episode 43</title>
-    </programme>
-    <programme start="20260801033000 +0000" stop="20260801034500 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Show 164</title>
-    </programme>
-    <programme start="20260801034500 +0000" stop="20260801040000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260801035200 +0000" stop="20260801040000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 165</title>
     </programme>
     <programme start="20260801040000 +0000" stop="20260801080000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6827,7 +6815,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260731213000 +0000" stop="20260731220000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>Japan in Focus</title>
     </programme>
     <programme start="20260731220000 +0000" stop="20260731223000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7666,13 +7654,13 @@
     <programme start="20260731133000 +0000" stop="20260731163000 +0000" channel="Asianet Movies.starhub">
         <title>Thudarum</title>
     </programme>
-    <programme start="20260731163000 +0000" stop="20260731193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260731163000 +0000" stop="20260731190500 +0000" channel="Asianet Movies.starhub">
         <title>Bromance</title>
     </programme>
-    <programme start="20260731193000 +0000" stop="20260731213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260731190500 +0000" stop="20260731212000 +0000" channel="Asianet Movies.starhub">
         <title>Kanaka Simhasanam</title>
     </programme>
-    <programme start="20260731213000 +0000" stop="20260731233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260731212000 +0000" stop="20260731232000 +0000" channel="Asianet Movies.starhub">
         <title>Malayali</title>
     </programme>
     <programme start="20260731232000 +0000" stop="20260801013000 +0000" channel="Asianet Movies.starhub">

@@ -8860,17 +8860,11 @@
   <programme start="20260802235000 +0000" stop="20260803003500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Xena V (2)</title>
   </programme>
-  <programme start="20260803003500 +0000" stop="20260803012000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260803003500 +0000" stop="20260803020000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Xena V (3)</title>
   </programme>
-  <programme start="20260803012000 +0000" stop="20260803020500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena V (4)</title>
-  </programme>
-  <programme start="20260803020500 +0000" stop="20260803025000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena V (5)</title>
-  </programme>
-  <programme start="20260803025000 +0000" stop="20260803043500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena V (6)</title>
+  <programme start="20260803020000 +0000" stop="20260803043500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Teleshop</title>
   </programme>
   <programme start="20260803043500 +0000" stop="20260803054000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Xena IV (20)</title>
