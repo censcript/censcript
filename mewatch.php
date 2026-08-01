@@ -43,10 +43,10 @@
     <programme start="20260731204800 +0000" stop="20260801072000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260801072000 +0000" stop="20260801084500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801072000 +0000" stop="20260801083900 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs Sectional Play - MAS vs GGY</title>
     </programme>
-    <programme start="20260801084500 +0000" stop="20260801113500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801083900 +0000" stop="20260801113500 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260801113500 +0000" stop="20260801130000 +0000" channel="Unknown Channel.mewatch">
