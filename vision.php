@@ -448,9 +448,6 @@
 <programme start="20260801154500 +0000" stop="20260801163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260801163000 +0000" stop="20260801181500 +0000" channel="Trans 7.vision">
-<title>Yuni</title>
-</programme>
 <programme start="20260801181500 +0000" stop="20260801190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -531,15 +528,6 @@
 </programme>
 <programme start="20260801103000 +0000" stop="20260801120000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260801120000 +0000" stop="20260801143000 +0000" channel="ANTV.vision">
-<title>Aston Villa Pre-Season</title>
-</programme>
-<programme start="20260801143000 +0000" stop="20260801163000 +0000" channel="ANTV.vision">
-<title>Sundel Bolong 2</title>
-</programme>
-<programme start="20260801163000 +0000" stop="20260801183000 +0000" channel="ANTV.vision">
-<title>Perawan Lembah Wilis</title>
 </programme>
 <programme start="20260801183000 +0000" stop="20260801203000 +0000" channel="ANTV.vision">
 <title>Bioskop Asia</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260801140000 +0000" stop="20260801143000 +0000" channel="TVRI.vision">
 <title>Dunia Dalam Berita</title>
+</programme>
+<programme start="20260801143000 +0000" stop="20260801163000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260801163000 +0000" stop="20260801170000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Malam</title>
+</programme>
+<programme start="20260801170000 +0000" stop="20260801173000 +0000" channel="TVRI.vision">
+<title>Monitor Olahraga</title>
+</programme>
+<programme start="20260801173000 +0000" stop="20260801193000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

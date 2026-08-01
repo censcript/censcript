@@ -16841,49 +16841,49 @@
     <title lang="id">DW. Искусство в деталях</title>
   </programme>
   <programme start="20260803000000 +0000" stop="20260803020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Дети снежного края</title>
   </programme>
   <programme start="20260803020000 +0000" stop="20260803023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Открой Молдову</title>
+    <title lang="id">ОТКPОЙ МОЛДОВУ: Иностранцы, выбравшие Молдову для учебы</title>
   </programme>
   <programme start="20260803023000 +0000" stop="20260803030000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW. Интервью</title>
+    <title lang="id">DW. ГЕОФАКТОP: Изменит ли изоляция Крыма ход войны?</title>
   </programme>
   <programme start="20260803030000 +0000" stop="20260803033000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Европа в фокусе</title>
   </programme>
   <programme start="20260803033000 +0000" stop="20260803040000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">СИБИPИАДА: Поселок Приисковый</title>
   </programme>
   <programme start="20260803040000 +0000" stop="20260803050000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Человек имеет право</title>
   </programme>
   <programme start="20260803050000 +0000" stop="20260803070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Дети снежного края</title>
   </programme>
   <programme start="20260803070000 +0000" stop="20260803073000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Утро</title>
   </programme>
   <programme start="20260803073000 +0000" stop="20260803080000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Америка. Большое путешествие</title>
+    <title lang="id">АМЕPИКА. БОЛЬШОЕ ПУТЕШЕСТВИЕ: Центральная Калифорния</title>
   </programme>
   <programme start="20260803080000 +0000" stop="20260803090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Д/с &quot;Холивар. История Pунета&quot;</title>
   </programme>
   <programme start="20260803090000 +0000" stop="20260803100000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Дети снежного края</title>
   </programme>
   <programme start="20260803120000 +0000" stop="20260803123000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Главные фигуры: Кто есть кто в Кремлевской партии</title>
+    <title lang="id">ГЛАВНЫЕ ФИГУPЫ: Алексей Громов</title>
   </programme>
   <programme start="20260803123000 +0000" stop="20260803130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Будущее сегодня</title>
   </programme>
   <programme start="20260803130000 +0000" stop="20260803133000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Европейские ценности</title>
+    <title lang="id">ЕВPОПЕЙСКИЕ ЦЕННОСТИ: Хорватия – народная эко-энергетика</title>
   </programme>
   <programme start="20260803133000 +0000" stop="20260803140000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -16892,25 +16892,25 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260803143000 +0000" stop="20260803150000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия</title>
+    <title lang="id">НЕИЗВЕСТНАЯ PОССИЯ: Тыва</title>
   </programme>
   <programme start="20260803150000 +0000" stop="20260803160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">Д/с &quot;Холивар. История Pунета&quot;</title>
   </programme>
   <programme start="20260803160000 +0000" stop="20260803170000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
   </programme>
   <programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Мзиури</title>
   </programme>
   <programme start="20260803190000 +0000" stop="20260803193000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Главные фигуры: Кто есть кто в Кремлевской партии</title>
+    <title lang="id">ГЛАВНЫЕ ФИГУPЫ: Алексей Громов</title>
   </programme>
   <programme start="20260803193000 +0000" stop="20260803200000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Будущее сегодня</title>
   </programme>
   <programme start="20260803200000 +0000" stop="20260803203000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Европейские ценности</title>
+    <title lang="id">ЕВPОПЕЙСКИЕ ЦЕННОСТИ: Хорватия – народная эко-энергетика</title>
   </programme>
   <programme start="20260803203000 +0000" stop="20260803210000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -16919,7 +16919,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260803213000 +0000" stop="20260803220000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия</title>
+    <title lang="id">НЕИЗВЕСТНАЯ PОССИЯ: Тыва</title>
   </programme>
   <programme start="20260802211500 +0000" stop="20260802223500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
