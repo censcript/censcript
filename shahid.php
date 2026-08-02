@@ -1888,6 +1888,9 @@
     <programme start="20260803235728 +0000" stop="20260803235959 +0000" channel="49923172117967.shahid">
         <title>Bayn Aleek</title>
     </programme>
+    <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="1007223.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260802000000 +0000" stop="20260802000000 +0000" channel="387251.shahid">
         <title>Embratoriyyet Meem  </title>
     </programme>
@@ -2056,7 +2059,7 @@
     <programme start="20260804000000 +0000" stop="20260803235959 +0000" channel="387251.shahid">
         <title>Qorrat Aynik  </title>
     </programme>
-    <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="1007223.shahid">
+    <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="986024.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260802000000 +0000" stop="20260802000000 +0000" channel="387238.shahid">
@@ -2271,9 +2274,6 @@
     </programme>
     <programme start="20260804000000 +0000" stop="20260803235959 +0000" channel="387238.shahid">
         <title>El Maddah: Ostouret El Nehaya Season 6 Episode 17</title>
-    </programme>
-    <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="986024.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
@@ -6412,9 +6412,6 @@
     <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="946938.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="388566.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260802000000 +0000" stop="20260802000044 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 9 Episode 28</title>
     </programme>
@@ -6551,6 +6548,9 @@
         <title>Bab Al Hara Season 4 Episode 10</title>
     </programme>
     <programme start="20260803124641 +0000" stop="20260803235959 +0000" channel="975435.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="388566.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260802000000 +0000" stop="20260803235959 +0000" channel="49923086914927.shahid">

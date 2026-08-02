@@ -7519,13 +7519,13 @@
     <programme start="20260801133000 +0000" stop="20260801163000 +0000" channel="Asianet Movies.starhub">
         <title>Pulimurugan</title>
     </programme>
-    <programme start="20260801163000 +0000" stop="20260801193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260801163000 +0000" stop="20260801185000 +0000" channel="Asianet Movies.starhub">
         <title>Chunkzz</title>
     </programme>
-    <programme start="20260801193000 +0000" stop="20260801213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260801185000 +0000" stop="20260801213000 +0000" channel="Asianet Movies.starhub">
         <title>Achaammakkuttiyude Achaayan</title>
     </programme>
-    <programme start="20260801213000 +0000" stop="20260801233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260801213000 +0000" stop="20260801231000 +0000" channel="Asianet Movies.starhub">
         <title>Aayudham</title>
     </programme>
     <programme start="20260801231000 +0000" stop="20260802013000 +0000" channel="Asianet Movies.starhub">
