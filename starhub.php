@@ -2206,8 +2206,8 @@
     <programme start="20260802123000 +0000" stop="20260802153000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FN18: Medic vs Rodriguez</title>
     </programme>
-    <programme start="20260802153000 +0000" stop="20260802183000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Mubadala DC Open (500) SF 1 &amp; 2</title>
+    <programme start="20260802153000 +0000" stop="20260802160000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Hail Baja Rally Final Highlights</title>
     </programme>
     <programme start="20260801154500 +0000" stop="20260801173000 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -6313,13 +6313,10 @@
     <programme start="20260801173000 +0000" stop="20260801223000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>YONEX US Open (S300) Finals</title>
     </programme>
-    <programme start="20260801223000 +0000" stop="20260802023000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260801223000 +0000" stop="20260802032300 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala Citi DC Open (500) SF 1 &amp; 2</title>
     </programme>
-    <programme start="20260802023000 +0000" stop="20260802030000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Internazionali BNL d&#039;Italia</title>
-    </programme>
-    <programme start="20260802030000 +0000" stop="20260802040000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260802032300 +0000" stop="20260802040000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Terra Wortmann Open</title>
     </programme>
     <programme start="20260802040000 +0000" stop="20260802090000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -7531,7 +7528,7 @@
     <programme start="20260801213000 +0000" stop="20260801233000 +0000" channel="Asianet Movies.starhub">
         <title>Aayudham</title>
     </programme>
-    <programme start="20260801233000 +0000" stop="20260802013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260801231000 +0000" stop="20260802013000 +0000" channel="Asianet Movies.starhub">
         <title>Alexander The Great</title>
     </programme>
     <programme start="20260802013000 +0000" stop="20260802043000 +0000" channel="Asianet Movies.starhub">
