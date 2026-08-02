@@ -547,6 +547,9 @@
 <programme start="20260802103000 +0000" stop="20260802113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
+<programme start="20260802113000 +0000" stop="20260802140000 +0000" channel="ANTV.vision">
+<title>Bunga Desa</title>
+</programme>
 <programme start="20260802140000 +0000" stop="20260802160000 +0000" channel="ANTV.vision">
 <title>Ranjang Setan</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260802130000 +0000" stop="20260802140000 +0000" channel="TVRI.vision">
 <title>Taman Buaya Music Corner</title>
-</programme>
-<programme start="20260802140000 +0000" stop="20260802143000 +0000" channel="TVRI.vision">
-<title>Dunia Dalam Berita</title>
 </programme>

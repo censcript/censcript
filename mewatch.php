@@ -23,7 +23,7 @@
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260802115000 +0000" stop="20260802140000 +0000" channel="Unknown Channel.mewatch">
-        <title>Netball - Glasgow 2026 Commonwealth Games Gold Medal Match - JAM vs NZL | Medal Ceremony</title>
+        <title>Netball - Glasgow 2026 Commonwealth Games Gold Medal Match - JAM vs NZL</title>
     </programme>
     <programme start="20260802140000 +0000" stop="20260802155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
