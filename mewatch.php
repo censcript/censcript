@@ -25,10 +25,10 @@
     <programme start="20260802160000 +0000" stop="20260802200000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260802200000 +0000" stop="20260802213000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260802200000 +0000" stop="20260802220000 +0000" channel="Unknown Channel.mewatch">
         <title>Closing Ceremony - Glasgow 2026 Commonwealth Games Closing Ceremony - Glasgow 2026 Commonwealth Games</title>
     </programme>
-    <programme start="20260802213000 +0000" stop="20260803155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260802220000 +0000" stop="20260803155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260803160000 +0000" stop="20260804155959 +0000" channel="Unknown Channel.mewatch">
