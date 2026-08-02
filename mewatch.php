@@ -7,10 +7,10 @@
     <programme start="20260801224100 +0000" stop="20260802075000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260802075000 +0000" stop="20260802121500 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260802075000 +0000" stop="20260802113600 +0000" channel="Unknown Channel.mewatch">
         <title>Track Cycling &amp; Para Track Cycling - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Qualifications | Finals | Medal Ceremony</title>
     </programme>
-    <programme start="20260802121500 +0000" stop="20260802135000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260802113600 +0000" stop="20260802135000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260802135000 +0000" stop="20260802165000 +0000" channel="Unknown Channel.mewatch">
@@ -49,10 +49,10 @@
     <programme start="20260801203500 +0000" stop="20260802092600 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260802092600 +0000" stop="20260802120000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260802092600 +0000" stop="20260802113000 +0000" channel="Unknown Channel.mewatch">
         <title>Judo - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Elimination Rounds | Quarter-finals | Repechage | Semi-finals</title>
     </programme>
-    <programme start="20260802120000 +0000" stop="20260802135000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260802113000 +0000" stop="20260802135000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260802135000 +0000" stop="20260802175000 +0000" channel="Unknown Channel.mewatch">

@@ -2585,16 +2585,16 @@
     <title>Quest&#039;s World of Wonder - Seville, Spain</title>
 </programme>
 <programme start="20260802020000 +0000" stop="20260802023000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa</title>
+    <title>Inside Africa - Capital Code Mauritius</title>
 </programme>
 <programme start="20260802023000 +0000" stop="20260802030000 +0000" channel="CNN_HD.virginmediatv">
     <title>African Voices - Gugu Gumede and S&#039;Dumo Mtshali</title>
 </programme>
 <programme start="20260802030000 +0000" stop="20260802033000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Connecting Africa</title>
+    <title>Connecting Africa - Ethiopia&#039;s Economic Transformation</title>
 </programme>
 <programme start="20260802033000 +0000" stop="20260802034500 +0000" channel="CNN_HD.virginmediatv">
-    <title>Marketplace Middle East</title>
+    <title>Marketplace Middle East - Saudi Giga projects + Orbitworks</title>
 </programme>
 <programme start="20260802034500 +0000" stop="20260802040000 +0000" channel="CNN_HD.virginmediatv">
     <title>Marketplace Africa</title>
@@ -2609,7 +2609,7 @@
     <title>CNN Newsroom</title>
 </programme>
 <programme start="20260802053000 +0000" stop="20260802060000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa</title>
+    <title>Inside Africa - Capital Code Mauritius</title>
 </programme>
 <programme start="20260802120000 +0000" stop="20260802130000 +0000" channel="CNN_HD.virginmediatv">
     <title>Inside Politics With Manu Raju</title>
@@ -2627,7 +2627,7 @@
     <title>World Sport</title>
 </programme>
 <programme start="20260802163000 +0000" stop="20260802170000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa</title>
+    <title>Inside Africa - Capital Code Mauritius</title>
 </programme>
 <programme start="20260802170000 +0000" stop="20260802173000 +0000" channel="CNN_HD.virginmediatv">
     <title>African Voices - Gugu Gumede and S&#039;Dumo Mtshali</title>
