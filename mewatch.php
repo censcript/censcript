@@ -46,10 +46,10 @@
     <programme start="20260801193000 +0000" stop="20260801203500 +0000" channel="Unknown Channel.mewatch">
         <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Single Semi-final - GGY vs MAS</title>
     </programme>
-    <programme start="20260801203500 +0000" stop="20260802085000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260801203500 +0000" stop="20260802092600 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260802085000 +0000" stop="20260802120000 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260802092600 +0000" stop="20260802120000 +0000" channel="Unknown Channel.mewatch">
         <title>Judo - Glasgow 2026 Commonwealth Games Men&#039;s &amp; Women&#039;s Elimination Rounds | Quarter-finals | Repechage | Semi-finals</title>
     </programme>
     <programme start="20260802120000 +0000" stop="20260802135000 +0000" channel="Unknown Channel.mewatch">
@@ -64,10 +64,28 @@
     <programme start="20260801181500 +0000" stop="20260802075000 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260802075000 +0000" stop="20260802141500 +0000" channel="Unknown Channel.mewatch">
-        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs | Para Women&#039;s Pairs B6-B8 | Para Men&#039;s Pairs B6-B8 | Women&#039;s Singles - Finals</title>
+    <programme start="20260802075000 +0000" stop="20260802091500 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Men&#039;s Pairs Bronze Medal Match - MAS vs CAN</title>
     </programme>
-    <programme start="20260802141500 +0000" stop="20260802155959 +0000" channel="Unknown Channel.mewatch">
+    <programme start="20260802091500 +0000" stop="20260802092500 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260802092500 +0000" stop="20260802104000 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Para Women&#039;s Pairs B6-B8 Bronze Medal Match - MAS vs SCO</title>
+    </programme>
+    <programme start="20260802104000 +0000" stop="20260802105000 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260802105000 +0000" stop="20260802120500 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Para Men&#039;s Pairs B6-B8 Gold Medal Match - SCO vs ENG</title>
+    </programme>
+    <programme start="20260802120500 +0000" stop="20260802121000 +0000" channel="Unknown Channel.mewatch">
+        <title>No programme streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260802121000 +0000" stop="20260802133500 +0000" channel="Unknown Channel.mewatch">
+        <title>Bowls &amp; Para Bowls - Glasgow 2026 Commonwealth Games Women&#039;s Singles Bronze Medal Match - NFK vs MAS</title>
+    </programme>
+    <programme start="20260802133500 +0000" stop="20260802155959 +0000" channel="Unknown Channel.mewatch">
         <title>No programme streaming LIVE at this moment</title>
     </programme>
     <programme start="20260802160000 +0000" stop="20260802200000 +0000" channel="Unknown Channel.mewatch">
