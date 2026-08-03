@@ -445,13 +445,13 @@
 <programme start="20260803134500 +0000" stop="20260803144500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Hairy Bikers&#039; Bakeation - Italy</title>
 </programme>
-<programme start="20260803144500 +0000" stop="20260803152500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260803144500 +0000" stop="20260803153000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Farmers&#039; Country Showdown - Staffordshire County Show</title>
 </programme>
-<programme start="20260803152500 +0000" stop="20260803161000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260803153000 +0000" stop="20260803161500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Antiques Roadshow - Mansion House</title>
 </programme>
-<programme start="20260803161000 +0000" stop="20260803170000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260803161500 +0000" stop="20260803170000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Flog It! - Manchester 33</title>
 </programme>
 <programme start="20260803170000 +0000" stop="20260803173000 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -3836,7 +3836,7 @@
     <title>Sports Desk</title>
 </programme>
 <programme start="20260803140000 +0000" stop="20260803170000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: The Hundred - Women&#039;s: Welsh Fire v Southern Brave</title>
+    <title>Live: The Hundred - Women&#039;s: Welsh Fire vs. Southern Brave</title>
 </programme>
 <programme start="20260803170000 +0000" stop="20260803173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -4019,7 +4019,7 @@
     <title>The Hundred - Men&#039;s: MI London v Manchester Super Giants</title>
 </programme>
 <programme start="20260803134500 +0000" stop="20260803170000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Live: The Hundred - Women&#039;s: Welsh Fire v Southern Brave</title>
+    <title>Live: The Hundred - Women&#039;s: Welsh Fire vs. Southern Brave</title>
 </programme>
 <programme start="20260803170000 +0000" stop="20260803203000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: The Hundred - Men&#039;s: Welsh Fire v Southern Brave</title>
@@ -4040,10 +4040,10 @@
     <title>Women&#039;s Open, LPGA Golf - Day 4: Highlights</title>
 </programme>
 <programme start="20260803040000 +0000" stop="20260803043000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>School of Golf - Chapter 23: Scary Shots</title>
+    <title>School of Golf</title>
 </programme>
 <programme start="20260803043000 +0000" stop="20260803050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>School of Golf - Chapter 24: Year-End Special</title>
+    <title>School of Golf</title>
 </programme>
 <programme start="20260803050000 +0000" stop="20260803120000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Women&#039;s Open, LPGA Golf - Day 4</title>
@@ -4652,7 +4652,7 @@
     <title>Sports Desk</title>
 </programme>
 <programme start="20260803140000 +0000" stop="20260803170000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: The Hundred - Women&#039;s: Welsh Fire v Southern Brave</title>
+    <title>Live: The Hundred - Women&#039;s: Welsh Fire vs. Southern Brave</title>
 </programme>
 <programme start="20260803170000 +0000" stop="20260803173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
@@ -4835,7 +4835,7 @@
     <title>The Hundred - Men&#039;s: MI London v Manchester Super Giants</title>
 </programme>
 <programme start="20260803134500 +0000" stop="20260803170000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Live: The Hundred - Women&#039;s: Welsh Fire v Southern Brave</title>
+    <title>Live: The Hundred - Women&#039;s: Welsh Fire vs. Southern Brave</title>
 </programme>
 <programme start="20260803170000 +0000" stop="20260803203000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: The Hundred - Men&#039;s: Welsh Fire v Southern Brave</title>
@@ -4856,10 +4856,10 @@
     <title>Women&#039;s Open, LPGA Golf - Day 4: Highlights</title>
 </programme>
 <programme start="20260803040000 +0000" stop="20260803043000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>School of Golf - Chapter 23: Scary Shots</title>
+    <title>School of Golf</title>
 </programme>
 <programme start="20260803043000 +0000" stop="20260803050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>School of Golf - Chapter 24: Year-End Special</title>
+    <title>School of Golf</title>
 </programme>
 <programme start="20260803050000 +0000" stop="20260803120000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Women&#039;s Open, LPGA Golf - Day 4</title>

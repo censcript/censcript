@@ -43,11 +43,8 @@
     <programme start="20260802190000 +0000" stop="20260802200000 +0000" channel="Channel 5.mewatch">
         <title>Junior Bake Off S8 - EP 15</title>
     </programme>
-    <programme start="20260802200000 +0000" stop="20260802213000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260802200000 +0000" stop="20260802213700 +0000" channel="Channel 5.mewatch">
         <title>(Live) Glasgow 2026 Commonwealth Games : Closing Ceremony - Closing Ceremony</title>
-    </programme>
-    <programme start="20260802213000 +0000" stop="20260802213700 +0000" channel="Channel 5.mewatch">
-        <title>Films &amp; Stars - EP 17</title>
     </programme>
     <programme start="20260802213700 +0000" stop="20260802220000 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs S25 - EP 11</title>

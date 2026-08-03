@@ -4421,7 +4421,7 @@
         <title>Connect - Link Pannu Win Pannu</title>
     </programme>
     <programme start="20260802193000 +0000" stop="20260802223000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>November Story</title>
     </programme>
     <programme start="20260802223000 +0000" stop="20260803000000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S11</title>
