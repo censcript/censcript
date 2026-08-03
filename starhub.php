@@ -2162,7 +2162,7 @@
         <title>Leeds United vs Liverpool</title>
     </programme>
     <programme start="20260803150000 +0000" stop="20260803163000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Mubadala DC Open (500) Final</title>
+        <title>MSC Hamburg Ladies Open (250) Final</title>
     </programme>
     <programme start="20260802154500 +0000" stop="20260802164500 +0000" channel="The Filipino Channel HD.starhub">
         <title>Y Speak 2.0</title>
@@ -6289,7 +6289,7 @@
     <programme start="20260802213000 +0000" stop="20260802220000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Highlights Show</title>
     </programme>
-    <programme start="20260802220000 +0000" stop="20260803020000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260802224000 +0000" stop="20260803020000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open (1000) Day 1 R1 Session 2</title>
     </programme>
     <programme start="20260803020000 +0000" stop="20260803023000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6307,11 +6307,11 @@
     <programme start="20260803080000 +0000" stop="20260803100000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Memphis Open (250) Final</title>
     </programme>
-    <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mubadala Citi DC Open (500) Final</title>
+    <programme start="20260803100000 +0000" stop="20260803130000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Mubadala DC Open (500) SF 1 &amp; 2</title>
     </programme>
-    <programme start="20260803120000 +0000" stop="20260803150000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>National Bank Open (1000) Day 1 R1 Session 2</title>
+    <programme start="20260803130000 +0000" stop="20260803150000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Plava Laguna Croatia Open Umag (250) Final</title>
     </programme>
     <programme start="20260803150000 +0000" stop="20260803210000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open (1000) Day 2 R1 Session 1</title>
@@ -7591,10 +7591,10 @@
     <programme start="20260803043000 +0000" stop="20260803073000 +0000" channel="Asianet Movies.starhub">
         <title>Bangalore Days</title>
     </programme>
-    <programme start="20260803073000 +0000" stop="20260803103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260803073000 +0000" stop="20260803103500 +0000" channel="Asianet Movies.starhub">
         <title>Evidam Swargamanu</title>
     </programme>
-    <programme start="20260803103000 +0000" stop="20260803133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260803103500 +0000" stop="20260803133000 +0000" channel="Asianet Movies.starhub">
         <title>Bhramam</title>
     </programme>
     <programme start="20260803133000 +0000" stop="20260803163000 +0000" channel="Asianet Movies.starhub">

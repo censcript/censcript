@@ -4742,40 +4742,40 @@
     <title>Cruel War</title>
 </programme>
 <programme start="20260802213000 +0000" stop="20260802230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20260802230000 +0000" stop="20260803010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260802230000 +0000" stop="20260803013000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260803010000 +0000" stop="20260803030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260803013000 +0000" stop="20260803030000 +0000" channel="Indosiar.mncvision">
+    <title>Dilahirkan Lalu Disangkal</title>
 </programme>
 <programme start="20260803030000 +0000" stop="20260803040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20260803040000 +0000" stop="20260803043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260803043000 +0000" stop="20260803050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20260803050000 +0000" stop="20260803063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Rahasia Kelam Cinta Masa Lalu</title>
 </programme>
 <programme start="20260803063000 +0000" stop="20260803080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Aku Dinikahi Hanya Untuk...</title>
 </programme>
 <programme start="20260803080000 +0000" stop="20260803100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Teror Cinta Yang Meninggalkanku</title>
 </programme>
 <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20260803120000 +0000" stop="20260803160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S8</title>
 </programme>
 <programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>The Comeback</title>
 </programme>
 <programme start="20260802170000 +0000" stop="20260802190000 +0000" channel="Indosiar HD.mncvision">
     <title>New Police Story</title>
@@ -4787,40 +4787,40 @@
     <title>Cruel War</title>
 </programme>
 <programme start="20260802213000 +0000" stop="20260802230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20260802230000 +0000" stop="20260803010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260802230000 +0000" stop="20260803013000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260803010000 +0000" stop="20260803030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260803013000 +0000" stop="20260803030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Dilahirkan Lalu Disangkal</title>
 </programme>
 <programme start="20260803030000 +0000" stop="20260803040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20260803040000 +0000" stop="20260803043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260803043000 +0000" stop="20260803050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20260803050000 +0000" stop="20260803063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Rahasia Kelam Cinta Masa Lalu</title>
 </programme>
 <programme start="20260803063000 +0000" stop="20260803080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Aku Dinikahi Hanya Untuk...</title>
 </programme>
 <programme start="20260803080000 +0000" stop="20260803100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Teror Cinta Yang Meninggalkanku</title>
 </programme>
 <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20260803120000 +0000" stop="20260803160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S8</title>
 </programme>
 <programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>The Comeback</title>
 </programme>
 <programme start="20260802191500 +0000" stop="20260802201500 +0000" channel="iNews.mncvision">
     <title>Special Report</title>
@@ -6602,7 +6602,7 @@
     <title>Hiyokko, Ep 1</title>
 </programme>
 <programme start="20260803034500 +0000" stop="20260803040000 +0000" channel="NHK World Premium.mncvision">
-    <title>The Scent Of The Wind</title>
+    <title>The Scent Of The Wind, Ep 91</title>
 </programme>
 <programme start="20260803040000 +0000" stop="20260803040500 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
@@ -6626,7 +6626,7 @@
     <title>Fountain Of Ancient Wisdom</title>
 </programme>
 <programme start="20260803074000 +0000" stop="20260803081000 +0000" channel="NHK World Premium.mncvision">
-    <title>NHK World Premium</title>
+    <title>NHK Academia: Odagiri Hiro</title>
 </programme>
 <programme start="20260803081000 +0000" stop="20260803082000 +0000" channel="NHK World Premium.mncvision">
     <title>Fun With Japanese</title>
@@ -6647,7 +6647,7 @@
     <title>Kid&#039;s Discovery</title>
 </programme>
 <programme start="20260803092500 +0000" stop="20260803095500 +0000" channel="NHK World Premium.mncvision">
-    <title>NHK World Premium</title>
+    <title>Natsui Itsuki&#039;s Haiku Trip!</title>
 </programme>
 <programme start="20260803095500 +0000" stop="20260803100000 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
