@@ -3266,7 +3266,7 @@
   </programme>
   <programme start="20260803020500 +0000" stop="20260803023500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Severe Case Decoded</title>
-    <desc lang="en">As the saying goes, "Reading ten thousand books is not as good as traveling ten thousand miles." Wayne Lai and Mak Cheung-ching embark on another journey, continuing their exploration of the magnificent landscapes depicted in Jin Yong's novels and delving into the martial arts world of Chinese history. They travel along the Yangtze and Yellow River basins, traversing Sichuan, Zhejiang, Henan, and Shanxi provinces, climbing Mount Emei's Golden Summit, visiting Baidi City, the Yue Fei Temple in Zhuxian Town, and exploring the Shaolin Temple on Mount Song. They experienced the weight of historical sites and savored local delicacies. The martial arts world is not only a stage for swords and shadows, but also a realm of intertwined human relationships. During their journey, they also reunited with Michelle Yim, Benny Chan, Louis Fan, and Jackie Lui, reminiscing about their past collaborations and laughing about bygone days.</desc>
+    <desc lang="en">The program focuses on various serious illnesses, explaining their causes, pathological mechanisms, latest treatment options, and prevention methods in an accessible way. Shaun Tam, Hera Chan, ,Kirby Lam and Carina Leung become investigators in the "Critical Care Unit," searching far and wide for clues, evidence, and witnesses to unravel the mysteries surrounding various deadly diseases. Senior doctors and scholars from major public and private hospitals in Hong Kong, as well as local university medical schools, combine real case studies and medical images to make complex medical knowledge relatable, enabling the public to gain a more comprehensive understanding of the diagnosis and treatment of serious illnesses, reducing misunderstandings and fear, and encouraging Hong Kong residents to get early checkups and timely treatment to safeguard their future health.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -3329,7 +3329,7 @@
   </programme>
   <programme start="20260803073500 +0000" stop="20260803080500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Severe Case Decoded</title>
-    <desc lang="en">As the saying goes, "Reading ten thousand books is not as good as traveling ten thousand miles." Wayne Lai and Mak Cheung-ching embark on another journey, continuing their exploration of the magnificent landscapes depicted in Jin Yong's novels and delving into the martial arts world of Chinese history. They travel along the Yangtze and Yellow River basins, traversing Sichuan, Zhejiang, Henan, and Shanxi provinces, climbing Mount Emei's Golden Summit, visiting Baidi City, the Yue Fei Temple in Zhuxian Town, and exploring the Shaolin Temple on Mount Song. They experienced the weight of historical sites and savored local delicacies. The martial arts world is not only a stage for swords and shadows, but also a realm of intertwined human relationships. During their journey, they also reunited with Michelle Yim, Benny Chan, Louis Fan, and Jackie Lui, reminiscing about their past collaborations and laughing about bygone days.</desc>
+    <desc lang="en">The program focuses on various serious illnesses, explaining their causes, pathological mechanisms, latest treatment options, and prevention methods in an accessible way. Shaun Tam, Hera Chan, ,Kirby Lam and Carina Leung become investigators in the "Critical Care Unit," searching far and wide for clues, evidence, and witnesses to unravel the mysteries surrounding various deadly diseases. Senior doctors and scholars from major public and private hospitals in Hong Kong, as well as local university medical schools, combine real case studies and medical images to make complex medical knowledge relatable, enabling the public to gain a more comprehensive understanding of the diagnosis and treatment of serious illnesses, reducing misunderstandings and fear, and encouraging Hong Kong residents to get early checkups and timely treatment to safeguard their future health.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -3383,17 +3383,24 @@
   </programme>
   <programme start="20260803123500 +0000" stop="20260803133500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Mrs. Revenge</title>
-    <desc lang="en">Human desires can drive us to transform ourselves. However, when desires get out of line due to pure greed for money and power, or even fanciful lust, so much so that whimsical imaginings are infinitely exaggerated. And unintentionally, you just fall into the abyss of moral dilemma and commit all kinds of Deadly Sins. Crime Unit, New Territories East investigates successive cases, including Faceless Corpse, Stone Coffin, $100 Million Motive for Murder, Dangerous Game, Dirty Bullet and Terrifying Lover. Perplexing clues and tangled relationships become the foundation of a series of unbelievable mysteries, revealing the baffling dark side of human nature.</desc>
+    <desc lang="en">Kind-hearted Hang-yu (Samantha Ko) suffers from some terminal illness as she just exists under the tyranny of her husband Sze Kai-wai (Jonathan Cheung). She catches her husband having an affair with her only buddy Poon Suet-man (Rosita Kwok), and while arguing, she is pushed into the road and tragically hit by a car. However, Hang-yu abruptly wakes up and realizes everything seems to be just a dream. But as the scenes in her dream come true one after another, she thinks this might be a premonition. To rewrite destiny, Hang-yu is determined to turn the bad luck around in her dream. Hang-yu not only wants to get rid of that scumbag and her fake buddy, but also tries to bring the two together so that Suet-man can “take over” her original misfortune. Moreover, she makes good use of her dream memories and undergoes a glamorous makeover to strive for success in the workplace. She also gradually develops romantic feelings for her boss Yip Ka-him (Kenneth Ma), with whom she is fighting side by side, and eventually finds happiness!</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260803133500 +0000" stop="20260803150500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260803133500 +0000" stop="20260803143500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Inner Eye</title>
     <desc lang="en">When “The Inner Eye “follows Shenzhen lawyer Tang Yingying as she handles a series of controversial cases and gradually transforms from someone driven by victory and profit into a lawyer who rediscovers her professional conscience. Through cases involving sexual assault allegations, inheritance disputes, emotional and medical conflicts, domestic violence, and public opinion against lawyers, she witnesses the darkness and vulnerability of human nature. As the lives of Dai Peilin, Lin Xiaoyun, Kang Jun, Fang Weian and others intertwine with hers, Tang learns to “cover her eyes” and listen to her inner sense of justice and integrity, ultimately finding her own rebirth in law, love and life.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.29.</episode-num>
     <episode-num system="onscreen">S1E30</episode-num>
+  </programme>
+  <programme start="20260803143500 +0000" stop="20260803150500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Severe Case Decoded</title>
+    <desc lang="en">The program focuses on various serious illnesses, explaining their causes, pathological mechanisms, latest treatment options, and prevention methods in an accessible way. Shaun Tam, Hera Chan, ,Kirby Lam and Carina Leung become investigators in the "Critical Care Unit," searching far and wide for clues, evidence, and witnesses to unravel the mysteries surrounding various deadly diseases. Senior doctors and scholars from major public and private hospitals in Hong Kong, as well as local university medical schools, combine real case studies and medical images to make complex medical knowledge relatable, enabling the public to gain a more comprehensive understanding of the diagnosis and treatment of serious illnesses, reducing misunderstandings and fear, and encouraging Hong Kong residents to get early checkups and timely treatment to safeguard their future health.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260803150500 +0000" stop="20260803152000 +0000" channel="tvbjade.unifitv">
     <title lang="en">EXTRA</title>
@@ -15668,22 +15675,17 @@
     <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260803054000 +0000" stop="20260803060000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: 2000 Premier League Goals - 2012/13</title>
-    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260803060000 +0000" stop="20260803063000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260803054000 +0000" stop="20260803061000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Champions League Mini - Man City vs Galatasaray - MD8</title>
     <desc lang="en">Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Puskas Arena, Budapest</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260803063000 +0000" stop="20260803070000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260803061000 +0000" stop="20260803064000 +0000" channel="beinsports3.unifitv">
     <title lang="en">MUTV: Treble Twenty - Man Utd vs LKS Lodz</title>
     <desc lang="en">A series to mark Manchester United's incredible Treble campaign of 1998/99 winning Premier League, UEFA Champions League and FA Cup.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260803070000 +0000" stop="20260803100000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260803064000 +0000" stop="20260803100000 +0000" channel="beinsports3.unifitv">
     <title lang="en">ONE Friday Fights - OFF 164</title>
     <desc lang="en">A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
     <category lang="en">Sports</category>

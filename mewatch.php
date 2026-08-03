@@ -46,8 +46,11 @@
     <programme start="20260802200000 +0000" stop="20260802213000 +0000" channel="Channel 5.mewatch">
         <title>(Live) Glasgow 2026 Commonwealth Games : Closing Ceremony - Closing Ceremony</title>
     </programme>
-    <programme start="20260802213000 +0000" stop="20260802220000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260802213000 +0000" stop="20260802213700 +0000" channel="Channel 5.mewatch">
         <title>Films &amp; Stars - EP 17</title>
+    </programme>
+    <programme start="20260802213700 +0000" stop="20260802220000 +0000" channel="Channel 5.mewatch">
+        <title>Just For Laughs S25 - EP 11</title>
     </programme>
     <programme start="20260802220000 +0000" stop="20260802223000 +0000" channel="Channel 5.mewatch">
         <title>Yu-Gi-Oh! Duel Monsters - EP 8</title>
@@ -163,10 +166,10 @@
     <programme start="20260803110000 +0000" stop="20260803113000 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S42 - EP 175</title>
     </programme>
-    <programme start="20260803113000 +0000" stop="20260803123000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260803113000 +0000" stop="20260803122500 +0000" channel="Channel 5.mewatch">
         <title>Beat the Chasers S7 - EP 1</title>
     </programme>
-    <programme start="20260803123000 +0000" stop="20260803130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260803122500 +0000" stop="20260803130000 +0000" channel="Channel 5.mewatch">
         <title>Glasgow 2026 Commonwealth Games : Summary at the Games</title>
     </programme>
     <programme start="20260803130000 +0000" stop="20260803133000 +0000" channel="Channel 5.mewatch">
@@ -529,11 +532,8 @@
     <programme start="20260803150000 +0000" stop="20260803153000 +0000" channel="Vasantham.mewatch">
         <title>Mellisai Hits S3 - EP 15</title>
     </programme>
-    <programme start="20260803153000 +0000" stop="20260803160000 +0000" channel="Vasantham.mewatch">
+    <programme start="20260803153000 +0000" stop="20260803161500 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
-    </programme>
-    <programme start="20260803160000 +0000" stop="20260804010000 +0000" channel="Vasantham.mewatch">
-        <title>End of Transmission</title>
     </programme>
     <programme start="20260802160000 +0000" stop="20260802160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>

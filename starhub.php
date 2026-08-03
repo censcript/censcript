@@ -1660,16 +1660,13 @@
     <programme start="20260803035000 +0000" stop="20260803054000 +0000" channel="beIN Sports 3.starhub">
         <title>Women&#039;s Super League 2025/26: Chelsea vs Leicester</title>
     </programme>
-    <programme start="20260803054000 +0000" stop="20260803060000 +0000" channel="beIN Sports 3.starhub">
-        <title>2012/13</title>
-    </programme>
-    <programme start="20260803060000 +0000" stop="20260803063000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260803054000 +0000" stop="20260803061000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - UEFA Champions League 2025/26: Man City vs Galatasaray - MD8</title>
     </programme>
-    <programme start="20260803063000 +0000" stop="20260803070000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260803061000 +0000" stop="20260803064000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV: Treble Twenty Man Utd vs LKS Lodz</title>
     </programme>
-    <programme start="20260803070000 +0000" stop="20260803100000 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260803064000 +0000" stop="20260803100000 +0000" channel="beIN Sports 3.starhub">
         <title>ONE Friday Fights 2026: OFF 164</title>
     </programme>
     <programme start="20260803100000 +0000" stop="20260803103000 +0000" channel="beIN Sports 3.starhub">
@@ -6280,14 +6277,8 @@
     <programme start="20260803150100 +0000" stop="20260803170000 +0000" channel="TV5MONDE HD.starhub">
         <title>La (Tres) Grande Evasion</title>
     </programme>
-    <programme start="20260802150000 +0000" stop="20260802210000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260802150000 +0000" stop="20260802224000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open (1000) Day 1 R1 Session 1</title>
-    </programme>
-    <programme start="20260802210000 +0000" stop="20260802213000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Episode 29</title>
-    </programme>
-    <programme start="20260802213000 +0000" stop="20260802220000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Highlights Show</title>
     </programme>
     <programme start="20260802224000 +0000" stop="20260803020000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open (1000) Day 1 R1 Session 2</title>
