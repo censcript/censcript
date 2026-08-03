@@ -565,9 +565,6 @@
 <programme start="20260803160000 +0000" stop="20260803180000 +0000" channel="ANTV.vision">
 <title>Misteri Gunung Merapi</title>
 </programme>
-<programme start="20260803180000 +0000" stop="20260803190000 +0000" channel="ANTV.vision">
-<title>King Xian&#039;s Worm Valley Of...</title>
-</programme>
 <programme start="20260803190000 +0000" stop="20260803203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260803090000 +0000" stop="20260803090300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260803090300 +0000" stop="20260803110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

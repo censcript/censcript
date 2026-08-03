@@ -17003,7 +17003,7 @@
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260805020000 +0000" stop="20260805023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальная история</title>
+    <title lang="id">Наизнанку</title>
   </programme>
   <programme start="20260805023000 +0000" stop="20260805030000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. В отличной форме</title>

@@ -4048,8 +4048,14 @@
 <programme start="20260803050000 +0000" stop="20260803120000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Women&#039;s Open, LPGA Golf - Day 4</title>
 </programme>
-<programme start="20260803120000 +0000" stop="20260803140000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260803120000 +0000" stop="20260803131000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>The Greatest Solheim Cup</title>
+</programme>
+<programme start="20260803131000 +0000" stop="20260803135000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Chronicles of a Champion Golfer - Padraig Harrington</title>
+</programme>
+<programme start="20260803135000 +0000" stop="20260803140000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>McIlroy: Evolution of a Champion</title>
 </programme>
 <programme start="20260803140000 +0000" stop="20260803150000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Solheim Cup Captain&#039;s Picks - 2026</title>
@@ -4349,7 +4355,7 @@
     <title>Irish Racing Replay</title>
 </programme>
 <programme start="20260802233000 +0000" stop="20260803020000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Replayed - Pre-Season Friendly: Snapdragon Cup - Manchester United v Atlético Madrid</title>
+    <title>The Match Replayed - The Match Replayed: Snapdragon Cup: v Atletico de Madrid</title>
 </programme>
 <programme start="20260803020000 +0000" stop="20260803023000 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington Podcast - Scholars Celebration</title>
@@ -4858,8 +4864,14 @@
 <programme start="20260803050000 +0000" stop="20260803120000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Women&#039;s Open, LPGA Golf - Day 4</title>
 </programme>
-<programme start="20260803120000 +0000" stop="20260803140000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260803120000 +0000" stop="20260803131000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>The Greatest Solheim Cup</title>
+</programme>
+<programme start="20260803131000 +0000" stop="20260803135000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Chronicles of a Champion Golfer - Padraig Harrington</title>
+</programme>
+<programme start="20260803135000 +0000" stop="20260803140000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>McIlroy: Evolution of a Champion</title>
 </programme>
 <programme start="20260803140000 +0000" stop="20260803150000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Solheim Cup Captain&#039;s Picks - 2026</title>
@@ -6313,7 +6325,10 @@
 <programme start="20260802175800 +0000" stop="20260803015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260803015800 +0000" stop="20260803060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260803015800 +0000" stop="20260803050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260803050000 +0000" stop="20260803060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260803115000 +0000" stop="20260803120500 +0000" channel="CBBC.virginmediatv">
