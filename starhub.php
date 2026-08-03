@@ -3565,14 +3565,8 @@
     <programme start="20260803025500 +0000" stop="20260803030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260803030000 +0000" stop="20260803032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260803030000 +0000" stop="20260803033000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260803032000 +0000" stop="20260803032800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Information Worth Knowing from the News Commentator Bureau</title>
-    </programme>
-    <programme start="20260803032800 +0000" stop="20260803033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260803033000 +0000" stop="20260803034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Hiyokko&quot; Encore Ep. 1 (New)</title>
@@ -3580,10 +3574,10 @@
     <programme start="20260803034500 +0000" stop="20260803040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 91 (R)</title>
     </programme>
-    <programme start="20260803040000 +0000" stop="20260803040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260803040000 +0000" stop="20260803041000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260803040500 +0000" stop="20260803055000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260803041000 +0000" stop="20260803055000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Around Japan</title>
     </programme>
     <programme start="20260803055000 +0000" stop="20260803055500 +0000" channel="NHK World Premium HD.starhub">
@@ -3628,17 +3622,14 @@
     <programme start="20260803095500 +0000" stop="20260803100000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260803100000 +0000" stop="20260803103000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260803100000 +0000" stop="20260803103200 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 7 (B)</title>
     </programme>
-    <programme start="20260803103000 +0000" stop="20260803105700 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260803103200 +0000" stop="20260803105900 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up</title>
     </programme>
-    <programme start="20260803105700 +0000" stop="20260803114300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Ken Naoko in Chigasaki City, Kanagawa Prefecture&quot; Part 2</title>
-    </programme>
-    <programme start="20260803114300 +0000" stop="20260803114500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20260803105900 +0000" stop="20260803114500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Tsurube&#039;s Salute to Families&quot;Ken Naoko in Chigasaki City,Kanagawa Prefecture&quot;Part 2</title>
     </programme>
     <programme start="20260803114500 +0000" stop="20260803120000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 845</title>
@@ -7804,7 +7795,7 @@
     <programme start="20260803133000 +0000" stop="20260803140000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260803140000 +0000" stop="20260803162000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260803140000 +0000" stop="20260803160000 +0000" channel="Dragon TV.starhub">
         <title>Overtime no more</title>
     </programme>
     <programme start="20260802160000 +0000" stop="20260802163000 +0000" channel="Travelxp HD.starhub">

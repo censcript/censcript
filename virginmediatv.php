@@ -1619,7 +1619,7 @@
     <title>The Daily Show - Episode 95</title>
 </programme>
 <programme start="20260803033000 +0000" stop="20260803035500 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>The Daily Show - Episode 96</title>
+    <title>The Daily Show - Theo Baker</title>
 </programme>
 <programme start="20260803035500 +0000" stop="20260803041500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>Mike Judge&#039;s Beavis and Butt-Head - Metal Detector &amp; Too Big to Fall</title>
@@ -3820,7 +3820,7 @@
 <programme start="20260803175000 +0000" stop="20260803200000 +0000" channel="Film4_HD.virginmediatv">
     <title>The League of Extraordinary Gentlemen</title>
 </programme>
-<programme start="20260802230000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260802210000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 1</title>
 </programme>
 <programme start="20260803030000 +0000" stop="20260803040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4228,7 +4228,7 @@
 <programme start="20260803170000 +0000" stop="20260803180000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Women&#039;s Open, LPGA Golf - Day 4: Highlights</title>
 </programme>
-<programme start="20260802230000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260802210000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 1</title>
 </programme>
 <programme start="20260803030000 +0000" stop="20260803031500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -4246,8 +4246,8 @@
 <programme start="20260803040000 +0000" stop="20260803050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Nordea Open 2026 - Final</title>
 </programme>
-<programme start="20260803050000 +0000" stop="20260803070000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Washington DC Open 2026 - WTA Final</title>
+<programme start="20260803050000 +0000" stop="20260803063000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: ATP &amp; WTA Washington DC Open 2026 - WTA Semi-Finals</title>
 </programme>
 <programme start="20260803120000 +0000" stop="20260803133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 1</title>
@@ -4255,8 +4255,11 @@
 <programme start="20260803133000 +0000" stop="20260803150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 1</title>
 </programme>
-<programme start="20260803150000 +0000" stop="20260803230000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260803150000 +0000" stop="20260803160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 2</title>
+</programme>
+<programme start="20260803160000 +0000" stop="20260803190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live Tennis: ATP &amp; WTA Washington DC Open 2026 - Finals</title>
 </programme>
 <programme start="20260802190000 +0000" stop="20260803010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Stateside</title>
@@ -4294,13 +4297,13 @@
 <programme start="20260803054500 +0000" stop="20260803064500 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260803120000 +0000" stop="20260803124500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260803114500 +0000" stop="20260803123000 +0000" channel="Racing_UK.virginmediatv">
     <title>Bloodstock Files</title>
 </programme>
-<programme start="20260803124500 +0000" stop="20260803131500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260803123000 +0000" stop="20260803130000 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260803131500 +0000" stop="20260803164500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260803130000 +0000" stop="20260803164500 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260803164500 +0000" stop="20260803171500 +0000" channel="Racing_UK.virginmediatv">
@@ -4333,13 +4336,13 @@
 <programme start="20260803054500 +0000" stop="20260803064500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260803120000 +0000" stop="20260803124500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260803114500 +0000" stop="20260803123000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Bloodstock Files</title>
 </programme>
-<programme start="20260803124500 +0000" stop="20260803131500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260803123000 +0000" stop="20260803130000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260803131500 +0000" stop="20260803164500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260803130000 +0000" stop="20260803164500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260803164500 +0000" stop="20260803171500 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -4486,13 +4489,10 @@
 <programme start="20260803050000 +0000" stop="20260803060000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Commonwealth Games 2026 - Day 10</title>
 </programme>
-<programme start="20260803113000 +0000" stop="20260803123000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
-</programme>
-<programme start="20260803123000 +0000" stop="20260803133000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260803120000 +0000" stop="20260803130000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Test Cricket - 2nd Test, Day 1: West Indies v Pakistan</title>
 </programme>
-<programme start="20260803133000 +0000" stop="20260803220000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260803130000 +0000" stop="20260803220000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 2: West Indies v Pakistan</title>
 </programme>
 <programme start="20260803000000 +0000" stop="20260803010000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -4558,8 +4558,11 @@
 <programme start="20260803170000 +0000" stop="20260803183000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Australian Rules - Essendon v Adelaide Crows</title>
 </programme>
-<programme start="20260802230000 +0000" stop="20260803010000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>UEFA Conference League - Final: Crystal Palace v Rayo Vallecano</title>
+<programme start="20260802222500 +0000" stop="20260803003000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>Live: Copa do Brasil Football - Round of 16, 1st Leg: Internacional v Corinthians</title>
+</programme>
+<programme start="20260803003000 +0000" stop="20260803010000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>Football&#039;s Greatest - Episode 4</title>
 </programme>
 <programme start="20260803010000 +0000" stop="20260803013000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>Football&#039;s Greatest - Episode 5</title>
@@ -4633,7 +4636,7 @@
 <programme start="20260803173000 +0000" stop="20260803193000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
     <title>Campeonato Brasileiro - Corinthians v Athletico Paranaense</title>
 </programme>
-<programme start="20260802230000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260802210000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 1</title>
 </programme>
 <programme start="20260803030000 +0000" stop="20260803040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -5041,7 +5044,7 @@
 <programme start="20260803170000 +0000" stop="20260803180000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Women&#039;s Open, LPGA Golf - Day 4: Highlights</title>
 </programme>
-<programme start="20260802230000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260802210000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 1</title>
 </programme>
 <programme start="20260803030000 +0000" stop="20260803031500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
@@ -5059,8 +5062,8 @@
 <programme start="20260803040000 +0000" stop="20260803050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Nordea Open 2026 - Final</title>
 </programme>
-<programme start="20260803050000 +0000" stop="20260803070000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Washington DC Open 2026 - WTA Final</title>
+<programme start="20260803050000 +0000" stop="20260803063000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: ATP &amp; WTA Washington DC Open 2026 - WTA Semi-Finals</title>
 </programme>
 <programme start="20260803120000 +0000" stop="20260803133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 1</title>
@@ -5068,8 +5071,11 @@
 <programme start="20260803133000 +0000" stop="20260803150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 1</title>
 </programme>
-<programme start="20260803150000 +0000" stop="20260803230000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260803150000 +0000" stop="20260803160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 2</title>
+</programme>
+<programme start="20260803160000 +0000" stop="20260803190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live Tennis: ATP &amp; WTA Washington DC Open 2026 - Finals</title>
 </programme>
 <programme start="20260803000000 +0000" stop="20260803010000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>F1 Explained</title>
@@ -5173,13 +5179,10 @@
 <programme start="20260803050000 +0000" stop="20260803060000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Commonwealth Games 2026 - Day 10</title>
 </programme>
-<programme start="20260803113000 +0000" stop="20260803123000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
-</programme>
-<programme start="20260803123000 +0000" stop="20260803133000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260803120000 +0000" stop="20260803130000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Test Cricket - 2nd Test, Day 1: West Indies v Pakistan</title>
 </programme>
-<programme start="20260803133000 +0000" stop="20260803220000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260803130000 +0000" stop="20260803220000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 2: West Indies v Pakistan</title>
 </programme>
 <programme start="20260803000000 +0000" stop="20260803010000 +0000" channel="TNT_Sports_3.virginmediatv">
@@ -5245,8 +5248,11 @@
 <programme start="20260803170000 +0000" stop="20260803183000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Australian Rules - Essendon v Adelaide Crows</title>
 </programme>
-<programme start="20260802230000 +0000" stop="20260803010000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>UEFA Conference League - Final: Crystal Palace v Rayo Vallecano</title>
+<programme start="20260802222500 +0000" stop="20260803003000 +0000" channel="Premier_Sports_1.virginmediatv">
+    <title>Live: Copa do Brasil Football - Round of 16, 1st Leg: Internacional v Corinthians</title>
+</programme>
+<programme start="20260803003000 +0000" stop="20260803010000 +0000" channel="Premier_Sports_1.virginmediatv">
+    <title>Football&#039;s Greatest - Episode 4</title>
 </programme>
 <programme start="20260803010000 +0000" stop="20260803013000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>Football&#039;s Greatest - Episode 5</title>

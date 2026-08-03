@@ -2539,9 +2539,6 @@
     <programme start="20260803000000 +0000" stop="20260804235959 +0000" channel="388566.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260803000000 +0000" stop="20260804235959 +0000" channel="946938.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260803000000 +0000" stop="20260803000500 +0000" channel="862837.shahid">
         <title>Akhbar Asharq</title>
     </programme>
@@ -2877,6 +2874,9 @@
     </programme>
     <programme start="20260805000000 +0000" stop="20260804235959 +0000" channel="862837.shahid">
         <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20260803000000 +0000" stop="20260804235959 +0000" channel="946938.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260803000000 +0000" stop="20260803010036 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 5 Episode 16</title>

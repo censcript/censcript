@@ -2318,55 +2318,55 @@
     <title>CGTN Documentary</title>
 </programme>
 <programme start="20260803053000 +0000" stop="20260803060000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>In Search Of...: Rice, Ep 5</title>
 </programme>
 <programme start="20260803060000 +0000" stop="20260803070000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Snacking Away Around China</title>
 </programme>
 <programme start="20260803070000 +0000" stop="20260803073000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Stretching The Limits S4, Ep 7</title>
 </programme>
 <programme start="20260803073000 +0000" stop="20260803080000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Ancient Fashion Makes...</title>
 </programme>
 <programme start="20260803080000 +0000" stop="20260803090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Grottoes Of China, Ep 1</title>
 </programme>
 <programme start="20260803090000 +0000" stop="20260803093000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Land So Rich In Beauty, Ep 2</title>
 </programme>
 <programme start="20260803093000 +0000" stop="20260803100000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Silk Road&#039;s New Air Hub, Ep 2</title>
 </programme>
 <programme start="20260803100000 +0000" stop="20260803110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Symphony Across The Continent</title>
 </programme>
 <programme start="20260803110000 +0000" stop="20260803113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Tigers In The Sky, Ep 2</title>
 </programme>
 <programme start="20260803113000 +0000" stop="20260803120000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>In Search Of...: Rice, Ep 5</title>
 </programme>
 <programme start="20260803120000 +0000" stop="20260803130000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Snacking Away Around China</title>
 </programme>
 <programme start="20260803130000 +0000" stop="20260803133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Stretching The Limits S4, Ep 7</title>
 </programme>
 <programme start="20260803133000 +0000" stop="20260803140000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Ancient Fashion Makes...</title>
 </programme>
 <programme start="20260803140000 +0000" stop="20260803150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Grottoes Of China, Ep 1</title>
 </programme>
 <programme start="20260803150000 +0000" stop="20260803153000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Land So Rich In Beauty, Ep 2</title>
 </programme>
 <programme start="20260803153000 +0000" stop="20260803160000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Silk Road&#039;s New Air Hub, Ep 2</title>
 </programme>
 <programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Symphony Across The Continent</title>
 </programme>
 <programme start="20260802170000 +0000" stop="20260802180000 +0000" channel="Channel News Asia.mncvision">
     <title>Insight, Ep 11</title>
@@ -6646,17 +6646,14 @@
 <programme start="20260803095500 +0000" stop="20260803100000 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
-<programme start="20260803100000 +0000" stop="20260803103000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260803100000 +0000" stop="20260803103200 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News 7</title>
 </programme>
-<programme start="20260803103000 +0000" stop="20260803105700 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260803103200 +0000" stop="20260803105900 +0000" channel="NHK World Premium.mncvision">
     <title>Today&#039;s Close-Up</title>
 </programme>
-<programme start="20260803105700 +0000" stop="20260803114300 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260803105900 +0000" stop="20260803114500 +0000" channel="NHK World Premium.mncvision">
     <title>Tsurube&#039;s Salute To Families</title>
-</programme>
-<programme start="20260803114300 +0000" stop="20260803114500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
 </programme>
 <programme start="20260803114500 +0000" stop="20260803120000 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News</title>
@@ -6664,8 +6661,11 @@
 <programme start="20260803120000 +0000" stop="20260803130000 +0000" channel="NHK World Premium.mncvision">
     <title>News Watch 9</title>
 </programme>
-<programme start="20260803130000 +0000" stop="20260803133000 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260803130000 +0000" stop="20260803134500 +0000" channel="NHK World Premium.mncvision">
     <title>Fountain Of Ancient Wisdom</title>
+</programme>
+<programme start="20260803134500 +0000" stop="20260803141500 +0000" channel="NHK World Premium.mncvision">
+    <title>Ramen Japan</title>
 </programme>
 <programme start="20260802170000 +0000" stop="20260802172500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Santiago Of The Seas</title>
@@ -9140,82 +9140,79 @@
     <title>The Glorious My Revenge</title>
 </programme>
 <programme start="20260802170000 +0000" stop="20260802173000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Sport Style</title>
 </programme>
-<programme start="20260802173000 +0000" stop="20260802190000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260802173000 +0000" stop="20260802183000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
 </programme>
-<programme start="20260802190000 +0000" stop="20260802200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260802183000 +0000" stop="20260802200000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260802200000 +0000" stop="20260802203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260802203000 +0000" stop="20260802210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20260802210000 +0000" stop="20260802213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2</title>
 </programme>
 <programme start="20260802213000 +0000" stop="20260802230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi</title>
 </programme>
 <programme start="20260802230000 +0000" stop="20260802233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2</title>
 </programme>
 <programme start="20260802233000 +0000" stop="20260803013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Pagi</title>
 </programme>
 <programme start="20260803013000 +0000" stop="20260803020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Hidup Sehat</title>
 </programme>
 <programme start="20260803020000 +0000" stop="20260803023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260803023000 +0000" stop="20260803033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260803033000 +0000" stop="20260803040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan</title>
 </programme>
 <programme start="20260803040000 +0000" stop="20260803053000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Siang</title>
 </programme>
 <programme start="20260803053000 +0000" stop="20260803063000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
-<programme start="20260803063000 +0000" stop="20260803073000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260803073000 +0000" stop="20260803080000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260803063000 +0000" stop="20260803080000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang</title>
 </programme>
 <programme start="20260803080000 +0000" stop="20260803083000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Merah Putih</title>
 </programme>
 <programme start="20260803083000 +0000" stop="20260803090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260803090000 +0000" stop="20260803110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang</title>
 </programme>
 <programme start="20260803110000 +0000" stop="20260803130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260803130000 +0000" stop="20260803140000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260803140000 +0000" stop="20260803150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Fakta</title>
 </programme>
-<programme start="20260803150000 +0000" stop="20260803153000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260803150000 +0000" stop="20260803160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
 </programme>
-<programme start="20260803153000 +0000" stop="20260803163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Malam</title>
 </programme>
 <programme start="20260803163000 +0000" stop="20260802170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260802170000 +0000" stop="20260802180000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>

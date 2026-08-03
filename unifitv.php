@@ -8726,14 +8726,14 @@
   </programme>
   <programme start="20260802185000 +0000" stop="20260802191500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Delicious Japan</title>
-    <desc lang="en">Korean actor Lee Sinyoung travels across Japan, interacting with local people as he seeks out "soul food." Korea and Japan, with their distinct cultures.</desc>
+    <desc lang="en">Lee Shin-young's trip to Okutama! Continuing from last time, she continues to enjoy fishing, finally succeeding in catching a fish by herself!</desc>
     <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260802191500 +0000" stop="20260802194500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Delicious Japan</title>
-    <desc lang="en">Korean actor Lee Sinyoung travels across Japan, interacting with local people as he seeks out "soul food." Korea and Japan, with their distinct cultures.</desc>
+    <desc lang="en">Lee Xinying heads into the forests of Naguri in Saitama, stays at a hot spring inn, enjoys kaiseki cuisine, and experiences a healing retreat surrounded by nature.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -8768,7 +8768,7 @@
   </programme>
   <programme start="20260802213500 +0000" stop="20260802220500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Delicious Japan</title>
-    <desc lang="en">Korean actor Lee Sinyoung travels across Japan, interacting with local people as he seeks out "soul food." Korea and Japan, with their distinct cultures.</desc>
+    <desc lang="en">Lee Xinying heads into the forests of Naguri in Saitama, stays at a hot spring inn, enjoys kaiseki cuisine, and experiences a healing retreat surrounded by nature.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -8873,14 +8873,14 @@
   </programme>
   <programme start="20260803052000 +0000" stop="20260803054500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Delicious Japan</title>
-    <desc lang="en">Korean actor Lee Sinyoung travels across Japan, interacting with local people as he seeks out "soul food." Korea and Japan, with their distinct cultures.</desc>
+    <desc lang="en">Lee Shin-young's trip to Okutama! Continuing from last time, she continues to enjoy fishing, finally succeeding in catching a fish by herself!</desc>
     <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260803054500 +0000" stop="20260803061500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Delicious Japan</title>
-    <desc lang="en">Korean actor Lee Sinyoung travels across Japan, interacting with local people as he seeks out "soul food." Korea and Japan, with their distinct cultures.</desc>
+    <desc lang="en">Lee Xinying heads into the forests of Naguri in Saitama, stays at a hot spring inn, enjoys kaiseki cuisine, and experiences a healing retreat surrounded by nature.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
