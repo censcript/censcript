@@ -562,9 +562,6 @@
 <programme start="20260803113000 +0000" stop="20260803140000 +0000" channel="ANTV.vision">
 <title>Menggapai Matahari</title>
 </programme>
-<programme start="20260803140000 +0000" stop="20260803160000 +0000" channel="ANTV.vision">
-<title>Kain Kafan Hitam</title>
-</programme>
 <programme start="20260803160000 +0000" stop="20260803180000 +0000" channel="ANTV.vision">
 <title>Misteri Gunung Merapi</title>
 </programme>
@@ -741,9 +738,6 @@
 </programme>
 <programme start="20260803130000 +0000" stop="20260803140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20260803140000 +0000" stop="20260803150000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20260803150000 +0000" stop="20260803160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260803060000 +0000" stop="20260803070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260803070000 +0000" stop="20260803090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260803090000 +0000" stop="20260803090300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

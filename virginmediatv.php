@@ -4105,16 +4105,10 @@
 <programme start="20260803160000 +0000" stop="20260803161500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - New York Jets at New England Patriots</title>
 </programme>
-<programme start="20260803161500 +0000" stop="20260803163000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+<programme start="20260803161500 +0000" stop="20260803164000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Super Bowl LX: Seattle Seahawks v New England Patriots</title>
 </programme>
-<programme start="20260803163000 +0000" stop="20260803164500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>Super League Rugby - Eliminator 1: Salford Red Devils v Leigh Leopards</title>
-</programme>
-<programme start="20260803164500 +0000" stop="20260803170000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>Super League Rugby - Grand Final: Wigan Warriors v Hull Kingston Rovers</title>
-</programme>
-<programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+<programme start="20260803164000 +0000" stop="20260803184000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Pro Football Talk</title>
 </programme>
 <programme start="20260802163000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4921,16 +4915,10 @@
 <programme start="20260803160000 +0000" stop="20260803161500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - New York Jets at New England Patriots</title>
 </programme>
-<programme start="20260803161500 +0000" stop="20260803163000 +0000" channel="Sky_Sports_Action.virginmediatv">
+<programme start="20260803161500 +0000" stop="20260803164000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Super Bowl LX: Seattle Seahawks v New England Patriots</title>
 </programme>
-<programme start="20260803163000 +0000" stop="20260803164500 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>Super League Rugby - Eliminator 1: Salford Red Devils v Leigh Leopards</title>
-</programme>
-<programme start="20260803164500 +0000" stop="20260803170000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>Super League Rugby - Grand Final: Wigan Warriors v Hull Kingston Rovers</title>
-</programme>
-<programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="Sky_Sports_Action.virginmediatv">
+<programme start="20260803164000 +0000" stop="20260803184000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Pro Football Talk</title>
 </programme>
 <programme start="20260802163000 +0000" stop="20260803030000 +0000" channel="Sky_Sports_Plus.virginmediatv">
