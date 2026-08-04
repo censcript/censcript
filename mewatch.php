@@ -730,25 +730,25 @@
     <programme start="20260804160000 +0000" stop="20260805160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now.</title>
     </programme>
-    <programme start="20260803160000 +0000" stop="20260804100000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 04 August, Tuesday 6.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260803160000 +0000" stop="20260804093500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 04 August, Tuesday 5.35pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260804100000 +0000" stop="20260804120000 +0000" channel="Live 5.mewatch">
+    <programme start="20260804093500 +0000" stop="20260804122000 +0000" channel="Live 5.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Myanmar vs Laos</title>
     </programme>
-    <programme start="20260804120000 +0000" stop="20260804160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260804122000 +0000" stop="20260804160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 07 August, Friday 9.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260804160000 +0000" stop="20260805160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 07 August, Friday 9.00pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260803160000 +0000" stop="20260804130000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 04 August, Tuesday 9.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260803160000 +0000" stop="20260804123300 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 04 August, Tuesday 8.33pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260804130000 +0000" stop="20260804150000 +0000" channel="Live 6.mewatch">
+    <programme start="20260804123300 +0000" stop="20260804152000 +0000" channel="Live 6.mewatch">
         <title>Hyundai Cup 2026 : Group Stage : Philippines vs Thailand</title>
     </programme>
-    <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="Live 6.mewatch">
+    <programme start="20260804152000 +0000" stop="20260804160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 07 August, Friday 9.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260804160000 +0000" stop="20260805160000 +0000" channel="Live 6.mewatch">

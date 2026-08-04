@@ -2851,13 +2851,10 @@
   <programme start="20260806000000 +0000" stop="20260806040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260806040000 +0000" stop="20260806060000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260806040000 +0000" stop="20260806050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260806093000 +0000" stop="20260806100000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
-  </programme>
-  <programme start="20260806100000 +0000" stop="20260806103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260806100000 +0000" stop="20260806101500 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">POLEDNE</title>
   </programme>
   <programme start="20260806103000 +0000" stop="20260806113000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -2866,7 +2863,7 @@
   <programme start="20260806113000 +0000" stop="20260806123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260806153000 +0000" stop="20260806163000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260806140000 +0000" stop="20260806143000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
   <programme start="20260806163000 +0000" stop="20260806173000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -5039,7 +5036,7 @@
     <title lang="id">Martin z Martina</title>
   </programme>
   <programme start="20260806170000 +0000" stop="20260806190000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">FC Salzburg (AUT) - Pafos FC (CYP)</title>
+    <title lang="id">Debreceni VSC (HUN) - F.C. Copenhagen (DEN)</title>
   </programme>
   <programme start="20260806190000 +0000" stop="20260806191500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
@@ -6761,127 +6758,127 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260805223000 +0000" stop="20260805230000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Body positivity a výživa – kde sú hranice?</title>
+    <title lang="id">Chuť žiť</title>
   </programme>
   <programme start="20260805230000 +0000" stop="20260805233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nočné pomočovanie</title>
+    <title lang="id">Enuréza (nočné pomočovanie)</title>
   </programme>
   <programme start="20260805233000 +0000" stop="20260806000000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">K05 zápal ďasien</title>
+    <title lang="id">Najčastejšie detské onkologické ochorenia</title>
   </programme>
   <programme start="20260806000000 +0000" stop="20260806010000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Robotická chirurgia pre detských pacientov: historický míľnik slovenskej medicíny</title>
+    <title lang="id">Noú - kľúčová inštitúcia v boji proti rakovine na slovensku</title>
   </programme>
   <programme start="20260806010000 +0000" stop="20260806020000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Šokujúci trend: zdá sa, že spoločnosť hlúpne, vedci zistili, že nám klesá iq</title>
+    <title lang="id">Epidémia cisárskych rezov: ako rodiť dôstojne?</title>
   </programme>
   <programme start="20260806020000 +0000" stop="20260806023000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260806023000 +0000" stop="20260806030000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kelo a tzatziki s Kuracím špízom + kľuky medzi stoličkami</title>
+    <title lang="id">V čakačkách na operácie nastal pozitívny vývoj</title>
   </programme>
   <programme start="20260806030000 +0000" stop="20260806033000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Bariatrická chirurgia</title>
+    <title lang="id">Ovisnutý kútik a nedovreté oko: ako rozpoznať parézu tvárového nervu u detí</title>
   </programme>
   <programme start="20260806033000 +0000" stop="20260806040000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Algeziológ a liečba bolestí</title>
+    <title lang="id">Chorobné hranie</title>
   </programme>
   <programme start="20260806040000 +0000" stop="20260806043000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Probiotká a prebiotiká</title>
+    <title lang="id">Nipt - neinvazívne prenatálne testy</title>
   </programme>
   <programme start="20260806043000 +0000" stop="20260806050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Čo človek zažije, to mu nikto nikdy nezoberie</title>
+    <title lang="id">Odpovedá MUDr. František tobiáš</title>
   </programme>
-  <programme start="20260806050000 +0000" stop="20260806055000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Demencia</title>
+  <programme start="20260806050000 +0000" stop="20260806053000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Úloha baktérií pri chronických ranách</title>
   </programme>
-  <programme start="20260806055000 +0000" stop="20260806060000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Konvičkovanie</title>
+  <programme start="20260806053000 +0000" stop="20260806060000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Mikrobióm a dysbióza</title>
   </programme>
   <programme start="20260806060000 +0000" stop="20260806063000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260806063000 +0000" stop="20260806070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá doc. MUDr. Michal chovanec, phd.</title>
+    <title lang="id">Odpovedá detský chirurg MUDr. Pavol šinka</title>
   </programme>
   <programme start="20260806070000 +0000" stop="20260806073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Bez hanby o zápaloch močových ciest, hygiene, mužských tabu témach aj mýtoch</title>
+    <title lang="id">Transplantácia a urológia – keď sa spája špičková medicína s ľudskými príbehmi</title>
   </programme>
   <programme start="20260806073000 +0000" stop="20260806080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Pohyb onkologických pacientov</title>
+    <title lang="id">Liečba nukleárnou medicínou</title>
   </programme>
   <programme start="20260806080000 +0000" stop="20260806090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Neurologické ochorenia a ich prvé príznaky</title>
+    <title lang="id">Stres náš každodenný</title>
   </programme>
   <programme start="20260806090000 +0000" stop="20260806095000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Schizofrénia</title>
+    <title lang="id">Transplantácia obličiek</title>
   </programme>
   <programme start="20260806095000 +0000" stop="20260806100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Hrčka v prsníku</title>
+    <title lang="id">Popáleniny v detskom veku</title>
   </programme>
   <programme start="20260806100000 +0000" stop="20260806103000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260806103000 +0000" stop="20260806110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Body positivity a výživa – kde sú hranice?</title>
+    <title lang="id">Chuť žiť</title>
   </programme>
   <programme start="20260806110000 +0000" stop="20260806113000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nočné pomočovanie</title>
+    <title lang="id">Enuréza (nočné pomočovanie)</title>
   </programme>
   <programme start="20260806113000 +0000" stop="20260806120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">K05 zápal ďasien</title>
+    <title lang="id">Najčastejšie detské onkologické ochorenia</title>
   </programme>
   <programme start="20260806120000 +0000" stop="20260806130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Robotická chirurgia pre detských pacientov: historický míľnik slovenskej medicíny</title>
+    <title lang="id">Noú - kľúčová inštitúcia v boji proti rakovine na slovensku</title>
   </programme>
   <programme start="20260806130000 +0000" stop="20260806140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Šokujúci trend: zdá sa, že spoločnosť hlúpne, vedci zistili, že nám klesá iq</title>
+    <title lang="id">Epidémia cisárskych rezov: ako rodiť dôstojne?</title>
   </programme>
   <programme start="20260806140000 +0000" stop="20260806143000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260806143000 +0000" stop="20260806150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kelo a cuketové cestoviny + sklápačky</title>
+    <title lang="id">Kelo a cestoviny s Kuracím mäsom + kľuky na ramená</title>
   </programme>
   <programme start="20260806150000 +0000" stop="20260806153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Hyperbarická oxygénová terapia</title>
+    <title lang="id">Faryngitída</title>
   </programme>
   <programme start="20260806153000 +0000" stop="20260806160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Endoprotézy váhonosných kĺbov kolena a bedra</title>
+    <title lang="id">Ambulancia rizikovej gravidity</title>
   </programme>
   <programme start="20260806160000 +0000" stop="20260806163000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako zlepšiť kvalitu života ibd pacientov</title>
+    <title lang="id">Chirurgická liečba pri ibd ochorení</title>
   </programme>
   <programme start="20260806163000 +0000" stop="20260806170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Bariéry okolo nás (ale aj v nás)</title>
+    <title lang="id">Nevidiaci strelec marek sloboda</title>
   </programme>
   <programme start="20260806170000 +0000" stop="20260806175000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Infarkt myokardu</title>
+    <title lang="id">Benígne nádory a bežné gynekologické problémy</title>
   </programme>
   <programme start="20260806175000 +0000" stop="20260806180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Otužovanie detí</title>
+    <title lang="id">Fotoprotekcia</title>
   </programme>
   <programme start="20260806180000 +0000" stop="20260806183000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260806183000 +0000" stop="20260806190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Odpovedá MUDr. Miloš bubán</title>
+    <title lang="id">Odpovedá dr.h.c. prof. MUDr. Ján breza, drsc., mha, mph</title>
   </programme>
   <programme start="20260806190000 +0000" stop="20260806193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Na začiatku bolo ochorenie obličiek</title>
+    <title lang="id">Prečo sa netreba hanbiť hovoriť o problémoch v urológii</title>
   </programme>
   <programme start="20260806193000 +0000" stop="20260806200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Seuxálne zdravie onkologických pacientov</title>
+    <title lang="id">Prevencia a rakovina prsníka</title>
   </programme>
   <programme start="20260806200000 +0000" stop="20260806210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cestovanie ideálne bez traumy</title>
+    <title lang="id">Horúčka – pomocník alebo nepriateľ?</title>
   </programme>
   <programme start="20260806210000 +0000" stop="20260806215000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Artróza (osteoporóza)</title>
+    <title lang="id">Závažné ochorenia mozgu - demencia a alzheimerova choroba 02</title>
   </programme>
   <programme start="20260806215000 +0000" stop="20260806220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nadmerné potenie a jeho liečba botulotoxínom</title>
+    <title lang="id">Laserové odstránenie znamienka</title>
   </programme>
   <programme start="20260805220000 +0000" stop="20260805230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>

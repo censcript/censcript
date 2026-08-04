@@ -2239,13 +2239,13 @@
     <programme start="20260804100000 +0000" stop="20260804160000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260803160000 +0000" stop="20260803170000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20260803160000 +0000" stop="20260803173900 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20260803173900 +0000" stop="20260803201100 +0000" channel="Hub Sports 5 HD.starhub">
         <title>Mubadala DC Open (500) Final</title>
     </programme>
-    <programme start="20260803190000 +0000" stop="20260803220000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20260803201100 +0000" stop="20260803220000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260803220000 +0000" stop="20260804040000 +0000" channel="Hub Sports 5 HD.starhub">
