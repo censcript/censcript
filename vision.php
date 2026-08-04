@@ -562,9 +562,6 @@
 <programme start="20260804113000 +0000" stop="20260804140000 +0000" channel="ANTV.vision">
 <title>Menggapai Matahari 2</title>
 </programme>
-<programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="ANTV.vision">
-<title>Menjelang Magrib 2</title>
-</programme>
 <programme start="20260804160000 +0000" stop="20260804180000 +0000" channel="ANTV.vision">
 <title>Misteri Gunung Merapi 2</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260804110000 +0000" stop="20260804120000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
