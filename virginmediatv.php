@@ -4468,13 +4468,13 @@
 <programme start="20260804050000 +0000" stop="20260804060000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>MotoGP Classics - 1992: British GP</title>
 </programme>
-<programme start="20260804120000 +0000" stop="20260804123000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>eSports Show - Episode 1</title>
+<programme start="20260804120000 +0000" stop="20260804121500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>TNT Sports Cricket Reload - West Indies v Sri Lanka, 1st Test: Best Batting</title>
 </programme>
-<programme start="20260804123000 +0000" stop="20260804133000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260804121500 +0000" stop="20260804131500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Test Cricket - 2nd Test, Day 2: West Indies v Pakistan</title>
 </programme>
-<programme start="20260804133000 +0000" stop="20260804220000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260804131500 +0000" stop="20260804220000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 3: West Indies v Pakistan</title>
 </programme>
 <programme start="20260804000000 +0000" stop="20260804003000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5179,13 +5179,13 @@
 <programme start="20260804050000 +0000" stop="20260804060000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>MotoGP Classics - 1992: British GP</title>
 </programme>
-<programme start="20260804120000 +0000" stop="20260804123000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>eSports Show - Episode 1</title>
+<programme start="20260804120000 +0000" stop="20260804121500 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>TNT Sports Cricket Reload - West Indies v Sri Lanka, 1st Test: Best Batting</title>
 </programme>
-<programme start="20260804123000 +0000" stop="20260804133000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260804121500 +0000" stop="20260804131500 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Test Cricket - 2nd Test, Day 2: West Indies v Pakistan</title>
 </programme>
-<programme start="20260804133000 +0000" stop="20260804220000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260804131500 +0000" stop="20260804220000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 3: West Indies v Pakistan</title>
 </programme>
 <programme start="20260804000000 +0000" stop="20260804003000 +0000" channel="TNT_Sports_3.virginmediatv">
@@ -6352,7 +6352,10 @@
 <programme start="20260803175800 +0000" stop="20260804015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260804015800 +0000" stop="20260804060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260804015800 +0000" stop="20260804050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260804050000 +0000" stop="20260804060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260804120000 +0000" stop="20260804123000 +0000" channel="CBBC.virginmediatv">
