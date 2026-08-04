@@ -553,9 +553,6 @@
 <programme start="20260805114500 +0000" stop="20260805121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260803230000 +0000" stop="20260804023000 +0000" channel="ANTV.vision">
-<title>Gunday</title>
-</programme>
 <programme start="20260804023000 +0000" stop="20260804060000 +0000" channel="ANTV.vision">
 <title>Main Hoon Na</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260804080000 +0000" stop="20260804080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260804080300 +0000" stop="20260804100000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

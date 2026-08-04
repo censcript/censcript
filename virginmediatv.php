@@ -4351,14 +4351,11 @@
 <programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington Podcast - Adidas</title>
 </programme>
-<programme start="20260804130000 +0000" stop="20260804153000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Replayed - Pre-Season Friendly: Manchester United v Wrexham</title>
-</programme>
-<programme start="20260804153000 +0000" stop="20260804154500 +0000" channel="MUTV.virginmediatv">
-    <title>Signing Interview: Youri Tielemans</title>
+<programme start="20260804130000 +0000" stop="20260804154500 +0000" channel="MUTV.virginmediatv">
+    <title>The Match Replayed - The Match Replayed: Snapdragon Cup: v Atletico de Madrid</title>
 </programme>
 <programme start="20260804154500 +0000" stop="20260804160000 +0000" channel="MUTV.virginmediatv">
-    <title>Signing Interview: Andrey Santos</title>
+    <title>Player Spotlight - Summer Sessions</title>
 </programme>
 <programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington Podcast - Scholars Celebration</title>
