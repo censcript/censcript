@@ -2315,7 +2315,7 @@
     <title>Latest News and Weather</title>
 </programme>
 <programme start="20260804123000 +0000" stop="20260804143000 +0000" channel="RTE_News_Now.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Funeral of Glen Hansard</title>
 </programme>
 <programme start="20260804143000 +0000" stop="20260804150000 +0000" channel="RTE_News_Now.virginmediatv">
     <title>Latest News and Weather</title>
@@ -3944,7 +3944,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260804043000 +0000" stop="20260804044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>ICC T20 World Cup - 2016: India v Bangladesh</title>
 </programme>
 <programme start="20260804044500 +0000" stop="20260804050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s: Manchester Super Giants v Trent Rockets</title>
@@ -4091,7 +4091,7 @@
     <title>Super League Rugby - Grand Final: Wigan Warriors v Hull Kingston Rovers</title>
 </programme>
 <programme start="20260804170000 +0000" stop="20260804190000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Pro Football Talk</title>
 </programme>
 <programme start="20260803230000 +0000" stop="20260804030000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 3</title>
@@ -4220,10 +4220,10 @@
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 3</title>
 </programme>
 <programme start="20260804030000 +0000" stop="20260804031500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260804031500 +0000" stop="20260804033000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Miami Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260804033000 +0000" stop="20260804034500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA Qatar Open 2026 - Final</title>
@@ -4772,7 +4772,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260804043000 +0000" stop="20260804044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>To Be Announced</title>
+    <title>ICC T20 World Cup - 2016: India v Bangladesh</title>
 </programme>
 <programme start="20260804044500 +0000" stop="20260804050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s: Manchester Super Giants v Trent Rockets</title>
@@ -4919,7 +4919,7 @@
     <title>Super League Rugby - Grand Final: Wigan Warriors v Hull Kingston Rovers</title>
 </programme>
 <programme start="20260804170000 +0000" stop="20260804190000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Pro Football Talk</title>
 </programme>
 <programme start="20260803230000 +0000" stop="20260804030000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 3</title>
@@ -5048,10 +5048,10 @@
     <title>Live Tennis - ATP &amp; WTA Canadian Open: Day 3</title>
 </programme>
 <programme start="20260804030000 +0000" stop="20260804031500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260804031500 +0000" stop="20260804033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Miami Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260804033000 +0000" stop="20260804034500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Qatar Open 2026 - Final</title>

@@ -742,9 +742,6 @@
 <programme start="20260804123000 +0000" stop="20260804130000 +0000" channel="TVOne.vision">
 <title>Indonesia Terkini</title>
 </programme>
-<programme start="20260804130000 +0000" stop="20260804143000 +0000" channel="TVOne.vision">
-<title>Catatan Demokrasi</title>
-</programme>
 <programme start="20260804143000 +0000" stop="20260804153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260804103000 +0000" stop="20260804110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260804110000 +0000" stop="20260804120000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
