@@ -5770,7 +5770,72 @@
 <programme start="20260804163500 +0000" stop="20260803170500 +0000" channel="Love Nature HD.mncvision">
     <title>Wild Tales From Farm S1, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260803172500 +0000" stop="20260803175500 +0000" channel="MDTV.mncvision">
+    <title>86</title>
+</programme>
+<programme start="20260803175500 +0000" stop="20260803190000 +0000" channel="MDTV.mncvision">
+    <title>Perfume</title>
+</programme>
+<programme start="20260803190000 +0000" stop="20260803200500 +0000" channel="MDTV.mncvision">
+    <title>Kokdu: Season Of Deity</title>
+</programme>
+<programme start="20260803200500 +0000" stop="20260803211000 +0000" channel="MDTV.mncvision">
+    <title>Dear M</title>
+</programme>
+<programme start="20260803211000 +0000" stop="20260803225500 +0000" channel="MDTV.mncvision">
+    <title>Top Spot</title>
+</programme>
+<programme start="20260803225500 +0000" stop="20260803234500 +0000" channel="MDTV.mncvision">
+    <title>Menjemput Berkah</title>
+</programme>
+<programme start="20260803234500 +0000" stop="20260804010000 +0000" channel="MDTV.mncvision">
+    <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260804010000 +0000" stop="20260804015500 +0000" channel="MDTV.mncvision">
+    <title>Fakta +62</title>
+</programme>
+<programme start="20260804015500 +0000" stop="20260804030000 +0000" channel="MDTV.mncvision">
+    <title>SensasiHot</title>
+</programme>
+<programme start="20260804030000 +0000" stop="20260804035000 +0000" channel="MDTV.mncvision">
+    <title>Bawang Merah Bawang Putih</title>
+</programme>
+<programme start="20260804035000 +0000" stop="20260804045500 +0000" channel="MDTV.mncvision">
+    <title>SUCI</title>
+</programme>
+<programme start="20260804045500 +0000" stop="20260804055500 +0000" channel="MDTV.mncvision">
+    <title>Resep Chef Devina</title>
+</programme>
+<programme start="20260804055500 +0000" stop="20260804073000 +0000" channel="MDTV.mncvision">
+    <title>Makan Enak</title>
+</programme>
+<programme start="20260804073000 +0000" stop="20260804083000 +0000" channel="MDTV.mncvision">
+    <title>Laper Mata</title>
+</programme>
+<programme start="20260804083000 +0000" stop="20260804093000 +0000" channel="MDTV.mncvision">
+    <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260804093000 +0000" stop="20260804103500 +0000" channel="MDTV.mncvision">
+    <title>Main Drama Casting</title>
+</programme>
+<programme start="20260804103500 +0000" stop="20260804122500 +0000" channel="MDTV.mncvision">
+    <title>Carita de �ngel</title>
+</programme>
+<programme start="20260804122500 +0000" stop="20260804133000 +0000" channel="MDTV.mncvision">
+    <title>Ipar Adalah Maut The Series</title>
+</programme>
+<programme start="20260804133000 +0000" stop="20260804143500 +0000" channel="MDTV.mncvision">
+    <title>Kupu Malam</title>
+</programme>
+<programme start="20260804143500 +0000" stop="20260804153000 +0000" channel="MDTV.mncvision">
+    <title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260804153000 +0000" stop="20260804163500 +0000" channel="MDTV.mncvision">
+    <title>Jatanras</title>
+</programme>
+<programme start="20260804163500 +0000" stop="20260803170500 +0000" channel="MDTV.mncvision">
+    <title>Customs Protection</title>
+</programme>
 <programme start="20260803170000 +0000" stop="20260803170500 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>

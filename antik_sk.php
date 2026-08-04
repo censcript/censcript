@@ -3226,19 +3226,19 @@
   <programme start="20260806211000 +0000" stop="20260806220000 +0000" channel="NOE.webtv.sk">
     <title lang="id">Enrique Shaw - podnikatel Boží</title>
   </programme>
-  <programme start="20260805213000 +0000" stop="20260805222500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260805213100 +0000" stop="20260805222600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová IX (8)</title>
   </programme>
-  <programme start="20260805222500 +0000" stop="20260805225200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260805222600 +0000" stop="20260805225300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20260805225200 +0000" stop="20260805231900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260805225300 +0000" stop="20260805231900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
-  <programme start="20260805231900 +0000" stop="20260805234500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260805231900 +0000" stop="20260805234600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Jizerní Vtelno a okolí</title>
   </programme>
-  <programme start="20260805234500 +0000" stop="20260806002000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260805234600 +0000" stop="20260806002000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bydlení je hra</title>
   </programme>
   <programme start="20260806002000 +0000" stop="20260806025100 +0000" channel="ČT1.webtv.sk">
@@ -3331,34 +3331,34 @@
   <programme start="20260806201400 +0000" stop="20260806201500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
-  <programme start="20260806201500 +0000" stop="20260806204100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260806201500 +0000" stop="20260806204200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Okno do hřbitova (11)</title>
   </programme>
-  <programme start="20260806204100 +0000" stop="20260806210700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260806204200 +0000" stop="20260806210800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Okno do hřbitova (12)</title>
   </programme>
-  <programme start="20260806210700 +0000" stop="20260806220000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260806210800 +0000" stop="20260806220100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hitparáda televizní zábavy</title>
   </programme>
-  <programme start="20260805214500 +0000" stop="20260805223400 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260805215000 +0000" stop="20260805223600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hitler</title>
   </programme>
-  <programme start="20260805223400 +0000" stop="20260805232600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260805223600 +0000" stop="20260805233000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Mata Hari</title>
   </programme>
-  <programme start="20260805232600 +0000" stop="20260805235300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260805233000 +0000" stop="20260805235700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">K poctě zbraň! (6/8)</title>
   </programme>
-  <programme start="20260805235300 +0000" stop="20260806002000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260805235700 +0000" stop="20260806002300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na hranici tradic</title>
   </programme>
-  <programme start="20260806002000 +0000" stop="20260806003500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260806002300 +0000" stop="20260806003800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vodácká putování</title>
   </programme>
-  <programme start="20260806003500 +0000" stop="20260806005600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260806003800 +0000" stop="20260806005700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na výspě mediteránu</title>
   </programme>
-  <programme start="20260806005600 +0000" stop="20260806011100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260806005700 +0000" stop="20260806011100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tajné akce StB</title>
   </programme>
   <programme start="20260806011100 +0000" stop="20260806013600 +0000" channel="ČT2.webtv.sk">
@@ -3427,13 +3427,13 @@
   <programme start="20260806141000 +0000" stop="20260806143600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tajemství železnic (6/9)</title>
   </programme>
-  <programme start="20260806143600 +0000" stop="20260806161500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Fantomas se zlobí</title>
+  <programme start="20260806143600 +0000" stop="20260806161600 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Fantomas kontra Scotland Yard</title>
   </programme>
-  <programme start="20260806161500 +0000" stop="20260806170500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260806161600 +0000" stop="20260806170600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Starověké říše</title>
   </programme>
-  <programme start="20260806170500 +0000" stop="20260806174100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260806170600 +0000" stop="20260806174100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Taje pražské tramwaye</title>
   </programme>
   <programme start="20260806174100 +0000" stop="20260806175000 +0000" channel="ČT2.webtv.sk">

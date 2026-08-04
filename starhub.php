@@ -424,8 +424,62 @@
     <programme start="20260804153000 +0000" stop="20260804160000 +0000" channel="FashionTV HD.starhub">
         <title>FASHION FILMS</title>
     </programme>
-    <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="Arirang TV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260803160000 +0000" stop="20260803162000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-Now</title>
+    </programme>
+    <programme start="20260803162000 +0000" stop="20260803163000 +0000" channel="Arirang TV HD.starhub">
+        <title>Heritage Walks With Little Friend</title>
+    </programme>
+    <programme start="20260803163000 +0000" stop="20260803170000 +0000" channel="Arirang TV HD.starhub">
+        <title>Trip In Korea</title>
+    </programme>
+    <programme start="20260803170000 +0000" stop="20260803180000 +0000" channel="Arirang TV HD.starhub">
+        <title>Performarts Reload:Ntok</title>
+    </programme>
+    <programme start="20260803180000 +0000" stop="20260803183000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Dive [R]</title>
+    </programme>
+    <programme start="20260803183000 +0000" stop="20260803190000 +0000" channel="Arirang TV HD.starhub">
+        <title>Smartbiz Accelerators</title>
+    </programme>
+    <programme start="20260803190000 +0000" stop="20260803193000 +0000" channel="Arirang TV HD.starhub">
+        <title>Within The Frame [R]</title>
+    </programme>
+    <programme start="20260803193000 +0000" stop="20260803195000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-Now</title>
+    </programme>
+    <programme start="20260803195000 +0000" stop="20260803200000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Tech Green Solutions 2026</title>
+    </programme>
+    <programme start="20260803200000 +0000" stop="20260803203000 +0000" channel="Arirang TV HD.starhub">
+        <title>Trip In Korea</title>
+    </programme>
+    <programme start="20260803203000 +0000" stop="20260803205000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage K-Asmr(20)</title>
+    </programme>
+    <programme start="20260803205000 +0000" stop="20260803210000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage K-Asmr(10)</title>
+    </programme>
+    <programme start="20260803210000 +0000" stop="20260803220000 +0000" channel="Arirang TV HD.starhub">
+        <title>Performarts Reload:Ntok</title>
+    </programme>
+    <programme start="20260803220000 +0000" stop="20260803223000 +0000" channel="Arirang TV HD.starhub">
+        <title>With Science, We Live</title>
+    </programme>
+    <programme start="20260803223000 +0000" stop="20260803225000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Arts Artists</title>
+    </programme>
+    <programme start="20260803225000 +0000" stop="20260803230000 +0000" channel="Arirang TV HD.starhub">
+        <title>Heritage Walks With Little Friend</title>
+    </programme>
+    <programme start="20260803230000 +0000" stop="20260803232000 +0000" channel="Arirang TV HD.starhub">
+        <title>Drawing Diary</title>
+    </programme>
+    <programme start="20260803232000 +0000" stop="20260803233000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
+    </programme>
+    <programme start="20260803233000 +0000" stop="20260803235000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-People</title>
     </programme>
     <programme start="20260803235000 +0000" stop="20260804000000 +0000" channel="Arirang TV HD.starhub">
         <title>K-Tech Green Solutions 2026</title>
@@ -3380,7 +3434,7 @@
         <title>Kannethirey Thondrinaal</title>
     </programme>
     <programme start="20260804150000 +0000" stop="20260804153000 +0000" channel="Kalaignar TV.starhub">
-        <title>Kalyana Parisu</title>
+        <title>Thendral</title>
     </programme>
     <programme start="20260804153000 +0000" stop="20260804190000 +0000" channel="Kalaignar TV.starhub">
         <title>MOVIE - VELAN ETTUTHIKKUM (U/A)</title>
