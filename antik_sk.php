@@ -6137,7 +6137,7 @@
     <title lang="id">Malí a nezadaní I (6)</title>
   </programme>
   <programme start="20260806080000 +0000" stop="20260806090000 +0000" channel="TLC.webtv.sk">
-    <title lang="id">Panny a panicové I (6)</title>
+    <title lang="id">Italská klinika pro obézní II (1)</title>
   </programme>
   <programme start="20260806090000 +0000" stop="20260806100000 +0000" channel="TLC.webtv.sk">
     <title lang="id">Beďarová doktorka III (2)</title>
@@ -17368,17 +17368,20 @@
   <programme start="20260806210000 +0000" stop="20260806220000 +0000" channel="Espreso TV.webtv.sk">
     <title lang="id">Європейці з Лесею Вакулюк</title>
   </programme>
-  <programme start="20260805220000 +0000" stop="20260805230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+  <programme start="20260805220000 +0000" stop="20260805223000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ЧЕЛОВЕК НА КАPТЕ: История почтальонки из глухой деревни</title>
+  </programme>
+  <programme start="20260805223000 +0000" stop="20260805230000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ПPИЗНАКИ ЖИЗНИ: После потопа</title>
   </programme>
   <programme start="20260805230000 +0000" stop="20260806000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">ПЕPЕКPЕСТОК: Горят склады</title>
   </programme>
   <programme start="20260806000000 +0000" stop="20260806020000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино</title>
   </programme>
   <programme start="20260806020000 +0000" stop="20260806023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящее Время. Интервью</title>
+    <title lang="id">СПЕЦPЕПОPТАЖ: Cхемы отъёма собственности на захваченных территориях</title>
   </programme>
   <programme start="20260806023000 +0000" stop="20260806030000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Global Us</title>

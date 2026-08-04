@@ -1,11 +1,3 @@
-<programme start="20260805010000 +0700" stop="20260805030500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Olympiacos - Nijmegen (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260805030500 +0700" stop="20260805040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PostGame 2026-27 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260805040000 +0700" stop="20260805060500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Olympiacos - Nijmegen</title>
     <desc>Live: Tidak</desc>
@@ -54,8 +46,8 @@
     <title>Football: Olympiacos - Nijmegen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260805010000 +0700" stop="20260805030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sporting CP - SC Braga</title>
+<programme start="20260806040500 +0700" stop="20260806060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FK Bodo/Glimt - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260805030000 +0700" stop="20260805050000 +0700" channel="COSMOTE Sport 2 HD">
@@ -108,18 +100,6 @@
 </programme>
 <programme start="20260806025000 +0700" stop="20260806050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Porto - Sporting CP</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260805020000 +0700" stop="20260805022500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260805022500 +0700" stop="20260805032500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Greece - France</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260805032500 +0700" stop="20260805040000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260805040000 +0700" stop="20260805060000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,8 +158,12 @@
     <title>Football: Socca Euro 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260805002500 +0700" stop="20260805022500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Anadolu Efes - Fenerbahce</title>
+<programme start="20260806030000 +0700" stop="20260806040000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Socca Euro 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260806040000 +0700" stop="20260806060000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Millwall - Hull City</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260805022500 +0700" stop="20260805044500 +0700" channel="COSMOTE Sport 4 HD">
@@ -234,16 +218,8 @@
     <title>Basketball: AEK - Levice</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260805014500 +0700" stop="20260805023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260805023000 +0700" stop="20260805033000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260805033000 +0700" stop="20260805040000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC</title>
+<programme start="20260806032500 +0700" stop="20260806054000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - Gran Canaria</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260805040000 +0700" stop="20260805053000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,6 +310,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260806040500 +0700" stop="20260806050500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260805013000 +0700" stop="20260805043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -370,8 +350,8 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260805020000 +0700" stop="20260805040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260806043000 +0700" stop="20260806050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2026 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260805040000 +0700" stop="20260805050000 +0700" channel="COSMOTE Sport 7 HD">
@@ -422,8 +402,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260805020000 +0700" stop="20260805040000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260806040000 +0700" stop="20260806050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260805040000 +0700" stop="20260805060000 +0700" channel="COSMOTE Sport 8 HD">
@@ -474,8 +454,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260805020000 +0700" stop="20260805040000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260806040000 +0700" stop="20260806060000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260805040000 +0700" stop="20260805060000 +0700" channel="COSMOTE Sport 9 HD">
@@ -523,6 +503,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260806020000 +0700" stop="20260806040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260806040000 +0700" stop="20260806060000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

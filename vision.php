@@ -562,15 +562,6 @@
 <programme start="20260804113000 +0000" stop="20260804140000 +0000" channel="ANTV.vision">
 <title>Menggapai Matahari 2</title>
 </programme>
-<programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="ANTV.vision">
-<title>Menjelang Magrib 2</title>
-</programme>
-<programme start="20260804160000 +0000" stop="20260804180000 +0000" channel="ANTV.vision">
-<title>Misteri Gunung Merapi 2</title>
-</programme>
-<programme start="20260804180000 +0000" stop="20260804190000 +0000" channel="ANTV.vision">
-<title>Lop Nor Tomb</title>
-</programme>
 <programme start="20260804190000 +0000" stop="20260804203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -741,9 +732,6 @@
 </programme>
 <programme start="20260804123000 +0000" stop="20260804130000 +0000" channel="TVOne.vision">
 <title>Indonesia Terkini</title>
-</programme>
-<programme start="20260804130000 +0000" stop="20260804143000 +0000" channel="TVOne.vision">
-<title>Catatan Demokrasi</title>
 </programme>
 <programme start="20260804143000 +0000" stop="20260804153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1496,5 +1484,17 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260804103000 +0000" stop="20260804110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260804110000 +0000" stop="20260804120000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260804130000 +0000" stop="20260804140000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260804140000 +0000" stop="20260804143000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
