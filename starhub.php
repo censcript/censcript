@@ -427,14 +427,116 @@
     <programme start="20260803160000 +0000" stop="20260803220000 +0000" channel="Arirang TV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20260803220000 +0000" stop="20260804040000 +0000" channel="Arirang TV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260803235000 +0000" stop="20260804000000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Tech Green Solutions 2026</title>
     </programme>
-    <programme start="20260804040000 +0000" stop="20260804100000 +0000" channel="Arirang TV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260804000000 +0000" stop="20260804003000 +0000" channel="Arirang TV HD.starhub">
+        <title>Diplomat&#039;s Archive: Hidden Stories</title>
     </programme>
-    <programme start="20260804100000 +0000" stop="20260804160000 +0000" channel="Arirang TV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260804003000 +0000" stop="20260804010000 +0000" channel="Arirang TV HD.starhub">
+        <title>Regional Tastes: Chungcheong</title>
+    </programme>
+    <programme start="20260804010000 +0000" stop="20260804013000 +0000" channel="Arirang TV HD.starhub">
+        <title>New Day At Arirang</title>
+    </programme>
+    <programme start="20260804013000 +0000" stop="20260804020000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Generation [L]</title>
+    </programme>
+    <programme start="20260804020000 +0000" stop="20260804030000 +0000" channel="Arirang TV HD.starhub">
+        <title>Culture Crunch [L]</title>
+    </programme>
+    <programme start="20260804030000 +0000" stop="20260804033000 +0000" channel="Arirang TV HD.starhub">
+        <title>Arirang News 12:00</title>
+    </programme>
+    <programme start="20260804033000 +0000" stop="20260804040000 +0000" channel="Arirang TV HD.starhub">
+        <title>Diplomat&#039;s Archive: Hidden Stories</title>
+    </programme>
+    <programme start="20260804040000 +0000" stop="20260804050000 +0000" channel="Arirang TV HD.starhub">
+        <title>Gugak The Music Of Korea</title>
+    </programme>
+    <programme start="20260804050000 +0000" stop="20260804053000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Dive [L]</title>
+    </programme>
+    <programme start="20260804053000 +0000" stop="20260804060000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Generation [R]</title>
+    </programme>
+    <programme start="20260804060000 +0000" stop="20260804063000 +0000" channel="Arirang TV HD.starhub">
+        <title>Regional Tastes: Chungcheong</title>
+    </programme>
+    <programme start="20260804063000 +0000" stop="20260804065000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-People</title>
+    </programme>
+    <programme start="20260804065000 +0000" stop="20260804070000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Tech Green Solutions 2026</title>
+    </programme>
+    <programme start="20260804070000 +0000" stop="20260804070500 +0000" channel="Arirang TV HD.starhub">
+        <title>Ai Headline News</title>
+    </programme>
+    <programme start="20260804070500 +0000" stop="20260804073000 +0000" channel="Arirang TV HD.starhub">
+        <title>Arirang Special</title>
+    </programme>
+    <programme start="20260804073000 +0000" stop="20260804080000 +0000" channel="Arirang TV HD.starhub">
+        <title>Diplomat&#039;s Archive: Hidden Stories</title>
+    </programme>
+    <programme start="20260804080000 +0000" stop="20260804083000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Daily Report</title>
+    </programme>
+    <programme start="20260804083000 +0000" stop="20260804090000 +0000" channel="Arirang TV HD.starhub">
+        <title>Press Perspective [L]</title>
+    </programme>
+    <programme start="20260804090000 +0000" stop="20260804100000 +0000" channel="Arirang TV HD.starhub">
+        <title>Gugak The Music Of Korea</title>
+    </programme>
+    <programme start="20260804100000 +0000" stop="20260804103000 +0000" channel="Arirang TV HD.starhub">
+        <title>With Science, We Live</title>
+    </programme>
+    <programme start="20260804103000 +0000" stop="20260804105000 +0000" channel="Arirang TV HD.starhub">
+        <title>Drawing Diary</title>
+    </programme>
+    <programme start="20260804105000 +0000" stop="20260804110000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
+    </programme>
+    <programme start="20260804110000 +0000" stop="20260804113000 +0000" channel="Arirang TV HD.starhub">
+        <title>Newscenter</title>
+    </programme>
+    <programme start="20260804113000 +0000" stop="20260804120000 +0000" channel="Arirang TV HD.starhub">
+        <title>Within The Frame [L]</title>
+    </programme>
+    <programme start="20260804120000 +0000" stop="20260804123000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Dive [R]</title>
+    </programme>
+    <programme start="20260804123000 +0000" stop="20260804125000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-People</title>
+    </programme>
+    <programme start="20260804125000 +0000" stop="20260804130000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Tech Green Solutions 2026</title>
+    </programme>
+    <programme start="20260804130000 +0000" stop="20260804130500 +0000" channel="Arirang TV HD.starhub">
+        <title>Ai Headline News</title>
+    </programme>
+    <programme start="20260804130500 +0000" stop="20260804133000 +0000" channel="Arirang TV HD.starhub">
+        <title>Arirang Special</title>
+    </programme>
+    <programme start="20260804133000 +0000" stop="20260804140000 +0000" channel="Arirang TV HD.starhub">
+        <title>Diplomat&#039;s Archive: Hidden Stories</title>
+    </programme>
+    <programme start="20260804140000 +0000" stop="20260804143000 +0000" channel="Arirang TV HD.starhub">
+        <title>Press Perspective [R]</title>
+    </programme>
+    <programme start="20260804143000 +0000" stop="20260804145000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage K-Asmr(20)</title>
+    </programme>
+    <programme start="20260804145000 +0000" stop="20260804150000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage</title>
+    </programme>
+    <programme start="20260804150000 +0000" stop="20260804153000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Generation [R]</title>
+    </programme>
+    <programme start="20260804153000 +0000" stop="20260804155000 +0000" channel="Arirang TV HD.starhub">
+        <title>Drawing Diary</title>
+    </programme>
+    <programme start="20260804155000 +0000" stop="20260804160000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
     </programme>
     <programme start="20260803160000 +0000" stop="20260803170000 +0000" channel="Fox News Channel.starhub">
         <title>Outnumbered</title>
@@ -6020,7 +6122,7 @@
         <title>The Immortal Life Of Henrietta Lacks</title>
     </programme>
     <programme start="20260804140000 +0000" stop="20260804150000 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 7</title>
+        <title>House Of The Dragon S3</title>
     </programme>
     <programme start="20260804150000 +0000" stop="20260804170500 +0000" channel="HBO Signature HD.starhub">
         <title>Rob Peace</title>
@@ -6355,8 +6457,11 @@
     <programme start="20260804114500 +0000" stop="20260804120000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 166</title>
     </programme>
-    <programme start="20260804120000 +0000" stop="20260804150000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>National Bank Open (1000) Day 2 R1 Session 3</title>
+    <programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Le Marathon des Sables</title>
+    </programme>
+    <programme start="20260804130000 +0000" stop="20260804150000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Mubadala DC Open (500) Final</title>
     </programme>
     <programme start="20260804150000 +0000" stop="20260804210000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open (1000) Day 3 R1 &amp; 2 Session 1</title>

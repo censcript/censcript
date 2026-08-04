@@ -29,37 +29,37 @@
 <title>Semua Indah Karena Cinta</title>
 </programme>
 <programme start="20260804171500 +0000" stop="20260804183000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Akang Baduy Mengejar Cinta</title>
 </programme>
 <programme start="20260804183000 +0000" stop="20260804190000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Miss Desa Oh Miss Ndeso</title>
 </programme>
 <programme start="20260804190000 +0000" stop="20260804200000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Mega Film TV Malam</title>
 </programme>
 <programme start="20260804200000 +0000" stop="20260804221500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun S4</title>
 </programme>
 <programme start="20260804221500 +0000" stop="20260804224500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Seputar iNews</title>
 </programme>
 <programme start="20260804224500 +0000" stop="20260805010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun Deui</title>
 </programme>
 <programme start="20260805010000 +0000" stop="20260805024500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Cinta Yasmin</title>
 </programme>
 <programme start="20260805024500 +0000" stop="20260805040000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Terlanjur Mencintaimu Arumi</title>
 </programme>
 <programme start="20260805040000 +0000" stop="20260805043000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Go Spot Ekslusif (RCTI)</title>
 </programme>
 <programme start="20260805043000 +0000" stop="20260805063000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Terikat Janji Selamanya</title>
 </programme>
 <programme start="20260805063000 +0000" stop="20260805120000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260804000000 +0000" stop="20260804003000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -122,7 +122,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260805010000 +0000" stop="20260805041500 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260805041500 +0000" stop="20260805050000 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -137,10 +137,10 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260805073000 +0000" stop="20260805090000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260805090000 +0000" stop="20260805110000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260805110000 +0000" stop="20260805120000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
@@ -182,49 +182,49 @@
 <title>GTV</title>
 </programme>
 <programme start="20260804170000 +0000" stop="20260804180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Uang Kaget</title>
 </programme>
 <programme start="20260804180000 +0000" stop="20260804190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>1001 Kisah</title>
 </programme>
 <programme start="20260804190000 +0000" stop="20260804210000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Ragam Cerita</title>
 </programme>
 <programme start="20260804210000 +0000" stop="20260804230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Petualangan Fantasi</title>
 </programme>
 <programme start="20260804230000 +0000" stop="20260804234500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>The Helping Heroes</title>
 </programme>
 <programme start="20260804234500 +0000" stop="20260805010000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>PAW Patrol</title>
 </programme>
 <programme start="20260805010000 +0000" stop="20260805020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260805020000 +0000" stop="20260805030000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Kiko</title>
 </programme>
 <programme start="20260805030000 +0000" stop="20260805033000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260805033000 +0000" stop="20260805053000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260805053000 +0000" stop="20260805080000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Zak Storm</title>
 </programme>
 <programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Jin &amp; Jun (GTV)</title>
 </programme>
 <programme start="20260805100000 +0000" stop="20260805110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260805110000 +0000" stop="20260805130000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20260803234500 +0000" stop="20260804001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>

@@ -5770,72 +5770,7 @@
 <programme start="20260804163500 +0000" stop="20260803170500 +0000" channel="Love Nature HD.mncvision">
     <title>Wild Tales From Farm S1, Ep 4</title>
 </programme>
-<programme start="20260803172500 +0000" stop="20260803175500 +0000" channel="MDTV.mncvision">
-    <title>86</title>
-</programme>
-<programme start="20260803175500 +0000" stop="20260803190000 +0000" channel="MDTV.mncvision">
-    <title>Perfume</title>
-</programme>
-<programme start="20260803190000 +0000" stop="20260803200500 +0000" channel="MDTV.mncvision">
-    <title>Kokdu: Season Of Deity</title>
-</programme>
-<programme start="20260803200500 +0000" stop="20260803211000 +0000" channel="MDTV.mncvision">
-    <title>Dear M</title>
-</programme>
-<programme start="20260803211000 +0000" stop="20260803225500 +0000" channel="MDTV.mncvision">
-    <title>Top Spot</title>
-</programme>
-<programme start="20260803225500 +0000" stop="20260803234500 +0000" channel="MDTV.mncvision">
-    <title>Menjemput Berkah</title>
-</programme>
-<programme start="20260803234500 +0000" stop="20260804010000 +0000" channel="MDTV.mncvision">
-    <title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20260804010000 +0000" stop="20260804015500 +0000" channel="MDTV.mncvision">
-    <title>Fakta +62</title>
-</programme>
-<programme start="20260804015500 +0000" stop="20260804030000 +0000" channel="MDTV.mncvision">
-    <title>SensasiHot</title>
-</programme>
-<programme start="20260804030000 +0000" stop="20260804035000 +0000" channel="MDTV.mncvision">
-    <title>Bawang Merah Bawang Putih</title>
-</programme>
-<programme start="20260804035000 +0000" stop="20260804045500 +0000" channel="MDTV.mncvision">
-    <title>SUCI</title>
-</programme>
-<programme start="20260804045500 +0000" stop="20260804055500 +0000" channel="MDTV.mncvision">
-    <title>Resep Chef Devina</title>
-</programme>
-<programme start="20260804055500 +0000" stop="20260804073000 +0000" channel="MDTV.mncvision">
-    <title>Makan Enak</title>
-</programme>
-<programme start="20260804073000 +0000" stop="20260804083000 +0000" channel="MDTV.mncvision">
-    <title>Laper Mata</title>
-</programme>
-<programme start="20260804083000 +0000" stop="20260804093000 +0000" channel="MDTV.mncvision">
-    <title>Masak Gesss!!!</title>
-</programme>
-<programme start="20260804093000 +0000" stop="20260804103500 +0000" channel="MDTV.mncvision">
-    <title>Main Drama Casting</title>
-</programme>
-<programme start="20260804103500 +0000" stop="20260804122500 +0000" channel="MDTV.mncvision">
-    <title>Carita de �ngel</title>
-</programme>
-<programme start="20260804122500 +0000" stop="20260804133000 +0000" channel="MDTV.mncvision">
-    <title>Ipar Adalah Maut The Series</title>
-</programme>
-<programme start="20260804133000 +0000" stop="20260804143500 +0000" channel="MDTV.mncvision">
-    <title>Kupu Malam</title>
-</programme>
-<programme start="20260804143500 +0000" stop="20260804153000 +0000" channel="MDTV.mncvision">
-    <title>Dunia Tanpa Tuhan</title>
-</programme>
-<programme start="20260804153000 +0000" stop="20260804163500 +0000" channel="MDTV.mncvision">
-    <title>Jatanras</title>
-</programme>
-<programme start="20260804163500 +0000" stop="20260803170500 +0000" channel="MDTV.mncvision">
-    <title>Customs Protection</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260803170000 +0000" stop="20260803170500 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
@@ -6035,7 +5970,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260804130000 +0000" stop="20260804160000 +0000" channel="MNCTV.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="MNCTV.mncvision">
     <title>Disconnected</title>
@@ -6089,7 +6024,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260804130000 +0000" stop="20260804160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="MNCTV HD.mncvision">
     <title>Disconnected</title>
@@ -7678,43 +7613,43 @@
 <programme start="20260803220000 +0000" stop="20260803230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260803230000 +0000" stop="20260804000000 +0000" channel="SCTV.mncvision">
+<programme start="20260803230000 +0000" stop="20260804000500 +0000" channel="SCTV.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260804000000 +0000" stop="20260804011500 +0000" channel="SCTV.mncvision">
+<programme start="20260804000500 +0000" stop="20260804010100 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260804011500 +0000" stop="20260804030000 +0000" channel="SCTV.mncvision">
-    <title>Kuli Panggul Cintanya Mantul</title>
+<programme start="20260804010100 +0000" stop="20260804024600 +0000" channel="SCTV.mncvision">
+    <title>Resep Cinta Kaki Lima, Rasa...</title>
 </programme>
-<programme start="20260804030000 +0000" stop="20260804050000 +0000" channel="SCTV.mncvision">
+<programme start="20260804024600 +0000" stop="20260804044300 +0000" channel="SCTV.mncvision">
     <title>How To Make King Of Strawberry</title>
 </programme>
-<programme start="20260804050000 +0000" stop="20260804053000 +0000" channel="SCTV.mncvision">
+<programme start="20260804044300 +0000" stop="20260804051900 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260804053000 +0000" stop="20260804070000 +0000" channel="SCTV.mncvision">
+<programme start="20260804051900 +0000" stop="20260804070300 +0000" channel="SCTV.mncvision">
     <title>Tersangkut Cinta Mas Supir</title>
 </programme>
-<programme start="20260804070000 +0000" stop="20260804081500 +0000" channel="SCTV.mncvision">
+<programme start="20260804070300 +0000" stop="20260804083700 +0000" channel="SCTV.mncvision">
     <title>Lupa Memorinya, Inget Sayangnya</title>
 </programme>
-<programme start="20260804081500 +0000" stop="20260804101500 +0000" channel="SCTV.mncvision">
-    <title>Jatuh Cinta Pada Aroma Pertama</title>
+<programme start="20260804083700 +0000" stop="20260804100700 +0000" channel="SCTV.mncvision">
+    <title>I&#039;m Addicted To Pak Dosen</title>
 </programme>
-<programme start="20260804101500 +0000" stop="20260804114500 +0000" channel="SCTV.mncvision">
+<programme start="20260804100700 +0000" stop="20260804113500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260804114500 +0000" stop="20260804131500 +0000" channel="SCTV.mncvision">
+<programme start="20260804113500 +0000" stop="20260804130600 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260804131500 +0000" stop="20260804144500 +0000" channel="SCTV.mncvision">
+<programme start="20260804130600 +0000" stop="20260804143500 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260804144500 +0000" stop="20260804160000 +0000" channel="SCTV.mncvision">
+<programme start="20260804143500 +0000" stop="20260804160500 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="SCTV.mncvision">
+<programme start="20260804160500 +0000" stop="20260804163500 +0000" channel="SCTV.mncvision">
     <title>The Sexy Doctor Is Mine</title>
 </programme>
 <programme start="20260803172800 +0000" stop="20260803184600 +0000" channel="SCTV HD.mncvision">
@@ -7738,43 +7673,43 @@
 <programme start="20260803220000 +0000" stop="20260803230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260803230000 +0000" stop="20260804000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260803230000 +0000" stop="20260804000500 +0000" channel="SCTV HD.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260804000000 +0000" stop="20260804011500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804000500 +0000" stop="20260804010100 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260804011500 +0000" stop="20260804030000 +0000" channel="SCTV HD.mncvision">
-    <title>Kuli Panggul Cintanya Mantul</title>
+<programme start="20260804010100 +0000" stop="20260804024600 +0000" channel="SCTV HD.mncvision">
+    <title>Resep Cinta Kaki Lima, Rasa...</title>
 </programme>
-<programme start="20260804030000 +0000" stop="20260804050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804024600 +0000" stop="20260804044300 +0000" channel="SCTV HD.mncvision">
     <title>How To Make King Of Strawberry</title>
 </programme>
-<programme start="20260804050000 +0000" stop="20260804053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804044300 +0000" stop="20260804051900 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260804053000 +0000" stop="20260804070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804051900 +0000" stop="20260804070300 +0000" channel="SCTV HD.mncvision">
     <title>Tersangkut Cinta Mas Supir</title>
 </programme>
-<programme start="20260804070000 +0000" stop="20260804081500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804070300 +0000" stop="20260804083700 +0000" channel="SCTV HD.mncvision">
     <title>Lupa Memorinya, Inget Sayangnya</title>
 </programme>
-<programme start="20260804081500 +0000" stop="20260804101500 +0000" channel="SCTV HD.mncvision">
-    <title>Jatuh Cinta Pada Aroma Pertama</title>
+<programme start="20260804083700 +0000" stop="20260804100700 +0000" channel="SCTV HD.mncvision">
+    <title>I&#039;m Addicted To Pak Dosen</title>
 </programme>
-<programme start="20260804101500 +0000" stop="20260804114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804100700 +0000" stop="20260804113500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260804114500 +0000" stop="20260804131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804113500 +0000" stop="20260804130600 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260804131500 +0000" stop="20260804144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804130600 +0000" stop="20260804143500 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260804144500 +0000" stop="20260804160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804143500 +0000" stop="20260804160500 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260804160500 +0000" stop="20260804163500 +0000" channel="SCTV HD.mncvision">
     <title>The Sexy Doctor Is Mine</title>
 </programme>
 <programme start="20260803170000 +0000" stop="20260803180000 +0000" channel="Sindo News TV.mncvision">
@@ -9463,10 +9398,10 @@
 <programme start="20260804080000 +0000" stop="20260804090000 +0000" channel="Vision Prime.mncvision">
     <title>Cinta Yasmin</title>
 </programme>
-<programme start="20260804090000 +0000" stop="20260804120000 +0000" channel="Vision Prime.mncvision">
+<programme start="20260804090000 +0000" stop="20260804110000 +0000" channel="Vision Prime.mncvision">
     <title>Terikat Janji</title>
 </programme>
-<programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="Vision Prime.mncvision">
+<programme start="20260804110000 +0000" stop="20260804130000 +0000" channel="Vision Prime.mncvision">
     <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20260804130000 +0000" stop="20260804140000 +0000" channel="Vision Prime.mncvision">
@@ -9520,10 +9455,10 @@
 <programme start="20260804080000 +0000" stop="20260804090000 +0000" channel="Vision Prime HD.mncvision">
     <title>Cinta Yasmin</title>
 </programme>
-<programme start="20260804090000 +0000" stop="20260804120000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20260804090000 +0000" stop="20260804110000 +0000" channel="Vision Prime HD.mncvision">
     <title>Terikat Janji</title>
 </programme>
-<programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="Vision Prime HD.mncvision">
+<programme start="20260804110000 +0000" stop="20260804130000 +0000" channel="Vision Prime HD.mncvision">
     <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20260804130000 +0000" stop="20260804140000 +0000" channel="Vision Prime HD.mncvision">
