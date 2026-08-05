@@ -16621,10 +16621,10 @@
   <programme start="20260807004800 +0000" stop="20260807012200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia I (12)</title>
   </programme>
-  <programme start="20260807012200 +0000" stop="20260807015500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260807012200 +0000" stop="20260807015600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polskie Parki Narodowe (8)</title>
   </programme>
-  <programme start="20260807015500 +0000" stop="20260807024000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260807015600 +0000" stop="20260807024000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (483)</title>
   </programme>
   <programme start="20260807024000 +0000" stop="20260807031800 +0000" channel="TVP Info.webtv.sk">

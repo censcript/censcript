@@ -14818,9 +14818,19 @@
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
   </channel>
-  <programme start="20260804140000 +0000" stop="20260804195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260804140000 +0000" stop="20260804183000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Medi? vs. Rodriguez - Main</title>
     <desc lang="en">On Saturday, August 1, UFC makes its debut at Belgrade Arena in Belgrade, Serbia with a Fight Night card headlined by a welterweight contest between electric finisher Uros “The Doctor” Medic and Daniel Rodriguez. A native of Novi Sad, Medic currently sits at No. 14 in the divisional ranks and earns his first main event assignment on the strength of consecutive first-round stoppage wins over Gilbert Urbina, Muslim Salikhov, and Geoff Neal. Positioned one spot behind him in the rankings, Rodriguez has similarly won three straight, most recently besting Kevin Holland at UFC 318 last summer in New Orleans.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804183000 +0000" stop="20260804190000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1101: Best Of 2023 - 2024</title>
+    <desc lang="en">UFC Ultimate Knockouts showcases the most thrilling KOs from recent UFC events in 2023 and 2024. Relive the explosive highlights from fighters like Max Holloway, Islam Makhachev, and Alex Pereira.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804190000 +0000" stop="20260804195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 320: Ankalaev vs Pereira</title>
+    <desc lang="en">UFC 320 Countdown previews two title fights. In the main event, Magomed Ankalaev battles Alex Pereira in a rematch for the light heavyweight crown. In the co-main event, Merab Dvalishvili puts his bantamweight belt on the line against Cory Sandhagen</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260804195500 +0000" stop="20260804200000 +0000" channel="unifisports1.unifitv">
@@ -14898,7 +14908,7 @@
     <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260805140000 +0000" stop="20260805195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260805140000 +0000" stop="20260805183000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Medi? vs. Rodriguez - Main</title>
     <desc lang="en">On Saturday, August 1, UFC makes its debut at Belgrade Arena in Belgrade, Serbia with a Fight Night card headlined by a welterweight contest between electric finisher Uros “The Doctor” Medic and Daniel Rodriguez. A native of Novi Sad, Medic currently sits at No. 14 in the divisional ranks and earns his first main event assignment on the strength of consecutive first-round stoppage wins over Gilbert Urbina, Muslim Salikhov, and Geoff Neal. Positioned one spot behind him in the rankings, Rodriguez has similarly won three straight, most recently besting Kevin Holland at UFC 318 last summer in New Orleans.</desc>
     <category lang="en">Sports</category>
@@ -14906,50 +14916,65 @@
   <channel id="spotv.unifitv">
     <display-name>SPOTV</display-name>
   </channel>
-  <programme start="20260804104500 +0000" stop="20260804171500 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) GOTF 2026: MOBA PC Dota 2 - Day 5 Semifinals</title>
-    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
+  <programme start="20260804150000 +0000" stop="20260804180000 +0000" channel="spotv.unifitv">
+    <title lang="en">Visit Qatar Sussex Stakes 2026</title>
+    <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260804180000 +0000" stop="20260804224500 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 MotoGP Rd 11 Liqui Moly Grand Prix of Germany - Race</title>
+    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260804224500 +0000" stop="20260804233100 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 MotoGP After the flag - Half Season Recap</title>
+    <desc lang="en">Join MotoGP presenters for a review of the biggest stories and highlights from the first half of the 2026 season.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260804233100 +0000" stop="20260805003000 +0000" channel="spotv.unifitv">
+    <title lang="en">SailGP S6: Emirates Great Britain Sail Grand Prix - Highlights</title>
+    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+    <category lang="en">Sailing</category>
+  </programme>
+  <programme start="20260805003000 +0000" stop="20260805020000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 The Asian Tournament, Chengdu - Game 18 Thailand Titans vs Sichuan Jincheng Whale</title>
+    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20260804171500 +0000" stop="20260804180000 +0000" channel="spotv.unifitv">
-    <title lang="en">E1 World Championship 2026 HLs - Rd 4 Monaco</title>
-    <desc lang="en">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
-    <category lang="en">Watersports</category>
+  <programme start="20260805020000 +0000" stop="20260805070000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) WTT Champions Yokohama 2026 - Day 2 Session 1</title>
+    <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
+    <category lang="en">Table Tennis</category>
   </programme>
-  <programme start="20260804180000 +0000" stop="20260805000000 +0000" channel="spotv.unifitv">
-    <title lang="en">AIG Women's Open 2026 - Round 2</title>
-    <desc lang="en">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20260805000000 +0000" stop="20260805013000 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Free Practice 1</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+  <programme start="20260805070000 +0000" stop="20260805083000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 FIA TCR World Tour, Vila Real - Round 9 Race</title>
+    <desc lang="en">Top touring car drivers compete across global circuits, delivering close racing, intense battles, and high-speed action in a world-class championship.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260805013000 +0000" stop="20260805023000 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Free Practice 2</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+  <programme start="20260805083000 +0000" stop="20260805120000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) WTT Champions Yokohama 2026 - Day 2 Session 2</title>
+    <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="spotv.unifitv">
+    <title lang="en">Unbridled: The Spruce Meadows Story - Part 1</title>
+    <desc lang="en">A captivating documentary celebrating the 50-year legacy of Spruce Meadows, exploring the people, horses, and unforgettable moments behind one of show jumping's most iconic venues.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 MotoGP Rd 11 Liqui Moly Grand Prix of Germany - Highlights</title>
+    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260805023000 +0000" stop="20260805042500 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Qualifying</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-    <category lang="en">Motorsports</category>
+  <programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="spotv.unifitv">
+    <title lang="en">2/8 2026 MLB Regular Season - Los Angeles Dodgers vs Boston Red Sox</title>
+    <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
+    <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260805042500 +0000" stop="20260805070000 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Race</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+  <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Road to Le Mans - Highlights</title>
+    <desc lang="en">Top LMP3 and GT3 teams take on the legendary Circuit de la Sarthe, showcasing endurance racing skill, strategy, and high-speed competition ahead of the iconic Le Mans 24 Hours.</desc>
     <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260805070000 +0000" stop="20260805074500 +0000" channel="spotv.unifitv">
-    <title lang="en">Formula E S12: Rd 15 Tokyo E-Prix - Highlights 1</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260805074500 +0000" stop="20260805173000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) GOTF 2026: MOBA PC Dota 2 - Day 6 3rd Place &amp; Final</title>
-    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
-    <category lang="en">Basketball</category>
   </programme>
   <channel id="spotv2.unifitv">
     <display-name>SPOTV2</display-name>
