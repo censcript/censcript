@@ -2641,11 +2641,11 @@
   <programme start="20260807040000 +0000" stop="20260807050000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">RANNÍ BUDÍČEK</title>
   </programme>
-  <programme start="20260807050000 +0000" stop="20260807060000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260807050000 +0000" stop="20260807063000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ŠLÁGRMIX</title>
   </programme>
-  <programme start="20260807060000 +0000" stop="20260807070000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
+  <programme start="20260807063000 +0000" stop="20260807070000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">NÁHODNÝ VÝBĚR</title>
   </programme>
   <programme start="20260807070000 +0000" stop="20260807090000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DOPOLEDNÍ STUDIO</title>
@@ -2659,11 +2659,11 @@
   <programme start="20260807120000 +0000" stop="20260807130000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Sázka na hit II</title>
   </programme>
-  <programme start="20260807130000 +0000" stop="20260807150000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260807130000 +0000" stop="20260807151500 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Vždy je něco nového!</title>
   </programme>
-  <programme start="20260807150000 +0000" stop="20260807175000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Zábava na Šlágru</title>
+  <programme start="20260807151500 +0000" stop="20260807175000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">NÁHODNÝ VÝBĚR</title>
   </programme>
   <programme start="20260807175000 +0000" stop="20260807182000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Sázka na hit II</title>
@@ -4675,10 +4675,10 @@
   <programme start="20260807181500 +0000" stop="20260807190000 +0000" channel="A11.webtv.sk">
     <title lang="id">Ztráty a nálezy Michala Jančaříka</title>
   </programme>
-  <programme start="20260807190000 +0000" stop="20260807210500 +0000" channel="A11.webtv.sk">
+  <programme start="20260807190000 +0000" stop="20260807210000 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobrý večer s Vrtulníkem</title>
   </programme>
-  <programme start="20260807210500 +0000" stop="20260807220000 +0000" channel="A11.webtv.sk">
+  <programme start="20260807210000 +0000" stop="20260807220000 +0000" channel="A11.webtv.sk">
     <title lang="id">Mladý Svět</title>
   </programme>
   <programme start="20260806220000 +0000" stop="20260806230000 +0000" channel="Arena Sport 1.webtv.sk">

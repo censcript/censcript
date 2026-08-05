@@ -1,7 +1,283 @@
 <!-- Fetching EPG from 2026-08-05 00:00:00 to 2026-08-06 00:00:00 MYT -->
-<!-- Total programs: 54, Total pages: 6 -->
+<!-- Total programs: 69, Total pages: 7 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="UnifiTV EPG Parser" generator-info-url="https://unifitv.com.my/">
+  <channel id="inspirasi.unifitv">
+    <display-name>Inspirasi</display-name>
+  </channel>
+  <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HURU HARA</title>
+    <desc lang="en">Huru hara ini membincangkan tentang dunia hiburan, perjalanan kerjaya tetamu jemputan dan persembahan artis. Artis jemputan pada episod kali ini adalah Fadhli Masoot, Ieda Moin, Dida Qirana dan Serra Kamal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="onscreen">S20E7</episode-num>
+  </programme>
+  <programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">TRENDSETTER</title>
+    <desc lang="en">Trendsetter kini kembali dalam musim terbaru bersama pengacara Zakuan Zainal! Episod kali ini menampilkan Adrihana Rashid (Usya Kedai), Nicholas Chin (Gaya &amp; Kerjaya), serta Muhammad Mirzan yang membedah perincian beg mewah LV Capucines.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">9.0.</episode-num>
+    <episode-num system="onscreen">S10E1</episode-num>
+  </programme>
+  <programme start="20260804163000 +0000" stop="20260804173000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HOMEGROWN SHOW</title>
+    <desc lang="en">Homegrown Show kali ini kembali dengan artis dan kugiran lokal tanah air anda. Episod ini memaparkan artis VOTA.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">9.12.</episode-num>
+    <episode-num system="onscreen">S10E13</episode-num>
+  </programme>
+  <programme start="20260804173000 +0000" stop="20260804183000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HURU HARA</title>
+    <desc lang="en">Huru hara ini membincangkan tentang dunia hiburan, perjalanan kerjaya tetamu jemputan dan persembahan artis. Artis jemputan pada episod kali ini adalah Fadhli Masoot, Ieda Moin, Dida Qirana dan Serra Kamal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="onscreen">S20E7</episode-num>
+  </programme>
+  <programme start="20260804183000 +0000" stop="20260804190000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">LUBUK</title>
+    <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di Pulau Tioman, Pahang bersama Joe Aziz.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <episode-num system="onscreen">S5E4</episode-num>
+  </programme>
+  <programme start="20260804190000 +0000" stop="20260804193000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">EKSPRESI FESYEN</title>
+    <desc lang="en">Aliya Marissa akan berbual fesyen bersama pengasas jenama Mokara. Untuk segmen GRWM (get ready with me), penonton akan mendapat idea untuk bergaya bersama tetamu jemputan, Rafidah yang merupakan seorang pencipta kandungan digital tentang fesyen.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <episode-num system="onscreen">S5E4</episode-num>
+  </programme>
+  <programme start="20260804193000 +0000" stop="20260804200000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">CELEBS DAY OFF</title>
+    <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Azizul Ammar.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+    <episode-num system="onscreen">S4E5</episode-num>
+  </programme>
+  <programme start="20260804200000 +0000" stop="20260804210000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">GEAR SHOW</title>
+    <desc lang="en">Bersama kumpulan Sunny Go membincangkan peralatan muzik serta tips penggunaan dan penjagaan untuk semua peringkat (pemula hingga profesional) dan juga Tips untuk guitar.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260804210000 +0000" stop="20260804213000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">KEMBARA</title>
+    <desc lang="en">Kembara kali ini membawa Azizul Ammar ke daerah Pedas, Negeri Sembilan untuk meneroka keunikan 'Masha &amp; The Bear' . Bukan sekadar nama yang mencuri tumpuan, lokasi ini menawarkan cabaran pendakian yang menguji stamina serta aktiviti memancing yang menenangkan di tasik yang menghijau</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+    <episode-num system="onscreen">S5E3</episode-num>
+  </programme>
+  <programme start="20260804213000 +0000" stop="20260804220000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">AROMA MASAK</title>
+    <desc lang="en">Hani Fadzil selaku hos musim ini akan menyediakan 2 menu istimewa iaitu Ayam Cendawan Berkrim &amp; Popia Vietnam In3 Udang sambil ditemani oleh artis jemputan, Aifique Khaikal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="onscreen">S20E5</episode-num>
+  </programme>
+  <programme start="20260804220000 +0000" stop="20260804223000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">RESEPI MOYANG</title>
+    <desc lang="en">Dalam episod ini, hos akan belajar memasak masakan tempatan iaitu Soto Ayam &amp; Sagu Gula Melaka. Dihoskan oleh Mek Yun.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">10.4.</episode-num>
+    <episode-num system="onscreen">S11E5</episode-num>
+  </programme>
+  <programme start="20260804223000 +0000" stop="20260804230000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">ROJAK</title>
+    <desc lang="en">Untuk Rojak episod kali ini, Hani dan Ilmo diberi tugasan untuk membuat kek mini dan mencuba makanan di Kafe Wondermilk, Damansara. Akhir sekali, kita akan menyaksikan geng Rojak menyelesaikan cabaran dan tugasan yang diberi dalam segmen “Cabaran” .</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">10.1.</episode-num>
+    <episode-num system="onscreen">S11E2</episode-num>
+  </programme>
+  <programme start="20260804230000 +0000" stop="20260804233000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">AROMA MASAK</title>
+    <desc lang="en">Hani Fadzil selaku hos musim ini akan menyediakan 2 menu istimewa iaitu Daging Cincang Kailan &amp; Popia Ketam Pedas sambil ditemani oleh artis jemputan, Naki.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.3.</episode-num>
+    <episode-num system="onscreen">S20E4</episode-num>
+  </programme>
+  <programme start="20260804233000 +0000" stop="20260805000000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">TRENDSETTER</title>
+    <desc lang="en">Trendsetter kini kembali dalam musim terbaru bersama pengacara Zakuan Zainal! Episod kali ini menampilkan Adrihana Rashid (Usya Kedai), Nicholas Chin (Gaya &amp; Kerjaya), serta Muhammad Mirzan yang membedah perincian beg mewah LV Capucines.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">9.0.</episode-num>
+    <episode-num system="onscreen">S10E1</episode-num>
+  </programme>
+  <programme start="20260805000000 +0000" stop="20260805010000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HURU HARA</title>
+    <desc lang="en">Huru hara ini membincangkan tentang dunia hiburan, perjalanan kerjaya tetamu jemputan dan persembahan artis. Artis jemputan pada episod kali ini adalah Fadhli Masoot, Ieda Moin, Dida Qirana dan Serra Kamal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="onscreen">S20E7</episode-num>
+  </programme>
+  <programme start="20260805010000 +0000" stop="20260805020000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HOMEGROWN SHOW</title>
+    <desc lang="en">Homegrown Show kali ini kembali dengan artis dan kugiran lokal tanah air anda. Episod ini memaparkan artis VOTA.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">9.12.</episode-num>
+    <episode-num system="onscreen">S10E13</episode-num>
+  </programme>
+  <programme start="20260805020000 +0000" stop="20260805023000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">RESEPI MOYANG</title>
+    <desc lang="en">Dalam episod ini, hos akan belajar memasak masakan tempatan iaitu Nasi Dagang &amp; Kuih Belebat Ubi. Dihoskan oleh Mek Yun.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">10.2.</episode-num>
+    <episode-num system="onscreen">S11E3</episode-num>
+  </programme>
+  <programme start="20260805023000 +0000" stop="20260805030000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">ROJAK</title>
+    <desc lang="en">Untuk Rojak episod kali ini, Hani dan Ilmo akan mencuba sukan “Wall Climbing” di Batu Climbing. Disegmen “Snacktime” mereka akan mencuba makanan di Lava Cafe, Mutiara Damansara. Manakala disegmen helah hidup dan 'DIY' Ilmo akan mencuba untuk mengecilkan leher baju lama.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">10.2.</episode-num>
+    <episode-num system="onscreen">S11E3</episode-num>
+  </programme>
+  <programme start="20260805030000 +0000" stop="20260805033000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">DAPUR BUJANG WESTERN</title>
+    <desc lang="en">Rancangan ini memaparkan Chef Naem yang akan berkongsi menu masakan yang mudah dan enak. Dalam episod kali ini, Chef akan menyediakan Ayam Bakar Keju Sumbat dan Fish &amp; Chips.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">7.4.</episode-num>
+    <episode-num system="onscreen">S8E5</episode-num>
+  </programme>
+  <programme start="20260805033000 +0000" stop="20260805040000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">AROMA MASAK</title>
+    <desc lang="en">Hani Fadzil selaku hos musim ini akan menyediakan 2 menu istimewa iaitu Ayam Cendawan Berkrim &amp; Popia Vietnam In3 Udang sambil ditemani oleh artis jemputan, Aifique Khaikal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="onscreen">S20E5</episode-num>
+  </programme>
+  <programme start="20260805040000 +0000" stop="20260805043000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">KLTV 2026</title>
+    <desc lang="en">Sebuah rancangan informasi yang memfokuskan tentang dunia hiburan di Malaysia dari pelancaran music &amp; wayang terbaru, isu isu panas terkini dan juga rancanga/Siri best untuk dilayan.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.30.</episode-num>
+    <episode-num system="onscreen">S2026E31</episode-num>
+  </programme>
+  <programme start="20260805043000 +0000" stop="20260805050000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">CELEBS DAY OFF</title>
+    <desc lang="en">Saksikan bagaimana seorang selebriti mengisi hari cuti mereka dengan bermacam aktiviti-aktiviti menarik. Dihoskan oleh Asmawi, anda akan mengenali lebih lanjut kisah kehidupan dan karier tetamu undangan kali ini, Myo.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <episode-num system="onscreen">S3E3</episode-num>
+  </programme>
+  <programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HURU HARA</title>
+    <desc lang="en">Huru hara ini membincangkan tentang dunia hiburan, perjalanan kerjaya tetamu jemputan dan persembahan artis. Artis jemputan pada episod kali ini adalah Fadhli Masoot, Ieda Moin, Dida Qirana dan Serra Kamal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="onscreen">S20E7</episode-num>
+  </programme>
+  <programme start="20260805060000 +0000" stop="20260805063000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">DEKO BAJET</title>
+    <desc lang="en">Untuk episod ini, pereka bentuk dalaman, Janna Baha selaku pengacara juga akan menghias semula ruang kerja milik keluarga Athirah di sebuah taman perumahan di Puncak Alam.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <episode-num system="onscreen">S4E8</episode-num>
+  </programme>
+  <programme start="20260805063000 +0000" stop="20260805070000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">KEMBARA</title>
+    <desc lang="en">Bersama Hos, Shahrul Kamal membawa penonton mengembara dan mencuba pelbagai aktiviti luar di Kem Tasik Biru, Jasin Melaka.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <episode-num system="onscreen">S4E1</episode-num>
+  </programme>
+  <programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HOMEGROWN SHOW</title>
+    <desc lang="en">Homegrown Show kali ini kembali dengan artis dan kugiran lokal tanah air anda. Episod ini memaparkan artis Social Circuit.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">9.6.</episode-num>
+    <episode-num system="onscreen">S10E7</episode-num>
+  </programme>
+  <programme start="20260805080000 +0000" stop="20260805083000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">1001 RESEPI PERIUK NASI</title>
+    <desc lang="en">Saksikan pelbagai cara menyediakan masak kegemaran semua dengan hanya mengunakan Periuk Nasi sahaja. Dalam episod ini Danny Aidil akan menyediakan Cucur Tengah Malam, Spageti Sardin &amp; Omlette Tortilla! Tak percaya jom saksikan!</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">15.1.</episode-num>
+    <episode-num system="onscreen">S16E2</episode-num>
+  </programme>
+  <programme start="20260805083000 +0000" stop="20260805090000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">TERBAIK DARI JALANAN</title>
+    <desc lang="en">Ikuti Suffren dan Banni dalam jelajah mereka menikmati makanan-makanan terbaik dari gerai, warung dan kedai kaki lima. Untuk episod kali ini, mereka akan pergi ke Halal Hong Kong Chee Cheong Fun, Pau Puchong Murah Lagi Sedap dan Noona's Plate (Noona's Koo-Ri-Ya).</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <episode-num system="onscreen">S3E7</episode-num>
+  </programme>
+  <programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">GEAR SHOW</title>
+    <desc lang="en">Bersama kumpulan Eleventonight membincangkan peralatan muzik serta tips penggunaan dan penjagaan untuk semua peringkat (pemula hingga profesional) dan juga review Multieffects Matribox II Pro Sonicake.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260805100000 +0000" stop="20260805110000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HURU HARA</title>
+    <desc lang="en">Huru hara ini membincangkan tentang dunia hiburan, perjalanan kerjaya tetamu jemputan dan persembahan artis. Artis jemputan pada episod kali ini adalah Fadhli Masoot, Ieda Moin, Dida Qirana dan Serra Kamal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="onscreen">S20E7</episode-num>
+  </programme>
+  <programme start="20260805110000 +0000" stop="20260805113000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">SEMBANG SELEBRITI</title>
+    <desc lang="en">Sembang selebriti merupakan rancangan bual bicara bersama selebriti yang menceritakan tentang pengalaman mereka di dalam dunia seni tanahair yang boleh dijadikan sumber inspirasi. Episod kali ini menampilkan Abang Sapau sebagai selebriti jemputan.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">15.1.</episode-num>
+    <episode-num system="onscreen">S16E2</episode-num>
+  </programme>
+  <programme start="20260805113000 +0000" stop="20260805120000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">TRENDSETTER</title>
+    <desc lang="en">Trendsetter kini kembali dalam musim terbaru bersama pengacara Zakuan Zainal! Episod kali ini menampilkan Adrihana Rashid (Usya Kedai), Nicholas Chin (Gaya &amp; Kerjaya), serta Muhammad Mirzan yang membedah perincian beg mewah LV Capucines.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">9.0.</episode-num>
+    <episode-num system="onscreen">S10E1</episode-num>
+  </programme>
+  <programme start="20260805120000 +0000" stop="20260805123000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">KLTV 2026</title>
+    <desc lang="en">Sebuah rancangan informasi yang memfokuskan tentang dunia hiburan di Malaysia dari pelancaran music &amp; wayang terbaru, isu isu panas terkini dan juga rancanga/Siri best untuk dilayan.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.30.</episode-num>
+    <episode-num system="onscreen">S2026E31</episode-num>
+  </programme>
+  <programme start="20260805123000 +0000" stop="20260805130000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">LUBUK</title>
+    <desc lang="en">Rancangan khas yang akan membawa anda ke tempat menarik dari sungai hinggalah ke tempat tersembunyi untuk memancing. Kali ni, kita ke lubuk memancing di Kong Kong, Pasir Gudang, Johor bersama Joe Aziz.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <episode-num system="onscreen">S5E1</episode-num>
+  </programme>
+  <programme start="20260805130000 +0000" stop="20260805133000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">1001 RESEPI PERIUK NASI</title>
+    <desc lang="en">Saksikan pelbagai cara menyediakan masak kegemaran semua dengan hanya mengunakan Periuk Nasi sahaja. Dalam episod ini Danny Aidil akan menyediakan Ayam Pecak, Ayam Woku &amp; Mi Gomak! Tak percaya jom saksikan!</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">15.2.</episode-num>
+    <episode-num system="onscreen">S16E3</episode-num>
+  </programme>
+  <programme start="20260805133000 +0000" stop="20260805140000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">AROMA MASAK</title>
+    <desc lang="en">Hani Fadzil selaku hos musim ini akan menyediakan 2 menu istimewa iaitu Ayam Cendawan Berkrim &amp; Popia Vietnam In3 Udang sambil ditemani oleh artis jemputan, Aifique Khaikal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.4.</episode-num>
+    <episode-num system="onscreen">S20E5</episode-num>
+  </programme>
+  <programme start="20260805140000 +0000" stop="20260805150000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">HURU HARA</title>
+    <desc lang="en">Huru hara ini membincangkan tentang dunia hiburan, perjalanan kerjaya tetamu jemputan dan persembahan artis. Artis jemputan pada episod kali ini adalah Fadhli Masoot, Ieda Moin, Dida Qirana dan Serra Kamal.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">19.6.</episode-num>
+    <episode-num system="onscreen">S20E7</episode-num>
+  </programme>
+  <programme start="20260805150000 +0000" stop="20260805160000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">PODCAST LAGENDA</title>
+    <desc lang="en">Episod kali ini bersama penyampai radio terkenal, Linda Onn. Beliau mengupas cabaran, tekanan industri, dan detik jatuh bangun yang membentuk kematangannya. Beliau turut berkongsi momen penting yang menjadi titik perubahan kerjaya serta pencapaian membanggakan sepanjang bergelar anak seni.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="inspirasi.unifitv">
+    <title lang="en">BAKAR</title>
+    <desc lang="en">Dihoskan oleh Chef Kim Rashid, beliau akan mengajar tiga menu baru setiap episod yang menggunakan ketuhar. Untuk episod kali ini, beliau akan menunjukkan cara menyediakan Kupang Bakar bersama Sos Salsa, Pulut Mangga Panggang &amp; Pastri Buah Muskat.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">20.5.</episode-num>
+    <episode-num system="onscreen">S21E6</episode-num>
+  </programme>
   <channel id="sensasi.unifitv">
     <display-name>Sensasi</display-name>
   </channel>
@@ -982,6 +1258,247 @@
     <episode-num system="xmltv_ns">0.29.</episode-num>
     <episode-num system="onscreen">S1E30</episode-num>
   </programme>
+  <channel id="didiktv.unifitv">
+    <display-name>Didik TV KPM</display-name>
+  </channel>
+  <programme start="20260804153000 +0000" stop="20260804160000 +0000" channel="didiktv.unifitv">
+    <title lang="en">KE JEPUN KE KITA?</title>
+    <desc lang="en">Episod ini, Wak Doyok bersama rakannya Asman dan Azahari ke daerah Inochima mengunjungi "Candle Tower" dan "Aquarium". Mereka juga melawat Manazuru dan pergi ke pusat kraftangan.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20260804160000 +0000" stop="20260804230000 +0000" channel="didiktv.unifitv">
+    <title lang="en">HOT FM@ntv7 2026</title>
+    <desc lang="en">HOT FM@ntv7 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.215.</episode-num>
+    <episode-num system="onscreen">S1E216</episode-num>
+  </programme>
+  <programme start="20260804230000 +0000" stop="20260804233000 +0000" channel="didiktv.unifitv">
+    <title lang="en">JUNGLE AGENT</title>
+    <desc lang="en">BUNYI MISTERI / AHLI SILAP MATA. Ejen Hutan terpaksa menjelaskan mesej yang dihantar ke fon telinga Blue Bear  Ejen hutan memulakan misi penyiasatan ahli silap mata yang hilang.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260804233000 +0000" stop="20260805000000 +0000" channel="didiktv.unifitv">
+    <title lang="en">BADAN BERUNIFORM 24/25</title>
+    <desc lang="en">Program ini memberi pengetahuan dan kemahiran asas kepada murid mengenai konsep kegiatan kokurikulum Badan Beruniform; meningkatkan pengetahuan dan kefahaman dalam perancangan serta pengurusan Badan Beruniform.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260805000000 +0000" stop="20260805010000 +0000" channel="didiktv.unifitv">
+    <title lang="en">PECUTAN 2022 Q3 Q4</title>
+    <desc lang="en">Episod ini menyediakan perkongsian teknik menjawab soalan Bahagian A, Kertas 2. Strategi menjawab dengan teknik yang betul bagi mendapatkan markah terbaik untuk Bahagian A bagi peperiksaan Sijil Pelajaran Malaysia (SPM) 2021.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
+  </programme>
+  <programme start="20260805010000 +0000" stop="20260805013000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH ATAS 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260805013000 +0000" stop="20260805020000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH ATAS 2026</title>
+    <desc lang="en">Episod ini membawa penonton meneroka rahsia di sebalik lengkung jambatan gerbang berbentuk parabola -- iaitu graf fungsi kuadratik f(x) = ax² + bx + c. Penonton akan belajar mengenal pasti Graf Senyum dan Graf Sedih, titik maksimum, titik minimum.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260805020000 +0000" stop="20260805023000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH RENDAH 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260805023000 +0000" stop="20260805030000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH RENDAH 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260805030000 +0000" stop="20260805033000 +0000" channel="didiktv.unifitv">
+    <title lang="en">PRASEKOLAH 2026</title>
+    <desc lang="en">Episod ini mengisahkan abang Ucu (guru) sebagai seorang detektif menyiasat pelbagai maklumat matematik dalam situasi di kedai, taman perumahan dan persekitarannya. Seterusnya mengumpulkan maklumat tersebut melalui tanda kiraan (tally).</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260805033000 +0000" stop="20260805040000 +0000" channel="didiktv.unifitv">
+    <title lang="en">TAHAP I 2026</title>
+    <desc lang="en">NUMERASI (TAHUN 1) MENGENAL NOMBOR HINGGA KE 100. Episod ini membimbing murid Tahun 1 mengenal nombor hingga 100, berfokus kepada nombor 0 hingga 20. Murid akan membilang, menyebut, dan menulis nombor menggunakan bahan maujud serta bergambar.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260805040000 +0000" stop="20260805043000 +0000" channel="didiktv.unifitv">
+    <title lang="en">TAHAP II 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap II (Tahun 4, 5 dan 6) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260805043000 +0000" stop="20260805050000 +0000" channel="didiktv.unifitv">
+    <title lang="en">TVET 2026</title>
+    <desc lang="en">TVET 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805050000 +0000" stop="20260805053000 +0000" channel="didiktv.unifitv">
+    <title lang="en">BULETIN DIDIK 2026</title>
+    <desc lang="en">BULETIN DIDIK 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.34.</episode-num>
+    <episode-num system="onscreen">S1E35</episode-num>
+  </programme>
+  <programme start="20260805053000 +0000" stop="20260805060000 +0000" channel="didiktv.unifitv">
+    <title lang="en">GENERASI MADANI 2026</title>
+    <desc lang="en">GENERASI MADANI 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805060000 +0000" stop="20260805063000 +0000" channel="didiktv.unifitv">
+    <title lang="en">SEKOLAHKU 24/25</title>
+    <desc lang="en">Program ini memaparkan keunikan sesebuah sekolah dan aspek yang menarik, sehingga dapat menjana rasa cinta kepada sekolah dan dijadikan contoh kepada sekolah lain.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260805063000 +0000" stop="20260805070000 +0000" channel="didiktv.unifitv">
+    <title lang="en">PRASEKOLAH 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Prasekolah berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="didiktv.unifitv">
+    <title lang="en">TAHAP I 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap I (Tahun 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="didiktv.unifitv">
+    <title lang="en">TAHAP II 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap II (Tahun 4, 5 dan 6) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260805080000 +0000" stop="20260805083000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH RENDAH 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260805083000 +0000" stop="20260805090000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH RENDAH 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20260805090000 +0000" stop="20260805093000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH ATAS 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20260805093000 +0000" stop="20260805100000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH ATAS 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH ATAS 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.53.</episode-num>
+    <episode-num system="onscreen">S1E54</episode-num>
+  </programme>
+  <programme start="20260805103000 +0000" stop="20260805110000 +0000" channel="didiktv.unifitv">
+    <title lang="en">BADAN BERUNIFORM 24/25</title>
+    <desc lang="en">Program ini memberi pengetahuan dan kemahiran asas kepada murid mengenai konsep kegiatan kokurikulum Badan Beruniform; meningkatkan pengetahuan dan kefahaman dalam perancangan serta pengurusan Badan Beruniform.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260805110000 +0000" stop="20260805113000 +0000" channel="didiktv.unifitv">
+    <title lang="en">BULETIN DIDIK 2026</title>
+    <desc lang="en">BULETIN DIDIK 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.35.</episode-num>
+    <episode-num system="onscreen">S1E36</episode-num>
+  </programme>
+  <programme start="20260805113000 +0000" stop="20260805120000 +0000" channel="didiktv.unifitv">
+    <title lang="en">ARMOR RANGERS</title>
+    <desc lang="en">KRISIS TAMAN HIBURAN. Pasukan Armor Rangers bertebung dengan musuh dari Dimensi Intelijen Ketika mereka sedang mencari 3 Armoco yang hilang di sebuah taman hiburan.Berlaku pertarungan sengit.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="didiktv.unifitv">
+    <title lang="en">PECUTAN 2022 Q3 Q4</title>
+    <desc lang="en">Episod ini menyediakan perkongsian teknik menjawab soalan peperiksaan Sijil Pelajaran Malaysia (SPM) 2021 dan penekanan terhadap topik-topik penting dalam Kertas 1 yang berkemungkinan diajukan dalam peperiksaan SPM sebenar.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <episode-num system="onscreen">S1E31</episode-num>
+  </programme>
+  <programme start="20260805130000 +0000" stop="20260805133000 +0000" channel="didiktv.unifitv">
+    <title lang="en">GENERASI MADANI 2026</title>
+    <desc lang="en">GENERASI MADANI 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260805133000 +0000" stop="20260805140000 +0000" channel="didiktv.unifitv">
+    <title lang="en">SEKOLAHKU 24/25</title>
+    <desc lang="en">Program ini memaparkan keunikan sesebuah sekolah dan aspek yang menarik, sehingga dapat menjana rasa cinta kepada sekolah dan dijadikan contoh kepada sekolah lain.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260805140000 +0000" stop="20260805150000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MAJALAH DIDIK</title>
+    <desc lang="en">Episod ini, pengacara Cikgu Amin Husin akan melihat projek “I Can” oleh pelajar SMK Kampung Laut menangani isu 'body shaming' iaitu sesuatu tindakan atau amalan memalukan seseorang mengenai bentuk atau saiz badan mereka.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260805150000 +0000" stop="20260805153000 +0000" channel="didiktv.unifitv">
+    <title lang="en">DESTINASI BUDGET</title>
+    <desc lang="en">Episod ini hos Qushairi melancong ke Cameron Highland untuk 3 hari 2 malam dengan bajet RM300. Hos telah melawat tempat-tempat menarik seperti ladang Teh Boh, Butterfly Farm, Raju's Strawberry Farm dan Cactus Valley dan KEA Farm.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260805153000 +0000" stop="20260805160000 +0000" channel="didiktv.unifitv">
+    <title lang="en">KE JEPUN KE KITA?</title>
+    <desc lang="en">Episod ini, Wak Doyok, Ain dan Myo meneruskan pengembaraan ke Shibuya Crossing yang terkenal dengan kawasan pejalan kaki yang terbesar dan paling ramai dilalui di Jepun. Di sini mereka bermain cabaran berswafoto.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20260805160000 +0000" stop="20260805230000 +0000" channel="didiktv.unifitv">
+    <title lang="en">HOT FM@ntv7 2026</title>
+    <desc lang="en">HOT FM@ntv7 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.216.</episode-num>
+    <episode-num system="onscreen">S1E217</episode-num>
+  </programme>
   <channel id="8tv.unifitv">
     <display-name>8TV</display-name>
   </channel>
@@ -1892,581 +2409,6 @@
     <desc lang="en">Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
     <category lang="en">Education</category>
   </programme>
-  <channel id="tvs.unifitv">
-    <display-name>TV Sarawak</display-name>
-  </channel>
-  <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="tvs.unifitv">
-    <title lang="en">My Bubble Tea</title>
-    <desc lang="en">On her 24th birthday, 'love never lost' magical bubble tea is given to Modem as a gift. She insists never to use it. Magic-induced love can never be true. The universe suddenly proves her wrong as that tea, thinking that she threw it away, is served right down to the helmet of BearBike man.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="tvs.unifitv">
-    <title lang="en">Aroma Malaysia</title>
-    <desc lang="en">Aroma Malaysia menampilkan eksplorasi kulinari yang memperkenalkan hidangan tradisional dan tempatan, diperkaya dengan pengalaman pengembaraan merentasi pelbagai destinasi budaya</desc>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260804163000 +0000" stop="20260804170000 +0000" channel="tvs.unifitv">
-    <title lang="en">Agrotech Heroes</title>
-    <desc lang="en">AGROTECH HEROES, aims to nurture future Sarawak farmers by involving six contestants in 13 challenges involving agriculture, technology, and entrepreneurship for the grand prize of RM10,000</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260804170000 +0000" stop="20260804180000 +0000" channel="tvs.unifitv">
-    <title lang="en">Barbarossa</title>
-    <desc lang="en">During the reign of the Ottoman Empire, four brothers from Lesvos face many dangers and become the conquerors of the seas</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260804180000 +0000" stop="20260804183000 +0000" channel="tvs.unifitv">
-    <title lang="en">Alunan Borneo</title>
-    <desc lang="en">Alunan Borneo, sebuah travelog seorang anak seni untuk mengenali lebih dekat tentang muzik/irama tradisi etnik di Bumi Kenyalang dan berkenalan dengan lebih dekat dengan etnik-etnik di Sarawak.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260804183000 +0000" stop="20260804190000 +0000" channel="tvs.unifitv">
-    <title lang="en">Aroma Puncak Borneo</title>
-    <desc lang="en">Catatan perjalanan seorang nomad, eksplorasi masakan dan makanan unik etnik di pergunungan / tanah tinggi, selain menemukan pengalaman baharu mengenai adat, budaya dan tradisi..</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260804190000 +0000" stop="20260804193000 +0000" channel="tvs.unifitv">
-    <title lang="en">Sarawak Angler</title>
-    <desc lang="en">Program realiti memancing laut dalam di perairan Sarawak diadakan bagi menduga dan mencari spesies ikan hebat.Pemancing profesional dari Sarawak telah dipilih untuk bertanding dalam program realiti ini.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260804193000 +0000" stop="20260804200000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kediaman Agro</title>
-    <desc lang="en">'KEDIAMAN AGRO' merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260804200000 +0000" stop="20260804203000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kek &amp; Pastri</title>
-    <desc lang="en">Kek &amp; Pastri Siri 2 menampilkan selebriti mencipta resepi kek, pastri, dan hidangan savouri menggunakan bahan tempatan dan teknik membakar serta mengukus untuk hasil yang lazat dan inovatif.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20260804203000 +0000" stop="20260804210000 +0000" channel="tvs.unifitv">
-    <title lang="en">My Body, My Life!</title>
-    <desc lang="en">'My Body, My Life!' is a TV series tackling obesity-related diseases, offering expert insights, real-life stories, and practical health strategies to empower Sarawak's community for a healthier future.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260804210000 +0000" stop="20260804213000 +0000" channel="tvs.unifitv">
-    <title lang="en">Borneo's Unique Building</title>
-    <desc lang="en">Siri dokumentari yang memfokuskan kepada senibina bangunan dan infrastruktur di Sarawak, yang menampilkan dua binaan iaitu satu senibina moden/kontemporari dan satu lagi senibina tradisi/kolonial.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260804213000 +0000" stop="20260804220000 +0000" channel="tvs.unifitv">
-    <title lang="en">Belawan Memasak</title>
-    <desc lang="en">Dua selebriti Cef, Pison Jaujip (Sabah) dan Achang Libat (Sarawak), bersaing memasak menggunakan bahan utama dari hutan atau pasar, dengan cara masakan berbeza, untuk menjadi pemenang 6 episod.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260804220000 +0000" stop="20260804223000 +0000" channel="tvs.unifitv">
-    <title lang="en">Journey of The Bidayuh</title>
-    <desc lang="en">James Ritchie will take us to discover more about the Bidayuh. A documentary series that will touch on the aspects of Bidayuh culture, tradition, history and where this race fares in today's world.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260804223000 +0000" stop="20260804230000 +0000" channel="tvs.unifitv">
-    <title lang="en">My Health, My Choice</title>
-    <desc lang="en">My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
-    <category lang="en">Edutainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260804230000 +0000" stop="20260804233000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) TVS Pagi</title>
-    <desc lang="en">TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260804233000 +0000" stop="20260805000000 +0000" channel="tvs.unifitv">
-    <title lang="en">The Human Odyssey</title>
-    <desc lang="en">Dokumentari ini menelusuri kisah asal usul dan pengembaraan manusia sejagat dalam memahami siapa kita dan dari mana kita datang melalui lakonan semula dan rekaan visual yang menarik.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260805000000 +0000" stop="20260805000500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) World News</title>
-    <desc lang="en">Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805000500 +0000" stop="20260805001500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
-  </programme>
-  <programme start="20260805001500 +0000" stop="20260805003000 +0000" channel="tvs.unifitv">
-    <title lang="en">VitalMotion</title>
-    <desc lang="en">VitalMotion is a dynamic and flexible exercise program designed to make fitness accessible for everyone.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260805003000 +0000" stop="20260805010000 +0000" channel="tvs.unifitv">
-    <title lang="en">The Cloth Story</title>
-    <desc lang="en">The Cloth Story season 2 focuses on textiles, such as Pua, Songket, Tenun, Batik and Keringkam from the Borneo region. The cloth, the raw materials, the artisans, the history, the evolution and so much more.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20260805010000 +0000" stop="20260805011500 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) TVS Sana Sini</title>
-    <desc lang="en">A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories alongside the Weather Report, providing a look at climate and environmental conditions affecting the country.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805011500 +0000" stop="20260805014500 +0000" channel="tvs.unifitv">
-    <title lang="en">Borneo Tech Heroes</title>
-    <desc lang="en">Explore Borneo's digital revolution in this documentary series, showcasing innovative tech, thriving startups, and how they're transforming communities and reshaping the island's socio-economic landscape in the 4.0 era.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260805014500 +0000" stop="20260805020000 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) Detik Dunia</title>
-    <desc lang="en">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20260805020000 +0000" stop="20260805020500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805020500 +0000" stop="20260805021500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
-  </programme>
-  <programme start="20260805021500 +0000" stop="20260805024500 +0000" channel="tvs.unifitv">
-    <title lang="en">Startup Sarawak</title>
-    <desc lang="en">Startup Sarawak' brings together digital entrepreneurs and other stakeholders in promoting the development of digital startup companies and initiatives in positioning Sarawak as the preferred startup hub for technology and entrepreneurs development.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260805024500 +0000" stop="20260805030000 +0000" channel="tvs.unifitv">
-    <title lang="en">Borneo From Above</title>
-    <desc lang="en">To promote and highlighting development of Sarawak</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20260805030000 +0000" stop="20260805031500 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Berita Iban TVS</title>
-    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805031500 +0000" stop="20260805034500 +0000" channel="tvs.unifitv">
-    <title lang="en">From Malaysia With Love</title>
-    <desc lang="en">Tiga Pengacara, Chef Adu Amran, Fiza Frizzy dan Kelvin Yap akan menyelami dan merasai pengalaman kehidupan masyarakat lokal dari pelbagai etnik.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260805034500 +0000" stop="20260805040000 +0000" channel="tvs.unifitv">
-    <title lang="en">Masters Of The Rainforest</title>
-    <desc lang="en">A documentary exploring the music, stories, and identities of three indigenous Sarawak groups, while showcasing the region's beauty and vibrant cultural heritage.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260805040000 +0000" stop="20260805041500 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) TVS Tengahari</title>
-    <desc lang="en">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805041500 +0000" stop="20260805043000 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
-  </programme>
-  <programme start="20260805043000 +0000" stop="20260805050000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kek &amp; Pastri</title>
-    <desc lang="en">Kek &amp; Pastri Siri 2 menampilkan selebriti mencipta resepi kek, pastri, dan hidangan savouri menggunakan bahan tempatan dan teknik membakar serta mengukus untuk hasil yang lazat dan inovatif.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20260805050000 +0000" stop="20260805051500 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Re Bao</title>
-    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805051500 +0000" stop="20260805053000 +0000" channel="tvs.unifitv">
-    <title lang="en">Sarawak Panorama</title>
-    <desc lang="en">Sarawak Panorama is a short story to discover beautiful places in Sarawak.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260805053000 +0000" stop="20260805060000 +0000" channel="tvs.unifitv">
-    <title lang="en">Salam Nusantara</title>
-    <desc lang="en">Mengungkap lebih banyak khazanah negeri Sarawak yang masih belum lagi diketahui oleh khalayak awam khasnya tentang perkembangan tamadun masyarakat majmuk Sarawak termasuklah umat Islam di negeri ini.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260805060000 +0000" stop="20260805060500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805060500 +0000" stop="20260805061500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
-  </programme>
-  <programme start="20260805061500 +0000" stop="20260805063000 +0000" channel="tvs.unifitv">
-    <title lang="en">Sarawak My Pride</title>
-    <desc lang="en">This 6-episode TV magazine series follows some of Sarawak's most inspiring individuals who've made their mark across Malaysia.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260805063000 +0000" stop="20260805070000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kediaman Agro</title>
-    <desc lang="en">'KEDIAMAN AGRO' merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260805070000 +0000" stop="20260805070500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Highlight</title>
-    <desc lang="en">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805070500 +0000" stop="20260805080000 +0000" channel="tvs.unifitv">
-    <title lang="en">Siti In The City</title>
-    <desc lang="en">Siti, anak yatim piatu yang hanya mahu hidup tenang sebagai content creator, tiba-tiba jadi terkenal kerana fitnah. Tapi, kebenaran terbongkar, dan dia naik sebagai content creator kegemaran ramai.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260805080000 +0000" stop="20260805080500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805080500 +0000" stop="20260805081500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
-  </programme>
-  <programme start="20260805081500 +0000" stop="20260805090000 +0000" channel="tvs.unifitv">
-    <title lang="en">Isteri Misteri</title>
-    <desc lang="en">The seemingly content domesticity of a Kuala Lumpur household goes up in flames when a hapless polygamist receives a witch doctor's prophecy that one of his wives is out to kill him but which one?! He must rethink his misconceptions of his wives and their seemingly harmless facades in order to outsmart the murderer.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260805090000 +0000" stop="20260805093000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Berita Wilayah TVS</title>
-    <desc lang="en">Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805093000 +0000" stop="20260805100000 +0000" channel="tvs.unifitv">
-    <title lang="en">Decimal Point</title>
-    <desc lang="en">Weekly business show is set to become your trusted source for all things business, economics, and current affairs. Your gateway to making informed decisions in today's fast-paced business environment.</desc>
-    <episode-num system="xmltv_ns">5.12.</episode-num>
-    <episode-num system="onscreen">S6E13</episode-num>
-  </programme>
-  <programme start="20260805100000 +0000" stop="20260805101500 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Re Bao</title>
-    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805101500 +0000" stop="20260805103000 +0000" channel="tvs.unifitv">
-    <title lang="en">Nomads of the Rainforest</title>
-    <desc lang="en">Nomads of the Rainforest: The Penan Legacy is a 3-episode documentary series following a Penan woman's journey from the rainforest to the city, exploring her culture, traditions, and efforts to preserve her heritage.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260805103000 +0000" stop="20260805110000 +0000" channel="tvs.unifitv">
-    <title lang="en">Borneo's Unique Building</title>
-    <desc lang="en">Siri dokumentari yang memfokuskan kepada senibina bangunan dan infrastruktur di Sarawak, yang menampilkan dua binaan iaitu satu senibina moden/kontemporari dan satu lagi senibina tradisi/kolonial.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260805110000 +0000" stop="20260805113000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Berita Iban TVS</title>
-    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805113000 +0000" stop="20260805114000 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) Menarik Sepuluh</title>
-    <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805114000 +0000" stop="20260805121500 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) UTAMA 740</title>
-    <desc lang="en">UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805121500 +0000" stop="20260805123000 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) Detik Dunia</title>
-    <desc lang="en">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20260805123000 +0000" stop="20260805133000 +0000" channel="tvs.unifitv">
-    <title lang="en">Siti In The City</title>
-    <desc lang="en">Siti, anak yatim piatu yang hanya mahu hidup tenang sebagai content creator, tiba-tiba jadi terkenal kerana fitnah. Tapi, kebenaran terbongkar, dan dia naik sebagai content creator kegemaran ramai.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260805133000 +0000" stop="20260805141500 +0000" channel="tvs.unifitv">
-    <title lang="en">Inspirasi Duniamu</title>
-    <desc lang="en">Inspirasi TVS merupakan segmen berita istimewa yang disampaikan oleh selebriti tempatan dengan mengetengahkan laporan berkaitan rakyat, hiburan serta topik trending.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260805141500 +0000" stop="20260805143000 +0000" channel="tvs.unifitv">
-    <title lang="en">Ripples Of Time</title>
-    <desc lang="en">Ripples of Time explores the history of Kuching's kampungs along Sungai Sarawak, tracing their journey from early settlements to modern-day development, highlighting stories of heritage, displacement, and resilience.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) TVS Nightline</title>
-    <desc lang="en">Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260805150000 +0000" stop="20260805151500 +0000" channel="tvs.unifitv">
-    <title lang="en">Borneo From Above</title>
-    <desc lang="en">To promote and highlighting development of Sarawak</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20260805151500 +0000" stop="20260805163000 +0000" channel="tvs.unifitv">
-    <title lang="en">Hwarang: The Poet Warrior Youth</title>
-    <desc lang="en">Amidst palace politics spear-headed by an over-ambitious queen who refuses to step down from the throne, Hwarang, a group of warriors, gets trained to protect the kingdom.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Assalamualaikum Biz</title>
-    <desc lang="en">Slot khusus program Assalamualaikum memaparkan usaha pembinaan masjid-masjid, institusi pendidikan dan badan-badan kemanusiaan.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260804160000 +0000" stop="20260804170000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Siaran Langsung Madinah (L)</title>
-    <desc lang="en">Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260804170000 +0000" stop="20260804173000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Reflections</title>
-    <desc lang="en">Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260804173000 +0000" stop="20260804193000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Siaran Langsung Mekah (L)</title>
-    <desc lang="en">Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260804193000 +0000" stop="20260804203000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">My Qurantime 2.0</title>
-    <desc lang="en">Rancangan mentadabbur ayat suci Al-Quran dengan misi membawa masyarakat mendalami maksud dan pengajaran darinya setiap hari.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.45.</episode-num>
-    <episode-num system="onscreen">S1E46</episode-num>
-  </programme>
-  <programme start="20260804203000 +0000" stop="20260804210000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Cinta Ilmu</title>
-    <desc lang="en">Berpandukan kitab Riyadhus Shalihin, menampilkan Ustaz Zul Ramli Mohamed Razali dalam segmen Ihsan merungkai tajuk "Cabang Iman: Amal Lisan" tentang kepentingan memelihara lisan sebagai salah satu cabang iman.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.91.</episode-num>
-    <episode-num system="onscreen">S1E92</episode-num>
-  </programme>
-  <programme start="20260804210000 +0000" stop="20260804220000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Quran@114</title>
-    <desc lang="en">Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.210.</episode-num>
-    <episode-num system="onscreen">S1E211</episode-num>
-  </programme>
-  <programme start="20260804220000 +0000" stop="20260804223000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Hadis@114</title>
-    <desc lang="en">Hadis 114 menampilkan Ustaz Muhammad Hafiz Abdul Rahman sebagai penceramah menyampaikan pengajian ilmu hadis dengan membincangkan tajuk 'Seramnya Azab Api Neraka' dari hadis Sahih Al-Bukhari.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.192.</episode-num>
-    <episode-num system="onscreen">S1E193</episode-num>
-  </programme>
-  <programme start="20260804223000 +0000" stop="20260804230000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Assalamualaikum Subuh (L)</title>
-    <desc lang="en">Program bual bicara keagamaanmengupas topik berkaitan dengan menghidupkan ibadah di waktu Subuh bagi meraih keberkatan dari Allah SWT.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260804230000 +0000" stop="20260805010000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Assalamualaikum(L)</title>
-    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805010000 +0000" stop="20260805020000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Assalamualaikum An-Nisa (L)</title>
-    <desc lang="en">Program yang membawa pelbagai isu hal ehwal wanita &amp; mengangkat ikon Wanita Syurga Saidatina Siti Khadijah RA.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805020000 +0000" stop="20260805023000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Ad Dhuha</title>
-    <desc lang="en">Himpunan doa, zikir, dan bacaan Al-Quran untuk menerangi waktu Dhuha anda.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805023000 +0000" stop="20260805030000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Assalamualaikum Ustaz</title>
-    <desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.196.</episode-num>
-    <episode-num system="onscreen">S1E197</episode-num>
-  </programme>
-  <programme start="20260805030000 +0000" stop="20260805040000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Quran@114</title>
-    <desc lang="en">Program yang bertujuan untuk membawa masyarakat lebih dekat dengan Al-Quran, dengan memudahkan mereka untuk mentadabur dan memahami intipati kitab suci.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.211.</episode-num>
-    <episode-num system="onscreen">S1E212</episode-num>
-  </programme>
-  <programme start="20260805040000 +0000" stop="20260805050000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">WowShopxTVAlhijrah</title>
-    <desc lang="en">Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805050000 +0000" stop="20260805053000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Panggilan Agung Zohor</title>
-    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805053000 +0000" stop="20260805060000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Cinta Ilmu</title>
-    <desc lang="en">Berpandukan kitab Riyadhus Shalihin, menampilkan Ustaz Zul Ramli Mohamed Razali dalam segmen Ihsan merungkai tajuk "Cabang Iman: Amal Lisan" tentang kepentingan memelihara lisan sebagai salah satu cabang iman.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.91.</episode-num>
-    <episode-num system="onscreen">S1E92</episode-num>
-  </programme>
-  <programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">WowShopxTVAlhijrah</title>
-    <desc lang="en">Jom membeli di WowShopxTVAlhijrah yang pasti harga berbaloi yang ditawarkan khas buat semua penonton di TV Alhijrah. Jangan lepaskan peluang membeli bersama kami.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">My Qurantime 2.0</title>
-    <desc lang="en">Rancangan mentadabbur ayat suci Al-Quran dengan misi membawa masyarakat mendalami maksud dan pengajaran darinya setiap hari.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.46.</episode-num>
-    <episode-num system="onscreen">S1E47</episode-num>
-  </programme>
-  <programme start="20260805080000 +0000" stop="20260805083000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Selawat Zikir Fillers</title>
-    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805083000 +0000" stop="20260805090000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Panggilan Agung Asar</title>
-    <desc lang="en">Alunan selawat, zikir dan bacaan Al-Quran.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Dakwah Live</title>
-    <desc lang="en">Sebuah program siaran langsung membincangkan isu-isu semasa yang berlaku dalam kehidupan masyarakat muslim khususnya yang akan dikupas dari perspektif ilmuan</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Hadis@114</title>
-    <desc lang="en">Hadis 114 menampilkan Ustaz Amir Haziq Amir Suhaimi, membincangkan dan mengulas pengajian ilmu asas hadis dengan tajuk 'Mahram Susuan: Hakikat dan Batasan' dari hadis Sahih Al-Bukhari.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.193.</episode-num>
-    <episode-num system="onscreen">S1E194</episode-num>
-  </programme>
-  <programme start="20260805103000 +0000" stop="20260805110000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Rare Alhijrah</title>
-    <desc lang="en">Rare Alhijrah, sebuah program travelog yang mengetengahkan destinasi, budaya dan kisah kominiti dari perspektif luar kebiasaan. Episod kali ini Saiful Nang mengunjungi Stokes Inlet yang terletak di Stokes National Park.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.69.</episode-num>
-    <episode-num system="onscreen">S1E70</episode-num>
-  </programme>
-  <programme start="20260805110000 +0000" stop="20260805113000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Panggilan Agung Maghrib</title>
-    <desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805113000 +0000" stop="20260805120000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Cinta Ilmu</title>
-    <desc lang="en">Sebuah program kerohanian yang menampilkan Sahibus Samahah (SS) Prof. Madya Dato' Dr. Mohd Sukki Othman dalam segmen Ihsan yang bertajuk “Bersifat Tenang Dalam Ibadat” berpandukan kitab Riyadhus Shalihin.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.92.</episode-num>
-    <episode-num system="onscreen">S1E93</episode-num>
-  </programme>
-  <programme start="20260805120000 +0000" stop="20260805123000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Berita Alhijrah (L)</title>
-    <desc lang="en">Kompilasi laporan berita utama dalam dan luar negara, laporan eksklusif isu semasa ummah, lintas langsung dan laporan khas.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805123000 +0000" stop="20260805130000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Pesan</title>
-    <desc lang="en">Mengupas tentang 'Ketika Hati Bertasbih' yang membincangkan kepentingan membasahkan lidah dengan zikir dan tasbih dapat menyucikan hati daripada kelalaian oleh Ustaz Nik Omar Nik Abdul Aziz.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Analisis (L)</title>
-    <desc lang="en">Analisis adalah sebuah program bual bicara, mendalami topik-topik isu semasa yang hangat diperdebatkan di media massa mahu pun media sosial. Ia turut menampilkan tetamu-tetamu undangan dalam kalangan pakar, tokoh ilmuan dan asatizah dari pelbagai bidang dan kemahiran.</desc>
-    <category lang="en">Education</category>
-  </programme>
-  <programme start="20260805140000 +0000" stop="20260805143000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Reflections 2026</title>
-    <desc lang="en">Reflections menampilkan tokoh-tokoh ilmuan Islam yang memberi pencerahan dan bimbingan kerohanian kepada penonton mengenai isu-isu semasa dan klasik dalam konteks Islam.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Masjid Ke Masjid</title>
-    <desc lang="en">Sebuah program pengembaraan Masjid ke Masjid dalam meneroka keindahan dan keunikan peranan masjid ikonik iaitu Masjid Cyber 10 di Cyberjaya, Masjid Al-Uum dan Masjid Al-Hasanah di Bandar Baru Bangi yang dihoskan oleh Shahkimin.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260805150000 +0000" stop="20260805160000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Assalamualaikum Biz</title>
-    <desc lang="en">Slot khusus program Assalamualaikum memaparkan usaha pembinaan masjid-masjid, institusi pendidikan dan badan-badan kemanusiaan.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="tvalhijrahhd.unifitv">
-    <title lang="en">Siaran Langsung Madinah (L)</title>
-    <desc lang="en">Rancangan yang membawakan info-info ,hal ehwal semasa dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
-    <category lang="en">Education</category>
-  </programme>
   <channel id="siar.unifitv">
     <display-name>SIAR</display-name>
   </channel>
@@ -2535,6 +2477,9 @@
     <desc lang="en">Terkesan dengan tingkah laku Bahadom terhadapnya di khalayak ramai, Jalil membuat keputusan untuk berhenti bekerja. Namun Bahadom mempunyai rancangan lain apabila Datuk menyuruhnya untuk mencari seorang pegawai untuk dihantar ke luar negara. Kerana bencikan Jalil dan juga ingin memisahkannya dari Rosnah, Bahadom mahu menghantar Jalil ke luar negara.</desc>
     <category lang="en">Comedy</category>
   </programme>
+  <channel id="tvs.unifitv">
+    <display-name>TV Sarawak</display-name>
+  </channel>
   <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="tvs.unifitv">
     <title lang="en">My Bubble Tea</title>
     <desc lang="en">On her 24th birthday, 'love never lost' magical bubble tea is given to Modem as a gift. She insists never to use it. Magic-induced love can never be true. The universe suddenly proves her wrong as that tea, thinking that she threw it away, is served right down to the helmet of BearBike man.</desc>
@@ -13943,5 +13888,1582 @@
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.122.</episode-num>
     <episode-num system="onscreen">S2026E123</episode-num>
+  </programme>
+  <channel id="dw.unifitv">
+    <display-name>DW</display-name>
+  </channel>
+  <programme start="20260804153300 +0000" stop="20260804160300 +0000" channel="dw.unifitv">
+    <title lang="en">The Dip</title>
+    <desc lang="en">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804160300 +0000" stop="20260804163300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804163300 +0000" stop="20260804170300 +0000" channel="dw.unifitv">
+    <title lang="en">Global Us</title>
+    <desc lang="en">Global Us</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804170300 +0000" stop="20260804171800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804171800 +0000" stop="20260804173300 +0000" channel="dw.unifitv">
+    <title lang="en">Best of DW-online Content</title>
+    <desc lang="en">Best of DW-online Content</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804173300 +0000" stop="20260804180300 +0000" channel="dw.unifitv">
+    <title lang="en">REV</title>
+    <desc lang="en">REV</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804180300 +0000" stop="20260804183300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804183300 +0000" stop="20260804190300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">Young activists use music, art and games to raise awareness of climate change and deforestation. Plus: Improving city life - from e-mobility in Lagos to "talking trees" in Berlin.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804190300 +0000" stop="20260804190500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804190500 +0000" stop="20260804191800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804191800 +0000" stop="20260804193300 +0000" channel="dw.unifitv">
+    <title lang="en">Best of DW-online Content</title>
+    <desc lang="en">Best of DW-online Content</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804193300 +0000" stop="20260804200300 +0000" channel="dw.unifitv">
+    <title lang="en">Tomorrow Today</title>
+    <desc lang="en">Tomorrow Today</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804200300 +0000" stop="20260804203300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804203300 +0000" stop="20260804210300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804210300 +0000" stop="20260804210500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804210500 +0000" stop="20260804211800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804211800 +0000" stop="20260804214800 +0000" channel="dw.unifitv">
+    <title lang="en">Close up</title>
+    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804214800 +0000" stop="20260804220300 +0000" channel="dw.unifitv">
+    <title lang="en">Shift</title>
+    <desc lang="en">Shift</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804220300 +0000" stop="20260804220500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804220500 +0000" stop="20260804223300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804223300 +0000" stop="20260804230300 +0000" channel="dw.unifitv">
+    <title lang="en">The 77 Percent</title>
+    <desc lang="en">The 77 Percent</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804230300 +0000" stop="20260804230500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804230500 +0000" stop="20260804231800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804231800 +0000" stop="20260804233300 +0000" channel="dw.unifitv">
+    <title lang="en">Best of DW-online Content</title>
+    <desc lang="en">Best of DW-online Content</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260804233300 +0000" stop="20260805000300 +0000" channel="dw.unifitv">
+    <title lang="en">Global Us</title>
+    <desc lang="en">Global Us</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805000300 +0000" stop="20260805000500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805000500 +0000" stop="20260805003300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805003300 +0000" stop="20260805010300 +0000" channel="dw.unifitv">
+    <title lang="en">Made in Germany</title>
+    <desc lang="en">Made in Germany</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805010300 +0000" stop="20260805010500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805010500 +0000" stop="20260805011800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805011800 +0000" stop="20260805020300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Women who become doctors choose their profession to heal people. But in hospitals, they often become victims of sexual harassment. This film features case studies from Switzerland.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805020300 +0000" stop="20260805020500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805020500 +0000" stop="20260805023300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805023300 +0000" stop="20260805030300 +0000" channel="dw.unifitv">
+    <title lang="en">Global Us</title>
+    <desc lang="en">Global Us</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805030300 +0000" stop="20260805030500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805030500 +0000" stop="20260805031800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805031800 +0000" stop="20260805033300 +0000" channel="dw.unifitv">
+    <title lang="en">Best of DW-online Content</title>
+    <desc lang="en">Best of DW-online Content</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805033300 +0000" stop="20260805040300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">Young activists use music, art and games to raise awareness of climate change and deforestation. Plus: Improving city life - from e-mobility in Lagos to "talking trees" in Berlin.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805040300 +0000" stop="20260805040500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805040500 +0000" stop="20260805041800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805041800 +0000" stop="20260805050300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Women who become doctors choose their profession to heal people. But in hospitals, they often become victims of sexual harassment. This film features case studies from Switzerland.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805050300 +0000" stop="20260805050500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805050500 +0000" stop="20260805053300 +0000" channel="dw.unifitv">
+    <title lang="en">The Day</title>
+    <desc lang="en">The Day</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805053300 +0000" stop="20260805060300 +0000" channel="dw.unifitv">
+    <title lang="en">Made in Germany</title>
+    <desc lang="en">Made in Germany</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805060300 +0000" stop="20260805060500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805060500 +0000" stop="20260805061800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805061800 +0000" stop="20260805063300 +0000" channel="dw.unifitv">
+    <title lang="en">Best of DW-online Content</title>
+    <desc lang="en">Best of DW-online Content</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805063300 +0000" stop="20260805070300 +0000" channel="dw.unifitv">
+    <title lang="en">In Good Shape</title>
+    <desc lang="en">From hemorrhoids to depression: taboos can stop us from seeking help on health problems. We show how inhibitions can prolong suffering - and how talking openly about "embarrassing" issues can make a difference.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805070300 +0000" stop="20260805070500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805070500 +0000" stop="20260805071800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805071800 +0000" stop="20260805074800 +0000" channel="dw.unifitv">
+    <title lang="en">Close up</title>
+    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805074800 +0000" stop="20260805080300 +0000" channel="dw.unifitv">
+    <title lang="en">Shift</title>
+    <desc lang="en">Shift</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805080300 +0000" stop="20260805080500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805080500 +0000" stop="20260805083300 +0000" channel="dw.unifitv">
+    <title lang="en">The 77 Percent</title>
+    <desc lang="en">The 77 Percent</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805083300 +0000" stop="20260805090300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco India</title>
+    <desc lang="en">School girls are driving change with solar-powered inventions in India's Jharkhand; the dark side of biofuel production in Maharashtra. And the CO2 benefits of mud housing in South India.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805090300 +0000" stop="20260805090600 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805090600 +0000" stop="20260805100300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">As Apple turns 50, this film tells the story of the tech company that revolutionized our world, along with its opportunities and downsides. Has this tool of liberation become an instrument of control?</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805100300 +0000" stop="20260805100500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805100500 +0000" stop="20260805101800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805101800 +0000" stop="20260805104800 +0000" channel="dw.unifitv">
+    <title lang="en">Close up</title>
+    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805104800 +0000" stop="20260805110300 +0000" channel="dw.unifitv">
+    <title lang="en">Shift</title>
+    <desc lang="en">Shift</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805110300 +0000" stop="20260805110500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805110500 +0000" stop="20260805113300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">Heart disease, ADHD, mental health: When it comes to medicine, men and women often need different treatments. Yet general medicine is based on the male body.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805113300 +0000" stop="20260805120300 +0000" channel="dw.unifitv">
+    <title lang="en">Made in Germany</title>
+    <desc lang="en">Made in Germany</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805120300 +0000" stop="20260805120500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805120500 +0000" stop="20260805121800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805121800 +0000" stop="20260805130300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">The Amazon rainforest in Brazil is at the mercy of political interests and global greed. Arson, illegal deforestation, and organized environmental crimes have been tolerated for decades.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805130300 +0000" stop="20260805130500 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805130500 +0000" stop="20260805131800 +0000" channel="dw.unifitv">
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">DW News Focus</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805131800 +0000" stop="20260805133300 +0000" channel="dw.unifitv">
+    <title lang="en">Best of DW-online Content</title>
+    <desc lang="en">Best of DW-online Content</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805133300 +0000" stop="20260805140300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco Africa</title>
+    <desc lang="en">Young activists use music, art and games to raise awareness of climate change and deforestation. Plus: Improving city life - from e-mobility in Lagos to "talking trees" in Berlin.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805140300 +0000" stop="20260805140600 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805140600 +0000" stop="20260805150300 +0000" channel="dw.unifitv">
+    <title lang="en">DocFilm</title>
+    <desc lang="en">As Apple turns 50, this film tells the story of the tech company that revolutionized our world, along with its opportunities and downsides. Has this tool of liberation become an instrument of control?</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805150300 +0000" stop="20260805153300 +0000" channel="dw.unifitv">
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260805153300 +0000" stop="20260805160300 +0000" channel="dw.unifitv">
+    <title lang="en">Eco India</title>
+    <desc lang="en">School girls are driving change with solar-powered inventions in India's Jharkhand; the dark side of biofuel production in Maharashtra. And the CO2 benefits of mud housing in South India.</desc>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <channel id="nhkworldjapan.unifitv">
+    <display-name>NHK WORLD-JAPAN</display-name>
+  </channel>
+  <programme start="20260804153500 +0000" stop="20260804160500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Journeys in Japan</title>
+    <desc lang="en">Meet the locals and discover traditions and cultures not usually found in guidebooks! Michael Keida explores the traditional fishing methods still used along the Seto Inland Sea.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2006.</episode-num>
+    <episode-num system="onscreen">S1E2007</episode-num>
+  </programme>
+  <programme start="20260804160500 +0000" stop="20260804163500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260804163500 +0000" stop="20260804165000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Activate Your Japanese!</title>
+    <desc lang="en">Learn how to make the most of your Japanese skills - watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on 'senpai' in Japan.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2095.</episode-num>
+    <episode-num system="onscreen">S1E2096</episode-num>
+  </programme>
+  <programme start="20260804165000 +0000" stop="20260804170000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dig More Japan!</title>
+    <desc lang="en">Some look inward, some pray for the departed. Each pilgrim has their own intentions. Look within, and dig, a little deeper.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6121.</episode-num>
+    <episode-num system="onscreen">S1E6122</episode-num>
+  </programme>
+  <programme start="20260804170000 +0000" stop="20260804170500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dining with the Chef mini</title>
+    <desc lang="en">Featured recipes: (1) Crispy Pork Stir-fry with Myoga and Green Beans; (2) Stir-fried Eggplant and Shishito with Miso Sauce. Learn about Japanese home cooking with Chef Saito in five minutes!</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6030.</episode-num>
+    <episode-num system="onscreen">S1E6031</episode-num>
+  </programme>
+  <programme start="20260804170500 +0000" stop="20260804173500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260804173500 +0000" stop="20260804180500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dining with the Chef</title>
+    <desc lang="en">Join Harry Sugiyama and Chef Hayashi for a new approach to making dashi, using ingredients available anywhere. You'll also learn to make oyakodon, a classic Japanese comfort food.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2018.</episode-num>
+    <episode-num system="onscreen">S1E2019</episode-num>
+  </programme>
+  <programme start="20260804180500 +0000" stop="20260804183300 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260804183300 +0000" stop="20260804184800 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Kadota Shunji has been working for many years to empower people with disabilities to live independently - his efforts have helped shape policies around the world. He talks about his journey so far.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2104.</episode-num>
+    <episode-num system="onscreen">S1E2105</episode-num>
+  </programme>
+  <programme start="20260804184800 +0000" stop="20260804185300 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">On the Wings 5min.</title>
+    <desc lang="en">Join us on a night flight to admire Japan's stunning views on a journey from Tokyo to Fukuoka - behold the sublime beauty of Mount Fuji at sunset and the sparkling night views of major cities.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6053.</episode-num>
+    <episode-num system="onscreen">S1E6054</episode-num>
+  </programme>
+  <programme start="20260804185300 +0000" stop="20260804190000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">National Parks of Japan</title>
+    <desc lang="en">Daisen-Oki: Daisen-Oki National Park comprises the Oki Islands, which boast spectacular geological formations, and a mainland area with shrines and sacred mountains that inspired myths and legends.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6045.</episode-num>
+    <episode-num system="onscreen">S1E6046</episode-num>
+  </programme>
+  <programme start="20260804190000 +0000" stop="20260804190500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyo-e Edo-Life</title>
+    <desc lang="en">The Bird Cafe: We visit an Edo-style open-air teahouse where townspeople enjoyed refreshments, conversation, and the company of exotic birds - for them, these outings were about more than a good time.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
+  </programme>
+  <programme start="20260804190500 +0000" stop="20260804193500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan in Focus</title>
+    <desc lang="en">Over 20,000 children in Japan require constant medical care. This is primarily shouldered by mothers. We follow one mother as she navigates this life of care, and the grief of losing her child.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
+  </programme>
+  <programme start="20260804193500 +0000" stop="20260804200500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Document 72 Hours</title>
+    <desc lang="en">Streetcars have been rolling through the streets of Kochi City for more than 120 years - for three days we ask passengers of all ages where they are going and why they choose to travel by streetcar.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4025.</episode-num>
+    <episode-num system="onscreen">S1E4026</episode-num>
+  </programme>
+  <programme start="20260804200500 +0000" stop="20260804203500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260804203500 +0000" stop="20260804210500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Science View</title>
+    <desc lang="en">A Japanese marine research team looks for plastics on the Pacific Ocean floor 6,000 metres down, plus monitoring of neutrinos to better understand the Earth's long-term future.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2014.</episode-num>
+    <episode-num system="onscreen">S1E2015</episode-num>
+  </programme>
+  <programme start="20260804210500 +0000" stop="20260804213500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260804213500 +0000" stop="20260804220500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Journeys in Japan</title>
+    <desc lang="en">Meet the locals and discover traditions and cultures not usually found in guidebooks! Michael Keida explores the traditional fishing methods still used along the Seto Inland Sea.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2006.</episode-num>
+    <episode-num system="onscreen">S1E2007</episode-num>
+  </programme>
+  <programme start="20260804220500 +0000" stop="20260804223500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260804223500 +0000" stop="20260804230500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dining with the Chef</title>
+    <desc lang="en">Join Harry Sugiyama and Chef Hayashi for a new approach to making dashi, using ingredients available anywhere. You'll also learn to make oyakodon, a classic Japanese comfort food.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2018.</episode-num>
+    <episode-num system="onscreen">S1E2019</episode-num>
+  </programme>
+  <programme start="20260804230500 +0000" stop="20260804233500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260804233500 +0000" stop="20260804235000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Activate Your Japanese!</title>
+    <desc lang="en">Learn how to make the most of your Japanese skills - watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on 'senpai' in Japan.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2095.</episode-num>
+    <episode-num system="onscreen">S1E2096</episode-num>
+  </programme>
+  <programme start="20260804235000 +0000" stop="20260805000000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dig More Japan!</title>
+    <desc lang="en">Some look inward, some pray for the departed. Each pilgrim has their own intentions. Look within, and dig, a little deeper.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6121.</episode-num>
+    <episode-num system="onscreen">S1E6122</episode-num>
+  </programme>
+  <programme start="20260805000000 +0000" stop="20260805000500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dining with the Chef mini</title>
+    <desc lang="en">Featured recipes: (1) Crispy Pork Stir-fry with Myoga and Green Beans; (2) Stir-fried Eggplant and Shishito with Miso Sauce. Learn about Japanese home cooking with Chef Saito in five minutes!</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6030.</episode-num>
+    <episode-num system="onscreen">S1E6031</episode-num>
+  </programme>
+  <programme start="20260805000500 +0000" stop="20260805003500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805003500 +0000" stop="20260805010500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dive in Tokyo</title>
+    <desc lang="en">The 8 km-long Meguro River has long supported the lives of people in the southwest of central Tokyo. Come along as we discover how its tumultuous history mirrors the evolution of the city itself.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2101.</episode-num>
+    <episode-num system="onscreen">S1E2102</episode-num>
+  </programme>
+  <programme start="20260805010500 +0000" stop="20260805013500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805013500 +0000" stop="20260805015000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Okuizumi Kazuya heads Yamagata Prefecture's Tsuruoka City Kamo Aquarium, which has the world's largest number of jellyfish species on display. He talks about his work and passion for jellyfish.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2104.</episode-num>
+    <episode-num system="onscreen">S1E2105</episode-num>
+  </programme>
+  <programme start="20260805015000 +0000" stop="20260805020500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan's Top Inventions</title>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter - this time, portable foetal monitors.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2090.</episode-num>
+    <episode-num system="onscreen">S1E2091</episode-num>
+  </programme>
+  <programme start="20260805020500 +0000" stop="20260805023500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805023500 +0000" stop="20260805030500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">Watanabe Hiroki is co-founder of an NGO in Bangladesh that gives long-term support to underprivileged children on the street and proves that they can make a positive contribution to society.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2102.</episode-num>
+    <episode-num system="onscreen">S1E2103</episode-num>
+  </programme>
+  <programme start="20260805030500 +0000" stop="20260805033500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805033500 +0000" stop="20260805040500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Science View</title>
+    <desc lang="en">A Japanese marine research team looks for plastics on the Pacific Ocean floor 6,000 metres down, plus monitoring of neutrinos to better understand the Earth's long-term future.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2014.</episode-num>
+    <episode-num system="onscreen">S1E2015</episode-num>
+  </programme>
+  <programme start="20260805040500 +0000" stop="20260805043500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805043500 +0000" stop="20260805050500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Karl and Tina</title>
+    <desc lang="en">Karl restores another traditional house in a Niigata village. New residents arrive from abroad and Tokyo, revitalizing a place once on the brink of disappearing. It's time for the spring festival.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
+  </programme>
+  <programme start="20260805050500 +0000" stop="20260805053500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805053500 +0000" stop="20260805060500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dive in Tokyo</title>
+    <desc lang="en">The 8 km-long Meguro River has long supported the lives of people in the southwest of central Tokyo. Come along as we discover how its tumultuous history mirrors the evolution of the city itself.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2101.</episode-num>
+    <episode-num system="onscreen">S1E2102</episode-num>
+  </programme>
+  <programme start="20260805060500 +0000" stop="20260805063500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805063500 +0000" stop="20260805065000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Okuizumi Kazuya heads Yamagata Prefecture's Tsuruoka City Kamo Aquarium, which has the world's largest number of jellyfish species on display. He talks about his work and passion for jellyfish.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2104.</episode-num>
+    <episode-num system="onscreen">S1E2105</episode-num>
+  </programme>
+  <programme start="20260805065000 +0000" stop="20260805070500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan's Top Inventions</title>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter - this time, portable foetal monitors.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2090.</episode-num>
+    <episode-num system="onscreen">S1E2091</episode-num>
+  </programme>
+  <programme start="20260805070500 +0000" stop="20260805073500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805073500 +0000" stop="20260805080500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">Watanabe Hiroki is co-founder of an NGO in Bangladesh that gives long-term support to underprivileged children on the street and proves that they can make a positive contribution to society.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2102.</episode-num>
+    <episode-num system="onscreen">S1E2103</episode-num>
+  </programme>
+  <programme start="20260805080500 +0000" stop="20260805083500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805083500 +0000" stop="20260805090500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Karl and Tina</title>
+    <desc lang="en">Karl restores another traditional house in a Niigata village. New residents arrive from abroad and Tokyo, revitalizing a place once on the brink of disappearing. It's time for the spring festival.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
+  </programme>
+  <programme start="20260805090500 +0000" stop="20260805093500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805093500 +0000" stop="20260805100500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Science View</title>
+    <desc lang="en">A Japanese marine research team looks for plastics on the Pacific Ocean floor 6,000 metres down, plus monitoring of neutrinos to better understand the Earth's long-term future.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2014.</episode-num>
+    <episode-num system="onscreen">S1E2015</episode-num>
+  </programme>
+  <programme start="20260805100500 +0000" stop="20260805103500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK News 7</title>
+    <desc lang="en">An evening news bulletin that provides Japan's views on many domestic and international news events.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805103500 +0000" stop="20260805105000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Bosai: Science That Can Save Your Life</title>
+    <desc lang="en">Many mountains in Japan that attract tourists are active volcanoes - learn safety tips for climbing and the latest on eruption prediction research.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2089.</episode-num>
+    <episode-num system="onscreen">S1E2090</episode-num>
+  </programme>
+  <programme start="20260805105000 +0000" stop="20260805110000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Impacts: Climates Change the World</title>
+    <desc lang="en">To promote awareness of conservation efforts among the threat of climate change, more and more World Heritage Sites are now being utilised as tourist destinations and in educational programs.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6127.</episode-num>
+    <episode-num system="onscreen">S1E6128</episode-num>
+  </programme>
+  <programme start="20260805110000 +0000" stop="20260805110500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Time-Lapse Japan</title>
+    <desc lang="en">Wakayama in southwest Kumano is a top producer of Japanese citrus, which is said to have its origins in a legendary fruit. Through beautiful time-lapse footage, we show the area's rich natural bounty.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6052.</episode-num>
+    <episode-num system="onscreen">S1E6053</episode-num>
+  </programme>
+  <programme start="20260805110500 +0000" stop="20260805113300 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805113300 +0000" stop="20260805114800 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Inoue Hiroko is the president of an NGO that has been running exchange programmes for young people from Israel, Palestine and Japan for 20 years - she talks about their goals and her hope for peace.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2104.</episode-num>
+    <episode-num system="onscreen">S1E2105</episode-num>
+  </programme>
+  <programme start="20260805114800 +0000" stop="20260805120000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Nun's Seasonal Calendar</title>
+    <desc lang="en">In this episode, we learn about risshu and shosho, two dates of early autumn. The temple chefs show us how to prepare dishes using winter melon and share their recipe for a Japanese-style ratatouille.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6123.</episode-num>
+    <episode-num system="onscreen">S1E6124</episode-num>
+  </programme>
+  <programme start="20260805120000 +0000" stop="20260805120500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyo-e Edo-Life</title>
+    <desc lang="en">The Bird Cafe: We visit an Edo-style open-air teahouse where townspeople enjoyed refreshments, conversation, and the company of exotic birds - for them, these outings were about more than a good time.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
+  </programme>
+  <programme start="20260805120500 +0000" stop="20260805123500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805123500 +0000" stop="20260805125000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Okuizumi Kazuya heads Yamagata Prefecture's Tsuruoka City Kamo Aquarium, which has the world's largest number of jellyfish species on display. He talks about his work and passion for jellyfish.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2104.</episode-num>
+    <episode-num system="onscreen">S1E2105</episode-num>
+  </programme>
+  <programme start="20260805125000 +0000" stop="20260805130500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan's Top Inventions</title>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter - this time, portable foetal monitors.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2090.</episode-num>
+    <episode-num system="onscreen">S1E2091</episode-num>
+  </programme>
+  <programme start="20260805130500 +0000" stop="20260805133500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805133500 +0000" stop="20260805140500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">Watanabe Hiroki is co-founder of an NGO in Bangladesh that gives long-term support to underprivileged children on the street and proves that they can make a positive contribution to society.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2102.</episode-num>
+    <episode-num system="onscreen">S1E2103</episode-num>
+  </programme>
+  <programme start="20260805140500 +0000" stop="20260805143500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805143500 +0000" stop="20260805150500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Trails to Oishii Tokyo</title>
+    <desc lang="en">Peaches take the spotlight - from June to October, new varieties appear every two weeks and let people enjoy them for months. Big, sweet and juicy, discover the charm of Japan's finest peaches.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2053.</episode-num>
+    <episode-num system="onscreen">S1E2054</episode-num>
+  </programme>
+  <programme start="20260805150500 +0000" stop="20260805153500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <category lang="en">Infotainment</category>
+  </programme>
+  <programme start="20260805153500 +0000" stop="20260805160500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Dive in Tokyo</title>
+    <desc lang="en">The 8 km-long Meguro River has long supported the lives of people in the southwest of central Tokyo. Come along as we discover how its tumultuous history mirrors the evolution of the city itself.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.2101.</episode-num>
+    <episode-num system="onscreen">S1E2102</episode-num>
+  </programme>
+  <channel id="unifisports1.unifitv">
+    <display-name>Unifi Sports 1</display-name>
+  </channel>
+  <programme start="20260804140000 +0000" stop="20260804195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Medi? vs. Rodriguez - Main</title>
+    <desc lang="en">On Saturday, August 1, UFC makes its debut at Belgrade Arena in Belgrade, Serbia with a Fight Night card headlined by a welterweight contest between electric finisher Uros “The Doctor” Medic and Daniel Rodriguez. A native of Novi Sad, Medic currently sits at No. 14 in the divisional ranks and earns his first main event assignment on the strength of consecutive first-round stoppage wins over Gilbert Urbina, Muslim Salikhov, and Geoff Neal. Positioned one spot behind him in the rankings, Rodriguez has similarly won three straight, most recently besting Kevin Holland at UFC 318 last summer in New Orleans.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804195500 +0000" stop="20260804200000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804200000 +0000" stop="20260805015500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Ankalaev vs. Guskov. - Main</title>
+    <desc lang="en">UFC Fight Night: Ankalaev vs. Guskov (also known as UFC Fight Night 282) is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that is scheduled to take place on July 25, 2026, at the Etihad Arena in Abu Dhabi, United Arab Emirates</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805015500 +0000" stop="20260805020000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805020000 +0000" stop="20260805042500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">TM ISTAF World Cup 2026 - Group - MYANMAR vs MALAYSIA - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805042500 +0000" stop="20260805043000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805043000 +0000" stop="20260805055500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">TM ISTAF World Cup 2026 - Group- KOREA vs MALAYSIA- (QUADRANT)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805055500 +0000" stop="20260805060000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805060000 +0000" stop="20260805083000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 318: Holloway vs Poirier 3</title>
+    <desc lang="en">It's a memorable night in New Orleans, Louisiana, when Lafayette native Dustin Poirier makes his final walk to the Octagon, hoping to go three for three against Max Holloway, with the BMF title on the line. This one for the history books and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805083000 +0000" stop="20260805090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 11</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805090000 +0000" stop="20260805093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 18</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805093000 +0000" stop="20260805100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1004: Teixeira vs. Prochazka</title>
+    <desc lang="en">UFC 275 featured Czech MMA star Jiri Prochazka in his third Octagon outing as he sought UFC gold against newly minted light heavyweight champion, Glover Teixeira. Relive their fight with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1004 - Ultimate Knockouts 30 Years Of Knockouts</title>
+    <desc lang="en">UFC Ultimate Knockouts brings you the best knockouts in the UFC's 30-year history.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805103000 +0000" stop="20260805113000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 319: Du Plessis vs Chimaev</title>
+    <desc lang="en">UFC 319 Countdown previews the promotion's return to Chicago, where middleweight king Dricus du Plessis looks to defend his crown against Khamzat Chimaev. Plus, featherweights collide as Lerone Murphy welcomes newcomer Aaron Pico to the division</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805113000 +0000" stop="20260805135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 318: Holloway vs Poirier 3</title>
+    <desc lang="en">It's a memorable night in New Orleans, Louisiana, when Lafayette native Dustin Poirier makes his final walk to the Octagon, hoping to go three for three against Max Holloway, with the BMF title on the line. This one for the history books and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805135500 +0000" stop="20260805140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805140000 +0000" stop="20260805195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Medi? vs. Rodriguez - Main</title>
+    <desc lang="en">On Saturday, August 1, UFC makes its debut at Belgrade Arena in Belgrade, Serbia with a Fight Night card headlined by a welterweight contest between electric finisher Uros “The Doctor” Medic and Daniel Rodriguez. A native of Novi Sad, Medic currently sits at No. 14 in the divisional ranks and earns his first main event assignment on the strength of consecutive first-round stoppage wins over Gilbert Urbina, Muslim Salikhov, and Geoff Neal. Positioned one spot behind him in the rankings, Rodriguez has similarly won three straight, most recently besting Kevin Holland at UFC 318 last summer in New Orleans.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="spotv.unifitv">
+    <display-name>SPOTV</display-name>
+  </channel>
+  <programme start="20260804104500 +0000" stop="20260804171500 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) GOTF 2026: MOBA PC Dota 2 - Day 5 Semifinals</title>
+    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260804171500 +0000" stop="20260804180000 +0000" channel="spotv.unifitv">
+    <title lang="en">E1 World Championship 2026 HLs - Rd 4 Monaco</title>
+    <desc lang="en">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20260804180000 +0000" stop="20260805000000 +0000" channel="spotv.unifitv">
+    <title lang="en">AIG Women's Open 2026 - Round 2</title>
+    <desc lang="en">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260805000000 +0000" stop="20260805013000 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Free Practice 1</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260805013000 +0000" stop="20260805023000 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Free Practice 2</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260805023000 +0000" stop="20260805042500 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Qualifying</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260805042500 +0000" stop="20260805070000 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Race</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260805070000 +0000" stop="20260805074500 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 15 Tokyo E-Prix - Highlights 1</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260805074500 +0000" stop="20260805173000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) GOTF 2026: MOBA PC Dota 2 - Day 6 3rd Place &amp; Final</title>
+    <desc lang="en">2026 Games of the Future The top athletes and gamers compete across innovative phygital disciplines, where physical performance and digital mastery come together in the ultimate test of skill.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <channel id="spotv2.unifitv">
+    <display-name>SPOTV2</display-name>
+  </channel>
+  <programme start="20260804150000 +0000" stop="20260804180000 +0000" channel="spotv2.unifitv">
+    <title lang="en">Visit Qatar Sussex Stakes 2026</title>
+    <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260804180000 +0000" stop="20260804224500 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP Rd 11 Liqui Moly Grand Prix of Germany - Race</title>
+    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260804224500 +0000" stop="20260804233100 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP After the flag - Half Season Recap</title>
+    <desc lang="en">Join MotoGP presenters for a review of the biggest stories and highlights from the first half of the 2026 season.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260804233100 +0000" stop="20260805003000 +0000" channel="spotv2.unifitv">
+    <title lang="en">SailGP S6: Emirates Great Britain Sail Grand Prix - Highlights</title>
+    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+    <category lang="en">Sailing</category>
+  </programme>
+  <programme start="20260805003000 +0000" stop="20260805020000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 The Asian Tournament, Chengdu - Game 18 Thailand Titans vs Sichuan Jincheng Whale</title>
+    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260805020000 +0000" stop="20260805070000 +0000" channel="spotv2.unifitv">
+    <title lang="en">(L) WTT Champions Yokohama 2026 - Day 2 Session 1</title>
+    <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20260805070000 +0000" stop="20260805083000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 FIA TCR World Tour, Vila Real - Round 9 Race</title>
+    <desc lang="en">Top touring car drivers compete across global circuits, delivering close racing, intense battles, and high-speed action in a world-class championship.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260805083000 +0000" stop="20260805120000 +0000" channel="spotv2.unifitv">
+    <title lang="en">(L) WTT Champions Yokohama 2026 - Day 2 Session 2</title>
+    <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="spotv2.unifitv">
+    <title lang="en">Unbridled: The Spruce Meadows Story - Part 1</title>
+    <desc lang="en">A captivating documentary celebrating the 50-year legacy of Spruce Meadows, exploring the people, horses, and unforgettable moments behind one of show jumping's most iconic venues.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP Rd 11 Liqui Moly Grand Prix of Germany - Highlights</title>
+    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2/8 2026 MLB Regular Season - Los Angeles Dodgers vs Boston Red Sox</title>
+    <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 Road to Le Mans - Highlights</title>
+    <desc lang="en">Top LMP3 and GT3 teams take on the legendary Circuit de la Sarthe, showcasing endurance racing skill, strategy, and high-speed competition ahead of the iconic Le Mans 24 Hours.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <channel id="beinsports.unifitv">
+    <display-name>beIN SPORTS 1</display-name>
+  </channel>
+  <programme start="20260804154000 +0000" stop="20260804164000 +0000" channel="beinsports.unifitv">
+    <title lang="en">FIA Truck Racing - Nurburgring Race 3</title>
+    <desc lang="en">The matadors of the road are back with a vengeance! 1,000 horsepower and a seeming disregard for their trucks' bodywork provide fascinating action in a king-size battle royal!</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804164000 +0000" stop="20260804171000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Gearing Up - August</title>
+    <desc lang="en">Thrilling racing from the most demanding events around the globe, Gearing Up heads to the toughest events and gets on-board with the sport's heroic drivers.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804171000 +0000" stop="20260804183000 +0000" channel="beinsports.unifitv">
+    <title lang="en">GT Masters - Nurburgring Race 2</title>
+    <desc lang="en">ADAC GT Masters is the ideal combo of established GT racers and talents with sky-high aspirations - made in Germany.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804183000 +0000" stop="20260804185000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Chasing the Dream - Budapest, Hungary</title>
+    <desc lang="en">Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804185000 +0000" stop="20260804192000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Mini - Atletico Madrid vs Getafe</title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804192000 +0000" stop="20260804195300 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Mini - Real Madrid vs Elche</title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804195300 +0000" stop="20260804220000 +0000" channel="beinsports.unifitv">
+    <title lang="en">WAFCON - Burkina Faso vs South Africa (L)</title>
+    <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804220000 +0000" stop="20260804223000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga FC Futures - Osasuna vs Villarreal</title>
+    <desc lang="en">The U12 category tournament involving 20 professional youth clubs from the LaLiga EA Sports 2025-26 season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804223000 +0000" stop="20260804230000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga FC Futures - Barcelona vs Real Oviedo</title>
+    <desc lang="en">The U12 category tournament involving 20 professional youth clubs from the LaLiga EA Sports 2025-26 season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804230000 +0000" stop="20260805000000 +0000" channel="beinsports.unifitv">
+    <title lang="en">WRC Highlights - Rally Finland</title>
+    <desc lang="en">Enjoy highlights from the 54th season of the World Rally Championship</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805000000 +0000" stop="20260805010000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Goodwood Highlights - Festival of Speed I</title>
+    <desc lang="en">Poised to rekindle many of motorsport's most famous rivalries from down the years after announcing its theme for 2026: 'The Rivals - Epic Racing Duels'.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805010000 +0000" stop="20260805020000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Goodwood Highlights - Festival of Speed II</title>
+    <desc lang="en">Poised to rekindle many of motorsport's most famous rivalries from down the years after announcing its theme for 2026: 'The Rivals - Epic Racing Duels'.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805020000 +0000" stop="20260805030000 +0000" channel="beinsports.unifitv">
+    <title lang="en">DTM Highlights - Oschersleben</title>
+    <desc lang="en">Catch the highlights from every round of the 2026 DTM.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805030000 +0000" stop="20260805033000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Classic - Barcelona vs Sevilla - 2025/26</title>
+    <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805033000 +0000" stop="20260805040000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Mini - Real Betis vs Celta Vigo</title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805040000 +0000" stop="20260805043000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga FC Futures - Real Madrid vs Getafe</title>
+    <desc lang="en">The U12 category tournament involving 20 professional youth clubs from the LaLiga EA Sports 2025-26 season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805043000 +0000" stop="20260805050000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga FC Futures - Espanyol vs Real Betis</title>
+    <desc lang="en">The U12 category tournament involving 20 professional youth clubs from the LaLiga EA Sports 2025-26 season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805050000 +0000" stop="20260805070000 +0000" channel="beinsports.unifitv">
+    <title lang="en">24-Hr Nurburgring Race - Part III</title>
+    <desc lang="en">150 cars from lightning-quick GTs to a humble Dacia Logan fight for glory in a 24-hour endurance race. You get pure, unfiltered drama from daylight to darkness!</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="beinsports.unifitv">
+    <title lang="en">FIA Truck Racing Highlights - Nurburgring</title>
+    <desc lang="en">Catch all the non-stop tumbling action from the European Truck Racing Championships, packed into a 30-mins thrilling highlight program</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805073000 +0000" stop="20260805075500 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga - Best Saves Of The Season</title>
+    <desc lang="en">beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805075500 +0000" stop="20260805100000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Pre Season Friendly - Villarreal vs Levante (L)</title>
+    <desc lang="en">The 2026/27 football season begins here as beIN SPORTS brings you the best of the pre season friendly action featuring Premier League, LaLiga, Bundesliga, Serie A and Ligue 1 teams.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Formula Regional Highlights - Le Castellet</title>
+    <desc lang="en">Catch the highlights of all the races of Formula Regional European Championship this season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805103000 +0000" stop="20260805110000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Fastzone - Episode Number 17</title>
+    <desc lang="en">Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805110000 +0000" stop="20260805124500 +0000" channel="beinsports.unifitv">
+    <title lang="en">GT World Challenge Europe - Magny-Cours Race 2, Sprint Cup</title>
+    <desc lang="en">The 16th season of the premier European GT3 championship, featuring a 10-round calendar split between Endurance and Sprint Cups</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805124500 +0000" stop="20260805130000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Goals Galore - Kike Garcia</title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805130000 +0000" stop="20260805150000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LFCTV - Liverpool vs Leeds - Friendly</title>
+    <desc lang="en">Enjoy every Liverpool match from the Premier League, FA Cup and Carabao Cup and friendlies, from LFCTV on beIN SPORTS</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805150000 +0000" stop="20260805153000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LFC Trending - Episode Number 53</title>
+    <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805153000 +0000" stop="20260805160000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LFCTV Highlights - Liverpool vs Wrexham - Friendly</title>
+    <desc lang="en">Enjoy match highlights from Liverpool's Premier League, FA Cup, Carabao Cup and UEFA Champions League games from LFCTV on beIN SPORTS</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="beinsports.unifitv">
+    <title lang="en">FIA Truck Racing - Nurburgring Race 4</title>
+    <desc lang="en">The matadors of the road are back with a vengeance! 1,000 horsepower and a seeming disregard for their trucks' bodywork provide fascinating action in a king-size battle royal!</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="beinsports2.unifitv">
+    <display-name>beIN SPORTS 2</display-name>
+  </channel>
+  <programme start="20260804143000 +0000" stop="20260804160000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 1 Match 4 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804160000 +0000" stop="20260804173000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 1 Match 5 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804173000 +0000" stop="20260804180000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS2 - Kenya vs USA - Kenya Day 2, Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804180000 +0000" stop="20260804183000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS2 - Brazil vs Kenya - Brazil Day 2, Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804183000 +0000" stop="20260804200000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 1 Match 6 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804200000 +0000" stop="20260804213000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Buenos Aires P1 Day 3 Match 5</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804213000 +0000" stop="20260804232000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Women's Super League - West Ham vs Tottenham</title>
+    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804232000 +0000" stop="20260805011000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Women's Super League - Man United vs Liverpool</title>
+    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805011000 +0000" stop="20260805030000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Junior World Championship - USA vs Uruguay - 15th Place Play-off</title>
+    <desc lang="en">The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805030000 +0000" stop="20260805050000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">PSG TV - PSG vs Lille</title>
+    <desc lang="en">Catch every PSG match from Ligue 1 and Coupe de France amongst others only on beIN Sports</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805050000 +0000" stop="20260805053000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Roland Garros Mini - Women's Singles Rd 3 Sabalenka v Kasatkina</title>
+    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805053000 +0000" stop="20260805060000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Roland Garros Mini - Women's Singles Rd 4 Swiatek v Kostyuk</title>
+    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships Highlights - Hong Kong</title>
+    <desc lang="en">HSBC SVNS World Championships Highlights - Hong Kong</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Australian Open Mini - Women's Singles Rd 4 Swiatek v Inglis</title>
+    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Australian Open Mini - Men's Singles Rd 4 Sinner v Darderi</title>
+    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805080000 +0000" stop="20260805081000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Match Highlights - Valladolid P2 Men</title>
+    <desc lang="en">Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805081000 +0000" stop="20260805083500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - France vs Germany - Pool Stage, Bordeaux - Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805083500 +0000" stop="20260805090000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - Spain vs Great Britain - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805090000 +0000" stop="20260805103000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 2 Match 1 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805103000 +0000" stop="20260805120000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 2 Match 2 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805120000 +0000" stop="20260805133000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 2 Match 3 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805133000 +0000" stop="20260805134000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Match Highlights - Italy Major Men</title>
+    <desc lang="en">Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805134000 +0000" stop="20260805140500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - USA vs Canada - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805140500 +0000" stop="20260805143000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - Fiji vs Brazil - Pool Stage, Bordeaux - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805143000 +0000" stop="20260805160000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 2 Match 4 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805160000 +0000" stop="20260805173000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 2 Match 5 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="beinsports3.unifitv">
+    <display-name>beIN SPORTS 3</display-name>
+  </channel>
+  <programme start="20260804134500 +0000" stop="20260804161500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCI Women's World Tour - Tour de France Femmes - Stage 4 (L)</title>
+    <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804161500 +0000" stop="20260804163000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: Top Ten - Ronaldo Goals</title>
+    <desc lang="en">Catch our collection of Manchester United Top Tens: Goals, matches moments and more, from the Red Devils MUTV archives.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804163000 +0000" stop="20260804183000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">AFCON U17 - DR Congo vs Ivory Coast</title>
+    <desc lang="en">beIN SPORTS brings you coverage from the 16th edition of the U-17 Africa Cup of Nations hosted by Morocco. The top 10 teams will qualify for the 2026 FIFA U-17 World Cup in Qatar as the CAF representatives.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804183000 +0000" stop="20260804193000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">FEI Jumping World Cup - Helsinki, Finland</title>
+    <desc lang="en">The FEI Jumping World Cup is an annual international competition among the world's best show jumping horses and riders. The Jumping Series comprises of 13 leagues across all continents. The top placed rider from each series will be invited to attend the World Cup Jumping Final.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804193000 +0000" stop="20260804195300 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: One Love - Keep the Red Flag Flying High</title>
+    <desc lang="en">Go behind the scenes with some of our most dedicated supporters' clubs, to uncover the fascinating stories, experiences and sacrifices these fans make to follow the club.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804195300 +0000" stop="20260804220000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">WAFCON - Tanzania vs Ivory Coast (L)</title>
+    <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804220000 +0000" stop="20260804223000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">The Sports Rundown - July</title>
+    <desc lang="en">A dynamic new series highlighting a wide range of team sports, combat sports, and exciting stadium action; delving into the personal narratives of athletes, exploring their journeys, struggles, and triumphant moments.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804223000 +0000" stop="20260804230000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: Treble Twenty - West Ham vs Man Utd</title>
+    <desc lang="en">A series to mark Manchester United's incredible Treble campaign of 1998/99 winning Premier League, UEFA Champions League and FA Cup.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804230000 +0000" stop="20260804233000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UEFA Champions League Mini - Napoli vs Chelsea - MD8</title>
+    <desc lang="en">Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Puskas Arena, Budapest</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804233000 +0000" stop="20260805000000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UEFA Champions League Mini - Galatasaray vs Juventus - KO Play-offs, 1st Leg</title>
+    <desc lang="en">Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Puskas Arena, Budapest</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805000000 +0000" stop="20260805015000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UEFA Conference League - Sparta Prague vs Aberdeen - MD6</title>
+    <desc lang="en">Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at RB Arena,Leipzig</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805015000 +0000" stop="20260805034000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Super Lig - Basaksehir vs Besiktas</title>
+    <desc lang="en">beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805034000 +0000" stop="20260805035000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCL - Barcelona vs Lyon (2001/02)</title>
+    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805035000 +0000" stop="20260805054000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Women's Super League - Arsenal vs Aston Villa</title>
+    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805054000 +0000" stop="20260805060000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: 2000 Premier League Goals - 2004/05</title>
+    <desc lang="en">Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805060000 +0000" stop="20260805063000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UEFA Champions League Mini - PSV vs Bayern - MD8</title>
+    <desc lang="en">Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Puskas Arena, Budapest</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805063000 +0000" stop="20260805083000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV - Man Utd vs Stoke PL 08/09</title>
+    <desc lang="en">Experience every goal from Manchester United's greatest matches, straight from the archives.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805083000 +0000" stop="20260805113500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Tour de France - Stage 4 - Carcassonne - Foix</title>
+    <desc lang="en">The world's oldest and most prestigious annual men's multi-stage road cycling race.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805113500 +0000" stop="20260805161500 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UCI Women's World Tour - Tour de France Femmes - Stage 5 (L)</title>
+    <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <channel id="beinsports4.unifitv">
+    <display-name>beIN SPORTS 4</display-name>
+  </channel>
+  <programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804160000 +0000" stop="20260804180000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804180000 +0000" stop="20260804200000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804200000 +0000" stop="20260804220000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804220000 +0000" stop="20260805000000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805000000 +0000" stop="20260805020000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805020000 +0000" stop="20260805040000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805040000 +0000" stop="20260805060000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805060000 +0000" stop="20260805080000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805080000 +0000" stop="20260805100000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805100000 +0000" stop="20260805120000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805120000 +0000" stop="20260805140000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805160000 +0000" stop="20260805180000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
+    <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
+    <category lang="en">Sports</category>
   </programme>
 </tv>

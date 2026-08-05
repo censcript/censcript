@@ -553,9 +553,6 @@
 <programme start="20260806114500 +0000" stop="20260806121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260805023000 +0000" stop="20260805060000 +0000" channel="ANTV.vision">
-<title>Har Dil Jo Pyar Karega...</title>
-</programme>
 <programme start="20260805060000 +0000" stop="20260805073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260805080300 +0000" stop="20260805100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260805100000 +0000" stop="20260805100300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
