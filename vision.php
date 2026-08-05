@@ -553,6 +553,12 @@
 <programme start="20260806114500 +0000" stop="20260806121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260804230000 +0000" stop="20260805023000 +0000" channel="ANTV.vision">
+<title>Love Love Love</title>
+</programme>
+<programme start="20260805023000 +0000" stop="20260805060000 +0000" channel="ANTV.vision">
+<title>Har Dil Jo Pyar Karega...</title>
+</programme>
 <programme start="20260805060000 +0000" stop="20260805073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -714,6 +720,9 @@
 </programme>
 <programme start="20260805013000 +0000" stop="20260805020000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
+</programme>
+<programme start="20260805020000 +0000" stop="20260805023000 +0000" channel="TVOne.vision">
+<title>Indonesia Terkini</title>
 </programme>
 <programme start="20260805023000 +0000" stop="20260805033000 +0000" channel="TVOne.vision">
 <title>Pagi-Pagi Seru</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260805060000 +0000" stop="20260805080000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260805080000 +0000" stop="20260805080300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260805080300 +0000" stop="20260805100000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260805100000 +0000" stop="20260805100300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
