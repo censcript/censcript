@@ -571,18 +571,6 @@
 <programme start="20260805103000 +0000" stop="20260805113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260805113000 +0000" stop="20260805140000 +0000" channel="ANTV.vision">
-<title>Begadang</title>
-</programme>
-<programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="ANTV.vision">
-<title>Ikut Aku Ke Neraka</title>
-</programme>
-<programme start="20260805160000 +0000" stop="20260805180000 +0000" channel="ANTV.vision">
-<title>Misteri Gunung Merapi 3</title>
-</programme>
-<programme start="20260805180000 +0000" stop="20260805190000 +0000" channel="ANTV.vision">
-<title>Ever Victorious</title>
-</programme>
 <programme start="20260805190000 +0000" stop="20260805203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -593,7 +581,7 @@
 <title>Hati Ke Hati Bersama Mamah...</title>
 </programme>
 <programme start="20260805230000 +0000" stop="20260806023000 +0000" channel="ANTV.vision">
-<title>Khakee</title>
+<title>Milenge Milenge</title>
 </programme>
 <programme start="20260806023000 +0000" stop="20260806060000 +0000" channel="ANTV.vision">
 <title>Dil Hai Tumhara</title>
@@ -721,9 +709,6 @@
 <programme start="20260805013000 +0000" stop="20260805020000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260805020000 +0000" stop="20260805023000 +0000" channel="TVOne.vision">
-<title>Indonesia Terkini</title>
-</programme>
 <programme start="20260805023000 +0000" stop="20260805033000 +0000" channel="TVOne.vision">
 <title>Pagi-Pagi Seru</title>
 </programme>
@@ -753,9 +738,6 @@
 </programme>
 <programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20260805140000 +0000" stop="20260805150000 +0000" channel="TVOne.vision">
-<title>Indonesia Business Forum</title>
 </programme>
 <programme start="20260805150000 +0000" stop="20260805160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1496,5 +1478,23 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260805060000 +0000" stop="20260805080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260805080000 +0000" stop="20260805080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260805080300 +0000" stop="20260805100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260805100000 +0000" stop="20260805100300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260805100300 +0000" stop="20260805103000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260805103000 +0000" stop="20260805110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260805110000 +0000" stop="20260805120000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
