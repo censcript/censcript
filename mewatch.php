@@ -155,7 +155,7 @@
         <title>Double Yummy - EP 2</title>
     </programme>
     <programme start="20260805130000 +0000" stop="20260805134500 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>(Live) News Tonight (With Highlights From Parliament)</title>
     </programme>
     <programme start="20260805134500 +0000" stop="20260805141500 +0000" channel="Channel 5.mewatch">
         <title>Border Interceptors - EP 9</title>
@@ -277,17 +277,14 @@
     <programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="Channel 8.mewatch">
         <title>Old &amp; Dangerous - EP 8</title>
     </programme>
-    <programme start="20260805140000 +0000" stop="20260805143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260805140000 +0000" stop="20260805144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260805144500 +0000" stop="20260805151500 +0000" channel="Channel 8.mewatch">
         <title>Kampung Foodsteps S2: Heritage Edition - EP 7</title>
     </programme>
-    <programme start="20260805150000 +0000" stop="20260805160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260805151500 +0000" stop="20260805161500 +0000" channel="Channel 8.mewatch">
         <title>The Demon Hunter&#039;s Romance - EP 23</title>
-    </programme>
-    <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="Channel 8.mewatch">
-        <title>Heroes - EP 6</title>
     </programme>
     <programme start="20260804154500 +0000" stop="20260804164000 +0000" channel="Channel U.mewatch">
         <title>Freedom Travelers - EP 7</title>
@@ -397,10 +394,10 @@
     <programme start="20260805140000 +0000" stop="20260805150000 +0000" channel="Channel U.mewatch">
         <title>Ghost Doctor - EP 7</title>
     </programme>
-    <programme start="20260805150000 +0000" stop="20260805153000 +0000" channel="Channel U.mewatch">
+    <programme start="20260805150000 +0000" stop="20260805154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20260805153000 +0000" stop="20260805163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260805154500 +0000" stop="20260805164000 +0000" channel="Channel U.mewatch">
         <title>The Indigenous - EP 7</title>
     </programme>
     <programme start="20260804160000 +0000" stop="20260805010000 +0000" channel="Suria.mewatch">

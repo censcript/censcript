@@ -400,11 +400,8 @@
   <programme start="20260806221000 +0000" stop="20260806221400 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260806221400 +0000" stop="20260807001000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260806221400 +0000" stop="20260807002000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Atletika - MS 2026 do 20 rokov</title>
-  </programme>
-  <programme start="20260807001000 +0000" stop="20260807002000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
   </programme>
   <programme start="20260807002000 +0000" stop="20260807011500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
@@ -418,35 +415,35 @@
   <programme start="20260807021500 +0000" stop="20260807022500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260807022500 +0000" stop="20260807032000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807022500 +0000" stop="20260807031500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260807032000 +0000" stop="20260807033000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807031500 +0000" stop="20260807032500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260807033000 +0000" stop="20260807042000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807032500 +0000" stop="20260807042000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20260807042000 +0000" stop="20260807043000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260807043000 +0000" stop="20260807052500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807043000 +0000" stop="20260807052000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260807052500 +0000" stop="20260807072000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807052000 +0000" stop="20260807072000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20260807072000 +0000" stop="20260807092000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807072000 +0000" stop="20260807091500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20260807092000 +0000" stop="20260807112000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807091500 +0000" stop="20260807112000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
   <programme start="20260807112000 +0000" stop="20260807130500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - MONACObet liga 2026/2027 - MONACObet liga 2026/27 (2. kolo): MFK Zvolen - FC Tatran Prešov</title>
+    <title lang="id">Futbal - MONACObet liga 2026/27 - MFK Zvolen - FC Tatran Prešov (2. kolo)</title>
   </programme>
   <programme start="20260807130500 +0000" stop="20260807145500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Európska liga / Konferenčná liga 2026/27 (3. predkolo)</title>
+    <title lang="id">Futbal</title>
   </programme>
   <programme start="20260807145500 +0000" stop="20260807152500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Paralympijský magazín</title>
@@ -454,20 +451,20 @@
   <programme start="20260807152500 +0000" stop="20260807154000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Federálne Góly - body - sekundy 1982</title>
   </programme>
-  <programme start="20260807154000 +0000" stop="20260807173500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Európska liga / Konferenčná liga 2026/27 (3. predkolo)</title>
+  <programme start="20260807154000 +0000" stop="20260807173000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Futbal - LM 2026/27: Mjällby AIF - Slovan Bratislava (3. predkolo)</title>
   </programme>
-  <programme start="20260807173500 +0000" stop="20260807175500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807173000 +0000" stop="20260807175000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MONACObet liga</title>
   </programme>
-  <programme start="20260807175500 +0000" stop="20260807195500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260807175000 +0000" stop="20260807195500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Atletika - MS 2026 do 20 rokov</title>
   </programme>
   <programme start="20260807195500 +0000" stop="20260807200500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
   <programme start="20260807200500 +0000" stop="20260807210500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Highlighty Niké liga</title>
+    <title lang="id">Rýchlostná kanoistika - Medzinárodná regata Bratislava 2026</title>
   </programme>
   <programme start="20260807210500 +0000" stop="20260807223500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
@@ -735,96 +732,6 @@
   </programme>
   <programme start="20260807215000 +0000" stop="20260807223500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Party Shore Slovensko II (11)</title>
-  </programme>
-  <programme start="20260806214000 +0000" stop="20260806222000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Tomáš a Diana (7)</title>
-  </programme>
-  <programme start="20260806222000 +0000" stop="20260806224500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Tomáš a Diana (8)</title>
-  </programme>
-  <programme start="20260806224500 +0000" stop="20260806232500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Semafor (3)</title>
-  </programme>
-  <programme start="20260806232500 +0000" stop="20260807001000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Semafor (4)</title>
-  </programme>
-  <programme start="20260807001000 +0000" stop="20260807004000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260807004000 +0000" stop="20260807013500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Noviny TV JOJ</title>
-  </programme>
-  <programme start="20260807013500 +0000" stop="20260807023000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Súdna sieň</title>
-  </programme>
-  <programme start="20260807023000 +0000" stop="20260807035500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Nikto nie je dokonalý</title>
-  </programme>
-  <programme start="20260807035500 +0000" stop="20260807044500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Noviny TV JOJ</title>
-  </programme>
-  <programme start="20260807044500 +0000" stop="20260807051500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260807051500 +0000" stop="20260807072000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Ranné noviny</title>
-  </programme>
-  <programme start="20260807072000 +0000" stop="20260807075000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Gumkáči III (7)</title>
-  </programme>
-  <programme start="20260807075000 +0000" stop="20260807090500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Prázdniny III (8)</title>
-  </programme>
-  <programme start="20260807090500 +0000" stop="20260807100500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Súdna sieň</title>
-  </programme>
-  <programme start="20260807100500 +0000" stop="20260807110000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Súdna sieň</title>
-  </programme>
-  <programme start="20260807110000 +0000" stop="20260807112500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Noviny o 12:00</title>
-  </programme>
-  <programme start="20260807112500 +0000" stop="20260807123000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Hranica II (64)</title>
-  </programme>
-  <programme start="20260807123000 +0000" stop="20260807133000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Hawaii 5.0 III (12)</title>
-  </programme>
-  <programme start="20260807133000 +0000" stop="20260807143000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Hawaii 5.0 III (13)</title>
-  </programme>
-  <programme start="20260807143000 +0000" stop="20260807153000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Inkognito</title>
-  </programme>
-  <programme start="20260807153000 +0000" stop="20260807161000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Riskuj</title>
-  </programme>
-  <programme start="20260807161000 +0000" stop="20260807165000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Riskuj</title>
-  </programme>
-  <programme start="20260807165000 +0000" stop="20260807180000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Súdna sieň</title>
-  </programme>
-  <programme start="20260807180000 +0000" stop="20260807183000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260807183000 +0000" stop="20260807191500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Noviny TV JOJ</title>
-  </programme>
-  <programme start="20260807191500 +0000" stop="20260807192000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Informácie pre tipujúcich</title>
-  </programme>
-  <programme start="20260807192000 +0000" stop="20260807193000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260807193000 +0000" stop="20260807194000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Najlepšie počasie</title>
-  </programme>
-  <programme start="20260807194000 +0000" stop="20260807214000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Čo sme komu zase urobili</title>
-  </programme>
-  <programme start="20260807214000 +0000" stop="20260808000000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Zamenení</title>
   </programme>
   <programme start="20260806213500 +0000" stop="20260806222000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger VIII (6)</title>
@@ -10577,7 +10484,7 @@
     <title lang="id">Patrikova hvězdná show V (4)</title>
   </programme>
   <programme start="20260807071500 +0000" stop="20260807073000 +0000" channel="Nickelodeon.webtv.sk">
-    <title lang="id">Patrikova hvězdná show V (3)</title>
+    <title lang="id">Patrikova hvězdná show V (4)</title>
   </programme>
   <programme start="20260807073000 +0000" stop="20260807074500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Show Patricka Hvězdice II (5)</title>
@@ -10625,7 +10532,7 @@
     <title lang="id">Patrikova hvězdná show V (4)</title>
   </programme>
   <programme start="20260807124500 +0000" stop="20260807125500 +0000" channel="Nickelodeon.webtv.sk">
-    <title lang="id">Patrikova hvězdná show V (3)</title>
+    <title lang="id">Patrikova hvězdná show V (4)</title>
   </programme>
   <programme start="20260807125500 +0000" stop="20260807131500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách IX (184)</title>
@@ -10649,7 +10556,7 @@
     <title lang="id">Patrikova hvězdná show V (4)</title>
   </programme>
   <programme start="20260807151500 +0000" stop="20260807153000 +0000" channel="Nickelodeon.webtv.sk">
-    <title lang="id">Patrikova hvězdná show V (3)</title>
+    <title lang="id">Patrikova hvězdná show V (4)</title>
   </programme>
   <programme start="20260807153000 +0000" stop="20260807155000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Marsupilami I (14)</title>
