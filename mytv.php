@@ -28,13 +28,13 @@
     <programme start="20260805033000 +0000" stop="20260805041100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Lối về miền hoa - Tập 24 </title>
     </programme>
-    <programme start="20260805041100 +0000" stop="20260805050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260805041100 +0000" stop="20260805050100 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Giang Mỗ bản Mường không có chợ </title>
     </programme>
-    <programme start="20260805050500 +0000" stop="20260805051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260805050100 +0000" stop="20260805050800 +0000" channel="VTV1 HD.mytv">
         <title> Lao động và công đoàn: Năng suất lao động và tiến độ dự án </title>
     </programme>
-    <programme start="20260805051000 +0000" stop="20260805053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260805050800 +0000" stop="20260805053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20260805053000 +0000" stop="20260805070000 +0000" channel="VTV1 HD.mytv">
