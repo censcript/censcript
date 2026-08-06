@@ -565,6 +565,9 @@
 <programme start="20260807114500 +0000" stop="20260807121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260805230000 +0000" stop="20260806023000 +0000" channel="ANTV.vision">
+<title>Milenge Milenge</title>
+</programme>
 <programme start="20260806023000 +0000" stop="20260806060000 +0000" channel="ANTV.vision">
 <title>Dil Hai Tumhara</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260806033000 +0000" stop="20260806040000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260806040000 +0000" stop="20260806040300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

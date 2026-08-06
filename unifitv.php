@@ -15122,24 +15122,24 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260805173000 +0000" stop="20260805180000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS Series - New Zealand vs Fiji - Dubai Day 2, Men</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS Series - Australia vs New Zealand - Dubai Day 2, Men</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260805183000 +0000" stop="20260805200000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260805173000 +0000" stop="20260805190000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - London P1 Day 2 Match 6 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260805200000 +0000" stop="20260805213000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Buenos Aires P1 Day 3 Match 6</title>
+  <programme start="20260805190000 +0000" stop="20260805203000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - London P1 Day 2 Match 7 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805203000 +0000" stop="20260805210000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series - New Zealand vs Fiji - Dubai Day 2, Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805210000 +0000" stop="20260805213000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series - Australia vs New Zealand - Dubai Day 2, Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260805213000 +0000" stop="20260805232000 +0000" channel="beinsports2.unifitv">

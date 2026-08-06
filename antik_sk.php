@@ -4489,10 +4489,10 @@
   <programme start="20260808181500 +0000" stop="20260808193500 +0000" channel="A11.webtv.sk">
     <title lang="id">Hvězdná kavárna Pepy Melena</title>
   </programme>
-  <programme start="20260808193500 +0000" stop="20260808201000 +0000" channel="A11.webtv.sk">
+  <programme start="20260808193500 +0000" stop="20260808201500 +0000" channel="A11.webtv.sk">
     <title lang="id">Potlesk pro...</title>
   </programme>
-  <programme start="20260808201000 +0000" stop="20260808210000 +0000" channel="A11.webtv.sk">
+  <programme start="20260808201500 +0000" stop="20260808210000 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobro je nakažlivé</title>
   </programme>
   <programme start="20260808210000 +0000" stop="20260808215000 +0000" channel="A11.webtv.sk">

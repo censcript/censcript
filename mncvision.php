@@ -5243,7 +5243,7 @@
     <title>Enchantimals</title>
 </programme>
 <programme start="20260806060000 +0000" stop="20260806063000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol S3</title>
+    <title>Titus The Detective</title>
 </programme>
 <programme start="20260806063000 +0000" stop="20260806070000 +0000" channel="Kids TV.mncvision">
     <title>Yameme</title>
@@ -5360,7 +5360,7 @@
     <title>Enchantimals</title>
 </programme>
 <programme start="20260806060000 +0000" stop="20260806063000 +0000" channel="Kids TV HD.mncvision">
-    <title>PAW Patrol S3</title>
+    <title>Titus The Detective</title>
 </programme>
 <programme start="20260806063000 +0000" stop="20260806070000 +0000" channel="Kids TV HD.mncvision">
     <title>Yameme</title>
@@ -7804,41 +7804,47 @@
 <programme start="20260805220000 +0000" stop="20260805230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260805230000 +0000" stop="20260806000000 +0000" channel="SCTV.mncvision">
+<programme start="20260805230000 +0000" stop="20260806001100 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260806000000 +0000" stop="20260806011500 +0000" channel="SCTV.mncvision">
+<programme start="20260806001100 +0000" stop="20260806011100 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260806011500 +0000" stop="20260806030000 +0000" channel="SCTV.mncvision">
+<programme start="20260806011100 +0000" stop="20260806025100 +0000" channel="SCTV.mncvision">
     <title>Dari Donor Jadi Demen</title>
 </programme>
-<programme start="20260806030000 +0000" stop="20260806050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260806025100 +0000" stop="20260806044700 +0000" channel="SCTV.mncvision">
+    <title>Jodoh Itu Ketuk Pintu Dulu!</title>
 </programme>
-<programme start="20260806050000 +0000" stop="20260806070000 +0000" channel="SCTV.mncvision">
+<programme start="20260806044700 +0000" stop="20260806052100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260806070000 +0000" stop="20260806081500 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Siang</title>
+<programme start="20260806052100 +0000" stop="20260806070300 +0000" channel="SCTV.mncvision">
+    <title>Mencintaimu Butuh 9 Nyawa</title>
 </programme>
-<programme start="20260806081500 +0000" stop="20260806101500 +0000" channel="SCTV.mncvision">
-    <title>Jatuh Cinta Pada Aroma Pertama</title>
+<programme start="20260806070300 +0000" stop="20260806083800 +0000" channel="SCTV.mncvision">
+    <title>Gara-Gara Segelas Air...</title>
 </programme>
-<programme start="20260806101500 +0000" stop="20260806114500 +0000" channel="SCTV.mncvision">
+<programme start="20260806083800 +0000" stop="20260806100500 +0000" channel="SCTV.mncvision">
+    <title>Gue Repost Cinta Loe Sebelum...</title>
+</programme>
+<programme start="20260806100500 +0000" stop="20260806113300 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260806114500 +0000" stop="20260806131500 +0000" channel="SCTV.mncvision">
+<programme start="20260806113300 +0000" stop="20260806125100 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260806131500 +0000" stop="20260806144500 +0000" channel="SCTV.mncvision">
+<programme start="20260806125100 +0000" stop="20260806142000 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260806144500 +0000" stop="20260806160000 +0000" channel="SCTV.mncvision">
+<programme start="20260806142000 +0000" stop="20260806160800 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260806160000 +0000" stop="20260806163000 +0000" channel="SCTV.mncvision">
+<programme start="20260806160800 +0000" stop="20260806165800 +0000" channel="SCTV.mncvision">
     <title>Vidio Original Series: Mercury</title>
+</programme>
+<programme start="20260806165800 +0000" stop="20260805172800 +0000" channel="SCTV.mncvision">
+    <title>Pembokat Idola Bokap</title>
 </programme>
 <programme start="20260805170400 +0000" stop="20260805183100 +0000" channel="SCTV HD.mncvision">
     <title>Cincin Wasiat Bawa Jodoh</title>
@@ -7858,41 +7864,47 @@
 <programme start="20260805220000 +0000" stop="20260805230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260805230000 +0000" stop="20260806000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260805230000 +0000" stop="20260806001100 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260806000000 +0000" stop="20260806011500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806001100 +0000" stop="20260806011100 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260806011500 +0000" stop="20260806030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806011100 +0000" stop="20260806025100 +0000" channel="SCTV HD.mncvision">
     <title>Dari Donor Jadi Demen</title>
 </programme>
-<programme start="20260806030000 +0000" stop="20260806050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260806025100 +0000" stop="20260806044700 +0000" channel="SCTV HD.mncvision">
+    <title>Jodoh Itu Ketuk Pintu Dulu!</title>
 </programme>
-<programme start="20260806050000 +0000" stop="20260806070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806044700 +0000" stop="20260806052100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260806070000 +0000" stop="20260806081500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Siang</title>
+<programme start="20260806052100 +0000" stop="20260806070300 +0000" channel="SCTV HD.mncvision">
+    <title>Mencintaimu Butuh 9 Nyawa</title>
 </programme>
-<programme start="20260806081500 +0000" stop="20260806101500 +0000" channel="SCTV HD.mncvision">
-    <title>Jatuh Cinta Pada Aroma Pertama</title>
+<programme start="20260806070300 +0000" stop="20260806083800 +0000" channel="SCTV HD.mncvision">
+    <title>Gara-Gara Segelas Air...</title>
 </programme>
-<programme start="20260806101500 +0000" stop="20260806114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806083800 +0000" stop="20260806100500 +0000" channel="SCTV HD.mncvision">
+    <title>Gue Repost Cinta Loe Sebelum...</title>
+</programme>
+<programme start="20260806100500 +0000" stop="20260806113300 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260806114500 +0000" stop="20260806131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806113300 +0000" stop="20260806125100 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260806131500 +0000" stop="20260806144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806125100 +0000" stop="20260806142000 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260806144500 +0000" stop="20260806160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806142000 +0000" stop="20260806160800 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260806160000 +0000" stop="20260806163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806160800 +0000" stop="20260806165800 +0000" channel="SCTV HD.mncvision">
     <title>Vidio Original Series: Mercury</title>
+</programme>
+<programme start="20260806165800 +0000" stop="20260805172800 +0000" channel="SCTV HD.mncvision">
+    <title>Pembokat Idola Bokap</title>
 </programme>
 <programme start="20260805170000 +0000" stop="20260805180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>

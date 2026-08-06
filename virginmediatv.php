@@ -4222,10 +4222,10 @@
 <programme start="20260806050000 +0000" stop="20260806060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Estoril Open 2026 - Final</title>
 </programme>
-<programme start="20260806120000 +0000" stop="20260806133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260806115000 +0000" stop="20260806131000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 4</title>
 </programme>
-<programme start="20260806133000 +0000" stop="20260806150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260806131000 +0000" stop="20260806150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 4</title>
 </programme>
 <programme start="20260806150000 +0000" stop="20260806163000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -4990,10 +4990,10 @@
 <programme start="20260806050000 +0000" stop="20260806060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Estoril Open 2026 - Final</title>
 </programme>
-<programme start="20260806120000 +0000" stop="20260806133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260806115000 +0000" stop="20260806131000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 4</title>
 </programme>
-<programme start="20260806133000 +0000" stop="20260806150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260806131000 +0000" stop="20260806150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 4</title>
 </programme>
 <programme start="20260806150000 +0000" stop="20260806163000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
@@ -6265,10 +6265,7 @@
 <programme start="20260805175800 +0000" stop="20260806015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260806015800 +0000" stop="20260806050000 +0000" channel="CBBC.virginmediatv">
-    <title>This is CBBC!</title>
-</programme>
-<programme start="20260806050000 +0000" stop="20260806060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260806015800 +0000" stop="20260806060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260806115000 +0000" stop="20260806120500 +0000" channel="CBBC.virginmediatv">
