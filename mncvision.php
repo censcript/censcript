@@ -7826,7 +7826,7 @@
     <title>Gara-Gara Segelas Air...</title>
 </programme>
 <programme start="20260806083800 +0000" stop="20260806100500 +0000" channel="SCTV.mncvision">
-    <title>Gue Repost Cinta Loe Sebelum...</title>
+    <title>Masuk Kuping Kiri Keluar...</title>
 </programme>
 <programme start="20260806100500 +0000" stop="20260806113300 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
@@ -7886,7 +7886,7 @@
     <title>Gara-Gara Segelas Air...</title>
 </programme>
 <programme start="20260806083800 +0000" stop="20260806100500 +0000" channel="SCTV HD.mncvision">
-    <title>Gue Repost Cinta Loe Sebelum...</title>
+    <title>Masuk Kuping Kiri Keluar...</title>
 </programme>
 <programme start="20260806100500 +0000" stop="20260806113300 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>

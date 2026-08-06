@@ -3475,10 +3475,10 @@
   <programme start="20260808171800 +0000" stop="20260808174000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Duch a Molly (5/20)</title>
   </programme>
-  <programme start="20260808174000 +0000" stop="20260808174600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260808174000 +0000" stop="20260808174100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kiri a Lou IV</title>
   </programme>
-  <programme start="20260808174600 +0000" stop="20260808180000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260808174100 +0000" stop="20260808180000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Pat a Mat I (17)</title>
   </programme>
   <programme start="20260808180000 +0000" stop="20260808181500 +0000" channel="ČT :D - ČT art.webtv.sk">

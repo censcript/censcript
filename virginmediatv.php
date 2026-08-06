@@ -4460,10 +4460,22 @@
     <title>TNT Sports Reload - Episode 31</title>
 </programme>
 <programme start="20260806123000 +0000" stop="20260806133000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Test Cricket - 2nd Test, Day 4: West Indies v Pakistan</title>
+    <title>Major League Baseball - Highlights</title>
 </programme>
-<programme start="20260806133000 +0000" stop="20260806220000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Test Cricket - 2nd Test, Day 5: West Indies v Pakistan</title>
+<programme start="20260806133000 +0000" stop="20260806143000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>WRC Review - Rally Finland</title>
+</programme>
+<programme start="20260806143000 +0000" stop="20260806153000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>FIM Speedway Grand Prix - Round 7: Grand Prix of Poland</title>
+</programme>
+<programme start="20260806153000 +0000" stop="20260806160000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>eSports Show - Episode 1</title>
+</programme>
+<programme start="20260806160000 +0000" stop="20260806170000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Fishing: On the Bank - Crouch Open</title>
+</programme>
+<programme start="20260806170000 +0000" stop="20260806183000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Ultimate Pool Champions League - Group 8</title>
 </programme>
 <programme start="20260806000000 +0000" stop="20260806010000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>WRC Review - Rally Finland</title>
@@ -5105,10 +5117,22 @@
     <title>TNT Sports Reload - Episode 31</title>
 </programme>
 <programme start="20260806123000 +0000" stop="20260806133000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Test Cricket - 2nd Test, Day 4: West Indies v Pakistan</title>
+    <title>Major League Baseball - Highlights</title>
 </programme>
-<programme start="20260806133000 +0000" stop="20260806220000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Live: Test Cricket - 2nd Test, Day 5: West Indies v Pakistan</title>
+<programme start="20260806133000 +0000" stop="20260806143000 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>WRC Review - Rally Finland</title>
+</programme>
+<programme start="20260806143000 +0000" stop="20260806153000 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>FIM Speedway Grand Prix - Round 7: Grand Prix of Poland</title>
+</programme>
+<programme start="20260806153000 +0000" stop="20260806160000 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>eSports Show - Episode 1</title>
+</programme>
+<programme start="20260806160000 +0000" stop="20260806170000 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>Fishing: On the Bank - Crouch Open</title>
+</programme>
+<programme start="20260806170000 +0000" stop="20260806183000 +0000" channel="TNT_Sports_2.virginmediatv">
+    <title>Ultimate Pool Champions League - Group 8</title>
 </programme>
 <programme start="20260806000000 +0000" stop="20260806010000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>WRC Review - Rally Finland</title>

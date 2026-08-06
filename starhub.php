@@ -400,17 +400,176 @@
     <programme start="20260806153000 +0000" stop="20260806160000 +0000" channel="FashionTV HD.starhub">
         <title>DESIGNERS</title>
     </programme>
-    <programme start="20260805160000 +0000" stop="20260805220000 +0000" channel="Arirang TV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="Arirang TV HD.starhub">
+        <title>Premium Collection</title>
     </programme>
-    <programme start="20260805220000 +0000" stop="20260806040000 +0000" channel="Arirang TV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260805163000 +0000" stop="20260805170000 +0000" channel="Arirang TV HD.starhub">
+        <title>Arirang Special</title>
     </programme>
-    <programme start="20260806040000 +0000" stop="20260806100000 +0000" channel="Arirang TV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260805170000 +0000" stop="20260805173000 +0000" channel="Arirang TV HD.starhub">
+        <title>I&#039;m Live</title>
     </programme>
-    <programme start="20260806100000 +0000" stop="20260806160000 +0000" channel="Arirang TV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260805173000 +0000" stop="20260805180000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Stage Pan</title>
+    </programme>
+    <programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Dive [R]</title>
+    </programme>
+    <programme start="20260805183000 +0000" stop="20260805190000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Art Of Pairing</title>
+    </programme>
+    <programme start="20260805190000 +0000" stop="20260805193000 +0000" channel="Arirang TV HD.starhub">
+        <title>Within The Frame [R]</title>
+    </programme>
+    <programme start="20260805193000 +0000" stop="20260805195000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-Story</title>
+    </programme>
+    <programme start="20260805195000 +0000" stop="20260805200000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Tech Green Solutions 2026</title>
+    </programme>
+    <programme start="20260805200000 +0000" stop="20260805203000 +0000" channel="Arirang TV HD.starhub">
+        <title>Seoulscape</title>
+    </programme>
+    <programme start="20260805203000 +0000" stop="20260805205000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage K-Asmr(20)</title>
+    </programme>
+    <programme start="20260805205000 +0000" stop="20260805210000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage</title>
+    </programme>
+    <programme start="20260805210000 +0000" stop="20260805213000 +0000" channel="Arirang TV HD.starhub">
+        <title>I&#039;m Live</title>
+    </programme>
+    <programme start="20260805213000 +0000" stop="20260805220000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Stage Pan</title>
+    </programme>
+    <programme start="20260805220000 +0000" stop="20260805223000 +0000" channel="Arirang TV HD.starhub">
+        <title>Premium Collection</title>
+    </programme>
+    <programme start="20260805223000 +0000" stop="20260805225000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Arts Artists</title>
+    </programme>
+    <programme start="20260805225000 +0000" stop="20260805230000 +0000" channel="Arirang TV HD.starhub">
+        <title>Heritage Walks With Little Friend</title>
+    </programme>
+    <programme start="20260805230000 +0000" stop="20260805232000 +0000" channel="Arirang TV HD.starhub">
+        <title>Art And The City</title>
+    </programme>
+    <programme start="20260805232000 +0000" stop="20260805233000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
+    </programme>
+    <programme start="20260805233000 +0000" stop="20260805235000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-Stage</title>
+    </programme>
+    <programme start="20260805235000 +0000" stop="20260806000000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Tech Green Solutions 2026</title>
+    </programme>
+    <programme start="20260806000000 +0000" stop="20260806003000 +0000" channel="Arirang TV HD.starhub">
+        <title>Beauty On And Off</title>
+    </programme>
+    <programme start="20260806003000 +0000" stop="20260806010000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Food Class</title>
+    </programme>
+    <programme start="20260806010000 +0000" stop="20260806013000 +0000" channel="Arirang TV HD.starhub">
+        <title>New Day At Arirang</title>
+    </programme>
+    <programme start="20260806013000 +0000" stop="20260806020000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Generation [L]</title>
+    </programme>
+    <programme start="20260806020000 +0000" stop="20260806030000 +0000" channel="Arirang TV HD.starhub">
+        <title>Culture Crunch [L]</title>
+    </programme>
+    <programme start="20260806030000 +0000" stop="20260806033000 +0000" channel="Arirang TV HD.starhub">
+        <title>Arirang News 12:00</title>
+    </programme>
+    <programme start="20260806033000 +0000" stop="20260806040000 +0000" channel="Arirang TV HD.starhub">
+        <title>Beauty On And Off</title>
+    </programme>
+    <programme start="20260806040000 +0000" stop="20260806050000 +0000" channel="Arirang TV HD.starhub">
+        <title>Simply K-Pop Gateway To Korea</title>
+    </programme>
+    <programme start="20260806050000 +0000" stop="20260806053000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Dive [L]</title>
+    </programme>
+    <programme start="20260806053000 +0000" stop="20260806060000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Generation [R]</title>
+    </programme>
+    <programme start="20260806060000 +0000" stop="20260806063000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Food Class</title>
+    </programme>
+    <programme start="20260806063000 +0000" stop="20260806065000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-Stage</title>
+    </programme>
+    <programme start="20260806065000 +0000" stop="20260806070000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Tech Green Solutions 2026</title>
+    </programme>
+    <programme start="20260806070000 +0000" stop="20260806070500 +0000" channel="Arirang TV HD.starhub">
+        <title>Ai Headline News</title>
+    </programme>
+    <programme start="20260806070500 +0000" stop="20260806073000 +0000" channel="Arirang TV HD.starhub">
+        <title>Arirang Special</title>
+    </programme>
+    <programme start="20260806073000 +0000" stop="20260806080000 +0000" channel="Arirang TV HD.starhub">
+        <title>Beauty On And Off</title>
+    </programme>
+    <programme start="20260806080000 +0000" stop="20260806083000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Daily Report</title>
+    </programme>
+    <programme start="20260806083000 +0000" stop="20260806090000 +0000" channel="Arirang TV HD.starhub">
+        <title>Press Perspective [L]</title>
+    </programme>
+    <programme start="20260806090000 +0000" stop="20260806100000 +0000" channel="Arirang TV HD.starhub">
+        <title>Simply K-Pop Gateway To Korea</title>
+    </programme>
+    <programme start="20260806100000 +0000" stop="20260806103000 +0000" channel="Arirang TV HD.starhub">
+        <title>Premium Collection</title>
+    </programme>
+    <programme start="20260806103000 +0000" stop="20260806105000 +0000" channel="Arirang TV HD.starhub">
+        <title>Art And The City</title>
+    </programme>
+    <programme start="20260806105000 +0000" stop="20260806110000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
+    </programme>
+    <programme start="20260806110000 +0000" stop="20260806113000 +0000" channel="Arirang TV HD.starhub">
+        <title>Newscenter</title>
+    </programme>
+    <programme start="20260806113000 +0000" stop="20260806120000 +0000" channel="Arirang TV HD.starhub">
+        <title>Within The Frame [L]</title>
+    </programme>
+    <programme start="20260806120000 +0000" stop="20260806123000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Dive [R]</title>
+    </programme>
+    <programme start="20260806123000 +0000" stop="20260806125000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Culture Minutes: K-Stage</title>
+    </programme>
+    <programme start="20260806125000 +0000" stop="20260806130000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Tech Green Solutions 2026</title>
+    </programme>
+    <programme start="20260806130000 +0000" stop="20260806130500 +0000" channel="Arirang TV HD.starhub">
+        <title>Ai Headline News</title>
+    </programme>
+    <programme start="20260806130500 +0000" stop="20260806133000 +0000" channel="Arirang TV HD.starhub">
+        <title>Arirang Special</title>
+    </programme>
+    <programme start="20260806133000 +0000" stop="20260806140000 +0000" channel="Arirang TV HD.starhub">
+        <title>Beauty On And Off</title>
+    </programme>
+    <programme start="20260806140000 +0000" stop="20260806143000 +0000" channel="Arirang TV HD.starhub">
+        <title>Press Perspective [R]</title>
+    </programme>
+    <programme start="20260806143000 +0000" stop="20260806145000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage K-Asmr(20)</title>
+    </programme>
+    <programme start="20260806145000 +0000" stop="20260806150000 +0000" channel="Arirang TV HD.starhub">
+        <title>The Grand Heritage</title>
+    </programme>
+    <programme start="20260806150000 +0000" stop="20260806153000 +0000" channel="Arirang TV HD.starhub">
+        <title>News Generation [R]</title>
+    </programme>
+    <programme start="20260806153000 +0000" stop="20260806155000 +0000" channel="Arirang TV HD.starhub">
+        <title>Art And The City</title>
+    </programme>
+    <programme start="20260806155000 +0000" stop="20260806160000 +0000" channel="Arirang TV HD.starhub">
+        <title>K-Chat: Travel In Korea</title>
     </programme>
     <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="Fox News Channel.starhub">
         <title>Outnumbered</title>
@@ -1861,17 +2020,17 @@
     <programme start="20260805160000 +0000" stop="20260805173000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: London P1 Day 2 Match 5</title>
     </programme>
-    <programme start="20260805173000 +0000" stop="20260805180000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS Series 2026: New Zealand vs Fiji - Dubai Day 2, Men</title>
-    </programme>
-    <programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS Series 2026: Australia vs New Zealand - Dubai Day 2, Men</title>
-    </programme>
-    <programme start="20260805183000 +0000" stop="20260805200000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20260805173000 +0000" stop="20260805190000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: London P1 Day 2 Match 6</title>
     </programme>
-    <programme start="20260805200000 +0000" stop="20260805213000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Buenos Aires P1 Day 3 Match 6</title>
+    <programme start="20260805190000 +0000" stop="20260805203000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Premier Padel 2026: London P1 Day 2 Match 7</title>
+    </programme>
+    <programme start="20260805203000 +0000" stop="20260805210000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>HSBC SVNS Series 2026: New Zealand vs Fiji - Dubai Day 2, Men</title>
+    </programme>
+    <programme start="20260805210000 +0000" stop="20260805213000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>HSBC SVNS Series 2026: Australia vs New Zealand - Dubai Day 2, Men</title>
     </programme>
     <programme start="20260805213000 +0000" stop="20260805232000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Women&#039;s Super League 2025/26: Man City vs Chelsea</title>
@@ -6301,6 +6460,9 @@
     <programme start="20260806120000 +0000" stop="20260806150000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open (1000) Day 4 R2 Session 3</title>
     </programme>
+    <programme start="20260806150000 +0000" stop="20260806160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Le Marathon des Sables</title>
+    </programme>
     <programme start="20260805134900 +0000" stop="20260805162000 +0000" channel="SONY MAX.starhub">
         <title>Ludo</title>
     </programme>
@@ -6974,7 +7136,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260805233000 +0000" stop="20260806000000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>Talking Business</title>
     </programme>
     <programme start="20260806000000 +0000" stop="20260806003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7549,13 +7711,13 @@
     <programme start="20260805133000 +0000" stop="20260805170000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
-    <programme start="20260805170000 +0000" stop="20260805193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260805170000 +0000" stop="20260805191000 +0000" channel="Asianet Movies.starhub">
         <title>Madhuram</title>
     </programme>
-    <programme start="20260805193000 +0000" stop="20260805213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260805191000 +0000" stop="20260805214000 +0000" channel="Asianet Movies.starhub">
         <title>Ivar Vivahitharayal</title>
     </programme>
-    <programme start="20260805213000 +0000" stop="20260805233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260805214000 +0000" stop="20260805233000 +0000" channel="Asianet Movies.starhub">
         <title>Thaskara Lahala</title>
     </programme>
     <programme start="20260805233000 +0000" stop="20260806013000 +0000" channel="Asianet Movies.starhub">
@@ -7678,8 +7840,8 @@
     <programme start="20260806150000 +0000" stop="20260806160000 +0000" channel="Astro Warna HD.starhub">
         <title>Mahaguru Spontan</title>
     </programme>
-    <programme start="20260805140000 +0000" stop="20260805163000 +0000" channel="SPOTV2.starhub">
-        <title>2/8 2026 MLB Regular Season Los Angeles Dodgers vs Boston Red Sox</title>
+    <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="SPOTV2.starhub">
+        <title>Highlights</title>
     </programme>
     <programme start="20260805163000 +0000" stop="20260805182000 +0000" channel="SPOTV2.starhub">
         <title>Day 1 Race</title>
@@ -7711,7 +7873,7 @@
     <programme start="20260806123000 +0000" stop="20260806133000 +0000" channel="SPOTV2.starhub">
         <title>Part 2</title>
     </programme>
-    <programme start="20260806133000 +0000" stop="20260806160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260806133000 +0000" stop="20260806161000 +0000" channel="SPOTV2.starhub">
         <title>3/8 2026 MLB Regular Season Los Angeles Dodgers vs Boston Red Sox</title>
     </programme>
     <programme start="20260805160000 +0000" stop="20260805172300 +0000" channel="Dragon TV.starhub">
