@@ -194,13 +194,13 @@
     <title>Na Singalings - The Hospital</title>
 </programme>
 <programme start="20260806051400 +0000" stop="20260806052200 +0000" channel="TG4_HD.virginmediatv">
-    <title>The Woohoos! - The Spiky Suspect</title>
+    <title>Na Wúhús - The Spiky Suspect</title>
 </programme>
 <programme start="20260806052200 +0000" stop="20260806052900 +0000" channel="TG4_HD.virginmediatv">
-    <title>The Woohoos! - Super Ants!</title>
+    <title>Na Wúhús - Super Ants!</title>
 </programme>
 <programme start="20260806052900 +0000" stop="20260806053700 +0000" channel="TG4_HD.virginmediatv">
-    <title>The Woohoos! - The Night Time Woo-Who?</title>
+    <title>Na Wúhús - The Night Time Woo-Who?</title>
 </programme>
 <programme start="20260806053700 +0000" stop="20260806054400 +0000" channel="TG4_HD.virginmediatv">
     <title>Abby&#039;s Amazing Adventures - Building Things</title>
@@ -5825,13 +5825,13 @@
     <title>Na Singalings - The Hospital</title>
 </programme>
 <programme start="20260806051400 +0000" stop="20260806052200 +0000" channel="Cula4_HD.virginmediatv">
-    <title>The Woohoos! - The Spiky Suspect</title>
+    <title>Na Wúhús - The Spiky Suspect</title>
 </programme>
 <programme start="20260806052200 +0000" stop="20260806052900 +0000" channel="Cula4_HD.virginmediatv">
-    <title>The Woohoos! - Super Ants!</title>
+    <title>Na Wúhús - Super Ants!</title>
 </programme>
 <programme start="20260806052900 +0000" stop="20260806053700 +0000" channel="Cula4_HD.virginmediatv">
-    <title>The Woohoos! - The Night Time Woo-Who?</title>
+    <title>Na Wúhús - The Night Time Woo-Who?</title>
 </programme>
 <programme start="20260806053700 +0000" stop="20260806054400 +0000" channel="Cula4_HD.virginmediatv">
     <title>Abby&#039;s Amazing Adventures - Building Things</title>

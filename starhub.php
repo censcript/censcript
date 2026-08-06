@@ -2236,8 +2236,8 @@
     <programme start="20260806150000 +0000" stop="20260806170000 +0000" channel="Cinema One Global.starhub">
         <title>Wang-Wang, Buhay Bombero</title>
     </programme>
-    <programme start="20260805133000 +0000" stop="20260805163000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>National Bank p/b Rogers (1000) Day 2 Session 2</title>
+    <programme start="20260805134100 +0000" stop="20260805163000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>Round 4</title>
     </programme>
     <programme start="20260805163000 +0000" stop="20260805203000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>National Bank p/b Rogers (1000) Day 3 Session 1</title>
@@ -6421,10 +6421,10 @@
     <programme start="20260806155400 +0000" stop="20260806161800 +0000" channel="TV5MONDE HD.starhub">
         <title>Love is in the air</title>
     </programme>
-    <programme start="20260805150000 +0000" stop="20260805210000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260805150000 +0000" stop="20260805220900 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open (1000) Day 4 R2 Session 1</title>
     </programme>
-    <programme start="20260805210000 +0000" stop="20260805230000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260805220900 +0000" stop="20260805230000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>National Bank Open (1000) Day 4 R2 Session 2</title>
     </programme>
     <programme start="20260805230000 +0000" stop="20260806030000 +0000" channel="Hub Sports 1  HD.starhub">

@@ -568,9 +568,6 @@
 <programme start="20260806103000 +0000" stop="20260806113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260806113000 +0000" stop="20260806140000 +0000" channel="ANTV.vision">
-<title>Pengabdian</title>
-</programme>
 <programme start="20260806140000 +0000" stop="20260806160000 +0000" channel="ANTV.vision">
 <title>Misteri Janda Kembang</title>
 </programme>
@@ -750,9 +747,6 @@
 </programme>
 <programme start="20260806130000 +0000" stop="20260806140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20260806140000 +0000" stop="20260806150000 +0000" channel="TVOne.vision">
-<title>Dua Sisi</title>
 </programme>
 <programme start="20260806150000 +0000" stop="20260806160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260807030000 +0000" stop="20260807030300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260807030300 +0000" stop="20260807033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260807033000 +0000" stop="20260807040000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
