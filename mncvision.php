@@ -4237,16 +4237,16 @@
 <programme start="20260806110000 +0000" stop="20260806120000 +0000" channel="GTV.mncvision">
     <title>Rahasia Kerengga Semut Merah</title>
 </programme>
-<programme start="20260806120000 +0000" stop="20260806130000 +0000" channel="GTV.mncvision">
+<programme start="20260806120000 +0000" stop="20260806133000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20260806130000 +0000" stop="20260806150000 +0000" channel="GTV.mncvision">
-    <title>Spiders 2</title>
+<programme start="20260806133000 +0000" stop="20260806153000 +0000" channel="GTV.mncvision">
+    <title>Metamorphosis</title>
 </programme>
-<programme start="20260806150000 +0000" stop="20260806160000 +0000" channel="GTV.mncvision">
+<programme start="20260806153000 +0000" stop="20260806163000 +0000" channel="GTV.mncvision">
     <title>The Face Behind The Lie</title>
 </programme>
-<programme start="20260806160000 +0000" stop="20260806163000 +0000" channel="GTV.mncvision">
+<programme start="20260806163000 +0000" stop="20260805170000 +0000" channel="GTV.mncvision">
     <title>Arab Maklum</title>
 </programme>
 <programme start="20260805173000 +0000" stop="20260805190000 +0000" channel="GTV HD.mncvision">
@@ -4288,16 +4288,16 @@
 <programme start="20260806110000 +0000" stop="20260806120000 +0000" channel="GTV HD.mncvision">
     <title>Rahasia Kerengga Semut Merah</title>
 </programme>
-<programme start="20260806120000 +0000" stop="20260806130000 +0000" channel="GTV HD.mncvision">
+<programme start="20260806120000 +0000" stop="20260806133000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20260806130000 +0000" stop="20260806150000 +0000" channel="GTV HD.mncvision">
-    <title>Spiders 2</title>
+<programme start="20260806133000 +0000" stop="20260806153000 +0000" channel="GTV HD.mncvision">
+    <title>Metamorphosis</title>
 </programme>
-<programme start="20260806150000 +0000" stop="20260806160000 +0000" channel="GTV HD.mncvision">
+<programme start="20260806153000 +0000" stop="20260806163000 +0000" channel="GTV HD.mncvision">
     <title>The Face Behind The Lie</title>
 </programme>
-<programme start="20260806160000 +0000" stop="20260806163000 +0000" channel="GTV HD.mncvision">
+<programme start="20260806163000 +0000" stop="20260805170000 +0000" channel="GTV HD.mncvision">
     <title>Arab Maklum</title>
 </programme>
 <programme start="20260805173000 +0000" stop="20260805180000 +0000" channel="Hanacaraka TV.mncvision">

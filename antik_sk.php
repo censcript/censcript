@@ -2653,9 +2653,6 @@
   <programme start="20260808114000 +0000" stop="20260808123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260808140000 +0000" stop="20260808143000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
-  </programme>
   <programme start="20260808163000 +0000" stop="20260808173000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>

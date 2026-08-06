@@ -3270,7 +3270,7 @@
   </programme>
   <programme start="20260805163500 +0000" stop="20260805173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Wan Fu Jin An</title>
-    <desc lang="en">After being murdered in a planned palace fire, Queen Gu Qing is reborn as Feng Qing, a lowly palace maid. Stripped of her royal status, she embarks on a dangerous mission to protect her younger sister from deadly royal schemes and uncover the truth to bring her murderers to justice</desc>
+    <desc lang="en">Queen Gu Qing (played by Wang Yijin) is framed and killed in a meticulously planned fire, only to be reborn in the body of Feng Qing (played by Fang Jin), a maidservant at the Imperial Garment Bureau. Once a noble queen and now reduced to a lowly palace maid, Feng Qing refuses to be consumed by grief. Determined to protect her younger sister Gu Wan (played by Wu Mansi), uncover the truth behind her own murder and bring the real culprit to justice, she chooses to conceal her sharpness and lie low in the depths of the palace under Feng Qing's identity. Knowing that she cannot overturn the case on her own, Feng Qing secretly reaches out to her younger brother Gu Xuan (played by Chu Zijun), who serves as an imperial physician. With a deep mutual understanding, the siblings form an alliance and use their respective strengths to navigate the power struggles within the harem. While avoiding repeated schemes and traps, they gather clues and outwit the treacherous forces lurking in the palace. As revenge and protection become entwined in this dangerous game, Feng Qing inevitably crosses paths once again with Emperor Xiao Luo (played by Zhao Huawei). Xiao Luo has always harbored doubts about Gu Qing's “tragic death” and senses traces of Gu Qing in Feng Qing, prompting him to test her repeatedly. Feng Qing, meanwhile, is filled with complex emotions toward Xiao Luo. Through their repeated confrontations and emotional push-and-pull, the two gradually unravel past misunderstandings, while the bond left unresolved in their previous life quietly begins again.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3422,7 +3422,7 @@
   </programme>
   <programme start="20260806063500 +0000" stop="20260806073500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Wan Fu Jin An &amp; What's On Today</title>
-    <desc lang="en">After being murdered in a planned palace fire, Queen Gu Qing is reborn as Feng Qing, a lowly palace maid. Stripped of her royal status, she embarks on a dangerous mission to protect her younger sister from deadly royal schemes and uncover the truth to bring her murderers to justice</desc>
+    <desc lang="en">Queen Gu Qing (played by Wang Yijin) is framed and killed in a meticulously planned fire, only to be reborn in the body of Feng Qing (played by Fang Jin), a maidservant at the Imperial Garment Bureau. Once a noble queen and now reduced to a lowly palace maid, Feng Qing refuses to be consumed by grief. Determined to protect her younger sister Gu Wan (played by Wu Mansi), uncover the truth behind her own murder and bring the real culprit to justice, she chooses to conceal her sharpness and lie low in the depths of the palace under Feng Qing's identity. Knowing that she cannot overturn the case on her own, Feng Qing secretly reaches out to her younger brother Gu Xuan (played by Chu Zijun), who serves as an imperial physician. With a deep mutual understanding, the siblings form an alliance and use their respective strengths to navigate the power struggles within the harem. While avoiding repeated schemes and traps, they gather clues and outwit the treacherous forces lurking in the palace. As revenge and protection become entwined in this dangerous game, Feng Qing inevitably crosses paths once again with Emperor Xiao Luo (played by Zhao Huawei). Xiao Luo has always harbored doubts about Gu Qing's “tragic death” and senses traces of Gu Qing in Feng Qing, prompting him to test her repeatedly. Feng Qing, meanwhile, is filled with complex emotions toward Xiao Luo. Through their repeated confrontations and emotional push-and-pull, the two gradually unravel past misunderstandings, while the bond left unresolved in their previous life quietly begins again.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3442,11 +3442,11 @@
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260806083500 +0000" stop="20260806090500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Lo And Behold</title>
-    <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHU</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2599.</episode-num>
-    <episode-num system="onscreen">S1E2600</episode-num>
+    <title lang="en">Shock Mystery (Sr.2)</title>
+    <desc lang="en">Human beings are innately curious about the unknown. Some even believe that not everything in life can be explained solely by scientific or physical phenomena. Even when there appears to be an acceptable answer on the surface, it may not fully resolve all our questions. The production team of " Shock Mystery" has collected hundreds of strange and unusual cases from around the world, most of which cannot be explained from the perspectives commonly accepted by people—unless supernatural phenomena truly exist in our world! This program will introduce you to incredible mysteries that not only existed in the past but still persist today!</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.99.</episode-num>
+    <episode-num system="onscreen">S1E100</episode-num>
   </programme>
   <programme start="20260806090500 +0000" stop="20260806093500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Boys Club</title>
@@ -3490,7 +3490,7 @@
   </programme>
   <programme start="20260806133500 +0000" stop="20260806143500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Wan Fu Jin An</title>
-    <desc lang="en">After being murdered in a planned palace fire, Queen Gu Qing is reborn as Feng Qing, a lowly palace maid. Stripped of her royal status, she embarks on a dangerous mission to protect her younger sister from deadly royal schemes and uncover the truth to bring her murderers to justice</desc>
+    <desc lang="en">Queen Gu Qing (played by Wang Yijin) is framed and killed in a meticulously planned fire, only to be reborn in the body of Feng Qing (played by Fang Jin), a maidservant at the Imperial Garment Bureau. Once a noble queen and now reduced to a lowly palace maid, Feng Qing refuses to be consumed by grief. Determined to protect her younger sister Gu Wan (played by Wu Mansi), uncover the truth behind her own murder and bring the real culprit to justice, she chooses to conceal her sharpness and lie low in the depths of the palace under Feng Qing's identity. Knowing that she cannot overturn the case on her own, Feng Qing secretly reaches out to her younger brother Gu Xuan (played by Chu Zijun), who serves as an imperial physician. With a deep mutual understanding, the siblings form an alliance and use their respective strengths to navigate the power struggles within the harem. While avoiding repeated schemes and traps, they gather clues and outwit the treacherous forces lurking in the palace. As revenge and protection become entwined in this dangerous game, Feng Qing inevitably crosses paths once again with Emperor Xiao Luo (played by Zhao Huawei). Xiao Luo has always harbored doubts about Gu Qing's “tragic death” and senses traces of Gu Qing in Feng Qing, prompting him to test her repeatedly. Feng Qing, meanwhile, is filled with complex emotions toward Xiao Luo. Through their repeated confrontations and emotional push-and-pull, the two gradually unravel past misunderstandings, while the bond left unresolved in their previous life quietly begins again.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
