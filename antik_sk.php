@@ -2608,11 +2608,11 @@
   <programme start="20260808040000 +0000" stop="20260808050000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">RANNÍ BUDÍČEK</title>
   </programme>
-  <programme start="20260808050000 +0000" stop="20260808060000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260808050000 +0000" stop="20260808063000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ŠLÁGRMIX</title>
   </programme>
-  <programme start="20260808060000 +0000" stop="20260808070000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
+  <programme start="20260808063000 +0000" stop="20260808070000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">NÁHODNÝ VÝBĚR</title>
   </programme>
   <programme start="20260808070000 +0000" stop="20260808090000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">CO BYLO TO BYLO</title>
@@ -2623,11 +2623,11 @@
   <programme start="20260808103000 +0000" stop="20260808120000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260808120000 +0000" stop="20260808150000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260808120000 +0000" stop="20260808151500 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">SÁZKA NA HIT II</title>
   </programme>
-  <programme start="20260808150000 +0000" stop="20260808163000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Čaj kolem páté</title>
+  <programme start="20260808151500 +0000" stop="20260808163000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">ZLATÝ ŠLÁGR</title>
   </programme>
   <programme start="20260808163000 +0000" stop="20260808182000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
@@ -16117,34 +16117,37 @@
   <programme start="20260807230500 +0000" stop="20260807233300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260807233300 +0000" stop="20260808000000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260807233300 +0000" stop="20260807235700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (768)</title>
   </programme>
-  <programme start="20260808000000 +0000" stop="20260808003000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260807235700 +0000" stop="20260808002400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (823)</title>
   </programme>
-  <programme start="20260808003000 +0000" stop="20260808004500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260808002400 +0000" stop="20260808003900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
   </programme>
-  <programme start="20260808004500 +0000" stop="20260808010000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260808003900 +0000" stop="20260808005400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie jutro</title>
   </programme>
-  <programme start="20260808010000 +0000" stop="20260808011800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260808005400 +0000" stop="20260808011200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20260808011800 +0000" stop="20260808012300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260808011200 +0000" stop="20260808011400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260808012300 +0000" stop="20260808015300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260808011400 +0000" stop="20260808012700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Teleplotki</title>
+  </programme>
+  <programme start="20260808012700 +0000" stop="20260808015600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">I Choose Poland (6)</title>
   </programme>
-  <programme start="20260808015300 +0000" stop="20260808023200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260808015600 +0000" stop="20260808023500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Szczynsc Boze, Polsko! (1)</title>
   </programme>
-  <programme start="20260808023200 +0000" stop="20260808030800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260808023500 +0000" stop="20260808030900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Szczynsc Boze, Polsko! (2)</title>
   </programme>
-  <programme start="20260808030800 +0000" stop="20260808035800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260808030900 +0000" stop="20260808035800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (484)</title>
   </programme>
   <programme start="20260808035800 +0000" stop="20260808040000 +0000" channel="TVP Info.webtv.sk">
@@ -16694,19 +16697,19 @@
     <title lang="id">Суботній політклуб</title>
   </programme>
   <programme start="20260807220000 +0000" stop="20260807230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">ЧУЖИЕ СВОИ: Стендап, волонтерство и красный паспорт</title>
   </programme>
   <programme start="20260807230000 +0000" stop="20260808000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Документальный час</title>
+    <title lang="id">Д/ф &quot;Назад на Луну&quot;</title>
   </programme>
   <programme start="20260808000000 +0000" stop="20260808020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Шаманская сказка</title>
   </programme>
   <programme start="20260808020000 +0000" stop="20260808030000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260808030000 +0000" stop="20260808033000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">ЖДЕМ В ГОСТИ: Грузинский край, воспетый поэтом</title>
   </programme>
   <programme start="20260808033000 +0000" stop="20260808040000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -16715,13 +16718,13 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260808043000 +0000" stop="20260808050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">ПЕPЕКPЕСТОК: Как живет прифронтовая Украина</title>
   </programme>
   <programme start="20260808050000 +0000" stop="20260808070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Шаманская сказка</title>
   </programme>
   <programme start="20260808070000 +0000" stop="20260808073000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Азия 360</title>
+    <title lang="id">АЗИЯ 360: Арабы Центральной Азии</title>
   </programme>
   <programme start="20260808073000 +0000" stop="20260808080000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Лицом к событию</title>
@@ -16730,25 +16733,25 @@
     <title lang="id">Настоящее Время. Интервью</title>
   </programme>
   <programme start="20260808083000 +0000" stop="20260808090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">СИБИPИАДА: Поселок Приисковый</title>
   </programme>
   <programme start="20260808090000 +0000" stop="20260808100000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">VOTVOT</title>
+    <title lang="id">ПЕPЕЖИВУ: Вася Обломов. Остановка &quot;Бельвиль&quot;</title>
   </programme>
   <programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Шаманская сказка</title>
   </programme>
   <programme start="20260808120000 +0000" stop="20260808123000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтийский путь</title>
+    <title lang="id">БАЛТИЙСКИЙ ПУТЬ: История Дарьи Тихомировой</title>
   </programme>
   <programme start="20260808123000 +0000" stop="20260808130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Pепортер</title>
   </programme>
   <programme start="20260808130000 +0000" stop="20260808133000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Америка. Большое путешествие</title>
+    <title lang="id">АМЕPИКА. БОЛЬШОЕ ПУТЕШЕСТВИЕ: Северная Каролина</title>
   </programme>
   <programme start="20260808133000 +0000" stop="20260808140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Смотри в оба</title>
+    <title lang="id">ИНТЕPВЬЮ: Дмитрий Быков</title>
   </programme>
   <programme start="20260808140000 +0000" stop="20260808150000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
@@ -16757,25 +16760,25 @@
     <title lang="id">Настоящее Время. Интервью</title>
   </programme>
   <programme start="20260808153000 +0000" stop="20260808160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">СИБИPИАДА: Поселок Приисковый</title>
   </programme>
   <programme start="20260808160000 +0000" stop="20260808170000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">VOTVOT</title>
+    <title lang="id">ПЕPЕЖИВУ: Вася Обломов. Остановка &quot;Бельвиль&quot;</title>
   </programme>
   <programme start="20260808170000 +0000" stop="20260808190000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Грузия: (Не) одна война</title>
   </programme>
   <programme start="20260808190000 +0000" stop="20260808193000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтийский путь</title>
+    <title lang="id">БАЛТИЙСКИЙ ПУТЬ: История Дарьи Тихомировой</title>
   </programme>
   <programme start="20260808193000 +0000" stop="20260808200000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Pепортер</title>
   </programme>
   <programme start="20260808200000 +0000" stop="20260808203000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Америка. Большое путешествие</title>
+    <title lang="id">АМЕPИКА. БОЛЬШОЕ ПУТЕШЕСТВИЕ: Северная Каролина</title>
   </programme>
   <programme start="20260808203000 +0000" stop="20260808210000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Смотри в оба</title>
+    <title lang="id">ИНТЕPВЬЮ: Дмитрий Быков</title>
   </programme>
   <programme start="20260808210000 +0000" stop="20260808220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Грани времени</title>
