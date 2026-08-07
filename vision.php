@@ -520,9 +520,6 @@
 <programme start="20260808113000 +0000" stop="20260808121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260806230000 +0000" stop="20260807023000 +0000" channel="ANTV.vision">
-<title>Khakee</title>
-</programme>
 <programme start="20260807023000 +0000" stop="20260807060000 +0000" channel="ANTV.vision">
 <title>Mujhse Dosti Karoge</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260808033000 +0000" stop="20260808040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260808040000 +0000" stop="20260808040300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

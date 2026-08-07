@@ -6245,7 +6245,7 @@
     <title>Godain</title>
 </programme>
 <programme start="20260807110000 +0000" stop="20260807120000 +0000" channel="Music TV.mncvision">
-    <title>K-Hits</title>
+    <title>Made In India</title>
 </programme>
 <programme start="20260807120000 +0000" stop="20260807130000 +0000" channel="Music TV.mncvision">
     <title>Juke Box</title>
@@ -6308,7 +6308,7 @@
     <title>Godain</title>
 </programme>
 <programme start="20260807110000 +0000" stop="20260807120000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits</title>
+    <title>Made In India</title>
 </programme>
 <programme start="20260807120000 +0000" stop="20260807130000 +0000" channel="Music TV HD.mncvision">
     <title>Juke Box</title>
@@ -7958,7 +7958,7 @@
     <title>Planet Football</title>
 </programme>
 <programme start="20260807103000 +0000" stop="20260807123000 +0000" channel="Soccer Channel.mncvision">
-    <title>VI Nations Futsal: IDN Vs BRA</title>
+    <title>VI Nations Futsal: POR Vs SPA</title>
 </programme>
 <programme start="20260807123000 +0000" stop="20260807125500 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
@@ -8003,7 +8003,7 @@
     <title>Planet Football</title>
 </programme>
 <programme start="20260807103000 +0000" stop="20260807123000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>VI Nations Futsal: IDN Vs BRA</title>
+    <title>VI Nations Futsal: POR Vs SPA</title>
 </programme>
 <programme start="20260807123000 +0000" stop="20260807125500 +0000" channel="Soccer Channel HD.mncvision">
     <title>Top Goals</title>
