@@ -1910,7 +1910,7 @@
     <title lang="id">Fidlivareška (5)</title>
   </programme>
   <programme start="20260808213000 +0000" stop="20260808222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (21)</title>
   </programme>
   <programme start="20260808222000 +0000" stop="20260808224500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Kung Fu Panda I (3)</title>
@@ -1994,7 +1994,7 @@
     <title lang="id">Tomáš a Priatelia II (15)</title>
   </programme>
   <programme start="20260809045000 +0000" stop="20260809054000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (28)</title>
   </programme>
   <programme start="20260809054000 +0000" stop="20260809055000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun I (39)</title>
@@ -2003,7 +2003,7 @@
     <title lang="id">Tučniaky z madagaskaru I (39)</title>
   </programme>
   <programme start="20260809060500 +0000" stop="20260809062000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (200)</title>
   </programme>
   <programme start="20260809062000 +0000" stop="20260809062500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Všetko najlepšie s Flopym</title>
@@ -2021,7 +2021,7 @@
     <title lang="id">Telka Strýka Baltazára V (8)</title>
   </programme>
   <programme start="20260809083500 +0000" stop="20260809085000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (219)</title>
   </programme>
   <programme start="20260809085000 +0000" stop="20260809090000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď VIII (171)</title>
@@ -2048,7 +2048,7 @@
     <title lang="id">Hot Wheels autíčka II (8)</title>
   </programme>
   <programme start="20260809103000 +0000" stop="20260809104500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (213)</title>
   </programme>
   <programme start="20260809104500 +0000" stop="20260809105500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun II (1)</title>
@@ -2090,7 +2090,7 @@
     <title lang="id">Požiarnik Sam VI (7)</title>
   </programme>
   <programme start="20260809135000 +0000" stop="20260809141000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (191)</title>
   </programme>
   <programme start="20260809141000 +0000" stop="20260809151000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Esá z pralesa vo filme</title>
@@ -2105,7 +2105,7 @@
     <title lang="id">Barbie: Dom snov I (22)</title>
   </programme>
   <programme start="20260809162000 +0000" stop="20260809171000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (8)</title>
   </programme>
   <programme start="20260809171000 +0000" stop="20260809172000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď VIII (173)</title>
@@ -2126,7 +2126,7 @@
     <title lang="id">Barbie: Treba na to dve I (4)</title>
   </programme>
   <programme start="20260809185500 +0000" stop="20260809194500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (28)</title>
   </programme>
   <programme start="20260809194500 +0000" stop="20260809195500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Požiarnik Sam VI (8)</title>
@@ -2153,7 +2153,7 @@
     <title lang="id">Tomáš a Priatelia II (18)</title>
   </programme>
   <programme start="20260809213000 +0000" stop="20260809222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (8)</title>
   </programme>
   <programme start="20260808220000 +0000" stop="20260809030000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
@@ -19169,7 +19169,7 @@
     <title lang="id">90&apos;s HITPARÁDA</title>
   </programme>
   <programme start="20260809160000 +0000" stop="20260809170000 +0000" channel="Óčko Star.webtv.sk">
-    <title lang="id">NEJVĚTŠÍ HITY</title>
+    <title lang="id">BEST OF MAREK ZTRACENÝ</title>
   </programme>
   <programme start="20260809170000 +0000" stop="20260809180000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">REMASTERY</title>

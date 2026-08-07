@@ -4924,10 +4924,10 @@
 <programme start="20260807095000 +0000" stop="20260807130000 +0000" channel="iNews.mncvision">
     <title>Sirkuit Nasional A (L)</title>
 </programme>
-<programme start="20260807130000 +0000" stop="20260807134500 +0000" channel="iNews.mncvision">
+<programme start="20260807130000 +0000" stop="20260807133000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260807134500 +0000" stop="20260807150000 +0000" channel="iNews.mncvision">
+<programme start="20260807133000 +0000" stop="20260807150000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20260807150000 +0000" stop="20260807153000 +0000" channel="iNews.mncvision">
@@ -5005,10 +5005,10 @@
 <programme start="20260807095000 +0000" stop="20260807130000 +0000" channel="iNews HD.mncvision">
     <title>Sirkuit Nasional A (L)</title>
 </programme>
-<programme start="20260807130000 +0000" stop="20260807134500 +0000" channel="iNews HD.mncvision">
+<programme start="20260807130000 +0000" stop="20260807133000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260807134500 +0000" stop="20260807150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260807133000 +0000" stop="20260807150000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20260807150000 +0000" stop="20260807153000 +0000" channel="iNews HD.mncvision">
