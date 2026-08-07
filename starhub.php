@@ -3650,7 +3650,7 @@
         <title>Hidden Magnificent Hot Springs in Europe</title>
     </programme>
     <programme start="20260808075000 +0000" stop="20260808080000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Life Force 10min.</title>
     </programme>
     <programme start="20260808080000 +0000" stop="20260808083000 +0000" channel="NHK World Premium HD.starhub">
         <title>Domo! Show</title>
