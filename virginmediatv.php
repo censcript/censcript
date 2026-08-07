@@ -4499,10 +4499,10 @@
     <title>Live: Premier Padel - London P1: Women&#039;s Quarter-Finals: Tapia/Coello v Gonzalez San Martin/Cabeza Teres</title>
 </programme>
 <programme start="20260807150000 +0000" stop="20260807170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Premier Padel - London P1: Women&#039;s Quarter-Finals</title>
+    <title>Live: Premier Padel - London P1: Women&#039;s Quarter-Finals: Triay Pons/Brea Senesi v Ortega Gallego/Araujo</title>
 </programme>
 <programme start="20260807170000 +0000" stop="20260807190000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Premier Padel - London P1: Men&#039;s Quarter-Finals</title>
+    <title>Live: Premier Padel - London P1: Men&#039;s Quarter-Finals: Gonzalez/Campagnolo v Chingotto/Galan</title>
 </programme>
 <programme start="20260806233000 +0000" stop="20260807013000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>European Rugby Challenge Cup - Final: Montpellier Hérault Rugby v Ulster</title>
@@ -5165,10 +5165,10 @@
     <title>Live: Premier Padel - London P1: Women&#039;s Quarter-Finals: Tapia/Coello v Gonzalez San Martin/Cabeza Teres</title>
 </programme>
 <programme start="20260807150000 +0000" stop="20260807170000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: Premier Padel - London P1: Women&#039;s Quarter-Finals</title>
+    <title>Live: Premier Padel - London P1: Women&#039;s Quarter-Finals: Triay Pons/Brea Senesi v Ortega Gallego/Araujo</title>
 </programme>
 <programme start="20260807170000 +0000" stop="20260807190000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: Premier Padel - London P1: Men&#039;s Quarter-Finals</title>
+    <title>Live: Premier Padel - London P1: Men&#039;s Quarter-Finals: Gonzalez/Campagnolo v Chingotto/Galan</title>
 </programme>
 <programme start="20260806233000 +0000" stop="20260807013000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>European Rugby Challenge Cup - Final: Montpellier Hérault Rugby v Ulster</title>

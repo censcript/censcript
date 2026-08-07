@@ -529,15 +529,6 @@
 <programme start="20260807103000 +0000" stop="20260807113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="ANTV.vision">
-<title>Kembalinya Si Janda Kembang</title>
-</programme>
-<programme start="20260807160000 +0000" stop="20260807180000 +0000" channel="ANTV.vision">
-<title>Si Rawing 3</title>
-</programme>
-<programme start="20260807180000 +0000" stop="20260807190000 +0000" channel="ANTV.vision">
-<title>Star Abyss</title>
-</programme>
 <programme start="20260807190000 +0000" stop="20260807203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1322,13 +1313,13 @@
 <title>Kuyliner</title>
 </programme>
 <programme start="20260808014500 +0000" stop="20260808020000 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
+<title>Galeri Rasa</title>
 </programme>
 <programme start="20260808020000 +0000" stop="20260808020500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
 </programme>
 <programme start="20260808020500 +0000" stop="20260808023000 +0000" channel="BTV.vision">
-<title>Masak Ala Devina Hermawan</title>
+<title>Galeri Rasa</title>
 </programme>
 <programme start="20260808023000 +0000" stop="20260808030000 +0000" channel="BTV.vision">
 <title>Ini Indonesia</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260808060000 +0000" stop="20260808080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260808080000 +0000" stop="20260808080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260808080300 +0000" stop="20260808093000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260808093000 +0000" stop="20260808100000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -14602,26 +14602,14 @@
   <programme start="20260808212200 +0000" stop="20260808220200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody II</title>
   </programme>
-  <programme start="20260808220200 +0000" stop="20260808223900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260808220200 +0000" stop="20260808230100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody III</title>
   </programme>
-  <programme start="20260808223900 +0000" stop="20260808230100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TĽAČOVÁ KONFERENCIA: MFK Zemplín Michalovce pred štartom novej sezóny</title>
-  </programme>
-  <programme start="20260808230100 +0000" stop="20260808233500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260808230100 +0000" stop="20260809001800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Martin Čornej</title>
   </programme>
-  <programme start="20260808233500 +0000" stop="20260808235100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TLAČOVÁ KONFERENCIA: Prvý oficiálny kandidát na primátora mesta Trebišov</title>
-  </programme>
-  <programme start="20260808235100 +0000" stop="20260809001800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry - Dominik Frajkor</title>
-  </programme>
-  <programme start="20260809001800 +0000" stop="20260809004100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260809001800 +0000" stop="20260809005700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">TLAČOVÁ KONFERENCIA: Igor Šimko podpísal dohodu so Zemplínom</title>
-  </programme>
-  <programme start="20260809004100 +0000" stop="20260809005700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TLAČOVÁ KONFERENCIA: Nemocnica v Kráľovskom Chlmci ukončila prvú etapu rekonštrukcie</title>
   </programme>
   <programme start="20260809005700 +0000" stop="20260809012300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry Erika Sibala</title>
@@ -14641,11 +14629,8 @@
   <programme start="20260809033400 +0000" stop="20260809034000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
   </programme>
-  <programme start="20260809034000 +0000" stop="20260809035500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260809034000 +0000" stop="20260809043700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20260809035500 +0000" stop="20260809043700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín - 585</title>
   </programme>
   <programme start="20260809043700 +0000" stop="20260809044000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
@@ -14686,11 +14671,8 @@
   <programme start="20260809085400 +0000" stop="20260809090100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Diabol bude napísaný stále s malým d</title>
   </programme>
-  <programme start="20260809090100 +0000" stop="20260809091100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260809090100 +0000" stop="20260809093600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
-  </programme>
-  <programme start="20260809091100 +0000" stop="20260809093600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín - 585</title>
   </programme>
   <programme start="20260809093600 +0000" stop="20260809104600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Téma na Zemplíne - Ako putovali ľudia kedysi a dnes?</title>
@@ -14719,20 +14701,14 @@
   <programme start="20260809130100 +0000" stop="20260809132400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
   </programme>
-  <programme start="20260809132400 +0000" stop="20260809135100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260809132400 +0000" stop="20260809141300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - druhá časť</title>
-  </programme>
-  <programme start="20260809135100 +0000" stop="20260809141300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín - 585</title>
   </programme>
   <programme start="20260809141300 +0000" stop="20260809145100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Folklór na Východe - Jozef Kopča</title>
   </programme>
-  <programme start="20260809145100 +0000" stop="20260809145500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260809145100 +0000" stop="20260809151800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">VARENIE V LESE - Tradície Veľkej noci</title>
-  </programme>
-  <programme start="20260809145500 +0000" stop="20260809151800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TĽAČOVÁ KONFERENCIA: MFK Zemplín Michalovce pred štartom novej sezóny</title>
   </programme>
   <programme start="20260809151800 +0000" stop="20260809153500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Aktivita vs. Pasivita</title>
@@ -14746,11 +14722,8 @@
   <programme start="20260809155500 +0000" stop="20260809160100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
   </programme>
-  <programme start="20260809160100 +0000" stop="20260809174600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260809160100 +0000" stop="20260809181100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Bazilika Michalovce - Sv. liturgia</title>
-  </programme>
-  <programme start="20260809174600 +0000" stop="20260809181100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín - 585</title>
   </programme>
   <programme start="20260809181100 +0000" stop="20260809190100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Trio Zornica</title>
@@ -14758,11 +14731,8 @@
   <programme start="20260809190100 +0000" stop="20260809195200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Téma na Zemplíne - Ako putovali ľudia kedysi a dnes?</title>
   </programme>
-  <programme start="20260809195200 +0000" stop="20260809201400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260809195200 +0000" stop="20260809203000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
-  </programme>
-  <programme start="20260809201400 +0000" stop="20260809203000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TLAČOVÁ KONFERENCIA: Nemocnica v Kráľovskom Chlmci ukončila prvú etapu rekonštrukcie</title>
   </programme>
   <programme start="20260809203000 +0000" stop="20260809211000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody II</title>
