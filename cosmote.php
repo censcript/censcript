@@ -50,10 +50,6 @@
     <title>Football: Celta - SC Freiburg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260807210000 +0700" stop="20260807230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SS Lazio - Udinese</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260807230000 +0700" stop="20260808010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Atalanta</title>
     <desc>Live: Tidak</desc>
@@ -211,6 +207,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260808223000 +0700" stop="20260808230000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260808230000 +0700" stop="20260809000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -382,6 +382,14 @@
     <title>Motorsports: MotoGP 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260808230000 +0700" stop="20260808234500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Harley-Davidson Bagger World Cup 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260808234500 +0700" stop="20260809000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260807193000 +0700" stop="20260807233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
@@ -425,6 +433,10 @@
 <programme start="20260808193000 +0700" stop="20260808233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260808233000 +0700" stop="20260809040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260807220000 +0700" stop="20260808000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
