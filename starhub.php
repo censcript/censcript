@@ -8612,7 +8612,7 @@
         <title>News At 18:30 &amp; Global View &amp; What&#039;s On Today</title>
     </programme>
     <programme start="20260807113500 +0000" stop="20260807120000 +0000" channel="TVB Jade HD.starhub">
-        <title>Scoop 2026</title>
+        <title>Scoop 2026 - Zhi Jin Wan Ai Hui Jia (070826)</title>
     </programme>
     <programme start="20260807120000 +0000" stop="20260807122500 +0000" channel="TVB Jade HD.starhub">
         <title>Lo And Behold</title>

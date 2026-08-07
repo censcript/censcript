@@ -14863,80 +14863,45 @@
   <channel id="spotv.unifitv">
     <display-name>SPOTV</display-name>
   </channel>
-  <programme start="20260806133000 +0000" stop="20260806161000 +0000" channel="spotv.unifitv">
-    <title lang="en">3/8 2026 MLB Regular Season - Los Angeles Dodgers vs Boston Red Sox</title>
-    <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
-    <category lang="en">Baseball</category>
+  <programme start="20260806130000 +0000" stop="20260806170000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) 2026 LET: PIF London Championship - Day 1</title>
+    <desc lang="en">The stars of the Ladies European Tour gather in England to compete for the PIF London Championship title, delivering elite golf and championship drama.</desc>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20260806161000 +0000" stop="20260806180000 +0000" channel="spotv.unifitv">
-    <title lang="en">SailGP S6: Emirates Great Britain Sail Grand Prix - Day 2 Race</title>
-    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
-    <category lang="en">Sailing</category>
+  <programme start="20260806170000 +0000" stop="20260806220000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) 2026 LIV Golf League, New York - Round 1</title>
+    <desc lang="en">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20260806180000 +0000" stop="20260806190000 +0000" channel="spotv.unifitv">
-    <title lang="en">SailGP S6: Emirates Great Britain Sail Grand Prix - Highlights</title>
-    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
-    <category lang="en">Sailing</category>
+  <programme start="20260806220000 +0000" stop="20260807001000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Hyundai Archery World Cup, Stage 4 Madrid (ESP) - Compound Team Finals</title>
+    <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
+    <category lang="en">Archery</category>
   </programme>
-  <programme start="20260806190000 +0000" stop="20260806200000 +0000" channel="spotv.unifitv">
-    <title lang="en">Faultless - Ep 4</title>
-    <desc lang="en">An exclusive documentary series following the world's top show jumpers and their horses, revealing the trust, sacrifice, and determination behind the pursuit of excellence at the sport's biggest events.</desc>
-    <category lang="en">Extreme Sports</category>
+  <programme start="20260807001000 +0000" stop="20260807030000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Hyundai Archery World Cup, Stage 4 Madrid (ESP) - Compound Individual Semifinals &amp; Finals</title>
+    <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
+    <category lang="en">Archery</category>
   </programme>
-  <programme start="20260806200000 +0000" stop="20260806212000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 The Asian Tournament, Chengdu - Game 20 Shenzhen New Century vs Philippine Aces United</title>
-    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
-    <category lang="en">Basketball</category>
+  <programme start="20260807030000 +0000" stop="20260807083000 +0000" channel="spotv.unifitv">
+    <title lang="en">AIG Women's Open 2026 - Final Round</title>
+    <desc lang="en">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20260806212000 +0000" stop="20260806230000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 The Asian Tournament, Chengdu - Game 22 Philippine Aces United vs Guangzhou Loong Lions</title>
-    <desc lang="en">Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20260806230000 +0000" stop="20260806233000 +0000" channel="spotv.unifitv">
-    <title lang="en">WPBL S2, Mumbai Highlights - Day 9 Tie 2 Chennai vs Hyderabad</title>
-    <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260806233000 +0000" stop="20260807020000 +0000" channel="spotv.unifitv">
-    <title lang="en">6/8 2026 MLB Regular Season - Chicago Cubs vs Los Angeles Dodgers</title>
-    <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
-    <category lang="en">Baseball</category>
-  </programme>
-  <programme start="20260807020000 +0000" stop="20260807053000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) WTT Champions Yokohama 2026 - Day 4 Session 1</title>
+  <programme start="20260807083000 +0000" stop="20260807120000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) WTT Champions Yokohama 2026 - Day 4 Session 2</title>
     <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <category lang="en">Table Tennis</category>
   </programme>
-  <programme start="20260807053000 +0000" stop="20260807060000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 MotoGP Rewind - Grand Prix of Germany</title>
-    <desc lang="en">Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
+  <programme start="20260807120000 +0000" stop="20260807130000 +0000" channel="spotv.unifitv">
+    <title lang="en">Formula E S12: Rd 14 Tokyo E-Prix - Highlights 1</title>
+    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260807060000 +0000" stop="20260807085500 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Longines Global Champions Tour, Riesenbeck - Grand Prix of Riesenbeck</title>
-    <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-    <category lang="en">Extreme Sports</category>
-  </programme>
-  <programme start="20260807085500 +0000" stop="20260807114500 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) 2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain - Free Practice 1</title>
-    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260807114500 +0000" stop="20260807122700 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Moto4 British Cup Rd 4 Brands Hatch - Race 1</title>
-    <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260807122700 +0000" stop="20260807131000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Moto4 British Cup Rd 4 Brands Hatch - Race 2</title>
-    <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260807131000 +0000" stop="20260807161000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) 2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain - Practice</title>
-    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-    <category lang="en">Motorsports</category>
+  <programme start="20260807130000 +0000" stop="20260807170000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) 2026 LET: PIF London Championship - Day 2</title>
+    <desc lang="en">The stars of the Ladies European Tour gather in England to compete for the PIF London Championship title, delivering elite golf and championship drama.</desc>
+    <category lang="en">Golf</category>
   </programme>
   <channel id="spotv2.unifitv">
     <display-name>SPOTV2</display-name>

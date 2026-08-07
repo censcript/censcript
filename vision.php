@@ -695,7 +695,7 @@
 <title>Metropolitan</title>
 </programme>
 <programme start="20260807040000 +0000" stop="20260807053000 +0000" channel="TVOne.vision">
-<title>Kabar Siang</title>
+<title>Kabar Siang (L)</title>
 </programme>
 <programme start="20260807053000 +0000" stop="20260807063000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
@@ -773,7 +773,7 @@
 <title>Jajago</title>
 </programme>
 <programme start="20260808040000 +0000" stop="20260808053000 +0000" channel="TVOne.vision">
-<title>Kabar Siang</title>
+<title>Kabar Siang (L)</title>
 </programme>
 <programme start="20260808053000 +0000" stop="20260808070000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku</title>
