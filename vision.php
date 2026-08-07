@@ -26,37 +26,37 @@
 <title>Semua Indah Karena Cinta</title>
 </programme>
 <programme start="20260807171500 +0000" stop="20260807183000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Pacarku Bodyguard</title>
 </programme>
 <programme start="20260807183000 +0000" stop="20260807190000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ojekwati Mencari Cinta</title>
 </programme>
 <programme start="20260807190000 +0000" stop="20260807200000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Mega Film TV Malam</title>
 </programme>
 <programme start="20260807200000 +0000" stop="20260807230000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun S5</title>
 </programme>
 <programme start="20260807230000 +0000" stop="20260808010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260808010000 +0000" stop="20260808033000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Entong</title>
 </programme>
 <programme start="20260808033000 +0000" stop="20260808043000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ninja Hatori</title>
 </programme>
 <programme start="20260808043000 +0000" stop="20260808070000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Terikat Janji Selamanya</title>
 </programme>
 <programme start="20260808070000 +0000" stop="20260808083000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260808083000 +0000" stop="20260808103000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Oke Chef RCTI 37 (RCTI)</title>
 </programme>
 <programme start="20260808103000 +0000" stop="20260808120000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260807000000 +0000" stop="20260807003000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -415,9 +415,6 @@
 <programme start="20260807071500 +0000" stop="20260807074500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
-<programme start="20260807074500 +0000" stop="20260807081500 +0000" channel="Trans 7.vision">
-<title>Berani Coba</title>
-</programme>
 <programme start="20260807081500 +0000" stop="20260807090000 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
@@ -519,9 +516,6 @@
 </programme>
 <programme start="20260808113000 +0000" stop="20260808121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20260807023000 +0000" stop="20260807060000 +0000" channel="ANTV.vision">
-<title>Mujhse Dosti Karoge</title>
 </programme>
 <programme start="20260807060000 +0000" stop="20260807073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260808040000 +0000" stop="20260808040300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260808040300 +0000" stop="20260808043000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260808043000 +0000" stop="20260808060000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

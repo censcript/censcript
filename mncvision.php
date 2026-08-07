@@ -8902,6 +8902,96 @@
 <programme start="20260807163000 +0000" stop="20260806170000 +0000" channel="Thrill.mncvision">
     <title>Misteri Dunia</title>
 </programme>
+<programme start="20260806171500 +0000" stop="20260806174500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20260806174500 +0000" stop="20260806183000 +0000" channel="Trans 7.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20260806183000 +0000" stop="20260806190000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20260806190000 +0000" stop="20260806193000 +0000" channel="Trans 7.mncvision">
+    <title>Dracin</title>
+</programme>
+<programme start="20260806193000 +0000" stop="20260806200000 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20260806200000 +0000" stop="20260806210000 +0000" channel="Trans 7.mncvision">
+    <title>Amazing Trip</title>
+</programme>
+<programme start="20260806210000 +0000" stop="20260806214500 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260806214500 +0000" stop="20260806223000 +0000" channel="Trans 7.mncvision">
+    <title>Pesantrend</title>
+</programme>
+<programme start="20260806223000 +0000" stop="20260806233000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20260806233000 +0000" stop="20260807003000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20260807003000 +0000" stop="20260807013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20260807013000 +0000" stop="20260807023000 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20260807023000 +0000" stop="20260807031500 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20260807031500 +0000" stop="20260807041500 +0000" channel="Trans 7.mncvision">
+    <title>Big-Bang!</title>
+</programme>
+<programme start="20260807041500 +0000" stop="20260807050000 +0000" channel="Trans 7.mncvision">
+    <title>Enah Bikin Enak</title>
+</programme>
+<programme start="20260807050000 +0000" stop="20260807054500 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20260807054500 +0000" stop="20260807063000 +0000" channel="Trans 7.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20260807063000 +0000" stop="20260807071500 +0000" channel="Trans 7.mncvision">
+    <title>Kepo</title>
+</programme>
+<programme start="20260807071500 +0000" stop="20260807074500 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20260807074500 +0000" stop="20260807081500 +0000" channel="Trans 7.mncvision">
+    <title>Berani Coba</title>
+</programme>
+<programme start="20260807081500 +0000" stop="20260807090000 +0000" channel="Trans 7.mncvision">
+    <title>Cuan Bos</title>
+</programme>
+<programme start="20260807090000 +0000" stop="20260807100000 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20260807100000 +0000" stop="20260807110000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Update</title>
+</programme>
+<programme start="20260807110000 +0000" stop="20260807114500 +0000" channel="Trans 7.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20260807114500 +0000" stop="20260807121500 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20260807121500 +0000" stop="20260807130000 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260807130000 +0000" stop="20260807143000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20260807143000 +0000" stop="20260807154500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20260807154500 +0000" stop="20260807163000 +0000" channel="Trans 7.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20260807163000 +0000" stop="20260806170000 +0000" channel="Trans 7.mncvision">
+    <title>Misteri Dunia</title>
+</programme>
 <programme start="20260806170000 +0000" stop="20260806220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia Connected</title>
 </programme>

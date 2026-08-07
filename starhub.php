@@ -2339,7 +2339,7 @@
         <title>It&#039;s Showtime</title>
     </programme>
     <programme start="20260806160000 +0000" stop="20260806220000 +0000" channel="Hub Premier 2 HD.starhub">
-        <title>End of Transmission (070826)</title>
+        <title>End of Transmission</title>
     </programme>
     <programme start="20260806220000 +0000" stop="20260807040000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
@@ -3605,7 +3605,7 @@
         <title>TV Exercise</title>
     </programme>
     <programme start="20260806201000 +0000" stop="20260806202500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Health for Today</title>
+        <title>100 Beautiful Mountains of Japan Mini</title>
     </programme>
     <programme start="20260806202500 +0000" stop="20260806205500 +0000" channel="NHK World Premium HD.starhub">
         <title>Neighbor&#039;s Nurturing Session &quot;Sleep Q&amp;A&quot; (R)</title>
@@ -7681,13 +7681,13 @@
     <programme start="20260806133000 +0000" stop="20260806163000 +0000" channel="Asianet Movies.starhub">
         <title>Rdx</title>
     </programme>
-    <programme start="20260806163000 +0000" stop="20260806193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260806163000 +0000" stop="20260806185000 +0000" channel="Asianet Movies.starhub">
         <title>Aravindhante Athidhikal</title>
     </programme>
-    <programme start="20260806193000 +0000" stop="20260806213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260806185000 +0000" stop="20260806210000 +0000" channel="Asianet Movies.starhub">
         <title>Kanakam Kamini Kalaham</title>
     </programme>
-    <programme start="20260806213000 +0000" stop="20260806233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260806210000 +0000" stop="20260806231500 +0000" channel="Asianet Movies.starhub">
         <title>Hailasa</title>
     </programme>
     <programme start="20260806231500 +0000" stop="20260807013000 +0000" channel="Asianet Movies.starhub">
