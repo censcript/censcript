@@ -3626,7 +3626,7 @@
         <title>Wildlife &quot;Europe, a Beautiful Land Where Life Shines&quot; (R)</title>
     </programme>
     <programme start="20260807004500 +0000" stop="20260807005400 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Train Driver&#039;s Cab View Mini</title>
     </programme>
     <programme start="20260807005400 +0000" stop="20260807005500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
@@ -3644,10 +3644,10 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20260807015500 +0000" stop="20260807024000 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK Special &quot;Unspoken Witnesses:The Atomic Bomb Dome Bears the Weight of War&quot;(R)</title>
+        <title>NHK Special&quot;Unspoken Witnesses:The Atomic Bomb Dome Bears the Weight of War&quot; (R)</title>
     </programme>
     <programme start="20260807024000 +0000" stop="20260807024500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Fun with Okinawa Dialects</title>
     </programme>
     <programme start="20260807024500 +0000" stop="20260807025000 +0000" channel="NHK World Premium HD.starhub">
         <title>no art, no life</title>
@@ -3658,14 +3658,8 @@
     <programme start="20260807025500 +0000" stop="20260807030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260807030000 +0000" stop="20260807032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260807030000 +0000" stop="20260807033000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260807032000 +0000" stop="20260807032500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Hello! NHK WORLD-JAPAN (R)</title>
-    </programme>
-    <programme start="20260807032500 +0000" stop="20260807033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260807033000 +0000" stop="20260807034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Hiyokko&quot; Encore Ep. 5</title>
@@ -3673,19 +3667,16 @@
     <programme start="20260807034500 +0000" stop="20260807040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 95 (R)</title>
     </programme>
-    <programme start="20260807040000 +0000" stop="20260807040500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260807040000 +0000" stop="20260807041000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260807040500 +0000" stop="20260807043500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260807041000 +0000" stop="20260807043900 +0000" channel="NHK World Premium HD.starhub">
         <title>Natsui Itsuki&#039;s Haiku Trip! &quot;Nara Prefecture&quot; (R)</title>
     </programme>
-    <programme start="20260807043500 +0000" stop="20260807054800 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260807043900 +0000" stop="20260807055200 +0000" channel="NHK World Premium HD.starhub">
         <title>Darwin&#039;s Amazing Animals&quot;20th Anniversary Special with the National Museum of Nature and Science&quot;(R</title>
     </programme>
-    <programme start="20260807054800 +0000" stop="20260807055000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
-    </programme>
-    <programme start="20260807055000 +0000" stop="20260807055500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260807055200 +0000" stop="20260807055500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
     <programme start="20260807055500 +0000" stop="20260807060000 +0000" channel="NHK World Premium HD.starhub">
@@ -3695,7 +3686,7 @@
         <title>Life Force 10min.</title>
     </programme>
     <programme start="20260807061000 +0000" stop="20260807062500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Health for Today (R)</title>
+        <title>RAMEN JAPAN 15min.</title>
     </programme>
     <programme start="20260807062500 +0000" stop="20260807064000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Drama Serial &quot;Hoshi Shinichi&#039;s Short Story&quot; Encore (R)</title>
@@ -3710,7 +3701,7 @@
         <title>GEO JAPAN</title>
     </programme>
     <programme start="20260807075000 +0000" stop="20260807080000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Train Driver&#039;s Cab View Mini</title>
     </programme>
     <programme start="20260807080000 +0000" stop="20260807081000 +0000" channel="NHK World Premium HD.starhub">
         <title>PythagoraSwitch</title>
@@ -3743,7 +3734,7 @@
         <title>NHK News 7 (B)</title>
     </programme>
     <programme start="20260807103000 +0000" stop="20260807110000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Special Program</title>
+        <title>Animation Documentary &quot;Iwata&#039;s Grandma&quot;</title>
     </programme>
     <programme start="20260807110000 +0000" stop="20260807112500 +0000" channel="NHK World Premium HD.starhub">
         <title>Kyoto&#039;s Finest Goods Travelogue</title>
@@ -3770,7 +3761,7 @@
         <title>Journey to the Farthest Scenic Station: Gabonese Republic, Africa Encore</title>
     </programme>
     <programme start="20260807143000 +0000" stop="20260807144000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
+        <title>Train Driver&#039;s Cab View Mini</title>
     </programme>
     <programme start="20260807144000 +0000" stop="20260807144500 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
@@ -6695,16 +6686,16 @@
         <title>LFCTV 2025/26: Liverpool vs Leeds - Friendly</title>
     </programme>
     <programme start="20260807082000 +0000" stop="20260807085000 +0000" channel="beIN Sports HD.starhub">
-        <title>Liverpool vs Wrexham - Friendly</title>
+        <title>LFC Trending 2025/26</title>
     </programme>
     <programme start="20260807085000 +0000" stop="20260807092000 +0000" channel="beIN Sports HD.starhub">
-        <title>Mini Match - LaLiga 2025/26: Real Betis vs Real Madrid</title>
+        <title>Liverpool vs Wrexham - Friendly</title>
     </programme>
     <programme start="20260807092000 +0000" stop="20260807095000 +0000" channel="beIN Sports HD.starhub">
-        <title>Mini Match - LaLiga 2025/26: Getafe vs Barcelona</title>
+        <title>Mini Match - LaLiga 2025/26: Real Betis vs Real Madrid</title>
     </programme>
     <programme start="20260807095000 +0000" stop="20260807102000 +0000" channel="beIN Sports HD.starhub">
-        <title>Fastzone 2026</title>
+        <title>Mini Match - LaLiga 2025/26: Getafe vs Barcelona</title>
     </programme>
     <programme start="20260807102000 +0000" stop="20260807105000 +0000" channel="beIN Sports HD.starhub">
         <title>Nurburgring</title>
