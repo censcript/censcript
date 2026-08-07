@@ -529,9 +529,6 @@
 <programme start="20260807103000 +0000" stop="20260807113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260807113000 +0000" stop="20260807140000 +0000" channel="ANTV.vision">
-<title>Jaka Swara</title>
-</programme>
 <programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="ANTV.vision">
 <title>Kembalinya Si Janda Kembang</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260808043000 +0000" stop="20260808060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260808060000 +0000" stop="20260808080000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -3644,7 +3644,7 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20260807015500 +0000" stop="20260807024000 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK Special&quot;Unspoken Witnesses:The Atomic Bomb Dome Bears the Weight of War&quot; (R)</title>
+        <title>NHK Special &quot;Unspoken Witnesses: The Atomic Bomb Dome Bears the Weight of War&quot; (R)</title>
     </programme>
     <programme start="20260807024000 +0000" stop="20260807024500 +0000" channel="NHK World Premium HD.starhub">
         <title>Fun with Okinawa Dialects</title>

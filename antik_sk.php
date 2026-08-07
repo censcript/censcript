@@ -17273,7 +17273,7 @@
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260809070000 +0000" stop="20260809075000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD TV Special program</title>
+    <title lang="id">Documentary 360</title>
   </programme>
   <programme start="20260809075000 +0000" stop="20260809080000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Brown Gold</title>
@@ -17281,8 +17281,17 @@
   <programme start="20260809080000 +0000" stop="20260809081000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
   </programme>
-  <programme start="20260809081000 +0000" stop="20260809085900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD SHOWCASE</title>
+  <programme start="20260809081000 +0000" stop="20260809083500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">The Three Crows of Nagasaki</title>
+  </programme>
+  <programme start="20260809083500 +0000" stop="20260809083600 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20260809083600 +0000" stop="20260809085600 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">My Street Piano</title>
+  </programme>
+  <programme start="20260809085600 +0000" stop="20260809085900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Time-lapse Japan</title>
   </programme>
   <programme start="20260809085900 +0000" stop="20260809090000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -17339,13 +17348,22 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20260809131000 +0000" stop="20260809140000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD TV Special program</title>
+    <title lang="id">Documentary 360</title>
   </programme>
   <programme start="20260809140000 +0000" stop="20260809141000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
   </programme>
-  <programme start="20260809141000 +0000" stop="20260809145900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD SHOWCASE</title>
+  <programme start="20260809141000 +0000" stop="20260809143500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">The Three Crows of Nagasaki</title>
+  </programme>
+  <programme start="20260809143500 +0000" stop="20260809143600 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20260809143600 +0000" stop="20260809145600 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">My Street Piano</title>
+  </programme>
+  <programme start="20260809145600 +0000" stop="20260809145900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Time-lapse Japan</title>
   </programme>
   <programme start="20260809145900 +0000" stop="20260809150000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -17417,13 +17435,22 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20260809191000 +0000" stop="20260809200000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD TV Special program</title>
+    <title lang="id">Documentary 360</title>
   </programme>
   <programme start="20260809200000 +0000" stop="20260809201000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
   </programme>
-  <programme start="20260809201000 +0000" stop="20260809205900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK WORLD SHOWCASE</title>
+  <programme start="20260809201000 +0000" stop="20260809203500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">The Three Crows of Nagasaki</title>
+  </programme>
+  <programme start="20260809203500 +0000" stop="20260809203600 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20260809203600 +0000" stop="20260809205600 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">My Street Piano</title>
+  </programme>
+  <programme start="20260809205600 +0000" stop="20260809205900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Time-lapse Japan</title>
   </programme>
   <programme start="20260809205900 +0000" stop="20260809210000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
