@@ -7676,7 +7676,7 @@
     <title>Delivery Order (Bukan Salah...)</title>
 </programme>
 <programme start="20260806194600 +0000" stop="20260806210500 +0000" channel="SCTV.mncvision">
-    <title>Pulang Malu Nggak Pulang Rindu</title>
+    <title>Pesan Cinta Dari Jogja</title>
 </programme>
 <programme start="20260806210500 +0000" stop="20260806213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
@@ -7687,47 +7687,53 @@
 <programme start="20260806220000 +0000" stop="20260806230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260806230000 +0000" stop="20260807000000 +0000" channel="SCTV.mncvision">
+<programme start="20260806230000 +0000" stop="20260807001100 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260807000000 +0000" stop="20260807011500 +0000" channel="SCTV.mncvision">
+<programme start="20260807001100 +0000" stop="20260807011100 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260807011500 +0000" stop="20260807030000 +0000" channel="SCTV.mncvision">
+<programme start="20260807011100 +0000" stop="20260807025300 +0000" channel="SCTV.mncvision">
     <title>Abang Sayur Eneng Sayang</title>
 </programme>
-<programme start="20260807030000 +0000" stop="20260807050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260807025300 +0000" stop="20260807044600 +0000" channel="SCTV.mncvision">
+    <title>Sengatan Cinta Ratu Lebah</title>
 </programme>
-<programme start="20260807050000 +0000" stop="20260807070000 +0000" channel="SCTV.mncvision">
+<programme start="20260807044600 +0000" stop="20260807051900 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260807070000 +0000" stop="20260807081500 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Siang</title>
+<programme start="20260807051900 +0000" stop="20260807070200 +0000" channel="SCTV.mncvision">
+    <title>Pantang Pulang Sebelum...</title>
 </programme>
-<programme start="20260807081500 +0000" stop="20260807101500 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Sore</title>
+<programme start="20260807070200 +0000" stop="20260807083800 +0000" channel="SCTV.mncvision">
+    <title>Nyong Tresno Karo My Crush</title>
 </programme>
-<programme start="20260807101500 +0000" stop="20260807114500 +0000" channel="SCTV.mncvision">
+<programme start="20260807083800 +0000" stop="20260807100500 +0000" channel="SCTV.mncvision">
+    <title>Cintaku Diangon Juragan Bebek</title>
+</programme>
+<programme start="20260807100500 +0000" stop="20260807113500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260807114500 +0000" stop="20260807131500 +0000" channel="SCTV.mncvision">
+<programme start="20260807113500 +0000" stop="20260807125400 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260807131500 +0000" stop="20260807144500 +0000" channel="SCTV.mncvision">
+<programme start="20260807125400 +0000" stop="20260807142000 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260807144500 +0000" stop="20260807160000 +0000" channel="SCTV.mncvision">
+<programme start="20260807142000 +0000" stop="20260807155200 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260807160000 +0000" stop="20260807163000 +0000" channel="SCTV.mncvision">
+<programme start="20260807155200 +0000" stop="20260807164600 +0000" channel="SCTV.mncvision">
     <title>Vidio Original Series: Mercury</title>
+</programme>
+<programme start="20260807164600 +0000" stop="20260806171600 +0000" channel="SCTV.mncvision">
+    <title>Cintaku Ketangkep Guru Berwajib</title>
 </programme>
 <programme start="20260806182600 +0000" stop="20260806194600 +0000" channel="SCTV HD.mncvision">
     <title>Delivery Order (Bukan Salah...)</title>
 </programme>
 <programme start="20260806194600 +0000" stop="20260806210500 +0000" channel="SCTV HD.mncvision">
-    <title>Pulang Malu Nggak Pulang Rindu</title>
+    <title>Pesan Cinta Dari Jogja</title>
 </programme>
 <programme start="20260806210500 +0000" stop="20260806213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
@@ -7738,41 +7744,47 @@
 <programme start="20260806220000 +0000" stop="20260806230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260806230000 +0000" stop="20260807000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260806230000 +0000" stop="20260807001100 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260807000000 +0000" stop="20260807011500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260807001100 +0000" stop="20260807011100 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260807011500 +0000" stop="20260807030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260807011100 +0000" stop="20260807025300 +0000" channel="SCTV HD.mncvision">
     <title>Abang Sayur Eneng Sayang</title>
 </programme>
-<programme start="20260807030000 +0000" stop="20260807050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20260807025300 +0000" stop="20260807044600 +0000" channel="SCTV HD.mncvision">
+    <title>Sengatan Cinta Ratu Lebah</title>
 </programme>
-<programme start="20260807050000 +0000" stop="20260807070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260807044600 +0000" stop="20260807051900 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260807070000 +0000" stop="20260807081500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Siang</title>
+<programme start="20260807051900 +0000" stop="20260807070200 +0000" channel="SCTV HD.mncvision">
+    <title>Pantang Pulang Sebelum...</title>
 </programme>
-<programme start="20260807081500 +0000" stop="20260807101500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Sore</title>
+<programme start="20260807070200 +0000" stop="20260807083800 +0000" channel="SCTV HD.mncvision">
+    <title>Nyong Tresno Karo My Crush</title>
 </programme>
-<programme start="20260807101500 +0000" stop="20260807114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260807083800 +0000" stop="20260807100500 +0000" channel="SCTV HD.mncvision">
+    <title>Cintaku Diangon Juragan Bebek</title>
+</programme>
+<programme start="20260807100500 +0000" stop="20260807113500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260807114500 +0000" stop="20260807131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260807113500 +0000" stop="20260807125400 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260807131500 +0000" stop="20260807144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260807125400 +0000" stop="20260807142000 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260807144500 +0000" stop="20260807160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260807142000 +0000" stop="20260807155200 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260807160000 +0000" stop="20260807163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260807155200 +0000" stop="20260807164600 +0000" channel="SCTV HD.mncvision">
     <title>Vidio Original Series: Mercury</title>
+</programme>
+<programme start="20260807164600 +0000" stop="20260806171600 +0000" channel="SCTV HD.mncvision">
+    <title>Cintaku Ketangkep Guru Berwajib</title>
 </programme>
 <programme start="20260806170000 +0000" stop="20260806180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>
@@ -8761,148 +8773,133 @@
 <programme start="20260807163000 +0000" stop="20260806170000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>
-<programme start="20260806173500 +0000" stop="20260806190500 +0000" channel="Thrill.mncvision">
+<programme start="20260806171500 +0000" stop="20260806173500 +0000" channel="Thrill.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20260806173500 +0000" stop="20260806174500 +0000" channel="Thrill.mncvision">
     <title>Rooftop</title>
 </programme>
-<programme start="20260806190500 +0000" stop="20260806203500 +0000" channel="Thrill.mncvision">
+<programme start="20260806174500 +0000" stop="20260806183000 +0000" channel="Thrill.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20260806183000 +0000" stop="20260806190000 +0000" channel="Thrill.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20260806190000 +0000" stop="20260806190500 +0000" channel="Thrill.mncvision">
+    <title>Dracin</title>
+</programme>
+<programme start="20260806190500 +0000" stop="20260806193000 +0000" channel="Thrill.mncvision">
     <title>Tear Us Apart</title>
+</programme>
+<programme start="20260806193000 +0000" stop="20260806200000 +0000" channel="Thrill.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20260806200000 +0000" stop="20260806203500 +0000" channel="Thrill.mncvision">
+    <title>Amazing Trip</title>
 </programme>
 <programme start="20260806203500 +0000" stop="20260806210000 +0000" channel="Thrill.mncvision">
     <title>Model Family, Ep 4</title>
 </programme>
-<programme start="20260806210000 +0000" stop="20260806223000 +0000" channel="Thrill.mncvision">
+<programme start="20260806210000 +0000" stop="20260806214500 +0000" channel="Thrill.mncvision">
     <title>Anak Perjanjian Syaitan 2</title>
 </programme>
-<programme start="20260806223000 +0000" stop="20260807000000 +0000" channel="Thrill.mncvision">
+<programme start="20260806214500 +0000" stop="20260806223000 +0000" channel="Thrill.mncvision">
+    <title>Pesantrend</title>
+</programme>
+<programme start="20260806223000 +0000" stop="20260806233000 +0000" channel="Thrill.mncvision">
     <title>Painted Face</title>
 </programme>
-<programme start="20260807000000 +0000" stop="20260807013500 +0000" channel="Thrill.mncvision">
+<programme start="20260806233000 +0000" stop="20260807000000 +0000" channel="Thrill.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20260807000000 +0000" stop="20260807003000 +0000" channel="Thrill.mncvision">
     <title>Hide &amp; Seek</title>
 </programme>
-<programme start="20260807013500 +0000" stop="20260807030500 +0000" channel="Thrill.mncvision">
+<programme start="20260807003000 +0000" stop="20260807013000 +0000" channel="Thrill.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20260807013000 +0000" stop="20260807013500 +0000" channel="Thrill.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20260807013500 +0000" stop="20260807023000 +0000" channel="Thrill.mncvision">
     <title>Rooftop</title>
 </programme>
-<programme start="20260807030500 +0000" stop="20260807043500 +0000" channel="Thrill.mncvision">
+<programme start="20260807023000 +0000" stop="20260807030500 +0000" channel="Thrill.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20260807030500 +0000" stop="20260807031500 +0000" channel="Thrill.mncvision">
     <title>Tear Us Apart</title>
+</programme>
+<programme start="20260807031500 +0000" stop="20260807041500 +0000" channel="Thrill.mncvision">
+    <title>Big-Bang!</title>
+</programme>
+<programme start="20260807041500 +0000" stop="20260807043500 +0000" channel="Thrill.mncvision">
+    <title>Enah Bikin Enak</title>
 </programme>
 <programme start="20260807043500 +0000" stop="20260807050000 +0000" channel="Thrill.mncvision">
     <title>Model Family, Ep 4</title>
 </programme>
-<programme start="20260807050000 +0000" stop="20260807063000 +0000" channel="Thrill.mncvision">
+<programme start="20260807050000 +0000" stop="20260807054500 +0000" channel="Thrill.mncvision">
     <title>Anak Perjanjian Syaitan 2</title>
 </programme>
-<programme start="20260807063000 +0000" stop="20260807080000 +0000" channel="Thrill.mncvision">
+<programme start="20260807054500 +0000" stop="20260807063000 +0000" channel="Thrill.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20260807063000 +0000" stop="20260807071500 +0000" channel="Thrill.mncvision">
     <title>Painted Face</title>
 </programme>
-<programme start="20260807080000 +0000" stop="20260807093500 +0000" channel="Thrill.mncvision">
+<programme start="20260807071500 +0000" stop="20260807074500 +0000" channel="Thrill.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20260807074500 +0000" stop="20260807080000 +0000" channel="Thrill.mncvision">
+    <title>Berani Coba</title>
+</programme>
+<programme start="20260807080000 +0000" stop="20260807081500 +0000" channel="Thrill.mncvision">
     <title>Hide &amp; Seek</title>
 </programme>
-<programme start="20260807093500 +0000" stop="20260807110500 +0000" channel="Thrill.mncvision">
+<programme start="20260807081500 +0000" stop="20260807090000 +0000" channel="Thrill.mncvision">
+    <title>Cuan Bos</title>
+</programme>
+<programme start="20260807090000 +0000" stop="20260807093500 +0000" channel="Thrill.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20260807093500 +0000" stop="20260807100000 +0000" channel="Thrill.mncvision">
     <title>Rooftop</title>
 </programme>
-<programme start="20260807110500 +0000" stop="20260807123500 +0000" channel="Thrill.mncvision">
+<programme start="20260807100000 +0000" stop="20260807110000 +0000" channel="Thrill.mncvision">
+    <title>Selebrita Update</title>
+</programme>
+<programme start="20260807110000 +0000" stop="20260807110500 +0000" channel="Thrill.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20260807110500 +0000" stop="20260807114500 +0000" channel="Thrill.mncvision">
     <title>Tear Us Apart</title>
+</programme>
+<programme start="20260807114500 +0000" stop="20260807121500 +0000" channel="Thrill.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20260807121500 +0000" stop="20260807123500 +0000" channel="Thrill.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
 </programme>
 <programme start="20260807123500 +0000" stop="20260807130000 +0000" channel="Thrill.mncvision">
     <title>Model Family, Ep 4</title>
 </programme>
-<programme start="20260807130000 +0000" stop="20260807143500 +0000" channel="Thrill.mncvision">
+<programme start="20260807130000 +0000" stop="20260807143000 +0000" channel="Thrill.mncvision">
     <title>The Getaway</title>
 </programme>
-<programme start="20260807143500 +0000" stop="20260807160000 +0000" channel="Thrill.mncvision">
+<programme start="20260807143000 +0000" stop="20260807143500 +0000" channel="Thrill.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20260807143500 +0000" stop="20260807154500 +0000" channel="Thrill.mncvision">
     <title>Chop Chop</title>
+</programme>
+<programme start="20260807154500 +0000" stop="20260807160000 +0000" channel="Thrill.mncvision">
+    <title>The Police</title>
 </programme>
 <programme start="20260807160000 +0000" stop="20260807163000 +0000" channel="Thrill.mncvision">
     <title>Endless Love</title>
 </programme>
-<programme start="20260806171500 +0000" stop="20260806174500 +0000" channel="Trans 7.mncvision">
-    <title>Redaksi Malam</title>
-</programme>
-<programme start="20260806174500 +0000" stop="20260806183000 +0000" channel="Trans 7.mncvision">
-    <title>Sport7</title>
-</programme>
-<programme start="20260806183000 +0000" stop="20260806190000 +0000" channel="Trans 7.mncvision">
-    <title>Best Fishing</title>
-</programme>
-<programme start="20260806190000 +0000" stop="20260806193000 +0000" channel="Trans 7.mncvision">
-    <title>Dracin</title>
-</programme>
-<programme start="20260806193000 +0000" stop="20260806200000 +0000" channel="Trans 7.mncvision">
-    <title>Best Fishing</title>
-</programme>
-<programme start="20260806200000 +0000" stop="20260806210000 +0000" channel="Trans 7.mncvision">
-    <title>Amazing Trip</title>
-</programme>
-<programme start="20260806210000 +0000" stop="20260806214500 +0000" channel="Trans 7.mncvision">
-    <title>POV (Pasti Obrolan Viral)</title>
-</programme>
-<programme start="20260806214500 +0000" stop="20260806223000 +0000" channel="Trans 7.mncvision">
-    <title>Pesantrend</title>
-</programme>
-<programme start="20260806223000 +0000" stop="20260806233000 +0000" channel="Trans 7.mncvision">
-    <title>Redaksi Pagi</title>
-</programme>
-<programme start="20260806233000 +0000" stop="20260807003000 +0000" channel="Trans 7.mncvision">
-    <title>Spotlite</title>
-</programme>
-<programme start="20260807003000 +0000" stop="20260807013000 +0000" channel="Trans 7.mncvision">
-    <title>Selebrita Pagi</title>
-</programme>
-<programme start="20260807013000 +0000" stop="20260807023000 +0000" channel="Trans 7.mncvision">
-    <title>FYP (For Your Pagi)</title>
-</programme>
-<programme start="20260807023000 +0000" stop="20260807031500 +0000" channel="Trans 7.mncvision">
-    <title>Selebrita Heits</title>
-</programme>
-<programme start="20260807031500 +0000" stop="20260807041500 +0000" channel="Trans 7.mncvision">
-    <title>Big-Bang!</title>
-</programme>
-<programme start="20260807041500 +0000" stop="20260807050000 +0000" channel="Trans 7.mncvision">
-    <title>Enah Bikin Enak</title>
-</programme>
-<programme start="20260807050000 +0000" stop="20260807054500 +0000" channel="Trans 7.mncvision">
-    <title>Jejak Si Gundul</title>
-</programme>
-<programme start="20260807054500 +0000" stop="20260807063000 +0000" channel="Trans 7.mncvision">
-    <title>Bocah Petualang</title>
-</programme>
-<programme start="20260807063000 +0000" stop="20260807071500 +0000" channel="Trans 7.mncvision">
-    <title>Kepo</title>
-</programme>
-<programme start="20260807071500 +0000" stop="20260807074500 +0000" channel="Trans 7.mncvision">
-    <title>Redaksi</title>
-</programme>
-<programme start="20260807074500 +0000" stop="20260807081500 +0000" channel="Trans 7.mncvision">
-    <title>Berani Coba</title>
-</programme>
-<programme start="20260807081500 +0000" stop="20260807090000 +0000" channel="Trans 7.mncvision">
-    <title>Cuan Bos</title>
-</programme>
-<programme start="20260807090000 +0000" stop="20260807100000 +0000" channel="Trans 7.mncvision">
-    <title>Makan Receh</title>
-</programme>
-<programme start="20260807100000 +0000" stop="20260807110000 +0000" channel="Trans 7.mncvision">
-    <title>Selebrita Update</title>
-</programme>
-<programme start="20260807110000 +0000" stop="20260807114500 +0000" channel="Trans 7.mncvision">
-    <title>On The Spot</title>
-</programme>
-<programme start="20260807114500 +0000" stop="20260807121500 +0000" channel="Trans 7.mncvision">
-    <title>Secret Story</title>
-</programme>
-<programme start="20260807121500 +0000" stop="20260807130000 +0000" channel="Trans 7.mncvision">
-    <title>POV (Pasti Obrolan Viral)</title>
-</programme>
-<programme start="20260807130000 +0000" stop="20260807143000 +0000" channel="Trans 7.mncvision">
-    <title>Arisan</title>
-</programme>
-<programme start="20260807143000 +0000" stop="20260807154500 +0000" channel="Trans 7.mncvision">
-    <title>Lapor Pak!</title>
-</programme>
-<programme start="20260807154500 +0000" stop="20260807163000 +0000" channel="Trans 7.mncvision">
-    <title>The Police</title>
-</programme>
-<programme start="20260807163000 +0000" stop="20260806170000 +0000" channel="Trans 7.mncvision">
+<programme start="20260807163000 +0000" stop="20260806170000 +0000" channel="Thrill.mncvision">
     <title>Misteri Dunia</title>
 </programme>
 <programme start="20260806170000 +0000" stop="20260806220000 +0000" channel="Trans TV.mncvision">

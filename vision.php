@@ -248,46 +248,46 @@
 <title>iNews</title>
 </programme>
 <programme start="20260807170000 +0000" stop="20260807173000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20260807173000 +0000" stop="20260807180000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Breaking News</title>
 </programme>
 <programme start="20260807180000 +0000" stop="20260807184500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sore</title>
 </programme>
 <programme start="20260807184500 +0000" stop="20260807193000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Malam</title>
 </programme>
 <programme start="20260807193000 +0000" stop="20260807201500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
 <programme start="20260807201500 +0000" stop="20260807210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita</title>
 </programme>
 <programme start="20260807210000 +0000" stop="20260807211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita</title>
 </programme>
 <programme start="20260807211500 +0000" stop="20260807230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Pagi (Live)</title>
 </programme>
 <programme start="20260807230000 +0000" stop="20260807231000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20260807231000 +0000" stop="20260807233000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20260807233000 +0000" stop="20260808003000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
 <programme start="20260808003000 +0000" stop="20260808011500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita</title>
 </programme>
 <programme start="20260808011500 +0000" stop="20260808020000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Breaking News (Inews)</title>
 </programme>
 <programme start="20260808020000 +0000" stop="20260808030000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Files</title>
 </programme>
 <programme start="20260808030000 +0000" stop="20260808060000 +0000" channel="iNews.vision">
 <title>iNews</title>
@@ -296,13 +296,13 @@
 <title>iNews</title>
 </programme>
 <programme start="20260808090000 +0000" stop="20260808090500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260808090500 +0000" stop="20260808100000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita (L)</title>
 </programme>
 <programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Sore (Live)</title>
 </programme>
 <programme start="20260806233000 +0000" stop="20260807003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
