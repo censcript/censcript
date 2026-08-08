@@ -481,6 +481,87 @@
   <programme start="20260810213900 +0000" stop="20260810224000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
   </programme>
+  <programme start="20260809205000 +0000" stop="20260809224000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">96 hodín</title>
+  </programme>
+  <programme start="20260809224000 +0000" stop="20260810002500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">V mene pomsty</title>
+  </programme>
+  <programme start="20260810002500 +0000" stop="20260810020500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">96 hodín</title>
+  </programme>
+  <programme start="20260810020500 +0000" stop="20260810030000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Susedské prípady (6)</title>
+  </programme>
+  <programme start="20260810030000 +0000" stop="20260810040000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Televízne noviny</title>
+  </programme>
+  <programme start="20260810040000 +0000" stop="20260810062500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Teleráno</title>
+  </programme>
+  <programme start="20260810062500 +0000" stop="20260810073500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Zámena manželiek</title>
+  </programme>
+  <programme start="20260810073500 +0000" stop="20260810081000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Najhorší týždeň môjho života (3)</title>
+  </programme>
+  <programme start="20260810081000 +0000" stop="20260810085000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Najhorší týždeň môjho života (4)</title>
+  </programme>
+  <programme start="20260810085000 +0000" stop="20260810092000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Susedia (12)</title>
+  </programme>
+  <programme start="20260810092000 +0000" stop="20260810100500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Susedia (13)</title>
+  </programme>
+  <programme start="20260810100500 +0000" stop="20260810110000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">NCIS: Počiatok I (1)</title>
+  </programme>
+  <programme start="20260810110000 +0000" stop="20260810115500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">NCIS: Počiatok I (2)</title>
+  </programme>
+  <programme start="20260810115500 +0000" stop="20260810125500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">NCIS: Počiatok I (3)</title>
+  </programme>
+  <programme start="20260810125500 +0000" stop="20260810135500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Susedské prípady (11)</title>
+  </programme>
+  <programme start="20260810135500 +0000" stop="20260810150000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Rodinné prípady (1)</title>
+  </programme>
+  <programme start="20260810150000 +0000" stop="20260810152500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Prvé televízne noviny</title>
+  </programme>
+  <programme start="20260810152500 +0000" stop="20260810153000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Prvé športové noviny</title>
+  </programme>
+  <programme start="20260810153000 +0000" stop="20260810155500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Reflex</title>
+  </programme>
+  <programme start="20260810155500 +0000" stop="20260810170000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Rodinné prípady (34)</title>
+  </programme>
+  <programme start="20260810170000 +0000" stop="20260810180000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Televízne noviny</title>
+  </programme>
+  <programme start="20260810180000 +0000" stop="20260810181000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Počasie</title>
+  </programme>
+  <programme start="20260810181000 +0000" stop="20260810181500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Extra výplata, Všetko alebo nič, KENO 10, Keno Joker (48)</title>
+  </programme>
+  <programme start="20260810181500 +0000" stop="20260810183000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Športové noviny</title>
+  </programme>
+  <programme start="20260810183000 +0000" stop="20260810194500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Zrada (8)</title>
+  </programme>
+  <programme start="20260810194500 +0000" stop="20260810212500 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Druhá šanca III (14)</title>
+  </programme>
+  <programme start="20260810212500 +0000" stop="20260810225000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Druhá šanca III (15)</title>
+  </programme>
   <programme start="20260809204000 +0000" stop="20260809223500 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Moje letné prázdniny</title>
   </programme>
@@ -646,20 +727,20 @@
   <programme start="20260810204500 +0000" stop="20260810222500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Druhá šanca III (14)</title>
   </programme>
-  <programme start="20260809210500 +0000" stop="20260809231000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260809210500 +0000" stop="20260809232000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Maverick</title>
   </programme>
-  <programme start="20260809231000 +0000" stop="20260809235000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260809232000 +0000" stop="20260810000000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Čarodejnice VIII (22)</title>
   </programme>
-  <programme start="20260809235000 +0000" stop="20260810020500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260810000000 +0000" stop="20260810022500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Všetci sú za dverami (10)</title>
   </programme>
-  <programme start="20260810020500 +0000" stop="20260810025500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260810022500 +0000" stop="20260810031000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Dereš (2)</title>
   </programme>
-  <programme start="20260810025500 +0000" stop="20260810040000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Aj múdry schybí (13)</title>
+  <programme start="20260810031000 +0000" stop="20260810040000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Aj múdry schybí (1)</title>
   </programme>
   <programme start="20260810040000 +0000" stop="20260810052000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (14)</title>
