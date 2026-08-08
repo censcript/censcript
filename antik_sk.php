@@ -1123,46 +1123,46 @@
   <programme start="20260810201500 +0000" stop="20260810221500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Uvznení v hlbinách</title>
   </programme>
-  <programme start="20260809203000 +0000" stop="20260809230500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260809202500 +0000" stop="20260809225000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260809230500 +0000" stop="20260810010500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260809225000 +0000" stop="20260810005000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260810010500 +0000" stop="20260810031000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810005000 +0000" stop="20260810031000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260810031000 +0000" stop="20260810050000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810031000 +0000" stop="20260810052000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260810050000 +0000" stop="20260810070500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810052000 +0000" stop="20260810072500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260810070500 +0000" stop="20260810092000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810072500 +0000" stop="20260810094000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260810092000 +0000" stop="20260810114500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810094000 +0000" stop="20260810115000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260810114500 +0000" stop="20260810142500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810115000 +0000" stop="20260810143500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260810142500 +0000" stop="20260810171500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810143500 +0000" stop="20260810165000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260810171500 +0000" stop="20260810194500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810165000 +0000" stop="20260810193500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hlinka Gretzky Cup</title>
   </programme>
-  <programme start="20260810194500 +0000" stop="20260810222000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260810193500 +0000" stop="20260810223500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hlinka Gretzky Cup</title>
   </programme>
-  <programme start="20260809204000 +0000" stop="20260809230500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260809214000 +0000" stop="20260810000500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260809230500 +0000" stop="20260810014500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260810000500 +0000" stop="20260810024500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260810014500 +0000" stop="20260810041500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260810024500 +0000" stop="20260810041500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260810041500 +0000" stop="20260810065000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1180,13 +1180,13 @@
   <programme start="20260810142000 +0000" stop="20260810162500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
   </programme>
-  <programme start="20260810162500 +0000" stop="20260810185000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260810162500 +0000" stop="20260810185500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
   </programme>
-  <programme start="20260810185000 +0000" stop="20260810211000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260810185500 +0000" stop="20260810211500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260810211000 +0000" stop="20260810232500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260810211500 +0000" stop="20260810233500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260809220000 +0000" stop="20260809230000 +0000" channel="WAU.webtv.sk">
@@ -16264,10 +16264,10 @@
   <programme start="20260810003900 +0000" stop="20260810004600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260810004600 +0000" stop="20260810011100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260810004600 +0000" stop="20260810011200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Stacja Arktyka (12)</title>
   </programme>
-  <programme start="20260810011100 +0000" stop="20260810015900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260810011200 +0000" stop="20260810015900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Po drugiej stronie (3)</title>
   </programme>
   <programme start="20260810015900 +0000" stop="20260810023100 +0000" channel="TVP Info.webtv.sk">
@@ -16489,10 +16489,10 @@
   <programme start="20260810010000 +0000" stop="20260810015500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Lato z Radiem i Telewizja Polska (49)</title>
   </programme>
-  <programme start="20260810015500 +0000" stop="20260810025000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260810015500 +0000" stop="20260810025500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Lato z Radiem i Telewizja Polska (50)</title>
   </programme>
-  <programme start="20260810025000 +0000" stop="20260810034000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260810025500 +0000" stop="20260810034000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Ojciec Mateusz (16)</title>
   </programme>
   <programme start="20260810034000 +0000" stop="20260810043000 +0000" channel="TVP Polonia.webtv.sk">

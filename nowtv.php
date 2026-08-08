@@ -70,9 +70,6 @@
 <programme start="20260808160000 +0000" stop="20260808180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260808010000 +0000" stop="20260808030000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Bournemouth vs Aston Villa</title>
-</programme>
 <programme start="20260808030000 +0000" stop="20260808050000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Wolverhampton Wanderers vs Chelsea</title>
 </programme>

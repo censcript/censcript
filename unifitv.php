@@ -5347,12 +5347,7 @@ GENDANG 24 PERAYAAN PERINGKAT KEBANGSAAN</desc>
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260807183000 +0000" stop="20260807190000 +0000" channel="unknown.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20260807190000 +0000" stop="20260807193000 +0000" channel="unknown.unifitv">
+  <programme start="20260807183000 +0000" stop="20260807193000 +0000" channel="unknown.unifitv">
     <title lang="en">Free Ticket</title>
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
@@ -5413,8 +5408,8 @@ GENDANG 24 PERAYAAN PERINGKAT KEBANGSAAN</desc>
   </programme>
   <programme start="20260808003000 +0000" stop="20260808010000 +0000" channel="unknown.unifitv">
     <title lang="en">Ninaithen Vandhai</title>
-    <desc lang="en">Ninaithen Vandhai</desc>
-    <category lang="en">Romance</category>
+    <desc lang="en">After Indhumathi's death, Ezhil struggles to raise his children alone. Sudarvizhi, a kind-hearted village girl, enters their lives as their caretaker and slowly brings warmth back to the family.</desc>
+    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
@@ -5433,8 +5428,8 @@ GENDANG 24 PERAYAAN PERINGKAT KEBANGSAAN</desc>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260808020000 +0000" stop="20260808023000 +0000" channel="unknown.unifitv">
-    <title lang="en">Anna</title>
-    <desc lang="en">When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
+    <title lang="en">Gettimelam</title>
+    <desc lang="en">After facing humiliation from her family, Lakshmi vows to build a new house. Sivaraman joins her in this mission. But as they take on family responsibilities, will their dream be left behind?</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -5502,7 +5497,7 @@ GENDANG 24 PERAYAAN PERINGKAT KEBANGSAAN</desc>
   </programme>
   <programme start="20260808093000 +0000" stop="20260808100000 +0000" channel="unknown.unifitv">
     <title lang="en">Samanthi</title>
-    <desc lang="en">A humble village girl moves to the vibrant city, boldly chasing her dreams and completely transforming her future against all odds to discover a brand new destiny waiting there.</desc>
+    <desc lang="en">Hoping for a fresh start, a humble village girl moves to the busy city, where bold choices and unexpected encounters completely reshape her future forever.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -5529,8 +5524,8 @@ GENDANG 24 PERAYAAN PERINGKAT KEBANGSAAN</desc>
     <episode-num system="onscreen">S1E268</episode-num>
   </programme>
   <programme start="20260808113000 +0000" stop="20260808130000 +0000" channel="unknown.unifitv">
-    <title lang="en">Ipadiku Kadhal</title>
-    <desc lang="en">Two sad people meet and connect. Spending time together makes them happier. Their sadness goes away, and their lives get better. They find joy.</desc>
+    <title lang="en">Ippadiku Kadhal</title>
+    <desc lang="en">After losing his wife Ramya in a car accident, Shiva falls into a coma. Later, he starts a new relationship with Anjana, but their bond is tested when she learns about Ramya.</desc>
     <category lang="en">Romance</category>
   </programme>
   <programme start="20260808130000 +0000" stop="20260808133000 +0000" channel="unknown.unifitv">
@@ -5549,7 +5544,7 @@ GENDANG 24 PERAYAAN PERINGKAT KEBANGSAAN</desc>
   </programme>
   <programme start="20260808140000 +0000" stop="20260808153000 +0000" channel="unknown.unifitv">
     <title lang="en">Dance Jodi Dance</title>
-    <desc lang="en">This inspiring dance show features talented female dancers partnering with male celebrities, combining strength, passion, and skill to help them achieve their ultimate dreams on stage.</desc>
+    <desc lang="en">Talented dance duos hit the stage, delivering breathtaking routines and high-energy performances as they compete to be crowned the ultimate reigning champions.</desc>
     <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">0.16.</episode-num>
     <episode-num system="onscreen">S1E17</episode-num>
