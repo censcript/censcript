@@ -385,6 +385,9 @@
 <programme start="20260807233000 +0000" stop="20260808003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20260808003000 +0000" stop="20260808013000 +0000" channel="Trans 7.vision">
+<title>Selebrita Pagi On The Weekend</title>
+</programme>
 <programme start="20260808013000 +0000" stop="20260808021500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
@@ -501,6 +504,12 @@
 </programme>
 <programme start="20260809114500 +0000" stop="20260809121500 +0000" channel="Trans 7.vision">
 <title>Trans 7</title>
+</programme>
+<programme start="20260807230000 +0000" stop="20260808023000 +0000" channel="ANTV.vision">
+<title>Student Of The Year</title>
+</programme>
+<programme start="20260808023000 +0000" stop="20260808060000 +0000" channel="ANTV.vision">
+<title>Tumko Na Bhool Paayenge</title>
 </programme>
 <programme start="20260808060000 +0000" stop="20260808073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -675,6 +684,15 @@
 </programme>
 <programme start="20260808020000 +0000" stop="20260808023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
+</programme>
+<programme start="20260808023000 +0000" stop="20260808030000 +0000" channel="TVOne.vision">
+<title>Pesona Nusantara</title>
+</programme>
+<programme start="20260808030000 +0000" stop="20260808033000 +0000" channel="TVOne.vision">
+<title>Bukan Jalan-Jalan Biasa</title>
+</programme>
+<programme start="20260808033000 +0000" stop="20260808040000 +0000" channel="TVOne.vision">
+<title>Jajago</title>
 </programme>
 <programme start="20260808040000 +0000" stop="20260808053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1479,22 +1497,4 @@
 </programme>
 <programme start="20260809093000 +0000" stop="20260809100000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20260809100000 +0000" stop="20260809110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260809110000 +0000" stop="20260809120000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260808000000 +0000" stop="20260808003000 +0000" channel="DAAI TV.vision">
-<title>Dr. Panda</title>
-</programme>
-<programme start="20260808003000 +0000" stop="20260808010000 +0000" channel="DAAI TV.vision">
-<title>Darwin &amp; Newts</title>
-</programme>
-<programme start="20260808010000 +0000" stop="20260808013000 +0000" channel="DAAI TV.vision">
-<title>Clifford</title>
-</programme>
-<programme start="20260808013000 +0000" stop="20260808020000 +0000" channel="DAAI TV.vision">
-<title>@Indonesia</title>
 </programme>
