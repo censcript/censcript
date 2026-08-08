@@ -1,43 +1,43 @@
     <programme start="20260809000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Hoa sữa về trong gió - Tập 10 </title>
     </programme>
-    <programme start="20260809000000 +0000" stop="20260809003000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809000000 +0000" stop="20260809003300 +0000" channel="VTV1 HD.mytv">
         <title> Học tập và thực hành theo Bác: Thắp sáng vùng biên </title>
     </programme>
-    <programme start="20260809003000 +0000" stop="20260809004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809003300 +0000" stop="20260809004500 +0000" channel="VTV1 HD.mytv">
         <title> Sự lựa chọn </title>
     </programme>
     <programme start="20260809004500 +0000" stop="20260809011000 +0000" channel="VTV1 HD.mytv">
         <title> Tương lai xanh: Chủ động ứng phó thiên tai </title>
     </programme>
-    <programme start="20260809011000 +0000" stop="20260809014000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809011000 +0000" stop="20260809014100 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Người Mông giữa mây ngàn Lai Châu </title>
     </programme>
-    <programme start="20260809014000 +0000" stop="20260809020000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809014100 +0000" stop="20260809020100 +0000" channel="VTV1 HD.mytv">
         <title> Hiểu sâu - Sống chất: Bạo lực dưới danh nghĩa yêu thương </title>
     </programme>
-    <programme start="20260809020000 +0000" stop="20260809023000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809020100 +0000" stop="20260809023100 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Sắc màu Tây Thanh Hóa </title>
     </programme>
-    <programme start="20260809023000 +0000" stop="20260809024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809023100 +0000" stop="20260809024600 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Yoga với sức khỏe người cao tuổi </title>
     </programme>
-    <programme start="20260809024500 +0000" stop="20260809033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809024600 +0000" stop="20260809033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Người một nhà - Tập 7 </title>
     </programme>
-    <programme start="20260809033000 +0000" stop="20260809041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809033000 +0000" stop="20260809041100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Người một nhà - Tập 8 </title>
     </programme>
-    <programme start="20260809041500 +0000" stop="20260809050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809041100 +0000" stop="20260809050400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Nhịp sống của người Dao Thanh Phán </title>
     </programme>
-    <programme start="20260809050500 +0000" stop="20260809051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809050400 +0000" stop="20260809051000 +0000" channel="VTV1 HD.mytv">
         <title> Vì cộng đồng: Việc tử tế bên hồ Ghềnh Chè </title>
     </programme>
-    <programme start="20260809051000 +0000" stop="20260809052500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809051000 +0000" stop="20260809052300 +0000" channel="VTV1 HD.mytv">
         <title> Hải quan Việt Nam </title>
     </programme>
-    <programme start="20260809052500 +0000" stop="20260809053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260809052300 +0000" stop="20260809053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20260809053000 +0000" stop="20260809070000 +0000" channel="VTV1 HD.mytv">
@@ -119,7 +119,7 @@
         <title> Nhật ký người Việt: Giữ hồn rối cạn Tế Tiêu </title>
     </programme>
     <programme start="20260809170000 +0000" stop="20260809170500 +0000" channel="VTV1 HD.mytv">
-        <title> Khám phá Việt Nam: Người gìn giữ chữ Nômg Dao </title>
+        <title> Khám phá Việt Nam: Người gìn giữ chữ Nôm Dao </title>
     </programme>
     <programme start="20260809170500 +0000" stop="20260809172000 +0000" channel="VTV1 HD.mytv">
         <title> Hành trình vẻ đẹp: Vân Sơn – Theo thác lên núi </title>
@@ -167,6 +167,6 @@
         <title> Tổ quốc trong tim </title>
     </programme>
     <programme start="20260809231500 +0000" stop="20260809234500 +0000" channel="VTV1 HD.mytv">
-        <title> Khám phá Việt Nam: Người gìn giữ chữ Nômg Dao</title>
+        <title> Khám phá Việt Nam: Người gìn giữ chữ Nôm Dao</title>
     </programme>
     <channel>VTV1 HD</channel>
