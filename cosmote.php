@@ -62,10 +62,6 @@
     <title>Football: SL Benfica - Academico (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260809003000 +0700" stop="20260809023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Estoril - Famalicao</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260809023000 +0700" stop="20260809043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: CF Estrela de Amadora - Sporting CP (L)</title>
     <desc>Live: Ya</desc>
@@ -121,10 +117,6 @@
 <programme start="20260810020000 +0700" stop="20260810040500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Athens Kallithea FC</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260809000000 +0700" stop="20260809021500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: AEK - Athens Kallithea FC (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260809021500 +0700" stop="20260809041500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Celtic FC - Dundee</title>
@@ -218,14 +210,6 @@
     <title>Football: Rangers FC - Hibernian</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260809001000 +0700" stop="20260809021000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260809021000 +0700" stop="20260809023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa - Fifth Quarter E36</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260809023000 +0700" stop="20260809050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Chicago Sky - Indiana Fever (L)</title>
     <desc>Live: Ya</desc>
@@ -286,8 +270,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260809014000 +0700" stop="20260809022500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
+<programme start="20260810032000 +0700" stop="20260810034000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa - Fifth Quarter E36</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260810034000 +0700" stop="20260810054000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Real Madrid - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260809022500 +0700" stop="20260809033000 +0700" channel="COSMOTE Sport 5 HD">
@@ -398,6 +386,10 @@
     <title>Harley-Davidson Bagger World Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260810034500 +0700" stop="20260810043500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Harley-Davidson Bagger World Cup 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260808233000 +0700" stop="20260809040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -440,10 +432,6 @@
 </programme>
 <programme start="20260809233000 +0700" stop="20260810040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260809000000 +0700" stop="20260809030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260809030000 +0700" stop="20260809040000 +0700" channel="COSMOTE Sport 7 HD">
