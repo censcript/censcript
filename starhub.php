@@ -1874,13 +1874,13 @@
         <title>Saturday, August 8, 2026 1am ET</title>
     </programme>
     <programme start="20260808053000 +0000" stop="20260808060000 +0000" channel="CNN HD.starhub">
-        <title>Turkey</title>
+        <title>Antalya, Turkey</title>
     </programme>
     <programme start="20260808060000 +0000" stop="20260808063000 +0000" channel="CNN HD.starhub">
         <title>Saturday, August 8, 2026 2am ET</title>
     </programme>
     <programme start="20260808063000 +0000" stop="20260808070000 +0000" channel="CNN HD.starhub">
-        <title>Sep-26</title>
+        <title>Bodybuilders</title>
     </programme>
     <programme start="20260808070000 +0000" stop="20260808073000 +0000" channel="CNN HD.starhub">
         <title>Saturday, August 8, 2026 3am ET</title>
@@ -1898,10 +1898,10 @@
         <title>Saturday, August 8, 2026 5am ET</title>
     </programme>
     <programme start="20260808100000 +0000" stop="20260808103000 +0000" channel="CNN HD.starhub">
-        <title>Sep-26</title>
+        <title>Bodybuilders</title>
     </programme>
     <programme start="20260808103000 +0000" stop="20260808110000 +0000" channel="CNN HD.starhub">
-        <title>Turkey</title>
+        <title>Antalya, Turkey</title>
     </programme>
     <programme start="20260808110000 +0000" stop="20260808120000 +0000" channel="CNN HD.starhub">
         <title>Saturday, August 8, 2026 7AM</title>

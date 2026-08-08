@@ -34,12 +34,6 @@
 <programme start="20260808160000 +0000" stop="20260808180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260808103000 +0000" stop="20260808104500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 23</title>
-</programme>
-<programme start="20260808104500 +0000" stop="20260808110000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 24</title>
-</programme>
 <programme start="20260808110000 +0000" stop="20260808130000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Wolverhampton Wanderers vs Chelsea</title>
 </programme>

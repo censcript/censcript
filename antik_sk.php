@@ -481,87 +481,6 @@
   <programme start="20260810213900 +0000" stop="20260810224000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MS 2026</title>
   </programme>
-  <programme start="20260809205000 +0000" stop="20260809224000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">96 hodín</title>
-  </programme>
-  <programme start="20260809224000 +0000" stop="20260810002500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">V mene pomsty</title>
-  </programme>
-  <programme start="20260810002500 +0000" stop="20260810020500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">96 hodín</title>
-  </programme>
-  <programme start="20260810020500 +0000" stop="20260810030000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Susedské prípady (6)</title>
-  </programme>
-  <programme start="20260810030000 +0000" stop="20260810040000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Televízne noviny</title>
-  </programme>
-  <programme start="20260810040000 +0000" stop="20260810062500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Teleráno</title>
-  </programme>
-  <programme start="20260810062500 +0000" stop="20260810073500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Zámena manželiek</title>
-  </programme>
-  <programme start="20260810073500 +0000" stop="20260810081000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Najhorší týždeň môjho života (3)</title>
-  </programme>
-  <programme start="20260810081000 +0000" stop="20260810085000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Najhorší týždeň môjho života (4)</title>
-  </programme>
-  <programme start="20260810085000 +0000" stop="20260810092000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Susedia (12)</title>
-  </programme>
-  <programme start="20260810092000 +0000" stop="20260810100000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Susedia (13)</title>
-  </programme>
-  <programme start="20260810100000 +0000" stop="20260810105500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">NCIS: Počiatok I (1)</title>
-  </programme>
-  <programme start="20260810105500 +0000" stop="20260810115500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">NCIS: Počiatok I (2)</title>
-  </programme>
-  <programme start="20260810115500 +0000" stop="20260810125500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">NCIS: Počiatok I (3)</title>
-  </programme>
-  <programme start="20260810125500 +0000" stop="20260810135500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Susedské prípady (11)</title>
-  </programme>
-  <programme start="20260810135500 +0000" stop="20260810150000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Rodinné prípady (1)</title>
-  </programme>
-  <programme start="20260810150000 +0000" stop="20260810152500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Prvé televízne noviny</title>
-  </programme>
-  <programme start="20260810152500 +0000" stop="20260810153000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Prvé športové noviny</title>
-  </programme>
-  <programme start="20260810153000 +0000" stop="20260810155500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Reflex</title>
-  </programme>
-  <programme start="20260810155500 +0000" stop="20260810170000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Rodinné prípady (34)</title>
-  </programme>
-  <programme start="20260810170000 +0000" stop="20260810180000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Televízne noviny</title>
-  </programme>
-  <programme start="20260810180000 +0000" stop="20260810181000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260810181000 +0000" stop="20260810181500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Extra výplata, Všetko alebo nič, KENO 10, Keno Joker (48)</title>
-  </programme>
-  <programme start="20260810181500 +0000" stop="20260810183000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Športové noviny</title>
-  </programme>
-  <programme start="20260810183000 +0000" stop="20260810194500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Zrada (8)</title>
-  </programme>
-  <programme start="20260810194500 +0000" stop="20260810212500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Druhá šanca III (14)</title>
-  </programme>
-  <programme start="20260810212500 +0000" stop="20260810225500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Druhá šanca III (15)</title>
-  </programme>
   <programme start="20260809204000 +0000" stop="20260809223500 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Moje letné prázdniny</title>
   </programme>
@@ -916,10 +835,10 @@
   <programme start="20260810045000 +0000" stop="20260810053500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Túžba tela (48)</title>
   </programme>
-  <programme start="20260810053500 +0000" stop="20260810062000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810053500 +0000" stop="20260810062500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Túžba tela (49)</title>
   </programme>
-  <programme start="20260810062000 +0000" stop="20260810070500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810062500 +0000" stop="20260810070500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier I (8)</title>
   </programme>
   <programme start="20260810070500 +0000" stop="20260810075000 +0000" channel="Doma.webtv.sk">
@@ -937,50 +856,47 @@
   <programme start="20260810100500 +0000" stop="20260810110500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zakázané ovocie II (69)</title>
   </programme>
-  <programme start="20260810110500 +0000" stop="20260810122000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810110500 +0000" stop="20260810121500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Oteckovia IV (98)</title>
   </programme>
-  <programme start="20260810122000 +0000" stop="20260810132500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810121500 +0000" stop="20260810132000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (145)</title>
   </programme>
-  <programme start="20260810132500 +0000" stop="20260810141000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810132000 +0000" stop="20260810140500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (146)</title>
   </programme>
-  <programme start="20260810141000 +0000" stop="20260810150500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810140500 +0000" stop="20260810150500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Vôňa vášne (47)</title>
   </programme>
-  <programme start="20260810150500 +0000" stop="20260810160500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810150500 +0000" stop="20260810160000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Vôňa vášne (48)</title>
   </programme>
-  <programme start="20260810160500 +0000" stop="20260810170000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire X (12)</title>
   </programme>
   <programme start="20260810170000 +0000" stop="20260810175500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zakázané ovocie II (70)</title>
   </programme>
-  <programme start="20260810175500 +0000" stop="20260810185000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810175500 +0000" stop="20260810185500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zakázané ovocie II (71)</title>
   </programme>
-  <programme start="20260810185000 +0000" stop="20260810190500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810185500 +0000" stop="20260810191000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Varte s nami (32)</title>
   </programme>
-  <programme start="20260810190500 +0000" stop="20260810193500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810191000 +0000" stop="20260810194000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier I (11)</title>
   </programme>
-  <programme start="20260810193500 +0000" stop="20260810200000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810194000 +0000" stop="20260810200500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier I (12)</title>
   </programme>
-  <programme start="20260810200000 +0000" stop="20260810203000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810200500 +0000" stop="20260810203500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia VII (16)</title>
   </programme>
-  <programme start="20260810203000 +0000" stop="20260810210000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810203500 +0000" stop="20260810210500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia VII (17)</title>
   </programme>
-  <programme start="20260810210000 +0000" stop="20260810215500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260810210500 +0000" stop="20260810220500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Pohotovosť III (4)</title>
-  </programme>
-  <programme start="20260810215500 +0000" stop="20260810225000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Vôňa vášne (47)</title>
   </programme>
   <programme start="20260809220000 +0000" stop="20260809224000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Polícia Chicago VII (9)</title>
