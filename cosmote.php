@@ -58,10 +58,6 @@
     <title>Football: Rangers FC - Hibernian (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260808203000 +0700" stop="20260808222500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Juventus Football Club - Hellas Verona</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260808222500 +0700" stop="20260809003000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - Parma</title>
     <desc>Live: Tidak</desc>
@@ -116,18 +112,6 @@
 </programme>
 <programme start="20260809220000 +0700" stop="20260810000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - ACF Fiorentina</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260808201000 +0700" stop="20260808221000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Dundee United - Rangers FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260808221000 +0700" stop="20260808223000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260808223000 +0700" stop="20260808230000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260808230000 +0700" stop="20260809000000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,8 +202,8 @@
     <title>Football: St. Mirren - Dunfermline</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260808201000 +0700" stop="20260808221000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tenerife - Badalona</title>
+<programme start="20260809233000 +0700" stop="20260810000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260808221000 +0700" stop="20260809001000 +0700" channel="COSMOTE Sport 4 HD">
@@ -282,8 +266,8 @@
     <title>Basketball: Chicago Sky - Indiana Fever</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260808214500 +0700" stop="20260808230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026 (L)</title>
+<programme start="20260809233000 +0700" stop="20260810020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: N.Y. Liberty - Las Vegas Aces (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260808230000 +0700" stop="20260808234500 +0700" channel="COSMOTE Sport 5 HD">
@@ -402,6 +386,10 @@
     <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260809235500 +0700" stop="20260810013500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260808193000 +0700" stop="20260808233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
@@ -445,6 +433,10 @@
 <programme start="20260809193000 +0700" stop="20260809233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260809233000 +0700" stop="20260810040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260808220000 +0700" stop="20260809000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Premier Padel Tour 2026 (L)</title>
@@ -571,6 +563,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260809220000 +0700" stop="20260809230000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260809230000 +0700" stop="20260810000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
