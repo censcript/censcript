@@ -4328,16 +4328,16 @@
     <title>PREM Rugby - Tries of the Season</title>
 </programme>
 <programme start="20260808110000 +0000" stop="20260808130000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Premier Padel - London P1: Women&#039;s Semi-Final</title>
+    <title>Live: Premier Padel - London P1: Women&#039;s Semi-Final: Fernandez Sanchez/Calvo v Josemaria Martin/Gonzalez Fernandez</title>
 </programme>
 <programme start="20260808130000 +0000" stop="20260808150000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Premier Padel - London P1: Women&#039;s Semi-Final</title>
+    <title>Live: Premier Padel - London P1: Women&#039;s Semi-Final: Triay Pons/Brea Senesi v Sanchez Fallada/Ustero Prieto</title>
 </programme>
 <programme start="20260808150000 +0000" stop="20260808170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Premier Padel - London P1: Men&#039;s Semi-Final</title>
+    <title>Live: Premier Padel - London P1: Men&#039;s Semi-Final: Tapia/Coello v Di Nenno/Navarro</title>
 </programme>
 <programme start="20260808170000 +0000" stop="20260808190000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Premier Padel - London P1: Men&#039;s Semi-Final</title>
+    <title>Live: Premier Padel - London P1: Men&#039;s Semi-Final: Augsburger/Lebron v Chingotto/Galan</title>
 </programme>
 <programme start="20260808000000 +0000" stop="20260808003000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>Sporting Countdowns - Episode 9</title>
@@ -4925,16 +4925,16 @@
     <title>PREM Rugby - Tries of the Season</title>
 </programme>
 <programme start="20260808110000 +0000" stop="20260808130000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: Premier Padel - London P1: Women&#039;s Semi-Final</title>
+    <title>Live: Premier Padel - London P1: Women&#039;s Semi-Final: Fernandez Sanchez/Calvo v Josemaria Martin/Gonzalez Fernandez</title>
 </programme>
 <programme start="20260808130000 +0000" stop="20260808150000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: Premier Padel - London P1: Women&#039;s Semi-Final</title>
+    <title>Live: Premier Padel - London P1: Women&#039;s Semi-Final: Triay Pons/Brea Senesi v Sanchez Fallada/Ustero Prieto</title>
 </programme>
 <programme start="20260808150000 +0000" stop="20260808170000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: Premier Padel - London P1: Men&#039;s Semi-Final</title>
+    <title>Live: Premier Padel - London P1: Men&#039;s Semi-Final: Tapia/Coello v Di Nenno/Navarro</title>
 </programme>
 <programme start="20260808170000 +0000" stop="20260808190000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: Premier Padel - London P1: Men&#039;s Semi-Final</title>
+    <title>Live: Premier Padel - London P1: Men&#039;s Semi-Final: Augsburger/Lebron v Chingotto/Galan</title>
 </programme>
 <programme start="20260808000000 +0000" stop="20260808003000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>Sporting Countdowns - Episode 9</title>
