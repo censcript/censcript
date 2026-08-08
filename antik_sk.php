@@ -1625,10 +1625,10 @@
     <title lang="id">Cesty teroru (1)</title>
   </programme>
   <programme start="20260810041500 +0000" stop="20260810045500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Doslova</title>
+    <title lang="id">Doslova - Géza Tokár</title>
   </programme>
   <programme start="20260810045500 +0000" stop="20260810053500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V tieni zločinu</title>
+    <title lang="id">V tieni zločinu - Ivan Šimko</title>
   </programme>
   <programme start="20260810053500 +0000" stop="20260810062500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Poklady z povaly (19)</title>
@@ -1649,13 +1649,13 @@
     <title lang="id">Skutočné zlo (2)</title>
   </programme>
   <programme start="20260810113000 +0000" stop="20260810121500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Kultový seriál: Melrose Place (81)</title>
+    <title lang="id">Kultový seriál: Melrose Place</title>
   </programme>
   <programme start="20260810121500 +0000" stop="20260810130000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Kultový seriál: Melrose Place (82)</title>
+    <title lang="id">Kultový seriál: Melrose Place (81)</title>
   </programme>
   <programme start="20260810130000 +0000" stop="20260810134000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V tieni zločinu</title>
+    <title lang="id">V tieni zločinu - Jozef Čentéš</title>
   </programme>
   <programme start="20260810134000 +0000" stop="20260810142000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Len peniaze nestačia</title>
@@ -1664,7 +1664,7 @@
     <title lang="id">Stúpenci (2)</title>
   </programme>
   <programme start="20260810150500 +0000" stop="20260810153500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Krimi Online</title>
+    <title lang="id">Krimi Online - Martin Oroš</title>
   </programme>
   <programme start="20260810153500 +0000" stop="20260810161500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Lekári a lekárky (21)</title>
@@ -4280,7 +4280,7 @@
     <title lang="id">Výleťák (220)</title>
   </programme>
   <programme start="20260810032500 +0000" stop="20260810040000 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">Moje místa: Michal Viewegh</title>
+    <title lang="id">Moje místa: Michal Viewegh (223)</title>
   </programme>
   <programme start="20260810040000 +0000" stop="20260810050000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vražedná čísla II (23)</title>
