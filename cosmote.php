@@ -110,10 +110,6 @@
     <title>Football: AEK - Athens Kallithea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260808134500 +0700" stop="20260808144500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Socca Euro 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260808144500 +0700" stop="20260808151500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -218,6 +214,10 @@
     <title>Football: Dundee United - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260809150000 +0700" stop="20260809160000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260808140000 +0700" stop="20260808161000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Promitheas - Rytas Vilnius</title>
     <desc>Live: Tidak</desc>
@@ -280,10 +280,6 @@
 </programme>
 <programme start="20260809143000 +0700" stop="20260809170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Chicago Sky - Indiana Fever</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260808132000 +0700" stop="20260808142000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260808142000 +0700" stop="20260808153500 +0700" channel="COSMOTE Sport 5 HD">
@@ -406,6 +402,10 @@
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260809153500 +0700" stop="20260809160500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260808113000 +0700" stop="20260808153000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
@@ -447,6 +447,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260809113000 +0700" stop="20260809153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260809153000 +0700" stop="20260809193000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
