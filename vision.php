@@ -679,9 +679,6 @@
 <programme start="20260808020000 +0000" stop="20260808023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
-<programme start="20260808033000 +0000" stop="20260808040000 +0000" channel="TVOne.vision">
-<title>Jajago</title>
-</programme>
 <programme start="20260808040000 +0000" stop="20260808053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260808003000 +0000" stop="20260808010000 +0000" channel="DAAI TV.vision">
 <title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260808010000 +0000" stop="20260808013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
 </programme>
