@@ -58,6 +58,10 @@
     <title>Football: Real Betis Balompie - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260810235500 +0700" stop="20260811020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: ACF Fiorentina - Crystal Palace</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260809220000 +0700" stop="20260810000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
@@ -194,6 +198,10 @@
     <title>Sports Classics: Football&#039;s Greatest IV E2</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260810232500 +0700" stop="20260811014500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Bolton Wanderers - Stockport County</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260809210000 +0700" stop="20260809233000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Chicago Sky - Indiana Fever</title>
     <desc>Live: Tidak</desc>
@@ -253,10 +261,6 @@
 <programme start="20260810221000 +0700" stop="20260811000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260809215000 +0700" stop="20260809223500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Harley-Davidson Bagger World Cup 2026 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260809223500 +0700" stop="20260809235500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026</title>
@@ -433,10 +437,6 @@
 <programme start="20260810220000 +0700" stop="20260811000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260809220000 +0700" stop="20260809230000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260809230000 +0700" stop="20260810000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
