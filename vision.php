@@ -535,6 +535,18 @@
 <programme start="20260809103000 +0000" stop="20260809113000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
+<programme start="20260809113000 +0000" stop="20260809140000 +0000" channel="ANTV.vision">
+<title>Begadang Karena Penasaran</title>
+</programme>
+<programme start="20260809140000 +0000" stop="20260809160000 +0000" channel="ANTV.vision">
+<title>Panggonan Wingit</title>
+</programme>
+<programme start="20260809160000 +0000" stop="20260809180000 +0000" channel="ANTV.vision">
+<title>Ricky</title>
+</programme>
+<programme start="20260809180000 +0000" stop="20260809190000 +0000" channel="ANTV.vision">
+<title>The Seventh Curse</title>
+</programme>
 <programme start="20260809190000 +0000" stop="20260809210000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
@@ -679,17 +691,26 @@
 <programme start="20260809070000 +0000" stop="20260809080000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
+<programme start="20260809080000 +0000" stop="20260809090000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Akhir Pekan</title>
+</programme>
 <programme start="20260809090000 +0000" stop="20260809110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang</title>
 </programme>
 <programme start="20260809110000 +0000" stop="20260809130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
 </programme>
+<programme start="20260809130000 +0000" stop="20260809140000 +0000" channel="TVOne.vision">
+<title>Renungan Jiwa</title>
+</programme>
 <programme start="20260809140000 +0000" stop="20260809150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260809150000 +0000" stop="20260809160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20260809160000 +0000" stop="20260809170000 +0000" channel="TVOne.vision">
+<title>One Pride MMA</title>
 </programme>
 <programme start="20260809180000 +0000" stop="20260809190000 +0000" channel="TVOne.vision">
 <title>TV One</title>
@@ -1476,25 +1497,4 @@
 </programme>
 <programme start="20260810093000 +0000" stop="20260810100000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260810110000 +0000" stop="20260810120000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260809000000 +0000" stop="20260809003000 +0000" channel="DAAI TV.vision">
-<title>Dr. Panda</title>
-</programme>
-<programme start="20260809003000 +0000" stop="20260809010000 +0000" channel="DAAI TV.vision">
-<title>Darwin &amp; Newts</title>
-</programme>
-<programme start="20260809010000 +0000" stop="20260809013000 +0000" channel="DAAI TV.vision">
-<title>Clifford</title>
-</programme>
-<programme start="20260809013000 +0000" stop="20260809020000 +0000" channel="DAAI TV.vision">
-<title>@Indonesia</title>
-</programme>
-<programme start="20260809020000 +0000" stop="20260809021500 +0000" channel="DAAI TV.vision">
-<title>Narasi Nusantara</title>
 </programme>
