@@ -7654,7 +7654,10 @@
     <programme start="20260809001500 +0000" stop="20260809020000 +0000" channel="SPOTV2.starhub">
         <title>Global Champions League Round 2</title>
     </programme>
-    <programme start="20260809020000 +0000" stop="20260809053000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260809020000 +0000" stop="20260809023000 +0000" channel="SPOTV2.starhub">
+        <title>Grand Prix of Germany</title>
+    </programme>
+    <programme start="20260809023000 +0000" stop="20260809053000 +0000" channel="SPOTV2.starhub">
         <title>Day 6 Session 1</title>
     </programme>
     <programme start="20260809053000 +0000" stop="20260809073500 +0000" channel="SPOTV2.starhub">

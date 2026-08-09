@@ -15335,7 +15335,12 @@
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20260809020000 +0000" stop="20260809053000 +0000" channel="spotv2.unifitv">
+  <programme start="20260809020000 +0000" stop="20260809023000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP Rewind - Grand Prix of Germany</title>
+    <desc lang="en">Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260809023000 +0000" stop="20260809053000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) WTT Champions Yokohama 2026 - Day 6 Session 1</title>
     <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <category lang="en">Table Tennis</category>
