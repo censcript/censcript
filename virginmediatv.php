@@ -3845,7 +3845,7 @@
     <title>Super League Rugby - Warrington Wolves v Hull Kingston Rovers</title>
 </programme>
 <programme start="20260809120000 +0000" stop="20260809141000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>International Rugby Union - Argentina v South Africa</title>
+    <title>Rugby Championship Classic Matches - 2017: New Zealand v Australia</title>
 </programme>
 <programme start="20260809141000 +0000" stop="20260809141500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Best of Rugby - 2017: Chiefs v British and Irish Lions</title>
@@ -4487,7 +4487,7 @@
     <title>Super League Rugby - Warrington Wolves v Hull Kingston Rovers</title>
 </programme>
 <programme start="20260809120000 +0000" stop="20260809141000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>International Rugby Union - Argentina v South Africa</title>
+    <title>Rugby Championship Classic Matches - 2017: New Zealand v Australia</title>
 </programme>
 <programme start="20260809141000 +0000" stop="20260809141500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Best of Rugby - 2017: Chiefs v British and Irish Lions</title>
