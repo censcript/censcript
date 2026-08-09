@@ -118,6 +118,10 @@
     <title>Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260811010000 +0700" stop="20260811031500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos NPS - Kalamata (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260810000000 +0700" stop="20260810020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Kilmarnock - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -188,6 +192,10 @@
 </programme>
 <programme start="20260810232500 +0700" stop="20260811014500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Bolton Wanderers - Stockport County</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260811014500 +0700" stop="20260811021500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260809233000 +0700" stop="20260810020000 +0700" channel="COSMOTE Sport 4 HD">
@@ -334,6 +342,10 @@
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260811013500 +0700" stop="20260811022500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Harley-Davidson Bagger World Cup 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260809233000 +0700" stop="20260810040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -370,9 +382,9 @@
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260809220000 +0700" stop="20260810010000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260811010000 +0700" stop="20260811050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260810010000 +0700" stop="20260810020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
