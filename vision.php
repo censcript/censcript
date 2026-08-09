@@ -691,9 +691,6 @@
 <programme start="20260809070000 +0000" stop="20260809080000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
-<programme start="20260809080000 +0000" stop="20260809090000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Akhir Pekan</title>
-</programme>
 <programme start="20260809090000 +0000" stop="20260809110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260810093000 +0000" stop="20260810100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
