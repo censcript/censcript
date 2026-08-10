@@ -4459,17 +4459,14 @@
 <programme start="20260810050000 +0000" stop="20260810060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>MotoGP - British Grand Prix: Moto2 Race</title>
 </programme>
-<programme start="20260810113000 +0000" stop="20260810150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260810113000 +0000" stop="20260810160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: China Open Snooker - Round 1: Kyren Wilson v Aaron Hill</title>
 </programme>
-<programme start="20260810150000 +0000" stop="20260810153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League Legends - Tony Adams</title>
-</programme>
-<programme start="20260810153000 +0000" stop="20260810160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League Legends - Paolo Di Canio</title>
-</programme>
-<programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260810160000 +0000" stop="20260810163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
+</programme>
+<programme start="20260810163000 +0000" stop="20260810170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Premier League Legends - Paolo Di Canio</title>
 </programme>
 <programme start="20260810170000 +0000" stop="20260810203000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Ultimate Pool Champions League - Group A</title>
@@ -4525,11 +4522,8 @@
 <programme start="20260810050000 +0000" stop="20260810070000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Test Cricket - West Indies v Pakistan: 2nd Test Review</title>
 </programme>
-<programme start="20260810093000 +0000" stop="20260810123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260810093000 +0000" stop="20260810130000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: European Athletics Championships - Day 1</title>
-</programme>
-<programme start="20260810123000 +0000" stop="20260810130000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Premier League Legends - Paul Ince</title>
 </programme>
 <programme start="20260810130000 +0000" stop="20260810133000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>CPL T20 - Antigua &amp; Barbuda Falcons v St. Lucia Kings</title>
@@ -4541,10 +4535,10 @@
     <title>Test Cricket - West Indies v Pakistan: 2nd Test Review</title>
 </programme>
 <programme start="20260810170000 +0000" stop="20260810173000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Premier Padel Highlights - London P1: Women&#039;s Final</title>
+    <title>Premier Padel Highlights - London P1: Women&#039;s Final, Triay Pons/Brea Senesi v Fernandez Sanchez/Calvo</title>
 </programme>
 <programme start="20260810173000 +0000" stop="20260810180000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Premier Padel Highlights - London P1: Men&#039;s Final</title>
+    <title>Premier Padel Highlights - London P1: Men&#039;s Final, Tapia/Coello v Chingotto/Galan</title>
 </programme>
 <programme start="20260809221500 +0000" stop="20260810001500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>China Open Snooker - Highlights</title>
@@ -5146,17 +5140,14 @@
 <programme start="20260810050000 +0000" stop="20260810060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>MotoGP - British Grand Prix: Moto2 Race</title>
 </programme>
-<programme start="20260810113000 +0000" stop="20260810150000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260810113000 +0000" stop="20260810160000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: China Open Snooker - Round 1: Kyren Wilson v Aaron Hill</title>
 </programme>
-<programme start="20260810150000 +0000" stop="20260810153000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League Legends - Tony Adams</title>
-</programme>
-<programme start="20260810153000 +0000" stop="20260810160000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League Legends - Paolo Di Canio</title>
-</programme>
-<programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260810160000 +0000" stop="20260810163000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Major League Baseball - Highlights</title>
+</programme>
+<programme start="20260810163000 +0000" stop="20260810170000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Premier League Legends - Paolo Di Canio</title>
 </programme>
 <programme start="20260810170000 +0000" stop="20260810203000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Ultimate Pool Champions League - Group A</title>
@@ -5212,11 +5203,8 @@
 <programme start="20260810050000 +0000" stop="20260810070000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Test Cricket - West Indies v Pakistan: 2nd Test Review</title>
 </programme>
-<programme start="20260810093000 +0000" stop="20260810123000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260810093000 +0000" stop="20260810130000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: European Athletics Championships - Day 1</title>
-</programme>
-<programme start="20260810123000 +0000" stop="20260810130000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Premier League Legends - Paul Ince</title>
 </programme>
 <programme start="20260810130000 +0000" stop="20260810133000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>CPL T20 - Antigua &amp; Barbuda Falcons v St. Lucia Kings</title>
@@ -5228,10 +5216,10 @@
     <title>Test Cricket - West Indies v Pakistan: 2nd Test Review</title>
 </programme>
 <programme start="20260810170000 +0000" stop="20260810173000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Premier Padel Highlights - London P1: Women&#039;s Final</title>
+    <title>Premier Padel Highlights - London P1: Women&#039;s Final, Triay Pons/Brea Senesi v Fernandez Sanchez/Calvo</title>
 </programme>
 <programme start="20260810173000 +0000" stop="20260810180000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Premier Padel Highlights - London P1: Men&#039;s Final</title>
+    <title>Premier Padel Highlights - London P1: Men&#039;s Final, Tapia/Coello v Chingotto/Galan</title>
 </programme>
 <programme start="20260809221500 +0000" stop="20260810001500 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>China Open Snooker - Highlights</title>
@@ -6328,7 +6316,10 @@
 <programme start="20260809175800 +0000" stop="20260810015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260810015800 +0000" stop="20260810060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260810015800 +0000" stop="20260810050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260810050000 +0000" stop="20260810060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260810115000 +0000" stop="20260810120500 +0000" channel="CBBC.virginmediatv">
