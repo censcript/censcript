@@ -7853,7 +7853,7 @@
     <title>iNews Today</title>
 </programme>
 <programme start="20260810060000 +0000" stop="20260810063000 +0000" channel="Sindo News TV.mncvision">
-    <title>iNews Today</title>
+    <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20260810063000 +0000" stop="20260810070000 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Today</title>
@@ -7925,7 +7925,7 @@
     <title>iNews Today</title>
 </programme>
 <programme start="20260810060000 +0000" stop="20260810063000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Today</title>
+    <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20260810063000 +0000" stop="20260810070000 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Today</title>

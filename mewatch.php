@@ -571,11 +571,8 @@
     <programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="CNA.mewatch">
         <title>(Live) East Asia Tonight</title>
     </programme>
-    <programme start="20260810110000 +0000" stop="20260810113000 +0000" channel="CNA.mewatch">
+    <programme start="20260810110000 +0000" stop="20260810120000 +0000" channel="CNA.mewatch">
         <title>Meet Me There S2 - EP 1</title>
-    </programme>
-    <programme start="20260810113000 +0000" stop="20260810120000 +0000" channel="CNA.mewatch">
-        <title>On The Red Dot - EP 12</title>
     </programme>
     <programme start="20260810120000 +0000" stop="20260810130000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Tonight</title>
