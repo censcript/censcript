@@ -4228,25 +4228,25 @@
   <programme start="20260812211500 +0000" stop="20260812222000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (83)</title>
   </programme>
-  <programme start="20260811220000 +0000" stop="20260811224500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260811213500 +0000" stop="20260811222000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVIII (10)</title>
   </programme>
-  <programme start="20260811224500 +0000" stop="20260811232500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260811222000 +0000" stop="20260811230000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVIII (7)</title>
   </programme>
-  <programme start="20260811232500 +0000" stop="20260812000500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260811230000 +0000" stop="20260811234000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVIII (8)</title>
   </programme>
-  <programme start="20260812000500 +0000" stop="20260812005000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260811234000 +0000" stop="20260812002000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVII (23)</title>
   </programme>
-  <programme start="20260812005000 +0000" stop="20260812013000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260812002000 +0000" stop="20260812010500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVII (24)</title>
   </programme>
-  <programme start="20260812013000 +0000" stop="20260812021000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260812010500 +0000" stop="20260812014500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260812021000 +0000" stop="20260812023500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260812014500 +0000" stop="20260812023500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
   <programme start="20260812023500 +0000" stop="20260812034000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -15001,6 +15001,168 @@
   <programme start="20260812210000 +0000" stop="20260813031000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
+  <programme start="20260811214300 +0000" stop="20260811222600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Folklór na Východe - Jozef Kopča</title>
+  </programme>
+  <programme start="20260811222600 +0000" stop="20260811230600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zemplínska šírava - Príbeh vody II</title>
+  </programme>
+  <programme start="20260811230600 +0000" stop="20260811234400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zemplínska šírava - Príbeh vody III</title>
+  </programme>
+  <programme start="20260811234400 +0000" stop="20260812001000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry Erika Sibala</title>
+  </programme>
+  <programme start="20260812001000 +0000" stop="20260812004800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Martin Čornej</title>
+  </programme>
+  <programme start="20260812004800 +0000" stop="20260812025500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Záznam zo zastupiteľstva KSK - 29.6.2026</title>
+  </programme>
+  <programme start="20260812025500 +0000" stop="20260812030000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Záznam zo zastupiteľstva KSK - 6.7.2026</title>
+  </programme>
+  <programme start="20260812030000 +0000" stop="20260812030500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20260812030500 +0000" stop="20260812032800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Igor Šimko podpísal dohodu so Zemplínom</title>
+  </programme>
+  <programme start="20260812032800 +0000" stop="20260812033500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
+  </programme>
+  <programme start="20260812033500 +0000" stop="20260812040700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20260812040700 +0000" stop="20260812042400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Jenkovce</title>
+  </programme>
+  <programme start="20260812042400 +0000" stop="20260812043000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
+  </programme>
+  <programme start="20260812043000 +0000" stop="20260812053000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Košice - Sv. liturgia</title>
+  </programme>
+  <programme start="20260812053000 +0000" stop="20260812062900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Košice - Utiereň</title>
+  </programme>
+  <programme start="20260812062900 +0000" stop="20260812063100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20260812063100 +0000" stop="20260812064500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - 335</title>
+  </programme>
+  <programme start="20260812064500 +0000" stop="20260812070500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20260812070500 +0000" stop="20260812075600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Téma na Zemplíne - Ako putovali ľudia kedysi a dnes?</title>
+  </programme>
+  <programme start="20260812075600 +0000" stop="20260812080000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20260812080000 +0000" stop="20260812083000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
+  </programme>
+  <programme start="20260812083000 +0000" stop="20260812100500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
+  </programme>
+  <programme start="20260812100500 +0000" stop="20260812100800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
+  </programme>
+  <programme start="20260812100800 +0000" stop="20260812101500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20260812101500 +0000" stop="20260812101800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká by mala byť naša modlitba?</title>
+  </programme>
+  <programme start="20260812101800 +0000" stop="20260812103600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20260812103600 +0000" stop="20260812112400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Poruba pod Vihorlatom</title>
+  </programme>
+  <programme start="20260812112400 +0000" stop="20260812121700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Bežovčanky</title>
+  </programme>
+  <programme start="20260812121700 +0000" stop="20260812121900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Dobroprajnosť vs. Závisť</title>
+  </programme>
+  <programme start="20260812121900 +0000" stop="20260812123900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Priekopa</title>
+  </programme>
+  <programme start="20260812123900 +0000" stop="20260812125300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - 335</title>
+  </programme>
+  <programme start="20260812125300 +0000" stop="20260812130300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - prvá časť</title>
+  </programme>
+  <programme start="20260812130300 +0000" stop="20260812131000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
+  </programme>
+  <programme start="20260812131000 +0000" stop="20260812131800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
+  </programme>
+  <programme start="20260812131800 +0000" stop="20260812134800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
+  </programme>
+  <programme start="20260812134800 +0000" stop="20260812141100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Varenie v lese - Steak na horách</title>
+  </programme>
+  <programme start="20260812141100 +0000" stop="20260812141400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20260812141400 +0000" stop="20260812143100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
+  </programme>
+  <programme start="20260812143100 +0000" stop="20260812143700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20260812143700 +0000" stop="20260812144300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
+  </programme>
+  <programme start="20260812144300 +0000" stop="20260812145100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek musí ísť niekedy proti tomu, čo sa od neho očakáva</title>
+  </programme>
+  <programme start="20260812145100 +0000" stop="20260812164100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Prešov - Sv. liturgia</title>
+  </programme>
+  <programme start="20260812164100 +0000" stop="20260812170000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Priekopa</title>
+  </programme>
+  <programme start="20260812170000 +0000" stop="20260812170500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Diabol bude napísaný stále s malým d</title>
+  </programme>
+  <programme start="20260812170500 +0000" stop="20260812172200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20260812172200 +0000" stop="20260812172400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Dobroprajnosť vs. Závisť</title>
+  </programme>
+  <programme start="20260812172400 +0000" stop="20260812182900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Binatinski chlopci</title>
+  </programme>
+  <programme start="20260812182900 +0000" stop="20260812192400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Téma na Zemplíne - Ako putovali ľudia kedysi a dnes?</title>
+  </programme>
+  <programme start="20260812192400 +0000" stop="20260812200400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Folklór na Východe - Jozef Kopča</title>
+  </programme>
+  <programme start="20260812200400 +0000" stop="20260812201300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Varenie v lese - Jelenie ragú</title>
+  </programme>
+  <programme start="20260812201300 +0000" stop="20260812204200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry Erika Sibala</title>
+  </programme>
+  <programme start="20260812204200 +0000" stop="20260812210100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Ruská Bystrá</title>
+  </programme>
+  <programme start="20260812210100 +0000" stop="20260812213000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Igor Šimko podpísal dohodu so Zemplínom</title>
+  </programme>
+  <programme start="20260812213000 +0000" stop="20260812220900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zemplínska šírava - Príbeh vody II</title>
+  </programme>
   <programme start="20260811220000 +0000" stop="20260811230000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">TV Poprad</title>
   </programme>
@@ -16740,6 +16902,213 @@
   </programme>
   <programme start="20260812214500 +0000" stop="20260812224000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Kabaret Letnia Pora (4)</title>
+  </programme>
+  <programme start="20260811210100 +0000" stop="20260811223000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260811223000 +0000" stop="20260812010000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20260812010000 +0000" stop="20260812014000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Обличчя війни</title>
+  </programme>
+  <programme start="20260812014000 +0000" stop="20260812030000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260812030000 +0000" stop="20260812031000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812031000 +0000" stop="20260812035000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Pеальна історія</title>
+  </programme>
+  <programme start="20260812035000 +0000" stop="20260812040000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812043000 +0000" stop="20260812050000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260812050000 +0000" stop="20260812051000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812051000 +0000" stop="20260812070000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20260812070000 +0000" stop="20260812071000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812071000 +0000" stop="20260812074000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">ФронтNews</title>
+  </programme>
+  <programme start="20260812074000 +0000" stop="20260812080000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260812080000 +0000" stop="20260812082000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Спеціальний репортаж</title>
+  </programme>
+  <programme start="20260812082000 +0000" stop="20260812083000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260812083000 +0000" stop="20260812090000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Ваші гроші</title>
+  </programme>
+  <programme start="20260812090000 +0000" stop="20260812091000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812091000 +0000" stop="20260812100000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20260812100000 +0000" stop="20260812105000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Мистецтво в тіні війни</title>
+  </programme>
+  <programme start="20260812105000 +0000" stop="20260812110000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Історичні факти</title>
+  </programme>
+  <programme start="20260812110000 +0000" stop="20260812111000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812111000 +0000" stop="20260812121500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20260812121500 +0000" stop="20260812123500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260812123500 +0000" stop="20260812130000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Винуватці війни</title>
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812133000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812133000 +0000" stop="20260812150000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20260812150000 +0000" stop="20260812151500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Антизомбі</title>
+  </programme>
+  <programme start="20260812151500 +0000" stop="20260812153000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Громадянська оборона</title>
+  </programme>
+  <programme start="20260812153000 +0000" stop="20260812154000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812154000 +0000" stop="20260812164000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20260812164000 +0000" stop="20260812170000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Pеальна історія</title>
+  </programme>
+  <programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20260812180000 +0000" stop="20260812183000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812183000 +0000" stop="20260812193000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20260812193000 +0000" stop="20260812194000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20260812194000 +0000" stop="20260812205000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Хочу жити</title>
+  </programme>
+  <programme start="20260812205000 +0000" stop="20260812210000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260812210000 +0000" stop="20260812210100 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Гімн України</title>
+  </programme>
+  <programme start="20260812210100 +0000" stop="20260812215500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260812215500 +0000" stop="20260812223000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">На світанку</title>
+  </programme>
+  <programme start="20260811201000 +0000" stop="20260811223000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260811223000 +0000" stop="20260811233000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">СвітОгляд з Євгеном Магдою</title>
+  </programme>
+  <programme start="20260811233000 +0000" stop="20260812010000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20260812010000 +0000" stop="20260812020000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Східний щит</title>
+  </programme>
+  <programme start="20260812020000 +0000" stop="20260812030000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">СвітОгляд з Євгеном Магдою</title>
+  </programme>
+  <programme start="20260812030000 +0000" stop="20260812040000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260812040000 +0000" stop="20260812041000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Pанок</title>
+  </programme>
+  <programme start="20260812041000 +0000" stop="20260812050000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20260812050000 +0000" stop="20260812051000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Pанок</title>
+  </programme>
+  <programme start="20260812051000 +0000" stop="20260812060000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20260812060000 +0000" stop="20260812060100 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хвилина мовчання</title>
+  </programme>
+  <programme start="20260812060100 +0000" stop="20260812061000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Pанок</title>
+  </programme>
+  <programme start="20260812061000 +0000" stop="20260812070000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20260812070000 +0000" stop="20260812080000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260812080000 +0000" stop="20260812090500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне. Коротко</title>
+  </programme>
+  <programme start="20260812090500 +0000" stop="20260812093000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Про головне</title>
+  </programme>
+  <programme start="20260812093000 +0000" stop="20260812100500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус</title>
+  </programme>
+  <programme start="20260812100500 +0000" stop="20260812110000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20260812110000 +0000" stop="20260812120000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20260812120000 +0000" stop="20260812130000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812140000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне. Коротко</title>
+  </programme>
+  <programme start="20260812150000 +0000" stop="20260812170000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260812170000 +0000" stop="20260812171500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">BBC News Україна</title>
+  </programme>
+  <programme start="20260812171500 +0000" stop="20260812181500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20260812181500 +0000" stop="20260812191000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20260812191000 +0000" stop="20260812201000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20260812201000 +0000" stop="20260812223000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
   </programme>
   <programme start="20260811220000 +0000" stop="20260811230000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Спецпроект.Док</title>
@@ -18978,6 +19347,249 @@
   </programme>
   <programme start="20260812212500 +0000" stop="20260812221500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Appresso alla musica (4)</title>
+  </programme>
+  <programme start="20260811220000 +0000" stop="20260811223000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260811223000 +0000" stop="20260811230000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20260811230000 +0000" stop="20260811233000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Heat</title>
+  </programme>
+  <programme start="20260811233000 +0000" stop="20260812000000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812013000 +0000" stop="20260812020000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">China 24</title>
+  </programme>
+  <programme start="20260812020000 +0000" stop="20260812023000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20260812030000 +0000" stop="20260812031500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812031500 +0000" stop="20260812033000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260812033000 +0000" stop="20260812040000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20260812040000 +0000" stop="20260812050000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Watch</title>
+  </programme>
+  <programme start="20260812050000 +0000" stop="20260812051500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812051500 +0000" stop="20260812053000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20260812060000 +0000" stop="20260812063000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812063000 +0000" stop="20260812070000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Heat</title>
+  </programme>
+  <programme start="20260812070000 +0000" stop="20260812073000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812073000 +0000" stop="20260812080000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20260812080000 +0000" stop="20260812081500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812081500 +0000" stop="20260812090000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260812090000 +0000" stop="20260812093000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812093000 +0000" stop="20260812100000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20260812100000 +0000" stop="20260812101500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812101500 +0000" stop="20260812110000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20260812110000 +0000" stop="20260812113000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Asia Today</title>
+  </programme>
+  <programme start="20260812113000 +0000" stop="20260812120000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20260812120000 +0000" stop="20260812121500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812121500 +0000" stop="20260812130000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">China 24</title>
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812133000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260812133000 +0000" stop="20260812140000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20260812140000 +0000" stop="20260812143000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812143000 +0000" stop="20260812150000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20260812150000 +0000" stop="20260812153000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812153000 +0000" stop="20260812160000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260812190000 +0000" stop="20260812193000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812193000 +0000" stop="20260812200000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20260812200000 +0000" stop="20260812203000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20260812203000 +0000" stop="20260812210000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20260812210000 +0000" stop="20260812213000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20260812213000 +0000" stop="20260812220000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20260811220000 +0000" stop="20260811230000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Tianjin Memories (5)</title>
+  </programme>
+  <programme start="20260811230000 +0000" stop="20260811233000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Back to the Sunlight (1)</title>
+  </programme>
+  <programme start="20260811233000 +0000" stop="20260812000000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Shijiahe (3)</title>
+  </programme>
+  <programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Find Me Beyond the Kitchen (3)</title>
+  </programme>
+  <programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Innovation of China 1-4/Picturing Spring: Yanchiwan</title>
+  </programme>
+  <programme start="20260812013000 +0000" stop="20260812020000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">China Bound: Wuhan</title>
+  </programme>
+  <programme start="20260812020000 +0000" stop="20260812030000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Blossom Matters (1)</title>
+  </programme>
+  <programme start="20260812030000 +0000" stop="20260812033000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Buddhism in Mount Dahongshan (1)</title>
+  </programme>
+  <programme start="20260812033000 +0000" stop="20260812040000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Art Beat II (3)</title>
+  </programme>
+  <programme start="20260812040000 +0000" stop="20260812050000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Tianjin Memories (5)</title>
+  </programme>
+  <programme start="20260812050000 +0000" stop="20260812053000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Back to the Sunlight (1)</title>
+  </programme>
+  <programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Shijiahe (3)</title>
+  </programme>
+  <programme start="20260812060000 +0000" stop="20260812070000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Find Me Beyond the Kitchen (3)</title>
+  </programme>
+  <programme start="20260812070000 +0000" stop="20260812073000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Innovation of China 1-4/Picturing Spring: Yanchiwan</title>
+  </programme>
+  <programme start="20260812073000 +0000" stop="20260812080000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">China Bound: Wuhan</title>
+  </programme>
+  <programme start="20260812080000 +0000" stop="20260812090000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Blossom Matters (1)</title>
+  </programme>
+  <programme start="20260812090000 +0000" stop="20260812093000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Buddhism in Mount Dahongshan (1)</title>
+  </programme>
+  <programme start="20260812093000 +0000" stop="20260812100000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Art Beat II (3)</title>
+  </programme>
+  <programme start="20260812100000 +0000" stop="20260812110000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Tianjin Memories (5)</title>
+  </programme>
+  <programme start="20260812110000 +0000" stop="20260812113000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Back to the Sunlight (1)</title>
+  </programme>
+  <programme start="20260812113000 +0000" stop="20260812120000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Shijiahe (3)</title>
+  </programme>
+  <programme start="20260812120000 +0000" stop="20260812130000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Find Me Beyond the Kitchen (3)</title>
+  </programme>
+  <programme start="20260812130000 +0000" stop="20260812133000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Innovation of China 1-4/Picturing Spring: Yanchiwan</title>
+  </programme>
+  <programme start="20260812133000 +0000" stop="20260812140000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">China Bound: Wuhan</title>
+  </programme>
+  <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Blossom Matters (1)</title>
+  </programme>
+  <programme start="20260812150000 +0000" stop="20260812153000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Buddhism in Mount Dahongshan (1)</title>
+  </programme>
+  <programme start="20260812153000 +0000" stop="20260812160000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Art Beat II (3)</title>
+  </programme>
+  <programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Tianjin Memories (6)</title>
+  </programme>
+  <programme start="20260812170000 +0000" stop="20260812173000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Back to the Sunlight (1)</title>
+  </programme>
+  <programme start="20260812173000 +0000" stop="20260812180000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Shijiahe (3)</title>
+  </programme>
+  <programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Find Me Beyond the Kitchen (3)</title>
+  </programme>
+  <programme start="20260812190000 +0000" stop="20260812193000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Innovation of China 1-4/Picturing Spring: Yanchiwan</title>
+  </programme>
+  <programme start="20260812193000 +0000" stop="20260812200000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">China Bound: Wuhan</title>
+  </programme>
+  <programme start="20260812200000 +0000" stop="20260812210000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Family Letters: The Wartime Memory of 400 Million People (1)</title>
+  </programme>
+  <programme start="20260812210000 +0000" stop="20260812213000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Buddhism in Mount Dahongshan (2)</title>
+  </programme>
+  <programme start="20260812213000 +0000" stop="20260812220000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Art Beat II (4)</title>
   </programme>
   <programme start="20260811200000 +0000" stop="20260812040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
