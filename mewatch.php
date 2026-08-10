@@ -541,10 +541,10 @@
     <programme start="20260809220000 +0000" stop="20260809223000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
-    <programme start="20260809223000 +0000" stop="20260809230000 +0000" channel="CNA.mewatch">
+    <programme start="20260809223000 +0000" stop="20260809225900 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 13</title>
     </programme>
-    <programme start="20260809230000 +0000" stop="20260810020000 +0000" channel="CNA.mewatch">
+    <programme start="20260809225900 +0000" stop="20260810020000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia First</title>
     </programme>
     <programme start="20260810020000 +0000" stop="20260810030000 +0000" channel="CNA.mewatch">
@@ -553,10 +553,10 @@
     <programme start="20260810030000 +0000" stop="20260810050000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
     </programme>
-    <programme start="20260810050000 +0000" stop="20260810060000 +0000" channel="CNA.mewatch">
+    <programme start="20260810050000 +0000" stop="20260810055900 +0000" channel="CNA.mewatch">
         <title>The Internet &amp; Us</title>
     </programme>
-    <programme start="20260810060000 +0000" stop="20260810080000 +0000" channel="CNA.mewatch">
+    <programme start="20260810055900 +0000" stop="20260810080000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
     </programme>
     <programme start="20260810080000 +0000" stop="20260810090000 +0000" channel="CNA.mewatch">
@@ -571,10 +571,10 @@
     <programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="CNA.mewatch">
         <title>(Live) East Asia Tonight</title>
     </programme>
-    <programme start="20260810110000 +0000" stop="20260810120000 +0000" channel="CNA.mewatch">
+    <programme start="20260810110000 +0000" stop="20260810115900 +0000" channel="CNA.mewatch">
         <title>Meet Me There S2 - EP 1</title>
     </programme>
-    <programme start="20260810120000 +0000" stop="20260810130000 +0000" channel="CNA.mewatch">
+    <programme start="20260810115900 +0000" stop="20260810130000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20260810130000 +0000" stop="20260810140000 +0000" channel="CNA.mewatch">

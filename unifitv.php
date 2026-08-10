@@ -3228,17 +3228,10 @@
     <episode-num system="xmltv_ns">0.31.</episode-num>
     <episode-num system="onscreen">S1E32</episode-num>
   </programme>
-  <programme start="20260809160500 +0000" stop="20260809163500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News Treasury 2026</title>
-    <desc lang="en">As the saying goes, "Today's news is tomorrow's history." With so much news every day, it's hard for everyone to take it all in, let alone look back at history. History is a treasure trove—if we ignore or underestimate it, we might miss out on its riches. The new program "News Treasure Hunt" guides viewers to uncover news gems from this vault. In addition to special features, live broadcasts, and series reports from the past, the show offers never-before-seen precious footage. Audiences will have the chance to revisit events such as Bruce Lee's funeral, the Bank of Po Sang robbery, the Gang of Four trial, the Queen's visit to Hong Kong, taxi strikes, the signing of the Sino-British Joint Declaration, an exclusive interview with Margaret Thatcher, Vietnamese refugees, the death of Governor Youde, Chris Patten's arrival in Hong Kong, the closure of Kai Tak Airport, the passing of Deng Xiaoping, the 1997 Handover Ceremony, the China Airlines Hong Kong crash, and SARS press conferences.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.313.</episode-num>
-    <episode-num system="onscreen">S1E314</episode-num>
-  </programme>
-  <programme start="20260809163500 +0000" stop="20260809173500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260809160500 +0000" stop="20260809173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Super Trio Returns</title>
     <desc lang="en">The "Super Trio Series" is celebrating its 25th anniversary, and "Super Trio Master" Eric Tsang announces the show's triumphant return! Led by Chin Ka-lok, Louis Yuen, and newly joined "Super Trio Masters" Mayanne Mak, Ching Ho-Chun, and Ng Ka-Yee, each episode will feature a host of hilarious guest friends, participating in numerous laugh-out-loud games to deliver endless laughs and ensure the most enjoyable Sunday night for Hong Kong audiences, continuing to spread positive energy and happiness!</desc>
-    <category lang="en">Drama Series</category>
+    <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.18.</episode-num>
     <episode-num system="onscreen">S1E19</episode-num>
   </programme>
@@ -3429,7 +3422,7 @@
   </programme>
   <programme start="20260810120500 +0000" stop="20260810123500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Like Mother, Like Daughter</title>
-    <desc lang="en">Superstar singer Wah Fong-ying (Liza Wang) attempts to repair broken relationships with her estranged adult childrenincluding her daughter Yanto (Eliza Sam) after surviving a major illness</desc>
+    <desc lang="en">Public relations queen TONG MAN-LEI (Jinny Ng) raises her Gen Z daughter TONG SUM ( Desta Lee) alone and she is a control freak. MAN-LEI's mother, TONG CHO KA-BING (Stephanie Che), has spent half of her life supporting her husband and raising their children. She is suddenly "awakened" and she returns to Hong Kong from Canada. She decides to reclaim her lost time and she moves into MAN-LEI's home. Many years ago, KA-BING and her daughter completely fell out because MAN-LEI insisted to have her daughter out of wedlock. Now, KA-BING suddenly breaks in without warning and disrupts MAN-LEI's life. MAN-LEI strives to maintain order, while TONG SUM mediates between the two, creating sparks and constant conflicts in this three-generation household. In the workplace, the wealthy heir, “Marketing Guru” YEUNG FAN (Gary Chiu), is parachuted into the company to lock horns with MAN-LEI on equal footing. MAN-LEI's career and family are facing crises at the same time.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15252,9 +15245,14 @@
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
   </channel>
-  <programme start="20260809140000 +0000" stop="20260809195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260809140000 +0000" stop="20260809193000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Gamrot vs Salkilld - Main</title>
     <desc lang="en">After debuting in Belgrade, Serbia and before decamping for Philadelphia and UFC 330, UFC plays a home game at the Meta APEX on Saturday, August 9 with a fight card headlined by lightweight standouts Mateusz “Gamer” Gamrot and Quillan Salkilld. A Top 10 staple, the Polish veteran Gamrot collected a second-round submission win over Esteban Ribovics earlier this year and holds additional victories over former champ Rafael Dos Anjos, Rafael Fiziev, and Arman Tsarukyan. Salkilld has rocketed into the rankings after graduating from Season 8 of Dana White's Contender Series, posting five straight wins capped by a first-round finish of Beneil Dariush at home in Perth back in May.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260809193000 +0000" stop="20260809195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1005: Usman vs. Edwards 2</title>
+    <desc lang="en">UFC 278 was headlined by a rematch between long reigning middleweight king Kamaru “The Nigerian Nightmare” Usman and UFC vet Leon “Rocky” Edwards. See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260809195500 +0000" stop="20260809200000 +0000" channel="unifisports1.unifitv">
@@ -15337,7 +15335,7 @@
     <desc lang="en">Remember Adrian? One of LaLiga's famed marksmen scored goals aplenty. Here are some of his best, across his time at Atletico Madrid, Villarreal, Deportivo La Coruna and more.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260810140000 +0000" stop="20260810195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260810140000 +0000" stop="20260810193000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Gamrot vs Salkilld - Main</title>
     <desc lang="en">After debuting in Belgrade, Serbia and before decamping for Philadelphia and UFC 330, UFC plays a home game at the Meta APEX on Saturday, August 9 with a fight card headlined by lightweight standouts Mateusz “Gamer” Gamrot and Quillan Salkilld. A Top 10 staple, the Polish veteran Gamrot collected a second-round submission win over Esteban Ribovics earlier this year and holds additional victories over former champ Rafael Dos Anjos, Rafael Fiziev, and Arman Tsarukyan. Salkilld has rocketed into the rankings after graduating from Season 8 of Dana White's Contender Series, posting five straight wins capped by a first-round finish of Beneil Dariush at home in Perth back in May.</desc>
     <category lang="en">Sports</category>
