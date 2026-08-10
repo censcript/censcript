@@ -2021,10 +2021,10 @@
     <title>Teleshopping</title>
 </programme>
 <programme start="20260810114000 +0000" stop="20260810122000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Classic EastEnders - Episode 36</title>
+    <title>Classic EastEnders - Episode 37</title>
 </programme>
 <programme start="20260810122000 +0000" stop="20260810130000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Classic EastEnders - Episode 37</title>
+    <title>Classic EastEnders - Episode 38</title>
 </programme>
 <programme start="20260810130000 +0000" stop="20260810133000 +0000" channel="UandDrama_HD.virginmediatv">
     <title>Classic Neighbours - Episode 31</title>
@@ -4327,11 +4327,8 @@
 <programme start="20260810044500 +0000" stop="20260810061500 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260810120000 +0000" stop="20260810121500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260810120000 +0000" stop="20260810123000 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
-</programme>
-<programme start="20260810121500 +0000" stop="20260810123000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
 </programme>
 <programme start="20260810123000 +0000" stop="20260810194500 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing - live racing</title>
@@ -4357,11 +4354,8 @@
 <programme start="20260810044500 +0000" stop="20260810061500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260810120000 +0000" stop="20260810121500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260810120000 +0000" stop="20260810123000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
-</programme>
-<programme start="20260810121500 +0000" stop="20260810123000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
 </programme>
 <programme start="20260810123000 +0000" stop="20260810194500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing - live racing</title>

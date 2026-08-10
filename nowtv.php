@@ -34,15 +34,6 @@
 <programme start="20260810160000 +0000" stop="20260810180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260810100000 +0000" stop="20260810103000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -THE IPSWICH WAY</title>
-</programme>
-<programme start="20260810103000 +0000" stop="20260810104500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 27</title>
-</programme>
-<programme start="20260810104500 +0000" stop="20260810110000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 28</title>
-</programme>
 <programme start="20260810110000 +0000" stop="20260810130000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Nottingham Forest vs Liverpool</title>
 </programme>
