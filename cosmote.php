@@ -50,14 +50,6 @@
     <title>Football: Strasbourg - FSV Mainz 05</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260810223000 +0700" stop="20260811004500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panionios - Olympiacos B (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260811004500 +0700" stop="20260811010000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260811010000 +0700" stop="20260811031500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - Kalamata (L)</title>
     <desc>Live: Ya</desc>
@@ -116,6 +108,10 @@
 </programme>
 <programme start="20260811230000 +0700" stop="20260812010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260812010000 +0700" stop="20260812030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: CF Estrela de Amadora - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260810232500 +0700" stop="20260811014500 +0700" channel="COSMOTE Sport 3 HD">
@@ -202,6 +198,10 @@
     <title>Football: Notts County - Salford City</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260812015500 +0700" stop="20260812025500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Socca Euro 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260811000000 +0700" stop="20260811020000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Fenerbahce - Besiktas</title>
     <desc>Live: Tidak</desc>
@@ -256,6 +256,10 @@
 </programme>
 <programme start="20260812000000 +0700" stop="20260812014500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Buyukcekmece Basketbol</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260812014500 +0700" stop="20260812035000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260810235500 +0700" stop="20260811013500 +0700" channel="COSMOTE Sport 5 HD">
@@ -370,8 +374,8 @@
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260810210000 +0700" stop="20260811010000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260812012000 +0700" stop="20260812025000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811010000 +0700" stop="20260811050000 +0700" channel="COSMOTE Sport 6 HD">
@@ -428,6 +432,10 @@
 </programme>
 <programme start="20260812003500 +0700" stop="20260812010500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2026 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260812010500 +0700" stop="20260812050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811000000 +0700" stop="20260811020000 +0700" channel="COSMOTE Sport 7 HD">
