@@ -2021,10 +2021,10 @@
     <title>Teleshopping</title>
 </programme>
 <programme start="20260810114000 +0000" stop="20260810122000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Classic EastEnders - Episode 37</title>
+    <title>Classic EastEnders - Episode 36</title>
 </programme>
 <programme start="20260810122000 +0000" stop="20260810130000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Classic EastEnders - Episode 38</title>
+    <title>Classic EastEnders - Episode 37</title>
 </programme>
 <programme start="20260810130000 +0000" stop="20260810133000 +0000" channel="UandDrama_HD.virginmediatv">
     <title>Classic Neighbours - Episode 31</title>
@@ -4460,7 +4460,7 @@
     <title>MotoGP - British Grand Prix: Moto2 Race</title>
 </programme>
 <programme start="20260810113000 +0000" stop="20260810150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: China Open Snooker - Round 1</title>
+    <title>Live: China Open Snooker - Round 1: Kyren Wilson v Aaron Hill</title>
 </programme>
 <programme start="20260810150000 +0000" stop="20260810153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Premier League Legends - Tony Adams</title>
@@ -5147,7 +5147,7 @@
     <title>MotoGP - British Grand Prix: Moto2 Race</title>
 </programme>
 <programme start="20260810113000 +0000" stop="20260810150000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: China Open Snooker - Round 1</title>
+    <title>Live: China Open Snooker - Round 1: Kyren Wilson v Aaron Hill</title>
 </programme>
 <programme start="20260810150000 +0000" stop="20260810153000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Premier League Legends - Tony Adams</title>
