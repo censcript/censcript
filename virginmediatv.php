@@ -236,7 +236,7 @@
     <title>An Aimsir Láithreach - Episode 222</title>
 </programme>
 <programme start="20260810000000 +0000" stop="20260810010000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Mr Selfridge - Episode 5</title>
+    <title>Mr Selfridge - Mr. Selfridge, Season 3: Episode 4</title>
 </programme>
 <programme start="20260810010000 +0000" stop="20260810020000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Victoria - Young England</title>
