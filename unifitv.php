@@ -15370,10 +15370,20 @@
     <desc lang="en">The nation's top female amateur golfers compete for one of the most prestigious titles in amateur golf, showcasing exceptional talent, determination, and the future stars of the game.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260810040000 +0000" stop="20260810070000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 U.S. Women's Amateur Championship - Semifinals</title>
-    <desc lang="en">The nation's top female amateur golfers compete for one of the most prestigious titles in amateur golf, showcasing exceptional talent, determination, and the future stars of the game.</desc>
-    <category lang="en">Golf</category>
+  <programme start="20260810040000 +0000" stop="20260810050000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Supercars: Bosch Power Tools Perth Super 440 - Highlights 1</title>
+    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260810050000 +0000" stop="20260810060000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Supercars: Bosch Power Tools Perth Super 440 - Highlights 2</title>
+    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260810060000 +0000" stop="20260810070000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 WSL Inside Pro Surfing - WSL1306 VIVO Rio Pro</title>
+    <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+    <category lang="en">Surfing</category>
   </programme>
   <programme start="20260810070000 +0000" stop="20260810100000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 U.S. Women's Amateur Championship - Final</title>
