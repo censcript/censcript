@@ -7150,6 +7150,21 @@
     <programme start="20260810183000 +0000" stop="20260810190000 +0000" channel="COLORS.starhub">
         <title>Mahadev &amp; Sons</title>
     </programme>
+    <programme start="20260810190000 +0000" stop="20260810193000 +0000" channel="COLORS.starhub">
+        <title>Dr. Aarambhi</title>
+    </programme>
+    <programme start="20260810193000 +0000" stop="20260810200000 +0000" channel="COLORS.starhub">
+        <title>Mannat Harr Khushi Paane Ki</title>
+    </programme>
+    <programme start="20260810200000 +0000" stop="20260810203000 +0000" channel="COLORS.starhub">
+        <title>Seher Hone Ko Hai</title>
+    </programme>
+    <programme start="20260810203000 +0000" stop="20260810210000 +0000" channel="COLORS.starhub">
+        <title>Tuu Juliet Jatt Di</title>
+    </programme>
+    <programme start="20260810210000 +0000" stop="20260810220000 +0000" channel="COLORS.starhub">
+        <title>Bhojpuri Bawaal</title>
+    </programme>
     <programme start="20260810220000 +0000" stop="20260810223000 +0000" channel="COLORS.starhub">
         <title>Bareilly Ki Bacchan</title>
     </programme>

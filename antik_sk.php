@@ -2696,7 +2696,7 @@
     <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
   </programme>
   <programme start="20260813070000 +0000" stop="20260813090000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">DOPOLEDNÍ STUDIO</title>
+    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
   <programme start="20260813090000 +0000" stop="20260813103000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DECHOVKA O JEDENÁCTÉ</title>
@@ -2711,7 +2711,7 @@
     <title lang="id">Vždy je něco nového!</title>
   </programme>
   <programme start="20260813150000 +0000" stop="20260813160000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Zábava na Šlágru</title>
+    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
   <programme start="20260813160000 +0000" stop="20260813175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Poklady našeho archivu</title>
@@ -4621,7 +4621,7 @@
   <programme start="20260813213500 +0000" stop="20260814015000 +0000" channel="Barrandov Krimi.webtv.sk">
     <title lang="id">Exkluziv!</title>
   </programme>
-  <programme start="20260812210000 +0000" stop="20260812225500 +0000" channel="A11.webtv.sk">
+  <programme start="20260812210500 +0000" stop="20260812225500 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobrý večer s Vrtulníkem</title>
   </programme>
   <programme start="20260812225500 +0000" stop="20260812231500 +0000" channel="A11.webtv.sk">
@@ -4660,14 +4660,17 @@
   <programme start="20260813043000 +0000" stop="20260813050000 +0000" channel="A11.webtv.sk">
     <title lang="id">Magazín z Prostějova</title>
   </programme>
-  <programme start="20260813050000 +0000" stop="20260813052000 +0000" channel="A11.webtv.sk">
+  <programme start="20260813050000 +0000" stop="20260813051500 +0000" channel="A11.webtv.sk">
     <title lang="id">Magazín ze Strakonicka</title>
   </programme>
-  <programme start="20260813052000 +0000" stop="20260813055000 +0000" channel="A11.webtv.sk">
+  <programme start="20260813051500 +0000" stop="20260813054000 +0000" channel="A11.webtv.sk">
     <title lang="id">Olomoucký magazín</title>
   </programme>
-  <programme start="20260813055000 +0000" stop="20260813060000 +0000" channel="A11.webtv.sk">
+  <programme start="20260813054000 +0000" stop="20260813055000 +0000" channel="A11.webtv.sk">
     <title lang="id">Petrovický zpravodaj</title>
+  </programme>
+  <programme start="20260813055000 +0000" stop="20260813060000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260813060000 +0000" stop="20260813081000 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobrý večer s Vrtulníkem</title>
@@ -4684,17 +4687,20 @@
   <programme start="20260813085500 +0000" stop="20260813092500 +0000" channel="A11.webtv.sk">
     <title lang="id">Zločin jak ho pamatuju</title>
   </programme>
-  <programme start="20260813092500 +0000" stop="20260813100500 +0000" channel="A11.webtv.sk">
+  <programme start="20260813092500 +0000" stop="20260813100000 +0000" channel="A11.webtv.sk">
     <title lang="id">Vaření s Davidem</title>
   </programme>
-  <programme start="20260813100500 +0000" stop="20260813103500 +0000" channel="A11.webtv.sk">
+  <programme start="20260813100000 +0000" stop="20260813102500 +0000" channel="A11.webtv.sk">
     <title lang="id">A11 rozhovor</title>
   </programme>
-  <programme start="20260813103500 +0000" stop="20260813113000 +0000" channel="A11.webtv.sk">
+  <programme start="20260813102500 +0000" stop="20260813111500 +0000" channel="A11.webtv.sk">
     <title lang="id">Mladý Svět</title>
   </programme>
-  <programme start="20260813113000 +0000" stop="20260813121500 +0000" channel="A11.webtv.sk">
+  <programme start="20260813111500 +0000" stop="20260813120500 +0000" channel="A11.webtv.sk">
     <title lang="id">Pozor vlak</title>
+  </programme>
+  <programme start="20260813120500 +0000" stop="20260813121500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260813121500 +0000" stop="20260813131000 +0000" channel="A11.webtv.sk">
     <title lang="id">Co vy na to!?</title>
@@ -4705,25 +4711,31 @@
   <programme start="20260813133000 +0000" stop="20260813140500 +0000" channel="A11.webtv.sk">
     <title lang="id">Potlesk pro...</title>
   </programme>
-  <programme start="20260813140500 +0000" stop="20260813153000 +0000" channel="A11.webtv.sk">
+  <programme start="20260813140500 +0000" stop="20260813152500 +0000" channel="A11.webtv.sk">
     <title lang="id">Hvězdná kavárna Pepy Melena</title>
   </programme>
-  <programme start="20260813153000 +0000" stop="20260813160000 +0000" channel="A11.webtv.sk">
+  <programme start="20260813152500 +0000" stop="20260813153500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260813153500 +0000" stop="20260813160000 +0000" channel="A11.webtv.sk">
     <title lang="id">A11 rozhovor</title>
   </programme>
   <programme start="20260813160000 +0000" stop="20260813181500 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobrý večer s A11</title>
   </programme>
-  <programme start="20260813181500 +0000" stop="20260813191000 +0000" channel="A11.webtv.sk">
+  <programme start="20260813181500 +0000" stop="20260813190500 +0000" channel="A11.webtv.sk">
     <title lang="id">Mladý Svět</title>
   </programme>
-  <programme start="20260813191000 +0000" stop="20260813195500 +0000" channel="A11.webtv.sk">
+  <programme start="20260813190500 +0000" stop="20260813195000 +0000" channel="A11.webtv.sk">
     <title lang="id">Vtipkování</title>
   </programme>
-  <programme start="20260813195500 +0000" stop="20260813204000 +0000" channel="A11.webtv.sk">
+  <programme start="20260813195000 +0000" stop="20260813203500 +0000" channel="A11.webtv.sk">
     <title lang="id">Pozor vlak</title>
   </programme>
-  <programme start="20260813204000 +0000" stop="20260813223500 +0000" channel="A11.webtv.sk">
+  <programme start="20260813203500 +0000" stop="20260813204500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260813204500 +0000" stop="20260813223500 +0000" channel="A11.webtv.sk">
     <title lang="id">Na návštěvě u známých</title>
   </programme>
   <programme start="20260812220000 +0000" stop="20260812230000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -4805,7 +4817,7 @@
     <title lang="id">Cargo Magazín</title>
   </programme>
   <programme start="20260813141500 +0000" stop="20260813143000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Švihák testuje</title>
+    <title lang="id">BABA SLOVAKIA 2026</title>
   </programme>
   <programme start="20260813143000 +0000" stop="20260813153000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
@@ -4828,13 +4840,10 @@
   <programme start="20260813180000 +0000" stop="20260813183000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoring</title>
   </programme>
-  <programme start="20260813183000 +0000" stop="20260813190000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Topspeed</title>
+  <programme start="20260813183000 +0000" stop="20260813203000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">RSC Anderlecht (BEL) - PAOK FC (GRE)</title>
   </programme>
-  <programme start="20260813190000 +0000" stop="20260813200000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260813200000 +0000" stop="20260813210000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260813203000 +0000" stop="20260813210000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
   <programme start="20260813210000 +0000" stop="20260813213000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -5416,8 +5425,11 @@
   <programme start="20260813160000 +0000" stop="20260813170000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Highlights z turnaje LIV Golf</title>
   </programme>
-  <programme start="20260813170000 +0000" stop="20260813220000 +0000" channel="Golf Channel.webtv.sk">
+  <programme start="20260813170000 +0000" stop="20260813190000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Danish Golf Championship</title>
+  </programme>
+  <programme start="20260813190000 +0000" stop="20260813220000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">U.S. Amateur</title>
   </programme>
   <programme start="20260812220000 +0000" stop="20260812224500 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Apokalypsa: Válka světů I (5)</title>
@@ -16846,8 +16858,11 @@
   <programme start="20260812214500 +0000" stop="20260812224000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Kabaret Letnia Pora (4)</title>
   </programme>
-  <programme start="20260812224000 +0000" stop="20260812231000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260812224000 +0000" stop="20260812230000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Zaraz wracam (122)</title>
+  </programme>
+  <programme start="20260812230000 +0000" stop="20260812231000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Słowo daje! (28)</title>
   </programme>
   <programme start="20260812231000 +0000" stop="20260812233000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Stacja Innowacja (32)</title>

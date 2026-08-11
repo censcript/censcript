@@ -166,11 +166,8 @@
 <programme start="20260811083000 +0000" stop="20260811090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Witness: Imade</title>
 </programme>
-<programme start="20260811090000 +0000" stop="20260811093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260811093000 +0000" stop="20260811100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+<programme start="20260811090000 +0000" stop="20260811100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260811100000 +0000" stop="20260811110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
