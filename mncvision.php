@@ -7342,10 +7342,10 @@
 <programme start="20260811040000 +0000" stop="20260811043000 +0000" channel="Outdoor Channel.mncvision">
     <title>Brave Wilderness S2, Ep 13</title>
 </programme>
-<programme start="20260811043000 +0000" stop="20260811050000 +0000" channel="Outdoor Channel.mncvision">
+<programme start="20260811043000 +0000" stop="20260811050100 +0000" channel="Outdoor Channel.mncvision">
     <title>Brave Wilderness S2, Ep 14</title>
 </programme>
-<programme start="20260811050000 +0000" stop="20260811060000 +0000" channel="Outdoor Channel.mncvision">
+<programme start="20260811050100 +0000" stop="20260811060000 +0000" channel="Outdoor Channel.mncvision">
     <title>Diamond River Hunters S1, Ep 6</title>
 </programme>
 <programme start="20260811060000 +0000" stop="20260811070000 +0000" channel="Outdoor Channel.mncvision">
@@ -7360,10 +7360,10 @@
 <programme start="20260811080000 +0000" stop="20260811083000 +0000" channel="Outdoor Channel.mncvision">
     <title>Billy Goes North S1, Ep 3</title>
 </programme>
-<programme start="20260811083000 +0000" stop="20260811090000 +0000" channel="Outdoor Channel.mncvision">
+<programme start="20260811083000 +0000" stop="20260811085900 +0000" channel="Outdoor Channel.mncvision">
     <title>Billy Goes North S1, Ep 4</title>
 </programme>
-<programme start="20260811090000 +0000" stop="20260811100000 +0000" channel="Outdoor Channel.mncvision">
+<programme start="20260811085900 +0000" stop="20260811100000 +0000" channel="Outdoor Channel.mncvision">
     <title>Save This Rhino S1, Ep 1</title>
 </programme>
 <programme start="20260811100000 +0000" stop="20260811110000 +0000" channel="Outdoor Channel.mncvision">
@@ -7441,10 +7441,10 @@
 <programme start="20260811040000 +0000" stop="20260811043000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Brave Wilderness S2, Ep 13</title>
 </programme>
-<programme start="20260811043000 +0000" stop="20260811050000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260811043000 +0000" stop="20260811050100 +0000" channel="Outdoor channel HD.mncvision">
     <title>Brave Wilderness S2, Ep 14</title>
 </programme>
-<programme start="20260811050000 +0000" stop="20260811060000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260811050100 +0000" stop="20260811060000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Diamond River Hunters S1, Ep 6</title>
 </programme>
 <programme start="20260811060000 +0000" stop="20260811070000 +0000" channel="Outdoor channel HD.mncvision">
@@ -7459,10 +7459,10 @@
 <programme start="20260811080000 +0000" stop="20260811083000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Billy Goes North S1, Ep 3</title>
 </programme>
-<programme start="20260811083000 +0000" stop="20260811090000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260811083000 +0000" stop="20260811085900 +0000" channel="Outdoor channel HD.mncvision">
     <title>Billy Goes North S1, Ep 4</title>
 </programme>
-<programme start="20260811090000 +0000" stop="20260811100000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260811085900 +0000" stop="20260811100000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Save This Rhino S1, Ep 1</title>
 </programme>
 <programme start="20260811100000 +0000" stop="20260811110000 +0000" channel="Outdoor channel HD.mncvision">

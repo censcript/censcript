@@ -3319,7 +3319,7 @@
   <programme start="20260813195000 +0000" stop="20260813212000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Jesse Stone: Bludiště pochybností</title>
   </programme>
-  <programme start="20260813212000 +0000" stop="20260813221600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260813212000 +0000" stop="20260813221700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">S kuchařem kolem světa</title>
   </programme>
   <programme start="20260812220000 +0000" stop="20260812221000 +0000" channel="ČT24.webtv.sk">
@@ -18010,7 +18010,7 @@
   <programme start="20260813213000 +0000" stop="20260813215800 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Japan Railway Journal</title>
   </programme>
-  <programme start="20260813215800 +0000" stop="20260814005800 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260813215800 +0000" stop="20260813220000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260812220000 +0000" stop="20260812223000 +0000" channel="Arirang TV.webtv.sk">

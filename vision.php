@@ -541,6 +541,9 @@
 <programme start="20260812114500 +0000" stop="20260812121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260810230000 +0000" stop="20260811023000 +0000" channel="ANTV.vision">
+<title>Vikram Vedha</title>
+</programme>
 <programme start="20260811023000 +0000" stop="20260811060000 +0000" channel="ANTV.vision">
 <title>Tiger Zinda Hai</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="TVRI.vision">
 <title>Jendela Negeri</title>
-</programme>
-<programme start="20260812010000 +0000" stop="20260812020000 +0000" channel="TVRI.vision">
-<title>Bersama Perempuan</title>
 </programme>
