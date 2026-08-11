@@ -143,7 +143,7 @@
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260812090000 +0000" stop="20260812110000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin &amp; Ipin (MNCTV)</title>
 </programme>
 <programme start="20260812110000 +0000" stop="20260812120000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
@@ -540,12 +540,6 @@
 </programme>
 <programme start="20260812114500 +0000" stop="20260812121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20260810230000 +0000" stop="20260811023000 +0000" channel="ANTV.vision">
-<title>Vikram Vedha</title>
-</programme>
-<programme start="20260811023000 +0000" stop="20260811060000 +0000" channel="ANTV.vision">
-<title>Tiger Zinda Hai</title>
 </programme>
 <programme start="20260811060000 +0000" stop="20260811073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1156,17 +1150,8 @@
 <programme start="20260812040000 +0000" stop="20260812040500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
 </programme>
-<programme start="20260812040500 +0000" stop="20260812043000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
-</programme>
-<programme start="20260812043000 +0000" stop="20260812050000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
-</programme>
-<programme start="20260812050000 +0000" stop="20260812053000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
-</programme>
-<programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
+<programme start="20260812040500 +0000" stop="20260812060000 +0000" channel="Metro TV.vision">
+<title>Metro Siang (L)</title>
 </programme>
 <programme start="20260812060000 +0000" stop="20260812060500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="TVRI.vision">
 <title>Jendela Negeri</title>
+</programme>
+<programme start="20260812010000 +0000" stop="20260812020000 +0000" channel="TVRI.vision">
+<title>Bersama Perempuan</title>
+</programme>
+<programme start="20260812020000 +0000" stop="20260812020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260812020300 +0000" stop="20260812023000 +0000" channel="TVRI.vision">
+<title>Sepiring Rasa</title>
+</programme>
+<programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="TVRI.vision">
+<title>Mimbar Agama</title>
+</programme>
+<programme start="20260812030000 +0000" stop="20260812030300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>

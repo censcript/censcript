@@ -5660,19 +5660,19 @@
   <channel id="hbohd.unifitv">
     <display-name>HBO</display-name>
   </channel>
-  <programme start="20260810150000 +0000" stop="20260810170000 +0000" channel="hbohd.unifitv">
+  <programme start="20260810151000 +0000" stop="20260810171000 +0000" channel="hbohd.unifitv">
     <title lang="en">Baywatch</title>
     <desc lang="en">When a dangerous crime wave hits the beach, the squad of lifeguards go on a mission to prove that you don't have to wear a badge to save the bay.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20260810170000 +0000" stop="20260810184500 +0000" channel="hbohd.unifitv">
+  <programme start="20260810171000 +0000" stop="20260810185500 +0000" channel="hbohd.unifitv">
     <title lang="en">Five Nights At Freddy's 2</title>
     <desc lang="en">After shattering the box office with a global gross of $292M and becoming Blumhouse's highest-grossing film ever, Freddy Fazbear's Pizzeria is reopening its doors. Director Emma Tammi returns to helm the eagerly anticipated sequel, promising a chilling new chapter with a bone-chilling warning: Anyone can survive five nights, this time, there will be no second chances…</desc>
     <category lang="en">Horror</category>
   </programme>
-  <programme start="20260810184500 +0000" stop="20260810204000 +0000" channel="hbohd.unifitv">
-    <title lang="en">Bugonia</title>
-    <desc lang="en">Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.</desc>
+  <programme start="20260810185500 +0000" stop="20260810204000 +0000" channel="hbohd.unifitv">
+    <title lang="en">No Strings Attached</title>
+    <desc lang="en">A guy and a girl try to keep their relationship strictly physical, but it's not long before they learn that they both want something more.</desc>
     <category lang="en">Comedy</category>
   </programme>
   <programme start="20260810204000 +0000" stop="20260810220000 +0000" channel="hbohd.unifitv">

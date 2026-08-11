@@ -2300,7 +2300,7 @@
         <title>Desafío Ruta 40 YPF Final Highlights</title>
     </programme>
     <programme start="20260811080000 +0000" stop="20260811095500 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Semifinal 1</title>
+        <title>Semifinal 1: Tsinghua University vs Shanghai Jiao Tong University</title>
     </programme>
     <programme start="20260811095500 +0000" stop="20260811120000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Juventus vs Palermo</title>
@@ -3695,7 +3695,7 @@
         <title>Weather</title>
     </programme>
     <programme start="20260810230000 +0000" stop="20260810231500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Scent of the Wind&quot;</title>
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 97</title>
     </programme>
     <programme start="20260810231500 +0000" stop="20260811004500 +0000" channel="NHK World Premium HD.starhub">
         <title>Journey to the Farthest Scenic Station: Gabonese Republic, Africa Encore (R)</title>
@@ -3728,10 +3728,10 @@
         <title>Drama Serial &quot;Hiyokko&quot; Encore Ep. 7</title>
     </programme>
     <programme start="20260811034500 +0000" stop="20260811040000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;The Scent of the Wind&quot; (R)</title>
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 97 (R)</title>
     </programme>
     <programme start="20260811040000 +0000" stop="20260811040500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News</title>
+        <title>News &amp; Weather</title>
     </programme>
     <programme start="20260811040500 +0000" stop="20260811043000 +0000" channel="NHK World Premium HD.starhub">
         <title>Festival Memory Traveler (R)</title>
@@ -6514,8 +6514,8 @@
     <programme start="20260811120000 +0000" stop="20260811130000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mubadala DC Open</title>
     </programme>
-    <programme start="20260811130000 +0000" stop="20260811160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>National Bank Open (1000) QF 1 &amp; 2</title>
+    <programme start="20260811130000 +0000" stop="20260811163000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>VICTOR Korea Masters (S300) SF Session 1</title>
     </programme>
     <programme start="20260810143600 +0000" stop="20260810164200 +0000" channel="SONY MAX.starhub">
         <title>Tara Vs Bilal</title>
