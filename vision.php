@@ -143,16 +143,22 @@
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260812090000 +0000" stop="20260812110000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260812110000 +0000" stop="20260812120000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
 </programme>
-<programme start="20260810233000 +0000" stop="20260811010000 +0000" channel="GTV.vision">
+<programme start="20260810234500 +0000" stop="20260811010000 +0000" channel="GTV.vision">
+<title>PAW Patrol</title>
+</programme>
+<programme start="20260811010000 +0000" stop="20260811020000 +0000" channel="GTV.vision">
+<title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260811020000 +0000" stop="20260811030000 +0000" channel="GTV.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20260811010000 +0000" stop="20260811033000 +0000" channel="GTV.vision">
-<title>Pada Zaman Dahulu</title>
+<programme start="20260811030000 +0000" stop="20260811033000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260811033000 +0000" stop="20260811053000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
@@ -160,59 +166,56 @@
 <programme start="20260811053000 +0000" stop="20260811080000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260811080000 +0000" stop="20260811100000 +0000" channel="GTV.vision">
-<title>Entong</title>
+<programme start="20260811080000 +0000" stop="20260811090000 +0000" channel="GTV.vision">
+<title>Jin &amp; Jun (GTV)</title>
 </programme>
-<programme start="20260811100000 +0000" stop="20260811110000 +0000" channel="GTV.vision">
+<programme start="20260811090000 +0000" stop="20260811110000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260811110000 +0000" stop="20260811123000 +0000" channel="GTV.vision">
-<title>Aksi Bangau Di Air Tenang</title>
+<programme start="20260811110000 +0000" stop="20260811120000 +0000" channel="GTV.vision">
+<title>Kisah Bangau Di Air Tenang</title>
 </programme>
-<programme start="20260811123000 +0000" stop="20260811133000 +0000" channel="GTV.vision">
+<programme start="20260811120000 +0000" stop="20260811133000 +0000" channel="GTV.vision">
 <title>Entong</title>
 </programme>
 <programme start="20260811133000 +0000" stop="20260811153000 +0000" channel="GTV.vision">
 <title>Killer Bee Invasion</title>
 </programme>
 <programme start="20260811153000 +0000" stop="20260811163000 +0000" channel="GTV.vision">
-<title>Jin &amp; Jun (GTV)</title>
+<title>The Disappearance Of Hu Zi</title>
 </programme>
 <programme start="20260811163000 +0000" stop="20260811173000 +0000" channel="GTV.vision">
 <title>Kisah Viral</title>
 </programme>
-<programme start="20260811173000 +0000" stop="20260811190000 +0000" channel="GTV.vision">
-<title>1001 Kisah</title>
+<programme start="20260811183000 +0000" stop="20260811190000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260811190000 +0000" stop="20260811210000 +0000" channel="GTV.vision">
-<title>Ragam Cerita</title>
+<title>GTV</title>
 </programme>
 <programme start="20260811210000 +0000" stop="20260811230000 +0000" channel="GTV.vision">
-<title>Petualangan Fantasi</title>
+<title>GTV</title>
 </programme>
-<programme start="20260811230000 +0000" stop="20260811233000 +0000" channel="GTV.vision">
-<title>Buletin iNews Pagi</title>
+<programme start="20260811230000 +0000" stop="20260812030000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260811233000 +0000" stop="20260812010000 +0000" channel="GTV.vision">
-<title>Kiko</title>
+<programme start="20260812030000 +0000" stop="20260812050000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260812010000 +0000" stop="20260812033000 +0000" channel="GTV.vision">
-<title>Pada Zaman Dahulu</title>
+<programme start="20260812050000 +0000" stop="20260812073000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260812033000 +0000" stop="20260812053000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<programme start="20260812073000 +0000" stop="20260812083000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260812053000 +0000" stop="20260812080000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<programme start="20260812083000 +0000" stop="20260812093000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260812080000 +0000" stop="20260812100000 +0000" channel="GTV.vision">
-<title>Entong</title>
+<programme start="20260812093000 +0000" stop="20260812110000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260812100000 +0000" stop="20260812110000 +0000" channel="GTV.vision">
-<title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260812110000 +0000" stop="20260812123000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<programme start="20260812110000 +0000" stop="20260812120000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260810234500 +0000" stop="20260811001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -537,6 +540,12 @@
 </programme>
 <programme start="20260812114500 +0000" stop="20260812121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20260810230000 +0000" stop="20260811023000 +0000" channel="ANTV.vision">
+<title>Vikram Vedha</title>
+</programme>
+<programme start="20260811023000 +0000" stop="20260811060000 +0000" channel="ANTV.vision">
+<title>Tiger Zinda Hai</title>
 </programme>
 <programme start="20260811060000 +0000" stop="20260811073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1147,8 +1156,17 @@
 <programme start="20260812040000 +0000" stop="20260812040500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
 </programme>
-<programme start="20260812040500 +0000" stop="20260812060000 +0000" channel="Metro TV.vision">
-<title>Metro Siang (L)</title>
+<programme start="20260812040500 +0000" stop="20260812043000 +0000" channel="Metro TV.vision">
+<title>Metro Siang</title>
+</programme>
+<programme start="20260812043000 +0000" stop="20260812050000 +0000" channel="Metro TV.vision">
+<title>Metro Siang</title>
+</programme>
+<programme start="20260812050000 +0000" stop="20260812053000 +0000" channel="Metro TV.vision">
+<title>Metro Siang</title>
+</programme>
+<programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="Metro TV.vision">
+<title>Metro Siang</title>
 </programme>
 <programme start="20260812060000 +0000" stop="20260812060500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
@@ -1479,22 +1497,4 @@
 </programme>
 <programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="TVRI.vision">
 <title>Jendela Negeri</title>
-</programme>
-<programme start="20260812010000 +0000" stop="20260812020000 +0000" channel="TVRI.vision">
-<title>Bersama Perempuan</title>
-</programme>
-<programme start="20260812020000 +0000" stop="20260812020300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260812020300 +0000" stop="20260812023000 +0000" channel="TVRI.vision">
-<title>Sepiring Rasa</title>
-</programme>
-<programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="TVRI.vision">
-<title>Mimbar Agama</title>
-</programme>
-<programme start="20260812030000 +0000" stop="20260812030300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260812030300 +0000" stop="20260812033000 +0000" channel="TVRI.vision">
-<title>Pesona Indonesia</title>
 </programme>
