@@ -1,7 +1,3 @@
-<programme start="20260811100500 +0700" stop="20260811120000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Real Madrid CF - FC Bayern Munchen</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260811120000 +0700" stop="20260811140000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Sporting CP - Arsenal</title>
     <desc>Live: Tidak</desc>
@@ -50,8 +46,8 @@
     <title>Football: FC Barcelona - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811110000 +0700" stop="20260811130000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Estoril - Famalicao</title>
+<programme start="20260812120000 +0700" stop="20260812140000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Paris Saint Germain - Liverpool FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811130000 +0700" stop="20260811150000 +0700" channel="COSMOTE Sport 2 HD">
@@ -106,8 +102,8 @@
     <title>Football: CF Estrela de Amadora - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811100000 +0700" stop="20260811120000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Aberdeen - Queen&#039;s Park F.C.</title>
+<programme start="20260812130000 +0700" stop="20260812150000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811120000 +0700" stop="20260811140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,8 +174,8 @@
     <title>Football: Dundee United - Arbroath</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811100000 +0700" stop="20260811114500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Valencia Basket Club</title>
+<programme start="20260812120000 +0700" stop="20260812140000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: St. Mirren - Dunfermline</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811114500 +0700" stop="20260811134500 +0700" channel="COSMOTE Sport 4 HD">
@@ -238,12 +234,12 @@
     <title>Basketball: Murcia - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811104500 +0700" stop="20260811113500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
+<programme start="20260812120000 +0700" stop="20260812134500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Anadolu Efes - Buyukcekmece Basketbol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811113500 +0700" stop="20260811123000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
+<programme start="20260812134500 +0700" stop="20260812155000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811123000 +0700" stop="20260811131500 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,8 +334,16 @@
     <title>Sports Classics: Gearing Up 2026 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811100000 +0700" stop="20260811121000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>World Athletics Continental Tour Gold 2026</title>
+<programme start="20260812120000 +0700" stop="20260812125500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2026 FIA World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260812125500 +0700" stop="20260812135500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260812135500 +0700" stop="20260812152000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811121000 +0700" stop="20260811152500 +0700" channel="COSMOTE Sport 6 HD">
@@ -402,8 +406,12 @@
     <title>Athletics: World Athletics Continental Tour Gold 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811110000 +0700" stop="20260811120000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260812123000 +0700" stop="20260812130000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>UIPM Highlights Show E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260812130000 +0700" stop="20260812141500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811120000 +0700" stop="20260811140000 +0700" channel="COSMOTE Sport 7 HD">
@@ -454,8 +462,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811100000 +0700" stop="20260811120000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260812120000 +0700" stop="20260812140000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811120000 +0700" stop="20260811140000 +0700" channel="COSMOTE Sport 8 HD">
@@ -506,8 +514,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260811100000 +0700" stop="20260811120000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260812120000 +0700" stop="20260812140000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260811120000 +0700" stop="20260811140000 +0700" channel="COSMOTE Sport 9 HD">
@@ -555,6 +563,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260812100000 +0700" stop="20260812120000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260812120000 +0700" stop="20260812140000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

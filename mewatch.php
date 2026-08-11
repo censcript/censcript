@@ -470,7 +470,7 @@
         <title>En Ulle - EP 6</title>
     </programme>
     <programme start="20260811023000 +0000" stop="20260811030000 +0000" channel="Vasantham.mewatch">
-        <title>Ketta Payyan, Sir! - EP 2</title>
+        <title>Ketta Paiyan, Sir! - EP 2</title>
     </programme>
     <programme start="20260811030000 +0000" stop="20260811033000 +0000" channel="Vasantham.mewatch">
         <title>KL to KK - EP 2</title>
@@ -503,7 +503,7 @@
         <title>(Live) Seithi</title>
     </programme>
     <programme start="20260811130000 +0000" stop="20260811133000 +0000" channel="Vasantham.mewatch">
-        <title>Ketta Payyan, Sir! - EP 3</title>
+        <title>Ketta Paiyan, Sir! - EP 3</title>
     </programme>
     <programme start="20260811133000 +0000" stop="20260811140000 +0000" channel="Vasantham.mewatch">
         <title>Tamizh - EP 1</title>
@@ -526,10 +526,10 @@
     <programme start="20260810160000 +0000" stop="20260810160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20260810160300 +0000" stop="20260810170100 +0000" channel="CNA.mewatch">
+    <programme start="20260810160300 +0000" stop="20260810170000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
     </programme>
-    <programme start="20260810170100 +0000" stop="20260810180000 +0000" channel="CNA.mewatch">
+    <programme start="20260810170000 +0000" stop="20260810180000 +0000" channel="CNA.mewatch">
         <title>Singapore Hour - EP 6</title>
     </programme>
     <programme start="20260810180000 +0000" stop="20260810183000 +0000" channel="CNA.mewatch">

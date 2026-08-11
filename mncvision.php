@@ -8095,28 +8095,25 @@
 <programme start="20260811050000 +0000" stop="20260811053000 +0000" channel="Sportstars.mncvision">
     <title>iNews Sport</title>
 </programme>
-<programme start="20260811053000 +0000" stop="20260811073000 +0000" channel="Sportstars.mncvision">
+<programme start="20260811053000 +0000" stop="20260811072500 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026: Women</title>
 </programme>
-<programme start="20260811073000 +0000" stop="20260811093000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Men</title>
+<programme start="20260811072500 +0000" stop="20260811093000 +0000" channel="Sportstars.mncvision">
+    <title>AUBL 2026 (L)</title>
 </programme>
-<programme start="20260811093000 +0000" stop="20260811100000 +0000" channel="Sportstars.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20260811100000 +0000" stop="20260811103000 +0000" channel="Sportstars.mncvision">
-    <title>Bloopers</title>
-</programme>
-<programme start="20260811103000 +0000" stop="20260811130000 +0000" channel="Sportstars.mncvision">
+<programme start="20260811093000 +0000" stop="20260811112500 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
 </programme>
-<programme start="20260811130000 +0000" stop="20260811133000 +0000" channel="Sportstars.mncvision">
+<programme start="20260811112500 +0000" stop="20260811133000 +0000" channel="Sportstars.mncvision">
+    <title>AUBL 2026: Finals (L)</title>
+</programme>
+<programme start="20260811133000 +0000" stop="20260811140000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
 </programme>
-<programme start="20260811133000 +0000" stop="20260811153000 +0000" channel="Sportstars.mncvision">
+<programme start="20260811140000 +0000" stop="20260811160000 +0000" channel="Sportstars.mncvision">
     <title>Satu Hati Untuk Garuda</title>
 </programme>
-<programme start="20260811153000 +0000" stop="20260811160000 +0000" channel="Sportstars.mncvision">
+<programme start="20260811160000 +0000" stop="20260811163000 +0000" channel="Sportstars.mncvision">
     <title>Pro Futsal League</title>
 </programme>
 <programme start="20260810170000 +0000" stop="20260810190000 +0000" channel="Sportstars 2.mncvision">
@@ -8386,28 +8383,25 @@
 <programme start="20260811050000 +0000" stop="20260811053000 +0000" channel="Sportstars HD.mncvision">
     <title>iNews Sport</title>
 </programme>
-<programme start="20260811053000 +0000" stop="20260811073000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20260811053000 +0000" stop="20260811072500 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026: Women</title>
 </programme>
-<programme start="20260811073000 +0000" stop="20260811093000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Men</title>
+<programme start="20260811072500 +0000" stop="20260811093000 +0000" channel="Sportstars HD.mncvision">
+    <title>AUBL 2026 (L)</title>
 </programme>
-<programme start="20260811093000 +0000" stop="20260811100000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20260811100000 +0000" stop="20260811103000 +0000" channel="Sportstars HD.mncvision">
-    <title>Bloopers</title>
-</programme>
-<programme start="20260811103000 +0000" stop="20260811130000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20260811093000 +0000" stop="20260811112500 +0000" channel="Sportstars HD.mncvision">
     <title>Best Of Badminton</title>
 </programme>
-<programme start="20260811130000 +0000" stop="20260811133000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20260811112500 +0000" stop="20260811133000 +0000" channel="Sportstars HD.mncvision">
+    <title>AUBL 2026: Finals (L)</title>
+</programme>
+<programme start="20260811133000 +0000" stop="20260811140000 +0000" channel="Sportstars HD.mncvision">
     <title>Sports Today</title>
 </programme>
-<programme start="20260811133000 +0000" stop="20260811153000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20260811140000 +0000" stop="20260811160000 +0000" channel="Sportstars HD.mncvision">
     <title>Satu Hati Untuk Garuda</title>
 </programme>
-<programme start="20260811153000 +0000" stop="20260811160000 +0000" channel="Sportstars HD.mncvision">
+<programme start="20260811160000 +0000" stop="20260811163000 +0000" channel="Sportstars HD.mncvision">
     <title>Pro Futsal League</title>
 </programme>
 <programme start="20260810170000 +0000" stop="20260810180000 +0000" channel="SPOTV.mncvision">
