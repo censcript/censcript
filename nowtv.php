@@ -1,6 +1,3 @@
-<programme start="20260811080000 +0000" stop="20260811100000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260811100000 +0000" stop="20260811120000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -11,9 +8,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260811160000 +0000" stop="20260811180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260811080000 +0000" stop="20260811100000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260811100000 +0000" stop="20260811120000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -28,9 +22,6 @@
 <programme start="20260811160000 +0000" stop="20260811180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260811080000 +0000" stop="20260811100000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260811100000 +0000" stop="20260811120000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -42,15 +33,6 @@
 </programme>
 <programme start="20260811160000 +0000" stop="20260811180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260811080000 +0000" stop="20260811100000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Newcastle United vs Everton</title>
-</programme>
-<programme start="20260811100000 +0000" stop="20260811103000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -A FAMILY UNITED</title>
-</programme>
-<programme start="20260811103000 +0000" stop="20260811110000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -THE IPSWICH WAY</title>
 </programme>
 <programme start="20260811110000 +0000" stop="20260811130000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Fulham vs Tottenham Hotspur</title>

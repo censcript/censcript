@@ -86,10 +86,10 @@
     <title lang="id">Počasie</title>
   </programme>
   <programme start="20260813183000 +0000" stop="20260813200000 +0000" channel="Jednotka.webtv.sk">
-    <title lang="id">Ordinácia v Eifeli I (10)</title>
+    <title lang="id">Ordinácia v Eifeli I (11)</title>
   </programme>
   <programme start="20260813200000 +0000" stop="20260813220000 +0000" channel="Jednotka.webtv.sk">
-    <title lang="id">Komisár Montalbano X (2)</title>
+    <title lang="id">Komisár Montalbano XI (1)</title>
   </programme>
   <programme start="20260812220000 +0000" stop="20260812225000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>

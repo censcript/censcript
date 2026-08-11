@@ -235,10 +235,10 @@
 <programme start="20260811000000 +0000" stop="20260811010500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Victoria - A Soldier&#039;s Daughter</title>
 </programme>
-<programme start="20260811010500 +0000" stop="20260811020300 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+<programme start="20260811010500 +0000" stop="20260811020400 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>The Serpent - Episode 1</title>
 </programme>
-<programme start="20260811020300 +0000" stop="20260811060500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+<programme start="20260811020400 +0000" stop="20260811060500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260811114000 +0000" stop="20260811124000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
@@ -2729,7 +2729,7 @@
     <title>One World With Zain Asher and Bianna Golodryga</title>
 </programme>
 <programme start="20260811164500 +0000" stop="20260811170000 +0000" channel="CNN_HD.virginmediatv">
-    <title>African Voices Playmakers</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260811170000 +0000" stop="20260811180000 +0000" channel="CNN_HD.virginmediatv">
     <title>Amanpour</title>
