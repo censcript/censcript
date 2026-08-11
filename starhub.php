@@ -7150,21 +7150,6 @@
     <programme start="20260810183000 +0000" stop="20260810190000 +0000" channel="COLORS.starhub">
         <title>Mahadev &amp; Sons</title>
     </programme>
-    <programme start="20260810190000 +0000" stop="20260810193000 +0000" channel="COLORS.starhub">
-        <title>Dr. Aarambhi</title>
-    </programme>
-    <programme start="20260810193000 +0000" stop="20260810200000 +0000" channel="COLORS.starhub">
-        <title>Mannat Harr Khushi Paane Ki</title>
-    </programme>
-    <programme start="20260810200000 +0000" stop="20260810203000 +0000" channel="COLORS.starhub">
-        <title>Seher Hone Ko Hai</title>
-    </programme>
-    <programme start="20260810203000 +0000" stop="20260810210000 +0000" channel="COLORS.starhub">
-        <title>Tuu Juliet Jatt Di</title>
-    </programme>
-    <programme start="20260810210000 +0000" stop="20260810220000 +0000" channel="COLORS.starhub">
-        <title>Bhojpuri Bawaal</title>
-    </programme>
     <programme start="20260810220000 +0000" stop="20260810223000 +0000" channel="COLORS.starhub">
         <title>Bareilly Ki Bacchan</title>
     </programme>
@@ -7198,11 +7183,8 @@
     <programme start="20260811033000 +0000" stop="20260811040000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
     </programme>
-    <programme start="20260811040000 +0000" stop="20260811043000 +0000" channel="COLORS.starhub">
-        <title>Mannat Harr Khushi Paane Ki</title>
-    </programme>
-    <programme start="20260811043000 +0000" stop="20260811050000 +0000" channel="COLORS.starhub">
-        <title>Bareilly Ki Bacchan</title>
+    <programme start="20260811040000 +0000" stop="20260811050000 +0000" channel="COLORS.starhub">
+        <title>Juhi Mui</title>
     </programme>
     <programme start="20260811050000 +0000" stop="20260811053000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
@@ -7228,11 +7210,8 @@
     <programme start="20260811083000 +0000" stop="20260811093000 +0000" channel="COLORS.starhub">
         <title>Bhojpuri Bawaal</title>
     </programme>
-    <programme start="20260811093000 +0000" stop="20260811100000 +0000" channel="COLORS.starhub">
-        <title>Dr. Aarambhi</title>
-    </programme>
-    <programme start="20260811100000 +0000" stop="20260811103000 +0000" channel="COLORS.starhub">
-        <title>Mannat Harr Khushi Paane Ki</title>
+    <programme start="20260811093000 +0000" stop="20260811103000 +0000" channel="COLORS.starhub">
+        <title>Mahadev &amp; Sons</title>
     </programme>
     <programme start="20260811103000 +0000" stop="20260811110000 +0000" channel="COLORS.starhub">
         <title>Bareilly Ki Bacchan</title>
