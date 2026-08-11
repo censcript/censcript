@@ -7535,7 +7535,7 @@
     <title>Cinta Satu Malam</title>
 </programme>
 <programme start="20260811160000 +0000" stop="20260811163000 +0000" channel="RCTI.mncvision">
-    <title>Semua Indah Karena Cinta</title>
+    <title>Cinta Dari Surga</title>
 </programme>
 <programme start="20260810171500 +0000" stop="20260810183000 +0000" channel="RCTI HD.mncvision">
     <title>Pawang Gajah Jatuh Cinta</title>
@@ -7583,7 +7583,7 @@
     <title>Cinta Satu Malam</title>
 </programme>
 <programme start="20260811160000 +0000" stop="20260811163000 +0000" channel="RCTI HD.mncvision">
-    <title>Semua Indah Karena Cinta</title>
+    <title>Cinta Dari Surga</title>
 </programme>
 <programme start="20260810182500 +0000" stop="20260810203000 +0000" channel="Rock Action.mncvision">
     <title>Gods Of Egypt</title>
