@@ -2729,7 +2729,7 @@
     <title>One World With Zain Asher and Bianna Golodryga</title>
 </programme>
 <programme start="20260811164500 +0000" stop="20260811170000 +0000" channel="CNN_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>African Voices Playmakers - Bodybuilders</title>
 </programme>
 <programme start="20260811170000 +0000" stop="20260811180000 +0000" channel="CNN_HD.virginmediatv">
     <title>Amanpour</title>
@@ -4262,13 +4262,13 @@
     <title>Tennis: WTA Hamburg Open 2026 - Final</title>
 </programme>
 <programme start="20260811150000 +0000" stop="20260811160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: WTA Prague Open 2026 - Final</title>
-</programme>
-<programme start="20260811160000 +0000" stop="20260811170000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Washington DC Open 2026 - WTA Final</title>
 </programme>
-<programme start="20260811170000 +0000" stop="20260811183000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 9</title>
+<programme start="20260811160000 +0000" stop="20260811163000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: ATP &amp; WTA Cincinnati Open 2025 - WTA Review</title>
+</programme>
+<programme start="20260811163000 +0000" stop="20260811203000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live Tennis: ATP Canadian Open 2026 - Quarter-Finals</title>
 </programme>
 <programme start="20260810220000 +0000" stop="20260811010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -5084,13 +5084,13 @@
     <title>Tennis: WTA Hamburg Open 2026 - Final</title>
 </programme>
 <programme start="20260811150000 +0000" stop="20260811160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: WTA Prague Open 2026 - Final</title>
-</programme>
-<programme start="20260811160000 +0000" stop="20260811170000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Washington DC Open 2026 - WTA Final</title>
 </programme>
-<programme start="20260811170000 +0000" stop="20260811183000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Day 9</title>
+<programme start="20260811160000 +0000" stop="20260811163000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: ATP &amp; WTA Cincinnati Open 2025 - WTA Review</title>
+</programme>
+<programme start="20260811163000 +0000" stop="20260811203000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live Tennis: ATP Canadian Open 2026 - Quarter-Finals</title>
 </programme>
 <programme start="20260811000000 +0000" stop="20260811010000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>F1 Explained</title>
@@ -7777,17 +7777,44 @@
 <programme start="20260811010000 +0000" stop="20260811050000 +0000" channel="DCTV.virginmediatv">
     <title>To Be Announced</title>
 </programme>
-<programme start="20260811050000 +0000" stop="20260811090000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260811050000 +0000" stop="20260811055900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
 </programme>
-<programme start="20260811090000 +0000" stop="20260811130000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260811055900 +0000" stop="20260811062400 +0000" channel="DCTV.virginmediatv">
+    <title>Read Write Now - Fun at the Factory</title>
 </programme>
-<programme start="20260811130000 +0000" stop="20260811170000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260811120000 +0000" stop="20260811125900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
 </programme>
-<programme start="20260811170000 +0000" stop="20260811210000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260811125900 +0000" stop="20260811134400 +0000" channel="DCTV.virginmediatv">
+    <title>The Battle of Clontarf, A 1000 Years On</title>
+</programme>
+<programme start="20260811134400 +0000" stop="20260811140800 +0000" channel="DCTV.virginmediatv">
+    <title>Soileir - Episode 7</title>
+</programme>
+<programme start="20260811140800 +0000" stop="20260811141800 +0000" channel="DCTV.virginmediatv">
+    <title>The Last of Us - Episode 7</title>
+</programme>
+<programme start="20260811141800 +0000" stop="20260811150300 +0000" channel="DCTV.virginmediatv">
+    <title>Engage TV - Episode 5</title>
+</programme>
+<programme start="20260811150300 +0000" stop="20260811151300 +0000" channel="DCTV.virginmediatv">
+    <title>ABC of ISL - Episode 7</title>
+</programme>
+<programme start="20260811151300 +0000" stop="20260811154300 +0000" channel="DCTV.virginmediatv">
+    <title>Sign Up! - Episode 7</title>
+</programme>
+<programme start="20260811154300 +0000" stop="20260811155900 +0000" channel="DCTV.virginmediatv">
+    <title>Republican Congress - Episode 2</title>
+</programme>
+<programme start="20260811155900 +0000" stop="20260811170000 +0000" channel="DCTV.virginmediatv">
+    <title>DCTV - Supporting Irish Music</title>
+</programme>
+<programme start="20260811170000 +0000" stop="20260811175900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260811175900 +0000" stop="20260811181400 +0000" channel="DCTV.virginmediatv">
+    <title>Rade: Recording Is Winning</title>
 </programme>
 <programme start="20260810210000 +0000" stop="20260811010000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
