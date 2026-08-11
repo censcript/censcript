@@ -54,10 +54,6 @@
     <title>Football: Paris Saint Germain - Aston Villa (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260812010000 +0700" stop="20260812030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: CF Estrela de Amadora - Sporting CP</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260812030000 +0700" stop="20260812050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Santa Clara - Nacional</title>
     <desc>Live: Tidak</desc>
@@ -114,8 +110,8 @@
     <title>Football: Panionios - Kalamata (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260812015500 +0700" stop="20260812025500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Socca Euro 2026</title>
+<programme start="20260813033000 +0700" stop="20260813053000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: CF Estrela de Amadora - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260812025500 +0700" stop="20260812040000 +0700" channel="COSMOTE Sport 3 HD">
@@ -186,6 +182,14 @@
     <title>Football: Rangers FC - Hibernian</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260813033500 +0700" stop="20260813035500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260813035500 +0700" stop="20260813055500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Queen of the South FC - Aberdeen</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260812014500 +0700" stop="20260812035000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - Tofas</title>
     <desc>Live: Tidak</desc>
@@ -248,10 +252,6 @@
 </programme>
 <programme start="20260813020000 +0700" stop="20260813041000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Alba Berlin</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260812012000 +0700" stop="20260812025000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260812025000 +0700" stop="20260812043000 +0700" channel="COSMOTE Sport 5 HD">
@@ -355,6 +355,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260813021500 +0700" stop="20260813032000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260813032000 +0700" stop="20260813042500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

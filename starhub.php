@@ -5014,16 +5014,16 @@
     <programme start="20260811221000 +0000" stop="20260812012000 +0000" channel="SPOTV.starhub">
         <title>Women&#039;s and Men&#039;s Race</title>
     </programme>
-    <programme start="20260812013000 +0000" stop="20260812023000 +0000" channel="SPOTV.starhub">
+    <programme start="20260812012000 +0000" stop="20260812022000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260812023000 +0000" stop="20260812053000 +0000" channel="SPOTV.starhub">
+    <programme start="20260812022000 +0000" stop="20260812052500 +0000" channel="SPOTV.starhub">
         <title>Quarterfinals</title>
     </programme>
-    <programme start="20260812053000 +0000" stop="20260812083000 +0000" channel="SPOTV.starhub">
+    <programme start="20260812052500 +0000" stop="20260812083500 +0000" channel="SPOTV.starhub">
         <title>Final</title>
     </programme>
-    <programme start="20260812083000 +0000" stop="20260812130000 +0000" channel="SPOTV.starhub">
+    <programme start="20260812083500 +0000" stop="20260812130000 +0000" channel="SPOTV.starhub">
         <title>Race 2</title>
     </programme>
     <programme start="20260812130000 +0000" stop="20260812180000 +0000" channel="SPOTV.starhub">

@@ -844,16 +844,16 @@
   <programme start="20260812230500 +0000" stop="20260812232000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
-  <programme start="20260812232000 +0000" stop="20260813000000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260812232000 +0000" stop="20260812235500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Susedia (32)</title>
   </programme>
-  <programme start="20260813000000 +0000" stop="20260813005000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260812235500 +0000" stop="20260813004500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná XIII (5)</title>
   </programme>
-  <programme start="20260813005000 +0000" stop="20260813022500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260813004500 +0000" stop="20260813023000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Smiechoty (36)</title>
   </programme>
-  <programme start="20260813022500 +0000" stop="20260813040000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260813023000 +0000" stop="20260813040000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Zig a Sharko</title>
   </programme>
   <programme start="20260813040000 +0000" stop="20260813045500 +0000" channel="DajTo.webtv.sk">
