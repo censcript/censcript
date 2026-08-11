@@ -4928,7 +4928,7 @@
     <title lang="id">Piok Cars</title>
   </programme>
   <programme start="20260813191500 +0000" stop="20260813193000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
+    <title lang="id">BABA SLOVAKIA 2026</title>
   </programme>
   <programme start="20260813193000 +0000" stop="20260813200000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">AutoGRATIS</title>
