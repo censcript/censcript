@@ -5008,10 +5008,10 @@
     <programme start="20260811130000 +0000" stop="20260811180000 +0000" channel="SPOTV.starhub">
         <title>Round 1</title>
     </programme>
-    <programme start="20260811180000 +0000" stop="20260811220000 +0000" channel="SPOTV.starhub">
+    <programme start="20260811180000 +0000" stop="20260811221000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20260811220000 +0000" stop="20260812013000 +0000" channel="SPOTV.starhub">
+    <programme start="20260811221000 +0000" stop="20260812012000 +0000" channel="SPOTV.starhub">
         <title>Women&#039;s and Men&#039;s Race</title>
     </programme>
     <programme start="20260812013000 +0000" stop="20260812023000 +0000" channel="SPOTV.starhub">

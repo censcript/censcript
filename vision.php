@@ -553,12 +553,6 @@
 <programme start="20260811140000 +0000" stop="20260811160000 +0000" channel="ANTV.vision">
 <title>Mangkujiwo</title>
 </programme>
-<programme start="20260811160000 +0000" stop="20260811180000 +0000" channel="ANTV.vision">
-<title>Penantang Dari Gunung Naga</title>
-</programme>
-<programme start="20260811180000 +0000" stop="20260811190000 +0000" channel="ANTV.vision">
-<title>I Love Maria</title>
-</programme>
 <programme start="20260811190000 +0000" stop="20260811203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260812033000 +0000" stop="20260812040000 +0000" channel="TVRI.vision">
 <title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20260812040000 +0000" stop="20260812040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260812040300 +0000" stop="20260812050000 +0000" channel="TVRI.vision">
+<title>Seblak Show</title>
 </programme>

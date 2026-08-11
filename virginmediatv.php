@@ -4453,16 +4453,10 @@
 <programme start="20260811053000 +0000" stop="20260811060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Roll The Tape - Noel Gallagher</title>
 </programme>
-<programme start="20260811113000 +0000" stop="20260811150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260811113000 +0000" stop="20260811163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: China Open Snooker - Round 1: Zhao Xintong v Zhang Anda</title>
 </programme>
-<programme start="20260811150000 +0000" stop="20260811153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League Legends - Sol Campbell</title>
-</programme>
-<programme start="20260811153000 +0000" stop="20260811160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Roll The Tape - Noel Gallagher</title>
-</programme>
-<programme start="20260811160000 +0000" stop="20260811170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260811163000 +0000" stop="20260811170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260811170000 +0000" stop="20260811173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4534,8 +4528,8 @@
 <programme start="20260811053000 +0000" stop="20260811060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Premier League Netbusters - Episode 2</title>
 </programme>
-<programme start="20260811120000 +0000" stop="20260811123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Premier League Netbusters - Episode 16</title>
+<programme start="20260811093000 +0000" stop="20260811123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+    <title>Live: European Athletics Championships - Day 2</title>
 </programme>
 <programme start="20260811123000 +0000" stop="20260811130000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Premier League Netbusters - Episode 17</title>
@@ -5155,16 +5149,10 @@
 <programme start="20260811053000 +0000" stop="20260811060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Roll The Tape - Noel Gallagher</title>
 </programme>
-<programme start="20260811113000 +0000" stop="20260811150000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260811113000 +0000" stop="20260811163000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: China Open Snooker - Round 1: Zhao Xintong v Zhang Anda</title>
 </programme>
-<programme start="20260811150000 +0000" stop="20260811153000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League Legends - Sol Campbell</title>
-</programme>
-<programme start="20260811153000 +0000" stop="20260811160000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Roll The Tape - Noel Gallagher</title>
-</programme>
-<programme start="20260811160000 +0000" stop="20260811170000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260811163000 +0000" stop="20260811170000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260811170000 +0000" stop="20260811173000 +0000" channel="TNT_Sports_1.virginmediatv">
@@ -5236,8 +5224,8 @@
 <programme start="20260811053000 +0000" stop="20260811060000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Premier League Netbusters - Episode 2</title>
 </programme>
-<programme start="20260811120000 +0000" stop="20260811123000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Premier League Netbusters - Episode 16</title>
+<programme start="20260811093000 +0000" stop="20260811123000 +0000" channel="TNT_Sports_3.virginmediatv">
+    <title>Live: European Athletics Championships - Day 2</title>
 </programme>
 <programme start="20260811123000 +0000" stop="20260811130000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Premier League Netbusters - Episode 17</title>
