@@ -139,10 +139,10 @@
 <programme start="20260811232000 +0000" stop="20260812001000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>The Real Housewives of New Jersey - Teresa Gets Married</title>
 </programme>
-<programme start="20260812001000 +0000" stop="20260812005600 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260812001000 +0000" stop="20260812005800 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Monday With Gavan Reilly - Episode 16</title>
 </programme>
-<programme start="20260812005600 +0000" stop="20260812061000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260812005800 +0000" stop="20260812061000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260812120000 +0000" stop="20260812123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -2093,7 +2093,7 @@
     <title>The Repair Shop - Episode 5</title>
 </programme>
 <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="Really.virginmediatv">
-    <title>Salvage Hunters - Episode 10</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="Really.virginmediatv">
     <title>Salvage Hunters - Vintage Retro</title>
