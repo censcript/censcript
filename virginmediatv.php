@@ -4334,10 +4334,13 @@
     <title>The United Archives - 2022/23: Leeds United v Manchester United</title>
 </programme>
 <programme start="20260812150000 +0000" stop="20260812153000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Highlights - Pre-Season Friendly: Manchester United v Wrexham</title>
-</programme>
-<programme start="20260812153000 +0000" stop="20260812160000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Pre-Season Friendly: Rosenborg v Manchester United</title>
+</programme>
+<programme start="20260812153000 +0000" stop="20260812154500 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260812154500 +0000" stop="20260812160000 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - Summer Sessions</title>
 </programme>
 <programme start="20260812160000 +0000" stop="20260812163000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Pre-Season Friendly: Snapdragon Cup - Manchester United v Atlético Madrid</title>
@@ -4345,11 +4348,8 @@
 <programme start="20260812163000 +0000" stop="20260812170000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Tour 2026: Manchester United v Paris Saint-Germain</title>
 </programme>
-<programme start="20260812170000 +0000" stop="20260812171500 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Summer Sessions</title>
-</programme>
-<programme start="20260812171500 +0000" stop="20260812173000 +0000" channel="MUTV.virginmediatv">
-    <title>Top 20 Goals - Pre-Season Goals</title>
+<programme start="20260812170000 +0000" stop="20260812173000 +0000" channel="MUTV.virginmediatv">
+    <title>Access All Areas - Paris Saint Germain</title>
 </programme>
 <programme start="20260812173000 +0000" stop="20260812183000 +0000" channel="MUTV.virginmediatv">
     <title>Live: Pre-Season Friendly Football - Manchester United v Leeds United</title>

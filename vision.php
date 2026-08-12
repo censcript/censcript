@@ -1,7 +1,7 @@
-<programme start="20260811224500 +0000" stop="20260812010000 +0000" channel="RCTI.vision">
+<programme start="20260811224500 +0000" stop="20260812004500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260812010000 +0000" stop="20260812024500 +0000" channel="RCTI.vision">
+<programme start="20260812004500 +0000" stop="20260812024500 +0000" channel="RCTI.vision">
 <title>Terindah Cinta Yasmin</title>
 </programme>
 <programme start="20260812024500 +0000" stop="20260812040000 +0000" channel="RCTI.vision">
@@ -29,7 +29,7 @@
 <title>He Married Me For Revenge</title>
 </programme>
 <programme start="20260812160000 +0000" stop="20260812171500 +0000" channel="RCTI.vision">
-<title>Cinta Dari Surga</title>
+<title>Semua Indah Karena Cinta</title>
 </programme>
 <programme start="20260812171500 +0000" stop="20260812183000 +0000" channel="RCTI.vision">
 <title>Pacar Kontrakan</title>
@@ -46,10 +46,10 @@
 <programme start="20260812221500 +0000" stop="20260812224500 +0000" channel="RCTI.vision">
 <title>Seputar iNews</title>
 </programme>
-<programme start="20260812224500 +0000" stop="20260813010000 +0000" channel="RCTI.vision">
+<programme start="20260812224500 +0000" stop="20260813004500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260813010000 +0000" stop="20260813024500 +0000" channel="RCTI.vision">
+<programme start="20260813004500 +0000" stop="20260813024500 +0000" channel="RCTI.vision">
 <title>Terindah Cinta Yasmin</title>
 </programme>
 <programme start="20260813024500 +0000" stop="20260813040000 +0000" channel="RCTI.vision">
@@ -164,7 +164,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260812110000 +0000" stop="20260812123000 +0000" channel="GTV.vision">
-<title>Si Kancil Dan Sumur Tua</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20260812123000 +0000" stop="20260812133000 +0000" channel="GTV.vision">
 <title>Entong</title>
@@ -193,23 +193,23 @@
 <programme start="20260812233000 +0000" stop="20260813010000 +0000" channel="GTV.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20260813010000 +0000" stop="20260813040000 +0000" channel="GTV.vision">
+<programme start="20260813010000 +0000" stop="20260813033000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260813040000 +0000" stop="20260813053000 +0000" channel="GTV.vision">
+<programme start="20260813033000 +0000" stop="20260813053000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260813053000 +0000" stop="20260813073000 +0000" channel="GTV.vision">
+<programme start="20260813053000 +0000" stop="20260813080000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260813073000 +0000" stop="20260813100000 +0000" channel="GTV.vision">
+<programme start="20260813080000 +0000" stop="20260813100000 +0000" channel="GTV.vision">
 <title>Entong</title>
 </programme>
 <programme start="20260813100000 +0000" stop="20260813110000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260813110000 +0000" stop="20260813123000 +0000" channel="GTV.vision">
-<title>Raja Hutan Yang Baik Hati</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20260811234500 +0000" stop="20260812001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -547,9 +547,6 @@
 <programme start="20260813114500 +0000" stop="20260813121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260811230000 +0000" stop="20260812023000 +0000" channel="ANTV.vision">
-<title>Hum Hain Rahi Pyar Ke</title>
-</programme>
 <programme start="20260812023000 +0000" stop="20260812060000 +0000" channel="ANTV.vision">
 <title>Pathaan</title>
 </programme>
@@ -572,7 +569,7 @@
 <title>Mangkujiwo 2</title>
 </programme>
 <programme start="20260812160000 +0000" stop="20260812180000 +0000" channel="ANTV.vision">
-<title>Sengatan Kobra</title>
+<title>Pemburu Nyawa</title>
 </programme>
 <programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="ANTV.vision">
 <title>The Spy Dad</title>
@@ -595,11 +592,14 @@
 <programme start="20260813060000 +0000" stop="20260813073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260813073000 +0000" stop="20260813093000 +0000" channel="ANTV.vision">
+<programme start="20260813073000 +0000" stop="20260813090000 +0000" channel="ANTV.vision">
 <title>Sayali</title>
 </programme>
-<programme start="20260813093000 +0000" stop="20260813113000 +0000" channel="ANTV.vision">
+<programme start="20260813090000 +0000" stop="20260813103000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
+</programme>
+<programme start="20260813103000 +0000" stop="20260813113000 +0000" channel="ANTV.vision">
+<title>Teri Meri Doriyaann</title>
 </programme>
 <programme start="20260813113000 +0000" stop="20260813140000 +0000" channel="ANTV.vision">
 <title>Satria Bergitar</title>
