@@ -4337,7 +4337,7 @@
     <title>The Match Highlights - Pre-Season Friendly: Rosenborg v Manchester United</title>
 </programme>
 <programme start="20260812153000 +0000" stop="20260812154500 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Player Arrivals</title>
 </programme>
 <programme start="20260812154500 +0000" stop="20260812160000 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - Summer Sessions</title>
