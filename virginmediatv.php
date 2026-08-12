@@ -3989,7 +3989,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260812043000 +0000" stop="20260812044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC T20 World Cup - 2016: India v Australia</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260812044500 +0000" stop="20260812050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s: Manchester Super Giants v Trent Rockets</title>
@@ -4811,7 +4811,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260812043000 +0000" stop="20260812044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC T20 World Cup - 2016: India v Australia</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260812044500 +0000" stop="20260812050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s: Manchester Super Giants v Trent Rockets</title>

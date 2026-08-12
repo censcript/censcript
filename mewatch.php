@@ -526,10 +526,10 @@
     <programme start="20260812150000 +0000" stop="20260812153000 +0000" channel="Vasantham.mewatch">
         <title>Mellisai Hits S3 - EP 21</title>
     </programme>
-    <programme start="20260812153000 +0000" stop="20260812153900 +0000" channel="Vasantham.mewatch">
+    <programme start="20260812153000 +0000" stop="20260812160000 +0000" channel="Vasantham.mewatch">
         <title>Seithi</title>
     </programme>
-    <programme start="20260812153900 +0000" stop="20260813010000 +0000" channel="Vasantham.mewatch">
+    <programme start="20260812160000 +0000" stop="20260813010000 +0000" channel="Vasantham.mewatch">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260811160000 +0000" stop="20260811160300 +0000" channel="CNA.mewatch">

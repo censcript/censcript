@@ -1319,7 +1319,7 @@
     <title>HSBC SVNS Series 2026</title>
 </programme>
 <programme start="20260812165300 +0000" stop="20260811172300 +0000" channel="beIN Sports 2.mncvision">
-    <title>WAFCON 2026: SF1 (L)</title>
+    <title>WAFCON 2026: ALG Vs MWI (L)</title>
 </programme>
 <programme start="20260811171500 +0000" stop="20260811184500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Buenos Aires</title>
@@ -1403,7 +1403,7 @@
     <title>HSBC SVNS Series 2026</title>
 </programme>
 <programme start="20260812165300 +0000" stop="20260811172300 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>WAFCON 2026: SF1 (L)</title>
+    <title>WAFCON 2026: ALG Vs MWI (L)</title>
 </programme>
 <programme start="20260811180000 +0000" stop="20260811200000 +0000" channel="beIN Sports 3.mncvision">
     <title>CAF Champions: ASF Vs MLS</title>
