@@ -7435,10 +7435,10 @@
     <programme start="20260811230000 +0000" stop="20260811232000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights GWS Giants v Gold Coast</title>
     </programme>
-    <programme start="20260811232000 +0000" stop="20260812011000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260811233000 +0000" stop="20260812011500 +0000" channel="Premier Sports.starhub">
         <title>Nations Championship 2026 Japan v France</title>
     </programme>
-    <programme start="20260812011000 +0000" stop="20260812021000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260812011500 +0000" stop="20260812021000 +0000" channel="Premier Sports.starhub">
         <title>NRL Try Time</title>
     </programme>
     <programme start="20260812021000 +0000" stop="20260812040000 +0000" channel="Premier Sports.starhub">
@@ -7481,7 +7481,7 @@
         <title>NRL Try Time</title>
     </programme>
     <programme start="20260812105000 +0000" stop="20260812124000 +0000" channel="Premier Sports.starhub">
-        <title>SANZAAR International Tour Serie Argentina v South Africa</title>
+        <title>Nations Championship 2026 South Africa v Scotland</title>
     </programme>
     <programme start="20260812124000 +0000" stop="20260812143000 +0000" channel="Premier Sports.starhub">
         <title>Nations Championship 2026 Australia v Italy</title>

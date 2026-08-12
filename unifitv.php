@@ -15210,32 +15210,32 @@
     <desc lang="en">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260811180000 +0000" stop="20260811220000 +0000" channel="spotv.unifitv">
+  <programme start="20260811180000 +0000" stop="20260811221000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 LET: PIF London Championship - Day 2</title>
     <desc lang="en">The stars of the Ladies European Tour gather in England to compete for the PIF London Championship title, delivering elite golf and championship drama.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260811220000 +0000" stop="20260812013000 +0000" channel="spotv.unifitv">
+  <programme start="20260811221000 +0000" stop="20260812012000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WTCS, London - Women's and Men's Race</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
     <category lang="en">Triathlon</category>
   </programme>
-  <programme start="20260812013000 +0000" stop="20260812023000 +0000" channel="spotv.unifitv">
+  <programme start="20260812012000 +0000" stop="20260812022000 +0000" channel="spotv.unifitv">
     <title lang="en">World Supercross 2026: Rd 1 Canadian GP - Highlights</title>
     <desc lang="en">World Supercross brings the sport's top riders together to battle across a global championship, delivering high-speed racing, spectacular jumps, and intense stadium competition.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260812023000 +0000" stop="20260812053000 +0000" channel="spotv.unifitv">
+  <programme start="20260812022000 +0000" stop="20260812052500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 U.S. Women's Amateur Championship - Quarterfinals</title>
     <desc lang="en">The nation's top female amateur golfers compete for one of the most prestigious titles in amateur golf, showcasing exceptional talent, determination, and the future stars of the game.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260812053000 +0000" stop="20260812083000 +0000" channel="spotv.unifitv">
+  <programme start="20260812052500 +0000" stop="20260812083500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 U.S. Women's Amateur Championship - Final</title>
     <desc lang="en">The nation's top female amateur golfers compete for one of the most prestigious titles in amateur golf, showcasing exceptional talent, determination, and the future stars of the game.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260812083000 +0000" stop="20260812130000 +0000" channel="spotv.unifitv">
+  <programme start="20260812083500 +0000" stop="20260812130000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 FIM ARRC Round 4: Mandalika, Indonesia - Race 2</title>
     <desc lang="en">Asia's top riders battle across premier circuits in the FIM Asia Road Racing Championship, delivering high-speed action, fierce rivalries, and thrilling two-wheel competition.</desc>
     <category lang="en">Motorsports</category>
