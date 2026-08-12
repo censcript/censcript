@@ -374,7 +374,7 @@
     <title>Joins BBC News</title>
 </programme>
 <programme start="20260812003000 +0000" stop="20260812010000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Tech Now</title>
+    <title>Tech Now - Race for the Ultimate Supercomputer</title>
 </programme>
 <programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Newsday</title>
@@ -2093,7 +2093,7 @@
     <title>The Repair Shop - Episode 5</title>
 </programme>
 <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="Really.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Salvage Hunters - Preston Court</title>
 </programme>
 <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="Really.virginmediatv">
     <title>Salvage Hunters - Vintage Retro</title>
@@ -2387,7 +2387,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260812003000 +0000" stop="20260812010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Tech Now</title>
+    <title>Tech Now - Race for the Ultimate Supercomputer</title>
 </programme>
 <programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Newsday</title>
@@ -2747,7 +2747,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260812003000 +0000" stop="20260812010000 +0000" channel="BBC_News.virginmediatv">
-    <title>Tech Now</title>
+    <title>Tech Now - Race for the Ultimate Supercomputer</title>
 </programme>
 <programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="BBC_News.virginmediatv">
     <title>Newsday</title>
@@ -3989,7 +3989,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260812043000 +0000" stop="20260812044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>ICC T20 World Cup - 2016: India v Bangladesh</title>
 </programme>
 <programme start="20260812044500 +0000" stop="20260812050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s: Manchester Super Giants v Trent Rockets</title>
@@ -4216,8 +4216,11 @@
 <programme start="20260812153000 +0000" stop="20260812163000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
 </programme>
-<programme start="20260812163000 +0000" stop="20260812180000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260812163000 +0000" stop="20260812174500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Quarter-Finals</title>
+</programme>
+<programme start="20260812174500 +0000" stop="20260812181500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>ATP Tour: This Week - Episode 85</title>
 </programme>
 <programme start="20260811220000 +0000" stop="20260812010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -4811,7 +4814,7 @@
     <title>ICC T20 World Cup - 2010: England v Australia</title>
 </programme>
 <programme start="20260812043000 +0000" stop="20260812044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>To Be Announced</title>
+    <title>ICC T20 World Cup - 2016: India v Bangladesh</title>
 </programme>
 <programme start="20260812044500 +0000" stop="20260812050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s: Manchester Super Giants v Trent Rockets</title>
@@ -5038,8 +5041,11 @@
 <programme start="20260812153000 +0000" stop="20260812163000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
 </programme>
-<programme start="20260812163000 +0000" stop="20260812180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260812163000 +0000" stop="20260812174500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - ATP &amp; WTA Canadian Open: Quarter-Finals</title>
+</programme>
+<programme start="20260812174500 +0000" stop="20260812181500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>ATP Tour: This Week - Episode 85</title>
 </programme>
 <programme start="20260812000000 +0000" stop="20260812002500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best Of Australia 2026</title>

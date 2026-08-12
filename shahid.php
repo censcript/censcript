@@ -6139,9 +6139,6 @@
     <programme start="20260813235511 +0000" stop="20260813235959 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 7 Episode 4</title>
     </programme>
-    <programme start="20260812000000 +0000" stop="20260813235959 +0000" channel="946948.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260812000000 +0000" stop="20260812003441 +0000" channel="988045.shahid">
         <title>Hadeeth Al Maraya Episode 13</title>
     </programme>
@@ -6310,7 +6307,7 @@
     <programme start="20260813233806 +0000" stop="20260813235959 +0000" channel="988045.shahid">
         <title>Hakaya Season 3 Episode 9</title>
     </programme>
-    <programme start="20260812000000 +0000" stop="20260813235959 +0000" channel="951783.shahid">
+    <programme start="20260812000000 +0000" stop="20260813235959 +0000" channel="946948.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260812000000 +0000" stop="20260812003742 +0000" channel="992538.shahid">
@@ -6555,6 +6552,9 @@
     </programme>
     <programme start="20260813233231 +0000" stop="20260813235959 +0000" channel="992538.shahid">
         <title>El Le&#039;ba Season 1 Episode 21</title>
+    </programme>
+    <programme start="20260812000000 +0000" stop="20260813235959 +0000" channel="951783.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260812000000 +0000" stop="20260813235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
