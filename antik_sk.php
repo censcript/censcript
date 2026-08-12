@@ -8692,16 +8692,16 @@
   <programme start="20260814214500 +0000" stop="20260814231500 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Rekviem</title>
   </programme>
-  <programme start="20260813214000 +0000" stop="20260813232000 +0000" channel="AMC.webtv.sk">
+  <programme start="20260813214000 +0000" stop="20260813231500 +0000" channel="AMC.webtv.sk">
     <title lang="id">Přepadení v Pacifiku</title>
   </programme>
-  <programme start="20260813232000 +0000" stop="20260814011000 +0000" channel="AMC.webtv.sk">
+  <programme start="20260813231500 +0000" stop="20260814010500 +0000" channel="AMC.webtv.sk">
     <title lang="id">Vlak do Pusanu</title>
   </programme>
-  <programme start="20260814011000 +0000" stop="20260814025000 +0000" channel="AMC.webtv.sk">
+  <programme start="20260814010500 +0000" stop="20260814024500 +0000" channel="AMC.webtv.sk">
     <title lang="id">Sexbomba od vedle</title>
   </programme>
-  <programme start="20260814025000 +0000" stop="20260814031500 +0000" channel="AMC.webtv.sk">
+  <programme start="20260814024500 +0000" stop="20260814031500 +0000" channel="AMC.webtv.sk">
     <title lang="id">Close Up I (1)</title>
   </programme>
   <programme start="20260814031500 +0000" stop="20260814032500 +0000" channel="AMC.webtv.sk">
@@ -16570,43 +16570,49 @@
   <programme start="20260814214500 +0000" stop="20260814220000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1890)</title>
   </programme>
-  <programme start="20260813213300 +0000" stop="20260813220300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260813213300 +0000" stop="20260813220200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">I Choose Poland (11)</title>
   </programme>
-  <programme start="20260813220300 +0000" stop="20260813223100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260813220200 +0000" stop="20260813223000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (774)</title>
   </programme>
-  <programme start="20260813223100 +0000" stop="20260813224500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260813223000 +0000" stop="20260813224000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260813224500 +0000" stop="20260813232000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260813224000 +0000" stop="20260813231500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260813232000 +0000" stop="20260813235000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260813231500 +0000" stop="20260813233800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (828)</title>
   </programme>
-  <programme start="20260813235000 +0000" stop="20260814000500 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">112. Magazyn kryminalny</title>
-  </programme>
-  <programme start="20260814000500 +0000" stop="20260814002300 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Rewers</title>
-  </programme>
-  <programme start="20260814002300 +0000" stop="20260814003800 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Wydarzy sie jutro</title>
-  </programme>
-  <programme start="20260814003800 +0000" stop="20260814004800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260813233800 +0000" stop="20260813234500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260814004800 +0000" stop="20260814012300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260813234500 +0000" stop="20260814000000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">112. Magazyn kryminalny</title>
+  </programme>
+  <programme start="20260814000000 +0000" stop="20260814001800 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Rewers</title>
+  </programme>
+  <programme start="20260814001800 +0000" stop="20260814003300 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Wydarzy sie jutro</title>
+  </programme>
+  <programme start="20260814003300 +0000" stop="20260814004500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260814004500 +0000" stop="20260814012000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia I (8)</title>
   </programme>
-  <programme start="20260814012300 +0000" stop="20260814015600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260814012000 +0000" stop="20260814015000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polskie Parki Narodowe (12)</title>
   </programme>
-  <programme start="20260814015600 +0000" stop="20260814024100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260814015000 +0000" stop="20260814015500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260814015500 +0000" stop="20260814023900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (488)</title>
   </programme>
-  <programme start="20260814024100 +0000" stop="20260814034500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260814023900 +0000" stop="20260814034500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podcasty (29)</title>
   </programme>
   <programme start="20260814034500 +0000" stop="20260814034700 +0000" channel="TVP Info.webtv.sk">

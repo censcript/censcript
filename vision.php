@@ -547,9 +547,6 @@
 <programme start="20260813114500 +0000" stop="20260813121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260811230000 +0000" stop="20260812023000 +0000" channel="ANTV.vision">
-<title>Hum Hain Rahi Pyar Ke</title>
-</programme>
 <programme start="20260812023000 +0000" stop="20260812060000 +0000" channel="ANTV.vision">
 <title>Pathaan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260812230000 +0000" stop="20260813000000 +0000" channel="TVRI.vision">
 <title>Klik Indonesia Pagi</title>
+</programme>
+<programme start="20260813000000 +0000" stop="20260813010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
 </programme>

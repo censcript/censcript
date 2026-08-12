@@ -7432,7 +7432,10 @@
     <programme start="20260811224000 +0000" stop="20260811230000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights Adelaide v Richmond</title>
     </programme>
-    <programme start="20260811230000 +0000" stop="20260811232000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260811230000 +0000" stop="20260811231000 +0000" channel="Premier Sports.starhub">
+        <title>AFL Highlights GWS Giants v Gold Coast</title>
+    </programme>
+    <programme start="20260811231000 +0000" stop="20260811233000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights GWS Giants v Gold Coast</title>
     </programme>
     <programme start="20260811233000 +0000" stop="20260812011500 +0000" channel="Premier Sports.starhub">
