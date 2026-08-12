@@ -8089,6 +8089,9 @@
 <programme start="20260812163000 +0000" stop="20260811170000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga 2025/26: FCB Vs M05</title>
 </programme>
+<programme start="20260811173000 +0000" stop="20260811180000 +0000" channel="Sportstars.mncvision">
+    <title>WPBL S2, Mumbai Highlights</title>
+</programme>
 <programme start="20260811180000 +0000" stop="20260811183000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
 </programme>
@@ -8098,11 +8101,17 @@
 <programme start="20260811190000 +0000" stop="20260811210000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
 </programme>
-<programme start="20260811210000 +0000" stop="20260811230000 +0000" channel="Sportstars.mncvision">
+<programme start="20260811210000 +0000" stop="20260811213000 +0000" channel="Sportstars.mncvision">
     <title>Satu Hati Untuk Garuda</title>
 </programme>
-<programme start="20260811230000 +0000" stop="20260811233000 +0000" channel="Sportstars.mncvision">
+<programme start="20260811213000 +0000" stop="20260811230000 +0000" channel="Sportstars.mncvision">
+    <title>2026 The Asian Tournament</title>
+</programme>
+<programme start="20260811230000 +0000" stop="20260811230500 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
+</programme>
+<programme start="20260811230500 +0000" stop="20260811233000 +0000" channel="Sportstars.mncvision">
+    <title>2026 The Asian Tournament</title>
 </programme>
 <programme start="20260811233000 +0000" stop="20260812000000 +0000" channel="Sportstars.mncvision">
     <title>Bloopers</title>
@@ -8110,8 +8119,11 @@
 <programme start="20260812000000 +0000" stop="20260812003000 +0000" channel="Sportstars.mncvision">
     <title>Adrenaline Rush</title>
 </programme>
-<programme start="20260812003000 +0000" stop="20260812023000 +0000" channel="Sportstars.mncvision">
+<programme start="20260812003000 +0000" stop="20260812020000 +0000" channel="Sportstars.mncvision">
     <title>Pro Futsal League</title>
+</programme>
+<programme start="20260812020000 +0000" stop="20260812023000 +0000" channel="Sportstars.mncvision">
+    <title>2026 MotoGP Of Great Britain</title>
 </programme>
 <programme start="20260812023000 +0000" stop="20260812043000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026: Men</title>
@@ -8125,8 +8137,11 @@
 <programme start="20260812053000 +0000" stop="20260812073000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026: Women</title>
 </programme>
-<programme start="20260812073000 +0000" stop="20260812093000 +0000" channel="Sportstars.mncvision">
+<programme start="20260812073000 +0000" stop="20260812090000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026: Men</title>
+</programme>
+<programme start="20260812090000 +0000" stop="20260812093000 +0000" channel="Sportstars.mncvision">
+    <title>Faultless, Ep 3</title>
 </programme>
 <programme start="20260812093000 +0000" stop="20260812100000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8134,8 +8149,11 @@
 <programme start="20260812100000 +0000" stop="20260812103000 +0000" channel="Sportstars.mncvision">
     <title>Bloopers</title>
 </programme>
-<programme start="20260812103000 +0000" stop="20260812130000 +0000" channel="Sportstars.mncvision">
+<programme start="20260812103000 +0000" stop="20260812110000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
+</programme>
+<programme start="20260812110000 +0000" stop="20260812130000 +0000" channel="Sportstars.mncvision">
+    <title>WTT Champions Yokohama 2026</title>
 </programme>
 <programme start="20260812130000 +0000" stop="20260812133000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8145,6 +8163,9 @@
 </programme>
 <programme start="20260812153000 +0000" stop="20260812160000 +0000" channel="Sportstars.mncvision">
     <title>Pro Futsal League</title>
+</programme>
+<programme start="20260812160000 +0000" stop="20260812163000 +0000" channel="Sportstars.mncvision">
+    <title>2026 The Asian Tournament</title>
 </programme>
 <programme start="20260811170000 +0000" stop="20260811190000 +0000" channel="Sportstars 2.mncvision">
     <title>ASEAN Hyundai Cup: VIE Vs CAM</title>
