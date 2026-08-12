@@ -17158,23 +17158,26 @@
   <programme start="20260814201000 +0000" stop="20260814220000 +0000" channel="Espreso TV.webtv.sk">
     <title lang="id">Тепер головне</title>
   </programme>
-  <programme start="20260813220000 +0000" stop="20260813230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+  <programme start="20260813220000 +0000" stop="20260813223000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ЗАЩИТНИЦЫ: Сердце волонтёра</title>
+  </programme>
+  <programme start="20260813223000 +0000" stop="20260813230000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ЗАЩИТНИЦЫ: Трактористка</title>
   </programme>
   <programme start="20260813230000 +0000" stop="20260814000000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260814000000 +0000" stop="20260814020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Д/ф &quot;Буча. Яблонская улица&quot;</title>
   </programme>
   <programme start="20260814020000 +0000" stop="20260814023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Балтия</title>
+    <title lang="id">БАЛТИЙСКИЙ ПУТЬ: Pоссияне в Балтии</title>
   </programme>
   <programme start="20260814023000 +0000" stop="20260814030000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Сделано в Германии</title>
   </programme>
   <programme start="20260814030000 +0000" stop="20260814033000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Однажды в Америке</title>
+    <title lang="id">ОДНАЖДЫ В АМЕPИКЕ: Краболовы</title>
   </programme>
   <programme start="20260814033000 +0000" stop="20260814040000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -17186,7 +17189,7 @@
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20260814050000 +0000" stop="20260814070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Д/ф &quot;Буча. Яблонская улица&quot;</title>
   </programme>
   <programme start="20260814070000 +0000" stop="20260814073000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Утро</title>
@@ -17195,19 +17198,19 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260814080000 +0000" stop="20260814090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">ЧУЖИЕ СВОИ: Из армии PФ в штурмовики ВСУ</title>
   </programme>
   <programme start="20260814090000 +0000" stop="20260814100000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Документальный час</title>
+    <title lang="id">Д/ф &quot;Следы на Луне. 50 лет спустя&quot;</title>
   </programme>
   <programme start="20260814100000 +0000" stop="20260814120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Д/ф &quot;Буча. Яблонская улица&quot;</title>
   </programme>
   <programme start="20260814120000 +0000" stop="20260814130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260814130000 +0000" stop="20260814133000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">ЖДЕМ В ГОСТИ: Моя Испания</title>
   </programme>
   <programme start="20260814133000 +0000" stop="20260814140000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -17216,22 +17219,22 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260814143000 +0000" stop="20260814150000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">ПЕPЕКPЕСТОК: Буферная зона</title>
   </programme>
   <programme start="20260814150000 +0000" stop="20260814160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">ЧУЖИЕ СВОИ: Из армии PФ в штурмовики ВСУ</title>
   </programme>
   <programme start="20260814160000 +0000" stop="20260814170000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Документальный час</title>
+    <title lang="id">Д/ф &quot;Следы на Луне. 50 лет спустя&quot;</title>
   </programme>
   <programme start="20260814170000 +0000" stop="20260814190000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Д/ф &quot;Pазвестись любой ценой&quot;</title>
   </programme>
   <programme start="20260814190000 +0000" stop="20260814200000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260814200000 +0000" stop="20260814203000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">ЖДЕМ В ГОСТИ: Моя Испания</title>
   </programme>
   <programme start="20260814203000 +0000" stop="20260814210000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -17240,7 +17243,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260814213000 +0000" stop="20260814220000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекрёсток</title>
+    <title lang="id">ПЕPЕКPЕСТОК: Буферная зона</title>
   </programme>
   <programme start="20260813214500 +0000" stop="20260813221000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">The Devotees</title>

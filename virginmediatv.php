@@ -100,17 +100,14 @@
 <programme start="20260812050000 +0000" stop="20260812070000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
-<programme start="20260812093000 +0000" stop="20260812121000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260812093000 +0000" stop="20260812122000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Live: European Athletics Championships - Day 3</title>
 </programme>
-<programme start="20260812121000 +0000" stop="20260812124000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260812122000 +0000" stop="20260812125000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>What&#039;s Next? - Homes</title>
 </programme>
-<programme start="20260812124000 +0000" stop="20260812125000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>The Strange Chores - Clean the Toilet</title>
-</programme>
 <programme start="20260812125000 +0000" stop="20260812131000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>The Strange Chores - Host a Monster Hunter Tournament</title>
+    <title>The Strange Chores - Clean the Toilet</title>
 </programme>
 <programme start="20260812131000 +0000" stop="20260812133500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>My Babysitter&#039;s a Vampire - Siren Song</title>
