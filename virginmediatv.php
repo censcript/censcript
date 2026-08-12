@@ -4513,10 +4513,10 @@
 <programme start="20260812050000 +0000" stop="20260812070000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Test Cricket - West Indies v Pakistan: 2nd Test Review</title>
 </programme>
-<programme start="20260812093000 +0000" stop="20260812123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260812093000 +0000" stop="20260812124500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: European Athletics Championships - Day 3</title>
 </programme>
-<programme start="20260812123000 +0000" stop="20260812133000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260812124500 +0000" stop="20260812133000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260812133000 +0000" stop="20260812140000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5203,10 +5203,10 @@
 <programme start="20260812050000 +0000" stop="20260812070000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Test Cricket - West Indies v Pakistan: 2nd Test Review</title>
 </programme>
-<programme start="20260812093000 +0000" stop="20260812123000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260812093000 +0000" stop="20260812124500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: European Athletics Championships - Day 3</title>
 </programme>
-<programme start="20260812123000 +0000" stop="20260812133000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260812124500 +0000" stop="20260812133000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260812133000 +0000" stop="20260812140000 +0000" channel="TNT_Sports_3.virginmediatv">
