@@ -655,15 +655,12 @@
     <desc lang="en">Bacaan Surah Al Waqiah.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260812220200 +0000" stop="20260812225500 +0000" channel="tv1.unifitv">
+  <programme start="20260812220200 +0000" stop="20260812230000 +0000" channel="tv1.unifitv">
     <title lang="en">Fikrah 2026</title>
     <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260812225500 +0000" stop="20260812230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran</title>
-    <desc lang="en">Kapsul Jiran</desc>
-    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260812230000 +0000" stop="20260812234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -687,21 +684,21 @@
   </programme>
   <programme start="20260813020500 +0000" stop="20260813023000 +0000" channel="tv1.unifitv">
     <title lang="en">Digital Massa</title>
-    <desc lang="en">Program majalah yang memaparkan kepentingan teknologi digital dalam sesebuah perniagaan. Dengan pelbagai platform dan apliksai yang sudah tersedia, peniaga dapat mengembangkan perniagaan dan meningkatkan jumlah pelanggan. Para peniaga turut didedahkan dengan teknik bagaimana untuk menghadapi cabaran perniagaan dalam era digital.</desc>
+    <desc lang="en">Rancangan berkaitan dengan isu-isu teknologi digital</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260813023000 +0000" stop="20260813033000 +0000" channel="tv1.unifitv">
-    <title lang="en">Peduli Tekun</title>
+    <title lang="en">Peduli Tukun</title>
     <desc lang="en">Program ini memaparkan usaha pemuliharaan laut, khususnya terumbu karang, serta peranan agensi berkaitan dalam memelihara ekosistem dan sumber marin negara.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260813033000 +0000" stop="20260813040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Eksporasi Intern</title>
-    <desc lang="en">Program majalah yang memaparkan 13 bidang kerjaya bersama pelatih-pelatih industri.</desc>
+    <title lang="en">Eksplorasi Intern</title>
+    <desc lang="en">Sebuah program majalah yang memaparkan 13 bidang kerjaya bersama pelatih industri.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -725,17 +722,14 @@
   </programme>
   <programme start="20260813053000 +0000" stop="20260813063000 +0000" channel="tv1.unifitv">
     <title lang="en">Kopi Sentul Mocha Santorini</title>
-    <desc lang="en">Azam dan Alya saling mencintai, namun hubungan mereka diuji oleh tentangan keluarga, rahsia silam dan pelbagai konflik yang memisahkan mereka hingga ke Greece. Ketika mereka berusaha mempertahankan cinta, satu tragedy menyebabkan Azam hilang ingatan dan tidak lagi mengenali Alya.
-
-Pelakon : Riz Amin, Jannah Nik, Talha Harith, Erry Putra, Emelie Hanis, Ku Fridah, Mahmud Ali Basha, Mandy Chong.</desc>
+    <desc lang="en">Kisah percintaan, pengorbanan,keluarga dan kerjaya. Alia anak gadis yang pintar yang sentiasa mahu mengembangkan perniagaan En.John. namun dengan setiap yang dilalui dalam hidupnya serta konflik cinta dan keluarga mampu dan berjayakah dia?</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.14.</episode-num>
     <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260813063000 +0000" stop="20260813070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Papa Chef</title>
-    <desc lang="en">Kisah Chef Zikri, seorang bapa tunggal yang membesarkan tiga orang anak bersama Opah sambal mengacarakan rancangan masakan Dari Dapur Papa Chef. Drama ini memaparkan cabaran kehidupan keluarga yang disulami
-kasih sayang dan nilai kekeluargaan.</desc>
+    <title lang="en">PAPA CHEF</title>
+    <desc lang="en">Kisah Chef Zikri, seorang bapa tunggal yang membesarkan tiga orang anak bersama Opah sambil mengacarakan rancangan masakan Dari Dapur Papa Chef. Drama ini memaparkan cabaran kehidupan keluarga yang disulami kasih sayang dan nilai kekeluargaan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -749,28 +743,27 @@ kasih sayang dan nilai kekeluargaan.</desc>
     <title lang="en">Diari Rawat 2026</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260813080000 +0000" stop="20260813080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260813080500 +0000" stop="20260813082700 +0000" channel="tv1.unifitv">
-    <title lang="en">Prima Facie</title>
+  <programme start="20260813080500 +0000" stop="20260813083000 +0000" channel="tv1.unifitv">
+    <title lang="en">Prima Facie (Ulangan)</title>
     <desc lang="en">Sebuah program dokudrama yang memaparkan undang-undang yang terdapat di dalam sistem perundangan Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
-  <programme start="20260813082700 +0000" stop="20260813083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran</title>
-    <desc lang="en">Kapsul Jiran</desc>
-    <category lang="en">Drama</category>
-  </programme>
   <programme start="20260813083000 +0000" stop="20260813090000 +0000" channel="tv1.unifitv">
     <title lang="en">Biz Malaysia 2026</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.55.</episode-num>
+    <episode-num system="onscreen">S1E56</episode-num>
   </programme>
   <programme start="20260813090000 +0000" stop="20260813100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -778,16 +771,15 @@ kasih sayang dan nilai kekeluargaan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260813100000 +0000" stop="20260813104500 +0000" channel="tv1.unifitv">
-    <title lang="en">Dengarlah Dulu......</title>
+    <title lang="en">Dengarlah Dulu..</title>
     <desc lang="en">Dengarlah Dulu... ialah program bual bicara yang mengupas pelbagai isu kehidupan, kekeluargaan dan kemasyarakatan dari perspektif Islam. Dengan pendekatan santai dan penuh hikmah, program ini mengajak penonton memahami sesuatu perkara sebelum membuat penilaian atau keputusan.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260813104500 +0000" stop="20260813114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Waris Kampung Semarah Padi</title>
-    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti
-membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.
-
-Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamdan, Syed Zalihafe, Reen Rahim, Mona Allen, Datuk Ahmad Tarmimi Siregar, Sheila Mambo, Sharifah Amani, Zarina Zainuddin, Nadia Aqilah, Ruzana Ibrahim, Safia Hanifah</desc>
+    <title lang="en">Waris Kampung Semarah Padi (Ulangan)</title>
+    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -808,9 +800,11 @@ Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamd
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260813130000 +0000" stop="20260813140000 +0000" channel="tv1.unifitv">
-    <title lang="en">FORUM PERDANA EHWAL ISLAM</title>
+    <title lang="en">Forum Perdana Ehwal Islam 2026</title>
     <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <episode-num system="onscreen">S1E30</episode-num>
   </programme>
   <programme start="20260813140000 +0000" stop="20260813141500 +0000" channel="tv1.unifitv">
     <title lang="en">DUNIA 10</title>
@@ -818,17 +812,13 @@ Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamd
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260813141500 +0000" stop="20260813143000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran/ Promo / PSA / Kapsul</title>
-    <desc lang="en">Kapsul Jiran/ Promo / PSA / Kapsul</desc>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260813143000 +0000" stop="20260813153000 +0000" channel="tv1.unifitv">
     <title lang="en">Pergilah Air Mata</title>
-    <desc lang="en">Sabrina, gadis kampung yang naif, terpaksa berkahwin dengan Badrul akibat satu fitnah dan hidup bermadu dalam keluarga yang tidak menerimanya. Rumah tangga mereka dipenuhi konflik, penderitaan dan salah faham, namun akhirnya
-perasaan cinta mula tumbuh apabila Badrul menyedari nilai sebenar Sabrina.
-
-Pelakon : Kamal Adli, Nelydia Senrose, Izreen Azminda, Amar Asyraf, Reen Rahim, Mustapha Kamal, Jasmin Hamid, Azlee Khairi, Ezzaty Abdullah, Qistina
-Raishah</desc>
+    <desc lang="en">Drama bersiri memaparkan Sabrina yang terpaksa berkahwin dengan lelaki tak dikenalinya akibat salah faham.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <episode-num system="onscreen">S1E20</episode-num>
@@ -15098,9 +15088,49 @@ Raishah</desc>
     <desc lang="en">Remember Adrian? One of LaLiga's famed marksmen scored goals aplenty. Here are some of his best, across his time at Atletico Madrid, Villarreal, Deportivo La Coruna and more.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260813060000 +0000" stop="20260813153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260813060000 +0000" stop="20260813083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 319: Du Plessis vs Chimaev</title>
     <desc lang="en">UFC returns to Chicago with a stacked card featuring one of the most highly anticipated middleweight title fights in years, as South African champion Dricus Du Plessis faces his toughest test to date against unbeaten challenger Khamzat Chimaev. Plus a whole lot more action on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813083000 +0000" stop="20260813090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 4 - 2</title>
+    <desc lang="en">Program pencarian bakat bola sepak yang hebat diteruskan lagi dengan Musim Ke-4. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813090000 +0000" stop="20260813093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 20</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813093000 +0000" stop="20260813100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - 1101 - Gaethje vs Holloway</title>
+    <desc lang="en">UFC 300 was not only a milestone event for the world's leading MMA organization but featured a highly anticipated bout between Justin Gaethje and Max Holloway as they battled for the “BMF” belt and the title of the “baddest” fighter on the planet. See their fight like never seen before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813100000 +0000" stop="20260813123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 320: Ankalaev vs Pereira 2</title>
+    <desc lang="en">UFC returns to Chicago with a stacked card featuring one of the most highly anticipated middleweight title fights in years, as South African champion Dricus Du Plessis faces his toughest test to date against unbeaten challenger Khamzat Chimaev. Plus a whole lot more action on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813123000 +0000" stop="20260813130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1102: Light Heavyweights</title>
+    <desc lang="en">UFC Ultimate Knockouts showcases the most explosive KOs from the UFC's Light Heavyweight division. Re-live career defining moments from Chuck Liddell, Jon Jones, Alex Pereira and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813130000 +0000" stop="20260813135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 321: Aspinall vs Gane</title>
+    <desc lang="en">UFC 321 Countdown takes an inside look at the promotion's return to Abu Dhabi, where heavyweight king Tom Aspinall battles former interim champion Ciryl Gane. Plus, Virna Jandiroba takes on Mackenzie Dern for the vacant strawweight title.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813135500 +0000" stop="20260813140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP MOMENTS GERARD PIQUE - LALIGA TOP MOMENTS GERARD PIQUE</title>
+    <desc lang="en">A towering presence at the back and a potent attacking force upfront. Complete domination by Barcelona club captain Gerard Pique.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813140000 +0000" stop="20260813193000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Gamrot vs Salkilld - Main</title>
+    <desc lang="en">After debuting in Belgrade, Serbia and before decamping for Philadelphia and UFC 330, UFC plays a home game at the Meta APEX on Saturday, August 9 with a fight card headlined by lightweight standouts Mateusz “Gamer” Gamrot and Quillan Salkilld. A Top 10 staple, the Polish veteran Gamrot collected a second-round submission win over Esteban Ribovics earlier this year and holds additional victories over former champ Rafael Dos Anjos, Rafael Fiziev, and Arman Tsarukyan. Salkilld has rocketed into the rankings after graduating from Season 8 of Dana White's Contender Series, posting five straight wins capped by a first-round finish of Beneil Dariush at home in Perth back in May.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
