@@ -532,12 +532,6 @@
 <programme start="20260814114500 +0000" stop="20260814121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260812230000 +0000" stop="20260813023000 +0000" channel="ANTV.vision">
-<title>Jab Pyar Kisise Hota Hai</title>
-</programme>
-<programme start="20260813023000 +0000" stop="20260813060000 +0000" channel="ANTV.vision">
-<title>War</title>
-</programme>
 <programme start="20260813060000 +0000" stop="20260813073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260813073000 +0000" stop="20260813090000 +0000" channel="MDTV.vision">
 <title>Laper Mata</title>
+</programme>
+<programme start="20260813090000 +0000" stop="20260813100000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260813100000 +0000" stop="20260813103500 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
 </programme>

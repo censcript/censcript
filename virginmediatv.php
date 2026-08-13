@@ -3943,10 +3943,13 @@
 <programme start="20260813040000 +0000" stop="20260813060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260813110000 +0000" stop="20260813160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260813110000 +0000" stop="20260813150000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Danish Golf Championship, DP World Tour Golf - Day 1</title>
 </programme>
-<programme start="20260813160000 +0000" stop="20260813180000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260813150000 +0000" stop="20260813170000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 1</title>
+</programme>
+<programme start="20260813170000 +0000" stop="20260813180000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: FedEx St. Jude Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20260813000000 +0000" stop="20260813014500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
@@ -4720,10 +4723,13 @@
 <programme start="20260813040000 +0000" stop="20260813060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260813110000 +0000" stop="20260813160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260813110000 +0000" stop="20260813150000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Danish Golf Championship, DP World Tour Golf - Day 1</title>
 </programme>
-<programme start="20260813160000 +0000" stop="20260813180000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260813150000 +0000" stop="20260813170000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 1</title>
+</programme>
+<programme start="20260813170000 +0000" stop="20260813180000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: FedEx St. Jude Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20260813000000 +0000" stop="20260813014500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
