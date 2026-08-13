@@ -4534,17 +4534,8 @@
 <programme start="20260813050000 +0000" stop="20260813060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>LIV Golf League - New York: Tournament Review</title>
 </programme>
-<programme start="20260813113000 +0000" stop="20260813150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260813113000 +0000" stop="20260813163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: China Open Snooker - Round 2: Mark Selby v Kyren Wilson</title>
-</programme>
-<programme start="20260813150000 +0000" stop="20260813153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>TNT Sports Reload - Episode 32</title>
-</programme>
-<programme start="20260813153000 +0000" stop="20260813160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Discovery Golf - Episode 26</title>
-</programme>
-<programme start="20260813160000 +0000" stop="20260813163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>CPL T20 - St. Lucia Kings v St. Kitts &amp; Nevis Patriots</title>
 </programme>
 <programme start="20260813163000 +0000" stop="20260813173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -4609,10 +4600,10 @@
 <programme start="20260813053000 +0000" stop="20260813060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>UEFA Champions League Classics - 2001/02 Semi-Final, 1st Leg: Barcelona v Real Madrid</title>
 </programme>
-<programme start="20260813093000 +0000" stop="20260813150000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260813093000 +0000" stop="20260813153000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: European Athletics Championships - Day 4</title>
 </programme>
-<programme start="20260813150000 +0000" stop="20260813163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260813153000 +0000" stop="20260813163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>UEFA Super Cup - Paris Saint-Germain v Aston Villa</title>
 </programme>
 <programme start="20260813163000 +0000" stop="20260813173000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5203,17 +5194,8 @@
 <programme start="20260813050000 +0000" stop="20260813060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>LIV Golf League - New York: Tournament Review</title>
 </programme>
-<programme start="20260813113000 +0000" stop="20260813150000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260813113000 +0000" stop="20260813163000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: China Open Snooker - Round 2: Mark Selby v Kyren Wilson</title>
-</programme>
-<programme start="20260813150000 +0000" stop="20260813153000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>TNT Sports Reload - Episode 32</title>
-</programme>
-<programme start="20260813153000 +0000" stop="20260813160000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Discovery Golf - Episode 26</title>
-</programme>
-<programme start="20260813160000 +0000" stop="20260813163000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>CPL T20 - St. Lucia Kings v St. Kitts &amp; Nevis Patriots</title>
 </programme>
 <programme start="20260813163000 +0000" stop="20260813173000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -5278,10 +5260,10 @@
 <programme start="20260813053000 +0000" stop="20260813060000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>UEFA Champions League Classics - 2001/02 Semi-Final, 1st Leg: Barcelona v Real Madrid</title>
 </programme>
-<programme start="20260813093000 +0000" stop="20260813150000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260813093000 +0000" stop="20260813153000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: European Athletics Championships - Day 4</title>
 </programme>
-<programme start="20260813150000 +0000" stop="20260813163000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260813153000 +0000" stop="20260813163000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>UEFA Super Cup - Paris Saint-Germain v Aston Villa</title>
 </programme>
 <programme start="20260813163000 +0000" stop="20260813173000 +0000" channel="TNT_Sports_3.virginmediatv">
