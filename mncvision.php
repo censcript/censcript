@@ -7726,47 +7726,50 @@
 <programme start="20260812213000 +0000" stop="20260812220000 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260812220000 +0000" stop="20260812230000 +0000" channel="SCTV.mncvision">
+<programme start="20260812220000 +0000" stop="20260812230700 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260812230000 +0000" stop="20260813000000 +0000" channel="SCTV.mncvision">
+<programme start="20260812230700 +0000" stop="20260813003000 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260813000000 +0000" stop="20260813011500 +0000" channel="SCTV.mncvision">
+<programme start="20260813003000 +0000" stop="20260813013300 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260813011500 +0000" stop="20260813030000 +0000" channel="SCTV.mncvision">
+<programme start="20260813013300 +0000" stop="20260813023600 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260813030000 +0000" stop="20260813050000 +0000" channel="SCTV.mncvision">
+<programme start="20260813023600 +0000" stop="20260813043000 +0000" channel="SCTV.mncvision">
     <title>Sudahi Jutekmu Mari Bermedsos</title>
 </programme>
-<programme start="20260813050000 +0000" stop="20260813053000 +0000" channel="SCTV.mncvision">
+<programme start="20260813043000 +0000" stop="20260813051100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260813053000 +0000" stop="20260813070000 +0000" channel="SCTV.mncvision">
-    <title>Tersipu Malu Sama Mas Sapu-Sapu</title>
+<programme start="20260813051100 +0000" stop="20260813065700 +0000" channel="SCTV.mncvision">
+    <title>Ditaksir Gadis Lele, Aku Bisa Apa</title>
 </programme>
-<programme start="20260813070000 +0000" stop="20260813083000 +0000" channel="SCTV.mncvision">
-    <title>Yang Waras Ya Neng Ambulance</title>
+<programme start="20260813065700 +0000" stop="20260813083400 +0000" channel="SCTV.mncvision">
+    <title>Neng Preman Jagoan Hati</title>
 </programme>
-<programme start="20260813083000 +0000" stop="20260813101500 +0000" channel="SCTV.mncvision">
-    <title>Perasaanku Ke Kamu Kayak Es...</title>
+<programme start="20260813083400 +0000" stop="20260813100000 +0000" channel="SCTV.mncvision">
+    <title>Supir Truk Sis, Semongko!</title>
 </programme>
-<programme start="20260813101500 +0000" stop="20260813114500 +0000" channel="SCTV.mncvision">
+<programme start="20260813100000 +0000" stop="20260813112800 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260813114500 +0000" stop="20260813131500 +0000" channel="SCTV.mncvision">
+<programme start="20260813112800 +0000" stop="20260813125500 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260813131500 +0000" stop="20260813144500 +0000" channel="SCTV.mncvision">
+<programme start="20260813125500 +0000" stop="20260813142100 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260813144500 +0000" stop="20260813160000 +0000" channel="SCTV.mncvision">
+<programme start="20260813142100 +0000" stop="20260813155900 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260813160000 +0000" stop="20260813163000 +0000" channel="SCTV.mncvision">
+<programme start="20260813155900 +0000" stop="20260813165200 +0000" channel="SCTV.mncvision">
     <title>Vidio Original Series: Mercury</title>
+</programme>
+<programme start="20260813165200 +0000" stop="20260812172200 +0000" channel="SCTV.mncvision">
+    <title>Kupon Cinta Dibuang Sayang</title>
 </programme>
 <programme start="20260812182400 +0000" stop="20260812194300 +0000" channel="SCTV HD.mncvision">
     <title>Cantik-Cantik Supir Bemo</title>
@@ -7780,47 +7783,50 @@
 <programme start="20260812213000 +0000" stop="20260812220000 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260812220000 +0000" stop="20260812230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260812220000 +0000" stop="20260812230700 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260812230000 +0000" stop="20260813000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260812230700 +0000" stop="20260813003000 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260813000000 +0000" stop="20260813011500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813003000 +0000" stop="20260813013300 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260813011500 +0000" stop="20260813030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813013300 +0000" stop="20260813023600 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260813030000 +0000" stop="20260813050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813023600 +0000" stop="20260813043000 +0000" channel="SCTV HD.mncvision">
     <title>Sudahi Jutekmu Mari Bermedsos</title>
 </programme>
-<programme start="20260813050000 +0000" stop="20260813053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813043000 +0000" stop="20260813051100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260813053000 +0000" stop="20260813070000 +0000" channel="SCTV HD.mncvision">
-    <title>Tersipu Malu Sama Mas Sapu-Sapu</title>
+<programme start="20260813051100 +0000" stop="20260813065700 +0000" channel="SCTV HD.mncvision">
+    <title>Ditaksir Gadis Lele, Aku Bisa Apa</title>
 </programme>
-<programme start="20260813070000 +0000" stop="20260813083000 +0000" channel="SCTV HD.mncvision">
-    <title>Yang Waras Ya Neng Ambulance</title>
+<programme start="20260813065700 +0000" stop="20260813083400 +0000" channel="SCTV HD.mncvision">
+    <title>Neng Preman Jagoan Hati</title>
 </programme>
-<programme start="20260813083000 +0000" stop="20260813101500 +0000" channel="SCTV HD.mncvision">
-    <title>Perasaanku Ke Kamu Kayak Es...</title>
+<programme start="20260813083400 +0000" stop="20260813100000 +0000" channel="SCTV HD.mncvision">
+    <title>Supir Truk Sis, Semongko!</title>
 </programme>
-<programme start="20260813101500 +0000" stop="20260813114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813100000 +0000" stop="20260813112800 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260813114500 +0000" stop="20260813131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813112800 +0000" stop="20260813125500 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260813131500 +0000" stop="20260813144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813125500 +0000" stop="20260813142100 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260813144500 +0000" stop="20260813160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813142100 +0000" stop="20260813155900 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260813160000 +0000" stop="20260813163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260813155900 +0000" stop="20260813165200 +0000" channel="SCTV HD.mncvision">
     <title>Vidio Original Series: Mercury</title>
+</programme>
+<programme start="20260813165200 +0000" stop="20260812172200 +0000" channel="SCTV HD.mncvision">
+    <title>Kupon Cinta Dibuang Sayang</title>
 </programme>
 <programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>
