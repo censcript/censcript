@@ -3155,8 +3155,8 @@
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="en">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260812163500 +0000" stop="20260812175500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Filing for Love</title>
@@ -3193,19 +3193,19 @@
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260812220500 +0000" stop="20260812223500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Chansung's Cooking</title>
-    <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+  <programme start="20260812220500 +0000" stop="20260812222500 +0000" channel="tvnhd.unifitv">
+    <title lang="en">You Can Cook With Sam Kim</title>
+    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
-  <programme start="20260812223500 +0000" stop="20260813003500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260812222500 +0000" stop="20260813003500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="en">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260813003500 +0000" stop="20260813013500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Walking Through The Village</title>
@@ -3249,19 +3249,19 @@
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme start="20260813092000 +0000" stop="20260813111500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Fresh Off the Sea 3</title>
-    <desc lang="en">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
+  <programme start="20260813092000 +0000" stop="20260813110500 +0000" channel="tvnhd.unifitv">
+    <title lang="en">World of Street Woman Fighter</title>
+    <desc lang="en">The Street Woman Fighter series make a triumphant return on a global stage! 6 dance crews from different countries set to compete in an upgraded match to win the title of International Champion!</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-    <episode-num system="onscreen">S3E1</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20260813111500 +0000" stop="20260813131500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260813110500 +0000" stop="20260813131500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="en">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <episode-num system="onscreen">S3E2</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260813131500 +0000" stop="20260813143500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Filing for Love</title>
@@ -3270,7 +3270,7 @@
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
-  <programme start="20260813143500 +0000" stop="20260813160500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260813143500 +0000" stop="20260813162500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
     <category lang="en">Variety</category>

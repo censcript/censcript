@@ -1279,14 +1279,11 @@
 <programme start="20260813103000 +0000" stop="20260813105500 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260813105500 +0000" stop="20260813124500 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260813105500 +0000" stop="20260813133000 +0000" channel="beIN Sports 2.mncvision">
     <title>WAFCON 2026: MAR Vs CMR</title>
 </programme>
-<programme start="20260813124500 +0000" stop="20260813131500 +0000" channel="beIN Sports 2.mncvision">
-    <title>Tour de France Highlights 2026</title>
-</programme>
-<programme start="20260813131500 +0000" stop="20260813134500 +0000" channel="beIN Sports 2.mncvision">
-    <title>Tour de France Highlights 2026</title>
+<programme start="20260813133000 +0000" stop="20260813134500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Roland Garros Match HL 2025</title>
 </programme>
 <programme start="20260813134500 +0000" stop="20260813141500 +0000" channel="beIN Sports 2.mncvision">
     <title>Tour de France Highlights 2026</title>
@@ -1360,14 +1357,11 @@
 <programme start="20260813103000 +0000" stop="20260813105500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260813105500 +0000" stop="20260813124500 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260813105500 +0000" stop="20260813133000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>WAFCON 2026: MAR Vs CMR</title>
 </programme>
-<programme start="20260813124500 +0000" stop="20260813131500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Tour de France Highlights 2026</title>
-</programme>
-<programme start="20260813131500 +0000" stop="20260813134500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Tour de France Highlights 2026</title>
+<programme start="20260813133000 +0000" stop="20260813134500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Roland Garros Match HL 2025</title>
 </programme>
 <programme start="20260813134500 +0000" stop="20260813141500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Tour de France Highlights 2026</title>
@@ -3065,7 +3059,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260813031500 +0000" stop="20260813033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Travel</title>
 </programme>
 <programme start="20260813033000 +0000" stop="20260813040000 +0000" channel="DW English.mncvision">
     <title>Eco India: Delhi&#039;s Black Kites</title>
@@ -3095,15 +3089,15 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260813061500 +0000" stop="20260813063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Travel</title>
 </programme>
 <programme start="20260813063000 +0000" stop="20260813070000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
 </programme>
-<programme start="20260813070000 +0000" stop="20260813070300 +0000" channel="DW English.mncvision">
+<programme start="20260813070000 +0000" stop="20260813070200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20260813070300 +0000" stop="20260813080000 +0000" channel="DW English.mncvision">
+<programme start="20260813070200 +0000" stop="20260813080000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
 </programme>
 <programme start="20260813080000 +0000" stop="20260813080200 +0000" channel="DW English.mncvision">

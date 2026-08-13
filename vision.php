@@ -532,9 +532,6 @@
 <programme start="20260814114500 +0000" stop="20260814121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260812230000 +0000" stop="20260813023000 +0000" channel="ANTV.vision">
-<title>Jab Pyar Kisise Hota Hai</title>
-</programme>
 <programme start="20260813023000 +0000" stop="20260813060000 +0000" channel="ANTV.vision">
 <title>War</title>
 </programme>
@@ -693,9 +690,6 @@
 </programme>
 <programme start="20260813013000 +0000" stop="20260813020000 +0000" channel="TVOne.vision">
 <title>Hidup Sehat</title>
-</programme>
-<programme start="20260813020000 +0000" stop="20260813023000 +0000" channel="TVOne.vision">
-<title>Indonesia Terkini</title>
 </programme>
 <programme start="20260813023000 +0000" stop="20260813033000 +0000" channel="TVOne.vision">
 <title>Pagi-Pagi Seru</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260813055500 +0000" stop="20260813073000 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
+</programme>
+<programme start="20260813073000 +0000" stop="20260813090000 +0000" channel="MDTV.vision">
+<title>Laper Mata</title>
+</programme>
+<programme start="20260813090000 +0000" stop="20260813100000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>

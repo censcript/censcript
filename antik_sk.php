@@ -2650,13 +2650,10 @@
   <programme start="20260815000000 +0000" stop="20260815040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260815040000 +0000" stop="20260815060000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
-  </programme>
-  <programme start="20260815073000 +0000" stop="20260815100000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260815073000 +0000" stop="20260815080000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
-  <programme start="20260815100000 +0000" stop="20260815103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260815100000 +0000" stop="20260815101500 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">POLEDNE</title>
   </programme>
   <programme start="20260815103000 +0000" stop="20260815113000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -2665,10 +2662,10 @@
   <programme start="20260815113000 +0000" stop="20260815123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260815163000 +0000" stop="20260815200000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260815163000 +0000" stop="20260815173000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260815200000 +0000" stop="20260815210000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260814220000 +0000" stop="20260814223000 +0000" channel="Skvelé TV.webtv.sk">
@@ -10366,16 +10363,16 @@
   <programme start="20260814232500 +0000" stop="20260814235000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Tlapková patrola II (18)</title>
   </programme>
-  <programme start="20260814235000 +0000" stop="20260815001000 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260814235000 +0000" stop="20260815001500 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Jelení Skvadra I (9)</title>
   </programme>
-  <programme start="20260815001000 +0000" stop="20260815003500 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260815001500 +0000" stop="20260815003500 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Maličké království Bena a Holly I (20)</title>
   </programme>
-  <programme start="20260815003500 +0000" stop="20260815005500 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260815003500 +0000" stop="20260815010000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Tim Rex ve vesmíru II (8)</title>
   </programme>
-  <programme start="20260815005500 +0000" stop="20260815012000 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260815010000 +0000" stop="20260815012000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Rubble a jeho parta II (25)</title>
   </programme>
   <programme start="20260815012000 +0000" stop="20260815014500 +0000" channel="Nick Jr.webtv.sk">
@@ -10384,10 +10381,10 @@
   <programme start="20260815014500 +0000" stop="20260815020500 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">DORA I (7)</title>
   </programme>
-  <programme start="20260815020500 +0000" stop="20260815023000 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260815020500 +0000" stop="20260815022500 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Plamínek a čtyřkoláci II (6)</title>
   </programme>
-  <programme start="20260815023000 +0000" stop="20260815025000 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260815022500 +0000" stop="20260815025000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Pan Krokodýl I (3)</title>
   </programme>
   <programme start="20260815025000 +0000" stop="20260815031500 +0000" channel="Nick Jr.webtv.sk">
@@ -16045,8 +16042,11 @@
   <programme start="20260814233300 +0000" stop="20260815000000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (775)</title>
   </programme>
-  <programme start="20260815000000 +0000" stop="20260815003000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260815000000 +0000" stop="20260815002300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (829)</title>
+  </programme>
+  <programme start="20260815002300 +0000" stop="20260815003000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260815003000 +0000" stop="20260815004500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
@@ -16343,7 +16343,7 @@
     <title lang="id">Ksiega obyczaju (24)</title>
   </programme>
   <programme start="20260815090000 +0000" stop="20260815091500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Mazowsze bez kurtyny, tournee po Ameryce (1)</title>
+    <title lang="id">Notacje (85)</title>
   </programme>
   <programme start="20260815091500 +0000" stop="20260815120500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Transmisje uroczystosci panstwowych (27)</title>
