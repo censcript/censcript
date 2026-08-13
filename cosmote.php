@@ -54,10 +54,6 @@
     <title>Football: Paris Saint Germain - FC Bayern Munchen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260814010000 +0700" stop="20260814030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SL Benfica - Academico</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260814030000 +0700" stop="20260814050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Estoril - Famalicao</title>
     <desc>Live: Tidak</desc>
@@ -117,10 +113,6 @@
 <programme start="20260815021500 +0700" stop="20260815041500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sporting CP - Vitoria Guimaraes (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260814010000 +0700" stop="20260814030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Kilmarnock - Celtic FC</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260814030000 +0700" stop="20260814033000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: Football&#039;s Greatest IV E2</title>
@@ -320,10 +312,6 @@
 </programme>
 <programme start="20260815023500 +0700" stop="20260815041500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260814003500 +0700" stop="20260814025500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Rafael Jodar - Brandon Nakashima</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260814025500 +0700" stop="20260814043000 +0700" channel="COSMOTE Sport 6 HD">

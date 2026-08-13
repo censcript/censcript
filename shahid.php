@@ -3736,6 +3736,9 @@
     <programme start="20260815235413 +0000" stop="20260815235959 +0000" channel="49923172215352.shahid">
         <title>A Hadeer El Bousta</title>
     </programme>
+    <programme start="20260814000000 +0000" stop="20260815235959 +0000" channel="986024.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260814000000 +0000" stop="20260814010918 +0000" channel="989622.shahid">
         <title>Ga&#039;ana El Bayan El Tali</title>
     </programme>
@@ -3826,9 +3829,6 @@
     <programme start="20260815220841 +0000" stop="20260815235959 +0000" channel="989622.shahid">
         <title>Teer Enta</title>
     </programme>
-    <programme start="20260814000000 +0000" stop="20260815235959 +0000" channel="986024.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260814000000 +0000" stop="20260815235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -3836,9 +3836,6 @@
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260814000000 +0000" stop="20260815235959 +0000" channel="946948.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260814000000 +0000" stop="20260815235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260814000000 +0000" stop="20260814000500 +0000" channel="387251.shahid">
@@ -4116,6 +4113,9 @@
     </programme>
     <programme start="20260816000000 +0000" stop="20260815235959 +0000" channel="387251.shahid">
         <title>Qorrat Aynik  </title>
+    </programme>
+    <programme start="20260814000000 +0000" stop="20260815235959 +0000" channel="999927.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260814000000 +0000" stop="20260814001611 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 5 Episode 28</title>
