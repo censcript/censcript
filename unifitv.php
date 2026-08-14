@@ -12376,7 +12376,7 @@
   </programme>
   <programme start="20260813163300 +0000" stop="20260813170300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Witness</title>
-    <desc lang="en">Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
+    <desc lang="en">A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260813170300 +0000" stop="20260813173300 +0000" channel="aljazeera.unifitv">
@@ -12396,15 +12396,12 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260813190300 +0000" stop="20260813193300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  <programme start="20260813190300 +0000" stop="20260813200300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Al Jazeera World</title>
+    <desc lang="en">An exclusive Al Jazeera interview with the man who took over as President of Syria in January 2025 about his vision for the long-term future of his country.</desc>
     <category lang="en">News</category>
-  </programme>
-  <programme start="20260813193300 +0000" stop="20260813200300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Boycott</title>
-    <desc lang="en">A 3-part series about US anti-boycott laws and the implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation.</desc>
-    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.413.</episode-num>
+    <episode-num system="onscreen">S1E414</episode-num>
   </programme>
   <programme start="20260813200300 +0000" stop="20260813203300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12413,7 +12410,7 @@
   </programme>
   <programme start="20260813203300 +0000" stop="20260813210300 +0000" channel="aljazeera.unifitv">
     <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc lang="en">Taiwan has long anticipated a Chinese military invasion but 101 East reveals how wars in Iran and Ukraine are exposing new potential threats.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260813210300 +0000" stop="20260813220300 +0000" channel="aljazeera.unifitv">
@@ -12475,7 +12472,7 @@
   </programme>
   <programme start="20260814043300 +0000" stop="20260814050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Witness</title>
-    <desc lang="en">Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
+    <desc lang="en">A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260814050300 +0000" stop="20260814053300 +0000" channel="aljazeera.unifitv">
@@ -12512,17 +12509,19 @@
   </programme>
   <programme start="20260814083300 +0000" stop="20260814090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc lang="en">Taiwan has long anticipated a Chinese military invasion but 101 East reveals how wars in Iran and Ukraine are exposing new potential threats.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260814090300 +0000" stop="20260814093300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <title lang="en">Al Jazeera World</title>
+    <desc lang="en">An exclusive Al Jazeera interview with the man who took over as President of Syria in January 2025 about his vision for the long-term future of his country.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.413.</episode-num>
+    <episode-num system="onscreen">S1E414</episode-num>
   </programme>
   <programme start="20260814093300 +0000" stop="20260814100300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">After visiting the West Bank, former president of Ireland Mary Robinson says Israel is trying to make Palestine disappear.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.31.</episode-num>
     <episode-num system="onscreen">S1E32</episode-num>
@@ -13797,7 +13796,7 @@
   </channel>
   <programme start="20260813153300 +0000" stop="20260813160300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Chronic diarrhea, dizziness, and a racing heart — but no diagnosis? DW explores rare diseases, medical gaslighting, and the patients who finally got answers.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13811,7 +13810,7 @@
   </programme>
   <programme start="20260813163300 +0000" stop="20260813170300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">US pressure on Greenland is causing concern in neighboring Iceland — how can the island protect itself from attempts at annexation? +++ The Baltic States and Russia: Is a hybrid war looming?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13824,8 +13823,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260813171800 +0000" stop="20260813173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13866,8 +13865,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260813191800 +0000" stop="20260813193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13950,16 +13949,16 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260813231800 +0000" stop="20260813233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260813233300 +0000" stop="20260814000300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">DW News</title>
+    <desc lang="en">DW News</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14021,7 +14020,7 @@
   </programme>
   <programme start="20260814023300 +0000" stop="20260814030300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">US pressure on Greenland is causing concern in neighboring Iceland — how can the island protect itself from attempts at annexation? +++ The Baltic States and Russia: Is a hybrid war looming?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14041,15 +14040,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260814031800 +0000" stop="20260814033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260814033300 +0000" stop="20260814040300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14111,16 +14110,16 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260814061800 +0000" stop="20260814063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Iceland is a founding member of NATO but doesn't have its own army. Amidst threats from Donald Trump and a growing strategic importance of the Arctic the island is repositioning itself - and might move even closer to the EU. How is Iceland adapting to a new geopolitical environment despite having no army?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260814063300 +0000" stop="20260814070300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">REV</title>
+    <desc lang="en">New York City's congestion pricing aims to crush gridlock and supercharge public transit. Did it deliver less traffic and faster buses to New Yorkers? Electric cars are suited to cold weather. And a woman biker in India.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14223,7 +14222,7 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260814113300 +0000" stop="20260814120300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
+    <title lang="en">Berlin Briefing</title>
     <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -14265,15 +14264,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260814131800 +0000" stop="20260814133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">REV</title>
+    <desc lang="en">In Sweden, enormous American cars, roaring V8 engines and chrome-covered classics have become the heart of one of Europe's most unexpected automotive subcultures. Known as raggare, generations of Swedes have built a way of life around American cars, rock and roll, summer cruising and rebellion.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260814133300 +0000" stop="20260814140300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">What does the tongue do? How do we keep teeth and gums healthy? And are tools like interdental brushes and aligners really useful?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15366,14 +15365,24 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260813193000 +0000" stop="20260813210000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Buenos Aires P1 Day 5 SF1 - Women</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+  <programme start="20260813193000 +0000" stop="20260813195300 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Australian Open Match Highlights - 2026 Women's Singles SF 1 Sabalenka v Svitolina</title>
+    <desc lang="en">Review the best actions and moments from the Australian Open</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260813210000 +0000" stop="20260813225000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Women's Super League - Man City vs Tottenham</title>
-    <desc lang="en">BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
+  <programme start="20260813195300 +0000" stop="20260813220000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">WAFCON - South Africa vs Nigeria - PO2 (L)</title>
+    <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813220000 +0000" stop="20260813222500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - New Zealand vs Australia - Cup Final, Hong Kong - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813222500 +0000" stop="20260813225000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260813225000 +0000" stop="20260814004000 +0000" channel="beinsports2.unifitv">
@@ -15391,24 +15400,19 @@
     <desc lang="en">Catch every PSG match from Ligue 1 and Coupe de France amongst others only on beIN Sports</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260814031000 +0000" stop="20260814050000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">WAFCON - SF2</title>
+  <programme start="20260814031000 +0000" stop="20260814054500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">WAFCON - Morocco vs Cameroon - SF2</title>
     <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260814050000 +0000" stop="20260814053000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros Mini - Men's Doubles Final Granollers/Zeballos v Heliovaara/Patten</title>
-    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260814053000 +0000" stop="20260814060000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Roland Garros Mini - Women’s Singles Final Andreeva v Chwalinska</title>
-    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+  <programme start="20260814054500 +0000" stop="20260814060000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Roland Garros Match Highlights - 2025 Women's Singles Final Sabalenka v Gauff</title>
+    <desc lang="en">Review the best actions and moments from the Roland Garros</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260814060000 +0000" stop="20260814063000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel Highlights - Valencia P1</title>
-    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
+    <title lang="en">Roland Garros Mini - Women’s Singles Final Andreeva v Chwalinska</title>
+    <desc lang="en">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260814063000 +0000" stop="20260814070000 +0000" channel="beinsports2.unifitv">
