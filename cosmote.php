@@ -54,8 +54,8 @@
     <title>Football: Club Atletico de Madrid - Arsenal</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260814190000 +0700" stop="20260814210000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Santa Clara - Nacional</title>
+<programme start="20260815213000 +0700" stop="20260815233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SC Freiburg - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260814210000 +0700" stop="20260814230000 +0700" channel="COSMOTE Sport 2 HD">
@@ -121,6 +121,10 @@
 <programme start="20260815190000 +0700" stop="20260815210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sporting CP - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260815210000 +0700" stop="20260815230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Middlesbrough - Lincoln City (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260814182500 +0700" stop="20260814223000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: New England Patriots - Seattle Seahawks</title>
@@ -198,6 +202,10 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260815210000 +0700" stop="20260815230000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: York City - Bristol Rovers (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260814194500 +0700" stop="20260814220000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tofas - AEK</title>
     <desc>Live: Tidak</desc>
@@ -248,14 +256,6 @@
 </programme>
 <programme start="20260815195000 +0700" stop="20260815220000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Alba Berlin - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260814192000 +0700" stop="20260814201000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Harley-Davidson Bagger World Cup 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260814201000 +0700" stop="20260814210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Harley-Davidson Bagger World Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260814210000 +0700" stop="20260814223000 +0700" channel="COSMOTE Sport 5 HD">
@@ -347,6 +347,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815195500 +0700" stop="20260815213000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260815213000 +0700" stop="20260815223000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

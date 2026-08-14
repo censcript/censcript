@@ -640,9 +640,6 @@
 <programme start="20260814093000 +0000" stop="20260814113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260814113000 +0000" stop="20260814140000 +0000" channel="ANTV.vision">
-<title>Darah Muda</title>
-</programme>
 <programme start="20260814140000 +0000" stop="20260814160000 +0000" channel="ANTV.vision">
 <title>The Doll 2</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260815040000 +0000" stop="20260815040300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20260815040300 +0000" stop="20260815043000 +0000" channel="TVRI.vision">
+<title>Anak Indonesia</title>
 </programme>

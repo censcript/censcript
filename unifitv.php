@@ -824,10 +824,19 @@
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260814130000 +0000" stop="20260814140000 +0000" channel="tv1.unifitv">
-    <title lang="en">Bicara Naratif 2026</title>
-    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
+  <programme start="20260814130000 +0000" stop="20260814133000 +0000" channel="tv1.unifitv">
+    <title lang="en">Simfoni Alam 2026</title>
+    <desc lang="en">Dokumentari memaparkan isu hidupan liar dan alam semulajadi.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260814133000 +0000" stop="20260814140000 +0000" channel="tv1.unifitv">
+    <title lang="en">KOPIeKONOMI 2025</title>
+    <desc lang="en">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan bersama pengacara Hazel Desmond, Faiz Syahirah Nizam, Akmal Hafiz Ruslan dan Izzamil Nasir.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260814140000 +0000" stop="20260814141500 +0000" channel="tv1.unifitv">
     <title lang="en">DUNIA 10</title>

@@ -1612,8 +1612,11 @@
 <programme start="20260814050000 +0000" stop="20260814060000 +0000" channel="ITV4.virginmediatv">
     <title>Magnum, P.I. - A Little Bit of Luck, A Little Bit of Grief</title>
 </programme>
-<programme start="20260814111000 +0000" stop="20260814131000 +0000" channel="ITV4.virginmediatv">
-    <title>Magnum, P.I. - L.A.</title>
+<programme start="20260814114000 +0000" stop="20260814124000 +0000" channel="ITV4.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260814124000 +0000" stop="20260814131000 +0000" channel="ITV4.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260814131000 +0000" stop="20260814141500 +0000" channel="ITV4.virginmediatv">
     <title>Magnum, P.I. - One Picture Is Worth</title>
