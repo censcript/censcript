@@ -4172,7 +4172,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260814031500 +0000" stop="20260814033000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260814033000 +0000" stop="20260814034500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - ATP Final</title>
@@ -4967,7 +4967,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260814031500 +0000" stop="20260814033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260814033000 +0000" stop="20260814034500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - ATP Final</title>
