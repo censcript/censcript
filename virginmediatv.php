@@ -1612,11 +1612,11 @@
 <programme start="20260814050000 +0000" stop="20260814060000 +0000" channel="ITV4.virginmediatv">
     <title>Magnum, P.I. - A Little Bit of Luck, A Little Bit of Grief</title>
 </programme>
-<programme start="20260814114000 +0000" stop="20260814124000 +0000" channel="ITV4.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260814111000 +0000" stop="20260814124000 +0000" channel="ITV4.virginmediatv">
+    <title>The Motorbike Show - Episode 4</title>
 </programme>
 <programme start="20260814124000 +0000" stop="20260814131000 +0000" channel="ITV4.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Made in Britain - Edwin Jagger Safety Razors &amp; Savile Row Suits</title>
 </programme>
 <programme start="20260814131000 +0000" stop="20260814141500 +0000" channel="ITV4.virginmediatv">
     <title>Magnum, P.I. - One Picture Is Worth</title>
@@ -4048,8 +4048,8 @@
 <programme start="20260814160000 +0000" stop="20260814170000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Dallas Cowboys at Detroit Lions</title>
 </programme>
-<programme start="20260814170000 +0000" stop="20260814190000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>Pro Football Talk</title>
+<programme start="20260814170000 +0000" stop="20260814180000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260813160000 +0000" stop="20260814030000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 1</title>
