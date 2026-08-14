@@ -511,6 +511,9 @@
 <programme start="20260815113000 +0000" stop="20260815121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260813230000 +0000" stop="20260814023000 +0000" channel="ANTV.vision">
+<title>Dil</title>
+</programme>
 <programme start="20260814023000 +0000" stop="20260814060000 +0000" channel="ANTV.vision">
 <title>Chalte Chalte</title>
 </programme>
@@ -672,6 +675,9 @@
 </programme>
 <programme start="20260813233000 +0000" stop="20260814010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi</title>
+</programme>
+<programme start="20260814010000 +0000" stop="20260814040000 +0000" channel="TVOne.vision">
+<title>Sidang Paripurna MPR RI 2026</title>
 </programme>
 <programme start="20260814040000 +0000" stop="20260814053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260814122500 +0000" stop="20260814143500 +0000" channel="MDTV.vision">
 <title>Kupu Malam</title>
-</programme>
-<programme start="20260814143500 +0000" stop="20260814161500 +0000" channel="MDTV.vision">
-<title>Kisah Nyata Kereta Setan...</title>
-</programme>
-<programme start="20260814161500 +0000" stop="20260814172500 +0000" channel="MDTV.vision">
-<title>Customs Protection</title>
 </programme>

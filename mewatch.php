@@ -374,49 +374,49 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20260814010000 +0000" stop="20260814013000 +0000" channel="Suria.mewatch">
-        <title>Upin &amp; Ipin S9 - EP 11</title>
+        <title>Upin &amp; Ipin S9 - EP </title>
     </programme>
     <programme start="20260814013000 +0000" stop="20260814020000 +0000" channel="Suria.mewatch">
-        <title>5 Rencah 5 Rasa S2 - EP 2</title>
+        <title>5 Rencah 5 Rasa S2 - EP </title>
     </programme>
     <programme start="20260814020000 +0000" stop="20260814030000 +0000" channel="Suria.mewatch">
-        <title>Dendam Seorang Madu - EP 45</title>
+        <title>Dendam Seorang Madu - EP </title>
     </programme>
     <programme start="20260814030000 +0000" stop="20260814040000 +0000" channel="Suria.mewatch">
-        <title>I Love You, Stupid - EP 30</title>
+        <title>I Love You, Stupid - EP </title>
     </programme>
     <programme start="20260814040000 +0000" stop="20260814050000 +0000" channel="Suria.mewatch">
-        <title>Menantu International 2 - EP 1</title>
+        <title>Menantu International 2 - EP </title>
     </programme>
     <programme start="20260814050000 +0000" stop="20260814060000 +0000" channel="Suria.mewatch">
-        <title>Rintihan Hati - EP 5</title>
+        <title>Rintihan Hati - EP </title>
     </programme>
     <programme start="20260814060000 +0000" stop="20260814070000 +0000" channel="Suria.mewatch">
-        <title>Seindah Cinta Mutiara - EP 44</title>
+        <title>Seindah Cinta Mutiara - EP </title>
     </programme>
     <programme start="20260814070000 +0000" stop="20260814080000 +0000" channel="Suria.mewatch">
-        <title>Hamparan Asia S2 - EP 2</title>
+        <title>Hamparan Asia S2 - EP </title>
     </programme>
     <programme start="20260814080000 +0000" stop="20260814090000 +0000" channel="Suria.mewatch">
-        <title>Uncle Bos Mama - EP 19</title>
+        <title>Uncle Bos Mama - EP </title>
     </programme>
     <programme start="20260814090000 +0000" stop="20260814100000 +0000" channel="Suria.mewatch">
-        <title>Dendam Aurora - EP 54</title>
+        <title>Dendam Aurora - EP </title>
     </programme>
     <programme start="20260814100000 +0000" stop="20260814103000 +0000" channel="Suria.mewatch">
-        <title>Upin &amp; Ipin S9 - EP 11</title>
+        <title>Upin &amp; Ipin S9 - EP </title>
     </programme>
     <programme start="20260814103000 +0000" stop="20260814110000 +0000" channel="Suria.mewatch">
-        <title>5 Rencah 5 Rasa S2 - EP 3</title>
+        <title>5 Rencah 5 Rasa S2 - EP </title>
     </programme>
     <programme start="20260814110000 +0000" stop="20260814120000 +0000" channel="Suria.mewatch">
-        <title>Dendam Seorang Madu - EP 46</title>
+        <title>Dendam Seorang Madu - EP </title>
     </programme>
     <programme start="20260814120000 +0000" stop="20260814123000 +0000" channel="Suria.mewatch">
         <title>(Live) Berita 2026/2027</title>
     </programme>
     <programme start="20260814123000 +0000" stop="20260814133000 +0000" channel="Suria.mewatch">
-        <title>Katapella 2026 - EP 1</title>
+        <title>Katapella 2026 - EP </title>
     </programme>
     <programme start="20260814133000 +0000" stop="20260814153000 +0000" channel="Suria.mewatch">
         <title>Perang Dingin</title>
@@ -521,46 +521,46 @@
         <title>(Live) Asia First</title>
     </programme>
     <programme start="20260814020000 +0000" stop="20260814030000 +0000" channel="CNA.mewatch">
-        <title>Insight - EP 13</title>
+        <title>Insight - EP </title>
     </programme>
     <programme start="20260814030000 +0000" stop="20260814050000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
     </programme>
     <programme start="20260814050000 +0000" stop="20260814053000 +0000" channel="CNA.mewatch">
-        <title>Built on Standards - EP 1</title>
+        <title>Built on Standards - EP </title>
     </programme>
     <programme start="20260814053000 +0000" stop="20260814060000 +0000" channel="CNA.mewatch">
-        <title>A Street Like This - EP 6</title>
+        <title>A Street Like This - EP </title>
     </programme>
     <programme start="20260814060000 +0000" stop="20260814080000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
     </programme>
     <programme start="20260814080000 +0000" stop="20260814090000 +0000" channel="CNA.mewatch">
-        <title>Singapore&#039;s Balancing Act: Trade-Offs Of A City-State - EP 1</title>
+        <title>Singapore&#039;s Balancing Act: Trade-Offs Of A City-State - EP </title>
     </programme>
     <programme start="20260814090000 +0000" stop="20260814090200 +0000" channel="CNA.mewatch">
         <title>(Live) Headline News</title>
     </programme>
     <programme start="20260814090200 +0000" stop="20260814100000 +0000" channel="CNA.mewatch">
-        <title>Insight - EP 13</title>
+        <title>Insight - EP </title>
     </programme>
     <programme start="20260814100000 +0000" stop="20260814110000 +0000" channel="CNA.mewatch">
         <title>(Live) East Asia Tonight</title>
     </programme>
     <programme start="20260814110000 +0000" stop="20260814120000 +0000" channel="CNA.mewatch">
-        <title>The Long Game - EP 1</title>
+        <title>The Long Game - EP </title>
     </programme>
     <programme start="20260814120000 +0000" stop="20260814130000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20260814130000 +0000" stop="20260814140000 +0000" channel="CNA.mewatch">
-        <title>Japan Hour - EP 32</title>
+        <title>Japan Hour - EP </title>
     </programme>
     <programme start="20260814140000 +0000" stop="20260814150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>
     </programme>
     <programme start="20260814150000 +0000" stop="20260814160000 +0000" channel="CNA.mewatch">
-        <title>Singapore Hour - EP 7</title>
+        <title>Singapore Hour - EP </title>
     </programme>
     <programme start="20260814160000 +0000" stop="20260814160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
