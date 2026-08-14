@@ -62,8 +62,8 @@
     <title>UEFA Champions League Magazine E36</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260815000000 +0700" stop="20260815021500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AS Roma - SS Lazio</title>
+<programme start="20260816033000 +0700" stop="20260816060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Paris Saint Germain - Aston Villa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815021500 +0700" stop="20260815041500 +0700" channel="COSMOTE Sport 2 HD">
@@ -210,6 +210,10 @@
     <title>Football: Middlesbrough - Lincoln City</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260816033000 +0700" stop="20260816053000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Sheffield United - Birmingham City</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260815015000 +0700" stop="20260815040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Alba Berlin - Karditsa</title>
     <desc>Live: Tidak</desc>
@@ -262,8 +266,8 @@
     <title>Basketball: Karditsa - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260815011500 +0700" stop="20260815023500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
+<programme start="20260816035000 +0700" stop="20260816055000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Barcelona - Murcia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815023500 +0700" stop="20260815041500 +0700" channel="COSMOTE Sport 5 HD">
