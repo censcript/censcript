@@ -824,19 +824,10 @@
     <desc lang="en">Bringing the latest updates from across the globe.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260814130000 +0000" stop="20260814133000 +0000" channel="tv1.unifitv">
-    <title lang="en">Simfoni Alam 2026</title>
-    <desc lang="en">Dokumentari memaparkan isu hidupan liar dan alam semulajadi.</desc>
+  <programme start="20260814130000 +0000" stop="20260814140000 +0000" channel="tv1.unifitv">
+    <title lang="en">Bicara Naratif 2026</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260814133000 +0000" stop="20260814140000 +0000" channel="tv1.unifitv">
-    <title lang="en">KOPIeKONOMI 2025</title>
-    <desc lang="en">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan bersama pengacara Hazel Desmond, Faiz Syahirah Nizam, Akmal Hafiz Ruslan dan Izzamil Nasir.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260814140000 +0000" stop="20260814141500 +0000" channel="tv1.unifitv">
     <title lang="en">DUNIA 10</title>
@@ -15213,33 +15204,23 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260813165300 +0000" stop="20260813190000 +0000" channel="beinsports.unifitv">
-    <title lang="en">WAFCON - PO1 (L)</title>
+    <title lang="en">WAFCON - Ivory Coast vs Ghana - PO1 (L)</title>
     <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260813190000 +0000" stop="20260813191000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga Goals Galore - Javi Puado</title>
-    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260813191000 +0000" stop="20260813195300 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Best Goals Of The Season</title>
-    <desc lang="en">beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260813195300 +0000" stop="20260813220000 +0000" channel="beinsports.unifitv">
-    <title lang="en">WAFCON - PO2 (L)</title>
-    <desc lang="en">Africa's finest women's football returns to beIN SPORTS! Watch 16 elite nations battle in Morocco beyond lifting the trophy, teams are fighting for direct qualification to the 2027 FIFA Women's World Cup in Brazil.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260813220000 +0000" stop="20260813223000 +0000" channel="beinsports.unifitv">
+  <programme start="20260813190000 +0000" stop="20260813193000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga FC Futures - River Plate vs Inter Miami</title>
     <desc lang="en">The best professional youth clubs from LaLiga EA Sports competition and international soccer leagues battle it out in this prestigious football competition.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260813223000 +0000" stop="20260813230000 +0000" channel="beinsports.unifitv">
+  <programme start="20260813193000 +0000" stop="20260813200000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga FC Futures - Barcelona vs Valencia</title>
     <desc lang="en">The best professional youth clubs from LaLiga EA Sports competition and international soccer leagues battle it out in this prestigious football competition.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260813200000 +0000" stop="20260813230000 +0000" channel="beinsports.unifitv">
+    <title lang="en">European Le Mans Series - Imola - Race</title>
+    <desc lang="en">One of the world's most prestigious endurance racing championships. The best teams and drivers compete in thrilling races, driving LMP2, LMP3 and spectacular GT3 prototypes</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260813230000 +0000" stop="20260813233000 +0000" channel="beinsports.unifitv">
