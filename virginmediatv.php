@@ -3787,7 +3787,10 @@
 <programme start="20260814030000 +0000" stop="20260814040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260814040000 +0000" stop="20260814060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260814040000 +0000" stop="20260814050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260814050000 +0000" stop="20260814060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260814120000 +0000" stop="20260814130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4049,7 +4052,7 @@
     <title>NFL Football - Dallas Cowboys at Detroit Lions</title>
 </programme>
 <programme start="20260814170000 +0000" stop="20260814180000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>NFL Football - Super Bowl LIX: Kansas City Chiefs v Philadelphia Eagles</title>
 </programme>
 <programme start="20260813160000 +0000" stop="20260814030000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 1</title>
@@ -4159,8 +4162,8 @@
 <programme start="20260814164500 +0000" stop="20260814170000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>NFL Football - Carolina Panthers at Tampa Bay Buccaneers</title>
 </programme>
-<programme start="20260814170000 +0000" stop="20260814190000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Pro Football Talk</title>
+<programme start="20260814170000 +0000" stop="20260814180000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>NFL Football - Super Bowl LIX: Kansas City Chiefs v Philadelphia Eagles</title>
 </programme>
 <programme start="20260814000000 +0000" stop="20260814020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: ATP Canadian Open 2026 - Final</title>
@@ -4366,14 +4369,8 @@
 <programme start="20260814050000 +0000" stop="20260814060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>LIV Golf League - New York: Tournament Review</title>
 </programme>
-<programme start="20260814113000 +0000" stop="20260814150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260814113000 +0000" stop="20260814163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: China Open Snooker - Quarter-Finals: Neil Robertson v Mark Selby</title>
-</programme>
-<programme start="20260814150000 +0000" stop="20260814160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Serie A Full Impact - Season Preview</title>
-</programme>
-<programme start="20260814160000 +0000" stop="20260814163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>TNT Sports Reload - Episode 32</title>
 </programme>
 <programme start="20260814163000 +0000" stop="20260814170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>MLB Plays of the Week - Episode 19</title>
@@ -4450,11 +4447,8 @@
 <programme start="20260814054500 +0000" stop="20260814060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>UEFA Europa League Goals Reload - Episode 4</title>
 </programme>
-<programme start="20260814093000 +0000" stop="20260814121500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260814093000 +0000" stop="20260814124500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: European Athletics Championships - Day 5</title>
-</programme>
-<programme start="20260814121500 +0000" stop="20260814124500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>CPL T20 - Jamaica Kingsmen v Guyana Amazon Warriors</title>
 </programme>
 <programme start="20260814124500 +0000" stop="20260814134500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -4582,7 +4576,10 @@
 <programme start="20260814030000 +0000" stop="20260814040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260814040000 +0000" stop="20260814060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260814040000 +0000" stop="20260814050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260814050000 +0000" stop="20260814060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260814120000 +0000" stop="20260814130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4843,8 +4840,8 @@
 <programme start="20260814160000 +0000" stop="20260814170000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Dallas Cowboys at Detroit Lions</title>
 </programme>
-<programme start="20260814170000 +0000" stop="20260814190000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>Pro Football Talk</title>
+<programme start="20260814170000 +0000" stop="20260814180000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - Super Bowl LIX: Kansas City Chiefs v Philadelphia Eagles</title>
 </programme>
 <programme start="20260813160000 +0000" stop="20260814030000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 1</title>
@@ -4954,8 +4951,8 @@
 <programme start="20260814164500 +0000" stop="20260814170000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>NFL Football - Carolina Panthers at Tampa Bay Buccaneers</title>
 </programme>
-<programme start="20260814170000 +0000" stop="20260814190000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Pro Football Talk</title>
+<programme start="20260814170000 +0000" stop="20260814180000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>NFL Football - Super Bowl LIX: Kansas City Chiefs v Philadelphia Eagles</title>
 </programme>
 <programme start="20260814000000 +0000" stop="20260814020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: ATP Canadian Open 2026 - Final</title>
@@ -5050,14 +5047,8 @@
 <programme start="20260814050000 +0000" stop="20260814060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>LIV Golf League - New York: Tournament Review</title>
 </programme>
-<programme start="20260814113000 +0000" stop="20260814150000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260814113000 +0000" stop="20260814163000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: China Open Snooker - Quarter-Finals: Neil Robertson v Mark Selby</title>
-</programme>
-<programme start="20260814150000 +0000" stop="20260814160000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Serie A Full Impact - Season Preview</title>
-</programme>
-<programme start="20260814160000 +0000" stop="20260814163000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>TNT Sports Reload - Episode 32</title>
 </programme>
 <programme start="20260814163000 +0000" stop="20260814170000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>MLB Plays of the Week - Episode 19</title>
@@ -5134,11 +5125,8 @@
 <programme start="20260814054500 +0000" stop="20260814060000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>UEFA Europa League Goals Reload - Episode 4</title>
 </programme>
-<programme start="20260814093000 +0000" stop="20260814121500 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260814093000 +0000" stop="20260814124500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: European Athletics Championships - Day 5</title>
-</programme>
-<programme start="20260814121500 +0000" stop="20260814124500 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>CPL T20 - Jamaica Kingsmen v Guyana Amazon Warriors</title>
 </programme>
 <programme start="20260814124500 +0000" stop="20260814134500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -6298,7 +6286,10 @@
 <programme start="20260813175800 +0000" stop="20260814015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260814015800 +0000" stop="20260814060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260814015800 +0000" stop="20260814050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260814050000 +0000" stop="20260814060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260814115000 +0000" stop="20260814120500 +0000" channel="CBBC.virginmediatv">
