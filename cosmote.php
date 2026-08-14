@@ -1,7 +1,3 @@
-<programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Paris Saint Germain - FC Bayern Munchen</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Atletico de Madrid - Arsenal</title>
     <desc>Live: Tidak</desc>
@@ -138,9 +134,9 @@
     <title>Football: Rio Ave - FC Porto (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Wolverhampton Wanderers - Blackburn Rovers (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260816043000 +0700" stop="20260816063000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Parma</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rangers FC - Hibernian</title>
@@ -212,10 +208,6 @@
 </programme>
 <programme start="20260816033000 +0700" stop="20260816053000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sheffield United - Birmingham City</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260815015000 +0700" stop="20260815040000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Alba Berlin - Karditsa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815040000 +0700" stop="20260815055500 +0700" channel="COSMOTE Sport 4 HD">
@@ -374,6 +366,10 @@
     <title>Football: Sevilla FC - Rayo Vallecano de Madrid (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260816043000 +0700" stop="20260816052000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Harley-Davidson Bagger World Cup 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260815020000 +0700" stop="20260815060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -409,10 +405,6 @@
 <programme start="20260816020000 +0700" stop="20260816060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815040000 +0700" stop="20260815050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -466,8 +458,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260816040000 +0700" stop="20260816050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="COSMOTE Sport 8 HD">
@@ -518,8 +510,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260816040000 +0700" stop="20260816060000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="COSMOTE Sport 9 HD">
@@ -567,6 +559,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816020000 +0700" stop="20260816040000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260816040000 +0700" stop="20260816060000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

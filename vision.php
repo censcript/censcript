@@ -59,7 +59,7 @@
 <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260815083000 +0000" stop="20260815103000 +0000" channel="RCTI.vision">
-<title>Oke Chef RCTI 37 (RCTI)</title>
+<title>Oke Chef RCTI 37</title>
 </programme>
 <programme start="20260815103000 +0000" stop="20260815120000 +0000" channel="RCTI.vision">
 <title>Ternyata Ini Cinta (RCTI)</title>
@@ -235,71 +235,65 @@
 <programme start="20260814160000 +0000" stop="20260814170000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260814170000 +0000" stop="20260814173000 +0000" channel="iNews.vision">
-<title>iNews Sport</title>
+<programme start="20260814170000 +0000" stop="20260814174500 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260814173000 +0000" stop="20260814180000 +0000" channel="iNews.vision">
-<title>Breaking News</title>
-</programme>
-<programme start="20260814180000 +0000" stop="20260814183000 +0000" channel="iNews.vision">
-<title>iNews Sore</title>
+<programme start="20260814174500 +0000" stop="20260814183000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20260814183000 +0000" stop="20260814190000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260814190000 +0000" stop="20260814193000 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
+<title>iNews</title>
 </programme>
 <programme start="20260814193000 +0000" stop="20260814201500 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<title>iNews</title>
 </programme>
 <programme start="20260814201500 +0000" stop="20260814210000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<title>iNews</title>
 </programme>
 <programme start="20260814210000 +0000" stop="20260814211500 +0000" channel="iNews.vision">
-<title>Realita</title>
+<title>iNews</title>
 </programme>
 <programme start="20260814211500 +0000" stop="20260814230000 +0000" channel="iNews.vision">
-<title>Inews Pagi (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20260814230000 +0000" stop="20260814231000 +0000" channel="iNews.vision">
-<title>Indonesia Raya</title>
+<title>iNews</title>
 </programme>
 <programme start="20260814231000 +0000" stop="20260814233000 +0000" channel="iNews.vision">
-<title>iNews Sport</title>
+<title>iNews</title>
 </programme>
 <programme start="20260814233000 +0000" stop="20260815003000 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<title>iNews</title>
 </programme>
-<programme start="20260815003000 +0000" stop="20260815011500 +0000" channel="iNews.vision">
-<title>Breaking News</title>
+<programme start="20260815003000 +0000" stop="20260815013000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260815011500 +0000" stop="20260815020000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<programme start="20260815013000 +0000" stop="20260815023000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260815020000 +0000" stop="20260815030000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<programme start="20260815023000 +0000" stop="20260815033000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260815030000 +0000" stop="20260815050000 +0000" channel="iNews.vision">
-<title>iNews Siang (L)</title>
-</programme>
-<programme start="20260815050000 +0000" stop="20260815053000 +0000" channel="iNews.vision">
-<title>Cahaya Hati The Series</title>
+<programme start="20260815033000 +0000" stop="20260815053000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20260815053000 +0000" stop="20260815070000 +0000" channel="iNews.vision">
-<title>Cahaya Hati Indonesia (L)</title>
+<title>iNews</title>
 </programme>
-<programme start="20260815070000 +0000" stop="20260815071000 +0000" channel="iNews.vision">
-<title>Breaking Goals (L)</title>
+<programme start="20260815070000 +0000" stop="20260815080000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260815071000 +0000" stop="20260815083000 +0000" channel="iNews.vision">
-<title>Breaking News (Inews)</title>
+<programme start="20260815080000 +0000" stop="20260815084500 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20260815083000 +0000" stop="20260815100000 +0000" channel="iNews.vision">
-<title>Realita (L)</title>
+<programme start="20260815084500 +0000" stop="20260815100000 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
 <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
+<title>iNews</title>
 </programme>
 <programme start="20260813233000 +0000" stop="20260814003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
@@ -517,6 +511,12 @@
 <programme start="20260815113000 +0000" stop="20260815121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260813230000 +0000" stop="20260814023000 +0000" channel="ANTV.vision">
+<title>Dil</title>
+</programme>
+<programme start="20260814023000 +0000" stop="20260814060000 +0000" channel="ANTV.vision">
+<title>Chalte Chalte</title>
+</programme>
 <programme start="20260814060000 +0000" stop="20260814073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -676,6 +676,9 @@
 <programme start="20260813233000 +0000" stop="20260814010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi</title>
 </programme>
+<programme start="20260814010000 +0000" stop="20260814040000 +0000" channel="TVOne.vision">
+<title>Sidang Paripurna MPR RI 2026</title>
+</programme>
 <programme start="20260814040000 +0000" stop="20260814053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -684,6 +687,9 @@
 </programme>
 <programme start="20260814060000 +0000" stop="20260814070000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Siang</title>
+</programme>
+<programme start="20260814070000 +0000" stop="20260814090000 +0000" channel="TVOne.vision">
+<title>Nota Keuangan RAPBN 2027</title>
 </programme>
 <programme start="20260814090000 +0000" stop="20260814110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260814122500 +0000" stop="20260814143500 +0000" channel="MDTV.vision">
 <title>Kupu Malam</title>
-</programme>
-<programme start="20260814143500 +0000" stop="20260814161500 +0000" channel="MDTV.vision">
-<title>Kisah Nyata Kereta Setan...</title>
-</programme>
-<programme start="20260814161500 +0000" stop="20260814172500 +0000" channel="MDTV.vision">
-<title>Customs Protection</title>
 </programme>
