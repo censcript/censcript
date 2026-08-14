@@ -3325,14 +3325,14 @@
     <episode-num system="xmltv_ns">0.224.</episode-num>
     <episode-num system="onscreen">S1E225</episode-num>
   </programme>
-  <programme start="20260813193500 +0000" stop="20260813200500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Severe Case Decoded</title>
-    <desc lang="en">The program focuses on various serious illnesses, explaining their causes, pathological mechanisms, latest treatment options, and prevention methods in an accessible way. Shaun Tam, Hera Chan, ,Kirby Lam and Carina Leung become investigators in the "Critical Care Unit," searching far and wide for clues, evidence, and witnesses to unravel the mysteries surrounding various deadly diseases. Senior doctors and scholars from major public and private hospitals in Hong Kong, as well as local university medical schools, combine real case studies and medical images to make complex medical knowledge relatable, enabling the public to gain a more comprehensive understanding of the diagnosis and treatment of serious illnesses, reducing misunderstandings and fear, and encouraging Hong Kong residents to get early checkups and timely treatment to safeguard their future health.</desc>
+  <programme start="20260813193500 +0000" stop="20260813195000 +0000" channel="tvbjade.unifitv">
+    <title lang="en">EXTRA</title>
+    <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs. Stay updated every night with the latest news from Hong Kong's entertainment industry, as well as film and entertainment news from around the world. We report on the newest developments of artists, promotions for TV series and movies, highlights from concerts, and coverage of grand award ceremonies. We even travel abroad to cover major entertainment events, track international movie stars, and conduct exclusive interviews with well-known singers, actors, and television personalities familiar to our audience—ensuring you can instantly grasp the latest happenings and news in the world of film and entertainment.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
+    <episode-num system="xmltv_ns">0.4081.</episode-num>
+    <episode-num system="onscreen">S1E4082</episode-num>
   </programme>
-  <programme start="20260813200500 +0000" stop="20260813210500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260813195000 +0000" stop="20260813210500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Below The Lion Rock 2024</title>
     <desc lang="en">The synopsis of "Below the Lion Rock 2024" is: Under the Lion Rock, life is full of flavors; love should be timely, love what you love. Upholding the consistent humanistic spirit of the series, it innovates and creates a diverse and flavorful Hong Kong experience.</desc>
     <category lang="en">Drama Series</category>
@@ -3477,14 +3477,14 @@
     <episode-num system="xmltv_ns">0.461.</episode-num>
     <episode-num system="onscreen">S1E462</episode-num>
   </programme>
-  <programme start="20260814090500 +0000" stop="20260814093500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big Boys Club</title>
-    <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
+  <programme start="20260814090500 +0000" stop="20260814092000 +0000" channel="tvbjade.unifitv">
+    <title lang="en">EXTRA</title>
+    <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs. Stay updated every night with the latest news from Hong Kong's entertainment industry, as well as film and entertainment news from around the world. We report on the newest developments of artists, promotions for TV series and movies, highlights from concerts, and coverage of grand award ceremonies. We even travel abroad to cover major entertainment events, track international movie stars, and conduct exclusive interviews with well-known singers, actors, and television personalities familiar to our audience—ensuring you can instantly grasp the latest happenings and news in the world of film and entertainment.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2199.</episode-num>
-    <episode-num system="onscreen">S1E2200</episode-num>
+    <episode-num system="xmltv_ns">0.4081.</episode-num>
+    <episode-num system="onscreen">S1E4082</episode-num>
   </programme>
-  <programme start="20260814093500 +0000" stop="20260814103500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260814092000 +0000" stop="20260814103500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Below The Lion Rock 2024</title>
     <desc lang="en">The synopsis of "Below the Lion Rock 2024" is: Under the Lion Rock, life is full of flavors; love should be timely, love what you love. Upholding the consistent humanistic spirit of the series, it innovates and creates a diverse and flavorful Hong Kong experience.</desc>
     <category lang="en">Drama Series</category>
@@ -15139,19 +15139,19 @@
     <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260813200000 +0000" stop="20260814000000 +0000" channel="spotv2.unifitv">
+  <programme start="20260813200000 +0000" stop="20260814000500 +0000" channel="spotv2.unifitv">
     <title lang="en">WTT Champions Yokohama 2026 - Day 4 Session 1</title>
     <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <category lang="en">Table Tennis</category>
   </programme>
-  <programme start="20260814000000 +0000" stop="20260814005500 +0000" channel="spotv2.unifitv">
+  <programme start="20260814000500 +0000" stop="20260814010000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain - Highlights</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260814005500 +0000" stop="20260814014000 +0000" channel="spotv2.unifitv">
+  <programme start="20260814010000 +0000" stop="20260814014000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Moto4 British Cup Rd 4 Brands Hatch - Race 2</title>
-    <desc lang="en">Rising young riders battle on track in this exciting development series. Witness raw talent, close racing and the future stars of motorcycle racing.</desc>
+    <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260814014000 +0000" stop="20260814021000 +0000" channel="spotv2.unifitv">

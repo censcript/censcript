@@ -7550,7 +7550,7 @@
     <title>Ditikung Temen Di Kebun Teh</title>
 </programme>
 <programme start="20260814083300 +0000" stop="20260814100000 +0000" channel="SCTV.mncvision">
-    <title>Bolak-Balik Pantang Mundur</title>
+    <title>Cewek Ke-33 Bikin Jatuh Cinta</title>
 </programme>
 <programme start="20260814100000 +0000" stop="20260814112700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
@@ -7607,7 +7607,7 @@
     <title>Ditikung Temen Di Kebun Teh</title>
 </programme>
 <programme start="20260814083300 +0000" stop="20260814100000 +0000" channel="SCTV HD.mncvision">
-    <title>Bolak-Balik Pantang Mundur</title>
+    <title>Cewek Ke-33 Bikin Jatuh Cinta</title>
 </programme>
 <programme start="20260814100000 +0000" stop="20260814112700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>

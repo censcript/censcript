@@ -1,26 +1,26 @@
     <programme start="20260813160000 +0000" stop="20260813163000 +0000" channel="Channel 5.mewatch">
-        <title>Yes Captain! - EP 5</title>
+        <title>Yes Captain! - EP </title>
     </programme>
     <programme start="20260813163000 +0000" stop="20260813173000 +0000" channel="Channel 5.mewatch">
-        <title>FBI: International S3 - EP 3</title>
+        <title>FBI: International S3 - EP </title>
     </programme>
     <programme start="20260813173000 +0000" stop="20260813180000 +0000" channel="Channel 5.mewatch">
-        <title>Wheel Of Fortune S42 - EP 182</title>
+        <title>Wheel Of Fortune S42 - EP </title>
     </programme>
     <programme start="20260813180000 +0000" stop="20260813190000 +0000" channel="Channel 5.mewatch">
-        <title>Beat Shazam USA S7 - EP 8</title>
+        <title>Beat Shazam USA S7 - EP </title>
     </programme>
     <programme start="20260813190000 +0000" stop="20260813200000 +0000" channel="Channel 5.mewatch">
-        <title>Unbeatable - EP 25</title>
+        <title>Unbeatable - EP </title>
     </programme>
     <programme start="20260813200000 +0000" stop="20260813203000 +0000" channel="Channel 5.mewatch">
-        <title>Weather Gone Viral S8 - EP 16</title>
+        <title>Weather Gone Viral S8 - EP </title>
     </programme>
     <programme start="20260813203000 +0000" stop="20260813213000 +0000" channel="Channel 5.mewatch">
-        <title>Jeremy Pang&#039;s Hong Kong Kitchen S1 - EP 5</title>
+        <title>Jeremy Pang&#039;s Hong Kong Kitchen S1 - EP </title>
     </programme>
     <programme start="20260813213000 +0000" stop="20260813220000 +0000" channel="Channel 5.mewatch">
-        <title>The Street Food Chef Indonesia - EP 3</title>
+        <title>The Street Food Chef Indonesia - EP </title>
     </programme>
     <programme start="20260813220000 +0000" stop="20260813223000 +0000" channel="Channel 5.mewatch">
         <title>Yu-Gi-Oh! Duel Monsters - EP </title>
@@ -134,22 +134,22 @@
         <title>The Maze Runner</title>
     </programme>
     <programme start="20260813160000 +0000" stop="20260813170000 +0000" channel="Channel 8.mewatch">
-        <title>Heroes - EP 12</title>
+        <title>Heroes - EP</title>
     </programme>
     <programme start="20260813170000 +0000" stop="20260813180000 +0000" channel="Channel 8.mewatch">
-        <title>Old Taste Detective S5 - EP 1</title>
+        <title>Old Taste Detective S5 - EP</title>
     </programme>
     <programme start="20260813180000 +0000" stop="20260813190000 +0000" channel="Channel 8.mewatch">
-        <title>Destiny - EP 8</title>
+        <title>Destiny - EP</title>
     </programme>
     <programme start="20260813190000 +0000" stop="20260813200000 +0000" channel="Channel 8.mewatch">
-        <title>Destiny - EP 9</title>
+        <title>Destiny - EP</title>
     </programme>
     <programme start="20260813200000 +0000" stop="20260813210000 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 633</title>
+        <title>Golden City - EP</title>
     </programme>
     <programme start="20260813210000 +0000" stop="20260813220000 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 634</title>
+        <title>Golden City - EP</title>
     </programme>
     <programme start="20260813220000 +0000" stop="20260813230000 +0000" channel="Channel 8.mewatch">
         <title>Rookies&#039; Kitchen - EP</title>
@@ -257,10 +257,10 @@
         <title>Life&#039;s Perfectionists S18 - EP 5</title>
     </programme>
     <programme start="20260813163000 +0000" stop="20260813173000 +0000" channel="Channel U.mewatch">
-        <title>Woman in a Veil - EP 11</title>
+        <title>Woman in a Veil - EP</title>
     </programme>
     <programme start="20260813173000 +0000" stop="20260813183000 +0000" channel="Channel U.mewatch">
-        <title>Woman in a Veil - EP 12</title>
+        <title>Woman in a Veil - EP</title>
     </programme>
     <programme start="20260813183000 +0000" stop="20260814025700 +0000" channel="Channel U.mewatch">
         <title>End of Transmission</title>
@@ -500,19 +500,19 @@
         <title>East Asia Tonight</title>
     </programme>
     <programme start="20260813170000 +0000" stop="20260813180000 +0000" channel="CNA.mewatch">
-        <title>Breakthroughs - EP 1</title>
+        <title>Breakthroughs - EP </title>
     </programme>
     <programme start="20260813180000 +0000" stop="20260813190000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
     </programme>
     <programme start="20260813190000 +0000" stop="20260813200000 +0000" channel="CNA.mewatch">
-        <title>Singapore&#039;s Balancing Act: Trade-Offs Of A City-State - EP 2</title>
+        <title>Singapore&#039;s Balancing Act: Trade-Offs Of A City-State - EP </title>
     </programme>
     <programme start="20260813200000 +0000" stop="20260813210000 +0000" channel="CNA.mewatch">
         <title>Asia Tonight</title>
     </programme>
     <programme start="20260813210000 +0000" stop="20260813220000 +0000" channel="CNA.mewatch">
-        <title>Insight - EP 13</title>
+        <title>Insight - EP </title>
     </programme>
     <programme start="20260813220000 +0000" stop="20260813230000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
@@ -698,10 +698,10 @@
         <title>No programme available now.</title>
     </programme>
     <programme start="20260813160000 +0000" stop="20260814160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15 August, Saturday 9.00pm. Hyundai Cup 2026 </title>
+        <title>No Programme available now. Next Broadcast on 15 August, Saturday 8.33pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260814160000 +0000" stop="20260815130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15 August, Saturday 9.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260814160000 +0000" stop="20260815123300 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 15 August, Saturday 8.33pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260813160000 +0000" stop="20260814160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

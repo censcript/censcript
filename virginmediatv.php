@@ -121,7 +121,7 @@
 <programme start="20260814154500 +0000" stop="20260814161500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Big Bang Theory - The Discovery Dissipation</title>
 </programme>
-<programme start="20260814161500 +0000" stop="20260814183000 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260814161500 +0000" stop="20260814180000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Live: European Aquatics Championships - Swimming: Day 5</title>
 </programme>
 <programme start="20260813234000 +0000" stop="20260814003000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -4169,7 +4169,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260814031500 +0000" stop="20260814033000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260814033000 +0000" stop="20260814034500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - ATP Final</title>
@@ -4364,7 +4364,7 @@
     <title>LIV Golf League - New York: Tournament Review</title>
 </programme>
 <programme start="20260814113000 +0000" stop="20260814150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: China Open Snooker - Quarter-Finals</title>
+    <title>Live: China Open Snooker - Quarter-Finals: Neil Robertson v Mark Selby</title>
 </programme>
 <programme start="20260814150000 +0000" stop="20260814160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Serie A Full Impact - Season Preview</title>
@@ -4964,7 +4964,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260814031500 +0000" stop="20260814033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260814033000 +0000" stop="20260814034500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - ATP Final</title>
@@ -5048,7 +5048,7 @@
     <title>LIV Golf League - New York: Tournament Review</title>
 </programme>
 <programme start="20260814113000 +0000" stop="20260814150000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: China Open Snooker - Quarter-Finals</title>
+    <title>Live: China Open Snooker - Quarter-Finals: Neil Robertson v Mark Selby</title>
 </programme>
 <programme start="20260814150000 +0000" stop="20260814160000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Serie A Full Impact - Season Preview</title>
