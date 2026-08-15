@@ -565,6 +565,9 @@
 <programme start="20260815154500 +0000" stop="20260815163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260815163000 +0000" stop="20260815181500 +0000" channel="Trans 7.vision">
+<title>7 Manusia Halimun</title>
+</programme>
 <programme start="20260815181500 +0000" stop="20260815190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -642,6 +645,18 @@
 </programme>
 <programme start="20260815093000 +0000" stop="20260815113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
+</programme>
+<programme start="20260815113000 +0000" stop="20260815140000 +0000" channel="ANTV.vision">
+<title>Nada Dan Dakwah</title>
+</programme>
+<programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="ANTV.vision">
+<title>The Doll 3</title>
+</programme>
+<programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="ANTV.vision">
+<title>Singa Karawang Bekasi</title>
+</programme>
+<programme start="20260815180000 +0000" stop="20260815190000 +0000" channel="ANTV.vision">
+<title>Three Wishes</title>
 </programme>
 <programme start="20260815190000 +0000" stop="20260815203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
@@ -822,6 +837,9 @@
 </programme>
 <programme start="20260815130000 +0000" stop="20260815140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
+</programme>
+<programme start="20260815140000 +0000" stop="20260815150000 +0000" channel="TVOne.vision">
+<title>Khazanah Qur&#039;an</title>
 </programme>
 <programme start="20260815150000 +0000" stop="20260815160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1479,22 +1497,4 @@
 </programme>
 <programme start="20260815000000 +0000" stop="20260815010000 +0000" channel="TVRI.vision">
 <title>Jendela Negeri</title>
-</programme>
-<programme start="20260815010000 +0000" stop="20260815020000 +0000" channel="TVRI.vision">
-<title>Bikin Asik Aja</title>
-</programme>
-<programme start="20260815020000 +0000" stop="20260815020300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260815020300 +0000" stop="20260815023000 +0000" channel="TVRI.vision">
-<title>Bermain Matematika</title>
-</programme>
-<programme start="20260815023000 +0000" stop="20260815030000 +0000" channel="TVRI.vision">
-<title>Mari Menggambar</title>
-</programme>
-<programme start="20260815030000 +0000" stop="20260815030300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20260815030300 +0000" stop="20260815033000 +0000" channel="TVRI.vision">
-<title>Pesona Indonesia</title>
 </programme>
