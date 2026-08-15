@@ -62,10 +62,6 @@
     <title>Football: FC Bayern Munchen - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260815110000 +0700" stop="20260815130000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sporting CP - Vitoria Guimaraes</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260815130000 +0700" stop="20260815150000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - SSC Napoli</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260816110000 +0700" stop="20260816130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Rio Ave - FC Porto</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260816130000 +0700" stop="20260816150000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815120000 +0700" stop="20260815140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +242,6 @@
     <title>Basketball: Fenerbahce - Erokspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260815120000 +0700" stop="20260815130000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260815130000 +0700" stop="20260815131500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
@@ -338,12 +334,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260815103000 +0700" stop="20260815124000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260815124000 +0700" stop="20260815130000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2026 Outdoor Specials</title>
+<programme start="20260816130500 +0700" stop="20260816144000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815130000 +0700" stop="20260815153000 +0700" channel="COSMOTE Sport 6 HD">
@@ -384,6 +376,10 @@
 </programme>
 <programme start="20260816124000 +0700" stop="20260816130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2026 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260816130000 +0700" stop="20260816170000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815120000 +0700" stop="20260815140000 +0700" channel="COSMOTE Sport 7 HD">

@@ -3886,43 +3886,25 @@
 <programme start="20260815004500 +0000" stop="20260815010000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s: Sunrisers Leeds v Welsh Fire</title>
 </programme>
-<programme start="20260815010000 +0000" stop="20260815041500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260815010000 +0000" stop="20260815083000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
 </programme>
-<programme start="20260815041500 +0000" stop="20260815043000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC T20 World Cup - 2010: England v Australia</title>
-</programme>
-<programme start="20260815043000 +0000" stop="20260815044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC T20 World Cup - 2016: India v Australia</title>
-</programme>
-<programme start="20260815044500 +0000" stop="20260815050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Men&#039;s: Manchester Super Giants v Trent Rockets</title>
-</programme>
-<programme start="20260815050000 +0000" stop="20260815081500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
-</programme>
-<programme start="20260815090000 +0000" stop="20260815123000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260815090000 +0000" stop="20260815124500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s Eliminator: Manchester Super Giants v Sunrisers Leeds</title>
-</programme>
-<programme start="20260815123000 +0000" stop="20260815124500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
 </programme>
 <programme start="20260815124500 +0000" stop="20260815130000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Men&#039;s Eliminator: Manchester Super Giants v Sunrisers Leeds</title>
-</programme>
-<programme start="20260815130000 +0000" stop="20260815161500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
 </programme>
-<programme start="20260815161500 +0000" stop="20260815163000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Women&#039;s: Sunrisers Leeds v Welsh Fire</title>
+<programme start="20260815130000 +0000" stop="20260815131500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>The Hundred - Men&#039;s Eliminator: Manchester Super Giants v Sunrisers Leeds</title>
 </programme>
-<programme start="20260815163000 +0000" stop="20260815164500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Women&#039;s: London Spirit v Birmingham Phoenix</title>
+<programme start="20260815131500 +0000" stop="20260815164500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
 </programme>
 <programme start="20260815164500 +0000" stop="20260815170000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Men&#039;s: Sunrisers Leeds v Welsh Fire</title>
+    <title>The Hundred - Women&#039;s: Sunrisers Leeds v Welsh Fire</title>
 </programme>
-<programme start="20260815170000 +0000" stop="20260815203000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260815170000 +0000" stop="20260815205000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s Eliminator: Manchester Super Giants v Sunrisers Leeds</title>
 </programme>
 <programme start="20260814220000 +0000" stop="20260815010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
@@ -4564,43 +4546,25 @@
 <programme start="20260815004500 +0000" stop="20260815010000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s: Sunrisers Leeds v Welsh Fire</title>
 </programme>
-<programme start="20260815010000 +0000" stop="20260815041500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260815010000 +0000" stop="20260815083000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
 </programme>
-<programme start="20260815041500 +0000" stop="20260815043000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC T20 World Cup - 2010: England v Australia</title>
-</programme>
-<programme start="20260815043000 +0000" stop="20260815044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC T20 World Cup - 2016: India v Australia</title>
-</programme>
-<programme start="20260815044500 +0000" stop="20260815050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Men&#039;s: Manchester Super Giants v Trent Rockets</title>
-</programme>
-<programme start="20260815050000 +0000" stop="20260815081500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
-</programme>
-<programme start="20260815090000 +0000" stop="20260815123000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260815090000 +0000" stop="20260815124500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s Eliminator: Manchester Super Giants v Sunrisers Leeds</title>
-</programme>
-<programme start="20260815123000 +0000" stop="20260815124500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
 </programme>
 <programme start="20260815124500 +0000" stop="20260815130000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Men&#039;s Eliminator: Manchester Super Giants v Sunrisers Leeds</title>
-</programme>
-<programme start="20260815130000 +0000" stop="20260815161500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
 </programme>
-<programme start="20260815161500 +0000" stop="20260815163000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Women&#039;s: Sunrisers Leeds v Welsh Fire</title>
+<programme start="20260815130000 +0000" stop="20260815131500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>The Hundred - Men&#039;s Eliminator: Manchester Super Giants v Sunrisers Leeds</title>
 </programme>
-<programme start="20260815163000 +0000" stop="20260815164500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Women&#039;s: London Spirit v Birmingham Phoenix</title>
+<programme start="20260815131500 +0000" stop="20260815164500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>The Hundred - Women&#039;s Eliminator: Sunrisers Leeds v Southern Brave</title>
 </programme>
 <programme start="20260815164500 +0000" stop="20260815170000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Men&#039;s: Sunrisers Leeds v Welsh Fire</title>
+    <title>The Hundred - Women&#039;s: Sunrisers Leeds v Welsh Fire</title>
 </programme>
-<programme start="20260815170000 +0000" stop="20260815203000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260815170000 +0000" stop="20260815205000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s Eliminator: Manchester Super Giants v Sunrisers Leeds</title>
 </programme>
 <programme start="20260814220000 +0000" stop="20260815010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
