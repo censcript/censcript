@@ -126,12 +126,8 @@
     <title>Football: Genoa - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260815080000 +0700" stop="20260815083000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Ultimate Rush S5 E5</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260815083000 +0700" stop="20260815090000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Ultimate Rush S5 E6</title>
+<programme start="20260816090000 +0700" stop="20260816110000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sporting CP - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815090000 +0700" stop="20260815093000 +0700" channel="COSMOTE Sport 3 HD">
@@ -256,10 +252,6 @@
 </programme>
 <programme start="20260816081000 +0700" stop="20260816100000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260815072500 +0700" stop="20260815090000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260815090000 +0700" stop="20260815100000 +0700" channel="COSMOTE Sport 5 HD">

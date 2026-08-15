@@ -14279,7 +14279,7 @@
   </programme>
   <programme start="20260814163500 +0000" stop="20260814170500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Frontrunners</title>
-    <desc lang="en">This programme highlights professionals at the very forefront of their field - we showcase their amazing work, discover their motivations, and learn about the challenges they face in the future.</desc>
+    <desc lang="en">Dr Oshiro Kazue is a skilled mountain medic dedicated to promoting awareness of alpine safety, even spending her summers treating climbers from a cabin near the peak of the iconic Mount Fuji.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2102.</episode-num>
     <episode-num system="onscreen">S1E2103</episode-num>
@@ -14305,7 +14305,7 @@
   </programme>
   <programme start="20260814173500 +0000" stop="20260814180500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc lang="en">As the global space race accelerates, China has opened development to private companies, and young innovators create unprecedented forms of space technology such as compact reusable rocket engines.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14316,8 +14316,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260814181500 +0000" stop="20260814182800 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Biz Stream Special Edition</title>
+    <desc lang="en">Rehab Reimagined: From home-made activities to interactive digital technology, this episode focuses on different approaches to physical therapy.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14331,7 +14331,7 @@
   </programme>
   <programme start="20260814183300 +0000" stop="20260814184800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Hosono Hitomi's botanically-themed ceramics are highly acclaimed and held in museum collections across the world - she talks about her intricate designs and unmatched technique.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
@@ -14352,17 +14352,17 @@
   </programme>
   <programme start="20260814190500 +0000" stop="20260814193500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">From prevention to cure, the groundbreaking world of Japanese medical technology and healthcare! This programme offers tips for superfoods and easy exercises for a healthy lifestyle.</desc>
+    <desc lang="en">Japanese researchers have uncovered part of the mechanism by which zinc deficiency triggers inflammation linked to a wide range of diseases. We look at why this mineral is so vital to our health.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2049.</episode-num>
     <episode-num system="onscreen">S1E2050</episode-num>
   </programme>
   <programme start="20260814193500 +0000" stop="20260814200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">tiny desk concerts Japan</title>
+    <desc lang="en">Singer-songwriter Moriyama Naotaro has touched the hearts of listeners with his unique voice and poetic lyricism for decades - now he makes his debut on 'tiny desk concerts Japan'.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4032.</episode-num>
-    <episode-num system="onscreen">S1E4033</episode-num>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
   </programme>
   <programme start="20260814200500 +0000" stop="20260814201500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14385,7 +14385,7 @@
   </programme>
   <programme start="20260814203500 +0000" stop="20260814210500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Guruguru Designs. Nature's spirals, circles, and swirls are reflected in "guruguru" designs. From prehistoric pottery to modern art and fashion, these shapes still fascinate us today.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2100.</episode-num>
     <episode-num system="onscreen">S1E2101</episode-num>
@@ -14396,8 +14396,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260814211500 +0000" stop="20260814212800 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Biz Stream Special Edition</title>
+    <desc lang="en">Rehab Reimagined: From home-made activities to interactive digital technology, this episode focuses on different approaches to physical therapy.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14437,7 +14437,7 @@
   </programme>
   <programme start="20260814223500 +0000" stop="20260814230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc lang="en">As the global space race accelerates, China has opened development to private companies, and young innovators create unprecedented forms of space technology such as compact reusable rocket engines.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14473,12 +14473,19 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260815001500 +0000" stop="20260815010500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+  <programme start="20260815001500 +0000" stop="20260815010200 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Kamikaze: An Untold History</title>
+    <desc lang="en">Kamikaze, explosive-laden ramming attacks, were carried out during World War II and sacrificed 4,000 lives - why did the Japanese push forward with this method? We uncover the truth.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
+  </programme>
+  <programme start="20260815010200 +0000" stop="20260815010500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Time-Lapse Japan</title>
+    <desc lang="en">Matsue is known as the "city of water." It is home to Lake Shinji, which is famous for its shijimi clams. Through beautiful time-lapse footage, we see the lake's changing colours and expressions.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6052.</episode-num>
+    <episode-num system="onscreen">S1E6053</episode-num>
   </programme>
   <programme start="20260815010500 +0000" stop="20260815011500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14486,8 +14493,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260815011500 +0000" stop="20260815020500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Let's Trek Japan</title>
+    <desc lang="en">Discover a hiking destination loved across Japan. Explore vast wetlands alive with delicate flowers and wildlife, meet the warm people protecting this wonder, and enjoy an exciting climb!</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14499,7 +14506,7 @@
   </programme>
   <programme start="20260815021500 +0000" stop="20260815030500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals, and discover hidden traditions in a Japan that you didn't know existed.</desc>
+    <desc lang="en">Shizuoka has everything from beaches to mountains, but this time our road takes us through its deep forests from wild rides on timber trails to a wild taste experience in the birthplace of wasabi.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2065.</episode-num>
     <episode-num system="onscreen">S1E2066</episode-num>
@@ -14511,7 +14518,7 @@
   </programme>
   <programme start="20260815031500 +0000" stop="20260815034500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Guruguru Designs. Nature's spirals, circles, and swirls are reflected in "guruguru" designs. From prehistoric pottery to modern art and fashion, these shapes still fascinate us today.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2100.</episode-num>
     <episode-num system="onscreen">S1E2101</episode-num>
@@ -14535,12 +14542,26 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260815041500 +0000" stop="20260815050500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+  <programme start="20260815041500 +0000" stop="20260815044500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Samurai Wisdom</title>
+    <desc lang="en">Yoshimune is the shogun who saved the city of Edo - through disaster and economic strife, his wisdom alongside its people shaped the future of the place now called Tokyo.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3021.</episode-num>
     <episode-num system="onscreen">S1E3022</episode-num>
+  </programme>
+  <programme start="20260815044500 +0000" stop="20260815050000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Deep Culture: Kyle Card explores the San'in Kaigan Geopark and uncovers Yumura's hot springs, Ojiro's hillside rice terraces and heritage Tajima beef, and the Oriental White Stork wetlands of Toyooka.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6216.</episode-num>
+    <episode-num system="onscreen">S1E6217</episode-num>
+  </programme>
+  <programme start="20260815050000 +0000" stop="20260815050500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyo-e Edo-Life</title>
+    <desc lang="en">A Stylish Concert: A master koto player delights a crowd of gorgeously dressed celebrity types at a New Year's concert at a samurai residence, and in the best seat in the house is no ordinary VIP...</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
   </programme>
   <programme start="20260815050500 +0000" stop="20260815051500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14549,7 +14570,7 @@
   </programme>
   <programme start="20260815051500 +0000" stop="20260815053000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Soil Liquefaction: When a big earthquake hits, ground can turn into muddy water called liquefaction - buildings may sink, tilt, and become uninhabitable. Find out the mechanisms and how to prevent it.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
@@ -14573,12 +14594,19 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260815061500 +0000" stop="20260815070500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+  <programme start="20260815061500 +0000" stop="20260815070200 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Kamikaze: An Untold History</title>
+    <desc lang="en">Kamikaze, explosive-laden ramming attacks, were carried out during World War II and sacrificed 4,000 lives - why did the Japanese push forward with this method? We uncover the truth.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
+  </programme>
+  <programme start="20260815070200 +0000" stop="20260815070500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Time-Lapse Japan</title>
+    <desc lang="en">Matsue is known as the "city of water." It is home to Lake Shinji, which is famous for its shijimi clams. Through beautiful time-lapse footage, we see the lake's changing colours and expressions.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6052.</episode-num>
+    <episode-num system="onscreen">S1E6053</episode-num>
   </programme>
   <programme start="20260815070500 +0000" stop="20260815071500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14586,8 +14614,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260815071500 +0000" stop="20260815080500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Let's Trek Japan</title>
+    <desc lang="en">Discover a hiking destination loved across Japan. Explore vast wetlands alive with delicate flowers and wildlife, meet the warm people protecting this wonder, and enjoy an exciting climb!</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14597,12 +14625,26 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260815081500 +0000" stop="20260815090500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+  <programme start="20260815081500 +0000" stop="20260815084500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Samurai Wisdom</title>
+    <desc lang="en">Yoshimune is the shogun who saved the city of Edo - through disaster and economic strife, his wisdom alongside its people shaped the future of the place now called Tokyo.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3021.</episode-num>
     <episode-num system="onscreen">S1E3022</episode-num>
+  </programme>
+  <programme start="20260815084500 +0000" stop="20260815090000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Deep Culture: Kyle Card explores the San'in Kaigan Geopark and uncovers Yumura's hot springs, Ojiro's hillside rice terraces and heritage Tajima beef, and the Oriental White Stork wetlands of Toyooka.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6216.</episode-num>
+    <episode-num system="onscreen">S1E6217</episode-num>
+  </programme>
+  <programme start="20260815090000 +0000" stop="20260815090500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyo-e Edo-Life</title>
+    <desc lang="en">A Stylish Concert: A master koto player delights a crowd of gorgeously dressed celebrity types at a New Year's concert at a samurai residence, and in the best seat in the house is no ordinary VIP...</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
   </programme>
   <programme start="20260815090500 +0000" stop="20260815091500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14611,7 +14653,7 @@
   </programme>
   <programme start="20260815091500 +0000" stop="20260815094500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Guruguru Designs. Nature's spirals, circles, and swirls are reflected in "guruguru" designs. From prehistoric pottery to modern art and fashion, these shapes still fascinate us today.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2100.</episode-num>
     <episode-num system="onscreen">S1E2101</episode-num>
@@ -14637,7 +14679,7 @@
   </programme>
   <programme start="20260815101500 +0000" stop="20260815110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals, and discover hidden traditions in a Japan that you didn't know existed.</desc>
+    <desc lang="en">Shizuoka has everything from beaches to mountains, but this time our road takes us through its deep forests from wild rides on timber trails to a wild taste experience in the birthplace of wasabi.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2065.</episode-num>
     <episode-num system="onscreen">S1E2066</episode-num>
@@ -14649,7 +14691,7 @@
   </programme>
   <programme start="20260815111500 +0000" stop="20260815113000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Soil Liquefaction: When a big earthquake hits, ground can turn into muddy water called liquefaction - buildings may sink, tilt, and become uninhabitable. Find out the mechanisms and how to prevent it.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
@@ -14673,12 +14715,19 @@
     <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
     <category lang="en">Infotainment</category>
   </programme>
-  <programme start="20260815121500 +0000" stop="20260815130500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+  <programme start="20260815121500 +0000" stop="20260815130200 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Kamikaze: An Untold History</title>
+    <desc lang="en">Kamikaze, explosive-laden ramming attacks, were carried out during World War II and sacrificed 4,000 lives - why did the Japanese push forward with this method? We uncover the truth.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
+  </programme>
+  <programme start="20260815130200 +0000" stop="20260815130500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Time-Lapse Japan</title>
+    <desc lang="en">Matsue is known as the "city of water." It is home to Lake Shinji, which is famous for its shijimi clams. Through beautiful time-lapse footage, we see the lake's changing colours and expressions.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.6052.</episode-num>
+    <episode-num system="onscreen">S1E6053</episode-num>
   </programme>
   <programme start="20260815130500 +0000" stop="20260815131500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14686,8 +14735,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260815131500 +0000" stop="20260815140500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Let's Trek Japan</title>
+    <desc lang="en">Discover a hiking destination loved across Japan. Explore vast wetlands alive with delicate flowers and wildlife, meet the warm people protecting this wonder, and enjoy an exciting climb!</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14732,7 +14781,7 @@
   </programme>
   <programme start="20260815151500 +0000" stop="20260815160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals, and discover hidden traditions in a Japan that you didn't know existed.</desc>
+    <desc lang="en">Shizuoka has everything from beaches to mountains, but this time our road takes us through its deep forests from wild rides on timber trails to a wild taste experience in the birthplace of wasabi.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2065.</episode-num>
     <episode-num system="onscreen">S1E2066</episode-num>

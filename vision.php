@@ -631,9 +631,6 @@
 <programme start="20260816113000 +0000" stop="20260816121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260814230000 +0000" stop="20260815023000 +0000" channel="ANTV.vision">
-<title>Thugs Of Hindustan</title>
-</programme>
 <programme start="20260815023000 +0000" stop="20260815060000 +0000" channel="ANTV.vision">
 <title>Mann</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260816113000 +0000" stop="20260816120000 +0000" channel="BTV.vision">
 <title>Persona</title>
+</programme>
+<programme start="20260815000000 +0000" stop="20260815010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
 </programme>
