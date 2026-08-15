@@ -4169,7 +4169,7 @@
     <title>The Official United Podcast - Inside Carrington Podcast - Scholars Celebration</title>
 </programme>
 <programme start="20260815040000 +0000" stop="20260815043000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Premier League 25/26</title>
+    <title>Channel Off Air</title>
 </programme>
 <programme start="20260815043000 +0000" stop="20260815053000 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - MU Women 25/26</title>
