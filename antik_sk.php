@@ -1682,7 +1682,7 @@
     <title lang="id">MalinyJamológia 2 (2)</title>
   </programme>
   <programme start="20260816222500 +0000" stop="20260816223500 +0000" channel="Jojko.webtv.sk">
-    <title lang="id">Zabi nudu!! II (17)</title>
+    <title lang="id">Zabi nudu! II (17)</title>
   </programme>
   <programme start="20260816223500 +0000" stop="20260816224000 +0000" channel="Jojko.webtv.sk">
     <title lang="id">Naše prasiatko (28)</title>
@@ -4096,77 +4096,92 @@
   <programme start="20260817215000 +0000" stop="20260817224000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">To nejlepší z Top Gearu (2)</title>
   </programme>
-  <programme start="20260816211500 +0000" stop="20260816222000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Rodinná pouta II (91)</title>
-  </programme>
-  <programme start="20260816222000 +0000" stop="20260816231500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260816215500 +0000" stop="20260816225000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (92)</title>
   </programme>
-  <programme start="20260816231500 +0000" stop="20260817000000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260816225000 +0000" stop="20260816233000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Láska beze slov (93)</title>
   </programme>
-  <programme start="20260817000000 +0000" stop="20260817004500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260816233000 +0000" stop="20260817001500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Láska beze slov (94)</title>
   </programme>
-  <programme start="20260817004500 +0000" stop="20260817012500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817001500 +0000" stop="20260817010000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy II (7)</title>
   </programme>
-  <programme start="20260817012500 +0000" stop="20260817021000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817010000 +0000" stop="20260817014500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy II (8)</title>
   </programme>
-  <programme start="20260817021000 +0000" stop="20260817030000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817014500 +0000" stop="20260817023500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">TGM: Talkshow Geni a Míši</title>
   </programme>
-  <programme start="20260817030000 +0000" stop="20260817040000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817023500 +0000" stop="20260817032500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Jak se staví sen</title>
   </programme>
-  <programme start="20260817040000 +0000" stop="20260817041500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817032500 +0000" stop="20260817034400 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Relaxační podívaná (4)</title>
+  </programme>
+  <programme start="20260817034400 +0000" stop="20260817040000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Vysielacia prestávka</title>
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817041000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Relaxační podívaná</title>
   </programme>
-  <programme start="20260817041500 +0000" stop="20260817061500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817041000 +0000" stop="20260817044000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Karolína, domácí kuchařka (10)</title>
+  </programme>
+  <programme start="20260817044000 +0000" stop="20260817050500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Karolína, domácí kuchařka (11)</title>
+  </programme>
+  <programme start="20260817050500 +0000" stop="20260817055500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Jak se staví sen - extra (8)</title>
+  </programme>
+  <programme start="20260817055500 +0000" stop="20260817074000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rosamunde Pilcher</title>
   </programme>
-  <programme start="20260817061500 +0000" stop="20260817071500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817074000 +0000" stop="20260817083500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfe!</title>
   </programme>
-  <programme start="20260817071500 +0000" stop="20260817081500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817083500 +0000" stop="20260817093000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy II (7)</title>
   </programme>
-  <programme start="20260817081500 +0000" stop="20260817091500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817093000 +0000" stop="20260817102000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy II (8)</title>
   </programme>
-  <programme start="20260817091500 +0000" stop="20260817102000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817102000 +0000" stop="20260817112000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (93)</title>
   </programme>
-  <programme start="20260817102000 +0000" stop="20260817112500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817112000 +0000" stop="20260817121500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (94)</title>
   </programme>
-  <programme start="20260817112500 +0000" stop="20260817131500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817121500 +0000" stop="20260817135500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rosamunde Pilcher</title>
   </programme>
-  <programme start="20260817131500 +0000" stop="20260817141500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817135500 +0000" stop="20260817144500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Láska beze slov (95)</title>
   </programme>
-  <programme start="20260817141500 +0000" stop="20260817151500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817144500 +0000" stop="20260817153500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Láska beze slov (96)</title>
   </programme>
-  <programme start="20260817151500 +0000" stop="20260817161500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817153500 +0000" stop="20260817163500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfe!</title>
   </programme>
-  <programme start="20260817161500 +0000" stop="20260817171500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817163500 +0000" stop="20260817171500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy II (9)</title>
   </programme>
   <programme start="20260817171500 +0000" stop="20260817181500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy II (10)</title>
   </programme>
-  <programme start="20260817181500 +0000" stop="20260817201000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817181500 +0000" stop="20260817200000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rosamunde Pilcher</title>
   </programme>
-  <programme start="20260817201000 +0000" stop="20260817211500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817200000 +0000" stop="20260817205500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfe!</title>
   </programme>
-  <programme start="20260817211500 +0000" stop="20260817222000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260817205500 +0000" stop="20260817215500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (93)</title>
+  </programme>
+  <programme start="20260817215500 +0000" stop="20260817224500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Rodinná pouta II (94)</title>
   </programme>
   <programme start="20260816213500 +0000" stop="20260816221500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXVIII (19)</title>
@@ -9007,10 +9022,10 @@
   <programme start="20260817154500 +0000" stop="20260817175000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Jobs</title>
   </programme>
-  <programme start="20260817175000 +0000" stop="20260817190500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20260817175000 +0000" stop="20260817190000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Riskantní shledání</title>
   </programme>
-  <programme start="20260817190500 +0000" stop="20260817211000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20260817190000 +0000" stop="20260817211000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Ztracená legenda</title>
   </programme>
   <programme start="20260817211000 +0000" stop="20260817230000 +0000" channel="FilmBox Extra.webtv.sk">
