@@ -3912,8 +3912,8 @@
     <episode-num system="onscreen">S1E20260807</episode-num>
   </programme>
   <programme start="20260815050800 +0000" stop="20260815055500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Te Bie Xing Dong</title>
-    <desc lang="en">Set in 1948 during a pivotal turning point in the Chinese Civil War, the story follows Su Xing, a skilled Chinese Communist Party (CCP) intelligence operative. Following the release of the landmark "May First Slogans," a group of prominent democratic figures and patriotic intellectuals—led by the renowned scientist Professor Tong Jiangnan—are stranded in British</desc>
+    <title lang="en">Jue Sheng Ling Ju Li</title>
+    <desc lang="en">In a military Drill, captain He Tiangao and Chai Shenghua, lead Xiaowolf Special Forces bravely attacked two tough gated, and a passionate story of fighting against foreign terrorist forces who tried to sabotage the exercise.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -3926,22 +3926,22 @@
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260815064100 +0000" stop="20260815072900 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Te Bie Xing Dong</title>
-    <desc lang="en">Set in 1948 during a pivotal turning point in the Chinese Civil War, the story follows Su Xing, a skilled Chinese Communist Party (CCP) intelligence operative. Following the release of the landmark "May First Slogans," a group of prominent democratic figures and patriotic intellectuals—led by the renowned scientist Professor Tong Jiangnan—are stranded in British</desc>
+    <title lang="en">Jue Sheng Ling Ju Li</title>
+    <desc lang="en">In a military Drill, captain He Tiangao and Chai Shenghua, lead Xiaowolf Special Forces bravely attacked two tough gated, and a passionate story of fighting against foreign terrorist forces who tried to sabotage the exercise.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260815072900 +0000" stop="20260815081600 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Te Bie Xing Dong</title>
-    <desc lang="en">Set in 1948 during a pivotal turning point in the Chinese Civil War, the story follows Su Xing, a skilled Chinese Communist Party (CCP) intelligence operative. Following the release of the landmark "May First Slogans," a group of prominent democratic figures and patriotic intellectuals—led by the renowned scientist Professor Tong Jiangnan—are stranded in British</desc>
+    <title lang="en">Jue Sheng Ling Ju Li</title>
+    <desc lang="en">In a military Drill, captain He Tiangao and Chai Shenghua, lead Xiaowolf Special Forces bravely attacked two tough gated, and a passionate story of fighting against foreign terrorist forces who tried to sabotage the exercise.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260815081600 +0000" stop="20260815090400 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Te Bie Xing Dong</title>
-    <desc lang="en">Set in 1948 during a pivotal turning point in the Chinese Civil War, the story follows Su Xing, a skilled Chinese Communist Party (CCP) intelligence operative. Following the release of the landmark "May First Slogans," a group of prominent democratic figures and patriotic intellectuals—led by the renowned scientist Professor Tong Jiangnan—are stranded in British</desc>
+    <title lang="en">Jue Sheng Ling Ju Li</title>
+    <desc lang="en">In a military Drill, captain He Tiangao and Chai Shenghua, lead Xiaowolf Special Forces bravely attacked two tough gated, and a passionate story of fighting against foreign terrorist forces who tried to sabotage the exercise.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
