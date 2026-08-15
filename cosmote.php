@@ -1,7 +1,3 @@
-<programme start="20260816020000 +0700" stop="20260816023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine E35</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260816023000 +0700" stop="20260816033000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine E36</title>
     <desc>Live: Tidak</desc>
@@ -52,10 +48,6 @@
 </programme>
 <programme start="20260817023000 +0700" stop="20260817043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Aston Villa - Nottingham F.</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260816013000 +0700" stop="20260816023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816023000 +0700" stop="20260816043000 +0700" channel="COSMOTE Sport 2 HD">
@@ -246,14 +238,6 @@
     <title>Basketball: Karditsa - Alba Berlin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816011500 +0700" stop="20260816021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260816021500 +0700" stop="20260816023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260816023000 +0700" stop="20260816043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Sevilla FC - Rayo Vallecano de Madrid (L)</title>
     <desc>Live: Ya</desc>
@@ -350,6 +334,10 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260817035500 +0700" stop="20260817052500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260816020000 +0700" stop="20260816060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -392,10 +380,6 @@
 </programme>
 <programme start="20260817020000 +0700" stop="20260817060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260816003000 +0700" stop="20260816023000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Deportivo Alaves - Getafe CF (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260816023000 +0700" stop="20260816040000 +0700" channel="COSMOTE Sport 7 HD">
