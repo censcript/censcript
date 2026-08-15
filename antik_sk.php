@@ -1262,7 +1262,7 @@
     <title lang="id">Boj o život</title>
   </programme>
   <programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Osudné technické zlyhania</title>
+    <title lang="id">Osudné technické zlyhania I (5)</title>
   </programme>
   <programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Po stopách vrahov</title>
@@ -1298,7 +1298,7 @@
     <title lang="id">Boj o život</title>
   </programme>
   <programme start="20260817150000 +0000" stop="20260817160000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Osudné technické zlyhania</title>
+    <title lang="id">Osudné technické zlyhania I (5)</title>
   </programme>
   <programme start="20260817160000 +0000" stop="20260817170000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Po stopách vrahov</title>
@@ -2635,13 +2635,7 @@
   <programme start="20260817000000 +0000" stop="20260817040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260817040000 +0000" stop="20260817060000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
-  </programme>
-  <programme start="20260817060000 +0000" stop="20260817073000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
-  </programme>
-  <programme start="20260817073000 +0000" stop="20260817103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260817073000 +0000" stop="20260817080000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
   <programme start="20260817103000 +0000" stop="20260817113000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -2650,16 +2644,10 @@
   <programme start="20260817113000 +0000" stop="20260817123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260817123000 +0000" stop="20260817150000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
-  </programme>
-  <programme start="20260817150000 +0000" stop="20260817173000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260817140000 +0000" stop="20260817143000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
-  <programme start="20260817173000 +0000" stop="20260817200000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
-  </programme>
-  <programme start="20260817200000 +0000" stop="20260817220000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260817200000 +0000" stop="20260817210000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260816220000 +0000" stop="20260816222000 +0000" channel="Skvelé TV.webtv.sk">
@@ -16615,10 +16603,10 @@
   <programme start="20260817123000 +0000" stop="20260817125000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 14.30</title>
   </programme>
-  <programme start="20260817125000 +0000" stop="20260817132700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260817125000 +0000" stop="20260817132600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260817132700 +0000" stop="20260817133000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260817132600 +0000" stop="20260817133000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260817133000 +0000" stop="20260817134500 +0000" channel="TVP Info.webtv.sk">
