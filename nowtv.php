@@ -25,9 +25,6 @@
 <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260815110000 +0000" stop="20260815130000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Arsenal vs Bournemouth</title>
-</programme>
 <programme start="20260815130000 +0000" stop="20260815150000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Manchester United vs Leeds United</title>
 </programme>
