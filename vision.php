@@ -559,6 +559,9 @@
 <programme start="20260817114500 +0000" stop="20260817121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260816023000 +0000" stop="20260816060000 +0000" channel="ANTV.vision">
+<title>Koyla</title>
+</programme>
 <programme start="20260816060000 +0000" stop="20260816073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260816150000 +0000" stop="20260816180000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260816180000 +0000" stop="20260816210000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

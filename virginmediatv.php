@@ -4204,10 +4204,10 @@
 <programme start="20260816050000 +0000" stop="20260816060000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UCI Continental Circuits - Volta a Portugal: Stage 9</title>
 </programme>
-<programme start="20260816113000 +0000" stop="20260816150000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260816113000 +0000" stop="20260816151500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: China Open Snooker - Final</title>
 </programme>
-<programme start="20260816150000 +0000" stop="20260816161500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260816151500 +0000" stop="20260816161500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: Arctic Race of Norway Cycling - Stage 4</title>
 </programme>
 <programme start="20260816161500 +0000" stop="20260816163000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
@@ -4786,10 +4786,10 @@
 <programme start="20260816050000 +0000" stop="20260816060000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>UCI Continental Circuits - Volta a Portugal: Stage 9</title>
 </programme>
-<programme start="20260816113000 +0000" stop="20260816150000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260816113000 +0000" stop="20260816151500 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: China Open Snooker - Final</title>
 </programme>
-<programme start="20260816150000 +0000" stop="20260816161500 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260816151500 +0000" stop="20260816161500 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: Arctic Race of Norway Cycling - Stage 4</title>
 </programme>
 <programme start="20260816161500 +0000" stop="20260816163000 +0000" channel="TNT_Sports_2.virginmediatv">
@@ -5869,7 +5869,10 @@
 <programme start="20260815175800 +0000" stop="20260816015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260816015800 +0000" stop="20260816060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260816015800 +0000" stop="20260816050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260816050000 +0000" stop="20260816060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260816114500 +0000" stop="20260816121000 +0000" channel="CBBC.virginmediatv">
