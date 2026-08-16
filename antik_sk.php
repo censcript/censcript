@@ -3946,38 +3946,44 @@
   <programme start="20260818215500 +0000" stop="20260818224500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Show Jana Krause</title>
   </programme>
-  <programme start="20260817215000 +0000" stop="20260817225000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260817214500 +0000" stop="20260817224000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20260817225000 +0000" stop="20260817232000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260817224000 +0000" stop="20260817231000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ČESKO</title>
   </programme>
-  <programme start="20260817232000 +0000" stop="20260817234000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260817231000 +0000" stop="20260817233500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Hlasy zločinu</title>
   </programme>
-  <programme start="20260817234000 +0000" stop="20260818000500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260817233500 +0000" stop="20260817235500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Spáleniště... Příběhy hasičů</title>
   </programme>
-  <programme start="20260818000500 +0000" stop="20260818004500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260817235500 +0000" stop="20260818003500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Co na to vaše zdraví</title>
   </programme>
-  <programme start="20260818004500 +0000" stop="20260818013000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260818003500 +0000" stop="20260818012000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">HLAVNÍ ZPRÁVY</title>
   </programme>
-  <programme start="20260818013000 +0000" stop="20260818014500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260818012000 +0000" stop="20260818013000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Krimi zprávy</title>
   </programme>
-  <programme start="20260818014500 +0000" stop="20260818020000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260818013000 +0000" stop="20260818014500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">SHOWTIME</title>
   </programme>
-  <programme start="20260818020000 +0000" stop="20260818022500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260818014500 +0000" stop="20260818020500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Start[UP]ujeme</title>
   </programme>
-  <programme start="20260818022500 +0000" stop="20260818025500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260818020500 +0000" stop="20260818022000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima HISTORIE</title>
+  </programme>
+  <programme start="20260818022000 +0000" stop="20260818024500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima SVĚT</title>
   </programme>
-  <programme start="20260818025500 +0000" stop="20260818035500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260818024500 +0000" stop="20260818034000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
+  </programme>
+  <programme start="20260818034000 +0000" stop="20260818035500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ARCHIV</title>
   </programme>
   <programme start="20260818035500 +0000" stop="20260818040000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Nový den</title>
@@ -15628,14 +15634,14 @@
   <programme start="20260818070000 +0000" stop="20260818125500 +0000" channel="TV8.webtv.sk">
     <title lang="id">Prvá pomoc s Annou</title>
   </programme>
-  <programme start="20260818125500 +0000" stop="20260818130000 +0000" channel="TV8.webtv.sk">
+  <programme start="20260818125500 +0000" stop="20260818144500 +0000" channel="TV8.webtv.sk">
     <title lang="id">HOROSKOPY</title>
   </programme>
-  <programme start="20260818130000 +0000" stop="20260818144500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Prvá pomoc</title>
-  </programme>
-  <programme start="20260818144500 +0000" stop="20260818164500 +0000" channel="TV8.webtv.sk">
+  <programme start="20260818144500 +0000" stop="20260818150000 +0000" channel="TV8.webtv.sk">
     <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260818150000 +0000" stop="20260818164500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Ezoterická poradňa so Synthiou</title>
   </programme>
   <programme start="20260818164500 +0000" stop="20260818180000 +0000" channel="TV8.webtv.sk">
     <title lang="id">HOROSKOPY</title>
