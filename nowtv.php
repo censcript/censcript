@@ -1,6 +1,3 @@
-<programme start="20260816180000 +0000" stop="20260816200000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260816200000 +0000" stop="20260816220000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -32,9 +29,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260817160000 +0000" stop="20260817180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260816180000 +0000" stop="20260816200000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260816200000 +0000" stop="20260816220000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -70,9 +64,6 @@
 <programme start="20260817160000 +0000" stop="20260817180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260816180000 +0000" stop="20260816200000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260816200000 +0000" stop="20260816220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -105,9 +96,6 @@
 </programme>
 <programme start="20260817160000 +0000" stop="20260817180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260816180000 +0000" stop="20260816200000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Sunderland vs Nottingham Forest</title>
 </programme>
 <programme start="20260816200000 +0000" stop="20260816220000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Brighton &amp; Hove Albion vs Chelsea</title>
@@ -166,9 +154,6 @@
 <programme start="20260817160000 +0000" stop="20260817180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Aston Villa vs Tottenham Hotspur</title>
 </programme>
-<programme start="20260816160000 +0000" stop="20260816200000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260816200000 +0000" stop="20260817000000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -187,9 +172,6 @@
 <programme start="20260817160000 +0000" stop="20260817200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260816160000 +0000" stop="20260816200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260816200000 +0000" stop="20260817000000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -206,9 +188,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260817160000 +0000" stop="20260817200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260816160000 +0000" stop="20260816200000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260816200000 +0000" stop="20260817000000 +0000" channel="Now Sports Premier League 4.nowtv">
