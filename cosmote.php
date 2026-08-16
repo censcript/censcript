@@ -62,10 +62,6 @@
     <title>Football: SC Freiburg - Aston Villa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816190000 +0700" stop="20260816210000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cagliari - Torino</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260816210000 +0700" stop="20260816220000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20260817190000 +0700" stop="20260817210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260817210000 +0700" stop="20260817230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816193000 +0700" stop="20260816213000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,18 +250,6 @@
     <title>Basketball: Bilbao Basket - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816193000 +0700" stop="20260816201500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260816201500 +0700" stop="20260816203000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260816203000 +0700" stop="20260816210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2026 E7</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260816210000 +0700" stop="20260816220500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -366,8 +354,8 @@
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816170000 +0700" stop="20260816210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Fight Sports: UFC Fight Night 2026</title>
+<programme start="20260817214000 +0700" stop="20260817222500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816210000 +0700" stop="20260816220000 +0700" channel="COSMOTE Sport 6 HD">
@@ -460,10 +448,6 @@
 </programme>
 <programme start="20260817200000 +0700" stop="20260817220000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260816200000 +0700" stop="20260816210000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816210000 +0700" stop="20260816213000 +0700" channel="COSMOTE Sport 8 HD">
