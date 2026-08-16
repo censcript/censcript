@@ -3778,10 +3778,10 @@
   <programme start="20260818015500 +0000" stop="20260818022000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (39)</title>
   </programme>
-  <programme start="20260818022000 +0000" stop="20260818032000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260818022000 +0000" stop="20260818031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (169)</title>
   </programme>
-  <programme start="20260818032000 +0000" stop="20260818040000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260818031500 +0000" stop="20260818040000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Televizní noviny</title>
   </programme>
   <programme start="20260818040000 +0000" stop="20260818064000 +0000" channel="Nova International.webtv.sk">
