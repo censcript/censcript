@@ -6454,14 +6454,11 @@
   <programme start="20260818012500 +0000" stop="20260818021000 +0000" channel="Crime & Investigation.webtv.sk">
     <title lang="id">Nedokonalá vražda</title>
   </programme>
-  <programme start="20260818021000 +0000" stop="20260818024500 +0000" channel="Crime & Investigation.webtv.sk">
+  <programme start="20260818021000 +0000" stop="20260818030500 +0000" channel="Crime & Investigation.webtv.sk">
     <title lang="id">Někdo něco skrývá</title>
   </programme>
-  <programme start="20260818024500 +0000" stop="20260818033500 +0000" channel="Crime & Investigation.webtv.sk">
+  <programme start="20260818030500 +0000" stop="20260818040000 +0000" channel="Crime & Investigation.webtv.sk">
     <title lang="id">Po prvních 48 hodinách</title>
-  </programme>
-  <programme start="20260818033500 +0000" stop="20260818040000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Moje podivné zatčení</title>
   </programme>
   <programme start="20260818040000 +0000" stop="20260818045000 +0000" channel="Crime & Investigation.webtv.sk">
     <title lang="id">Někdo něco skrývá</title>

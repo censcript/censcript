@@ -58,8 +58,12 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816150000 +0700" stop="20260816170000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - AC Milan</title>
+<programme start="20260817171000 +0700" stop="20260817174000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine E35</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260817174000 +0700" stop="20260817201000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Crystal Palace - Rayo Vallecano de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816170000 +0700" stop="20260816190000 +0700" channel="COSMOTE Sport 2 HD">
@@ -120,6 +124,10 @@
 </programme>
 <programme start="20260817150000 +0700" stop="20260817170000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Genoa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260817170000 +0700" stop="20260817190000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Rio Ave - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816153000 +0700" stop="20260816173000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,8 +250,8 @@
     <title>Basketball: Tenerife - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816154000 +0700" stop="20260816163000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
+<programme start="20260817175000 +0700" stop="20260817195500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Galatasaray - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816163000 +0700" stop="20260816172500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,8 +366,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816130000 +0700" stop="20260816170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260817171000 +0700" stop="20260817181000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816170000 +0700" stop="20260816210000 +0700" channel="COSMOTE Sport 6 HD">
@@ -370,11 +378,15 @@
     <title>ATP Masters 1000 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816220000 +0700" stop="20260817020000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260816220000 +0700" stop="20260817000000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260817020000 +0700" stop="20260817060000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260817000000 +0700" stop="20260817023000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Stefanos Tsitsipas - Felix Auger-Aliassime (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260817023000 +0700" stop="20260817060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
