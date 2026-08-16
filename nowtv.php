@@ -1,6 +1,3 @@
-<programme start="20260816040000 +0000" stop="20260816060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260816060000 +0000" stop="20260816080000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -17,9 +14,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260816160000 +0000" stop="20260816180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260816040000 +0000" stop="20260816060000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260816060000 +0000" stop="20260816080000 +0000" channel="Now Sports 4K 2.nowtv">
@@ -40,9 +34,6 @@
 <programme start="20260816160000 +0000" stop="20260816180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260816040000 +0000" stop="20260816060000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260816060000 +0000" stop="20260816080000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -60,18 +51,6 @@
 </programme>
 <programme start="20260816160000 +0000" stop="20260816180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260816030000 +0000" stop="20260816050000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Chelsea vs Manchester United</title>
-</programme>
-<programme start="20260816050000 +0000" stop="20260816051500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 32</title>
-</programme>
-<programme start="20260816051500 +0000" stop="20260816053000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 33</title>
-</programme>
-<programme start="20260816053000 +0000" stop="20260816060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -THE TIGERS RETURN</title>
 </programme>
 <programme start="20260816060000 +0000" stop="20260816080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Manchester City vs Arsenal</title>
