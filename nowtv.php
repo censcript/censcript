@@ -25,9 +25,6 @@
 <programme start="20260816160000 +0000" stop="20260816180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260816110000 +0000" stop="20260816130000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Chelsea vs Manchester United</title>
-</programme>
 <programme start="20260816130000 +0000" stop="20260816135500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League Review of the Season 2025/26</title>
 </programme>
