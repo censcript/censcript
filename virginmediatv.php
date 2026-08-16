@@ -4252,13 +4252,10 @@
 <programme start="20260816033000 +0000" stop="20260816040000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Discovery Golf - Episode 26</title>
 </programme>
-<programme start="20260816040000 +0000" stop="20260816041500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v Sri Lanka: 3rd T20</title>
-</programme>
-<programme start="20260816041500 +0000" stop="20260816123000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260816040000 +0000" stop="20260816123000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 2: Sri Lanka v India</title>
 </programme>
-<programme start="20260816041500 +0000" stop="20260816123000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260816040000 +0000" stop="20260816123000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 2: Sri Lanka v India</title>
 </programme>
 <programme start="20260816123000 +0000" stop="20260816130000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
@@ -4837,13 +4834,10 @@
 <programme start="20260816033000 +0000" stop="20260816040000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Discovery Golf - Episode 26</title>
 </programme>
-<programme start="20260816040000 +0000" stop="20260816041500 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v Sri Lanka: 3rd T20</title>
-</programme>
-<programme start="20260816041500 +0000" stop="20260816123000 +0000" channel="TNT_Sports_4.virginmediatv">
+<programme start="20260816040000 +0000" stop="20260816123000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 2: Sri Lanka v India</title>
 </programme>
-<programme start="20260816041500 +0000" stop="20260816123000 +0000" channel="TNT_Sports_4.virginmediatv">
+<programme start="20260816040000 +0000" stop="20260816123000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 2: Sri Lanka v India</title>
 </programme>
 <programme start="20260816123000 +0000" stop="20260816130000 +0000" channel="TNT_Sports_4.virginmediatv">
