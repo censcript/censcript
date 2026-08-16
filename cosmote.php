@@ -122,6 +122,10 @@
     <title>Football: Bologna - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260817230000 +0700" stop="20260818010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SC Braga - Gil Vicente</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260816220000 +0700" stop="20260817000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Burnley - West Ham United FC (L)</title>
     <desc>Live: Ya</desc>
@@ -186,6 +190,10 @@
     <title>Sports Classics: Football&#039;s Greatest IV E2</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260817230000 +0700" stop="20260818010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Rangers FC - Hibernian</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260816214000 +0700" stop="20260816234000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tenerife - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -244,14 +252,6 @@
 </programme>
 <programme start="20260817222000 +0700" stop="20260818001500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Anadolu Efes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260816210000 +0700" stop="20260816220500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260816220500 +0700" stop="20260816225500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Harley-Davidson Bagger World Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816225500 +0700" stop="20260816234500 +0700" channel="COSMOTE Sport 5 HD">
@@ -356,6 +356,10 @@
 </programme>
 <programme start="20260817222500 +0700" stop="20260817233000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260817233000 +0700" stop="20260818000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2026 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816220000 +0700" stop="20260817000000 +0700" channel="COSMOTE Sport 6 HD">
