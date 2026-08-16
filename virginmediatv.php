@@ -7441,11 +7441,11 @@
 <programme start="20260816100000 +0000" stop="20260816133000 +0000" channel="Zee_TV.virginmediatv">
     <title>Yes Boss</title>
 </programme>
-<programme start="20260816133000 +0000" stop="20260816143000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Maa Hai Na</title>
+<programme start="20260816133000 +0000" stop="20260816140000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Tum Se Tum Tak</title>
 </programme>
-<programme start="20260816143000 +0000" stop="20260816150000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan</title>
+<programme start="20260816140000 +0000" stop="20260816150000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Zee Tv Germany Launch</title>
 </programme>
 <programme start="20260816150000 +0000" stop="20260816160000 +0000" channel="Zee_TV.virginmediatv">
     <title>Lakshmi Nivas</title>

@@ -62,10 +62,6 @@
     <title>Football: Crystal Palace - Rayo Vallecano de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816170000 +0700" stop="20260816190000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Rio Ave - FC Porto</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260816190000 +0700" stop="20260816210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Torino</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20260817170000 +0700" stop="20260817190000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Rio Ave - FC Porto</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260817190000 +0700" stop="20260817210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SSC Napoli - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816173000 +0700" stop="20260816193000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,8 +246,8 @@
     <title>Basketball: Galatasaray - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260816172500 +0700" stop="20260816182000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
+<programme start="20260817195500 +0700" stop="20260817202500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260816182000 +0700" stop="20260816191000 +0700" channel="COSMOTE Sport 5 HD">
@@ -359,6 +359,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817181000 +0700" stop="20260817190000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260817190000 +0700" stop="20260817195500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260817195500 +0700" stop="20260817205000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

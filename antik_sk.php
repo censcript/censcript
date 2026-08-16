@@ -2719,7 +2719,10 @@
   <programme start="20260818182000 +0000" stop="20260818220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
-  <programme start="20260817220000 +0000" stop="20260818000000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260817210000 +0000" stop="20260817220500 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PESNIČKOVÉ 5X PREČO</title>
+  </programme>
+  <programme start="20260817220500 +0000" stop="20260818000000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260818000000 +0000" stop="20260818040000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -2728,10 +2731,7 @@
   <programme start="20260818040000 +0000" stop="20260818060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260818060000 +0000" stop="20260818073000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
-  </programme>
-  <programme start="20260818073000 +0000" stop="20260818103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260818083000 +0000" stop="20260818103000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
   <programme start="20260818123000 +0000" stop="20260818140000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -2740,10 +2740,13 @@
   <programme start="20260818140000 +0000" stop="20260818173000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
-  <programme start="20260818173000 +0000" stop="20260818200000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
+  <programme start="20260818173000 +0000" stop="20260818183000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">VY DVA A ČAS</title>
   </programme>
-  <programme start="20260818200000 +0000" stop="20260818220000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260818190000 +0000" stop="20260818200000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z PÍSNIČKY DO PÍSNIČKY</title>
+  </programme>
+  <programme start="20260818200000 +0000" stop="20260818210000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260817220000 +0000" stop="20260817222000 +0000" channel="Skvelé TV.webtv.sk">
