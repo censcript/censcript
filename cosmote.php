@@ -1,7 +1,3 @@
-<programme start="20260817023000 +0700" stop="20260817043000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Aston Villa - Nottingham F.</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260817043000 +0700" stop="20260817053000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E22</title>
     <desc>Live: Tidak</desc>
@@ -60,14 +56,6 @@
 </programme>
 <programme start="20260818040000 +0700" stop="20260818063000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Aston Villa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260817023000 +0700" stop="20260817043000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Rio Ave - FC Porto</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260817043000 +0700" stop="20260817050000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E38</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817050000 +0700" stop="20260817060000 +0700" channel="COSMOTE Sport 2 HD">
@@ -130,8 +118,8 @@
     <title>Serie A Full Impact 2025-26 E38</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260817023000 +0700" stop="20260817043000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Burnley - West Ham United FC</title>
+<programme start="20260818050000 +0700" stop="20260818070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Arouca - Moreirense</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817043000 +0700" stop="20260817063000 +0700" channel="COSMOTE Sport 3 HD">
@@ -270,6 +258,10 @@
     <title>Basketball: Bilbao Basket - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260818055000 +0700" stop="20260818074500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Turk Telekom - Anadolu Efes</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260817035500 +0700" stop="20260817052500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
@@ -375,6 +367,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260818043000 +0700" stop="20260818053500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260818053500 +0700" stop="20260818063000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
