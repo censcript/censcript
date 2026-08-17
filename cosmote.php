@@ -58,16 +58,8 @@
     <title>UEFA Champions League Show 2026-27 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260818021500 +0700" stop="20260818041500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Casa Pia - SL Benfica (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260818041500 +0700" stop="20260818043000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260818043000 +0700" stop="20260818050000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E38</title>
+<programme start="20260819053000 +0700" stop="20260819060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Ultimate Rush S1 E15</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260818050000 +0700" stop="20260818070000 +0700" channel="COSMOTE Sport 2 HD">
@@ -250,8 +242,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260818040000 +0700" stop="20260818043000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
+<programme start="20260819052500 +0700" stop="20260819074000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Besiktas - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260818043000 +0700" stop="20260818053500 +0700" channel="COSMOTE Sport 5 HD">
@@ -360,6 +352,14 @@
 </programme>
 <programme start="20260819045000 +0700" stop="20260819052000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260819052000 +0700" stop="20260819055000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2026 E7</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260819055000 +0700" stop="20260819065500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260818020000 +0700" stop="20260818060000 +0700" channel="COSMOTE Sport 6 HD">
