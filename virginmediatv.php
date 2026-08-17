@@ -1603,16 +1603,16 @@
 <programme start="20260817175500 +0000" stop="20260817190000 +0000" channel="ITV3.virginmediatv">
     <title>Heartbeat - Bread and Circuses</title>
 </programme>
-<programme start="20260816230500 +0000" stop="20260817002000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260816231500 +0000" stop="20260817003000 +0000" channel="ITV4.virginmediatv">
     <title>The Summit Australia - Episode 7</title>
 </programme>
-<programme start="20260817002000 +0000" stop="20260817004500 +0000" channel="ITV4.virginmediatv">
+<programme start="20260817003000 +0000" stop="20260817005500 +0000" channel="ITV4.virginmediatv">
     <title>Two and a Half Men - City of Great Racks</title>
 </programme>
-<programme start="20260817004500 +0000" stop="20260817011000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260817005500 +0000" stop="20260817012000 +0000" channel="ITV4.virginmediatv">
     <title>Two and a Half Men - Putting Swim Fins on a Cat</title>
 </programme>
-<programme start="20260817011000 +0000" stop="20260817020000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260817012000 +0000" stop="20260817020000 +0000" channel="ITV4.virginmediatv">
     <title>Unwind with ITV - Episode 207</title>
 </programme>
 <programme start="20260817020000 +0000" stop="20260817050000 +0000" channel="ITV4.virginmediatv">
