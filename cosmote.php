@@ -58,8 +58,8 @@
     <title>UEL &amp; UECL Magazine 2025-26 E22</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260817090000 +0700" stop="20260817110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Arouca - Moreirense</title>
+<programme start="20260818112000 +0700" stop="20260818121500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E23</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817110000 +0700" stop="20260817130000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,6 +116,10 @@
 </programme>
 <programme start="20260818090000 +0700" stop="20260818110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260818110000 +0700" stop="20260818130000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Rio Ave - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817100000 +0700" stop="20260817120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -246,8 +250,8 @@
     <title>Basketball: Bilbao Basket - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260817100000 +0700" stop="20260817110000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260818115500 +0700" stop="20260818135500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Turk Telekom - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817110000 +0700" stop="20260817113000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,9 +354,13 @@
     <title>Sports Classics: Gearing Up 2026 E7</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260817060000 +0700" stop="20260817103000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260818110000 +0700" stop="20260818111500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260818111500 +0700" stop="20260818122000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817103000 +0700" stop="20260817140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
