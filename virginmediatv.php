@@ -4387,11 +4387,8 @@
 <programme start="20260816220000 +0000" stop="20260817004500 +0000" channel="MUTV.virginmediatv">
     <title>The Match Replayed - The Match Replayed: Snapdragon Cup: v Atletico de Madrid</title>
 </programme>
-<programme start="20260817004500 +0000" stop="20260817010000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Summer Sessions</title>
-</programme>
-<programme start="20260817010000 +0000" stop="20260817013000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Highlights - Tour 2026: Manchester United v Paris Saint-Germain</title>
+<programme start="20260817004500 +0000" stop="20260817013000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington Podcast - Carrick in Ireland</title>
 </programme>
 <programme start="20260817013000 +0000" stop="20260817020000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Tour 2026: Manchester United v Leeds United</title>
@@ -4403,10 +4400,13 @@
     <title>25 Memorable Old Trafford Moments</title>
 </programme>
 <programme start="20260817030000 +0000" stop="20260817053000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Replayed - Tour 2026: Manchester United v Paris Saint-Germain</title>
+    <title>The Match Replayed - Tour 2026: Manchester United v AC Milan</title>
 </programme>
-<programme start="20260817053000 +0000" stop="20260817060000 +0000" channel="MUTV.virginmediatv">
-    <title>Access All Areas - Paris Saint Germain</title>
+<programme start="20260817053000 +0000" stop="20260817054500 +0000" channel="MUTV.virginmediatv">
+    <title>Signing Interview: Andrey Santos</title>
+</programme>
+<programme start="20260817054500 +0000" stop="20260817063000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington Podcast - Carrick in Ireland</title>
 </programme>
 <programme start="20260817120000 +0000" stop="20260817123000 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - David Beckham</title>
@@ -4414,11 +4414,14 @@
 <programme start="20260817123000 +0000" stop="20260817130000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 1996/97: Wimbledon v Manchester United</title>
 </programme>
-<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="MUTV.virginmediatv">
-    <title>Beckham: Take a Bow</title>
+<programme start="20260817130000 +0000" stop="20260817134500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington Podcast - Carrick in Ireland</title>
+</programme>
+<programme start="20260817134500 +0000" stop="20260817140000 +0000" channel="MUTV.virginmediatv">
+    <title>Signing Interview: Andrey Santos</title>
 </programme>
 <programme start="20260817140000 +0000" stop="20260817143000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Highlights - Pre-Season Friendly: Manchester United v Wrexham</title>
+    <title>The Match Highlights - Tour 2026: Manchester United v AC Milan</title>
 </programme>
 <programme start="20260817143000 +0000" stop="20260817150000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Pre-Season Friendly: Rosenborg v Manchester United</title>
@@ -4433,7 +4436,7 @@
     <title>The Match Highlights - Tour 2026: Manchester United v Leeds United</title>
 </programme>
 <programme start="20260817163000 +0000" stop="20260817170000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - David Beckham</title>
+    <title>The Match Highlights - Tour 2026: Manchester United v AC Milan</title>
 </programme>
 <programme start="20260817170000 +0000" stop="20260817173000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 1996/97: Wimbledon v Manchester United</title>
