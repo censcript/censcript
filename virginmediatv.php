@@ -2966,13 +2966,13 @@
     <title>How Do They Do It? - Pile Drivers, Cricket Bats, Spanish Fans</title>
 </programme>
 <programme start="20260817033000 +0000" stop="20260817040000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How Do They Do It? - Episode 9</title>
+    <title>How Do They Do It?</title>
 </programme>
 <programme start="20260817040000 +0000" stop="20260817043000 +0000" channel="Discovery_Science.virginmediatv">
     <title>How Do They Do It? - Bird&#039;s Nest Soup; Rowing Oars</title>
 </programme>
 <programme start="20260817043000 +0000" stop="20260817050000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How Do They Do It? - Episode 11</title>
+    <title>How Do They Do It?</title>
 </programme>
 <programme start="20260817050000 +0000" stop="20260817053000 +0000" channel="Discovery_Science.virginmediatv">
     <title>Teleshopping</title>

@@ -1171,10 +1171,10 @@
   <programme start="20260819203000 +0000" stop="20260819230000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Zásnuby na dobu neurčitú</title>
   </programme>
-  <programme start="20260818195500 +0000" stop="20260818223500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260818195500 +0000" stop="20260818223000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Futbal</title>
   </programme>
-  <programme start="20260818223500 +0000" stop="20260819013000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260818223000 +0000" stop="20260819013000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Footgolf</title>
   </programme>
   <programme start="20260819013000 +0000" stop="20260819034500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1204,10 +1204,10 @@
   <programme start="20260819213000 +0000" stop="20260819234500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20260818202000 +0000" stop="20260818222500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260818202500 +0000" stop="20260818224000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260818222500 +0000" stop="20260819010500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260818224000 +0000" stop="20260819010500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale D</title>
   </programme>
   <programme start="20260819010500 +0000" stop="20260819031000 +0000" channel="JOJ Šport 2.webtv.sk">
