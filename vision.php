@@ -604,9 +604,6 @@
 <programme start="20260817093000 +0000" stop="20260817113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260817113000 +0000" stop="20260817150000 +0000" channel="ANTV.vision">
-<title>Melodi Cinta</title>
-</programme>
 <programme start="20260817150000 +0000" stop="20260817173000 +0000" channel="ANTV.vision">
 <title>Santet Segoro Pitu</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260817120000 +0000" stop="20260817150000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260817150000 +0000" stop="20260817180000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
