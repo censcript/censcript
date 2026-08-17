@@ -12257,7 +12257,7 @@
   </programme>
   <programme start="20260816173300 +0000" stop="20260816180300 +0000" channel="bbcworldnewshd.unifitv">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ben Thompson looks at the factors behind rising food prices and the impact on farmers, manufacturers and restaurants as well as consumers.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260816180300 +0000" stop="20260816183300 +0000" channel="bbcworldnewshd.unifitv">
@@ -12266,8 +12266,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260816183300 +0000" stop="20260816190300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">TBA</desc>
+    <title lang="en">Inside China's EV Revolution</title>
+    <desc lang="en">At a time of heightened geopolitical conflict and uncertainty, soaring fuel costs are driving up demand for electric vehicles around the world. China is leading the way.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260816190300 +0000" stop="20260816193300 +0000" channel="bbcworldnewshd.unifitv">
@@ -12276,8 +12276,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260816193300 +0000" stop="20260816200300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Rachel Khoo's Kitchen Notebook: Cosmopolitan Cook (r)-Princes' Islands</title>
-    <desc lang="en">Passionate cook Rachel Khoo travels the globe in search of fresh culinary inspiration. From vibrant cities to rural regions, she explores local cuisines and contrasting food cultures.</desc>
+    <title lang="en">World's Ultimate Adventures (r)-The Land of Troy</title>
+    <desc lang="en">Janina Ramirez sets out on a journey to unlock the mysteries of the ancient ruins of Troy, see unearthed golden treasures, experience Aegean Island life, and explore the battlefields of Gallipoli.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260816200300 +0000" stop="20260816210300 +0000" channel="bbcworldnewshd.unifitv">
@@ -12296,8 +12296,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260816223300 +0000" stop="20260816230300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">TBA</desc>
+    <title lang="en">World's Ultimate Adventures (r)-Turkey's South Eastern Soul</title>
+    <desc lang="en">Chef and content creator Julie Lin is on a Turkish adventure, shaped by her passion for food. In the country's southeast, she explores living traditions and stories from the dawn of civilisation.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260816230300 +0000" stop="20260816233300 +0000" channel="bbcworldnewshd.unifitv">
@@ -12306,8 +12306,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260816233300 +0000" stop="20260817000300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">TBA</desc>
+    <title lang="en">What Happened at Chernobyl</title>
+    <desc lang="en">Jordan Dunbar travels to Chernobyl to explore events that caused the world's worst nuclear disaster and to understand what we can learn from them.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260817000300 +0000" stop="20260817003300 +0000" channel="bbcworldnewshd.unifitv">
@@ -12316,8 +12316,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260817003300 +0000" stop="20260817010300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">TBA</desc>
+    <title lang="en">Inside China's EV Revolution</title>
+    <desc lang="en">At a time of heightened geopolitical conflict and uncertainty, soaring fuel costs are driving up demand for electric vehicles around the world. China is leading the way.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260817010300 +0000" stop="20260817013300 +0000" channel="bbcworldnewshd.unifitv">
