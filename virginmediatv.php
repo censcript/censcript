@@ -779,16 +779,16 @@
     <title>The Reluctant Landlord - Love &amp; Marriage</title>
 </programme>
 <programme start="20260817001500 +0000" stop="20260817004500 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>The Reluctant Landlord - Episode 3</title>
+    <title>The Reluctant Landlord - Love Is in the Air</title>
 </programme>
 <programme start="20260817004500 +0000" stop="20260817011500 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>The Reluctant Landlord - Episode 4</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260817011500 +0000" stop="20260817014500 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>The Reluctant Landlord - Episode 5</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260817014500 +0000" stop="20260817021000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>The Reluctant Landlord - Episode 6</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260817021000 +0000" stop="20260817025000 +0000" channel="Sky_Comedy_HD.virginmediatv">
     <title>The Rehearsal - The Fielder Method</title>
@@ -4093,14 +4093,11 @@
 <programme start="20260817043000 +0000" stop="20260817050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Golf Academy - Thomas Bjorn: Short Game</title>
 </programme>
-<programme start="20260817050000 +0000" stop="20260817100000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260817050000 +0000" stop="20260817103000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Danish Golf Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260817100000 +0000" stop="20260817160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260817103000 +0000" stop="20260817163000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>FedEx St. Jude Championship, PGA Tour Golf - Day 4</title>
-</programme>
-<programme start="20260817160000 +0000" stop="20260817163000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Roots - Nicolas Colsaerts</title>
 </programme>
 <programme start="20260817163000 +0000" stop="20260817170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Roots - Kipp Popert</title>
@@ -4544,10 +4541,10 @@
     <title>LIV Golf League - New York: Tournament Review</title>
 </programme>
 <programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Czech Tour - Stage 4</title>
+    <title>Czech Tour - Etappe 4</title>
 </programme>
 <programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Czech Tour - Stage 4</title>
+    <title>Czech Tour - Etappe 4</title>
 </programme>
 <programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UCI WorldTour Cycling - Cyclassics Hamburg</title>
@@ -4942,14 +4939,11 @@
 <programme start="20260817043000 +0000" stop="20260817050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Golf Academy - Thomas Bjorn: Short Game</title>
 </programme>
-<programme start="20260817050000 +0000" stop="20260817100000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260817050000 +0000" stop="20260817103000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Danish Golf Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260817100000 +0000" stop="20260817160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260817103000 +0000" stop="20260817163000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>FedEx St. Jude Championship, PGA Tour Golf - Day 4</title>
-</programme>
-<programme start="20260817160000 +0000" stop="20260817163000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Roots - Nicolas Colsaerts</title>
 </programme>
 <programme start="20260817163000 +0000" stop="20260817170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Roots - Kipp Popert</title>
@@ -5237,10 +5231,10 @@
     <title>LIV Golf League - New York: Tournament Review</title>
 </programme>
 <programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Czech Tour - Stage 4</title>
+    <title>Czech Tour - Etappe 4</title>
 </programme>
 <programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Czech Tour - Stage 4</title>
+    <title>Czech Tour - Etappe 4</title>
 </programme>
 <programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>UCI WorldTour Cycling - Cyclassics Hamburg</title>
@@ -7211,16 +7205,16 @@
     <title>The Reluctant Landlord - Love &amp; Marriage</title>
 </programme>
 <programme start="20260817001500 +0000" stop="20260817004500 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>The Reluctant Landlord - Episode 3</title>
+    <title>The Reluctant Landlord - Love Is in the Air</title>
 </programme>
 <programme start="20260817004500 +0000" stop="20260817011500 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>The Reluctant Landlord - Episode 4</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260817011500 +0000" stop="20260817014500 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>The Reluctant Landlord - Episode 5</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260817014500 +0000" stop="20260817021000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>The Reluctant Landlord - Episode 6</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260817021000 +0000" stop="20260817025000 +0000" channel="Sky_Comedy.virginmediatv">
     <title>The Rehearsal - The Fielder Method</title>

@@ -490,6 +490,9 @@
 <programme start="20260818114500 +0000" stop="20260818130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
+<programme start="20260816231500 +0000" stop="20260817043000 +0000" channel="Trans 7.vision">
+<title>Program Spesial Kemerdekaan</title>
+</programme>
 <programme start="20260817043000 +0000" stop="20260817051500 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
@@ -603,6 +606,12 @@
 </programme>
 <programme start="20260818114500 +0000" stop="20260818121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20260816230000 +0000" stop="20260817023000 +0000" channel="ANTV.vision">
+<title>Aankhen</title>
+</programme>
+<programme start="20260817023000 +0000" stop="20260817033000 +0000" channel="ANTV.vision">
+<title>Upacara Peringatan Detik...</title>
 </programme>
 <programme start="20260817033000 +0000" stop="20260817070000 +0000" channel="ANTV.vision">
 <title>Fighter</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260818103000 +0000" stop="20260818110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20260818110000 +0000" stop="20260818120000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260817000000 +0000" stop="20260817030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260817030000 +0000" stop="20260817060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
 </programme>

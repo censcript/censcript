@@ -3221,8 +3221,8 @@
     <episode-num system="onscreen">S1E228</episode-num>
   </programme>
   <programme start="20260816200500 +0000" stop="20260816203500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Miss HoMiss Hong Kong Pageant 2026 Conghua</title>
-    <desc lang="en">The 12 finalists of the 2026 Miss Hong Kong Pageant split into three groups during their trip to Hunan Province, seeking advice from their "senior" contestants Crystal Fung, Carmaney Wong, and Chan Yee-tak. The contestants will don elegant Hanfu (traditional Han Chinese clothing) and showcase their beauty at the Nanyue Temple Fair's folk-themed food and culture street; they will then participate in a parade at the famous landmark "1944 Town" in cheongsams; after returning to their guesthouse for a short rest, they will prepare to wear swimsuits for a Q&amp;A session. Many more attractions await the contestants in Changsha and Hengyang, where they will learn Hunan embroidery techniques from instructors; and a thrilling whitewater rafting experience is also on the itinerary.</desc>
+    <title lang="en">Miss Hong Kong Pageant 2026 Conghua Moments</title>
+    <desc lang="en">After undergoing intensive training in Hunan with three senior mentors, the 12 contestants of the 2026 Miss Hong Kong Pageant have improved their physique, eloquence, and appearance. This time, they travel with Mayanne Mak to the "hidden paradise" of Conghua to have fun, learn smarter, and unlock their own brilliance! While soaking in the beautiful hot springs at a hot spring hotel, the contestants will also face impromptu tests of quick wit and eloquence, with the three winners enjoying Conghua lychees. As Miss Hong Kong contestants, they must maintain elegance at all times, completing yoga poses with a yoga instructor while dealing with Mayanne Mak's tricky questions. The task of catching fish by the stream is actually a training exercise in their camera sensitivity, preparing them to strike a pose for photos!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -3414,7 +3414,7 @@
   </programme>
   <programme start="20260817143500 +0000" stop="20260817150500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Hipster Tour - South America (Sr.2)</title>
-    <desc lang="en">In this 10-episode journey across South America, Christy explores three iconic destinations—Peru, Bolivia, and Brazil—combining extreme adrenaline challenges, local culture, and high-energy sightseeing</desc>
+    <desc lang="en">Christy Leung restarts her South American journey, unlocking more Latin American countries and experiencing all four seasons in one trip! Stroll along Argentina's World Heritage glaciers and sample whiskey infused with glacial ice. Discover the idyllic paradise of Patagonia, enjoying its stunning scenery and delicious cuisine. Head to Easter Island in Chile, cycling around the island in search of giant stone statues. Explore the Amazon rainforest, the world's largest tropical rainforest, with an adventure alongside the indigenous people. Visit the Galapagos Islands in Ecuador, famous for their evolutionary history, and explore their animal ecology. In Colombia, soak in a mud bath, swim in the Caribbean Sea, and visit a floating island in the middle of the ocean to witness the islanders' lives.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15348,7 +15348,7 @@
     <desc lang="en">A towering presence at the back and a potent attacking force upfront. Complete domination by Barcelona club captain Gerard Pique.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260817140000 +0000" stop="20260817195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260817140000 +0000" stop="20260817193000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 330: Makhachev vs. Machado Garry - Main</title>
     <desc lang="en">UFC returns to “The City of Brotherly Love” for the first time in six years on Saturday, August 16 as UFC 330 touches down at Xfinity Mobile Arena with a pair of fascinating championship bouts atop the bill. In the main event, welterweight champion Islam Makhachev defends his title against No. 1 contender “The Future” Ian Machado Garry in what should be an electric pairing. And in the co-main event, Mackenzie Dern defends her UFC women's strawweight title for the first time in a clash with dangerous finisher Gillian “The Savage” Robertson.</desc>
     <category lang="en">Sports</category>
