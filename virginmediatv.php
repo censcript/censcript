@@ -782,13 +782,13 @@
     <title>The Reluctant Landlord - Love Is in the Air</title>
 </programme>
 <programme start="20260817004500 +0000" stop="20260817011500 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Reluctant Landlord - Couple&#039;s Amnesty</title>
 </programme>
 <programme start="20260817011500 +0000" stop="20260817014500 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Reluctant Landlord - Dreadlock Jeff</title>
 </programme>
 <programme start="20260817014500 +0000" stop="20260817021000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Reluctant Landlord - Die Another Day</title>
 </programme>
 <programme start="20260817021000 +0000" stop="20260817025000 +0000" channel="Sky_Comedy_HD.virginmediatv">
     <title>The Rehearsal - The Fielder Method</title>
@@ -7208,13 +7208,13 @@
     <title>The Reluctant Landlord - Love Is in the Air</title>
 </programme>
 <programme start="20260817004500 +0000" stop="20260817011500 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Reluctant Landlord - Couple&#039;s Amnesty</title>
 </programme>
 <programme start="20260817011500 +0000" stop="20260817014500 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Reluctant Landlord - Dreadlock Jeff</title>
 </programme>
 <programme start="20260817014500 +0000" stop="20260817021000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Reluctant Landlord - Die Another Day</title>
 </programme>
 <programme start="20260817021000 +0000" stop="20260817025000 +0000" channel="Sky_Comedy.virginmediatv">
     <title>The Rehearsal - The Fielder Method</title>

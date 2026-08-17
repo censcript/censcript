@@ -937,13 +937,13 @@
   <programme start="20260819002000 +0000" stop="20260819010000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (158)</title>
   </programme>
-  <programme start="20260819010000 +0000" stop="20260819013500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260819010000 +0000" stop="20260819014000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Fire X (18)</title>
   </programme>
-  <programme start="20260819013500 +0000" stop="20260819020500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260819014000 +0000" stop="20260819021000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260819020500 +0000" stop="20260819025500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260819021000 +0000" stop="20260819025500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Adela show</title>
   </programme>
   <programme start="20260819025500 +0000" stop="20260819034500 +0000" channel="Doma.webtv.sk">
