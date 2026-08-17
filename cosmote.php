@@ -58,10 +58,6 @@
     <title>UEFA Champions League 2026-27 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260818010000 +0700" stop="20260818021500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260818021500 +0700" stop="20260818041500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Casa Pia - SL Benfica (L)</title>
     <desc>Live: Ya</desc>
@@ -190,14 +186,6 @@
     <title>Football: Fenerbahce SK - Olympique Lyonnais (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260818001500 +0700" stop="20260818023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Tofas</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260818023000 +0700" stop="20260818030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260818030000 +0700" stop="20260818034000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -261,10 +249,6 @@
 <programme start="20260819020000 +0700" stop="20260819040500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: GNK Dinamo - Viking FK (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260818010000 +0700" stop="20260818023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260818023000 +0700" stop="20260818040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2026</title>
@@ -367,6 +351,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819022000 +0700" stop="20260819030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260819030000 +0700" stop="20260819034500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260819034500 +0700" stop="20260819045000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
