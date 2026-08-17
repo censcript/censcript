@@ -54,10 +54,6 @@
     <title>Football: Paris Saint Germain - Arsenal</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260817170000 +0700" stop="20260817190000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Rio Ave - FC Porto</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260817190000 +0700" stop="20260817210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20260818171500 +0700" stop="20260818191500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Casa Pia - SL Benfica</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260818191500 +0700" stop="20260818211500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817180000 +0700" stop="20260817200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,12 +250,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260817171000 +0700" stop="20260817181000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260817181000 +0700" stop="20260817184000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2026 E7</title>
+<programme start="20260818190000 +0700" stop="20260818210000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Badalona - Baskonia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260817184000 +0700" stop="20260817192500 +0700" channel="COSMOTE Sport 5 HD">
@@ -363,6 +359,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260818182000 +0700" stop="20260818191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Harley-Davidson Bagger World Cup 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260818191000 +0700" stop="20260818200000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Harley-Davidson Bagger World Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
