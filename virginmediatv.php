@@ -3859,7 +3859,10 @@
 <programme start="20260817030000 +0000" stop="20260817040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>The Sky Sports Catch-Up</title>
 </programme>
-<programme start="20260817040000 +0000" stop="20260817060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>The Sky Sports Catch-Up</title>
+</programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>The Sky Sports Catch-Up</title>
 </programme>
 <programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4708,7 +4711,10 @@
 <programme start="20260817030000 +0000" stop="20260817040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>The Sky Sports Catch-Up</title>
 </programme>
-<programme start="20260817040000 +0000" stop="20260817060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>The Sky Sports Catch-Up</title>
+</programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>The Sky Sports Catch-Up</title>
 </programme>
 <programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
