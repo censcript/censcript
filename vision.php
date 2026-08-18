@@ -667,12 +667,6 @@
 <programme start="20260818093000 +0000" stop="20260818113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260818113000 +0000" stop="20260818140000 +0000" channel="ANTV.vision">
-<title>Badai Di Awal Bahagia</title>
-</programme>
-<programme start="20260818140000 +0000" stop="20260818160000 +0000" channel="ANTV.vision">
-<title>Sumala</title>
-</programme>
 <programme start="20260818160000 +0000" stop="20260818180000 +0000" channel="ANTV.vision">
 <title>Sepasang Mata Maut</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260818020000 +0000" stop="20260818020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260818020300 +0000" stop="20260818023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260818023000 +0000" stop="20260818030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
