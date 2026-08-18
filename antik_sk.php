@@ -2713,8 +2713,11 @@
   <programme start="20260820150000 +0000" stop="20260820160000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Zábava na Šlágru</title>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820182000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260820160000 +0000" stop="20260820175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Poklady našeho archivu</title>
+  </programme>
+  <programme start="20260820175000 +0000" stop="20260820182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT II</title>
   </programme>
   <programme start="20260820182000 +0000" stop="20260820220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
@@ -2725,10 +2728,19 @@
   <programme start="20260820000000 +0000" stop="20260820060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260820060000 +0000" stop="20260820103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260820060000 +0000" stop="20260820093000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZÁBAVA NA DVOJCE</title>
   </programme>
-  <programme start="20260820123000 +0000" stop="20260820200000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260820093000 +0000" stop="20260820103000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
+  </programme>
+  <programme start="20260820123000 +0000" stop="20260820140000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ZÁBAVA NA DVOJCE</title>
+  </programme>
+  <programme start="20260820140000 +0000" stop="20260820173000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
+  </programme>
+  <programme start="20260820173000 +0000" stop="20260820200000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZÁBAVA NA DVOJCE</title>
   </programme>
   <programme start="20260820200000 +0000" stop="20260820220000 +0000" channel="Šláger Muzika.webtv.sk">

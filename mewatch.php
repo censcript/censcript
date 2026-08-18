@@ -724,13 +724,13 @@
     <programme start="20260818160000 +0000" stop="20260819160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now.</title>
     </programme>
-    <programme start="20260817160000 +0000" stop="20260818130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 18 August, Tuesday 9.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260817160000 +0000" stop="20260818123400 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 18 August, Tuesday 8.34pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260818130000 +0000" stop="20260818150000 +0000" channel="Live 5.mewatch">
+    <programme start="20260818123400 +0000" stop="20260818152000 +0000" channel="Live 5.mewatch">
         <title>Hyundai Cup 2026 : Semi-final 2 : Thailand vs Singapore</title>
     </programme>
-    <programme start="20260818150000 +0000" stop="20260818160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260818152000 +0000" stop="20260818160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 19 August, Wednesday 9.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260818160000 +0000" stop="20260819130000 +0000" channel="Live 5.mewatch">

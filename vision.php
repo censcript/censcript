@@ -652,9 +652,6 @@
 <programme start="20260819114500 +0000" stop="20260819121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260817230000 +0000" stop="20260818023000 +0000" channel="ANTV.vision">
-<title>Race</title>
-</programme>
 <programme start="20260818023000 +0000" stop="20260818060000 +0000" channel="ANTV.vision">
 <title>Karan Arjun</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260818130000 +0000" stop="20260818140000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260818140000 +0000" stop="20260818143000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
