@@ -1,7 +1,3 @@
-<programme start="20260819020000 +0700" stop="20260819040500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League 2026-27 Minute By Minute (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260819040500 +0700" stop="20260819053000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2026-27 (L)</title>
     <desc>Live: Ya</desc>
@@ -66,9 +62,9 @@
     <title>UEFA Champions League Show 2026-27 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260819020000 +0700" stop="20260819040500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Levski Sofia - AEK (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260820053000 +0700" stop="20260820060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2026-27</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819040500 +0700" stop="20260819061000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Levski Sofia - AEK</title>
@@ -133,10 +129,6 @@
 <programme start="20260820040500 +0700" stop="20260820061000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Nijmegen - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260819020000 +0700" stop="20260819040500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Fenerbahce SK - Olympique Lyonnais (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260819040500 +0700" stop="20260819061000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Fenerbahce SK - Olympique Lyonnais</title>
@@ -214,10 +206,6 @@
     <title>Football: Celtic FC - LASK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819020000 +0700" stop="20260819040500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Football: GNK Dinamo - Viking FK (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260819040500 +0700" stop="20260819052500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -274,8 +262,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819034500 +0700" stop="20260819045000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
+<programme start="20260820052500 +0700" stop="20260820060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819045000 +0700" stop="20260819052000 +0700" channel="COSMOTE Sport 5 HD">
@@ -360,6 +348,10 @@
 </programme>
 <programme start="20260820043500 +0700" stop="20260820054000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260820054000 +0700" stop="20260820064000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2026 FIM Moto Junior GP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819020000 +0700" stop="20260819060000 +0700" channel="COSMOTE Sport 6 HD">

@@ -19771,25 +19771,25 @@
   <programme start="20260820200000 +0000" stop="20260820220000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">DEVADESÁTKY</title>
   </programme>
-  <programme start="20260819175900 +0000" stop="20260819222900 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260819180000 +0000" stop="20260819223000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retro party</title>
   </programme>
-  <programme start="20260819222900 +0000" stop="20260820025900 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260819223000 +0000" stop="20260820030000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Revolution</title>
   </programme>
-  <programme start="20260820025900 +0000" stop="20260820055900 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260820030000 +0000" stop="20260820060000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Restart</title>
   </programme>
-  <programme start="20260820055900 +0000" stop="20260820070000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260820060000 +0000" stop="20260820070000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retrománie</title>
   </programme>
   <programme start="20260820070000 +0000" stop="20260820080000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Replay 90&apos;</title>
   </programme>
-  <programme start="20260820080000 +0000" stop="20260820085900 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260820080000 +0000" stop="20260820090000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Replay 80&apos;</title>
   </programme>
-  <programme start="20260820085900 +0000" stop="20260820110000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260820090000 +0000" stop="20260820110000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Refresh</title>
   </programme>
   <programme start="20260820110000 +0000" stop="20260820123000 +0000" channel="Retro Music Television.webtv.sk">
@@ -19798,10 +19798,10 @@
   <programme start="20260820123000 +0000" stop="20260820140000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Rekreace</title>
   </programme>
-  <programme start="20260820140000 +0000" stop="20260820145900 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260820140000 +0000" stop="20260820150000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Repete</title>
   </programme>
-  <programme start="20260820145900 +0000" stop="20260820153000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260820150000 +0000" stop="20260820153000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Rentgen</title>
   </programme>
   <programme start="20260820153000 +0000" stop="20260820160000 +0000" channel="Retro Music Television.webtv.sk">
@@ -19810,10 +19810,10 @@
   <programme start="20260820160000 +0000" stop="20260820173000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Republika</title>
   </programme>
-  <programme start="20260820173000 +0000" stop="20260820175900 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260820173000 +0000" stop="20260820180000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Reproduktor</title>
   </programme>
-  <programme start="20260820175900 +0000" stop="20260820222900 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260820180000 +0000" stop="20260820223000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retro party</title>
   </programme>
   <programme start="20260819220000 +0000" stop="20260819222000 +0000" channel="Rebel.webtv.sk">
