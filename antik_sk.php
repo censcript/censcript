@@ -4793,7 +4793,7 @@
     <title lang="id">AutoGRATIS</title>
   </programme>
   <programme start="20260820130000 +0000" stop="20260820131500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
+    <title lang="id">ARIES RACING v polovici sezóny 2026</title>
   </programme>
   <programme start="20260820131500 +0000" stop="20260820134500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoring</title>
@@ -4804,17 +4804,11 @@
   <programme start="20260820141500 +0000" stop="20260820143000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Švihák testuje</title>
   </programme>
-  <programme start="20260820143000 +0000" stop="20260820153000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260820143000 +0000" stop="20260820150000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260820153000 +0000" stop="20260820160000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoride</title>
-  </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Topspeed</title>
+  <programme start="20260820150000 +0000" stop="20260820170000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">FC Kairat Almaty (KAZ) - RSC Anderlecht (BEL)</title>
   </programme>
   <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DominicCars</title>
@@ -4825,13 +4819,10 @@
   <programme start="20260820180000 +0000" stop="20260820183000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoring</title>
   </programme>
-  <programme start="20260820183000 +0000" stop="20260820190000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Topspeed</title>
+  <programme start="20260820183000 +0000" stop="20260820203000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motherwell FC (SCO) - SC Freiburg (GER)</title>
   </programme>
-  <programme start="20260820190000 +0000" stop="20260820200000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260820200000 +0000" stop="20260820210000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260820203000 +0000" stop="20260820210000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
   <programme start="20260820210000 +0000" stop="20260820213000 +0000" channel="Arena Sport 1.webtv.sk">
