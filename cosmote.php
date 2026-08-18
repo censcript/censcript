@@ -122,6 +122,10 @@
     <title>Football: Parma - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260819171500 +0700" stop="20260819191500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Rio Ave - FC Porto</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260818160000 +0700" stop="20260818180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Queen of the South FC - Aberdeen</title>
     <desc>Live: Tidak</desc>
@@ -198,8 +202,8 @@
     <title>Football: St. Mirren - Dunfermline</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260818135500 +0700" stop="20260818161000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Tofas</title>
+<programme start="20260819174500 +0700" stop="20260819194500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: York City - Bristol Rovers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260818161000 +0700" stop="20260818180500 +0700" channel="COSMOTE Sport 4 HD">

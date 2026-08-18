@@ -8041,20 +8041,11 @@
 <programme start="20260817183000 +0000" stop="20260817190000 +0000" channel="Sportstars.mncvision">
     <title>iNews Sport</title>
 </programme>
-<programme start="20260817190000 +0000" stop="20260817193000 +0000" channel="Sportstars.mncvision">
+<programme start="20260817190000 +0000" stop="20260817210000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Jojo</title>
 </programme>
-<programme start="20260817193000 +0000" stop="20260817205000 +0000" channel="Sportstars.mncvision">
-    <title>2026 The Asian Tournament</title>
-</programme>
-<programme start="20260817205000 +0000" stop="20260817210000 +0000" channel="Sportstars.mncvision">
-    <title>2026 The Asian Tournament</title>
-</programme>
-<programme start="20260817210000 +0000" stop="20260817223000 +0000" channel="Sportstars.mncvision">
+<programme start="20260817210000 +0000" stop="20260817230000 +0000" channel="Sportstars.mncvision">
     <title>Satu Hati Untuk Garuda</title>
-</programme>
-<programme start="20260817223000 +0000" stop="20260817230000 +0000" channel="Sportstars.mncvision">
-    <title>Longines Global Champions Tour</title>
 </programme>
 <programme start="20260817230000 +0000" stop="20260817233000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8065,17 +8056,11 @@
 <programme start="20260818000000 +0000" stop="20260818003000 +0000" channel="Sportstars.mncvision">
     <title>Adrenaline Rush</title>
 </programme>
-<programme start="20260818003000 +0000" stop="20260818010500 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Women</title>
-</programme>
-<programme start="20260818010500 +0000" stop="20260818020000 +0000" channel="Sportstars.mncvision">
-    <title>Unbridled: The Spruce Meadows</title>
-</programme>
-<programme start="20260818020000 +0000" stop="20260818023000 +0000" channel="Sportstars.mncvision">
-    <title>Super Series GP Sailing Show</title>
+<programme start="20260818003000 +0000" stop="20260818023000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026: Womens</title>
 </programme>
 <programme start="20260818023000 +0000" stop="20260818043000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League 2025-2026: Mens</title>
 </programme>
 <programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8083,14 +8068,11 @@
 <programme start="20260818050000 +0000" stop="20260818053000 +0000" channel="Sportstars.mncvision">
     <title>iNews Sport</title>
 </programme>
-<programme start="20260818053000 +0000" stop="20260818070000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Women</title>
-</programme>
-<programme start="20260818070000 +0000" stop="20260818073000 +0000" channel="Sportstars.mncvision">
-    <title>Longines Global Champions Tour</title>
+<programme start="20260818053000 +0000" stop="20260818073000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026: Womens</title>
 </programme>
 <programme start="20260818073000 +0000" stop="20260818093000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League 2025-2026: Mens</title>
 </programme>
 <programme start="20260818093000 +0000" stop="20260818100000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8098,29 +8080,17 @@
 <programme start="20260818100000 +0000" stop="20260818103000 +0000" channel="Sportstars.mncvision">
     <title>Bloopers</title>
 </programme>
-<programme start="20260818103000 +0000" stop="20260818113000 +0000" channel="Sportstars.mncvision">
+<programme start="20260818103000 +0000" stop="20260818130000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
-</programme>
-<programme start="20260818113000 +0000" stop="20260818120000 +0000" channel="Sportstars.mncvision">
-    <title>2026 Global Champions League</title>
-</programme>
-<programme start="20260818120000 +0000" stop="20260818130000 +0000" channel="Sportstars.mncvision">
-    <title>2026 The Asian Tournament (L)</title>
 </programme>
 <programme start="20260818130000 +0000" stop="20260818133000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
 </programme>
-<programme start="20260818133000 +0000" stop="20260818140000 +0000" channel="Sportstars.mncvision">
+<programme start="20260818133000 +0000" stop="20260818153000 +0000" channel="Sportstars.mncvision">
     <title>Satu Hati Untuk Garuda</title>
 </programme>
-<programme start="20260818140000 +0000" stop="20260818153000 +0000" channel="Sportstars.mncvision">
-    <title>2026 MLB: LAD Vs MIL</title>
-</programme>
-<programme start="20260818153000 +0000" stop="20260818163000 +0000" channel="Sportstars.mncvision">
+<programme start="20260818153000 +0000" stop="20260818160000 +0000" channel="Sportstars.mncvision">
     <title>Pro Futsal League</title>
-</programme>
-<programme start="20260818163000 +0000" stop="20260817170000 +0000" channel="Sportstars.mncvision">
-    <title>2026 The Asian Tournament</title>
 </programme>
 <programme start="20260817170000 +0000" stop="20260817190000 +0000" channel="Sportstars 2.mncvision">
     <title>Best Of Persib</title>
@@ -8381,10 +8351,10 @@
     <title>Adrenaline Rush</title>
 </programme>
 <programme start="20260818003000 +0000" stop="20260818023000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Women</title>
+    <title>V-League 2025-2026: Womens</title>
 </programme>
 <programme start="20260818023000 +0000" stop="20260818043000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League 2025-2026: Mens</title>
 </programme>
 <programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="Sportstars HD.mncvision">
     <title>Sports Today</title>
@@ -8393,10 +8363,10 @@
     <title>iNews Sport</title>
 </programme>
 <programme start="20260818053000 +0000" stop="20260818073000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Women</title>
+    <title>V-League 2025-2026: Womens</title>
 </programme>
 <programme start="20260818073000 +0000" stop="20260818093000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League 2025-2026: Mens</title>
 </programme>
 <programme start="20260818093000 +0000" stop="20260818100000 +0000" channel="Sportstars HD.mncvision">
     <title>Sports Today</title>
