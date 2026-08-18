@@ -122,7 +122,7 @@
     <title>Home and Away - Episode 125</title>
 </programme>
 <programme start="20260817235500 +0000" stop="20260818004000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>The Real Housewives of Orange County - Under Construction</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260818004000 +0000" stop="20260818012500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>The Real Housewives of New York City - Running Your Mouth</title>
