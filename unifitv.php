@@ -15566,8 +15566,13 @@
     <desc lang="en">beIN SPORTS brings you coverage of the 69th season of Turkey's top-flight football.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260818055000 +0000" stop="20260818085000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">UCI World Tour - ADAC Cyclassics Hamburg</title>
+  <programme start="20260818055000 +0000" stop="20260818072000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">UCI World Tour - Czech Tour - Stage 3</title>
+    <desc lang="en">The highest level of professional road cycling, a series of elite races for men.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260818072000 +0000" stop="20260818085000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">UCI World Tour - Czech Tour - Stage 4</title>
     <desc lang="en">The highest level of professional road cycling, a series of elite races for men.</desc>
     <category lang="en">Sports</category>
   </programme>

@@ -926,7 +926,7 @@
     <title lang="id">Horná Dolná XIV (1)</title>
   </programme>
   <programme start="20260820173500 +0000" stop="20260820183000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Susedia I (1)</title>
+    <title lang="id">Susedia VI (1)</title>
   </programme>
   <programme start="20260820183000 +0000" stop="20260820203000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Expendables: Nezničiteľní 2</title>
@@ -986,7 +986,7 @@
     <title lang="id">Oteckovia IV (105)</title>
   </programme>
   <programme start="20260820121500 +0000" stop="20260820132000 +0000" channel="Doma.webtv.sk">
-    <title lang="id">Dcéry pani Fazilet (1)</title>
+    <title lang="id">Dcéry pani Fazilet I (1)</title>
   </programme>
   <programme start="20260820132000 +0000" stop="20260820141000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dcéry pani Fazilet (2)</title>
@@ -5446,10 +5446,10 @@
   <programme start="20260820113000 +0000" stop="20260820163000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Nexo Championship</title>
   </programme>
-  <programme start="20260820163000 +0000" stop="20260820210000 +0000" channel="Golf Channel.webtv.sk">
-    <title lang="id">LIV Indianapolis</title>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Highlights z turnaje HotelPlanner Tour</title>
   </programme>
-  <programme start="20260820210000 +0000" stop="20260820220000 +0000" channel="Golf Channel.webtv.sk">
+  <programme start="20260820170000 +0000" stop="20260820220000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">LIV Indianapolis</title>
   </programme>
   <programme start="20260819220000 +0000" stop="20260819224500 +0000" channel="National Geographic Channel.webtv.sk">
