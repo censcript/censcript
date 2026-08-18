@@ -15423,14 +15423,19 @@
     <desc lang="en">Enjoy every Liverpool match from the Premier League, FA Cup and Carabao Cup and friendlies, from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260818022000 +0000" stop="20260818025000 +0000" channel="beinsports.unifitv">
+  <programme start="20260818022000 +0000" stop="20260818024000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFC Trending - Episode Number 52</title>
     <desc lang="en">The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260818025000 +0000" stop="20260818032000 +0000" channel="beinsports.unifitv">
+  <programme start="20260818024000 +0000" stop="20260818030000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Highlights - Liverpool vs Como 1907 - Pre Season Friendly II</title>
     <desc lang="en">Enjoy match highlights from Liverpool's Premier League, FA Cup, Carabao Cup and UEFA Champions League games from LFCTV on beIN SPORTS</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260818030000 +0000" stop="20260818032000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Goals Galore - Robert Lewandowski</title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260818032000 +0000" stop="20260818035000 +0000" channel="beinsports.unifitv">

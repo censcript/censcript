@@ -4438,8 +4438,11 @@
 <programme start="20260818053000 +0000" stop="20260818060000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Tour 2026: Manchester United v AC Milan</title>
 </programme>
-<programme start="20260818120000 +0000" stop="20260818130000 +0000" channel="MUTV.virginmediatv">
-    <title>Denis Law: Made In Aberdeen</title>
+<programme start="20260818120000 +0000" stop="20260818124500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington Podcast - Carrick in Ireland</title>
+</programme>
+<programme start="20260818124500 +0000" stop="20260818130000 +0000" channel="MUTV.virginmediatv">
+    <title>Signing Interview: Youri Tielemans</title>
 </programme>
 <programme start="20260818130000 +0000" stop="20260818131500 +0000" channel="MUTV.virginmediatv">
     <title>Kit Launch - Home Kit 26/27 - Behind The Scenes</title>
@@ -4447,11 +4450,17 @@
 <programme start="20260818131500 +0000" stop="20260818133000 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - Denis Irwin</title>
 </programme>
-<programme start="20260818133000 +0000" stop="20260818160000 +0000" channel="MUTV.virginmediatv">
+<programme start="20260818133000 +0000" stop="20260818154500 +0000" channel="MUTV.virginmediatv">
     <title>The Match Replayed - Tour 2026: Manchester United v AC Milan</title>
 </programme>
-<programme start="20260818160000 +0000" stop="20260818170000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington Podcast - Denis Irwin &amp; Travis Binnion</title>
+<programme start="20260818154500 +0000" stop="20260818160000 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - Summer Sessions</title>
+</programme>
+<programme start="20260818160000 +0000" stop="20260818164500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington Podcast - Carrick in Ireland</title>
+</programme>
+<programme start="20260818164500 +0000" stop="20260818170000 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - Denis Irwin</title>
 </programme>
 <programme start="20260818170000 +0000" stop="20260818173000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Tour 2026: Manchester United v AC Milan</title>
