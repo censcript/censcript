@@ -7301,7 +7301,7 @@
   <programme start="20260817212500 +0000" stop="20260817231000 +0000" channel="kplus.unifitv">
     <title lang="en">Korean Lunch Tray</title>
     <desc lang="en">A variety program which carries the iconic metal lunch tray and spreads the culture of K-food to different parts of the world.</desc>
-    <category lang="en">Romance</category>
+    <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
@@ -7315,7 +7315,7 @@
   <programme start="20260818005500 +0000" stop="20260818021000 +0000" channel="kplus.unifitv">
     <title lang="en">The Light in Your Eyes</title>
     <desc lang="en">After Hye-ja hearing that Chanel lady has plans to go see her son, she runs to Joon-ha to stop her from going.</desc>
-    <category lang="en">Romance</category>
+    <category lang="en">Fantasy</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
@@ -7364,7 +7364,7 @@
   <programme start="20260818094000 +0000" stop="20260818105500 +0000" channel="kplus.unifitv">
     <title lang="en">The Light in Your Eyes</title>
     <desc lang="en">After Hye-ja hearing that Chanel lady has plans to go see her son, she runs to Joon-ha to stop her from going.</desc>
-    <category lang="en">Romance</category>
+    <category lang="en">Fantasy</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
@@ -7392,7 +7392,7 @@
   <programme start="20260818144000 +0000" stop="20260818155500 +0000" channel="kplus.unifitv">
     <title lang="en">The Light in Your Eyes</title>
     <desc lang="en">Hye-ja and Joon-ho are shocked by the death of Chanel lady. Joon-ha gets investigated as a prime suspect but he is silent about his alibi.</desc>
-    <category lang="en">Romance</category>
+    <category lang="en">Fantasy</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>

@@ -7654,119 +7654,113 @@
 <programme start="20260818164500 +0000" stop="20260817171500 +0000" channel="Rock Entertainment.mncvision">
     <title>Below Deck Down Under, Ep 15</title>
 </programme>
-<programme start="20260817174700 +0000" stop="20260817185700 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260817191100 +0000" stop="20260817194200 +0000" channel="SCTV.mncvision">
+    <title>Solusi</title>
 </programme>
-<programme start="20260817185700 +0000" stop="20260817200200 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260817194200 +0000" stop="20260817210000 +0000" channel="SCTV.mncvision">
+    <title>Maaf Untuk Cinta</title>
 </programme>
-<programme start="20260817200200 +0000" stop="20260817210500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260817210000 +0000" stop="20260817213000 +0000" channel="SCTV.mncvision">
+    <title>Barakallah</title>
 </programme>
-<programme start="20260817210500 +0000" stop="20260817213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260817213000 +0000" stop="20260817230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260817213000 +0000" stop="20260817220000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260817230000 +0000" stop="20260818003000 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot Spc. HUT SCTV</title>
 </programme>
-<programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818003000 +0000" stop="20260818013000 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260817230000 +0000" stop="20260818000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818013000 +0000" stop="20260818023000 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260818000000 +0000" stop="20260818012600 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818023000 +0000" stop="20260818043000 +0000" channel="SCTV.mncvision">
+    <title>Aura 34 Babe Angels Bikin...</title>
 </programme>
-<programme start="20260818012600 +0000" stop="20260818030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260818030000 +0000" stop="20260818045400 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818050000 +0000" stop="20260818063000 +0000" channel="SCTV.mncvision">
+    <title>Jelaskan Cintamu Padaku...</title>
 </programme>
-<programme start="20260818045400 +0000" stop="20260818052500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818063000 +0000" stop="20260818074500 +0000" channel="SCTV.mncvision">
+    <title>Dari Ayam Jadi I Love You</title>
 </programme>
-<programme start="20260818052500 +0000" stop="20260818065800 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818074500 +0000" stop="20260818090000 +0000" channel="SCTV.mncvision">
+    <title>Kuwa-Kuwi Cantiknya Neng...</title>
 </programme>
-<programme start="20260818065800 +0000" stop="20260818083000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis Spc. HUT SCTV</title>
 </programme>
-<programme start="20260818083000 +0000" stop="20260818100300 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818100000 +0000" stop="20260818114500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260818100300 +0000" stop="20260818114700 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818114500 +0000" stop="20260818131500 +0000" channel="SCTV.mncvision">
+    <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260818114700 +0000" stop="20260818131500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818131500 +0000" stop="20260818144500 +0000" channel="SCTV.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260818131500 +0000" stop="20260818143500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818144500 +0000" stop="20260818160000 +0000" channel="SCTV.mncvision">
+    <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260818143500 +0000" stop="20260818160700 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260818160000 +0000" stop="20260818163000 +0000" channel="SCTV.mncvision">
+    <title>Vidio Original: Love Is A Story</title>
 </programme>
-<programme start="20260818160700 +0000" stop="20260818163700 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260817191100 +0000" stop="20260817194200 +0000" channel="SCTV HD.mncvision">
+    <title>Solusi</title>
 </programme>
-<programme start="20260817174700 +0000" stop="20260817185700 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260817194200 +0000" stop="20260817210000 +0000" channel="SCTV HD.mncvision">
+    <title>Maaf Untuk Cinta</title>
 </programme>
-<programme start="20260817185700 +0000" stop="20260817200200 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260817210000 +0000" stop="20260817213000 +0000" channel="SCTV HD.mncvision">
+    <title>Barakallah</title>
 </programme>
-<programme start="20260817200200 +0000" stop="20260817210500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260817213000 +0000" stop="20260817230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260817210500 +0000" stop="20260817213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260817230000 +0000" stop="20260818003000 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot Spc. HUT SCTV</title>
 </programme>
-<programme start="20260817213000 +0000" stop="20260817220000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818003000 +0000" stop="20260818013000 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818013000 +0000" stop="20260818023000 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260817230000 +0000" stop="20260818000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818023000 +0000" stop="20260818043000 +0000" channel="SCTV HD.mncvision">
+    <title>Aura 34 Babe Angels Bikin...</title>
 </programme>
-<programme start="20260818000000 +0000" stop="20260818012600 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260818012600 +0000" stop="20260818030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818050000 +0000" stop="20260818063000 +0000" channel="SCTV HD.mncvision">
+    <title>Jelaskan Cintamu Padaku...</title>
 </programme>
-<programme start="20260818030000 +0000" stop="20260818045400 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818063000 +0000" stop="20260818074500 +0000" channel="SCTV HD.mncvision">
+    <title>Dari Ayam Jadi I Love You</title>
 </programme>
-<programme start="20260818045400 +0000" stop="20260818052500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818074500 +0000" stop="20260818090000 +0000" channel="SCTV HD.mncvision">
+    <title>Kuwa-Kuwi Cantiknya Neng...</title>
 </programme>
-<programme start="20260818052500 +0000" stop="20260818065800 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis Spc. HUT SCTV</title>
 </programme>
-<programme start="20260818065800 +0000" stop="20260818083000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818100000 +0000" stop="20260818114500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260818083000 +0000" stop="20260818100300 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818114500 +0000" stop="20260818131500 +0000" channel="SCTV HD.mncvision">
+    <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260818100300 +0000" stop="20260818114700 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818131500 +0000" stop="20260818144500 +0000" channel="SCTV HD.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260818114700 +0000" stop="20260818131500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818144500 +0000" stop="20260818160000 +0000" channel="SCTV HD.mncvision">
+    <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260818131500 +0000" stop="20260818143500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260818143500 +0000" stop="20260818160700 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260818160700 +0000" stop="20260818163700 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260818160000 +0000" stop="20260818163000 +0000" channel="SCTV HD.mncvision">
+    <title>Vidio Original: Love Is A Story</title>
 </programme>
 <programme start="20260817173000 +0000" stop="20260817180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
@@ -7936,17 +7930,14 @@
 <programme start="20260818013000 +0000" stop="20260818033000 +0000" channel="Soccer Channel.mncvision">
     <title>Sportacular International Match</title>
 </programme>
-<programme start="20260818033000 +0000" stop="20260818040000 +0000" channel="Soccer Channel.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20260818040000 +0000" stop="20260818060000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20260818033000 +0000" stop="20260818053000 +0000" channel="Soccer Channel.mncvision">
     <title>ACL Elite 2025-2026: JDT Vs VIS</title>
 </programme>
-<programme start="20260818060000 +0000" stop="20260818070000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20260818053000 +0000" stop="20260818070000 +0000" channel="Soccer Channel.mncvision">
     <title>Drawing ACL Two 2026/27 (L)</title>
 </programme>
 <programme start="20260818070000 +0000" stop="20260818073000 +0000" channel="Soccer Channel.mncvision">
-    <title>Planet Football</title>
+    <title>The Ultimate Goals</title>
 </programme>
 <programme start="20260818073000 +0000" stop="20260818080000 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
@@ -7955,7 +7946,7 @@
     <title>Drawing ACL Elite 2026/27 (L)</title>
 </programme>
 <programme start="20260818090000 +0000" stop="20260818093000 +0000" channel="Soccer Channel.mncvision">
-    <title>The Ultimate Goals</title>
+    <title>Planet Football</title>
 </programme>
 <programme start="20260818093000 +0000" stop="20260818100000 +0000" channel="Soccer Channel.mncvision">
     <title>World Classic Soccer</title>
@@ -7993,17 +7984,14 @@
 <programme start="20260818013000 +0000" stop="20260818033000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Sportacular International Match</title>
 </programme>
-<programme start="20260818033000 +0000" stop="20260818040000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20260818040000 +0000" stop="20260818060000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20260818033000 +0000" stop="20260818053000 +0000" channel="Soccer Channel HD.mncvision">
     <title>ACL Elite 2025-2026: JDT Vs VIS</title>
 </programme>
-<programme start="20260818060000 +0000" stop="20260818070000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20260818053000 +0000" stop="20260818070000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Drawing ACL Two 2026/27 (L)</title>
 </programme>
 <programme start="20260818070000 +0000" stop="20260818073000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Planet Football</title>
+    <title>The Ultimate Goals</title>
 </programme>
 <programme start="20260818073000 +0000" stop="20260818080000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Top Goals</title>
@@ -8012,7 +8000,7 @@
     <title>Drawing ACL Elite 2026/27 (L)</title>
 </programme>
 <programme start="20260818090000 +0000" stop="20260818093000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>The Ultimate Goals</title>
+    <title>Planet Football</title>
 </programme>
 <programme start="20260818093000 +0000" stop="20260818100000 +0000" channel="Soccer Channel HD.mncvision">
     <title>World Classic Soccer</title>
@@ -8416,32 +8404,47 @@
 <programme start="20260818153000 +0000" stop="20260818160000 +0000" channel="Sportstars HD.mncvision">
     <title>Pro Futsal League</title>
 </programme>
-<programme start="20260817173000 +0000" stop="20260817193000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817170000 +0000" stop="20260817180000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix HL</title>
 </programme>
-<programme start="20260817193000 +0000" stop="20260817210000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817180000 +0000" stop="20260817210000 +0000" channel="SPOTV.mncvision">
+    <title>VP Bank Swiss Ladies Open</title>
 </programme>
-<programme start="20260817210000 +0000" stop="20260817215000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817210000 +0000" stop="20260817223000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix</title>
 </programme>
-<programme start="20260817215000 +0000" stop="20260818023000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817223000 +0000" stop="20260817233000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix</title>
 </programme>
-<programme start="20260818023000 +0000" stop="20260818054000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817233000 +0000" stop="20260818012500 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix</title>
 </programme>
-<programme start="20260818054000 +0000" stop="20260818090000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260818012500 +0000" stop="20260818040500 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix</title>
 </programme>
-<programme start="20260818090000 +0000" stop="20260818120000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260818040500 +0000" stop="20260818043500 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix HL</title>
 </programme>
-<programme start="20260818120000 +0000" stop="20260818150000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260818043500 +0000" stop="20260818063000 +0000" channel="SPOTV.mncvision">
+    <title>Roshn Saudi League 26/27</title>
 </programme>
-<programme start="20260818150000 +0000" stop="20260818153000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260818063000 +0000" stop="20260818083000 +0000" channel="SPOTV.mncvision">
+    <title>Roshn Saudi League 26/27</title>
+</programme>
+<programme start="20260818083000 +0000" stop="20260818093000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix</title>
+</programme>
+<programme start="20260818093000 +0000" stop="20260818112500 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix</title>
+</programme>
+<programme start="20260818112500 +0000" stop="20260818140500 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: London E-Prix</title>
+</programme>
+<programme start="20260818140500 +0000" stop="20260818164500 +0000" channel="SPOTV.mncvision">
+    <title>World Supercross: Canadian GP</title>
+</programme>
+<programme start="20260818164500 +0000" stop="20260817171500 +0000" channel="SPOTV.mncvision">
+    <title>LIV Golf League: New York HL</title>
 </programme>
 <programme start="20260817180000 +0000" stop="20260817193000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 The Asian Tournament</title>
@@ -8533,32 +8536,47 @@
 <programme start="20260818162500 +0000" stop="20260818165500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 The Asian Tournament</title>
 </programme>
-<programme start="20260817173000 +0000" stop="20260817193000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817170000 +0000" stop="20260817180000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix HL</title>
 </programme>
-<programme start="20260817193000 +0000" stop="20260817210000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817180000 +0000" stop="20260817210000 +0000" channel="SPOTV HD.mncvision">
+    <title>VP Bank Swiss Ladies Open</title>
 </programme>
-<programme start="20260817210000 +0000" stop="20260817215000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817210000 +0000" stop="20260817223000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix</title>
 </programme>
-<programme start="20260817215000 +0000" stop="20260818023000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817223000 +0000" stop="20260817233000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix</title>
 </programme>
-<programme start="20260818023000 +0000" stop="20260818054000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260817233000 +0000" stop="20260818012500 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix</title>
 </programme>
-<programme start="20260818054000 +0000" stop="20260818090000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260818012500 +0000" stop="20260818040500 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix</title>
 </programme>
-<programme start="20260818090000 +0000" stop="20260818120000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260818040500 +0000" stop="20260818043500 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix HL</title>
 </programme>
-<programme start="20260818120000 +0000" stop="20260818150000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260818043500 +0000" stop="20260818063000 +0000" channel="SPOTV HD.mncvision">
+    <title>Roshn Saudi League 26/27</title>
 </programme>
-<programme start="20260818150000 +0000" stop="20260818153000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260818063000 +0000" stop="20260818083000 +0000" channel="SPOTV HD.mncvision">
+    <title>Roshn Saudi League 26/27</title>
+</programme>
+<programme start="20260818083000 +0000" stop="20260818093000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix</title>
+</programme>
+<programme start="20260818093000 +0000" stop="20260818112500 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix</title>
+</programme>
+<programme start="20260818112500 +0000" stop="20260818140500 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: London E-Prix</title>
+</programme>
+<programme start="20260818140500 +0000" stop="20260818164500 +0000" channel="SPOTV HD.mncvision">
+    <title>World Supercross: Canadian GP</title>
+</programme>
+<programme start="20260818164500 +0000" stop="20260817171500 +0000" channel="SPOTV HD.mncvision">
+    <title>LIV Golf League: New York HL</title>
 </programme>
 <programme start="20260817171500 +0000" stop="20260817190500 +0000" channel="Studio Universal.mncvision">
     <title>How To Train Your Dragon</title>
@@ -9265,86 +9283,80 @@
 <programme start="20260818153500 +0000" stop="20260818160500 +0000" channel="tvN Movies HD.mncvision">
     <title>Enemies In-Law</title>
 </programme>
-<programme start="20260817170000 +0000" stop="20260817173000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260817170000 +0000" stop="20260817180000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
 </programme>
-<programme start="20260817173000 +0000" stop="20260817190000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260817180000 +0000" stop="20260817190000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260817200000 +0000" stop="20260817203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260817203000 +0000" stop="20260817210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20260817210000 +0000" stop="20260817213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2</title>
 </programme>
 <programme start="20260817213000 +0000" stop="20260817230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi</title>
 </programme>
 <programme start="20260817230000 +0000" stop="20260817233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2</title>
 </programme>
-<programme start="20260817233000 +0000" stop="20260818010000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260818010000 +0000" stop="20260818013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260817233000 +0000" stop="20260818013000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi</title>
 </programme>
 <programme start="20260818013000 +0000" stop="20260818020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Hidup Sehat</title>
 </programme>
 <programme start="20260818020000 +0000" stop="20260818023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260818023000 +0000" stop="20260818030000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260818030000 +0000" stop="20260818033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260818023000 +0000" stop="20260818033000 +0000" channel="tvOne.mncvision">
+    <title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260818033000 +0000" stop="20260818040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan</title>
 </programme>
 <programme start="20260818040000 +0000" stop="20260818053000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Siang</title>
 </programme>
-<programme start="20260818053000 +0000" stop="20260818070000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260818053000 +0000" stop="20260818063000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
-<programme start="20260818070000 +0000" stop="20260818073000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260818063000 +0000" stop="20260818080000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang</title>
 </programme>
-<programme start="20260818073000 +0000" stop="20260818080000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260818080000 +0000" stop="20260818083000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih</title>
 </programme>
-<programme start="20260818080000 +0000" stop="20260818090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260818083000 +0000" stop="20260818090000 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260818090000 +0000" stop="20260818110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang</title>
 </programme>
 <programme start="20260818110000 +0000" stop="20260818130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20260818130000 +0000" stop="20260818140000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260818130000 +0000" stop="20260818143000 +0000" channel="tvOne.mncvision">
+    <title>Catatan Demokrasi</title>
 </programme>
-<programme start="20260818140000 +0000" stop="20260818150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260818143000 +0000" stop="20260818153000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2</title>
 </programme>
-<programme start="20260818150000 +0000" stop="20260818160000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260818153000 +0000" stop="20260818160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20260818160000 +0000" stop="20260818163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Malam</title>
 </programme>
 <programme start="20260818163000 +0000" stop="20260817170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260817170000 +0000" stop="20260817180000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
