@@ -13,7 +13,7 @@
 <programme start="20260818043000 +0000" stop="20260818063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260814063000 +0000" stop="20260814103000 +0000" channel="RCTI.vision">
+<programme start="20260818063000 +0000" stop="20260818103000 +0000" channel="RCTI.vision">
 <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260818103000 +0000" stop="20260818120000 +0000" channel="RCTI.vision">
@@ -61,7 +61,7 @@
 <programme start="20260819043000 +0000" stop="20260819063000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260812063000 +0000" stop="20260812103000 +0000" channel="RCTI.vision">
+<programme start="20260819063000 +0000" stop="20260819103000 +0000" channel="RCTI.vision">
 <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260819103000 +0000" stop="20260819120000 +0000" channel="RCTI.vision">

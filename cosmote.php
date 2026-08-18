@@ -258,14 +258,6 @@
     <title>Football: SK Slovan Bratislava - NK Celje (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260819013500 +0700" stop="20260819022000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260819022000 +0700" stop="20260819030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260819030000 +0700" stop="20260819034500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
