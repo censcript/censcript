@@ -589,6 +589,12 @@
     <programme start="20260818160000 +0000" stop="20260818160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
+    <programme start="20260817160000 +0000" stop="20260818160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260818160000 +0000" stop="20260819160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
     <programme start="20260817153500 +0000" stop="20260817171000 +0000" channel="cinemaworld.mewatch">
         <title>Run Up!</title>
     </programme>

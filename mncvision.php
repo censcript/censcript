@@ -7672,52 +7672,52 @@
 <programme start="20260817194200 +0000" stop="20260817210000 +0000" channel="SCTV.mncvision">
     <title>Maaf Untuk Cinta</title>
 </programme>
-<programme start="20260817210000 +0000" stop="20260817213000 +0000" channel="SCTV.mncvision">
+<programme start="20260817210000 +0000" stop="20260817212500 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260817213000 +0000" stop="20260817230000 +0000" channel="SCTV.mncvision">
+<programme start="20260817212500 +0000" stop="20260817230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260817230000 +0000" stop="20260818003000 +0000" channel="SCTV.mncvision">
+<programme start="20260817230000 +0000" stop="20260818002400 +0000" channel="SCTV.mncvision">
     <title>Hot Shot Spc. HUT SCTV</title>
 </programme>
-<programme start="20260818003000 +0000" stop="20260818013000 +0000" channel="SCTV.mncvision">
+<programme start="20260818002400 +0000" stop="20260818012800 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260818013000 +0000" stop="20260818023000 +0000" channel="SCTV.mncvision">
+<programme start="20260818012800 +0000" stop="20260818022800 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260818023000 +0000" stop="20260818043000 +0000" channel="SCTV.mncvision">
-    <title>Aura 34 Babe Angels Bikin...</title>
+<programme start="20260818022800 +0000" stop="20260818042500 +0000" channel="SCTV.mncvision">
+    <title>POV Disekop-Sekop Cogan...</title>
 </programme>
-<programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="SCTV.mncvision">
+<programme start="20260818042500 +0000" stop="20260818045700 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260818050000 +0000" stop="20260818063000 +0000" channel="SCTV.mncvision">
+<programme start="20260818045700 +0000" stop="20260818062000 +0000" channel="SCTV.mncvision">
     <title>Jelaskan Cintamu Padaku...</title>
 </programme>
-<programme start="20260818063000 +0000" stop="20260818074500 +0000" channel="SCTV.mncvision">
+<programme start="20260818062000 +0000" stop="20260818074100 +0000" channel="SCTV.mncvision">
     <title>Dari Ayam Jadi I Love You</title>
 </programme>
-<programme start="20260818074500 +0000" stop="20260818090000 +0000" channel="SCTV.mncvision">
+<programme start="20260818074100 +0000" stop="20260818090200 +0000" channel="SCTV.mncvision">
     <title>Kuwa-Kuwi Cantiknya Neng...</title>
 </programme>
-<programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="SCTV.mncvision">
+<programme start="20260818090200 +0000" stop="20260818100000 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis Spc. HUT SCTV</title>
 </programme>
-<programme start="20260818100000 +0000" stop="20260818114500 +0000" channel="SCTV.mncvision">
+<programme start="20260818100000 +0000" stop="20260818112800 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260818114500 +0000" stop="20260818131500 +0000" channel="SCTV.mncvision">
+<programme start="20260818112800 +0000" stop="20260818125300 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260818131500 +0000" stop="20260818144500 +0000" channel="SCTV.mncvision">
+<programme start="20260818125300 +0000" stop="20260818142000 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260818144500 +0000" stop="20260818160000 +0000" channel="SCTV.mncvision">
+<programme start="20260818142000 +0000" stop="20260818155700 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260818160000 +0000" stop="20260818163000 +0000" channel="SCTV.mncvision">
+<programme start="20260818155700 +0000" stop="20260818162700 +0000" channel="SCTV.mncvision">
     <title>Vidio Original: Love Is A Story</title>
 </programme>
 <programme start="20260817191100 +0000" stop="20260817194200 +0000" channel="SCTV HD.mncvision">
@@ -7726,52 +7726,52 @@
 <programme start="20260817194200 +0000" stop="20260817210000 +0000" channel="SCTV HD.mncvision">
     <title>Maaf Untuk Cinta</title>
 </programme>
-<programme start="20260817210000 +0000" stop="20260817213000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260817210000 +0000" stop="20260817212500 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260817213000 +0000" stop="20260817230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260817212500 +0000" stop="20260817230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260817230000 +0000" stop="20260818003000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260817230000 +0000" stop="20260818002400 +0000" channel="SCTV HD.mncvision">
     <title>Hot Shot Spc. HUT SCTV</title>
 </programme>
-<programme start="20260818003000 +0000" stop="20260818013000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818002400 +0000" stop="20260818012800 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260818013000 +0000" stop="20260818023000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818012800 +0000" stop="20260818022800 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260818023000 +0000" stop="20260818043000 +0000" channel="SCTV HD.mncvision">
-    <title>Aura 34 Babe Angels Bikin...</title>
+<programme start="20260818022800 +0000" stop="20260818042500 +0000" channel="SCTV HD.mncvision">
+    <title>POV Disekop-Sekop Cogan...</title>
 </programme>
-<programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818042500 +0000" stop="20260818045700 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260818050000 +0000" stop="20260818063000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818045700 +0000" stop="20260818062000 +0000" channel="SCTV HD.mncvision">
     <title>Jelaskan Cintamu Padaku...</title>
 </programme>
-<programme start="20260818063000 +0000" stop="20260818074500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818062000 +0000" stop="20260818074100 +0000" channel="SCTV HD.mncvision">
     <title>Dari Ayam Jadi I Love You</title>
 </programme>
-<programme start="20260818074500 +0000" stop="20260818090000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818074100 +0000" stop="20260818090200 +0000" channel="SCTV HD.mncvision">
     <title>Kuwa-Kuwi Cantiknya Neng...</title>
 </programme>
-<programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818090200 +0000" stop="20260818100000 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis Spc. HUT SCTV</title>
 </programme>
-<programme start="20260818100000 +0000" stop="20260818114500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818100000 +0000" stop="20260818112800 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260818114500 +0000" stop="20260818131500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818112800 +0000" stop="20260818125300 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260818131500 +0000" stop="20260818144500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818125300 +0000" stop="20260818142000 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260818144500 +0000" stop="20260818160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818142000 +0000" stop="20260818155700 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260818160000 +0000" stop="20260818163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260818155700 +0000" stop="20260818162700 +0000" channel="SCTV HD.mncvision">
     <title>Vidio Original: Love Is A Story</title>
 </programme>
 <programme start="20260817173000 +0000" stop="20260817180000 +0000" channel="Sindo News TV.mncvision">
