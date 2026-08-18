@@ -4531,13 +4531,13 @@
 <programme start="20260818031500 +0000" stop="20260818040500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Test Cricket - 1st Test, Day 3: Sri Lanka v India</title>
 </programme>
-<programme start="20260818040500 +0000" stop="20260818124500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260818040500 +0000" stop="20260818130000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 4: Sri Lanka v India</title>
 </programme>
-<programme start="20260818040500 +0000" stop="20260818124500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260818040500 +0000" stop="20260818130000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 4: Sri Lanka v India</title>
 </programme>
-<programme start="20260818124500 +0000" stop="20260818150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260818130000 +0000" stop="20260818150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: UCI Continental Circuits - Tour du Limousin: Stage 1</title>
 </programme>
 <programme start="20260818150000 +0000" stop="20260818160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -5278,13 +5278,13 @@
 <programme start="20260818031500 +0000" stop="20260818040500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Test Cricket - 1st Test, Day 3: Sri Lanka v India</title>
 </programme>
-<programme start="20260818040500 +0000" stop="20260818124500 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260818040500 +0000" stop="20260818130000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 4: Sri Lanka v India</title>
 </programme>
-<programme start="20260818040500 +0000" stop="20260818124500 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260818040500 +0000" stop="20260818130000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 4: Sri Lanka v India</title>
 </programme>
-<programme start="20260818124500 +0000" stop="20260818150000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260818130000 +0000" stop="20260818150000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: UCI Continental Circuits - Tour du Limousin: Stage 1</title>
 </programme>
 <programme start="20260818150000 +0000" stop="20260818160000 +0000" channel="TNT_Sports_1.virginmediatv">
