@@ -1072,11 +1072,14 @@
 <programme start="20260818002000 +0000" stop="20260818022000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV 2025/26: LIV Vs COM</title>
 </programme>
-<programme start="20260818022000 +0000" stop="20260818025000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260818022000 +0000" stop="20260818024000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFC Trending 2025/26, Ep 52</title>
 </programme>
-<programme start="20260818025000 +0000" stop="20260818032000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260818024000 +0000" stop="20260818030000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Highlights 2025/26</title>
+</programme>
+<programme start="20260818030000 +0000" stop="20260818032000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20260818032000 +0000" stop="20260818035000 +0000" channel="beIN Sports 1.mncvision">
     <title>FC Futures U12 Club: BAR Vs VIL</title>
@@ -1135,11 +1138,14 @@
 <programme start="20260818002000 +0000" stop="20260818022000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV 2025/26: LIV Vs COM</title>
 </programme>
-<programme start="20260818022000 +0000" stop="20260818025000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260818022000 +0000" stop="20260818024000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFC Trending 2025/26, Ep 52</title>
 </programme>
-<programme start="20260818025000 +0000" stop="20260818032000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260818024000 +0000" stop="20260818030000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Highlights 2025/26</title>
+</programme>
+<programme start="20260818030000 +0000" stop="20260818032000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
 <programme start="20260818032000 +0000" stop="20260818035000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FC Futures U12 Club: BAR Vs VIL</title>
@@ -1213,7 +1219,10 @@
 <programme start="20260818040000 +0000" stop="20260818055000 +0000" channel="beIN Sports 2.mncvision">
     <title>Super Lig 2026/27: BJK Vs EYU</title>
 </programme>
-<programme start="20260818055000 +0000" stop="20260818085000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260818055000 +0000" stop="20260818072000 +0000" channel="beIN Sports 2.mncvision">
+    <title>UCI World Tour 2026</title>
+</programme>
+<programme start="20260818072000 +0000" stop="20260818085000 +0000" channel="beIN Sports 2.mncvision">
     <title>UCI World Tour 2026</title>
 </programme>
 <programme start="20260818085000 +0000" stop="20260818104000 +0000" channel="beIN Sports 2.mncvision">
@@ -1276,7 +1285,10 @@
 <programme start="20260818040000 +0000" stop="20260818055000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Super Lig 2026/27: BJK Vs EYU</title>
 </programme>
-<programme start="20260818055000 +0000" stop="20260818085000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260818055000 +0000" stop="20260818072000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>UCI World Tour 2026</title>
+</programme>
+<programme start="20260818072000 +0000" stop="20260818085000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>UCI World Tour 2026</title>
 </programme>
 <programme start="20260818085000 +0000" stop="20260818104000 +0000" channel="beIN Sports 2 HD.mncvision">
@@ -9140,7 +9152,7 @@
     <title>Filing For Love, Ep 12</title>
 </programme>
 <programme start="20260818053000 +0000" stop="20260818072000 +0000" channel="tvN.mncvision">
-    <title>Kill It: Style..., Ep 10</title>
+    <title>Kill It: Style Creator, Ep 10</title>
 </programme>
 <programme start="20260818072000 +0000" stop="20260818093000 +0000" channel="tvN.mncvision">
     <title>Fresh Off The Sea S3, Ep 2</title>
@@ -9185,7 +9197,7 @@
     <title>Filing For Love, Ep 12</title>
 </programme>
 <programme start="20260818053000 +0000" stop="20260818072000 +0000" channel="tvN HD.mncvision">
-    <title>Kill It: Style..., Ep 10</title>
+    <title>Kill It: Style Creator, Ep 10</title>
 </programme>
 <programme start="20260818072000 +0000" stop="20260818093000 +0000" channel="tvN HD.mncvision">
     <title>Fresh Off The Sea S3, Ep 2</title>
