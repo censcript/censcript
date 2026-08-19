@@ -7949,7 +7949,7 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20260819103000 +0000" stop="20260819123000 +0000" channel="Soccer Channel.mncvision">
-    <title>VI Nations Futsal: IDN Vs BRA</title>
+    <title>VI Nations Futsal: SPA Vs IDN</title>
 </programme>
 <programme start="20260819123000 +0000" stop="20260819143000 +0000" channel="Soccer Channel.mncvision">
     <title>Satu Hati Untuk Garuda</title>
@@ -7994,7 +7994,7 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20260819103000 +0000" stop="20260819123000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>VI Nations Futsal: IDN Vs BRA</title>
+    <title>VI Nations Futsal: SPA Vs IDN</title>
 </programme>
 <programme start="20260819123000 +0000" stop="20260819143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Satu Hati Untuk Garuda</title>
