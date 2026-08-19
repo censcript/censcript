@@ -4124,7 +4124,7 @@
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 6</title>
 </programme>
 <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: WTA Open de Rouen 2026 - Final</title>
 </programme>
 <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Tennis: ATP U.S. Men&#039;s Clay Court Championship 2026 - Final</title>
@@ -4907,7 +4907,7 @@
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 6</title>
 </programme>
 <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: WTA Open de Rouen 2026 - Final</title>
 </programme>
 <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Tennis: ATP U.S. Men&#039;s Clay Court Championship 2026 - Final</title>

@@ -66,6 +66,10 @@
     <title>Football: Celtic FC - LASK</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260820213000 +0700" stop="20260820233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SK Slovan Bratislava - NK Celje</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260819191500 +0700" stop="20260819211500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +128,10 @@
 </programme>
 <programme start="20260820190000 +0700" stop="20260820210000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260820210000 +0700" stop="20260820230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819194500 +0700" stop="20260819214500 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,14 +258,6 @@
     <title>Basketball: Murcia - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819195500 +0700" stop="20260819200500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260819200500 +0700" stop="20260819210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260819210000 +0700" stop="20260819220500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -343,6 +343,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820203000 +0700" stop="20260820213500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260820213500 +0700" stop="20260820223000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

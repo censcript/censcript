@@ -1,6 +1,3 @@
-<programme start="20260819130000 +0000" stop="20260819140000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260819140000 +0000" stop="20260819150000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -10,16 +7,10 @@
 <programme start="20260819160000 +0000" stop="20260819170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260819120000 +0000" stop="20260819140000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260819140000 +0000" stop="20260819160000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260819160000 +0000" stop="20260819180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260819120000 +0000" stop="20260819140000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260819140000 +0000" stop="20260819160000 +0000" channel="Now Sports 4K 3.nowtv">
