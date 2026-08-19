@@ -1,6 +1,3 @@
-<programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -78,12 +75,6 @@
 </programme>
 <programme start="20260819160000 +0000" stop="20260819180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260819030000 +0000" stop="20260819051500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>The FA Community Shield 2026 -Arsenal vs Manchester City</title>
-</programme>
-<programme start="20260819051500 +0000" stop="20260819053000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 37</title>
 </programme>
 <programme start="20260819053000 +0000" stop="20260819054500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Goals 25/26 -Week 38</title>
