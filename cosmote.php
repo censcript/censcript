@@ -62,10 +62,6 @@
     <title>Football: SC Freiburg - Aston Villa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819090000 +0700" stop="20260819110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260819110000 +0700" stop="20260819130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Casa Pia - SL Benfica</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20260820090000 +0700" stop="20260820110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cremonese - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260820110000 +0700" stop="20260820130000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sporting CP - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819100000 +0700" stop="20260819120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -345,10 +345,6 @@
 <programme start="20260820105500 +0700" stop="20260820120000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260819060000 +0700" stop="20260819103000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260819103000 +0700" stop="20260819140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>

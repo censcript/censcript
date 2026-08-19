@@ -1693,11 +1693,8 @@
 <programme start="20260819103000 +0000" stop="20260819120000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
 </programme>
-<programme start="20260819120000 +0000" stop="20260819123000 +0000" channel="BTV.mncvision">
+<programme start="20260819120000 +0000" stop="20260819130000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Malam</title>
-</programme>
-<programme start="20260819123000 +0000" stop="20260819130000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Spesial</title>
 </programme>
 <programme start="20260819130000 +0000" stop="20260819140000 +0000" channel="BTV.mncvision">
     <title>Jendela Dunia</title>
@@ -4906,14 +4903,11 @@
 <programme start="20260819091500 +0000" stop="20260819120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260819120000 +0000" stop="20260819123000 +0000" channel="iNews.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20260819123000 +0000" stop="20260819130000 +0000" channel="iNews.mncvision">
-    <title>iNews Update</title>
-</programme>
-<programme start="20260819130000 +0000" stop="20260819150000 +0000" channel="iNews.mncvision">
+<programme start="20260819120000 +0000" stop="20260819140000 +0000" channel="iNews.mncvision">
     <title>Rakyat Bersuara (L)</title>
+</programme>
+<programme start="20260819140000 +0000" stop="20260819150000 +0000" channel="iNews.mncvision">
+    <title>iNews Prime (L)</title>
 </programme>
 <programme start="20260819150000 +0000" stop="20260819151000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals</title>
@@ -4990,14 +4984,11 @@
 <programme start="20260819091500 +0000" stop="20260819120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260819120000 +0000" stop="20260819123000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room (L)</title>
-</programme>
-<programme start="20260819123000 +0000" stop="20260819130000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Update</title>
-</programme>
-<programme start="20260819130000 +0000" stop="20260819150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260819120000 +0000" stop="20260819140000 +0000" channel="iNews HD.mncvision">
     <title>Rakyat Bersuara (L)</title>
+</programme>
+<programme start="20260819140000 +0000" stop="20260819150000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
 </programme>
 <programme start="20260819150000 +0000" stop="20260819151000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals</title>

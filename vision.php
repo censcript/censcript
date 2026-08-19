@@ -661,6 +661,9 @@
 <programme start="20260820114500 +0000" stop="20260820121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260818230000 +0000" stop="20260819023000 +0000" channel="ANTV.vision">
+<title>Players</title>
+</programme>
 <programme start="20260819023000 +0000" stop="20260819060000 +0000" channel="ANTV.vision">
 <title>Fanaa</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260820073000 +0000" stop="20260820080000 +0000" channel="BTV.vision">
 <title>Jendela Dunia</title>
-</programme>
-<programme start="20260820080000 +0000" stop="20260820083000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
 </programme>

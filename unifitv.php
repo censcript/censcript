@@ -583,11 +583,11 @@
     <display-name>TV1</display-name>
   </channel>
   <programme start="20260818153000 +0000" stop="20260818160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Fifa World Cup 2026 Preview Series</title>
-    <desc lang="en">Fifa World Cup 2026 Preview Series menampilkan sorotan eksklusif menjelang kejohanan terbesar dunia. Kenali pasukan pilihan, bintang tumpuan, format baharu 48 pasukan dan ramalan aksi menarik menuju kejuaraan.</desc>
+    <title lang="en">Voices From The Roof Of The World</title>
+    <desc lang="en">Sebuah program dokumentari berbahasa Inggeris yang mengupas isu alam sekitar di kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia menyorot konflik akibat aktiviti manusia serta keperluan kesedaran ke arah penyelesaian mampan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260818160000 +0000" stop="20260818163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -595,68 +595,65 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260818163000 +0000" stop="20260818173000 +0000" channel="tv1.unifitv">
-    <title lang="en">Hola Hermosa (Ulangan)</title>
-    <desc lang="en">Kisah kehidupan keluarga yang banyak konflik dalam perniagaan, hubungan keluarga dan percintaan.</desc>
+    <title lang="en">Kopi Sentul Mocha Santorini</title>
+    <desc lang="en">Kisah percintaan, pengorbanan,keluarga dan kerjaya. Alia anak gadis yang pintar yang sentiasa mahu mengembangkan perniagaan En.John. namun dengan setiap yang dilalui dalam hidupnya serta konflik cinta dan keluarga mampu dan berjayakah dia?</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260818173000 +0000" stop="20260818180000 +0000" channel="tv1.unifitv">
-    <title lang="en">Medik - Q</title>
-    <desc lang="en">Dr. Fasiha Latiff bersama tetamu undangan membincangkan tentang penyakit, mengenalipasti simptom dan rawatan susulan yang perlu diambil.</desc>
+    <title lang="en">Rahsia Usia</title>
+    <desc lang="en">Program majalah kesihatan yang menyajikan informasi terkini mengenai penjagaan kesihatan melalui kisah benar masyarakat. Setiap episod turut menampilkan pandangan doktor pakar serta lawatan kepada pesakit bagi memberi pendidikan dan kesedaran kepada penonton.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260818180000 +0000" stop="20260818190000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kelas 3 Cempaka</title>
-    <desc lang="en">Saksikan lakonan Hanis Kamal Bakar, Ahmad Ezzrin Loy, Natasha Elyzza, Fimie Don, Iss Iswandi, Anis Shahfri, Fynnaz Razak, Syafeek Kahar, El Faeza Ul Haq, Zain Hamid, Kuna Muzani, GBob, Pak Tam, Khairi Khamis, Buzen Hashim, Rahim Omar, Keena Mentro, Aprena Manrose, DIlla Razak, Amelia Cheah, Ayie SYJ.</desc>
+    <title lang="en">Pergilah Air Mata</title>
+    <desc lang="en">Drama bersiri memaparkan Sabrina yang terpaksa berkahwin dengan lelaki tak dikenalinya akibat salah faham.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
   </programme>
   <programme start="20260818190000 +0000" stop="20260818193000 +0000" channel="tv1.unifitv">
-    <title lang="en">Puisi Nusantara</title>
-    <desc lang="en">Bersama hos, Shafa' Atussara Silahudin mengenali kepelbagaian seni puisi yang terdapat dalam alam Melayu.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20260818193000 +0000" stop="20260818203000 +0000" channel="tv1.unifitv">
-    <title lang="en">Bonsai Dan Dunia</title>
-    <desc lang="en">Saksikan paparan menarik tentang seni warisan Bonsai.</desc>
+    <title lang="en">Ritma Jiwa</title>
+    <desc lang="en">Program majalah ini memaparkan keunikan seni tarian dan muzik tradisional dari seluruh pelosok negeri di Malaysia, sekali gus mengangkat warisan budaya dan kepelbagaian seni tempatan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20260818203000 +0000" stop="20260818210000 +0000" channel="tv1.unifitv">
-    <title lang="en">Lempeng Madu &amp; Kambing</title>
-    <desc lang="en">Sebuah drama bersiri melayu yang memaparkan kisah keluarga Mek Nenab.</desc>
+  <programme start="20260818193000 +0000" stop="20260818200000 +0000" channel="tv1.unifitv">
+    <title lang="en">Waris Kampung Semarah Padi (Ulangan)</title>
+    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20260818200000 +0000" stop="20260818210000 +0000" channel="tv1.unifitv">
+    <title lang="en">PAPA CHEF</title>
+    <desc lang="en">Kisah Chef Zikri, seorang bapa tunggal yang membesarkan tiga orang anak bersama Opah sambil mengacarakan rancangan masakan Dari Dapur Papa Chef. Drama ini memaparkan cabaran kehidupan keluarga yang disulami kasih sayang dan nilai kekeluargaan.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260818210000 +0000" stop="20260818213000 +0000" channel="tv1.unifitv">
     <title lang="en">Zoom In (Ulangan)</title>
     <desc lang="en">Sebuah rancangan majalah yang memaparkan tentang proses penghasilan dan pembuatan pelbagai barangan dan peralatan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260818213000 +0000" stop="20260818220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Yassin (2023)</title>
     <desc lang="en">Bacaan Yasin</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260818220200 +0000" stop="20260818225500 +0000" channel="tv1.unifitv">
+  <programme start="20260818220200 +0000" stop="20260818230000 +0000" channel="tv1.unifitv">
     <title lang="en">Bismillah 2026</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260818225500 +0000" stop="20260818230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran</title>
-    <desc lang="en">Kapsul Jiran</desc>
-    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260818230000 +0000" stop="20260818234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -680,21 +677,21 @@
   </programme>
   <programme start="20260819020500 +0000" stop="20260819023000 +0000" channel="tv1.unifitv">
     <title lang="en">Digital Massa</title>
-    <desc lang="en">Program majalah yang memaparkan kepentingan teknologi digital dalam sesebuah perniagaan. Dengan pelbagai platform dan apliksai yang sudah tersedia, peniaga dapat mengembangkan perniagaan dan meningkatkan jumlah pelanggan. Para peniaga turut didedahkan dengan teknik bagaimana untuk menghadapi cabaran perniagaan dalam era digital.</desc>
+    <desc lang="en">Rancangan berkaitan dengan isu-siu teknologi digital</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260819023000 +0000" stop="20260819033000 +0000" channel="tv1.unifitv">
-    <title lang="en">Peduli Tekun</title>
+    <title lang="en">Peduli Tukun</title>
     <desc lang="en">Program ini memaparkan usaha pemuliharaan laut, khususnya terumbu karang, serta peranan agensi berkaitan dalam memelihara ekosistem dan sumber marin negara.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260819033000 +0000" stop="20260819040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Eksporasi Intern</title>
-    <desc lang="en">Program majalah yang memaparkan 13 bidang kerjaya bersama pelatih-pelatih industri.</desc>
+    <title lang="en">Eksplorasi Intern</title>
+    <desc lang="en">Sebuah program majalah yang memaparkan 13 bidang kerjaya bersama pelatih industri.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -705,9 +702,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260819040500 +0000" stop="20260819050000 +0000" channel="tv1.unifitv">
-    <title lang="en">Help ! We Bought A Village</title>
-    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan
-terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
+    <title lang="en">Help! We Bought A Village</title>
+    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -719,17 +715,14 @@ terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
   </programme>
   <programme start="20260819053000 +0000" stop="20260819063000 +0000" channel="tv1.unifitv">
     <title lang="en">Kopi Sentul Mocha Santorini</title>
-    <desc lang="en">Azam dan Alya saling mencintai, namun hubungan mereka diuji oleh tentangan keluarga, rahsia silam dan pelbagai konflik yang memisahkan mereka hingga ke Greece. Ketika mereka berusaha mempertahankan cinta, satu tragedy menyebabkan Azam hilang ingatan dan tidak lagi mengenali Alya.
-
-Pelakon : Riz Amin, Jannah Nik, Talha Harith, Erry Putra, Emelie Hanis, Ku Fridah, Mahmud Ali Basha, Mandy Chong.</desc>
+    <desc lang="en">Kisah percintaan, pengorbanan,keluarga dan kerjaya. Alia anak gadis yang pintar yang sentiasa mahu mengembangkan perniagaan En.John. namun dengan setiap yang dilalui dalam hidupnya serta konflik cinta dan keluarga mampu dan berjayakah dia?</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.17.</episode-num>
     <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20260819063000 +0000" stop="20260819070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Papa Chef</title>
-    <desc lang="en">Kisah Chef Zikri, seorang bapa tunggal yang membesarkan tiga orang anak bersama Opah sambal mengacarakan rancangan masakan Dari Dapur Papa Chef. Drama ini memaparkan cabaran kehidupan keluarga yang disulami
-kasih sayang dan nilai kekeluargaan.</desc>
+    <title lang="en">PAPA CHEF</title>
+    <desc lang="en">Kisah Chef Zikri, seorang bapa tunggal yang membesarkan tiga orang anak bersama Opah sambil mengacarakan rancangan masakan Dari Dapur Papa Chef. Drama ini memaparkan cabaran kehidupan keluarga yang disulami kasih sayang dan nilai kekeluargaan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -743,6 +736,8 @@ kasih sayang dan nilai kekeluargaan.</desc>
     <title lang="en">Cuit Sikit Jangan Sentap 2026</title>
     <desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260819080000 +0000" stop="20260819080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -750,14 +745,14 @@ kasih sayang dan nilai kekeluargaan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260819080500 +0000" stop="20260819083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Prima Facie</title>
+    <title lang="en">Prima Facie (Ulangan)</title>
     <desc lang="en">Sebuah program dokudrama yang memaparkan undang-undang yang terdapat di dalam sistem perundangan Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260819083000 +0000" stop="20260819090000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Biz Malaysia 2026</title>
+    <title lang="en">LIVE : BIZ MALAYSIA</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -772,11 +767,8 @@ kasih sayang dan nilai kekeluargaan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260819104500 +0000" stop="20260819114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Waris Kampung Semarah Padi</title>
-    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti
-membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.
-
-Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamdan, Syed Zalihafe, Reen Rahim, Mona Allen, Datuk Ahmad Tarmimi Siregar, Sheila Mambo, Sharifah Amani, Zarina Zainuddin, Nadia Aqilah, Ruzana Ibrahim, Safia Hanifah</desc>
+    <title lang="en">Waris Kampung Semarah Padi (Ulangan)</title>
+    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -798,7 +790,7 @@ Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamd
   </programme>
   <programme start="20260819130000 +0000" stop="20260819140000 +0000" channel="tv1.unifitv">
     <title lang="en">Skuad JPJ</title>
-    <desc lang="en">Skuad JPJ pasukan elit memantau Jenayah Jalanraya dan Misi khas</desc>
+    <desc lang="en">Saksikan lakonan Rashdan Baba, Saharul Ridzwan, Fify Azmi, Kodi Rasheed, Sefik Khair, Fiza Thomas.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
@@ -809,17 +801,13 @@ Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamd
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260819141500 +0000" stop="20260819143000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul Jiran/ Promo / PSA / Kapsul</title>
-    <desc lang="en">Kapsul Jiran/ Promo / PSA / Kapsul</desc>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260819143000 +0000" stop="20260819153000 +0000" channel="tv1.unifitv">
     <title lang="en">Pergilah Air Mata</title>
-    <desc lang="en">Sabrina, gadis kampung yang naif, terpaksa berkahwin dengan Badrul akibat satu fitnah dan hidup bermadu dalam keluarga yang tidak menerimanya. Rumah tangga mereka dipenuhi konflik, penderitaan dan salah faham, namun akhirnya
-perasaan cinta mula tumbuh apabila Badrul menyedari nilai sebenar Sabrina.
-
-Pelakon : Kamal Adli, Nelydia Senrose, Izreen Azminda, Amar Asyraf, Reen Rahim, Mustapha Kamal, Jasmin Hamid, Azlee Khairi, Ezzaty Abdullah, Qistina
-Raishah</desc>
+    <desc lang="en">Drama bersiri memaparkan Sabrina yang terpaksa berkahwin dengan lelaki tak dikenalinya akibat salah faham.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.22.</episode-num>
     <episode-num system="onscreen">S1E23</episode-num>
