@@ -1123,10 +1123,10 @@
   <programme start="20260821201500 +0000" stop="20260821223500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Archív</title>
   </programme>
-  <programme start="20260820201500 +0000" stop="20260820230500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260820211000 +0000" stop="20260820231000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
   </programme>
-  <programme start="20260820230500 +0000" stop="20260821013000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260820231000 +0000" stop="20260821013000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal Reprezentácia muži</title>
   </programme>
   <programme start="20260821013000 +0000" stop="20260821043000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1156,10 +1156,13 @@
   <programme start="20260821211500 +0000" stop="20260821233000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
   </programme>
-  <programme start="20260820213000 +0000" stop="20260820234500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260820200500 +0000" stop="20260820221000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260820234500 +0000" stop="20260821023500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260820221000 +0000" stop="20260821001500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">MS 2026 vo futbale</title>
+  </programme>
+  <programme start="20260821001500 +0000" stop="20260821023500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20260821023500 +0000" stop="20260821051000 +0000" channel="JOJ Šport 2.webtv.sk">
