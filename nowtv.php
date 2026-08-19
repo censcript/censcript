@@ -1,6 +1,3 @@
-<programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260819060000 +0000" stop="20260819070000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -34,9 +31,6 @@
 <programme start="20260819160000 +0000" stop="20260819170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260819040000 +0000" stop="20260819060000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260819060000 +0000" stop="20260819080000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -53,9 +47,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260819160000 +0000" stop="20260819180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260819040000 +0000" stop="20260819060000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260819060000 +0000" stop="20260819080000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -75,12 +66,6 @@
 </programme>
 <programme start="20260819160000 +0000" stop="20260819180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260819053000 +0000" stop="20260819054500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 38</title>
-</programme>
-<programme start="20260819054500 +0000" stop="20260819060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 34</title>
 </programme>
 <programme start="20260819060000 +0000" stop="20260819080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -West Ham United vs Arsenal</title>
