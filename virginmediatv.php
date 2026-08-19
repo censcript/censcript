@@ -4582,7 +4582,10 @@
 <programme start="20260819120000 +0000" stop="20260819123000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>UEFA Champions League: Stories of the Finals - 2017 and 2010</title>
 </programme>
-<programme start="20260819123000 +0000" stop="20260819150000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260819123000 +0000" stop="20260819124500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>The Gruppetto - Episode 29</title>
+</programme>
+<programme start="20260819124500 +0000" stop="20260819150000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: UCI Continental Circuits - Tour du Limousin: Stage 2</title>
 </programme>
 <programme start="20260819150000 +0000" stop="20260819163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">

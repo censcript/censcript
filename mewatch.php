@@ -751,13 +751,13 @@
     <programme start="20260819160000 +0000" stop="20260820160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now.</title>
     </programme>
-    <programme start="20260818160000 +0000" stop="20260819130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 19 August, Wednesday 9.00pm. Hyundai Cup 2026 </title>
+    <programme start="20260818160000 +0000" stop="20260819123300 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 19 August, Wednesday 8.33pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260819130000 +0000" stop="20260819150000 +0000" channel="Live 5.mewatch">
+    <programme start="20260819123300 +0000" stop="20260819152000 +0000" channel="Live 5.mewatch">
         <title>Hyundai Cup 2026 : Semi-final 2 : Vietnam vs Malaysia</title>
     </programme>
-    <programme start="20260819150000 +0000" stop="20260819160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260819152000 +0000" stop="20260819160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 22 August, Saturday 9.00pm. Hyundai Cup 2026 </title>
     </programme>
     <programme start="20260819160000 +0000" stop="20260820160000 +0000" channel="Live 5.mewatch">

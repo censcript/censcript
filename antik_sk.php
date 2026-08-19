@@ -2650,6 +2650,12 @@
   <programme start="20260821073000 +0000" stop="20260821103000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
+  <programme start="20260821103000 +0000" stop="20260821115000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+  </programme>
+  <programme start="20260821115000 +0000" stop="20260821123000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
   <programme start="20260821123000 +0000" stop="20260821140000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZÁBAVA NA DVOJCE</title>
   </programme>
@@ -4610,7 +4616,7 @@
     <title lang="id">Motoring</title>
   </programme>
   <programme start="20260821050000 +0000" stop="20260821051000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Športové sekundy</title>
+    <title lang="id">ARIES RACING v polovici sezóny 2026</title>
   </programme>
   <programme start="20260821051000 +0000" stop="20260821052000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Švihák testuje</title>
@@ -4765,8 +4771,11 @@
   <programme start="20260821133000 +0000" stop="20260821134500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Cargo Magazín</title>
   </programme>
-  <programme start="20260821134500 +0000" stop="20260821141500 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260821134500 +0000" stop="20260821140000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260821140000 +0000" stop="20260821141500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">ARIES RACING v polovici sezóny 2026</title>
   </programme>
   <programme start="20260821141500 +0000" stop="20260821150000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">DRIVE IT - Ondrej Macko</title>
@@ -4774,35 +4783,11 @@
   <programme start="20260821150000 +0000" stop="20260821154500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Topspeed</title>
   </programme>
-  <programme start="20260821154500 +0000" stop="20260821163000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260821154500 +0000" stop="20260821163500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
   </programme>
-  <programme start="20260821163000 +0000" stop="20260821170000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260821170000 +0000" stop="20260821173000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260821173000 +0000" stop="20260821180000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
-  </programme>
-  <programme start="20260821180000 +0000" stop="20260821190000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260821190000 +0000" stop="20260821191500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260821191500 +0000" stop="20260821193000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260821193000 +0000" stop="20260821200000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">AutoGRATIS</title>
-  </programme>
-  <programme start="20260821200000 +0000" stop="20260821203000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260821203000 +0000" stop="20260821210000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  <programme start="20260821163500 +0000" stop="20260821210000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">FEI World Championships 2026</title>
   </programme>
   <programme start="20260821210000 +0000" stop="20260821213000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">AutoGRATIS</title>
@@ -6599,7 +6584,7 @@
     <title lang="id">Medi noviny</title>
   </programme>
   <programme start="20260821143000 +0000" stop="20260821150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Pod pojmom zdravotnícke pomôcky</title>
+    <title lang="id">Ako je možné, že lieky nie sú vždy dostupné?</title>
   </programme>
   <programme start="20260821150000 +0000" stop="20260821153000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Inkontinencia</title>
@@ -16435,17 +16420,20 @@
   <programme start="20260820214500 +0000" stop="20260820220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260820220300 +0000" stop="20260820223200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260820220300 +0000" stop="20260820223100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (781)</title>
   </programme>
-  <programme start="20260820223200 +0000" stop="20260820224500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260820223100 +0000" stop="20260820224300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260820224500 +0000" stop="20260820232000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260820224300 +0000" stop="20260820232000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260820232000 +0000" stop="20260820235000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260820232000 +0000" stop="20260820234400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (834)</title>
+  </programme>
+  <programme start="20260820234400 +0000" stop="20260820235000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260820235000 +0000" stop="20260821000500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
@@ -16453,8 +16441,11 @@
   <programme start="20260821000500 +0000" stop="20260821002000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie jutro</title>
   </programme>
-  <programme start="20260821002000 +0000" stop="20260821004500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260821002000 +0000" stop="20260821003900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
+  </programme>
+  <programme start="20260821003900 +0000" stop="20260821004500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260821004500 +0000" stop="20260821012000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia I (4)</title>
