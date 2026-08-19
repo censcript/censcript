@@ -3883,7 +3883,10 @@
 <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260819040000 +0000" stop="20260819060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260819090000 +0000" stop="20260819180000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4121,7 +4124,7 @@
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 6</title>
 </programme>
 <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Tennis: WTA Open de Rouen 2026 - Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Tennis: ATP U.S. Men&#039;s Clay Court Championship 2026 - Final</title>
@@ -4232,7 +4235,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260819034500 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP U.S. Men&#039;s Clay Court Championship 2026 - Final</title>
@@ -4663,7 +4666,10 @@
 <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260819040000 +0000" stop="20260819060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260819050000 +0000" stop="20260819060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260819090000 +0000" stop="20260819180000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4901,7 +4907,7 @@
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 6</title>
 </programme>
 <programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Tennis: WTA Open de Rouen 2026 - Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Tennis: ATP U.S. Men&#039;s Clay Court Championship 2026 - Final</title>
@@ -5012,7 +5018,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260819034500 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP U.S. Men&#039;s Clay Court Championship 2026 - Final</title>
