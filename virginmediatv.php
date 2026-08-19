@@ -4232,7 +4232,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260819034500 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP U.S. Men&#039;s Clay Court Championship 2026 - Final</title>
@@ -5012,7 +5012,7 @@
     <title>Tennis: ATP Monte Carlo Masters 2026 - Final</title>
 </programme>
 <programme start="20260819034500 +0000" stop="20260819040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Madrid Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP U.S. Men&#039;s Clay Court Championship 2026 - Final</title>
