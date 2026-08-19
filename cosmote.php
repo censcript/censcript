@@ -66,6 +66,10 @@
     <title>Football: OFI - PFC CSKA Sofia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260821030500 +0700" stop="20260821040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PostGame 2026-27 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260820020000 +0700" stop="20260820040500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Nijmegen - FK Bodo/Glimt (L)</title>
     <desc>Live: Ya</desc>
@@ -120,6 +124,10 @@
 </programme>
 <programme start="20260821010000 +0700" stop="20260821030000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260821030000 +0700" stop="20260821050000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820020000 +0700" stop="20260820040500 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,6 +242,10 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260821030000 +0700" stop="20260821050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Murcia - Barcelona</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260820020000 +0700" stop="20260820040500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Hapoel Beer-Sheva - Sabah FC (L)</title>
     <desc>Live: Ya</desc>
@@ -323,6 +335,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260821020500 +0700" stop="20260821031000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260821031000 +0700" stop="20260821045000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
