@@ -66,6 +66,10 @@
     <title>Football: Nijmegen - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260820193000 +0700" stop="20260820213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Celtic FC - LASK</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260819171500 +0700" stop="20260819191500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Rio Ave - FC Porto</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +128,10 @@
 </programme>
 <programme start="20260820170000 +0700" stop="20260820190000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Arouca - Moreirense</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260820190000 +0700" stop="20260820210000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819174500 +0700" stop="20260819194500 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,10 +198,6 @@
     <title>Football: Middlesbrough - Lincoln City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819162000 +0700" stop="20260819182000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Badalona - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260819182000 +0700" stop="20260819194000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -250,8 +254,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819165500 +0700" stop="20260819181500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
+<programme start="20260820194000 +0700" stop="20260820200000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa - Fifth Quarter E36</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819181500 +0700" stop="20260819195500 +0700" channel="COSMOTE Sport 5 HD">
