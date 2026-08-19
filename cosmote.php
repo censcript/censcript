@@ -66,6 +66,10 @@
     <title>Football: SK Slovan Bratislava - NK Celje</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260820233000 +0700" stop="20260821000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2026-27</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260819211500 +0700" stop="20260819231500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Udinese</title>
     <desc>Live: Tidak</desc>
@@ -126,8 +130,8 @@
     <title>Football: Torino - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819214500 +0700" stop="20260819221500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260820230000 +0700" stop="20260821010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Rio Ave - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819221500 +0700" stop="20260820001500 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +254,6 @@
     <title>Basketball: Besiktas - Bahcesehir</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819210000 +0700" stop="20260819220500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260819220500 +0700" stop="20260819231000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -344,6 +344,10 @@
 </programme>
 <programme start="20260820223000 +0700" stop="20260820233000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260820233000 +0700" stop="20260821004500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260819220000 +0700" stop="20260820020000 +0700" channel="COSMOTE Sport 6 HD">
