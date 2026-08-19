@@ -1,7 +1,3 @@
-<programme start="20260820000000 +0700" stop="20260820003000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2026-27</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260820003000 +0700" stop="20260820020000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2026-27 (L)</title>
     <desc>Live: Ya</desc>
@@ -70,6 +66,10 @@
     <title>PreGame 2026-27 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260821010000 +0700" stop="20260821030500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: OFI - PFC CSKA Sofia (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260819231500 +0700" stop="20260820011500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sporting CP - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
@@ -130,12 +130,8 @@
     <title>Football: Rio Ave - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260819221500 +0700" stop="20260820001500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Notts County - Leicester City FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260820001500 +0700" stop="20260820004500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260821010000 +0700" stop="20260821030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AC Milan - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820004500 +0700" stop="20260820011500 +0700" channel="COSMOTE Sport 3 HD">
@@ -252,10 +248,6 @@
 </programme>
 <programme start="20260821000500 +0700" stop="20260821023000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Alba Berlin - AEK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260819231000 +0700" stop="20260820004500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820004500 +0700" stop="20260820020000 +0700" channel="COSMOTE Sport 5 HD">
@@ -435,6 +427,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260821000000 +0700" stop="20260821013000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260821013000 +0700" stop="20260821020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
