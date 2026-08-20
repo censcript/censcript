@@ -1,6 +1,3 @@
-<programme start="20260820040000 +0000" stop="20260820050000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820050000 +0000" stop="20260820060000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -78,15 +75,6 @@
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820030000 +0000" stop="20260820050000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Newcastle United vs West Ham United</title>
-</programme>
-<programme start="20260820050000 +0000" stop="20260820051500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 35</title>
-</programme>
-<programme start="20260820051500 +0000" stop="20260820053000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 25/26 -Week 36</title>
 </programme>
 <programme start="20260820053000 +0000" stop="20260820060000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Stories 26/27 -THE TIGERS RETURN</title>
