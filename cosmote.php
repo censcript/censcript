@@ -1,11 +1,3 @@
-<programme start="20260820100000 +0700" stop="20260820122500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: SC Freiburg - Aston Villa</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260820122500 +0700" stop="20260820125500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Ultimate Rush S1 E14</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260820125500 +0700" stop="20260820132500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sports Classics: Ultimate Rush S1 E15</title>
     <desc>Live: Tidak</desc>
@@ -78,10 +70,6 @@
     <title>Football: Nijmegen - FK Bodo/Glimt</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260820110000 +0700" stop="20260820130000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sporting CP - Vitoria Guimaraes</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260820130000 +0700" stop="20260820150000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Genoa</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +120,10 @@
 </programme>
 <programme start="20260821110000 +0700" stop="20260821130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Arouca - Moreirense</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260821130000 +0700" stop="20260821150000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820120000 +0700" stop="20260820140000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,8 +182,12 @@
     <title>Sports Classics: Football&#039;s Greatest IV E4</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260820100000 +0700" stop="20260820121000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Tenerife</title>
+<programme start="20260821130000 +0700" stop="20260821133000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260821133000 +0700" stop="20260821153000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Pafos FC - Aris Limassol</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820121000 +0700" stop="20260820141000 +0700" channel="COSMOTE Sport 4 HD">
@@ -348,6 +344,10 @@
 </programme>
 <programme start="20260821120000 +0700" stop="20260821130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260821130000 +0700" stop="20260821140500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Red Bull MotoGP Rookies Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820103000 +0700" stop="20260820140000 +0700" channel="COSMOTE Sport 6 HD">

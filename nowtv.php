@@ -1,6 +1,3 @@
-<programme start="20260820050000 +0000" stop="20260820060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820060000 +0000" stop="20260820070000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -34,9 +31,6 @@
 <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260820040000 +0000" stop="20260820060000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820060000 +0000" stop="20260820080000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -53,9 +47,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820040000 +0000" stop="20260820060000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820060000 +0000" stop="20260820080000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -75,9 +66,6 @@
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820053000 +0000" stop="20260820060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -THE TIGERS RETURN</title>
 </programme>
 <programme start="20260820060000 +0000" stop="20260820080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Chelsea vs Tottenham Hotspur</title>
