@@ -3911,7 +3911,7 @@
     <title>The Premier League&#039;s Greatest Games - Best of Wenger: 2009, Liverpool v Arsenal</title>
 </programme>
 <programme start="20260820120000 +0000" stop="20260820140000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Years - 2025-26</title>
+    <title>Premier League Years - 2025/26</title>
 </programme>
 <programme start="20260820140000 +0000" stop="20260820160000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2004: Tottenham Hotspur v Arsenal</title>
@@ -4700,7 +4700,7 @@
     <title>The Premier League&#039;s Greatest Games - Best of Wenger: 2009, Liverpool v Arsenal</title>
 </programme>
 <programme start="20260820120000 +0000" stop="20260820140000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Years - 2025-26</title>
+    <title>Premier League Years - 2025/26</title>
 </programme>
 <programme start="20260820140000 +0000" stop="20260820160000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2004: Tottenham Hotspur v Arsenal</title>
