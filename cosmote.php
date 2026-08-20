@@ -74,10 +74,6 @@
     <title>Football: Paris Saint Germain - Aston Villa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260820090000 +0700" stop="20260820110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cremonese - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260820110000 +0700" stop="20260820130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sporting CP - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +124,10 @@
 </programme>
 <programme start="20260821100000 +0700" stop="20260821110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260821110000 +0700" stop="20260821130000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Arouca - Moreirense</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820100000 +0700" stop="20260820120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +242,6 @@
     <title>Basketball: Murcia - Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260820100000 +0700" stop="20260820105500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260820105500 +0700" stop="20260820120000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -342,10 +338,6 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260820060000 +0700" stop="20260820103000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260820103000 +0700" stop="20260820140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
@@ -384,6 +376,10 @@
 </programme>
 <programme start="20260821103000 +0700" stop="20260821113000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP Masters 1000 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260821113000 +0700" stop="20260821153000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820100000 +0700" stop="20260820120000 +0700" channel="COSMOTE Sport 7 HD">

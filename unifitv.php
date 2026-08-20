@@ -3396,11 +3396,11 @@
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260820083500 +0000" stop="20260820090500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Shock Mystery (Sr.2)</title>
-    <desc lang="en">Human beings are innately curious about the unknown. Some even believe that not everything in life can be explained solely by scientific or physical phenomena. Even when there appears to be an acceptable answer on the surface, it may not fully resolve all our questions. The production team of " Shock Mystery" has collected hundreds of strange and unusual cases from around the world, most of which cannot be explained from the perspectives commonly accepted by people—unless supernatural phenomena truly exist in our world! This program will introduce you to incredible mysteries that not only existed in the past but still persist today!</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.101.</episode-num>
-    <episode-num system="onscreen">S1E102</episode-num>
+    <title lang="en">Lo And Behold</title>
+    <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHU</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2601.</episode-num>
+    <episode-num system="onscreen">S1E2602</episode-num>
   </programme>
   <programme start="20260820090500 +0000" stop="20260820093500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Boys Club</title>
