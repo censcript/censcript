@@ -107,7 +107,7 @@
 <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260820190000 +0000" stop="20260820220000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260820220000 +0000" stop="20260820230000 +0000" channel="MNCTV.vision">
 <title>Siraman Qolbu</title>
@@ -167,7 +167,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260820110000 +0000" stop="20260820123000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Berburu Di Hutan Sunyi</title>
 </programme>
 <programme start="20260820123000 +0000" stop="20260820133000 +0000" channel="GTV.vision">
 <title>Entong</title>
@@ -212,7 +212,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260821110000 +0000" stop="20260821120000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Sang Juara Di Hutan Rimba</title>
 </programme>
 <programme start="20260819234500 +0000" stop="20260820001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -657,12 +657,6 @@
 </programme>
 <programme start="20260821114500 +0000" stop="20260821121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20260819230000 +0000" stop="20260820023000 +0000" channel="ANTV.vision">
-<title>Pyaar To Hona Hi Tha</title>
-</programme>
-<programme start="20260820023000 +0000" stop="20260820060000 +0000" channel="ANTV.vision">
-<title>Ra One</title>
 </programme>
 <programme start="20260820060000 +0000" stop="20260820073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1490,11 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260820000000 +0000" stop="20260820004500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260820004500 +0000" stop="20260820010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260820010000 +0000" stop="20260820030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
