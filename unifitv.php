@@ -15516,7 +15516,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260820073000 +0000" stop="20260820083000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Bundesliga - Season Preview</title>
+    <title lang="en">Bundesliga - Season Preview I &amp; II</title>
     <desc lang="en">Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
     <category lang="en">Sports</category>
   </programme>

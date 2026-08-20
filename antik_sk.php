@@ -2650,11 +2650,8 @@
   <programme start="20260822000000 +0000" stop="20260822060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260822060000 +0000" stop="20260822080000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260822060000 +0000" stop="20260822103000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZÁBAVA NA DVOJCE</title>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822103000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
   </programme>
   <programme start="20260822103000 +0000" stop="20260822113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
@@ -2671,7 +2668,7 @@
   <programme start="20260822173000 +0000" stop="20260822200000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZÁBAVA NA DVOJCE</title>
   </programme>
-  <programme start="20260822200000 +0000" stop="20260822220000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260821220000 +0000" stop="20260821233200 +0000" channel="Skvelé TV.webtv.sk">
@@ -15677,7 +15674,7 @@
     <title lang="id">Weather</title>
   </programme>
   <programme start="20260821223200 +0000" stop="20260821224000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Brief (30)</title>
+    <title lang="id">TVP World Special Report</title>
   </programme>
   <programme start="20260821224000 +0000" stop="20260821224500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
@@ -15758,7 +15755,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20260822051000 +0000" stop="20260822052000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Brief (30)</title>
+    <title lang="id">TVP World Special Report</title>
   </programme>
   <programme start="20260822052000 +0000" stop="20260822053500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1898)</title>
@@ -15857,7 +15854,7 @@
     <title lang="id">World News Online</title>
   </programme>
   <programme start="20260822124500 +0000" stop="20260822125500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Western Psyche (22)</title>
+    <title lang="id">Western Psyche (12)</title>
   </programme>
   <programme start="20260822125500 +0000" stop="20260822130000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
@@ -15923,7 +15920,7 @@
     <title lang="id">World News Online</title>
   </programme>
   <programme start="20260822173500 +0000" stop="20260822174500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Brief (30)</title>
+    <title lang="id">World Talks (1898)</title>
   </programme>
   <programme start="20260822174500 +0000" stop="20260822180000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Crossing borders. Run for freedom. (15)</title>
@@ -16000,8 +15997,11 @@
   <programme start="20260821230500 +0000" stop="20260821233300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260821233300 +0000" stop="20260822000000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260821233300 +0000" stop="20260821235400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (782)</title>
+  </programme>
+  <programme start="20260821235400 +0000" stop="20260822000000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260822000000 +0000" stop="20260822003000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (835)</title>
@@ -16012,13 +16012,16 @@
   <programme start="20260822004500 +0000" stop="20260822010000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie jutro</title>
   </programme>
-  <programme start="20260822010000 +0000" stop="20260822012000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260822010000 +0000" stop="20260822011500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20260822012000 +0000" stop="20260822015000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260822011500 +0000" stop="20260822012000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260822012000 +0000" stop="20260822015100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Perły Bałtyku (1)</title>
   </programme>
-  <programme start="20260822015000 +0000" stop="20260822022000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260822015100 +0000" stop="20260822022000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Perły Bałtyku (9)</title>
   </programme>
   <programme start="20260822022000 +0000" stop="20260822030800 +0000" channel="TVP Info.webtv.sk">
