@@ -658,6 +658,9 @@
 <programme start="20260821114500 +0000" stop="20260821121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260819230000 +0000" stop="20260820023000 +0000" channel="ANTV.vision">
+<title>Pyaar To Hona Hi Tha</title>
+</programme>
 <programme start="20260820023000 +0000" stop="20260820060000 +0000" channel="ANTV.vision">
 <title>Ra One</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260820000000 +0000" stop="20260820004500 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260820004500 +0000" stop="20260820010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

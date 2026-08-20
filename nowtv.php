@@ -1,9 +1,3 @@
-<programme start="20260820110000 +0000" stop="20260820120000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820120000 +0000" stop="20260820130000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820130000 +0000" stop="20260820140000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -16,9 +10,6 @@
 <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820120000 +0000" stop="20260820140000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -26,9 +17,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820120000 +0000" stop="20260820140000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -39,9 +27,6 @@
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Newcastle United vs West Ham United</title>
 </programme>
 <programme start="20260820120000 +0000" stop="20260820141500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>The FA Community Shield 2026 -Arsenal vs Manchester City</title>
@@ -64,25 +49,16 @@
 <programme start="20260820160000 +0000" stop="20260820181500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Crystal Palace vs Arsenal</title>
 </programme>
-<programme start="20260820080000 +0000" stop="20260820120000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820120000 +0000" stop="20260820160000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820160000 +0000" stop="20260820200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260820080000 +0000" stop="20260820120000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820120000 +0000" stop="20260820160000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820160000 +0000" stop="20260820200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820080000 +0000" stop="20260820120000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820120000 +0000" stop="20260820160000 +0000" channel="Now Sports Premier League 4.nowtv">
