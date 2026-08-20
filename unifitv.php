@@ -15224,9 +15224,14 @@
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260820014500 +0000" stop="20260820022000 +0000" channel="beinsports.unifitv">
+  <programme start="20260820014500 +0000" stop="20260820021000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Highlights - Matchday 1</title>
     <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260820021000 +0000" stop="20260820022000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Goals Galore - Javi Puado</title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260820022000 +0000" stop="20260820025000 +0000" channel="beinsports.unifitv">
@@ -15259,9 +15264,14 @@
     <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260820065000 +0000" stop="20260820072500 +0000" channel="beinsports.unifitv">
+  <programme start="20260820065000 +0000" stop="20260820071000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Highlights - Matchday 1</title>
     <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260820071000 +0000" stop="20260820072500 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Goals Galore - Vini Jr</title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260820072500 +0000" stop="20260820092000 +0000" channel="beinsports.unifitv">
@@ -15289,9 +15299,14 @@
     <desc lang="en">Enjoy highlights from the 54th season of the World Rally Championship</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260820130000 +0000" stop="20260820133000 +0000" channel="beinsports.unifitv">
+  <programme start="20260820130000 +0000" stop="20260820132000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Highlights - Matchday 1</title>
     <desc lang="en">Catch all the highlights from the latest round of games in LaLiga EA Sports, Spain's top division of football.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260820132000 +0000" stop="20260820133000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Goals Galore - Thierno Barry</title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260820133000 +0000" stop="20260820153000 +0000" channel="beinsports.unifitv">

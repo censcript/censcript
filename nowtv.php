@@ -1,9 +1,3 @@
-<programme start="20260819230000 +0000" stop="20260820000000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820000000 +0000" stop="20260820010000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820010000 +0000" stop="20260820020000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -52,9 +46,6 @@
 <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260819220000 +0000" stop="20260820000000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820000000 +0000" stop="20260820020000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -80,9 +71,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260819220000 +0000" stop="20260820000000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820000000 +0000" stop="20260820020000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -111,12 +99,6 @@
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260819220000 +0000" stop="20260820000000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Chelsea vs Tottenham Hotspur</title>
-</programme>
-<programme start="20260820000000 +0000" stop="20260820010000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Preview to the Season 26/27</title>
 </programme>
 <programme start="20260820010000 +0000" stop="20260820030000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Wolverhampton Wanderers vs Fulham</title>
@@ -163,9 +145,6 @@
 <programme start="20260820160000 +0000" stop="20260820181500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Crystal Palace vs Arsenal</title>
 </programme>
-<programme start="20260819200000 +0000" stop="20260820000000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820000000 +0000" stop="20260820040000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -181,9 +160,6 @@
 <programme start="20260820160000 +0000" stop="20260820200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260819200000 +0000" stop="20260820000000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820000000 +0000" stop="20260820040000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -197,9 +173,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820160000 +0000" stop="20260820200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260819200000 +0000" stop="20260820000000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820000000 +0000" stop="20260820040000 +0000" channel="Now Sports Premier League 4.nowtv">
