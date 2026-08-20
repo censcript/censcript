@@ -4346,7 +4346,7 @@
     <title>The Match Highlights - Tour 2026: Manchester United v AC Milan</title>
 </programme>
 <programme start="20260820120000 +0000" stop="20260820123000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Robin van Persie</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260820123000 +0000" stop="20260820130000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 2013/14: Hull City v Manchester United</title>
@@ -4355,7 +4355,7 @@
     <title>The United Archives - 2013/14: Manchester United v Hull City</title>
 </programme>
 <programme start="20260820133000 +0000" stop="20260820134500 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+    <title>Player Spotlight - Kobbie Mainoo x Academy</title>
 </programme>
 <programme start="20260820134500 +0000" stop="20260820140000 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - Summer Sessions</title>
@@ -4367,10 +4367,19 @@
     <title>The Official United Podcast - Inside Carrington Podcast - Carrick in Ireland</title>
 </programme>
 <programme start="20260820151500 +0000" stop="20260820153000 +0000" channel="MUTV.virginmediatv">
+    <title>Kit Launch - Home Kit 26/27 - Behind The Scenes</title>
+</programme>
+<programme start="20260820153000 +0000" stop="20260820160000 +0000" channel="MUTV.virginmediatv">
+    <title>The United Archives - 2013/14: Hull City v Manchester United</title>
+</programme>
+<programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260820163000 +0000" stop="20260820164500 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference</title>
 </programme>
-<programme start="20260820153000 +0000" stop="20260820173000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League - Brighton &amp; Hove Albion v Manchester United</title>
+<programme start="20260820164500 +0000" stop="20260820173000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington Podcast - Carrick in Ireland</title>
 </programme>
 <programme start="20260820173000 +0000" stop="20260820180000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Pre-Season Friendly: Rosenborg v Manchester United</title>

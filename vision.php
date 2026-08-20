@@ -107,7 +107,7 @@
 <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260820190000 +0000" stop="20260820220000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn 2</title>
+<title>Suparman Reborn</title>
 </programme>
 <programme start="20260820220000 +0000" stop="20260820230000 +0000" channel="MNCTV.vision">
 <title>Siraman Qolbu</title>
@@ -167,7 +167,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260820110000 +0000" stop="20260820123000 +0000" channel="GTV.vision">
-<title>Berburu Di Hutan Sunyi</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20260820123000 +0000" stop="20260820133000 +0000" channel="GTV.vision">
 <title>Entong</title>
@@ -212,7 +212,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260821110000 +0000" stop="20260821120000 +0000" channel="GTV.vision">
-<title>Sang Juara Di Hutan Rimba</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20260819234500 +0000" stop="20260820001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
