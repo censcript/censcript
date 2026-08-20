@@ -7708,6 +7708,114 @@
 <programme start="20260820162500 +0000" stop="20260820165500 +0000" channel="Rock Entertainment.mncvision">
     <title>The Tonight Show S13, Ep 147</title>
 </programme>
+<programme start="20260819181500 +0000" stop="20260819193400 +0000" channel="SCTV.mncvision">
+    <title>Pacarku Robin Hood</title>
+</programme>
+<programme start="20260819193400 +0000" stop="20260819210000 +0000" channel="SCTV.mncvision">
+    <title>Jogja Love Story</title>
+</programme>
+<programme start="20260819210000 +0000" stop="20260819213000 +0000" channel="SCTV.mncvision">
+    <title>Barakallah</title>
+</programme>
+<programme start="20260819213000 +0000" stop="20260819215400 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
+</programme>
+<programme start="20260819215400 +0000" stop="20260819230600 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260819230600 +0000" stop="20260820002400 +0000" channel="SCTV.mncvision">
+    <title>Halo Selebriti Spc. HUT SCTV</title>
+</programme>
+<programme start="20260820002400 +0000" stop="20260820012500 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260820012500 +0000" stop="20260820022900 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260820022900 +0000" stop="20260820042600 +0000" channel="SCTV.mncvision">
+    <title>Demi Alek Kagak Ngapa-Ngapa</title>
+</programme>
+<programme start="20260820042600 +0000" stop="20260820050700 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260820050700 +0000" stop="20260820064100 +0000" channel="SCTV.mncvision">
+    <title>Bebek-Bebeknya Sudah Mulai...</title>
+</programme>
+<programme start="20260820064100 +0000" stop="20260820082000 +0000" channel="SCTV.mncvision">
+    <title>Bulewati I Love You But Gimana</title>
+</programme>
+<programme start="20260820082000 +0000" stop="20260820100000 +0000" channel="SCTV.mncvision">
+    <title>Cinta Susu Murni Bukan...</title>
+</programme>
+<programme start="20260820100000 +0000" stop="20260820112900 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z New Era</title>
+</programme>
+<programme start="20260820112900 +0000" stop="20260820125100 +0000" channel="SCTV.mncvision">
+    <title>Seindah Masa Remaja</title>
+</programme>
+<programme start="20260820125100 +0000" stop="20260820142000 +0000" channel="SCTV.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
+</programme>
+<programme start="20260820142000 +0000" stop="20260820155700 +0000" channel="SCTV.mncvision">
+    <title>Biarkan Hati Bicara</title>
+</programme>
+<programme start="20260820155700 +0000" stop="20260820162700 +0000" channel="SCTV.mncvision">
+    <title>Dilan 1990 Extended Version</title>
+</programme>
+<programme start="20260819181500 +0000" stop="20260819193400 +0000" channel="SCTV HD.mncvision">
+    <title>Pacarku Robin Hood</title>
+</programme>
+<programme start="20260819193400 +0000" stop="20260819210000 +0000" channel="SCTV HD.mncvision">
+    <title>Jogja Love Story</title>
+</programme>
+<programme start="20260819210000 +0000" stop="20260819213000 +0000" channel="SCTV HD.mncvision">
+    <title>Barakallah</title>
+</programme>
+<programme start="20260819213000 +0000" stop="20260819215400 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
+</programme>
+<programme start="20260819215400 +0000" stop="20260819230600 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260819230600 +0000" stop="20260820002400 +0000" channel="SCTV HD.mncvision">
+    <title>Halo Selebriti Spc. HUT SCTV</title>
+</programme>
+<programme start="20260820002400 +0000" stop="20260820012500 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260820012500 +0000" stop="20260820022900 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260820022900 +0000" stop="20260820042600 +0000" channel="SCTV HD.mncvision">
+    <title>Demi Alek Kagak Ngapa-Ngapa</title>
+</programme>
+<programme start="20260820042600 +0000" stop="20260820050700 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260820050700 +0000" stop="20260820064100 +0000" channel="SCTV HD.mncvision">
+    <title>Bebek-Bebeknya Sudah Mulai...</title>
+</programme>
+<programme start="20260820064100 +0000" stop="20260820082000 +0000" channel="SCTV HD.mncvision">
+    <title>Bulewati I Love You But Gimana</title>
+</programme>
+<programme start="20260820082000 +0000" stop="20260820100000 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Susu Murni Bukan...</title>
+</programme>
+<programme start="20260820100000 +0000" stop="20260820112900 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z New Era</title>
+</programme>
+<programme start="20260820112900 +0000" stop="20260820125100 +0000" channel="SCTV HD.mncvision">
+    <title>Seindah Masa Remaja</title>
+</programme>
+<programme start="20260820125100 +0000" stop="20260820142000 +0000" channel="SCTV HD.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
+</programme>
+<programme start="20260820142000 +0000" stop="20260820155700 +0000" channel="SCTV HD.mncvision">
+    <title>Biarkan Hati Bicara</title>
+</programme>
+<programme start="20260820155700 +0000" stop="20260820162700 +0000" channel="SCTV HD.mncvision">
+    <title>Dilan 1990 Extended Version</title>
+</programme>
 <programme start="20260819173000 +0000" stop="20260819180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>
