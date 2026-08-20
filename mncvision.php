@@ -4175,7 +4175,7 @@
     <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260820110000 +0000" stop="20260820123000 +0000" channel="GTV.mncvision">
-    <title>Film Keluarga</title>
+    <title>Berburu Di Hutan Sunyi</title>
 </programme>
 <programme start="20260820123000 +0000" stop="20260820133000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
@@ -4220,7 +4220,7 @@
     <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260820110000 +0000" stop="20260820123000 +0000" channel="GTV HD.mncvision">
-    <title>Film Keluarga</title>
+    <title>Berburu Di Hutan Sunyi</title>
 </programme>
 <programme start="20260820123000 +0000" stop="20260820133000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
@@ -7744,22 +7744,22 @@
 <programme start="20260820064100 +0000" stop="20260820082000 +0000" channel="SCTV.mncvision">
     <title>Bulewati I Love You But Gimana</title>
 </programme>
-<programme start="20260820082000 +0000" stop="20260820100000 +0000" channel="SCTV.mncvision">
+<programme start="20260820082000 +0000" stop="20260820095600 +0000" channel="SCTV.mncvision">
     <title>Cinta Susu Murni Bukan...</title>
 </programme>
-<programme start="20260820100000 +0000" stop="20260820112900 +0000" channel="SCTV.mncvision">
+<programme start="20260820095600 +0000" stop="20260820112600 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260820112900 +0000" stop="20260820125100 +0000" channel="SCTV.mncvision">
+<programme start="20260820112600 +0000" stop="20260820124700 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260820125100 +0000" stop="20260820142000 +0000" channel="SCTV.mncvision">
+<programme start="20260820124700 +0000" stop="20260820141600 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260820142000 +0000" stop="20260820155700 +0000" channel="SCTV.mncvision">
+<programme start="20260820141600 +0000" stop="20260820155400 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260820155700 +0000" stop="20260820162700 +0000" channel="SCTV.mncvision">
+<programme start="20260820155400 +0000" stop="20260820162400 +0000" channel="SCTV.mncvision">
     <title>Dilan 1990 Extended Version</title>
 </programme>
 <programme start="20260819181500 +0000" stop="20260819193400 +0000" channel="SCTV HD.mncvision">
@@ -7798,22 +7798,22 @@
 <programme start="20260820064100 +0000" stop="20260820082000 +0000" channel="SCTV HD.mncvision">
     <title>Bulewati I Love You But Gimana</title>
 </programme>
-<programme start="20260820082000 +0000" stop="20260820100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260820082000 +0000" stop="20260820095600 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Susu Murni Bukan...</title>
 </programme>
-<programme start="20260820100000 +0000" stop="20260820112900 +0000" channel="SCTV HD.mncvision">
+<programme start="20260820095600 +0000" stop="20260820112600 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260820112900 +0000" stop="20260820125100 +0000" channel="SCTV HD.mncvision">
+<programme start="20260820112600 +0000" stop="20260820124700 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260820125100 +0000" stop="20260820142000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260820124700 +0000" stop="20260820141600 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260820142000 +0000" stop="20260820155700 +0000" channel="SCTV HD.mncvision">
+<programme start="20260820141600 +0000" stop="20260820155400 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260820155700 +0000" stop="20260820162700 +0000" channel="SCTV HD.mncvision">
+<programme start="20260820155400 +0000" stop="20260820162400 +0000" channel="SCTV HD.mncvision">
     <title>Dilan 1990 Extended Version</title>
 </programme>
 <programme start="20260819173000 +0000" stop="20260819180000 +0000" channel="Sindo News TV.mncvision">

@@ -107,7 +107,7 @@
 <title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260820190000 +0000" stop="20260820220000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20260820220000 +0000" stop="20260820230000 +0000" channel="MNCTV.vision">
 <title>Siraman Qolbu</title>

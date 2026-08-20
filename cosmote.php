@@ -70,8 +70,8 @@
     <title>Football: OFI - FC CSKA 1948 Sofia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260820150000 +0700" stop="20260820170000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cremonese - Como</title>
+<programme start="20260821173000 +0700" stop="20260821200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Paris Saint Germain - Aston Villa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820170000 +0700" stop="20260820190000 +0700" channel="COSMOTE Sport 2 HD">
@@ -198,10 +198,6 @@
     <title>Football: Dundee United - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260820141000 +0700" stop="20260820161000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tofas - Karditsa</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260820161000 +0700" stop="20260820182000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Real Madrid - Tenerife</title>
     <desc>Live: Tidak</desc>
@@ -260,10 +256,6 @@
 </programme>
 <programme start="20260821163000 +0700" stop="20260821183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Murcia - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260820160000 +0700" stop="20260820170000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 FIM Moto Junior GP</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260820170000 +0700" stop="20260820183000 +0700" channel="COSMOTE Sport 5 HD">

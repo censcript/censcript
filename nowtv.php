@@ -1,6 +1,3 @@
-<programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820100000 +0000" stop="20260820110000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -22,9 +19,6 @@
 <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260820080000 +0000" stop="20260820100000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -35,9 +29,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820080000 +0000" stop="20260820100000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -51,9 +42,6 @@
 </programme>
 <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260820080000 +0000" stop="20260820100000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 25/26 -Wolverhampton Wanderers vs Fulham</title>
 </programme>
 <programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 25/26 -Newcastle United vs West Ham United</title>

@@ -4100,7 +4100,7 @@
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 7</title>
 </programme>
 <programme start="20260820030000 +0000" stop="20260820040000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Tennis: WTA Stuttgart Open 2026 - Wta 500 Stuttgart 2026 Final Highlights (1Hr)</title>
+    <title>Tennis: WTA Stuttgart Open 2026 - WTA 500 Stuttgart 2026 Final Highlights (1Hr)</title>
 </programme>
 <programme start="20260820040000 +0000" stop="20260820050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Tennis: ATP Grand Prix Hassan II 2026 - Final</title>
@@ -4889,7 +4889,7 @@
     <title>Live Tennis: ATP &amp; WTA Cincinnati Open 2026 - Day 7</title>
 </programme>
 <programme start="20260820030000 +0000" stop="20260820040000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Tennis: WTA Stuttgart Open 2026 - Wta 500 Stuttgart 2026 Final Highlights (1Hr)</title>
+    <title>Tennis: WTA Stuttgart Open 2026 - WTA 500 Stuttgart 2026 Final Highlights (1Hr)</title>
 </programme>
 <programme start="20260820040000 +0000" stop="20260820050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Tennis: ATP Grand Prix Hassan II 2026 - Final</title>
