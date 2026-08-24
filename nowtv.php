@@ -1,9 +1,3 @@
-<programme start="20260824050000 +0000" stop="20260824060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260824060000 +0000" stop="20260824070000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260824070000 +0000" stop="20260824080000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -34,9 +28,6 @@
 <programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260824040000 +0000" stop="20260824060000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260824060000 +0000" stop="20260824080000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -53,9 +44,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260824160000 +0000" stop="20260824180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260824040000 +0000" stop="20260824060000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260824060000 +0000" stop="20260824080000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -75,9 +63,6 @@
 </programme>
 <programme start="20260824160000 +0000" stop="20260824180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260824053000 +0000" stop="20260824060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -COVENTRY RISING</title>
 </programme>
 <programme start="20260824060000 +0000" stop="20260824080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Brighton &amp; Hove Albion vs Aston Villa</title>

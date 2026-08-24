@@ -3277,7 +3277,7 @@
   <programme start="20260823230500 +0000" stop="20260824000500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Good Morning Hong Kong and Global View</title>
     <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs.</desc>
-    <category lang="en">News </category>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260824000500 +0000" stop="20260824010500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Another Era</title>
@@ -3401,7 +3401,7 @@
   <programme start="20260824103500 +0000" stop="20260824114000 +0000" channel="tvbjade.unifitv">
     <title lang="en">News At 18:30 &amp; Global View &amp; What's On Today</title>
     <desc lang="en">Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
-    <category lang="en">News </category>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260824114000 +0000" stop="20260824120500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Scoop 2026</title>
@@ -3448,12 +3448,12 @@
   <programme start="20260824152000 +0000" stop="20260824155500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News Roundup</title>
     <desc lang="en">Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
-    <category lang="en">News </category>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260824155500 +0000" stop="20260824160500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Global View</title>
     <desc lang="en">" Global View," curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
-    <category lang="en">News </category>
+    <category lang="en">News</category>
   </programme>
   <channel id="unknown.unifitv">
     <display-name>TVB Xing He</display-name>
