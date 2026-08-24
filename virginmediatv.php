@@ -3959,7 +3959,7 @@
     <title>Saturday Night Football - Brentford v Tottenham Hotspur</title>
 </programme>
 <programme start="20260824020000 +0000" stop="20260824021500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Archive - Best Of Wenger: Chelsea V Arsenal 2011 (3-5)</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260824021500 +0000" stop="20260824023000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2005: Norwich City v Middlesbrough</title>
@@ -4517,7 +4517,7 @@
     <title>Premier League Highlights - Hull City v Manchester United</title>
 </programme>
 <programme start="20260824140000 +0000" stop="20260824143000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Highlights - Women&#039;s Pre-Season Friendly: Manchester United v Liverpool</title>
+    <title>The Match Highlights - Tour 2026: Manchester United v Paris Saint-Germain</title>
 </programme>
 <programme start="20260824143000 +0000" stop="20260824150000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Tour 2026: Manchester United v Leeds United</title>
@@ -4528,8 +4528,11 @@
 <programme start="20260824170000 +0000" stop="20260824173000 +0000" channel="MUTV.virginmediatv">
     <title>Match Day Review - Premier League: Hull City v Manchester United</title>
 </programme>
-<programme start="20260824173000 +0000" stop="20260824200000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Replayed - Tour 2026: Manchester United v AC Milan</title>
+<programme start="20260824173000 +0000" stop="20260824175500 +0000" channel="MUTV.virginmediatv">
+    <title>Access All Areas - Leeds &amp; AC Milan</title>
+</programme>
+<programme start="20260824175500 +0000" stop="20260824200000 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260824000000 +0000" stop="20260824003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Canada 2026</title>
@@ -4829,7 +4832,7 @@
     <title>Saturday Night Football - Brentford v Tottenham Hotspur</title>
 </programme>
 <programme start="20260824020000 +0000" stop="20260824021500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Archive - Best Of Wenger: Chelsea V Arsenal 2011 (3-5)</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260824021500 +0000" stop="20260824023000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2005: Norwich City v Middlesbrough</title>
