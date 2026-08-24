@@ -634,12 +634,6 @@
 <programme start="20260825114500 +0000" stop="20260825121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260823230000 +0000" stop="20260824023000 +0000" channel="ANTV.vision">
-<title>Yuvvraaj</title>
-</programme>
-<programme start="20260824023000 +0000" stop="20260824060000 +0000" channel="ANTV.vision">
-<title>Khuda Haafiz</title>
-</programme>
 <programme start="20260824060000 +0000" stop="20260824073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260825030300 +0000" stop="20260825033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825033000 +0000" stop="20260825040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825040000 +0000" stop="20260825040300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

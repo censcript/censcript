@@ -5998,11 +5998,8 @@
 <programme start="20260824050000 +0000" stop="20260824063000 +0000" channel="TRTE.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
-<programme start="20260824113000 +0000" stop="20260824140000 +0000" channel="TRTE.virginmediatv">
+<programme start="20260824113000 +0000" stop="20260824140500 +0000" channel="TRTE.virginmediatv">
     <title>Channel Off Air</title>
-</programme>
-<programme start="20260824140000 +0000" stop="20260824140500 +0000" channel="TRTE.virginmediatv">
-    <title>Jamie Johnson - Sucker Punch</title>
 </programme>
 <programme start="20260824140500 +0000" stop="20260824143500 +0000" channel="TRTE.virginmediatv">
     <title>The Next Step - Take Control</title>
