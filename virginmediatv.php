@@ -3959,7 +3959,7 @@
     <title>Saturday Night Football - Brentford v Tottenham Hotspur</title>
 </programme>
 <programme start="20260824020000 +0000" stop="20260824021500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Premier League&#039;s Greatest Games - 1997: Chelsea v Arsenal</title>
 </programme>
 <programme start="20260824021500 +0000" stop="20260824023000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2005: Norwich City v Middlesbrough</title>
@@ -4532,7 +4532,7 @@
     <title>Access All Areas - Leeds &amp; AC Milan</title>
 </programme>
 <programme start="20260824175500 +0000" stop="20260824200000 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Live: Premier League 2 - Manchester United U21 vs. Ipswich Town U21</title>
 </programme>
 <programme start="20260824000000 +0000" stop="20260824003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Canada 2026</title>
@@ -4616,7 +4616,7 @@
     <title>Vuelta a España - Stage 2</title>
 </programme>
 <programme start="20260824113000 +0000" stop="20260824143000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Wuhan Open - Round 3</title>
+    <title>Live: Wuhan Open - Round 3: Judd Trump v Yuan Sijun</title>
 </programme>
 <programme start="20260824143000 +0000" stop="20260824150000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>CPL T20 - Antigua &amp; Barbuda Falcons v Guyana Amazon Warriors</title>
@@ -4669,7 +4669,7 @@
 <programme start="20260824123000 +0000" stop="20260824160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 3</title>
 </programme>
-<programme start="20260824160000 +0000" stop="20260824190000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260824160000 +0000" stop="20260824183000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>FEI World Championships - Jumping: Individual Final</title>
 </programme>
 <programme start="20260823220000 +0000" stop="20260824010000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
@@ -4832,7 +4832,7 @@
     <title>Saturday Night Football - Brentford v Tottenham Hotspur</title>
 </programme>
 <programme start="20260824020000 +0000" stop="20260824021500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Premier League&#039;s Greatest Games - 1997: Chelsea v Arsenal</title>
 </programme>
 <programme start="20260824021500 +0000" stop="20260824023000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2005: Norwich City v Middlesbrough</title>
@@ -5315,7 +5315,7 @@
     <title>Vuelta a España - Stage 2</title>
 </programme>
 <programme start="20260824113000 +0000" stop="20260824143000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Live: Wuhan Open - Round 3</title>
+    <title>Live: Wuhan Open - Round 3: Judd Trump v Yuan Sijun</title>
 </programme>
 <programme start="20260824143000 +0000" stop="20260824150000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>CPL T20 - Antigua &amp; Barbuda Falcons v Guyana Amazon Warriors</title>
@@ -5368,7 +5368,7 @@
 <programme start="20260824123000 +0000" stop="20260824160000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Vuelta a España - Stage 3</title>
 </programme>
-<programme start="20260824160000 +0000" stop="20260824190000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260824160000 +0000" stop="20260824183000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>FEI World Championships - Jumping: Individual Final</title>
 </programme>
 <programme start="20260823220000 +0000" stop="20260824010000 +0000" channel="TNT_Sports_4.virginmediatv">
