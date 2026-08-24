@@ -4594,10 +4594,10 @@
 <programme start="20260824041500 +0000" stop="20260824123000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 2: Sri Lanka v India</title>
 </programme>
-<programme start="20260824123000 +0000" stop="20260824160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260824123000 +0000" stop="20260824163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 3</title>
 </programme>
-<programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260824163000 +0000" stop="20260824170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Sign Up: Into Football - Best Of</title>
 </programme>
 <programme start="20260824170000 +0000" stop="20260824203000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4666,10 +4666,10 @@
 <programme start="20260824113000 +0000" stop="20260824123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Vuelta a España - Stage 2</title>
 </programme>
-<programme start="20260824123000 +0000" stop="20260824160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260824123000 +0000" stop="20260824163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 3</title>
 </programme>
-<programme start="20260824160000 +0000" stop="20260824183000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260824163000 +0000" stop="20260824183000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>FEI World Championships - Jumping: Individual Final</title>
 </programme>
 <programme start="20260823220000 +0000" stop="20260824010000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
@@ -5293,10 +5293,10 @@
 <programme start="20260824041500 +0000" stop="20260824123000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 2: Sri Lanka v India</title>
 </programme>
-<programme start="20260824123000 +0000" stop="20260824160000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260824123000 +0000" stop="20260824163000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Vuelta a España - Stage 3</title>
 </programme>
-<programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260824163000 +0000" stop="20260824170000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Sign Up: Into Football - Best Of</title>
 </programme>
 <programme start="20260824170000 +0000" stop="20260824203000 +0000" channel="TNT_Sports_1.virginmediatv">
@@ -5365,10 +5365,10 @@
 <programme start="20260824113000 +0000" stop="20260824123000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Vuelta a España - Stage 2</title>
 </programme>
-<programme start="20260824123000 +0000" stop="20260824160000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260824123000 +0000" stop="20260824163000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Vuelta a España - Stage 3</title>
 </programme>
-<programme start="20260824160000 +0000" stop="20260824183000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260824163000 +0000" stop="20260824183000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>FEI World Championships - Jumping: Individual Final</title>
 </programme>
 <programme start="20260823220000 +0000" stop="20260824010000 +0000" channel="TNT_Sports_4.virginmediatv">
