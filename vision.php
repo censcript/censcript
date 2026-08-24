@@ -646,15 +646,6 @@
 <programme start="20260824093000 +0000" stop="20260824113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260824113000 +0000" stop="20260824140000 +0000" channel="ANTV.vision">
-<title>Berkelana</title>
-</programme>
-<programme start="20260824140000 +0000" stop="20260824160000 +0000" channel="ANTV.vision">
-<title>Kutukan Cakar Monyet</title>
-</programme>
-<programme start="20260824160000 +0000" stop="20260824180000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
-</programme>
 <programme start="20260824180000 +0000" stop="20260824190000 +0000" channel="ANTV.vision">
 <title>Milionaires Express</title>
 </programme>
@@ -813,9 +804,6 @@
 </programme>
 <programme start="20260824130000 +0000" stop="20260824140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20260824140000 +0000" stop="20260824150000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20260824150000 +0000" stop="20260824160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1496,5 +1484,17 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260824043000 +0000" stop="20260824060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260824060000 +0000" stop="20260824080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260824080000 +0000" stop="20260824080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260824080300 +0000" stop="20260824100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260824100000 +0000" stop="20260824103000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

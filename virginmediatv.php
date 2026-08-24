@@ -6119,7 +6119,7 @@
     <title>Harvey Beaks - Secret Gordon; The Unknown Comic</title>
 </programme>
 <programme start="20260824160000 +0000" stop="20260824163000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Zón 62 - Episode 20</title>
+    <title>Zón 62 - Zón 62 Sraith 2 2 - 20</title>
 </programme>
 <programme start="20260824163000 +0000" stop="20260824164400 +0000" channel="Cula4_HD.virginmediatv">
     <title>Conas? - Candles</title>
@@ -6245,7 +6245,7 @@
     <title>Rock Paper Scissors - Birthday Police; Paper&#039;s Big Lie</title>
 </programme>
 <programme start="20260824053000 +0000" stop="20260824060000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Patrick Star Show - The Uncredible Journey; Host-a-Palooza</title>
+    <title>Kamp Koral: SpongeBob&#039;s Under Years - Eye of the Hotdog; Patrick Takes the Cake</title>
 </programme>
 <programme start="20260824120000 +0000" stop="20260824123000 +0000" channel="Nickelodeon_HD.virginmediatv">
     <title>The Boss Baby: Back in Business - Conference Room B</title>
