@@ -4168,11 +4168,8 @@
 <programme start="20260824043000 +0000" stop="20260824050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>School of Golf - Chapter 11: Lone Star Lessons</title>
 </programme>
-<programme start="20260824050000 +0000" stop="20260824053000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Nick Dougherty&#039;s Tee Time Tips - Northern Ireland</title>
-</programme>
-<programme start="20260824053000 +0000" stop="20260824060000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Nick Dougherty&#039;s Tee Time Tips</title>
+<programme start="20260824050000 +0000" stop="20260824100000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Nexo Championship, DP World Tour Golf - Day 4</title>
 </programme>
 <programme start="20260824100000 +0000" stop="20260824160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW Championship, PGA Tour Golf - Day 4</title>
@@ -4570,23 +4567,11 @@
 <programme start="20260824120000 +0000" stop="20260824130000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Dutch Grand Prix: Sprint Race</title>
 </programme>
-<programme start="20260824130000 +0000" stop="20260824150000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260824130000 +0000" stop="20260824152000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Dutch Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260824150000 +0000" stop="20260824171500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260824152000 +0000" stop="20260824181000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Dutch Grand Prix: Stand Alone Race</title>
-</programme>
-<programme start="20260824171500 +0000" stop="20260824173000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>At Home with Liam Lawson</title>
-</programme>
-<programme start="20260824173000 +0000" stop="20260824174000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Liam Lawson IV</title>
-</programme>
-<programme start="20260824174000 +0000" stop="20260824175000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Lewis Hamilton IV</title>
-</programme>
-<programme start="20260824175000 +0000" stop="20260824180000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Martin Brundle on Kimi Antonelli</title>
 </programme>
 <programme start="20260823230000 +0000" stop="20260824020000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Major League Baseball - Atlanta Braves at Milwaukee Brewers</title>
@@ -5053,11 +5038,8 @@
 <programme start="20260824043000 +0000" stop="20260824050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>School of Golf - Chapter 11: Lone Star Lessons</title>
 </programme>
-<programme start="20260824050000 +0000" stop="20260824053000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Nick Dougherty&#039;s Tee Time Tips - Northern Ireland</title>
-</programme>
-<programme start="20260824053000 +0000" stop="20260824060000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Nick Dougherty&#039;s Tee Time Tips</title>
+<programme start="20260824050000 +0000" stop="20260824100000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Nexo Championship, DP World Tour Golf - Day 4</title>
 </programme>
 <programme start="20260824100000 +0000" stop="20260824160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW Championship, PGA Tour Golf - Day 4</title>
@@ -5284,23 +5266,11 @@
 <programme start="20260824120000 +0000" stop="20260824130000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Dutch Grand Prix: Sprint Race</title>
 </programme>
-<programme start="20260824130000 +0000" stop="20260824150000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260824130000 +0000" stop="20260824152000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Dutch Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260824150000 +0000" stop="20260824171500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260824152000 +0000" stop="20260824181000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Dutch Grand Prix: Stand Alone Race</title>
-</programme>
-<programme start="20260824171500 +0000" stop="20260824173000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>At Home with Liam Lawson</title>
-</programme>
-<programme start="20260824173000 +0000" stop="20260824174000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Liam Lawson IV</title>
-</programme>
-<programme start="20260824174000 +0000" stop="20260824175000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Lewis Hamilton IV</title>
-</programme>
-<programme start="20260824175000 +0000" stop="20260824180000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Martin Brundle on Kimi Antonelli</title>
 </programme>
 <programme start="20260823230000 +0000" stop="20260824020000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Major League Baseball - Atlanta Braves at Milwaukee Brewers</title>
@@ -7952,13 +7922,13 @@
     <title>Democracy Now!</title>
 </programme>
 <programme start="20260824055900 +0000" stop="20260824062400 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Read Write Now - God in a Pair of Jeans</title>
 </programme>
 <programme start="20260824120000 +0000" stop="20260824125900 +0000" channel="DCTV.virginmediatv">
     <title>Democracy Now!</title>
 </programme>
 <programme start="20260824125900 +0000" stop="20260824134600 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>A Capital in Conflict: Dublin City and the 1913 Lockout - Colin Whitson</title>
 </programme>
 <programme start="20260824134600 +0000" stop="20260824141300 +0000" channel="DCTV.virginmediatv">
     <title>The Parlour</title>
@@ -7967,19 +7937,19 @@
     <title>Beyond the Classroom - The Learners</title>
 </programme>
 <programme start="20260824150300 +0000" stop="20260824160300 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Pipe Down</title>
 </programme>
 <programme start="20260824160300 +0000" stop="20260824161400 +0000" channel="DCTV.virginmediatv">
     <title>ABC of ISL - Episode 9</title>
 </programme>
 <programme start="20260824161400 +0000" stop="20260824164400 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Romancing Ireland - The Brazilian</title>
 </programme>
 <programme start="20260824164400 +0000" stop="20260824165900 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Republican Congress - Episode 4</title>
 </programme>
 <programme start="20260824165900 +0000" stop="20260824170000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Get Inside - Episode 2</title>
 </programme>
 <programme start="20260824170000 +0000" stop="20260824175900 +0000" channel="DCTV.virginmediatv">
     <title>Democracy Now!</title>

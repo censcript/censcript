@@ -3173,21 +3173,21 @@
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20260824084000 +0000" stop="20260824100500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260824084000 +0000" stop="20260824100000 +0000" channel="tvnhd.unifitv">
     <title lang="en">Mr. Eo's Food World Tour</title>
     <desc lang="en">Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
     <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260824100500 +0000" stop="20260824103500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Chansung's Cooking</title>
-    <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+  <programme start="20260824100000 +0000" stop="20260824105500 +0000" channel="tvnhd.unifitv">
+    <title lang="en">Walking Through The Village</title>
+    <desc lang="en">Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260824103500 +0000" stop="20260824122500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260824105500 +0000" stop="20260824122500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
     <category lang="en">Variety</category>

@@ -41,7 +41,7 @@
 <title>Mega Film TV Malam</title>
 </programme>
 <programme start="20260824200000 +0000" stop="20260824221500 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S7</title>
+<title>Preman Pensiun S6</title>
 </programme>
 <programme start="20260824221500 +0000" stop="20260824224500 +0000" channel="RCTI.vision">
 <title>Seputar iNews</title>
@@ -217,10 +217,10 @@
 <programme start="20260824001500 +0000" stop="20260824011500 +0000" channel="iNews.vision">
 <title>iNews Room Pagi (L)</title>
 </programme>
-<programme start="20260824011500 +0000" stop="20260824020000 +0000" channel="iNews.vision">
+<programme start="20260824011500 +0000" stop="20260824021500 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260824020000 +0000" stop="20260824030000 +0000" channel="iNews.vision">
+<programme start="20260824021500 +0000" stop="20260824030000 +0000" channel="iNews.vision">
 <title>Breaking News (Inews)</title>
 </programme>
 <programme start="20260824030000 +0000" stop="20260824040000 +0000" channel="iNews.vision">
@@ -232,28 +232,25 @@
 <programme start="20260824060000 +0000" stop="20260824063000 +0000" channel="iNews.vision">
 <title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20260824063000 +0000" stop="20260824073000 +0000" channel="iNews.vision">
+<programme start="20260824063000 +0000" stop="20260824070000 +0000" channel="iNews.vision">
 <title>Breaking News (Inews)</title>
 </programme>
-<programme start="20260824073000 +0000" stop="20260824074000 +0000" channel="iNews.vision">
-<title>Breaking Goals (L)</title>
+<programme start="20260824070000 +0000" stop="20260824080000 +0000" channel="iNews.vision">
+<title>iSeleb (L)</title>
 </programme>
-<programme start="20260824074000 +0000" stop="20260824091500 +0000" channel="iNews.vision">
+<programme start="20260824080000 +0000" stop="20260824093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20260824091500 +0000" stop="20260824120000 +0000" channel="iNews.vision">
+<programme start="20260824093000 +0000" stop="20260824120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20260824120000 +0000" stop="20260824140000 +0000" channel="iNews.vision">
-<title>Rakyat Bersuara (iNews)</title>
+<programme start="20260824120000 +0000" stop="20260824133000 +0000" channel="iNews.vision">
+<title>iNews Room (L)</title>
 </programme>
-<programme start="20260824140000 +0000" stop="20260824150000 +0000" channel="iNews.vision">
+<programme start="20260824133000 +0000" stop="20260824150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260824150000 +0000" stop="20260824151000 +0000" channel="iNews.vision">
-<title>Breaking Goals</title>
-</programme>
-<programme start="20260824151000 +0000" stop="20260824163000 +0000" channel="iNews.vision">
+<programme start="20260824150000 +0000" stop="20260824163000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20260824163000 +0000" stop="20260824170000 +0000" channel="iNews.vision">
@@ -284,7 +281,7 @@
 <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260824231500 +0000" stop="20260824234500 +0000" channel="iNews.vision">
-<title>Cahaya Hati The Series</title>
+<title>Special Report</title>
 </programme>
 <programme start="20260824234500 +0000" stop="20260825001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -292,10 +289,10 @@
 <programme start="20260825001500 +0000" stop="20260825011500 +0000" channel="iNews.vision">
 <title>iNews Room Pagi (L)</title>
 </programme>
-<programme start="20260825011500 +0000" stop="20260825020000 +0000" channel="iNews.vision">
+<programme start="20260825011500 +0000" stop="20260825021500 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
 </programme>
-<programme start="20260825020000 +0000" stop="20260825030000 +0000" channel="iNews.vision">
+<programme start="20260825021500 +0000" stop="20260825030000 +0000" channel="iNews.vision">
 <title>Breaking News (Inews)</title>
 </programme>
 <programme start="20260825030000 +0000" stop="20260825040000 +0000" channel="iNews.vision">
@@ -307,16 +304,16 @@
 <programme start="20260825060000 +0000" stop="20260825063000 +0000" channel="iNews.vision">
 <title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20260825063000 +0000" stop="20260825073000 +0000" channel="iNews.vision">
-<title>Breaking News (Inews)</title>
+<programme start="20260825063000 +0000" stop="20260825070000 +0000" channel="iNews.vision">
+<title>Cahaya Hati Series: Ad-Dhuha</title>
 </programme>
-<programme start="20260825073000 +0000" stop="20260825074000 +0000" channel="iNews.vision">
-<title>Breaking Goals (L)</title>
+<programme start="20260825070000 +0000" stop="20260825080000 +0000" channel="iNews.vision">
+<title>iSeleb (L)</title>
 </programme>
-<programme start="20260825074000 +0000" stop="20260825091500 +0000" channel="iNews.vision">
+<programme start="20260825080000 +0000" stop="20260825093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20260825091500 +0000" stop="20260825120000 +0000" channel="iNews.vision">
+<programme start="20260825093000 +0000" stop="20260825120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
 <programme start="20260824000000 +0000" stop="20260824003000 +0000" channel="SindoNews.vision">
@@ -636,6 +633,9 @@
 </programme>
 <programme start="20260825114500 +0000" stop="20260825121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
+</programme>
+<programme start="20260824023000 +0000" stop="20260824060000 +0000" channel="ANTV.vision">
+<title>Khuda Haafiz</title>
 </programme>
 <programme start="20260824060000 +0000" stop="20260824073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
