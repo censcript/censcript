@@ -5891,7 +5891,7 @@
     <title>Body Brothers - Sticky Stuff</title>
 </programme>
 <programme start="20260824125000 +0000" stop="20260824130000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Billie and Whizz at Big School - Wormy</title>
+    <title>Bellie and Whizz at Big School - Wormy</title>
 </programme>
 <programme start="20260824130000 +0000" stop="20260824131000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Flix - Best Buddy Burma</title>
@@ -6485,7 +6485,7 @@
     <title>PAW Patrol - Pups Save Daring Danny X; Pups in a Fix</title>
 </programme>
 <programme start="20260824170000 +0000" stop="20260824173000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Bedtime Stories With Ryan - Goodnight &amp; Hello, Family</title>
+    <title>Gabby&#039;s Dollhouse - Planes, Trains, and Kitty Balloons!</title>
 </programme>
 <programme start="20260824173000 +0000" stop="20260824173500 +0000" channel="Nick_Junior.virginmediatv">
     <title>Peppa Pig - Fire Station Practice</title>

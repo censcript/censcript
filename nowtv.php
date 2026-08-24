@@ -1,6 +1,3 @@
-<programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260824170000 +0000" stop="20260824180000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
