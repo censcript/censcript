@@ -7948,17 +7948,44 @@
 <programme start="20260824034400 +0000" stop="20260824050000 +0000" channel="DCTV.virginmediatv">
     <title>Get Inside - Episode 1</title>
 </programme>
-<programme start="20260824050000 +0000" stop="20260824090000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260824050000 +0000" stop="20260824055900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260824055900 +0000" stop="20260824062400 +0000" channel="DCTV.virginmediatv">
     <title>To Be Announced</title>
 </programme>
-<programme start="20260824090000 +0000" stop="20260824130000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260824120000 +0000" stop="20260824125900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260824125900 +0000" stop="20260824134600 +0000" channel="DCTV.virginmediatv">
     <title>To Be Announced</title>
 </programme>
-<programme start="20260824130000 +0000" stop="20260824170000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260824134600 +0000" stop="20260824141300 +0000" channel="DCTV.virginmediatv">
+    <title>The Parlour</title>
+</programme>
+<programme start="20260824141300 +0000" stop="20260824150300 +0000" channel="DCTV.virginmediatv">
+    <title>Beyond the Classroom - The Learners</title>
+</programme>
+<programme start="20260824150300 +0000" stop="20260824160300 +0000" channel="DCTV.virginmediatv">
     <title>To Be Announced</title>
 </programme>
-<programme start="20260824170000 +0000" stop="20260824210000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260824160300 +0000" stop="20260824161400 +0000" channel="DCTV.virginmediatv">
+    <title>ABC of ISL - Episode 9</title>
+</programme>
+<programme start="20260824161400 +0000" stop="20260824164400 +0000" channel="DCTV.virginmediatv">
     <title>To Be Announced</title>
+</programme>
+<programme start="20260824164400 +0000" stop="20260824165900 +0000" channel="DCTV.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260824165900 +0000" stop="20260824170000 +0000" channel="DCTV.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260824170000 +0000" stop="20260824175900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260824175900 +0000" stop="20260824185900 +0000" channel="DCTV.virginmediatv">
+    <title>DCTV - Supporting Irish Music</title>
 </programme>
 <programme start="20260823210000 +0000" stop="20260824010000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
