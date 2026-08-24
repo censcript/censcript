@@ -1,7 +1,3 @@
-<programme start="20260824210000 +0700" stop="20260824230000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Fenerbahce SK - Olympique Lyonnais</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260824230000 +0700" stop="20260825010000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: OFI - PFC CSKA Sofia</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,10 @@
     <title>Football: AS Roma - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260825231500 +0700" stop="20260826011500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Gil Vicente - Casa Pia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260824213000 +0700" stop="20260824233000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Lincoln City - Portsmouth</title>
     <desc>Live: Tidak</desc>
@@ -180,10 +180,6 @@
 </programme>
 <programme start="20260825220000 +0700" stop="20260826000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: West Ham United FC - Charlton Athletic </title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260824203000 +0700" stop="20260824223000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Barcelona - Tenerife</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260824223000 +0700" stop="20260825005000 +0700" channel="COSMOTE Sport 4 HD">
@@ -246,9 +242,9 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260824213000 +0700" stop="20260824230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260825234500 +0700" stop="20260826015000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Football: Sabah FC - Hapoel Beer-Sheva (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260824230000 +0700" stop="20260825003000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2026</title>
