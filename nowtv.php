@@ -1,6 +1,3 @@
-<programme start="20260824210000 +0000" stop="20260824220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260824220000 +0000" stop="20260824230000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -58,9 +55,6 @@
 <programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260824200000 +0000" stop="20260824220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260824220000 +0000" stop="20260825000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -89,9 +83,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260825160000 +0000" stop="20260825180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260824200000 +0000" stop="20260824220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260824220000 +0000" stop="20260825000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -123,12 +114,6 @@
 </programme>
 <programme start="20260825160000 +0000" stop="20260825180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260824213000 +0000" stop="20260824220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -COVENTRY RISING</title>
-</programme>
-<programme start="20260824220000 +0000" stop="20260824223000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -THE IPSWICH WAY</title>
 </programme>
 <programme start="20260824223000 +0000" stop="20260824230000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Stories 26/27 -THE TIGERS RETURN</title>

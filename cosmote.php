@@ -58,9 +58,9 @@
     <title>UEFA Champions League Show 2026-27 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260825021500 +0700" stop="20260825041500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Gil Vicente - Casa Pia (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260826053000 +0700" stop="20260826060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Ultimate Rush S6 E4</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825041500 +0700" stop="20260825061500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - SSC Napoli</title>
@@ -126,10 +126,6 @@
     <title>Football: FK Bodo/Glimt - Nijmegen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825034500 +0700" stop="20260825040500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260825040500 +0700" stop="20260825081000 +0700" channel="COSMOTE Sport 3 HD">
     <title>American Football: New England Patriots - Seattle Seahawks</title>
     <desc>Live: Tidak</desc>
@@ -192,10 +188,6 @@
 </programme>
 <programme start="20260826040500 +0700" stop="20260826061000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: LASK - Celtic FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825025000 +0700" stop="20260825044000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Dallas Wings - Seattle Storm</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825044000 +0700" stop="20260825051000 +0700" channel="COSMOTE Sport 4 HD">
@@ -264,10 +256,6 @@
 </programme>
 <programme start="20260826040500 +0700" stop="20260826060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Badalona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825030000 +0700" stop="20260825040500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825040500 +0700" stop="20260825053500 +0700" channel="COSMOTE Sport 5 HD">
@@ -382,6 +370,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260826050000 +0700" stop="20260826060000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260825030000 +0700" stop="20260825053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Sebastian Gorzny - Cruz Hewitt (L)</title>
     <desc>Live: Ya</desc>
@@ -446,12 +438,8 @@
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260825023000 +0700" stop="20260825043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Malaga - Deportivo La Coruna (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260825043000 +0700" stop="20260825050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260826053000 +0700" stop="20260826060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2026 Sports Rundown E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825050000 +0700" stop="20260825060000 +0700" channel="COSMOTE Sport 7 HD">
