@@ -62,10 +62,6 @@
     <title>Football: Hapoel Beer-Sheva - Sabah FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260824150000 +0700" stop="20260824170000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260824170000 +0700" stop="20260824190000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Porto - Arouca</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,10 @@
     <title>Football: Parma - Cagliari</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260825170000 +0700" stop="20260825190000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Estoril - Rio Ave</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260824153000 +0700" stop="20260824173000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee United - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -178,8 +178,8 @@
     <title>Football: Rangers FC - St. Mirren</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260824143000 +0700" stop="20260824163000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Badalona - AEK</title>
+<programme start="20260825174000 +0700" stop="20260825194000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Sheffield Wednesday - Bradford City A.F.C.</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260824163000 +0700" stop="20260824184000 +0700" channel="COSMOTE Sport 4 HD">
@@ -236,14 +236,6 @@
 </programme>
 <programme start="20260825162000 +0700" stop="20260825182000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Tenerife</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260824152000 +0700" stop="20260824161000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Harley-Davidson Bagger World Cup 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260824161000 +0700" stop="20260824163000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260824163000 +0700" stop="20260824173000 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +342,16 @@
     <title>WRC Magazine 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260824143000 +0700" stop="20260824170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Arthur Fils - Frances Tiafoe</title>
+<programme start="20260825170000 +0700" stop="20260825173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260825173000 +0700" stop="20260825174000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260825174000 +0700" stop="20260825185500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260824170000 +0700" stop="20260824181500 +0700" channel="COSMOTE Sport 6 HD">

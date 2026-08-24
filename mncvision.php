@@ -6590,7 +6590,7 @@
     <title>Natural Grandeur Of The East</title>
 </programme>
 <programme start="20260824020500 +0000" stop="20260824023200 +0000" channel="NHK World Premium.mncvision">
-    <title>Across The Sea: Fusuma Paintings</title>
+    <title>Across Sea: Fusuma Paintings</title>
 </programme>
 <programme start="20260824023200 +0000" stop="20260824024700 +0000" channel="NHK World Premium.mncvision">
     <title>Ramen Japan</title>
