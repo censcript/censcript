@@ -3064,25 +3064,25 @@
   <programme start="20260827214000 +0000" stop="20260827220500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Mořský pták</title>
   </programme>
-  <programme start="20260826200000 +0000" stop="20260826222500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260826200400 +0000" stop="20260826222500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Pouta</title>
   </programme>
   <programme start="20260826222500 +0000" stop="20260826232500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová X (1)</title>
   </programme>
-  <programme start="20260826232500 +0000" stop="20260826235000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260826232500 +0000" stop="20260826235100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20260826235000 +0000" stop="20260827001500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260826235100 +0000" stop="20260827001900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
-  <programme start="20260827001500 +0000" stop="20260827025000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827001900 +0000" stop="20260827025000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20260827025000 +0000" stop="20260827031500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827025000 +0000" stop="20260827032000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Jarošov nad Nežárkou</title>
   </programme>
-  <programme start="20260827031500 +0000" stop="20260827033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827032000 +0000" stop="20260827033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Etiketa</title>
   </programme>
   <programme start="20260827033000 +0000" stop="20260827040000 +0000" channel="ČT1.webtv.sk">
@@ -3106,10 +3106,10 @@
   <programme start="20260827085000 +0000" stop="20260827092000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Novoměstsko</title>
   </programme>
-  <programme start="20260827092000 +0000" stop="20260827093000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827092000 +0000" stop="20260827093100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Obrázek</title>
   </programme>
-  <programme start="20260827093000 +0000" stop="20260827100000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827093100 +0000" stop="20260827100000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
   <programme start="20260827100000 +0000" stop="20260827102000 +0000" channel="ČT1.webtv.sk">
@@ -3118,10 +3118,10 @@
   <programme start="20260827102000 +0000" stop="20260827103000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Předpověď počasí, sportovní zprávy</title>
   </programme>
-  <programme start="20260827103000 +0000" stop="20260827112000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827103000 +0000" stop="20260827112100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Záchranáři (6/6)</title>
   </programme>
-  <programme start="20260827112000 +0000" stop="20260827122000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827112100 +0000" stop="20260827122000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bylo nás šest (4/6)</title>
   </programme>
   <programme start="20260827122000 +0000" stop="20260827131500 +0000" channel="ČT1.webtv.sk">
@@ -3130,10 +3130,10 @@
   <programme start="20260827131500 +0000" stop="20260827141000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komici na jedničku</title>
   </programme>
-  <programme start="20260827141000 +0000" stop="20260827150000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827141000 +0000" stop="20260827150100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zavolejte porodní sestřičky XIV: Vánoční speciál XIV (1/2)</title>
   </programme>
-  <programme start="20260827150000 +0000" stop="20260827153000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827150100 +0000" stop="20260827153000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na cestě po Jižní Dobrudže</title>
   </programme>
   <programme start="20260827153000 +0000" stop="20260827160000 +0000" channel="ČT1.webtv.sk">
@@ -3157,13 +3157,13 @@
   <programme start="20260827181000 +0000" stop="20260827195000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Báječná léta pod psa</title>
   </programme>
-  <programme start="20260827195000 +0000" stop="20260827210400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827195000 +0000" stop="20260827210500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nejlepší trapasy</title>
   </programme>
-  <programme start="20260827210400 +0000" stop="20260827210500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827210500 +0000" stop="20260827210800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
-  <programme start="20260827210500 +0000" stop="20260827230000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260827210800 +0000" stop="20260827230400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všichni dobří rodáci</title>
   </programme>
   <programme start="20260826215000 +0000" stop="20260826224000 +0000" channel="ČT2.webtv.sk">
