@@ -2234,19 +2234,19 @@
     <title>Meet the Beauty Experts</title>
 </programme>
 <programme start="20260825120000 +0000" stop="20260825130000 +0000" channel="QVC.virginmediatv">
-    <title>Meet the Beauty Experts</title>
-</programme>
-<programme start="20260825130000 +0000" stop="20260825140000 +0000" channel="QVC.virginmediatv">
-    <title>Denim &amp; Co</title>
-</programme>
-<programme start="20260825140000 +0000" stop="20260825150000 +0000" channel="QVC.virginmediatv">
     <title>1PM with STYLPRO</title>
 </programme>
+<programme start="20260825130000 +0000" stop="20260825140000 +0000" channel="QVC.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260825140000 +0000" stop="20260825150000 +0000" channel="QVC.virginmediatv">
+    <title>Meet the Beauty Experts</title>
+</programme>
 <programme start="20260825150000 +0000" stop="20260825160000 +0000" channel="QVC.virginmediatv">
-    <title>The Jewellery Box</title>
+    <title>Accessories by Kipling</title>
 </programme>
 <programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="QVC.virginmediatv">
-    <title>Kipling: Exclusive to QVC</title>
+    <title>L&#039;Occitane: Beauty en Provence</title>
 </programme>
 <programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="QVC.virginmediatv">
     <title>STYLPRO</title>
