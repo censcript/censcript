@@ -1,6 +1,3 @@
-<programme start="20260825100000 +0000" stop="20260825110000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260825110000 +0000" stop="20260825120000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -42,9 +39,6 @@
 </programme>
 <programme start="20260825160000 +0000" stop="20260825180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260825103000 +0000" stop="20260825110000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -COVENTRY RISING</title>
 </programme>
 <programme start="20260825110000 +0000" stop="20260825130000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Nottingham Forest vs Leeds United</title>

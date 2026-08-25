@@ -644,7 +644,7 @@
     <title>999: On the Front Line - Episode 9</title>
 </programme>
 <programme start="20260825001500 +0000" stop="20260825011500 +0000" channel="More4.virginmediatv">
-    <title>To Be Announced</title>
+    <title>24 Hours in A&amp;E - Forever Young</title>
 </programme>
 <programme start="20260825011500 +0000" stop="20260825022000 +0000" channel="More4.virginmediatv">
     <title>24 Hours in A&amp;E - Love Thy Neighbour</title>
@@ -4349,7 +4349,7 @@
     <title>Live: Racing</title>
 </programme>
 <programme start="20260824232500 +0000" stop="20260825013000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League 2 - Manchester United U21 vs. Ipswich Town U21</title>
+    <title>Premier League 2 - Manchester United U21 v Ipswich Town U21</title>
 </programme>
 <programme start="20260825013000 +0000" stop="20260825020000 +0000" channel="MUTV.virginmediatv">
     <title>Match Day Review - Premier League: Hull City v Manchester United</title>
@@ -5564,7 +5564,7 @@
     <title>999: On the Front Line - Episode 9</title>
 </programme>
 <programme start="20260825011500 +0000" stop="20260825021500 +0000" channel="More4+1.virginmediatv">
-    <title>To Be Announced</title>
+    <title>24 Hours in A&amp;E - Forever Young</title>
 </programme>
 <programme start="20260825021500 +0000" stop="20260825032000 +0000" channel="More4+1.virginmediatv">
     <title>24 Hours in A&amp;E - Love Thy Neighbour</title>
@@ -7085,7 +7085,7 @@
     <title>999: On the Front Line - Episode 9</title>
 </programme>
 <programme start="20260825001500 +0000" stop="20260825011500 +0000" channel="More4_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>24 Hours in A&amp;E - Forever Young</title>
 </programme>
 <programme start="20260825011500 +0000" stop="20260825022000 +0000" channel="More4_HD.virginmediatv">
     <title>24 Hours in A&amp;E - Love Thy Neighbour</title>
