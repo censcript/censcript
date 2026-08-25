@@ -86,10 +86,10 @@
     <title lang="id">Počasie</title>
   </programme>
   <programme start="20260827183000 +0000" stop="20260827200000 +0000" channel="Jednotka.webtv.sk">
-    <title lang="id">Ordinácia v Eifeli I (12)</title>
+    <title lang="id">Ordinácia v Eifeli I (13)</title>
   </programme>
   <programme start="20260827200000 +0000" stop="20260827215000 +0000" channel="Jednotka.webtv.sk">
-    <title lang="id">Komisár Montalbano XI (2)</title>
+    <title lang="id">Komisár Montalbano XII (1)</title>
   </programme>
   <programme start="20260827215000 +0000" stop="20260827215500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Hymna SR</title>
@@ -185,7 +185,7 @@
     <title lang="id">Karimina skúška</title>
   </programme>
   <programme start="20260827110000 +0000" stop="20260827121000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Ronja, dcéra lúpežníka (1/2)</title>
+    <title lang="id">Ronja, dcéra lúpežníka I (1/2)</title>
   </programme>
   <programme start="20260827121000 +0000" stop="20260827130000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Múú! Impozantné rohy (3/4)</title>
@@ -2719,14 +2719,8 @@
   <programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260827000000 +0000" stop="20260827060000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260827000000 +0000" stop="20260827040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
-  </programme>
-  <programme start="20260827060000 +0000" stop="20260827103000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
-  </programme>
-  <programme start="20260827123000 +0000" stop="20260827200000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
   </programme>
   <programme start="20260826220000 +0000" stop="20260826222500 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Kuchyni</title>

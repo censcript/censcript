@@ -12525,101 +12525,193 @@
   <channel id="aljazeera.unifitv">
     <display-name>Al Jazeera</display-name>
   </channel>
-  <programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824170300 +0000" stop="20260824173300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260824170000 +0000" stop="20260824180000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824173300 +0000" stop="20260824180300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1418.</episode-num>
+    <episode-num system="onscreen">S1E1419</episode-num>
   </programme>
-  <programme start="20260824180000 +0000" stop="20260824190000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824180300 +0000" stop="20260824190300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260824190000 +0000" stop="20260824200000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824190300 +0000" stop="20260824193300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260824200000 +0000" stop="20260824210000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824193300 +0000" stop="20260824200300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Boycott</title>
+    <desc lang="en">In the final part of this series exploring recent US anti-boycott laws, the three cases opposing them reach a verdict but this may not be the end of the story.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260824210000 +0000" stop="20260824220000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824200300 +0000" stop="20260824203300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260824220000 +0000" stop="20260824230000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824203300 +0000" stop="20260824210300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Witness</title>
+    <desc lang="en">A Palestinian game developer in the West Bank balances fatherhood with creating games about parenting amid violence and war.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260824230000 +0000" stop="20260825000000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824210300 +0000" stop="20260824220300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825000000 +0000" stop="20260825010000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824220300 +0000" stop="20260824230300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825010000 +0000" stop="20260825020000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824230300 +0000" stop="20260824233300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825020000 +0000" stop="20260825030000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260824233300 +0000" stop="20260825000300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1418.</episode-num>
+    <episode-num system="onscreen">S1E1419</episode-num>
   </programme>
-  <programme start="20260825030000 +0000" stop="20260825040000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825000300 +0000" stop="20260825010300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825040000 +0000" stop="20260825050000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825010300 +0000" stop="20260825013300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825050000 +0000" stop="20260825060000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825013300 +0000" stop="20260825020300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Studio B: Unscripted</title>
+    <desc lang="en">Photojournalist Shahidul Alam and anti-corruption campaigner Andrew Feinstein on their journeys into activism and the ongoing crisis in Gaza.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825060000 +0000" stop="20260825070000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825020300 +0000" stop="20260825030300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825070000 +0000" stop="20260825080000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825030300 +0000" stop="20260825033300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825080000 +0000" stop="20260825090000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825033300 +0000" stop="20260825040300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">A Changing World?</title>
+    <desc lang="en">Senior Colonel Zhou Bo joins Sreenivasan Jain to examine China's claim to offer a fairer, multipolar world - and whether its actions match its vision.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825090000 +0000" stop="20260825100000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825040300 +0000" stop="20260825043300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825100000 +0000" stop="20260825110000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825043300 +0000" stop="20260825050300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">All Hail The Militar</title>
+    <desc lang="en">International law is powerful, but politics often shapes enforcement. Ali Rae highlights how this can limit justice in cases of genocide.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825110000 +0000" stop="20260825120000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825050300 +0000" stop="20260825053300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825120000 +0000" stop="20260825130000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825053300 +0000" stop="20260825060300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1418.</episode-num>
+    <episode-num system="onscreen">S1E1419</episode-num>
   </programme>
-  <programme start="20260825130000 +0000" stop="20260825140000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825060300 +0000" stop="20260825063300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825140000 +0000" stop="20260825150000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825063300 +0000" stop="20260825070300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Boycott</title>
+    <desc lang="en">In the final part of this series exploring recent US anti-boycott laws, the three cases opposing them reach a verdict but this may not be the end of the story.</desc>
+    <category lang="en">News</category>
   </programme>
-  <programme start="20260825150000 +0000" stop="20260825160000 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera</title>
-    <desc lang="en">Al Jazeera English HD delivers fearless, award-winning journalism with authentic global stories, giving voice to people everywhere without bias.</desc>
+  <programme start="20260825070300 +0000" stop="20260825080300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825080300 +0000" stop="20260825083300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825083300 +0000" stop="20260825090300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Witness</title>
+    <desc lang="en">A Palestinian game developer in the West Bank balances fatherhood with creating games about parenting amid violence and war.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825090300 +0000" stop="20260825093300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825093300 +0000" stop="20260825100300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Talk to Al Jazeera</title>
+    <desc lang="en">Nigerian Minister of State for Gas says the war in Iran has pushed Nigeria to expand its gas production.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825100300 +0000" stop="20260825110300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825110300 +0000" stop="20260825113300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825113300 +0000" stop="20260825120300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.1418.</episode-num>
+    <episode-num system="onscreen">S1E1419</episode-num>
+  </programme>
+  <programme start="20260825120300 +0000" stop="20260825130300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825130300 +0000" stop="20260825140300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825140300 +0000" stop="20260825143300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825143300 +0000" stop="20260825150300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Boycott</title>
+    <desc lang="en">In the final part of this series exploring recent US anti-boycott laws, the three cases opposing them reach a verdict but this may not be the end of the story.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260825150300 +0000" stop="20260825160300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
   </programme>
   <channel id="cgtnhd.unifitv">
     <display-name>CGTN</display-name>
