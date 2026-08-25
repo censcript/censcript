@@ -62,10 +62,6 @@
     <title>Football: FK Bodo/Glimt - Nijmegen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825150000 +0700" stop="20260825170000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260825170000 +0700" stop="20260825190000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Estoril - Rio Ave</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20260826150000 +0700" stop="20260826170000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Venezia - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260826170000 +0700" stop="20260826190000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sporting CP - Alverca</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825154000 +0700" stop="20260825174000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,10 +190,6 @@
     <title>Football: West Ham United FC - Charlton Athletic </title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825142000 +0700" stop="20260825162000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Galatasaray - Tenerife</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260825162000 +0700" stop="20260825182000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Barcelona - Tenerife</title>
     <desc>Live: Tidak</desc>
@@ -256,14 +252,6 @@
 </programme>
 <programme start="20260826162500 +0700" stop="20260826182000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Badalona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825152500 +0700" stop="20260825163000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 FIM Moto Junior GP</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825163000 +0700" stop="20260825170000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825170000 +0700" stop="20260825173000 +0700" channel="COSMOTE Sport 5 HD">
@@ -375,6 +363,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826165500 +0700" stop="20260826174000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260826174000 +0700" stop="20260826182000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

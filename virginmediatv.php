@@ -136,10 +136,10 @@
 <programme start="20260825000000 +0000" stop="20260825004500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>The Real Housewives of New York City - War and P.O.S.</title>
 </programme>
-<programme start="20260825004500 +0000" stop="20260825012900 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260825004500 +0000" stop="20260825015200 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Born to Kill? - The Black Panther Murders</title>
 </programme>
-<programme start="20260825012900 +0000" stop="20260825055000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260825015200 +0000" stop="20260825055000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260825055000 +0000" stop="20260825065000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -644,7 +644,7 @@
     <title>999: On the Front Line - Episode 9</title>
 </programme>
 <programme start="20260825001500 +0000" stop="20260825011500 +0000" channel="More4.virginmediatv">
-    <title>24 Hours in A&amp;E</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260825011500 +0000" stop="20260825022000 +0000" channel="More4.virginmediatv">
     <title>24 Hours in A&amp;E - Love Thy Neighbour</title>
@@ -5564,7 +5564,7 @@
     <title>999: On the Front Line - Episode 9</title>
 </programme>
 <programme start="20260825011500 +0000" stop="20260825021500 +0000" channel="More4+1.virginmediatv">
-    <title>24 Hours in A&amp;E</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260825021500 +0000" stop="20260825032000 +0000" channel="More4+1.virginmediatv">
     <title>24 Hours in A&amp;E - Love Thy Neighbour</title>
@@ -7085,7 +7085,7 @@
     <title>999: On the Front Line - Episode 9</title>
 </programme>
 <programme start="20260825001500 +0000" stop="20260825011500 +0000" channel="More4_HD.virginmediatv">
-    <title>24 Hours in A&amp;E</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260825011500 +0000" stop="20260825022000 +0000" channel="More4_HD.virginmediatv">
     <title>24 Hours in A&amp;E - Love Thy Neighbour</title>
