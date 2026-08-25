@@ -4394,7 +4394,7 @@
     <title>Premier League Highlights - Hull City v Manchester United</title>
 </programme>
 <programme start="20260825163000 +0000" stop="20260825165000 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Player Spotlight - Media Day: Behind The Scenes</title>
 </programme>
 <programme start="20260825165000 +0000" stop="20260825185500 +0000" channel="MUTV.virginmediatv">
     <title>Premier League 2 - Manchester United U21 v Ipswich Town U21</title>
@@ -4525,10 +4525,10 @@
 <programme start="20260825113000 +0000" stop="20260825123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Vuelta a España - Stage 3</title>
 </programme>
-<programme start="20260825123000 +0000" stop="20260825160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260825123000 +0000" stop="20260825162000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 4</title>
 </programme>
-<programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260825162000 +0000" stop="20260825170000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5209,10 +5209,10 @@
 <programme start="20260825113000 +0000" stop="20260825123000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Vuelta a España - Stage 3</title>
 </programme>
-<programme start="20260825123000 +0000" stop="20260825160000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260825123000 +0000" stop="20260825162000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Vuelta a España - Stage 4</title>
 </programme>
-<programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260825162000 +0000" stop="20260825170000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="TNT_Sports_3.virginmediatv">
