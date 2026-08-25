@@ -658,9 +658,6 @@
 <programme start="20260826114500 +0000" stop="20260826121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260824230000 +0000" stop="20260825023000 +0000" channel="ANTV.vision">
-<title>Jab We Met</title>
-</programme>
 <programme start="20260825023000 +0000" stop="20260825060000 +0000" channel="ANTV.vision">
 <title>Chori Chori Chupke Chupke</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260826103000 +0000" stop="20260826120000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260825000000 +0000" stop="20260825010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
