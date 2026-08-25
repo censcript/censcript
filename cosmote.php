@@ -1,7 +1,3 @@
-<programme start="20260826020000 +0700" stop="20260826040500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League 2026-27 Minute By Minute (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260826040500 +0700" stop="20260826053000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2026-27 (L)</title>
     <desc>Live: Ya</desc>
@@ -62,9 +58,9 @@
     <title>UEFA Champions League Show 2026-27 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260826020000 +0700" stop="20260826040500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: FK Bodo/Glimt - Nijmegen (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260827053000 +0700" stop="20260827060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2026-27</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826040500 +0700" stop="20260826061000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FK Bodo/Glimt - Nijmegen</title>
@@ -129,10 +125,6 @@
 <programme start="20260827040500 +0700" stop="20260827061000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Levski Sofia</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260826020000 +0700" stop="20260826040500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: LASK - Celtic FC (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260826040500 +0700" stop="20260826061000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: LASK - Celtic FC</title>
@@ -206,10 +198,6 @@
     <title>Football: Olympique Lyonnais - Fenerbahce SK</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260826024500 +0700" stop="20260826040500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260826040500 +0700" stop="20260826060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Badalona</title>
     <desc>Live: Tidak</desc>
@@ -270,8 +258,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260826040000 +0700" stop="20260826050000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260827053500 +0700" stop="20260827080000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Anadolu Efes - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826050000 +0700" stop="20260826060000 +0700" channel="COSMOTE Sport 5 HD">
@@ -378,6 +366,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260827055000 +0700" stop="20260827075000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260826030000 +0700" stop="20260826053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Arthur Ferry - Cruz Hewitt (L)</title>
     <desc>Live: Ya</desc>
@@ -446,8 +438,8 @@
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260826040000 +0700" stop="20260826043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260827053000 +0700" stop="20260827060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826043000 +0700" stop="20260826060000 +0700" channel="COSMOTE Sport 7 HD">

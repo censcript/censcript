@@ -676,16 +676,16 @@
   <programme start="20260827212500 +0000" stop="20260827220000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Tomáš a Diana (14)</title>
   </programme>
-  <programme start="20260826210000 +0000" stop="20260826225000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260826210000 +0000" stop="20260826224500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Utajený šéf III (4)</title>
   </programme>
-  <programme start="20260826225000 +0000" stop="20260827005000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260826224500 +0000" stop="20260827004000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XIX (1)</title>
   </programme>
-  <programme start="20260827005000 +0000" stop="20260827013500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260827004000 +0000" stop="20260827013000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XIX (2)</title>
   </programme>
-  <programme start="20260827013500 +0000" stop="20260827024000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260827013000 +0000" stop="20260827024000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
   <programme start="20260827024000 +0000" stop="20260827040000 +0000" channel="Markíza +1.webtv.sk">
@@ -754,10 +754,10 @@
   <programme start="20260827193000 +0000" stop="20260827205000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Buldok z Poděbrad (8)</title>
   </programme>
-  <programme start="20260827205000 +0000" stop="20260827215500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260827205000 +0000" stop="20260827215000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Sex O’Clock II (8)</title>
   </programme>
-  <programme start="20260827215500 +0000" stop="20260827225500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260827215000 +0000" stop="20260827225500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Sex O’Clock II (9)</title>
   </programme>
   <programme start="20260826213000 +0000" stop="20260826222500 +0000" channel="Markíza Klasik.webtv.sk">
