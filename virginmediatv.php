@@ -4364,16 +4364,16 @@
     <title>Premier League - Hull City v Manchester United</title>
 </programme>
 <programme start="20260825050000 +0000" stop="20260825053000 +0000" channel="MUTV.virginmediatv">
-    <title>The Match Highlights - Women&#039;s Pre-Season Friendly: Manchester United v Liverpool</title>
+    <title>Premier League 2 - Manchester United U21 v Ipswich Town U21</title>
 </programme>
 <programme start="20260825053000 +0000" stop="20260825060000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Pre-Season Friendly: Rosenborg v Manchester United</title>
 </programme>
-<programme start="20260825110000 +0000" stop="20260825130000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League - Hull City v Manchester United</title>
+<programme start="20260825105500 +0000" stop="20260825130000 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260825130000 +0000" stop="20260825133000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington Podcast - Scholars Celebration</title>
+    <title>Premier League 2 - Manchester United U21 v Ipswich Town U21</title>
 </programme>
 <programme start="20260825133000 +0000" stop="20260825140000 +0000" channel="MUTV.virginmediatv">
     <title>The Match Highlights - Pre-Season Friendly: Rosenborg v Manchester United</title>
@@ -4393,11 +4393,11 @@
 <programme start="20260825160000 +0000" stop="20260825163000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Hull City v Manchester United</title>
 </programme>
-<programme start="20260825163000 +0000" stop="20260825170000 +0000" channel="MUTV.virginmediatv">
-    <title>25 Memorable Old Trafford Moments</title>
+<programme start="20260825163000 +0000" stop="20260825165000 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Ole Gunnar Solskjaer</title>
+<programme start="20260825165000 +0000" stop="20260825185500 +0000" channel="MUTV.virginmediatv">
+    <title>Premier League 2 - Manchester United U21 v Ipswich Town U21</title>
 </programme>
 <programme start="20260824215500 +0000" stop="20260825024500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>IndyCar Series Racing - Freedom 250 Grand Prix of Washington, D.C.: Race</title>

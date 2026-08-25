@@ -1,7 +1,3 @@
-<programme start="20260825220000 +0700" stop="20260825223000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2026-27</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260825223000 +0700" stop="20260826003000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Celtic FC - LASK</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,10 @@
     <title>Football: Frosinone - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260826231500 +0700" stop="20260827011500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Gil Vicente - Casa Pia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260825220000 +0700" stop="20260826000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: West Ham United FC - Charlton Athletic </title>
     <desc>Live: Tidak</desc>
@@ -202,14 +202,6 @@
     <title>Football: Dundee United - Dundee</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825203000 +0700" stop="20260825222500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Valencia Basket Club - Badalona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825222500 +0700" stop="20260825224000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260825224000 +0700" stop="20260825234500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -268,10 +260,6 @@
 </programme>
 <programme start="20260826222000 +0700" stop="20260827004000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825215500 +0700" stop="20260825225500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825225500 +0700" stop="20260826000000 +0700" channel="COSMOTE Sport 5 HD">
@@ -386,8 +374,8 @@
     <title>DTM 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825203000 +0700" stop="20260825224500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Sebastian Gorzny - Cruz Hewitt</title>
+<programme start="20260826234000 +0700" stop="20260827001000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Kumho TCR World Tour 2026 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825224500 +0700" stop="20260826010000 +0700" channel="COSMOTE Sport 6 HD">
