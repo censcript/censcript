@@ -658,9 +658,6 @@
 <programme start="20260826114500 +0000" stop="20260826121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260825023000 +0000" stop="20260825060000 +0000" channel="ANTV.vision">
-<title>Chori Chori Chupke Chupke</title>
-</programme>
 <programme start="20260825060000 +0000" stop="20260825073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260825000000 +0000" stop="20260825010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825010000 +0000" stop="20260825020000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

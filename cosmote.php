@@ -62,10 +62,6 @@
     <title>Football: OFI - PFC CSKA Sofia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825110000 +0700" stop="20260825130000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Gil Vicente - Casa Pia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260825130000 +0700" stop="20260825150000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - SS Lazio</title>
     <desc>Live: Tidak</desc>
@@ -124,6 +120,10 @@
 </programme>
 <programme start="20260826110000 +0700" stop="20260826130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Estoril - Rio Ave</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260826130000 +0700" stop="20260826150000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825101000 +0700" stop="20260825132000 +0700" channel="COSMOTE Sport 3 HD">
@@ -258,10 +258,6 @@
     <title>Basketball: Bahcesehir - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825110500 +0700" stop="20260825121000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260825121000 +0700" stop="20260825134000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -370,6 +366,14 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260826130000 +0700" stop="20260826133000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260826133000 +0700" stop="20260826140000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260825120000 +0700" stop="20260825140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>2026 Premier Padel Tour</title>
     <desc>Live: Tidak</desc>
@@ -428,6 +432,10 @@
 </programme>
 <programme start="20260826113000 +0700" stop="20260826133500 +0700" channel="COSMOTE Sport 6 HD">
     <title>2026 Premier Padel Tour</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260826133500 +0700" stop="20260826140500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2026 Sports Rundown E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825120000 +0700" stop="20260825140000 +0700" channel="COSMOTE Sport 7 HD">
