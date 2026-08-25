@@ -126,6 +126,10 @@
     <title>Football: FC Internazionale Milano - Monza</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260826211500 +0700" stop="20260826231500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Frosinone - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260825194000 +0700" stop="20260825214000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Dundee United - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -198,8 +202,12 @@
     <title>Sports Classics: Ultimate Rush S6 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825182000 +0700" stop="20260825203000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Dallas Wings - Seattle Storm</title>
+<programme start="20260826211500 +0700" stop="20260826214500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Ultimate Rush S6 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260826214500 +0700" stop="20260826221500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Ultimate Rush S6 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825203000 +0700" stop="20260825222500 +0700" channel="COSMOTE Sport 4 HD">
@@ -264,10 +272,6 @@
 </programme>
 <programme start="20260826202000 +0700" stop="20260826222000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tenerife - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825185500 +0700" stop="20260825201500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825201500 +0700" stop="20260825215500 +0700" channel="COSMOTE Sport 5 HD">
@@ -384,14 +388,6 @@
 </programme>
 <programme start="20260826204000 +0700" stop="20260826221000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825180000 +0700" stop="20260825201000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260825201000 +0700" stop="20260825203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2026 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825203000 +0700" stop="20260825224500 +0700" channel="COSMOTE Sport 6 HD">
