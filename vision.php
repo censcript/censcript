@@ -658,9 +658,6 @@
 <programme start="20260826114500 +0000" stop="20260826121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260825023000 +0000" stop="20260825060000 +0000" channel="ANTV.vision">
-<title>Chori Chori Chupke Chupke</title>
-</programme>
 <programme start="20260825060000 +0000" stop="20260825073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -669,18 +666,6 @@
 </programme>
 <programme start="20260825093000 +0000" stop="20260825113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20260825113000 +0000" stop="20260825140000 +0000" channel="ANTV.vision">
-<title>Berkelana 2</title>
-</programme>
-<programme start="20260825140000 +0000" stop="20260825160000 +0000" channel="ANTV.vision">
-<title>Di Ambang Kematian</title>
-</programme>
-<programme start="20260825160000 +0000" stop="20260825180000 +0000" channel="ANTV.vision">
-<title>Malin Kundang</title>
-</programme>
-<programme start="20260825180000 +0000" stop="20260825190000 +0000" channel="ANTV.vision">
-<title>Dreadnaught</title>
 </programme>
 <programme start="20260825190000 +0000" stop="20260825203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
@@ -813,9 +798,6 @@
 </programme>
 <programme start="20260825040000 +0000" stop="20260825053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20260825053000 +0000" stop="20260825070000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku Spesial</title>
 </programme>
 <programme start="20260825070000 +0000" stop="20260825080000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Siang</title>
@@ -1496,5 +1478,23 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260825000000 +0000" stop="20260825010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825010000 +0000" stop="20260825020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825020000 +0000" stop="20260825020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825020300 +0000" stop="20260825023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825023000 +0000" stop="20260825030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825030000 +0000" stop="20260825030300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260825030300 +0000" stop="20260825033000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -3166,43 +3166,43 @@
   <programme start="20260827210800 +0000" stop="20260827230400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všichni dobří rodáci</title>
   </programme>
-  <programme start="20260826215000 +0000" stop="20260826224000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260826215000 +0000" stop="20260826224400 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hitlerovi mladí zabijáci</title>
   </programme>
-  <programme start="20260826224000 +0000" stop="20260826233500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260826224400 +0000" stop="20260826233600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Nejsem zlý člověk</title>
   </programme>
-  <programme start="20260826233500 +0000" stop="20260827000000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260826233600 +0000" stop="20260827000300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
-  <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827000300 +0000" stop="20260827003000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Francouz na dědině</title>
   </programme>
   <programme start="20260827003000 +0000" stop="20260827004000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Česko jedna báseň: Sylva Fischerová</title>
   </programme>
-  <programme start="20260827004000 +0000" stop="20260827013500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827004000 +0000" stop="20260827013800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zkraje</title>
   </programme>
-  <programme start="20260827013500 +0000" stop="20260827015500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827013800 +0000" stop="20260827015600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Šaštín</title>
   </programme>
-  <programme start="20260827015500 +0000" stop="20260827025000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827015600 +0000" stop="20260827025100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Historie.cs</title>
   </programme>
-  <programme start="20260827025000 +0000" stop="20260827034500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827025100 +0000" stop="20260827034700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Divoká Uruguay</title>
   </programme>
-  <programme start="20260827034500 +0000" stop="20260827035900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827034700 +0000" stop="20260827035900 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20260827035900 +0000" stop="20260827063000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20260827063000 +0000" stop="20260827065500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827063000 +0000" stop="20260827065700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na cestě po Kopanicích</title>
   </programme>
-  <programme start="20260827065500 +0000" stop="20260827085500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827065700 +0000" stop="20260827085500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Včera, dnes a zítra</title>
   </programme>
   <programme start="20260827085500 +0000" stop="20260827094500 +0000" channel="ČT2.webtv.sk">
@@ -3217,13 +3217,13 @@
   <programme start="20260827113500 +0000" stop="20260827121000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Plíživá kontrarevoluce v Semilech 1968</title>
   </programme>
-  <programme start="20260827121000 +0000" stop="20260827122000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827121000 +0000" stop="20260827122200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Jak cestoval Franz Kafka</title>
   </programme>
-  <programme start="20260827122000 +0000" stop="20260827131500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827122200 +0000" stop="20260827131600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Síla, krása, zdraví: Kult těla a dějiny fitness</title>
   </programme>
-  <programme start="20260827131500 +0000" stop="20260827140500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827131600 +0000" stop="20260827140500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Neznámá Alžběta II</title>
   </programme>
   <programme start="20260827140500 +0000" stop="20260827154000 +0000" channel="ČT2.webtv.sk">
@@ -3241,16 +3241,16 @@
   <programme start="20260827175000 +0000" stop="20260827180000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
-  <programme start="20260827180000 +0000" stop="20260827185500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827180000 +0000" stop="20260827185600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hunyadi - Vzestup Havrana (7/10)</title>
   </programme>
-  <programme start="20260827185500 +0000" stop="20260827200000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827185600 +0000" stop="20260827200000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hunyadi - Vzestup Havrana (8/10)</title>
   </programme>
   <programme start="20260827200000 +0000" stop="20260827212500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Jesse Stone: Ztracen v Paradise</title>
   </programme>
-  <programme start="20260827212500 +0000" stop="20260827222000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260827212500 +0000" stop="20260827222100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">S kuchařem kolem světa</title>
   </programme>
   <programme start="20260826220000 +0000" stop="20260826221000 +0000" channel="ČT24.webtv.sk">
