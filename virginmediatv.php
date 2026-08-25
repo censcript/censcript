@@ -2237,7 +2237,7 @@
     <title>1PM with STYLPRO</title>
 </programme>
 <programme start="20260825130000 +0000" stop="20260825140000 +0000" channel="QVC.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Seasalt Cornwall Fashion</title>
 </programme>
 <programme start="20260825140000 +0000" stop="20260825150000 +0000" channel="QVC.virginmediatv">
     <title>Meet the Beauty Experts</title>
@@ -4232,7 +4232,7 @@
     <title>Live: US Open 2026 - Mixed Doubles &amp; Qualifying: Day 2</title>
 </programme>
 <programme start="20260824150000 +0000" stop="20260825010000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Live: US Open 2026 - Qualifying: Day 1</title>
 </programme>
 <programme start="20260825010000 +0000" stop="20260825053000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis</title>
@@ -5066,7 +5066,7 @@
     <title>Live: US Open 2026 - Mixed Doubles &amp; Qualifying: Day 2</title>
 </programme>
 <programme start="20260824150000 +0000" stop="20260825010000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Live: US Open 2026 - Qualifying: Day 1</title>
 </programme>
 <programme start="20260825010000 +0000" stop="20260825053000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis</title>
