@@ -62,10 +62,6 @@
     <title>Football: LASK - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825090000 +0700" stop="20260825110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Cagliari</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260825110000 +0700" stop="20260825130000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Gil Vicente - Casa Pia</title>
     <desc>Live: Tidak</desc>
@@ -126,8 +122,8 @@
     <title>Football: Venezia - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260825081000 +0700" stop="20260825101000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Sheffield Wednesday - Bradford City A.F.C.</title>
+<programme start="20260826110000 +0700" stop="20260826130000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Estoril - Rio Ave</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825101000 +0700" stop="20260825132000 +0700" channel="COSMOTE Sport 3 HD">
@@ -370,6 +366,10 @@
     <title>DTM - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260826110000 +0700" stop="20260826120000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2026 FIA World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260825100000 +0700" stop="20260825111500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Beach Volley: Pro Tour Elite 16 2026</title>
     <desc>Live: Tidak</desc>
@@ -432,6 +432,14 @@
 </programme>
 <programme start="20260826105000 +0700" stop="20260826110000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260826110000 +0700" stop="20260826113000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260826113000 +0700" stop="20260826133500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>2026 Premier Padel Tour</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260825100000 +0700" stop="20260825120000 +0700" channel="COSMOTE Sport 7 HD">
