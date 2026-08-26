@@ -1,12 +1,3 @@
-<programme start="20260826160000 +0000" stop="20260826170000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260826170000 +0000" stop="20260826180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260826180000 +0000" stop="20260826190000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -73,9 +64,6 @@
 <programme start="20260827160000 +0000" stop="20260827170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -110,9 +98,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260827160000 +0000" stop="20260827180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -150,9 +135,6 @@
 </programme>
 <programme start="20260827160000 +0000" stop="20260827180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Brentford vs Tottenham Hotspur</title>
 </programme>
 <programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Ipswich Town vs Sunderland</title>

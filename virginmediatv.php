@@ -4447,10 +4447,10 @@
 <programme start="20260826050000 +0000" stop="20260826060000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Vuelta a España - Stage 4</title>
 </programme>
-<programme start="20260826113000 +0000" stop="20260826143000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260826113000 +0000" stop="20260826144500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: Wuhan Open - Round 4: Zhao Xintong v Barry Hawkins</title>
 </programme>
-<programme start="20260826143000 +0000" stop="20260826150000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260826144500 +0000" stop="20260826150000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>CPL T20 - Antigua &amp; Barbuda Falcons v Barbados Tridents</title>
 </programme>
 <programme start="20260826150000 +0000" stop="20260826163000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
@@ -5065,10 +5065,10 @@
 <programme start="20260826050000 +0000" stop="20260826060000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Vuelta a España - Stage 4</title>
 </programme>
-<programme start="20260826113000 +0000" stop="20260826143000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260826113000 +0000" stop="20260826144500 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Live: Wuhan Open - Round 4: Zhao Xintong v Barry Hawkins</title>
 </programme>
-<programme start="20260826143000 +0000" stop="20260826150000 +0000" channel="TNT_Sports_2.virginmediatv">
+<programme start="20260826144500 +0000" stop="20260826150000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>CPL T20 - Antigua &amp; Barbuda Falcons v Barbados Tridents</title>
 </programme>
 <programme start="20260826150000 +0000" stop="20260826163000 +0000" channel="TNT_Sports_2.virginmediatv">
@@ -6443,7 +6443,7 @@
     <title>In the Night Garden - Where Can Igglepiggle Have a Rest?</title>
 </programme>
 <programme start="20260826175000 +0000" stop="20260826175800 +0000" channel="Cbeebies.virginmediatv">
-    <title>Cbeebies Bedtime Stories - Jazz Dog</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260826175800 +0000" stop="20260827015800 +0000" channel="Cbeebies.virginmediatv">
     <title>This Is CBeebies</title>
