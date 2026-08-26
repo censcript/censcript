@@ -6182,7 +6182,7 @@
     <title>Ben &amp; Holly&#039;s Little Kingdom - Queen Thistle&#039;s Teapot</title>
 </programme>
 <programme start="20260826123000 +0000" stop="20260826123500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Tim Rex Sing Alongs - Dino Galactic Let&#039;s Go Play</title>
+    <title>Tim Rex Sing Alongs - Rex Family Rockets Lets Go</title>
 </programme>
 <programme start="20260826123500 +0000" stop="20260826124500 +0000" channel="Nick_Junior.virginmediatv">
     <title>Tim Rex In Space - Super Tim</title>
@@ -6227,7 +6227,7 @@
     <title>PAW Patrol - Cat Pack/PAW Patrol Rescue: Rocket Rescuers/Cat Pack/PAW Patrol Rescue: The Golden Lion Mask</title>
 </programme>
 <programme start="20260826170000 +0000" stop="20260826173000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Bedtime Stories With Ryan - Goodnight &amp; Hello, Stars</title>
+    <title>Gabby&#039;s Dollhouse - Googly Eyes</title>
 </programme>
 <programme start="20260826173000 +0000" stop="20260826173500 +0000" channel="Nick_Junior.virginmediatv">
     <title>Peppa Pig - Clubhouse Adventure</title>
