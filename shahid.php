@@ -5842,6 +5842,198 @@
     <programme start="20260827235749 +0000" stop="20260827235959 +0000" channel="49923172117967.shahid">
         <title>Awjeh Al Maana</title>
     </programme>
+    <programme start="20260826000000 +0000" stop="20260826000500 +0000" channel="387251.shahid">
+        <title>Said El Aqareb  </title>
+    </programme>
+    <programme start="20260826000500 +0000" stop="20260826010000 +0000" channel="387251.shahid">
+        <title>Mintaqa Amina Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260826010000 +0000" stop="20260826020000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260826020000 +0000" stop="20260826030500 +0000" channel="387251.shahid">
+        <title>Banat Al Thanawi  </title>
+    </programme>
+    <programme start="20260826030500 +0000" stop="20260826040000 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 298</title>
+    </programme>
+    <programme start="20260826040000 +0000" stop="20260826050000 +0000" channel="387251.shahid">
+        <title>El Atawla  </title>
+    </programme>
+    <programme start="20260826050000 +0000" stop="20260826060100 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260826060100 +0000" stop="20260826070000 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260826070000 +0000" stop="20260826080000 +0000" channel="387251.shahid">
+        <title>Said El Aqareb  </title>
+    </programme>
+    <programme start="20260826080000 +0000" stop="20260826090500 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260826090500 +0000" stop="20260826100000 +0000" channel="387251.shahid">
+        <title>Mintaqa Amina Season 1 Episode 9</title>
+    </programme>
+    <programme start="20260826100000 +0000" stop="20260826110100 +0000" channel="387251.shahid">
+        <title>Banat Al Thanawi  </title>
+    </programme>
+    <programme start="20260826110100 +0000" stop="20260826115500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 298</title>
+    </programme>
+    <programme start="20260826115500 +0000" stop="20260826130000 +0000" channel="387251.shahid">
+        <title>El Atawla  </title>
+    </programme>
+    <programme start="20260826130000 +0000" stop="20260826140100 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260826140100 +0000" stop="20260826150000 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260826150000 +0000" stop="20260826160500 +0000" channel="387251.shahid">
+        <title>Said El Aqareb  </title>
+    </programme>
+    <programme start="20260826160500 +0000" stop="20260826170000 +0000" channel="387251.shahid">
+        <title>Mintaqa Amina Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260826170000 +0000" stop="20260826180000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260826180000 +0000" stop="20260826190500 +0000" channel="387251.shahid">
+        <title>Sondos  </title>
+    </programme>
+    <programme start="20260826190500 +0000" stop="20260826200000 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 299</title>
+    </programme>
+    <programme start="20260826200000 +0000" stop="20260826210000 +0000" channel="387251.shahid">
+        <title>El Atawla  </title>
+    </programme>
+    <programme start="20260826210000 +0000" stop="20260826220000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260826220000 +0000" stop="20260826230000 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260826230000 +0000" stop="20260827000500 +0000" channel="387251.shahid">
+        <title>Said El Aqareb  </title>
+    </programme>
+    <programme start="20260827000500 +0000" stop="20260827010000 +0000" channel="387251.shahid">
+        <title>Mintaqa Amina Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260827010000 +0000" stop="20260827020000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260827020000 +0000" stop="20260827030500 +0000" channel="387251.shahid">
+        <title>Sondos  </title>
+    </programme>
+    <programme start="20260827030500 +0000" stop="20260827040000 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 299</title>
+    </programme>
+    <programme start="20260827040000 +0000" stop="20260827050000 +0000" channel="387251.shahid">
+        <title>El Atawla  </title>
+    </programme>
+    <programme start="20260827050000 +0000" stop="20260827060000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260827060000 +0000" stop="20260827070000 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260827070000 +0000" stop="20260827080000 +0000" channel="387251.shahid">
+        <title>Said El Aqareb  </title>
+    </programme>
+    <programme start="20260827080000 +0000" stop="20260827085400 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260827085400 +0000" stop="20260827090000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827090000 +0000" stop="20260827094800 +0000" channel="387251.shahid">
+        <title>Mintaqa Amina Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260827094800 +0000" stop="20260827100000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827100000 +0000" stop="20260827105300 +0000" channel="387251.shahid">
+        <title>Sondos  </title>
+    </programme>
+    <programme start="20260827105300 +0000" stop="20260827110000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827110000 +0000" stop="20260827114500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 299</title>
+    </programme>
+    <programme start="20260827114500 +0000" stop="20260827120000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827120000 +0000" stop="20260827125500 +0000" channel="387251.shahid">
+        <title>El Atawla  </title>
+    </programme>
+    <programme start="20260827125500 +0000" stop="20260827130000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827130000 +0000" stop="20260827140000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260827140000 +0000" stop="20260827145500 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260827145500 +0000" stop="20260827150000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827150000 +0000" stop="20260827155500 +0000" channel="387251.shahid">
+        <title>Said El Aqareb  </title>
+    </programme>
+    <programme start="20260827155500 +0000" stop="20260827160000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827160000 +0000" stop="20260827164700 +0000" channel="387251.shahid">
+        <title>Mintaqa Amina Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260827164700 +0000" stop="20260827170000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827170000 +0000" stop="20260827175400 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260827175400 +0000" stop="20260827180000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827180000 +0000" stop="20260827185400 +0000" channel="387251.shahid">
+        <title>Sondos  </title>
+    </programme>
+    <programme start="20260827185400 +0000" stop="20260827190000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827190000 +0000" stop="20260827194900 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 300</title>
+    </programme>
+    <programme start="20260827194900 +0000" stop="20260827200000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827200000 +0000" stop="20260827205500 +0000" channel="387251.shahid">
+        <title>El Atawla  </title>
+    </programme>
+    <programme start="20260827205500 +0000" stop="20260827210000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827210000 +0000" stop="20260827220000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260827220000 +0000" stop="20260827225500 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260827225500 +0000" stop="20260827230000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260827230000 +0000" stop="20260827235500 +0000" channel="387251.shahid">
+        <title>Said El Aqareb  </title>
+    </programme>
+    <programme start="20260827235500 +0000" stop="20260828000000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260828000000 +0000" stop="20260827235959 +0000" channel="387251.shahid">
+        <title>Mintaqa Amina Season 1 Episode 11</title>
+    </programme>
     <programme start="20260826000000 +0000" stop="20260826001318 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 4 Episode 26</title>
     </programme>
@@ -6091,198 +6283,6 @@
     <programme start="20260827235455 +0000" stop="20260827235959 +0000" channel="976272.shahid">
         <title>El Kebeer Awi Season 7 Episode 18</title>
     </programme>
-    <programme start="20260826000000 +0000" stop="20260826000500 +0000" channel="387251.shahid">
-        <title>Said El Aqareb  </title>
-    </programme>
-    <programme start="20260826000500 +0000" stop="20260826010000 +0000" channel="387251.shahid">
-        <title>Mintaqa Amina Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260826010000 +0000" stop="20260826020000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260826020000 +0000" stop="20260826030500 +0000" channel="387251.shahid">
-        <title>Banat Al Thanawi  </title>
-    </programme>
-    <programme start="20260826030500 +0000" stop="20260826040000 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 298</title>
-    </programme>
-    <programme start="20260826040000 +0000" stop="20260826050000 +0000" channel="387251.shahid">
-        <title>El Atawla  </title>
-    </programme>
-    <programme start="20260826050000 +0000" stop="20260826060100 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260826060100 +0000" stop="20260826070000 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260826070000 +0000" stop="20260826080000 +0000" channel="387251.shahid">
-        <title>Said El Aqareb  </title>
-    </programme>
-    <programme start="20260826080000 +0000" stop="20260826090500 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260826090500 +0000" stop="20260826100000 +0000" channel="387251.shahid">
-        <title>Mintaqa Amina Season 1 Episode 9</title>
-    </programme>
-    <programme start="20260826100000 +0000" stop="20260826110100 +0000" channel="387251.shahid">
-        <title>Banat Al Thanawi  </title>
-    </programme>
-    <programme start="20260826110100 +0000" stop="20260826115500 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 298</title>
-    </programme>
-    <programme start="20260826115500 +0000" stop="20260826130000 +0000" channel="387251.shahid">
-        <title>El Atawla  </title>
-    </programme>
-    <programme start="20260826130000 +0000" stop="20260826140100 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260826140100 +0000" stop="20260826150000 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260826150000 +0000" stop="20260826160500 +0000" channel="387251.shahid">
-        <title>Said El Aqareb  </title>
-    </programme>
-    <programme start="20260826160500 +0000" stop="20260826170000 +0000" channel="387251.shahid">
-        <title>Mintaqa Amina Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260826170000 +0000" stop="20260826180000 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260826180000 +0000" stop="20260826190500 +0000" channel="387251.shahid">
-        <title>Sondos  </title>
-    </programme>
-    <programme start="20260826190500 +0000" stop="20260826200000 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 299</title>
-    </programme>
-    <programme start="20260826200000 +0000" stop="20260826210000 +0000" channel="387251.shahid">
-        <title>El Atawla  </title>
-    </programme>
-    <programme start="20260826210000 +0000" stop="20260826220000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260826220000 +0000" stop="20260826230000 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260826230000 +0000" stop="20260827000500 +0000" channel="387251.shahid">
-        <title>Said El Aqareb  </title>
-    </programme>
-    <programme start="20260827000500 +0000" stop="20260827010000 +0000" channel="387251.shahid">
-        <title>Mintaqa Amina Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260827010000 +0000" stop="20260827020000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260827020000 +0000" stop="20260827030500 +0000" channel="387251.shahid">
-        <title>Sondos  </title>
-    </programme>
-    <programme start="20260827030500 +0000" stop="20260827040000 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 299</title>
-    </programme>
-    <programme start="20260827040000 +0000" stop="20260827050000 +0000" channel="387251.shahid">
-        <title>El Atawla  </title>
-    </programme>
-    <programme start="20260827050000 +0000" stop="20260827060000 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260827060000 +0000" stop="20260827070000 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260827070000 +0000" stop="20260827080000 +0000" channel="387251.shahid">
-        <title>Said El Aqareb  </title>
-    </programme>
-    <programme start="20260827080000 +0000" stop="20260827085400 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260827085400 +0000" stop="20260827090000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827090000 +0000" stop="20260827094800 +0000" channel="387251.shahid">
-        <title>Mintaqa Amina Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260827094800 +0000" stop="20260827100000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827100000 +0000" stop="20260827105300 +0000" channel="387251.shahid">
-        <title>Sondos  </title>
-    </programme>
-    <programme start="20260827105300 +0000" stop="20260827110000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827110000 +0000" stop="20260827114500 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 299</title>
-    </programme>
-    <programme start="20260827114500 +0000" stop="20260827120000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827120000 +0000" stop="20260827125500 +0000" channel="387251.shahid">
-        <title>El Atawla  </title>
-    </programme>
-    <programme start="20260827125500 +0000" stop="20260827130000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827130000 +0000" stop="20260827140000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260827140000 +0000" stop="20260827145500 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260827145500 +0000" stop="20260827150000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827150000 +0000" stop="20260827155500 +0000" channel="387251.shahid">
-        <title>Said El Aqareb  </title>
-    </programme>
-    <programme start="20260827155500 +0000" stop="20260827160000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827160000 +0000" stop="20260827164700 +0000" channel="387251.shahid">
-        <title>Mintaqa Amina Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260827164700 +0000" stop="20260827170000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827170000 +0000" stop="20260827175400 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260827175400 +0000" stop="20260827180000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827180000 +0000" stop="20260827185400 +0000" channel="387251.shahid">
-        <title>Sondos  </title>
-    </programme>
-    <programme start="20260827185400 +0000" stop="20260827190000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827190000 +0000" stop="20260827194900 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 300</title>
-    </programme>
-    <programme start="20260827194900 +0000" stop="20260827200000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827200000 +0000" stop="20260827205500 +0000" channel="387251.shahid">
-        <title>El Atawla  </title>
-    </programme>
-    <programme start="20260827205500 +0000" stop="20260827210000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827210000 +0000" stop="20260827220000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260827220000 +0000" stop="20260827225500 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260827225500 +0000" stop="20260827230000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260827230000 +0000" stop="20260827235500 +0000" channel="387251.shahid">
-        <title>Said El Aqareb  </title>
-    </programme>
-    <programme start="20260827235500 +0000" stop="20260828000000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260828000000 +0000" stop="20260827235959 +0000" channel="387251.shahid">
-        <title>Mintaqa Amina Season 1 Episode 11</title>
-    </programme>
     <programme start="20260826000000 +0000" stop="20260827235959 +0000" channel="49922763510387.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -6300,6 +6300,177 @@
     </programme>
     <programme start="20260826000000 +0000" stop="20260827235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260826000000 +0000" stop="20260826002943 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 19</title>
+    </programme>
+    <programme start="20260826002943 +0000" stop="20260826011910 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 11</title>
+    </programme>
+    <programme start="20260826011910 +0000" stop="20260826021259 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 12</title>
+    </programme>
+    <programme start="20260826021259 +0000" stop="20260826031037 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 27</title>
+    </programme>
+    <programme start="20260826031037 +0000" stop="20260826035840 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 27</title>
+    </programme>
+    <programme start="20260826035840 +0000" stop="20260826044524 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 25</title>
+    </programme>
+    <programme start="20260826044524 +0000" stop="20260826054056 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 14</title>
+    </programme>
+    <programme start="20260826054056 +0000" stop="20260826064052 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 21</title>
+    </programme>
+    <programme start="20260826064052 +0000" stop="20260826074227 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 13</title>
+    </programme>
+    <programme start="20260826074227 +0000" stop="20260826084408 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 8</title>
+    </programme>
+    <programme start="20260826084408 +0000" stop="20260826093434 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 4</title>
+    </programme>
+    <programme start="20260826093434 +0000" stop="20260826103024 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 25</title>
+    </programme>
+    <programme start="20260826103024 +0000" stop="20260826111328 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 19</title>
+    </programme>
+    <programme start="20260826111328 +0000" stop="20260826120301 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 2</title>
+    </programme>
+    <programme start="20260826120301 +0000" stop="20260826125011 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 3</title>
+    </programme>
+    <programme start="20260826125011 +0000" stop="20260826134249 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 8</title>
+    </programme>
+    <programme start="20260826134249 +0000" stop="20260826142723 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 22</title>
+    </programme>
+    <programme start="20260826142723 +0000" stop="20260826151804 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 29</title>
+    </programme>
+    <programme start="20260826151804 +0000" stop="20260826161001 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 18</title>
+    </programme>
+    <programme start="20260826161001 +0000" stop="20260826165735 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 6</title>
+    </programme>
+    <programme start="20260826165735 +0000" stop="20260826174550 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 7</title>
+    </programme>
+    <programme start="20260826174550 +0000" stop="20260826182653 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 22</title>
+    </programme>
+    <programme start="20260826182653 +0000" stop="20260826192303 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 24</title>
+    </programme>
+    <programme start="20260826192303 +0000" stop="20260826201704 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 23</title>
+    </programme>
+    <programme start="20260826201704 +0000" stop="20260826210138 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 16</title>
+    </programme>
+    <programme start="20260826210138 +0000" stop="20260826215355 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 13</title>
+    </programme>
+    <programme start="20260826215355 +0000" stop="20260826224150 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 8</title>
+    </programme>
+    <programme start="20260826224150 +0000" stop="20260826233617 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 21</title>
+    </programme>
+    <programme start="20260826233617 +0000" stop="20260827003024 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 6</title>
+    </programme>
+    <programme start="20260827003024 +0000" stop="20260827011857 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 27</title>
+    </programme>
+    <programme start="20260827011857 +0000" stop="20260827021416 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 16</title>
+    </programme>
+    <programme start="20260827021416 +0000" stop="20260827030335 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 20</title>
+    </programme>
+    <programme start="20260827030335 +0000" stop="20260827035220 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 12</title>
+    </programme>
+    <programme start="20260827035220 +0000" stop="20260827044425 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 21</title>
+    </programme>
+    <programme start="20260827044425 +0000" stop="20260827054515 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 2</title>
+    </programme>
+    <programme start="20260827054515 +0000" stop="20260827063534 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 9</title>
+    </programme>
+    <programme start="20260827063534 +0000" stop="20260827072602 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 28</title>
+    </programme>
+    <programme start="20260827072602 +0000" stop="20260827082605 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 20</title>
+    </programme>
+    <programme start="20260827082605 +0000" stop="20260827090930 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 13</title>
+    </programme>
+    <programme start="20260827090930 +0000" stop="20260827100131 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 18</title>
+    </programme>
+    <programme start="20260827100131 +0000" stop="20260827105158 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 29</title>
+    </programme>
+    <programme start="20260827105158 +0000" stop="20260827114957 +0000" channel="988045.shahid">
+        <title>Maraya 2003 Episode 9</title>
+    </programme>
+    <programme start="20260827114957 +0000" stop="20260827124200 +0000" channel="988045.shahid">
+        <title>Hakaya Al Maraya Episode 16</title>
+    </programme>
+    <programme start="20260827124200 +0000" stop="20260827133354 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 9</title>
+    </programme>
+    <programme start="20260827133354 +0000" stop="20260827142105 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 3</title>
+    </programme>
+    <programme start="20260827142105 +0000" stop="20260827151220 +0000" channel="988045.shahid">
+        <title>Maraya 98 Episode 20</title>
+    </programme>
+    <programme start="20260827151220 +0000" stop="20260827160102 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 24</title>
+    </programme>
+    <programme start="20260827160102 +0000" stop="20260827164900 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 5</title>
+    </programme>
+    <programme start="20260827164900 +0000" stop="20260827173825 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 11</title>
+    </programme>
+    <programme start="20260827173825 +0000" stop="20260827181948 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 13</title>
+    </programme>
+    <programme start="20260827181948 +0000" stop="20260827191349 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 9</title>
+    </programme>
+    <programme start="20260827191349 +0000" stop="20260827201444 +0000" channel="988045.shahid">
+        <title>Hadeeth Al Maraya Episode 1</title>
+    </programme>
+    <programme start="20260827201444 +0000" stop="20260827211043 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 30</title>
+    </programme>
+    <programme start="20260827211043 +0000" stop="20260827220048 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 2</title>
+    </programme>
+    <programme start="20260827220048 +0000" stop="20260827224644 +0000" channel="988045.shahid">
+        <title>Maraya 97 Episode 14</title>
+    </programme>
+    <programme start="20260827224644 +0000" stop="20260827233726 +0000" channel="988045.shahid">
+        <title>Hakaya Season 3 Episode 16</title>
+    </programme>
+    <programme start="20260827233726 +0000" stop="20260827235959 +0000" channel="988045.shahid">
+        <title>Eshna W Shofna Episode 14</title>
     </programme>
     <programme start="20260826000000 +0000" stop="20260826001103 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 15 Episode 2</title>
@@ -6552,177 +6723,6 @@
     </programme>
     <programme start="20260827234804 +0000" stop="20260827235959 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 17 Episode 28</title>
-    </programme>
-    <programme start="20260826000000 +0000" stop="20260826002943 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 19</title>
-    </programme>
-    <programme start="20260826002943 +0000" stop="20260826011910 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 11</title>
-    </programme>
-    <programme start="20260826011910 +0000" stop="20260826021259 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 12</title>
-    </programme>
-    <programme start="20260826021259 +0000" stop="20260826031037 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 27</title>
-    </programme>
-    <programme start="20260826031037 +0000" stop="20260826035840 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 27</title>
-    </programme>
-    <programme start="20260826035840 +0000" stop="20260826044524 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 25</title>
-    </programme>
-    <programme start="20260826044524 +0000" stop="20260826054056 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 14</title>
-    </programme>
-    <programme start="20260826054056 +0000" stop="20260826064052 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 21</title>
-    </programme>
-    <programme start="20260826064052 +0000" stop="20260826074227 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 13</title>
-    </programme>
-    <programme start="20260826074227 +0000" stop="20260826084408 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 8</title>
-    </programme>
-    <programme start="20260826084408 +0000" stop="20260826093434 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 4</title>
-    </programme>
-    <programme start="20260826093434 +0000" stop="20260826103024 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 25</title>
-    </programme>
-    <programme start="20260826103024 +0000" stop="20260826111328 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 19</title>
-    </programme>
-    <programme start="20260826111328 +0000" stop="20260826120301 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 2</title>
-    </programme>
-    <programme start="20260826120301 +0000" stop="20260826125011 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 3</title>
-    </programme>
-    <programme start="20260826125011 +0000" stop="20260826134249 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 8</title>
-    </programme>
-    <programme start="20260826134249 +0000" stop="20260826142723 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 22</title>
-    </programme>
-    <programme start="20260826142723 +0000" stop="20260826151804 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 29</title>
-    </programme>
-    <programme start="20260826151804 +0000" stop="20260826161001 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 18</title>
-    </programme>
-    <programme start="20260826161001 +0000" stop="20260826165735 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 6</title>
-    </programme>
-    <programme start="20260826165735 +0000" stop="20260826174550 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 7</title>
-    </programme>
-    <programme start="20260826174550 +0000" stop="20260826182653 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 22</title>
-    </programme>
-    <programme start="20260826182653 +0000" stop="20260826192303 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 24</title>
-    </programme>
-    <programme start="20260826192303 +0000" stop="20260826201704 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 23</title>
-    </programme>
-    <programme start="20260826201704 +0000" stop="20260826210138 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 16</title>
-    </programme>
-    <programme start="20260826210138 +0000" stop="20260826215355 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 13</title>
-    </programme>
-    <programme start="20260826215355 +0000" stop="20260826224150 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 8</title>
-    </programme>
-    <programme start="20260826224150 +0000" stop="20260826233617 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 21</title>
-    </programme>
-    <programme start="20260826233617 +0000" stop="20260827003024 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 6</title>
-    </programme>
-    <programme start="20260827003024 +0000" stop="20260827011857 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 27</title>
-    </programme>
-    <programme start="20260827011857 +0000" stop="20260827021416 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 16</title>
-    </programme>
-    <programme start="20260827021416 +0000" stop="20260827030335 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 20</title>
-    </programme>
-    <programme start="20260827030335 +0000" stop="20260827035220 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 12</title>
-    </programme>
-    <programme start="20260827035220 +0000" stop="20260827044425 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 21</title>
-    </programme>
-    <programme start="20260827044425 +0000" stop="20260827054515 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 2</title>
-    </programme>
-    <programme start="20260827054515 +0000" stop="20260827063534 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 9</title>
-    </programme>
-    <programme start="20260827063534 +0000" stop="20260827072602 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 28</title>
-    </programme>
-    <programme start="20260827072602 +0000" stop="20260827082605 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 20</title>
-    </programme>
-    <programme start="20260827082605 +0000" stop="20260827090930 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 13</title>
-    </programme>
-    <programme start="20260827090930 +0000" stop="20260827100131 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 18</title>
-    </programme>
-    <programme start="20260827100131 +0000" stop="20260827105158 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 29</title>
-    </programme>
-    <programme start="20260827105158 +0000" stop="20260827114957 +0000" channel="988045.shahid">
-        <title>Maraya 2003 Episode 9</title>
-    </programme>
-    <programme start="20260827114957 +0000" stop="20260827124200 +0000" channel="988045.shahid">
-        <title>Hakaya Al Maraya Episode 16</title>
-    </programme>
-    <programme start="20260827124200 +0000" stop="20260827133354 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 9</title>
-    </programme>
-    <programme start="20260827133354 +0000" stop="20260827142105 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 3</title>
-    </programme>
-    <programme start="20260827142105 +0000" stop="20260827151220 +0000" channel="988045.shahid">
-        <title>Maraya 98 Episode 20</title>
-    </programme>
-    <programme start="20260827151220 +0000" stop="20260827160102 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 24</title>
-    </programme>
-    <programme start="20260827160102 +0000" stop="20260827164900 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 5</title>
-    </programme>
-    <programme start="20260827164900 +0000" stop="20260827173825 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 11</title>
-    </programme>
-    <programme start="20260827173825 +0000" stop="20260827181948 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 13</title>
-    </programme>
-    <programme start="20260827181948 +0000" stop="20260827191349 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 9</title>
-    </programme>
-    <programme start="20260827191349 +0000" stop="20260827201444 +0000" channel="988045.shahid">
-        <title>Hadeeth Al Maraya Episode 1</title>
-    </programme>
-    <programme start="20260827201444 +0000" stop="20260827211043 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 30</title>
-    </programme>
-    <programme start="20260827211043 +0000" stop="20260827220048 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 2</title>
-    </programme>
-    <programme start="20260827220048 +0000" stop="20260827224644 +0000" channel="988045.shahid">
-        <title>Maraya 97 Episode 14</title>
-    </programme>
-    <programme start="20260827224644 +0000" stop="20260827233726 +0000" channel="988045.shahid">
-        <title>Hakaya Season 3 Episode 16</title>
-    </programme>
-    <programme start="20260827233726 +0000" stop="20260827235959 +0000" channel="988045.shahid">
-        <title>Eshna W Shofna Episode 14</title>
     </programme>
     <programme start="20260826000000 +0000" stop="20260826002843 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 4 Episode 1</title>

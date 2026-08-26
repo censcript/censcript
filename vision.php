@@ -652,12 +652,6 @@
 <programme start="20260827114500 +0000" stop="20260827121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260825230000 +0000" stop="20260826023000 +0000" channel="ANTV.vision">
-<title>Wanted</title>
-</programme>
-<programme start="20260826023000 +0000" stop="20260826060000 +0000" channel="ANTV.vision">
-<title>Singham</title>
-</programme>
 <programme start="20260826060000 +0000" stop="20260826073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260826010000 +0000" stop="20260826020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260826020000 +0000" stop="20260826020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260826020300 +0000" stop="20260826023000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
