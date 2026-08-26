@@ -736,8 +736,11 @@
     <programme start="20260825160000 +0000" stop="20260826121800 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 26 August, Wednesday 8.18pm. Hyundai Cup 2026 </title>
     </programme>
-    <programme start="20260826121800 +0000" stop="20260826160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260826121800 +0000" stop="20260826154400 +0000" channel="Live 5.mewatch">
         <title>Hyundai Cup 2026 : Final Leg 2 : Vietnam vs Thailand</title>
+    </programme>
+    <programme start="20260826154400 +0000" stop="20260826160000 +0000" channel="Live 5.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260826160000 +0000" stop="20260827160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
