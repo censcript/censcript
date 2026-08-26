@@ -1,9 +1,3 @@
-<programme start="20260826050000 +0000" stop="20260826060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260826060000 +0000" stop="20260826070000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260826070000 +0000" stop="20260826080000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -34,9 +28,6 @@
 <programme start="20260826160000 +0000" stop="20260826170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260826040000 +0000" stop="20260826060000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260826060000 +0000" stop="20260826080000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -53,9 +44,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260826040000 +0000" stop="20260826060000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260826060000 +0000" stop="20260826080000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -75,9 +63,6 @@
 </programme>
 <programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260826050000 +0000" stop="20260826060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League Highlights 26/27 -Week 1</title>
 </programme>
 <programme start="20260826060000 +0000" stop="20260826080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Arsenal vs Coventry City</title>

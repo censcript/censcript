@@ -1132,19 +1132,16 @@
   <programme start="20260828202500 +0000" stop="20260828230000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Tmavomodrý svet</title>
   </programme>
-  <programme start="20260827203500 +0000" stop="20260827223000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260827203500 +0000" stop="20260827224500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Športové lezenie</title>
   </programme>
-  <programme start="20260827223000 +0000" stop="20260828042500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260827224500 +0000" stop="20260828052000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260828042500 +0000" stop="20260828063000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260828052000 +0000" stop="20260828081500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260828063000 +0000" stop="20260828084000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">MS 2026 vo futbale</title>
-  </programme>
-  <programme start="20260828084000 +0000" stop="20260828110000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260828081500 +0000" stop="20260828110000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 ženy</title>
   </programme>
   <programme start="20260828110000 +0000" stop="20260828125000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1156,52 +1153,46 @@
   <programme start="20260828155000 +0000" stop="20260828182500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 ženy</title>
   </programme>
-  <programme start="20260828182500 +0000" stop="20260828210500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260828182500 +0000" stop="20260828222000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Rozlúčkový zápas Zdena Cháru</title>
-  </programme>
-  <programme start="20260828210500 +0000" stop="20260828215000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Bedminton</title>
-  </programme>
-  <programme start="20260828215000 +0000" stop="20260828230500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Bedminton</title>
   </programme>
   <programme start="20260827201000 +0000" stop="20260828002500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260828002500 +0000" stop="20260828040500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828002500 +0000" stop="20260828041000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20260828040500 +0000" stop="20260828050000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828041000 +0000" stop="20260828050500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20260828050000 +0000" stop="20260828062500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828050500 +0000" stop="20260828062000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20260828062500 +0000" stop="20260828073500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828062000 +0000" stop="20260828073000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20260828073500 +0000" stop="20260828090000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828073000 +0000" stop="20260828083000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20260828090000 +0000" stop="20260828113000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828083000 +0000" stop="20260828111500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - ME 2026 ženy</title>
   </programme>
-  <programme start="20260828113000 +0000" stop="20260828141000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828111500 +0000" stop="20260828135000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - ME 2026 ženy</title>
   </programme>
-  <programme start="20260828141000 +0000" stop="20260828152000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828135000 +0000" stop="20260828150000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20260828152000 +0000" stop="20260828164000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828150000 +0000" stop="20260828162000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20260828164000 +0000" stop="20260828190500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828162000 +0000" stop="20260828185000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260828190500 +0000" stop="20260828203000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828185000 +0000" stop="20260828201000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Žreb</title>
   </programme>
-  <programme start="20260828203000 +0000" stop="20260828231000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828201000 +0000" stop="20260828224500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal Reprezentácia muži</title>
   </programme>
   <programme start="20260827215000 +0000" stop="20260827225000 +0000" channel="WAU.webtv.sk">
@@ -17620,13 +17611,16 @@
   <programme start="20260828165800 +0000" stop="20260828170000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
-  <programme start="20260828170000 +0000" stop="20260828173000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260828170000 +0000" stop="20260828175000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWS 7</title>
   </programme>
-  <programme start="20260828173000 +0000" stop="20260828175700 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Hikikomori Growing Together</title>
+  <programme start="20260828175000 +0000" stop="20260828175500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">RAMEN JAPAN 5min.</title>
   </programme>
-  <programme start="20260828175700 +0000" stop="20260828180000 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260828175500 +0000" stop="20260828175800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Time-lapse Japan</title>
+  </programme>
+  <programme start="20260828175800 +0000" stop="20260828180000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260828180000 +0000" stop="20260828182800 +0000" channel="NHK World Japan.webtv.sk">
