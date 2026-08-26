@@ -3372,8 +3372,8 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.236.</episode-num>
-    <episode-num system="onscreen">S1E237</episode-num>
+    <episode-num system="xmltv_ns">0.235.</episode-num>
+    <episode-num system="onscreen">S1E236</episode-num>
   </programme>
   <programme start="20260825193500 +0000" stop="20260825200500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Hipster Tour - South America (Sr.2)</title>
@@ -3414,8 +3414,8 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.236.</episode-num>
-    <episode-num system="onscreen">S1E237</episode-num>
+    <episode-num system="xmltv_ns">0.235.</episode-num>
+    <episode-num system="onscreen">S1E236</episode-num>
   </programme>
   <programme start="20260825230500 +0000" stop="20260826000500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Good Morning Hong Kong and Global View</title>
@@ -3468,8 +3468,8 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.236.</episode-num>
-    <episode-num system="onscreen">S1E237</episode-num>
+    <episode-num system="xmltv_ns">0.235.</episode-num>
+    <episode-num system="onscreen">S1E236</episode-num>
   </programme>
   <programme start="20260826043500 +0000" stop="20260826050000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Boys Club</title>
@@ -3550,8 +3550,8 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.237.</episode-num>
-    <episode-num system="onscreen">S1E238</episode-num>
+    <episode-num system="xmltv_ns">0.236.</episode-num>
+    <episode-num system="onscreen">S1E237</episode-num>
   </programme>
   <programme start="20260826120500 +0000" stop="20260826123500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Like Mother, Like Daughter</title>
@@ -4105,11 +4105,11 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
   <programme start="20260825170300 +0000" stop="20260825173300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">MAINLAND Q&amp;A</title>
+    <title lang="en">HONG KONG HOT KITCHEN</title>
     <desc lang="en">Through Sally's perspective, the audience can grasp the latest changes and developments in Greater China at the first time, and set their eyes on the era of China's transformation.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">3.20260825.</episode-num>
-    <episode-num system="onscreen">S4E20260826</episode-num>
+    <category lang="en">Food</category>
+    <episode-num system="xmltv_ns">0.20260825.</episode-num>
+    <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
   <programme start="20260825173300 +0000" stop="20260825180300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">NEWS DECODER</title>
@@ -4154,9 +4154,9 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <episode-num system="onscreen">S4E20260826</episode-num>
   </programme>
   <programme start="20260825203300 +0000" stop="20260825210300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG HOT KITCHEN</title>
-    <desc lang="en">Senior commentator Cheng Jiannan invited famous political and economic figures to gather at "Hong Kong Hot Kitchen" to use current affairs as ingredients, to illustrate other things, to see the big picture from the small details, to use creativity as cooking skills, to turn depth into the right degree of heat, to butcher the cow like a butcher, and to analyze and decode.</desc>
-    <category lang="en">Food</category>
+    <title lang="en">GLOBAL CHINESE AWARDS SPECIAL SERIES</title>
+    <desc lang="en">The special series honors ethnic Chinese individuals and groups worldwide who have made outstanding achievements and contributions across key fields like science, technology, culture, sports, public affairs, and lifetime achievement.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.20260825.</episode-num>
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
@@ -4224,16 +4224,16 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
   <programme start="20260826013300 +0000" stop="20260826020300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">MAINLAND Q&amp;A</title>
+    <title lang="en">HONG KONG HOT KITCHEN</title>
     <desc lang="en">Through Sally's perspective, the audience can grasp the latest changes and developments in Greater China at the first time, and set their eyes on the era of China's transformation.</desc>
-    <category lang="en">News</category>
+    <category lang="en">Food</category>
     <episode-num system="xmltv_ns">3.20260825.</episode-num>
     <episode-num system="onscreen">S4E20260826</episode-num>
   </programme>
   <programme start="20260826020300 +0000" stop="20260826023300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG HOT KITCHEN</title>
-    <desc lang="en">Senior commentator Cheng Jiannan invited famous political and economic figures to gather at "Hong Kong Hot Kitchen" to use current affairs as ingredients, to illustrate other things, to see the big picture from the small details, to use creativity as cooking skills, to turn depth into the right degree of heat, to butcher the cow like a butcher, and to analyze and decode.</desc>
-    <category lang="en">Food</category>
+    <title lang="en">GLOBAL CHINESE AWARDS SPECIAL SERIES</title>
+    <desc lang="en">The special series honors ethnic Chinese individuals and groups worldwide who have made outstanding achievements and contributions across key fields like science, technology, culture, sports, public affairs, and lifetime achievement.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.20260825.</episode-num>
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
@@ -4244,10 +4244,17 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <episode-num system="xmltv_ns">0.20260825.</episode-num>
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
-  <programme start="20260826030300 +0000" stop="20260826033300 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260826030300 +0000" stop="20260826033100 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">NEWS DECODER</title>
     <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
     <category lang="en">Talk Show</category>
+    <episode-num system="xmltv_ns">0.20260825.</episode-num>
+    <episode-num system="onscreen">S1E20260826</episode-num>
+  </programme>
+  <programme start="20260826033100 +0000" stop="20260826033300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">DICTUM FROM YOU BRING CHARM TO THE WORLD - 18TH GLOBAL CHINESE AWARDS</title>
+    <desc lang="en">Global Chinese Awards is jointly initiated by Phoenix Satellite Television Group and influential Chinese-language media in China and overseas, and hosted by Phoenix TV, IFENG.com, and FengShows. Since its inception in 2007, the ceremony has been successfully held for 17 editions, honouring outstanding Chinese individuals who have achieved remarkable excellence and global influence across various fields. The 18th Global Chinese Awards will be held at the Phoenix Center in Beijing with a global Chinese perspective, the ceremony celebrates inspiring Chinese role models who have made significant contributions and impact on the world stage.</desc>
+    <category lang="en">musical</category>
     <episode-num system="xmltv_ns">0.20260825.</episode-num>
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
@@ -4294,16 +4301,16 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
   <programme start="20260826063300 +0000" stop="20260826070300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">MAINLAND Q&amp;A</title>
+    <title lang="en">HONG KONG HOT KITCHEN</title>
     <desc lang="en">Through Sally's perspective, the audience can grasp the latest changes and developments in Greater China at the first time, and set their eyes on the era of China's transformation.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">3.20260825.</episode-num>
-    <episode-num system="onscreen">S4E20260826</episode-num>
+    <category lang="en">Food</category>
+    <episode-num system="xmltv_ns">0.20260825.</episode-num>
+    <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
   <programme start="20260826070300 +0000" stop="20260826073300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG HOT KITCHEN</title>
-    <desc lang="en">Senior commentator Cheng Jiannan invited famous political and economic figures to gather at "Hong Kong Hot Kitchen" to use current affairs as ingredients, to illustrate other things, to see the big picture from the small details, to use creativity as cooking skills, to turn depth into the right degree of heat, to butcher the cow like a butcher, and to analyze and decode.</desc>
-    <category lang="en">Food</category>
+    <title lang="en">GLOBAL CHINESE AWARDS SPECIAL SERIES</title>
+    <desc lang="en">The special series honors ethnic Chinese individuals and groups worldwide who have made outstanding achievements and contributions across key fields like science, technology, culture, sports, public affairs, and lifetime achievement.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.20260825.</episode-num>
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
@@ -4389,8 +4396,8 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
   <programme start="20260826123300 +0000" stop="20260826130300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA INSIGHT</title>
-    <desc lang="en">The newly launched observation documentary program. Each issue takes a foreigner as the protagonist, travels all over China and observes China's social conditions and Chinese people's life from a close perspective.</desc>
+    <title lang="en">GLOBAL CHINESE AWARDS SPECIAL SERIES</title>
+    <desc lang="en">The special series honors ethnic Chinese individuals and groups worldwide who have made outstanding achievements and contributions across key fields like science, technology, culture, sports, public affairs, and lifetime achievement.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.20260825.</episode-num>
     <episode-num system="onscreen">S1E20260826</episode-num>
@@ -4416,12 +4423,19 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <episode-num system="xmltv_ns">0.20260825.</episode-num>
     <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
-  <programme start="20260826143300 +0000" stop="20260826150300 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260826143300 +0000" stop="20260826150100 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">FROM PHOENIX TO THE WORLD</title>
     <desc lang="en">From Phoenix to the World, is a current affair commentary program where reporters from around the world interact directly with the anchors through satellite and telephone lines to put audiences in touch with important events right form where they happen.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">1.20260825.</episode-num>
     <episode-num system="onscreen">S2E20260826</episode-num>
+  </programme>
+  <programme start="20260826150100 +0000" stop="20260826150300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">DICTUM FROM YOU BRING CHARM TO THE WORLD - 18TH GLOBAL CHINESE AWARDS</title>
+    <desc lang="en">Global Chinese Awards is jointly initiated by Phoenix Satellite Television Group and influential Chinese-language media in China and overseas, and hosted by Phoenix TV, IFENG.com, and FengShows. Since its inception in 2007, the ceremony has been successfully held for 17 editions, honouring outstanding Chinese individuals who have achieved remarkable excellence and global influence across various fields. The 18th Global Chinese Awards will be held at the Phoenix Center in Beijing with a global Chinese perspective, the ceremony celebrates inspiring Chinese role models who have made significant contributions and impact on the world stage.</desc>
+    <category lang="en">musical</category>
+    <episode-num system="xmltv_ns">0.20260825.</episode-num>
+    <episode-num system="onscreen">S1E20260826</episode-num>
   </programme>
   <programme start="20260826150300 +0000" stop="20260826153300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">CHIEF EDITOR'S TIME</title>
