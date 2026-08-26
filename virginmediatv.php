@@ -2123,7 +2123,7 @@
     <title>Long Lost Family - Episode 7</title>
 </programme>
 <programme start="20260826170000 +0000" stop="20260826180000 +0000" channel="Really.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Repair Shop - NHS Special</title>
 </programme>
 <programme start="20260826000000 +0000" stop="20260826003000 +0000" channel="Fashion_TV.virginmediatv">
     <title>Fashion First</title>
