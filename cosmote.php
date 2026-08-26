@@ -62,8 +62,8 @@
     <title>Football: Viking FK - GNK Dinamo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260826150000 +0700" stop="20260826170000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Venezia - Lecce</title>
+<programme start="20260827170000 +0700" stop="20260827190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: NK Celje - SK Slovan Bratislava</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826170000 +0700" stop="20260826190000 +0700" channel="COSMOTE Sport 2 HD">
@@ -126,8 +126,12 @@
     <title>Football: Bologna - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260826140500 +0700" stop="20260826160500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Sheffield Wednesday - Bradford City A.F.C.</title>
+<programme start="20260827170000 +0700" stop="20260827173000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2026-27 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260827173000 +0700" stop="20260827192500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: FC Porto - Arouca</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826160500 +0700" stop="20260826180500 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,8 +222,8 @@
     <title>Football: Lincoln City - Portsmouth</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260826141000 +0700" stop="20260826162500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Badalona</title>
+<programme start="20260827174500 +0700" stop="20260827194500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Dundee United - Dundee</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826162500 +0700" stop="20260826182000 +0700" channel="COSMOTE Sport 4 HD">
@@ -280,18 +284,6 @@
 </programme>
 <programme start="20260827162500 +0700" stop="20260827182500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tenerife - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260826150500 +0700" stop="20260826160500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260826160500 +0700" stop="20260826163500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260826163500 +0700" stop="20260826165500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E11</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826165500 +0700" stop="20260826174000 +0700" channel="COSMOTE Sport 5 HD">
@@ -380,6 +372,14 @@
 </programme>
 <programme start="20260827164000 +0700" stop="20260827170000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260827170000 +0700" stop="20260827173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260827173000 +0700" stop="20260827182000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826140500 +0700" stop="20260826180000 +0700" channel="COSMOTE Sport 6 HD">

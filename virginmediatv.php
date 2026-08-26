@@ -4231,11 +4231,8 @@
 <programme start="20260826000000 +0000" stop="20260826020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Roger Federer in New York</title>
 </programme>
-<programme start="20260826020000 +0000" stop="20260826053000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260826020000 +0000" stop="20260826060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis</title>
-</programme>
-<programme start="20260826053000 +0000" stop="20260826060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Review</title>
 </programme>
 <programme start="20260826120000 +0000" stop="20260826123000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Review</title>
@@ -4960,11 +4957,8 @@
 <programme start="20260826000000 +0000" stop="20260826020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Roger Federer in New York</title>
 </programme>
-<programme start="20260826020000 +0000" stop="20260826053000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260826020000 +0000" stop="20260826060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis</title>
-</programme>
-<programme start="20260826053000 +0000" stop="20260826060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Review</title>
 </programme>
 <programme start="20260826120000 +0000" stop="20260826123000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Review</title>
