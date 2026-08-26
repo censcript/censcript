@@ -1357,23 +1357,20 @@
 <programme start="20260825233000 +0000" stop="20260826000000 +0000" channel="beIN Sports 3.mncvision">
     <title>Mini Match UCL: CHE Vs PSG</title>
 </programme>
-<programme start="20260826000000 +0000" stop="20260826015000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260826000000 +0000" stop="20260826022000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2026/27: SAB Vs HBS</title>
 </programme>
-<programme start="20260826015000 +0000" stop="20260826034000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260826022000 +0000" stop="20260826041000 +0000" channel="beIN Sports 3.mncvision">
     <title>Super Lig 2026/27: FEN Vs KON</title>
 </programme>
-<programme start="20260826034000 +0000" stop="20260826053000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260826041000 +0000" stop="20260826060000 +0000" channel="beIN Sports 3.mncvision">
     <title>WSL 2025/26: ARS Vs BHA</title>
 </programme>
-<programme start="20260826053000 +0000" stop="20260826072000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260826060000 +0000" stop="20260826075000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2026/27: BOD Vs NEC</title>
 </programme>
-<programme start="20260826072000 +0000" stop="20260826073000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260826075000 +0000" stop="20260826080000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL Classic Matches: BAR Vs LYO</title>
-</programme>
-<programme start="20260826073000 +0000" stop="20260826080000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Highlights 2026/27</title>
 </programme>
 <programme start="20260826080000 +0000" stop="20260826093000 +0000" channel="beIN Sports 3.mncvision">
     <title>SailGP 2026: Sassnitz Day 1</title>
@@ -1381,14 +1378,8 @@
 <programme start="20260826093000 +0000" stop="20260826100000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL Highlights 2026/27</title>
 </programme>
-<programme start="20260826100000 +0000" stop="20260826103000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Treble 20: JUV Vs MUN</title>
-</programme>
-<programme start="20260826103000 +0000" stop="20260826122000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260826100000 +0000" stop="20260826123000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2026/27: LAS Vs CEL</title>
-</programme>
-<programme start="20260826122000 +0000" stop="20260826123000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Classic Matches: PSV Vs MIL</title>
 </programme>
 <programme start="20260826123000 +0000" stop="20260826130000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL Highlights 2026/27</title>
@@ -1429,23 +1420,20 @@
 <programme start="20260825233000 +0000" stop="20260826000000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Mini Match UCL: CHE Vs PSG</title>
 </programme>
-<programme start="20260826000000 +0000" stop="20260826015000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260826000000 +0000" stop="20260826022000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2026/27: SAB Vs HBS</title>
 </programme>
-<programme start="20260826015000 +0000" stop="20260826034000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260826022000 +0000" stop="20260826041000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Super Lig 2026/27: FEN Vs KON</title>
 </programme>
-<programme start="20260826034000 +0000" stop="20260826053000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260826041000 +0000" stop="20260826060000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>WSL 2025/26: ARS Vs BHA</title>
 </programme>
-<programme start="20260826053000 +0000" stop="20260826072000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260826060000 +0000" stop="20260826075000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2026/27: BOD Vs NEC</title>
 </programme>
-<programme start="20260826072000 +0000" stop="20260826073000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260826075000 +0000" stop="20260826080000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL Classic Matches: BAR Vs LYO</title>
-</programme>
-<programme start="20260826073000 +0000" stop="20260826080000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Highlights 2026/27</title>
 </programme>
 <programme start="20260826080000 +0000" stop="20260826093000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>SailGP 2026: Sassnitz Day 1</title>
@@ -1453,14 +1441,8 @@
 <programme start="20260826093000 +0000" stop="20260826100000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL Highlights 2026/27</title>
 </programme>
-<programme start="20260826100000 +0000" stop="20260826103000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV Treble 20: JUV Vs MUN</title>
-</programme>
-<programme start="20260826103000 +0000" stop="20260826122000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260826100000 +0000" stop="20260826123000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2026/27: LAS Vs CEL</title>
-</programme>
-<programme start="20260826122000 +0000" stop="20260826123000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCL Classic Matches: PSV Vs MIL</title>
 </programme>
 <programme start="20260826123000 +0000" stop="20260826130000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL Highlights 2026/27</title>

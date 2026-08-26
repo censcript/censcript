@@ -4639,20 +4639,29 @@
   <programme start="20260828073000 +0000" stop="20260828080000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260828080000 +0000" stop="20260828133000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260828080000 +0000" stop="20260828120000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Světový pohár mužů a žen WTT Feeder Olomouc</title>
   </programme>
-  <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260828120000 +0000" stop="20260828123000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">DominicCars</title>
+  </programme>
+  <programme start="20260828123000 +0000" stop="20260828130000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">AutoGRATIS</title>
   </programme>
-  <programme start="20260828140000 +0000" stop="20260828143000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260828130000 +0000" stop="20260828131500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Martin z Martina</title>
   </programme>
-  <programme start="20260828143000 +0000" stop="20260828163000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Světový pohár mužů a žen WTT Feeder Olomouc</title>
+  <programme start="20260828131500 +0000" stop="20260828134500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
   </programme>
-  <programme start="20260828163000 +0000" stop="20260828170000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Topspeed</title>
+  <programme start="20260828134500 +0000" stop="20260828141500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Cargo Magazín</title>
+  </programme>
+  <programme start="20260828141500 +0000" stop="20260828143000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Švihák testuje</title>
+  </programme>
+  <programme start="20260828143000 +0000" stop="20260828170000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Světový pohár mužů a žen WTT Feeder Olomouc</title>
   </programme>
   <programme start="20260828170000 +0000" stop="20260828173000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DominicCars</title>
@@ -5182,11 +5191,8 @@
   <programme start="20260828174500 +0000" stop="20260828175500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Petrolheads</title>
   </programme>
-  <programme start="20260828175500 +0000" stop="20260828181500 +0000" channel="Auto Motor und Sport.webtv.sk">
+  <programme start="20260828175500 +0000" stop="20260828184500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Testovací jezdci CLASSIC</title>
-  </programme>
-  <programme start="20260828181500 +0000" stop="20260828184500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
   </programme>
   <programme start="20260828184500 +0000" stop="20260828191500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Na gauči s Menzelem</title>

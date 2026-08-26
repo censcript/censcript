@@ -15117,7 +15117,7 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20260825230000 +0000" stop="20260826021500 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) 2026 US Open Tennis Championships - Fan Week Day 2 (XD R1&amp;2 Louis Armstrong)</title>
+    <title lang="en">(L) 2026 US Open Tennis Championships - Roger Federer: An Icon Returns to NY</title>
     <desc lang="en">US Open Fan Week brings tennis fans closer to the action with live matches, player appearances, interactive activities, and entertainment ahead of the US Open.</desc>
     <category lang="en">Tennis</category>
   </programme>
@@ -15146,7 +15146,7 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <desc lang="en">Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260826143000 +0000" stop="20260826170000 +0000" channel="spotv2.unifitv">
+  <programme start="20260826143000 +0000" stop="20260826171000 +0000" channel="spotv2.unifitv">
     <title lang="en">22/8 2026 MLB Regular Season - New York Yankees vs Toronto Blue Jays</title>
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
