@@ -28,17 +28,20 @@
 <programme start="20260826030000 +0000" stop="20260826034500 +0000" channel="ABC Australia.mncvision">
     <title>Four Corners</title>
 </programme>
-<programme start="20260826034500 +0000" stop="20260826040500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260826034500 +0000" stop="20260826040000 +0000" channel="ABC Australia.mncvision">
     <title>Media Watch</title>
 </programme>
-<programme start="20260826040500 +0000" stop="20260826043500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260826040000 +0000" stop="20260826043500 +0000" channel="ABC Australia.mncvision">
     <title>Culture By Design</title>
 </programme>
-<programme start="20260826043500 +0000" stop="20260826060000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260826043500 +0000" stop="20260826053000 +0000" channel="ABC Australia.mncvision">
     <title>Restoration Australia</title>
 </programme>
-<programme start="20260826060000 +0000" stop="20260826070000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260826053000 +0000" stop="20260826063000 +0000" channel="ABC Australia.mncvision">
     <title>The Galahs</title>
+</programme>
+<programme start="20260826063000 +0000" stop="20260826070000 +0000" channel="ABC Australia.mncvision">
+    <title>If You&#039;re Listening</title>
 </programme>
 <programme start="20260826070000 +0000" stop="20260826080000 +0000" channel="ABC Australia.mncvision">
     <title>ABC News With Joe O&#039;Brien</title>
@@ -53,7 +56,7 @@
     <title>ABC National News</title>
 </programme>
 <programme start="20260826093000 +0000" stop="20260826100000 +0000" channel="ABC Australia.mncvision">
-    <title>7.3</title>
+    <title>7.30</title>
 </programme>
 <programme start="20260826100000 +0000" stop="20260826110000 +0000" channel="ABC Australia.mncvision">
     <title>Restoration Australia</title>
@@ -77,7 +80,7 @@
     <title>The Business</title>
 </programme>
 <programme start="20260826143000 +0000" stop="20260826150000 +0000" channel="ABC Australia.mncvision">
-    <title>7.3</title>
+    <title>7.30</title>
 </programme>
 <programme start="20260826150000 +0000" stop="20260826160000 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
@@ -1703,10 +1706,10 @@
     <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260826120000 +0000" stop="20260826123000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Spesial</title>
+    <title>Berita Satu Malam</title>
 </programme>
 <programme start="20260826123000 +0000" stop="20260826130000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
+    <title>Berita Satu Spesial</title>
 </programme>
 <programme start="20260826130000 +0000" stop="20260826140000 +0000" channel="BTV.mncvision">
     <title>Jendela Dunia</title>
@@ -8404,38 +8407,35 @@
 <programme start="20260826153000 +0000" stop="20260826160000 +0000" channel="Sportstars HD.mncvision">
     <title>Pro Futsal League</title>
 </programme>
-<programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260825173000 +0000" stop="20260825175500 +0000" channel="SPOTV.mncvision">
+    <title>Champions Of Water: Monaco</title>
 </programme>
-<programme start="20260825180000 +0000" stop="20260825203000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260825175500 +0000" stop="20260825200000 +0000" channel="SPOTV.mncvision">
+    <title>Roshn Saudi League 26/27 (L)</title>
 </programme>
-<programme start="20260825203000 +0000" stop="20260825213000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260825200000 +0000" stop="20260825230000 +0000" channel="SPOTV.mncvision">
+    <title>U.S. Senior Women&#039;s Open C&#039;ship</title>
 </programme>
-<programme start="20260825213000 +0000" stop="20260825223000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260825230000 +0000" stop="20260826030000 +0000" channel="SPOTV.mncvision">
+    <title>2026 FIM ARRC: Mandalika</title>
 </programme>
-<programme start="20260825223000 +0000" stop="20260826003000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826030000 +0000" stop="20260826070000 +0000" channel="SPOTV.mncvision">
+    <title>2026 FIM ARRC: Mandalika</title>
 </programme>
-<programme start="20260826003000 +0000" stop="20260826010000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826070000 +0000" stop="20260826090000 +0000" channel="SPOTV.mncvision">
+    <title>Wanda Diamond League 2026</title>
 </programme>
-<programme start="20260826010000 +0000" stop="20260826040000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826090000 +0000" stop="20260826110000 +0000" channel="SPOTV.mncvision">
+    <title>Roshn Saudi League 26/27</title>
 </programme>
-<programme start="20260826040000 +0000" stop="20260826090000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826110000 +0000" stop="20260826130000 +0000" channel="SPOTV.mncvision">
+    <title>Roshn Saudi League 26/27</title>
 </programme>
-<programme start="20260826090000 +0000" stop="20260826120000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
-</programme>
-<programme start="20260826120000 +0000" stop="20260826150000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826130000 +0000" stop="20260826150000 +0000" channel="SPOTV.mncvision">
+    <title>Wanda Diamond League 2026</title>
 </programme>
 <programme start="20260826150000 +0000" stop="20260826153000 +0000" channel="SPOTV.mncvision">
-    <title>SPOTV</title>
+    <title>Roshn Saudi League 26/27</title>
 </programme>
 <programme start="20260825190000 +0000" stop="20260825230000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 US Open Tennis C&#039;ships (L)</title>
@@ -8485,38 +8485,35 @@
 <programme start="20260826143000 +0000" stop="20260826150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 MLB: NYY Vs TBJ</title>
 </programme>
-<programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260825173000 +0000" stop="20260825175500 +0000" channel="SPOTV HD.mncvision">
+    <title>Champions Of Water: Monaco</title>
 </programme>
-<programme start="20260825180000 +0000" stop="20260825203000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260825175500 +0000" stop="20260825200000 +0000" channel="SPOTV HD.mncvision">
+    <title>Roshn Saudi League 26/27 (L)</title>
 </programme>
-<programme start="20260825203000 +0000" stop="20260825213000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260825200000 +0000" stop="20260825230000 +0000" channel="SPOTV HD.mncvision">
+    <title>U.S. Senior Women&#039;s Open C&#039;ship</title>
 </programme>
-<programme start="20260825213000 +0000" stop="20260825223000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260825230000 +0000" stop="20260826030000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 FIM ARRC: Mandalika</title>
 </programme>
-<programme start="20260825223000 +0000" stop="20260826003000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826030000 +0000" stop="20260826070000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 FIM ARRC: Mandalika</title>
 </programme>
-<programme start="20260826003000 +0000" stop="20260826010000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826070000 +0000" stop="20260826090000 +0000" channel="SPOTV HD.mncvision">
+    <title>Wanda Diamond League 2026</title>
 </programme>
-<programme start="20260826010000 +0000" stop="20260826040000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826090000 +0000" stop="20260826110000 +0000" channel="SPOTV HD.mncvision">
+    <title>Roshn Saudi League 26/27</title>
 </programme>
-<programme start="20260826040000 +0000" stop="20260826090000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826110000 +0000" stop="20260826130000 +0000" channel="SPOTV HD.mncvision">
+    <title>Roshn Saudi League 26/27</title>
 </programme>
-<programme start="20260826090000 +0000" stop="20260826120000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
-</programme>
-<programme start="20260826120000 +0000" stop="20260826150000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+<programme start="20260826130000 +0000" stop="20260826150000 +0000" channel="SPOTV HD.mncvision">
+    <title>Wanda Diamond League 2026</title>
 </programme>
 <programme start="20260826150000 +0000" stop="20260826153000 +0000" channel="SPOTV HD.mncvision">
-    <title>SPOTV</title>
+    <title>Roshn Saudi League 26/27</title>
 </programme>
 <programme start="20260825183500 +0000" stop="20260825201000 +0000" channel="Studio Universal.mncvision">
     <title>Happy Gilmore</title>

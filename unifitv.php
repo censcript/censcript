@@ -455,133 +455,124 @@
     <display-name>DEGUP</display-name>
   </channel>
   <programme start="20260825150000 +0000" stop="20260825160000 +0000" channel="degup.unifitv">
-    <title lang="en">Hilang Kasyorga EP2</title>
-    <desc lang="en">Rodi bergaduh dengan pelanggan di Chow Kit selepas menipu dalam permainan jalanan. Pulang ke rumah, dia mendapati ibunya mahu melacur semula kerana terdesak wang. Rodi menyerahkan semua duitnya dan menolak tawaran kerja membunuh. Sementara itu, Kasyorga keluar bersama Hamdi ke rumah terbengkalai sebagai kenangan terakhir sebelum Hamdi berpindah.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="degup.unifitv">
-    <title lang="en">Obsesi Dia EP9</title>
-    <desc lang="en">Zacky selamat setelah dirawat oleh Dr Zakir dan Dr Flora. Sementara itu Alia mula terganggu dengan Zacky dan orang-orang yang memanggil namanya Affi. Ritz masih tetap merahsiakan idenditi Alia kerana bimbang dia disakiti. Alia mula meragui idenditinya lalu bertindak untuk menyiasat. Dalam situasi berasingan, sepasukan polis giat menyiasat kes-kes lama berkaitan kehilangan dan kematian wanita yang tidak dapat dikesan. Amir menjadi suspek utama mereka</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260825170000 +0000" stop="20260825173000 +0000" channel="degup.unifitv">
-    <title lang="en">Tayangan Perdana Bisikan Pontianak</title>
-    <desc lang="en">Tayangan Perdana ini menampilkan babak pembukaan Bisikan Pontianak bersama rakaman eksklusif di sebalik tabir dan treler rasmi.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260825173000 +0000" stop="20260825190000 +0000" channel="degup.unifitv">
-    <title lang="en">Flat Simpang Satu</title>
-    <desc lang="en">Kisah kehidupan dan perjuangan orang-orang kecil kelas bawahan di FlatSimpang Satu yang berlegar dalam himpitan pola kehidupan,bergelumang dalam jalur ekonomi dan politik sesak. Mereka jugaberhadapan dengan perasaan curiga dan mencurigai antaramereka serta kejadian aneh dan menyeramkan yang dilalui oleh 3 orangpenghuni flat tersebut.</desc>
-    <category lang="en">Thriller</category>
-  </programme>
-  <programme start="20260825190000 +0000" stop="20260825210000 +0000" channel="degup.unifitv">
-    <title lang="en">Dabbe Bir Cin Vakasi</title>
-    <desc lang="en">Rumah sebuah keluarga di Turki dirasuk roh jahat yang ingin membunuh manusia.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260825210000 +0000" stop="20260825220000 +0000" channel="degup.unifitv">
-    <title lang="en">Hysteria! EP8</title>
-    <desc lang="en">Kebenaran akhirnya terbongkar dalam kemuncak yang penuh kejutan dan akibat besar kepada semua.</desc>
-    <category lang="en">Horror</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260825220000 +0000" stop="20260826000000 +0000" channel="degup.unifitv">
-    <title lang="en">Tiger Cage II</title>
-    <desc lang="en">Selepas berada di tempat yang salah pada masa yang salah seorang bekas polis dan seorang peguam perceraian wanita menjadi buruan dan terpaksa bekerjasama dengan seorang penjenayah untuk membersihkan nama mereka daripada terlibat dalam skim pengubahan wang haram yang dipimpin oleh seorang peguam yang kejam.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260826000000 +0000" stop="20260826003000 +0000" channel="degup.unifitv">
-    <title lang="en">Detik 12 Malam EP1</title>
-    <desc lang="en">Pengantara Saiful Azmi Jamsari berkongsi pengalaman semasa merakamkan beberapa episod Detik 12 Malam sebelum ini. Antaranya Episod 1 Musim 1 bertajuk Kisah Penggali Kubur. Beliau terlihat asap berkepul-kelul semasa menggali kubur semasa rakaman. Episod 2 Musim 2, Bertajuk Pemandu Kenderaan Jenazah. Pengantara memandu sendiri van tersebut dan dilihat kain meliput jenazah diterbalikkan. Episod 12 Musim1, Petugas Bilik Mayat. Pengantara berkongsi pengalaman apabila melihat kemunculan lembaga. Episod 9 Musim 2, bertajuk Muzium Perang. Pengantara ternampak patung dalam muzium perang tibatiba- tiba seakan-akan kepalanya bergerak. Episod 3 Musim 1, bertajuk Renjer Hutan. Beliau bertugas sebagai renjer hutan, diganggu oleh saka masyarakat orang asli. Pengantara melihat sendiri makhluk halus melalui kawasan tersebut</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260826003000 +0000" stop="20260826010000 +0000" channel="degup.unifitv">
-    <title lang="en">Tayangan Perdana Bisikan Pontianak</title>
-    <desc lang="en">Tayangan Perdana ini menampilkan babak pembukaan Bisikan Pontianak bersama rakaman eksklusif di sebalik tabir dan treler rasmi.</desc>
-    <category lang="en">Horror</category>
-  </programme>
-  <programme start="20260826010000 +0000" stop="20260826020000 +0000" channel="degup.unifitv">
     <title lang="en">Hilang Kasyorga EP1</title>
     <desc lang="en">Rodi bergaduh dengan pelanggan di Chow Kit selepas menipu dalam permainan jalanan. Pulang ke rumah, dia mendapati ibunya mahu melacur semula kerana terdesak wang. Rodi menyerahkan semua duitnya dan menolak tawaran kerja membunuh. Sementara itu, Kasyorga keluar bersama Hamdi ke rumah terbengkalai sebagai kenangan terakhir sebelum Hamdi berpindah.</desc>
     <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
+  <programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="degup.unifitv">
+    <title lang="en">Obsesi Dia EP8</title>
+    <desc lang="en">Zack terkesima melihat wajah Alia yang saling tak tumpah mirip Affiyah. Kai pembantu Zack dapat maklumat bahawa Alia pernah hilang ingatan akibat kemalangan yang meragut nayawa ibu dan bapa serta saudara kembarnya. Alia sekarang tinggal bersama abangnya,Ritz. Tanpa berlengah Zack menghubungi Ritz. Ritz yang cemas menerima panggi an Zacky enggan melayannya. Ali terserempak dengan kereta Zacky lalu mengekorinya. Tiba disatu lorong Alia menyaksikan pertarungan antara Zacky dengan sekumpulan lelaki yang bersenjatakan kayu dan pistol. Zack cedera namunberjaya dibawa ke kelinik dan dirawat oleh Dr Flora dan Dr Zahir</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="degup.unifitv">
+    <title lang="en">Losmen Melati</title>
+    <desc lang="en">Di tengah-tengah suasana yang tidak menentu, Melati dan Golok dikejutkan dengan kedatangan tetamu luar biasa, Wewe Gombel, yang telah menghidu mangsanya di halaman Melati Inn. Ketika Melati dan Golok cuba mengejar dan menundukkannya, rahsia silam Melati terbongkar, akhirnya membawa Wewe Gombel untuk mencari apa yang dia cari.</desc>
+    <category lang="en">Horror</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260825180000 +0000" stop="20260825183000 +0000" channel="degup.unifitv">
+    <title lang="en">Tayangan Perdana Bisikan Pontianak</title>
+    <desc lang="en">Tayangan Perdana ini menampilkan babak pembukaan Bisikan Pontianak bersama rakaman eksklusif di sebalik tabir dan treler rasmi.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260825183000 +0000" stop="20260825200000 +0000" channel="degup.unifitv">
+    <title lang="en">Flat Simpang Satu</title>
+    <desc lang="en">Kisah kehidupan dan perjuangan orang-orang kecil kelas bawahan di FlatSimpang Satu yang berlegar dalam himpitan pola kehidupan,bergelumang dalam jalur ekonomi dan politik sesak. Mereka jugaberhadapan dengan perasaan curiga dan mencurigai antaramereka serta kejadian aneh dan menyeramkan yang dilalui oleh 3 orangpenghuni flat tersebut.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260825200000 +0000" stop="20260825220000 +0000" channel="degup.unifitv">
+    <title lang="en">J Revolusi</title>
+    <desc lang="en">Mengisahkan Jay Zulkarnain (Haji Zul Ariffin), ketua Unit Tindakan Khas (UTK) yang digeruni penjenayah. Konflik tercetus apabila kakaknya, Dian (Nur Fazura), ditangkap pengganas misteri, Andra (Farid Kamil), yang memiliki Ultra Virus berbahaya. Jay ditugaskan menyekat ancaman virus itu sambil menyelamatkan kakaknya yang dijadikan tebusan. Namun, misi itu membawa tragedi apabila pasukannya terkorban, menimbulkan pelbagai tuduhan dan kejutan. Bersama rakan setugas, Eddie (Izara Aishah) dan Jiman (Iedil Putra), Jay berjuang menentang masa dan musuh untuk menyelamatkan Dian dan menggagalkan rancangan Andra.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260825220000 +0000" stop="20260826000000 +0000" channel="degup.unifitv">
+    <title lang="en">Raya Emas: Salako Sacred Tresure</title>
+    <desc lang="en">Jauh di dalam hutan Sarawak, sebuah legenda kuno tentang "Raya Emas" telah diwarisi turun-temurun. Tapi apabila mata-mata tamak mula mengarah kepadanya, satu perjalanan yang menguji iman dan keberanian bakal terungkai.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260826000000 +0000" stop="20260826020000 +0000" channel="degup.unifitv">
+    <title lang="en">Hollow Man 2</title>
+    <desc lang="en">Seorang detektif Seattle dan seorang ahli biologi sedang melarikan diri daripada pembunuh upahan halimunan yang berbahaya dan menjadi penyangak.</desc>
+    <category lang="en">Action</category>
+  </programme>
   <programme start="20260826020000 +0000" stop="20260826030000 +0000" channel="degup.unifitv">
-    <title lang="en">Hilang Kasyorga EP2</title>
-    <desc lang="en">Rodi bergaduh dengan pelanggan di Chow Kit selepas menipu dalam permainan jalanan. Pulang ke rumah, dia mendapati ibunya mahu melacur semula kerana terdesak wang. Rodi menyerahkan semua duitnya dan menolak tawaran kerja membunuh. Sementara itu, Kasyorga keluar bersama Hamdi ke rumah terbengkalai sebagai kenangan terakhir sebelum Hamdi berpindah.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <title lang="en">Black S2 EP6</title>
+    <desc lang="en">Black berdepan dengan kes yang paling menggentarkan apabila emosinya terganggu buat pertama kali - seluruh skuad keluar mencari Bagas, yang juga dikenali sebagai Lelaki Berparut Cangkuk yang telah menahan dua orang tebusan, yang nampaknya cedera. Borhan bersemuka dengan Rahman tentang kaitannya dengan penipuan insurans yang ada hubungan dengan Lelaki Berparut Cangkuk. Akhirnya, pertembungan yang tegang dikhuatiri akan meragut nyawa orang yang tidak bersalah.</desc>
+    <category lang="en">Fantasy</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
   </programme>
   <programme start="20260826030000 +0000" stop="20260826050000 +0000" channel="degup.unifitv">
-    <title lang="en">Uka-Uka The Movie: Nini Tulang</title>
-    <desc lang="en">Populariti program Uka-uka di televisyen membuat Shelly ingin menyertai ujian keberanian. Pasukan Uka-uka sedang menuju ke lokasi ujian keberanian terbaru Alas Moyang, yang terletak berhampiran dengan tempat tinggal Shelly.</desc>
-    <category lang="en">Horror</category>
+    <title lang="en">Brick Mansion</title>
+    <desc lang="en">Di Detroit dystopian, rumah besar yang pernah menempatkan orang kaya kini menjadi rumah penjenayah paling berbahaya di bandar itu. Di sekeliling kawasan itu terdapat tembok gergasi untuk memastikan seluruh Detroit selamat. Bagi polis yang menyamar Damien Collier, setiap hari adalah perjuangan menentang rasuah ketika dia berjuang untuk membawa pembunuh bapanya, Tremaine, ke muka pengadilan. Sementara itu, Damien dan bekas penipu bernama Lino bekerjasama untuk menyelamatkan bandar itu daripada komplot untuk memusnahkannya.</desc>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260826050000 +0000" stop="20260826070000 +0000" channel="degup.unifitv">
-    <title lang="en">The Lift</title>
-    <desc lang="en">Selepas sahabat baiknya hilang, seorang gadis kolej yang menghidap klaustrofobia mula menyiasat lif misteri tempat rakannya kali terakhir dilihat — lif yang mungkin merupakan pintu ke dunia gelap yang menakutkan.</desc>
-    <category lang="en">Horror</category>
+    <title lang="en">The Professionals</title>
+    <desc lang="en">Dikhianati oleh rakan niaganya, Reza, Abi dipenjarakan. Keluar dari penjara, dia merekrut mangsa Reza, dan merancang untuk membalas dendam.</desc>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260826070000 +0000" stop="20260826080000 +0000" channel="degup.unifitv">
+    <title lang="en">Hilang Kasyorga EP1</title>
+    <desc lang="en">Rodi bergaduh dengan pelanggan di Chow Kit selepas menipu dalam permainan jalanan. Pulang ke rumah, dia mendapati ibunya mahu melacur semula kerana terdesak wang. Rodi menyerahkan semua duitnya dan menolak tawaran kerja membunuh. Sementara itu, Kasyorga keluar bersama Hamdi ke rumah terbengkalai sebagai kenangan terakhir sebelum Hamdi berpindah.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260826080000 +0000" stop="20260826090000 +0000" channel="degup.unifitv">
     <title lang="en">Hilang Kasyorga EP2</title>
     <desc lang="en">Rodi bergaduh dengan pelanggan di Chow Kit selepas menipu dalam permainan jalanan. Pulang ke rumah, dia mendapati ibunya mahu melacur semula kerana terdesak wang. Rodi menyerahkan semua duitnya dan menolak tawaran kerja membunuh. Sementara itu, Kasyorga keluar bersama Hamdi ke rumah terbengkalai sebagai kenangan terakhir sebelum Hamdi berpindah.</desc>
     <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260826080000 +0000" stop="20260826100000 +0000" channel="degup.unifitv">
+  <programme start="20260826090000 +0000" stop="20260826103000 +0000" channel="degup.unifitv">
+    <title lang="en">Flat Simpang Satu</title>
+    <desc lang="en">Kisah kehidupan dan perjuangan orang-orang kecil kelas bawahan di FlatSimpang Satu yang berlegar dalam himpitan pola kehidupan,bergelumang dalam jalur ekonomi dan politik sesak. Mereka jugaberhadapan dengan perasaan curiga dan mencurigai antaramereka serta kejadian aneh dan menyeramkan yang dilalui oleh 3 orangpenghuni flat tersebut.</desc>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20260826103000 +0000" stop="20260826110000 +0000" channel="degup.unifitv">
+    <title lang="en">Tayangan Perdana Bisikan Pontianak</title>
+    <desc lang="en">Tayangan Perdana ini menampilkan babak pembukaan Bisikan Pontianak bersama rakaman eksklusif di sebalik tabir dan treler rasmi.</desc>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20260826110000 +0000" stop="20260826120000 +0000" channel="degup.unifitv">
+    <title lang="en">Hilang Kasyorga EP2</title>
+    <desc lang="en">Rodi bergaduh dengan pelanggan di Chow Kit selepas menipu dalam permainan jalanan. Pulang ke rumah, dia mendapati ibunya mahu melacur semula kerana terdesak wang. Rodi menyerahkan semua duitnya dan menolak tawaran kerja membunuh. Sementara itu, Kasyorga keluar bersama Hamdi ke rumah terbengkalai sebagai kenangan terakhir sebelum Hamdi berpindah.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260826120000 +0000" stop="20260826140000 +0000" channel="degup.unifitv">
     <title lang="en">Petualangan Anak Penangkap Hantu</title>
     <desc lang="en">Pengembaraan sekumpulan kanak-kanak yang suka menangkap hantu. Mereka ialah Rafi, Zidan dan Chacha. Seperti Pemburu Hantu sebenar, mereka mempunyai alat yang boleh membantu mereka menyiapkan misi menangkap.</desc>
     <category lang="en">Horror</category>
   </programme>
-  <programme start="20260826100000 +0000" stop="20260826110000 +0000" channel="degup.unifitv">
+  <programme start="20260826140000 +0000" stop="20260826150000 +0000" channel="degup.unifitv">
+    <title lang="en">Misteri Wan Peah EP2</title>
+    <desc lang="en">Siti seorang ibu tunggal bersama anaknya Aishah dan adiknya Yurin baru berpindah ke Kg Sg Kuala Pari Hilir. Siti akan mengajar sekolah berhampiran. Bagaimanapun, kehadirannya tidak disenangi oleh Cikgu Zaiton, juga guru di sekolah itu. Kumbang mengajak Gani Gagap dan Li meniaga ikan masin. Ketika berniaga, mereka mendapat tahu Cikgu Siti tinggal berhampiran dengan rumah Wan Peah.</desc>
+    <category lang="en">Horror</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260826150000 +0000" stop="20260826160000 +0000" channel="degup.unifitv">
     <title lang="en">Hilang Kasyorga EP2</title>
     <desc lang="en">Rodi bergaduh dengan pelanggan di Chow Kit selepas menipu dalam permainan jalanan. Pulang ke rumah, dia mendapati ibunya mahu melacur semula kerana terdesak wang. Rodi menyerahkan semua duitnya dan menolak tawaran kerja membunuh. Sementara itu, Kasyorga keluar bersama Hamdi ke rumah terbengkalai sebagai kenangan terakhir sebelum Hamdi berpindah.</desc>
     <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260826110000 +0000" stop="20260826120000 +0000" channel="degup.unifitv">
-    <title lang="en">Hilang Kasyorga EP3</title>
-    <desc lang="en">Rodi siasat sindiket penculikan, berdepan dilema antara tugas dan menyelamatkan Kasyorga. Reza sembunyi budak di rumah Kak Esah. Rahsia Mak Siti terbongkar. Rodi menjejak Rajoo di tengah laut.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260826120000 +0000" stop="20260826140000 +0000" channel="degup.unifitv">
-    <title lang="en">Bunohan</title>
-    <desc lang="en">3 abang pulang ke kampung Bunohan dengan tiga alasan yang sangat berbeza; mereka akan menemui kematian, penipuan dan wahyu yang sangat suram.</desc>
-    <category lang="en">Action</category>
-  </programme>
-  <programme start="20260826140000 +0000" stop="20260826150000 +0000" channel="degup.unifitv">
-    <title lang="en">Misteri Wan Peah EP3</title>
-    <desc lang="en">Sedang Nurin leka, dia mendapati Aisyah tiada dipangkuannya. Nurin menjadi takut. Dia cuba mencari Aisyah disekitar kawasan kampung. Aishah hilang semasa Nurin keluar dengan Yeh Kumbang. Mereka mula mencari Aishah. Cik Siti yang sedang mengajar di sekolah terkejut dengan berita yang dibawa oleh orang kampung.</desc>
-    <category lang="en">Horror</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260826150000 +0000" stop="20260826160000 +0000" channel="degup.unifitv">
-    <title lang="en">Hilang Kasyorga EP3</title>
-    <desc lang="en">Rodi siasat sindiket penculikan, berdepan dilema antara tugas dan menyelamatkan Kasyorga. Reza sembunyi budak di rumah Kak Esah. Rahsia Mak Siti terbongkar. Rodi menjejak Rajoo di tengah laut.</desc>
-    <category lang="en">Family</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
   <programme start="20260826160000 +0000" stop="20260826170000 +0000" channel="degup.unifitv">
-    <title lang="en">Obsesi Dia EP10</title>
-    <desc lang="en">Polis mengatur rancangan untuk memerangkap Amir. Tan Seri Jamaludin hilang sabar kerana Uda masih gagal mendapatkan tanda tangan Zacky. Dia memberhentikan semua kemudahan kewangan Zacky serta mengupah orang melanggar Uda. Sementara itu Zacky berjaya memikat Alia dan sempat menyampaikan hasrat untuk memilikinya. Alia mula terasa pernah melalui hidup bersama Zacky. Emosi dan fikirannya Alia semakin terganggau dan keliru sehingga mengalamai depresi. Sophie pula tidak sabar memiliki Zacky untuk mengaut harta. Rafeeq mengarah orang-orang untuk terus menjejaki Zacky dan Alia</desc>
+    <title lang="en">Obsesi Dia EP9</title>
+    <desc lang="en">Zacky selamat setelah dirawat oleh Dr Zakir dan Dr Flora. Sementara itu Alia mula terganggu dengan Zacky dan orang-orang yang memanggil namanya Affi. Ritz masih tetap merahsiakan idenditi Alia kerana bimbang dia disakiti. Alia mula meragui idenditinya lalu bertindak untuk menyiasat. Dalam situasi berasingan, sepasukan polis giat menyiasat kes-kes lama berkaitan kehilangan dan kematian wanita yang tidak dapat dikesan. Amir menjadi suspek utama mereka</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <channel id="tv1.unifitv">
     <display-name>TV1</display-name>
@@ -15082,10 +15073,15 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <desc lang="en">America's leading senior female golfers compete for one of the most prestigious titles in senior women's golf, showcasing experience, skill, and championship excellence.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260825230000 +0000" stop="20260826070000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 US Open Tennis Championships - Fan Week Day 1 (XD Qualifying)</title>
-    <desc lang="en">US Open Fan Week brings tennis fans closer to the action with live matches, player appearances, interactive activities, and entertainment ahead of the US Open.</desc>
-    <category lang="en">Tennis</category>
+  <programme start="20260825230000 +0000" stop="20260826030000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 FIM ARRC Round 4: Mandalika, Indonesia - Race 1</title>
+    <desc lang="en">Asia's top riders battle across premier circuits in the FIM Asia Road Racing Championship, delivering high-speed action, fierce rivalries, and thrilling two-wheel competition.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20260826030000 +0000" stop="20260826070000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 FIM ARRC Round 4: Mandalika, Indonesia - Race 2</title>
+    <desc lang="en">Asia's top riders battle across premier circuits in the FIM Asia Road Racing Championship, delivering high-speed action, fierce rivalries, and thrilling two-wheel competition.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260826070000 +0000" stop="20260826090000 +0000" channel="spotv.unifitv">
     <title lang="en">Roshn Saudi League 26/27 - MD 2 Al Fayha vs Al Hilal</title>

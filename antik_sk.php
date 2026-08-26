@@ -721,16 +721,16 @@
   <programme start="20260827225500 +0000" stop="20260827234000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Komisár Rex I (10)</title>
   </programme>
-  <programme start="20260827234000 +0000" stop="20260828001000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260827234000 +0000" stop="20260828000500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Anderov rebrinák (10)</title>
   </programme>
-  <programme start="20260828001000 +0000" stop="20260828020500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260828000500 +0000" stop="20260828020500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Sedem s r.o. (16)</title>
   </programme>
-  <programme start="20260828020500 +0000" stop="20260828025500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260828020500 +0000" stop="20260828025000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Dereš (1)</title>
   </programme>
-  <programme start="20260828025500 +0000" stop="20260828040000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260828025000 +0000" stop="20260828040000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Aj múdry schybí (31)</title>
   </programme>
   <programme start="20260828040000 +0000" stop="20260828050000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -2668,6 +2668,9 @@
   <programme start="20260828000000 +0000" stop="20260828040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
+  <programme start="20260828060000 +0000" stop="20260828073000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">O KOHO JSEM ZAVADIL</title>
+  </programme>
   <programme start="20260827220000 +0000" stop="20260827231000 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Pohybe</title>
   </programme>
@@ -3490,13 +3493,13 @@
   <programme start="20260828080700 +0000" stop="20260828082000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">City: Dobrodružství III</title>
   </programme>
-  <programme start="20260828082000 +0000" stop="20260828083500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260828082000 +0000" stop="20260828084000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Zvířecí profesionálové</title>
   </programme>
-  <programme start="20260828083500 +0000" stop="20260828084000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260828084000 +0000" stop="20260828084200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue I</title>
   </programme>
-  <programme start="20260828084000 +0000" stop="20260828084900 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260828084200 +0000" stop="20260828084900 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue I</title>
   </programme>
   <programme start="20260828084900 +0000" stop="20260828085600 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3523,10 +3526,10 @@
   <programme start="20260828103000 +0000" stop="20260828104100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Moucha Loyd</title>
   </programme>
-  <programme start="20260828104100 +0000" stop="20260828110000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260828104100 +0000" stop="20260828105200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Moucha Loyd</title>
   </programme>
-  <programme start="20260828110000 +0000" stop="20260828110100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260828105200 +0000" stop="20260828110100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kreslíme s Willem</title>
   </programme>
   <programme start="20260828110100 +0000" stop="20260828110700 +0000" channel="ČT :D - ČT art.webtv.sk">
