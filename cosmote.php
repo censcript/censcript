@@ -62,6 +62,14 @@
     <title>Football: OFI - PFC CSKA Sofia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260827210000 +0700" stop="20260827213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2026-27</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260827213000 +0700" stop="20260827220000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2026-27</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260826191500 +0700" stop="20260826211500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: FC Internazionale Milano - Monza</title>
     <desc>Live: Tidak</desc>
@@ -126,12 +134,12 @@
     <title>Football: Torino - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260826182500 +0700" stop="20260826202500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: West Bromwich Albion - Burnley</title>
+<programme start="20260827212000 +0700" stop="20260827215500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2026-27 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260826202500 +0700" stop="20260826204500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
+<programme start="20260827215500 +0700" stop="20260828000000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - PFC CSKA Sofia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826204500 +0700" stop="20260826211500 +0700" channel="COSMOTE Sport 3 HD">
@@ -214,8 +222,8 @@
     <title>Football: Sheffield Wednesday - Bradford City A.F.C.</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260826182000 +0700" stop="20260826202000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Bahcesehir - Besiktas</title>
+<programme start="20260827214500 +0700" stop="20260828004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>American Football: Denver Broncos - New England Patriots</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826202000 +0700" stop="20260826222000 +0700" channel="COSMOTE Sport 4 HD">
@@ -276,14 +284,6 @@
 </programme>
 <programme start="20260827205000 +0700" stop="20260827230000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Valencia Basket Club - Barcelona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260826190500 +0700" stop="20260826201000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260826201000 +0700" stop="20260826204000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260826204000 +0700" stop="20260826221000 +0700" channel="COSMOTE Sport 5 HD">
@@ -371,6 +371,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260827201500 +0700" stop="20260827212000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260827212000 +0700" stop="20260827225000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

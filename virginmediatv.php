@@ -4346,7 +4346,7 @@
     <title>Player Spotlight - Summer Sessions</title>
 </programme>
 <programme start="20260826134500 +0000" stop="20260826140000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Kobbie Mainoo x Academy</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260826140000 +0000" stop="20260826155500 +0000" channel="MUTV.virginmediatv">
     <title>The Impossible Dream</title>
