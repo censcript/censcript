@@ -4202,7 +4202,7 @@
     <title>NFL Football - Divisional Play-Off: Baltimore Ravens at Buffalo Bills</title>
 </programme>
 <programme start="20260826010000 +0000" stop="20260826044000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Premier League - Manchester City v Sunderland</title>
+    <title>Premier League Darts - Night 8: Berlin</title>
 </programme>
 <programme start="20260826044000 +0000" stop="20260826044500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Top 5 Moments - John Part</title>
@@ -4231,7 +4231,7 @@
 <programme start="20260826000000 +0000" stop="20260826020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Roger Federer in New York</title>
 </programme>
-<programme start="20260826020000 +0000" stop="20260826060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260826020000 +0000" stop="20260826064000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis</title>
 </programme>
 <programme start="20260826120000 +0000" stop="20260826123000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -4928,7 +4928,7 @@
     <title>NFL Football - Divisional Play-Off: Baltimore Ravens at Buffalo Bills</title>
 </programme>
 <programme start="20260826010000 +0000" stop="20260826044000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Premier League - Manchester City v Sunderland</title>
+    <title>Premier League Darts - Night 8: Berlin</title>
 </programme>
 <programme start="20260826044000 +0000" stop="20260826044500 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Top 5 Moments - John Part</title>
@@ -4957,7 +4957,7 @@
 <programme start="20260826000000 +0000" stop="20260826020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Roger Federer in New York</title>
 </programme>
-<programme start="20260826020000 +0000" stop="20260826060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260826020000 +0000" stop="20260826064000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis</title>
 </programme>
 <programme start="20260826120000 +0000" stop="20260826123000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
