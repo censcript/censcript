@@ -9076,11 +9076,14 @@
   <programme start="20260828160500 +0000" stop="20260828180000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Zločiny z vřesovišť V (2)</title>
   </programme>
-  <programme start="20260828180000 +0000" stop="20260828200000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260828180000 +0000" stop="20260828194500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Jedno shnilé jablko: Záhada Hannah Swensenové</title>
   </programme>
-  <programme start="20260828200000 +0000" stop="20260828220000 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260828194500 +0000" stop="20260828214500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Po stopách krve</title>
+  </programme>
+  <programme start="20260828214500 +0000" stop="20260828220000 +0000" channel="FilmBox Stars.webtv.sk">
+    <title lang="id">Divoké srdce</title>
   </programme>
   <programme start="20260827201500 +0000" stop="20260827223500 +0000" channel="FightBox.webtv.sk">
     <title lang="id">FCR MMA 20, 01.06.2024 I (3)</title>
