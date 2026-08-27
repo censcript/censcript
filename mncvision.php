@@ -5245,11 +5245,8 @@
 <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="Kids TV.mncvision">
     <title>Thomas &amp; Friends S21</title>
 </programme>
-<programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="Kids TV.mncvision">
+<programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="Kids TV.mncvision">
     <title>PAW Patrol S4</title>
-</programme>
-<programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="Kids TV.mncvision">
-    <title>Backkom S5</title>
 </programme>
 <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="Kids TV.mncvision">
     <title>Bintang Lapangan</title>
@@ -5380,11 +5377,8 @@
 <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="Kids TV HD.mncvision">
     <title>Thomas &amp; Friends S21</title>
 </programme>
-<programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="Kids TV HD.mncvision">
     <title>PAW Patrol S4</title>
-</programme>
-<programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="Kids TV HD.mncvision">
-    <title>Backkom S5</title>
 </programme>
 <programme start="20260827143000 +0000" stop="20260827153000 +0000" channel="Kids TV HD.mncvision">
     <title>Bintang Lapangan</title>
