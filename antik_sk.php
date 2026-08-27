@@ -1012,7 +1012,7 @@
   <programme start="20260829200500 +0000" stop="20260829220500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Posledná štvanica</title>
   </programme>
-  <programme start="20260828182500 +0000" stop="20260828222000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260828183000 +0000" stop="20260828222000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Rozlúčkový zápas Zdena Cháru</title>
   </programme>
   <programme start="20260828222000 +0000" stop="20260828230500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1021,37 +1021,37 @@
   <programme start="20260828230500 +0000" stop="20260829003000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20260829003000 +0000" stop="20260829010000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829003000 +0000" stop="20260829013500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20260829010000 +0000" stop="20260829044000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829013500 +0000" stop="20260829051000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">ČSOB Bratislava Marathon 2026</title>
   </programme>
-  <programme start="20260829044000 +0000" stop="20260829063500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829051000 +0000" stop="20260829071500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260829063500 +0000" stop="20260829100000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829071500 +0000" stop="20260829100000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260829100000 +0000" stop="20260829123500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829100000 +0000" stop="20260829123000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Šach</title>
   </programme>
-  <programme start="20260829123500 +0000" stop="20260829143000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829123000 +0000" stop="20260829142500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Športové lezenie</title>
   </programme>
-  <programme start="20260829143000 +0000" stop="20260829153000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829142500 +0000" stop="20260829152500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Športové lezenie</title>
   </programme>
-  <programme start="20260829153000 +0000" stop="20260829180000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829152500 +0000" stop="20260829183000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Rozlúčkový zápas Zdena Cháru</title>
   </programme>
-  <programme start="20260829180000 +0000" stop="20260829202500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829183000 +0000" stop="20260829202500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260829202500 +0000" stop="20260829235500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829202500 +0000" stop="20260829230000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Maratón</title>
   </programme>
-  <programme start="20260828201000 +0000" stop="20260828224500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260828202500 +0000" stop="20260828224500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal Reprezentácia muži</title>
   </programme>
   <programme start="20260828224500 +0000" stop="20260829011000 +0000" channel="JOJ Šport 2.webtv.sk">

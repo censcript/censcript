@@ -1,7 +1,7 @@
-<programme start="20260827000000 +0000" stop="20260827005600 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260827000000 +0000" stop="20260827010000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Shetland - Episode 4</title>
 </programme>
-<programme start="20260827005600 +0000" stop="20260827051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260827010000 +0000" stop="20260827051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260827051500 +0000" stop="20260827060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
@@ -481,10 +481,10 @@
 <programme start="20260827000000 +0000" stop="20260827010000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Sports Stories - Philly McMahon</title>
 </programme>
-<programme start="20260827010000 +0000" stop="20260827015600 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260827010000 +0000" stop="20260827020000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Shetland - Episode 4</title>
 </programme>
-<programme start="20260827015600 +0000" stop="20260827061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260827020000 +0000" stop="20260827061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260827100000 +0000" stop="20260827123000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
@@ -4331,7 +4331,7 @@
     <title>Premier League Cup - Manchester United U18 v Charlton Athletic U18</title>
 </programme>
 <programme start="20260827003000 +0000" stop="20260827010000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League 2 - Manchester United U21 v Ipswich Town U21</title>
+    <title>Premier League 2 - Highlights: Manchester United U21 v Ipswich Town U21</title>
 </programme>
 <programme start="20260827010000 +0000" stop="20260827030000 +0000" channel="MUTV.virginmediatv">
     <title>The Impossible Dream</title>
@@ -4435,11 +4435,8 @@
 <programme start="20260827123000 +0000" stop="20260827160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 6</title>
 </programme>
-<programme start="20260827160000 +0000" stop="20260827170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260827160000 +0000" stop="20260827171500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>UEFA Champions League Draw - League Phase</title>
-</programme>
-<programme start="20260827170000 +0000" stop="20260827171500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Groundbreaking - Anfield</title>
 </programme>
 <programme start="20260827171500 +0000" stop="20260827181500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -4549,10 +4546,10 @@
 <programme start="20260827090000 +0000" stop="20260827124500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: ETPL - Belfast Wolves v Dublin Guardians</title>
 </programme>
-<programme start="20260827124500 +0000" stop="20260827163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260827124500 +0000" stop="20260827164500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: ETPL - Edinburgh Castle Rockers v Glasgow Cosmic</title>
 </programme>
-<programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260827164500 +0000" stop="20260827170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>CPL T20 - Trinbago Knight Riders v St. Lucia Kings</title>
 </programme>
 <programme start="20260827170000 +0000" stop="20260827180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
@@ -5086,11 +5083,8 @@
 <programme start="20260827123000 +0000" stop="20260827160000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Vuelta a España - Stage 6</title>
 </programme>
-<programme start="20260827160000 +0000" stop="20260827170000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260827160000 +0000" stop="20260827171500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>UEFA Champions League Draw - League Phase</title>
-</programme>
-<programme start="20260827170000 +0000" stop="20260827171500 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Groundbreaking - Anfield</title>
 </programme>
 <programme start="20260827171500 +0000" stop="20260827181500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -5200,10 +5194,10 @@
 <programme start="20260827090000 +0000" stop="20260827124500 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: ETPL - Belfast Wolves v Dublin Guardians</title>
 </programme>
-<programme start="20260827124500 +0000" stop="20260827163000 +0000" channel="TNT_Sports_4.virginmediatv">
+<programme start="20260827124500 +0000" stop="20260827164500 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: ETPL - Edinburgh Castle Rockers v Glasgow Cosmic</title>
 </programme>
-<programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="TNT_Sports_4.virginmediatv">
+<programme start="20260827164500 +0000" stop="20260827170000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>CPL T20 - Trinbago Knight Riders v St. Lucia Kings</title>
 </programme>
 <programme start="20260827170000 +0000" stop="20260827180000 +0000" channel="TNT_Sports_4.virginmediatv">
@@ -6292,7 +6286,10 @@
 <programme start="20260826175800 +0000" stop="20260827015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260827015800 +0000" stop="20260827060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260827015800 +0000" stop="20260827050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260827050000 +0000" stop="20260827060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260827120000 +0000" stop="20260827123000 +0000" channel="CBBC.virginmediatv">

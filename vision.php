@@ -664,17 +664,8 @@
 <programme start="20260827093000 +0000" stop="20260827113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260827113000 +0000" stop="20260827140000 +0000" channel="ANTV.vision">
-<title>Jaka Swara</title>
-</programme>
 <programme start="20260827140000 +0000" stop="20260827160000 +0000" channel="ANTV.vision">
 <title>Iblis dalam Darah</title>
-</programme>
-<programme start="20260827160000 +0000" stop="20260827180000 +0000" channel="ANTV.vision">
-<title>Siluman Serigala</title>
-</programme>
-<programme start="20260827180000 +0000" stop="20260827190000 +0000" channel="ANTV.vision">
-<title>Colour Of The Truth</title>
 </programme>
 <programme start="20260827190000 +0000" stop="20260827203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260827030300 +0000" stop="20260827033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260827033000 +0000" stop="20260827040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260827040000 +0000" stop="20260827040300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260827040300 +0000" stop="20260827043000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
