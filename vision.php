@@ -152,7 +152,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260828110000 +0000" stop="20260828120000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Berkawan Biar Seribu</title>
 </programme>
 <programme start="20260828120000 +0000" stop="20260828133000 +0000" channel="GTV.vision">
 <title>Liga Bintang Juara</title>
@@ -200,7 +200,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260829110000 +0000" stop="20260829123000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Raja Hutan Yang Beranjak Tua</title>
 </programme>
 <programme start="20260827234500 +0000" stop="20260828001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -235,7 +235,10 @@
 <programme start="20260828091500 +0000" stop="20260828120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20260828120000 +0000" stop="20260828133000 +0000" channel="iNews.vision">
+<programme start="20260828120000 +0000" stop="20260828120500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260828120500 +0000" stop="20260828133000 +0000" channel="iNews.vision">
 <title>iNews Room (L)</title>
 </programme>
 <programme start="20260828133000 +0000" stop="20260828150000 +0000" channel="iNews.vision">
@@ -250,17 +253,20 @@
 <programme start="20260828160000 +0000" stop="20260828170000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260828170000 +0000" stop="20260828174500 +0000" channel="iNews.vision">
+<programme start="20260828170000 +0000" stop="20260828173000 +0000" channel="iNews.vision">
+<title>iNews Sport</title>
+</programme>
+<programme start="20260828173000 +0000" stop="20260828180000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
-<programme start="20260828174500 +0000" stop="20260828183000 +0000" channel="iNews.vision">
+<programme start="20260828180000 +0000" stop="20260828183000 +0000" channel="iNews.vision">
 <title>iNews Sore</title>
 </programme>
 <programme start="20260828183000 +0000" stop="20260828190000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260828190000 +0000" stop="20260828193000 +0000" channel="iNews.vision">
-<title>iNews Malam</title>
+<title>iNews Room</title>
 </programme>
 <programme start="20260828193000 +0000" stop="20260828201500 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -415,54 +421,6 @@
 <programme start="20260829110000 +0000" stop="20260829120000 +0000" channel="SindoNews.vision">
 <title>One On One</title>
 </programme>
-<programme start="20260827233000 +0000" stop="20260828003000 +0000" channel="Trans TV.vision">
-<title>Insert Pagi (L)</title>
-</programme>
-<programme start="20260828003000 +0000" stop="20260828013000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia Good Morning</title>
-</programme>
-<programme start="20260828013000 +0000" stop="20260828033000 +0000" channel="Trans TV.vision">
-<title>Pagi-Pagi Ambyar</title>
-</programme>
-<programme start="20260828033000 +0000" stop="20260828053000 +0000" channel="Trans TV.vision">
-<title>Insert Siang</title>
-</programme>
-<programme start="20260828053000 +0000" stop="20260828070000 +0000" channel="Trans TV.vision">
-<title>Brownis (Obrowlan Manis)</title>
-</programme>
-<programme start="20260828070000 +0000" stop="20260828080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
-</programme>
-<programme start="20260828080000 +0000" stop="20260828090000 +0000" channel="Trans TV.vision">
-<title>Insert Today</title>
-</programme>
-<programme start="20260828090000 +0000" stop="20260828093000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia News Update</title>
-</programme>
-<programme start="20260828093000 +0000" stop="20260828103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260828103000 +0000" stop="20260828114500 +0000" channel="Trans TV.vision">
-<title>Bikin Laper</title>
-</programme>
-<programme start="20260828114500 +0000" stop="20260828130000 +0000" channel="Trans TV.vision">
-<title>Insert Story</title>
-</programme>
-<programme start="20260828130000 +0000" stop="20260828150000 +0000" channel="Trans TV.vision">
-<title>Bioskop Trans TV</title>
-</programme>
-<programme start="20260828150000 +0000" stop="20260828170000 +0000" channel="Trans TV.vision">
-<title>Bioskop Trans TV</title>
-</programme>
-<programme start="20260828170000 +0000" stop="20260828220000 +0000" channel="Trans TV.vision">
-<title>Pilihan Indonesia: Debat Capres</title>
-</programme>
-<programme start="20260828220000 +0000" stop="20260828233000 +0000" channel="Trans TV.vision">
-<title>Islam Itu Indah</title>
-</programme>
-<programme start="20260828233000 +0000" stop="20260829003000 +0000" channel="Trans TV.vision">
-<title>Insert Pagi (L)</title>
-</programme>
 <programme start="20260829003000 +0000" stop="20260829020000 +0000" channel="Trans TV.vision">
 <title>Kajian Hati</title>
 </programme>
@@ -476,13 +434,13 @@
 <title>Insert Siang</title>
 </programme>
 <programme start="20260829053000 +0000" stop="20260829063000 +0000" channel="Trans TV.vision">
-<title>Brownis On The Weekend</title>
+<title>The Little Talkchow</title>
 </programme>
 <programme start="20260829063000 +0000" stop="20260829070000 +0000" channel="Trans TV.vision">
 <title>Masak Anti Ribet</title>
 </programme>
 <programme start="20260829070000 +0000" stop="20260829080000 +0000" channel="Trans TV.vision">
-<title>Rumpi Hot Of The Week</title>
+<title>No Secret: Weekend Stories</title>
 </programme>
 <programme start="20260829080000 +0000" stop="20260829090000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
@@ -525,9 +483,6 @@
 </programme>
 <programme start="20260828071500 +0000" stop="20260828074500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
-</programme>
-<programme start="20260828074500 +0000" stop="20260828081500 +0000" channel="Trans 7.vision">
-<title>Spotlite Anti Kudet</title>
 </programme>
 <programme start="20260828081500 +0000" stop="20260828090000 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
@@ -628,6 +583,9 @@
 <programme start="20260829113000 +0000" stop="20260829121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260827230000 +0000" stop="20260828023000 +0000" channel="ANTV.vision">
+<title>Bhediya</title>
+</programme>
 <programme start="20260828023000 +0000" stop="20260828060000 +0000" channel="ANTV.vision">
 <title>Singham Again</title>
 </programme>
@@ -640,32 +598,26 @@
 <programme start="20260828093000 +0000" stop="20260828113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260828113000 +0000" stop="20260828140000 +0000" channel="ANTV.vision">
-<title>Menggapai Matahari</title>
-</programme>
-<programme start="20260828140000 +0000" stop="20260828160000 +0000" channel="ANTV.vision">
-<title>Kuntilanak: Cermin Keramat</title>
-</programme>
-<programme start="20260828160000 +0000" stop="20260828180000 +0000" channel="ANTV.vision">
+<programme start="20260828153000 +0000" stop="20260828173000 +0000" channel="ANTV.vision">
 <title>Mandala: Penakluk Satria Tartar</title>
 </programme>
-<programme start="20260828180000 +0000" stop="20260828190000 +0000" channel="ANTV.vision">
-<title>Looking For Mister Perfect</title>
+<programme start="20260828173000 +0000" stop="20260828181500 +0000" channel="ANTV.vision">
+<title>Mr. Bean</title>
 </programme>
-<programme start="20260828190000 +0000" stop="20260828203000 +0000" channel="ANTV.vision">
+<programme start="20260828181500 +0000" stop="20260828203000 +0000" channel="ANTV.vision">
+<title>Serie A Liga Italia</title>
+</programme>
+<programme start="20260828203000 +0000" stop="20260828220000 +0000" channel="ANTV.vision">
+<title>Karma</title>
+</programme>
+<programme start="20260828220000 +0000" stop="20260828230000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
-</programme>
-<programme start="20260828203000 +0000" stop="20260828213000 +0000" channel="ANTV.vision">
-<title>Karma Baik</title>
-</programme>
-<programme start="20260828213000 +0000" stop="20260828230000 +0000" channel="ANTV.vision">
-<title>Hati Ke Hati Bersama Mamah...</title>
 </programme>
 <programme start="20260828230000 +0000" stop="20260829023000 +0000" channel="ANTV.vision">
-<title>Blank</title>
+<title>Chaahat</title>
 </programme>
 <programme start="20260829023000 +0000" stop="20260829060000 +0000" channel="ANTV.vision">
-<title>Kabhi Kushi Kabhi Gham</title>
+<title>Kuch Kuch Hota Hai</title>
 </programme>
 <programme start="20260829060000 +0000" stop="20260829073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1448,53 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260828103000 +0000" stop="20260828110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828110000 +0000" stop="20260828120000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828120000 +0000" stop="20260828130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828130000 +0000" stop="20260828140000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828140000 +0000" stop="20260828143000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828143000 +0000" stop="20260828163000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828163000 +0000" stop="20260828170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828170000 +0000" stop="20260828180000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828180000 +0000" stop="20260828200000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828200000 +0000" stop="20260828204500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828204500 +0000" stop="20260828210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828210000 +0000" stop="20260828230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828230000 +0000" stop="20260828233000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260828233000 +0000" stop="20260829000000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829000000 +0000" stop="20260829004500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829004500 +0000" stop="20260829010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829010000 +0000" stop="20260829030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

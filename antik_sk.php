@@ -463,17 +463,20 @@
   <programme start="20260830210500 +0000" stop="20260830225000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Rýchlostná kanoistika - MS 2026 - MS 2026 (Poznaň): 5. deň (5.000 m)</title>
   </programme>
-  <programme start="20260829204000 +0000" stop="20260829230500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260829204000 +0000" stop="20260829230000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Pobrežná hliadka</title>
   </programme>
-  <programme start="20260829230500 +0000" stop="20260830005500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260829230000 +0000" stop="20260830004500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Jack Mimoun a tajomný ostrov</title>
   </programme>
-  <programme start="20260830005500 +0000" stop="20260830024000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260830004500 +0000" stop="20260830023500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Pobrežná hliadka</title>
   </programme>
-  <programme start="20260830024000 +0000" stop="20260830040000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260830023500 +0000" stop="20260830031500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Smotánka</title>
+  </programme>
+  <programme start="20260830031500 +0000" stop="20260830040000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Rodinné prípady (69)</title>
   </programme>
   <programme start="20260830040000 +0000" stop="20260830045500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Televízne noviny</title>
@@ -487,10 +490,10 @@
   <programme start="20260830080500 +0000" stop="20260830101500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Magická posadnutosť</title>
   </programme>
-  <programme start="20260830101500 +0000" stop="20260830114000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260830101500 +0000" stop="20260830113500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Na nože II (6)</title>
   </programme>
-  <programme start="20260830114000 +0000" stop="20260830144000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260830113500 +0000" stop="20260830144000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Robin Hood: Kráľ zbojníkov</title>
   </programme>
   <programme start="20260830144000 +0000" stop="20260830154500 +0000" channel="Markíza.webtv.sk">
@@ -592,17 +595,20 @@
   <programme start="20260830205000 +0000" stop="20260830225000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Utekaj a strieľaj</title>
   </programme>
-  <programme start="20260829214000 +0000" stop="20260830000500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260829214000 +0000" stop="20260830000000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Pobrežná hliadka</title>
   </programme>
-  <programme start="20260830000500 +0000" stop="20260830015500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260830000000 +0000" stop="20260830014500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Jack Mimoun a tajomný ostrov</title>
   </programme>
-  <programme start="20260830015500 +0000" stop="20260830034000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260830014500 +0000" stop="20260830033500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Pobrežná hliadka</title>
   </programme>
-  <programme start="20260830034000 +0000" stop="20260830050000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260830033500 +0000" stop="20260830041500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Smotánka</title>
+  </programme>
+  <programme start="20260830041500 +0000" stop="20260830050000 +0000" channel="Markíza +1.webtv.sk">
+    <title lang="id">Rodinné prípady (69)</title>
   </programme>
   <programme start="20260830050000 +0000" stop="20260830055500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Televízne noviny</title>
@@ -616,10 +622,10 @@
   <programme start="20260830090500 +0000" stop="20260830111500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Magická posadnutosť</title>
   </programme>
-  <programme start="20260830111500 +0000" stop="20260830124000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260830111500 +0000" stop="20260830123500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Na nože II (6)</title>
   </programme>
-  <programme start="20260830124000 +0000" stop="20260830154000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260830123500 +0000" stop="20260830154000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Robin Hood: Kráľ zbojníkov</title>
   </programme>
   <programme start="20260830154000 +0000" stop="20260830164500 +0000" channel="Markíza +1.webtv.sk">
@@ -1003,10 +1009,10 @@
   <programme start="20260830202500 +0000" stop="20260830230500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Úkryt v Zoo</title>
   </programme>
-  <programme start="20260829202500 +0000" stop="20260829230000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829202500 +0000" stop="20260829230500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Maratón</title>
   </programme>
-  <programme start="20260829230000 +0000" stop="20260829235000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260829230500 +0000" stop="20260829235000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
   <programme start="20260829235000 +0000" stop="20260830013500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1015,19 +1021,19 @@
   <programme start="20260830013500 +0000" stop="20260830021500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20260830021500 +0000" stop="20260830033500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260830021500 +0000" stop="20260830032000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20260830033500 +0000" stop="20260830055500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260830032000 +0000" stop="20260830054500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260830055500 +0000" stop="20260830084500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260830054500 +0000" stop="20260830083000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260830084500 +0000" stop="20260830100500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260830083000 +0000" stop="20260830104000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Žreb</title>
   </programme>
-  <programme start="20260830100500 +0000" stop="20260830135000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260830104000 +0000" stop="20260830135000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Maratón</title>
   </programme>
   <programme start="20260830135000 +0000" stop="20260830165000 +0000" channel="JOJ Šport.webtv.sk">
@@ -8395,196 +8401,214 @@
   <programme start="20260830213500 +0000" stop="20260830225500 +0000" channel="Film +.webtv.sk">
     <title lang="id">Smrt ve tmě</title>
   </programme>
-  <programme start="20260829215500 +0000" stop="20260829234500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260829213500 +0000" stop="20260829232500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Superbad</title>
   </programme>
-  <programme start="20260829234500 +0000" stop="20260830003000 +0000" channel="AXN.webtv.sk">
+  <programme start="20260829232500 +0000" stop="20260830000500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Dobrý doktor II (16)</title>
   </programme>
-  <programme start="20260830003000 +0000" stop="20260830011000 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830000500 +0000" stop="20260830005000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Dobrý doktor II (17)</title>
   </programme>
-  <programme start="20260830011000 +0000" stop="20260830020000 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830005000 +0000" stop="20260830020000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Zbrojnice III (8)</title>
   </programme>
-  <programme start="20260830020000 +0000" stop="20260830041500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830020000 +0000" stop="20260830040000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Teleshop</title>
   </programme>
-  <programme start="20260830041500 +0000" stop="20260830054500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">The Amazing Race XXXVI (2)</title>
-  </programme>
-  <programme start="20260830054500 +0000" stop="20260830064000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Zbrojnice III (11)</title>
-  </programme>
-  <programme start="20260830064000 +0000" stop="20260830073500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Zbrojnice III (12)</title>
-  </programme>
-  <programme start="20260830073500 +0000" stop="20260830082500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Zbrojnice III (13)</title>
-  </programme>
-  <programme start="20260830082500 +0000" stop="20260830092500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým II (21)</title>
-  </programme>
-  <programme start="20260830092500 +0000" stop="20260830102500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým II (22)</title>
-  </programme>
-  <programme start="20260830102500 +0000" stop="20260830113000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým II (23)</title>
-  </programme>
-  <programme start="20260830113000 +0000" stop="20260830123000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým III (1)</title>
-  </programme>
-  <programme start="20260830123000 +0000" stop="20260830132500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým III (2)</title>
-  </programme>
-  <programme start="20260830132500 +0000" stop="20260830142000 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830040000 +0000" stop="20260830045000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Dobrý doktor II (18)</title>
   </programme>
-  <programme start="20260830142000 +0000" stop="20260830151500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830045000 +0000" stop="20260830053500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Dobrý doktor III (1)</title>
   </programme>
-  <programme start="20260830151500 +0000" stop="20260830160500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830053500 +0000" stop="20260830065500 +0000" channel="AXN.webtv.sk">
+    <title lang="id">The Amazing Race XXXVI (2)</title>
+  </programme>
+  <programme start="20260830065500 +0000" stop="20260830074500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Zbrojnice III (11)</title>
   </programme>
-  <programme start="20260830160500 +0000" stop="20260830170500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830074500 +0000" stop="20260830083500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Zbrojnice III (12)</title>
   </programme>
-  <programme start="20260830170500 +0000" stop="20260830180000 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830083500 +0000" stop="20260830092000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Zbrojnice III (13)</title>
   </programme>
-  <programme start="20260830180000 +0000" stop="20260830195500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830092000 +0000" stop="20260830101500 +0000" channel="AXN.webtv.sk">
+    <title lang="id">A-Tým II (21)</title>
+  </programme>
+  <programme start="20260830101500 +0000" stop="20260830111000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">A-Tým II (22)</title>
+  </programme>
+  <programme start="20260830111000 +0000" stop="20260830120500 +0000" channel="AXN.webtv.sk">
+    <title lang="id">A-Tým II (23)</title>
+  </programme>
+  <programme start="20260830120500 +0000" stop="20260830130000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">A-Tým III (1)</title>
+  </programme>
+  <programme start="20260830130000 +0000" stop="20260830135500 +0000" channel="AXN.webtv.sk">
+    <title lang="id">A-Tým III (2)</title>
+  </programme>
+  <programme start="20260830135500 +0000" stop="20260830144500 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Dobrý doktor II (18)</title>
+  </programme>
+  <programme start="20260830144500 +0000" stop="20260830153000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Dobrý doktor III (1)</title>
+  </programme>
+  <programme start="20260830153000 +0000" stop="20260830162000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Zbrojnice III (11)</title>
+  </programme>
+  <programme start="20260830162000 +0000" stop="20260830171000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Zbrojnice III (12)</title>
+  </programme>
+  <programme start="20260830171000 +0000" stop="20260830180000 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Zbrojnice III (13)</title>
+  </programme>
+  <programme start="20260830180000 +0000" stop="20260830194500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Tajná dohoda</title>
   </programme>
-  <programme start="20260830195500 +0000" stop="20260830220500 +0000" channel="AXN.webtv.sk">
+  <programme start="20260830194500 +0000" stop="20260830214500 +0000" channel="AXN.webtv.sk">
     <title lang="id">Insidious: Kapitola 2</title>
   </programme>
-  <programme start="20260829215000 +0000" stop="20260829223500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830214500 +0000" stop="20260830232500 +0000" channel="AXN.webtv.sk">
+    <title lang="id">Elysium</title>
+  </programme>
+  <programme start="20260829213000 +0000" stop="20260829222000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">K poctě zbraň I (3)</title>
   </programme>
-  <programme start="20260829223500 +0000" stop="20260829232500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260829222000 +0000" stop="20260829230500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">K poctě zbraň I (4)</title>
   </programme>
-  <programme start="20260829232500 +0000" stop="20260830001000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260829230500 +0000" stop="20260829235500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">K poctě zbraň I (5)</title>
   </programme>
-  <programme start="20260830001000 +0000" stop="20260830005500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260829235500 +0000" stop="20260830003500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Vzpomínky IV (9)</title>
   </programme>
-  <programme start="20260830005500 +0000" stop="20260830020000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830003500 +0000" stop="20260830020000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Vzpomínky IV (10)</title>
   </programme>
-  <programme start="20260830020000 +0000" stop="20260830040500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830020000 +0000" stop="20260830045500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Teleshop</title>
   </programme>
-  <programme start="20260830040500 +0000" stop="20260830050500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830045500 +0000" stop="20260830055000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Grand Hotel III (23)</title>
   </programme>
-  <programme start="20260830050500 +0000" stop="20260830061000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830055000 +0000" stop="20260830065000 +0000" channel="AXN White.webtv.sk">
+    <title lang="id">Komisař Rex IV (5)</title>
+  </programme>
+  <programme start="20260830065000 +0000" stop="20260830075000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Komisař Rex IV (6)</title>
   </programme>
-  <programme start="20260830061000 +0000" stop="20260830071500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830075000 +0000" stop="20260830085000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Komisař Rex IV (7)</title>
   </programme>
-  <programme start="20260830071500 +0000" stop="20260830081500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830085000 +0000" stop="20260830094500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Komisař Rex IV (8)</title>
   </programme>
-  <programme start="20260830081500 +0000" stop="20260830091000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830094500 +0000" stop="20260830104000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Vzpomínky IV (9)</title>
   </programme>
-  <programme start="20260830091000 +0000" stop="20260830100500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830104000 +0000" stop="20260830113000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Vzpomínky IV (10)</title>
   </programme>
-  <programme start="20260830100500 +0000" stop="20260830110500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830113000 +0000" stop="20260830122000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Vzpomínky IV (11)</title>
   </programme>
-  <programme start="20260830110500 +0000" stop="20260830131500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830122000 +0000" stop="20260830141000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Hercule Poirot XI (2)</title>
   </programme>
-  <programme start="20260830131500 +0000" stop="20260830152000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830141000 +0000" stop="20260830160500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Hercule Poirot XI (3)</title>
   </programme>
-  <programme start="20260830152000 +0000" stop="20260830180000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830160500 +0000" stop="20260830180000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Hercule Poirot XI (4)</title>
   </programme>
-  <programme start="20260830180000 +0000" stop="20260830185500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830180000 +0000" stop="20260830185000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Vzpomínky IV (12)</title>
   </programme>
-  <programme start="20260830185500 +0000" stop="20260830195500 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830185000 +0000" stop="20260830194500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Vzpomínky IV (13)</title>
   </programme>
-  <programme start="20260830195500 +0000" stop="20260830205000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830194500 +0000" stop="20260830204000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Doktorka I (1)</title>
   </programme>
-  <programme start="20260830205000 +0000" stop="20260830215000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830204000 +0000" stop="20260830213500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Grand Hotel III (23)</title>
   </programme>
-  <programme start="20260830215000 +0000" stop="20260830224000 +0000" channel="AXN White.webtv.sk">
+  <programme start="20260830213500 +0000" stop="20260830222500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">K poctě zbraň I (6)</title>
   </programme>
-  <programme start="20260829210000 +0000" stop="20260829225500 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260829205000 +0000" stop="20260829223500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Insidious: Kapitola 2</title>
   </programme>
-  <programme start="20260829225500 +0000" stop="20260830004500 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260829223500 +0000" stop="20260830002500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Taxikář</title>
   </programme>
-  <programme start="20260830004500 +0000" stop="20260830020000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260830002500 +0000" stop="20260830011000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Xena VI (15)</title>
+  </programme>
+  <programme start="20260830011000 +0000" stop="20260830020000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena VI (16)</title>
   </programme>
   <programme start="20260830020000 +0000" stop="20260830040000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Teleshop</title>
   </programme>
-  <programme start="20260830040000 +0000" stop="20260830050000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger I (10)</title>
-  </programme>
-  <programme start="20260830050000 +0000" stop="20260830060000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger I (11)</title>
-  </programme>
-  <programme start="20260830060000 +0000" stop="20260830065500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger I (12)</title>
-  </programme>
-  <programme start="20260830065500 +0000" stop="20260830075500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger I (13)</title>
-  </programme>
-  <programme start="20260830075500 +0000" stop="20260830085500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger I (14)</title>
-  </programme>
-  <programme start="20260830085500 +0000" stop="20260830095500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena VI (20)</title>
-  </programme>
-  <programme start="20260830095500 +0000" stop="20260830105500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena VI (21)</title>
-  </programme>
-  <programme start="20260830105500 +0000" stop="20260830115500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena VI (22)</title>
-  </programme>
-  <programme start="20260830115500 +0000" stop="20260830125000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Ztracený svět I (1)</title>
-  </programme>
-  <programme start="20260830125000 +0000" stop="20260830135000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Ztracený svět I (2)</title>
-  </programme>
-  <programme start="20260830135000 +0000" stop="20260830145000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">A-Tým I (12)</title>
-  </programme>
-  <programme start="20260830145000 +0000" stop="20260830155500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">A-Tým I (13)</title>
-  </programme>
-  <programme start="20260830155500 +0000" stop="20260830165500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">A-Tým I (14)</title>
-  </programme>
-  <programme start="20260830165500 +0000" stop="20260830175500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">A-Tým II (1)</title>
-  </programme>
-  <programme start="20260830175500 +0000" stop="20260830190000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">A-Tým II (2)</title>
-  </programme>
-  <programme start="20260830190000 +0000" stop="20260830200000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Tým SEAL VII (7)</title>
-  </programme>
-  <programme start="20260830200000 +0000" stop="20260830205500 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260830040000 +0000" stop="20260830052000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Tým SEAL VII (8)</title>
   </programme>
-  <programme start="20260830205500 +0000" stop="20260830224000 +0000" channel="AXN Black.webtv.sk">
+  <programme start="20260830052000 +0000" stop="20260830062000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger I (10)</title>
+  </programme>
+  <programme start="20260830062000 +0000" stop="20260830071000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger I (11)</title>
+  </programme>
+  <programme start="20260830071000 +0000" stop="20260830080500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger I (12)</title>
+  </programme>
+  <programme start="20260830080500 +0000" stop="20260830090000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger I (13)</title>
+  </programme>
+  <programme start="20260830090000 +0000" stop="20260830095500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger I (14)</title>
+  </programme>
+  <programme start="20260830095500 +0000" stop="20260830105000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena VI (20)</title>
+  </programme>
+  <programme start="20260830105000 +0000" stop="20260830114500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena VI (21)</title>
+  </programme>
+  <programme start="20260830114500 +0000" stop="20260830124000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena VI (22)</title>
+  </programme>
+  <programme start="20260830124000 +0000" stop="20260830133000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Ztracený svět I (1)</title>
+  </programme>
+  <programme start="20260830133000 +0000" stop="20260830142000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Ztracený svět I (2)</title>
+  </programme>
+  <programme start="20260830142000 +0000" stop="20260830151500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">A-Tým I (12)</title>
+  </programme>
+  <programme start="20260830151500 +0000" stop="20260830161000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">A-Tým I (13)</title>
+  </programme>
+  <programme start="20260830161000 +0000" stop="20260830170500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">A-Tým I (14)</title>
+  </programme>
+  <programme start="20260830170500 +0000" stop="20260830180000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">A-Tým II (1)</title>
+  </programme>
+  <programme start="20260830180000 +0000" stop="20260830190000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">A-Tým II (2)</title>
+  </programme>
+  <programme start="20260830190000 +0000" stop="20260830195500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Tým SEAL VII (7)</title>
+  </programme>
+  <programme start="20260830195500 +0000" stop="20260830204500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Tým SEAL VII (8)</title>
+  </programme>
+  <programme start="20260830204500 +0000" stop="20260830222500 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Insidious 3: Počátek</title>
   </programme>
   <programme start="20260829201000 +0000" stop="20260829221000 +0000" channel="FilmBox.webtv.sk">

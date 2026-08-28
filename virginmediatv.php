@@ -4147,17 +4147,8 @@
 <programme start="20260828133000 +0000" stop="20260828150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights</title>
 </programme>
-<programme start="20260828150000 +0000" stop="20260828153000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Review</title>
-</programme>
-<programme start="20260828153000 +0000" stop="20260828160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Preview</title>
-</programme>
-<programme start="20260828160000 +0000" stop="20260828170000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open Tennis Classic Matches - 2021: Emma Raducanu v Leylah Fernandez</title>
-</programme>
-<programme start="20260828170000 +0000" stop="20260828180000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>U.S. Open 2025 - Review</title>
+<programme start="20260828150000 +0000" stop="20260828190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live: US Open 2026 - Qualifying: Day 5</title>
 </programme>
 <programme start="20260827220000 +0000" stop="20260828010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -4391,7 +4382,7 @@
     <title>Vuelta a España - Stage 6</title>
 </programme>
 <programme start="20260828113000 +0000" stop="20260828150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Wuhan Open - Semi-Final</title>
+    <title>Live: Wuhan Open - Semi-Final: Xiao Guodong v Zhao Xintong</title>
 </programme>
 <programme start="20260828150000 +0000" stop="20260828153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>CPL T20 - St. Kitts &amp; Nevis Patriots v Jamaica Kingsmen</title>
@@ -4954,17 +4945,8 @@
 <programme start="20260828133000 +0000" stop="20260828150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights</title>
 </programme>
-<programme start="20260828150000 +0000" stop="20260828153000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Review</title>
-</programme>
-<programme start="20260828153000 +0000" stop="20260828160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Preview</title>
-</programme>
-<programme start="20260828160000 +0000" stop="20260828170000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open Tennis Classic Matches - 2021: Emma Raducanu v Leylah Fernandez</title>
-</programme>
-<programme start="20260828170000 +0000" stop="20260828180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>U.S. Open 2025 - Review</title>
+<programme start="20260828150000 +0000" stop="20260828190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live: US Open 2026 - Qualifying: Day 5</title>
 </programme>
 <programme start="20260828000000 +0000" stop="20260828003000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best of Canada 2026</title>
@@ -5036,7 +5018,7 @@
     <title>Vuelta a España - Stage 6</title>
 </programme>
 <programme start="20260828113000 +0000" stop="20260828150000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: Wuhan Open - Semi-Final</title>
+    <title>Live: Wuhan Open - Semi-Final: Xiao Guodong v Zhao Xintong</title>
 </programme>
 <programme start="20260828150000 +0000" stop="20260828153000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>CPL T20 - St. Kitts &amp; Nevis Patriots v Jamaica Kingsmen</title>
