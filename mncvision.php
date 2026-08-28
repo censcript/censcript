@@ -2975,7 +2975,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20260828023000 +0000" stop="20260828030000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: People</title>
+    <title>Focus On Europe: Serbia</title>
 </programme>
 <programme start="20260828030000 +0000" stop="20260828030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2987,7 +2987,7 @@
     <title>Arts Unveiled: Far-Right &amp; Art</title>
 </programme>
 <programme start="20260828033000 +0000" stop="20260828040000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made in Germany: LA&#039;s Oil</title>
 </programme>
 <programme start="20260828040000 +0000" stop="20260828040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>

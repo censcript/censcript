@@ -4140,7 +4140,7 @@ Pelakon : Syafie Tee, Raden Zaharatul, Azri Safix, Faizul Syaharin, Jue Aziz, An
     <episode-num system="onscreen">S2E20260828</episode-num>
   </programme>
   <programme start="20260827203300 +0000" stop="20260827210300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">UPDATED MILITARY STATUS</title>
+    <title lang="en">GLOBAL CHINESE AWARDS SPECIAL SERIES</title>
     <desc lang="en">The program will give an in-depth analysis of famous battles and the strategic planning worldwide, with introduction of military armaments and various conditions that determine a success.</desc>
     <category lang="en">Military</category>
     <episode-num system="xmltv_ns">1.20260827.</episode-num>
@@ -4217,7 +4217,7 @@ Pelakon : Syafie Tee, Raden Zaharatul, Azri Safix, Faizul Syaharin, Jue Aziz, An
     <episode-num system="onscreen">S2E20260828</episode-num>
   </programme>
   <programme start="20260828020300 +0000" stop="20260828023300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">UPDATED MILITARY STATUS</title>
+    <title lang="en">GLOBAL CHINESE AWARDS SPECIAL SERIES</title>
     <desc lang="en">The program will give an in-depth analysis of famous battles and the strategic planning worldwide, with introduction of military armaments and various conditions that determine a success.</desc>
     <category lang="en">Military</category>
     <episode-num system="xmltv_ns">1.20260827.</episode-num>
@@ -4230,10 +4230,17 @@ Pelakon : Syafie Tee, Raden Zaharatul, Azri Safix, Faizul Syaharin, Jue Aziz, An
     <episode-num system="xmltv_ns">0.20260827.</episode-num>
     <episode-num system="onscreen">S1E20260828</episode-num>
   </programme>
-  <programme start="20260828030300 +0000" stop="20260828033300 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260828030300 +0000" stop="20260828033100 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">NEWS DECODER</title>
     <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
     <category lang="en">Talk Show</category>
+    <episode-num system="xmltv_ns">0.20260827.</episode-num>
+    <episode-num system="onscreen">S1E20260828</episode-num>
+  </programme>
+  <programme start="20260828033100 +0000" stop="20260828033300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">DICTUM FROM YOU BRING CHARM TO THE WORLD - 18TH GLOBAL CHINESE AWARDS</title>
+    <desc lang="en">The special series honors ethnic Chinese individuals and groups worldwide who have made outstanding achievements and contributions across key fields like science, technology, culture, sports, public affairs, and lifetime achievement.</desc>
+    <category lang="en">musical</category>
     <episode-num system="xmltv_ns">0.20260827.</episode-num>
     <episode-num system="onscreen">S1E20260828</episode-num>
   </programme>
@@ -4287,7 +4294,7 @@ Pelakon : Syafie Tee, Raden Zaharatul, Azri Safix, Faizul Syaharin, Jue Aziz, An
     <episode-num system="onscreen">S2E20260828</episode-num>
   </programme>
   <programme start="20260828070300 +0000" stop="20260828073300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">UPDATED MILITARY STATUS</title>
+    <title lang="en">GLOBAL CHINESE AWARDS SPECIAL SERIES</title>
     <desc lang="en">The program will give an in-depth analysis of famous battles and the strategic planning worldwide, with introduction of military armaments and various conditions that determine a success.</desc>
     <category lang="en">Military</category>
     <episode-num system="xmltv_ns">1.20260827.</episode-num>
@@ -4411,12 +4418,19 @@ Pelakon : Syafie Tee, Raden Zaharatul, Azri Safix, Faizul Syaharin, Jue Aziz, An
     <episode-num system="xmltv_ns">0.20260827.</episode-num>
     <episode-num system="onscreen">S1E20260828</episode-num>
   </programme>
-  <programme start="20260828143300 +0000" stop="20260828150300 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260828143300 +0000" stop="20260828150100 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">FROM PHOENIX TO THE WORLD</title>
     <desc lang="en">From Phoenix to the World, is a current affair commentary program where reporters from around the world interact directly with the anchors through satellite and telephone lines to put audiences in touch with important events right form where they happen.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">1.20260827.</episode-num>
     <episode-num system="onscreen">S2E20260828</episode-num>
+  </programme>
+  <programme start="20260828150100 +0000" stop="20260828150300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">DICTUM FROM YOU BRING CHARM TO THE WORLD - 18TH GLOBAL CHINESE AWARDS</title>
+    <desc lang="en">The special series honors ethnic Chinese individuals and groups worldwide who have made outstanding achievements and contributions across key fields like science, technology, culture, sports, public affairs, and lifetime achievement.</desc>
+    <category lang="en">musical</category>
+    <episode-num system="xmltv_ns">0.20260827.</episode-num>
+    <episode-num system="onscreen">S1E20260828</episode-num>
   </programme>
   <programme start="20260828150300 +0000" stop="20260828153300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">CHIEF EDITOR'S TIME</title>
