@@ -2302,10 +2302,7 @@
 <programme start="20260829133000 +0000" stop="20260829140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>The Climate Question - Does Climate Change Fuel Epidemics?</title>
 </programme>
-<programme start="20260829140000 +0000" stop="20260829143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260829143000 +0000" stop="20260829150000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260829140000 +0000" stop="20260829150000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
 <programme start="20260829150000 +0000" stop="20260829153000 +0000" channel="BBC_News_24.virginmediatv">
@@ -4192,14 +4189,17 @@
 <programme start="20260829140000 +0000" stop="20260829141500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Xtra Time - Liverpool v Nottingham Forest</title>
 </programme>
-<programme start="20260829141500 +0000" stop="20260829160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260829141500 +0000" stop="20260829161500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 8</title>
 </programme>
-<programme start="20260829160000 +0000" stop="20260829161500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260829161500 +0000" stop="20260829163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Deutschland Tour - Review</title>
+</programme>
+<programme start="20260829163000 +0000" stop="20260829164500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>The Gruppetto - Episode 30</title>
 </programme>
-<programme start="20260829161500 +0000" stop="20260829171500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Deutschland Tour - Review</title>
+<programme start="20260829164500 +0000" stop="20260829171500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>T100 Triathlon World Tour - Vancouver</title>
 </programme>
 <programme start="20260829171500 +0000" stop="20260829184500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: FIA World Rally Championship - Rally del Paraguay: SS13 and 14</title>
@@ -4255,16 +4255,13 @@
 <programme start="20260829111500 +0000" stop="20260829123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: UCI World Championship Mountain Biking - Val di Sole: Women&#039;s Downhill</title>
 </programme>
-<programme start="20260829123000 +0000" stop="20260829160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260829123000 +0000" stop="20260829163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 8</title>
 </programme>
-<programme start="20260829160000 +0000" stop="20260829170000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260829163000 +0000" stop="20260829173000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
-<programme start="20260829170000 +0000" stop="20260829173000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>CPL T20 - Trinbago Knight Riders v Barbados Tridents</title>
-</programme>
-<programme start="20260829173000 +0000" stop="20260829183000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260829173000 +0000" stop="20260829181500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>LIV Golf League - Indianapolis: Tournament Review</title>
 </programme>
 <programme start="20260829000000 +0000" stop="20260829010000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
@@ -4294,14 +4291,14 @@
 <programme start="20260829100000 +0000" stop="20260829130000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: The Ultimate Fighting Championship - UFC Fight Night: Umar Nurmagomedov v Song Yadong</title>
 </programme>
-<programme start="20260829130000 +0000" stop="20260829143000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260829130000 +0000" stop="20260829144500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Wuhan Open - Final: Zhao Xintong v Chang Bingyu</title>
 </programme>
-<programme start="20260829143000 +0000" stop="20260829144500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>TNT Sports Reload - Episode 34</title>
-</programme>
-<programme start="20260829144500 +0000" stop="20260829154500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260829144500 +0000" stop="20260829153000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Australia Championship Supercars - Ipswich Super 440</title>
+</programme>
+<programme start="20260829153000 +0000" stop="20260829154500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>TNT Sports Reload - Episode 34</title>
 </programme>
 <programme start="20260829154500 +0000" stop="20260829164500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Australia Championship Supercars - Ipswich Super 440</title>
@@ -4762,14 +4759,17 @@
 <programme start="20260829140000 +0000" stop="20260829141500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Xtra Time - Liverpool v Nottingham Forest</title>
 </programme>
-<programme start="20260829141500 +0000" stop="20260829160000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260829141500 +0000" stop="20260829161500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Vuelta a España - Stage 8</title>
 </programme>
-<programme start="20260829160000 +0000" stop="20260829161500 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260829161500 +0000" stop="20260829163000 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>Deutschland Tour - Review</title>
+</programme>
+<programme start="20260829163000 +0000" stop="20260829164500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>The Gruppetto - Episode 30</title>
 </programme>
-<programme start="20260829161500 +0000" stop="20260829171500 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Deutschland Tour - Review</title>
+<programme start="20260829164500 +0000" stop="20260829171500 +0000" channel="TNT_Sports_1.virginmediatv">
+    <title>T100 Triathlon World Tour - Vancouver</title>
 </programme>
 <programme start="20260829171500 +0000" stop="20260829184500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: FIA World Rally Championship - Rally del Paraguay: SS13 and 14</title>
@@ -4825,16 +4825,13 @@
 <programme start="20260829111500 +0000" stop="20260829123000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: UCI World Championship Mountain Biking - Val di Sole: Women&#039;s Downhill</title>
 </programme>
-<programme start="20260829123000 +0000" stop="20260829160000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260829123000 +0000" stop="20260829163000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Vuelta a España - Stage 8</title>
 </programme>
-<programme start="20260829160000 +0000" stop="20260829170000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260829163000 +0000" stop="20260829173000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
-<programme start="20260829170000 +0000" stop="20260829173000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>CPL T20 - Trinbago Knight Riders v Barbados Tridents</title>
-</programme>
-<programme start="20260829173000 +0000" stop="20260829183000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260829173000 +0000" stop="20260829181500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>LIV Golf League - Indianapolis: Tournament Review</title>
 </programme>
 <programme start="20260829000000 +0000" stop="20260829010000 +0000" channel="TNT_Sports_4.virginmediatv">
@@ -4864,14 +4861,14 @@
 <programme start="20260829100000 +0000" stop="20260829130000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: The Ultimate Fighting Championship - UFC Fight Night: Umar Nurmagomedov v Song Yadong</title>
 </programme>
-<programme start="20260829130000 +0000" stop="20260829143000 +0000" channel="TNT_Sports_4.virginmediatv">
+<programme start="20260829130000 +0000" stop="20260829144500 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Live: Wuhan Open - Final: Zhao Xintong v Chang Bingyu</title>
 </programme>
-<programme start="20260829143000 +0000" stop="20260829144500 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>TNT Sports Reload - Episode 34</title>
-</programme>
-<programme start="20260829144500 +0000" stop="20260829154500 +0000" channel="TNT_Sports_4.virginmediatv">
+<programme start="20260829144500 +0000" stop="20260829153000 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Australia Championship Supercars - Ipswich Super 440</title>
+</programme>
+<programme start="20260829153000 +0000" stop="20260829154500 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>TNT Sports Reload - Episode 34</title>
 </programme>
 <programme start="20260829154500 +0000" stop="20260829164500 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Australia Championship Supercars - Ipswich Super 440</title>
@@ -5914,7 +5911,10 @@
 <programme start="20260828175800 +0000" stop="20260829015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260829015800 +0000" stop="20260829060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260829015800 +0000" stop="20260829050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260829050000 +0000" stop="20260829060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260829115500 +0000" stop="20260829121000 +0000" channel="CBBC.virginmediatv">

@@ -493,6 +493,9 @@
 <programme start="20260828233000 +0000" stop="20260829003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20260829003000 +0000" stop="20260829013000 +0000" channel="Trans 7.vision">
+<title>Selebrita Pagi On The Weekend</title>
+</programme>
 <programme start="20260829013000 +0000" stop="20260829021500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
@@ -544,110 +547,14 @@
 <programme start="20260829154500 +0000" stop="20260829163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260829163000 +0000" stop="20260829174500 +0000" channel="Trans 7.vision">
-<title>Tusuk Konde Sinden</title>
-</programme>
-<programme start="20260829174500 +0000" stop="20260829183000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race: Akagon</title>
-</programme>
 <programme start="20260829183000 +0000" stop="20260829193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
-</programme>
-<programme start="20260829193000 +0000" stop="20260829200000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260829200000 +0000" stop="20260829210000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260829210000 +0000" stop="20260829214500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260829214500 +0000" stop="20260829223000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260829223000 +0000" stop="20260829233000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260829233000 +0000" stop="20260830003000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830003000 +0000" stop="20260830013000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830013000 +0000" stop="20260830023000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830023000 +0000" stop="20260830031500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830031500 +0000" stop="20260830041500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830041500 +0000" stop="20260830050000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830050000 +0000" stop="20260830054500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830054500 +0000" stop="20260830063000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830063000 +0000" stop="20260830071500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830071500 +0000" stop="20260830074500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830074500 +0000" stop="20260830081500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830081500 +0000" stop="20260830090000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830090000 +0000" stop="20260830100000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830100000 +0000" stop="20260830110000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830110000 +0000" stop="20260830114500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260830114500 +0000" stop="20260830121500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260828230000 +0000" stop="20260829023000 +0000" channel="ANTV.vision">
-<title>Chaahat</title>
-</programme>
-<programme start="20260829023000 +0000" stop="20260829060000 +0000" channel="ANTV.vision">
-<title>Kuch Kuch Hota Hai</title>
 </programme>
 <programme start="20260829060000 +0000" stop="20260829073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20260829073000 +0000" stop="20260829083000 +0000" channel="ANTV.vision">
 <title>Sayali</title>
-</programme>
-<programme start="20260829083000 +0000" stop="20260829104500 +0000" channel="ANTV.vision">
-<title>Festival ANTV Rame</title>
-</programme>
-<programme start="20260829104500 +0000" stop="20260829114500 +0000" channel="ANTV.vision">
-<title>Penghargaan Achmad Bakrie XXII</title>
-</programme>
-<programme start="20260829114500 +0000" stop="20260829140000 +0000" channel="ANTV.vision">
-<title>Menggapai Matahari 2</title>
-</programme>
-<programme start="20260829140000 +0000" stop="20260829160000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 2: Mangkujiwo</title>
-</programme>
-<programme start="20260829160000 +0000" stop="20260829180000 +0000" channel="ANTV.vision">
-<title>Mandala Dari Sungai Ular</title>
-</programme>
-<programme start="20260829180000 +0000" stop="20260829181500 +0000" channel="ANTV.vision">
-<title>Mr. Bean</title>
-</programme>
-<programme start="20260829181500 +0000" stop="20260829203000 +0000" channel="ANTV.vision">
-<title>Serie A Liga Italia</title>
 </programme>
 <programme start="20260829203000 +0000" stop="20260829220000 +0000" channel="ANTV.vision">
 <title>Karma</title>
@@ -819,9 +726,6 @@
 </programme>
 <programme start="20260829110000 +0000" stop="20260829130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20260829130000 +0000" stop="20260829143000 +0000" channel="TVOne.vision">
-<title>Penghargaan Achmad Bakrie XXII</title>
 </programme>
 <programme start="20260829143000 +0000" stop="20260829153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1496,5 +1400,101 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260829060000 +0000" stop="20260829080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829080000 +0000" stop="20260829080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829080300 +0000" stop="20260829103000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829103000 +0000" stop="20260829110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829110000 +0000" stop="20260829120000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829120000 +0000" stop="20260829130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829130000 +0000" stop="20260829140000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829140000 +0000" stop="20260829143000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829143000 +0000" stop="20260829163000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829163000 +0000" stop="20260829170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829170000 +0000" stop="20260829180000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829180000 +0000" stop="20260829190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829190000 +0000" stop="20260829194500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829194500 +0000" stop="20260829200000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829200000 +0000" stop="20260829220000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829220000 +0000" stop="20260829223000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829223000 +0000" stop="20260829230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260829230000 +0000" stop="20260830000000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830000000 +0000" stop="20260830010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830010000 +0000" stop="20260830020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830020000 +0000" stop="20260830020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830020300 +0000" stop="20260830023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830023000 +0000" stop="20260830030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830030000 +0000" stop="20260830030300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830030300 +0000" stop="20260830033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830033000 +0000" stop="20260830040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830040000 +0000" stop="20260830040300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830040300 +0000" stop="20260830043000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830043000 +0000" stop="20260830044500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830044500 +0000" stop="20260830050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830050000 +0000" stop="20260830060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830060000 +0000" stop="20260830070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260830070000 +0000" stop="20260830090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
