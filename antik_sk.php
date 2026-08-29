@@ -16804,28 +16804,25 @@
   <programme start="20260831032000 +0000" stop="20260831032500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">You Can!</title>
   </programme>
-  <programme start="20260831032500 +0000" stop="20260831043000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260831032500 +0000" stop="20260831042500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Meeting on the First</title>
   </programme>
-  <programme start="20260831043000 +0000" stop="20260831045000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260831042500 +0000" stop="20260831045000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Lets Cook Together</title>
   </programme>
-  <programme start="20260831045000 +0000" stop="20260831065000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260831045000 +0000" stop="20260831071500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
   </programme>
-  <programme start="20260831065000 +0000" stop="20260831072000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260831071500 +0000" stop="20260831073500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Ethnocolors</title>
   </programme>
-  <programme start="20260831072000 +0000" stop="20260831075500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260831073500 +0000" stop="20260831081000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Here and Now</title>
   </programme>
-  <programme start="20260831075500 +0000" stop="20260831083500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260831081000 +0000" stop="20260831084500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">The Mechanics of Happiness</title>
   </programme>
-  <programme start="20260831083500 +0000" stop="20260831084000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">5 Minute ART</title>
-  </programme>
-  <programme start="20260831084000 +0000" stop="20260831090000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260831084500 +0000" stop="20260831090000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Ours</title>
   </programme>
   <programme start="20260831090000 +0000" stop="20260831092000 +0000" channel="Armenia 1 TV.webtv.sk">
@@ -16885,14 +16882,11 @@
   <programme start="20260831190000 +0000" stop="20260831193500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Note by Note</title>
   </programme>
-  <programme start="20260831193500 +0000" stop="20260831194500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Repatriation diary</title>
+  <programme start="20260831193500 +0000" stop="20260831204500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Interview with Anna Danielyan</title>
   </programme>
-  <programme start="20260831194500 +0000" stop="20260831203000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Differently</title>
-  </programme>
-  <programme start="20260831203000 +0000" stop="20260831210000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Documentary film</title>
+  <programme start="20260831204500 +0000" stop="20260831210000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Ours</title>
   </programme>
   <programme start="20260831210000 +0000" stop="20260901030000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">General</title>

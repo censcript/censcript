@@ -322,13 +322,13 @@
 <programme start="20260829175500 +0000" stop="20260829180000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>RTÉ News with ISL</title>
 </programme>
-<programme start="20260828231000 +0000" stop="20260829004500 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260828230000 +0000" stop="20260829003500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Stan &amp; Ollie</title>
 </programme>
-<programme start="20260829004500 +0000" stop="20260829005000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260829003500 +0000" stop="20260829004000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Weather for the Week Ahead</title>
 </programme>
-<programme start="20260829005000 +0000" stop="20260829010000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20260829004000 +0000" stop="20260829010000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Joins BBC News</title>
 </programme>
 <programme start="20260829010000 +0000" stop="20260829013000 +0000" channel="BBC1_HD.virginmediatv">
@@ -2273,7 +2273,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260829023000 +0000" stop="20260829030000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Talking Business</title>
 </programme>
 <programme start="20260829030000 +0000" stop="20260829033000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>

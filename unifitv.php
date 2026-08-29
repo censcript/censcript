@@ -3446,44 +3446,23 @@
     <episode-num system="onscreen">S1E239</episode-num>
   </programme>
   <programme start="20260829043500 +0000" stop="20260829050500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express</title>
-    <desc lang="en">Hong Kong brings together global cuisines, and its unique dishes and down-to-earth fare have captured the close attention of discerning food lovers! Food hosts and presenters such as Icy Wong,Snowy Choi,Carmen Ngai,Carmaney Wong , Jessica Liu , Gillian Ng keep up with the latest food news and deals, delving into the stories behind the flavors. Gathering firsthand information on popular eateries across various platforms, the hosts personally line up and taste the food, providing genuine reviews. Even takeout-only eateries with no dine-in option are in high demand—what are the must-try picks? Running a food business inevitably comes with its own mix of sweet, sour, bitter, and spicy experiences. The production team follows the proprietors through their busy day, from sourcing ingredients and preparing materials to opening for business, uncovering the "stories behind the flavors."</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.208.</episode-num>
-    <episode-num system="onscreen">S1E209</episode-num>
-  </programme>
-  <programme start="20260829050500 +0000" stop="20260829053500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scam Alert!</title>
-    <desc lang="en">The number of various scams continues to rise, with the amounts involved becoming increasingly staggering. It is reported that Hong Kong suffers an average daily loss of HK$25 million, with a scam occurring every 13 minutes… Scams targeting online shopping, job seeking, investment, dating apps, and telephone scams are becoming increasingly sophisticated. Citizens must raise their awareness of scams and be vigilant to avoid falling victim! Hosts Au Wing-Kuen, Edwin Siu, Lee Man-Fong, and Leung Man-Hau gather various real-life cases to gain a deeper understanding of how victims were scammed. The program will also recreate these scenarios in story form. Experts will appear to dissect different methods of committing these crimes, helping viewers identify money-grabbing traps and avoid becoming targets of scammers!</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260829053500 +0000" stop="20260829060500 +0000" channel="tvbjade.unifitv">
     <title lang="en">ChatSAT</title>
     <desc lang="en">It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday. By discussing everything under the sun and chatting about the hottest topics, “Group friend” listeners can easily stay up to date with global trends by following the program.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.33.</episode-num>
     <episode-num system="onscreen">S1E34</episode-num>
   </programme>
-  <programme start="20260829060500 +0000" stop="20260829080500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260829050500 +0000" stop="20260829080500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Midlife, Sing &amp; Shine! 4</title>
     <desc lang="en">" Midlife, Sing &amp; Shine! 4" has officially launched, continuing the success of the previous three seasons and once again providing a stage for singing enthusiasts to pursue their dreams. This season expands its recruitment efforts to North America and Australia, with several TVB artists participating "masked," igniting the flame of music globally and illuminating the hearts of countless dreamers. Stephanie Che continues to host, offering her warm smile to the contestants; Maria Cordero, Chow Kwok-fung, Cheung Ka-tim, Hai-er, and Gu Ya-wei also serve as judges, providing professional feedback and encouragement to the participants. On this new season's stage, everyone will weave an even more moving chapter with music, continuing the heartfelt story of " Midlife, Sing &amp; Shine! 4."</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.38.</episode-num>
     <episode-num system="onscreen">S1E39</episode-num>
   </programme>
-  <programme start="20260829080500 +0000" stop="20260829100500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260829080500 +0000" stop="20260829103500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Once A Thief</title>
     <desc lang="en">Put Chai Ko (Chow Yun-fat), Jim (Leslie Cheung), and Red Bean (Cherie Chung) are all orphans who become international thieves under the tutelage of their adoptive father (Kenneth Tsang). By chance, Put Chai Ko, Jim, and Red Bean learn the whereabouts of a stolen masterpiece, "The Maid of Herring," from a Paris museum. Put Chai Ko, determined to complete his mission and retire to marry his girlfriend Red Bean, perishes in a fire during a mission. Years later, Red Bean marries Jim, who has always secretly loved her. Just when she thinks she can finally live a peaceful life, Put Chai Ko suddenly reappears, revealing that there's more to the story...</desc>
     <category lang="en">Drama Series</category>
-  </programme>
-  <programme start="20260829100500 +0000" stop="20260829103500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Dolce Vita 2022</title>
-    <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260829103500 +0000" stop="20260829110500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News At 18:30</title>
