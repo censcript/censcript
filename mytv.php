@@ -40,13 +40,13 @@
     <programme start="20260829053000 +0000" stop="20260829070000 +0000" channel="VTV1 HD.mytv">
         <title> Tiêu điểm chính sách </title>
     </programme>
-    <programme start="20260829070000 +0000" stop="20260829071500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260829070000 +0000" stop="20260829071600 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>
     </programme>
-    <programme start="20260829071500 +0000" stop="20260829073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260829071600 +0000" stop="20260829072900 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
-    <programme start="20260829073000 +0000" stop="20260829081500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260829072900 +0000" stop="20260829081500 +0000" channel="VTV1 HD.mytv">
         <title> Sách hay thay đổi cuộc đời </title>
     </programme>
     <programme start="20260829081500 +0000" stop="20260829083000 +0000" channel="VTV1 HD.mytv">

@@ -2273,7 +2273,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260829023000 +0000" stop="20260829030000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Talking Business</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260829030000 +0000" stop="20260829033000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
