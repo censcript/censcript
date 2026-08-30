@@ -18961,6 +18961,114 @@
   <programme start="20260830193000 +0000" stop="20260830223000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Inheritors</title>
   </programme>
+  <programme start="20260830220000 +0000" stop="20260830230000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Yangtze River: The Civilization (4)</title>
+  </programme>
+  <programme start="20260830230000 +0000" stop="20260830233000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In Search of Poon Tuck-ming (2)</title>
+  </programme>
+  <programme start="20260830233000 +0000" stop="20260831000000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Riddle of the Ancient Gambling City (2)</title>
+  </programme>
+  <programme start="20260831000000 +0000" stop="20260831010000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Foodwise: Eat Like Confucius/Foodwise: The Herbal Way of Life</title>
+  </programme>
+  <programme start="20260831010000 +0000" stop="20260831013000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">My Youth, My Call 1-5</title>
+  </programme>
+  <programme start="20260831013000 +0000" stop="20260831020000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Restaging Chinese Opera 1/2</title>
+  </programme>
+  <programme start="20260831020000 +0000" stop="20260831030000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In the Foothills of the Tianshan Mountains (5)</title>
+  </programme>
+  <programme start="20260831030000 +0000" stop="20260831033000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Fall in Love with Museums (7)</title>
+  </programme>
+  <programme start="20260831033000 +0000" stop="20260831040000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Wisdom&apos;s Breath: The Living Tradition of Chinese Medicine (8)</title>
+  </programme>
+  <programme start="20260831040000 +0000" stop="20260831050000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Yangtze River: The Civilization (4)</title>
+  </programme>
+  <programme start="20260831050000 +0000" stop="20260831053000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In Search of Poon Tuck-ming (2)</title>
+  </programme>
+  <programme start="20260831053000 +0000" stop="20260831060000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Riddle of the Ancient Gambling City (2)</title>
+  </programme>
+  <programme start="20260831060000 +0000" stop="20260831070000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Foodwise: Eat Like Confucius/Foodwise: The Herbal Way of Life</title>
+  </programme>
+  <programme start="20260831070000 +0000" stop="20260831073000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">My Youth, My Call 1-5</title>
+  </programme>
+  <programme start="20260831073000 +0000" stop="20260831080000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Restaging Chinese Opera 1/2</title>
+  </programme>
+  <programme start="20260831080000 +0000" stop="20260831090000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In the Foothills of the Tianshan Mountains (5)</title>
+  </programme>
+  <programme start="20260831090000 +0000" stop="20260831093000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Fall in Love with Museums (7)</title>
+  </programme>
+  <programme start="20260831093000 +0000" stop="20260831100000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Wisdom&apos;s Breath: The Living Tradition of Chinese Medicine (8)</title>
+  </programme>
+  <programme start="20260831100000 +0000" stop="20260831110000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Yangtze River: The Civilization (4)</title>
+  </programme>
+  <programme start="20260831110000 +0000" stop="20260831113000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In Search of Poon Tuck-ming (2)</title>
+  </programme>
+  <programme start="20260831113000 +0000" stop="20260831120000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Riddle of the Ancient Gambling City (2)</title>
+  </programme>
+  <programme start="20260831120000 +0000" stop="20260831130000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Foodwise: Eat Like Confucius/Foodwise: The Herbal Way of Life</title>
+  </programme>
+  <programme start="20260831130000 +0000" stop="20260831133000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">My Youth, My Call 1-5</title>
+  </programme>
+  <programme start="20260831133000 +0000" stop="20260831140000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Restaging Chinese Opera 1/2</title>
+  </programme>
+  <programme start="20260831140000 +0000" stop="20260831150000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In the Foothills of the Tianshan Mountains (5)</title>
+  </programme>
+  <programme start="20260831150000 +0000" stop="20260831153000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Fall in Love with Museums (7)</title>
+  </programme>
+  <programme start="20260831153000 +0000" stop="20260831160000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Wisdom&apos;s Breath: The Living Tradition of Chinese Medicine (8)</title>
+  </programme>
+  <programme start="20260831160000 +0000" stop="20260831170000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Special Edition</title>
+  </programme>
+  <programme start="20260831170000 +0000" stop="20260831173000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journeys and Discoveries</title>
+  </programme>
+  <programme start="20260831173000 +0000" stop="20260831180000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">History in the Frame</title>
+  </programme>
+  <programme start="20260831180000 +0000" stop="20260831190000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Best Eats</title>
+  </programme>
+  <programme start="20260831190000 +0000" stop="20260831193000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Youthful China</title>
+  </programme>
+  <programme start="20260831193000 +0000" stop="20260831200000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20260831200000 +0000" stop="20260831210000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Today’s Top Pick</title>
+  </programme>
+  <programme start="20260831210000 +0000" stop="20260831213000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Humanities and Geography</title>
+  </programme>
+  <programme start="20260831213000 +0000" stop="20260831220000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Living China</title>
+  </programme>
   <programme start="20260830210000 +0000" stop="20260831000000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
   </programme>
