@@ -1,12 +1,3 @@
-<programme start="20260830190000 +0000" stop="20260830200000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260830200000 +0000" stop="20260830210000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260830210000 +0000" stop="20260830220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260830220000 +0000" stop="20260830230000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -64,12 +55,6 @@
 <programme start="20260831160000 +0000" stop="20260831170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260830180000 +0000" stop="20260830200000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260830200000 +0000" stop="20260830220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260830220000 +0000" stop="20260831000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -98,12 +83,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260831160000 +0000" stop="20260831180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260830180000 +0000" stop="20260830200000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260830200000 +0000" stop="20260830220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260830220000 +0000" stop="20260831000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -135,12 +114,6 @@
 </programme>
 <programme start="20260831160000 +0000" stop="20260831180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260830183000 +0000" stop="20260830203000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Coventry City vs Hull City</title>
-</programme>
-<programme start="20260830203000 +0000" stop="20260830210000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -THE TIGERS RETURN</title>
 </programme>
 <programme start="20260830210000 +0000" stop="20260830230000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Chelsea vs Brighton &amp; Hove Albion</title>
@@ -229,9 +202,6 @@
 <programme start="20260831160000 +0000" stop="20260831180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Sunderland vs Fulham</title>
 </programme>
-<programme start="20260830160000 +0000" stop="20260830200000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260830200000 +0000" stop="20260831000000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -250,9 +220,6 @@
 <programme start="20260831160000 +0000" stop="20260831185000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260830160000 +0000" stop="20260830200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260830200000 +0000" stop="20260831000000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -269,9 +236,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260831160000 +0000" stop="20260831200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260830160000 +0000" stop="20260830200000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260830200000 +0000" stop="20260831000000 +0000" channel="Now Sports Premier League 4.nowtv">

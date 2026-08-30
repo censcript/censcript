@@ -106,16 +106,19 @@
   <programme start="20260901215700 +0000" stop="20260901230000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Vraždy v dolinách I (1/13)</title>
   </programme>
-  <programme start="20260831200000 +0000" stop="20260831221500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260831200500 +0000" stop="20260831221900 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Lacombe Lucien</title>
   </programme>
-  <programme start="20260831221500 +0000" stop="20260831221700 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260831221900 +0000" stop="20260831222100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260831221700 +0000" stop="20260831230700 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260831222100 +0000" stop="20260831231000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260831230700 +0000" stop="20260901035500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260831231000 +0000" stop="20260831231600 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Hírek</title>
+  </programme>
+  <programme start="20260831231600 +0000" stop="20260901035500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Nočné vysielanie</title>
   </programme>
   <programme start="20260901035500 +0000" stop="20260901040500 +0000" channel="Dvojka.webtv.sk">
@@ -481,16 +484,16 @@
   <programme start="20260901214800 +0000" stop="20260901221500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Cyklistika - MS 2026 (horská)</title>
   </programme>
-  <programme start="20260831214000 +0000" stop="20260831235500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260831213000 +0000" stop="20260831234500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Cuky Luky Film</title>
   </programme>
-  <programme start="20260831235500 +0000" stop="20260901014500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260831234500 +0000" stop="20260901012500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Babovřesky 3</title>
   </programme>
-  <programme start="20260901014500 +0000" stop="20260901022500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901012500 +0000" stop="20260901020500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady (22)</title>
   </programme>
-  <programme start="20260901022500 +0000" stop="20260901030000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901020500 +0000" stop="20260901030000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (13)</title>
   </programme>
   <programme start="20260901030000 +0000" stop="20260901040000 +0000" channel="Markíza.webtv.sk">
@@ -499,25 +502,25 @@
   <programme start="20260901040000 +0000" stop="20260901062500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Teleráno</title>
   </programme>
-  <programme start="20260901062500 +0000" stop="20260901074000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901062500 +0000" stop="20260901074500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260901074000 +0000" stop="20260901084000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901074500 +0000" stop="20260901084500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (45)</title>
   </programme>
-  <programme start="20260901084000 +0000" stop="20260901094000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901084500 +0000" stop="20260901094500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (63)</title>
   </programme>
-  <programme start="20260901094000 +0000" stop="20260901104500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901094500 +0000" stop="20260901105000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Kobra 11 XIX (7)</title>
   </programme>
-  <programme start="20260901104500 +0000" stop="20260901115000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901105000 +0000" stop="20260901115000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Kobra 11 XIX (9)</title>
   </programme>
-  <programme start="20260901115000 +0000" stop="20260901125000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901115000 +0000" stop="20260901125500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Kobra 11 XIX (10)</title>
   </programme>
-  <programme start="20260901125000 +0000" stop="20260901135500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901125500 +0000" stop="20260901135500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady (26)</title>
   </programme>
   <programme start="20260901135500 +0000" stop="20260901150000 +0000" channel="Markíza.webtv.sk">
@@ -550,10 +553,10 @@
   <programme start="20260901183000 +0000" stop="20260901195500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XV (1)</title>
   </programme>
-  <programme start="20260901195500 +0000" stop="20260901211000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901195500 +0000" stop="20260901210000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Policie Modrava II (6)</title>
   </programme>
-  <programme start="20260901211000 +0000" stop="20260901222500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260901210000 +0000" stop="20260901222000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Buldok z Poděbrad (8)</title>
   </programme>
   <programme start="20260831212000 +0000" stop="20260831225500 +0000" channel="JOJ.webtv.sk">
@@ -793,22 +796,22 @@
   <programme start="20260901212000 +0000" stop="20260901221500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Komisár Rex II (2)</title>
   </programme>
-  <programme start="20260831210000 +0000" stop="20260831223500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260831210000 +0000" stop="20260831223000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Rambo</title>
   </programme>
-  <programme start="20260831223500 +0000" stop="20260831225500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260831223000 +0000" stop="20260831225000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dajto v pokri z Card Casina (84)</title>
   </programme>
-  <programme start="20260831225500 +0000" stop="20260831230500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260831225000 +0000" stop="20260831230500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
   <programme start="20260831230500 +0000" stop="20260831234500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Susedia (12)</title>
   </programme>
-  <programme start="20260831234500 +0000" stop="20260901003500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260831234500 +0000" stop="20260901003000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná XIV (11)</title>
   </programme>
-  <programme start="20260901003500 +0000" stop="20260901022000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901003000 +0000" stop="20260901022000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Smiechoty (44)</title>
   </programme>
   <programme start="20260901022000 +0000" stop="20260901040000 +0000" channel="DajTo.webtv.sk">
@@ -856,40 +859,40 @@
   <programme start="20260901115500 +0000" stop="20260901122500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku II (11)</title>
   </programme>
-  <programme start="20260901122500 +0000" stop="20260901125000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901122500 +0000" stop="20260901125500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku II (12)</title>
   </programme>
-  <programme start="20260901125000 +0000" stop="20260901132000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901125500 +0000" stop="20260901132500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku II (13)</title>
   </programme>
-  <programme start="20260901132000 +0000" stop="20260901135000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901132500 +0000" stop="20260901135500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Priatelia VIII (22)</title>
   </programme>
-  <programme start="20260901135000 +0000" stop="20260901142000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901135500 +0000" stop="20260901142500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Priatelia VIII (23)</title>
   </programme>
-  <programme start="20260901142000 +0000" stop="20260901145000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901142500 +0000" stop="20260901145000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dva a pol chlapa I (10)</title>
   </programme>
-  <programme start="20260901145000 +0000" stop="20260901151500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901145000 +0000" stop="20260901152000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dva a pol chlapa I (11)</title>
   </programme>
-  <programme start="20260901151500 +0000" stop="20260901154500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901152000 +0000" stop="20260901154500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Mladý Sheldon VI (2)</title>
   </programme>
-  <programme start="20260901154500 +0000" stop="20260901161000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901154500 +0000" stop="20260901161500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Mladý Sheldon VI (3)</title>
   </programme>
-  <programme start="20260901161000 +0000" stop="20260901173500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901161500 +0000" stop="20260901173500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná XIV (13)</title>
   </programme>
   <programme start="20260901173500 +0000" stop="20260901183000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Susedia (13)</title>
   </programme>
-  <programme start="20260901183000 +0000" stop="20260901210500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901183000 +0000" stop="20260901210000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Hviezdna brána</title>
   </programme>
-  <programme start="20260901210500 +0000" stop="20260901231000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260901210000 +0000" stop="20260901231000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Kat</title>
   </programme>
   <programme start="20260831220000 +0000" stop="20260831225500 +0000" channel="Doma.webtv.sk">
@@ -1126,10 +1129,10 @@
   <programme start="20260901181000 +0000" stop="20260901220000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Zelená míľa</title>
   </programme>
-  <programme start="20260831193500 +0000" stop="20260831223000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260831193500 +0000" stop="20260831230000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal Reprezentácia</title>
   </programme>
-  <programme start="20260831223000 +0000" stop="20260901000000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260831230000 +0000" stop="20260901000000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
   <programme start="20260901000000 +0000" stop="20260901014000 +0000" channel="JOJ Šport.webtv.sk">
@@ -4036,25 +4039,22 @@
   <programme start="20260901212500 +0000" stop="20260901222500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear speciál: Když se nedaří (7)</title>
   </programme>
-  <programme start="20260831211000 +0000" stop="20260831221000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Rodinná pouta II (121)</title>
-  </programme>
-  <programme start="20260831221000 +0000" stop="20260831230000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260831220000 +0000" stop="20260831225000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta II (122)</title>
   </programme>
-  <programme start="20260831230000 +0000" stop="20260831235500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260831225000 +0000" stop="20260831234500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Sladká pomsta (21)</title>
   </programme>
-  <programme start="20260831235500 +0000" stop="20260901004000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260831234500 +0000" stop="20260901003000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Sladká pomsta (22)</title>
   </programme>
-  <programme start="20260901004000 +0000" stop="20260901012000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260901003000 +0000" stop="20260901011000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy IV (6)</title>
   </programme>
-  <programme start="20260901012000 +0000" stop="20260901020200 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260901011000 +0000" stop="20260901015200 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Prostřeno!</title>
   </programme>
-  <programme start="20260901020200 +0000" stop="20260901040000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260901015200 +0000" stop="20260901040000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20260901040000 +0000" stop="20260901040500 +0000" channel="Prima Love SK.webtv.sk">
@@ -18691,22 +18691,22 @@
   <programme start="20260901200000 +0000" stop="20260901220000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">DEVADESÁTKY</title>
   </programme>
-  <programme start="20260831220000 +0000" stop="20260901030000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260831220000 +0000" stop="20260901025900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Revolution</title>
   </programme>
-  <programme start="20260901030000 +0000" stop="20260901060000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260901025900 +0000" stop="20260901055900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Restart</title>
   </programme>
-  <programme start="20260901060000 +0000" stop="20260901070000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260901055900 +0000" stop="20260901070000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retrománie</title>
   </programme>
   <programme start="20260901070000 +0000" stop="20260901080000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Replay 90&apos;</title>
   </programme>
-  <programme start="20260901080000 +0000" stop="20260901090000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260901080000 +0000" stop="20260901085900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Replay 80&apos;</title>
   </programme>
-  <programme start="20260901090000 +0000" stop="20260901110000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260901085900 +0000" stop="20260901110000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Refresh</title>
   </programme>
   <programme start="20260901110000 +0000" stop="20260901123000 +0000" channel="Retro Music Television.webtv.sk">
@@ -18715,10 +18715,10 @@
   <programme start="20260901123000 +0000" stop="20260901140000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Rekreace</title>
   </programme>
-  <programme start="20260901140000 +0000" stop="20260901150000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260901140000 +0000" stop="20260901145900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Repete</title>
   </programme>
-  <programme start="20260901150000 +0000" stop="20260901153000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260901145900 +0000" stop="20260901153000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Rentgen</title>
   </programme>
   <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="Retro Music Television.webtv.sk">
@@ -18727,10 +18727,10 @@
   <programme start="20260901160000 +0000" stop="20260901173000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Republika</title>
   </programme>
-  <programme start="20260901173000 +0000" stop="20260901180000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260901173000 +0000" stop="20260901175900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Reproduktor</title>
   </programme>
-  <programme start="20260901180000 +0000" stop="20260901200000 +0000" channel="Retro Music Television.webtv.sk">
+  <programme start="20260901175900 +0000" stop="20260901200000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Replay 90&apos;</title>
   </programme>
   <programme start="20260901200000 +0000" stop="20260901220000 +0000" channel="Retro Music Television.webtv.sk">
