@@ -499,9 +499,6 @@
 <programme start="20260831114500 +0000" stop="20260831130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260830023000 +0000" stop="20260830060000 +0000" channel="ANTV.vision">
-<title>Dil To Pagal Hai</title>
-</programme>
 <programme start="20260830060000 +0000" stop="20260830073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -522,9 +519,6 @@
 </programme>
 <programme start="20260830180000 +0000" stop="20260830190000 +0000" channel="ANTV.vision">
 <title>Brotherhood</title>
-</programme>
-<programme start="20260830190000 +0000" stop="20260830203000 +0000" channel="ANTV.vision">
-<title>Karma Baik</title>
 </programme>
 <programme start="20260830203000 +0000" stop="20260830213000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260830060000 +0000" stop="20260830073000 +0000" channel="MDTV.vision">
 <title>Makan Enak Lagiii</title>
+</programme>
+<programme start="20260830073000 +0000" stop="20260830090000 +0000" channel="MDTV.vision">
+<title>Laper Mata</title>
+</programme>
+<programme start="20260830090000 +0000" stop="20260830100000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>

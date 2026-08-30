@@ -88,8 +88,8 @@
 <programme start="20260830050000 +0000" stop="20260830070000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
-<programme start="20260830111500 +0000" stop="20260830130000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>The Famous Five - The Eye of the Sunrise</title>
+<programme start="20260830113300 +0000" stop="20260830130000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260830130000 +0000" stop="20260830160500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Live: Women&#039;s Irish Open, LET Golf - Day 4</title>
@@ -302,7 +302,7 @@
     <title>RTÉ News with ISL</title>
 </programme>
 <programme start="20260830000000 +0000" stop="20260830003000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC News</title>
+    <title>Joins BBC News</title>
 </programme>
 <programme start="20260830003000 +0000" stop="20260830010000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Talking Business</title>
@@ -3802,13 +3802,16 @@
 <programme start="20260830043000 +0000" stop="20260830050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>School of Golf - Chapter 6: Slice Stoppers</title>
 </programme>
-<programme start="20260830050000 +0000" stop="20260830110000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260830050000 +0000" stop="20260830090000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Tour Championship, PGA Tour Golf - Day 3</title>
 </programme>
-<programme start="20260830110000 +0000" stop="20260830160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260830090000 +0000" stop="20260830150000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: British Masters, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260830160000 +0000" stop="20260830220000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260830150000 +0000" stop="20260830160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: Women&#039;s Irish Open, LET Golf - Day 4</title>
+</programme>
+<programme start="20260830160000 +0000" stop="20260830230000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Tour Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20260830000000 +0000" stop="20260830010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4531,13 +4534,16 @@
 <programme start="20260830043000 +0000" stop="20260830050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>School of Golf - Chapter 6: Slice Stoppers</title>
 </programme>
-<programme start="20260830050000 +0000" stop="20260830110000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260830050000 +0000" stop="20260830090000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Tour Championship, PGA Tour Golf - Day 3</title>
 </programme>
-<programme start="20260830110000 +0000" stop="20260830160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260830090000 +0000" stop="20260830150000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: British Masters, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260830160000 +0000" stop="20260830220000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260830150000 +0000" stop="20260830160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: Women&#039;s Irish Open, LET Golf - Day 4</title>
+</programme>
+<programme start="20260830160000 +0000" stop="20260830230000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Tour Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20260830000000 +0000" stop="20260830010000 +0000" channel="Sky_Sports_Action.virginmediatv">
