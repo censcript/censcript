@@ -89,7 +89,7 @@
     <title>Euronews</title>
 </programme>
 <programme start="20260830113300 +0000" stop="20260830130000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Live: World Rowing Championships 2026</title>
 </programme>
 <programme start="20260830130000 +0000" stop="20260830160500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Live: Women&#039;s Irish Open, LET Golf - Day 4</title>
@@ -2209,17 +2209,11 @@
 <programme start="20260830050000 +0000" stop="20260830075000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Breakfast</title>
 </programme>
-<programme start="20260830120000 +0000" stop="20260830123000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260830120000 +0000" stop="20260830130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
-<programme start="20260830123000 +0000" stop="20260830130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Climate Question - Does Climate Change Fuel Epidemics?</title>
-</programme>
-<programme start="20260830130000 +0000" stop="20260830133000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260830130000 +0000" stop="20260830140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20260830133000 +0000" stop="20260830140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Tech Now</title>
 </programme>
 <programme start="20260830140000 +0000" stop="20260830143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -4150,8 +4144,11 @@
 <programme start="20260830121500 +0000" stop="20260830123000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>The Cornwall Air Ambulance</title>
 </programme>
-<programme start="20260830123000 +0000" stop="20260830150000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>IndyCar Series Racing - Makers and Fixers 250: Race 1</title>
+<programme start="20260830123000 +0000" stop="20260830130000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>All In: Indycar - DNA</title>
+</programme>
+<programme start="20260830130000 +0000" stop="20260830150000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Live: IndyCar Series Racing - Makers and Fixers 250: Race 1</title>
 </programme>
 <programme start="20260830150000 +0000" stop="20260830160000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Live: Indy NXT Series - Makers and Fixers 250: Race</title>
@@ -4744,8 +4741,11 @@
 <programme start="20260830121500 +0000" stop="20260830123000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>The Cornwall Air Ambulance</title>
 </programme>
-<programme start="20260830123000 +0000" stop="20260830150000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>IndyCar Series Racing - Makers and Fixers 250: Race 1</title>
+<programme start="20260830123000 +0000" stop="20260830130000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>All In: Indycar - DNA</title>
+</programme>
+<programme start="20260830130000 +0000" stop="20260830150000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Live: IndyCar Series Racing - Makers and Fixers 250: Race 1</title>
 </programme>
 <programme start="20260830150000 +0000" stop="20260830160000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Live: Indy NXT Series - Makers and Fixers 250: Race</title>
