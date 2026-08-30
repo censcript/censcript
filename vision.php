@@ -199,9 +199,6 @@
 <programme start="20260831100000 +0000" stop="20260831103000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260831103000 +0000" stop="20260831140000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
 <programme start="20260830000000 +0000" stop="20260830003000 +0000" channel="iNews.vision">
 <title>iNews Update: Aceh Tamiang</title>
 </programme>
@@ -219,12 +216,6 @@
 </programme>
 <programme start="20260830043000 +0000" stop="20260830060000 +0000" channel="iNews.vision">
 <title>Cahaya Hati Indonesia</title>
-</programme>
-<programme start="20260830060000 +0000" stop="20260830090000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260830090000 +0000" stop="20260830120000 +0000" channel="iNews.vision">
-<title>iNews</title>
 </programme>
 <programme start="20260830120000 +0000" stop="20260830133000 +0000" channel="iNews.vision">
 <title>iNews Room Weekend (L)</title>
@@ -297,9 +288,6 @@
 </programme>
 <programme start="20260831114000 +0000" stop="20260831114500 +0000" channel="iNews.vision">
 <title>iNews Terkini (L)</title>
-</programme>
-<programme start="20260831114500 +0000" stop="20260831140000 +0000" channel="iNews.vision">
-<title>iNews</title>
 </programme>
 <programme start="20260829233000 +0000" stop="20260830003000 +0000" channel="SindoNews.vision">
 <title>iNews Files</title>
@@ -507,15 +495,6 @@
 </programme>
 <programme start="20260830093000 +0000" stop="20260830113000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20260830113000 +0000" stop="20260830140000 +0000" channel="ANTV.vision">
-<title>Bunga Desa</title>
-</programme>
-<programme start="20260830140000 +0000" stop="20260830160000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 3: Keris Pusaka</title>
-</programme>
-<programme start="20260830160000 +0000" stop="20260830180000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
 </programme>
 <programme start="20260830180000 +0000" stop="20260830190000 +0000" channel="ANTV.vision">
 <title>Brotherhood</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260830090000 +0000" stop="20260830100000 +0000" channel="MDTV.vision">
 <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260830100000 +0000" stop="20260830103000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260830103000 +0000" stop="20260830122500 +0000" channel="MDTV.vision">
+<title>Marisol</title>
+</programme>
+<programme start="20260830122500 +0000" stop="20260830143500 +0000" channel="MDTV.vision">
+<title>Kupu Malam</title>
+</programme>
+<programme start="20260830143500 +0000" stop="20260830152500 +0000" channel="MDTV.vision">
+<title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260830152500 +0000" stop="20260830163500 +0000" channel="MDTV.vision">
+<title>Jatanras</title>
+</programme>
+<programme start="20260830163500 +0000" stop="20260830172500 +0000" channel="MDTV.vision">
+<title>Customs Protection</title>
+</programme>
+<programme start="20260830172500 +0000" stop="20260830225000 +0000" channel="MDTV.vision">
+<title>86</title>
 </programme>

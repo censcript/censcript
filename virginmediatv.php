@@ -4249,11 +4249,8 @@
 <programme start="20260830050000 +0000" stop="20260830060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Vuelta a España - Stage 8</title>
 </programme>
-<programme start="20260830100000 +0000" stop="20260830160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260830100000 +0000" stop="20260830163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 9</title>
-</programme>
-<programme start="20260830160000 +0000" stop="20260830163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>CPL T20 - Trinbago Knight Riders v Guyana Amazon Warriors</title>
 </programme>
 <programme start="20260830163000 +0000" stop="20260830184500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: NWSL - Washington Spirit v Bay FC</title>
@@ -4846,11 +4843,8 @@
 <programme start="20260830050000 +0000" stop="20260830060000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Vuelta a España - Stage 8</title>
 </programme>
-<programme start="20260830100000 +0000" stop="20260830160000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260830100000 +0000" stop="20260830163000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Vuelta a España - Stage 9</title>
-</programme>
-<programme start="20260830160000 +0000" stop="20260830163000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>CPL T20 - Trinbago Knight Riders v Guyana Amazon Warriors</title>
 </programme>
 <programme start="20260830163000 +0000" stop="20260830184500 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: NWSL - Washington Spirit v Bay FC</title>
@@ -5872,7 +5866,10 @@
 <programme start="20260829175800 +0000" stop="20260830015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260830015800 +0000" stop="20260830060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260830015800 +0000" stop="20260830050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260830050000 +0000" stop="20260830060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260830114500 +0000" stop="20260830121000 +0000" channel="CBBC.virginmediatv">
