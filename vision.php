@@ -571,12 +571,6 @@
 <programme start="20260831113000 +0000" stop="20260831130000 +0000" channel="ANTV.vision">
 <title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
-<programme start="20260831150000 +0000" stop="20260831170000 +0000" channel="ANTV.vision">
-<title>Kelabang Seribu</title>
-</programme>
-<programme start="20260831170000 +0000" stop="20260831190000 +0000" channel="ANTV.vision">
-<title>Looking For Mister Perfect</title>
-</programme>
 <programme start="20260831190000 +0000" stop="20260831203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260901113500 +0000" stop="20260901133500 +0000" channel="MDTV.vision">
 <title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260831000000 +0000" stop="20260831020000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260831020000 +0000" stop="20260831040000 +0000" channel="JTV.vision">
+<title>JTV</title>
 </programme>

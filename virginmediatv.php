@@ -4145,7 +4145,7 @@
     <title>EFL Greatest - 2006/07: Nottingham Forest v Yeovil Town</title>
 </programme>
 <programme start="20260831050000 +0000" stop="20260831060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>The Sky Sports Catch-Up</title>
+    <title>The Sky Sports Catch-Up - Sky Sports Catch Up (30.08.26)</title>
 </programme>
 <programme start="20260831120000 +0000" stop="20260831130000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Lunchtime Live</title>
@@ -4271,7 +4271,7 @@
     <title>Roger Federer Hall of Fame Induction</title>
 </programme>
 <programme start="20260831114000 +0000" stop="20260831140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Women&#039;s First Round: Venus Williams v Sofia Kenin</title>
+    <title>US Open 2026 - Men&#039;s First Round: Novak Djokovic v Mariano Navone</title>
 </programme>
 <programme start="20260831140000 +0000" stop="20260831143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Day 1: Highlights</title>
@@ -4955,7 +4955,7 @@
     <title>EFL Greatest - 2006/07: Nottingham Forest v Yeovil Town</title>
 </programme>
 <programme start="20260831050000 +0000" stop="20260831060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>The Sky Sports Catch-Up</title>
+    <title>The Sky Sports Catch-Up - Sky Sports Catch Up (30.08.26)</title>
 </programme>
 <programme start="20260831120000 +0000" stop="20260831130000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Lunchtime Live</title>
@@ -5081,7 +5081,7 @@
     <title>Roger Federer Hall of Fame Induction</title>
 </programme>
 <programme start="20260831114000 +0000" stop="20260831140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Women&#039;s First Round: Venus Williams v Sofia Kenin</title>
+    <title>US Open 2026 - Men&#039;s First Round: Novak Djokovic v Mariano Navone</title>
 </programme>
 <programme start="20260831140000 +0000" stop="20260831143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Day 1: Highlights</title>
@@ -6304,7 +6304,10 @@
 <programme start="20260830175800 +0000" stop="20260831015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260831015800 +0000" stop="20260831060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260831015800 +0000" stop="20260831050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260831050000 +0000" stop="20260831060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260831120000 +0000" stop="20260831121000 +0000" channel="CBBC.virginmediatv">
