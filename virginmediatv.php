@@ -3851,9 +3851,9 @@
     <title>Sports Desk</title>
 </programme>
 <programme start="20260831143000 +0000" stop="20260831173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Live: US Open 2026 - Day 2</title>
 </programme>
-<programme start="20260831173000 +0000" stop="20260831213000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260831173000 +0000" stop="20260831220000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Monday Night Football - Aston Villa v Arsenal</title>
 </programme>
 <programme start="20260831000000 +0000" stop="20260831003000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
@@ -4270,8 +4270,8 @@
 <programme start="20260831050000 +0000" stop="20260831060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Roger Federer Hall of Fame Induction</title>
 </programme>
-<programme start="20260831120000 +0000" stop="20260831140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Day 1</title>
+<programme start="20260831114000 +0000" stop="20260831140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>US Open 2026 - Women&#039;s First Round: Venus Williams v Sofia Kenin</title>
 </programme>
 <programme start="20260831140000 +0000" stop="20260831143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Day 1: Highlights</title>
@@ -4487,7 +4487,7 @@
     <title>MotoGP - Aragon Grand Prix: Moto3 Race</title>
 </programme>
 <programme start="20260831120000 +0000" stop="20260831123000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>CPL T20 - St. Kitts &amp; Nevis Patriots v Antigua &amp; Barbuda Falcons</title>
+    <title>CPL T20 - Trinbago Knight Riders v Jamaica Kingsmen</title>
 </programme>
 <programme start="20260831123000 +0000" stop="20260831143000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Test Cricket - Sri Lanka v India: 2nd Test Review</title>
@@ -4499,7 +4499,7 @@
     <title>Sign Up: Into Football - Best Of</title>
 </programme>
 <programme start="20260831163000 +0000" stop="20260831170000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>CPL T20 - St. Kitts &amp; Nevis Patriots v Antigua &amp; Barbuda Falcons</title>
+    <title>CPL T20 - Trinbago Knight Riders v Jamaica Kingsmen</title>
 </programme>
 <programme start="20260831170000 +0000" stop="20260831180000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>FIM Speedway World Cup - Final: Warsaw</title>
@@ -4661,9 +4661,9 @@
     <title>Sports Desk</title>
 </programme>
 <programme start="20260831143000 +0000" stop="20260831173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Live: US Open 2026 - Day 2</title>
 </programme>
-<programme start="20260831173000 +0000" stop="20260831213000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260831173000 +0000" stop="20260831220000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Monday Night Football - Aston Villa v Arsenal</title>
 </programme>
 <programme start="20260831000000 +0000" stop="20260831003000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
@@ -5080,8 +5080,8 @@
 <programme start="20260831050000 +0000" stop="20260831060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Roger Federer Hall of Fame Induction</title>
 </programme>
-<programme start="20260831120000 +0000" stop="20260831140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Day 1</title>
+<programme start="20260831114000 +0000" stop="20260831140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>US Open 2026 - Women&#039;s First Round: Venus Williams v Sofia Kenin</title>
 </programme>
 <programme start="20260831140000 +0000" stop="20260831143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Day 1: Highlights</title>
@@ -5168,7 +5168,7 @@
     <title>MotoGP - Aragon Grand Prix: Moto3 Race</title>
 </programme>
 <programme start="20260831120000 +0000" stop="20260831123000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>CPL T20 - St. Kitts &amp; Nevis Patriots v Antigua &amp; Barbuda Falcons</title>
+    <title>CPL T20 - Trinbago Knight Riders v Jamaica Kingsmen</title>
 </programme>
 <programme start="20260831123000 +0000" stop="20260831143000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>Test Cricket - Sri Lanka v India: 2nd Test Review</title>
@@ -5180,7 +5180,7 @@
     <title>Sign Up: Into Football - Best Of</title>
 </programme>
 <programme start="20260831163000 +0000" stop="20260831170000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>CPL T20 - St. Kitts &amp; Nevis Patriots v Antigua &amp; Barbuda Falcons</title>
+    <title>CPL T20 - Trinbago Knight Riders v Jamaica Kingsmen</title>
 </programme>
 <programme start="20260831170000 +0000" stop="20260831180000 +0000" channel="TNT_Sports_2.virginmediatv">
     <title>FIM Speedway World Cup - Final: Warsaw</title>

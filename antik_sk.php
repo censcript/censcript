@@ -667,25 +667,22 @@
   <programme start="20260902210500 +0000" stop="20260902222500 +0000" channel="JOJ.webtv.sk">
     <title lang="id">S písní v tísni</title>
   </programme>
-  <programme start="20260901205500 +0000" stop="20260901220500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Policie Modrava II (6)</title>
-  </programme>
-  <programme start="20260901220500 +0000" stop="20260901232000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260901220000 +0000" stop="20260901232000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Buldok z Poděbrad (8)</title>
   </programme>
-  <programme start="20260901232000 +0000" stop="20260902002000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260901232000 +0000" stop="20260902001500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XIX (7)</title>
   </programme>
-  <programme start="20260902002000 +0000" stop="20260902011500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902001500 +0000" stop="20260902011000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XIX (9)</title>
   </programme>
-  <programme start="20260902011500 +0000" stop="20260902021500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902011000 +0000" stop="20260902015500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XIX (10)</title>
   </programme>
-  <programme start="20260902021500 +0000" stop="20260902030000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902015500 +0000" stop="20260902024500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Susedské prípady (26)</title>
   </programme>
-  <programme start="20260902030000 +0000" stop="20260902040000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902024500 +0000" stop="20260902040000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Rodinné prípady (45)</title>
   </programme>
   <programme start="20260902040000 +0000" stop="20260902050000 +0000" channel="Markíza +1.webtv.sk">
@@ -694,13 +691,13 @@
   <programme start="20260902050000 +0000" stop="20260902072500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Teleráno</title>
   </programme>
-  <programme start="20260902072500 +0000" stop="20260902084500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902072500 +0000" stop="20260902085000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260902084500 +0000" stop="20260902094500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902085000 +0000" stop="20260902095000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Rodinné prípady (46)</title>
   </programme>
-  <programme start="20260902094500 +0000" stop="20260902110000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902095000 +0000" stop="20260902110000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XV (1)</title>
   </programme>
   <programme start="20260902110000 +0000" stop="20260902120000 +0000" channel="Markíza +1.webtv.sk">
@@ -742,10 +739,10 @@
   <programme start="20260902191500 +0000" stop="20260902193000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
-  <programme start="20260902193000 +0000" stop="20260902215000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902193000 +0000" stop="20260902214500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">SuperStar (1)</title>
   </programme>
-  <programme start="20260902215000 +0000" stop="20260902225500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260902214500 +0000" stop="20260902225000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XIX (11)</title>
   </programme>
   <programme start="20260901212000 +0000" stop="20260901221500 +0000" channel="Markíza Klasik.webtv.sk">
