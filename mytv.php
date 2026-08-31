@@ -1,16 +1,16 @@
     <programme start="20260831000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Hoa sữa về trong gió - Tập 32 </title>
     </programme>
-    <programme start="20260831000000 +0000" stop="20260831003000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831000000 +0000" stop="20260831003200 +0000" channel="VTV1 HD.mytv">
         <title> Chống gian lận-Bảo vệ người dùng: Thuốc giả theo đơn đặt hàng </title>
     </programme>
-    <programme start="20260831003000 +0000" stop="20260831004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831003200 +0000" stop="20260831004500 +0000" channel="VTV1 HD.mytv">
         <title> Sự kiện và bình luận </title>
     </programme>
-    <programme start="20260831004500 +0000" stop="20260831011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831004500 +0000" stop="20260831011500 +0000" channel="VTV1 HD.mytv">
         <title> Giai điệu kết nối </title>
     </programme>
-    <programme start="20260831011000 +0000" stop="20260831020000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831011500 +0000" stop="20260831020000 +0000" channel="VTV1 HD.mytv">
         <title> Hiểu sâu - Sống chất: Bảo vệ trẻ em trên mạng xã hội </title>
     </programme>
     <programme start="20260831020000 +0000" stop="20260831023000 +0000" channel="VTV1 HD.mytv">
@@ -22,34 +22,34 @@
     <programme start="20260831024500 +0000" stop="20260831033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Sao Kim bắn tim sao Hỏa - Tập 25 </title>
     </programme>
-    <programme start="20260831033000 +0000" stop="20260831041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831033000 +0000" stop="20260831041100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Sao Kim bắn tim sao Hỏa - Tập 26 </title>
     </programme>
-    <programme start="20260831041500 +0000" stop="20260831050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831041100 +0000" stop="20260831050400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Đặc sản sông nước Hà Tiên </title>
     </programme>
-    <programme start="20260831050500 +0000" stop="20260831051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831050400 +0000" stop="20260831050900 +0000" channel="VTV1 HD.mytv">
         <title> Chuyện đô thị: Giao thông tĩnh cho phát triển đô thị </title>
     </programme>
-    <programme start="20260831051000 +0000" stop="20260831053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831050900 +0000" stop="20260831053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260831053000 +0000" stop="20260831070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831053000 +0000" stop="20260831065900 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260831070000 +0000" stop="20260831072500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831065900 +0000" stop="20260831072500 +0000" channel="VTV1 HD.mytv">
         <title> Vì một tương lai xanh: Làm giàu từ trồng dưa lưới công nghệ cao </title>
     </programme>
-    <programme start="20260831072500 +0000" stop="20260831073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831072500 +0000" stop="20260831072900 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu: Những cánh tem kể chuyện cuộc đời </title>
     </programme>
-    <programme start="20260831073000 +0000" stop="20260831081500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831072900 +0000" stop="20260831081400 +0000" channel="VTV1 HD.mytv">
         <title> Sống xanh </title>
     </programme>
-    <programme start="20260831081500 +0000" stop="20260831084500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831081400 +0000" stop="20260831084400 +0000" channel="VTV1 HD.mytv">
         <title> Chống gian lận-Bảo vệ người dùng: Xây dựng dữ liệu quốc gia chống hàng giả </title>
     </programme>
-    <programme start="20260831084500 +0000" stop="20260831090000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260831084400 +0000" stop="20260831090000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
     <programme start="20260831090000 +0000" stop="20260831091500 +0000" channel="VTV1 HD.mytv">
