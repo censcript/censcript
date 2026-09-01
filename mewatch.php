@@ -745,3 +745,21 @@
     <programme start="20260901160000 +0000" stop="20260902160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now.</title>
     </programme>
+    <programme start="20260831160000 +0000" stop="20260831220000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP1</title>
+    </programme>
+    <programme start="20260831220000 +0000" stop="20260901040000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP2</title>
+    </programme>
+    <programme start="20260901040000 +0000" stop="20260901070000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP3</title>
+    </programme>
+    <programme start="20260901070000 +0000" stop="20260901100000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP4</title>
+    </programme>
+    <programme start="20260901100000 +0000" stop="20260901160000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP5</title>
+    </programme>
+    <programme start="20260901160000 +0000" stop="20260902160000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now.</title>
+    </programme>

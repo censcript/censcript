@@ -15329,18 +15329,13 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260901130000 +0000" stop="20260901140000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV - Legends Tonight - Norman Whiteside</title>
-    <desc lang="en">Get your fix of award winning films, documentaries &amp; original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260901140000 +0000" stop="20260901150000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV - Denis Law - Made In Aberdeen</title>
-    <desc lang="en">Get your fix of award winning films, documentaries &amp; original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
+  <programme start="20260901130000 +0000" stop="20260901150000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Premier Padel - Madrid P1 Day 1 Match 5 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260901150000 +0000" stop="20260901163000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Premier Padel - Madrid P1 Day 1 Match 5 (L)</title>
+    <title lang="en">Premier Padel - Madrid P1 Day 1 Match 6 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>

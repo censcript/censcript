@@ -4189,20 +4189,17 @@
 <programme start="20260901054500 +0000" stop="20260901071500 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260901120000 +0000" stop="20260901123000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260901114500 +0000" stop="20260901121500 +0000" channel="Racing_UK.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260901121500 +0000" stop="20260901124500 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260901123000 +0000" stop="20260901164500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260901124500 +0000" stop="20260901164500 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20260901164500 +0000" stop="20260901171500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260901171500 +0000" stop="20260901174500 +0000" channel="Racing_UK.virginmediatv">
-    <title>The Verdict</title>
-</programme>
-<programme start="20260901174500 +0000" stop="20260901181500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
+<programme start="20260901164500 +0000" stop="20260901211500 +0000" channel="Racing_UK.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260831234500 +0000" stop="20260901011500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
@@ -4219,20 +4216,17 @@
 <programme start="20260901054500 +0000" stop="20260901071500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260901120000 +0000" stop="20260901123000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260901114500 +0000" stop="20260901121500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260901121500 +0000" stop="20260901124500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260901123000 +0000" stop="20260901164500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260901124500 +0000" stop="20260901164500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20260901164500 +0000" stop="20260901171500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260901171500 +0000" stop="20260901174500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>The Verdict</title>
-</programme>
-<programme start="20260901174500 +0000" stop="20260901181500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
+<programme start="20260901164500 +0000" stop="20260901211500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260831233000 +0000" stop="20260901013000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Manchester United v Ipswich Town</title>
