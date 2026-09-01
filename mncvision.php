@@ -1315,11 +1315,8 @@
 <programme start="20260901113000 +0000" stop="20260901130000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Madrid (L)</title>
 </programme>
-<programme start="20260901130000 +0000" stop="20260901140000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Specials: N. Whiteside</title>
-</programme>
-<programme start="20260901140000 +0000" stop="20260901150000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Specials: Denis Law</title>
+<programme start="20260901130000 +0000" stop="20260901150000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Premier Padel 2026: Madrid (L)</title>
 </programme>
 <programme start="20260901150000 +0000" stop="20260901163000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Madrid (L)</title>
@@ -1375,11 +1372,8 @@
 <programme start="20260901113000 +0000" stop="20260901130000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Madrid (L)</title>
 </programme>
-<programme start="20260901130000 +0000" stop="20260901140000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV Specials: N. Whiteside</title>
-</programme>
-<programme start="20260901140000 +0000" stop="20260901150000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV Specials: Denis Law</title>
+<programme start="20260901130000 +0000" stop="20260901150000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Premier Padel 2026: Madrid (L)</title>
 </programme>
 <programme start="20260901150000 +0000" stop="20260901163000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Madrid (L)</title>
@@ -7622,22 +7616,22 @@
     <title>Tiba-Tiba Kuis</title>
 </programme>
 <programme start="20260901010400 +0000" stop="20260901024500 +0000" channel="SCTV.mncvision">
-    <title>Miss Kinclong Colong Hatiku</title>
+    <title>Belum Mantan Masih Demen</title>
 </programme>
 <programme start="20260901024500 +0000" stop="20260901044100 +0000" channel="SCTV.mncvision">
-    <title>Dear Mas Leon, I Love You</title>
+    <title>Jodohku Spek Dosen Killer</title>
 </programme>
 <programme start="20260901044100 +0000" stop="20260901051400 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260901051400 +0000" stop="20260901064900 +0000" channel="SCTV.mncvision">
-    <title>Bridesmaid Barbar Curi Perhatian</title>
+    <title>Mba SCBD Kepincut Pemulung</title>
 </programme>
 <programme start="20260901064900 +0000" stop="20260901082500 +0000" channel="SCTV.mncvision">
-    <title>FTV Siang</title>
+    <title>Bridesmaid Barbar Curi-Curi...</title>
 </programme>
 <programme start="20260901082500 +0000" stop="20260901100000 +0000" channel="SCTV.mncvision">
-    <title>Burger Aja Double Masa Kamu...</title>
+    <title>Wasiat No Play-Play Kena Mental</title>
 </programme>
 <programme start="20260901100000 +0000" stop="20260901112800 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
@@ -7682,22 +7676,22 @@
     <title>Tiba-Tiba Kuis</title>
 </programme>
 <programme start="20260901010400 +0000" stop="20260901024500 +0000" channel="SCTV HD.mncvision">
-    <title>Miss Kinclong Colong Hatiku</title>
+    <title>Belum Mantan Masih Demen</title>
 </programme>
 <programme start="20260901024500 +0000" stop="20260901044100 +0000" channel="SCTV HD.mncvision">
-    <title>Dear Mas Leon, I Love You</title>
+    <title>Jodohku Spek Dosen Killer</title>
 </programme>
 <programme start="20260901044100 +0000" stop="20260901051400 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260901051400 +0000" stop="20260901064900 +0000" channel="SCTV HD.mncvision">
-    <title>Bridesmaid Barbar Curi Perhatian</title>
+    <title>Mba SCBD Kepincut Pemulung</title>
 </programme>
 <programme start="20260901064900 +0000" stop="20260901082500 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Siang</title>
+    <title>Bridesmaid Barbar Curi-Curi...</title>
 </programme>
 <programme start="20260901082500 +0000" stop="20260901100000 +0000" channel="SCTV HD.mncvision">
-    <title>Burger Aja Double Masa Kamu...</title>
+    <title>Wasiat No Play-Play Kena Mental</title>
 </programme>
 <programme start="20260901100000 +0000" stop="20260901112800 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
@@ -7898,7 +7892,7 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20260901103000 +0000" stop="20260901123000 +0000" channel="Soccer Channel.mncvision">
-    <title>Shopee Cup 25/26: TAM Vs BGU</title>
+    <title>Shopee Cup 25/26: TAM Vs BGP</title>
 </programme>
 <programme start="20260901123000 +0000" stop="20260901143000 +0000" channel="Soccer Channel.mncvision">
     <title>Satu Hati Untuk Garuda</title>
@@ -7943,7 +7937,7 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20260901103000 +0000" stop="20260901123000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Shopee Cup 25/26: TAM Vs BGU</title>
+    <title>Shopee Cup 25/26: TAM Vs BGP</title>
 </programme>
 <programme start="20260901123000 +0000" stop="20260901143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Satu Hati Untuk Garuda</title>

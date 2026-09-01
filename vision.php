@@ -637,9 +637,6 @@
 <programme start="20260831230000 +0000" stop="20260901023000 +0000" channel="ANTV.vision">
 <title>Dil</title>
 </programme>
-<programme start="20260901023000 +0000" stop="20260901060000 +0000" channel="ANTV.vision">
-<title>Kaho Naa Pyaar Hai</title>
-</programme>
 <programme start="20260901060000 +0000" stop="20260901073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -650,7 +647,7 @@
 <title>Jaane Anjaane</title>
 </programme>
 <programme start="20260901113000 +0000" stop="20260901130000 +0000" channel="ANTV.vision">
-<title>Jodoh Wasiat Bapak Reborn</title>
+<title>ANTV</title>
 </programme>
 <programme start="20260901130000 +0000" stop="20260901150000 +0000" channel="ANTV.vision">
 <title>Bernapas Dalam Kubur</title>
@@ -686,7 +683,7 @@
 <title>Jaane Anjaane</title>
 </programme>
 <programme start="20260902113000 +0000" stop="20260902130000 +0000" channel="ANTV.vision">
-<title>Jodoh Wasiat Bapak Reborn</title>
+<title>ANTV</title>
 </programme>
 <programme start="20260831220000 +0000" stop="20260901020000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260901010000 +0000" stop="20260901013000 +0000" channel="DAAI TV.vision">
 <title>Clifford</title>
+</programme>
+<programme start="20260901013000 +0000" stop="20260901020000 +0000" channel="DAAI TV.vision">
+<title>@Indonesia</title>
 </programme>

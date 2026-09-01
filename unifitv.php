@@ -7831,14 +7831,14 @@
   <programme start="20260901135000 +0000" stop="20260901143500 +0000" channel="rockentertainment.unifitv">
     <title lang="en">The Librarians: The Next Chapter</title>
     <desc lang="en">Investigating rage at an international boarding school, the Librarians meet a man claiming to be Merlin. Together, they must conquer their own anger and uncover the source of the magic before time runs out.</desc>
-    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">1.0.</episode-num>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
   <programme start="20260901143500 +0000" stop="20260901152000 +0000" channel="rockentertainment.unifitv">
     <title lang="en">Below Deck Down Under</title>
     <desc lang="en">In the wake of one crew member's demotion, another pushes for a promotion. Chef Ben's plan to promote Ellie stirs tension with Daisy.</desc>
-    <category lang="en">Reality</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">3.16.</episode-num>
     <episode-num system="onscreen">S4E17</episode-num>
   </programme>

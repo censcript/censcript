@@ -1295,7 +1295,7 @@
     <title lang="id">Zbrane Hollywoodu I (3)</title>
   </programme>
   <programme start="20260903070000 +0000" stop="20260903080000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Po stopách vrahov</title>
+    <title lang="id">Po stopách vrahov V (7)</title>
   </programme>
   <programme start="20260903080000 +0000" stop="20260903090000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Hitlerove tajné misie</title>
@@ -1325,7 +1325,7 @@
     <title lang="id">Zbrane Hollywoodu I (3)</title>
   </programme>
   <programme start="20260903150000 +0000" stop="20260903160000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Po stopách vrahov</title>
+    <title lang="id">Po stopách vrahov V (7)</title>
   </programme>
   <programme start="20260903160000 +0000" stop="20260903170000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Hitlerove tajné misie</title>
@@ -2680,6 +2680,9 @@
   <programme start="20260903000000 +0000" stop="20260903040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
+  <programme start="20260903103000 +0000" stop="20260903113000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+  </programme>
   <programme start="20260902220000 +0000" stop="20260902224500 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Rukách vyrobené</title>
   </programme>
@@ -3115,8 +3118,11 @@
   <programme start="20260903214000 +0000" stop="20260903223000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Tak neváhej a toč speciál</title>
   </programme>
-  <programme start="20260902220000 +0000" stop="20260902232000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Amoosed: losí odysea</title>
+  <programme start="20260902220000 +0000" stop="20260902225500 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Skrytý život našich domácích mazlíčků (2/4)</title>
+  </programme>
+  <programme start="20260902225500 +0000" stop="20260902232000 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Nekonečný optimista z Goralie</title>
   </programme>
   <programme start="20260902232000 +0000" stop="20260903001000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Údolí Loiry, francouzský poklad</title>

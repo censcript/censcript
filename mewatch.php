@@ -598,6 +598,18 @@
     <programme start="20260901160000 +0000" stop="20260902160000 +0000" channel="Oktolidays.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
+    <programme start="20260831160000 +0000" stop="20260901160000 +0000" channel="spl01.mewatch">
+        <title>No Programme available now. Next Broadcast on 6th September, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+    </programme>
+    <programme start="20260901160000 +0000" stop="20260902160000 +0000" channel="spl01.mewatch">
+        <title>No Programme available now. Next Broadcast on 6th September, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+    </programme>
+    <programme start="20260831160000 +0000" stop="20260901160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th September, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
+    </programme>
+    <programme start="20260901160000 +0000" stop="20260902160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 19th September, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
+    </programme>
     <programme start="20260831150000 +0000" stop="20260831164000 +0000" channel="cinemaworld.mewatch">
         <title>Kamikaze</title>
     </programme>
