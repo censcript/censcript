@@ -649,9 +649,6 @@
 <programme start="20260901113000 +0000" stop="20260901130000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20260901170000 +0000" stop="20260901190000 +0000" channel="ANTV.vision">
-<title>Scared</title>
-</programme>
 <programme start="20260901190000 +0000" stop="20260901203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260901010000 +0000" stop="20260901013000 +0000" channel="DAAI TV.vision">
 <title>Clifford</title>
+</programme>
+<programme start="20260901013000 +0000" stop="20260901020000 +0000" channel="DAAI TV.vision">
+<title>@Indonesia</title>
 </programme>

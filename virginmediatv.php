@@ -6184,7 +6184,10 @@
 <programme start="20260831175800 +0000" stop="20260901015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260901015800 +0000" stop="20260901060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260901015800 +0000" stop="20260901050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260901050000 +0000" stop="20260901060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260901120000 +0000" stop="20260901121000 +0000" channel="CBBC.virginmediatv">
@@ -7697,10 +7700,10 @@
     <title>God TV</title>
 </programme>
 <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Let&#039;s Get Real</title>
 </programme>
 <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Let&#039;s Get Real</title>
 </programme>
 <programme start="20260901163000 +0000" stop="20260901170000 +0000" channel="The_God_Channel.virginmediatv">
     <title>God TV</title>
