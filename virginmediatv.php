@@ -4199,7 +4199,7 @@
     <title>Live: Racing</title>
 </programme>
 <programme start="20260901164500 +0000" stop="20260901211500 +0000" channel="Racing_UK.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Luck on Sunday</title>
 </programme>
 <programme start="20260831234500 +0000" stop="20260901011500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
@@ -4226,7 +4226,7 @@
     <title>Live: Racing</title>
 </programme>
 <programme start="20260901164500 +0000" stop="20260901211500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Luck on Sunday</title>
 </programme>
 <programme start="20260831233000 +0000" stop="20260901013000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Manchester United v Ipswich Town</title>
@@ -7697,10 +7697,10 @@
     <title>God TV</title>
 </programme>
 <programme start="20260901153000 +0000" stop="20260901160000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>God TV</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>God TV</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260901163000 +0000" stop="20260901170000 +0000" channel="The_God_Channel.virginmediatv">
     <title>God TV</title>

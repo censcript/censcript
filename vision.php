@@ -649,12 +649,6 @@
 <programme start="20260901113000 +0000" stop="20260901130000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20260901130000 +0000" stop="20260901150000 +0000" channel="ANTV.vision">
-<title>Bernapas Dalam Kubur</title>
-</programme>
-<programme start="20260901150000 +0000" stop="20260901170000 +0000" channel="ANTV.vision">
-<title>Balada Cinta Angling Dharma</title>
-</programme>
 <programme start="20260901170000 +0000" stop="20260901190000 +0000" channel="ANTV.vision">
 <title>Scared</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260901000000 +0000" stop="20260901003000 +0000" channel="DAAI TV.vision">
 <title>Dr. Panda</title>
+</programme>
+<programme start="20260901003000 +0000" stop="20260901010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260901010000 +0000" stop="20260901013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
 </programme>
