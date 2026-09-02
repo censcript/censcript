@@ -1630,8 +1630,17 @@
 <programme start="20260902050000 +0000" stop="20260902060000 +0000" channel="ITV4.virginmediatv">
     <title>Magnum, P.I. - The Love That Lies</title>
 </programme>
-<programme start="20260902092000 +0000" stop="20260902150000 +0000" channel="ITV4.virginmediatv">
+<programme start="20260902092000 +0000" stop="20260902140000 +0000" channel="ITV4.virginmediatv">
     <title>Live: Tour of Britain Cycling - Men&#039;s Stage 1</title>
+</programme>
+<programme start="20260902140000 +0000" stop="20260902143000 +0000" channel="ITV4.virginmediatv">
+    <title>Made in Britain - Heck Sausages and Thomas Taylor (Crown Green) Bowls</title>
+</programme>
+<programme start="20260902143000 +0000" stop="20260902144500 +0000" channel="ITV4.virginmediatv">
+    <title>The Best of the 90s</title>
+</programme>
+<programme start="20260902144500 +0000" stop="20260902150000 +0000" channel="ITV4.virginmediatv">
+    <title>The Best of the 70s</title>
 </programme>
 <programme start="20260902150000 +0000" stop="20260902151500 +0000" channel="ITV4.virginmediatv">
     <title>The Best of the 80s</title>
@@ -6397,7 +6406,10 @@
 <programme start="20260901175800 +0000" stop="20260902015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260902015800 +0000" stop="20260902060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260902015800 +0000" stop="20260902050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260902050000 +0000" stop="20260902060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260902120000 +0000" stop="20260902121000 +0000" channel="CBBC.virginmediatv">

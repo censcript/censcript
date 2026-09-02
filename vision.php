@@ -658,9 +658,6 @@
 <programme start="20260902130000 +0000" stop="20260902150000 +0000" channel="ANTV.vision">
 <title>Si Manis Jembatan Ancol</title>
 </programme>
-<programme start="20260902170000 +0000" stop="20260902190000 +0000" channel="ANTV.vision">
-<title>Low Season</title>
-</programme>
 <programme start="20260902190000 +0000" stop="20260902203000 +0000" channel="ANTV.vision">
 <title>Karma Baik</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260903110000 +0000" stop="20260903130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260902000000 +0000" stop="20260902003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
 </programme>
