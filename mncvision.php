@@ -4067,15 +4067,15 @@
     <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260902040000 +0000" stop="20260902053000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants</title>
+    <title>The Helping Heroes</title>
 </programme>
-<programme start="20260902053000 +0000" stop="20260902073000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants</title>
+<programme start="20260902053000 +0000" stop="20260902070000 +0000" channel="GTV.mncvision">
+    <title>Kiko</title>
 </programme>
-<programme start="20260902073000 +0000" stop="20260902100000 +0000" channel="GTV.mncvision">
+<programme start="20260902070000 +0000" stop="20260902093000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="GTV.mncvision">
+<programme start="20260902093000 +0000" stop="20260902110000 +0000" channel="GTV.mncvision">
     <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260902110000 +0000" stop="20260902123000 +0000" channel="GTV.mncvision">
@@ -4109,15 +4109,15 @@
     <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260902040000 +0000" stop="20260902053000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
+    <title>The Helping Heroes</title>
 </programme>
-<programme start="20260902053000 +0000" stop="20260902073000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
+<programme start="20260902053000 +0000" stop="20260902070000 +0000" channel="GTV HD.mncvision">
+    <title>Kiko</title>
 </programme>
-<programme start="20260902073000 +0000" stop="20260902100000 +0000" channel="GTV HD.mncvision">
+<programme start="20260902070000 +0000" stop="20260902093000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="GTV HD.mncvision">
+<programme start="20260902093000 +0000" stop="20260902110000 +0000" channel="GTV HD.mncvision">
     <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260902110000 +0000" stop="20260902123000 +0000" channel="GTV HD.mncvision">
@@ -7660,43 +7660,43 @@
 <programme start="20260901220000 +0000" stop="20260901230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260901230000 +0000" stop="20260902000000 +0000" channel="SCTV.mncvision">
+<programme start="20260901230000 +0000" stop="20260902001600 +0000" channel="SCTV.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260902000000 +0000" stop="20260902010000 +0000" channel="SCTV.mncvision">
+<programme start="20260902001600 +0000" stop="20260902011800 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260902010000 +0000" stop="20260902030000 +0000" channel="SCTV.mncvision">
+<programme start="20260902011800 +0000" stop="20260902025500 +0000" channel="SCTV.mncvision">
     <title>Jadi Calon Istri Bos Paniklah...</title>
 </programme>
-<programme start="20260902030000 +0000" stop="20260902050000 +0000" channel="SCTV.mncvision">
+<programme start="20260902025500 +0000" stop="20260902044700 +0000" channel="SCTV.mncvision">
     <title>Cintaku Zonk Ke Pelaminan</title>
 </programme>
-<programme start="20260902050000 +0000" stop="20260902053000 +0000" channel="SCTV.mncvision">
+<programme start="20260902044700 +0000" stop="20260902051900 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260902053000 +0000" stop="20260902070000 +0000" channel="SCTV.mncvision">
+<programme start="20260902051900 +0000" stop="20260902065300 +0000" channel="SCTV.mncvision">
     <title>Lovenya Mas SCBD Gak Ada Lawan</title>
 </programme>
-<programme start="20260902070000 +0000" stop="20260902083000 +0000" channel="SCTV.mncvision">
+<programme start="20260902065300 +0000" stop="20260902082600 +0000" channel="SCTV.mncvision">
     <title>Supir Tembak Panah Asmara</title>
 </programme>
-<programme start="20260902083000 +0000" stop="20260902100000 +0000" channel="SCTV.mncvision">
+<programme start="20260902082600 +0000" stop="20260902100000 +0000" channel="SCTV.mncvision">
     <title>Mengejar Cinta? Siap Bossque</title>
 </programme>
-<programme start="20260902100000 +0000" stop="20260902113000 +0000" channel="SCTV.mncvision">
+<programme start="20260902100000 +0000" stop="20260902112500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260902113000 +0000" stop="20260902130000 +0000" channel="SCTV.mncvision">
+<programme start="20260902112500 +0000" stop="20260902125300 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260902130000 +0000" stop="20260902143000 +0000" channel="SCTV.mncvision">
+<programme start="20260902125300 +0000" stop="20260902142000 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260902143000 +0000" stop="20260902160000 +0000" channel="SCTV.mncvision">
+<programme start="20260902142000 +0000" stop="20260902155800 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260902160000 +0000" stop="20260902163000 +0000" channel="SCTV.mncvision">
+<programme start="20260902155800 +0000" stop="20260902162800 +0000" channel="SCTV.mncvision">
     <title>Toko Bangunan Secret Love</title>
 </programme>
 <programme start="20260901174100 +0000" stop="20260901190100 +0000" channel="SCTV HD.mncvision">
@@ -7717,43 +7717,43 @@
 <programme start="20260901220000 +0000" stop="20260901230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260901230000 +0000" stop="20260902000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260901230000 +0000" stop="20260902001600 +0000" channel="SCTV HD.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260902000000 +0000" stop="20260902010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902001600 +0000" stop="20260902011800 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260902010000 +0000" stop="20260902030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902011800 +0000" stop="20260902025500 +0000" channel="SCTV HD.mncvision">
     <title>Jadi Calon Istri Bos Paniklah...</title>
 </programme>
-<programme start="20260902030000 +0000" stop="20260902050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902025500 +0000" stop="20260902044700 +0000" channel="SCTV HD.mncvision">
     <title>Cintaku Zonk Ke Pelaminan</title>
 </programme>
-<programme start="20260902050000 +0000" stop="20260902053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902044700 +0000" stop="20260902051900 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260902053000 +0000" stop="20260902070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902051900 +0000" stop="20260902065300 +0000" channel="SCTV HD.mncvision">
     <title>Lovenya Mas SCBD Gak Ada Lawan</title>
 </programme>
-<programme start="20260902070000 +0000" stop="20260902083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902065300 +0000" stop="20260902082600 +0000" channel="SCTV HD.mncvision">
     <title>Supir Tembak Panah Asmara</title>
 </programme>
-<programme start="20260902083000 +0000" stop="20260902100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902082600 +0000" stop="20260902100000 +0000" channel="SCTV HD.mncvision">
     <title>Mengejar Cinta? Siap Bossque</title>
 </programme>
-<programme start="20260902100000 +0000" stop="20260902113000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902100000 +0000" stop="20260902112500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260902113000 +0000" stop="20260902130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902112500 +0000" stop="20260902125300 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260902130000 +0000" stop="20260902143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902125300 +0000" stop="20260902142000 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260902143000 +0000" stop="20260902160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902142000 +0000" stop="20260902155800 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260902160000 +0000" stop="20260902163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260902155800 +0000" stop="20260902162800 +0000" channel="SCTV HD.mncvision">
     <title>Toko Bangunan Secret Love</title>
 </programme>
 <programme start="20260901173000 +0000" stop="20260901180000 +0000" channel="Sindo News TV.mncvision">

@@ -296,7 +296,7 @@
     <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260901170000 +0000" stop="20260901190000 +0000" channel="sensasi.unifitv">
-    <title lang="en">7-24.</title>
+    <title lang="en">7-24</title>
     <desc lang="en">Anggara dan Aini merupakan pasangan suami isteri yang hidup bahagia. Namun, menjelang ulang tahun perkahwinan mereka, Aini disahkan menghidap penyakit otak yang menyebabkan dia kehilangan ingatan secara berperingkat sehingga tidak lagi mengenali suaminya sendiri. Dalam tempoh yang semakin singkat, Anggara berusaha mempertahankan cinta mereka sambil menemani Aini menghadapi detik-detik paling sukar dalam hidupnya. Selepas pemergian Aini, sebuah rakaman video yang ditinggalkannya mendedahkan rahsia yang mengubah kehidupan Anggara buat selama-lamanya.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -341,7 +341,7 @@
     <episode-num system="onscreen">S15E6</episode-num>
   </programme>
   <programme start="20260902000000 +0000" stop="20260902020000 +0000" channel="sensasi.unifitv">
-    <title lang="en">7-24.</title>
+    <title lang="en">7-24</title>
     <desc lang="en">Anggara dan Aini merupakan pasangan suami isteri yang hidup bahagia. Namun, menjelang ulang tahun perkahwinan mereka, Aini disahkan menghidap penyakit otak yang menyebabkan dia kehilangan ingatan secara berperingkat sehingga tidak lagi mengenali suaminya sendiri. Dalam tempoh yang semakin singkat, Anggara berusaha mempertahankan cinta mereka sambil menemani Aini menghadapi detik-detik paling sukar dalam hidupnya. Selepas pemergian Aini, sebuah rakaman video yang ditinggalkannya mendedahkan rahsia yang mengubah kehidupan Anggara buat selama-lamanya.</desc>
     <category lang="en">Drama</category>
   </programme>
