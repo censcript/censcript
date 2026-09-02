@@ -8396,7 +8396,7 @@
     <title>2026 US Open Tennis C&#039;ships (L)</title>
 </programme>
 <programme start="20260902040000 +0000" stop="20260902071500 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 MotoGP Michelin Of Aragon</title>
+    <title>2026 MotoGP Michelin GP Aragon</title>
 </programme>
 <programme start="20260902071500 +0000" stop="20260902090000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 The Asian Tournament</title>
@@ -8405,7 +8405,7 @@
     <title>2026 US Open Tennis C&#039;ships</title>
 </programme>
 <programme start="20260902140000 +0000" stop="20260902150000 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 MotoGP Michelin Of Aragon</title>
+    <title>2026 MotoGP Michelin GP Aragon</title>
 </programme>
 <programme start="20260902150000 +0000" stop="20260902153000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 US Open Tennis C&#039;ships (L)</title>
@@ -8420,7 +8420,7 @@
     <title>2026 US Open Tennis C&#039;ships (L)</title>
 </programme>
 <programme start="20260902040000 +0000" stop="20260902071500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 MotoGP Michelin Of Aragon</title>
+    <title>2026 MotoGP Michelin GP Aragon</title>
 </programme>
 <programme start="20260902071500 +0000" stop="20260902090000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 The Asian Tournament</title>
@@ -8429,7 +8429,7 @@
     <title>2026 US Open Tennis C&#039;ships</title>
 </programme>
 <programme start="20260902140000 +0000" stop="20260902150000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 MotoGP Michelin Of Aragon</title>
+    <title>2026 MotoGP Michelin GP Aragon</title>
 </programme>
 <programme start="20260902150000 +0000" stop="20260902153000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 US Open Tennis C&#039;ships (L)</title>

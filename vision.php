@@ -640,9 +640,6 @@
 <programme start="20260901230000 +0000" stop="20260902023000 +0000" channel="ANTV.vision">
 <title>Bhediya</title>
 </programme>
-<programme start="20260902023000 +0000" stop="20260902060000 +0000" channel="ANTV.vision">
-<title>Pyaar To Hona Hi Tha</title>
-</programme>
 <programme start="20260902060000 +0000" stop="20260902073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260903090000 +0000" stop="20260903110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260903110000 +0000" stop="20260903130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

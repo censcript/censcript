@@ -5332,15 +5332,15 @@
     <title lang="en">Samanthi</title>
     <desc lang="en">Hoping for a fresh start, a humble village girl moves to the busy city, where bold choices and unexpected encounters completely reshape her future forever.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <episode-num system="onscreen">S1E28</episode-num>
+    <episode-num system="xmltv_ns">0.35.</episode-num>
+    <episode-num system="onscreen">S1E36</episode-num>
   </programme>
   <programme start="20260901160000 +0000" stop="20260901163000 +0000" channel="unknown.unifitv">
     <title lang="en">Varisu</title>
     <desc lang="en">Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.353.</episode-num>
-    <episode-num system="onscreen">S1E354</episode-num>
+    <episode-num system="xmltv_ns">0.365.</episode-num>
+    <episode-num system="onscreen">S1E366</episode-num>
   </programme>
   <programme start="20260901163000 +0000" stop="20260901170000 +0000" channel="unknown.unifitv">
     <title lang="en">Veera</title>
@@ -5366,7 +5366,12 @@
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20260901183000 +0000" stop="20260901193000 +0000" channel="unknown.unifitv">
+  <programme start="20260901183000 +0000" stop="20260901190000 +0000" channel="unknown.unifitv">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20260901190000 +0000" stop="20260901193000 +0000" channel="unknown.unifitv">
     <title lang="en">Free Ticket</title>
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
@@ -5505,9 +5510,7 @@
   <programme start="20260902063000 +0000" stop="20260902093000 +0000" channel="unknown.unifitv">
     <title lang="en">Valimai</title>
     <desc lang="en">Arjun, a determined IPS officer, takes on the challenge of tracking down a ruthless gang of illegal bikers who are linked to theft and murder. Exciting, right?</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="unknown.unifitv">
     <title lang="en">Samanthi</title>
@@ -13770,14 +13773,14 @@
   </channel>
   <programme start="20260901150500 +0000" stop="20260901160500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Girish Sawlani brings you the latest news from around the globe. Tonight: a jury finds Duane Davis guilty of killing rapper Tupac Shakur in 1996, and the head of the Unification Church sentenced for bribery in South Korea.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.137.</episode-num>
     <episode-num system="onscreen">S2026E138</episode-num>
   </programme>
   <programme start="20260901160500 +0000" stop="20260901163500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <desc lang="en">The woman helping producers recover value from farm waste; and why this year is shaping up as one to remember for the sheep industry.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.27.</episode-num>
     <episode-num system="onscreen">S2026E28</episode-num>
@@ -13819,7 +13822,7 @@
   </programme>
   <programme start="20260901190500 +0000" stop="20260901200500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Girish Sawlani brings you the latest news from around the globe. Tonight: a jury finds Duane Davis guilty of killing rapper Tupac Shakur in 1996, and the head of the Unification Church sentenced for bribery in South Korea.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.137.</episode-num>
     <episode-num system="onscreen">S2026E138</episode-num>
@@ -13847,14 +13850,14 @@
   </programme>
   <programme start="20260902020500 +0000" stop="20260902023500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News At Noon</title>
-    <desc lang="en">The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <desc lang="en">The leading news at lunchtime. Kathryn Robinson brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.174.</episode-num>
     <episode-num system="onscreen">S2026E175</episode-num>
   </programme>
   <programme start="20260902023500 +0000" stop="20260902030500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <desc lang="en">The woman helping producers recover value from farm waste; and why this year is shaping up as one to remember for the sheep industry.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.27.</episode-num>
     <episode-num system="onscreen">S2026E28</episode-num>
@@ -13868,7 +13871,7 @@
   </programme>
   <programme start="20260902035000 +0000" stop="20260902040500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="en">Images of the Himalayan floods circulated the globe, except in China, where media tightly controlled what people saw. The case that gripped the internet, fuelled in part by an algorithm that rewards conspiratorial thinking.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.29.</episode-num>
     <episode-num system="onscreen">S2026E30</episode-num>
@@ -13909,7 +13912,7 @@
   </programme>
   <programme start="20260902083500 +0000" stop="20260902090500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">That Pacific Sports Show</title>
-    <desc lang="en">Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+    <desc lang="en">NRLW Wests Tigers Sala Togatuki and North Sydney Bears player Ammaron Gudgeon join Tiana Penitani Gray and Sam Wykes in the studio. Plus we head to Honiara to see what it takes to build an archery club from the ground up.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.29.</episode-num>
     <episode-num system="onscreen">S2026E30</episode-num>
@@ -13951,14 +13954,14 @@
   </programme>
   <programme start="20260902125000 +0000" stop="20260902130500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="en">Images of the Himalayan floods circulated the globe, except in China, where media tightly controlled what people saw. The case that gripped the internet, fuelled in part by an algorithm that rewards conspiratorial thinking.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.29.</episode-num>
     <episode-num system="onscreen">S2026E30</episode-num>
   </programme>
   <programme start="20260902130500 +0000" stop="20260902140500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <desc lang="en">How bird flu is affecting the free-range industry; Remote Munga-Thirri National Park's lone ranger hands in his badge after three decades; Clearing European carp from a Murray River wetland; and meet Heywire winner Lane.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.28.</episode-num>
     <episode-num system="onscreen">S2026E29</episode-num>
@@ -13972,7 +13975,7 @@
   </programme>
   <programme start="20260902142000 +0000" stop="20260902143500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Business</title>
-    <desc lang="en">Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <desc lang="en">The national accounts are released revealing the health of Australia's economy during the June quarter. In first three months of 2026, the economy grew at 0.3% while the living standards went backwards and productivity fell.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.122.</episode-num>
     <episode-num system="onscreen">S2026E123</episode-num>

@@ -4744,10 +4744,19 @@
   <programme start="20260904190000 +0000" stop="20260904191500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Minikáry Ďurdové</title>
   </programme>
-  <programme start="20260904191500 +0000" stop="20260904211500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Sporting CP - Nacional</title>
+  <programme start="20260904191500 +0000" stop="20260904193000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Martin z Martina</title>
   </programme>
-  <programme start="20260904211500 +0000" stop="20260904213000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260904193000 +0000" stop="20260904200000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">AutoGRATIS</title>
+  </programme>
+  <programme start="20260904200000 +0000" stop="20260904203000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
+  </programme>
+  <programme start="20260904203000 +0000" stop="20260904210000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  </programme>
+  <programme start="20260904210000 +0000" stop="20260904213000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">AutoGRATIS</title>
   </programme>
   <programme start="20260904213000 +0000" stop="20260904220000 +0000" channel="Arena Sport 2.webtv.sk">
@@ -5894,7 +5903,7 @@
     <title lang="id">Bizarní jídla: Lahodné destinace VII (12)</title>
   </programme>
   <programme start="20260904173000 +0000" stop="20260904180000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Bizarní jídla: Lahodné destinace VII: Londýn (13)</title>
+    <title lang="id">Bizarní jídla: Lahodné destinace VII: Londýn (13) I (13)</title>
   </programme>
   <programme start="20260904180000 +0000" stop="20260904190000 +0000" channel="Food Network.webtv.sk">
     <title lang="id">Restaurant: Impossible XVII (15)</title>
@@ -15583,10 +15592,10 @@
   <programme start="20260904214500 +0000" stop="20260904220000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1912)</title>
   </programme>
-  <programme start="20260903214500 +0000" stop="20260903220300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260903214500 +0000" stop="20260903220200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260903220300 +0000" stop="20260903224900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260903220200 +0000" stop="20260903224900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Niebezpieczne zwiazki (114)</title>
   </programme>
   <programme start="20260903224900 +0000" stop="20260903225500 +0000" channel="TVP Info.webtv.sk">
@@ -15610,19 +15619,19 @@
   <programme start="20260904003500 +0000" stop="20260904005000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20260904005000 +0000" stop="20260904010000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260904005000 +0000" stop="20260904010600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20260904010000 +0000" stop="20260904013200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260904010600 +0000" stop="20260904013700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia V (49)</title>
   </programme>
-  <programme start="20260904013200 +0000" stop="20260904020400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260904013700 +0000" stop="20260904020500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polskie Parki Narodowe (10)</title>
   </programme>
-  <programme start="20260904020400 +0000" stop="20260904024900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260904020500 +0000" stop="20260904024800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (503)</title>
   </programme>
-  <programme start="20260904024900 +0000" stop="20260904034500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260904024800 +0000" stop="20260904034500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podcasty (45)</title>
   </programme>
   <programme start="20260904034500 +0000" stop="20260904034700 +0000" channel="TVP Info.webtv.sk">
@@ -15856,8 +15865,11 @@
   <programme start="20260904001500 +0000" stop="20260904010000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Ojciec Mateusz XXV (11)</title>
   </programme>
-  <programme start="20260904010000 +0000" stop="20260904015000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260904010000 +0000" stop="20260904014500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Ojciec Mateusz XXV (12)</title>
+  </programme>
+  <programme start="20260904014500 +0000" stop="20260904015000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">SeriaLove Wspomnienia (34)</title>
   </programme>
   <programme start="20260904015000 +0000" stop="20260904020000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Polacy Swiatu (90)</title>
@@ -16178,13 +16190,13 @@
     <title lang="id">Тепер головне</title>
   </programme>
   <programme start="20260903220000 +0000" stop="20260903230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">ОДЕССА: Пожарная станция</title>
   </programme>
   <programme start="20260903230000 +0000" stop="20260904000000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260904000000 +0000" stop="20260904020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Последний первый звонок</title>
   </programme>
   <programme start="20260904020000 +0000" stop="20260904023000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Балтия</title>
@@ -16205,7 +16217,7 @@
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20260904050000 +0000" stop="20260904070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Последний первый звонок</title>
   </programme>
   <programme start="20260904070000 +0000" stop="20260904073000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Утро</title>
@@ -16220,7 +16232,7 @@
     <title lang="id">Документальный час</title>
   </programme>
   <programme start="20260904100000 +0000" stop="20260904120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Последний первый звонок</title>
   </programme>
   <programme start="20260904120000 +0000" stop="20260904130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
