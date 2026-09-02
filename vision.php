@@ -658,9 +658,6 @@
 <programme start="20260902130000 +0000" stop="20260902150000 +0000" channel="ANTV.vision">
 <title>Si Manis Jembatan Ancol</title>
 </programme>
-<programme start="20260902150000 +0000" stop="20260902170000 +0000" channel="ANTV.vision">
-<title>Prabu Angling Dharma 2</title>
-</programme>
 <programme start="20260902170000 +0000" stop="20260902190000 +0000" channel="ANTV.vision">
 <title>Low Season</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260903090000 +0000" stop="20260903110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260903110000 +0000" stop="20260903130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

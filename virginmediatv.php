@@ -2456,7 +2456,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260902170000 +0000" stop="20260902173000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at Six</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260902173000 +0000" stop="20260902180000 +0000" channel="BBC_News_24.virginmediatv">
     <title>The World Today with Maryam Moshiri</title>
@@ -4513,10 +4513,10 @@
 <programme start="20260902050000 +0000" stop="20260902060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Vuelta a España - Stage 10</title>
 </programme>
-<programme start="20260902091500 +0000" stop="20260902150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260902091500 +0000" stop="20260902140500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Tour of Britain Cycling - Men&#039;s Stage 1</title>
 </programme>
-<programme start="20260902150000 +0000" stop="20260902160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260902140500 +0000" stop="20260902160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 11</title>
 </programme>
 <programme start="20260902160000 +0000" stop="20260902163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -5173,10 +5173,10 @@
 <programme start="20260902050000 +0000" stop="20260902060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Vuelta a España - Stage 10</title>
 </programme>
-<programme start="20260902091500 +0000" stop="20260902150000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260902091500 +0000" stop="20260902140500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Tour of Britain Cycling - Men&#039;s Stage 1</title>
 </programme>
-<programme start="20260902150000 +0000" stop="20260902160000 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260902140500 +0000" stop="20260902160000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Vuelta a España - Stage 11</title>
 </programme>
 <programme start="20260902160000 +0000" stop="20260902163000 +0000" channel="TNT_Sports_1.virginmediatv">
