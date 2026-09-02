@@ -2427,7 +2427,7 @@
     <display-name>SIAR</display-name>
   </channel>
   <programme start="20260901150000 +0000" stop="20260901170000 +0000" channel="siar.unifitv">
-    <title lang="en">Usop_Wilcha_Mehghonjang_Makhluk_Muzium</title>
+    <title lang="en">Usop Wilcha Mehghonjang Makhluk Muzium</title>
     <desc lang="en">Mengisahkan sebuah muzium yang ingin mengadakan satu pameran “Hantu-Hantu Dunia” untuk menarik minat pengunjung. Tanpa disedari, penganjuran pameran ini mempunyai matlamat tersendiri. Melalui perancangan licik sekumpulan pengamal ilmu hitam dari Romania, pameran ini sebenarnya ingin menghidupkan kembali Raja Dracula. Mengikut kepercayaan kumpulan ini, Raja Dracula akan dapat hidup kembali dengan mendapatkan darah manusia dari setiap benua.</desc>
     <category lang="en">Comedy</category>
   </programme>
@@ -2472,7 +2472,7 @@
     <category lang="en">Sci-Fi</category>
   </programme>
   <programme start="20260902090000 +0000" stop="20260902110000 +0000" channel="siar.unifitv">
-    <title lang="en">Usop_Wilcha_Mehghonjang_Makhluk_Muzium</title>
+    <title lang="en">Usop Wilcha Mehghonjang Makhluk Muzium</title>
     <desc lang="en">Mengisahkan sebuah muzium yang ingin mengadakan satu pameran “Hantu-Hantu Dunia” untuk menarik minat pengunjung. Tanpa disedari, penganjuran pameran ini mempunyai matlamat tersendiri. Melalui perancangan licik sekumpulan pengamal ilmu hitam dari Romania, pameran ini sebenarnya ingin menghidupkan kembali Raja Dracula. Mengikut kepercayaan kumpulan ini, Raja Dracula akan dapat hidup kembali dengan mendapatkan darah manusia dari setiap benua.</desc>
     <category lang="en">Comedy</category>
   </programme>

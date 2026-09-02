@@ -140,15 +140,15 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260902040000 +0000" stop="20260902053000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>The Helping Heroes</title>
 </programme>
-<programme start="20260902053000 +0000" stop="20260902073000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<programme start="20260902053000 +0000" stop="20260902070000 +0000" channel="GTV.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20260902073000 +0000" stop="20260902100000 +0000" channel="GTV.vision">
+<programme start="20260902070000 +0000" stop="20260902093000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
-<programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="GTV.vision">
+<programme start="20260902093000 +0000" stop="20260902110000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260902110000 +0000" stop="20260902123000 +0000" channel="GTV.vision">
@@ -182,19 +182,19 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260903040000 +0000" stop="20260903053000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>The Helping Heroes</title>
 </programme>
-<programme start="20260903053000 +0000" stop="20260903073000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<programme start="20260903053000 +0000" stop="20260903070000 +0000" channel="GTV.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20260903073000 +0000" stop="20260903100000 +0000" channel="GTV.vision">
+<programme start="20260903070000 +0000" stop="20260903093000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
-<programme start="20260903100000 +0000" stop="20260903110000 +0000" channel="GTV.vision">
+<programme start="20260903093000 +0000" stop="20260903110000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260903110000 +0000" stop="20260903123000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Misteri Mata Harimau</title>
 </programme>
 <programme start="20260901234500 +0000" stop="20260902001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -640,6 +640,9 @@
 <programme start="20260901230000 +0000" stop="20260902023000 +0000" channel="ANTV.vision">
 <title>Bhediya</title>
 </programme>
+<programme start="20260902023000 +0000" stop="20260902060000 +0000" channel="ANTV.vision">
+<title>Pyaar To Hona Hi Tha</title>
+</programme>
 <programme start="20260902060000 +0000" stop="20260902073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -674,7 +677,7 @@
 <title>Hello Brothers</title>
 </programme>
 <programme start="20260903023000 +0000" stop="20260903060000 +0000" channel="ANTV.vision">
-<title>Fan</title>
+<title>Mohabbatein</title>
 </programme>
 <programme start="20260903060000 +0000" stop="20260903073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260903090000 +0000" stop="20260903110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260903110000 +0000" stop="20260903130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

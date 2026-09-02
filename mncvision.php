@@ -7697,7 +7697,7 @@
     <title>Biarkan Hati Bicara</title>
 </programme>
 <programme start="20260902155800 +0000" stop="20260902162800 +0000" channel="SCTV.mncvision">
-    <title>Toko Bangunan Secret Love</title>
+    <title>My Dosen Is My Husband</title>
 </programme>
 <programme start="20260901174100 +0000" stop="20260901190100 +0000" channel="SCTV HD.mncvision">
     <title>Tukang Pete Kesandung Cinta</title>
@@ -7754,7 +7754,7 @@
     <title>Biarkan Hati Bicara</title>
 </programme>
 <programme start="20260902155800 +0000" stop="20260902162800 +0000" channel="SCTV HD.mncvision">
-    <title>Toko Bangunan Secret Love</title>
+    <title>My Dosen Is My Husband</title>
 </programme>
 <programme start="20260901173000 +0000" stop="20260901180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
