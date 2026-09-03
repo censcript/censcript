@@ -2104,6 +2104,9 @@
     <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="1005232.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="946945.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260904000000 +0000" stop="20260904001500 +0000" channel="387238.shahid">
         <title>Ali Klay Season 1 Episode 10</title>
     </programme>
@@ -2313,9 +2316,6 @@
     </programme>
     <programme start="20260905233000 +0000" stop="20260905235959 +0000" channel="387238.shahid">
         <title>وين الحين Season 2 Episode 12</title>
-    </programme>
-    <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="946945.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
@@ -2904,90 +2904,6 @@
     </programme>
     <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="946942.shahid">
         <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260904000000 +0000" stop="20260904001323 +0000" channel="989622.shahid">
-        <title>Short Wa Fanela Wa Cap</title>
-    </programme>
-    <programme start="20260904001323 +0000" stop="20260904022646 +0000" channel="989622.shahid">
-        <title>Abu Ali</title>
-    </programme>
-    <programme start="20260904022646 +0000" stop="20260904043535 +0000" channel="989622.shahid">
-        <title>Teer Enta</title>
-    </programme>
-    <programme start="20260904043535 +0000" stop="20260904052945 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260904052945 +0000" stop="20260904072651 +0000" channel="989622.shahid">
-        <title>Short Wa Fanela Wa Cap</title>
-    </programme>
-    <programme start="20260904072651 +0000" stop="20260904094024 +0000" channel="989622.shahid">
-        <title>Abu Ali</title>
-    </programme>
-    <programme start="20260904094024 +0000" stop="20260904114921 +0000" channel="989622.shahid">
-        <title>Teer Enta</title>
-    </programme>
-    <programme start="20260904114921 +0000" stop="20260904124332 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260904124332 +0000" stop="20260904144040 +0000" channel="989622.shahid">
-        <title>Short Wa Fanela Wa Cap</title>
-    </programme>
-    <programme start="20260904144040 +0000" stop="20260904165416 +0000" channel="989622.shahid">
-        <title>Abu Ali</title>
-    </programme>
-    <programme start="20260904165416 +0000" stop="20260904190309 +0000" channel="989622.shahid">
-        <title>Teer Enta</title>
-    </programme>
-    <programme start="20260904190309 +0000" stop="20260904195721 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260904195721 +0000" stop="20260904215434 +0000" channel="989622.shahid">
-        <title>Short Wa Fanela Wa Cap</title>
-    </programme>
-    <programme start="20260904215434 +0000" stop="20260905000812 +0000" channel="989622.shahid">
-        <title>Abu Ali</title>
-    </programme>
-    <programme start="20260905000812 +0000" stop="20260905021707 +0000" channel="989622.shahid">
-        <title>Teer Enta</title>
-    </programme>
-    <programme start="20260905021707 +0000" stop="20260905031125 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260905031125 +0000" stop="20260905050841 +0000" channel="989622.shahid">
-        <title>Short Wa Fanela Wa Cap</title>
-    </programme>
-    <programme start="20260905050841 +0000" stop="20260905072226 +0000" channel="989622.shahid">
-        <title>Abu Ali</title>
-    </programme>
-    <programme start="20260905072226 +0000" stop="20260905093111 +0000" channel="989622.shahid">
-        <title>Teer Enta</title>
-    </programme>
-    <programme start="20260905093111 +0000" stop="20260905102522 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260905102522 +0000" stop="20260905122226 +0000" channel="989622.shahid">
-        <title>Short Wa Fanela Wa Cap</title>
-    </programme>
-    <programme start="20260905122226 +0000" stop="20260905132940 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 24</title>
-    </programme>
-    <programme start="20260905132940 +0000" stop="20260905160152 +0000" channel="989622.shahid">
-        <title>Wahed Min El Nas</title>
-    </programme>
-    <programme start="20260905160152 +0000" stop="20260905181552 +0000" channel="989622.shahid">
-        <title>La Tarago&#039; Wa La Esteslam: El Qabda El Damiya</title>
-    </programme>
-    <programme start="20260905181552 +0000" stop="20260905201701 +0000" channel="989622.shahid">
-        <title>Amir El Behar</title>
-    </programme>
-    <programme start="20260905201701 +0000" stop="20260905212412 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 24</title>
-    </programme>
-    <programme start="20260905212412 +0000" stop="20260905235617 +0000" channel="989622.shahid">
-        <title>Wahed Min El Nas</title>
-    </programme>
-    <programme start="20260905235617 +0000" stop="20260905235959 +0000" channel="989622.shahid">
-        <title>La Tarago&#039; Wa La Esteslam: El Qabda El Damiya</title>
     </programme>
     <programme start="20260904000000 +0000" stop="20260904000314 +0000" channel="49923172215352.shahid">
         <title>Ehkili</title>
@@ -5119,6 +5035,90 @@
     <programme start="20260905235758 +0000" stop="20260905235959 +0000" channel="49923172215352.shahid">
         <title>Baqtoflak Bas</title>
     </programme>
+    <programme start="20260904000000 +0000" stop="20260904001323 +0000" channel="989622.shahid">
+        <title>Short Wa Fanela Wa Cap</title>
+    </programme>
+    <programme start="20260904001323 +0000" stop="20260904022646 +0000" channel="989622.shahid">
+        <title>Abu Ali</title>
+    </programme>
+    <programme start="20260904022646 +0000" stop="20260904043535 +0000" channel="989622.shahid">
+        <title>Teer Enta</title>
+    </programme>
+    <programme start="20260904043535 +0000" stop="20260904052945 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260904052945 +0000" stop="20260904072651 +0000" channel="989622.shahid">
+        <title>Short Wa Fanela Wa Cap</title>
+    </programme>
+    <programme start="20260904072651 +0000" stop="20260904094024 +0000" channel="989622.shahid">
+        <title>Abu Ali</title>
+    </programme>
+    <programme start="20260904094024 +0000" stop="20260904114921 +0000" channel="989622.shahid">
+        <title>Teer Enta</title>
+    </programme>
+    <programme start="20260904114921 +0000" stop="20260904124332 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260904124332 +0000" stop="20260904144040 +0000" channel="989622.shahid">
+        <title>Short Wa Fanela Wa Cap</title>
+    </programme>
+    <programme start="20260904144040 +0000" stop="20260904165416 +0000" channel="989622.shahid">
+        <title>Abu Ali</title>
+    </programme>
+    <programme start="20260904165416 +0000" stop="20260904190309 +0000" channel="989622.shahid">
+        <title>Teer Enta</title>
+    </programme>
+    <programme start="20260904190309 +0000" stop="20260904195721 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260904195721 +0000" stop="20260904215434 +0000" channel="989622.shahid">
+        <title>Short Wa Fanela Wa Cap</title>
+    </programme>
+    <programme start="20260904215434 +0000" stop="20260905000812 +0000" channel="989622.shahid">
+        <title>Abu Ali</title>
+    </programme>
+    <programme start="20260905000812 +0000" stop="20260905021707 +0000" channel="989622.shahid">
+        <title>Teer Enta</title>
+    </programme>
+    <programme start="20260905021707 +0000" stop="20260905031125 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260905031125 +0000" stop="20260905050841 +0000" channel="989622.shahid">
+        <title>Short Wa Fanela Wa Cap</title>
+    </programme>
+    <programme start="20260905050841 +0000" stop="20260905072226 +0000" channel="989622.shahid">
+        <title>Abu Ali</title>
+    </programme>
+    <programme start="20260905072226 +0000" stop="20260905093111 +0000" channel="989622.shahid">
+        <title>Teer Enta</title>
+    </programme>
+    <programme start="20260905093111 +0000" stop="20260905102522 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260905102522 +0000" stop="20260905122226 +0000" channel="989622.shahid">
+        <title>Short Wa Fanela Wa Cap</title>
+    </programme>
+    <programme start="20260905122226 +0000" stop="20260905132940 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 24</title>
+    </programme>
+    <programme start="20260905132940 +0000" stop="20260905160152 +0000" channel="989622.shahid">
+        <title>Wahed Min El Nas</title>
+    </programme>
+    <programme start="20260905160152 +0000" stop="20260905181552 +0000" channel="989622.shahid">
+        <title>La Tarago&#039; Wa La Esteslam: El Qabda El Damiya</title>
+    </programme>
+    <programme start="20260905181552 +0000" stop="20260905201701 +0000" channel="989622.shahid">
+        <title>Amir El Behar</title>
+    </programme>
+    <programme start="20260905201701 +0000" stop="20260905212412 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 24</title>
+    </programme>
+    <programme start="20260905212412 +0000" stop="20260905235617 +0000" channel="989622.shahid">
+        <title>Wahed Min El Nas</title>
+    </programme>
+    <programme start="20260905235617 +0000" stop="20260905235959 +0000" channel="989622.shahid">
+        <title>La Tarago&#039; Wa La Esteslam: El Qabda El Damiya</title>
+    </programme>
     <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -6055,9 +6055,6 @@
     <programme start="20260905234029 +0000" stop="20260905235959 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 1 Episode 9</title>
     </programme>
-    <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="388566.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260904000000 +0000" stop="20260904000000 +0000" channel="387251.shahid">
         <title>Sondos  </title>
     </programme>
@@ -6321,6 +6318,9 @@
     </programme>
     <programme start="20260906000000 +0000" stop="20260905235959 +0000" channel="387251.shahid">
         <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="388566.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260904000000 +0000" stop="20260905235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
