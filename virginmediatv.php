@@ -4204,7 +4204,7 @@
 <programme start="20260903054500 +0000" stop="20260903060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open Tennis Classic Matches - 2022: Iga Swiatek v Ons Jabeur</title>
 </programme>
-<programme start="20260903120000 +0000" stop="20260903140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260903110500 +0000" stop="20260903140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Men&#039;s Second Round: Carlos Alcaraz v Jaime Faria</title>
 </programme>
 <programme start="20260903140000 +0000" stop="20260903143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -4354,8 +4354,11 @@
 <programme start="20260903153000 +0000" stop="20260903160000 +0000" channel="MUTV.virginmediatv">
     <title>WSL - Manchester United v London City</title>
 </programme>
-<programme start="20260903160000 +0000" stop="20260903163000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Louis Saha</title>
+<programme start="20260903160000 +0000" stop="20260903161500 +0000" channel="MUTV.virginmediatv">
+    <title>Access All Areas - Ipswich</title>
+</programme>
+<programme start="20260903161500 +0000" stop="20260903163000 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - Marouane Fellaini</title>
 </programme>
 <programme start="20260903163000 +0000" stop="20260903170000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - 2026/27: Manchester United v Ipswich Town</title>
@@ -4438,7 +4441,7 @@
 <programme start="20260903050000 +0000" stop="20260903060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Vuelta a España - Stage 11</title>
 </programme>
-<programme start="20260903093000 +0000" stop="20260903144500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260903091500 +0000" stop="20260903144500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Tour of Britain Cycling - Men&#039;s Stage 2</title>
 </programme>
 <programme start="20260903144500 +0000" stop="20260903160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -5002,7 +5005,7 @@
 <programme start="20260903054500 +0000" stop="20260903060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open Tennis Classic Matches - 2022: Iga Swiatek v Ons Jabeur</title>
 </programme>
-<programme start="20260903120000 +0000" stop="20260903140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260903110500 +0000" stop="20260903140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Men&#039;s Second Round: Carlos Alcaraz v Jaime Faria</title>
 </programme>
 <programme start="20260903140000 +0000" stop="20260903143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
@@ -5086,7 +5089,7 @@
 <programme start="20260903050000 +0000" stop="20260903060000 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Vuelta a España - Stage 11</title>
 </programme>
-<programme start="20260903093000 +0000" stop="20260903144500 +0000" channel="TNT_Sports_1.virginmediatv">
+<programme start="20260903091500 +0000" stop="20260903144500 +0000" channel="TNT_Sports_1.virginmediatv">
     <title>Live: Tour of Britain Cycling - Men&#039;s Stage 2</title>
 </programme>
 <programme start="20260903144500 +0000" stop="20260903160000 +0000" channel="TNT_Sports_1.virginmediatv">
