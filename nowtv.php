@@ -1,9 +1,3 @@
-<programme start="20260904170000 +0000" stop="20260904180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260904180000 +0000" stop="20260904185000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260904185000 +0000" stop="20260904210000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Ipswich Town vs Liverpool[Live]</title>
 </programme>
@@ -67,12 +61,6 @@
 <programme start="20260905160000 +0000" stop="20260905170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260904160000 +0000" stop="20260904180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260904180000 +0000" stop="20260904200000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260904200000 +0000" stop="20260904220000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -104,12 +92,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260904160000 +0000" stop="20260904180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260904180000 +0000" stop="20260904200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260904200000 +0000" stop="20260904220000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -144,15 +126,6 @@
 </programme>
 <programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260904160000 +0000" stop="20260904180000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Coventry City vs Hull City</title>
-</programme>
-<programme start="20260904180000 +0000" stop="20260904181500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 2</title>
-</programme>
-<programme start="20260904181500 +0000" stop="20260904185000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -PETR CECH</title>
 </programme>
 <programme start="20260904185000 +0000" stop="20260904210000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Ipswich Town vs Liverpool[Live]</title>
@@ -256,9 +229,6 @@
 <programme start="20260905160000 +0000" stop="20260905183000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Hull City vs Aston Villa[Live]</title>
 </programme>
-<programme start="20260904160000 +0000" stop="20260904200000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260904200000 +0000" stop="20260905000000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -280,9 +250,6 @@
 <programme start="20260905160000 +0000" stop="20260905200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260904160000 +0000" stop="20260904200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260904200000 +0000" stop="20260905000000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -302,9 +269,6 @@
     <title>Premier League 26/27 -Brentford vs Sunderland[Live]</title>
 </programme>
 <programme start="20260905160000 +0000" stop="20260905200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260904160000 +0000" stop="20260904200000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260904200000 +0000" stop="20260905000000 +0000" channel="Now Sports Premier League 4.nowtv">

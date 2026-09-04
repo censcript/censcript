@@ -455,13 +455,10 @@
     <title>Animal Park - Episode 1</title>
 </programme>
 <programme start="20260904143000 +0000" stop="20260904150000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Wonder of Animals - Great Apes</title>
 </programme>
-<programme start="20260904150000 +0000" stop="20260904160000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260904150000 +0000" stop="20260904170000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Politics Live</title>
-</programme>
-<programme start="20260904160000 +0000" stop="20260904170000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>To Be Announced</title>
 </programme>
 <programme start="20260904170000 +0000" stop="20260904173000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Richard Osman&#039;s House of Games - Week 1: Friday</title>
@@ -4220,7 +4217,7 @@
     <title>Live: US Open 2026 - Men&#039;s Second Round: Alexander Zverev v Quentin Halys</title>
 </programme>
 <programme start="20260904043000 +0000" stop="20260904044500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>US Open Tennis Classic Matches - 1981: John McEnroe v Bjorn Borg</title>
 </programme>
 <programme start="20260904044500 +0000" stop="20260904050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open Tennis Classic Matches - 2022: Iga Swiatek v Ons Jabeur</title>
@@ -4337,7 +4334,7 @@
     <title>All the Goals - Wayne Rooney</title>
 </programme>
 <programme start="20260904120000 +0000" stop="20260904123000 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Official United Podcast - Inside Carrington Podcast - Bruno Fernandes</title>
 </programme>
 <programme start="20260904123000 +0000" stop="20260904124500 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference</title>
@@ -4367,13 +4364,13 @@
     <title>WSL - Manchester United v London City</title>
 </programme>
 <programme start="20260904170000 +0000" stop="20260904173000 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Official United Podcast - Inside Carrington Podcast - Bruno Fernandes</title>
 </programme>
 <programme start="20260904173000 +0000" stop="20260904174500 +0000" channel="MUTV.virginmediatv">
     <title>Access All Areas - Ipswich</title>
 </programme>
 <programme start="20260904174500 +0000" stop="20260904175500 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Signing Interview: Rebeca Bernal</title>
 </programme>
 <programme start="20260904175500 +0000" stop="20260904200000 +0000" channel="MUTV.virginmediatv">
     <title>Live: Radio Commentary - WSL: London City Lionesses v Manchester United</title>
@@ -5090,7 +5087,7 @@
     <title>Live: US Open 2026 - Men&#039;s Second Round: Alexander Zverev v Quentin Halys</title>
 </programme>
 <programme start="20260904043000 +0000" stop="20260904044500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>US Open Tennis Classic Matches - 1981: John McEnroe v Bjorn Borg</title>
 </programme>
 <programme start="20260904044500 +0000" stop="20260904050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open Tennis Classic Matches - 2022: Iga Swiatek v Ons Jabeur</title>
