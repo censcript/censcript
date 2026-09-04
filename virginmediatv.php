@@ -454,11 +454,14 @@
 <programme start="20260904134500 +0000" stop="20260904143000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Animal Park - Episode 1</title>
 </programme>
-<programme start="20260904143000 +0000" stop="20260904160000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260904143000 +0000" stop="20260904150000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260904150000 +0000" stop="20260904160000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Politics Live</title>
 </programme>
 <programme start="20260904160000 +0000" stop="20260904170000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Flog It! - Reversion: RAF Museum, London 15</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260904170000 +0000" stop="20260904173000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Richard Osman&#039;s House of Games - Week 1: Friday</title>
@@ -4217,7 +4220,7 @@
     <title>Live: US Open 2026 - Men&#039;s Second Round: Alexander Zverev v Quentin Halys</title>
 </programme>
 <programme start="20260904043000 +0000" stop="20260904044500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open Tennis Classic Matches - 1981: John McEnroe v Bjorn Borg</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260904044500 +0000" stop="20260904050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open Tennis Classic Matches - 2022: Iga Swiatek v Ons Jabeur</title>
@@ -4334,7 +4337,7 @@
     <title>All the Goals - Wayne Rooney</title>
 </programme>
 <programme start="20260904120000 +0000" stop="20260904123000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League 2 - Highlights: Manchester United U21 v Ipswich Town U21</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260904123000 +0000" stop="20260904124500 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference</title>
@@ -4363,8 +4366,14 @@
 <programme start="20260904163000 +0000" stop="20260904170000 +0000" channel="MUTV.virginmediatv">
     <title>WSL - Manchester United v London City</title>
 </programme>
-<programme start="20260904170000 +0000" stop="20260904175500 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - MU Women 25/26</title>
+<programme start="20260904170000 +0000" stop="20260904173000 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260904173000 +0000" stop="20260904174500 +0000" channel="MUTV.virginmediatv">
+    <title>Access All Areas - Ipswich</title>
+</programme>
+<programme start="20260904174500 +0000" stop="20260904175500 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260904175500 +0000" stop="20260904200000 +0000" channel="MUTV.virginmediatv">
     <title>Live: Radio Commentary - WSL: London City Lionesses v Manchester United</title>
@@ -5081,7 +5090,7 @@
     <title>Live: US Open 2026 - Men&#039;s Second Round: Alexander Zverev v Quentin Halys</title>
 </programme>
 <programme start="20260904043000 +0000" stop="20260904044500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open Tennis Classic Matches - 1981: John McEnroe v Bjorn Borg</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260904044500 +0000" stop="20260904050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open Tennis Classic Matches - 2022: Iga Swiatek v Ons Jabeur</title>

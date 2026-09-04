@@ -640,12 +640,6 @@
 <programme start="20260904113000 +0000" stop="20260904130000 +0000" channel="ANTV.vision">
 <title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
-<programme start="20260904130000 +0000" stop="20260904150000 +0000" channel="ANTV.vision">
-<title>Pulau Hantu 2</title>
-</programme>
-<programme start="20260904150000 +0000" stop="20260904170000 +0000" channel="ANTV.vision">
-<title>Pedang Naga Wulung</title>
-</programme>
 <programme start="20260904170000 +0000" stop="20260904190000 +0000" channel="ANTV.vision">
 <title>Pantai Norasingha</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260904150000 +0000" stop="20260904170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260904170000 +0000" stop="20260904190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260904190000 +0000" stop="20260904210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
