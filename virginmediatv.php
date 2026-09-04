@@ -1594,8 +1594,17 @@
 <programme start="20260904050000 +0000" stop="20260904060000 +0000" channel="ITV4.virginmediatv">
     <title>Magnum, P.I. - Legend of the Lost Art</title>
 </programme>
-<programme start="20260904092000 +0000" stop="20260904151500 +0000" channel="ITV4.virginmediatv">
+<programme start="20260904092000 +0000" stop="20260904141000 +0000" channel="ITV4.virginmediatv">
     <title>Live: Tour of Britain Cycling - Men&#039;s Stage 3</title>
+</programme>
+<programme start="20260904141000 +0000" stop="20260904144500 +0000" channel="ITV4.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260904144500 +0000" stop="20260904145500 +0000" channel="ITV4.virginmediatv">
+    <title>To Be Announced</title>
+</programme>
+<programme start="20260904145500 +0000" stop="20260904151500 +0000" channel="ITV4.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260904151500 +0000" stop="20260904154500 +0000" channel="ITV4.virginmediatv">
     <title>River Monsters - Alaskan Horror</title>
@@ -2377,17 +2386,8 @@
 <programme start="20260904053000 +0000" stop="20260904060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20260904120000 +0000" stop="20260904130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
-</programme>
-<programme start="20260904130000 +0000" stop="20260904133000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260904133000 +0000" stop="20260904134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20260904134500 +0000" stop="20260904140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20260904120000 +0000" stop="20260904140000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20260904140000 +0000" stop="20260904143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -2395,14 +2395,8 @@
 <programme start="20260904143000 +0000" stop="20260904150000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
 </programme>
-<programme start="20260904150000 +0000" stop="20260904153000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
-</programme>
-<programme start="20260904153000 +0000" stop="20260904160000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
-</programme>
-<programme start="20260904160000 +0000" stop="20260904163000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
+<programme start="20260904150000 +0000" stop="20260904163000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Politics Live</title>
 </programme>
 <programme start="20260904163000 +0000" stop="20260904170000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>

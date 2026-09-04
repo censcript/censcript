@@ -1,9 +1,3 @@
-<programme start="20260904185000 +0000" stop="20260904210000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>[4K]Premier League 26/27 -Ipswich Town vs Liverpool[Live]</title>
-</programme>
-<programme start="20260904210000 +0000" stop="20260904220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260904220000 +0000" stop="20260904230000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -61,9 +55,6 @@
 <programme start="20260905160000 +0000" stop="20260905170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260904200000 +0000" stop="20260904220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260904220000 +0000" stop="20260905000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -92,9 +83,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260904200000 +0000" stop="20260904220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260904220000 +0000" stop="20260905000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -126,24 +114,6 @@
 </programme>
 <programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260904185000 +0000" stop="20260904210000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Ipswich Town vs Liverpool[Live]</title>
-</programme>
-<programme start="20260904210000 +0000" stop="20260904211500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 1</title>
-</programme>
-<programme start="20260904211500 +0000" stop="20260904213000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 2</title>
-</programme>
-<programme start="20260904213000 +0000" stop="20260904220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -COVENTRY RISING</title>
-</programme>
-<programme start="20260904220000 +0000" stop="20260904221500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 1</title>
-</programme>
-<programme start="20260904221500 +0000" stop="20260904223000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 2</title>
 </programme>
 <programme start="20260904223000 +0000" stop="20260904230000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Stories 26/27 -PEP - THE LEGACY</title>
