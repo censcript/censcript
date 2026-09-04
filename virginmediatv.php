@@ -434,7 +434,7 @@
     <title>Respect</title>
 </programme>
 <programme start="20260904012500 +0000" stop="20260904022000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Vigil - Series 3: Episode 1</title>
+    <title>Vigil - Episode 1</title>
 </programme>
 <programme start="20260904022000 +0000" stop="20260904053000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>

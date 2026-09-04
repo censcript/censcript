@@ -625,6 +625,9 @@
 <programme start="20260903230000 +0000" stop="20260904023000 +0000" channel="ANTV.vision">
 <title>Cirkus</title>
 </programme>
+<programme start="20260904023000 +0000" stop="20260904060000 +0000" channel="ANTV.vision">
+<title>Don 2</title>
+</programme>
 <programme start="20260904060000 +0000" stop="20260904073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -635,7 +638,7 @@
 <title>Jaane Anjaane</title>
 </programme>
 <programme start="20260904113000 +0000" stop="20260904130000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
 <programme start="20260904130000 +0000" stop="20260904150000 +0000" channel="ANTV.vision">
 <title>Pulau Hantu 2</title>
@@ -671,7 +674,7 @@
 <title>Jaane Anjaane</title>
 </programme>
 <programme start="20260905113000 +0000" stop="20260905130000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
 <programme start="20260903220000 +0000" stop="20260904020000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260904150000 +0000" stop="20260904170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260904170000 +0000" stop="20260904190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

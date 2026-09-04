@@ -1660,10 +1660,10 @@
 <programme start="20260904140000 +0000" stop="20260904150000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
 </programme>
-<programme start="20260904150000 +0000" stop="20260904161500 +0000" channel="BTV.mncvision">
+<programme start="20260904150000 +0000" stop="20260904160000 +0000" channel="BTV.mncvision">
     <title>UIPM 2026: Beijing China</title>
 </programme>
-<programme start="20260904161500 +0000" stop="20260904164500 +0000" channel="BTV.mncvision">
+<programme start="20260904160000 +0000" stop="20260904163000 +0000" channel="BTV.mncvision">
     <title>UIPM 2026: Beijing China</title>
 </programme>
 <programme start="20260903182700 +0000" stop="20260903201100 +0000" channel="BUDDY STARS.mncvision">
@@ -7502,7 +7502,7 @@
     <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20260904150000 +0000" stop="20260904160000 +0000" channel="RCTI.mncvision">
-    <title>Studio Cinta</title>
+    <title>The Red Wedding</title>
 </programme>
 <programme start="20260904160000 +0000" stop="20260904163000 +0000" channel="RCTI.mncvision">
     <title>Cinta Dari Surga</title>
@@ -7547,7 +7547,7 @@
     <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20260904150000 +0000" stop="20260904160000 +0000" channel="RCTI HD.mncvision">
-    <title>Studio Cinta</title>
+    <title>The Red Wedding</title>
 </programme>
 <programme start="20260904160000 +0000" stop="20260904163000 +0000" channel="RCTI HD.mncvision">
     <title>Cinta Dari Surga</title>

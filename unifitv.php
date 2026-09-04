@@ -669,14 +669,9 @@
     <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260904000000 +0000" stop="20260904013000 +0000" channel="tv1.unifitv">
+  <programme start="20260904000000 +0000" stop="20260904020000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : SELAMAT PAGI MALAYSIA</title>
     <desc lang="en">Bersama-sama pengacara membincangkan isu-isu terkini dalam Selamat Pagi Malaysia.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung: Pelancaran Junior Innovathon S2</title>
-    <desc lang="en">Saksikan Siaran Langsung Pelancaran Junior Innovathon S2</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260904020000 +0000" stop="20260904020500 +0000" channel="tv1.unifitv">
