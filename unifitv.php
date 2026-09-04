@@ -5694,9 +5694,9 @@
     <category lang="en">Romance</category>
   </programme>
   <programme start="20260904160000 +0000" stop="20260904190000 +0000" channel="zeecinemahd.unifitv">
-    <title lang="en">Khiladiyon Ka Khiladi</title>
-    <desc lang="en">While searching for his missing brother, Akshay joins gangster Maya's gang, proving his strength and loyalty by fighting her ruthless rival in a high-stakes wrestling match to survive.</desc>
-    <category lang="en">Thriller</category>
+    <title lang="en">Om Jai Jagdish</title>
+    <desc lang="en">Three brothers, struggling with personal issues, must unite to save their ancestral home from auction. Their journey brings laughter, tears, and the rediscovery of family bonds.</desc>
+    <category lang="en">Family</category>
   </programme>
   <channel id="hbohd.unifitv">
     <display-name>HBO</display-name>
@@ -12251,7 +12251,7 @@
   </programme>
   <programme start="20260904003300 +0000" stop="20260904010300 +0000" channel="bbcworldnewshd.unifitv">
     <title lang="en">Tech Now</title>
-    <desc lang="en">Shiona McCallum has a round-up of the key innovations and trends on show at VivaTech in Paris. Andrew Rogers reviews some of the latest ear defender technology on the market.</desc>
+    <desc lang="en">Compilation programme: Shiona McCallum has a round-up of the key innovations and trends on show at VivaTech in Paris, as Andrew Rogers reviews some of the latest ear defender technology on the market.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260904010300 +0000" stop="20260904013300 +0000" channel="bbcworldnewshd.unifitv">
@@ -13911,7 +13911,7 @@
   </channel>
   <programme start="20260903153300 +0000" stop="20260903160300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Where does knee pain come from? Can hip dysplasia be treated? Which exercises are gentle on the joints? Our special edition on joint pain and prevention.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13925,7 +13925,7 @@
   </programme>
   <programme start="20260903163300 +0000" stop="20260903170300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Seville is trying out new methods to protect its residents from an onslaught of heat. +++ When dreams come true for children in care: In the Republic of Moldova, summer camps give young people a welcome break.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13938,8 +13938,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260903171800 +0000" stop="20260903173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13980,15 +13980,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260903191800 +0000" stop="20260903193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260903193300 +0000" stop="20260903200300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14044,7 +14044,7 @@
   </programme>
   <programme start="20260903223300 +0000" stop="20260903230300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14056,23 +14056,16 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260903230500 +0000" stop="20260903231800 +0000" channel="dw.unifitv">
+  <programme start="20260903230500 +0000" stop="20260903233300 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+    <desc lang="en">Berlin is considering a €12 billion long-range ballistic strike program, and the overnight LORA missile test may be a glimpse of what's coming.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260903231800 +0000" stop="20260903233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
   <programme start="20260903233300 +0000" stop="20260904000300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title lang="en">Berlin Briefing</title>
+    <desc lang="en">Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14093,7 +14086,7 @@
   </programme>
   <programme start="20260904003300 +0000" stop="20260904010300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14135,7 +14128,7 @@
   </programme>
   <programme start="20260904023300 +0000" stop="20260904030300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Seville is trying out new methods to protect its residents from an onslaught of heat. +++ When dreams come true for children in care: In the Republic of Moldova, summer camps give young people a welcome break.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14155,15 +14148,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260904031800 +0000" stop="20260904033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260904033300 +0000" stop="20260904040300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Hamburg's new Sternbrücke bridge is hauled through the streets before being placed with millimeter precision above the railway tracks.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14225,15 +14218,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260904061800 +0000" stop="20260904063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260904063300 +0000" stop="20260904070300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title lang="en">Berlin Briefing</title>
+    <desc lang="en">Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14268,7 +14261,7 @@
   </programme>
   <programme start="20260904080500 +0000" stop="20260904083300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14331,14 +14324,14 @@
   </programme>
   <programme start="20260904110500 +0000" stop="20260904113300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260904113300 +0000" stop="20260904120300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title lang="en">Berlin Briefing</title>
+    <desc lang="en">Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14379,15 +14372,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260904131800 +0000" stop="20260904133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Travel</title>
+    <desc lang="en">Imagine arriving in a new country and having an AI guide, translator, and trip planner in your pocket. That future is already here! We'll show you useful travel apps, explain what AI can already do and show you robotics innovations happening in the travel industry. But: as travel becomes easier than ever, are we losing what made it meaningful in the first place?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260904133300 +0000" stop="20260904140300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Allergies and autoimmune diseases: how the body and mind suffer - and what really helps. Patients, experts and tips on In Good Shape.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14422,7 +14415,7 @@
   </programme>
   <programme start="20260904153300 +0000" stop="20260904160300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">The outcome of a regional election in the East German state of Saxony Anhalt could trigger a political earthquake in Germany. How will a win for the far-right AfD change German politics? Our guests: Katja Hoyer (Kings College); Erik Kirschbaum (LA Times); Matthew Moore (DW).</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>

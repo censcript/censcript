@@ -3023,7 +3023,7 @@
     <title>ENTR: The TikTok Priest</title>
 </programme>
 <programme start="20260904063000 +0000" stop="20260904070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Berlin Briefing</title>
 </programme>
 <programme start="20260904070000 +0000" stop="20260904070200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4087,13 +4087,10 @@
 <programme start="20260903233000 +0000" stop="20260904010000 +0000" channel="GTV.mncvision">
     <title>Kiko</title>
 </programme>
-<programme start="20260904010000 +0000" stop="20260904040000 +0000" channel="GTV.mncvision">
+<programme start="20260904010000 +0000" stop="20260904050000 +0000" channel="GTV.mncvision">
     <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260904040000 +0000" stop="20260904053000 +0000" channel="GTV.mncvision">
-    <title>The Helping Heroes</title>
-</programme>
-<programme start="20260904053000 +0000" stop="20260904070000 +0000" channel="GTV.mncvision">
+<programme start="20260904050000 +0000" stop="20260904070000 +0000" channel="GTV.mncvision">
     <title>Kiko</title>
 </programme>
 <programme start="20260904070000 +0000" stop="20260904093000 +0000" channel="GTV.mncvision">
@@ -4129,13 +4126,10 @@
 <programme start="20260903233000 +0000" stop="20260904010000 +0000" channel="GTV HD.mncvision">
     <title>Kiko</title>
 </programme>
-<programme start="20260904010000 +0000" stop="20260904040000 +0000" channel="GTV HD.mncvision">
+<programme start="20260904010000 +0000" stop="20260904050000 +0000" channel="GTV HD.mncvision">
     <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260904040000 +0000" stop="20260904053000 +0000" channel="GTV HD.mncvision">
-    <title>The Helping Heroes</title>
-</programme>
-<programme start="20260904053000 +0000" stop="20260904070000 +0000" channel="GTV HD.mncvision">
+<programme start="20260904050000 +0000" stop="20260904070000 +0000" channel="GTV HD.mncvision">
     <title>Kiko</title>
 </programme>
 <programme start="20260904070000 +0000" stop="20260904093000 +0000" channel="GTV HD.mncvision">
@@ -4178,7 +4172,7 @@
     <title>Curhatan Orang Dalam</title>
 </programme>
 <programme start="20260904020000 +0000" stop="20260904030000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Surprise Mak!!</title>
+    <title>Surprise Show</title>
 </programme>
 <programme start="20260904030000 +0000" stop="20260904033000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Pagelaran Budaya Jawi</title>
@@ -4202,7 +4196,7 @@
     <title>Curhatan Orang Dalam</title>
 </programme>
 <programme start="20260904080000 +0000" stop="20260904090000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Surprise Mak!!</title>
+    <title>Surprise Show</title>
 </programme>
 <programme start="20260904090000 +0000" stop="20260904100000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Kompleks Pengabdi Istri</title>
@@ -6380,7 +6374,7 @@
     <title>Live Dari Mekkah</title>
 </programme>
 <programme start="20260903190000 +0000" stop="20260903200000 +0000" channel="Muslim TV.mncvision">
-    <title>Lentera Hati</title>
+    <title>Cahaya Lentera Hati</title>
 </programme>
 <programme start="20260903200000 +0000" stop="20260903210000 +0000" channel="Muslim TV.mncvision">
     <title>99 Nama Cinta</title>
@@ -6395,7 +6389,7 @@
     <title>Ayat-Ayat Langit</title>
 </programme>
 <programme start="20260904003000 +0000" stop="20260904013000 +0000" channel="Muslim TV.mncvision">
-    <title>Kun Anta S4</title>
+    <title>Kun Anta Mendadak Santri</title>
 </programme>
 <programme start="20260904013000 +0000" stop="20260904020000 +0000" channel="Muslim TV.mncvision">
     <title>World Of Moslem</title>
@@ -6410,7 +6404,7 @@
     <title>Siraman Qolbu, Ust. Dhanu</title>
 </programme>
 <programme start="20260904053000 +0000" stop="20260904070000 +0000" channel="Muslim TV.mncvision">
-    <title>Jadi Ustad Palsu</title>
+    <title>Mendadak Ustad</title>
 </programme>
 <programme start="20260904070000 +0000" stop="20260904073000 +0000" channel="Muslim TV.mncvision">
     <title>World Of Moslem</title>
@@ -6437,7 +6431,7 @@
     <title>99 Nama Cinta</title>
 </programme>
 <programme start="20260904150000 +0000" stop="20260904163000 +0000" channel="Muslim TV.mncvision">
-    <title>Jadi Ustad Palsu</title>
+    <title>Mendadak Ustad</title>
 </programme>
 <programme start="20260904163000 +0000" stop="20260903170000 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu, Ust. Dhanu</title>

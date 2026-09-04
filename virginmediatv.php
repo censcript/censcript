@@ -4325,7 +4325,7 @@
     <title>All the Goals - Louis Saha</title>
 </programme>
 <programme start="20260904043000 +0000" stop="20260904044500 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Marouane Fellaini</title>
+    <title>Channel Off Air</title>
 </programme>
 <programme start="20260904044500 +0000" stop="20260904050000 +0000" channel="MUTV.virginmediatv">
     <title>Access All Areas - Ipswich</title>
