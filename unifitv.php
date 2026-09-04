@@ -3960,39 +3960,39 @@
     <episode-num system="onscreen">S1E20260820</episode-num>
   </programme>
   <programme start="20260904050800 +0000" stop="20260904055500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Wo He Wo De Er Nv Men</title>
-    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20260904055500 +0000" stop="20260904064100 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Wo He Wo De Er Nv Men</title>
-    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
+    <title lang="en">Da Jue Zhan</title>
+    <desc lang="en">Set during the Chinese Civil War, this historical drama covers the three major military campaigns—Liaoshen, Huaihai, and Pingjin. It tells the story of this turning point in history from three angles: grand strategy, field tactics, and frontline combat.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme start="20260904064100 +0000" stop="20260904073000 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Wo He Wo De Er Nv Men</title>
-    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
+  <programme start="20260904055500 +0000" stop="20260904064100 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Da Jue Zhan</title>
+    <desc lang="en">Set during the Chinese Civil War, this historical drama covers the three major military campaigns—Liaoshen, Huaihai, and Pingjin. It tells the story of this turning point in history from three angles: grand strategy, field tactics, and frontline combat.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
-  <programme start="20260904073000 +0000" stop="20260904081700 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Wo He Wo De Er Nv Men</title>
-    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
+  <programme start="20260904064100 +0000" stop="20260904073000 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Da Jue Zhan</title>
+    <desc lang="en">Set during the Chinese Civil War, this historical drama covers the three major military campaigns—Liaoshen, Huaihai, and Pingjin. It tells the story of this turning point in history from three angles: grand strategy, field tactics, and frontline combat.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
-  <programme start="20260904081700 +0000" stop="20260904090400 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Wo He Wo De Er Nv Men</title>
-    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
+  <programme start="20260904073000 +0000" stop="20260904081700 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Da Jue Zhan</title>
+    <desc lang="en">Set during the Chinese Civil War, this historical drama covers the three major military campaigns—Liaoshen, Huaihai, and Pingjin. It tells the story of this turning point in history from three angles: grand strategy, field tactics, and frontline combat.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20260904081700 +0000" stop="20260904090400 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Da Jue Zhan</title>
+    <desc lang="en">Set during the Chinese Civil War, this historical drama covers the three major military campaigns—Liaoshen, Huaihai, and Pingjin. It tells the story of this turning point in history from three angles: grand strategy, field tactics, and frontline combat.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260904090400 +0000" stop="20260904092000 +0000" channel="cctv4hd.unifitv">
     <title lang="en">Ordinary ingenuity</title>
@@ -12464,14 +12464,9 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260903190300 +0000" stop="20260903193300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260903193300 +0000" stop="20260903200300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Mindset</title>
-    <desc lang="en">Mindset travels to the therapy centre of the world in Argentina and to Iceland, home to the highest rate of antidepressant use in Europe.</desc>
+  <programme start="20260903190300 +0000" stop="20260903200300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Srebrenica: Genocide On Trial</title>
+    <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260903200300 +0000" stop="20260903203300 +0000" channel="aljazeera.unifitv">
@@ -12532,7 +12527,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260904033300 +0000" stop="20260904040300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Fight For The Pacifi</title>
+    <title lang="en">Fight For The Pacific</title>
     <desc lang="en">Fight For The Pacifi</desc>
     <category lang="en">News</category>
   </programme>
@@ -12584,13 +12579,13 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260904090300 +0000" stop="20260904093300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <title lang="en">Srebrenica: Genocide On Trial</title>
+    <desc lang="en">Thirty years after the Dayton Agreement ended the Balkan wars, how the war crimes trials over the Srebrenica genocide created the International Criminal Court.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260904093300 +0000" stop="20260904100300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">With his trade war with Canada and renewed threats against Iran, is President Donald Trump testing the limits of U.S. power?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.34.</episode-num>
     <episode-num system="onscreen">S1E35</episode-num>
@@ -15205,19 +15200,14 @@
     <desc lang="en">Daily and weekly highlights from the final, dramatic Grand Tour of the cycling season known for its punishing mountainous terrain.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260904100000 +0000" stop="20260904103000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260904100000 +0000" stop="20260904105000 +0000" channel="beinsports2.unifitv">
     <title lang="en">UEFA Women's Champions League Draw - League Phase (L)</title>
     <desc lang="en">UEFA Women's Champions League Draw - League Phase (L)</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260904103000 +0000" stop="20260904122000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260904105000 +0000" stop="20260904125000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Super Lig - Amedspor vs Trabzonspor</title>
     <desc lang="en">beIN SPORTS brings you coverage of the 69th season of Turkey's top-flight football.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260904122000 +0000" stop="20260904125000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">La Vuelta Highlights - Stage 12: Vera - Calar Alto</title>
-    <desc lang="en">Daily and weekly highlights from the final, dramatic Grand Tour of the cycling season known for its punishing mountainous terrain.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260904125000 +0000" stop="20260904155000 +0000" channel="beinsports2.unifitv">
@@ -15233,19 +15223,19 @@
   <channel id="beinsports3.unifitv">
     <display-name>beIN SPORTS 3</display-name>
   </channel>
-  <programme start="20260903143000 +0000" stop="20260903160000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260903153000 +0000" stop="20260903170000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Premier Padel - Madrid P1 Day 3 Match 6 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260903160000 +0000" stop="20260903173000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Premier Padel - Madrid P1 Day 3 Match 6 (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260903173000 +0000" stop="20260903190000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260903170000 +0000" stop="20260903183000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Premier Padel - Madrid P1 Day 3 Match 7 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260903183000 +0000" stop="20260903190000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Inside Sailing - September</title>
+    <desc lang="en">The world's leading monthly magazine show, showcasing the diverse world of sailing, from super yachts and offshore racing, to the extremes of kite surfing.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260903190000 +0000" stop="20260903193000 +0000" channel="beinsports3.unifitv">

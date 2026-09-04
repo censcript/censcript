@@ -130,13 +130,10 @@
 <programme start="20260903233000 +0000" stop="20260904010000 +0000" channel="GTV.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20260904010000 +0000" stop="20260904040000 +0000" channel="GTV.vision">
+<programme start="20260904010000 +0000" stop="20260904050000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260904040000 +0000" stop="20260904053000 +0000" channel="GTV.vision">
-<title>The Helping Heroes</title>
-</programme>
-<programme start="20260904053000 +0000" stop="20260904070000 +0000" channel="GTV.vision">
+<programme start="20260904050000 +0000" stop="20260904070000 +0000" channel="GTV.vision">
 <title>Kiko</title>
 </programme>
 <programme start="20260904070000 +0000" stop="20260904093000 +0000" channel="GTV.vision">
@@ -178,13 +175,10 @@
 <programme start="20260905003000 +0000" stop="20260905010000 +0000" channel="GTV.vision">
 <title>Zak Storm</title>
 </programme>
-<programme start="20260905010000 +0000" stop="20260905040000 +0000" channel="GTV.vision">
+<programme start="20260905010000 +0000" stop="20260905050000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260905040000 +0000" stop="20260905053000 +0000" channel="GTV.vision">
-<title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260905053000 +0000" stop="20260905070000 +0000" channel="GTV.vision">
+<programme start="20260905050000 +0000" stop="20260905070000 +0000" channel="GTV.vision">
 <title>Kiko</title>
 </programme>
 <programme start="20260905070000 +0000" stop="20260905093000 +0000" channel="GTV.vision">
@@ -630,9 +624,6 @@
 </programme>
 <programme start="20260903230000 +0000" stop="20260904023000 +0000" channel="ANTV.vision">
 <title>Cirkus</title>
-</programme>
-<programme start="20260904023000 +0000" stop="20260904060000 +0000" channel="ANTV.vision">
-<title>Don 2</title>
 </programme>
 <programme start="20260904060000 +0000" stop="20260904073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260904110000 +0000" stop="20260904130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260904130000 +0000" stop="20260904150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260904150000 +0000" stop="20260904170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260904170000 +0000" stop="20260904190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

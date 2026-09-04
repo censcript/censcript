@@ -7675,44 +7675,44 @@
 <programme start="20260903220000 +0000" stop="20260903230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260903230000 +0000" stop="20260904000000 +0000" channel="SCTV.mncvision">
+<programme start="20260903230000 +0000" stop="20260904000400 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="SCTV.mncvision">
+<programme start="20260904000400 +0000" stop="20260904010100 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260904010000 +0000" stop="20260904030000 +0000" channel="SCTV.mncvision">
+<programme start="20260904010100 +0000" stop="20260904024300 +0000" channel="SCTV.mncvision">
     <title>Abang Ojek Hampir Macho</title>
 </programme>
-<programme start="20260904030000 +0000" stop="20260904050000 +0000" channel="SCTV.mncvision">
-    <title>FTV Pagi</title>
+<programme start="20260904024300 +0000" stop="20260904044000 +0000" channel="SCTV.mncvision">
+    <title>Srikandi Katering Vs Mas-Mas...</title>
 </programme>
-<programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="SCTV.mncvision">
+<programme start="20260904044000 +0000" stop="20260904051400 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260904053000 +0000" stop="20260904070000 +0000" channel="SCTV.mncvision">
+<programme start="20260904051400 +0000" stop="20260904064800 +0000" channel="SCTV.mncvision">
     <title>Samudra Cinta</title>
 </programme>
-<programme start="20260904070000 +0000" stop="20260904083000 +0000" channel="SCTV.mncvision">
+<programme start="20260904064800 +0000" stop="20260904082600 +0000" channel="SCTV.mncvision">
     <title>Emak Rempong Rebutan Calon...</title>
 </programme>
-<programme start="20260904083000 +0000" stop="20260904100000 +0000" channel="SCTV.mncvision">
+<programme start="20260904082600 +0000" stop="20260904100000 +0000" channel="SCTV.mncvision">
     <title>Bongkar Cinta Pesulap Ganteng</title>
 </programme>
-<programme start="20260904100000 +0000" stop="20260904113000 +0000" channel="SCTV.mncvision">
+<programme start="20260904100000 +0000" stop="20260904113100 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260904113000 +0000" stop="20260904130000 +0000" channel="SCTV.mncvision">
+<programme start="20260904113100 +0000" stop="20260904125800 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260904130000 +0000" stop="20260904143000 +0000" channel="SCTV.mncvision">
+<programme start="20260904125800 +0000" stop="20260904142500 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260904143000 +0000" stop="20260904160000 +0000" channel="SCTV.mncvision">
+<programme start="20260904142500 +0000" stop="20260904160600 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260904160000 +0000" stop="20260904163000 +0000" channel="SCTV.mncvision">
-    <title>FTV Primetime</title>
+<programme start="20260904160600 +0000" stop="20260904163600 +0000" channel="SCTV.mncvision">
+    <title>Romansa Pasutri Magang</title>
 </programme>
 <programme start="20260903173100 +0000" stop="20260903184600 +0000" channel="SCTV HD.mncvision">
     <title>Cinta (Nggak) Bikin Sial</title>
@@ -7732,44 +7732,44 @@
 <programme start="20260903220000 +0000" stop="20260903230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260903230000 +0000" stop="20260904000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260903230000 +0000" stop="20260904000400 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260904000000 +0000" stop="20260904010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904000400 +0000" stop="20260904010100 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260904010000 +0000" stop="20260904030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904010100 +0000" stop="20260904024300 +0000" channel="SCTV HD.mncvision">
     <title>Abang Ojek Hampir Macho</title>
 </programme>
-<programme start="20260904030000 +0000" stop="20260904050000 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Pagi</title>
+<programme start="20260904024300 +0000" stop="20260904044000 +0000" channel="SCTV HD.mncvision">
+    <title>Srikandi Katering Vs Mas-Mas...</title>
 </programme>
-<programme start="20260904050000 +0000" stop="20260904053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904044000 +0000" stop="20260904051400 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260904053000 +0000" stop="20260904070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904051400 +0000" stop="20260904064800 +0000" channel="SCTV HD.mncvision">
     <title>Samudra Cinta</title>
 </programme>
-<programme start="20260904070000 +0000" stop="20260904083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904064800 +0000" stop="20260904082600 +0000" channel="SCTV HD.mncvision">
     <title>Emak Rempong Rebutan Calon...</title>
 </programme>
-<programme start="20260904083000 +0000" stop="20260904100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904082600 +0000" stop="20260904100000 +0000" channel="SCTV HD.mncvision">
     <title>Bongkar Cinta Pesulap Ganteng</title>
 </programme>
-<programme start="20260904100000 +0000" stop="20260904113000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904100000 +0000" stop="20260904113100 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260904113000 +0000" stop="20260904130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904113100 +0000" stop="20260904125800 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260904130000 +0000" stop="20260904143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904125800 +0000" stop="20260904142500 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260904143000 +0000" stop="20260904160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260904142500 +0000" stop="20260904160600 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260904160000 +0000" stop="20260904163000 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Primetime</title>
+<programme start="20260904160600 +0000" stop="20260904163600 +0000" channel="SCTV HD.mncvision">
+    <title>Romansa Pasutri Magang</title>
 </programme>
 <programme start="20260903173000 +0000" stop="20260903180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
