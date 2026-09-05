@@ -4046,7 +4046,7 @@
     <title>US Open Tennis Classic Matches - 2012: Serena Williams v Victoria Azarenka</title>
 </programme>
 <programme start="20260905120000 +0000" stop="20260905140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Men&#039;s Third Round: Frances Tiafoe v Valentin Vacherot</title>
+    <title>US Open 2026 - Men&#039;s Third Round: Ben Shelton v Denis Shapovalov</title>
 </programme>
 <programme start="20260905140000 +0000" stop="20260905143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Day 6: Highlights</title>
@@ -4745,7 +4745,7 @@
     <title>US Open Tennis Classic Matches - 2012: Serena Williams v Victoria Azarenka</title>
 </programme>
 <programme start="20260905120000 +0000" stop="20260905140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Men&#039;s Third Round: Frances Tiafoe v Valentin Vacherot</title>
+    <title>US Open 2026 - Men&#039;s Third Round: Ben Shelton v Denis Shapovalov</title>
 </programme>
 <programme start="20260905140000 +0000" stop="20260905143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Day 6: Highlights</title>
@@ -5477,7 +5477,7 @@
     <title>Tír na nÓg - Oilimpeach Na Nóg</title>
 </programme>
 <programme start="20260905174100 +0000" stop="20260905174800 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Happy the Hoglet - I&#039;m Not Playing</title>
 </programme>
 <programme start="20260905174800 +0000" stop="20260905180000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>BeddyByes - Where&#039;s Yummy?</title>
