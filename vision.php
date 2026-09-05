@@ -508,9 +508,6 @@
 <programme start="20260905063000 +0000" stop="20260905071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
-<programme start="20260905071500 +0000" stop="20260905081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
 <programme start="20260905081500 +0000" stop="20260905090000 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
@@ -615,9 +612,6 @@
 </programme>
 <programme start="20260904230000 +0000" stop="20260905023000 +0000" channel="ANTV.vision">
 <title>Love Love Love</title>
-</programme>
-<programme start="20260905023000 +0000" stop="20260905060000 +0000" channel="ANTV.vision">
-<title>Har Dil Jo Pyar Karega</title>
 </programme>
 <programme start="20260905060000 +0000" stop="20260905073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260905110000 +0000" stop="20260905130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260905130000 +0000" stop="20260905150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260905150000 +0000" stop="20260905170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
