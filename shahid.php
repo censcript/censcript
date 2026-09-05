@@ -4,6 +4,9 @@
     <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="986346.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260906000000 +0000" stop="20260906000145 +0000" channel="988045.shahid">
         <title>Maraya 2003 Episode 18</title>
     </programme>
@@ -177,9 +180,6 @@
     </programme>
     <programme start="20260907232048 +0000" stop="20260907235959 +0000" channel="988045.shahid">
         <title>Hadeeth Al Maraya Episode 11</title>
-    </programme>
-    <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="986346.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
@@ -3223,9 +3223,6 @@
     <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="49922763510387.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="946940.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260906000000 +0000" stop="20260906001600 +0000" channel="387294.shahid">
         <title>Ahlam Al Sineen Season 1 Episode 23</title>
     </programme>
@@ -3502,7 +3499,13 @@
     <programme start="20260907234500 +0000" stop="20260907235959 +0000" channel="387294.shahid">
         <title>Dar Ghareeb Season 1 Episode 27</title>
     </programme>
+    <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="946940.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="49922904934759.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260906000000 +0000" stop="20260906000000 +0000" channel="387251.shahid">
@@ -3753,9 +3756,6 @@
     </programme>
     <programme start="20260908000000 +0000" stop="20260907235959 +0000" channel="387251.shahid">
         <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260906000000 +0000" stop="20260907235959 +0000" channel="414449.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260906000000 +0000" stop="20260906000441 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 18 Episode 9</title>

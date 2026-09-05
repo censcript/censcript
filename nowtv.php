@@ -1,9 +1,3 @@
-<programme start="20260905210000 +0000" stop="20260905220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260905220000 +0000" stop="20260905230000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260905230000 +0000" stop="20260906000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -52,9 +46,6 @@
 <programme start="20260906150000 +0000" stop="20260906173000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Arsenal vs Chelsea[Live]</title>
 </programme>
-<programme start="20260905200000 +0000" stop="20260905220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260905220000 +0000" stop="20260906000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -88,9 +79,6 @@
 <programme start="20260906160000 +0000" stop="20260906180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260905200000 +0000" stop="20260905220000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260905220000 +0000" stop="20260906000000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -120,15 +108,6 @@
 </programme>
 <programme start="20260906160000 +0000" stop="20260906180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260905210000 +0000" stop="20260905211500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 2</title>
-</programme>
-<programme start="20260905211500 +0000" stop="20260905213000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 1</title>
-</programme>
-<programme start="20260905213000 +0000" stop="20260905233000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Manchester City vs Coventry City</title>
 </programme>
 <programme start="20260905233000 +0000" stop="20260905234500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Online 26/27 E10</title>
