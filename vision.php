@@ -535,12 +535,6 @@
 <programme start="20260905154500 +0000" stop="20260905163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260905163000 +0000" stop="20260905174500 +0000" channel="Trans 7.vision">
-<title>Theater</title>
-</programme>
-<programme start="20260905174500 +0000" stop="20260905183000 +0000" channel="Trans 7.vision">
-<title>Superbike</title>
-</programme>
 <programme start="20260905183000 +0000" stop="20260905190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -624,15 +618,6 @@
 </programme>
 <programme start="20260905113000 +0000" stop="20260905130000 +0000" channel="ANTV.vision">
 <title>Jodoh Wasiat Bapak Reborn</title>
-</programme>
-<programme start="20260905130000 +0000" stop="20260905150000 +0000" channel="ANTV.vision">
-<title>Pulau Hantu 3</title>
-</programme>
-<programme start="20260905150000 +0000" stop="20260905170000 +0000" channel="ANTV.vision">
-<title>Jaka Tuak</title>
-</programme>
-<programme start="20260905170000 +0000" stop="20260905181500 +0000" channel="ANTV.vision">
-<title>Viral</title>
 </programme>
 <programme start="20260905181500 +0000" stop="20260905203000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -810,9 +795,6 @@
 </programme>
 <programme start="20260905110000 +0000" stop="20260905130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20260905130000 +0000" stop="20260905143000 +0000" channel="TVOne.vision">
-<title>Anugerah Perjalanan Suci...</title>
 </programme>
 <programme start="20260905143000 +0000" stop="20260905153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1496,5 +1478,23 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260905150000 +0000" stop="20260905170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260905170000 +0000" stop="20260905190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260905190000 +0000" stop="20260905210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260905210000 +0000" stop="20260905230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260905230000 +0000" stop="20260906010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260906010000 +0000" stop="20260906030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260906030000 +0000" stop="20260906050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

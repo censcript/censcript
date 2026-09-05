@@ -40,37 +40,34 @@
 <programme start="20260905021000 +0000" stop="20260905050000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
-<programme start="20260905050000 +0000" stop="20260905065500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905050000 +0000" stop="20260905065400 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
-<programme start="20260905115500 +0000" stop="20260905120500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905115500 +0000" stop="20260905120400 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News: One O&#039;Clock</title>
 </programme>
-<programme start="20260905120500 +0000" stop="20260905130000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905120400 +0000" stop="20260905125900 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Shakespeare and Hathaway: Private Investigators - Be Not Afraid of Greatness</title>
 </programme>
-<programme start="20260905130000 +0000" stop="20260905140000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905125900 +0000" stop="20260905140100 +0000" channel="RTE_One_HD.virginmediatv">
     <title>An Atlantic Irish Rainforest - Episode 2</title>
 </programme>
-<programme start="20260905140000 +0000" stop="20260905143500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905140100 +0000" stop="20260905143500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Only Fools and Horses... - The Long Legs of the Law</title>
 </programme>
 <programme start="20260905143500 +0000" stop="20260905164500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Personal History of David Copperfield</title>
 </programme>
-<programme start="20260905164500 +0000" stop="20260905165500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905164500 +0000" stop="20260905165300 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Nuacht</title>
 </programme>
-<programme start="20260905165500 +0000" stop="20260905170000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905165300 +0000" stop="20260905170100 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News with ISL</title>
 </programme>
-<programme start="20260905170000 +0000" stop="20260905170100 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>The Angelus - Field of Dreams, Curraheen, Cork</title>
-</programme>
-<programme start="20260905170100 +0000" stop="20260905173500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905170100 +0000" stop="20260905173600 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News: Six One</title>
 </programme>
-<programme start="20260905173500 +0000" stop="20260905195000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260905173600 +0000" stop="20260905194700 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Annie</title>
 </programme>
 <programme start="20260904232900 +0000" stop="20260905000900 +0000" channel="RTE_Two_HD.virginmediatv">
@@ -79,19 +76,16 @@
 <programme start="20260905000900 +0000" stop="20260905004500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Change - Episode 1</title>
 </programme>
-<programme start="20260905004500 +0000" stop="20260905050000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Euronews</title>
-</programme>
-<programme start="20260905050000 +0000" stop="20260905065500 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260905004500 +0000" stop="20260905065500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260905113500 +0000" stop="20260905120500 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Home and Away - Episode 136</title>
+    <title>Home and Away - Episode 198</title>
 </programme>
-<programme start="20260905120500 +0000" stop="20260905131500 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260905120500 +0000" stop="20260905131600 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Great British Sewing Bee - Episode 10</title>
 </programme>
-<programme start="20260905131500 +0000" stop="20260905141500 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260905131600 +0000" stop="20260905141500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Blenheim: Britain&#039;s Greatest Palace - Episode 4</title>
 </programme>
 <programme start="20260905141500 +0000" stop="20260905144500 +0000" channel="RTE_Two_HD.virginmediatv">
@@ -283,25 +277,25 @@
 <programme start="20260905120000 +0000" stop="20260905125500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Repair Shop - Favourite Fixes</title>
 </programme>
-<programme start="20260905125500 +0000" stop="20260905130500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260905125500 +0000" stop="20260905130400 +0000" channel="RTE_One_+1.virginmediatv">
     <title>RTÉ News: One O&#039;Clock</title>
 </programme>
-<programme start="20260905130500 +0000" stop="20260905140000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260905130400 +0000" stop="20260905135900 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Shakespeare and Hathaway: Private Investigators - Be Not Afraid of Greatness</title>
 </programme>
-<programme start="20260905140000 +0000" stop="20260905150000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260905135900 +0000" stop="20260905150100 +0000" channel="RTE_One_+1.virginmediatv">
     <title>An Atlantic Irish Rainforest - Episode 2</title>
 </programme>
-<programme start="20260905150000 +0000" stop="20260905153500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260905150100 +0000" stop="20260905153500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Only Fools and Horses... - The Long Legs of the Law</title>
 </programme>
 <programme start="20260905153500 +0000" stop="20260905174500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Personal History of David Copperfield</title>
 </programme>
-<programme start="20260905174500 +0000" stop="20260905175500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260905174500 +0000" stop="20260905175300 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Nuacht</title>
 </programme>
-<programme start="20260905175500 +0000" stop="20260905180000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260905175300 +0000" stop="20260905180100 +0000" channel="RTE_One_+1.virginmediatv">
     <title>RTÉ News with ISL</title>
 </programme>
 <programme start="20260905000000 +0000" stop="20260905003000 +0000" channel="BBC1_HD.virginmediatv">
@@ -4088,7 +4082,7 @@
     <title>Irish Racing Replay</title>
 </programme>
 <programme start="20260905111500 +0000" stop="20260905121500 +0000" channel="Racing_UK.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Full SP: Preview</title>
 </programme>
 <programme start="20260905121500 +0000" stop="20260905183000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
@@ -4109,7 +4103,7 @@
     <title>Irish Racing Replay</title>
 </programme>
 <programme start="20260905111500 +0000" stop="20260905121500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Full SP: Preview</title>
 </programme>
 <programme start="20260905121500 +0000" stop="20260905183000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
@@ -5371,109 +5365,121 @@
 <programme start="20260904230000 +0000" stop="20260905060000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
-<programme start="20260905120000 +0000" stop="20260905121000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905115000 +0000" stop="20260905120200 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Daniel Tiger&#039;s Neighbourhood - Daniel Gets Mad at Dad</title>
+</programme>
+<programme start="20260905120200 +0000" stop="20260905121300 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Lex and Plu Space Taxi Drivers - Finding Proof</title>
 </programme>
-<programme start="20260905121000 +0000" stop="20260905122000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905121300 +0000" stop="20260905122000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Bluey - Bike</title>
 </programme>
-<programme start="20260905122000 +0000" stop="20260905122500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905122000 +0000" stop="20260905122700 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Bluey - Mr Monkeyjocks</title>
 </programme>
-<programme start="20260905122500 +0000" stop="20260905123500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905122700 +0000" stop="20260905123600 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Bluey - Dragon</title>
 </programme>
-<programme start="20260905123500 +0000" stop="20260905124000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905123600 +0000" stop="20260905124100 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Yakka Dee - Octopus</title>
 </programme>
-<programme start="20260905124000 +0000" stop="20260905125500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905124100 +0000" stop="20260905125700 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Tír na nÓg - Oilimpeach Na Nóg</title>
 </programme>
-<programme start="20260905125500 +0000" stop="20260905130000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905125700 +0000" stop="20260905130400 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Stan Can - Treat</title>
 </programme>
-<programme start="20260905130000 +0000" stop="20260905131000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905130400 +0000" stop="20260905131100 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Stan Can - Wonder Vole</title>
 </programme>
-<programme start="20260905131000 +0000" stop="20260905131500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905131100 +0000" stop="20260905131800 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Brewster the Rooster - Thunder Blunder</title>
 </programme>
-<programme start="20260905131500 +0000" stop="20260905133000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905131800 +0000" stop="20260905132600 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Brewster the Rooster - Late Moon</title>
 </programme>
-<programme start="20260905133000 +0000" stop="20260905134500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905132600 +0000" stop="20260905133100 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>The Grumpy Onion - Mindfullish</title>
+</programme>
+<programme start="20260905133100 +0000" stop="20260905134700 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Body Brothers - Toilet</title>
 </programme>
-<programme start="20260905134500 +0000" stop="20260905135500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905134700 +0000" stop="20260905135500 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Breacaí - Leathanach Bán</title>
 </programme>
-<programme start="20260905135500 +0000" stop="20260905140000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905135500 +0000" stop="20260905140600 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Ballybraddan - One Step from Croker</title>
 </programme>
-<programme start="20260905140000 +0000" stop="20260905142000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905140600 +0000" stop="20260905142000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Tír na nÓg - Episode 3</title>
 </programme>
-<programme start="20260905142000 +0000" stop="20260905142500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905142000 +0000" stop="20260905142800 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Puffin Rock As Gaeilge - Colg Cleití</title>
 </programme>
-<programme start="20260905142500 +0000" stop="20260905144000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905142800 +0000" stop="20260905143600 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Puffin Rock As Gaeilge - Bernie a Aimsiú</title>
 </programme>
+<programme start="20260905143600 +0000" stop="20260905144000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Funny Little Monsters - The Polkadot Perkplopper</title>
+</programme>
 <programme start="20260905144000 +0000" stop="20260905145500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Andy&#039;s Wild Adventures - Polar Bears</title>
+    <title>Andy&#039;s Wild Adventures - Elephants</title>
 </programme>
 <programme start="20260905145500 +0000" stop="20260905150500 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Fireman Sam - It Came From the Sea</title>
 </programme>
-<programme start="20260905150500 +0000" stop="20260905151500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905150500 +0000" stop="20260905151400 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Fireman Sam - Kite Catastrophe</title>
 </programme>
-<programme start="20260905151500 +0000" stop="20260905152000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905151400 +0000" stop="20260905151800 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Funny Little Monsters - The Polkadot Perkplopper</title>
+</programme>
+<programme start="20260905151800 +0000" stop="20260905152300 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Fia&#039;s Fairies - Honey Lemonade</title>
 </programme>
-<programme start="20260905152000 +0000" stop="20260905153000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905152300 +0000" stop="20260905153300 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Mixmups - Sadness Cave</title>
 </programme>
-<programme start="20260905153000 +0000" stop="20260905154000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905153300 +0000" stop="20260905153900 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Pins and Nettie - Follow the Hedgie</title>
 </programme>
-<programme start="20260905154000 +0000" stop="20260905154500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905153900 +0000" stop="20260905154400 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Pins and Nettie - Hedgie Kitty Continued</title>
 </programme>
-<programme start="20260905154500 +0000" stop="20260905155500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905154400 +0000" stop="20260905155500 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Lex and Plu Space Taxi Drivers - Finding Proof</title>
 </programme>
-<programme start="20260905155500 +0000" stop="20260905160500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905155500 +0000" stop="20260905160700 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Bellie and Whizz `Minding Me&#039; - Grumpy</title>
 </programme>
-<programme start="20260905160500 +0000" stop="20260905161500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905160700 +0000" stop="20260905161800 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Bellie and Whizz `Minding Me&#039; - Love</title>
 </programme>
-<programme start="20260905161500 +0000" stop="20260905163000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905161800 +0000" stop="20260905163000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Daniel Tiger&#039;s Neighbourhood - Daniel Gets Mad at Dad</title>
 </programme>
 <programme start="20260905163000 +0000" stop="20260905164500 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Let&#039;s Find Out - Snow</title>
 </programme>
-<programme start="20260905164500 +0000" stop="20260905165500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Builder Brothers Dream Factory - Rock&#039;n&#039; Road Race</title>
+<programme start="20260905164500 +0000" stop="20260905165600 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Builder Brothers Dream Factory - Ghost of Steamport School</title>
 </programme>
-<programme start="20260905165500 +0000" stop="20260905170500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905165600 +0000" stop="20260905170700 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Builder Brothers Dream Factory - Carlos Gets a Bike</title>
 </programme>
-<programme start="20260905170500 +0000" stop="20260905171500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905170700 +0000" stop="20260905171800 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Kiva Can Do - Episode 13</title>
 </programme>
-<programme start="20260905171500 +0000" stop="20260905172500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905171800 +0000" stop="20260905172500 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Peek Zoo - Ringtailed Violet</title>
 </programme>
-<programme start="20260905172500 +0000" stop="20260905174000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905172500 +0000" stop="20260905174100 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Tír na nÓg - Oilimpeach Na Nóg</title>
 </programme>
-<programme start="20260905174000 +0000" stop="20260905174500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Happy the Hoglet - The Perfect Picnic</title>
+<programme start="20260905174100 +0000" stop="20260905174800 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20260905174500 +0000" stop="20260905180000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260905174800 +0000" stop="20260905180000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>BeddyByes - Where&#039;s Yummy?</title>
 </programme>
 <programme start="20260904203000 +0000" stop="20260905003000 +0000" channel="TRTE.virginmediatv">

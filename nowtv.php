@@ -1,9 +1,3 @@
-<programme start="20260905160000 +0000" stop="20260905170000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260905170000 +0000" stop="20260905180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260905180000 +0000" stop="20260905190000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -67,9 +61,6 @@
 <programme start="20260906150000 +0000" stop="20260906173000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Arsenal vs Chelsea[Live]</title>
 </programme>
-<programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260905180000 +0000" stop="20260905200000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -109,9 +100,6 @@
 <programme start="20260906160000 +0000" stop="20260906180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260905160000 +0000" stop="20260905180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260905180000 +0000" stop="20260905200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -147,9 +135,6 @@
 </programme>
 <programme start="20260906160000 +0000" stop="20260906180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260905160000 +0000" stop="20260905183000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Hull City vs Aston Villa[Live]</title>
 </programme>
 <programme start="20260905183000 +0000" stop="20260905184500 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>PL Goals 26/27 -Week 1</title>
