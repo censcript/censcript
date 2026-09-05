@@ -4088,7 +4088,7 @@
     <title>Irish Racing Replay</title>
 </programme>
 <programme start="20260905111500 +0000" stop="20260905121500 +0000" channel="Racing_UK.virginmediatv">
-    <title>The Full SP: Preview</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260905121500 +0000" stop="20260905183000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
@@ -4109,7 +4109,7 @@
     <title>Irish Racing Replay</title>
 </programme>
 <programme start="20260905111500 +0000" stop="20260905121500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>The Full SP: Preview</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260905121500 +0000" stop="20260905183000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
@@ -4342,8 +4342,8 @@
 <programme start="20260905154500 +0000" stop="20260905171500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Australian Rules - Second Qualifying Final: Sydney Swans v Brisbane Lions</title>
 </programme>
-<programme start="20260905171500 +0000" stop="20260905184500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Australian Rules - Second Elimination Final: Adelaide Crows v Western Bulldogs</title>
+<programme start="20260905171500 +0000" stop="20260905180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Sign Up: Into Football - Episode 1</title>
 </programme>
 <programme start="20260904230000 +0000" stop="20260905010000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>LaLiga - Real Betis v Real Madrid</title>
@@ -4927,8 +4927,8 @@
 <programme start="20260905154500 +0000" stop="20260905171500 +0000" channel="TNT_Sports_4.virginmediatv">
     <title>Australian Rules - Second Qualifying Final: Sydney Swans v Brisbane Lions</title>
 </programme>
-<programme start="20260905171500 +0000" stop="20260905184500 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Australian Rules - Second Elimination Final: Adelaide Crows v Western Bulldogs</title>
+<programme start="20260905171500 +0000" stop="20260905180000 +0000" channel="TNT_Sports_4.virginmediatv">
+    <title>Sign Up: Into Football - Episode 1</title>
 </programme>
 <programme start="20260904230000 +0000" stop="20260905010000 +0000" channel="Premier_Sports_1.virginmediatv">
     <title>LaLiga - Real Betis v Real Madrid</title>
