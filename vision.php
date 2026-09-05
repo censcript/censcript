@@ -787,9 +787,6 @@
 <programme start="20260905010000 +0000" stop="20260905013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260905013000 +0000" stop="20260905020000 +0000" channel="TVOne.vision">
-<title>Antara</title>
-</programme>
 <programme start="20260905020000 +0000" stop="20260905023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260905090000 +0000" stop="20260905110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260905110000 +0000" stop="20260905130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

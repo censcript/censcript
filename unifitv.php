@@ -14492,7 +14492,7 @@
   </programme>
   <programme start="20260904173500 +0000" stop="20260904180500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc lang="en">In the Middle Eastern country of Lebanon, Israel's attacks on the Shia Muslim group Hezbollah have reignited religious tensions within the country. We examine efforts to heal this fractured society.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14568,7 +14568,7 @@
   </programme>
   <programme start="20260904223500 +0000" stop="20260904230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc lang="en">In the Middle Eastern country of Lebanon, Israel's attacks on the Shia Muslim group Hezbollah have reignited religious tensions within the country. We examine efforts to heal this fractured society.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14580,7 +14580,7 @@
   </programme>
   <programme start="20260904231500 +0000" stop="20260904232000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Chatroom Japan</title>
-    <desc lang="en">German urbanist Chris Dimmer focuses on the community-building potential of Japan's public bathhouses (sento) - he hopes that people living alone can rediscover the value of these bathhouses.</desc>
+    <desc lang="en">Wang Yuan Wei knows what it's like to feel lost - he now offers children from overseas a safe place to call home where they too can say 'tadaima'.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6048.</episode-num>
     <episode-num system="onscreen">S1E6049</episode-num>
@@ -14594,7 +14594,7 @@
   </programme>
   <programme start="20260904233500 +0000" stop="20260905000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japanology Plus</title>
-    <desc lang="en">Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974 - Peter discovers something new about Japan in every episode.</desc>
+    <desc lang="en">Japan is a major egg consumer, averaging 330 eggs per person per year. Strict hygiene standards allow eggs to be safely eaten raw, while discarded shells are repurposed into paper and plastics.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2031.</episode-num>
     <episode-num system="onscreen">S1E2032</episode-num>
@@ -14674,8 +14674,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260905041500 +0000" stop="20260905044500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
+    <title lang="en">Samurai Wisdom</title>
+    <desc lang="en">Samurai Kusunoki Masashige rose to fame in just five years. Fighting with cunning and resolve, he became a legend inspiring generations of warriors.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3021.</episode-num>
     <episode-num system="onscreen">S1E3022</episode-num>
@@ -14743,8 +14743,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260905081500 +0000" stop="20260905084500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
+    <title lang="en">Samurai Wisdom</title>
+    <desc lang="en">Samurai Kusunoki Masashige rose to fame in just five years. Fighting with cunning and resolve, he became a legend inspiring generations of warriors.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3021.</episode-num>
     <episode-num system="onscreen">S1E3022</episode-num>
