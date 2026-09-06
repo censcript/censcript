@@ -634,12 +634,6 @@
 <programme start="20260906113000 +0000" stop="20260906130000 +0000" channel="ANTV.vision">
 <title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
-<programme start="20260906150000 +0000" stop="20260906170000 +0000" channel="ANTV.vision">
-<title>Pendekar Ksatria</title>
-</programme>
-<programme start="20260906170000 +0000" stop="20260906181500 +0000" channel="ANTV.vision">
-<title>Pisaj</title>
-</programme>
 <programme start="20260906181500 +0000" stop="20260906203000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260907050000 +0000" stop="20260907070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907070000 +0000" stop="20260907090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907090000 +0000" stop="20260907110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
