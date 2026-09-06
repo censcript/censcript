@@ -1,29 +1,8 @@
-<programme start="20260906080000 +0000" stop="20260906090000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260906090000 +0000" stop="20260906100000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260906100000 +0000" stop="20260906110000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260906110000 +0000" stop="20260906120000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260906120000 +0000" stop="20260906123000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260906123000 +0000" stop="20260906150000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Everton vs Manchester United[Live]</title>
 </programme>
 <programme start="20260906150000 +0000" stop="20260906173000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Arsenal vs Chelsea[Live]</title>
-</programme>
-<programme start="20260906080000 +0000" stop="20260906100000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260906100000 +0000" stop="20260906120000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260906120000 +0000" stop="20260906125500 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
@@ -37,12 +16,6 @@
 <programme start="20260906160000 +0000" stop="20260906180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260906080000 +0000" stop="20260906100000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260906100000 +0000" stop="20260906120000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260906120000 +0000" stop="20260906140000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -52,26 +25,11 @@
 <programme start="20260906160000 +0000" stop="20260906180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260906080000 +0000" stop="20260906100000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Hull City vs Aston Villa</title>
-</programme>
-<programme start="20260906100000 +0000" stop="20260906120000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Manchester City vs Coventry City</title>
-</programme>
-<programme start="20260906120000 +0000" stop="20260906121500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 1</title>
-</programme>
-<programme start="20260906121500 +0000" stop="20260906123000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 2</title>
-</programme>
 <programme start="20260906123000 +0000" stop="20260906150000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Everton vs Manchester United [Live Chat][Live]</title>
 </programme>
 <programme start="20260906150000 +0000" stop="20260906173000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Arsenal vs Chelsea [Live Chat][Live]</title>
-</programme>
-<programme start="20260906080000 +0000" stop="20260906120000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260906120000 +0000" stop="20260906152000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
@@ -79,16 +37,10 @@
 <programme start="20260906152000 +0000" stop="20260906173000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Premier League Xtra Select -Arsenal vs Chelsea[Live]</title>
 </programme>
-<programme start="20260906080000 +0000" stop="20260906120000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260906120000 +0000" stop="20260906160000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260906160000 +0000" stop="20260906200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260906080000 +0000" stop="20260906120000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260906120000 +0000" stop="20260906160000 +0000" channel="Now Sports Premier League 4.nowtv">
