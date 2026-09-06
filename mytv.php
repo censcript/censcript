@@ -4,55 +4,55 @@
     <programme start="20260906000000 +0000" stop="20260906003000 +0000" channel="VTV1 HD.mytv">
         <title> Học tập và thực hành theo Bác: Giữ hồn gốm Mường Chanh </title>
     </programme>
-    <programme start="20260906003000 +0000" stop="20260906004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906003000 +0000" stop="20260906004200 +0000" channel="VTV1 HD.mytv">
         <title> Sự lựa chọn </title>
     </programme>
-    <programme start="20260906004500 +0000" stop="20260906011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906004200 +0000" stop="20260906011100 +0000" channel="VTV1 HD.mytv">
         <title> Tương lai xanh: Sinh kế vùng đệm </title>
     </programme>
-    <programme start="20260906011000 +0000" stop="20260906014000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906011100 +0000" stop="20260906013900 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Giữa miền non xanh Cao Bằng </title>
     </programme>
-    <programme start="20260906014000 +0000" stop="20260906020000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906013900 +0000" stop="20260906020000 +0000" channel="VTV1 HD.mytv">
         <title> Hiểu sâu - Sống chất: Hội nhóm và bóc phốt trên mạng </title>
     </programme>
-    <programme start="20260906020000 +0000" stop="20260906023000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906020000 +0000" stop="20260906022900 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Sắc màu Tây Thanh Hóa </title>
     </programme>
-    <programme start="20260906023000 +0000" stop="20260906024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906022900 +0000" stop="20260906024500 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Cảnh báo cong vẹo cột sống </title>
     </programme>
     <programme start="20260906024500 +0000" stop="20260906033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mặt trời lạnh - Tập 1 </title>
     </programme>
-    <programme start="20260906033000 +0000" stop="20260906041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906033000 +0000" stop="20260906041400 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mặt trời lạnh - Tập 2 </title>
     </programme>
-    <programme start="20260906041500 +0000" stop="20260906050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906041400 +0000" stop="20260906050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Chiếc lược mây </title>
     </programme>
-    <programme start="20260906050500 +0000" stop="20260906051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906050500 +0000" stop="20260906050900 +0000" channel="VTV1 HD.mytv">
         <title> Vì cộng đồng: Nước về bản cao </title>
     </programme>
-    <programme start="20260906051000 +0000" stop="20260906052500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906050900 +0000" stop="20260906052200 +0000" channel="VTV1 HD.mytv">
         <title> Hải quan Việt Nam </title>
     </programme>
-    <programme start="20260906052500 +0000" stop="20260906053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906052200 +0000" stop="20260906053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260906053000 +0000" stop="20260906070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906053000 +0000" stop="20260906065800 +0000" channel="VTV1 HD.mytv">
         <title> Báo chí toàn cảnh </title>
     </programme>
-    <programme start="20260906070000 +0000" stop="20260906073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906065800 +0000" stop="20260906072800 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu: Những người trở về </title>
     </programme>
-    <programme start="20260906073000 +0000" stop="20260906080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906072800 +0000" stop="20260906080000 +0000" channel="VTV1 HD.mytv">
         <title> Sống mới </title>
     </programme>
-    <programme start="20260906080000 +0000" stop="20260906084000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906080000 +0000" stop="20260906083800 +0000" channel="VTV1 HD.mytv">
         <title> Đi cùng chúng tôi </title>
     </programme>
-    <programme start="20260906084000 +0000" stop="20260906090000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260906083800 +0000" stop="20260906090000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
     <programme start="20260906090000 +0000" stop="20260906090500 +0000" channel="VTV1 HD.mytv">

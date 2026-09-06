@@ -911,7 +911,7 @@
     <title>Border Patrol - Empty Body Packer</title>
 </programme>
 <programme start="20260906120000 +0000" stop="20260906130000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Caught on Dashcam - Episode 4</title>
 </programme>
 <programme start="20260906130000 +0000" stop="20260906140000 +0000" channel="Sky_Mix_HD.virginmediatv">
     <title>Police 24/7 - Bad Day at the Park</title>
@@ -4384,8 +4384,11 @@
 <programme start="20260906023000 +0000" stop="20260906030000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>FIM Superbike World Championship Motorcycle Racing - French Round: Superbike Race 1</title>
 </programme>
-<programme start="20260906030000 +0000" stop="20260906063000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260906030000 +0000" stop="20260906050000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Women&#039;s Australian Rules - Hawthorn Hawks v Adelaide Crows</title>
+</programme>
+<programme start="20260906050000 +0000" stop="20260906060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+    <title>British Superbikes Motorcycle Racing - Round 8: Cadwell Park</title>
 </programme>
 <programme start="20260906120000 +0000" stop="20260906123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Discovery Golf - Episode 29</title>
@@ -5032,8 +5035,11 @@
 <programme start="20260906023000 +0000" stop="20260906030000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>FIM Superbike World Championship Motorcycle Racing - French Round: Superbike Race 1</title>
 </programme>
-<programme start="20260906030000 +0000" stop="20260906063000 +0000" channel="TNT_Sports_3.virginmediatv">
+<programme start="20260906030000 +0000" stop="20260906050000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Live: Women&#039;s Australian Rules - Hawthorn Hawks v Adelaide Crows</title>
+</programme>
+<programme start="20260906050000 +0000" stop="20260906060000 +0000" channel="TNT_Sports_3.virginmediatv">
+    <title>British Superbikes Motorcycle Racing - Round 8: Cadwell Park</title>
 </programme>
 <programme start="20260906120000 +0000" stop="20260906123000 +0000" channel="TNT_Sports_3.virginmediatv">
     <title>Discovery Golf - Episode 29</title>

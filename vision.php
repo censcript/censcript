@@ -622,9 +622,6 @@
 <programme start="20260907114500 +0000" stop="20260907121500 +0000" channel="Trans 7.vision">
 <title>Trans 7</title>
 </programme>
-<programme start="20260905230000 +0000" stop="20260906023000 +0000" channel="ANTV.vision">
-<title>Aankhen</title>
-</programme>
 <programme start="20260906023000 +0000" stop="20260906060000 +0000" channel="ANTV.vision">
 <title>Shershaah</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260906210000 +0000" stop="20260906230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260906230000 +0000" stop="20260907010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
