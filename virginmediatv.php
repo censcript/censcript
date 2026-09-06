@@ -76,13 +76,13 @@
 <programme start="20260906002100 +0000" stop="20260906064000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Herrhausen - The Banker and the Bomb - Episode 1</title>
 </programme>
-<programme start="20260906113900 +0000" stop="20260906121100 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Home and Away - Episode 200</title>
+<programme start="20260906114000 +0000" stop="20260906121000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Home and Away - Episode 138</title>
 </programme>
-<programme start="20260906121100 +0000" stop="20260906135100 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260906121000 +0000" stop="20260906135000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Famous Five - The Eye of the Sunrise</title>
 </programme>
-<programme start="20260906135100 +0000" stop="20260906144500 +0000" channel="RTE_Two_HD.virginmediatv">
+<programme start="20260906135000 +0000" stop="20260906144500 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>Mysteries of the Pyramids with Dara O&#039;Briain - Episode 1</title>
 </programme>
 <programme start="20260906144500 +0000" stop="20260906173000 +0000" channel="RTE_Two_HD.virginmediatv">

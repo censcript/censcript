@@ -634,9 +634,6 @@
 <programme start="20260906113000 +0000" stop="20260906130000 +0000" channel="ANTV.vision">
 <title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
-<programme start="20260906130000 +0000" stop="20260906150000 +0000" channel="ANTV.vision">
-<title>Bidadari Pulau Hantu</title>
-</programme>
 <programme start="20260906150000 +0000" stop="20260906170000 +0000" channel="ANTV.vision">
 <title>Pendekar Ksatria</title>
 </programme>
@@ -813,9 +810,6 @@
 </programme>
 <programme start="20260906110000 +0000" stop="20260906130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20260906130000 +0000" stop="20260906140000 +0000" channel="TVOne.vision">
-<title>Tabligh Akbar Mekkah</title>
 </programme>
 <programme start="20260906140000 +0000" stop="20260906150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260907010000 +0000" stop="20260907030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907030000 +0000" stop="20260907050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907050000 +0000" stop="20260907070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

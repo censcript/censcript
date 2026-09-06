@@ -673,10 +673,10 @@
     <programme start="20260905160000 +0000" stop="20260906112000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 6th September, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
     </programme>
-    <programme start="20260906112000 +0000" stop="20260906133000 +0000" channel="spl01.mewatch">
+    <programme start="20260906112000 +0000" stop="20260906134500 +0000" channel="spl01.mewatch">
         <title>Singapore Premier League 2026/2027: Community Shield - Lion City Sailors FC vs Tampines Rovers FC </title>
     </programme>
-    <programme start="20260906133000 +0000" stop="20260906160000 +0000" channel="spl01.mewatch">
+    <programme start="20260906134500 +0000" stop="20260906160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 11th September, Friday 7.20pm. Singapore Premier League 2026/2027</title>
     </programme>
     <programme start="20260906160000 +0000" stop="20260907160000 +0000" channel="spl01.mewatch">
