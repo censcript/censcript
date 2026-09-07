@@ -637,12 +637,6 @@
 <programme start="20260907130000 +0000" stop="20260907150000 +0000" channel="ANTV.vision">
 <title>Darah Perawan Bulan Madu</title>
 </programme>
-<programme start="20260907150000 +0000" stop="20260907170000 +0000" channel="ANTV.vision">
-<title>Jurus Naga Dewa</title>
-</programme>
-<programme start="20260907170000 +0000" stop="20260907190000 +0000" channel="ANTV.vision">
-<title>Monkey King: The Volcano</title>
-</programme>
 <programme start="20260907190000 +0000" stop="20260907203000 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260907210000 +0000" stop="20260907230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907230000 +0000" stop="20260908010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260908010000 +0000" stop="20260908030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

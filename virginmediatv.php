@@ -2402,7 +2402,7 @@
     <title>Newsday</title>
 </programme>
 <programme start="20260907013000 +0000" stop="20260907014500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today</title>
+    <title>Tech Now</title>
 </programme>
 <programme start="20260907014500 +0000" stop="20260907020000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC Sport</title>
@@ -2411,7 +2411,7 @@
     <title>Newsday</title>
 </programme>
 <programme start="20260907023000 +0000" stop="20260907024500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today</title>
+    <title>Tech Now</title>
 </programme>
 <programme start="20260907024500 +0000" stop="20260907030000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC Sport</title>
@@ -2420,7 +2420,7 @@
     <title>Newsday</title>
 </programme>
 <programme start="20260907033000 +0000" stop="20260907034500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today</title>
+    <title>Tech Now</title>
 </programme>
 <programme start="20260907034500 +0000" stop="20260907040000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC Sport</title>
@@ -4352,7 +4352,7 @@
     <title>Racing Replay</title>
 </programme>
 <programme start="20260907121500 +0000" stop="20260907124500 +0000" channel="Racing_UK.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Bloodstock Files</title>
 </programme>
 <programme start="20260907124500 +0000" stop="20260907131500 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
@@ -4403,7 +4403,7 @@
     <title>Racing Replay</title>
 </programme>
 <programme start="20260907121500 +0000" stop="20260907124500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Bloodstock Files</title>
 </programme>
 <programme start="20260907124500 +0000" stop="20260907131500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
@@ -4523,10 +4523,10 @@
     <title>Premier League Review - Episode 3</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
+    <title>Live: English Open Snooker - Round 1: Neil Robertson v Luo Zetao</title>
 </programme>
 <programme start="20260907140000 +0000" stop="20260907160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
+    <title>Live: English Open Snooker - Round 1: Kyren Wilson v Mateusz Baranowski</title>
 </programme>
 <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>The Football Archives - UEFA Champions League 2011/12</title>
@@ -4649,21 +4649,12 @@
     <title>Vuelta a España - Stage 15</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
+    <title>Live: English Open Snooker - Round 1: Neil Robertson v Luo Zetao</title>
 </programme>
-<programme start="20260907140000 +0000" stop="20260907160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
+<programme start="20260907140000 +0000" stop="20260907173000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Live: English Open Snooker - Round 1: Kyren Wilson v Mateusz Baranowski</title>
 </programme>
-<programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Formula E Flashback - Valencia ePrix 2021</title>
-</programme>
-<programme start="20260907163000 +0000" stop="20260907164500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>The Greatest: Jonathan Rea - Behind The 65</title>
-</programme>
-<programme start="20260907164500 +0000" stop="20260907170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>The Greatest: Jonathan Rea - The Last Chapter</title>
-</programme>
-<programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260907173000 +0000" stop="20260907180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>FIM Superbike World Championship Motorcycle Racing - French Round</title>
 </programme>
 <programme start="20260907000000 +0000" stop="20260907003000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
@@ -7504,17 +7495,47 @@
 <programme start="20260907035300 +0000" stop="20260907050000 +0000" channel="DCTV.virginmediatv">
     <title>Republican Congress - Episode 5</title>
 </programme>
-<programme start="20260907050000 +0000" stop="20260907090000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260907050000 +0000" stop="20260907055900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260907055900 +0000" stop="20260907062400 +0000" channel="DCTV.virginmediatv">
+    <title>Read Write Now - A Spoonful of Sugar</title>
+</programme>
+<programme start="20260907120000 +0000" stop="20260907125900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260907125900 +0000" stop="20260907130000 +0000" channel="DCTV.virginmediatv">
+    <title>A Capital in Conflict: Dublin City and the 1913 Lockout - Episode 4</title>
+</programme>
+<programme start="20260907130000 +0000" stop="20260907131400 +0000" channel="DCTV.virginmediatv">
     <title>To Be Announced</title>
 </programme>
-<programme start="20260907090000 +0000" stop="20260907130000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260907131400 +0000" stop="20260907134300 +0000" channel="DCTV.virginmediatv">
+    <title>The Parlour</title>
 </programme>
-<programme start="20260907130000 +0000" stop="20260907170000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260907134300 +0000" stop="20260907140100 +0000" channel="DCTV.virginmediatv">
+    <title>Beyond the Classroom - Communities</title>
 </programme>
-<programme start="20260907170000 +0000" stop="20260907210000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260907140100 +0000" stop="20260907150400 +0000" channel="DCTV.virginmediatv">
+    <title>Set in Stone</title>
+</programme>
+<programme start="20260907150400 +0000" stop="20260907153400 +0000" channel="DCTV.virginmediatv">
+    <title>Romancing Ireland - The Italian</title>
+</programme>
+<programme start="20260907153400 +0000" stop="20260907155000 +0000" channel="DCTV.virginmediatv">
+    <title>Republican Congress - Episode 6</title>
+</programme>
+<programme start="20260907155000 +0000" stop="20260907161400 +0000" channel="DCTV.virginmediatv">
+    <title>Get Inside - Episode 4</title>
+</programme>
+<programme start="20260907161400 +0000" stop="20260907170000 +0000" channel="DCTV.virginmediatv">
+    <title>Engage TV - Episode 1</title>
+</programme>
+<programme start="20260907170000 +0000" stop="20260907175900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260907175900 +0000" stop="20260907185900 +0000" channel="DCTV.virginmediatv">
+    <title>DCTV - Supporting Irish Music</title>
 </programme>
 <programme start="20260906210000 +0000" stop="20260907010000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
