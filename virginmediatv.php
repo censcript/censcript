@@ -4673,7 +4673,7 @@
     <title>LaLiga - Valencia CF v FC Barcelona</title>
 </programme>
 <programme start="20260907103000 +0000" stop="20260907123000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>LaLiga - Real Sociedad v RC Celta</title>
+    <title>Scottish Premiership Football - St. Johnstone v Hibernian</title>
 </programme>
 <programme start="20260907123000 +0000" stop="20260907143000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>LaLiga - Málaga CF v Levante UD</title>
