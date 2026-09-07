@@ -4477,7 +4477,7 @@
 <programme start="20260907041500 +0000" stop="20260907050000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Miami 2026</title>
 </programme>
-<programme start="20260907050000 +0000" stop="20260907062500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260907050000 +0000" stop="20260907062000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Italian Grand Prix: Grand Prix Sunday</title>
 </programme>
 <programme start="20260907111500 +0000" stop="20260907123000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
@@ -5182,7 +5182,7 @@
 <programme start="20260907041500 +0000" stop="20260907050000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best of Miami 2026</title>
 </programme>
-<programme start="20260907050000 +0000" stop="20260907062500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260907050000 +0000" stop="20260907062000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Italian Grand Prix: Grand Prix Sunday</title>
 </programme>
 <programme start="20260907111500 +0000" stop="20260907123000 +0000" channel="Sky_Sports_F1.virginmediatv">

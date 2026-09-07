@@ -964,33 +964,6 @@
     <programme start="20260907000000 +0000" stop="20260908235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260907000000 +0000" stop="20260907012014 +0000" channel="989622.shahid">
-        <title>Wesh Egram</title>
-    </programme>
-    <programme start="20260907012014 +0000" stop="20260907022323 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 25</title>
-    </programme>
-    <programme start="20260907022323 +0000" stop="20260907041318 +0000" channel="989622.shahid">
-        <title>Shagee&#039; El Cima</title>
-    </programme>
-    <programme start="20260907041318 +0000" stop="20260907055752 +0000" channel="989622.shahid">
-        <title>Adrenalin</title>
-    </programme>
-    <programme start="20260907055752 +0000" stop="20260907075749 +0000" channel="989622.shahid">
-        <title>Wesh Egram</title>
-    </programme>
-    <programme start="20260907075749 +0000" stop="20260907090053 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 25</title>
-    </programme>
-    <programme start="20260907090053 +0000" stop="20260907105041 +0000" channel="989622.shahid">
-        <title>Shagee&#039; El Cima</title>
-    </programme>
-    <programme start="20260907105041 +0000" stop="20260907123513 +0000" channel="989622.shahid">
-        <title>Adrenalin</title>
-    </programme>
-    <programme start="20260907123513 +0000" stop="20260908235959 +0000" channel="989622.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260907000000 +0000" stop="20260907003000 +0000" channel="387294.shahid">
         <title>Dar Ghareeb Season 1 Episode 26</title>
     </programme>
@@ -1221,6 +1194,33 @@
     </programme>
     <programme start="20260908234500 +0000" stop="20260908235959 +0000" channel="387294.shahid">
         <title>Dar Ghareeb Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260907000000 +0000" stop="20260907012014 +0000" channel="989622.shahid">
+        <title>Wesh Egram</title>
+    </programme>
+    <programme start="20260907012014 +0000" stop="20260907022323 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 25</title>
+    </programme>
+    <programme start="20260907022323 +0000" stop="20260907041318 +0000" channel="989622.shahid">
+        <title>Shagee&#039; El Cima</title>
+    </programme>
+    <programme start="20260907041318 +0000" stop="20260907055752 +0000" channel="989622.shahid">
+        <title>Adrenalin</title>
+    </programme>
+    <programme start="20260907055752 +0000" stop="20260907075749 +0000" channel="989622.shahid">
+        <title>Wesh Egram</title>
+    </programme>
+    <programme start="20260907075749 +0000" stop="20260907090053 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 25</title>
+    </programme>
+    <programme start="20260907090053 +0000" stop="20260907105041 +0000" channel="989622.shahid">
+        <title>Shagee&#039; El Cima</title>
+    </programme>
+    <programme start="20260907105041 +0000" stop="20260907123513 +0000" channel="989622.shahid">
+        <title>Adrenalin</title>
+    </programme>
+    <programme start="20260907123513 +0000" stop="20260908235959 +0000" channel="989622.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260907000000 +0000" stop="20260908235959 +0000" channel="946946.shahid">
         <title>TV guide is not available</title>
@@ -5833,57 +5833,6 @@
     <programme start="20260907000000 +0000" stop="20260908235959 +0000" channel="951783.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260907000000 +0000" stop="20260907002318 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 14</title>
-    </programme>
-    <programme start="20260907002318 +0000" stop="20260907011000 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 15</title>
-    </programme>
-    <programme start="20260907011000 +0000" stop="20260907015647 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 16</title>
-    </programme>
-    <programme start="20260907015647 +0000" stop="20260907024330 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 17</title>
-    </programme>
-    <programme start="20260907024330 +0000" stop="20260907033602 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 18</title>
-    </programme>
-    <programme start="20260907033602 +0000" stop="20260907042251 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 19</title>
-    </programme>
-    <programme start="20260907042251 +0000" stop="20260907050927 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 20</title>
-    </programme>
-    <programme start="20260907050927 +0000" stop="20260907055618 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 21</title>
-    </programme>
-    <programme start="20260907055618 +0000" stop="20260907064303 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 22</title>
-    </programme>
-    <programme start="20260907064303 +0000" stop="20260907072947 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 23</title>
-    </programme>
-    <programme start="20260907072947 +0000" stop="20260907081634 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 24</title>
-    </programme>
-    <programme start="20260907081634 +0000" stop="20260907090327 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 25</title>
-    </programme>
-    <programme start="20260907090327 +0000" stop="20260907095016 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 26</title>
-    </programme>
-    <programme start="20260907095016 +0000" stop="20260907103701 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 27</title>
-    </programme>
-    <programme start="20260907103701 +0000" stop="20260907112350 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 28</title>
-    </programme>
-    <programme start="20260907112350 +0000" stop="20260907121037 +0000" channel="975435.shahid">
-        <title>Bab Al Hara Season 8 Episode 29</title>
-    </programme>
-    <programme start="20260907121037 +0000" stop="20260908235959 +0000" channel="975435.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260907000000 +0000" stop="20260907005000 +0000" channel="49923122575716.shahid">
         <title>Bain El Sotour Season 1 Episode 6</title>
     </programme>
@@ -6062,6 +6011,57 @@
         <title>Afrah Ebles Season 2 Episode 22</title>
     </programme>
     <programme start="20260908053700 +0000" stop="20260908235959 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260907000000 +0000" stop="20260907002318 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 14</title>
+    </programme>
+    <programme start="20260907002318 +0000" stop="20260907011000 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 15</title>
+    </programme>
+    <programme start="20260907011000 +0000" stop="20260907015647 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 16</title>
+    </programme>
+    <programme start="20260907015647 +0000" stop="20260907024330 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 17</title>
+    </programme>
+    <programme start="20260907024330 +0000" stop="20260907033602 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 18</title>
+    </programme>
+    <programme start="20260907033602 +0000" stop="20260907042251 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 19</title>
+    </programme>
+    <programme start="20260907042251 +0000" stop="20260907050927 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 20</title>
+    </programme>
+    <programme start="20260907050927 +0000" stop="20260907055618 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 21</title>
+    </programme>
+    <programme start="20260907055618 +0000" stop="20260907064303 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 22</title>
+    </programme>
+    <programme start="20260907064303 +0000" stop="20260907072947 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 23</title>
+    </programme>
+    <programme start="20260907072947 +0000" stop="20260907081634 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 24</title>
+    </programme>
+    <programme start="20260907081634 +0000" stop="20260907090327 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 25</title>
+    </programme>
+    <programme start="20260907090327 +0000" stop="20260907095016 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 26</title>
+    </programme>
+    <programme start="20260907095016 +0000" stop="20260907103701 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 27</title>
+    </programme>
+    <programme start="20260907103701 +0000" stop="20260907112350 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 28</title>
+    </programme>
+    <programme start="20260907112350 +0000" stop="20260907121037 +0000" channel="975435.shahid">
+        <title>Bab Al Hara Season 8 Episode 29</title>
+    </programme>
+    <programme start="20260907121037 +0000" stop="20260908235959 +0000" channel="975435.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260907000000 +0000" stop="20260908235959 +0000" channel="49923088717401.shahid">

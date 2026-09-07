@@ -8449,23 +8449,23 @@
 <programme start="20260906200000 +0000" stop="20260907000000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 US Open Tennis C&#039;ships (L)</title>
 </programme>
-<programme start="20260907000000 +0000" stop="20260907043000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260907000000 +0000" stop="20260907030000 +0000" channel="SPOTV 2.mncvision">
     <title>Walker Cup 2026</title>
 </programme>
-<programme start="20260907043000 +0000" stop="20260907073000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260907030000 +0000" stop="20260907052000 +0000" channel="SPOTV 2.mncvision">
+    <title>Walker Cup 2026</title>
+</programme>
+<programme start="20260907052000 +0000" stop="20260907080000 +0000" channel="SPOTV 2.mncvision">
     <title>Longines Global Champions Tour</title>
 </programme>
-<programme start="20260907073000 +0000" stop="20260907103000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260907080000 +0000" stop="20260907110000 +0000" channel="SPOTV 2.mncvision">
     <title>Walker Cup 2026</title>
 </programme>
-<programme start="20260907103000 +0000" stop="20260907130000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260907110000 +0000" stop="20260907140000 +0000" channel="SPOTV 2.mncvision">
     <title>Walker Cup 2026</title>
 </programme>
-<programme start="20260907130000 +0000" stop="20260907133000 +0000" channel="SPOTV 2.mncvision">
-    <title>Super Series GP Sailing Show</title>
-</programme>
-<programme start="20260907133000 +0000" stop="20260907150000 +0000" channel="SPOTV 2.mncvision">
-    <title>Spain Sail Grand Prix</title>
+<programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="SPOTV 2.mncvision">
+    <title>Rolex Series Of Show Jumping</title>
 </programme>
 <programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 US Open Tennis C&#039;ships (L)</title>
@@ -8473,23 +8473,23 @@
 <programme start="20260906200000 +0000" stop="20260907000000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 US Open Tennis C&#039;ships (L)</title>
 </programme>
-<programme start="20260907000000 +0000" stop="20260907043000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260907000000 +0000" stop="20260907030000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Walker Cup 2026</title>
 </programme>
-<programme start="20260907043000 +0000" stop="20260907073000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260907030000 +0000" stop="20260907052000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Walker Cup 2026</title>
+</programme>
+<programme start="20260907052000 +0000" stop="20260907080000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Longines Global Champions Tour</title>
 </programme>
-<programme start="20260907073000 +0000" stop="20260907103000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260907080000 +0000" stop="20260907110000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Walker Cup 2026</title>
 </programme>
-<programme start="20260907103000 +0000" stop="20260907130000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260907110000 +0000" stop="20260907140000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Walker Cup 2026</title>
 </programme>
-<programme start="20260907130000 +0000" stop="20260907133000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Super Series GP Sailing Show</title>
-</programme>
-<programme start="20260907133000 +0000" stop="20260907150000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Spain Sail Grand Prix</title>
+<programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Rolex Series Of Show Jumping</title>
 </programme>
 <programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 US Open Tennis C&#039;ships (L)</title>
@@ -9178,77 +9178,83 @@
 <programme start="20260907160500 +0000" stop="20260907163500 +0000" channel="tvN Movies HD.mncvision">
     <title>New Trial</title>
 </programme>
-<programme start="20260906170000 +0000" stop="20260906183000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260906170000 +0000" stop="20260906173000 +0000" channel="tvOne.mncvision">
+    <title>Sport Style</title>
+</programme>
+<programme start="20260906173000 +0000" stop="20260906183000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
 </programme>
 <programme start="20260906183000 +0000" stop="20260906200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260906200000 +0000" stop="20260906203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260906203000 +0000" stop="20260906210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20260906210000 +0000" stop="20260906213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2</title>
 </programme>
 <programme start="20260906213000 +0000" stop="20260906230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi</title>
 </programme>
 <programme start="20260906230000 +0000" stop="20260906233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2</title>
 </programme>
 <programme start="20260906233000 +0000" stop="20260907013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Pagi</title>
 </programme>
 <programme start="20260907013000 +0000" stop="20260907020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Hidup Sehat</title>
 </programme>
 <programme start="20260907020000 +0000" stop="20260907023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260907023000 +0000" stop="20260907033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260907033000 +0000" stop="20260907040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan</title>
 </programme>
 <programme start="20260907040000 +0000" stop="20260907053000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Siang</title>
 </programme>
 <programme start="20260907053000 +0000" stop="20260907063000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260907063000 +0000" stop="20260907080000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Siang</title>
 </programme>
 <programme start="20260907080000 +0000" stop="20260907083000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Merah Putih</title>
 </programme>
 <programme start="20260907083000 +0000" stop="20260907090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260907090000 +0000" stop="20260907110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang</title>
 </programme>
-<programme start="20260907110000 +0000" stop="20260907130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260907110000 +0000" stop="20260907123000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20260907123000 +0000" stop="20260907130000 +0000" channel="tvOne.mncvision">
+    <title>Indonesia Terkini</title>
 </programme>
 <programme start="20260907130000 +0000" stop="20260907140000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Fakta</title>
 </programme>
 <programme start="20260907150000 +0000" stop="20260907160000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Malam</title>
 </programme>
 <programme start="20260907163000 +0000" stop="20260906170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260906170000 +0000" stop="20260906180000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
@@ -9472,11 +9478,11 @@
 <programme start="20260907140000 +0000" stop="20260907143000 +0000" channel="Vision Prime.mncvision">
     <title>MenemukanMu</title>
 </programme>
-<programme start="20260907143000 +0000" stop="20260907163000 +0000" channel="Vision Prime.mncvision">
-    <title>Siap-Siap ITA 2026 (L)</title>
+<programme start="20260907143000 +0000" stop="20260907150000 +0000" channel="Vision Prime.mncvision">
+    <title>Once Upon A Time In Chinatown</title>
 </programme>
-<programme start="20260907163000 +0000" stop="20260906170000 +0000" channel="Vision Prime.mncvision">
-    <title>Me Vs Mpok</title>
+<programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="Vision Prime.mncvision">
+    <title>Chrisye</title>
 </programme>
 <programme start="20260906170000 +0000" stop="20260906180000 +0000" channel="Vision Prime HD.mncvision">
     <title>Tiger And Crane</title>
@@ -9529,9 +9535,9 @@
 <programme start="20260907140000 +0000" stop="20260907143000 +0000" channel="Vision Prime HD.mncvision">
     <title>MenemukanMu</title>
 </programme>
-<programme start="20260907143000 +0000" stop="20260907163000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Siap-Siap ITA 2026 (L)</title>
+<programme start="20260907143000 +0000" stop="20260907150000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Once Upon A Time In Chinatown</title>
 </programme>
-<programme start="20260907163000 +0000" stop="20260906170000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Me Vs Mpok</title>
+<programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="Vision Prime HD.mncvision">
+    <title>Chrisye</title>
 </programme>

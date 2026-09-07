@@ -15351,30 +15351,25 @@
     <desc lang="en">The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20260907000000 +0000" stop="20260907043000 +0000" channel="spotv2.unifitv">
+  <programme start="20260907000000 +0000" stop="20260907052000 +0000" channel="spotv2.unifitv">
     <title lang="en">Walker Cup 2026 - Day 2 Morning Foursomes</title>
     <desc lang="en">The Walker Cup brings together the top amateur golfers from the United States and Great Britain &amp; Ireland in the prestigious biennial team match.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260907043000 +0000" stop="20260907073000 +0000" channel="spotv2.unifitv">
+  <programme start="20260907052000 +0000" stop="20260907080000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Longines Global Champions Tour, Valkenswaard - Grand Prix of Valkenswaard</title>
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20260907073000 +0000" stop="20260907130000 +0000" channel="spotv2.unifitv">
+  <programme start="20260907080000 +0000" stop="20260907140000 +0000" channel="spotv2.unifitv">
     <title lang="en">Walker Cup 2026 - Day 2 Afternoon Singles</title>
     <desc lang="en">The Walker Cup brings together the top amateur golfers from the United States and Great Britain &amp; Ireland in the prestigious biennial team match.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260907130000 +0000" stop="20260907133000 +0000" channel="spotv2.unifitv">
-    <title lang="en">52 SUPER SERIES GP Sailing show - Ep 3 Marina Rubicon Lanzarote</title>
-    <desc lang="en">The 2026 52 SUPER SERIES delivers elite grand prix sailing. 14 international teams battle on identical, high-speed TP52 yachts across 5 European venues, where world-class victories are decided by inches</desc>
-    <category lang="en">Sailing</category>
-  </programme>
-  <programme start="20260907133000 +0000" stop="20260907150000 +0000" channel="spotv2.unifitv">
-    <title lang="en">SailGP S6: Spain Sail Grand Prix - Day 2 Race</title>
-    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
-    <category lang="en">Sailing</category>
+  <programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 Rolex Series of Show Jumping, Dublin - Grand Prix Highlights</title>
+    <desc lang="en">Relive the Rolex Grand Prix as the world's top horse-and-rider combinations take on one of show jumping's toughest tests in a showcase of precision, skill, and excellence.</desc>
+    <category lang="en">Extreme Sports</category>
   </programme>
   <programme start="20260907150000 +0000" stop="20260908000000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 2026 US Open Tennis Championships Day 9 - Round of 16 (Louis Armstrong)</title>
