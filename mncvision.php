@@ -167,7 +167,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260907063000 +0000" stop="20260907070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+    <title>Talk To Al Jazeera: K. Abdalla</title>
 </programme>
 <programme start="20260907070000 +0000" stop="20260907080000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -203,7 +203,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260907143000 +0000" stop="20260907150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+    <title>Talk To Al Jazeera: K. Abdalla</title>
 </programme>
 <programme start="20260907150000 +0000" stop="20260907160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -2915,7 +2915,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260906181500 +0000" stop="20260906183000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: Data Center Dilemma</title>
 </programme>
 <programme start="20260906183000 +0000" stop="20260906190000 +0000" channel="DW English.mncvision">
     <title>REV: The Chinese Revival</title>
@@ -2923,14 +2923,17 @@
 <programme start="20260906190000 +0000" stop="20260906191500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20260906191500 +0000" stop="20260906200000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
+<programme start="20260906191500 +0000" stop="20260906193000 +0000" channel="DW English.mncvision">
+    <title>Planet A: Invasive Tree</title>
 </programme>
-<programme start="20260906200000 +0000" stop="20260906201500 +0000" channel="DW English.mncvision">
-    <title>DW News</title>
-</programme>
-<programme start="20260906201500 +0000" stop="20260906203000 +0000" channel="DW English.mncvision">
+<programme start="20260906193000 +0000" stop="20260906194500 +0000" channel="DW English.mncvision">
     <title>Sports Life: No Distance Too...</title>
+</programme>
+<programme start="20260906194500 +0000" stop="20260906200000 +0000" channel="DW English.mncvision">
+    <title>Business: Int&#039;l Students</title>
+</programme>
+<programme start="20260906200000 +0000" stop="20260906203000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
 </programme>
 <programme start="20260906203000 +0000" stop="20260906210000 +0000" channel="DW English.mncvision">
     <title>DW News Africa</title>
@@ -2963,7 +2966,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260906231500 +0000" stop="20260906233000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: Data Center Dilemma</title>
 </programme>
 <programme start="20260906233000 +0000" stop="20260907000000 +0000" channel="DW English.mncvision">
     <title>REV: The Chinese Revival</title>
@@ -3035,7 +3038,7 @@
     <title>Sports Life: No Distance Too...</title>
 </programme>
 <programme start="20260907061500 +0000" stop="20260907063000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: Data Center Dilemma</title>
 </programme>
 <programme start="20260907063000 +0000" stop="20260907070000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: The Environment</title>
@@ -3046,11 +3049,8 @@
 <programme start="20260907070200 +0000" stop="20260907071500 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
 </programme>
-<programme start="20260907071500 +0000" stop="20260907080000 +0000" channel="DW English.mncvision">
+<programme start="20260907071500 +0000" stop="20260907074500 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
-</programme>
-<programme start="20260907080000 +0000" stop="20260907083000 +0000" channel="DW English.mncvision">
-    <title>DW News</title>
 </programme>
 <programme start="20260906173000 +0000" stop="20260906190000 +0000" channel="Entertainment.mncvision">
     <title>Family 100</title>
@@ -4708,98 +4708,86 @@
 <programme start="20260906180000 +0000" stop="20260906200000 +0000" channel="Indosiar.mncvision">
     <title>Blade Of Fury</title>
 </programme>
-<programme start="20260906200000 +0000" stop="20260906210000 +0000" channel="Indosiar.mncvision">
+<programme start="20260906200000 +0000" stop="20260906213000 +0000" channel="Indosiar.mncvision">
     <title>Iron Protector</title>
 </programme>
-<programme start="20260906210000 +0000" stop="20260906213000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
 <programme start="20260906213000 +0000" stop="20260906230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20260906230000 +0000" stop="20260907000000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260906230000 +0000" stop="20260907010000 +0000" channel="Indosiar.mncvision">
+    <title>Aku Lumpuh Suamiku Main Gila</title>
 </programme>
-<programme start="20260907000000 +0000" stop="20260907013000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20260907013000 +0000" stop="20260907030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260907010000 +0000" stop="20260907030000 +0000" channel="Indosiar.mncvision">
+    <title>Duri Yang Menusuk Pernikahanku</title>
 </programme>
 <programme start="20260907030000 +0000" stop="20260907040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20260907040000 +0000" stop="20260907043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260907043000 +0000" stop="20260907050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20260907050000 +0000" stop="20260907063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Rahasia Dibalik Air Mata Ibuku</title>
 </programme>
 <programme start="20260907063000 +0000" stop="20260907080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Aku Dianggap Musuh Suamiku</title>
 </programme>
 <programme start="20260907080000 +0000" stop="20260907100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Hutang Nyawa Berujung Cinta</title>
 </programme>
 <programme start="20260907100000 +0000" stop="20260907120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S8</title>
 </programme>
 <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Hunt The Wicked</title>
 </programme>
 <programme start="20260906180000 +0000" stop="20260906200000 +0000" channel="Indosiar HD.mncvision">
     <title>Blade Of Fury</title>
 </programme>
-<programme start="20260906200000 +0000" stop="20260906210000 +0000" channel="Indosiar HD.mncvision">
+<programme start="20260906200000 +0000" stop="20260906213000 +0000" channel="Indosiar HD.mncvision">
     <title>Iron Protector</title>
 </programme>
-<programme start="20260906210000 +0000" stop="20260906213000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
 <programme start="20260906213000 +0000" stop="20260906230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20260906230000 +0000" stop="20260907000000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260906230000 +0000" stop="20260907010000 +0000" channel="Indosiar HD.mncvision">
+    <title>Aku Lumpuh Suamiku Main Gila</title>
 </programme>
-<programme start="20260907000000 +0000" stop="20260907013000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20260907013000 +0000" stop="20260907030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260907010000 +0000" stop="20260907030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Duri Yang Menusuk Pernikahanku</title>
 </programme>
 <programme start="20260907030000 +0000" stop="20260907040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20260907040000 +0000" stop="20260907043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260907043000 +0000" stop="20260907050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20260907050000 +0000" stop="20260907063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Rahasia Dibalik Air Mata Ibuku</title>
 </programme>
 <programme start="20260907063000 +0000" stop="20260907080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Aku Dianggap Musuh Suamiku</title>
 </programme>
 <programme start="20260907080000 +0000" stop="20260907100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Hutang Nyawa Berujung Cinta</title>
 </programme>
 <programme start="20260907100000 +0000" stop="20260907120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S8</title>
 </programme>
 <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Hunt The Wicked</title>
 </programme>
 <programme start="20260906174500 +0000" stop="20260906183000 +0000" channel="iNews.mncvision">
     <title>iNews Sore</title>
@@ -4976,7 +4964,7 @@
     <title>iNews Sport (L)</title>
 </programme>
 <programme start="20260907020000 +0000" stop="20260907023000 +0000" channel="JAKTV.mncvision">
-    <title>Chess Player</title>
+    <title>Commercial Corner Prova</title>
 </programme>
 <programme start="20260907023000 +0000" stop="20260907030000 +0000" channel="JAKTV.mncvision">
     <title>Penghormatan Burung Kepada...</title>
@@ -5030,7 +5018,7 @@
     <title>The Cloth Story</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907123000 +0000" channel="JAKTV.mncvision">
-    <title>Ninjao</title>
+    <title>Commercial Corner Avesta</title>
 </programme>
 <programme start="20260907123000 +0000" stop="20260907130000 +0000" channel="JAKTV.mncvision">
     <title>Dunia Kita</title>
@@ -6406,8 +6394,11 @@
 <programme start="20260907031500 +0000" stop="20260907041500 +0000" channel="Muslim TV.mncvision">
     <title>99 Nama Cinta</title>
 </programme>
-<programme start="20260907041500 +0000" stop="20260907053000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260907041500 +0000" stop="20260907051500 +0000" channel="Muslim TV.mncvision">
     <title>Titik Balik</title>
+</programme>
+<programme start="20260907051500 +0000" stop="20260907053000 +0000" channel="Muslim TV.mncvision">
+    <title>Ambil Jeda</title>
 </programme>
 <programme start="20260907053000 +0000" stop="20260907070000 +0000" channel="Muslim TV.mncvision">
     <title>Mendadak Ustad</title>
@@ -7708,59 +7699,56 @@
 <programme start="20260906184500 +0000" stop="20260906201500 +0000" channel="SCTV.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20260906201500 +0000" stop="20260906210500 +0000" channel="SCTV.mncvision">
+<programme start="20260906201500 +0000" stop="20260906210400 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20260906210500 +0000" stop="20260906213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260906210400 +0000" stop="20260906213000 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20260906213000 +0000" stop="20260906220000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260906213000 +0000" stop="20260906215400 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20260906220000 +0000" stop="20260906230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260906215400 +0000" stop="20260906230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260906230000 +0000" stop="20260907001100 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260906230000 +0000" stop="20260907001000 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20260907001100 +0000" stop="20260907011100 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907001000 +0000" stop="20260907011100 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260907011100 +0000" stop="20260907025300 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907011100 +0000" stop="20260907025800 +0000" channel="SCTV.mncvision">
+    <title>Married With Senior</title>
 </programme>
-<programme start="20260907025300 +0000" stop="20260907044600 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907025800 +0000" stop="20260907045400 +0000" channel="SCTV.mncvision">
+    <title>Emang Boleh Senyum Selucu Itu</title>
 </programme>
-<programme start="20260907044600 +0000" stop="20260907051900 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907045400 +0000" stop="20260907052700 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260907051900 +0000" stop="20260907070200 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907052700 +0000" stop="20260907065900 +0000" channel="SCTV.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20260907070200 +0000" stop="20260907083800 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907065900 +0000" stop="20260907082900 +0000" channel="SCTV.mncvision">
+    <title>Kamu Gila But I Love You</title>
 </programme>
-<programme start="20260907083800 +0000" stop="20260907100500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907082900 +0000" stop="20260907100000 +0000" channel="SCTV.mncvision">
+    <title>Ilmu Padi Makin Berisi Makin...</title>
 </programme>
-<programme start="20260907100500 +0000" stop="20260907113500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907100000 +0000" stop="20260907112800 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260907113500 +0000" stop="20260907125400 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907112800 +0000" stop="20260907125400 +0000" channel="SCTV.mncvision">
+    <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260907125400 +0000" stop="20260907142000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907125400 +0000" stop="20260907141900 +0000" channel="SCTV.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260907142000 +0000" stop="20260907155200 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907141900 +0000" stop="20260907155900 +0000" channel="SCTV.mncvision">
+    <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260907155200 +0000" stop="20260907164600 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260907164600 +0000" stop="20260906171600 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260907155900 +0000" stop="20260907162900 +0000" channel="SCTV.mncvision">
+    <title>Arafta Terbelenggu Takdir</title>
 </programme>
 <programme start="20260906173000 +0000" stop="20260906184500 +0000" channel="SCTV HD.mncvision">
     <title>Serabi Bumbu Cinta</title>
@@ -7768,59 +7756,56 @@
 <programme start="20260906184500 +0000" stop="20260906201500 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20260906201500 +0000" stop="20260906210500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260906201500 +0000" stop="20260906210400 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20260906210500 +0000" stop="20260906213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260906210400 +0000" stop="20260906213000 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20260906213000 +0000" stop="20260906220000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260906213000 +0000" stop="20260906215400 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20260906220000 +0000" stop="20260906230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260906215400 +0000" stop="20260906230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260906230000 +0000" stop="20260907001100 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260906230000 +0000" stop="20260907001000 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20260907001100 +0000" stop="20260907011100 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907001000 +0000" stop="20260907011100 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260907011100 +0000" stop="20260907025300 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907011100 +0000" stop="20260907025800 +0000" channel="SCTV HD.mncvision">
+    <title>Married With Senior</title>
 </programme>
-<programme start="20260907025300 +0000" stop="20260907044600 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907025800 +0000" stop="20260907045400 +0000" channel="SCTV HD.mncvision">
+    <title>Emang Boleh Senyum Selucu Itu</title>
 </programme>
-<programme start="20260907044600 +0000" stop="20260907051900 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907045400 +0000" stop="20260907052700 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260907051900 +0000" stop="20260907070200 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907052700 +0000" stop="20260907065900 +0000" channel="SCTV HD.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20260907070200 +0000" stop="20260907083800 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907065900 +0000" stop="20260907082900 +0000" channel="SCTV HD.mncvision">
+    <title>Kamu Gila But I Love You</title>
 </programme>
-<programme start="20260907083800 +0000" stop="20260907100500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907082900 +0000" stop="20260907100000 +0000" channel="SCTV HD.mncvision">
+    <title>Ilmu Padi Makin Berisi Makin...</title>
 </programme>
-<programme start="20260907100500 +0000" stop="20260907113500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907100000 +0000" stop="20260907112800 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260907113500 +0000" stop="20260907125400 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907112800 +0000" stop="20260907125400 +0000" channel="SCTV HD.mncvision">
+    <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260907125400 +0000" stop="20260907142000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907125400 +0000" stop="20260907141900 +0000" channel="SCTV HD.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260907142000 +0000" stop="20260907155200 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907141900 +0000" stop="20260907155900 +0000" channel="SCTV HD.mncvision">
+    <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260907155200 +0000" stop="20260907164600 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260907164600 +0000" stop="20260906171600 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260907155900 +0000" stop="20260907162900 +0000" channel="SCTV HD.mncvision">
+    <title>Arafta Terbelenggu Takdir</title>
 </programme>
 <programme start="20260906170000 +0000" stop="20260906173000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>
@@ -7982,13 +7967,13 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20260906190000 +0000" stop="20260906210000 +0000" channel="Soccer Channel.mncvision">
-    <title>ACL Two 2025/26: GAM Vs BKU</title>
+    <title>ACL Two 2025/26: GAM Vs BAN</title>
 </programme>
 <programme start="20260906210000 +0000" stop="20260906213000 +0000" channel="Soccer Channel.mncvision">
     <title>World Classic Soccer</title>
 </programme>
 <programme start="20260906213000 +0000" stop="20260906233000 +0000" channel="Soccer Channel.mncvision">
-    <title>Shopee Cup 25/26: BKU Vs NAD</title>
+    <title>Shopee Cup &#039;25/26: BAN Vs NDI</title>
 </programme>
 <programme start="20260906233000 +0000" stop="20260907013000 +0000" channel="Soccer Channel.mncvision">
     <title>Hyundai C&#039;ship &#039;26: IDN Vs VIE</title>
@@ -8000,7 +7985,7 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20260907040000 +0000" stop="20260907060000 +0000" channel="Soccer Channel.mncvision">
-    <title>ACL Elite 2025/26: AHL Vs DHL</title>
+    <title>ACL Elite 2025/26: AHL Vs DUH</title>
 </programme>
 <programme start="20260907060000 +0000" stop="20260907080000 +0000" channel="Soccer Channel.mncvision">
     <title>Hyundai C&#039;ship &#039;26: CAM Vs TLS</title>
@@ -8012,7 +7997,7 @@
     <title>Sikat Tipis</title>
 </programme>
 <programme start="20260907110000 +0000" stop="20260907124500 +0000" channel="Soccer Channel.mncvision">
-    <title>Shopee Cup 25/26: TAM Vs BRU</title>
+    <title>Shopee Cup &#039;25/26: TAM Vs BUR</title>
 </programme>
 <programme start="20260907124500 +0000" stop="20260907143000 +0000" channel="Soccer Channel.mncvision">
     <title>Satu Hati Untuk Garuda</title>
@@ -8027,13 +8012,13 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20260906190000 +0000" stop="20260906210000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>ACL Two 2025/26: GAM Vs BKU</title>
+    <title>ACL Two 2025/26: GAM Vs BAN</title>
 </programme>
 <programme start="20260906210000 +0000" stop="20260906213000 +0000" channel="Soccer Channel HD.mncvision">
     <title>World Classic Soccer</title>
 </programme>
 <programme start="20260906213000 +0000" stop="20260906233000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Shopee Cup 25/26: BKU Vs NAD</title>
+    <title>Shopee Cup &#039;25/26: BAN Vs NDI</title>
 </programme>
 <programme start="20260906233000 +0000" stop="20260907013000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Hyundai C&#039;ship &#039;26: IDN Vs VIE</title>
@@ -8045,7 +8030,7 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20260907040000 +0000" stop="20260907060000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>ACL Elite 2025/26: AHL Vs DHL</title>
+    <title>ACL Elite 2025/26: AHL Vs DUH</title>
 </programme>
 <programme start="20260907060000 +0000" stop="20260907080000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Hyundai C&#039;ship &#039;26: CAM Vs TLS</title>
@@ -8057,7 +8042,7 @@
     <title>Sikat Tipis</title>
 </programme>
 <programme start="20260907110000 +0000" stop="20260907124500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Shopee Cup 25/26: TAM Vs BRU</title>
+    <title>Shopee Cup &#039;25/26: TAM Vs BUR</title>
 </programme>
 <programme start="20260907124500 +0000" stop="20260907143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Satu Hati Untuk Garuda</title>

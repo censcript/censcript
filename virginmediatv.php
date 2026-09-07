@@ -5212,234 +5212,6 @@
 <programme start="20260907175000 +0000" stop="20260907180000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Karun Drives Senna&#039;s McLaren</title>
 </programme>
-<programme start="20260906223000 +0000" stop="20260907024500 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: CPL T20 - Barbados Tridents v St. Lucia Kings</title>
-</programme>
-<programme start="20260907024500 +0000" stop="20260907030000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v Pakistan, 2nd Test: Best Batting</title>
-</programme>
-<programme start="20260907030000 +0000" stop="20260907031500 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v Pakistan, 2nd Test: Best Bowling</title>
-</programme>
-<programme start="20260907031500 +0000" stop="20260907033000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>TNT Sports Cricket Reload - West Indies v New Zealand: 2nd ODI</title>
-</programme>
-<programme start="20260907033000 +0000" stop="20260907043000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Tour of Britain Cycling - Men&#039;s Stage 5</title>
-</programme>
-<programme start="20260907043000 +0000" stop="20260907050000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League Legends - Ian Wright</title>
-</programme>
-<programme start="20260907050000 +0000" stop="20260907060000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League Review - Episode 3</title>
-</programme>
-<programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
-</programme>
-<programme start="20260907140000 +0000" stop="20260907160000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
-</programme>
-<programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>The Football Archives - UEFA Champions League 2011/12</title>
-</programme>
-<programme start="20260907163000 +0000" stop="20260907170000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League Stories - Petr Cech</title>
-</programme>
-<programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="TNT_Sports_1.virginmediatv">
-    <title>Premier League Review - Episode 3</title>
-</programme>
-<programme start="20260907000000 +0000" stop="20260907010000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Serie A Football - Juventus v AC Milan</title>
-</programme>
-<programme start="20260907010000 +0000" stop="20260907040000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>The Ultimate Fighting Championship - UFC Fight Night: Dan Hooker v Salahdine Parnasse</title>
-</programme>
-<programme start="20260907040000 +0000" stop="20260907050000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Fishing: On the Bank - UK Angling Championships: Round 3</title>
-</programme>
-<programme start="20260907050000 +0000" stop="20260907053000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>The WRC Magazine - Rally Chile Bio Bío</title>
-</programme>
-<programme start="20260907053000 +0000" stop="20260907060000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>FIM Superbike World Championship Motorcycle Racing - French Round: Superbike Race 1</title>
-</programme>
-<programme start="20260907120000 +0000" stop="20260907123000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>CPL T20 - Guyana Amazon Warriors v St. Kitts &amp; Nevis Patriots</title>
-</programme>
-<programme start="20260907123000 +0000" stop="20260907130000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>CPL T20 - Barbados Tridents v St. Lucia Kings</title>
-</programme>
-<programme start="20260907130000 +0000" stop="20260907133000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>The WRC Magazine - Rally Chile Bio Bío</title>
-</programme>
-<programme start="20260907133000 +0000" stop="20260907140000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>UEFA Champions League Magazine - Episode 2</title>
-</programme>
-<programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Serie A Football</title>
-</programme>
-<programme start="20260907150000 +0000" stop="20260907160000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Serie A Football - Juventus v AC Milan</title>
-</programme>
-<programme start="20260907160000 +0000" stop="20260907170000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
-</programme>
-<programme start="20260907170000 +0000" stop="20260907200000 +0000" channel="TNT_Sports_2.virginmediatv">
-    <title>Live: Major League Baseball - Atlanta Braves at Philadelphia Phillies</title>
-</programme>
-<programme start="20260906231500 +0000" stop="20260907001500 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Vuelta a España - Stage 15</title>
-</programme>
-<programme start="20260907001500 +0000" stop="20260907011500 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>UCI ProSeries Cycling - Gran Premio Industria e Artigianato</title>
-</programme>
-<programme start="20260907011500 +0000" stop="20260907021500 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Tour de l&#039;Avenir Road Cycling - Men&#039;s Review</title>
-</programme>
-<programme start="20260907021500 +0000" stop="20260907024500 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Premier League Legends - Gary Neville</title>
-</programme>
-<programme start="20260907024500 +0000" stop="20260907030000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>TNT Sports Original - Playing For Our Future: Football</title>
-</programme>
-<programme start="20260907030000 +0000" stop="20260907043000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Ultimate Pool NxtGen - National Knockout: Finals Night</title>
-</programme>
-<programme start="20260907043000 +0000" stop="20260907050000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>TNT Sports Reload - Episode 35</title>
-</programme>
-<programme start="20260907050000 +0000" stop="20260907063000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Australian Rules - First Qualifying Final: Fremantle v Hawthorn</title>
-</programme>
-<programme start="20260907120000 +0000" stop="20260907130000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
-</programme>
-<programme start="20260907130000 +0000" stop="20260907140000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Vuelta a España - Stage 15</title>
-</programme>
-<programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Tour de l&#039;Avenir Road Cycling - Men&#039;s Review</title>
-</programme>
-<programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>CPL T20 - Guyana Amazon Warriors v St. Kitts &amp; Nevis Patriots</title>
-</programme>
-<programme start="20260907153000 +0000" stop="20260907160000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>CPL T20 - Barbados Tridents v St. Lucia Kings</title>
-</programme>
-<programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Women&#039;s CPL T20 - Barbados Tridents v Trinbago Knight Riders</title>
-</programme>
-<programme start="20260907163000 +0000" stop="20260907170000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Women&#039;s CPL T20 - Jamaica Empress v Guyana Amazon Warriors</title>
-</programme>
-<programme start="20260907170000 +0000" stop="20260907203000 +0000" channel="TNT_Sports_3.virginmediatv">
-    <title>Live: Ultimate Pool NxtGen - Future Stars: Group 1</title>
-</programme>
-<programme start="20260906173000 +0000" stop="20260907003000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: FIA World Endurance Championship Motor Racing - Lone Star Le Mans: Race</title>
-</programme>
-<programme start="20260907003000 +0000" stop="20260907010000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>TNT Sports Reload - Episode 35</title>
-</programme>
-<programme start="20260907010000 +0000" stop="20260907020000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Hard Knocks - Training Camp with the Seattle Seahawks</title>
-</programme>
-<programme start="20260907020000 +0000" stop="20260907023000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>FIM Superbike World Championship Motorcycle Racing - French Round: Superbike Superpole Race</title>
-</programme>
-<programme start="20260907023000 +0000" stop="20260907030000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>FIM Superbike World Championship Motorcycle Racing - French Round: Superbike Race 2</title>
-</programme>
-<programme start="20260907030000 +0000" stop="20260907040000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>MotoGP - Aragon Grand Prix</title>
-</programme>
-<programme start="20260907040000 +0000" stop="20260907050000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>British Superbikes Motorcycle Racing - Round 8: Cadwell Park</title>
-</programme>
-<programme start="20260907050000 +0000" stop="20260907060000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Vuelta a España - Stage 15</title>
-</programme>
-<programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
-</programme>
-<programme start="20260907140000 +0000" stop="20260907160000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
-</programme>
-<programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>Formula E Flashback - Valencia ePrix 2021</title>
-</programme>
-<programme start="20260907163000 +0000" stop="20260907164500 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>The Greatest: Jonathan Rea - Behind The 65</title>
-</programme>
-<programme start="20260907164500 +0000" stop="20260907170000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>The Greatest: Jonathan Rea - The Last Chapter</title>
-</programme>
-<programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="TNT_Sports_4.virginmediatv">
-    <title>FIM Superbike World Championship Motorcycle Racing - French Round</title>
-</programme>
-<programme start="20260907000000 +0000" stop="20260907003000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>Sporting Countdowns - Episode 8</title>
-</programme>
-<programme start="20260907003000 +0000" stop="20260907023000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>LaLiga - RCD Espanyol v Sevilla FC</title>
-</programme>
-<programme start="20260907023000 +0000" stop="20260907043000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>Campeonato Brasileiro - Remo v Flamengo</title>
-</programme>
-<programme start="20260907043000 +0000" stop="20260907050000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>Sporting Greats - Episode 4</title>
-</programme>
-<programme start="20260907050000 +0000" stop="20260907070000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>LaLiga - Valencia CF v FC Barcelona</title>
-</programme>
-<programme start="20260907103000 +0000" stop="20260907123000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>LaLiga - Real Sociedad v RC Celta</title>
-</programme>
-<programme start="20260907123000 +0000" stop="20260907143000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>LaLiga - Málaga CF v Levante UD</title>
-</programme>
-<programme start="20260907143000 +0000" stop="20260907150000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>Sporting Countdowns - Episode 2</title>
-</programme>
-<programme start="20260907150000 +0000" stop="20260907165500 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>LaLiga - Málaga CF v Levante UD</title>
-</programme>
-<programme start="20260907165500 +0000" stop="20260907190000 +0000" channel="Premier_Sports_1.virginmediatv">
-    <title>Live: LaLiga - Getafe CF v RC Celta</title>
-</programme>
-<programme start="20260906203000 +0000" stop="20260907020000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Live: NASCAR Cup Series Motor Racing - Darlington Raceway</title>
-</programme>
-<programme start="20260907020000 +0000" stop="20260907023000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Bike World - Episode 149</title>
-</programme>
-<programme start="20260907023000 +0000" stop="20260907030000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Temples of Sport - Alpe D&#039;Huez</title>
-</programme>
-<programme start="20260907030000 +0000" stop="20260907050000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Top 14 - Stade Rochelais v Stade Toulousain</title>
-</programme>
-<programme start="20260907050000 +0000" stop="20260907053000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Football&#039;s Greatest - Episode 1</title>
-</programme>
-<programme start="20260907053000 +0000" stop="20260907060000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Football&#039;s Greatest - Episode 2</title>
-</programme>
-<programme start="20260907110000 +0000" stop="20260907130000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Top 14 - Montpellier Hérault Rugby v Section Paloise</title>
-</programme>
-<programme start="20260907130000 +0000" stop="20260907150000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Top 14 - Castres Olympique v RC Vannes</title>
-</programme>
-<programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Temples of Sport - Alpe D&#039;Huez</title>
-</programme>
-<programme start="20260907153000 +0000" stop="20260907160000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Temples of Sport - Ascot Racecourse</title>
-</programme>
-<programme start="20260907160000 +0000" stop="20260907180000 +0000" channel="Premier_Sports_2.virginmediatv">
-    <title>Top 14 - Union Bordeaux-Bègles v Racing 92</title>
-</programme>
 <programme start="20260907000000 +0000" stop="20260907010000 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Sé Mo Laoch - Kevin Conneff</title>
 </programme>
@@ -6424,7 +6196,10 @@
 <programme start="20260906175800 +0000" stop="20260907015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260907015800 +0000" stop="20260907060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260907015800 +0000" stop="20260907050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260907050000 +0000" stop="20260907060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907121000 +0000" channel="CBBC.virginmediatv">
@@ -7828,8 +7603,11 @@
 <programme start="20260907153000 +0000" stop="20260907160000 +0000" channel="EWTN.virginmediatv">
     <title>The Rosary for Kids - Joyful Mysteries</title>
 </programme>
-<programme start="20260907160000 +0000" stop="20260907173000 +0000" channel="EWTN.virginmediatv">
+<programme start="20260907160000 +0000" stop="20260907171500 +0000" channel="EWTN.virginmediatv">
     <title>Holy Mass With Pope Leo XIV From The Shrine of Our Lady of Good Counsel</title>
+</programme>
+<programme start="20260907171500 +0000" stop="20260907173000 +0000" channel="EWTN.virginmediatv">
+    <title>Art of Faith with Fr. Patrick Van Der Vorst - The Hidden Christian Faith of the Houses of Parliament</title>
 </programme>
 <programme start="20260907173000 +0000" stop="20260907180000 +0000" channel="EWTN.virginmediatv">
     <title>Blue Collar Apologetics - Apologetics for the Scripturally-Challenged</title>
