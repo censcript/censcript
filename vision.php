@@ -494,139 +494,133 @@
 <title>Insert Story</title>
 </programme>
 <programme start="20260906233000 +0000" stop="20260907003000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Spotlite</title>
 </programme>
 <programme start="20260907003000 +0000" stop="20260907013000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Selebrita Pagi</title>
 </programme>
 <programme start="20260907013000 +0000" stop="20260907023000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>FYP (For Your Pagi)</title>
 </programme>
 <programme start="20260907023000 +0000" stop="20260907031500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Selebrita Heits</title>
 </programme>
 <programme start="20260907031500 +0000" stop="20260907041500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Big-Bang!</title>
 </programme>
 <programme start="20260907041500 +0000" stop="20260907050000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Enah Bikin Enak</title>
 </programme>
 <programme start="20260907050000 +0000" stop="20260907054500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Jejak Si Gundul</title>
 </programme>
 <programme start="20260907054500 +0000" stop="20260907063000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Bocah Petualang</title>
 </programme>
 <programme start="20260907063000 +0000" stop="20260907071500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Indonesiaku</title>
 </programme>
-<programme start="20260907071500 +0000" stop="20260907074500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260907071500 +0000" stop="20260907080000 +0000" channel="Trans 7.vision">
+<title>Redaksi</title>
 </programme>
-<programme start="20260907074500 +0000" stop="20260907081500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260907081500 +0000" stop="20260907090000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260907080000 +0000" stop="20260907090000 +0000" channel="Trans 7.vision">
+<title>Bikin Seneng</title>
 </programme>
 <programme start="20260907090000 +0000" stop="20260907100000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Makan Receh</title>
 </programme>
 <programme start="20260907100000 +0000" stop="20260907110000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Selebrita Update</title>
 </programme>
 <programme start="20260907110000 +0000" stop="20260907114500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>On The Spot</title>
 </programme>
 <programme start="20260907114500 +0000" stop="20260907121500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Secret Story</title>
 </programme>
 <programme start="20260907121500 +0000" stop="20260907130000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>POV (Pasti Obrolan Viral)</title>
 </programme>
 <programme start="20260907130000 +0000" stop="20260907143000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Arisan</title>
 </programme>
 <programme start="20260907143000 +0000" stop="20260907154500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Lapor Pak!</title>
 </programme>
 <programme start="20260907154500 +0000" stop="20260907163000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>The Police</title>
 </programme>
 <programme start="20260907163000 +0000" stop="20260907171500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Misteri Dunia</title>
 </programme>
 <programme start="20260907171500 +0000" stop="20260907174500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Redaksi Malam</title>
 </programme>
 <programme start="20260907174500 +0000" stop="20260907183000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Sport7</title>
 </programme>
-<programme start="20260907183000 +0000" stop="20260907190000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
-</programme>
-<programme start="20260907190000 +0000" stop="20260907193000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260907183000 +0000" stop="20260907193000 +0000" channel="Trans 7.vision">
+<title>Best Fishing</title>
 </programme>
 <programme start="20260907193000 +0000" stop="20260907201500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Dracin</title>
 </programme>
 <programme start="20260907201500 +0000" stop="20260907210000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>LOL ComediHa!</title>
 </programme>
 <programme start="20260907210000 +0000" stop="20260907214500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Big-Bang!</title>
 </programme>
 <programme start="20260907214500 +0000" stop="20260907223000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Assalamualaikum Mamah Dedeh</title>
 </programme>
 <programme start="20260907223000 +0000" stop="20260907233000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Redaksi Pagi</title>
 </programme>
 <programme start="20260907233000 +0000" stop="20260908003000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Spotlite</title>
 </programme>
 <programme start="20260908003000 +0000" stop="20260908013000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Selebrita Pagi</title>
 </programme>
-<programme start="20260908013000 +0000" stop="20260908021500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260908013000 +0000" stop="20260908023000 +0000" channel="Trans 7.vision">
+<title>FYP (For Your Pagi)</title>
 </programme>
-<programme start="20260908021500 +0000" stop="20260908031500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260908023000 +0000" stop="20260908031500 +0000" channel="Trans 7.vision">
+<title>Selebrita Heits</title>
 </programme>
 <programme start="20260908031500 +0000" stop="20260908041500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Big-Bang!</title>
 </programme>
 <programme start="20260908041500 +0000" stop="20260908050000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Enah Bikin Enak</title>
 </programme>
 <programme start="20260908050000 +0000" stop="20260908054500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Jejak Si Gundul</title>
 </programme>
 <programme start="20260908054500 +0000" stop="20260908063000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Bocah Petualang</title>
 </programme>
 <programme start="20260908063000 +0000" stop="20260908071500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Indonesiaku</title>
 </programme>
-<programme start="20260908071500 +0000" stop="20260908081500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260908071500 +0000" stop="20260908080000 +0000" channel="Trans 7.vision">
+<title>Redaksi</title>
 </programme>
-<programme start="20260908081500 +0000" stop="20260908090000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260908080000 +0000" stop="20260908090000 +0000" channel="Trans 7.vision">
+<title>Bikin Seneng</title>
 </programme>
 <programme start="20260908090000 +0000" stop="20260908100000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Makan Receh</title>
 </programme>
 <programme start="20260908100000 +0000" stop="20260908110000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<title>Selebrita Update</title>
 </programme>
-<programme start="20260908110000 +0000" stop="20260908113000 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260908110000 +0000" stop="20260908114500 +0000" channel="Trans 7.vision">
+<title>On The Spot</title>
 </programme>
-<programme start="20260908113000 +0000" stop="20260908121500 +0000" channel="Trans 7.vision">
-<title>Trans 7</title>
+<programme start="20260908114500 +0000" stop="20260908121500 +0000" channel="Trans 7.vision">
+<title>Secret Story</title>
 </programme>
 <programme start="20260907060000 +0000" stop="20260907073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -676,224 +670,203 @@
 <programme start="20260908113000 +0000" stop="20260908130000 +0000" channel="ANTV.vision">
 <title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
-<programme start="20260906220000 +0000" stop="20260907010000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260906220000 +0000" stop="20260907020000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20260907010000 +0000" stop="20260907020000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907020000 +0000" stop="20260907030000 +0000" channel="RTV.vision">
+<title>METAL CARDBOT</title>
 </programme>
-<programme start="20260907020000 +0000" stop="20260907033000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907030000 +0000" stop="20260907044500 +0000" channel="RTV.vision">
+<title>Grizzy And The Lemmings</title>
 </programme>
-<programme start="20260907033000 +0000" stop="20260907043000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907044500 +0000" stop="20260907054500 +0000" channel="RTV.vision">
+<title>Blox Buster</title>
 </programme>
-<programme start="20260907043000 +0000" stop="20260907050000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907054500 +0000" stop="20260907061500 +0000" channel="RTV.vision">
+<title>Tawa Satwa</title>
 </programme>
-<programme start="20260907050000 +0000" stop="20260907060000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907061500 +0000" stop="20260907080000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20260907060000 +0000" stop="20260907073000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907080000 +0000" stop="20260907083000 +0000" channel="RTV.vision">
+<title>Dragonero</title>
 </programme>
-<programme start="20260907073000 +0000" stop="20260907090000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907083000 +0000" stop="20260907100000 +0000" channel="RTV.vision">
+<title>Lego The Movie</title>
 </programme>
-<programme start="20260907090000 +0000" stop="20260907103000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907100000 +0000" stop="20260907123000 +0000" channel="RTV.vision">
+<title>BoBoiBoy Galaxy</title>
 </programme>
-<programme start="20260907103000 +0000" stop="20260907110000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20260907110000 +0000" stop="20260907130000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20260907130000 +0000" stop="20260907143000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907123000 +0000" stop="20260907143000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
 <programme start="20260907143000 +0000" stop="20260907150000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Si Paling Trending (SPT)</title>
 </programme>
 <programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Terkepo-Kepo</title>
 </programme>
 <programme start="20260907153000 +0000" stop="20260907160000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Lensa Indonesia Malam</title>
 </programme>
 <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Ijin, Ndan!</title>
 </programme>
 <programme start="20260907163000 +0000" stop="20260907170000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Abrakadabra</title>
 </programme>
 <programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>KOKOM (Kompilasi Komedi)</title>
 </programme>
 <programme start="20260907180000 +0000" stop="20260907183000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Cahaya Bagi Negeri</title>
 </programme>
 <programme start="20260907183000 +0000" stop="20260907200000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Movinesia</title>
 </programme>
 <programme start="20260907200000 +0000" stop="20260907203000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Ustadz On The Road</title>
 </programme>
 <programme start="20260907203000 +0000" stop="20260907213000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>KOKOM (Kompilasi Komedi)</title>
 </programme>
 <programme start="20260907213000 +0000" stop="20260907220000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Si Bocil Trang Quynh</title>
 </programme>
-<programme start="20260907220000 +0000" stop="20260907233000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260907220000 +0000" stop="20260908020000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20260907233000 +0000" stop="20260908003000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260908020000 +0000" stop="20260908030000 +0000" channel="RTV.vision">
+<title>METAL CARDBOT</title>
 </programme>
-<programme start="20260908003000 +0000" stop="20260908010000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260908030000 +0000" stop="20260908044500 +0000" channel="RTV.vision">
+<title>Grizzy And The Lemmings</title>
 </programme>
-<programme start="20260908010000 +0000" stop="20260908013000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260908044500 +0000" stop="20260908054500 +0000" channel="RTV.vision">
+<title>Blox Buster</title>
 </programme>
-<programme start="20260908013000 +0000" stop="20260908020000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260908054500 +0000" stop="20260908061500 +0000" channel="RTV.vision">
+<title>Tawa Satwa</title>
 </programme>
-<programme start="20260908020000 +0000" stop="20260908023000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260908061500 +0000" stop="20260908080000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20260908023000 +0000" stop="20260908040000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260908080000 +0000" stop="20260908083000 +0000" channel="RTV.vision">
+<title>Dragonero</title>
 </programme>
-<programme start="20260908040000 +0000" stop="20260908060000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260908083000 +0000" stop="20260908100000 +0000" channel="RTV.vision">
+<title>Ultraman Decker Finale</title>
 </programme>
-<programme start="20260908060000 +0000" stop="20260908073000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20260908073000 +0000" stop="20260908090000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20260908090000 +0000" stop="20260908100000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20260908100000 +0000" stop="20260908103000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20260908103000 +0000" stop="20260908130000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20260908100000 +0000" stop="20260908123000 +0000" channel="RTV.vision">
+<title>BoBoiBoy Galaxy</title>
 </programme>
 <programme start="20260906233000 +0000" stop="20260907013000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Apa Kabar Indonesia Pagi</title>
 </programme>
 <programme start="20260907013000 +0000" stop="20260907020000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Hidup Sehat</title>
 </programme>
 <programme start="20260907020000 +0000" stop="20260907023000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Breaking News</title>
 </programme>
 <programme start="20260907023000 +0000" stop="20260907033000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260907033000 +0000" stop="20260907040000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Metropolitan</title>
 </programme>
 <programme start="20260907040000 +0000" stop="20260907053000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Siang (L)</title>
 </programme>
 <programme start="20260907053000 +0000" stop="20260907063000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Breaking News</title>
 </programme>
 <programme start="20260907063000 +0000" stop="20260907080000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Apa Kabar Indonesia Siang</title>
 </programme>
 <programme start="20260907080000 +0000" stop="20260907083000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Merah Putih</title>
 </programme>
 <programme start="20260907083000 +0000" stop="20260907090000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260907090000 +0000" stop="20260907110000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Petang</title>
 </programme>
-<programme start="20260907110000 +0000" stop="20260907130000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<programme start="20260907110000 +0000" stop="20260907123000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20260907123000 +0000" stop="20260907130000 +0000" channel="TVOne.vision">
+<title>Indonesia Terkini</title>
 </programme>
 <programme start="20260907130000 +0000" stop="20260907140000 +0000" channel="TVOne.vision">
-<title>TV One</title>
-</programme>
-<programme start="20260907140000 +0000" stop="20260907150000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Utama 2</title>
 </programme>
 <programme start="20260907150000 +0000" stop="20260907160000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Hari Ini</title>
 </programme>
 <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Arena Malam</title>
 </programme>
 <programme start="20260907163000 +0000" stop="20260907170000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260907170000 +0000" stop="20260907183000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Petang</title>
 </programme>
 <programme start="20260907183000 +0000" stop="20260907200000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260907200000 +0000" stop="20260907203000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Utama 2</title>
 </programme>
 <programme start="20260907203000 +0000" stop="20260907210000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Hari Ini</title>
 </programme>
 <programme start="20260907210000 +0000" stop="20260907213000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Arena Pagi 2</title>
 </programme>
 <programme start="20260907213000 +0000" stop="20260907230000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Pagi</title>
 </programme>
 <programme start="20260907230000 +0000" stop="20260907233000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Arena Pagi 2</title>
 </programme>
-<programme start="20260907233000 +0000" stop="20260908010000 +0000" channel="TVOne.vision">
-<title>TV One</title>
-</programme>
-<programme start="20260908010000 +0000" stop="20260908013000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<programme start="20260907233000 +0000" stop="20260908013000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Pagi</title>
 </programme>
 <programme start="20260908013000 +0000" stop="20260908020000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Hidup Sehat</title>
 </programme>
 <programme start="20260908020000 +0000" stop="20260908023000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Breaking News</title>
 </programme>
-<programme start="20260908023000 +0000" stop="20260908030000 +0000" channel="TVOne.vision">
-<title>TV One</title>
-</programme>
-<programme start="20260908030000 +0000" stop="20260908033000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<programme start="20260908023000 +0000" stop="20260908033000 +0000" channel="TVOne.vision">
+<title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260908033000 +0000" stop="20260908040000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Metropolitan</title>
 </programme>
 <programme start="20260908040000 +0000" stop="20260908053000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260908053000 +0000" stop="20260908070000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<programme start="20260908053000 +0000" stop="20260908063000 +0000" channel="TVOne.vision">
+<title>Breaking News</title>
 </programme>
-<programme start="20260908070000 +0000" stop="20260908080000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<programme start="20260908063000 +0000" stop="20260908080000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Siang</title>
 </programme>
-<programme start="20260908080000 +0000" stop="20260908090000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<programme start="20260908080000 +0000" stop="20260908083000 +0000" channel="TVOne.vision">
+<title>Kabar Merah Putih</title>
+</programme>
+<programme start="20260908083000 +0000" stop="20260908090000 +0000" channel="TVOne.vision">
+<title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260908090000 +0000" stop="20260908110000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Kabar Petang</title>
 </programme>
 <programme start="20260908110000 +0000" stop="20260908130000 +0000" channel="TVOne.vision">
-<title>TV One</title>
+<title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260907000000 +0000" stop="20260907023000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Pagi</title>
@@ -1496,5 +1469,32 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260907030000 +0000" stop="20260907050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907050000 +0000" stop="20260907070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907070000 +0000" stop="20260907090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907090000 +0000" stop="20260907110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907110000 +0000" stop="20260907130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907130000 +0000" stop="20260907150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907150000 +0000" stop="20260907170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907170000 +0000" stop="20260907190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907190000 +0000" stop="20260907210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260907210000 +0000" stop="20260907230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -3869,10 +3869,10 @@
     <title>Behind Enemy Lines</title>
 </programme>
 <programme start="20260906230000 +0000" stop="20260907013000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: US Open 2026 - Day 8</title>
+    <title>Live: US Open 2026 - Men&#039;s Fourth Round: Ben Shelton v Stefanos Tsitsipas</title>
 </programme>
 <programme start="20260907013000 +0000" stop="20260907043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: US Open 2026 - Day 8</title>
+    <title>Live: US Open 2026 - Women&#039;s Fourth Round: Anna Kalinskaya v Emma Navarro</title>
 </programme>
 <programme start="20260907043000 +0000" stop="20260907060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -4234,14 +4234,8 @@
 <programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>The Premier League Show - Episode 105</title>
 </programme>
-<programme start="20260906223000 +0000" stop="20260907010500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20260906225000 +0000" stop="20260907050000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>British GT Championship Motor Racing - Donington Park: Race</title>
-</programme>
-<programme start="20260907010500 +0000" stop="20260907044500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Premier League Darts - Night 11: Rotterdam</title>
-</programme>
-<programme start="20260907044500 +0000" stop="20260907050000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Darts Gold - 2013 World Matchplay: Semi-Final</title>
 </programme>
 <programme start="20260907050000 +0000" stop="20260907051500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2012: Wolverhampton Wanderers v West Bromwich Albion</title>
@@ -4280,10 +4274,10 @@
     <title>Formula 1 - Italian Grand Prix: Highlights</title>
 </programme>
 <programme start="20260906230000 +0000" stop="20260907013000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live: US Open 2026 - Day 8</title>
+    <title>Live: US Open 2026 - Men&#039;s Fourth Round: Ben Shelton v Stefanos Tsitsipas</title>
 </programme>
 <programme start="20260907013000 +0000" stop="20260907043000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live: US Open 2026 - Day 8</title>
+    <title>Live: US Open 2026 - Women&#039;s Fourth Round: Anna Kalinskaya v Emma Navarro</title>
 </programme>
 <programme start="20260907043000 +0000" stop="20260907044500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA Canadian Open 2026 - Final</title>
@@ -4295,7 +4289,7 @@
     <title>US Open Tennis Classic Matches - 2002: Pete Sampras v Andre Agassi</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Day 8</title>
+    <title>US Open 2026 - Women&#039;s Fourth Round: Anna Kalinskaya v Emma Navarro</title>
 </programme>
 <programme start="20260907140000 +0000" stop="20260907143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Day 8: Highlights</title>
@@ -4357,13 +4351,13 @@
 <programme start="20260907114500 +0000" stop="20260907121500 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260907121500 +0000" stop="20260907123000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
+<programme start="20260907121500 +0000" stop="20260907124500 +0000" channel="Racing_UK.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20260907123000 +0000" stop="20260907130000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260907124500 +0000" stop="20260907131500 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260907130000 +0000" stop="20260907190000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260907131500 +0000" stop="20260907190000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260906234500 +0000" stop="20260907001500 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -4408,13 +4402,13 @@
 <programme start="20260907114500 +0000" stop="20260907121500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260907121500 +0000" stop="20260907123000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
+<programme start="20260907121500 +0000" stop="20260907124500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20260907123000 +0000" stop="20260907130000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260907124500 +0000" stop="20260907131500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260907130000 +0000" stop="20260907190000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260907131500 +0000" stop="20260907190000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260906230000 +0000" stop="20260907010000 +0000" channel="MUTV.virginmediatv">
@@ -4465,16 +4459,16 @@
 <programme start="20260907173000 +0000" stop="20260907180000 +0000" channel="MUTV.virginmediatv">
     <title>Match Day Review - Premier League: Everton v Manchester United</title>
 </programme>
-<programme start="20260906231500 +0000" stop="20260907001500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260906234000 +0000" stop="20260907004000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>IndyCar NXT Series - Grand Prix of Monterey: Race</title>
 </programme>
-<programme start="20260907001500 +0000" stop="20260907031500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260907004000 +0000" stop="20260907034000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>IndyCar Series Racing - Grand Prix of Monterey: Race</title>
 </programme>
-<programme start="20260907031500 +0000" stop="20260907041500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260907034000 +0000" stop="20260907044500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Italian Grand Prix: Highlights</title>
 </programme>
-<programme start="20260907041500 +0000" stop="20260907050000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260907044500 +0000" stop="20260907050000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Miami 2026</title>
 </programme>
 <programme start="20260907050000 +0000" stop="20260907062000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
@@ -4736,10 +4730,10 @@
     <title>Top 14 - Union Bordeaux-Bègles v Racing 92</title>
 </programme>
 <programme start="20260906230000 +0000" stop="20260907013000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: US Open 2026 - Day 8</title>
+    <title>Live: US Open 2026 - Men&#039;s Fourth Round: Ben Shelton v Stefanos Tsitsipas</title>
 </programme>
 <programme start="20260907013000 +0000" stop="20260907043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: US Open 2026 - Day 8</title>
+    <title>Live: US Open 2026 - Women&#039;s Fourth Round: Anna Kalinskaya v Emma Navarro</title>
 </programme>
 <programme start="20260907043000 +0000" stop="20260907060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
@@ -5101,14 +5095,8 @@
 <programme start="20260907170000 +0000" stop="20260907180000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>The Premier League Show - Episode 105</title>
 </programme>
-<programme start="20260906223000 +0000" stop="20260907010500 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20260906225000 +0000" stop="20260907050000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>British GT Championship Motor Racing - Donington Park: Race</title>
-</programme>
-<programme start="20260907010500 +0000" stop="20260907044500 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Premier League Darts - Night 11: Rotterdam</title>
-</programme>
-<programme start="20260907044500 +0000" stop="20260907050000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Darts Gold - 2013 World Matchplay: Semi-Final</title>
 </programme>
 <programme start="20260907050000 +0000" stop="20260907051500 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2012: Wolverhampton Wanderers v West Bromwich Albion</title>
@@ -5147,10 +5135,10 @@
     <title>Formula 1 - Italian Grand Prix: Highlights</title>
 </programme>
 <programme start="20260906230000 +0000" stop="20260907013000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live: US Open 2026 - Day 8</title>
+    <title>Live: US Open 2026 - Men&#039;s Fourth Round: Ben Shelton v Stefanos Tsitsipas</title>
 </programme>
 <programme start="20260907013000 +0000" stop="20260907043000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live: US Open 2026 - Day 8</title>
+    <title>Live: US Open 2026 - Women&#039;s Fourth Round: Anna Kalinskaya v Emma Navarro</title>
 </programme>
 <programme start="20260907043000 +0000" stop="20260907044500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Canadian Open 2026 - Final</title>
@@ -5162,7 +5150,7 @@
     <title>US Open Tennis Classic Matches - 2002: Pete Sampras v Andre Agassi</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Day 8</title>
+    <title>US Open 2026 - Women&#039;s Fourth Round: Anna Kalinskaya v Emma Navarro</title>
 </programme>
 <programme start="20260907140000 +0000" stop="20260907143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Day 8: Highlights</title>
@@ -5170,16 +5158,16 @@
 <programme start="20260907143000 +0000" stop="20260907230000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live: US Open 2026 - Day 9</title>
 </programme>
-<programme start="20260906231500 +0000" stop="20260907001500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260906234000 +0000" stop="20260907004000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>IndyCar NXT Series - Grand Prix of Monterey: Race</title>
 </programme>
-<programme start="20260907001500 +0000" stop="20260907031500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260907004000 +0000" stop="20260907034000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>IndyCar Series Racing - Grand Prix of Monterey: Race</title>
 </programme>
-<programme start="20260907031500 +0000" stop="20260907041500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260907034000 +0000" stop="20260907044500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Italian Grand Prix: Highlights</title>
 </programme>
-<programme start="20260907041500 +0000" stop="20260907050000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260907044500 +0000" stop="20260907050000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best of Miami 2026</title>
 </programme>
 <programme start="20260907050000 +0000" stop="20260907062000 +0000" channel="Sky_Sports_F1.virginmediatv">
@@ -6196,10 +6184,7 @@
 <programme start="20260906175800 +0000" stop="20260907015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260907015800 +0000" stop="20260907050000 +0000" channel="CBBC.virginmediatv">
-    <title>This is CBBC!</title>
-</programme>
-<programme start="20260907050000 +0000" stop="20260907060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260907015800 +0000" stop="20260907060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260907120000 +0000" stop="20260907121000 +0000" channel="CBBC.virginmediatv">

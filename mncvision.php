@@ -1598,7 +1598,7 @@
     <title>Berita Satu Terkini</title>
 </programme>
 <programme start="20260907090500 +0000" stop="20260907100000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260907100000 +0000" stop="20260907103000 +0000" channel="BTV.mncvision">
     <title>Berita Merah Putih</title>
@@ -1610,7 +1610,7 @@
     <title>Berita Satu Malam</title>
 </programme>
 <programme start="20260907123000 +0000" stop="20260907130000 +0000" channel="BTV.mncvision">
-    <title>30 Min With Partai Demokrat</title>
+    <title>Partai Demokrat</title>
 </programme>
 <programme start="20260907130000 +0000" stop="20260907140000 +0000" channel="BTV.mncvision">
     <title>Jendela Dunia</title>
