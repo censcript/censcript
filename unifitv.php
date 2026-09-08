@@ -15091,7 +15091,7 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20260908130000 +0000" stop="20260908150000 +0000" channel="spotv.unifitv">
-    <title lang="en">Roshn Saudi League 26/27 - MD 6 Al Ettifaq vs Al Faysaly</title>
+    <title lang="en">Roshn Saudi League 26/27 - MD 5 Al Shabab vs Al Hilal</title>
     <desc lang="en">The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
     <category lang="en">Football</category>
   </programme>
@@ -15272,8 +15272,8 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260908160000 +0000" stop="20260908164000 +0000" channel="beinsports.unifitv">
-    <title lang="en">The UCL Preview Show - Episode Number 1 (L)</title>
-    <desc lang="en">The UCL Preview Show - Episode Number 1 (L)</desc>
+    <title lang="en">The UCL Preview Show - Tue, MD1 (L)</title>
+    <desc lang="en">The UCL Preview Show - Tue, MD1 (L)</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="beinsports2.unifitv">

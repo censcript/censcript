@@ -1,7 +1,7 @@
-<programme start="20260908000000 +0000" stop="20260908005700 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260908000000 +0000" stop="20260908010000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Shetland - Episode 3</title>
 </programme>
-<programme start="20260908005700 +0000" stop="20260908051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260908010000 +0000" stop="20260908051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260908051500 +0000" stop="20260908060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
@@ -490,10 +490,10 @@
 <programme start="20260908003000 +0000" stop="20260908010000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Don&#039;t Look Back in Anger - 2001</title>
 </programme>
-<programme start="20260908010000 +0000" stop="20260908015700 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260908010000 +0000" stop="20260908020000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Shetland - Episode 3</title>
 </programme>
-<programme start="20260908015700 +0000" stop="20260908061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260908020000 +0000" stop="20260908061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260908100000 +0000" stop="20260908123000 +0000" channel="Virgin_Media_One_+1.virginmediatv">

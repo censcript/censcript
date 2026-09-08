@@ -634,12 +634,6 @@
 <programme start="20260909114500 +0000" stop="20260909121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260907230000 +0000" stop="20260908023000 +0000" channel="ANTV.vision">
-<title>Gadar: Ek Prem Katha</title>
-</programme>
-<programme start="20260908023000 +0000" stop="20260908060000 +0000" channel="ANTV.vision">
-<title>Yaadein</title>
-</programme>
 <programme start="20260908060000 +0000" stop="20260908073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260908110000 +0000" stop="20260908130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260908130000 +0000" stop="20260908150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260908150000 +0000" stop="20260908170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

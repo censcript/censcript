@@ -34,16 +34,16 @@
     <programme start="20260908051000 +0000" stop="20260908053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260908053000 +0000" stop="20260908070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260908053000 +0000" stop="20260908070100 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260908070000 +0000" stop="20260908072500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260908070100 +0000" stop="20260908072600 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20260908072500 +0000" stop="20260908073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260908072600 +0000" stop="20260908073100 +0000" channel="VTV1 HD.mytv">
         <title> Nẻo về nguồn cội: Lễ hội Sen Dolta của người Khmer </title>
     </programme>
-    <programme start="20260908073000 +0000" stop="20260908074500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260908073100 +0000" stop="20260908074500 +0000" channel="VTV1 HD.mytv">
         <title> Sắc màu các dân tộc: Tinh hoa Bắc Bộ </title>
     </programme>
     <programme start="20260908074500 +0000" stop="20260908081500 +0000" channel="VTV1 HD.mytv">

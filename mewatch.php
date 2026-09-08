@@ -542,7 +542,7 @@
         <title>(Live) Asia First</title>
     </programme>
     <programme start="20260908020000 +0000" stop="20260908030000 +0000" channel="CNA.mewatch">
-        <title>Death Loans: Thailand’s Cyanide Murders - EP 1</title>
+        <title>Death Loans: Thailand&#039;s Cyanide Murders - EP 1</title>
     </programme>
     <programme start="20260908030000 +0000" stop="20260908050000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Now</title>
@@ -569,7 +569,7 @@
         <title>(Live) East Asia Tonight</title>
     </programme>
     <programme start="20260908110000 +0000" stop="20260908120000 +0000" channel="CNA.mewatch">
-        <title>Death Loans: Thailand’s Cyanide Murders - EP 1</title>
+        <title>Death Loans: Thailand&#039;s Cyanide Murders - EP 1</title>
     </programme>
     <programme start="20260908120000 +0000" stop="20260908130000 +0000" channel="CNA.mewatch">
         <title>(Live) Asia Tonight</title>
