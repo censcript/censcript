@@ -4364,7 +4364,7 @@
     <title>By The Numbers - Bruno</title>
 </programme>
 <programme start="20260908130000 +0000" stop="20260908133000 +0000" channel="MUTV.virginmediatv">
-    <title>WSL - London City Lionesses v Manchester United</title>
+    <title>The Official United Podcast - Inside Carrington Podcast - Bruno Fernandes</title>
 </programme>
 <programme start="20260908133000 +0000" stop="20260908140000 +0000" channel="MUTV.virginmediatv">
     <title>Under 18 Premier League - Manchester United U18 v Middlesbrough U18</title>
