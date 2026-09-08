@@ -19669,7 +19669,7 @@
   <programme start="20260910213000 +0000" stop="20260910220000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Jasmine Blossom (2)</title>
   </programme>
-  <programme start="20260909205000 +0000" stop="20260910040000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260909220000 +0000" stop="20260910040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
   </programme>
   <programme start="20260910040000 +0000" stop="20260910080000 +0000" channel="Óčko.webtv.sk">
@@ -19735,11 +19735,11 @@
   <programme start="20260910193000 +0000" stop="20260910200000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">HOT HITY</title>
   </programme>
-  <programme start="20260910200000 +0000" stop="20260910205000 +0000" channel="Óčko.webtv.sk">
+  <programme start="20260910200000 +0000" stop="20260910210000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">NAKED ATTRACTION ŠVÉDSKO</title>
   </programme>
-  <programme start="20260910205000 +0000" stop="20260911040000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO FLIRT</title>
+  <programme start="20260910210000 +0000" stop="20260910220000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">KlenotTV</title>
   </programme>
   <programme start="20260909220000 +0000" stop="20260910050000 +0000" channel="Óčko Black.webtv.sk">
     <title lang="id">SLEEPIN’</title>

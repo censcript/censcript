@@ -3815,10 +3815,10 @@
     <title>Uncharted</title>
 </programme>
 <programme start="20260907230000 +0000" stop="20260908013000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: US Open 2026 - Day 9</title>
+    <title>Live: US Open 2026 - Women&#039;s Fourth Round: Iva Jovic v Coco Gauff</title>
 </programme>
 <programme start="20260908013000 +0000" stop="20260908043000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: US Open 2026 - Day 9</title>
+    <title>Live: US Open 2026 - Men&#039;s Fourth Round: Alexander Zverev v Luciano Darderi</title>
 </programme>
 <programme start="20260908043000 +0000" stop="20260908060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -4238,10 +4238,10 @@
     <title>British Kart Championships</title>
 </programme>
 <programme start="20260907230000 +0000" stop="20260908013000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live: US Open 2026 - Day 9</title>
+    <title>Live: US Open 2026 - Women&#039;s Fourth Round: Iva Jovic v Coco Gauff</title>
 </programme>
 <programme start="20260908013000 +0000" stop="20260908043000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live: US Open 2026 - Day 9</title>
+    <title>Live: US Open 2026 - Men&#039;s Fourth Round: Alexander Zverev v Luciano Darderi</title>
 </programme>
 <programme start="20260908043000 +0000" stop="20260908050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - WTA Review</title>
@@ -4457,10 +4457,10 @@
     <title>Live: UEFA Youth League Football - FC Porto U19 v Manchester City U19</title>
 </programme>
 <programme start="20260908130000 +0000" stop="20260908140000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
+    <title>Live: English Open Snooker - Round 1: Wu Yize v Gao Yang</title>
 </programme>
 <programme start="20260908140000 +0000" stop="20260908160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
+    <title>Live: English Open Snooker - Round 1: Mark Selby v Ricky Walden</title>
 </programme>
 <programme start="20260908160000 +0000" stop="20260908184500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: UEFA Champions League Football - Club Brugge v Aston Villa</title>
@@ -4559,10 +4559,10 @@
     <title>Serie A Football</title>
 </programme>
 <programme start="20260908120000 +0000" stop="20260908140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
+    <title>Live: English Open Snooker - Round 1: Wu Yize v Gao Yang</title>
 </programme>
 <programme start="20260908140000 +0000" stop="20260908160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 1</title>
+    <title>Live: English Open Snooker - Round 1: Mark Selby v Ricky Walden</title>
 </programme>
 <programme start="20260908160000 +0000" stop="20260908161500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>TNT Sports Cricket Reload - Sri Lanka v India, 2nd Test: Best Bowling</title>
@@ -4649,10 +4649,10 @@
     <title>Campeonato Brasileiro - Remo v Flamengo</title>
 </programme>
 <programme start="20260907230000 +0000" stop="20260908013000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: US Open 2026 - Day 9</title>
+    <title>Live: US Open 2026 - Women&#039;s Fourth Round: Iva Jovic v Coco Gauff</title>
 </programme>
 <programme start="20260908013000 +0000" stop="20260908043000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: US Open 2026 - Day 9</title>
+    <title>Live: US Open 2026 - Men&#039;s Fourth Round: Alexander Zverev v Luciano Darderi</title>
 </programme>
 <programme start="20260908043000 +0000" stop="20260908060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
@@ -5072,10 +5072,10 @@
     <title>British Kart Championships</title>
 </programme>
 <programme start="20260907230000 +0000" stop="20260908013000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live: US Open 2026 - Day 9</title>
+    <title>Live: US Open 2026 - Women&#039;s Fourth Round: Iva Jovic v Coco Gauff</title>
 </programme>
 <programme start="20260908013000 +0000" stop="20260908043000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live: US Open 2026 - Day 9</title>
+    <title>Live: US Open 2026 - Men&#039;s Fourth Round: Alexander Zverev v Luciano Darderi</title>
 </programme>
 <programme start="20260908043000 +0000" stop="20260908050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - WTA Review</title>

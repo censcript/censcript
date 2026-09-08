@@ -608,8 +608,6 @@
     <title lang="en">Refleksi Aktif</title>
     <desc lang="en">Bersama hos Fariha Razak menyelami latihan-latihan yang dilaksanakan oleh atlet-atlet berprestasi tinggi dalam meningkatkan prestasi mereka.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -620,57 +618,41 @@
     <title lang="en">Kau Perempuan Itu</title>
     <desc lang="en">Sarah yang diuji dengan kekecewaan cinta, konflik persahabatan dan rumah tangga selepas berkahwin dengan Ari Aqashah, lelaki yang keras dan ego. Kehadiran Haikal dan Tasha turut menguji kesetiaan serta kesabaran Sarah dalam mempertahankan rumah tangganya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260907173000 +0000" stop="20260907180000 +0000" channel="tv1.unifitv">
     <title lang="en">Rahsia Usia</title>
     <desc lang="en">Program majalah kesihatan yang menyajikan informasi terkini mengenai penjagaan kesihatan melalui kisah benar masyarakat. Setiap episod turut menampilkan pandangan doktor pakar serta lawatan kepada pesakit bagi memberi pendidikan dan kesedaran kepada penonton.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260907180000 +0000" stop="20260907190000 +0000" channel="tv1.unifitv">
     <title lang="en">Hanya Dengan Bismillah (Sr.2)</title>
     <desc lang="en">Zulaikha dan Munir terus diuji dengan pelbagai konflik rumah tangga apabila kehadiran orang ketiga serta campur tangan pihak lain menggugat kesetiaan dan kepercayaan mereka. Dalam menghadapi hasad dengki dan dugaan, mereka berusaha mempertahankan perkahwinan yang dibina.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260907190000 +0000" stop="20260907193000 +0000" channel="tv1.unifitv">
     <title lang="en">Ritma Jiwa</title>
     <desc lang="en">Program majalah ini memaparkan keunikan seni tarian dan muzik tradisional dari seluruh pelosok negeri di Malaysia, sekali gus mengangkat warisan budaya dan kepelbagaian seni tempatan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260907193000 +0000" stop="20260907203000 +0000" channel="tv1.unifitv">
     <title lang="en">Waris Kampung Semarah Padi (Ulangan)</title>
     <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260907203000 +0000" stop="20260907210000 +0000" channel="tv1.unifitv">
     <title lang="en">Coklat</title>
     <desc lang="en">Cikgu Yamin Nak kahwin? Hamra pula terpaksa dikejarkan ke klinik gara-gara anak kucing yang dibawa pulang oleh Dalila. Tapi kenapa pertolongan daripada cikgu Yamin disalah erti oleh Munir?</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260907210000 +0000" stop="20260907213000 +0000" channel="tv1.unifitv">
     <title lang="en">Dimensi Teknologi</title>
     <desc lang="en">Program ini memaparkan perkembangan teknologi pintar yang membentuk gaya hidup moden, serta memperkenalkan inovasi terkini yang memudahkan kehidupan harian.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260907213000 +0000" stop="20260907213500 +0000" channel="tv1.unifitv">
     <title lang="en">Simply Arabic</title>
     <desc lang="en">Sebuah program pembelajaran bahasa Arab secara santai, dan mudah, merangkumi kosa kata, frasa harian serta sebutan yang pratikal untuk kegunaan dalam kehidupan seharian.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260907213500 +0000" stop="20260907220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Yassin (2023)</title>
@@ -706,29 +688,21 @@
     <title lang="en">Rahsia Usia</title>
     <desc lang="en">Program majalah kesihatan yang menyajikan informasi terkini mengenai penjagaan kesihatan melalui kisah benar masyarakat. Setiap episod turut menampilkan pandangan doktor pakar serta lawatan kepada pesakit bagi memberi pendidikan dan kesedaran kepada penonton.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260908023000 +0000" stop="20260908030000 +0000" channel="tv1.unifitv">
     <title lang="en">Etnik Kita</title>
     <desc lang="en">Etnik Kita memaparkan pengembaraan hos, Alif Hadi dalam melihat kehidupan suku kaum minoriti di seluruh Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260908030000 +0000" stop="20260908033000 +0000" channel="tv1.unifitv">
     <title lang="en">Ritma Jiwa</title>
     <desc lang="en">Program majalah ini memaparkan keunikan seni tarian dan muzik tradisional dari seluruh pelosok negeri di Malaysia, sekali gus mengangkat warisan budaya dan kepelbagaian seni tempatan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260908033000 +0000" stop="20260908040000 +0000" channel="tv1.unifitv">
     <title lang="en">Dimensi Teknologi</title>
     <desc lang="en">Program ini memaparkan perkembangan teknologi pintar yang membentuk gaya hidup moden, serta memperkenalkan inovasi terkini yang memudahkan kehidupan harian.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260908040000 +0000" stop="20260908040500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -739,8 +713,6 @@
     <title lang="en">Help! We Bought A Village</title>
     <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260908050000 +0000" stop="20260908053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -749,18 +721,13 @@
   </programme>
   <programme start="20260908053000 +0000" stop="20260908063000 +0000" channel="tv1.unifitv">
     <title lang="en">Kau Perempuan Itu</title>
-    <desc lang="en">Sarah yang diuji dengan kekecewaan cinta, konflik persahabatan dan rumah tangga selepas berkahwin dengan Ari Aqashah, lelaki yang keras dan ego. Kehadiran Haikal dan Tasha turut menguji kesetiaan serta kesabaran Sarah dalam mempertahankan rumah tangganya.
-Pelakon : Ariff Aziz, Liyana Jasmay, Sheila Mambo, Neera Azizi, Razak Ahmad, Mustaqim Bahadon, Raja Azmi, Zaidi Omar, Aida Khalida</desc>
+    <desc lang="en">Sarah yang diuji dengan kekecewaan cinta, konflik persahabatan dan rumah tangga selepas berkahwin dengan Ari Aqashah, lelaki yang keras dan ego. Kehadiran Haikal dan Tasha turut menguji kesetiaan serta kesabaran Sarah dalam mempertahankan rumah tangganya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260908063000 +0000" stop="20260908070000 +0000" channel="tv1.unifitv">
     <title lang="en">Coklat</title>
-    <desc lang="en">Cikgu Yamin Nak kahwin? Hamra pula terpaksa dikejarkan ke klinik gara-gara anak kucing yang dibawa pulang oleh Dalila. Tapi kenapa pertolongan daripada cikgu Yamin disalah erti oleh Munir?</desc>
+    <desc lang="en">Drama bersiri</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260908070000 +0000" stop="20260908070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -781,15 +748,11 @@ Pelakon : Ariff Aziz, Liyana Jasmay, Sheila Mambo, Neera Azizi, Razak Ahmad, Mus
     <title lang="en">Prima Facie (Ulangan)</title>
     <desc lang="en">Sebuah program dokudrama yang memaparkan undang-undang yang terdapat di dalam sistem perundangan Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260908083000 +0000" stop="20260908090000 +0000" channel="tv1.unifitv">
     <title lang="en">Biz Malaysia 2026</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.38.</episode-num>
-    <episode-num system="onscreen">S1E39</episode-num>
   </programme>
   <programme start="20260908090000 +0000" stop="20260908100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -800,17 +763,11 @@ Pelakon : Ariff Aziz, Liyana Jasmay, Sheila Mambo, Neera Azizi, Razak Ahmad, Mus
     <title lang="en">Bismillah 2026</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260908104500 +0000" stop="20260908114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Waris Kampung Semarah Padi</title>
-    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti
-membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.
-Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamdan, Syed Zalihafe, Reen Rahim, Mona Allen, Datuk Ahmad Tarmimi Siregar, Sheila Mambo, Sharifah Amani, Zarina Zainuddin, Nadia Aqilah, Ruzana Ibrahim, Safia Hanifah</desc>
+    <title lang="en">Waris Kampung Semarah Padi (Ulangan)</title>
+    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260908114400 +0000" stop="20260908120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -828,11 +785,9 @@ Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamd
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260908130000 +0000" stop="20260908140000 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : Bicara Naratif 2026</title>
+    <title lang="en">LIVE : BICARA NARATIF</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260908140000 +0000" stop="20260908141500 +0000" channel="tv1.unifitv">
     <title lang="en">DUNIA 10</title>
@@ -840,24 +795,19 @@ Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamd
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260908141500 +0000" stop="20260908143000 +0000" channel="tv1.unifitv">
-    <title lang="en">Video Klip HKHM 2026/ Promo / PSA / Kapsul/ Kapsul TVC Janji HKHM 2026</title>
-    <desc lang="en">Video Klip HKHM 2026/ Promo / PSA / Kapsul/ Kapsul TVC Janji HKHM 2026</desc>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260908143000 +0000" stop="20260908153000 +0000" channel="tv1.unifitv">
-    <title lang="en">Hanya Dengan Bismillah Siri 2</title>
-    <desc lang="en">Zulaikha dan Munir terus diuji dengan pelbagai konflik rumah tangga apabila kehadiran orang ketiga serta campur tangan pihak lain menggugat kesetiaan dan kepercayaan mereka. Dalam menghadapi hasad dengki dan dugaan, mereka berusaha mempertahankan perkahwinan yang dibina.
-Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahim Omar, Farah Mendoza, Nur Faradiana.</desc>
+    <title lang="en">Hanya Dengan Bismillah (Sr.2)</title>
+    <desc lang="en">Zulaikha dan Munir terus diuji dengan pelbagai konflik rumah tangga apabila kehadiran orang ketiga serta campur tangan pihak lain menggugat kesetiaan dan kepercayaan mereka. Dalam menghadapi hasad dengki dan dugaan, mereka berusaha mempertahankan perkahwinan yang dibina.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <episode-num system="onscreen">S2E8</episode-num>
   </programme>
   <programme start="20260908153000 +0000" stop="20260908160000 +0000" channel="tv1.unifitv">
     <title lang="en">Voices From The Roof Of The World</title>
-    <desc lang="en">Sebuah program dokumentari yang mengupas isu alam sekitar di kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia menyorot konflik akibat aktiviti manusia serta keperluan kesedaran ke arah penyelesaian mampan.</desc>
+    <desc lang="en">Sebuah program dokumentari berbahasa Inggeris yang mengupas isu alam sekitar di kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia menyorot konflik akibat aktiviti manusia serta keperluan kesedaran ke arah penyelesaian mampan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20260908160000 +0000" stop="20260908163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -2565,8 +2515,8 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <title lang="en">Borneo Dive</title>
     <desc lang="en">Borneo Dive 2 will take viewers to experience the beauty of diving sites around Borneo, including Sabah, Sarawak, and Labuan. Join host Baki Zainal as he is accompanied by local celebrities who are also divers.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="onscreen">S2E2</episode-num>
   </programme>
   <programme start="20260907210000 +0000" stop="20260907213000 +0000" channel="tvs.unifitv">
     <title lang="en">Alunan Borneo</title>
@@ -2832,8 +2782,8 @@ Pelakon : Marisa Yasmin, Afiq Muiz, Wan Sharmila, Hafizul Kamal, Roy Azman, Rahi
     <title lang="en">Borneo Dive</title>
     <desc lang="en">Borneo Dive 2 will take viewers to experience the beauty of diving sites around Borneo, including Sabah, Sarawak, and Labuan. Join host Baki Zainal as he is accompanied by local celebrities who are also divers.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-    <episode-num system="onscreen">S2E3</episode-num>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <episode-num system="onscreen">S2E2</episode-num>
   </programme>
   <programme start="20260908110000 +0000" stop="20260908113000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Berita Iban TVS</title>
