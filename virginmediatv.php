@@ -2417,7 +2417,7 @@
     <title>Business Today</title>
 </programme>
 <programme start="20260908120000 +0000" stop="20260908130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260908130000 +0000" stop="20260908133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
@@ -4420,23 +4420,29 @@
 <programme start="20260908050000 +0000" stop="20260908060000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Spanish Grand Prix: Highlights</title>
 </programme>
-<programme start="20260908120000 +0000" stop="20260908123000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260908100000 +0000" stop="20260908121500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - Australian F1 Gp: Qualifying 2Hr Highlights</title>
+</programme>
+<programme start="20260908121500 +0000" stop="20260908124500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ted&#039;s Notebook - Italian Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260908123000 +0000" stop="20260908144500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260908124500 +0000" stop="20260908151500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Italian Grand Prix: Stand Alone Race</title>
 </programme>
-<programme start="20260908144500 +0000" stop="20260908151500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260908151500 +0000" stop="20260908154500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ted&#039;s Notebook - Italian Grand Prix: Race</title>
 </programme>
-<programme start="20260908151500 +0000" stop="20260908161500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>FIA Formula 3 Championship - Italy: Sprint Race</title>
+<programme start="20260908154500 +0000" stop="20260908160000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>The Cornwall Air Ambulance</title>
 </programme>
-<programme start="20260908161500 +0000" stop="20260908171500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260908160000 +0000" stop="20260908171000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>FIA Formula 3 Championship - Italy: Feature Race</title>
 </programme>
-<programme start="20260908171500 +0000" stop="20260908182000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>FIA Formula 2 Championship - Italy: Sprint Race</title>
+<programme start="20260908171000 +0000" stop="20260908171500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Strange F1 Race Absences</title>
+</programme>
+<programme start="20260908171500 +0000" stop="20260908184000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>FIA Formula 2 Championship - Italy: Feature Race</title>
 </programme>
 <programme start="20260908000000 +0000" stop="20260908030000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Major League Baseball - St. Louis Cardinals at San Francisco Giants</title>
@@ -5125,23 +5131,29 @@
 <programme start="20260908050000 +0000" stop="20260908060000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Spanish Grand Prix: Highlights</title>
 </programme>
-<programme start="20260908120000 +0000" stop="20260908123000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260908100000 +0000" stop="20260908121500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - Australian F1 Gp: Qualifying 2Hr Highlights</title>
+</programme>
+<programme start="20260908121500 +0000" stop="20260908124500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ted&#039;s Notebook - Italian Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260908123000 +0000" stop="20260908144500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260908124500 +0000" stop="20260908151500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Italian Grand Prix: Stand Alone Race</title>
 </programme>
-<programme start="20260908144500 +0000" stop="20260908151500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Ted&#039;s Notebook - Italian Grand Prix: Race</title>
-</programme>
-<programme start="20260908151500 +0000" stop="20260908161500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260908151500 +0000" stop="20260908154500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>FIA Formula 3 Championship - Italy: Sprint Race</title>
 </programme>
-<programme start="20260908161500 +0000" stop="20260908171500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260908154500 +0000" stop="20260908160000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>The Cornwall Air Ambulance</title>
+</programme>
+<programme start="20260908160000 +0000" stop="20260908171000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>FIA Formula 3 Championship - Italy: Feature Race</title>
 </programme>
-<programme start="20260908171500 +0000" stop="20260908182000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>FIA Formula 2 Championship - Italy: Sprint Race</title>
+<programme start="20260908171000 +0000" stop="20260908171500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Strange F1 Race Absences</title>
+</programme>
+<programme start="20260908171500 +0000" stop="20260908184000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>FIA Formula 2 Championship - Italy: Feature Race</title>
 </programme>
 <programme start="20260907223000 +0000" stop="20260908003800 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Joker</title>

@@ -640,9 +640,6 @@
 <programme start="20260908130000 +0000" stop="20260908150000 +0000" channel="ANTV.vision">
 <title>Pelet Kuntilanak</title>
 </programme>
-<programme start="20260908170000 +0000" stop="20260908190000 +0000" channel="ANTV.vision">
-<title>Detective Dee: Demon Chonchon</title>
-</programme>
 <programme start="20260908190000 +0000" stop="20260908203000 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260908230000 +0000" stop="20260909010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260909010000 +0000" stop="20260909030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
