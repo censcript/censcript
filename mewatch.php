@@ -271,17 +271,14 @@
     <programme start="20260909130000 +0000" stop="20260909140000 +0000" channel="Channel 8.mewatch">
         <title>Brighter Days - EP 13</title>
     </programme>
-    <programme start="20260909140000 +0000" stop="20260909143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260909140000 +0000" stop="20260909144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260909143000 +0000" stop="20260909150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260909144500 +0000" stop="20260909151500 +0000" channel="Channel 8.mewatch">
         <title>Taste of Canton S9 - EP 6</title>
     </programme>
-    <programme start="20260909150000 +0000" stop="20260909160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260909151500 +0000" stop="20260909161500 +0000" channel="Channel 8.mewatch">
         <title>The Litchi Road - EP 12</title>
-    </programme>
-    <programme start="20260909160000 +0000" stop="20260909170000 +0000" channel="Channel 8.mewatch">
-        <title>Heroes - EP 31</title>
     </programme>
     <programme start="20260908154500 +0000" stop="20260908164000 +0000" channel="Channel U.mewatch">
         <title>Brothers on the Camino - EP 4</title>

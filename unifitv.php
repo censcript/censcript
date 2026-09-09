@@ -14971,8 +14971,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260909130000 +0000" stop="20260909135500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Countdown - UFC 325: Volkanovski vs Lopes 2</title>
-    <desc lang="en">UFC 325 Countdown takes an inside look at the promotion’s return to Sydney, where featherweight king Alexander “The Great” Volkanovski squares off with Diego Lopes in a rematch. Plus, lightweights collide as Dan Hooker battles Benoit Saint Denis.??</desc>
+    <title lang="en">UFC Countdown - UFC 324: Gaethje vs Pimblett</title>
+    <desc lang="en">UFC 324 Countdown previews the promotion's new era on Paramount+, where lightweights Justin Gaethje and Paddy Pimblett battle for the interim title.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260909135500 +0000" stop="20260909140000 +0000" channel="unifisports1.unifitv">

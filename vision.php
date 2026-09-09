@@ -622,9 +622,6 @@
 <programme start="20260910114500 +0000" stop="20260910121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260908230000 +0000" stop="20260909023000 +0000" channel="ANTV.vision">
-<title>Gadar 2</title>
-</programme>
 <programme start="20260909023000 +0000" stop="20260909060000 +0000" channel="ANTV.vision">
 <title>Mujhse Shaadi Karogi</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260909190000 +0000" stop="20260909210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260909210000 +0000" stop="20260909230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

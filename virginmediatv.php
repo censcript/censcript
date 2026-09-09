@@ -4337,7 +4337,7 @@
     <title>The United Archives - 2007/08 Champions League Final: Manchester United v Chelsea</title>
 </programme>
 <programme start="20260909123000 +0000" stop="20260909124500 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Champions League Preview</title>
+    <title>Access All Areas - Everton</title>
 </programme>
 <programme start="20260909124500 +0000" stop="20260909131500 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference</title>
@@ -4541,7 +4541,7 @@
     <title>The Gruppetto - Episode 32</title>
 </programme>
 <programme start="20260909161500 +0000" stop="20260909163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>The Breakdown - Harry Kane</title>
+    <title>The Breakdown - Fabregas and Chalobah</title>
 </programme>
 <programme start="20260909163000 +0000" stop="20260909184500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: UEFA Champions League Football - FC Barcelona v Feyenoord</title>

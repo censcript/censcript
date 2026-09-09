@@ -1348,11 +1348,14 @@
 <programme start="20260909100000 +0000" stop="20260909113000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Paris (L)</title>
 </programme>
-<programme start="20260909113000 +0000" stop="20260909130000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260909113000 +0000" stop="20260909123000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Paris (L)</title>
 </programme>
-<programme start="20260909130000 +0000" stop="20260909143000 +0000" channel="beIN Sports 3.mncvision">
+<programme start="20260909123000 +0000" stop="20260909140000 +0000" channel="beIN Sports 3.mncvision">
     <title>Premier Padel 2026: Paris (L)</title>
+</programme>
+<programme start="20260909140000 +0000" stop="20260909143000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Specials: Rio</title>
 </programme>
 <programme start="20260909143000 +0000" stop="20260909150000 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV Treble 20: MUN Vs SHW</title>
@@ -1408,11 +1411,14 @@
 <programme start="20260909100000 +0000" stop="20260909113000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Paris (L)</title>
 </programme>
-<programme start="20260909113000 +0000" stop="20260909130000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260909113000 +0000" stop="20260909123000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Paris (L)</title>
 </programme>
-<programme start="20260909130000 +0000" stop="20260909143000 +0000" channel="beIN Sports 3 HD.mncvision">
+<programme start="20260909123000 +0000" stop="20260909140000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>Premier Padel 2026: Paris (L)</title>
+</programme>
+<programme start="20260909140000 +0000" stop="20260909143000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Specials: Rio</title>
 </programme>
 <programme start="20260909143000 +0000" stop="20260909150000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV Treble 20: MUN Vs SHW</title>
