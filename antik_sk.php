@@ -16525,37 +16525,37 @@
   <programme start="20260910214500 +0000" stop="20260910220300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260910220300 +0000" stop="20260910224800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260910220300 +0000" stop="20260910225000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Niebezpieczne zwiazki (115)</title>
   </programme>
-  <programme start="20260910224800 +0000" stop="20260910225500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260910225000 +0000" stop="20260910230000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260910225500 +0000" stop="20260910232300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260910230000 +0000" stop="20260910232800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260910232300 +0000" stop="20260910234500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260910232800 +0000" stop="20260910234900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (802)</title>
   </programme>
-  <programme start="20260910234500 +0000" stop="20260911000700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260910234900 +0000" stop="20260911001300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (852)</title>
   </programme>
-  <programme start="20260911000700 +0000" stop="20260911002200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260911001300 +0000" stop="20260911002800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
   </programme>
-  <programme start="20260911002200 +0000" stop="20260911003700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260911002800 +0000" stop="20260911004300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie jutro</title>
   </programme>
-  <programme start="20260911003700 +0000" stop="20260911005500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260911004300 +0000" stop="20260911010000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20260911005500 +0000" stop="20260911012700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260911010000 +0000" stop="20260911013000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia V (45)</title>
   </programme>
-  <programme start="20260911012700 +0000" stop="20260911015700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260911013000 +0000" stop="20260911015800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polskie Parki Narodowe (14)</title>
   </programme>
-  <programme start="20260911015700 +0000" stop="20260911024100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260911015800 +0000" stop="20260911024100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (508)</title>
   </programme>
   <programme start="20260911024100 +0000" stop="20260911034500 +0000" channel="TVP Info.webtv.sk">
@@ -16819,10 +16819,10 @@
   <programme start="20260911053000 +0000" stop="20260911055500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie na sniadanie (7673)</title>
   </programme>
-  <programme start="20260911055500 +0000" stop="20260911093500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260911055500 +0000" stop="20260911094000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie na sniadanie (7673)</title>
   </programme>
-  <programme start="20260911093500 +0000" stop="20260911100000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260911094000 +0000" stop="20260911100000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Skarbiec sztuki Lubelszczyzny (2)</title>
   </programme>
   <programme start="20260911100000 +0000" stop="20260911101000 +0000" channel="TVP Polonia.webtv.sk">

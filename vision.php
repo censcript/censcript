@@ -646,6 +646,12 @@
 <programme start="20260909130000 +0000" stop="20260909150000 +0000" channel="ANTV.vision">
 <title>Hantu Budeg</title>
 </programme>
+<programme start="20260909150000 +0000" stop="20260909170000 +0000" channel="ANTV.vision">
+<title>Yang Perkasa</title>
+</programme>
+<programme start="20260909170000 +0000" stop="20260909181500 +0000" channel="ANTV.vision">
+<title>Golden Spider City</title>
+</programme>
 <programme start="20260909181500 +0000" stop="20260909194500 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260909150000 +0000" stop="20260909170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260909170000 +0000" stop="20260909190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260909190000 +0000" stop="20260909210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

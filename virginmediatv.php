@@ -4528,14 +4528,8 @@
 <programme start="20260909113000 +0000" stop="20260909123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Vuelta a España - Stage 16</title>
 </programme>
-<programme start="20260909123000 +0000" stop="20260909160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20260909123000 +0000" stop="20260909163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Vuelta a España - Stage 17</title>
-</programme>
-<programme start="20260909160000 +0000" stop="20260909161500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>The Gruppetto - Episode 32</title>
-</programme>
-<programme start="20260909161500 +0000" stop="20260909163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>The Breakdown - Fabregas and Chalobah</title>
 </programme>
 <programme start="20260909163000 +0000" stop="20260909184500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: UEFA Champions League Football - FC Barcelona v Feyenoord</title>
@@ -4567,11 +4561,8 @@
 <programme start="20260909120000 +0000" stop="20260909140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: English Open Snooker - Round 2: Zhang Anda v Mark Selby</title>
 </programme>
-<programme start="20260909140000 +0000" stop="20260909160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260909140000 +0000" stop="20260909170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: English Open Snooker - Round 2: Judd Trump v Ashley Carty</title>
-</programme>
-<programme start="20260909160000 +0000" stop="20260909170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260909170000 +0000" stop="20260909180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>FIA World Endurance Championship Motor Racing - Lone Star Le Mans</title>
@@ -6061,7 +6052,10 @@
 <programme start="20260908175800 +0000" stop="20260909015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260909015800 +0000" stop="20260909060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260909015800 +0000" stop="20260909050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260909120000 +0000" stop="20260909121000 +0000" channel="CBBC.virginmediatv">
