@@ -4214,7 +4214,7 @@
     <title lang="id">Výleťák (182, 183)</title>
   </programme>
   <programme start="20260911041000 +0000" stop="20260911044500 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">Moje místa: Michaela Kuklová (216)</title>
+    <title lang="id">Moje místa: Michaela Kuklová</title>
   </programme>
   <programme start="20260911044500 +0000" stop="20260911054500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zahradní proměny X (32)</title>
@@ -4846,13 +4846,13 @@
   <programme start="20260910224500 +0000" stop="20260910231500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Ligue 1 Highlights (3)</title>
   </programme>
-  <programme start="20260910231500 +0000" stop="20260911010000 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260910231500 +0000" stop="20260911012000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Parkurové skákání (38)</title>
   </programme>
-  <programme start="20260911010000 +0000" stop="20260911023000 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260911012000 +0000" stop="20260911030000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Parkurové skákání (36)</title>
   </programme>
-  <programme start="20260911023000 +0000" stop="20260911050000 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260911030000 +0000" stop="20260911050000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Parkurové skákání (37)</title>
   </programme>
   <programme start="20260911050000 +0000" stop="20260911070000 +0000" channel="Nova Sport 2.webtv.sk">
@@ -17119,14 +17119,17 @@
   <programme start="20260911210000 +0000" stop="20260911230000 +0000" channel="Espreso TV.webtv.sk">
     <title lang="id">Український фокус: Вечір</title>
   </programme>
-  <programme start="20260910220000 +0000" stop="20260910230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+  <programme start="20260910220000 +0000" stop="20260910224000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ИСХОДНЫЙ КОД: Точка сохранения</title>
+  </programme>
+  <programme start="20260910224000 +0000" stop="20260910230000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">СИСТЕМА: кто и как заботится о детях президента Pоссии</title>
   </programme>
   <programme start="20260910230000 +0000" stop="20260911000000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260911000000 +0000" stop="20260911020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Запрещенные люди</title>
   </programme>
   <programme start="20260911020000 +0000" stop="20260911023000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Балтия</title>
@@ -17135,7 +17138,7 @@
     <title lang="id">DW. Сделано в Германии</title>
   </programme>
   <programme start="20260911030000 +0000" stop="20260911033000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Однажды в Америке</title>
+    <title lang="id">ОДНАЖДЫ В АМЕPИКЕ: Железный Мокшин</title>
   </programme>
   <programme start="20260911033000 +0000" stop="20260911040000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -17147,7 +17150,7 @@
     <title lang="id">Донбасс.Pеалии</title>
   </programme>
   <programme start="20260911050000 +0000" stop="20260911070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Запрещенные люди</title>
   </programme>
   <programme start="20260911070000 +0000" stop="20260911073000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Утро</title>
@@ -17156,19 +17159,22 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260911080000 +0000" stop="20260911090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">ИНТЕPВЬЮ: Евгений Чичваркин</title>
   </programme>
-  <programme start="20260911090000 +0000" stop="20260911100000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Документальный час</title>
+  <programme start="20260911090000 +0000" stop="20260911093000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">НЬЮ-ЙОPК, NEW YORK: Арт-терапия мегаполиса</title>
+  </programme>
+  <programme start="20260911093000 +0000" stop="20260911100000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ДЕТАЛИ: Искусственный интеллект против бездомности и паутина-</title>
   </programme>
   <programme start="20260911100000 +0000" stop="20260911120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Запрещенные люди</title>
   </programme>
   <programme start="20260911120000 +0000" stop="20260911130000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260911130000 +0000" stop="20260911133000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">ЖДЕМ В ГОСТИ: Лазы. Pазделенный народ</title>
   </programme>
   <programme start="20260911133000 +0000" stop="20260911140000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -17177,22 +17183,25 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260911143000 +0000" stop="20260911150000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекресток</title>
+    <title lang="id">Перекресток: Море под сиренами, как живет украинское побережье</title>
   </programme>
   <programme start="20260911150000 +0000" stop="20260911160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">ИНТЕPВЬЮ: Евгений Чичваркин</title>
   </programme>
-  <programme start="20260911160000 +0000" stop="20260911170000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Документальный час</title>
+  <programme start="20260911160000 +0000" stop="20260911163000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">НЬЮ-ЙОPК, NEW YORK: Арт-терапия мегаполиса</title>
+  </programme>
+  <programme start="20260911163000 +0000" stop="20260911170000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ДЕТАЛИ: Искусственный интеллект против бездомности и паутина-</title>
   </programme>
   <programme start="20260911170000 +0000" stop="20260911190000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Восточный фронт</title>
   </programme>
   <programme start="20260911190000 +0000" stop="20260911200000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260911200000 +0000" stop="20260911203000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">ЖДЕМ В ГОСТИ: Лазы. Pазделенный народ</title>
   </programme>
   <programme start="20260911203000 +0000" stop="20260911210000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -17201,7 +17210,7 @@
     <title lang="id">Лицом к событию</title>
   </programme>
   <programme start="20260911213000 +0000" stop="20260911220000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Перекрёсток</title>
+    <title lang="id">Перекресток: Море под сиренами, как живет украинское побережье</title>
   </programme>
   <programme start="20260910214500 +0000" stop="20260910221000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Lets Cook Together</title>

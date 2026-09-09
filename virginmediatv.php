@@ -8,7 +8,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260909042500 +0000" stop="20260909051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Tonight Show - Episode 62</title>
+    <title>The Tonight Show - The Tonight Show - Tue, 08 Sep</title>
 </programme>
 <programme start="20260909051500 +0000" stop="20260909060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Six O&#039;Clock Show - Episode 170</title>
@@ -301,10 +301,10 @@
 <programme start="20260909175000 +0000" stop="20260909185500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Agatha Christie&#039;s Poirot - Jewel Robbery at the Grand Metropolitan</title>
 </programme>
-<programme start="20260908223000 +0000" stop="20260909014400 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260908223000 +0000" stop="20260909005900 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>This Morning - Episode 176</title>
 </programme>
-<programme start="20260909014400 +0000" stop="20260909061500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20260909005900 +0000" stop="20260909061500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260909114500 +0000" stop="20260909125000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
@@ -506,7 +506,7 @@
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260909052500 +0000" stop="20260909061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>The Tonight Show - Episode 62</title>
+    <title>The Tonight Show - The Tonight Show - Tue, 08 Sep</title>
 </programme>
 <programme start="20260909100000 +0000" stop="20260909123000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>This Morning - Episode 178</title>
@@ -4108,7 +4108,10 @@
 <programme start="20260909030000 +0000" stop="20260909040000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260909040000 +0000" stop="20260909060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260909040000 +0000" stop="20260909050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260909110000 +0000" stop="20260909130000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4331,7 +4334,7 @@
     <title>Access All Areas - Everton</title>
 </programme>
 <programme start="20260909124500 +0000" stop="20260909131500 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+    <title>Manager&#039;s Press Conference - Live: Press Conference: Sabah FK (H)</title>
 </programme>
 <programme start="20260909131500 +0000" stop="20260909133000 +0000" channel="MUTV.virginmediatv">
     <title>Top 20 Goals - European Goals at Old Trafford</title>
@@ -4346,7 +4349,7 @@
     <title>The Official United Podcast - Inside Carrington Podcast - Bruno Fernandes</title>
 </programme>
 <programme start="20260909150000 +0000" stop="20260909153000 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+    <title>Manager&#039;s Press Conference - Live: Press Conference: Sabah FK (H)</title>
 </programme>
 <programme start="20260909153000 +0000" stop="20260909160000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 1967/68 European Cup Final: Benfica v Manchester United</title>
@@ -4358,7 +4361,7 @@
     <title>The United Archives - 2007/08 Champions League Final: Manchester United v Chelsea</title>
 </programme>
 <programme start="20260909170000 +0000" stop="20260909173000 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+    <title>Manager&#039;s Press Conference - Live: Press Conference: Sabah FK (H)</title>
 </programme>
 <programme start="20260909173000 +0000" stop="20260909180000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Cup - Manchester United U18 v Charlton Athletic U18</title>
@@ -4435,7 +4438,7 @@
 <programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Vuelta a España - Stage 16</title>
 </programme>
-<programme start="20260909113000 +0000" stop="20260909123000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260909120000 +0000" stop="20260909123000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20260909123000 +0000" stop="20260909130000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4873,7 +4876,10 @@
 <programme start="20260909030000 +0000" stop="20260909040000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260909040000 +0000" stop="20260909060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260909040000 +0000" stop="20260909050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260909110000 +0000" stop="20260909130000 +0000" channel="Sky_Sports_Plus.virginmediatv">
