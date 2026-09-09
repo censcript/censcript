@@ -5069,7 +5069,7 @@
     <title>Morphle</title>
 </programme>
 <programme start="20260908200000 +0000" stop="20260908203000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol S4</title>
+    <title>Backkom S5</title>
 </programme>
 <programme start="20260908203000 +0000" stop="20260908210000 +0000" channel="Kids TV.mncvision">
     <title>Bima S</title>
@@ -5204,7 +5204,7 @@
     <title>Morphle</title>
 </programme>
 <programme start="20260908200000 +0000" stop="20260908203000 +0000" channel="Kids TV HD.mncvision">
-    <title>PAW Patrol S4</title>
+    <title>Backkom S5</title>
 </programme>
 <programme start="20260908203000 +0000" stop="20260908210000 +0000" channel="Kids TV HD.mncvision">
     <title>Bima S</title>
@@ -8468,13 +8468,13 @@
     <title>Roshn Saudi League 26/27</title>
 </programme>
 <programme start="20260909063000 +0000" stop="20260909083000 +0000" channel="SPOTV.mncvision">
-    <title>Roshn Saudi League 26/27</title>
+    <title>Roshn Saudi League: QAD Vs AHL</title>
 </programme>
 <programme start="20260909083000 +0000" stop="20260909130000 +0000" channel="SPOTV.mncvision">
     <title>2026 US Open Tennis C&#039;hips</title>
 </programme>
 <programme start="20260909130000 +0000" stop="20260909150000 +0000" channel="SPOTV.mncvision">
-    <title>Roshn Saudi League 26/27</title>
+    <title>Roshn Saudi League: ITH Vs FAY</title>
 </programme>
 <programme start="20260909150000 +0000" stop="20260909153000 +0000" channel="SPOTV.mncvision">
     <title>2026 US Open Tennis Highlights</title>
@@ -8552,13 +8552,13 @@
     <title>Roshn Saudi League 26/27</title>
 </programme>
 <programme start="20260909063000 +0000" stop="20260909083000 +0000" channel="SPOTV HD.mncvision">
-    <title>Roshn Saudi League 26/27</title>
+    <title>Roshn Saudi League: QAD Vs AHL</title>
 </programme>
 <programme start="20260909083000 +0000" stop="20260909130000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 US Open Tennis C&#039;hips</title>
 </programme>
 <programme start="20260909130000 +0000" stop="20260909150000 +0000" channel="SPOTV HD.mncvision">
-    <title>Roshn Saudi League 26/27</title>
+    <title>Roshn Saudi League: ITH Vs FAY</title>
 </programme>
 <programme start="20260909150000 +0000" stop="20260909153000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 US Open Tennis Highlights</title>

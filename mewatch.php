@@ -385,10 +385,10 @@
     <programme start="20260909140000 +0000" stop="20260909150000 +0000" channel="Channel U.mewatch">
         <title>My Sweet Mobster - EP 9</title>
     </programme>
-    <programme start="20260909150000 +0000" stop="20260909153000 +0000" channel="Channel U.mewatch">
+    <programme start="20260909150000 +0000" stop="20260909154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20260909153000 +0000" stop="20260909163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260909154500 +0000" stop="20260909164000 +0000" channel="Channel U.mewatch">
         <title>The Indigenous - EP 9</title>
     </programme>
     <programme start="20260908160000 +0000" stop="20260909010000 +0000" channel="Suria.mewatch">
@@ -819,4 +819,10 @@
     </programme>
     <programme start="20260909160000 +0000" stop="20260910160000 +0000" channel="Live 2.mewatch">
         <title>No programme available now.</title>
+    </programme>
+    <programme start="20260908160000 +0000" stop="20260909160000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 17th September, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
+    </programme>
+    <programme start="20260909160000 +0000" stop="20260910160000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 17th September, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
     </programme>

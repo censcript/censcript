@@ -31,8 +31,11 @@
 <programme start="20260909171500 +0000" stop="20260909183000 +0000" channel="RCTI.vision">
 <title>MJ I&#039;m In Love</title>
 </programme>
-<programme start="20260909183000 +0000" stop="20260909200000 +0000" channel="RCTI.vision">
-<title>Dilarang Jomblo</title>
+<programme start="20260909183000 +0000" stop="20260909190000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260909190000 +0000" stop="20260909200000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
 </programme>
 <programme start="20260909200000 +0000" stop="20260909221500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S9</title>
@@ -622,6 +625,9 @@
 <programme start="20260910114500 +0000" stop="20260910121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260908230000 +0000" stop="20260909023000 +0000" channel="ANTV.vision">
+<title>Gadar 2</title>
+</programme>
 <programme start="20260909023000 +0000" stop="20260909060000 +0000" channel="ANTV.vision">
 <title>Mujhse Shaadi Karogi</title>
 </programme>
@@ -643,14 +649,17 @@
 <programme start="20260909150000 +0000" stop="20260909170000 +0000" channel="ANTV.vision">
 <title>Yang Perkasa</title>
 </programme>
-<programme start="20260909170000 +0000" stop="20260909190000 +0000" channel="ANTV.vision">
+<programme start="20260909170000 +0000" stop="20260909181500 +0000" channel="ANTV.vision">
 <title>Golden Spider City</title>
 </programme>
-<programme start="20260909190000 +0000" stop="20260909203000 +0000" channel="ANTV.vision">
+<programme start="20260909181500 +0000" stop="20260909194500 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
-<programme start="20260909203000 +0000" stop="20260909213000 +0000" channel="ANTV.vision">
+<programme start="20260909194500 +0000" stop="20260909204500 +0000" channel="ANTV.vision">
 <title>Karma</title>
+</programme>
+<programme start="20260909204500 +0000" stop="20260909213000 +0000" channel="ANTV.vision">
+<title>Bikin Mewek</title>
 </programme>
 <programme start="20260909213000 +0000" stop="20260909230000 +0000" channel="ANTV.vision">
 <title>Hati Ke Hati Bersama Mamah...</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260909150000 +0000" stop="20260909170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260909170000 +0000" stop="20260909190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260909190000 +0000" stop="20260909210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260909210000 +0000" stop="20260909230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

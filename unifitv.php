@@ -15410,14 +15410,19 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260909113000 +0000" stop="20260909130000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260909113000 +0000" stop="20260909123000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Premier Padel - Paris Major Day 3 Match 2 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260909130000 +0000" stop="20260909143000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260909123000 +0000" stop="20260909140000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Premier Padel - Paris Major Day 3 Match 3 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260909140000 +0000" stop="20260909143000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV: Specials -Rio: Past, Present and Future</title>
+    <desc lang="en">A series to mark Manchester United's incredible Treble campaign of 1998/99 winning Premier League, UEFA Champions League and FA Cup.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260909143000 +0000" stop="20260909150000 +0000" channel="beinsports3.unifitv">
