@@ -4210,20 +4210,17 @@
 <programme start="20260909013000 +0000" stop="20260909043000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live: US Open 2026 - Men&#039;s Quarter-Finals: Blake Shelton v Carlos Alcaraz</title>
 </programme>
-<programme start="20260909043000 +0000" stop="20260909050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260909043000 +0000" stop="20260909074500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Dubai Championship 2026 - WTA Review</title>
 </programme>
-<programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open Tennis Classic Matches - 2022: Carlos Alcaraz v Caspar Ruud</title>
-</programme>
-<programme start="20260909103000 +0000" stop="20260909123000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Women&#039;s Quarter-Finals: Jessica Pegula v Emma Navarro</title>
-</programme>
-<programme start="20260909123000 +0000" stop="20260909143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260909100000 +0000" stop="20260909121500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Men&#039;s Quarter-Finals: Blake Shelton v Carlos Alcaraz</title>
 </programme>
-<programme start="20260909143000 +0000" stop="20260909150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260909121500 +0000" stop="20260909124500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Day 10: Highlights</title>
+</programme>
+<programme start="20260909124500 +0000" stop="20260909150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>US Open 2026 - Men&#039;s Quarter-Finals: Blake Shelton v Carlos Alcaraz</title>
 </programme>
 <programme start="20260909150000 +0000" stop="20260909223000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live: US Open 2026 - Quarter-Finals</title>
@@ -4259,12 +4256,9 @@
     <title>Irish Racing Replay</title>
 </programme>
 <programme start="20260909114500 +0000" stop="20260909121500 +0000" channel="Racing_UK.virginmediatv">
-    <title>The Bloodstock Files</title>
-</programme>
-<programme start="20260909121500 +0000" stop="20260909124500 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260909124500 +0000" stop="20260909194500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260909121500 +0000" stop="20260909194500 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260908233000 +0000" stop="20260909010000 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -4286,12 +4280,9 @@
     <title>Irish Racing Replay</title>
 </programme>
 <programme start="20260909114500 +0000" stop="20260909121500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>The Bloodstock Files</title>
-</programme>
-<programme start="20260909121500 +0000" stop="20260909124500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260909124500 +0000" stop="20260909194500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260909121500 +0000" stop="20260909194500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260909000000 +0000" stop="20260909001500 +0000" channel="MUTV.virginmediatv">
@@ -4571,10 +4562,10 @@
     <title>FIM Superbike World Championship Motorcycle Racing - French Round</title>
 </programme>
 <programme start="20260909120000 +0000" stop="20260909140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 2</title>
+    <title>Live: English Open Snooker - Round 2: Zhang Anda v Mark Selby</title>
 </programme>
 <programme start="20260909140000 +0000" stop="20260909160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 2</title>
+    <title>Live: English Open Snooker - Round 2: Judd Trump v Ashley Carty</title>
 </programme>
 <programme start="20260909160000 +0000" stop="20260909170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
@@ -4984,20 +4975,17 @@
 <programme start="20260909013000 +0000" stop="20260909043000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live: US Open 2026 - Men&#039;s Quarter-Finals: Blake Shelton v Carlos Alcaraz</title>
 </programme>
-<programme start="20260909043000 +0000" stop="20260909050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260909043000 +0000" stop="20260909074500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Dubai Championship 2026 - WTA Review</title>
 </programme>
-<programme start="20260909050000 +0000" stop="20260909060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open Tennis Classic Matches - 2022: Carlos Alcaraz v Caspar Ruud</title>
-</programme>
-<programme start="20260909103000 +0000" stop="20260909123000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Women&#039;s Quarter-Finals: Jessica Pegula v Emma Navarro</title>
-</programme>
-<programme start="20260909123000 +0000" stop="20260909143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260909100000 +0000" stop="20260909121500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Men&#039;s Quarter-Finals: Blake Shelton v Carlos Alcaraz</title>
 </programme>
-<programme start="20260909143000 +0000" stop="20260909150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260909121500 +0000" stop="20260909124500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Day 10: Highlights</title>
+</programme>
+<programme start="20260909124500 +0000" stop="20260909150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>US Open 2026 - Men&#039;s Quarter-Finals: Blake Shelton v Carlos Alcaraz</title>
 </programme>
 <programme start="20260909150000 +0000" stop="20260909223000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live: US Open 2026 - Quarter-Finals</title>
@@ -7616,70 +7604,70 @@
     <title>Creflo Dollar</title>
 </programme>
 <programme start="20260909000000 +0000" stop="20260909003000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Dilo Ki Ram Leela</title>
+    <title>Goliyon Ki Raasleela Ram-Leela</title>
 </programme>
 <programme start="20260909003000 +0000" stop="20260909010000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Hamari Radha</title>
+    <title>Humari Radha - Episode 3</title>
 </programme>
 <programme start="20260909010000 +0000" stop="20260909013000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 36</title>
+    <title>Tu Hi Re Dil Mein - Episode 56</title>
 </programme>
 <programme start="20260909013000 +0000" stop="20260909020000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri</title>
+    <title>Jagadhatri - Episode 3</title>
 </programme>
 <programme start="20260909020000 +0000" stop="20260909023000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Vasudha</title>
+    <title>Vasudha - Chandrika Slaps Vasudha</title>
 </programme>
 <programme start="20260909023000 +0000" stop="20260909030000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak</title>
+    <title>Tum Se Tum Tak - Episode 3</title>
 </programme>
 <programme start="20260909030000 +0000" stop="20260909033000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan</title>
+    <title>Ganga Mai Ki Betiyaan - Episode 3</title>
 </programme>
 <programme start="20260909033000 +0000" stop="20260909043000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Lakshmi Nivas</title>
+    <title>Lakshmi Nivas - Episode 3</title>
 </programme>
 <programme start="20260909043000 +0000" stop="20260909050000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak</title>
+    <title>Tum Se Tum Tak - Episode 3</title>
 </programme>
 <programme start="20260909050000 +0000" stop="20260909053000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan</title>
+    <title>Ganga Mai Ki Betiyaan - Episode 3</title>
 </programme>
 <programme start="20260909053000 +0000" stop="20260909060000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri</title>
+    <title>Jagadhatri - Episode 3</title>
 </programme>
 <programme start="20260909120000 +0000" stop="20260909123000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri</title>
+    <title>Jagadhatri - Episode 3</title>
 </programme>
 <programme start="20260909123000 +0000" stop="20260909130000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Hamari Radha</title>
+    <title>Humari Radha - Episode 3</title>
 </programme>
 <programme start="20260909130000 +0000" stop="20260909133000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak</title>
+    <title>Tum Se Tum Tak - Episode 3</title>
 </programme>
 <programme start="20260909133000 +0000" stop="20260909140000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan</title>
+    <title>Ganga Mai Ki Betiyaan - Episode 3</title>
 </programme>
 <programme start="20260909140000 +0000" stop="20260909143000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 36</title>
+    <title>Tu Hi Re Dil Mein - Episode 56</title>
 </programme>
 <programme start="20260909143000 +0000" stop="20260909150000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Dilo Ki Ram Leela</title>
+    <title>Goliyon Ki Raasleela Ram-Leela</title>
 </programme>
 <programme start="20260909150000 +0000" stop="20260909160000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Lakshmi Nivas</title>
+    <title>Lakshmi Nivas - Episode 3</title>
 </programme>
 <programme start="20260909160000 +0000" stop="20260909163000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 36</title>
+    <title>Tu Hi Re Dil Mein - Episode 56</title>
 </programme>
 <programme start="20260909163000 +0000" stop="20260909170000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Hamari Radha</title>
+    <title>Humari Radha - Episode 3</title>
 </programme>
 <programme start="20260909170000 +0000" stop="20260909173000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak</title>
+    <title>Tum Se Tum Tak - Episode 3</title>
 </programme>
 <programme start="20260909173000 +0000" stop="20260909180000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Dilo Ki Ram Leela</title>
+    <title>Goliyon Ki Raasleela Ram-Leela</title>
 </programme>
 <programme start="20260908231200 +0000" stop="20260909004500 +0000" channel="TV5.virginmediatv">
     <title>Neige</title>
