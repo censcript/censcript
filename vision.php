@@ -628,12 +628,6 @@
 <programme start="20260911114500 +0000" stop="20260911121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260909230000 +0000" stop="20260910023000 +0000" channel="ANTV.vision">
-<title>Kedarnath</title>
-</programme>
-<programme start="20260910023000 +0000" stop="20260910060000 +0000" channel="ANTV.vision">
-<title>Kal Ho Naa Ho</title>
-</programme>
 <programme start="20260910060000 +0000" stop="20260910073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -887,7 +881,7 @@
 <title>Sapa Indonesia Pagi</title>
 </programme>
 <programme start="20260910023000 +0000" stop="20260910033000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama</title>
+<title>Berita Utama (Live)</title>
 </programme>
 <programme start="20260910033000 +0000" stop="20260910040000 +0000" channel="Kompas TV.vision">
 <title>Borgol</title>
@@ -904,10 +898,10 @@
 <programme start="20260910073000 +0000" stop="20260910080000 +0000" channel="Kompas TV.vision">
 <title>Jurnal Nusantara</title>
 </programme>
-<programme start="20260910080000 +0000" stop="20260910082959 +0000" channel="Kompas TV.vision">
+<programme start="20260910080000 +0000" stop="20260910083000 +0000" channel="Kompas TV.vision">
 <title>Jurnal Merah Putih</title>
 </programme>
-<programme start="20260910082959 +0000" stop="20260910090000 +0000" channel="Kompas TV.vision">
+<programme start="20260910083000 +0000" stop="20260910090000 +0000" channel="Kompas TV.vision">
 <title>Borgol</title>
 </programme>
 <programme start="20260910090000 +0000" stop="20260910103000 +0000" channel="Kompas TV.vision">
@@ -917,7 +911,7 @@
 <title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20260910123000 +0000" stop="20260910133000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama (Live)</title>
+<title>Berita Utama</title>
 </programme>
 <programme start="20260910133000 +0000" stop="20260910150000 +0000" channel="Kompas TV.vision">
 <title>Rosi</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260910210000 +0000" stop="20260910230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260910230000 +0000" stop="20260911010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260911010000 +0000" stop="20260911030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

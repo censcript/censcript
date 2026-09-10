@@ -833,8 +833,8 @@
         <title>No programme available now.</title>
     </programme>
     <programme start="20260909160000 +0000" stop="20260910160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th September, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
+        <title>No programme available now.</title>
     </programme>
-    <programme start="20260910160000 +0000" stop="20260911160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th September, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
+    <programme start="20260910160000 +0000" stop="20260910220000 +0000" channel="Live 5.mewatch">
+        <title>No programme available now. - EP1</title>
     </programme>

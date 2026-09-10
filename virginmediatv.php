@@ -284,7 +284,7 @@
     <title>Home Fires - Episode 1</title>
 </programme>
 <programme start="20260910145500 +0000" stop="20260910155500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>The Voice USA - The Blind Auditions Premiere</title>
+    <title>The Voice USA - Live Finale Results</title>
 </programme>
 <programme start="20260910155500 +0000" stop="20260910165500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>The Hotel Inspector - Bodkin House</title>
@@ -4072,10 +4072,7 @@
 <programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Sports Desk</title>
 </programme>
-<programme start="20260910150000 +0000" stop="20260910160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live: Solheim Cup Women&#039;s Golf - Opening Ceremony</title>
-</programme>
-<programme start="20260910160000 +0000" stop="20260910230000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260910150000 +0000" stop="20260910230000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: US Open 2026 - Day 12</title>
 </programme>
 <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
@@ -4174,16 +4171,16 @@
 <programme start="20260910053000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>ATP Tour: This Week - Episode 93</title>
 </programme>
-<programme start="20260910113000 +0000" stop="20260910133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260910103000 +0000" stop="20260910123000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Women&#039;s Quarter-Finals: Mirra Andreeva v Coco Gauff</title>
 </programme>
-<programme start="20260910133000 +0000" stop="20260910153000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260910123000 +0000" stop="20260910143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Men&#039;s Quarter-Finals: Alexander Zverev v Botic van de Zandschulp</title>
 </programme>
-<programme start="20260910153000 +0000" stop="20260910160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260910143000 +0000" stop="20260910150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Day 11: Highlights</title>
 </programme>
-<programme start="20260910160000 +0000" stop="20260910230000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260910150000 +0000" stop="20260910230000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live: US Open 2026 - Day 12</title>
 </programme>
 <programme start="20260909220000 +0000" stop="20260910010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
@@ -4852,10 +4849,7 @@
 <programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Sports Desk</title>
 </programme>
-<programme start="20260910150000 +0000" stop="20260910160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live: Solheim Cup Women&#039;s Golf - Opening Ceremony</title>
-</programme>
-<programme start="20260910160000 +0000" stop="20260910230000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260910150000 +0000" stop="20260910230000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: US Open 2026 - Day 12</title>
 </programme>
 <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="Sky_Sports_News.virginmediatv">
@@ -4954,16 +4948,16 @@
 <programme start="20260910053000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>ATP Tour: This Week - Episode 93</title>
 </programme>
-<programme start="20260910113000 +0000" stop="20260910133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260910103000 +0000" stop="20260910123000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Women&#039;s Quarter-Finals: Mirra Andreeva v Coco Gauff</title>
 </programme>
-<programme start="20260910133000 +0000" stop="20260910153000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260910123000 +0000" stop="20260910143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Men&#039;s Quarter-Finals: Alexander Zverev v Botic van de Zandschulp</title>
 </programme>
-<programme start="20260910153000 +0000" stop="20260910160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260910143000 +0000" stop="20260910150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Day 11: Highlights</title>
 </programme>
-<programme start="20260910160000 +0000" stop="20260910230000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260910150000 +0000" stop="20260910230000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live: US Open 2026 - Day 12</title>
 </programme>
 <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="Sky_Sports_F1.virginmediatv">
@@ -7559,7 +7553,7 @@
     <title>Creflo Dollar</title>
 </programme>
 <programme start="20260910000000 +0000" stop="20260910003000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Goliyon Ki Raasleela Ram-Leela</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260910003000 +0000" stop="20260910010000 +0000" channel="Zee_TV.virginmediatv">
     <title>Humari Radha - Episode 3</title>
@@ -7586,43 +7580,43 @@
     <title>Tum Se Tum Tak - Episode 3</title>
 </programme>
 <programme start="20260910050000 +0000" stop="20260910053000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan - Episode 3</title>
+    <title>Ganga Mai Ki Betiyaan - Episode 103</title>
 </programme>
 <programme start="20260910053000 +0000" stop="20260910060000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri - Episode 3</title>
+    <title>Jagadhatri - Episode 181</title>
 </programme>
 <programme start="20260910120000 +0000" stop="20260910123000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri - Episode 3</title>
+    <title>Jagadhatri - Episode 181</title>
 </programme>
 <programme start="20260910123000 +0000" stop="20260910130000 +0000" channel="Zee_TV.virginmediatv">
     <title>Humari Radha - Episode 3</title>
 </programme>
 <programme start="20260910130000 +0000" stop="20260910133000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 3</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260910133000 +0000" stop="20260910140000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan - Episode 3</title>
+    <title>Ganga Mai Ki Betiyaan - Episode 103</title>
 </programme>
 <programme start="20260910140000 +0000" stop="20260910143000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 56</title>
+    <title>Tu Hi Re Dil Mein - Episode 53</title>
 </programme>
 <programme start="20260910143000 +0000" stop="20260910150000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Goliyon Ki Raasleela Ram-Leela</title>
+    <title>Dilo Ki Ram Leela - Episode 18</title>
 </programme>
 <programme start="20260910150000 +0000" stop="20260910160000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Lakshmi Nivas - Episode 3</title>
+    <title>Lakshmi Nivas - Episode 25</title>
 </programme>
 <programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 56</title>
+    <title>Tu Hi Re Dil Mein - Episode 53</title>
 </programme>
 <programme start="20260910163000 +0000" stop="20260910170000 +0000" channel="Zee_TV.virginmediatv">
     <title>Humari Radha - Episode 3</title>
 </programme>
 <programme start="20260910170000 +0000" stop="20260910173000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 3</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260910173000 +0000" stop="20260910180000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Goliyon Ki Raasleela Ram-Leela</title>
+    <title>Dilo Ki Ram Leela - Episode 18</title>
 </programme>
 <programme start="20260909231300 +0000" stop="20260910004900 +0000" channel="TV5.virginmediatv">
     <title>Le crime lui va si bien - The Italian way</title>

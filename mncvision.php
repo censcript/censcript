@@ -412,17 +412,20 @@
 <programme start="20260910073000 +0000" stop="20260910093000 +0000" channel="ANTV.mncvision">
     <title>Sayali</title>
 </programme>
-<programme start="20260910093000 +0000" stop="20260910113000 +0000" channel="ANTV.mncvision">
+<programme start="20260910093000 +0000" stop="20260910110000 +0000" channel="ANTV.mncvision">
     <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260910113000 +0000" stop="20260910130000 +0000" channel="ANTV.mncvision">
+<programme start="20260910110000 +0000" stop="20260910124500 +0000" channel="ANTV.mncvision">
+    <title>Siluman Kera</title>
+</programme>
+<programme start="20260910124500 +0000" stop="20260910140000 +0000" channel="ANTV.mncvision">
     <title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
-<programme start="20260910130000 +0000" stop="20260910150000 +0000" channel="ANTV.mncvision">
+<programme start="20260910140000 +0000" stop="20260910160000 +0000" channel="ANTV.mncvision">
     <title>Kutukan Arwah Santet</title>
 </programme>
-<programme start="20260910150000 +0000" stop="20260910153000 +0000" channel="ANTV.mncvision">
-    <title>Siluman Kera</title>
+<programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="ANTV.mncvision">
+    <title>Star Abyss</title>
 </programme>
 <programme start="20260909170000 +0000" stop="20260909173000 +0000" channel="Arirang.mncvision">
     <title>I&#039;m Live</title>
@@ -1554,6 +1557,123 @@
 </programme>
 <programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Real Yield</title>
+</programme>
+<programme start="20260909170000 +0000" stop="20260909182700 +0000" channel="BTV.mncvision">
+    <title>ONE Vault</title>
+</programme>
+<programme start="20260909182700 +0000" stop="20260909183000 +0000" channel="BTV.mncvision">
+    <title>Tanah Airku</title>
+</programme>
+<programme start="20260909183000 +0000" stop="20260909190000 +0000" channel="BTV.mncvision">
+    <title>Saksi Mata</title>
+</programme>
+<programme start="20260909190000 +0000" stop="20260909193000 +0000" channel="BTV.mncvision">
+    <title>Indonesia Update Ekspos</title>
+</programme>
+<programme start="20260909193000 +0000" stop="20260909200000 +0000" channel="BTV.mncvision">
+    <title>Berita Kriminal</title>
+</programme>
+<programme start="20260909200000 +0000" stop="20260909203000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260909203000 +0000" stop="20260909210000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260909210000 +0000" stop="20260909213000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260909213000 +0000" stop="20260909220000 +0000" channel="BTV.mncvision">
+    <title>Spot On</title>
+</programme>
+<programme start="20260909220000 +0000" stop="20260909230000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Pagi</title>
+</programme>
+<programme start="20260909230000 +0000" stop="20260909230300 +0000" channel="BTV.mncvision">
+    <title>Indonesia Raya</title>
+</programme>
+<programme start="20260909230300 +0000" stop="20260910003000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20260910003000 +0000" stop="20260910010000 +0000" channel="BTV.mncvision">
+    <title>Pecah Telur</title>
+</programme>
+<programme start="20260910010000 +0000" stop="20260910010500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260910010500 +0000" stop="20260910011500 +0000" channel="BTV.mncvision">
+    <title>Selera Rasa</title>
+</programme>
+<programme start="20260910011500 +0000" stop="20260910014500 +0000" channel="BTV.mncvision">
+    <title>Kuyliner</title>
+</programme>
+<programme start="20260910014500 +0000" stop="20260910020000 +0000" channel="BTV.mncvision">
+    <title>Galeri Rasa</title>
+</programme>
+<programme start="20260910020000 +0000" stop="20260910020500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260910020500 +0000" stop="20260910023000 +0000" channel="BTV.mncvision">
+    <title>Galeri Rasa</title>
+</programme>
+<programme start="20260910023000 +0000" stop="20260910030000 +0000" channel="BTV.mncvision">
+    <title>Investor Market Today</title>
+</programme>
+<programme start="20260910030000 +0000" stop="20260910033000 +0000" channel="BTV.mncvision">
+    <title>Jendela Nusantara</title>
+</programme>
+<programme start="20260910033000 +0000" stop="20260910040000 +0000" channel="BTV.mncvision">
+    <title>Indonesia Update Ototekno</title>
+</programme>
+<programme start="20260910040000 +0000" stop="20260910050000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260910050000 +0000" stop="20260910050500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260910050500 +0000" stop="20260910060000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Siang</title>
+</programme>
+<programme start="20260910060000 +0000" stop="20260910063000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
+</programme>
+<programme start="20260910063000 +0000" stop="20260910073000 +0000" channel="BTV.mncvision">
+    <title>Pecah Telur</title>
+</programme>
+<programme start="20260910073000 +0000" stop="20260910080000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20260910080000 +0000" stop="20260910083000 +0000" channel="BTV.mncvision">
+    <title>Berita Kriminal</title>
+</programme>
+<programme start="20260910083000 +0000" stop="20260910090000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260910090000 +0000" stop="20260910090500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260910090500 +0000" stop="20260910100000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260910100000 +0000" stop="20260910103000 +0000" channel="BTV.mncvision">
+    <title>Berita Merah Putih</title>
+</programme>
+<programme start="20260910103000 +0000" stop="20260910120000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260910120000 +0000" stop="20260910130000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260910130000 +0000" stop="20260910140000 +0000" channel="BTV.mncvision">
+    <title>Jendela Dunia</title>
+</programme>
+<programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260910150000 +0000" stop="20260910160000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Malam</title>
+</programme>
+<programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="BTV.mncvision">
+    <title>Mitos Tengah Malam</title>
 </programme>
 <programme start="20260909174700 +0000" stop="20260909191200 +0000" channel="BUDDY STARS.mncvision">
     <title>Geschichten vom Franz</title>
@@ -4801,16 +4921,16 @@
 <programme start="20260910130000 +0000" stop="20260910130500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260910130500 +0000" stop="20260910140000 +0000" channel="iNews.mncvision">
+<programme start="20260910130500 +0000" stop="20260910141500 +0000" channel="iNews.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="iNews.mncvision">
+<programme start="20260910141500 +0000" stop="20260910152000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260910150000 +0000" stop="20260910151000 +0000" channel="iNews.mncvision">
+<programme start="20260910152000 +0000" stop="20260910153000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260910151000 +0000" stop="20260910163000 +0000" channel="iNews.mncvision">
+<programme start="20260910153000 +0000" stop="20260910163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260910163000 +0000" stop="20260909170000 +0000" channel="iNews.mncvision">
@@ -4891,16 +5011,16 @@
 <programme start="20260910130000 +0000" stop="20260910130500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260910130500 +0000" stop="20260910140000 +0000" channel="iNews HD.mncvision">
+<programme start="20260910130500 +0000" stop="20260910141500 +0000" channel="iNews HD.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260910141500 +0000" stop="20260910152000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260910150000 +0000" stop="20260910151000 +0000" channel="iNews HD.mncvision">
+<programme start="20260910152000 +0000" stop="20260910153000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260910151000 +0000" stop="20260910163000 +0000" channel="iNews HD.mncvision">
+<programme start="20260910153000 +0000" stop="20260910163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260910163000 +0000" stop="20260909170000 +0000" channel="iNews HD.mncvision">
