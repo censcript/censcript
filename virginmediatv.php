@@ -8,7 +8,7 @@
     <title>The Tonight Show - Episode 63</title>
 </programme>
 <programme start="20260910051500 +0000" stop="20260910060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Six O&#039;Clock Show - Episode 171</title>
+    <title>The Six O&#039;Clock Show - Chicken Protein Salad Bowls</title>
 </programme>
 <programme start="20260910120000 +0000" stop="20260910130000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Chase - Episode 118</title>

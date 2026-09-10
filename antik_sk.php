@@ -18035,7 +18035,7 @@
     <title lang="id">Studio B: Unscripted</title>
   </programme>
   <programme start="20260912040000 +0000" stop="20260912043000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
+    <title lang="id">Al Jazeera World</title>
   </programme>
   <programme start="20260912043000 +0000" stop="20260912050000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Fight For The Pacific</title>

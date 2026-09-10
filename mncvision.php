@@ -70,26 +70,26 @@
 <programme start="20260910110000 +0000" stop="20260910115500 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20260910115500 +0000" stop="20260910140000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260910115500 +0000" stop="20260910132500 +0000" channel="ABC Australia.mncvision">
     <title>Facing Monsters</title>
 </programme>
-<programme start="20260910140000 +0000" stop="20260910141500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260910132500 +0000" stop="20260910142000 +0000" channel="ABC Australia.mncvision">
+    <title>End Game With Tony Armstrong</title>
+</programme>
+<programme start="20260910142000 +0000" stop="20260910143500 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>
 </programme>
-<programme start="20260910141500 +0000" stop="20260910143000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260910143500 +0000" stop="20260910145000 +0000" channel="ABC Australia.mncvision">
     <title>The Business</title>
 </programme>
-<programme start="20260910143000 +0000" stop="20260910150000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260910145000 +0000" stop="20260910152000 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20260910150000 +0000" stop="20260910155500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260910152000 +0000" stop="20260910161500 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20260910155500 +0000" stop="20260910165000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260910161500 +0000" stop="20260910164500 +0000" channel="ABC Australia.mncvision">
     <title>Great Australian Walks</title>
-</programme>
-<programme start="20260910165000 +0000" stop="20260909172000 +0000" channel="ABC Australia.mncvision">
-    <title>Media Watch</title>
 </programme>
 <programme start="20260909170000 +0000" stop="20260909173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -1554,123 +1554,6 @@
 </programme>
 <programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Real Yield</title>
-</programme>
-<programme start="20260909170000 +0000" stop="20260909182700 +0000" channel="BTV.mncvision">
-    <title>ONE Vault</title>
-</programme>
-<programme start="20260909182700 +0000" stop="20260909183000 +0000" channel="BTV.mncvision">
-    <title>Tanah Airku</title>
-</programme>
-<programme start="20260909183000 +0000" stop="20260909190000 +0000" channel="BTV.mncvision">
-    <title>Saksi Mata</title>
-</programme>
-<programme start="20260909190000 +0000" stop="20260909193000 +0000" channel="BTV.mncvision">
-    <title>Indonesia Update Ekspos</title>
-</programme>
-<programme start="20260909193000 +0000" stop="20260909200000 +0000" channel="BTV.mncvision">
-    <title>Berita Kriminal</title>
-</programme>
-<programme start="20260909200000 +0000" stop="20260909203000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260909203000 +0000" stop="20260909210000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
-</programme>
-<programme start="20260909210000 +0000" stop="20260909213000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260909213000 +0000" stop="20260909220000 +0000" channel="BTV.mncvision">
-    <title>Spot On</title>
-</programme>
-<programme start="20260909220000 +0000" stop="20260909230000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Pagi</title>
-</programme>
-<programme start="20260909230000 +0000" stop="20260909230300 +0000" channel="BTV.mncvision">
-    <title>Indonesia Raya</title>
-</programme>
-<programme start="20260909230300 +0000" stop="20260910003000 +0000" channel="BTV.mncvision">
-    <title>Jalan Dakwah</title>
-</programme>
-<programme start="20260910003000 +0000" stop="20260910010000 +0000" channel="BTV.mncvision">
-    <title>Pecah Telur</title>
-</programme>
-<programme start="20260910010000 +0000" stop="20260910010500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260910010500 +0000" stop="20260910011500 +0000" channel="BTV.mncvision">
-    <title>Selera Rasa</title>
-</programme>
-<programme start="20260910011500 +0000" stop="20260910014500 +0000" channel="BTV.mncvision">
-    <title>Kuyliner</title>
-</programme>
-<programme start="20260910014500 +0000" stop="20260910020000 +0000" channel="BTV.mncvision">
-    <title>Galeri Rasa</title>
-</programme>
-<programme start="20260910020000 +0000" stop="20260910020500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260910020500 +0000" stop="20260910023000 +0000" channel="BTV.mncvision">
-    <title>Galeri Rasa</title>
-</programme>
-<programme start="20260910023000 +0000" stop="20260910030000 +0000" channel="BTV.mncvision">
-    <title>Investor Market Today</title>
-</programme>
-<programme start="20260910030000 +0000" stop="20260910033000 +0000" channel="BTV.mncvision">
-    <title>Jendela Nusantara</title>
-</programme>
-<programme start="20260910033000 +0000" stop="20260910040000 +0000" channel="BTV.mncvision">
-    <title>Indonesia Update Ototekno</title>
-</programme>
-<programme start="20260910040000 +0000" stop="20260910050000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Siang</title>
-</programme>
-<programme start="20260910050000 +0000" stop="20260910050500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260910050500 +0000" stop="20260910060000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Siang</title>
-</programme>
-<programme start="20260910060000 +0000" stop="20260910063000 +0000" channel="BTV.mncvision">
-    <title>Jalan Dakwah</title>
-</programme>
-<programme start="20260910063000 +0000" stop="20260910073000 +0000" channel="BTV.mncvision">
-    <title>Pecah Telur</title>
-</programme>
-<programme start="20260910073000 +0000" stop="20260910080000 +0000" channel="BTV.mncvision">
-    <title>Jendela Dunia</title>
-</programme>
-<programme start="20260910080000 +0000" stop="20260910083000 +0000" channel="BTV.mncvision">
-    <title>Berita Kriminal</title>
-</programme>
-<programme start="20260910083000 +0000" stop="20260910090000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260910090000 +0000" stop="20260910090500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260910090500 +0000" stop="20260910100000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260910100000 +0000" stop="20260910103000 +0000" channel="BTV.mncvision">
-    <title>Berita Merah Putih</title>
-</programme>
-<programme start="20260910103000 +0000" stop="20260910120000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260910120000 +0000" stop="20260910130000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
-</programme>
-<programme start="20260910130000 +0000" stop="20260910140000 +0000" channel="BTV.mncvision">
-    <title>Jendela Dunia</title>
-</programme>
-<programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260910150000 +0000" stop="20260910160000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
-</programme>
-<programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="BTV.mncvision">
-    <title>Mitos Tengah Malam</title>
 </programme>
 <programme start="20260909174700 +0000" stop="20260909191200 +0000" channel="BUDDY STARS.mncvision">
     <title>Geschichten vom Franz</title>
@@ -5410,17 +5293,11 @@
 <programme start="20260910154000 +0000" stop="20260910161000 +0000" channel="KIX.mncvision">
     <title>Iron Kung Fu Fist</title>
 </programme>
-<programme start="20260909170000 +0000" stop="20260909173000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260909170000 +0000" stop="20260909180000 +0000" channel="Kompas TV.mncvision">
     <title>Berkas Kompas</title>
 </programme>
-<programme start="20260909173000 +0000" stop="20260909180000 +0000" channel="Kompas TV.mncvision">
-    <title>Good News</title>
-</programme>
-<programme start="20260909180000 +0000" stop="20260909183000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260909180000 +0000" stop="20260909190000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Petang Spc. HUT Kompas</title>
-</programme>
-<programme start="20260909183000 +0000" stop="20260909190000 +0000" channel="Kompas TV.mncvision">
-    <title>Way Out</title>
 </programme>
 <programme start="20260909190000 +0000" stop="20260909193000 +0000" channel="Kompas TV.mncvision">
     <title>Laporan Khusus</title>
@@ -5434,53 +5311,26 @@
 <programme start="20260909210000 +0000" stop="20260909213000 +0000" channel="Kompas TV.mncvision">
     <title>Borgol</title>
 </programme>
-<programme start="20260909213000 +0000" stop="20260909220000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260909213000 +0000" stop="20260909233000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Pagi</title>
-</programme>
-<programme start="20260909220000 +0000" stop="20260909223000 +0000" channel="Kompas TV.mncvision">
-    <title>Love Revolution</title>
-</programme>
-<programme start="20260909223000 +0000" stop="20260909230000 +0000" channel="Kompas TV.mncvision">
-    <title>Praise And Worship</title>
-</programme>
-<programme start="20260909230000 +0000" stop="20260909233000 +0000" channel="Kompas TV.mncvision">
-    <title>Suara Alfa Omega</title>
 </programme>
 <programme start="20260909233000 +0000" stop="20260910000000 +0000" channel="Kompas TV.mncvision">
     <title>Jurnal Nusantara</title>
 </programme>
-<programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910000000 +0000" stop="20260910023000 +0000" channel="Kompas TV.mncvision">
     <title>Sapa Indonesia Pagi</title>
 </programme>
-<programme start="20260910010000 +0000" stop="20260910020000 +0000" channel="Kompas TV.mncvision">
-    <title>Building A Better You</title>
-</programme>
-<programme start="20260910020000 +0000" stop="20260910023000 +0000" channel="Kompas TV.mncvision">
-    <title>Good News</title>
-</programme>
-<programme start="20260910023000 +0000" stop="20260910030000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910023000 +0000" stop="20260910033000 +0000" channel="Kompas TV.mncvision">
     <title>Berita Utama</title>
-</programme>
-<programme start="20260910030000 +0000" stop="20260910033000 +0000" channel="Kompas TV.mncvision">
-    <title>Smoketown</title>
 </programme>
 <programme start="20260910033000 +0000" stop="20260910040000 +0000" channel="Kompas TV.mncvision">
     <title>Borgol</title>
 </programme>
-<programme start="20260910040000 +0000" stop="20260910050000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910040000 +0000" stop="20260910060000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Siang</title>
 </programme>
-<programme start="20260910050000 +0000" stop="20260910053000 +0000" channel="Kompas TV.mncvision">
-    <title>Way Out</title>
-</programme>
-<programme start="20260910053000 +0000" stop="20260910060000 +0000" channel="Kompas TV.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20260910060000 +0000" stop="20260910063000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910060000 +0000" stop="20260910070000 +0000" channel="Kompas TV.mncvision">
     <title>Sapa Indonesia Siang</title>
-</programme>
-<programme start="20260910063000 +0000" stop="20260910070000 +0000" channel="Kompas TV.mncvision">
-    <title>Praise And Worship</title>
 </programme>
 <programme start="20260910070000 +0000" stop="20260910073000 +0000" channel="Kompas TV.mncvision">
     <title>Berkas Kompas</title>
@@ -5488,41 +5338,26 @@
 <programme start="20260910073000 +0000" stop="20260910080000 +0000" channel="Kompas TV.mncvision">
     <title>Jurnal Nusantara</title>
 </programme>
-<programme start="20260910080000 +0000" stop="20260910082900 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910080000 +0000" stop="20260910083000 +0000" channel="Kompas TV.mncvision">
     <title>Jurnal Merah Putih</title>
 </programme>
-<programme start="20260910082900 +0000" stop="20260910090000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910083000 +0000" stop="20260910090000 +0000" channel="Kompas TV.mncvision">
     <title>Borgol</title>
 </programme>
-<programme start="20260910090000 +0000" stop="20260910093000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910090000 +0000" stop="20260910103000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Petang</title>
 </programme>
-<programme start="20260910093000 +0000" stop="20260910103000 +0000" channel="Kompas TV.mncvision">
-    <title>Rumah CGN Keluarga</title>
-</programme>
-<programme start="20260910103000 +0000" stop="20260910113000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910103000 +0000" stop="20260910123000 +0000" channel="Kompas TV.mncvision">
     <title>Sapa Indonesia Malam</title>
 </programme>
-<programme start="20260910113000 +0000" stop="20260910123000 +0000" channel="Kompas TV.mncvision">
-    <title>AnugerahNya</title>
-</programme>
-<programme start="20260910123000 +0000" stop="20260910130000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910123000 +0000" stop="20260910133000 +0000" channel="Kompas TV.mncvision">
     <title>Berita Utama</title>
 </programme>
-<programme start="20260910130000 +0000" stop="20260910133000 +0000" channel="Kompas TV.mncvision">
-    <title>The Art Of Church</title>
-</programme>
-<programme start="20260910133000 +0000" stop="20260910140000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910133000 +0000" stop="20260910150000 +0000" channel="Kompas TV.mncvision">
     <title>Rosi</title>
 </programme>
-<programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="Kompas TV.mncvision">
-    <title>GBI VIFA</title>
-</programme>
-<programme start="20260910150000 +0000" stop="20260910153000 +0000" channel="Kompas TV.mncvision">
+<programme start="20260910150000 +0000" stop="20260910160000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Malam</title>
-</programme>
-<programme start="20260910153000 +0000" stop="20260910160000 +0000" channel="Kompas TV.mncvision">
-    <title>Smoketown</title>
 </programme>
 <programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="Kompas TV.mncvision">
     <title>Kompas Sport</title>

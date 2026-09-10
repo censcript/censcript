@@ -6667,19 +6667,12 @@
     <episode-num system="xmltv_ns">20.17.</episode-num>
     <episode-num system="onscreen">S21E18</episode-num>
   </programme>
-  <programme start="20260910150500 +0000" stop="20260910153500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
-    <category lang="en">Chat show</category>
-    <episode-num system="xmltv_ns">44.11737.</episode-num>
-    <episode-num system="onscreen">S45E11738</episode-num>
-  </programme>
-  <programme start="20260910153500 +0000" stop="20260910163500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Hotel Costiera</title>
-    <desc lang="en">An old woman dies at Villa Costiera. As Daniel helps her son transfer her body to NY, his search for Alice leads to a crucial name: Bruno.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+  <programme start="20260910150500 +0000" stop="20260910160500 +0000" channel="hitsnow.unifitv">
+    <title lang="en">America's Got Talent</title>
+    <desc lang="en">With an army of loyal fans eager to find out what's in store, America's Got Talent returns to screens this year with more diverse talent, show-stopping moments and incredible drama than ever before.</desc>
+    <category lang="en">Talent Show</category>
+    <episode-num system="xmltv_ns">20.18.</episode-num>
+    <episode-num system="onscreen">S21E19</episode-num>
   </programme>
   <channel id="axn.unifitv">
     <display-name>AXN</display-name>
@@ -14965,7 +14958,7 @@
     <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <category lang="en">Table Tennis</category>
   </programme>
-  <programme start="20260910140000 +0000" stop="20260910201000 +0000" channel="spotv2.unifitv">
+  <programme start="20260910140000 +0000" stop="20260910200000 +0000" channel="spotv2.unifitv">
     <title lang="en">Walker Cup 2026 - Day 2 Afternoon Singles</title>
     <desc lang="en">The Walker Cup brings together the top amateur golfers from the United States and Great Britain &amp; Ireland in the prestigious biennial team match.</desc>
     <category lang="en">Golf</category>
