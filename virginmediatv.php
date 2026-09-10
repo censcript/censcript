@@ -3823,7 +3823,10 @@
 <programme start="20260910001000 +0000" stop="20260910040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: NFL Football - New England Patriots at Seattle Seahawks</title>
 </programme>
-<programme start="20260910040000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260910040000 +0000" stop="20260910050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260910091500 +0000" stop="20260910180000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4060,7 +4063,10 @@
 <programme start="20260910023000 +0000" stop="20260910040000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: US Open 2026 - Men&#039;s Doubles Quarter-Finals</title>
 </programme>
-<programme start="20260910040000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260910040000 +0000" stop="20260910050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260910120000 +0000" stop="20260910130000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4510,11 +4516,8 @@
 <programme start="20260910120000 +0000" stop="20260910140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: English Open Snooker - Round 3: Mark Selby v Kyren Wilson</title>
 </programme>
-<programme start="20260910140000 +0000" stop="20260910160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20260910140000 +0000" stop="20260910163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: English Open Snooker - Round 3: Liam Davies v Wu Yize</title>
-</programme>
-<programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Polo - British Open Championship</title>
 </programme>
 <programme start="20260910163000 +0000" stop="20260910170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Endurance Uncovered: Racing for Excellence - Episode 5</title>
@@ -4600,7 +4603,10 @@
 <programme start="20260910001000 +0000" stop="20260910040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: NFL Football - New England Patriots at Seattle Seahawks</title>
 </programme>
-<programme start="20260910040000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260910040000 +0000" stop="20260910050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260910091500 +0000" stop="20260910180000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4837,7 +4843,10 @@
 <programme start="20260910023000 +0000" stop="20260910040000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: US Open 2026 - Men&#039;s Doubles Quarter-Finals</title>
 </programme>
-<programme start="20260910040000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260910040000 +0000" stop="20260910050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260910120000 +0000" stop="20260910130000 +0000" channel="Sky_Sports_Plus.virginmediatv">
@@ -6007,7 +6016,10 @@
 <programme start="20260909175800 +0000" stop="20260910015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260910015800 +0000" stop="20260910060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260910015800 +0000" stop="20260910050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260910050000 +0000" stop="20260910060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260910115000 +0000" stop="20260910120500 +0000" channel="CBBC.virginmediatv">

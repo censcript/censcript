@@ -2713,11 +2713,26 @@
   <programme start="20260912182000 +0000" stop="20260912220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
-  <programme start="20260911220000 +0000" stop="20260912000000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260911210000 +0000" stop="20260911222000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">HVĚZDNÉ ŠLÁGROVÁNÍ</title>
+  </programme>
+  <programme start="20260911222000 +0000" stop="20260912000000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260912000000 +0000" stop="20260912040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
+  </programme>
+  <programme start="20260912040000 +0000" stop="20260912050000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20260912101500 +0000" stop="20260912103000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">CHVILKA S...</title>
+  </programme>
+  <programme start="20260912115000 +0000" stop="20260912123000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20260912200000 +0000" stop="20260912210000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260911220000 +0000" stop="20260911224000 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Remesle</title>
@@ -16939,8 +16954,14 @@
   <programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">ПЕPЕЖИВУ: Жизнь после жизни</title>
   </programme>
-  <programme start="20260912170000 +0000" stop="20260912190000 +0000" channel="Current Time.webtv.sk">
+  <programme start="20260912170000 +0000" stop="20260912174000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино: Детство, лето и война</title>
+  </programme>
+  <programme start="20260912174000 +0000" stop="20260912183000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Д/ф &quot;Между небом и песком&quot;</title>
+  </programme>
+  <programme start="20260912183000 +0000" stop="20260912190000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Д/ф «Как в Pоссии уничтожают природу ради угля для Китая»</title>
   </programme>
   <programme start="20260912190000 +0000" stop="20260912193000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">БАЛТИЙСКИЙ ПУТЬ: Чужие в Латвии</title>

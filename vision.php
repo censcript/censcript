@@ -643,9 +643,6 @@
 <programme start="20260910130000 +0000" stop="20260910150000 +0000" channel="ANTV.vision">
 <title>Kutukan Arwah Santet</title>
 </programme>
-<programme start="20260910170000 +0000" stop="20260910181500 +0000" channel="ANTV.vision">
-<title>Star Abyss</title>
-</programme>
 <programme start="20260910181500 +0000" stop="20260910194500 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260911030000 +0000" stop="20260911050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260911050000 +0000" stop="20260911070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
