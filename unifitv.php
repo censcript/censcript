@@ -690,7 +690,12 @@
     <desc lang="en">Berita Dunia</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260910020500 +0000" stop="20260910023000 +0000" channel="tv1.unifitv">
+  <programme start="20260910020500 +0000" stop="20260910021100 +0000" channel="tv1.unifitv">
+    <title lang="en">Galeri Nasional: Rangkuman Lawatan Perdana Menteri Ke Brunei</title>
+    <desc lang="en">Galeri Nasional: Rangkuman Lawatan Perdana Menteri Ke Brunei</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260910021100 +0000" stop="20260910023000 +0000" channel="tv1.unifitv">
     <title lang="en">Undang-Undang Dan Hak Anda (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang membincangkan isu berkaitan perundangan dan akta-akta semasa. Dua panel jemputan mengupas isu dari aspek teknikal dan praktikal serta menjawab persoalan daripada hos dan penonton secara dalam talian.</desc>
     <category lang="en">Drama</category>
@@ -720,7 +725,12 @@
     <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260910053000 +0000" stop="20260910063000 +0000" channel="tv1.unifitv">
+  <programme start="20260910053000 +0000" stop="20260910053600 +0000" channel="tv1.unifitv">
+    <title lang="en">Galeri Nasional: Rangkuman Lawatan Perdana Menteri Ke Brunei</title>
+    <desc lang="en">Galeri Nasional: Rangkuman Lawatan Perdana Menteri Ke Brunei</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260910053600 +0000" stop="20260910063000 +0000" channel="tv1.unifitv">
     <title lang="en">Kau Perempuan Itu</title>
     <desc lang="en">Sarah yang diuji dengan kekecewaan cinta, konflik persahabatan dan rumah tangga selepas berkahwin dengan Ari Aqashah, lelaki yang keras dan ego. Kehadiran Haikal dan Tasha turut menguji kesetiaan serta kesabaran Sarah dalam mempertahankan rumah tangganya.</desc>
     <category lang="en">Drama</category>
@@ -745,7 +755,12 @@
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260910080500 +0000" stop="20260910083000 +0000" channel="tv1.unifitv">
+  <programme start="20260910080500 +0000" stop="20260910081100 +0000" channel="tv1.unifitv">
+    <title lang="en">Galeri Nasional: Rangkuman Lawatan Perdana Menteri Ke Brunei</title>
+    <desc lang="en">Galeri Nasional: Rangkuman Lawatan Perdana Menteri Ke Brunei</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260910081100 +0000" stop="20260910083000 +0000" channel="tv1.unifitv">
     <title lang="en">Satu Sentuhan (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang memaparkan usaha mengitar semula barangan terpakai bagi menghasilkan perkakasan dengan kegunaan yang baru.</desc>
     <category lang="en">Drama</category>
@@ -3249,7 +3264,7 @@
   </programme>
   <programme start="20260909163500 +0000" stop="20260909173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Truth Within</title>
-    <desc lang="en">Haunted by his girlfriend's suspicious death in a car crash, young forensic examiner Qi Sizhe transfers to a major crimes unit to find the truth. Teaming up with detective Zhu Qingyue and officer Han Feng, he investigates a series of bizarre murders. Through forensic evidence, they discover that every crime connects to an illegal synthetic drug ring called "Original Diamond"—the masterminds behind his girlfriend's death.</desc>
+    <desc lang="en">Qi Sizhe becomes Director of Forensic Medicine for the Hecheng Criminal Police Unit, reunites with Han Feng, and investigates the truth behind his girlfriend Yu Fei's death from the drug Original Diamond three years earlier. A series of nightclub attacks, cocoon murders, medical-school specimen crimes, insurance frauds, and silencing killings all point to a new narcotic and a drug-manufacturing ring. Qi Sizhe, Han Feng, and their team uncover Professor Wu Yongchang as the mastermind and Yu Fei's true killer. Police raid the drug factory, arrest Wu and the traffickers, and close the new Original Diamond case.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3401,7 +3416,7 @@
   </programme>
   <programme start="20260910063500 +0000" stop="20260910073500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Truth Within &amp; What's On Today</title>
-    <desc lang="en">Haunted by his girlfriend's suspicious death in a car crash, young forensic examiner Qi Sizhe transfers to a major crimes unit to find the truth. Teaming up with detective Zhu Qingyue and officer Han Feng, he investigates a series of bizarre murders. Through forensic evidence, they discover that every crime connects to an illegal synthetic drug ring called "Original Diamond"—the masterminds behind his girlfriend's death.</desc>
+    <desc lang="en">Qi Sizhe becomes Director of Forensic Medicine for the Hecheng Criminal Police Unit, reunites with Han Feng, and investigates the truth behind his girlfriend Yu Fei's death from the drug Original Diamond three years earlier. A series of nightclub attacks, cocoon murders, medical-school specimen crimes, insurance frauds, and silencing killings all point to a new narcotic and a drug-manufacturing ring. Qi Sizhe, Han Feng, and their team uncover Professor Wu Yongchang as the mastermind and Yu Fei's true killer. Police raid the drug factory, arrest Wu and the traffickers, and close the new Original Diamond case.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3469,7 +3484,7 @@
   </programme>
   <programme start="20260910133500 +0000" stop="20260910143500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Truth Within</title>
-    <desc lang="en">Haunted by his girlfriend's suspicious death in a car crash, young forensic examiner Qi Sizhe transfers to a major crimes unit to find the truth. Teaming up with detective Zhu Qingyue and officer Han Feng, he investigates a series of bizarre murders. Through forensic evidence, they discover that every crime connects to an illegal synthetic drug ring called "Original Diamond"—the masterminds behind his girlfriend's death.</desc>
+    <desc lang="en">Qi Sizhe becomes Director of Forensic Medicine for the Hecheng Criminal Police Unit, reunites with Han Feng, and investigates the truth behind his girlfriend Yu Fei's death from the drug Original Diamond three years earlier. A series of nightclub attacks, cocoon murders, medical-school specimen crimes, insurance frauds, and silencing killings all point to a new narcotic and a drug-manufacturing ring. Qi Sizhe, Han Feng, and their team uncover Professor Wu Yongchang as the mastermind and Yu Fei's true killer. Police raid the drug factory, arrest Wu and the traffickers, and close the new Original Diamond case.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -12214,8 +12229,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260910003300 +0000" stop="20260910010300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <title lang="en">AI Decoded (r)-China's Robot Revolution</title>
+    <desc lang="en">China can build a robot that runs faster than Usain Bolt. So why can't it reliably empty a dishwasher? We explore the gap between what AI can think and what robots can actually do.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260910010300 +0000" stop="20260910013300 +0000" channel="bbcworldnewshd.unifitv">
@@ -12440,7 +12455,7 @@
   </programme>
   <programme start="20260909193300 +0000" stop="20260909200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">British-Egyptian actor Khalid Abdalla talks identity, fame, and the fight for a better world. He shares the experiences that shaped his political engagement.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.492.</episode-num>
     <episode-num system="onscreen">S1E493</episode-num>
@@ -12503,8 +12518,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260910033300 +0000" stop="20260910040300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Mindset</title>
-    <desc lang="en">Mindset meets the Ukrainian therapists fighting to keep a population sane in a country at war.</desc>
+    <title lang="en">Al Jazeera Reels</title>
+    <desc lang="en">The world sees Iran as conflict. Seven stories look at the country behind it: a state built to survive pressure, and the people living with the cost</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260910040300 +0000" stop="20260910043300 +0000" channel="aljazeera.unifitv">
@@ -12536,7 +12551,7 @@
   </programme>
   <programme start="20260910063300 +0000" stop="20260910070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">British-Egyptian actor Khalid Abdalla talks identity, fame, and the fight for a better world. He shares the experiences that shaped his political engagement.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.492.</episode-num>
     <episode-num system="onscreen">S1E493</episode-num>
@@ -13948,7 +13963,7 @@
   </programme>
   <programme start="20260909163300 +0000" stop="20260909170300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13961,7 +13976,7 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260909171800 +0000" stop="20260909173300 +0000" channel="dw.unifitv">
-    <title lang="en">History</title>
+    <title lang="en">DocFilm</title>
     <desc lang="en">Some of the world's deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -13969,7 +13984,7 @@
   </programme>
   <programme start="20260909173300 +0000" stop="20260909180300 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">Close up</desc>
+    <desc lang="en">Cold therapy, knee distraction or cartilage transplantation from the nose to the knee: what really helps with knee pain? New procedures are bringing fresh hope to people with osteoarthritis and joint degeneration.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13995,21 +14010,14 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260909190500 +0000" stop="20260909191800 +0000" channel="dw.unifitv">
+  <programme start="20260909190500 +0000" stop="20260909193400 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">DW News Focus</desc>
+    <desc lang="en">More than 170,000 pages of long-hidden records show New York City officials knew the air quality around Ground Zero was toxic, but publicly maintained it was safe to breathe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260909191800 +0000" stop="20260909193300 +0000" channel="dw.unifitv">
-    <title lang="en">History</title>
-    <desc lang="en">Some of the world's deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260909193300 +0000" stop="20260909200300 +0000" channel="dw.unifitv">
+  <programme start="20260909193400 +0000" stop="20260909200300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
     <desc lang="en">In Kenya, corruption scandals and a failing health system leave families stranded. When hospitals and governments vanish, citizens turn to TikTok and civil society for help to build roads, equip schools or anything else. The story of Kaluma Boy caring for his sick father exposes a dysfunctional state and the power of online solidarity.</desc>
     <category lang="en">Magazine</category>
@@ -14060,7 +14068,7 @@
   </programme>
   <programme start="20260909223300 +0000" stop="20260909230300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14080,7 +14088,7 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260909231800 +0000" stop="20260909233300 +0000" channel="dw.unifitv">
-    <title lang="en">History</title>
+    <title lang="en">DocFilm</title>
     <desc lang="en">Some of the world's deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -14088,10 +14096,10 @@
   </programme>
   <programme start="20260909233300 +0000" stop="20260910000300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">In Spain, bearded vultures are assisting archaeologists. +++ In Switzerland, the threat of rock avalanches could lead to entire villages being abandoned — but the issue remains a taboo topic.</desc>
     <category lang="en">Magazine</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.3425.</episode-num>
+    <episode-num system="onscreen">S1E3426</episode-num>
   </programme>
   <programme start="20260910000300 +0000" stop="20260910000500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
@@ -14109,7 +14117,7 @@
   </programme>
   <programme start="20260910003300 +0000" stop="20260910010300 +0000" channel="dw.unifitv">
     <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Arts Unveiled</desc>
+    <desc lang="en">Punk turns 50! Is it still alive? How did the opioid crisis begin in the U.S.? And who remembers the good old days of TV, when it was young, experimental — and even had Joseph Beuys punching himself on screen?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14150,9 +14158,9 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260910023300 +0000" stop="20260910030300 +0000" channel="dw.unifitv">
-    <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">DW News Focus</title>
+    <desc lang="en">More than 170,000 pages of long-hidden records show New York City officials knew the air quality around Ground Zero was toxic, but publicly maintained it was safe to breathe.</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14171,7 +14179,7 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260910031800 +0000" stop="20260910033300 +0000" channel="dw.unifitv">
-    <title lang="en">History</title>
+    <title lang="en">DocFilm</title>
     <desc lang="en">Some of the world's deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -14221,7 +14229,7 @@
   </programme>
   <programme start="20260910053300 +0000" stop="20260910060300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">In Spain, bearded vultures are assisting archaeologists. +++ In Switzerland, the threat of rock avalanches could lead to entire villages being abandoned — but the issue remains a taboo topic.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14241,7 +14249,7 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260910061800 +0000" stop="20260910063300 +0000" channel="dw.unifitv">
-    <title lang="en">History</title>
+    <title lang="en">DocFilm</title>
     <desc lang="en">Some of the world's deadliest drugs once began as "safe” medicine. From ancient opium to heroin, OxyContin and fentanyl, this video traces how miracle cures became global crises.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -14277,14 +14285,14 @@
   </programme>
   <programme start="20260910080500 +0000" stop="20260910083300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Tech giants, Trump family's business dynasty, defense firms and military communities are becoming ever more important. Made in Germany reveals how power is shifting.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260910083300 +0000" stop="20260910090300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">In Spain, bearded vultures are assisting archaeologists. +++ In Switzerland, the threat of rock avalanches could lead to entire villages being abandoned — but the issue remains a taboo topic.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14354,7 +14362,7 @@
   </programme>
   <programme start="20260910113300 +0000" stop="20260910120300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">In Spain, bearded vultures are assisting archaeologists. +++ In Switzerland, the threat of rock avalanches could lead to entire villages being abandoned — but the issue remains a taboo topic.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>

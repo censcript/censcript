@@ -628,9 +628,6 @@
 <programme start="20260911114500 +0000" stop="20260911121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260909230000 +0000" stop="20260910023000 +0000" channel="ANTV.vision">
-<title>Kedarnath</title>
-</programme>
 <programme start="20260910023000 +0000" stop="20260910060000 +0000" channel="ANTV.vision">
 <title>Kal Ho Naa Ho</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260910210000 +0000" stop="20260910230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260910230000 +0000" stop="20260911010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

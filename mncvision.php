@@ -2993,7 +2993,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20260910023000 +0000" stop="20260910030000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>DW News Focus</title>
 </programme>
 <programme start="20260910030000 +0000" stop="20260910030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3002,7 +3002,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260910031500 +0000" stop="20260910033000 +0000" channel="DW English.mncvision">
-    <title>History: From Opium To Fentanyl</title>
+    <title>DocFilm</title>
 </programme>
 <programme start="20260910033000 +0000" stop="20260910040000 +0000" channel="DW English.mncvision">
     <title>Eco India: The Environment</title>
@@ -3032,7 +3032,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260910061500 +0000" stop="20260910063000 +0000" channel="DW English.mncvision">
-    <title>History: From Opium To Fentanyl</title>
+    <title>DocFilm</title>
 </programme>
 <programme start="20260910063000 +0000" stop="20260910070000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>

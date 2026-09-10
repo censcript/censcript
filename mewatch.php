@@ -274,17 +274,14 @@
     <programme start="20260910130000 +0000" stop="20260910140000 +0000" channel="Channel 8.mewatch">
         <title>Brighter Days - EP 14</title>
     </programme>
-    <programme start="20260910140000 +0000" stop="20260910143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260910140000 +0000" stop="20260910144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260910143000 +0000" stop="20260910150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260910144500 +0000" stop="20260910151500 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 24</title>
     </programme>
-    <programme start="20260910150000 +0000" stop="20260910160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260910151500 +0000" stop="20260910161500 +0000" channel="Channel 8.mewatch">
         <title>The Litchi Road - EP 13</title>
-    </programme>
-    <programme start="20260910160000 +0000" stop="20260910170000 +0000" channel="Channel 8.mewatch">
-        <title>Heroes - EP 32</title>
     </programme>
     <programme start="20260909154500 +0000" stop="20260909164000 +0000" channel="Channel U.mewatch">
         <title>The Indigenous - EP 9</title>
@@ -394,10 +391,10 @@
     <programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="Channel U.mewatch">
         <title>My Sweet Mobster - EP 10</title>
     </programme>
-    <programme start="20260910150000 +0000" stop="20260910153000 +0000" channel="Channel U.mewatch">
+    <programme start="20260910150000 +0000" stop="20260910154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20260910153000 +0000" stop="20260910163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260910154500 +0000" stop="20260910164000 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S18 - EP 9</title>
     </programme>
     <programme start="20260909160000 +0000" stop="20260910010000 +0000" channel="Suria.mewatch">
