@@ -4508,10 +4508,10 @@
     <title>Formula E Unplugged - Fight or Flight</title>
 </programme>
 <programme start="20260910120000 +0000" stop="20260910140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 3</title>
+    <title>Live: English Open Snooker - Round 3: Mark Selby v Kyren Wilson</title>
 </programme>
 <programme start="20260910140000 +0000" stop="20260910160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Round 3</title>
+    <title>Live: English Open Snooker - Round 3: Liam Davies v Wu Yize</title>
 </programme>
 <programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Polo - British Open Championship</title>
@@ -7553,7 +7553,7 @@
     <title>Creflo Dollar</title>
 </programme>
 <programme start="20260910000000 +0000" stop="20260910003000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Dilo Ki Ram Leela - Episode 16</title>
 </programme>
 <programme start="20260910003000 +0000" stop="20260910010000 +0000" channel="Zee_TV.virginmediatv">
     <title>Humari Radha - Episode 3</title>
@@ -7592,7 +7592,7 @@
     <title>Humari Radha - Episode 3</title>
 </programme>
 <programme start="20260910130000 +0000" stop="20260910133000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tum Se Tum Tak - Episode 365</title>
 </programme>
 <programme start="20260910133000 +0000" stop="20260910140000 +0000" channel="Zee_TV.virginmediatv">
     <title>Ganga Mai Ki Betiyaan - Episode 103</title>
@@ -7613,7 +7613,7 @@
     <title>Humari Radha - Episode 3</title>
 </programme>
 <programme start="20260910170000 +0000" stop="20260910173000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tum Se Tum Tak - Episode 365</title>
 </programme>
 <programme start="20260910173000 +0000" stop="20260910180000 +0000" channel="Zee_TV.virginmediatv">
     <title>Dilo Ki Ram Leela - Episode 18</title>
