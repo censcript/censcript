@@ -151,16 +151,16 @@
     <programme start="20260910123000 +0000" stop="20260910130000 +0000" channel="Channel 5.mewatch">
         <title>Yes Captain! - EP 20</title>
     </programme>
-    <programme start="20260910130000 +0000" stop="20260910133000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+    <programme start="20260910130000 +0000" stop="20260910134500 +0000" channel="Channel 5.mewatch">
+        <title>(Live) News Tonight (With Highlights From Parliament)</title>
     </programme>
-    <programme start="20260910133000 +0000" stop="20260910140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260910134500 +0000" stop="20260910141500 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 17</title>
     </programme>
-    <programme start="20260910140000 +0000" stop="20260910150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260910141500 +0000" stop="20260910150500 +0000" channel="Channel 5.mewatch">
         <title>FBI: Most Wanted S6 - EP 16</title>
     </programme>
-    <programme start="20260910150000 +0000" stop="20260910160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260910150500 +0000" stop="20260910160000 +0000" channel="Channel 5.mewatch">
         <title>NCIS: Origins S1 - EP 2</title>
     </programme>
     <programme start="20260910160000 +0000" stop="20260910163000 +0000" channel="Channel 5.mewatch">
