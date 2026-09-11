@@ -619,9 +619,6 @@
 <programme start="20260912113000 +0000" stop="20260912121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260910230000 +0000" stop="20260911023000 +0000" channel="ANTV.vision">
-<title>Jab Pyar Kisise Hota Hai</title>
-</programme>
 <programme start="20260911023000 +0000" stop="20260911060000 +0000" channel="ANTV.vision">
 <title>Jab Tak Hai Jaan</title>
 </programme>
@@ -792,9 +789,6 @@
 </programme>
 <programme start="20260911020000 +0000" stop="20260911023000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
-</programme>
-<programme start="20260911023000 +0000" stop="20260911033000 +0000" channel="TVOne.vision">
-<title>Polri Presisi</title>
 </programme>
 <programme start="20260911033000 +0000" stop="20260911040000 +0000" channel="TVOne.vision">
 <title>Metropolitan</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260911190000 +0000" stop="20260911210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260911210000 +0000" stop="20260911230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260911230000 +0000" stop="20260912010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

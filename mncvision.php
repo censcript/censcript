@@ -163,11 +163,8 @@
 <programme start="20260911083000 +0000" stop="20260911090000 +0000" channel="Al Jazeera English.mncvision">
     <title>101 East: China&#039;s Lonely Hearts</title>
 </programme>
-<programme start="20260911090000 +0000" stop="20260911093000 +0000" channel="Al Jazeera English.mncvision">
+<programme start="20260911090000 +0000" stop="20260911100000 +0000" channel="Al Jazeera English.mncvision">
     <title>Al Jazeera World: Erdogan</title>
-</programme>
-<programme start="20260911093000 +0000" stop="20260911100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
 </programme>
 <programme start="20260911100000 +0000" stop="20260911110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -4274,7 +4271,7 @@
     <title>Konco Ngaso</title>
 </programme>
 <programme start="20260911063000 +0000" stop="20260911070000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Jan Enak Tenan</title>
+    <title>Ge Bams</title>
 </programme>
 <programme start="20260911070000 +0000" stop="20260911080000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Curhatan Orang Dalam</title>
@@ -7642,31 +7639,31 @@
 <programme start="20260910184500 +0000" stop="20260910200000 +0000" channel="SCTV.mncvision">
     <title>Saatnya Ucapkan Cinta</title>
 </programme>
-<programme start="20260910200000 +0000" stop="20260910210000 +0000" channel="SCTV.mncvision">
+<programme start="20260910200000 +0000" stop="20260910210500 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20260910210000 +0000" stop="20260910213000 +0000" channel="SCTV.mncvision">
+<programme start="20260910210500 +0000" stop="20260910212800 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260910213000 +0000" stop="20260910220000 +0000" channel="SCTV.mncvision">
+<programme start="20260910212800 +0000" stop="20260910215400 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260910220000 +0000" stop="20260910230000 +0000" channel="SCTV.mncvision">
+<programme start="20260910215400 +0000" stop="20260910230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260910230000 +0000" stop="20260911000000 +0000" channel="SCTV.mncvision">
+<programme start="20260910230000 +0000" stop="20260911001100 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260911000000 +0000" stop="20260911010000 +0000" channel="SCTV.mncvision">
+<programme start="20260911001100 +0000" stop="20260911011200 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260911010000 +0000" stop="20260911030000 +0000" channel="SCTV.mncvision">
+<programme start="20260911011200 +0000" stop="20260911025700 +0000" channel="SCTV.mncvision">
     <title>Arjuna Cintanya Gak Pernah...</title>
 </programme>
-<programme start="20260911030000 +0000" stop="20260911050000 +0000" channel="SCTV.mncvision">
-    <title>FTV Pagi</title>
+<programme start="20260911025700 +0000" stop="20260911045400 +0000" channel="SCTV.mncvision">
+    <title>Colek Cwk 10.000 Dollar King</title>
 </programme>
-<programme start="20260911050000 +0000" stop="20260911053000 +0000" channel="SCTV.mncvision">
+<programme start="20260911045400 +0000" stop="20260911053000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260911053000 +0000" stop="20260911100000 +0000" channel="SCTV.mncvision">
@@ -7675,16 +7672,16 @@
 <programme start="20260911100000 +0000" stop="20260911113000 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260911113000 +0000" stop="20260911124500 +0000" channel="SCTV.mncvision">
+<programme start="20260911113000 +0000" stop="20260911125700 +0000" channel="SCTV.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260911124500 +0000" stop="20260911141500 +0000" channel="SCTV.mncvision">
+<programme start="20260911125700 +0000" stop="20260911142300 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260911141500 +0000" stop="20260911160000 +0000" channel="SCTV.mncvision">
+<programme start="20260911142300 +0000" stop="20260911160400 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260911160000 +0000" stop="20260911163000 +0000" channel="SCTV.mncvision">
+<programme start="20260911160400 +0000" stop="20260911163400 +0000" channel="SCTV.mncvision">
     <title>Arafta Terbelenggu Takdir</title>
 </programme>
 <programme start="20260910174500 +0000" stop="20260910184500 +0000" channel="SCTV HD.mncvision">
@@ -7693,31 +7690,31 @@
 <programme start="20260910184500 +0000" stop="20260910200000 +0000" channel="SCTV HD.mncvision">
     <title>Saatnya Ucapkan Cinta</title>
 </programme>
-<programme start="20260910200000 +0000" stop="20260910210000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260910200000 +0000" stop="20260910210500 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20260910210000 +0000" stop="20260910213000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260910210500 +0000" stop="20260910212800 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260910213000 +0000" stop="20260910220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260910212800 +0000" stop="20260910215400 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260910220000 +0000" stop="20260910230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260910215400 +0000" stop="20260910230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260910230000 +0000" stop="20260911000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260910230000 +0000" stop="20260911001100 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260911000000 +0000" stop="20260911010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260911001100 +0000" stop="20260911011200 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260911010000 +0000" stop="20260911030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260911011200 +0000" stop="20260911025700 +0000" channel="SCTV HD.mncvision">
     <title>Arjuna Cintanya Gak Pernah...</title>
 </programme>
-<programme start="20260911030000 +0000" stop="20260911050000 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Pagi</title>
+<programme start="20260911025700 +0000" stop="20260911045400 +0000" channel="SCTV HD.mncvision">
+    <title>Colek Cwk 10.000 Dollar King</title>
 </programme>
-<programme start="20260911050000 +0000" stop="20260911053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260911045400 +0000" stop="20260911053000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
 <programme start="20260911053000 +0000" stop="20260911100000 +0000" channel="SCTV HD.mncvision">
@@ -7726,16 +7723,16 @@
 <programme start="20260911100000 +0000" stop="20260911113000 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z New Era</title>
 </programme>
-<programme start="20260911113000 +0000" stop="20260911124500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260911113000 +0000" stop="20260911125700 +0000" channel="SCTV HD.mncvision">
     <title>Seindah Masa Remaja</title>
 </programme>
-<programme start="20260911124500 +0000" stop="20260911141500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260911125700 +0000" stop="20260911142300 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260911141500 +0000" stop="20260911160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260911142300 +0000" stop="20260911160400 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260911160000 +0000" stop="20260911163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260911160400 +0000" stop="20260911163400 +0000" channel="SCTV HD.mncvision">
     <title>Arafta Terbelenggu Takdir</title>
 </programme>
 <programme start="20260910173000 +0000" stop="20260910180000 +0000" channel="Sindo News TV.mncvision">
@@ -8351,10 +8348,10 @@
     <title>Wimbledon Official Film 2026</title>
 </programme>
 <programme start="20260910230000 +0000" stop="20260911020000 +0000" channel="SPOTV.mncvision">
-    <title>2026 US Open Tennis C&#039;hips (L)</title>
+    <title>2026 US Open Tennis C&#039;ships (L)</title>
 </programme>
 <programme start="20260911020000 +0000" stop="20260911040000 +0000" channel="SPOTV.mncvision">
-    <title>2026 US Open Tennis C&#039;hips (L)</title>
+    <title>2026 US Open Tennis C&#039;ships (L)</title>
 </programme>
 <programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="SPOTV.mncvision">
     <title>KPMG Women&#039;s Irish Open HL</title>
@@ -8447,10 +8444,10 @@
     <title>Wimbledon Official Film 2026</title>
 </programme>
 <programme start="20260910230000 +0000" stop="20260911020000 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 US Open Tennis C&#039;hips (L)</title>
+    <title>2026 US Open Tennis C&#039;ships (L)</title>
 </programme>
 <programme start="20260911020000 +0000" stop="20260911040000 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 US Open Tennis C&#039;hips (L)</title>
+    <title>2026 US Open Tennis C&#039;ships (L)</title>
 </programme>
 <programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="SPOTV HD.mncvision">
     <title>KPMG Women&#039;s Irish Open HL</title>
