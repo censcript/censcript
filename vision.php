@@ -152,37 +152,37 @@
 <title>Kisah Viral</title>
 </programme>
 <programme start="20260911173000 +0000" stop="20260911190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>1001 Kisah</title>
 </programme>
 <programme start="20260911190000 +0000" stop="20260911210000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Ragam Cerita</title>
 </programme>
 <programme start="20260911210000 +0000" stop="20260911230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Petualangan Fantasi</title>
 </programme>
-<programme start="20260911230000 +0000" stop="20260911233000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260911230000 +0000" stop="20260912000000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20260911233000 +0000" stop="20260912010000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260912000000 +0000" stop="20260912003000 +0000" channel="GTV.vision">
+<title>BIMA-S</title>
 </programme>
-<programme start="20260912010000 +0000" stop="20260912033000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260912003000 +0000" stop="20260912010000 +0000" channel="GTV.vision">
+<title>Zak Storm</title>
 </programme>
-<programme start="20260912033000 +0000" stop="20260912053000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260912010000 +0000" stop="20260912050000 +0000" channel="GTV.vision">
+<title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260912053000 +0000" stop="20260912080000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260912050000 +0000" stop="20260912070000 +0000" channel="GTV.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20260912080000 +0000" stop="20260912100000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260912070000 +0000" stop="20260912093000 +0000" channel="GTV.vision">
+<title>Entong (GTV)</title>
 </programme>
-<programme start="20260912100000 +0000" stop="20260912110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260912093000 +0000" stop="20260912110000 +0000" channel="GTV.vision">
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260912110000 +0000" stop="20260912123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20260910234500 +0000" stop="20260911001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -616,7 +616,7 @@
 <programme start="20260911023000 +0000" stop="20260911060000 +0000" channel="ANTV.vision">
 <title>Jab Tak Hai Jaan</title>
 </programme>
-<programme start="20260912060000 +0000" stop="20260912073000 +0000" channel="ANTV.vision">
+<programme start="20260911060000 +0000" stop="20260911073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20260911073000 +0000" stop="20260911093000 +0000" channel="ANTV.vision">
@@ -625,9 +625,6 @@
 <programme start="20260911093000 +0000" stop="20260911110000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260911110000 +0000" stop="20260911124500 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 2</title>
-</programme>
 <programme start="20260911124500 +0000" stop="20260911140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
@@ -635,9 +632,12 @@
 <title>Rumah Bekas Kuburan</title>
 </programme>
 <programme start="20260911160000 +0000" stop="20260911173000 +0000" channel="ANTV.vision">
+<title>Si Rawing</title>
+</programme>
+<programme start="20260911173000 +0000" stop="20260911190000 +0000" channel="ANTV.vision">
 <title>Fly Me To Polaris</title>
 </programme>
-<programme start="20260911173000 +0000" stop="20260911194500 +0000" channel="ANTV.vision">
+<programme start="20260911190000 +0000" stop="20260911194500 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
 <programme start="20260911194500 +0000" stop="20260911210000 +0000" channel="ANTV.vision">
@@ -654,6 +654,15 @@
 </programme>
 <programme start="20260912023000 +0000" stop="20260912060000 +0000" channel="ANTV.vision">
 <title>Phir Bhi Dil Hai Hindustani</title>
+</programme>
+<programme start="20260912060000 +0000" stop="20260912073000 +0000" channel="ANTV.vision">
+<title>Jhanak</title>
+</programme>
+<programme start="20260912073000 +0000" stop="20260912093000 +0000" channel="ANTV.vision">
+<title>Sayali</title>
+</programme>
+<programme start="20260912093000 +0000" stop="20260912110000 +0000" channel="ANTV.vision">
+<title>Jaane Anjaane</title>
 </programme>
 <programme start="20260912110000 +0000" stop="20260912124500 +0000" channel="ANTV.vision">
 <title>Saur Sepuh 3</title>

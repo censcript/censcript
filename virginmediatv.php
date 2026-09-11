@@ -3842,7 +3842,7 @@
     <title>Edinburgh Derby Best Goals</title>
 </programme>
 <programme start="20260911020000 +0000" stop="20260911023000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>Scottish Premiership Football - 2016/17: Celtic v Rangers</title>
+    <title>SPFL Greatest - 2017: Celtic v Rangers</title>
 </programme>
 <programme start="20260911023000 +0000" stop="20260911024500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Greatest - 2017/18: Derby County v Leeds United</title>
@@ -3937,20 +3937,23 @@
 <programme start="20260911091500 +0000" stop="20260911180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 3: England v Pakistan</title>
 </programme>
-<programme start="20260911000000 +0000" stop="20260911010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Solheim Cup Women&#039;s Golf - Day 2</title>
+<programme start="20260910231000 +0000" stop="20260911001000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Solheim Cup Women&#039;s Golf - Day 1</title>
 </programme>
-<programme start="20260911010000 +0000" stop="20260911020000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Solheim Cup Women&#039;s Golf - Day 3: Singles</title>
+<programme start="20260911001000 +0000" stop="20260911012500 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Solheim Cup Women&#039;s Golf - Opening Ceremony</title>
 </programme>
-<programme start="20260911020000 +0000" stop="20260911030000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260911012500 +0000" stop="20260911022500 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260911030000 +0000" stop="20260911040000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260911022500 +0000" stop="20260911032500 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260911032500 +0000" stop="20260911042500 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 4: Highlights</title>
+</programme>
+<programme start="20260911042500 +0000" stop="20260911050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Chronicles of a Champion Golfer</title>
 </programme>
 <programme start="20260911050000 +0000" stop="20260911110000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Solheim Cup Women&#039;s Golf - Day 1: Foursomes</title>
@@ -4676,7 +4679,7 @@
     <title>Edinburgh Derby Best Goals</title>
 </programme>
 <programme start="20260911020000 +0000" stop="20260911023000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>Scottish Premiership Football - 2016/17: Celtic v Rangers</title>
+    <title>SPFL Greatest - 2017: Celtic v Rangers</title>
 </programme>
 <programme start="20260911023000 +0000" stop="20260911024500 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Greatest - 2017/18: Derby County v Leeds United</title>
@@ -4771,20 +4774,23 @@
 <programme start="20260911091500 +0000" stop="20260911180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 3: England v Pakistan</title>
 </programme>
-<programme start="20260911000000 +0000" stop="20260911010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Solheim Cup Women&#039;s Golf - Day 2</title>
+<programme start="20260910231000 +0000" stop="20260911001000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Solheim Cup Women&#039;s Golf - Day 1</title>
 </programme>
-<programme start="20260911010000 +0000" stop="20260911020000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Solheim Cup Women&#039;s Golf - Day 3: Singles</title>
+<programme start="20260911001000 +0000" stop="20260911012500 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Solheim Cup Women&#039;s Golf - Opening Ceremony</title>
 </programme>
-<programme start="20260911020000 +0000" stop="20260911030000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260911012500 +0000" stop="20260911022500 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260911030000 +0000" stop="20260911040000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260911022500 +0000" stop="20260911032500 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260911040000 +0000" stop="20260911050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260911032500 +0000" stop="20260911042500 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 4: Highlights</title>
+</programme>
+<programme start="20260911042500 +0000" stop="20260911050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Chronicles of a Champion Golfer</title>
 </programme>
 <programme start="20260911050000 +0000" stop="20260911110000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Solheim Cup Women&#039;s Golf - Day 1: Foursomes</title>
