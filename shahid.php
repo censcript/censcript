@@ -2143,48 +2143,6 @@
     <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="986014.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260912000000 +0000" stop="20260912001000 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260912001000 +0000" stop="20260912001500 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260912001500 +0000" stop="20260912010000 +0000" channel="49923122575716.shahid">
-        <title>Bain El Sotour Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260912010000 +0000" stop="20260912013800 +0000" channel="49923122575716.shahid">
-        <title>Afrah Ebles Season 2 Episode 26</title>
-    </programme>
-    <programme start="20260912013800 +0000" stop="20260912014500 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260912014500 +0000" stop="20260912021100 +0000" channel="49923122575716.shahid">
-        <title>Bahar Season 1 Episode 41</title>
-    </programme>
-    <programme start="20260912021100 +0000" stop="20260912023000 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260912023000 +0000" stop="20260912030000 +0000" channel="49923122575716.shahid">
-        <title>Fekra B million Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260912030000 +0000" stop="20260912031500 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260912031500 +0000" stop="20260912041000 +0000" channel="49923122575716.shahid">
-        <title>Aal Hilwa Wa Al Morra Season 1 Episode 40</title>
-    </programme>
-    <programme start="20260912041000 +0000" stop="20260912045500 +0000" channel="49923122575716.shahid">
-        <title>Al Ostora Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260912045500 +0000" stop="20260912050000 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260912050000 +0000" stop="20260912053800 +0000" channel="49923122575716.shahid">
-        <title>Afrah Ebles Season 2 Episode 26</title>
-    </programme>
-    <programme start="20260912053800 +0000" stop="20260913235959 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260912000000 +0000" stop="20260912000000 +0000" channel="387238.shahid">
         <title>Kalam Nawa&#039;em Season 23 Episode 20</title>
     </programme>
@@ -2376,6 +2334,48 @@
     </programme>
     <programme start="20260913233000 +0000" stop="20260913235959 +0000" channel="387238.shahid">
         <title>Ali Klay Season 1 Episode 16</title>
+    </programme>
+    <programme start="20260912000000 +0000" stop="20260912001000 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260912001000 +0000" stop="20260912001500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260912001500 +0000" stop="20260912010000 +0000" channel="49923122575716.shahid">
+        <title>Bain El Sotour Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260912010000 +0000" stop="20260912013800 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 2 Episode 26</title>
+    </programme>
+    <programme start="20260912013800 +0000" stop="20260912014500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260912014500 +0000" stop="20260912021100 +0000" channel="49923122575716.shahid">
+        <title>Bahar Season 1 Episode 41</title>
+    </programme>
+    <programme start="20260912021100 +0000" stop="20260912023000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260912023000 +0000" stop="20260912030000 +0000" channel="49923122575716.shahid">
+        <title>Fekra B million Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260912030000 +0000" stop="20260912031500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260912031500 +0000" stop="20260912041000 +0000" channel="49923122575716.shahid">
+        <title>Aal Hilwa Wa Al Morra Season 1 Episode 40</title>
+    </programme>
+    <programme start="20260912041000 +0000" stop="20260912045500 +0000" channel="49923122575716.shahid">
+        <title>Al Ostora Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260912045500 +0000" stop="20260912050000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260912050000 +0000" stop="20260912053800 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 2 Episode 26</title>
+    </programme>
+    <programme start="20260912053800 +0000" stop="20260913235959 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
@@ -5281,6 +5281,9 @@
     <programme start="20260913234017 +0000" stop="20260913235959 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 2 Episode 8</title>
     </programme>
+    <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="946942.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260912000000 +0000" stop="20260912002500 +0000" channel="387294.shahid">
         <title>Al Motawahesh Season 1 Episode 153</title>
     </programme>
@@ -5376,9 +5379,6 @@
     </programme>
     <programme start="20260913234500 +0000" stop="20260913235959 +0000" channel="387294.shahid">
         <title>Awdat Khalati Season 1 Episode 1</title>
-    </programme>
-    <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="946942.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
@@ -6424,9 +6424,6 @@
     <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="986346.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260912000000 +0000" stop="20260912001212 +0000" channel="992538.shahid">
         <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 20</title>
     </programme>
@@ -6666,6 +6663,9 @@
     </programme>
     <programme start="20260913235736 +0000" stop="20260913235959 +0000" channel="992538.shahid">
         <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
+    </programme>
+    <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="986346.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="1005232.shahid">
         <title>TV guide is not available</title>

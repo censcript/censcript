@@ -862,19 +862,19 @@
   <programme start="20260913215500 +0000" stop="20260913231500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Policajná akadémia 2</title>
   </programme>
-  <programme start="20260912210000 +0000" stop="20260912221000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260912210000 +0000" stop="20260912220500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Hriech I (1)</title>
   </programme>
-  <programme start="20260912221000 +0000" stop="20260913000500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260912220500 +0000" stop="20260913000000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Baby boom</title>
   </programme>
-  <programme start="20260913000500 +0000" stop="20260913015500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913000000 +0000" stop="20260913015000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Ženy v pokušení</title>
   </programme>
-  <programme start="20260913015500 +0000" stop="20260913033500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913015000 +0000" stop="20260913033000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Baby boom</title>
   </programme>
-  <programme start="20260913033500 +0000" stop="20260913040000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913033000 +0000" stop="20260913040000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia IX (12)</title>
   </programme>
   <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="Doma.webtv.sk">
@@ -889,37 +889,37 @@
   <programme start="20260913065000 +0000" stop="20260913073500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier III (10)</title>
   </programme>
-  <programme start="20260913073500 +0000" stop="20260913075500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913073500 +0000" stop="20260913080000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier III (11)</title>
   </programme>
-  <programme start="20260913075500 +0000" stop="20260913083000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913080000 +0000" stop="20260913083500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier III (12)</title>
   </programme>
-  <programme start="20260913083000 +0000" stop="20260913092000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913083500 +0000" stop="20260913092000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Med VIII (13)</title>
   </programme>
-  <programme start="20260913092000 +0000" stop="20260913102000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913092000 +0000" stop="20260913102500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Med VIII (14)</title>
   </programme>
-  <programme start="20260913102000 +0000" stop="20260913115000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913102500 +0000" stop="20260913115500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260913115000 +0000" stop="20260913140000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913115500 +0000" stop="20260913140500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Baby boom</title>
   </programme>
-  <programme start="20260913140000 +0000" stop="20260913155000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913140500 +0000" stop="20260913155500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Recept na šťastie</title>
   </programme>
-  <programme start="20260913155000 +0000" stop="20260913170500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913155500 +0000" stop="20260913171000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XV (3)</title>
   </programme>
-  <programme start="20260913170500 +0000" stop="20260913183000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913171000 +0000" stop="20260913183000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XV (4)</title>
   </programme>
-  <programme start="20260913183000 +0000" stop="20260913201000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913183000 +0000" stop="20260913201500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zlomené srdce</title>
   </programme>
-  <programme start="20260913201000 +0000" stop="20260913220000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260913201500 +0000" stop="20260913221000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Flashdance</title>
   </programme>
   <programme start="20260912215500 +0000" stop="20260912223500 +0000" channel="Markíza Krimi.webtv.sk">
