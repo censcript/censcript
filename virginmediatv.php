@@ -4508,7 +4508,7 @@
     <title>World Climbing Series - Koper</title>
 </programme>
 <programme start="20260911120000 +0000" stop="20260911153000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: English Open Snooker - Quarter-Final</title>
+    <title>Live: English Open Snooker - Quarter-Final: Ding Junhui v Kyren Wilson</title>
 </programme>
 <programme start="20260911153000 +0000" stop="20260911160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Women&#039;s CPL T20 - Trinbago Knight Riders v Jamaica Empress</title>
@@ -6064,7 +6064,10 @@
 <programme start="20260910175800 +0000" stop="20260911015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260911015800 +0000" stop="20260911060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260911015800 +0000" stop="20260911050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260911050000 +0000" stop="20260911060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260911115000 +0000" stop="20260911120500 +0000" channel="CBBC.virginmediatv">

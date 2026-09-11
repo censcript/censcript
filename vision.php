@@ -631,9 +631,6 @@
 <programme start="20260911140000 +0000" stop="20260911160000 +0000" channel="ANTV.vision">
 <title>Rumah Bekas Kuburan</title>
 </programme>
-<programme start="20260911160000 +0000" stop="20260911173000 +0000" channel="ANTV.vision">
-<title>Si Rawing</title>
-</programme>
 <programme start="20260911173000 +0000" stop="20260911190000 +0000" channel="ANTV.vision">
 <title>Fly Me To Polaris</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260911230000 +0000" stop="20260912010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260912010000 +0000" stop="20260912030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
