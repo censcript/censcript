@@ -413,7 +413,7 @@
     <title>Rumah Bekas Kuburan</title>
 </programme>
 <programme start="20260911160000 +0000" stop="20260911163000 +0000" channel="ANTV.mncvision">
-    <title>Fly Me To Polaris</title>
+    <title>Si Rawing</title>
 </programme>
 <programme start="20260910170000 +0000" stop="20260910180000 +0000" channel="Arirang.mncvision">
     <title>Simply K-Pop Gateway To Korea</title>
@@ -1123,11 +1123,8 @@
 <programme start="20260911160000 +0000" stop="20260911162300 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga Freetour 2026/27, Ep 1</title>
 </programme>
-<programme start="20260911162300 +0000" stop="20260911165500 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260911162300 +0000" stop="20260911165300 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA Formula 3 2026: Madrid (L)</title>
-</programme>
-<programme start="20260911165500 +0000" stop="20260910172500 +0000" channel="beIN Sports 1.mncvision">
-    <title>Chasing The Dream 8: Monza</title>
 </programme>
 <programme start="20260910175500 +0000" stop="20260910183000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga Highlights 2026/27</title>
@@ -1213,11 +1210,8 @@
 <programme start="20260911160000 +0000" stop="20260911162300 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga Freetour 2026/27, Ep 1</title>
 </programme>
-<programme start="20260911162300 +0000" stop="20260911165500 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260911162300 +0000" stop="20260911165300 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA Formula 3 2026: Madrid (L)</title>
-</programme>
-<programme start="20260911165500 +0000" stop="20260910172500 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>Chasing The Dream 8: Monza</title>
 </programme>
 <programme start="20260910185500 +0000" stop="20260910210000 +0000" channel="beIN Sports 2.mncvision">
     <title>UCL 2026/27: COM Vs RBL (L)</title>
@@ -6521,7 +6515,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20260911073000 +0000" stop="20260911080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>The Choice</title>
 </programme>
 <programme start="20260911080000 +0000" stop="20260911083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6563,7 +6557,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260911133000 +0000" stop="20260911140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>The Choice</title>
 </programme>
 <programme start="20260911140000 +0000" stop="20260911143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -9149,7 +9143,7 @@
     <title>Breaking News</title>
 </programme>
 <programme start="20260911023000 +0000" stop="20260911033000 +0000" channel="tvOne.mncvision">
-    <title>POLRI Presisi</title>
+    <title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260911033000 +0000" stop="20260911040000 +0000" channel="tvOne.mncvision">
     <title>Metropolitan</title>
@@ -9163,8 +9157,11 @@
 <programme start="20260911063000 +0000" stop="20260911080000 +0000" channel="tvOne.mncvision">
     <title>Apa Kabar Indonesia Siang</title>
 </programme>
-<programme start="20260911080000 +0000" stop="20260911083000 +0000" channel="tvOne.mncvision">
+<programme start="20260911080000 +0000" stop="20260911081500 +0000" channel="tvOne.mncvision">
     <title>Kabar Merah Putih</title>
+</programme>
+<programme start="20260911081500 +0000" stop="20260911083000 +0000" channel="tvOne.mncvision">
+    <title>Indonesia Terkini</title>
 </programme>
 <programme start="20260911083000 +0000" stop="20260911090000 +0000" channel="tvOne.mncvision">
     <title>Berita Utama Kriminal</title>

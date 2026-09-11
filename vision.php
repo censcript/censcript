@@ -46,13 +46,13 @@
 <programme start="20260912010000 +0000" stop="20260912033000 +0000" channel="RCTI.vision">
 <title>Entong</title>
 </programme>
-<programme start="20260912033000 +0000" stop="20260912043000 +0000" channel="RCTI.vision">
+<programme start="20260912033000 +0000" stop="20260912040000 +0000" channel="RCTI.vision">
 <title>Ninja Hatori</title>
 </programme>
-<programme start="20260912043000 +0000" stop="20260912060000 +0000" channel="RCTI.vision">
+<programme start="20260912040000 +0000" stop="20260912053000 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260912060000 +0000" stop="20260912103000 +0000" channel="RCTI.vision">
+<programme start="20260912053000 +0000" stop="20260912103000 +0000" channel="RCTI.vision">
 <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260912103000 +0000" stop="20260912120000 +0000" channel="RCTI.vision">
@@ -205,13 +205,10 @@
 <programme start="20260911060000 +0000" stop="20260911063000 +0000" channel="iNews.vision">
 <title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20260911063000 +0000" stop="20260911073000 +0000" channel="iNews.vision">
+<programme start="20260911063000 +0000" stop="20260911074500 +0000" channel="iNews.vision">
 <title>Breaking News (Inews)</title>
 </programme>
-<programme start="20260911073000 +0000" stop="20260911074000 +0000" channel="iNews.vision">
-<title>Breaking Goals (L)</title>
-</programme>
-<programme start="20260911074000 +0000" stop="20260911091500 +0000" channel="iNews.vision">
+<programme start="20260911074500 +0000" stop="20260911091500 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
 <programme start="20260911091500 +0000" stop="20260911120000 +0000" channel="iNews.vision">
@@ -227,70 +224,64 @@
 <title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260911151000 +0000" stop="20260911160000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
-</programme>
-<programme start="20260911160000 +0000" stop="20260911163000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
-<programme start="20260911163000 +0000" stop="20260911170000 +0000" channel="iNews.vision">
-<title>iNews Sport (L)</title>
+<programme start="20260911160000 +0000" stop="20260911170000 +0000" channel="iNews.vision">
+<title>iNews Files</title>
 </programme>
-<programme start="20260911170000 +0000" stop="20260911174500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260911170000 +0000" stop="20260911173000 +0000" channel="iNews.vision">
+<title>iNews Sport</title>
 </programme>
-<programme start="20260911174500 +0000" stop="20260911183000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260911173000 +0000" stop="20260911183000 +0000" channel="iNews.vision">
+<title>Breaking News</title>
 </programme>
-<programme start="20260911183000 +0000" stop="20260911190000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260911183000 +0000" stop="20260911191500 +0000" channel="iNews.vision">
+<title>iNews Malam</title>
 </programme>
-<programme start="20260911190000 +0000" stop="20260911193000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260911193000 +0000" stop="20260911201500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260911191500 +0000" stop="20260911201500 +0000" channel="iNews.vision">
+<title>Special Report</title>
 </programme>
 <programme start="20260911201500 +0000" stop="20260911210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita</title>
 </programme>
 <programme start="20260911210000 +0000" stop="20260911211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita</title>
 </programme>
 <programme start="20260911211500 +0000" stop="20260911230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Pagi (Live)</title>
 </programme>
 <programme start="20260911230000 +0000" stop="20260911231000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20260911231000 +0000" stop="20260911233000 +0000" channel="iNews.vision">
+<title>iNews Sport</title>
+</programme>
+<programme start="20260911233000 +0000" stop="20260912003000 +0000" channel="iNews.vision">
+<title>Special Report</title>
+</programme>
+<programme start="20260912003000 +0000" stop="20260912013000 +0000" channel="iNews.vision">
+<title>Realita</title>
+</programme>
+<programme start="20260912013000 +0000" stop="20260912023000 +0000" channel="iNews.vision">
+<title>iNews Files</title>
+</programme>
+<programme start="20260912023000 +0000" stop="20260912032500 +0000" channel="iNews.vision">
+<title>Breaking News (Inews)</title>
+</programme>
+<programme start="20260912032500 +0000" stop="20260912045000 +0000" channel="iNews.vision">
+<title>Cahaya Hati Indonesia (L)</title>
+</programme>
+<programme start="20260912045000 +0000" stop="20260912055000 +0000" channel="iNews.vision">
+<title>iNews Siang (L)</title>
+</programme>
+<programme start="20260912055000 +0000" stop="20260912084000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260911233000 +0000" stop="20260912001500 +0000" channel="iNews.vision">
+<programme start="20260912084000 +0000" stop="20260912113000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260912001500 +0000" stop="20260912010000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260912010000 +0000" stop="20260912014500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260912014500 +0000" stop="20260912024500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260912024500 +0000" stop="20260912041500 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260912041500 +0000" stop="20260912043000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260912043000 +0000" stop="20260912060000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260912060000 +0000" stop="20260912090000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20260912090000 +0000" stop="20260912120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260912113000 +0000" stop="20260912120000 +0000" channel="iNews.vision">
+<title>Inews Sore (Live)</title>
 </programme>
 <programme start="20260911000000 +0000" stop="20260911003000 +0000" channel="SindoNews.vision">
 <title>The Comment</title>
@@ -619,59 +610,53 @@
 <programme start="20260912113000 +0000" stop="20260912121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260910230000 +0000" stop="20260911023000 +0000" channel="ANTV.vision">
+<title>Jab Pyar Kisise Hota Hai</title>
+</programme>
 <programme start="20260911023000 +0000" stop="20260911060000 +0000" channel="ANTV.vision">
 <title>Jab Tak Hai Jaan</title>
 </programme>
-<programme start="20260911060000 +0000" stop="20260911073000 +0000" channel="ANTV.vision">
+<programme start="20260912060000 +0000" stop="20260912073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20260911073000 +0000" stop="20260911093000 +0000" channel="ANTV.vision">
 <title>Sayali</title>
 </programme>
-<programme start="20260911093000 +0000" stop="20260911113000 +0000" channel="ANTV.vision">
+<programme start="20260911093000 +0000" stop="20260911110000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260911113000 +0000" stop="20260911130000 +0000" channel="ANTV.vision">
-<title>Jodoh Wasiat Bapak Reborn</title>
+<programme start="20260911110000 +0000" stop="20260911124500 +0000" channel="ANTV.vision">
+<title>Saur Sepuh 2</title>
 </programme>
-<programme start="20260911130000 +0000" stop="20260911150000 +0000" channel="ANTV.vision">
+<programme start="20260911124500 +0000" stop="20260911140000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
+</programme>
+<programme start="20260911140000 +0000" stop="20260911160000 +0000" channel="ANTV.vision">
 <title>Rumah Bekas Kuburan</title>
 </programme>
-<programme start="20260911150000 +0000" stop="20260911170000 +0000" channel="ANTV.vision">
-<title>Si Rawing</title>
-</programme>
-<programme start="20260911170000 +0000" stop="20260911181500 +0000" channel="ANTV.vision">
+<programme start="20260911160000 +0000" stop="20260911173000 +0000" channel="ANTV.vision">
 <title>Fly Me To Polaris</title>
 </programme>
-<programme start="20260911181500 +0000" stop="20260911194500 +0000" channel="ANTV.vision">
+<programme start="20260911173000 +0000" stop="20260911194500 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
-<programme start="20260911194500 +0000" stop="20260911204500 +0000" channel="ANTV.vision">
+<programme start="20260911194500 +0000" stop="20260911210000 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
-<programme start="20260911204500 +0000" stop="20260911213000 +0000" channel="ANTV.vision">
+<programme start="20260911210000 +0000" stop="20260911220000 +0000" channel="ANTV.vision">
 <title>Bikin Mewek</title>
 </programme>
-<programme start="20260911213000 +0000" stop="20260911230000 +0000" channel="ANTV.vision">
-<title>Hati Ke Hati Bersama Mamah...</title>
+<programme start="20260911220000 +0000" stop="20260911230000 +0000" channel="ANTV.vision">
+<title>Bikin Mewek</title>
 </programme>
 <programme start="20260911230000 +0000" stop="20260912023000 +0000" channel="ANTV.vision">
 <title>Hello Brothers</title>
 </programme>
 <programme start="20260912023000 +0000" stop="20260912060000 +0000" channel="ANTV.vision">
-<title>Dunki</title>
+<title>Phir Bhi Dil Hai Hindustani</title>
 </programme>
-<programme start="20260912060000 +0000" stop="20260912073000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
-</programme>
-<programme start="20260912073000 +0000" stop="20260912093000 +0000" channel="ANTV.vision">
-<title>Sayali</title>
-</programme>
-<programme start="20260912093000 +0000" stop="20260912113000 +0000" channel="ANTV.vision">
-<title>Jaane Anjaane</title>
-</programme>
-<programme start="20260912113000 +0000" stop="20260912130000 +0000" channel="ANTV.vision">
-<title>Jodoh Wasiat Bapak Reborn</title>
+<programme start="20260912110000 +0000" stop="20260912124500 +0000" channel="ANTV.vision">
+<title>Saur Sepuh 3</title>
 </programme>
 <programme start="20260910220000 +0000" stop="20260911020000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -790,6 +775,9 @@
 <programme start="20260911020000 +0000" stop="20260911023000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
+<programme start="20260911023000 +0000" stop="20260911033000 +0000" channel="TVOne.vision">
+<title>Pagi-Pagi Seru</title>
+</programme>
 <programme start="20260911033000 +0000" stop="20260911040000 +0000" channel="TVOne.vision">
 <title>Metropolitan</title>
 </programme>
@@ -802,8 +790,11 @@
 <programme start="20260911063000 +0000" stop="20260911080000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Siang</title>
 </programme>
-<programme start="20260911080000 +0000" stop="20260911083000 +0000" channel="TVOne.vision">
+<programme start="20260911080000 +0000" stop="20260911081500 +0000" channel="TVOne.vision">
 <title>Kabar Merah Putih</title>
+</programme>
+<programme start="20260911081500 +0000" stop="20260911083000 +0000" channel="TVOne.vision">
+<title>Indonesia Terkini</title>
 </programme>
 <programme start="20260911083000 +0000" stop="20260911090000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
@@ -869,7 +860,7 @@
 <title>Bukan Jalan-Jalan Biasa</title>
 </programme>
 <programme start="20260912033000 +0000" stop="20260912040000 +0000" channel="TVOne.vision">
-<title>Jajago</title>
+<title>Dunia Kita Dan Anak</title>
 </programme>
 <programme start="20260912040000 +0000" stop="20260912053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>

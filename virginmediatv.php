@@ -7742,7 +7742,7 @@
     <title>Un si grand soleil</title>
 </programme>
 <programme start="20260911174600 +0000" stop="20260911180000 +0000" channel="TV5.virginmediatv">
-    <title>Tendance XXI express - Episode 55</title>
+    <title>Tendance XXI express - Manufacture Joseph Duclos</title>
 </programme>
 <programme start="20260910210000 +0000" stop="20260911010000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
