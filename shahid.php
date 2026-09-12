@@ -2044,246 +2044,6 @@
     <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="1029746.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260912000000 +0000" stop="20260912001212 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 20</title>
-    </programme>
-    <programme start="20260912001212 +0000" stop="20260912005044 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 11</title>
-    </programme>
-    <programme start="20260912005044 +0000" stop="20260912012739 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 12</title>
-    </programme>
-    <programme start="20260912012739 +0000" stop="20260912020704 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 13</title>
-    </programme>
-    <programme start="20260912020704 +0000" stop="20260912024516 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 14</title>
-    </programme>
-    <programme start="20260912024516 +0000" stop="20260912032225 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 15</title>
-    </programme>
-    <programme start="20260912032225 +0000" stop="20260912040301 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 16</title>
-    </programme>
-    <programme start="20260912040301 +0000" stop="20260912044657 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 17</title>
-    </programme>
-    <programme start="20260912044657 +0000" stop="20260912052427 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 18</title>
-    </programme>
-    <programme start="20260912052427 +0000" stop="20260912055325 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 19</title>
-    </programme>
-    <programme start="20260912055325 +0000" stop="20260912062835 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 20</title>
-    </programme>
-    <programme start="20260912062835 +0000" stop="20260912070531 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 11</title>
-    </programme>
-    <programme start="20260912070531 +0000" stop="20260912074032 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 12</title>
-    </programme>
-    <programme start="20260912074032 +0000" stop="20260912081819 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 13</title>
-    </programme>
-    <programme start="20260912081819 +0000" stop="20260912085502 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 14</title>
-    </programme>
-    <programme start="20260912085502 +0000" stop="20260912093042 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 15</title>
-    </programme>
-    <programme start="20260912093042 +0000" stop="20260912100945 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 16</title>
-    </programme>
-    <programme start="20260912100945 +0000" stop="20260912105214 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 17</title>
-    </programme>
-    <programme start="20260912105214 +0000" stop="20260912112836 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 18</title>
-    </programme>
-    <programme start="20260912112836 +0000" stop="20260912115642 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 19</title>
-    </programme>
-    <programme start="20260912115642 +0000" stop="20260912122955 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 20</title>
-    </programme>
-    <programme start="20260912122955 +0000" stop="20260912131346 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 21</title>
-    </programme>
-    <programme start="20260912131346 +0000" stop="20260912134935 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 22</title>
-    </programme>
-    <programme start="20260912134935 +0000" stop="20260912142618 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 23</title>
-    </programme>
-    <programme start="20260912142618 +0000" stop="20260912145759 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 24</title>
-    </programme>
-    <programme start="20260912145759 +0000" stop="20260912154017 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 25</title>
-    </programme>
-    <programme start="20260912154017 +0000" stop="20260912161502 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 26</title>
-    </programme>
-    <programme start="20260912161502 +0000" stop="20260912165046 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 27</title>
-    </programme>
-    <programme start="20260912165046 +0000" stop="20260912172530 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 28</title>
-    </programme>
-    <programme start="20260912172530 +0000" stop="20260912180107 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 29</title>
-    </programme>
-    <programme start="20260912180107 +0000" stop="20260912183047 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 30</title>
-    </programme>
-    <programme start="20260912183047 +0000" stop="20260912191437 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 21</title>
-    </programme>
-    <programme start="20260912191437 +0000" stop="20260912195027 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 22</title>
-    </programme>
-    <programme start="20260912195027 +0000" stop="20260912202710 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 23</title>
-    </programme>
-    <programme start="20260912202710 +0000" stop="20260912205850 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 24</title>
-    </programme>
-    <programme start="20260912205850 +0000" stop="20260912214109 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 25</title>
-    </programme>
-    <programme start="20260912214109 +0000" stop="20260912221553 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 26</title>
-    </programme>
-    <programme start="20260912221553 +0000" stop="20260912225138 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 27</title>
-    </programme>
-    <programme start="20260912225138 +0000" stop="20260912232622 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 28</title>
-    </programme>
-    <programme start="20260912232622 +0000" stop="20260913000159 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 29</title>
-    </programme>
-    <programme start="20260913000159 +0000" stop="20260913003139 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 30</title>
-    </programme>
-    <programme start="20260913003139 +0000" stop="20260913011529 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 21</title>
-    </programme>
-    <programme start="20260913011529 +0000" stop="20260913015119 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 22</title>
-    </programme>
-    <programme start="20260913015119 +0000" stop="20260913022802 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 23</title>
-    </programme>
-    <programme start="20260913022802 +0000" stop="20260913025942 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 24</title>
-    </programme>
-    <programme start="20260913025942 +0000" stop="20260913034201 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 25</title>
-    </programme>
-    <programme start="20260913034201 +0000" stop="20260913041645 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 26</title>
-    </programme>
-    <programme start="20260913041645 +0000" stop="20260913045230 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 27</title>
-    </programme>
-    <programme start="20260913045230 +0000" stop="20260913052714 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 28</title>
-    </programme>
-    <programme start="20260913052714 +0000" stop="20260913060251 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 29</title>
-    </programme>
-    <programme start="20260913060251 +0000" stop="20260913063230 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 30</title>
-    </programme>
-    <programme start="20260913063230 +0000" stop="20260913071621 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 21</title>
-    </programme>
-    <programme start="20260913071621 +0000" stop="20260913075210 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 22</title>
-    </programme>
-    <programme start="20260913075210 +0000" stop="20260913082854 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 23</title>
-    </programme>
-    <programme start="20260913082854 +0000" stop="20260913090034 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 24</title>
-    </programme>
-    <programme start="20260913090034 +0000" stop="20260913094253 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 25</title>
-    </programme>
-    <programme start="20260913094253 +0000" stop="20260913101737 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 26</title>
-    </programme>
-    <programme start="20260913101737 +0000" stop="20260913105322 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 27</title>
-    </programme>
-    <programme start="20260913105322 +0000" stop="20260913112805 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 28</title>
-    </programme>
-    <programme start="20260913112805 +0000" stop="20260913120343 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 29</title>
-    </programme>
-    <programme start="20260913120343 +0000" stop="20260913123322 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 30</title>
-    </programme>
-    <programme start="20260913123322 +0000" stop="20260913131521 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
-    </programme>
-    <programme start="20260913131521 +0000" stop="20260913135321 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
-    </programme>
-    <programme start="20260913135321 +0000" stop="20260913143105 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
-    </programme>
-    <programme start="20260913143105 +0000" stop="20260913150943 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
-    </programme>
-    <programme start="20260913150943 +0000" stop="20260913154706 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
-    </programme>
-    <programme start="20260913154706 +0000" stop="20260913162432 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
-    </programme>
-    <programme start="20260913162432 +0000" stop="20260913170115 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
-    </programme>
-    <programme start="20260913170115 +0000" stop="20260913173847 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
-    </programme>
-    <programme start="20260913173847 +0000" stop="20260913181518 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
-    </programme>
-    <programme start="20260913181518 +0000" stop="20260913185211 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
-    </programme>
-    <programme start="20260913185211 +0000" stop="20260913193410 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
-    </programme>
-    <programme start="20260913193410 +0000" stop="20260913201210 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
-    </programme>
-    <programme start="20260913201210 +0000" stop="20260913204953 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
-    </programme>
-    <programme start="20260913204953 +0000" stop="20260913212832 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
-    </programme>
-    <programme start="20260913212832 +0000" stop="20260913220555 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
-    </programme>
-    <programme start="20260913220555 +0000" stop="20260913224321 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
-    </programme>
-    <programme start="20260913224321 +0000" stop="20260913232004 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
-    </programme>
-    <programme start="20260913232004 +0000" stop="20260913235736 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
-    </programme>
-    <programme start="20260913235736 +0000" stop="20260913235959 +0000" channel="992538.shahid">
-        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
-    </programme>
     <programme start="20260912000000 +0000" stop="20260912003654 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 4 Episode 7</title>
     </programme>
@@ -2641,6 +2401,246 @@
     <programme start="20260914000000 +0000" stop="20260913235959 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
     </programme>
+    <programme start="20260912000000 +0000" stop="20260912001212 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 20</title>
+    </programme>
+    <programme start="20260912001212 +0000" stop="20260912005044 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 11</title>
+    </programme>
+    <programme start="20260912005044 +0000" stop="20260912012739 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 12</title>
+    </programme>
+    <programme start="20260912012739 +0000" stop="20260912020704 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 13</title>
+    </programme>
+    <programme start="20260912020704 +0000" stop="20260912024516 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 14</title>
+    </programme>
+    <programme start="20260912024516 +0000" stop="20260912032225 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 15</title>
+    </programme>
+    <programme start="20260912032225 +0000" stop="20260912040301 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 16</title>
+    </programme>
+    <programme start="20260912040301 +0000" stop="20260912044657 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 17</title>
+    </programme>
+    <programme start="20260912044657 +0000" stop="20260912052427 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 18</title>
+    </programme>
+    <programme start="20260912052427 +0000" stop="20260912055325 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 19</title>
+    </programme>
+    <programme start="20260912055325 +0000" stop="20260912062835 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 20</title>
+    </programme>
+    <programme start="20260912062835 +0000" stop="20260912070531 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 11</title>
+    </programme>
+    <programme start="20260912070531 +0000" stop="20260912074032 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 12</title>
+    </programme>
+    <programme start="20260912074032 +0000" stop="20260912081819 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 13</title>
+    </programme>
+    <programme start="20260912081819 +0000" stop="20260912085502 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 14</title>
+    </programme>
+    <programme start="20260912085502 +0000" stop="20260912093042 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 15</title>
+    </programme>
+    <programme start="20260912093042 +0000" stop="20260912100945 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 16</title>
+    </programme>
+    <programme start="20260912100945 +0000" stop="20260912105214 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 17</title>
+    </programme>
+    <programme start="20260912105214 +0000" stop="20260912112836 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 18</title>
+    </programme>
+    <programme start="20260912112836 +0000" stop="20260912115642 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 19</title>
+    </programme>
+    <programme start="20260912115642 +0000" stop="20260912122955 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 20</title>
+    </programme>
+    <programme start="20260912122955 +0000" stop="20260912131346 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 21</title>
+    </programme>
+    <programme start="20260912131346 +0000" stop="20260912134935 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 22</title>
+    </programme>
+    <programme start="20260912134935 +0000" stop="20260912142618 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 23</title>
+    </programme>
+    <programme start="20260912142618 +0000" stop="20260912145759 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 24</title>
+    </programme>
+    <programme start="20260912145759 +0000" stop="20260912154017 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 25</title>
+    </programme>
+    <programme start="20260912154017 +0000" stop="20260912161502 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 26</title>
+    </programme>
+    <programme start="20260912161502 +0000" stop="20260912165046 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 27</title>
+    </programme>
+    <programme start="20260912165046 +0000" stop="20260912172530 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 28</title>
+    </programme>
+    <programme start="20260912172530 +0000" stop="20260912180107 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 29</title>
+    </programme>
+    <programme start="20260912180107 +0000" stop="20260912183047 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 30</title>
+    </programme>
+    <programme start="20260912183047 +0000" stop="20260912191437 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 21</title>
+    </programme>
+    <programme start="20260912191437 +0000" stop="20260912195027 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 22</title>
+    </programme>
+    <programme start="20260912195027 +0000" stop="20260912202710 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 23</title>
+    </programme>
+    <programme start="20260912202710 +0000" stop="20260912205850 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 24</title>
+    </programme>
+    <programme start="20260912205850 +0000" stop="20260912214109 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 25</title>
+    </programme>
+    <programme start="20260912214109 +0000" stop="20260912221553 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 26</title>
+    </programme>
+    <programme start="20260912221553 +0000" stop="20260912225138 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 27</title>
+    </programme>
+    <programme start="20260912225138 +0000" stop="20260912232622 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 28</title>
+    </programme>
+    <programme start="20260912232622 +0000" stop="20260913000159 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 29</title>
+    </programme>
+    <programme start="20260913000159 +0000" stop="20260913003139 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 30</title>
+    </programme>
+    <programme start="20260913003139 +0000" stop="20260913011529 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 21</title>
+    </programme>
+    <programme start="20260913011529 +0000" stop="20260913015119 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 22</title>
+    </programme>
+    <programme start="20260913015119 +0000" stop="20260913022802 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 23</title>
+    </programme>
+    <programme start="20260913022802 +0000" stop="20260913025942 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 24</title>
+    </programme>
+    <programme start="20260913025942 +0000" stop="20260913034201 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 25</title>
+    </programme>
+    <programme start="20260913034201 +0000" stop="20260913041645 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 26</title>
+    </programme>
+    <programme start="20260913041645 +0000" stop="20260913045230 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 27</title>
+    </programme>
+    <programme start="20260913045230 +0000" stop="20260913052714 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 28</title>
+    </programme>
+    <programme start="20260913052714 +0000" stop="20260913060251 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 29</title>
+    </programme>
+    <programme start="20260913060251 +0000" stop="20260913063230 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 30</title>
+    </programme>
+    <programme start="20260913063230 +0000" stop="20260913071621 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 21</title>
+    </programme>
+    <programme start="20260913071621 +0000" stop="20260913075210 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 22</title>
+    </programme>
+    <programme start="20260913075210 +0000" stop="20260913082854 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 23</title>
+    </programme>
+    <programme start="20260913082854 +0000" stop="20260913090034 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 24</title>
+    </programme>
+    <programme start="20260913090034 +0000" stop="20260913094253 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 25</title>
+    </programme>
+    <programme start="20260913094253 +0000" stop="20260913101737 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 26</title>
+    </programme>
+    <programme start="20260913101737 +0000" stop="20260913105322 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 27</title>
+    </programme>
+    <programme start="20260913105322 +0000" stop="20260913112805 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 28</title>
+    </programme>
+    <programme start="20260913112805 +0000" stop="20260913120343 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 29</title>
+    </programme>
+    <programme start="20260913120343 +0000" stop="20260913123322 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: El Le’b Ma&#039; El Kobar Season 3 Episode 30</title>
+    </programme>
+    <programme start="20260913123322 +0000" stop="20260913131521 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
+    </programme>
+    <programme start="20260913131521 +0000" stop="20260913135321 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
+    </programme>
+    <programme start="20260913135321 +0000" stop="20260913143105 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
+    </programme>
+    <programme start="20260913143105 +0000" stop="20260913150943 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
+    </programme>
+    <programme start="20260913150943 +0000" stop="20260913154706 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
+    </programme>
+    <programme start="20260913154706 +0000" stop="20260913162432 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
+    </programme>
+    <programme start="20260913162432 +0000" stop="20260913170115 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
+    </programme>
+    <programme start="20260913170115 +0000" stop="20260913173847 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
+    </programme>
+    <programme start="20260913173847 +0000" stop="20260913181518 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
+    </programme>
+    <programme start="20260913181518 +0000" stop="20260913185211 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 10</title>
+    </programme>
+    <programme start="20260913185211 +0000" stop="20260913193410 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 1</title>
+    </programme>
+    <programme start="20260913193410 +0000" stop="20260913201210 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 2</title>
+    </programme>
+    <programme start="20260913201210 +0000" stop="20260913204953 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 3</title>
+    </programme>
+    <programme start="20260913204953 +0000" stop="20260913212832 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 4</title>
+    </programme>
+    <programme start="20260913212832 +0000" stop="20260913220555 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 5</title>
+    </programme>
+    <programme start="20260913220555 +0000" stop="20260913224321 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 6</title>
+    </programme>
+    <programme start="20260913224321 +0000" stop="20260913232004 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 7</title>
+    </programme>
+    <programme start="20260913232004 +0000" stop="20260913235736 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 8</title>
+    </programme>
+    <programme start="20260913235736 +0000" stop="20260913235959 +0000" channel="992538.shahid">
+        <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 9</title>
+    </programme>
     <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -2796,6 +2796,9 @@
     </programme>
     <programme start="20260914000000 +0000" stop="20260913235959 +0000" channel="387251.shahid">
         <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="388566.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260912000000 +0000" stop="20260912000149 +0000" channel="49923172215352.shahid">
         <title>Saal El Helw</title>
@@ -5068,9 +5071,6 @@
     <programme start="20260913235359 +0000" stop="20260913235959 +0000" channel="49923172215352.shahid">
         <title>A Hadeer El Bousta</title>
     </programme>
-    <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="388566.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260912000000 +0000" stop="20260912000000 +0000" channel="387238.shahid">
         <title>Kalam Nawa&#039;em Season 23 Episode 20</title>
     </programme>
@@ -6583,9 +6583,6 @@
     <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="986346.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="49923088717401.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260912000000 +0000" stop="20260912000758 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 4 Episode 30</title>
     </programme>
@@ -6831,4 +6828,7 @@
     </programme>
     <programme start="20260913234827 +0000" stop="20260913235959 +0000" channel="976272.shahid">
         <title>El Kebeer Awi Season 7 Episode 21</title>
+    </programme>
+    <programme start="20260912000000 +0000" stop="20260913235959 +0000" channel="49923088717401.shahid">
+        <title>TV guide is not available</title>
     </programme>

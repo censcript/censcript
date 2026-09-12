@@ -8051,7 +8051,7 @@
     <title lang="id">Krisztián Jankovich - Kapr přes 40 kg s boiliesem Toxic</title>
   </programme>
   <programme start="20260914020000 +0000" stop="20260914023000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Modrý svět V E7</title>
+    <title lang="id">Modrý svět V (7)</title>
   </programme>
   <programme start="20260914023000 +0000" stop="20260914030000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">Lov kaprů s Józsefem Ácsem</title>
@@ -8120,7 +8120,7 @@
     <title lang="id">József Kolláth - Lov exotických jelenů ve Spojením království</title>
   </programme>
   <programme start="20260914133000 +0000" stop="20260914140000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Modrý svět V E7</title>
+    <title lang="id">Modrý svět V (7)</title>
   </programme>
   <programme start="20260914140000 +0000" stop="20260914143000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">V linii s vodou - Jezero Garancsi</title>
@@ -8737,11 +8737,8 @@
   <programme start="20260913235500 +0000" stop="20260914013500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Stíny války</title>
   </programme>
-  <programme start="20260914013500 +0000" stop="20260914032500 +0000" channel="FilmBox.webtv.sk">
+  <programme start="20260914013500 +0000" stop="20260914040500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Karmouzská válka</title>
-  </programme>
-  <programme start="20260914032500 +0000" stop="20260914040500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260914040500 +0000" stop="20260914044000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Nezvaný host</title>
@@ -8791,11 +8788,8 @@
   <programme start="20260914001500 +0000" stop="20260914030500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Země slepých</title>
   </programme>
-  <programme start="20260914030500 +0000" stop="20260914035000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20260914030500 +0000" stop="20260914041500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Zen Noir</title>
-  </programme>
-  <programme start="20260914035000 +0000" stop="20260914041500 +0000" channel="FilmBox Extra.webtv.sk">
-    <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260914041500 +0000" stop="20260914055500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Leonie</title>
@@ -8839,11 +8833,8 @@
   <programme start="20260913233500 +0000" stop="20260914012000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Emmanuelle</title>
   </programme>
-  <programme start="20260914012000 +0000" stop="20260914025500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20260914012000 +0000" stop="20260914035500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Sklep</title>
-  </programme>
-  <programme start="20260914025500 +0000" stop="20260914035500 +0000" channel="FilmBox Premium.webtv.sk">
-    <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260914035500 +0000" stop="20260914052500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Černý motýl</title>
@@ -8884,11 +8875,8 @@
   <programme start="20260913211000 +0000" stop="20260913225000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Děda je lotr</title>
   </programme>
-  <programme start="20260913225000 +0000" stop="20260914003000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20260913225000 +0000" stop="20260914033500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Smolař</title>
-  </programme>
-  <programme start="20260914003000 +0000" stop="20260914033500 +0000" channel="FilmBox Family.webtv.sk">
-    <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260914033500 +0000" stop="20260914051000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Sniff a létající fantóm</title>
@@ -8941,11 +8929,8 @@
   <programme start="20260913231000 +0000" stop="20260914005000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Čtyři slunce</title>
   </programme>
-  <programme start="20260914005000 +0000" stop="20260914023500 +0000" channel="FilmBox Stars.webtv.sk">
+  <programme start="20260914005000 +0000" stop="20260914033500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Milenci a vrazi</title>
-  </programme>
-  <programme start="20260914023500 +0000" stop="20260914033500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260914033500 +0000" stop="20260914054500 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Hercule Poirot IV (3)</title>

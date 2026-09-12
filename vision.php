@@ -610,9 +610,6 @@
 <programme start="20260913114500 +0000" stop="20260913130000 +0000" channel="Trans 7.vision">
 <title>MotoGP</title>
 </programme>
-<programme start="20260912023000 +0000" stop="20260912060000 +0000" channel="ANTV.vision">
-<title>Phir Bhi Dil Hai Hindustani</title>
-</programme>
 <programme start="20260912060000 +0000" stop="20260912073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260912170000 +0000" stop="20260912190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260912190000 +0000" stop="20260912210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
