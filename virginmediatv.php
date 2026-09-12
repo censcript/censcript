@@ -2651,7 +2651,7 @@
     <title>CNN Creators</title>
 </programme>
 <programme start="20260912143000 +0000" stop="20260912150000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="CNN_HD.virginmediatv">
     <title>The Amanpour Hour</title>
@@ -3850,16 +3850,10 @@
 <programme start="20260912162000 +0000" stop="20260912183000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>Live: Bundesliga - 1. FC Köln v Werder Bremen</title>
 </programme>
-<programme start="20260912000000 +0000" stop="20260912003000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>World Cup Report</title>
+<programme start="20260912000000 +0000" stop="20260912010000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 3rd Test, Day 3: England v Pakistan</title>
 </programme>
-<programme start="20260912003000 +0000" stop="20260912043000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
-</programme>
-<programme start="20260912043000 +0000" stop="20260912044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
-</programme>
-<programme start="20260912044500 +0000" stop="20260912050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260912010000 +0000" stop="20260912050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
 </programme>
 <programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
@@ -4564,16 +4558,10 @@
 <programme start="20260912162000 +0000" stop="20260912183000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>Live: Bundesliga - 1. FC Köln v Werder Bremen</title>
 </programme>
-<programme start="20260912000000 +0000" stop="20260912003000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>World Cup Report</title>
+<programme start="20260912000000 +0000" stop="20260912010000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 3rd Test, Day 3: England v Pakistan</title>
 </programme>
-<programme start="20260912003000 +0000" stop="20260912043000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
-</programme>
-<programme start="20260912043000 +0000" stop="20260912044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
-</programme>
-<programme start="20260912044500 +0000" stop="20260912050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260912010000 +0000" stop="20260912050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
 </programme>
 <programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">

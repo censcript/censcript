@@ -619,9 +619,6 @@
 <programme start="20260912093000 +0000" stop="20260912110000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260912110000 +0000" stop="20260912124500 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 3</title>
-</programme>
 <programme start="20260912124500 +0000" stop="20260912140000 +0000" channel="ANTV.vision">
 <title>Jodoh Wasiat Bapak Reborn</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260912190000 +0000" stop="20260912210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260912210000 +0000" stop="20260912230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
