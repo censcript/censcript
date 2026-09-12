@@ -3040,28 +3040,28 @@
   <programme start="20260914211700 +0000" stop="20260914221000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot (2)</title>
   </programme>
-  <programme start="20260913213600 +0000" stop="20260913223800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260913213500 +0000" stop="20260913223700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Laogai: Národ vězňů (1/2)</title>
   </programme>
-  <programme start="20260913223800 +0000" stop="20260914001700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260913223700 +0000" stop="20260914001600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Astronautka</title>
   </programme>
-  <programme start="20260914001700 +0000" stop="20260914003200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914001600 +0000" stop="20260914003100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Metuzalém</title>
   </programme>
-  <programme start="20260914003200 +0000" stop="20260914005900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914003100 +0000" stop="20260914005800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
-  <programme start="20260914005900 +0000" stop="20260914010900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914005800 +0000" stop="20260914010800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tchajwanská čítanka</title>
   </programme>
-  <programme start="20260914010900 +0000" stop="20260914013700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914010800 +0000" stop="20260914013600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Rodinné křižovatky</title>
   </programme>
-  <programme start="20260914013700 +0000" stop="20260914015400 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914013600 +0000" stop="20260914015300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vzkaz Miloše Štědroně</title>
   </programme>
-  <programme start="20260914015400 +0000" stop="20260914022500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914015300 +0000" stop="20260914022500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tradice a experiment</title>
   </programme>
   <programme start="20260914022500 +0000" stop="20260914025100 +0000" channel="ČT2.webtv.sk">
@@ -3112,10 +3112,10 @@
   <programme start="20260914140000 +0000" stop="20260914144500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Letecké katastrofy</title>
   </programme>
-  <programme start="20260914144500 +0000" stop="20260914153700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914144500 +0000" stop="20260914153600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Koně a člověk</title>
   </programme>
-  <programme start="20260914153700 +0000" stop="20260914160500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914153600 +0000" stop="20260914160500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hledání ztracených světů (3/6)</title>
   </programme>
   <programme start="20260914160500 +0000" stop="20260914170100 +0000" channel="ČT2.webtv.sk">
@@ -3133,10 +3133,10 @@
   <programme start="20260914180000 +0000" stop="20260914194500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Horalové</title>
   </programme>
-  <programme start="20260914194500 +0000" stop="20260914215700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914194500 +0000" stop="20260914215800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Mastičkář</title>
   </programme>
-  <programme start="20260914215700 +0000" stop="20260914224500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914215800 +0000" stop="20260914224600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krvavý král (3/6)</title>
   </programme>
   <programme start="20260913220000 +0000" stop="20260913221000 +0000" channel="ČT24.webtv.sk">

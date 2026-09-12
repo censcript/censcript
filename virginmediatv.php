@@ -3856,8 +3856,23 @@
 <programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Test Cricket - 3rd Test, Day 3: England v Pakistan</title>
 </programme>
-<programme start="20260912091500 +0000" stop="20260912180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20260912091500 +0000" stop="20260912131000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 4: England v Pakistan</title>
+</programme>
+<programme start="20260912131000 +0000" stop="20260912141000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 1: England v Pakistan</title>
+</programme>
+<programme start="20260912141000 +0000" stop="20260912151000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 2: England v Pakistan</title>
+</programme>
+<programme start="20260912151000 +0000" stop="20260912160000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 3: England v Pakistan</title>
+</programme>
+<programme start="20260912160000 +0000" stop="20260912165500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 2nd Test, Day 1: England v Pakistan</title>
+</programme>
+<programme start="20260912165500 +0000" stop="20260912180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 2nd Test, Day 2: England v Pakistan</title>
 </programme>
 <programme start="20260912000000 +0000" stop="20260912010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 4</title>
@@ -4567,8 +4582,23 @@
 <programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Test Cricket - 3rd Test, Day 3: England v Pakistan</title>
 </programme>
-<programme start="20260912091500 +0000" stop="20260912180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20260912091500 +0000" stop="20260912131000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 4: England v Pakistan</title>
+</programme>
+<programme start="20260912131000 +0000" stop="20260912141000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 1: England v Pakistan</title>
+</programme>
+<programme start="20260912141000 +0000" stop="20260912151000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 2: England v Pakistan</title>
+</programme>
+<programme start="20260912151000 +0000" stop="20260912160000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 3: England v Pakistan</title>
+</programme>
+<programme start="20260912160000 +0000" stop="20260912165500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 2nd Test, Day 1: England v Pakistan</title>
+</programme>
+<programme start="20260912165500 +0000" stop="20260912180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 2nd Test, Day 2: England v Pakistan</title>
 </programme>
 <programme start="20260912000000 +0000" stop="20260912010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 4</title>
