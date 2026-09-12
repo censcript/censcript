@@ -5785,7 +5785,10 @@
 <programme start="20260911175800 +0000" stop="20260912015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260912015800 +0000" stop="20260912060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260912015800 +0000" stop="20260912050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260912120000 +0000" stop="20260912121000 +0000" channel="CBBC.virginmediatv">
@@ -7310,31 +7313,31 @@
     <title>Tum Se Tum Tak - Episode 365</title>
 </programme>
 <programme start="20260912050000 +0000" stop="20260912053000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Ganga Mai Ki Betiyaan - Episode 350</title>
 </programme>
 <programme start="20260912053000 +0000" stop="20260912060000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Jagadhatri - Episode 304</title>
 </programme>
 <programme start="20260912100000 +0000" stop="20260912140000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Ram Lakhan</title>
 </programme>
 <programme start="20260912140000 +0000" stop="20260912150000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Sa Re Ga Ma Pa - 2026 UK Auditions - Episode 1</title>
 </programme>
 <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Lakshmi Nivas - Episode 242</title>
 </programme>
 <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tu Hi Re Dil Mein - Episode 90</title>
 </programme>
 <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Out and About - Episode 1192</title>
 </programme>
 <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tum Se Tum Tak - Episode 430</title>
 </programme>
 <programme start="20260912173000 +0000" stop="20260912180000 +0000" channel="Zee_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Dilo Ki Ram Leela - Episode 19</title>
 </programme>
 <programme start="20260911234700 +0000" stop="20260912004100 +0000" channel="TV5.virginmediatv">
     <title>Au bout de l&#039;enquête, la fin du crime parfait ?</title>

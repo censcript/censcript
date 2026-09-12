@@ -2932,31 +2932,31 @@
   <programme start="20260913214500 +0000" stop="20260913222000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gejzír</title>
   </programme>
-  <programme start="20260913222000 +0000" stop="20260913224700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260913222000 +0000" stop="20260913224600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
-  <programme start="20260913224700 +0000" stop="20260913231500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260913224600 +0000" stop="20260913231500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
   <programme start="20260913231500 +0000" stop="20260913235500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bolkoviny</title>
   </programme>
-  <programme start="20260913235500 +0000" stop="20260914011700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260913235500 +0000" stop="20260914011600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zpívá celá rodina</title>
   </programme>
-  <programme start="20260914011700 +0000" stop="20260914014500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914011600 +0000" stop="20260914014500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Co sluší suši</title>
   </programme>
   <programme start="20260914014500 +0000" stop="20260914021000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Košíky a košťata</title>
   </programme>
-  <programme start="20260914021000 +0000" stop="20260914023400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914021000 +0000" stop="20260914023200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Přes nový práh</title>
   </programme>
-  <programme start="20260914023400 +0000" stop="20260914025200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914023200 +0000" stop="20260914025100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">V kondici</title>
   </programme>
-  <programme start="20260914025200 +0000" stop="20260914031000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914025100 +0000" stop="20260914031000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Valdštejnův manýrismus</title>
   </programme>
   <programme start="20260914031000 +0000" stop="20260914033000 +0000" channel="ČT1.webtv.sk">
@@ -2992,10 +2992,10 @@
   <programme start="20260914120000 +0000" stop="20260914123500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulavá kamera</title>
   </programme>
-  <programme start="20260914123500 +0000" stop="20260914135300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914123500 +0000" stop="20260914135200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Podnájemníci</title>
   </programme>
-  <programme start="20260914135300 +0000" stop="20260914144600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914135200 +0000" stop="20260914144600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zavolejte porodní sestřičky XIV (8/8)</title>
   </programme>
   <programme start="20260914144600 +0000" stop="20260914151500 +0000" channel="ČT1.webtv.sk">
@@ -3034,10 +3034,10 @@
   <programme start="20260914201500 +0000" stop="20260914201900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
-  <programme start="20260914201900 +0000" stop="20260914211800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914201900 +0000" stop="20260914211700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ve výkonu služby (2/5)</title>
   </programme>
-  <programme start="20260914211800 +0000" stop="20260914221100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914211700 +0000" stop="20260914221000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot (2)</title>
   </programme>
   <programme start="20260913213600 +0000" stop="20260913223800 +0000" channel="ČT2.webtv.sk">
@@ -14986,227 +14986,167 @@
   <programme start="20260913220000 +0000" stop="20260913223000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260913223000 +0000" stop="20260913224000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260913224000 +0000" stop="20260913230000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260913223000 +0000" stop="20260913230000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260913230000 +0000" stop="20260913232500 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260913230000 +0000" stop="20260913233000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">VÚC / My Vy Oni / Na rovinu</title>
   </programme>
-  <programme start="20260913232500 +0000" stop="20260913234000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Po stopách zdravia</title>
+  <programme start="20260913233000 +0000" stop="20260913235000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Dubnický magazín</title>
   </programme>
-  <programme start="20260913234000 +0000" stop="20260913234500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Bývajme bezpečne</title>
-  </programme>
-  <programme start="20260913234500 +0000" stop="20260913235500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">10 min s ...</title>
-  </programme>
-  <programme start="20260913235500 +0000" stop="20260914000000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Imfotext</title>
+  <programme start="20260913235000 +0000" stop="20260914000000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914000000 +0000" stop="20260914003000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914003000 +0000" stop="20260914004000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914004000 +0000" stop="20260914010000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914003000 +0000" stop="20260914010000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914010000 +0000" stop="20260914012500 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914010000 +0000" stop="20260914013000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">VÚC / My Vy Oni / Na rovin</title>
+  </programme>
+  <programme start="20260914013000 +0000" stop="20260914015000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Púchovský magazín</title>
   </programme>
-  <programme start="20260914012500 +0000" stop="20260914014500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Kormidlo</title>
-  </programme>
-  <programme start="20260914014500 +0000" stop="20260914015500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Spektrum</title>
-  </programme>
-  <programme start="20260914015500 +0000" stop="20260914020000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914015000 +0000" stop="20260914020000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914020000 +0000" stop="20260914023000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914023000 +0000" stop="20260914024000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914024000 +0000" stop="20260914030000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914023000 +0000" stop="20260914030000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914030000 +0000" stop="20260914032500 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914030000 +0000" stop="20260914033000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">VÚC / My Vy Oni / Na rovinu</title>
   </programme>
-  <programme start="20260914032500 +0000" stop="20260914034000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Po stopách zdravia</title>
+  <programme start="20260914033000 +0000" stop="20260914035000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Dubnický magazín</title>
   </programme>
-  <programme start="20260914034000 +0000" stop="20260914034500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Bývajme bezpečne</title>
-  </programme>
-  <programme start="20260914034500 +0000" stop="20260914035500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">10 min s ...</title>
-  </programme>
-  <programme start="20260914035500 +0000" stop="20260914040000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914035000 +0000" stop="20260914040000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914040000 +0000" stop="20260914043000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914043000 +0000" stop="20260914044000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914044000 +0000" stop="20260914050000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914043000 +0000" stop="20260914050000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914050000 +0000" stop="20260914052500 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914050000 +0000" stop="20260914053000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">VÚC / My Vy Oni / Na rovinu</title>
   </programme>
-  <programme start="20260914052500 +0000" stop="20260914054000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Po stopách zdravia</title>
+  <programme start="20260914053000 +0000" stop="20260914055000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Púchovský magazín</title>
   </programme>
-  <programme start="20260914054000 +0000" stop="20260914054500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Bývajme bezpečne</title>
-  </programme>
-  <programme start="20260914054500 +0000" stop="20260914060000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">10 min s ...</title>
+  <programme start="20260914055000 +0000" stop="20260914060000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914060000 +0000" stop="20260914063000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914063000 +0000" stop="20260914064000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914064000 +0000" stop="20260914070000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914063000 +0000" stop="20260914070000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914070000 +0000" stop="20260914072500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Púchovský magazín</title>
+  <programme start="20260914070000 +0000" stop="20260914073000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">VÚC / My Vy Oni / Na rovinu</title>
   </programme>
-  <programme start="20260914072500 +0000" stop="20260914074500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Kormidlo</title>
+  <programme start="20260914073000 +0000" stop="20260914075000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Dubnický magazín</title>
   </programme>
-  <programme start="20260914074500 +0000" stop="20260914075500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Spektrum</title>
-  </programme>
-  <programme start="20260914075500 +0000" stop="20260914080000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914075000 +0000" stop="20260914080000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Infotext</title>
   </programme>
-  <programme start="20260914080000 +0000" stop="20260914100000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914080000 +0000" stop="20260914093000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Záznam</title>
+  </programme>
+  <programme start="20260914093000 +0000" stop="20260914095000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Na Považí</title>
+  </programme>
+  <programme start="20260914095000 +0000" stop="20260914100000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914100000 +0000" stop="20260914103000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914103000 +0000" stop="20260914104000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914104000 +0000" stop="20260914110000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914103000 +0000" stop="20260914110000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914110000 +0000" stop="20260914112500 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914110000 +0000" stop="20260914113000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">VÚC / My Vy Oni / Na rovinu</title>
   </programme>
-  <programme start="20260914112500 +0000" stop="20260914114000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Po stopách zdravia</title>
+  <programme start="20260914113000 +0000" stop="20260914115000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Púchovský magazín</title>
   </programme>
-  <programme start="20260914114000 +0000" stop="20260914114500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Bývajme bezpečne</title>
-  </programme>
-  <programme start="20260914114500 +0000" stop="20260914115500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">10 min s ...</title>
-  </programme>
-  <programme start="20260914115500 +0000" stop="20260914120000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Imfotext</title>
+  <programme start="20260914115000 +0000" stop="20260914120000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914120000 +0000" stop="20260914123000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914123000 +0000" stop="20260914124000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914124000 +0000" stop="20260914130000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914123000 +0000" stop="20260914130000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914130000 +0000" stop="20260914132500 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914130000 +0000" stop="20260914133000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">VÚC / My Vy Oni / Na rovin</title>
+  </programme>
+  <programme start="20260914133000 +0000" stop="20260914135000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Púchovský magazín</title>
   </programme>
-  <programme start="20260914132500 +0000" stop="20260914134500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Kormidlo</title>
-  </programme>
-  <programme start="20260914134500 +0000" stop="20260914135500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Spektrum</title>
-  </programme>
-  <programme start="20260914135500 +0000" stop="20260914140000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914135000 +0000" stop="20260914140000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914140000 +0000" stop="20260914143000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914143000 +0000" stop="20260914144000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914144000 +0000" stop="20260914150000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914143000 +0000" stop="20260914150000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914150000 +0000" stop="20260914152500 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914150000 +0000" stop="20260914153000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">VÚC / My Vy Oni / Na rovinu</title>
   </programme>
-  <programme start="20260914152500 +0000" stop="20260914154000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Po stopách zdravia</title>
+  <programme start="20260914153000 +0000" stop="20260914155000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Dubnický magazín</title>
   </programme>
-  <programme start="20260914154000 +0000" stop="20260914154500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Bývajme bezpečne</title>
-  </programme>
-  <programme start="20260914154500 +0000" stop="20260914155500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">10 min s ...</title>
-  </programme>
-  <programme start="20260914155500 +0000" stop="20260914160000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914155000 +0000" stop="20260914160000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914160000 +0000" stop="20260914163000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914163000 +0000" stop="20260914164000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914164000 +0000" stop="20260914170000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914163000 +0000" stop="20260914170000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914170000 +0000" stop="20260914172500 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914170000 +0000" stop="20260914173000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">VÚC / My Vy Oni / Na rovinu</title>
   </programme>
-  <programme start="20260914172500 +0000" stop="20260914174000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Po stopách zdravia</title>
+  <programme start="20260914173000 +0000" stop="20260914175000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Púchovský magazín</title>
   </programme>
-  <programme start="20260914174000 +0000" stop="20260914174500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Bývajme bezpečne</title>
-  </programme>
-  <programme start="20260914174500 +0000" stop="20260914180000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">10 min s ...</title>
+  <programme start="20260914175000 +0000" stop="20260914180000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Infotext</title>
   </programme>
   <programme start="20260914180000 +0000" stop="20260914183000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
-  <programme start="20260914183000 +0000" stop="20260914184000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260914184000 +0000" stop="20260914190000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914183000 +0000" stop="20260914190000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Na Považí</title>
   </programme>
-  <programme start="20260914190000 +0000" stop="20260914192500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Púchovský magazín</title>
+  <programme start="20260914190000 +0000" stop="20260914193000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">VÚC / My Vy Oni / Na rovinu</title>
   </programme>
-  <programme start="20260914192500 +0000" stop="20260914194500 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Kormidlo</title>
+  <programme start="20260914193000 +0000" stop="20260914200000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Dubnický magazín</title>
   </programme>
-  <programme start="20260914194500 +0000" stop="20260914200000 +0000" channel="TV Považie.webtv.sk">
-    <title lang="id">Spektrum</title>
-  </programme>
-  <programme start="20260914200000 +0000" stop="20260914220000 +0000" channel="TV Považie.webtv.sk">
+  <programme start="20260914200000 +0000" stop="20260914213000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Záznam</title>
+  </programme>
+  <programme start="20260914213000 +0000" stop="20260914215000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Na Považí</title>
+  </programme>
+  <programme start="20260914215000 +0000" stop="20260914220000 +0000" channel="TV Považie.webtv.sk">
+    <title lang="id">Infotext</title>
   </programme>
   <programme start="20260913220000 +0000" stop="20260913224500 +0000" channel="CETV.webtv.sk">
     <title lang="id">Centrallive - informačný magazín</title>
@@ -15352,8 +15292,8 @@
   <programme start="20260914214500 +0000" stop="20260914220000 +0000" channel="CETV.webtv.sk">
     <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260913200000 +0000" stop="20260913230000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Ezoterická poradňa s Renátou</title>
+  <programme start="20260913220000 +0000" stop="20260914033000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Nočné vysielanie pre pánov</title>
   </programme>
   <programme start="20260914033000 +0000" stop="20260914040000 +0000" channel="TV8.webtv.sk">
     <title lang="id">HOROSKOPY</title>

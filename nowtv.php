@@ -1,12 +1,3 @@
-<programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260912170000 +0000" stop="20260912180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260912180000 +0000" stop="20260912183000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260912183000 +0000" stop="20260912210000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Sunderland vs Arsenal[Live]</title>
 </programme>
@@ -67,9 +58,6 @@
 <programme start="20260913150000 +0000" stop="20260913173000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Manchester United vs Manchester City[Live]</title>
 </programme>
-<programme start="20260912160000 +0000" stop="20260912180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260912180000 +0000" stop="20260912200000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -109,9 +97,6 @@
 <programme start="20260913160000 +0000" stop="20260913180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260912160000 +0000" stop="20260912180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260912180000 +0000" stop="20260912200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -147,9 +132,6 @@
 </programme>
 <programme start="20260913160000 +0000" stop="20260913180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260912160000 +0000" stop="20260912183000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Tottenham Hotspur vs Everton[Live]</title>
 </programme>
 <programme start="20260912183000 +0000" stop="20260912210000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Sunderland vs Arsenal[Live]</title>
