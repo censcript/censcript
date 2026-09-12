@@ -1711,48 +1711,7 @@
 <programme start="20260912162600 +0000" stop="20260912165600 +0000" channel="BUDDY STARS.mncvision">
     <title>Jurassic Pet: The Lost Secret</title>
 </programme>
-<programme start="20260911173700 +0000" stop="20260911191400 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Horse Camp: A Love Tail</title>
-</programme>
-<programme start="20260911191400 +0000" stop="20260911210000 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Dolphin Summer</title>
-</programme>
-<programme start="20260911210000 +0000" stop="20260911223200 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>House Of Wonder</title>
-</programme>
-<programme start="20260911223200 +0000" stop="20260912001700 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>The Christmas Project Reunion</title>
-</programme>
-<programme start="20260912001700 +0000" stop="20260912020500 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Dolfje Weerwolfje</title>
-</programme>
-<programme start="20260912020500 +0000" stop="20260912034500 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Pil&#039;s Adventures</title>
-</programme>
-<programme start="20260912034500 +0000" stop="20260912052900 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Space Racers</title>
-</programme>
-<programme start="20260912052900 +0000" stop="20260912070500 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Faunutland And The Lost Magic</title>
-</programme>
-<programme start="20260912070500 +0000" stop="20260912091900 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>House Of Wonder</title>
-</programme>
-<programme start="20260912091900 +0000" stop="20260912111000 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>The Skeleton&#039;s Compass</title>
-</programme>
-<programme start="20260912111000 +0000" stop="20260912124700 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Finnick</title>
-</programme>
-<programme start="20260912124700 +0000" stop="20260912144100 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Space Racers</title>
-</programme>
-<programme start="20260912144100 +0000" stop="20260912162600 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Mister Twister: Class Of Fun</title>
-</programme>
-<programme start="20260912162600 +0000" stop="20260912165600 +0000" channel="BUDDY STARS HD.mncvision">
-    <title>Jurassic Pet: The Lost Secret</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260911170000 +0000" stop="20260911170700 +0000" channel="CBeebies.mncvision">
     <title>Hey Duggee S5, Ep 15</title>
 </programme>

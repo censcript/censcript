@@ -2338,11 +2338,8 @@
 <programme start="20260912123000 +0000" stop="20260912130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>The Media Show</title>
 </programme>
-<programme start="20260912130000 +0000" stop="20260912133000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260912130000 +0000" stop="20260912140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20260912133000 +0000" stop="20260912140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>AI Decoded</title>
 </programme>
 <programme start="20260912140000 +0000" stop="20260912143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -2651,7 +2648,7 @@
     <title>CNN Creators</title>
 </programme>
 <programme start="20260912143000 +0000" stop="20260912150000 +0000" channel="CNN_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Inside Africa - Ivory Coast&#039;s Art Renaissance</title>
 </programme>
 <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="CNN_HD.virginmediatv">
     <title>The Amanpour Hour</title>
@@ -4057,14 +4054,17 @@
 <programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open Tennis Classic Matches - 1999: Andre Agassi v Todd Martin</title>
 </programme>
-<programme start="20260912113000 +0000" stop="20260912133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260912103000 +0000" stop="20260912123000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Women&#039;s Semi-Final: Aryna Sabalenka v Jessica Pegula</title>
 </programme>
-<programme start="20260912133000 +0000" stop="20260912153000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260912123000 +0000" stop="20260912143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Women&#039;s Semi-Final: Coco Gauff v Elena Rybakina</title>
 </programme>
-<programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260912143000 +0000" stop="20260912150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Day 13: Highlights</title>
+</programme>
+<programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live: US Open 2026 - Men&#039;s Wheelchair Final: Tokito Oda v Alfie Hewitt</title>
 </programme>
 <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live: US Open 2026 - Men&#039;s Doubles Final</title>
@@ -4765,14 +4765,17 @@
 <programme start="20260912050000 +0000" stop="20260912060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open Tennis Classic Matches - 1999: Andre Agassi v Todd Martin</title>
 </programme>
-<programme start="20260912113000 +0000" stop="20260912133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260912103000 +0000" stop="20260912123000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Women&#039;s Semi-Final: Aryna Sabalenka v Jessica Pegula</title>
 </programme>
-<programme start="20260912133000 +0000" stop="20260912153000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260912123000 +0000" stop="20260912143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Women&#039;s Semi-Final: Coco Gauff v Elena Rybakina</title>
 </programme>
-<programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260912143000 +0000" stop="20260912150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Day 13: Highlights</title>
+</programme>
+<programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live: US Open 2026 - Men&#039;s Wheelchair Final: Tokito Oda v Alfie Hewitt</title>
 </programme>
 <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live: US Open 2026 - Men&#039;s Doubles Final</title>
@@ -7307,31 +7310,31 @@
     <title>Tum Se Tum Tak - Episode 365</title>
 </programme>
 <programme start="20260912050000 +0000" stop="20260912053000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan - Episode 103</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912053000 +0000" stop="20260912060000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri - Episode 181</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912100000 +0000" stop="20260912140000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Border 2</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912140000 +0000" stop="20260912150000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Sa Re Ga Ma Pa - 2026 Uk Auditions</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912150000 +0000" stop="20260912160000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Lakshmi Nivas - Episode 25</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912160000 +0000" stop="20260912163000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 53</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912163000 +0000" stop="20260912170000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Out and About</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912170000 +0000" stop="20260912173000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 365</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260912173000 +0000" stop="20260912180000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Dilo Ki Ram Leela - Episode 18</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260911234700 +0000" stop="20260912004100 +0000" channel="TV5.virginmediatv">
     <title>Au bout de l&#039;enquête, la fin du crime parfait ?</title>

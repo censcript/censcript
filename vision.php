@@ -814,9 +814,6 @@
 <programme start="20260912110000 +0000" stop="20260912130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20260912130000 +0000" stop="20260912143000 +0000" channel="TVOne.vision">
-<title>Tausiyah Bersama Mamah Dedeh</title>
-</programme>
 <programme start="20260912143000 +0000" stop="20260912150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260912210000 +0000" stop="20260912230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260912230000 +0000" stop="20260913010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
