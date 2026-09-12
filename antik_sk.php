@@ -2570,7 +2570,7 @@
     <title lang="id">KRÁSNÉ RÁNO</title>
   </programme>
   <programme start="20260914060000 +0000" stop="20260914070000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
+    <title lang="id">VZÁCNÉ CHVÍLE</title>
   </programme>
   <programme start="20260914070000 +0000" stop="20260914090000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DOPOLEDNÍ STUDIO</title>
@@ -2585,18 +2585,24 @@
     <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
   </programme>
   <programme start="20260914130000 +0000" stop="20260914150000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Vždy je něco nového!</title>
+    <title lang="id">SÁZKA NA HIT II</title>
   </programme>
   <programme start="20260914150000 +0000" stop="20260914160000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Zábava na Šlágru</title>
   </programme>
-  <programme start="20260914160000 +0000" stop="20260914182000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260914160000 +0000" stop="20260914175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Poklady našeho archivu</title>
+  </programme>
+  <programme start="20260914175000 +0000" stop="20260914182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT II</title>
   </programme>
   <programme start="20260914182000 +0000" stop="20260914220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
-  <programme start="20260913220000 +0000" stop="20260914000000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260913210000 +0000" stop="20260913220500 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">DNES VYBÍRÁM JÁ</title>
+  </programme>
+  <programme start="20260913220500 +0000" stop="20260914000000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260914000000 +0000" stop="20260914040000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -16309,17 +16315,17 @@
   <programme start="20260914005000 +0000" stop="20260914010500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260914010500 +0000" stop="20260914014000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Szczynsc Boze, Polsko! (2)</title>
+  <programme start="20260914010500 +0000" stop="20260914015000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Po drugiej stronie (5)</title>
   </programme>
-  <programme start="20260914014000 +0000" stop="20260914021000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260914015000 +0000" stop="20260914022000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polacy w kosmosie</title>
   </programme>
-  <programme start="20260914021000 +0000" stop="20260914024100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260914022000 +0000" stop="20260914025100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy (nie)wygodne (87)</title>
   </programme>
-  <programme start="20260914024100 +0000" stop="20260914034500 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Podcasty</title>
+  <programme start="20260914025100 +0000" stop="20260914034500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Podcasty (51)</title>
   </programme>
   <programme start="20260914034500 +0000" stop="20260914034700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>

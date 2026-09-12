@@ -610,9 +610,6 @@
 <programme start="20260913114500 +0000" stop="20260913130000 +0000" channel="Trans 7.vision">
 <title>MotoGP</title>
 </programme>
-<programme start="20260911230000 +0000" stop="20260912023000 +0000" channel="ANTV.vision">
-<title>Hello Brothers</title>
-</programme>
 <programme start="20260912023000 +0000" stop="20260912060000 +0000" channel="ANTV.vision">
 <title>Phir Bhi Dil Hai Hindustani</title>
 </programme>
@@ -804,9 +801,6 @@
 </programme>
 <programme start="20260912030000 +0000" stop="20260912033000 +0000" channel="TVOne.vision">
 <title>Bukan Jalan-Jalan Biasa</title>
-</programme>
-<programme start="20260912033000 +0000" stop="20260912040000 +0000" channel="TVOne.vision">
-<title>Dunia Kita Dan Anak</title>
 </programme>
 <programme start="20260912040000 +0000" stop="20260912053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260912130000 +0000" stop="20260912150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260912150000 +0000" stop="20260912170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260912170000 +0000" stop="20260912190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
