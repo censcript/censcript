@@ -526,6 +526,9 @@
 <programme start="20260913154500 +0000" stop="20260913163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260913163000 +0000" stop="20260913174500 +0000" channel="Trans 7.vision">
+<title>Tuah Botol Jamu Gendong</title>
+</programme>
 <programme start="20260913174500 +0000" stop="20260913184500 +0000" channel="Trans 7.vision">
 <title>Moto 2</title>
 </programme>
@@ -609,6 +612,9 @@
 </programme>
 <programme start="20260913140000 +0000" stop="20260913160000 +0000" channel="ANTV.vision">
 <title>Pantai Selatan</title>
+</programme>
+<programme start="20260913160000 +0000" stop="20260913173000 +0000" channel="ANTV.vision">
+<title>Genta Pertarungan</title>
 </programme>
 <programme start="20260913173000 +0000" stop="20260913190000 +0000" channel="ANTV.vision">
 <title>Slaughter In San Francisco</title>
@@ -1490,11 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260913120000 +0000" stop="20260913150000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260913150000 +0000" stop="20260913180000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260913180000 +0000" stop="20260913210000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

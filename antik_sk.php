@@ -2986,10 +2986,10 @@
   <programme start="20260914221000 +0000" stop="20260914224000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20260914224000 +0000" stop="20260914233700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914224000 +0000" stop="20260914233800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dva chrámy Josefa Kemra</title>
   </programme>
-  <programme start="20260914233700 +0000" stop="20260915000500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260914233800 +0000" stop="20260915000500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Z metropole</title>
   </programme>
   <programme start="20260915000500 +0000" stop="20260915002000 +0000" channel="ČT1.webtv.sk">
