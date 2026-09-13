@@ -1,10 +1,10 @@
     <programme start="20260913000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Hoa sữa về trong gió - Tập 45 </title>
     </programme>
-    <programme start="20260913000000 +0000" stop="20260913003000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260913000000 +0000" stop="20260913003300 +0000" channel="VTV1 HD.mytv">
         <title> Học tập và thực hành theo Bác: Tiên phong trong kỷ nguyên số </title>
     </programme>
-    <programme start="20260913003000 +0000" stop="20260913004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260913003300 +0000" stop="20260913004500 +0000" channel="VTV1 HD.mytv">
         <title> Sự lựa chọn </title>
     </programme>
     <programme start="20260913004500 +0000" stop="20260913011000 +0000" channel="VTV1 HD.mytv">
@@ -16,19 +16,19 @@
     <programme start="20260913014000 +0000" stop="20260913020000 +0000" channel="VTV1 HD.mytv">
         <title> Hiểu sâu - Sống chất: Hội nhóm và bóc phốt trên mạng </title>
     </programme>
-    <programme start="20260913020000 +0000" stop="20260913023000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260913020000 +0000" stop="20260913023100 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Người Bahnar bên dòng Đắk Bla </title>
     </programme>
-    <programme start="20260913023000 +0000" stop="20260913024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260913023100 +0000" stop="20260913024500 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Giới trẻ và lối sống thiếu vận động </title>
     </programme>
-    <programme start="20260913024500 +0000" stop="20260913033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260913024500 +0000" stop="20260913033100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mặt trời lạnh - Tập 15 </title>
     </programme>
-    <programme start="20260913033000 +0000" stop="20260913041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260913033100 +0000" stop="20260913041200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mặt trời lạnh - Tập 16 </title>
     </programme>
-    <programme start="20260913041500 +0000" stop="20260913050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260913041200 +0000" stop="20260913050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Thái Hải miền đất an lành </title>
     </programme>
     <programme start="20260913050500 +0000" stop="20260913051000 +0000" channel="VTV1 HD.mytv">
@@ -158,7 +158,7 @@
         <title> Quốc dân hiểu thuế: Thu nhập online – Hiểu đúng về thuế </title>
     </programme>
     <programme start="20260913203000 +0000" stop="20260913204500 +0000" channel="VTV1 HD.mytv">
-        <title> Tiêu điểm: Quản lý rủi ro sạt lở hạ tầng </title>
+        <title> Tiêu điểm </title>
     </programme>
     <programme start="20260913204500 +0000" stop="20260913210000 +0000" channel="VTV1 HD.mytv">
         <title> Gala Tiếng Việt thân thương: Cánh diều bay cao từ tiếng Mẹ </title>
