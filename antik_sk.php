@@ -2609,13 +2609,10 @@
     <title lang="id">ŠLÁGR MIŠMAŠ</title>
   </programme>
   <programme start="20260915040000 +0000" stop="20260915050000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Šlágr Budíček</title>
+    <title lang="id">RANNÍ BUDÍČEK</title>
   </programme>
-  <programme start="20260915050000 +0000" stop="20260915060000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260915050000 +0000" stop="20260915070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">KRÁSNÉ RÁNO</title>
-  </programme>
-  <programme start="20260915060000 +0000" stop="20260915070000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">VZÁCNÉ CHVÍLE</title>
   </programme>
   <programme start="20260915070000 +0000" stop="20260915090000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DOPOLEDNÍ STUDIO</title>
@@ -2647,17 +2644,11 @@
   <programme start="20260915000000 +0000" stop="20260915060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260915060000 +0000" stop="20260915103000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
+  <programme start="20260915113000 +0000" stop="20260915123000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260915103000 +0000" stop="20260915123000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
-  </programme>
-  <programme start="20260915123000 +0000" stop="20260915153000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
-  </programme>
-  <programme start="20260915173000 +0000" stop="20260915190000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
+  <programme start="20260915200000 +0000" stop="20260915210000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260914220000 +0000" stop="20260914224500 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Rukách vyrobené</title>
@@ -3094,22 +3085,22 @@
   <programme start="20260915215500 +0000" stop="20260915225600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ve výkonu služby (2/5)</title>
   </programme>
-  <programme start="20260914215800 +0000" stop="20260914224600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914215500 +0000" stop="20260914224500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krvavý král (3/6)</title>
   </programme>
-  <programme start="20260914224600 +0000" stop="20260915001200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260914224500 +0000" stop="20260915001200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Danielle Laidleyová: mezi dvěma kmeny</title>
   </programme>
   <programme start="20260915001200 +0000" stop="20260915003800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Klenoty naší krajiny</title>
   </programme>
-  <programme start="20260915003800 +0000" stop="20260915010600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260915003800 +0000" stop="20260915010500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Rytíři Bastlíři</title>
   </programme>
-  <programme start="20260915010600 +0000" stop="20260915011900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260915010500 +0000" stop="20260915011800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Včely ve městě</title>
   </programme>
-  <programme start="20260915011900 +0000" stop="20260915013300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260915011800 +0000" stop="20260915013300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tajné akce StB</title>
   </programme>
   <programme start="20260915013300 +0000" stop="20260915020000 +0000" channel="ČT2.webtv.sk">
@@ -3124,10 +3115,10 @@
   <programme start="20260915025200 +0000" stop="20260915032000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
-  <programme start="20260915032000 +0000" stop="20260915034600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260915032000 +0000" stop="20260915034500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Televizní klub neslyšících</title>
   </programme>
-  <programme start="20260915034600 +0000" stop="20260915035900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260915034500 +0000" stop="20260915035900 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20260915035900 +0000" stop="20260915063000 +0000" channel="ČT2.webtv.sk">

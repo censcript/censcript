@@ -607,9 +607,6 @@
 <programme start="20260914114500 +0000" stop="20260914121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260912230000 +0000" stop="20260913023000 +0000" channel="ANTV.vision">
-<title>Love Love Love</title>
-</programme>
 <programme start="20260913023000 +0000" stop="20260913060000 +0000" channel="ANTV.vision">
 <title>Bahubali</title>
 </programme>
@@ -774,9 +771,6 @@
 </programme>
 <programme start="20260913010000 +0000" stop="20260913013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20260913013000 +0000" stop="20260913020000 +0000" channel="TVOne.vision">
-<title>Mata Indonesia</title>
 </programme>
 <programme start="20260913020000 +0000" stop="20260913023000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260914050000 +0000" stop="20260914070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260914070000 +0000" stop="20260914090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260914090000 +0000" stop="20260914110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
