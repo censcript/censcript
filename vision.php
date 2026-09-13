@@ -517,9 +517,6 @@
 <programme start="20260913110000 +0000" stop="20260913114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
-<programme start="20260913114500 +0000" stop="20260913130000 +0000" channel="Trans 7.vision">
-<title>MotoGP</title>
-</programme>
 <programme start="20260913130000 +0000" stop="20260913143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
@@ -609,9 +606,6 @@
 </programme>
 <programme start="20260913093000 +0000" stop="20260913110000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20260913110000 +0000" stop="20260913124500 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 4</title>
 </programme>
 <programme start="20260913124500 +0000" stop="20260913140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -792,9 +786,6 @@
 </programme>
 <programme start="20260913110000 +0000" stop="20260913130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20260913130000 +0000" stop="20260913140000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
 </programme>
 <programme start="20260913140000 +0000" stop="20260913150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1496,5 +1487,14 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260913030000 +0000" stop="20260913060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260913060000 +0000" stop="20260913090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260913090000 +0000" stop="20260913120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260913120000 +0000" stop="20260913150000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

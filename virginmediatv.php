@@ -3895,6 +3895,18 @@
 <programme start="20260913091500 +0000" stop="20260913180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Test Cricket - 3rd Test, Day 5: England v Pakistan</title>
 </programme>
+<programme start="20260913091500 +0000" stop="20260913180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Live: Test Cricket - 3rd Test, Day 5: England v Pakistan</title>
+</programme>
+<programme start="20260913111500 +0000" stop="20260913121500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 1st Test Day 3: England v Pakistan</title>
+</programme>
+<programme start="20260913121500 +0000" stop="20260913131500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 2nd Test Day 1: England v Pakistan</title>
+</programme>
+<programme start="20260913141500 +0000" stop="20260913151500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 2nd Test Day 3: England v Pakistan</title>
+</programme>
 <programme start="20260912233000 +0000" stop="20260913003000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Irish Open, DP World Tour Golf - Day 3: Highlights</title>
 </programme>
