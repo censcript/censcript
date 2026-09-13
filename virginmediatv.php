@@ -367,13 +367,13 @@
 <programme start="20260913160000 +0000" stop="20260913190000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Live: WA Ultimate Championship - Day 3</title>
 </programme>
-<programme start="20260912234500 +0000" stop="20260913004500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260912235500 +0000" stop="20260913005500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Today at the Test - 3rd Test, Day 4: England v Pakistan</title>
 </programme>
-<programme start="20260913004500 +0000" stop="20260913024500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260913005500 +0000" stop="20260913025000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Saint Omer</title>
 </programme>
-<programme start="20260913024500 +0000" stop="20260913050500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260913025000 +0000" stop="20260913050500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20260913050500 +0000" stop="20260913060500 +0000" channel="BBC_TWO_HD.virginmediatv">

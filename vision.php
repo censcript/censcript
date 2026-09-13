@@ -499,9 +499,6 @@
 <programme start="20260913041500 +0000" stop="20260913050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20260913050000 +0000" stop="20260913054500 +0000" channel="Trans 7.vision">
-<title>Jejak Petualangan</title>
-</programme>
 <programme start="20260913054500 +0000" stop="20260913063000 +0000" channel="Trans 7.vision">
 <title>The Explorer</title>
 </programme>
@@ -513,9 +510,6 @@
 </programme>
 <programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
-</programme>
-<programme start="20260913090000 +0000" stop="20260913100000 +0000" channel="Trans 7.vision">
-<title>Moto 3</title>
 </programme>
 <programme start="20260913100000 +0000" stop="20260913110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
@@ -606,9 +600,6 @@
 </programme>
 <programme start="20260914114500 +0000" stop="20260914121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20260913023000 +0000" stop="20260913060000 +0000" channel="ANTV.vision">
-<title>Bahubali</title>
 </programme>
 <programme start="20260913060000 +0000" stop="20260913073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260914090000 +0000" stop="20260914110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260914110000 +0000" stop="20260914130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260913000000 +0000" stop="20260913030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260913030000 +0000" stop="20260913060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
 </programme>

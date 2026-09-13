@@ -3637,10 +3637,10 @@
   <programme start="20260915020500 +0000" stop="20260915023000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (66)</title>
   </programme>
-  <programme start="20260915023000 +0000" stop="20260915032000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260915023000 +0000" stop="20260915031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (196)</title>
   </programme>
-  <programme start="20260915032000 +0000" stop="20260915040000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260915031500 +0000" stop="20260915040000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Televizní noviny</title>
   </programme>
   <programme start="20260915040000 +0000" stop="20260915064000 +0000" channel="Nova International.webtv.sk">
@@ -3667,14 +3667,14 @@
   <programme start="20260915102400 +0000" stop="20260915102500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Polední Počasí</title>
   </programme>
-  <programme start="20260915102500 +0000" stop="20260915111000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260915102500 +0000" stop="20260915110500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Na lovu VI (74)</title>
   </programme>
-  <programme start="20260915111000 +0000" stop="20260915111100 +0000" channel="Nova International.webtv.sk">
-    <title lang="id">Ulice (3779)</title>
-  </programme>
-  <programme start="20260915111100 +0000" stop="20260915120000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260915110500 +0000" stop="20260915111000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Tescoma s chutí (88)</title>
+  </programme>
+  <programme start="20260915111000 +0000" stop="20260915120000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ulice (3779)</title>
   </programme>
   <programme start="20260915120000 +0000" stop="20260915124500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3780)</title>
@@ -3715,16 +3715,16 @@
   <programme start="20260915181500 +0000" stop="20260915182000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Počasí</title>
   </programme>
-  <programme start="20260915182000 +0000" stop="20260915193500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260915182000 +0000" stop="20260915192000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Boží plán (5)</title>
   </programme>
-  <programme start="20260915193500 +0000" stop="20260915204500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260915192000 +0000" stop="20260915204500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Survivor Česko &amp; Slovensko III (27)</title>
   </programme>
-  <programme start="20260915204500 +0000" stop="20260915215000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260915204500 +0000" stop="20260915212500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Na vaší straně (132)</title>
   </programme>
-  <programme start="20260915215000 +0000" stop="20260915224000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260915212500 +0000" stop="20260915221500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3779)</title>
   </programme>
   <programme start="20260914214500 +0000" stop="20260914221500 +0000" channel="Prima SK.webtv.sk">
@@ -4078,31 +4078,34 @@
   <programme start="20260915211000 +0000" stop="20260915221000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy (3)</title>
   </programme>
-  <programme start="20260914215500 +0000" stop="20260914223500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260914210500 +0000" stop="20260914220500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vraždy v Kitzbühelu XI (7)</title>
+  </programme>
+  <programme start="20260914220500 +0000" stop="20260914224500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXX (25)</title>
   </programme>
-  <programme start="20260914223500 +0000" stop="20260914232000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260914224500 +0000" stop="20260914232500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXX (26)</title>
   </programme>
-  <programme start="20260914232000 +0000" stop="20260915000000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260914232500 +0000" stop="20260915000500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXX (23)</title>
   </programme>
-  <programme start="20260915000000 +0000" stop="20260915004000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260915000500 +0000" stop="20260915005000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXX (24)</title>
   </programme>
-  <programme start="20260915004000 +0000" stop="20260915012500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260915005000 +0000" stop="20260915013000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXX (13)</title>
   </programme>
-  <programme start="20260915012500 +0000" stop="20260915020500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260915013000 +0000" stop="20260915020500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXX (14)</title>
   </programme>
-  <programme start="20260915020500 +0000" stop="20260915025000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260915020500 +0000" stop="20260915025500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260915025000 +0000" stop="20260915033000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260915025500 +0000" stop="20260915034000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260915033000 +0000" stop="20260915034500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260915034000 +0000" stop="20260915034500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční Praha</title>
   </programme>
   <programme start="20260915034500 +0000" stop="20260915040000 +0000" channel="Prima Krimi SK.webtv.sk">
