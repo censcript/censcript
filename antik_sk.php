@@ -3727,28 +3727,28 @@
   <programme start="20260915212500 +0000" stop="20260915221500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3779)</title>
   </programme>
-  <programme start="20260914214500 +0000" stop="20260914221500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260914215000 +0000" stop="20260914222000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
   </programme>
-  <programme start="20260914221500 +0000" stop="20260914230500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260914222000 +0000" stop="20260914231000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Show Jana Krause</title>
   </programme>
-  <programme start="20260914230500 +0000" stop="20260915002000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260914231000 +0000" stop="20260915002500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Máme rádi Česko</title>
   </programme>
-  <programme start="20260915002000 +0000" stop="20260915012000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260915002500 +0000" stop="20260915013000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Kamarádi (31)</title>
   </programme>
-  <programme start="20260915012000 +0000" stop="20260915022000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260915013000 +0000" stop="20260915022000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Sestřičky (26)</title>
   </programme>
-  <programme start="20260915022000 +0000" stop="20260915031000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260915022000 +0000" stop="20260915032000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Nikdo není dokonalý</title>
   </programme>
-  <programme start="20260915031000 +0000" stop="20260915034500 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260915032000 +0000" stop="20260915034400 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Lodí přes Kornati</title>
   </programme>
-  <programme start="20260915034500 +0000" stop="20260915040000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260915034400 +0000" stop="20260915040000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20260915040000 +0000" stop="20260915040500 +0000" channel="Prima SK.webtv.sk">

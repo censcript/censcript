@@ -1,9 +1,3 @@
-<programme start="20260913150000 +0000" stop="20260913173000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>[4K]Premier League 26/27 -Manchester United vs Manchester City[Live]</title>
-</programme>
-<programme start="20260913173000 +0000" stop="20260913180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -73,9 +67,6 @@
 <programme start="20260914160000 +0000" stop="20260914170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20260913160000 +0000" stop="20260913180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20260913180000 +0000" stop="20260913200000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -110,9 +101,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260914160000 +0000" stop="20260914180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260913160000 +0000" stop="20260913180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20260913180000 +0000" stop="20260913200000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -150,18 +138,6 @@
 </programme>
 <programme start="20260914160000 +0000" stop="20260914180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20260913150000 +0000" stop="20260913173000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Manchester United vs Manchester City [Live Chat][Live]</title>
-</programme>
-<programme start="20260913173000 +0000" stop="20260913174500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 2</title>
-</programme>
-<programme start="20260913174500 +0000" stop="20260913180000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 3</title>
-</programme>
-<programme start="20260913180000 +0000" stop="20260913183000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -AMAD DIALLO</title>
 </programme>
 <programme start="20260913183000 +0000" stop="20260913203000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Chelsea vs Hull City</title>
@@ -264,9 +240,6 @@
 </programme>
 <programme start="20260914160000 +0000" stop="20260914180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Aston Villa vs Nottingham Forest</title>
-</programme>
-<programme start="20260913152000 +0000" stop="20260913173000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Premier League Xtra Select -Manchester United vs Manchester City[Live]</title>
 </programme>
 <programme start="20260913173000 +0000" stop="20260913200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
