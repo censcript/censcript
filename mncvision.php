@@ -6278,7 +6278,7 @@
     <title>Kasih Jannah</title>
 </programme>
 <programme start="20260914031500 +0000" stop="20260914041500 +0000" channel="Muslim TV.mncvision">
-    <title>99 Nama Cinta</title>
+    <title>Amanah Wali S4</title>
 </programme>
 <programme start="20260914041500 +0000" stop="20260914051500 +0000" channel="Muslim TV.mncvision">
     <title>Titik Balik</title>
@@ -8365,16 +8365,13 @@
 <programme start="20260914060000 +0000" stop="20260914080000 +0000" channel="SPOTV.mncvision">
     <title>Roshn Saudi League: TAA Vs HIL</title>
 </programme>
-<programme start="20260914080000 +0000" stop="20260914083000 +0000" channel="SPOTV.mncvision">
-    <title>2026 US Open Tennis Highlights</title>
-</programme>
-<programme start="20260914083000 +0000" stop="20260914113000 +0000" channel="SPOTV.mncvision">
+<programme start="20260914080000 +0000" stop="20260914103500 +0000" channel="SPOTV.mncvision">
     <title>2026 WTCS Series: Karlovy Vary</title>
 </programme>
-<programme start="20260914113000 +0000" stop="20260914143000 +0000" channel="SPOTV.mncvision">
+<programme start="20260914103500 +0000" stop="20260914130000 +0000" channel="SPOTV.mncvision">
     <title>2026 WTCS Series: Karlovy Vary</title>
 </programme>
-<programme start="20260914143000 +0000" stop="20260914150000 +0000" channel="SPOTV.mncvision">
+<programme start="20260914130000 +0000" stop="20260914133000 +0000" channel="SPOTV.mncvision">
     <title>2026 US Open Tennis C&#039;ships</title>
 </programme>
 <programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="SPOTV 2.mncvision">
@@ -8467,16 +8464,13 @@
 <programme start="20260914060000 +0000" stop="20260914080000 +0000" channel="SPOTV HD.mncvision">
     <title>Roshn Saudi League: TAA Vs HIL</title>
 </programme>
-<programme start="20260914080000 +0000" stop="20260914083000 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 US Open Tennis Highlights</title>
-</programme>
-<programme start="20260914083000 +0000" stop="20260914113000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260914080000 +0000" stop="20260914103500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WTCS Series: Karlovy Vary</title>
 </programme>
-<programme start="20260914113000 +0000" stop="20260914143000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260914103500 +0000" stop="20260914130000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WTCS Series: Karlovy Vary</title>
 </programme>
-<programme start="20260914143000 +0000" stop="20260914150000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260914130000 +0000" stop="20260914133000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 US Open Tennis C&#039;ships</title>
 </programme>
 <programme start="20260913184000 +0000" stop="20260913204000 +0000" channel="Studio Universal.mncvision">

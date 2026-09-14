@@ -4270,8 +4270,11 @@
 <programme start="20260914170000 +0000" stop="20260914180000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Formula 1 - Spanish Grand Prix: Highlights</title>
 </programme>
-<programme start="20260913210000 +0000" stop="20260914030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260913210000 +0000" stop="20260914010000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: WTA Guadalajara Open 2026 - Day 1</title>
+</programme>
+<programme start="20260914010000 +0000" stop="20260914030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>US Open 2026 - Men&#039;s Final: Alexander Zverev v Ben Shelton</title>
 </programme>
 <programme start="20260914030000 +0000" stop="20260914033000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>ATP Tour: This Week - Episode 93</title>
@@ -4286,10 +4289,10 @@
     <title>US Open Tennis Classic Matches - 2022: Carlos Alcaraz v Jannick Sinner</title>
 </programme>
 <programme start="20260914050000 +0000" stop="20260914060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Women&#039;s Final</title>
+    <title>US Open 2026 - Women&#039;s Final: Aryna Sabalenka v Elena Rybakina</title>
 </programme>
 <programme start="20260914103000 +0000" stop="20260914123000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Men&#039;s Final</title>
+    <title>US Open 2026 - Men&#039;s Final: Alexander Zverev v Ben Shelton</title>
 </programme>
 <programme start="20260914123000 +0000" stop="20260914133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Mixed Doubles: Semi-Finals and Final</title>
@@ -4298,10 +4301,10 @@
     <title>US Open 2026 - Day 15: Highlights</title>
 </programme>
 <programme start="20260914140000 +0000" stop="20260914150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Women&#039;s Final</title>
+    <title>US Open 2026 - Women&#039;s Final: Aryna Sabalenka v Elena Rybakina</title>
 </programme>
 <programme start="20260914150000 +0000" stop="20260914160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>US Open 2026 - Men&#039;s Final</title>
+    <title>US Open 2026 - Men&#039;s Final: Alexander Zverev v Ben Shelton</title>
 </programme>
 <programme start="20260914160000 +0000" stop="20260914180000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: WTA SP Open 2026 - Day 1</title>
@@ -4511,7 +4514,7 @@
     <title>UEFA Champions League Magazine - Episode 3</title>
 </programme>
 <programme start="20260914040000 +0000" stop="20260914043000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>UEFA Europa and Conference League Magazine - UEL MD1 Preview</title>
+    <title>UEFA Europa and Conference League Magazine - Episode 1</title>
 </programme>
 <programme start="20260914043000 +0000" stop="20260914050000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Premier League Legends - David Seaman</title>
@@ -4529,7 +4532,7 @@
     <title>UEFA Road to the Finals - Conference League: Crystal Palace</title>
 </programme>
 <programme start="20260914150000 +0000" stop="20260914153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>UEFA Europa and Conference League Magazine - UEL MD1 Preview</title>
+    <title>UEFA Europa and Conference League Magazine - Episode 1</title>
 </programme>
 <programme start="20260914153000 +0000" stop="20260914160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>UEFA Champions League Magazine - Episode 3</title>
@@ -5155,8 +5158,11 @@
 <programme start="20260914170000 +0000" stop="20260914180000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Formula 1 - Spanish Grand Prix: Highlights</title>
 </programme>
-<programme start="20260913210000 +0000" stop="20260914030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260913210000 +0000" stop="20260914010000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: WTA Guadalajara Open 2026 - Day 1</title>
+</programme>
+<programme start="20260914010000 +0000" stop="20260914030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>US Open 2026 - Men&#039;s Final: Alexander Zverev v Ben Shelton</title>
 </programme>
 <programme start="20260914030000 +0000" stop="20260914033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>ATP Tour: This Week - Episode 93</title>
@@ -5171,10 +5177,10 @@
     <title>US Open Tennis Classic Matches - 2022: Carlos Alcaraz v Jannick Sinner</title>
 </programme>
 <programme start="20260914050000 +0000" stop="20260914060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Women&#039;s Final</title>
+    <title>US Open 2026 - Women&#039;s Final: Aryna Sabalenka v Elena Rybakina</title>
 </programme>
 <programme start="20260914103000 +0000" stop="20260914123000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Men&#039;s Final</title>
+    <title>US Open 2026 - Men&#039;s Final: Alexander Zverev v Ben Shelton</title>
 </programme>
 <programme start="20260914123000 +0000" stop="20260914133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Mixed Doubles: Semi-Finals and Final</title>
@@ -5183,10 +5189,10 @@
     <title>US Open 2026 - Day 15: Highlights</title>
 </programme>
 <programme start="20260914140000 +0000" stop="20260914150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Women&#039;s Final</title>
+    <title>US Open 2026 - Women&#039;s Final: Aryna Sabalenka v Elena Rybakina</title>
 </programme>
 <programme start="20260914150000 +0000" stop="20260914160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>US Open 2026 - Men&#039;s Final</title>
+    <title>US Open 2026 - Men&#039;s Final: Alexander Zverev v Ben Shelton</title>
 </programme>
 <programme start="20260914160000 +0000" stop="20260914180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: WTA SP Open 2026 - Day 1</title>
