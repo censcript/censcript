@@ -7383,15 +7383,15 @@
     <title lang="en">New Recruit S4: Sabotage</title>
     <desc lang="en">A hyper-realistic comedy telling the story of a military recruit, who enlists in a place where all kinds of people are gathered.</desc>
     <category lang="en">Military</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
+    <episode-num system="xmltv_ns">3.12.</episode-num>
+    <episode-num system="onscreen">S4E13</episode-num>
   </programme>
   <programme start="20260914151000 +0000" stop="20260914155500 +0000" channel="kplus.unifitv">
     <title lang="en">New Recruit S4: Sabotage</title>
     <desc lang="en">A hyper-realistic comedy telling the story of a military recruit, who enlists in a place where all kinds of people are gathered.</desc>
     <category lang="en">Military</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+    <episode-num system="onscreen">S4E14</episode-num>
   </programme>
   <programme start="20260914155500 +0000" stop="20260914174000 +0000" channel="kplus.unifitv">
     <title lang="en">Chef &amp; My Fridge</title>
