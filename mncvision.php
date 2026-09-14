@@ -8395,11 +8395,17 @@
 <programme start="20260914030000 +0000" stop="20260914051500 +0000" channel="SPOTV 2.mncvision">
     <title>SRO Japan Cup 2026, Suzuka</title>
 </programme>
-<programme start="20260914051500 +0000" stop="20260914074500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260914051500 +0000" stop="20260914070600 +0000" channel="SPOTV 2.mncvision">
     <title>SRO Japan Cup 2026, Suzuka</title>
 </programme>
-<programme start="20260914074500 +0000" stop="20260914093000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260914070600 +0000" stop="20260914074500 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP Inside Ducati Lenovo</title>
+</programme>
+<programme start="20260914074500 +0000" stop="20260914084400 +0000" channel="SPOTV 2.mncvision">
     <title>Irish Champion Stakes 2026</title>
+</programme>
+<programme start="20260914084400 +0000" stop="20260914093000 +0000" channel="SPOTV 2.mncvision">
+    <title>MotoGP Rewind: Great Britain</title>
 </programme>
 <programme start="20260914093000 +0000" stop="20260914121500 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Champions Macao 2026</title>
@@ -8425,11 +8431,17 @@
 <programme start="20260914030000 +0000" stop="20260914051500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>SRO Japan Cup 2026, Suzuka</title>
 </programme>
-<programme start="20260914051500 +0000" stop="20260914074500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260914051500 +0000" stop="20260914070600 +0000" channel="SPOTV 2 HD.mncvision">
     <title>SRO Japan Cup 2026, Suzuka</title>
 </programme>
-<programme start="20260914074500 +0000" stop="20260914093000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260914070600 +0000" stop="20260914074500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Inside Ducati Lenovo</title>
+</programme>
+<programme start="20260914074500 +0000" stop="20260914084400 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Irish Champion Stakes 2026</title>
+</programme>
+<programme start="20260914084400 +0000" stop="20260914093000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Rewind: Great Britain</title>
 </programme>
 <programme start="20260914093000 +0000" stop="20260914121500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Champions Macao 2026</title>

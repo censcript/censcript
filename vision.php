@@ -628,6 +628,9 @@
 <programme start="20260915114500 +0000" stop="20260915121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260913230000 +0000" stop="20260914023000 +0000" channel="ANTV.vision">
+<title>Aankhen</title>
+</programme>
 <programme start="20260914023000 +0000" stop="20260914060000 +0000" channel="ANTV.vision">
 <title>Dhoom 2</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260914030000 +0000" stop="20260914050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260914050000 +0000" stop="20260914070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
