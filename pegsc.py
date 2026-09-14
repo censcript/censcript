@@ -50,5 +50,5 @@ urls = [
     #"https://cindo.mra.my.id/epg/mytv.php",
 ]
 
-# Memanggil fungsi untuk mendownload semua EPG
+# Memanggil fungsi untuk mendownload semua EPGs
 download_epg(urls)
