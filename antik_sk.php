@@ -2639,16 +2639,19 @@
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260917120000 +0000" stop="20260917130000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
+    <title lang="id">SÁZKA NA HIT II</title>
   </programme>
   <programme start="20260917130000 +0000" stop="20260917150000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">SÁZKA NA HIT II</title>
+    <title lang="id">Vždy je něco nového!</title>
   </programme>
   <programme start="20260917150000 +0000" stop="20260917160000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Zábava na Šlágru</title>
   </programme>
-  <programme start="20260917160000 +0000" stop="20260917182000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260917160000 +0000" stop="20260917175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Poklady našeho archivu</title>
+  </programme>
+  <programme start="20260917175000 +0000" stop="20260917182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT II</title>
   </programme>
   <programme start="20260917182000 +0000" stop="20260917220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
@@ -2656,22 +2659,31 @@
   <programme start="20260916220000 +0000" stop="20260917000000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260917000000 +0000" stop="20260917060000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260917000000 +0000" stop="20260917050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
   </programme>
-  <programme start="20260917060000 +0000" stop="20260917103000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
+  <programme start="20260917073000 +0000" stop="20260917083000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">STAROPRAŽSKÉ PÍSNIČKY</title>
+  </programme>
+  <programme start="20260917083000 +0000" stop="20260917093000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">LIDOVKY</title>
+  </programme>
+  <programme start="20260917093000 +0000" stop="20260917103000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">EVERGREENY</title>
   </programme>
   <programme start="20260917103000 +0000" stop="20260917113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260917113000 +0000" stop="20260917123000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260917113000 +0000" stop="20260917140000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
-  <programme start="20260917123000 +0000" stop="20260917200000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260917140000 +0000" stop="20260917173000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">COUNTRY</title>
+  </programme>
+  <programme start="20260917173000 +0000" stop="20260917200000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">ZÁBAVA NA DVOJCE</title>
   </programme>
-  <programme start="20260917200000 +0000" stop="20260917220000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260917200000 +0000" stop="20260917210000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260916220000 +0000" stop="20260916224000 +0000" channel="Skvelé TV.webtv.sk">

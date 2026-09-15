@@ -2207,22 +2207,22 @@
     <title>Look Good with Bobbi Brown</title>
 </programme>
 <programme start="20260915050000 +0000" stop="20260915060000 +0000" channel="QVC.virginmediatv">
-    <title>Look Good with Bobbi Brown</title>
+    <title>Look Good, Feel Good</title>
 </programme>
 <programme start="20260915120000 +0000" stop="20260915130000 +0000" channel="QVC.virginmediatv">
-    <title>1PM with Bobbi Brown</title>
+    <title>Independent Living</title>
 </programme>
 <programme start="20260915130000 +0000" stop="20260915140000 +0000" channel="QVC.virginmediatv">
-    <title>Seasalt Cornwall Fashion</title>
+    <title>New Season Compania Fantastica</title>
 </programme>
 <programme start="20260915140000 +0000" stop="20260915150000 +0000" channel="QVC.virginmediatv">
-    <title>Moda In Pelle</title>
+    <title>The Jewellery Box</title>
 </programme>
 <programme start="20260915150000 +0000" stop="20260915160000 +0000" channel="QVC.virginmediatv">
-    <title>Top Offer&#039;s with Bobbi Brown</title>
+    <title>Top Offers with Tommie Copper</title>
 </programme>
 <programme start="20260915160000 +0000" stop="20260915180000 +0000" channel="QVC.virginmediatv">
-    <title>In the Salon with Gatineau</title>
+    <title>Gatineau 30 Years of..</title>
 </programme>
 <programme start="20260915000000 +0000" stop="20260915003000 +0000" channel="Food_Network.virginmediatv">
     <title>Mystery Diners - Street Vendor Violation</title>
@@ -2399,16 +2399,13 @@
     <title>Business Today</title>
 </programme>
 <programme start="20260915120000 +0000" stop="20260915130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260915130000 +0000" stop="20260915133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20260915133000 +0000" stop="20260915134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20260915134500 +0000" stop="20260915140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20260915133000 +0000" stop="20260915140000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20260915140000 +0000" stop="20260915143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>

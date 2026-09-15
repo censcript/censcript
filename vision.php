@@ -637,9 +637,6 @@
 <programme start="20260915140000 +0000" stop="20260915160000 +0000" channel="ANTV.vision">
 <title>Hotline 666</title>
 </programme>
-<programme start="20260915160000 +0000" stop="20260915173000 +0000" channel="ANTV.vision">
-<title>Si Rawing 3</title>
-</programme>
 <programme start="20260915173000 +0000" stop="20260915190000 +0000" channel="ANTV.vision">
 <title>Mismatched Couples</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260915110000 +0000" stop="20260915130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260915130000 +0000" stop="20260915150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
