@@ -4504,14 +4504,17 @@
 <programme start="20260915090000 +0000" stop="20260915124500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: ETPL - Amsterdam Flames v Dublin Guardians</title>
 </programme>
-<programme start="20260915124500 +0000" stop="20260915163100 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260915124500 +0000" stop="20260915163000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: ETPL - Edinburgh Castle Rockers v Rotterdam Dockers</title>
 </programme>
-<programme start="20260915163100 +0000" stop="20260915173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>MotoGP - San Marino Grand Prix: Moto3 Race</title>
+<programme start="20260915163000 +0000" stop="20260915170000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Women&#039;s CPL T20 - Trinbago Knight Riders v Guyana Amazon Warriors</title>
 </programme>
-<programme start="20260915173000 +0000" stop="20260915183000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>MotoGP - San Marino Grand Prix: Moto2 Race</title>
+<programme start="20260915170000 +0000" stop="20260915173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Women&#039;s CPL T20 - 2026: Barbados Tridents v Jamaica Empress</title>
+</programme>
+<programme start="20260915173000 +0000" stop="20260915180000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Women&#039;s CPL T20 - Guyana Amazon Warriors v Barbados Tridents</title>
 </programme>
 <programme start="20260914213000 +0000" stop="20260915003000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>The Ultimate Fighting Championship - Noche UFC: Jean Silva v Jose Miguel Delgado</title>
@@ -6196,7 +6199,10 @@
 <programme start="20260914175800 +0000" stop="20260915015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260915015800 +0000" stop="20260915060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260915015800 +0000" stop="20260915050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260915050000 +0000" stop="20260915060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260915115500 +0000" stop="20260915120500 +0000" channel="CBBC.virginmediatv">
