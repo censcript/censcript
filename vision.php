@@ -637,12 +637,6 @@
 <programme start="20260917114500 +0000" stop="20260917121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260915230000 +0000" stop="20260916023000 +0000" channel="ANTV.vision">
-<title>Albela</title>
-</programme>
-<programme start="20260916023000 +0000" stop="20260916060000 +0000" channel="ANTV.vision">
-<title>Koi Mil Gaya</title>
-</programme>
 <programme start="20260916060000 +0000" stop="20260916073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -655,17 +649,8 @@
 <programme start="20260916100000 +0000" stop="20260916110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20260916110000 +0000" stop="20260916123000 +0000" channel="ANTV.vision">
-<title>Pertarungan Iblis Merah</title>
-</programme>
 <programme start="20260916123000 +0000" stop="20260916140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
-</programme>
-<programme start="20260916140000 +0000" stop="20260916160000 +0000" channel="ANTV.vision">
-<title>Tumbal 97</title>
-</programme>
-<programme start="20260916160000 +0000" stop="20260916173000 +0000" channel="ANTV.vision">
-<title>Misteri Gunung Merapi 2</title>
 </programme>
 <programme start="20260916173000 +0000" stop="20260916190000 +0000" channel="ANTV.vision">
 <title>Sworn Brothers</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260917090000 +0000" stop="20260917090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260917090500 +0000" stop="20260917100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20260917100000 +0000" stop="20260917103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
+</programme>
+<programme start="20260917103000 +0000" stop="20260917120000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260915230000 +0000" stop="20260916010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260916010000 +0000" stop="20260916030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

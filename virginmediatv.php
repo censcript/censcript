@@ -2443,8 +2443,11 @@
 <programme start="20260916053000 +0000" stop="20260916060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20260916120000 +0000" stop="20260916130000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260916120000 +0000" stop="20260916123000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
+</programme>
+<programme start="20260916123000 +0000" stop="20260916130000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20260916130000 +0000" stop="20260916133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
@@ -4019,13 +4022,13 @@
     <title>ICC Women&#039;s T20 World Cup - Final: England v Australia</title>
 </programme>
 <programme start="20260916120000 +0000" stop="20260916123000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>International T20 Cricket - 1st T20: England v Sri Lanka</title>
 </programme>
 <programme start="20260916123000 +0000" stop="20260916130000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>International T20 Cricket - 4th T20: England v India</title>
 </programme>
 <programme start="20260916130000 +0000" stop="20260916133000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>International T20 Cricket - 1st T20: England v Sri Lanka</title>
 </programme>
 <programme start="20260916133000 +0000" stop="20260916140000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Nepal Climbing Cricket&#039;s Mountain</title>
@@ -4247,7 +4250,7 @@
     <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260916033000 +0000" stop="20260916040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP Tour: This Week - Episode 93</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20260916040000 +0000" stop="20260916041500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - ATP Final</title>
@@ -4511,7 +4514,7 @@
     <title>TNT Sports Reload - Episode 37</title>
 </programme>
 <programme start="20260916173000 +0000" stop="20260916180000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Serie A Full Impact - Episode 4</title>
+    <title>Serie A Full Impact - Matchday 4</title>
 </programme>
 <programme start="20260915233000 +0000" stop="20260916023000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>The Ultimate Fighting Championship - Noche UFC: Jean Silva v Jose Miguel Delgado</title>
@@ -4892,13 +4895,13 @@
     <title>ICC Women&#039;s T20 World Cup - Final: England v Australia</title>
 </programme>
 <programme start="20260916120000 +0000" stop="20260916123000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>To Be Announced</title>
+    <title>International T20 Cricket - 1st T20: England v Sri Lanka</title>
 </programme>
 <programme start="20260916123000 +0000" stop="20260916130000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>International T20 Cricket - 4th T20: England v India</title>
 </programme>
 <programme start="20260916130000 +0000" stop="20260916133000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>To Be Announced</title>
+    <title>International T20 Cricket - 1st T20: England v Sri Lanka</title>
 </programme>
 <programme start="20260916133000 +0000" stop="20260916140000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Nepal Climbing Cricket&#039;s Mountain</title>
@@ -5120,7 +5123,7 @@
     <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260916033000 +0000" stop="20260916040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP Tour: This Week - Episode 93</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20260916040000 +0000" stop="20260916041500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - ATP Final</title>
@@ -5584,7 +5587,10 @@
 <programme start="20260916174000 +0000" stop="20260916181000 +0000" channel="Comedy_+1.virginmediatv">
     <title>Friends - The One With the Home Study</title>
 </programme>
-<programme start="20260915180000 +0000" stop="20260916060000 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20260915220000 +0000" stop="20260916020000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Programmes Start at 07:00</title>
+</programme>
+<programme start="20260916020000 +0000" stop="20260916060000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Programmes Start at 07:00</title>
 </programme>
 <programme start="20260916120000 +0000" stop="20260916121500 +0000" channel="RTE_KIDSjr.virginmediatv">
