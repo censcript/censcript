@@ -1343,7 +1343,7 @@
     <title>UK Challenge</title>
 </programme>
 <programme start="20260916043000 +0000" stop="20260916050000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV HL 2026/27: MUN Vs SAB</title>
+    <title>MUTV HL 2026/27: EVE Vs MUN</title>
 </programme>
 <programme start="20260916050000 +0000" stop="20260916070000 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV 2026/27: MUN Vs MCI</title>
@@ -1424,7 +1424,7 @@
     <title>UK Challenge</title>
 </programme>
 <programme start="20260916043000 +0000" stop="20260916050000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>MUTV HL 2026/27: MUN Vs SAB</title>
+    <title>MUTV HL 2026/27: EVE Vs MUN</title>
 </programme>
 <programme start="20260916050000 +0000" stop="20260916070000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV 2026/27: MUN Vs MCI</title>
@@ -8306,7 +8306,7 @@
     <title>V-League Women</title>
 </programme>
 <programme start="20260916110000 +0000" stop="20260916130000 +0000" channel="Sportstars 3.mncvision">
-    <title>AFC Champions League Elite</title>
+    <title>AFC Champions League Two</title>
 </programme>
 <programme start="20260916130000 +0000" stop="20260916150000 +0000" channel="Sportstars 3.mncvision">
     <title>Sportacular International Match</title>
@@ -8342,7 +8342,7 @@
     <title>V-League Women</title>
 </programme>
 <programme start="20260916110000 +0000" stop="20260916130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>AFC Champions League Elite</title>
+    <title>AFC Champions League Two</title>
 </programme>
 <programme start="20260916130000 +0000" stop="20260916150000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Sportacular International Match</title>

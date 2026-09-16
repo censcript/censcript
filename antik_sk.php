@@ -775,7 +775,7 @@
   <programme start="20260918190000 +0000" stop="20260918225000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Krstný otec</title>
   </programme>
-  <programme start="20260917203500 +0000" stop="20260917225000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260917203000 +0000" stop="20260917225000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Zelenáč</title>
   </programme>
   <programme start="20260917225000 +0000" stop="20260917233500 +0000" channel="DajTo.webtv.sk">
@@ -853,16 +853,16 @@
   <programme start="20260918143500 +0000" stop="20260918150500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dva a pol chlapa II (20)</title>
   </programme>
-  <programme start="20260918150500 +0000" stop="20260918153000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260918150500 +0000" stop="20260918153500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dva a pol chlapa II (21)</title>
   </programme>
-  <programme start="20260918153000 +0000" stop="20260918160000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260918153500 +0000" stop="20260918160000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Mladý Sheldon VII (6)</title>
   </programme>
-  <programme start="20260918160000 +0000" stop="20260918162500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260918160000 +0000" stop="20260918163000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Mladý Sheldon VII (7)</title>
   </programme>
-  <programme start="20260918162500 +0000" stop="20260918173500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260918163000 +0000" stop="20260918173500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná II (6)</title>
   </programme>
   <programme start="20260918173500 +0000" stop="20260918183000 +0000" channel="DajTo.webtv.sk">
@@ -2516,121 +2516,121 @@
     <title lang="id">Pod hviezdami</title>
   </programme>
   <programme start="20260917220000 +0000" stop="20260917224500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">NOČNÍ MUSIC KLUB</title>
+    <title lang="id">Noční music klub</title>
   </programme>
   <programme start="20260917224500 +0000" stop="20260917230000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260917230000 +0000" stop="20260918004500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">NOČNÍ MUSIC KLUB</title>
+    <title lang="id">Noční music klub</title>
   </programme>
   <programme start="20260918004500 +0000" stop="20260918010000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918010000 +0000" stop="20260918024500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">NOČNÍ MUSIC KLUB</title>
+    <title lang="id">Noční music klub</title>
   </programme>
   <programme start="20260918024500 +0000" stop="20260918030000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918030000 +0000" stop="20260918040000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">NOČNÍ MUSIC KLUB</title>
+    <title lang="id">Noční music klub</title>
   </programme>
   <programme start="20260918040000 +0000" stop="20260918044500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">VSTÁVÁME S PREMIEM</title>
+    <title lang="id">Vstáváme s Premiem</title>
   </programme>
   <programme start="20260918044500 +0000" stop="20260918050000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918050000 +0000" stop="20260918060000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">VSTÁVÁME S PREMIEM</title>
+    <title lang="id">Vstáváme s Premiem</title>
   </programme>
   <programme start="20260918060000 +0000" stop="20260918064500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM KÁVA</title>
+    <title lang="id">Premium káva</title>
   </programme>
   <programme start="20260918064500 +0000" stop="20260918070000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918070000 +0000" stop="20260918080000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM KÁVA</title>
+    <title lang="id">Premium káva</title>
   </programme>
   <programme start="20260918080000 +0000" stop="20260918084500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM DOPOLEDNE</title>
+    <title lang="id">Premium dopoledne</title>
   </programme>
   <programme start="20260918084500 +0000" stop="20260918090000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918090000 +0000" stop="20260918100000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM DOPOLEDNE</title>
+    <title lang="id">Premium dopoledne</title>
   </programme>
   <programme start="20260918100000 +0000" stop="20260918104500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
+    <title lang="id">Zlatý Šlágr 2026</title>
   </programme>
   <programme start="20260918104500 +0000" stop="20260918110000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918110000 +0000" stop="20260918120000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM SIESTA</title>
+    <title lang="id">Premium siesta</title>
   </programme>
   <programme start="20260918120000 +0000" stop="20260918124500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM ODPOLEDNE</title>
+    <title lang="id">Premium odpoledne</title>
   </programme>
   <programme start="20260918124500 +0000" stop="20260918130000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918130000 +0000" stop="20260918144500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM ODPOLEDNE</title>
+    <title lang="id">Premium odpoledne</title>
   </programme>
   <programme start="20260918144500 +0000" stop="20260918150000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918150000 +0000" stop="20260918162500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM PÓDIUM</title>
+    <title lang="id">Premium pódium</title>
   </programme>
   <programme start="20260918162500 +0000" stop="20260918164500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM SATIRA</title>
+    <title lang="id">Premium satira</title>
   </programme>
   <programme start="20260918164500 +0000" stop="20260918170000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918170000 +0000" stop="20260918181500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM MELODIE</title>
+    <title lang="id">Premium melodie</title>
   </programme>
   <programme start="20260918181500 +0000" stop="20260918184500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM COUNTRY</title>
+    <title lang="id">Premium country</title>
   </programme>
   <programme start="20260918184500 +0000" stop="20260918190000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260918190000 +0000" stop="20260918200000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">ZLATÝ ŠLÁGR 2026</title>
+    <title lang="id">Zlatý Šlágr 2026</title>
   </programme>
   <programme start="20260918200000 +0000" stop="20260918214500 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">PREMIUM POŘAD</title>
+    <title lang="id">Premium pořad</title>
   </programme>
   <programme start="20260918214500 +0000" stop="20260918220000 +0000" channel="PREMIUM.webtv.sk">
-    <title lang="id">TELESHOPPING</title>
+    <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20260917220000 +0000" stop="20260918040000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ŠLÁGR MIŠMAŠ</title>
+    <title lang="id">Šlágr mišmaš</title>
   </programme>
   <programme start="20260918040000 +0000" stop="20260918050000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">RANNÍ BUDÍČEK</title>
+    <title lang="id">Ranní budíček</title>
   </programme>
   <programme start="20260918050000 +0000" stop="20260918070000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">KRÁSNÉ RÁNO</title>
+    <title lang="id">Krásné ráno</title>
   </programme>
   <programme start="20260918070000 +0000" stop="20260918090000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">DOPOLEDNÍ STUDIO</title>
+    <title lang="id">Dopolední studio</title>
   </programme>
   <programme start="20260918090000 +0000" stop="20260918103000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">DECHOVKA O JEDENÁCTÉ</title>
+    <title lang="id">Dechovka o jedenácté</title>
   </programme>
   <programme start="20260918103000 +0000" stop="20260918120000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+    <title lang="id">Písničky na přání</title>
   </programme>
   <programme start="20260918120000 +0000" stop="20260918130000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">SÁZKA NA HIT II</title>
+    <title lang="id">Sázka na hit II</title>
   </programme>
   <programme start="20260918130000 +0000" stop="20260918150000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Vždy je něco nového!</title>
@@ -2642,31 +2642,58 @@
     <title lang="id">Poklady našeho archivu</title>
   </programme>
   <programme start="20260918175000 +0000" stop="20260918182000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">SÁZKA NA HIT II</title>
+    <title lang="id">Sázka na hit II</title>
   </programme>
   <programme start="20260918182000 +0000" stop="20260918220000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">VEČERNÍ POŘAD</title>
+    <title lang="id">Večerní pořad</title>
   </programme>
   <programme start="20260917220000 +0000" stop="20260918000000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20260918000000 +0000" stop="20260918040000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
+    <title lang="id">Lidový Šlágr mišmaš</title>
   </programme>
-  <programme start="20260918060000 +0000" stop="20260918103000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
+  <programme start="20260918040000 +0000" stop="20260918073000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
+  </programme>
+  <programme start="20260918073000 +0000" stop="20260918080000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Bylinkářovo království</title>
+  </programme>
+  <programme start="20260918080000 +0000" stop="20260918083000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Harmoniky</title>
+  </programme>
+  <programme start="20260918083000 +0000" stop="20260918090000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
+  </programme>
+  <programme start="20260918090000 +0000" stop="20260918093000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Evergreeny</title>
+  </programme>
+  <programme start="20260918093000 +0000" stop="20260918100000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Country</title>
+  </programme>
+  <programme start="20260918100000 +0000" stop="20260918101500 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Poledne</title>
+  </programme>
+  <programme start="20260918101500 +0000" stop="20260918103000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Chvilka s...</title>
   </programme>
   <programme start="20260918103000 +0000" stop="20260918113000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+    <title lang="id">Písničky na přání</title>
   </programme>
-  <programme start="20260918113000 +0000" stop="20260918123000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  <programme start="20260918113000 +0000" stop="20260918140000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20260918123000 +0000" stop="20260918200000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">ZÁBAVA NA DVOJCE</title>
+  <programme start="20260918140000 +0000" stop="20260918143000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Lidovky</title>
+  </programme>
+  <programme start="20260918143000 +0000" stop="20260918183000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
+  </programme>
+  <programme start="20260918183000 +0000" stop="20260918200000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
   </programme>
   <programme start="20260918200000 +0000" stop="20260918220000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20260917220000 +0000" stop="20260917224500 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Rukách vyrobené</title>
@@ -3067,10 +3094,10 @@
   <programme start="20260918133000 +0000" stop="20260918141000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Úsměvy Pavla Landovského</title>
   </programme>
-  <programme start="20260918141000 +0000" stop="20260918150300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260918141000 +0000" stop="20260918150100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Polopatě</title>
   </programme>
-  <programme start="20260918150300 +0000" stop="20260918153000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260918150100 +0000" stop="20260918153000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na cestě po středním Chile</title>
   </programme>
   <programme start="20260918153000 +0000" stop="20260918160000 +0000" channel="ČT1.webtv.sk">
@@ -10237,46 +10264,46 @@
   <programme start="20260918215000 +0000" stop="20260918221500 +0000" channel="Disney Junior.webtv.sk">
     <title lang="id">Mickey Mouse Clubhouse+ I (21)</title>
   </programme>
-  <programme start="20260917214500 +0000" stop="20260917221000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260917214000 +0000" stop="20260917220500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách IX (181)</title>
   </programme>
-  <programme start="20260917221000 +0000" stop="20260917223500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260917220500 +0000" stop="20260917223000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Marsupilami I (14)</title>
   </programme>
-  <programme start="20260917223500 +0000" stop="20260917225500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260917223000 +0000" stop="20260917225500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nej a Nejnejka I (24)</title>
   </programme>
   <programme start="20260917225500 +0000" stop="20260917232000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nej a Nejnejka I (25)</title>
   </programme>
-  <programme start="20260917232000 +0000" stop="20260917234000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260917232000 +0000" stop="20260917234500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Jelení skvadra IV (13)</title>
   </programme>
-  <programme start="20260917234000 +0000" stop="20260918000500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260917234500 +0000" stop="20260918000500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Show Patricka Hvězdice I (2)</title>
   </programme>
   <programme start="20260918000500 +0000" stop="20260918002000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Show Patricka Hvězdice II (11)</title>
   </programme>
-  <programme start="20260918002000 +0000" stop="20260918004500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260918002000 +0000" stop="20260918004000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Sonic Prime I (19)</title>
   </programme>
-  <programme start="20260918004500 +0000" stop="20260918010500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260918004000 +0000" stop="20260918010500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Thundermanovi v utajení II (2)</title>
   </programme>
-  <programme start="20260918010500 +0000" stop="20260918013000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260918010500 +0000" stop="20260918012500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nebezpečná síla II (2)</title>
   </programme>
-  <programme start="20260918013000 +0000" stop="20260918015500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260918012500 +0000" stop="20260918015000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Henry Nebezpečný V (13)</title>
   </programme>
-  <programme start="20260918015500 +0000" stop="20260918022000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260918015000 +0000" stop="20260918022000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi III (15)</title>
   </programme>
-  <programme start="20260918022000 +0000" stop="20260918024000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260918022000 +0000" stop="20260918024500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi III (16)</title>
   </programme>
-  <programme start="20260918024000 +0000" stop="20260918030000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20260918024500 +0000" stop="20260918030000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi I (24)</title>
   </programme>
   <programme start="20260918030000 +0000" stop="20260918032500 +0000" channel="Nickelodeon.webtv.sk">
@@ -16415,22 +16442,19 @@
     <title lang="id">World Talks (1926)</title>
   </programme>
   <programme start="20260917214500 +0000" stop="20260917220300 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Serwis Info Wieczór</title>
+    <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260917220300 +0000" stop="20260917224700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260917220300 +0000" stop="20260917224800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Niebezpieczne zwiazki (116)</title>
   </programme>
-  <programme start="20260917224700 +0000" stop="20260917225500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260917224800 +0000" stop="20260917225600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260917225500 +0000" stop="20260917232300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260917225600 +0000" stop="20260917232400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260917232300 +0000" stop="20260917234400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260917232400 +0000" stop="20260917235000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (809)</title>
-  </programme>
-  <programme start="20260917234400 +0000" stop="20260917235000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260917235000 +0000" stop="20260918000500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
@@ -16441,19 +16465,22 @@
   <programme start="20260918002000 +0000" stop="20260918003500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20260918003500 +0000" stop="20260918010000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260918003500 +0000" stop="20260918005000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20260918010000 +0000" stop="20260918013000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260918005000 +0000" stop="20260918010500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Panorama Dnia</title>
+  </programme>
+  <programme start="20260918010500 +0000" stop="20260918013500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia IV (41)</title>
   </programme>
-  <programme start="20260918013000 +0000" stop="20260918020000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260918013500 +0000" stop="20260918020300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polskie Parki Narodowe (4)</title>
   </programme>
-  <programme start="20260918020000 +0000" stop="20260918024300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260918020300 +0000" stop="20260918024700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (513)</title>
   </programme>
-  <programme start="20260918024300 +0000" stop="20260918034500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260918024700 +0000" stop="20260918034500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podcasty (55)</title>
   </programme>
   <programme start="20260918034500 +0000" stop="20260918034700 +0000" channel="TVP Info.webtv.sk">
@@ -16621,10 +16648,10 @@
   <programme start="20260918163000 +0000" stop="20260918171000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Forum (1490)</title>
   </programme>
-  <programme start="20260918171000 +0000" stop="20260918172600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260918171000 +0000" stop="20260918172500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260918172600 +0000" stop="20260918173000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260918172500 +0000" stop="20260918173000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Sprawdzam to Extra 1&apos; (95)</title>
   </programme>
   <programme start="20260918173000 +0000" stop="20260918175800 +0000" channel="TVP Info.webtv.sk">
@@ -16661,7 +16688,7 @@
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
   <programme start="20260918214500 +0000" stop="20260918220300 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Serwis Info Wieczór</title>
+    <title lang="id">Panorama Dnia</title>
   </programme>
   <programme start="20260917215000 +0000" stop="20260917224500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Zołnierze Generała Maczka</title>

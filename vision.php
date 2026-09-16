@@ -637,12 +637,6 @@
 <programme start="20260917114500 +0000" stop="20260917121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260915230000 +0000" stop="20260916023000 +0000" channel="ANTV.vision">
-<title>Albela</title>
-</programme>
-<programme start="20260916023000 +0000" stop="20260916060000 +0000" channel="ANTV.vision">
-<title>Koi Mil Gaya</title>
-</programme>
 <programme start="20260916060000 +0000" stop="20260916073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260917090000 +0000" stop="20260917090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260917090500 +0000" stop="20260917100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20260917100000 +0000" stop="20260917103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
 </programme>
