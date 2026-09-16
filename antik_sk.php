@@ -1120,10 +1120,10 @@
   <programme start="20260918210000 +0000" stop="20260918225000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Pravidlá zabíjania</title>
   </programme>
-  <programme start="20260917210000 +0000" stop="20260917223500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260917210000 +0000" stop="20260917231000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Highlighty Európskej a Konferenčnej ligy UEFA</title>
   </programme>
-  <programme start="20260917223500 +0000" stop="20260918011500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260917231000 +0000" stop="20260918011500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Okolo Švajčiarska</title>
   </programme>
   <programme start="20260918011500 +0000" stop="20260918034000 +0000" channel="JOJ Šport.webtv.sk">
@@ -3445,10 +3445,10 @@
   <programme start="20260918045800 +0000" stop="20260918050600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue II</title>
   </programme>
-  <programme start="20260918050600 +0000" stop="20260918051000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260918050600 +0000" stop="20260918051300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue II</title>
   </programme>
-  <programme start="20260918051000 +0000" stop="20260918052000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260918051300 +0000" stop="20260918052000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue II</title>
   </programme>
   <programme start="20260918052000 +0000" stop="20260918052700 +0000" channel="ČT :D - ČT art.webtv.sk">

@@ -617,15 +617,12 @@
     <desc lang="en">Bacaan Yasin</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260915220200 +0000" stop="20260915225500 +0000" channel="tv1.unifitv">
+  <programme start="20260915220200 +0000" stop="20260915230000 +0000" channel="tv1.unifitv">
     <title lang="en">Bismillah 2026</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260915225500 +0000" stop="20260915230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kapsul TVC Janji HKHM 2026</title>
-    <desc lang="en">Kapsul TVC Janji HKHM 2026</desc>
-    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260915230000 +0000" stop="20260915234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -648,22 +645,22 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260916020500 +0000" stop="20260916023000 +0000" channel="tv1.unifitv">
-    <title lang="en">Undang-Undang Dan Hak Anda</title>
+    <title lang="en">Undang-Undang Dan Hak Anda (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang membincangkan isu berkaitan perundangan dan akta-akta semasa. Dua panel jemputan mengupas isu dari aspek teknikal dan praktikal serta menjawab persoalan daripada hos dan penonton secara dalam talian.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260916023000 +0000" stop="20260916033000 +0000" channel="tv1.unifitv">
-    <title lang="en">Peduli Tekun</title>
+    <title lang="en">Peduli Tukun</title>
     <desc lang="en">Program ini memaparkan usaha pemuliharaan laut, khususnya terumbu karang, serta peranan agensi berkaitan dalam memelihara ekosistem dan sumber marin negara.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260916033000 +0000" stop="20260916040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Di Sebalik Bayang Harimau</title>
-    <desc lang="en">Di Sebalik Bayang Harimau</desc>
+    <title lang="en">Di Sebalik Bayangan Harimau</title>
+    <desc lang="en">Sebuah dokumentari yang memaparkan kisah elit PDRM, Tiger Platoon di Briged, Sabah dalam menjalankan tanggungjawab menjaga keselamatan negara.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260916040000 +0000" stop="20260916040500 +0000" channel="tv1.unifitv">
@@ -671,15 +668,9 @@
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260916040500 +0000" stop="20260916040800 +0000" channel="tv1.unifitv">
-    <title lang="en">Video Klip HKHM 2026</title>
-    <desc lang="en">Video Klip HKHM 2026</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260916040800 +0000" stop="20260916050000 +0000" channel="tv1.unifitv">
-    <title lang="en">Help ! We Bought A Village</title>
-    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan
-terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
+  <programme start="20260916040500 +0000" stop="20260916050000 +0000" channel="tv1.unifitv">
+    <title lang="en">Help! We Bought A Village</title>
+    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.16.</episode-num>
     <episode-num system="onscreen">S1E17</episode-num>
@@ -689,23 +680,16 @@ terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260916053000 +0000" stop="20260916053500 +0000" channel="tv1.unifitv">
-    <title lang="en">Video Klip HKHM 2026</title>
-    <desc lang="en">Video Klip HKHM 2026</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260916053500 +0000" stop="20260916063000 +0000" channel="tv1.unifitv">
+  <programme start="20260916053000 +0000" stop="20260916063000 +0000" channel="tv1.unifitv">
     <title lang="en">Kau Perempuan Itu</title>
-    <desc lang="en">Sarah yang diuji dengan kekecewaan cinta, konflik persahabatan dan rumah tangga selepas berkahwin dengan Ari Aqashah, lelaki yang keras dan ego. Kehadiran Haikal dan Tasha turut menguji kesetiaan serta kesabaran Sarah dalam mempertahankan rumah tangganya.
-
-Pelakon : Ariff Aziz, Liyana Jasmay, Sheila Mambo, Neera Azizi, Razak Ahmad, Mustaqim Bahadon, Raja Azmi, Zaidi Omar, Aida Khalida</desc>
+    <desc lang="en">Sarah yang diuji dengan kekecewaan cinta, konflik persahabatan dan rumah tangga selepas berkahwin dengan Ari Aqashah, lelaki yang keras dan ego. Kehadiran Haikal dan Tasha turut menguji kesetiaan serta kesabaran Sarah dalam mempertahankan rumah tangganya.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260916063000 +0000" stop="20260916070000 +0000" channel="tv1.unifitv">
     <title lang="en">Coklat</title>
-    <desc lang="en">Mengisahkan Mira membesarkan anaknya Maya setelah kematian suaminya. Mira belajar membuat coklat dan mata pencariannya adalah mengambil tempahan coklat. Yamin pula guru yang membesarkan anaknya Iyad seorang diri. Iyad selalu membuat hal samada di sekolah atau dengan jiran-jiran di rumah. Coklat buatan Mira popular dalam kalangan kanak-kanak di kawasan mereka. Maya dan Iyad berkawan baik. Walaupun selalu bergaduh tapi mereka rapat. Maya selalu pertahankan Iyad apabila Iyad dibuli oleh Castello. Dalila pula agak kesunyian bila baru pindah di taman perumahan itu. Namun Maya dan Iyad selalu menemani Dalila sehingga mereka menjadi kawan baik.</desc>
+    <desc lang="en">Lakonan Nur Qistina Raisah, Mohamad Danish Hazriq, Fathia Latif, Ramy Ishak, Balkish Khan, Tunku Hanis, Fezrul Khan dan Mak Engku.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
@@ -715,36 +699,28 @@ Pelakon : Ariff Aziz, Liyana Jasmay, Sheila Mambo, Neera Azizi, Razak Ahmad, Mus
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260916070500 +0000" stop="20260916070800 +0000" channel="tv1.unifitv">
-    <title lang="en">Video Klip HKHM 2026</title>
-    <desc lang="en">Video Klip HKHM 2026</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260916070800 +0000" stop="20260916080000 +0000" channel="tv1.unifitv">
+  <programme start="20260916070500 +0000" stop="20260916080000 +0000" channel="tv1.unifitv">
     <title lang="en">Cuit Sikit Jangan Sentap 2026</title>
     <desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260916080000 +0000" stop="20260916080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
     <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260916080500 +0000" stop="20260916080800 +0000" channel="tv1.unifitv">
-    <title lang="en">Video Klip HKHM 2026</title>
-    <desc lang="en">Video Klip HKHM 2026</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260916080800 +0000" stop="20260916083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Satu Sentuhan</title>
+  <programme start="20260916080500 +0000" stop="20260916083000 +0000" channel="tv1.unifitv">
+    <title lang="en">Satu Sentuhan (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang memaparkan usaha mengitar semula barangan terpakai bagi menghasilkan perkakasan dengan kegunaan yang baru.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260916083000 +0000" stop="20260916090000 +0000" channel="tv1.unifitv">
-    <title lang="en">Sharif Masahor</title>
-    <desc lang="en">Sharif Masahor</desc>
+    <title lang="en">LIVE : BIZ MALAYSIA</title>
+    <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260916090000 +0000" stop="20260916100000 +0000" channel="tv1.unifitv">
@@ -753,16 +729,15 @@ Pelakon : Ariff Aziz, Liyana Jasmay, Sheila Mambo, Neera Azizi, Razak Ahmad, Mus
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260916100000 +0000" stop="20260916104500 +0000" channel="tv1.unifitv">
-    <title lang="en">FIKRAH</title>
-    <desc lang="en">Saksikan diskusi lanjut bersama Moderator serta panel undangan.</desc>
+    <title lang="en">Fikrah 2026</title>
+    <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260916104500 +0000" stop="20260916114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Waris Kampung Semarah Padi</title>
-    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti
-membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.
-
-Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamdan, Syed Zalihafe, Reen Rahim, Mona Allen, Datuk Ahmad Tarmimi Siregar, Sheila Mambo, Sharifah Amani, Zarina Zainuddin, Nadia Aqilah, Ruzana Ibrahim, Safia Hanifah</desc>
+    <title lang="en">Waris Kampung Semarah Padi (Ulangan)</title>
+    <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <episode-num system="onscreen">S1E21</episode-num>
@@ -777,20 +752,14 @@ Pelakon : Azhan Rani, Sabri Yunus, Zahiril Adzim, Pak Jabit, Imuda, Fauzuly Hamd
     <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260916121500 +0000" stop="20260916151500 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Sambutan Hari Malaysia 2026</title>
-    <desc lang="en">Saksikan Siaran Langsung Sambutan Hari Malaysia 2026</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260916151500 +0000" stop="20260916153000 +0000" channel="tv1.unifitv">
-    <title lang="en">Etnik Minoriti</title>
-    <desc lang="en">Etnik Minoriti</desc>
+  <programme start="20260916121500 +0000" stop="20260916153000 +0000" channel="tv1.unifitv">
+    <title lang="en">LIVE : SAMBUTAN HARI MALAYSIA 2026</title>
+    <desc lang="en">Saksikan Siaran Langsung Sambutan Hari Malaysia 2026.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260916153000 +0000" stop="20260916160000 +0000" channel="tv1.unifitv">
     <title lang="en">Renovation Nation</title>
-    <desc lang="en">Sebuah majalah yang  memaparkan pengubahsuaian  semula hartanah yang hampir 
-runtuh.</desc>
+    <desc lang="en">Sebuah majalah yang memaparkan pengubahsuaian semula hartanah yang hampir runtuh.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
