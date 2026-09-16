@@ -628,7 +628,7 @@
   <programme start="20260918210000 +0000" stop="20260918234000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Neporaziteľní</title>
   </programme>
-  <programme start="20260917205000 +0000" stop="20260917220500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260917205500 +0000" stop="20260917220500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Jama levova IV (2)</title>
   </programme>
   <programme start="20260917220500 +0000" stop="20260917232000 +0000" channel="Markíza +1.webtv.sk">
@@ -928,10 +928,10 @@
   <programme start="20260918110500 +0000" stop="20260918121000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Oteckovia IV (126)</title>
   </programme>
-  <programme start="20260918121000 +0000" stop="20260918132000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260918121000 +0000" stop="20260918131500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dcéry pani Fazilet (43)</title>
   </programme>
-  <programme start="20260918132000 +0000" stop="20260918141000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260918131500 +0000" stop="20260918141000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dcéry pani Fazilet (44)</title>
   </programme>
   <programme start="20260918141000 +0000" stop="20260918151500 +0000" channel="Doma.webtv.sk">
@@ -952,19 +952,19 @@
   <programme start="20260918185500 +0000" stop="20260918192500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier III (21)</title>
   </programme>
-  <programme start="20260918192500 +0000" stop="20260918195000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260918192500 +0000" stop="20260918195500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier III (22)</title>
   </programme>
-  <programme start="20260918195000 +0000" stop="20260918202000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260918195500 +0000" stop="20260918202500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia X (2)</title>
   </programme>
-  <programme start="20260918202000 +0000" stop="20260918205500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260918202500 +0000" stop="20260918205500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Priatelia X (3)</title>
   </programme>
-  <programme start="20260918205500 +0000" stop="20260918215000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260918205500 +0000" stop="20260918215500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Pohotovosť IV (11)</title>
   </programme>
-  <programme start="20260918215000 +0000" stop="20260918224500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260918215500 +0000" stop="20260918225000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Láska na prvý omyl (17)</title>
   </programme>
   <programme start="20260917215500 +0000" stop="20260917224000 +0000" channel="Markíza Krimi.webtv.sk">
@@ -18187,11 +18187,8 @@
   <programme start="20260918110000 +0000" stop="20260918113000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
   </programme>
-  <programme start="20260918113000 +0000" stop="20260918120000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260918113000 +0000" stop="20260918130000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Inside Story</title>
-  </programme>
-  <programme start="20260918120000 +0000" stop="20260918130000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Shootout in Glenville: Uncovered</title>
   </programme>
   <programme start="20260918130000 +0000" stop="20260918140000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>

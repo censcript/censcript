@@ -652,9 +652,6 @@
 <programme start="20260916123000 +0000" stop="20260916140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20260916173000 +0000" stop="20260916190000 +0000" channel="ANTV.vision">
-<title>Sworn Brothers</title>
-</programme>
 <programme start="20260916190000 +0000" stop="20260916203000 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260916010000 +0000" stop="20260916030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260916030000 +0000" stop="20260916050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
