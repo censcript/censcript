@@ -3820,7 +3820,10 @@
 <programme start="20260917030000 +0000" stop="20260917040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260917040000 +0000" stop="20260917060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260917040000 +0000" stop="20260917050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260917050000 +0000" stop="20260917060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260917063000 +0000" stop="20260917170000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">

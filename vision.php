@@ -652,12 +652,6 @@
 <programme start="20260917123000 +0000" stop="20260917140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917173000 +0000" channel="ANTV.vision">
-<title>Misteri Gunung Merapi 3</title>
-</programme>
-<programme start="20260917173000 +0000" stop="20260917190000 +0000" channel="ANTV.vision">
-<title>Mojin Return To South China Sea</title>
-</programme>
 <programme start="20260917190000 +0000" stop="20260917203000 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260917023000 +0000" stop="20260917030000 +0000" channel="TVRI.vision">
 <title>Mimbar Agama</title>
+</programme>
+<programme start="20260917030000 +0000" stop="20260917030300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260917030300 +0000" stop="20260917033000 +0000" channel="TVRI.vision">
+<title>Pesona Indonesia</title>
 </programme>
