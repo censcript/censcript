@@ -832,10 +832,10 @@
     <programme start="20260917160000 +0000" stop="20260918160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 25th September, Friday 1pm. Singapore Tennis Open 2026: Women’s Singles QF Match 1</title>
     </programme>
-    <programme start="20260916160000 +0000" stop="20260917100000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th September, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
+    <programme start="20260916160000 +0000" stop="20260917095000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 17th September, Thursday 5.50pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
     </programme>
-    <programme start="20260917100000 +0000" stop="20260917120000 +0000" channel="Live 5.mewatch">
+    <programme start="20260917095000 +0000" stop="20260917120000 +0000" channel="Live 5.mewatch">
         <title>AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
     </programme>
     <programme start="20260917120000 +0000" stop="20260917160000 +0000" channel="Live 5.mewatch">
@@ -844,10 +844,10 @@
     <programme start="20260917160000 +0000" stop="20260918160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
     </programme>
-    <programme start="20260916160000 +0000" stop="20260917121500 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th September, Thursday 8.15pm. AFC Champions League Two 2026/27: Shanghai Shenhua FC vs Tampines Rovers FC</title>
+    <programme start="20260916160000 +0000" stop="20260917120500 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 17th September, Thursday 8.05pm. AFC Champions League Two 2026/27: Shanghai Shenhua FC vs Tampines Rovers FC</title>
     </programme>
-    <programme start="20260917121500 +0000" stop="20260917141500 +0000" channel="Live 6.mewatch">
+    <programme start="20260917120500 +0000" stop="20260917141500 +0000" channel="Live 6.mewatch">
         <title>AFC Champions League Two 2026/27: Shanghai Shenhua FC vs Tampines Rovers FC</title>
     </programme>
     <programme start="20260917141500 +0000" stop="20260917160000 +0000" channel="Live 6.mewatch">

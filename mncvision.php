@@ -1967,7 +1967,7 @@
     <title>Go Spot</title>
 </programme>
 <programme start="20260917030000 +0000" stop="20260917043000 +0000" channel="Celebrities TV.mncvision">
-    <title>Terjebak Dikampung Cinta</title>
+    <title>Terjebak Di Kampung Cinta</title>
 </programme>
 <programme start="20260917043000 +0000" stop="20260917063000 +0000" channel="Celebrities TV.mncvision">
     <title>Kau Ditakdirkan Untukku</title>
@@ -2015,7 +2015,7 @@
     <title>Celebrity Files</title>
 </programme>
 <programme start="20260917163000 +0000" stop="20260916170000 +0000" channel="Celebrities TV.mncvision">
-    <title>Terjebak Dikampung Cinta</title>
+    <title>Terjebak Di Kampung Cinta</title>
 </programme>
 <programme start="20260916180000 +0000" stop="20260916193500 +0000" channel="Celestial Movies.mncvision">
     <title>Mid-Night Two</title>
@@ -4879,16 +4879,16 @@
 <programme start="20260917130000 +0000" stop="20260917130500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260917130500 +0000" stop="20260917140000 +0000" channel="iNews.mncvision">
+<programme start="20260917130500 +0000" stop="20260917141500 +0000" channel="iNews.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20260917140000 +0000" stop="20260917150000 +0000" channel="iNews.mncvision">
+<programme start="20260917141500 +0000" stop="20260917151000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260917150000 +0000" stop="20260917151000 +0000" channel="iNews.mncvision">
+<programme start="20260917151000 +0000" stop="20260917152000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260917151000 +0000" stop="20260917163000 +0000" channel="iNews.mncvision">
+<programme start="20260917152000 +0000" stop="20260917163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260917163000 +0000" stop="20260916170000 +0000" channel="iNews.mncvision">
@@ -4969,16 +4969,16 @@
 <programme start="20260917130000 +0000" stop="20260917130500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260917130500 +0000" stop="20260917140000 +0000" channel="iNews HD.mncvision">
+<programme start="20260917130500 +0000" stop="20260917141500 +0000" channel="iNews HD.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20260917140000 +0000" stop="20260917150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260917141500 +0000" stop="20260917151000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260917150000 +0000" stop="20260917151000 +0000" channel="iNews HD.mncvision">
+<programme start="20260917151000 +0000" stop="20260917152000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260917151000 +0000" stop="20260917163000 +0000" channel="iNews HD.mncvision">
+<programme start="20260917152000 +0000" stop="20260917163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260917163000 +0000" stop="20260916170000 +0000" channel="iNews HD.mncvision">
@@ -5152,38 +5152,35 @@
 <programme start="20260917113000 +0000" stop="20260917120000 +0000" channel="Kids TV.mncvision">
     <title>Morphle</title>
 </programme>
-<programme start="20260917120000 +0000" stop="20260917122500 +0000" channel="Kids TV.mncvision">
-    <title>Barbie Dreamtopia</title>
+<programme start="20260917120000 +0000" stop="20260917130000 +0000" channel="Kids TV.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
 </programme>
-<programme start="20260917122500 +0000" stop="20260917123000 +0000" channel="Kids TV.mncvision">
-    <title>Laluna</title>
-</programme>
-<programme start="20260917123000 +0000" stop="20260917125000 +0000" channel="Kids TV.mncvision">
-    <title>Enchantimals</title>
-</programme>
-<programme start="20260917125000 +0000" stop="20260917130000 +0000" channel="Kids TV.mncvision">
-    <title>O Iya Ya</title>
-</programme>
-<programme start="20260917130000 +0000" stop="20260917133000 +0000" channel="Kids TV.mncvision">
+<programme start="20260917130000 +0000" stop="20260917132000 +0000" channel="Kids TV.mncvision">
     <title>Thomas &amp; Friends S21</title>
 </programme>
-<programme start="20260917133000 +0000" stop="20260917140000 +0000" channel="Kids TV.mncvision">
+<programme start="20260917132000 +0000" stop="20260917133000 +0000" channel="Kids TV.mncvision">
+    <title>O Iya Ya</title>
+</programme>
+<programme start="20260917133000 +0000" stop="20260917135500 +0000" channel="Kids TV.mncvision">
     <title>Backkom S5</title>
 </programme>
-<programme start="20260917140000 +0000" stop="20260917150000 +0000" channel="Kids TV.mncvision">
+<programme start="20260917135500 +0000" stop="20260917140000 +0000" channel="Kids TV.mncvision">
+    <title>Laluna</title>
+</programme>
+<programme start="20260917140000 +0000" stop="20260917143000 +0000" channel="Kids TV.mncvision">
+    <title>Barbie Dreamtopia</title>
+</programme>
+<programme start="20260917143000 +0000" stop="20260917150000 +0000" channel="Kids TV.mncvision">
+    <title>Enchantimals</title>
+</programme>
+<programme start="20260917150000 +0000" stop="20260917160000 +0000" channel="Kids TV.mncvision">
     <title>Buyung Upik</title>
 </programme>
-<programme start="20260917150000 +0000" stop="20260917153000 +0000" channel="Kids TV.mncvision">
-    <title>Bima S</title>
-</programme>
-<programme start="20260917153000 +0000" stop="20260917160000 +0000" channel="Kids TV.mncvision">
-    <title>Gecko&#039;s Garage</title>
-</programme>
 <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Kids TV.mncvision">
-    <title>Playtime With Twinkle</title>
+    <title>Entong Animasi</title>
 </programme>
 <programme start="20260917163000 +0000" stop="20260916170000 +0000" channel="Kids TV.mncvision">
-    <title>Entong Animasi</title>
+    <title>Kiko S4</title>
 </programme>
 <programme start="20260916170000 +0000" stop="20260916173000 +0000" channel="Kids TV HD.mncvision">
     <title>Kiko S4</title>
@@ -5287,38 +5284,35 @@
 <programme start="20260917113000 +0000" stop="20260917120000 +0000" channel="Kids TV HD.mncvision">
     <title>Morphle</title>
 </programme>
-<programme start="20260917120000 +0000" stop="20260917122500 +0000" channel="Kids TV HD.mncvision">
-    <title>Barbie Dreamtopia</title>
+<programme start="20260917120000 +0000" stop="20260917130000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
 </programme>
-<programme start="20260917122500 +0000" stop="20260917123000 +0000" channel="Kids TV HD.mncvision">
-    <title>Laluna</title>
-</programme>
-<programme start="20260917123000 +0000" stop="20260917125000 +0000" channel="Kids TV HD.mncvision">
-    <title>Enchantimals</title>
-</programme>
-<programme start="20260917125000 +0000" stop="20260917130000 +0000" channel="Kids TV HD.mncvision">
-    <title>O Iya Ya</title>
-</programme>
-<programme start="20260917130000 +0000" stop="20260917133000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20260917130000 +0000" stop="20260917132000 +0000" channel="Kids TV HD.mncvision">
     <title>Thomas &amp; Friends S21</title>
 </programme>
-<programme start="20260917133000 +0000" stop="20260917140000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20260917132000 +0000" stop="20260917133000 +0000" channel="Kids TV HD.mncvision">
+    <title>O Iya Ya</title>
+</programme>
+<programme start="20260917133000 +0000" stop="20260917135500 +0000" channel="Kids TV HD.mncvision">
     <title>Backkom S5</title>
 </programme>
-<programme start="20260917140000 +0000" stop="20260917150000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20260917135500 +0000" stop="20260917140000 +0000" channel="Kids TV HD.mncvision">
+    <title>Laluna</title>
+</programme>
+<programme start="20260917140000 +0000" stop="20260917143000 +0000" channel="Kids TV HD.mncvision">
+    <title>Barbie Dreamtopia</title>
+</programme>
+<programme start="20260917143000 +0000" stop="20260917150000 +0000" channel="Kids TV HD.mncvision">
+    <title>Enchantimals</title>
+</programme>
+<programme start="20260917150000 +0000" stop="20260917160000 +0000" channel="Kids TV HD.mncvision">
     <title>Buyung Upik</title>
 </programme>
-<programme start="20260917150000 +0000" stop="20260917153000 +0000" channel="Kids TV HD.mncvision">
-    <title>Bima S</title>
-</programme>
-<programme start="20260917153000 +0000" stop="20260917160000 +0000" channel="Kids TV HD.mncvision">
-    <title>Gecko&#039;s Garage</title>
-</programme>
 <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="Kids TV HD.mncvision">
-    <title>Playtime With Twinkle</title>
+    <title>Entong Animasi</title>
 </programme>
 <programme start="20260917163000 +0000" stop="20260916170000 +0000" channel="Kids TV HD.mncvision">
-    <title>Entong Animasi</title>
+    <title>Kiko S4</title>
 </programme>
 <programme start="20260916172500 +0000" stop="20260916193000 +0000" channel="KIX.mncvision">
     <title>Iron Squad W, Ep 6</title>

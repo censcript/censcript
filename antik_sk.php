@@ -3334,20 +3334,8 @@
   <programme start="20260919110000 +0000" stop="20260919110500 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260919110500 +0000" stop="20260919120000 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Studio ČT24</title>
-  </programme>
-  <programme start="20260919120000 +0000" stop="20260919120300 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Zprávy</title>
-  </programme>
-  <programme start="20260919120300 +0000" stop="20260919130000 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Studio ČT24</title>
-  </programme>
-  <programme start="20260919130000 +0000" stop="20260919130300 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Zprávy</title>
-  </programme>
-  <programme start="20260919130300 +0000" stop="20260919140000 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Studio ČT24</title>
+  <programme start="20260919110500 +0000" stop="20260919140000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Dny NATO</title>
   </programme>
   <programme start="20260919140000 +0000" stop="20260919140300 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Zprávy</title>
@@ -17992,8 +17980,11 @@
   <programme start="20260918233000 +0000" stop="20260919000000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Inside Story</title>
   </programme>
-  <programme start="20260919000000 +0000" stop="20260919020000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260919000000 +0000" stop="20260919010000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
+  </programme>
+  <programme start="20260919010000 +0000" stop="20260919020000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Shootout in Glenville: Uncovered</title>
   </programme>
   <programme start="20260919020000 +0000" stop="20260919030000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>

@@ -637,6 +637,9 @@
 <programme start="20260918114500 +0000" stop="20260918121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260916230000 +0000" stop="20260917023000 +0000" channel="ANTV.vision">
+<title>Dosti: Friends Forever</title>
+</programme>
 <programme start="20260917023000 +0000" stop="20260917060000 +0000" channel="ANTV.vision">
 <title>Dulhan Hum Le Jayenge</title>
 </programme>
@@ -813,6 +816,9 @@
 </programme>
 <programme start="20260917020000 +0000" stop="20260917023000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
+</programme>
+<programme start="20260917023000 +0000" stop="20260917033000 +0000" channel="TVOne.vision">
+<title>Polri Presisi</title>
 </programme>
 <programme start="20260917033000 +0000" stop="20260917040000 +0000" channel="TVOne.vision">
 <title>Metropolitan</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260918103000 +0000" stop="20260918120000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260916230000 +0000" stop="20260917010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260917010000 +0000" stop="20260917030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>

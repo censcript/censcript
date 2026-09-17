@@ -2228,10 +2228,10 @@
   </programme>
   <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="salamhd.unifitv">
     <title lang="en">Sunnah Nabi</title>
-    <desc lang="en">Episod kali ini bersama Ustaz Tajid membawa topik "Dakwah &amp; Pendidikan" dengan panel Ustaz Hassan Adli. Sunnah Nabi merupakan program keagamaan yang membawakan perbincangan santai namun ilmiah mengenai amalan sunnah dalam kehidupan seharian umat Islam. Program ini menampilkan pelbagai topik umum dan khusus berkaitan sunnah.</desc>
+    <desc lang="en">Episod kali ini bersama Ustaz Tajid membawa topik "Dakwah &amp; Pendidikan" dengan panel Ustaz Panel Ustaz Rahimi. Sunnah Nabi merupakan program keagamaan yang membawakan perbincangan santai namun ilmiah mengenai amalan sunnah dalam kehidupan seharian umat Islam. Program ini menampilkan pelbagai topik umum dan khusus berkaitan sunnah.</desc>
     <category lang="en">Religious</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <channel id="tvalhijrahhd.unifitv">
     <display-name>TV AlHijrah HD</display-name>
