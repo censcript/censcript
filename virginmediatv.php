@@ -1,7 +1,7 @@
-<programme start="20260917000000 +0000" stop="20260917005700 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260917000000 +0000" stop="20260917010500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Shetland - Episode 3</title>
 </programme>
-<programme start="20260917005700 +0000" stop="20260917042500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260917010500 +0000" stop="20260917042500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260917042500 +0000" stop="20260917051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
@@ -34,22 +34,22 @@
 <programme start="20260917170500 +0000" stop="20260917180000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Six O&#039;Clock Show - Episode 177</title>
 </programme>
-<programme start="20260916235500 +0000" stop="20260917011000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260917000000 +0000" stop="20260917011500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Tommy Tiernan Show - Episode 5</title>
 </programme>
-<programme start="20260917011000 +0000" stop="20260917020500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260917011500 +0000" stop="20260917021000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>More Than A Game: From D1 to Pyla</title>
 </programme>
-<programme start="20260917020500 +0000" stop="20260917025000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260917021000 +0000" stop="20260917025500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Money List - Episode 4</title>
 </programme>
-<programme start="20260917025000 +0000" stop="20260917034000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260917025500 +0000" stop="20260917034500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Room to Improve - Knocklyon</title>
 </programme>
-<programme start="20260917034000 +0000" stop="20260917043500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260917034500 +0000" stop="20260917044000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Silent Civil War - Episode 1</title>
 </programme>
-<programme start="20260917043500 +0000" stop="20260917050000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260917044000 +0000" stop="20260917050000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260917050000 +0000" stop="20260917063000 +0000" channel="RTE_One_HD.virginmediatv">
@@ -340,10 +340,10 @@
 <programme start="20260917035000 +0000" stop="20260917044000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Room to Improve - Knocklyon</title>
 </programme>
-<programme start="20260917044000 +0000" stop="20260917053500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260917044000 +0000" stop="20260917054000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Silent Civil War - Episode 1</title>
 </programme>
-<programme start="20260917053500 +0000" stop="20260917060000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260917054000 +0000" stop="20260917060000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260917115000 +0000" stop="20260917124500 +0000" channel="RTE_One_+1.virginmediatv">
@@ -490,10 +490,10 @@
 <programme start="20260917000000 +0000" stop="20260917010000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Code of Silence - Episode 3</title>
 </programme>
-<programme start="20260917010000 +0000" stop="20260917015700 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260917010000 +0000" stop="20260917020500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Shetland - Episode 3</title>
 </programme>
-<programme start="20260917015700 +0000" stop="20260917052500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260917020500 +0000" stop="20260917052500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260917052500 +0000" stop="20260917061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
@@ -2015,7 +2015,7 @@
     <title>The Murder Tapes - Murder in Disguise</title>
 </programme>
 <programme start="20260917000000 +0000" stop="20260917010000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>The Chelsea Detective - Episode 1</title>
+    <title>The Chelsea Detective - Death of the Aether: Part 1</title>
 </programme>
 <programme start="20260917010000 +0000" stop="20260917020000 +0000" channel="UandDrama_HD.virginmediatv">
     <title>Sister Boniface Mysteries - The Shadow of Baron Battenberg</title>
@@ -4204,16 +4204,13 @@
 <programme start="20260917053000 +0000" stop="20260917063000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>US Open 2026 - Women&#039;s Final: Aryna Sabalenka v Elena Rybakina</title>
 </programme>
-<programme start="20260917120000 +0000" stop="20260917130000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
-</programme>
-<programme start="20260917130000 +0000" stop="20260917143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260917120000 +0000" stop="20260917133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - WTA: Day 4</title>
 </programme>
-<programme start="20260917143000 +0000" stop="20260917160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260917133000 +0000" stop="20260917150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - WTA: Day 4</title>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260917150000 +0000" stop="20260917190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: WTA SP Open 2026 - Day 4</title>
 </programme>
 <programme start="20260916220000 +0000" stop="20260917010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
@@ -5032,16 +5029,13 @@
 <programme start="20260917053000 +0000" stop="20260917063000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>US Open 2026 - Women&#039;s Final: Aryna Sabalenka v Elena Rybakina</title>
 </programme>
-<programme start="20260917120000 +0000" stop="20260917130000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
-</programme>
-<programme start="20260917130000 +0000" stop="20260917143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260917120000 +0000" stop="20260917133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - WTA: Day 4</title>
 </programme>
-<programme start="20260917143000 +0000" stop="20260917160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260917133000 +0000" stop="20260917150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - WTA: Day 4</title>
 </programme>
-<programme start="20260917160000 +0000" stop="20260917190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260917150000 +0000" stop="20260917190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: WTA SP Open 2026 - Day 4</title>
 </programme>
 <programme start="20260917000000 +0000" stop="20260917002500 +0000" channel="Sky_Sports_F1.virginmediatv">

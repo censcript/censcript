@@ -1,19 +1,19 @@
 <programme start="20260916224500 +0000" stop="20260917003000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260917003000 +0000" stop="20260917020000 +0000" channel="RCTI.vision">
+<programme start="20260917003000 +0000" stop="20260917014500 +0000" channel="RCTI.vision">
 <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20260917020000 +0000" stop="20260917033000 +0000" channel="RCTI.vision">
+<programme start="20260917014500 +0000" stop="20260917031500 +0000" channel="RCTI.vision">
 <title>Turun Ranjang Terindah</title>
 </programme>
-<programme start="20260917033000 +0000" stop="20260917040000 +0000" channel="RCTI.vision">
+<programme start="20260917031500 +0000" stop="20260917034500 +0000" channel="RCTI.vision">
 <title>Go Spot Ekslusif (RCTI)</title>
 </programme>
-<programme start="20260917040000 +0000" stop="20260917053000 +0000" channel="RCTI.vision">
+<programme start="20260917034500 +0000" stop="20260917051500 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260917053000 +0000" stop="20260917103000 +0000" channel="RCTI.vision">
+<programme start="20260917051500 +0000" stop="20260917103000 +0000" channel="RCTI.vision">
 <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260917103000 +0000" stop="20260917120000 +0000" channel="RCTI.vision">
@@ -46,22 +46,22 @@
 <programme start="20260917221500 +0000" stop="20260917224500 +0000" channel="RCTI.vision">
 <title>Seputar iNews</title>
 </programme>
-<programme start="20260917224500 +0000" stop="20260918003000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun Deui</title>
+<programme start="20260917224500 +0000" stop="20260918001500 +0000" channel="RCTI.vision">
+<title>Kau Ditakdirkan Untukku Alya</title>
 </programme>
-<programme start="20260918003000 +0000" stop="20260918020000 +0000" channel="RCTI.vision">
+<programme start="20260918001500 +0000" stop="20260918014500 +0000" channel="RCTI.vision">
 <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20260918020000 +0000" stop="20260918033000 +0000" channel="RCTI.vision">
+<programme start="20260918014500 +0000" stop="20260918031500 +0000" channel="RCTI.vision">
 <title>Turun Ranjang Terindah</title>
 </programme>
-<programme start="20260918033000 +0000" stop="20260918040000 +0000" channel="RCTI.vision">
+<programme start="20260918031500 +0000" stop="20260918034500 +0000" channel="RCTI.vision">
 <title>Go Spot Ekslusif (RCTI)</title>
 </programme>
-<programme start="20260918040000 +0000" stop="20260918053000 +0000" channel="RCTI.vision">
+<programme start="20260918034500 +0000" stop="20260918051500 +0000" channel="RCTI.vision">
 <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260918053000 +0000" stop="20260918103000 +0000" channel="RCTI.vision">
+<programme start="20260918051500 +0000" stop="20260918103000 +0000" channel="RCTI.vision">
 <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260918103000 +0000" stop="20260918120000 +0000" channel="RCTI.vision">
@@ -637,12 +637,6 @@
 <programme start="20260918114500 +0000" stop="20260918121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260916230000 +0000" stop="20260917023000 +0000" channel="ANTV.vision">
-<title>Dosti: Friends Forever</title>
-</programme>
-<programme start="20260917023000 +0000" stop="20260917060000 +0000" channel="ANTV.vision">
-<title>Dulhan Hum Le Jayenge</title>
-</programme>
 <programme start="20260917060000 +0000" stop="20260917073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -655,14 +649,8 @@
 <programme start="20260917100000 +0000" stop="20260917110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20260917110000 +0000" stop="20260917123000 +0000" channel="ANTV.vision">
-<title>Tarzan Penunggu Harta Karun</title>
-</programme>
 <programme start="20260917123000 +0000" stop="20260917140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
-</programme>
-<programme start="20260917140000 +0000" stop="20260917160000 +0000" channel="ANTV.vision">
-<title>Toilet 105</title>
 </programme>
 <programme start="20260917160000 +0000" stop="20260917173000 +0000" channel="ANTV.vision">
 <title>Misteri Gunung Merapi 3</title>
@@ -817,9 +805,6 @@
 <programme start="20260917020000 +0000" stop="20260917023000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
-<programme start="20260917023000 +0000" stop="20260917033000 +0000" channel="TVOne.vision">
-<title>Polri Presisi</title>
-</programme>
 <programme start="20260917033000 +0000" stop="20260917040000 +0000" channel="TVOne.vision">
 <title>Metropolitan</title>
 </programme>
@@ -950,7 +935,7 @@
 <title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20260917123000 +0000" stop="20260917133000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama (Live)</title>
+<title>Berita Utama (L)</title>
 </programme>
 <programme start="20260917133000 +0000" stop="20260917150000 +0000" channel="Kompas TV.vision">
 <title>Rosi</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260918103000 +0000" stop="20260918120000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260917000000 +0000" stop="20260917010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
+</programme>
+<programme start="20260917010000 +0000" stop="20260917020000 +0000" channel="TVRI.vision">
+<title>Bersama Perempuan</title>
+</programme>
+<programme start="20260917020000 +0000" stop="20260917020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260917020300 +0000" stop="20260917023000 +0000" channel="TVRI.vision">
+<title>Dapur Devina</title>
+</programme>
+<programme start="20260917023000 +0000" stop="20260917030000 +0000" channel="TVRI.vision">
+<title>Mimbar Agama</title>
 </programme>
