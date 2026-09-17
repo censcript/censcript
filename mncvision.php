@@ -1079,7 +1079,7 @@
     <title>LaLiga 2026/27: DEP Vs SEV</title>
 </programme>
 <programme start="20260917025000 +0000" stop="20260917044000 +0000" channel="beIN Sports 1.mncvision">
-    <title>LaLiga 2026/27: LEV Vs ATH</title>
+    <title>LaLiga 2026/27: ATM Vs OSA</title>
 </programme>
 <programme start="20260917044000 +0000" stop="20260917051000 +0000" channel="beIN Sports 1.mncvision">
     <title>Fastzone 2026, Ep 23</title>
@@ -1136,7 +1136,7 @@
     <title>LaLiga 2026/27: DEP Vs SEV</title>
 </programme>
 <programme start="20260917025000 +0000" stop="20260917044000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>LaLiga 2026/27: LEV Vs ATH</title>
+    <title>LaLiga 2026/27: ATM Vs OSA</title>
 </programme>
 <programme start="20260917044000 +0000" stop="20260917051000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Fastzone 2026, Ep 23</title>
@@ -5824,23 +5824,26 @@
 <programme start="20260917090500 +0000" stop="20260917100500 +0000" channel="MDTV.mncvision">
     <title>Masak Gesss!!!</title>
 </programme>
-<programme start="20260917100500 +0000" stop="20260917104000 +0000" channel="MDTV.mncvision">
+<programme start="20260917100500 +0000" stop="20260917103500 +0000" channel="MDTV.mncvision">
     <title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20260917104000 +0000" stop="20260917113500 +0000" channel="MDTV.mncvision">
+<programme start="20260917103500 +0000" stop="20260917113000 +0000" channel="MDTV.mncvision">
     <title>Marisol</title>
 </programme>
-<programme start="20260917113500 +0000" stop="20260917132000 +0000" channel="MDTV.mncvision">
+<programme start="20260917113000 +0000" stop="20260917131500 +0000" channel="MDTV.mncvision">
     <title>Maria Cinta Yang Hilang</title>
 </programme>
-<programme start="20260917132000 +0000" stop="20260917143000 +0000" channel="MDTV.mncvision">
+<programme start="20260917131500 +0000" stop="20260917142000 +0000" channel="MDTV.mncvision">
     <title>Istri Paruh Waktu</title>
 </programme>
-<programme start="20260917143000 +0000" stop="20260917155500 +0000" channel="MDTV.mncvision">
+<programme start="20260917142000 +0000" stop="20260917154000 +0000" channel="MDTV.mncvision">
     <title>Perjanjian Dengan Iblis</title>
 </programme>
-<programme start="20260917155500 +0000" stop="20260917162500 +0000" channel="MDTV.mncvision">
+<programme start="20260917154000 +0000" stop="20260917164500 +0000" channel="MDTV.mncvision">
     <title>Customs Protection</title>
+</programme>
+<programme start="20260917164500 +0000" stop="20260916171500 +0000" channel="MDTV.mncvision">
+    <title>86</title>
 </programme>
 <programme start="20260916170000 +0000" stop="20260916170500 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
@@ -7480,19 +7483,19 @@
 <programme start="20260916224500 +0000" stop="20260917003000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260917003000 +0000" stop="20260917020000 +0000" channel="RCTI.mncvision">
+<programme start="20260917003000 +0000" stop="20260917014500 +0000" channel="RCTI.mncvision">
     <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20260917020000 +0000" stop="20260917033000 +0000" channel="RCTI.mncvision">
+<programme start="20260917014500 +0000" stop="20260917031500 +0000" channel="RCTI.mncvision">
     <title>Turun Ranjang Terindah</title>
 </programme>
-<programme start="20260917033000 +0000" stop="20260917040000 +0000" channel="RCTI.mncvision">
+<programme start="20260917031500 +0000" stop="20260917034500 +0000" channel="RCTI.mncvision">
     <title>Go Spot Eksklusif</title>
 </programme>
-<programme start="20260917040000 +0000" stop="20260917053000 +0000" channel="RCTI.mncvision">
+<programme start="20260917034500 +0000" stop="20260917051500 +0000" channel="RCTI.mncvision">
     <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260917053000 +0000" stop="20260917103000 +0000" channel="RCTI.mncvision">
+<programme start="20260917051500 +0000" stop="20260917103000 +0000" channel="RCTI.mncvision">
     <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260917103000 +0000" stop="20260917120000 +0000" channel="RCTI.mncvision">
@@ -7528,19 +7531,19 @@
 <programme start="20260916224500 +0000" stop="20260917003000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260917003000 +0000" stop="20260917020000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260917003000 +0000" stop="20260917014500 +0000" channel="RCTI HD.mncvision">
     <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20260917020000 +0000" stop="20260917033000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260917014500 +0000" stop="20260917031500 +0000" channel="RCTI HD.mncvision">
     <title>Turun Ranjang Terindah</title>
 </programme>
-<programme start="20260917033000 +0000" stop="20260917040000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260917031500 +0000" stop="20260917034500 +0000" channel="RCTI HD.mncvision">
     <title>Go Spot Eksklusif</title>
 </programme>
-<programme start="20260917040000 +0000" stop="20260917053000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260917034500 +0000" stop="20260917051500 +0000" channel="RCTI HD.mncvision">
     <title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20260917053000 +0000" stop="20260917103000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260917051500 +0000" stop="20260917103000 +0000" channel="RCTI HD.mncvision">
     <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20260917103000 +0000" stop="20260917120000 +0000" channel="RCTI HD.mncvision">
@@ -9290,58 +9293,79 @@
     <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260916170000 +0000" stop="20260916173000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Spotlight</title>
 </programme>
-<programme start="20260916173000 +0000" stop="20260916193000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260916193000 +0000" stop="20260916213000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260916173000 +0000" stop="20260916213000 +0000" channel="TVRI.mncvision">
+    <title>Piala Dunia 2026</title>
 </programme>
 <programme start="20260916213000 +0000" stop="20260916230000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Serambi Islami</title>
 </programme>
 <programme start="20260916230000 +0000" stop="20260917000000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Klik Indonesia Pagi</title>
 </programme>
 <programme start="20260917000000 +0000" stop="20260917010000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Jendela Negeri</title>
 </programme>
-<programme start="20260917010000 +0000" stop="20260917050000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260917010000 +0000" stop="20260917020000 +0000" channel="TVRI.mncvision">
+    <title>Bersama Perempuan</title>
 </programme>
-<programme start="20260917050000 +0000" stop="20260917060000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260917020000 +0000" stop="20260917020300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
 </programme>
-<programme start="20260917060000 +0000" stop="20260917063000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260917020300 +0000" stop="20260917023000 +0000" channel="TVRI.mncvision">
+    <title>Dapur Devina</title>
 </programme>
-<programme start="20260917063000 +0000" stop="20260917070000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260917023000 +0000" stop="20260917030000 +0000" channel="TVRI.mncvision">
+    <title>Mimbar Agama</title>
 </programme>
-<programme start="20260917070000 +0000" stop="20260917080000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260917030000 +0000" stop="20260917030300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
 </programme>
-<programme start="20260917080000 +0000" stop="20260917110000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260917030300 +0000" stop="20260917033000 +0000" channel="TVRI.mncvision">
+    <title>Pesona Indonesia</title>
 </programme>
-<programme start="20260917110000 +0000" stop="20260917120000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260917033000 +0000" stop="20260917063000 +0000" channel="TVRI.mncvision">
+    <title>Asian Games Ke-20 2026</title>
+</programme>
+<programme start="20260917063000 +0000" stop="20260917073000 +0000" channel="TVRI.mncvision">
+    <title>Berita Siang</title>
+</programme>
+<programme start="20260917073000 +0000" stop="20260917080000 +0000" channel="TVRI.mncvision">
+    <title>Spotlight</title>
+</programme>
+<programme start="20260917080000 +0000" stop="20260917080300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
+</programme>
+<programme start="20260917080300 +0000" stop="20260917090000 +0000" channel="TVRI.mncvision">
+    <title>Bincang Olahraga</title>
+</programme>
+<programme start="20260917090000 +0000" stop="20260917090300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
+</programme>
+<programme start="20260917090300 +0000" stop="20260917093000 +0000" channel="TVRI.mncvision">
+    <title>Jejak Pembangunan</title>
+</programme>
+<programme start="20260917093000 +0000" stop="20260917120000 +0000" channel="TVRI.mncvision">
+    <title>Asian Games Ke-20 2026</title>
 </programme>
 <programme start="20260917120000 +0000" stop="20260917130000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Klik Indonesia Petang</title>
 </programme>
 <programme start="20260917130000 +0000" stop="20260917140000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Indonesia Bicara</title>
 </programme>
 <programme start="20260917140000 +0000" stop="20260917143000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Dunia Dalam Berita</title>
 </programme>
-<programme start="20260917143000 +0000" stop="20260917163000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20260917143000 +0000" stop="20260917153000 +0000" channel="TVRI.mncvision">
+    <title>Irama Gambus</title>
+</programme>
+<programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="TVRI.mncvision">
+    <title>Menjemput RidhoMu</title>
 </programme>
 <programme start="20260917163000 +0000" stop="20260916170000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Klik Indonesia Malam</title>
 </programme>
 <programme start="20260916175900 +0000" stop="20260916194500 +0000" channel="UNIQUES.mncvision">
     <title>Laugh Riot: The Misadventure</title>

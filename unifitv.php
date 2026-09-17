@@ -410,7 +410,7 @@
     <episode-num system="onscreen">S17E7</episode-num>
   </programme>
   <programme start="20260917080000 +0000" stop="20260917100000 +0000" channel="sensasi.unifitv">
-    <title lang="en">7-24</title>
+    <title lang="en">7-24.</title>
     <desc lang="en">Anggara dan Aini merupakan pasangan suami isteri yang hidup bahagia. Namun, menjelang ulang tahun perkahwinan mereka, Aini disahkan menghidap penyakit otak yang menyebabkan dia kehilangan ingatan secara berperingkat sehingga tidak lagi mengenali suaminya sendiri. Dalam tempoh yang semakin singkat, Anggara berusaha mempertahankan cinta mereka sambil menemani Aini menghadapi detik-detik paling sukar dalam hidupnya. Selepas pemergian Aini, sebuah rakaman video yang ditinggalkannya mendedahkan rahsia yang mengubah kehidupan Anggara buat selama-lamanya.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -2068,10 +2068,10 @@
   </programme>
   <programme start="20260917033000 +0000" stop="20260917040000 +0000" channel="salamhd.unifitv">
     <title lang="en">Sunnah Nabi</title>
-    <desc lang="en">Episod kali ini bersama Ustaz Tajid membawa topik "Dakwah &amp; Pendidikan" dengan panel Ustaz Hassan Adli. Sunnah Nabi merupakan program keagamaan yang membawakan perbincangan santai namun ilmiah mengenai amalan sunnah dalam kehidupan seharian umat Islam. Program ini menampilkan pelbagai topik umum dan khusus berkaitan sunnah.</desc>
+    <desc lang="en">Episod kali ini bersama Ustaz Tajid membawa topik "Dakwah &amp; Pendidikan" dengan panel Ustaz Panel Ustaz Rahimi. Sunnah Nabi merupakan program keagamaan yang membawakan perbincangan santai namun ilmiah mengenai amalan sunnah dalam kehidupan seharian umat Islam. Program ini menampilkan pelbagai topik umum dan khusus berkaitan sunnah.</desc>
     <category lang="en">Religious</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260917040000 +0000" stop="20260917043000 +0000" channel="salamhd.unifitv">
     <title lang="en">Sembang Alam Ghaib</title>
@@ -2114,10 +2114,10 @@
   </programme>
   <programme start="20260917070000 +0000" stop="20260917073000 +0000" channel="salamhd.unifitv">
     <title lang="en">Sunnah Nabi</title>
-    <desc lang="en">Episod kali ini bersama Ustaz Tajid membawa topik "Dakwah &amp; Pendidikan" dengan panel Ustaz Hassan Adli. Sunnah Nabi merupakan program keagamaan yang membawakan perbincangan santai namun ilmiah mengenai amalan sunnah dalam kehidupan seharian umat Islam. Program ini menampilkan pelbagai topik umum dan khusus berkaitan sunnah.</desc>
+    <desc lang="en">Episod kali ini bersama Ustaz Tajid membawa topik "Dakwah &amp; Pendidikan" dengan panel Ustaz Panel Ustaz Rahimi. Sunnah Nabi merupakan program keagamaan yang membawakan perbincangan santai namun ilmiah mengenai amalan sunnah dalam kehidupan seharian umat Islam. Program ini menampilkan pelbagai topik umum dan khusus berkaitan sunnah.</desc>
     <category lang="en">Religious</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260917073000 +0000" stop="20260917080000 +0000" channel="salamhd.unifitv">
     <title lang="en">Cuba Teka</title>
@@ -2186,10 +2186,10 @@
   </programme>
   <programme start="20260917120000 +0000" stop="20260917123000 +0000" channel="salamhd.unifitv">
     <title lang="en">Sunnah Nabi</title>
-    <desc lang="en">Episod kali ini bersama Ustaz Tajid membawa topik "Dakwah &amp; Pendidikan" dengan panel Ustaz Hassan Adli. Sunnah Nabi merupakan program keagamaan yang membawakan perbincangan santai namun ilmiah mengenai amalan sunnah dalam kehidupan seharian umat Islam. Program ini menampilkan pelbagai topik umum dan khusus berkaitan sunnah.</desc>
+    <desc lang="en">Episod kali ini bersama Ustaz Tajid membawa topik "Dakwah &amp; Pendidikan" dengan panel Ustaz Panel Ustaz Rahimi. Sunnah Nabi merupakan program keagamaan yang membawakan perbincangan santai namun ilmiah mengenai amalan sunnah dalam kehidupan seharian umat Islam. Program ini menampilkan pelbagai topik umum dan khusus berkaitan sunnah.</desc>
     <category lang="en">Religious</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260917123000 +0000" stop="20260917133000 +0000" channel="salamhd.unifitv">
     <title lang="en">25 Nabi</title>
@@ -3380,11 +3380,11 @@
     <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260916210500 +0000" stop="20260916215000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big City Shop 2026</title>
-    <desc lang="en">“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends. The content is all-encompassing! In addition to hands-on demonstrations, experiences, or tests by the hosts, experts are invited to share their professional insights. In the cooking segment, several skilled culinary experts take turns showcasing simple and delicious healthy dishes and home-style recipes, helping everyone solve their cooking challenges.</desc>
+    <title lang="en">Better Be Right</title>
+    <desc lang="en">Many seemingly mundane things in life are actually rooted in misconceptions that many people hold, which can range from minor rudeness to serious health consequences! Savvy urbanites Lu Haoming, Huang Meiqi, Yu Decheng, Li Minfang, He Haowen, He Yuandong, Lin Yingtong, and Huang Jiandong meticulously dissect common mistakes in daily life, helping everyone live smarter and more efficiently! The proper use of everyday items varies widely, and incorrect usage can be counterproductive. Does massaging bones not help relax muscles? Is folding blankets when getting up actually harmful to health? Many misconceptions lurk in our daily habits, and experts point them out one by one. The hosts also visited various "cross-cutting sites" to identify common bad habits in different life scenarios.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2067.</episode-num>
-    <episode-num system="onscreen">S1E2068</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260916215000 +0000" stop="20260916220500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Happy Old Buddies</title>
@@ -3427,11 +3427,11 @@
     <episode-num system="onscreen">S1E28</episode-num>
   </programme>
   <programme start="20260917013500 +0000" stop="20260917020500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1800.</episode-num>
-    <episode-num system="onscreen">S1E1801</episode-num>
+    <title lang="en">Try It? Really? (Sr.2)</title>
+    <desc lang="en">Elena Kong once again leads the team, joining forces with Cheung Chun-long, Chu Man-han, Ng Yip-kwan, and Tseng Zhan-wang to form the "Try It Out Team," returning with acclaim after the hit first season and enthusiastic praise from netizens. This new in-depth exploration of Taiwan will see the team continue their relaxed, authentic, and down-to-earth style, guiding viewers deep into the island's heart. The team travels to Kaohsiung, Tainan, and Taipei, continuing the show's spirit by uncovering controversial shops with polarized online reviews, as well as hidden gems and little-known experiences tucked away in the city's corners. The team is committed to presenting the most genuine on-site feedback, aiming to create a practical travel guide to Taiwan that avoids pitfalls for viewers.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260917020500 +0000" stop="20260917023500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Cho Lam &amp; His Trip Buddies &amp; What's On Today</title>
@@ -3469,18 +3469,18 @@
     <episode-num system="onscreen">S1E2223</episode-num>
   </programme>
   <programme start="20260917050000 +0000" stop="20260917052500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1800.</episode-num>
-    <episode-num system="onscreen">S1E1801</episode-num>
+    <title lang="en">J Music 2026</title>
+    <desc lang="en">J Music is dedicated to creating a high-quality music platform, providing singers with opportunities to showcase their musical talents while allowing music fans to gain a deeper understanding of their musical stories. The program invites popular singers as guests, who personally select their favorite new and old works, perform them live, and share their favorite tracks. New faces in the music scene will also appear, showcasing their musical potential through interactive exchanges. Furthermore, each episode closely follows the latest developments on the Jade Solid Gold Chart, featuring music videos and interviews with various singers, songwriters, and producers, who discuss their work and the people and events within the music industry.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.123.</episode-num>
+    <episode-num system="onscreen">S1E124</episode-num>
   </programme>
   <programme start="20260917052500 +0000" stop="20260917061000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big City Shop 2026</title>
     <desc lang="en">“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends. The content is all-encompassing! In addition to hands-on demonstrations, experiences, or tests by the hosts, experts are invited to share their professional insights. In the cooking segment, several skilled culinary experts take turns showcasing simple and delicious healthy dishes and home-style recipes, helping everyone solve their cooking challenges.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2068.</episode-num>
-    <episode-num system="onscreen">S1E2069</episode-num>
+    <episode-num system="xmltv_ns">0.2067.</episode-num>
+    <episode-num system="onscreen">S1E2068</episode-num>
   </programme>
   <programme start="20260917061000 +0000" stop="20260917063500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Like Mother, Like Daughter</title>
@@ -5592,9 +5592,9 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260917070000 +0000" stop="20260917100000 +0000" channel="zeecinemahd.unifitv">
-    <title lang="en">Phobia</title>
-    <desc lang="en">Traumatized artist Mehak isolates herself after an assault. In a new home, her fear grows as terrifying visions suggest a dark presence haunting her fragile mind.</desc>
-    <category lang="en">Thriller</category>
+    <title lang="en">Prem Granth</title>
+    <desc lang="en">Somen, the son of a wealthy upper-caste Hindu priest, falls in love with Kajri, a beautiful woman from a lower social group. However, she suddenly leaves the village due to unknown reasons.</desc>
+    <category lang="en">Romance</category>
   </programme>
   <programme start="20260917100000 +0000" stop="20260917130000 +0000" channel="zeecinemahd.unifitv">
     <title lang="en">Happy Bhag Jayegi</title>
@@ -9260,10 +9260,24 @@
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <episode-num system="onscreen">S1E21</episode-num>
   </programme>
-  <programme start="20260917014500 +0000" stop="20260917030000 +0000" channel="dreamworkshd.unifitv">
+  <programme start="20260917014500 +0000" stop="20260917021000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Not Quite Narwhal</title>
     <desc lang="en">Leroy must learn to let go when his caterpillar friend turns into a butterfly. / When Pixie loses her spark, Kelp and Juniper look for the plant they think will cure her. Meanwhile Pixie wonders whether she can be cured at all!</desc>
     <category lang="en">Kids</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20260917021000 +0000" stop="20260917023500 +0000" channel="dreamworkshd.unifitv">
+    <title lang="en">Go, Dog. Go!</title>
+    <desc lang="en">When Mom is sick on a busy day at home, Tag offers to pick up the slack and take on her tasks for the day. Tag handles it at first, but when the responsibilities start to stack up, she realizes that being Mom is much harder than she thought. Tag and Scooch are excited to get to know Kit, who has organized a bunch of cat-ivities for the day. But when Kit realizes she accidentally scratched up Frank and Beans's tree, she, Tag and Scooch find a way to make it up to them.</desc>
+    <category lang="en">Family</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260917023500 +0000" stop="20260917030000 +0000" channel="dreamworkshd.unifitv">
+    <title lang="en">Go, Dog. Go!</title>
+    <desc lang="en">When Tag is frustrated living in a crowded house, and Scooch is bored in a quiet house, the two friends switch houses for the day. At first they both love their new lives. But as Scooch gets overwhelmed by all the activity at The Barker house, and Tag gets bored by the quiet life at the Pooch's, they eagerly switch back before the day is done. When the Pawston Get Sox go on a losing streak, Tag and Scooch come up with the idea to have a team mascot. And Frank and Beans are the perfect fit! But when the two mascots start to clash over who gets the spotlight, Tag has to help save their friendship, and the big game!</desc>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.21.</episode-num>
     <episode-num system="onscreen">S1E22</episode-num>
   </programme>
@@ -15017,9 +15031,44 @@
     <desc lang="en">Predatory finishing &amp; net-busting missiles from long range. A celebration of Quique de Lucas - one of LaLiga's longest serving attacking talents.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260917060000 +0000" stop="20260917153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260917060000 +0000" stop="20260917083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 313: Pereira vs Ankalaev</title>
     <desc lang="en">After a historic 2024 that saw him defend his UFC light heavyweight title three times with three knockouts, Brazilian superstar Alex Pereira begins the new year in Las Vegas with a main event clash against number one contender Magomed Ankalaev. Plus former interim lightweight champion Justin Gaithje battles Rafael Fiziev for the second time, and much much more on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260917083000 +0000" stop="20260917090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 4 - 7</title>
+    <desc lang="en">Program pencarian bakat bola sepak yang hebat diteruskan lagi dengan Musim Ke-4. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260917090000 +0000" stop="20260917093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 25</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260917093000 +0000" stop="20260917100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1003: Moreno vs Figueiredo 3</title>
+    <desc lang="en">UFC 270 featured the third meeting between flyweight rivals Deiveson Figueiredo and Mexican champion Brandon Moreno. Relive their incredible battle like you've never seen it with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260917100000 +0000" stop="20260917123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 315: Muhammad vs Della Maddalena</title>
+    <desc lang="en">When the Octagon returns to Montreal for the first time since 2015, fans are treated to a stacked card headlined by a championship doubleheader. In the main event, Belal Muhammad defends his welterweight crown for the first time against Australian powerhouse Jack Della Maddalena, and Manon Fiorot battles to be the first female French champion against Flyweight phenom Valentina Shevchenko. Plus, the return of Jose Aldo and much more on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260917123000 +0000" stop="20260917132500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 312: Du Plessis vs Strickland 2</title>
+    <desc lang="en">UFC 312 Countdown previews the promotion's return to Sydney, where Dricus Du Plessis looks to defend his middleweight title against Sean Strickland in a rematch. Plus, strawweight champion Zhang Weili collides with wrestling phenom Tatiana Suarez.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260917132500 +0000" stop="20260917133000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS - GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260917133000 +0000" stop="20260917195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Noche UFC: Silva vs Delgado - Main</title>
+    <desc lang="en">UFC Fight Night: Silva vs. Delgado (also known as UFC Fight Night 288 and Noche UFC 4) is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that is scheduled to take place on September 13, 2026, at the Desert Diamond Arena in Glendale, Arizona, United States</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
@@ -15113,12 +15162,12 @@
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260916203000 +0000" stop="20260916214500 +0000" channel="spotv2.unifitv">
+  <programme start="20260916203000 +0000" stop="20260916214000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Red Bull MotoGP Rookies Cup Rd 6: Misano - Race 1</title>
     <desc lang="en">Powerful bagger motorcycles take to the track as elite riders battle for glory in this thrilling race, combining raw power, speed, and spectacular two-wheel action.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260916214500 +0000" stop="20260916224000 +0000" channel="spotv2.unifitv">
+  <programme start="20260916214000 +0000" stop="20260916224000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Red Bull MotoGP Rookies Cup Rd 6: Misano - Race 2</title>
     <desc lang="en">Powerful bagger motorcycles take to the track as elite riders battle for glory in this thrilling race, combining raw power, speed, and spectacular two-wheel action.</desc>
     <category lang="en">Motorsports</category>
@@ -15212,7 +15261,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260917025000 +0000" stop="20260917044000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Levante vs Athletic Bilbao</title>
+    <title lang="en">LaLiga - Atletico Madrid vs Osasuna</title>
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>

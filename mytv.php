@@ -1,10 +1,10 @@
     <programme start="20260917000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Hoa sữa về trong gió - Tập 49 </title>
     </programme>
-    <programme start="20260917000000 +0000" stop="20260917003000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917000000 +0000" stop="20260917003100 +0000" channel="VTV1 HD.mytv">
         <title> Phụ nữ và cuộc sống: Vai trò phụ nữ trong chuyển đổi xanh </title>
     </programme>
-    <programme start="20260917003000 +0000" stop="20260917004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917003100 +0000" stop="20260917004500 +0000" channel="VTV1 HD.mytv">
         <title> Tổ quốc trong tim </title>
     </programme>
     <programme start="20260917004500 +0000" stop="20260917011000 +0000" channel="VTV1 HD.mytv">
@@ -16,16 +16,16 @@
     <programme start="20260917020000 +0000" stop="20260917023000 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Vị công thần thời Lý </title>
     </programme>
-    <programme start="20260917023000 +0000" stop="20260917024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917023000 +0000" stop="20260917024400 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: IVF - Đi qua những lần thất bại </title>
     </programme>
-    <programme start="20260917024500 +0000" stop="20260917033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917024400 +0000" stop="20260917032900 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mặt trời lạnh - Tập 23 </title>
     </programme>
-    <programme start="20260917033000 +0000" stop="20260917041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917032900 +0000" stop="20260917041000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Mặt trời lạnh - Tập 24 </title>
     </programme>
-    <programme start="20260917041500 +0000" stop="20260917050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917041000 +0000" stop="20260917050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Nhịp sống của làng chài Phước Hải </title>
     </programme>
     <programme start="20260917050500 +0000" stop="20260917051000 +0000" channel="VTV1 HD.mytv">
@@ -34,19 +34,19 @@
     <programme start="20260917051000 +0000" stop="20260917053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260917053000 +0000" stop="20260917070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917053000 +0000" stop="20260917070200 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260917070000 +0000" stop="20260917072500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917070200 +0000" stop="20260917072500 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
     <programme start="20260917072500 +0000" stop="20260917073000 +0000" channel="VTV1 HD.mytv">
         <title> Nẻo về nguồn cội: Dòng chảy văn hóa Cát Bà </title>
     </programme>
-    <programme start="20260917073000 +0000" stop="20260917074500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917073000 +0000" stop="20260917074600 +0000" channel="VTV1 HD.mytv">
         <title> Sắc màu các dân tộc: Nối dài bản sắc Hà Nhì </title>
     </programme>
-    <programme start="20260917074500 +0000" stop="20260917081500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260917074600 +0000" stop="20260917081500 +0000" channel="VTV1 HD.mytv">
         <title> Cảnh giác 247: Phone farm: Bẫy giả - Tiền thật </title>
     </programme>
     <programme start="20260917081500 +0000" stop="20260917084500 +0000" channel="VTV1 HD.mytv">

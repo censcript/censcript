@@ -448,50 +448,56 @@
   <programme start="20260919214500 +0000" stop="20260919221000 +0000" channel=":24.webtv.sk">
     <title lang="id">Archív 24</title>
   </programme>
-  <programme start="20260918210500 +0000" stop="20260918223900 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260918211000 +0000" stop="20260918224400 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Cyklistika - Okolo Slovenska 2026 - Okolo Slovenska 2026 (3. etapa): Tvrdošín - Dohňany (195 km)</title>
   </programme>
-  <programme start="20260918223900 +0000" stop="20260918224200 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260918224400 +0000" stop="20260918224500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260918224200 +0000" stop="20260918225000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260918225000 +0000" stop="20260918232000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260918224500 +0000" stop="20260918231500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Momenty MS 2026</title>
   </programme>
-  <programme start="20260918232000 +0000" stop="20260919010000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260918231500 +0000" stop="20260919005000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Volejbal - Liga národov 2026</title>
   </programme>
-  <programme start="20260919010000 +0000" stop="20260919015000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919005000 +0000" stop="20260919014500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260919015000 +0000" stop="20260919020000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919014500 +0000" stop="20260919015500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260919020000 +0000" stop="20260919025000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919015500 +0000" stop="20260919024500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260919025000 +0000" stop="20260919030000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919024500 +0000" stop="20260919025500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260919030000 +0000" stop="20260919035000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919025500 +0000" stop="20260919034500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260919035000 +0000" stop="20260919040000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919034500 +0000" stop="20260919035500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260919040000 +0000" stop="20260919045500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919035500 +0000" stop="20260919044500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260919045500 +0000" stop="20260919064000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Slovnaft Cup - MFK Nová Baňa - FC ViOn Zlaté Moravce - Vráble (3. kolo)</title>
+  <programme start="20260919044500 +0000" stop="20260919050000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260919064000 +0000" stop="20260919081000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919050000 +0000" stop="20260919052000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Ošiaľ</title>
+  </programme>
+  <programme start="20260919052000 +0000" stop="20260919062500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Box - ME 2026 (Sofia): 2. deň</title>
+  </programme>
+  <programme start="20260919062500 +0000" stop="20260919075500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Cyklistika - Okolo Slovenska 2026 - Okolo Slovenska 2026 (3. etapa): Tvrdošín - Dohňany (195 km)</title>
   </programme>
-  <programme start="20260919081000 +0000" stop="20260919100000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260919075500 +0000" stop="20260919094000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MONACObet liga 2026/27 - MFK Tatran Liptovský Mikuláš - FC ViOn Zlaté Moravce-Vráble (9. kolo)</title>
+  </programme>
+  <programme start="20260919094000 +0000" stop="20260919100000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Federálne Góly - body - sekundy 1982</title>
   </programme>
   <programme start="20260919100000 +0000" stop="20260919120000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Tenis - Davis Cup 2026</title>
@@ -502,17 +508,14 @@
   <programme start="20260919121500 +0000" stop="20260919141500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Tenis - Davis Cup 2026</title>
   </programme>
-  <programme start="20260919141500 +0000" stop="20260919144500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Zlato - striebro - bronz</title>
+  <programme start="20260919141500 +0000" stop="20260919150000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Box - ME 2026 (Sofia): 3. deň</title>
   </programme>
-  <programme start="20260919144500 +0000" stop="20260919153000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Športové ozveny</title>
-  </programme>
-  <programme start="20260919153000 +0000" stop="20260919155500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Federálne Góly - body - sekundy 1982</title>
+  <programme start="20260919150000 +0000" stop="20260919155500 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Box - ME 2026 (Sofia): 3. deň</title>
   </programme>
   <programme start="20260919155500 +0000" stop="20260919175500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Orange liga 2026/2027</title>
+    <title lang="id">Futbal - Orange liga 2026/27</title>
   </programme>
   <programme start="20260919175500 +0000" stop="20260919194500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hádzaná - Doprastav liga 2026/27</title>
@@ -523,11 +526,8 @@
   <programme start="20260919211500 +0000" stop="20260919212500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260919212500 +0000" stop="20260919215800 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Šport 24</title>
-  </programme>
-  <programme start="20260919215800 +0000" stop="20260919220000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hymna SR</title>
+  <programme start="20260919212500 +0000" stop="20260919222900 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Box - ME 2026 (Sofia): 3. deň</title>
   </programme>
   <programme start="20260918203500 +0000" stop="20260918225500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Ctihodný občan</title>
@@ -2716,7 +2716,7 @@
   <programme start="20260919182000 +0000" stop="20260919220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Večerní pořad</title>
   </programme>
-  <programme start="20260918220000 +0000" stop="20260919000000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260918221000 +0000" stop="20260919000000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20260919000000 +0000" stop="20260919050000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -2758,7 +2758,7 @@
   <programme start="20260919143000 +0000" stop="20260919163000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Nákupy z pohodlí domova</title>
   </programme>
-  <programme start="20260919163000 +0000" stop="20260919183000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260919163000 +0000" stop="20260919174000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
   </programme>
   <programme start="20260919183000 +0000" stop="20260919200000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -16261,16 +16261,19 @@
   <programme start="20260919002000 +0000" stop="20260919003500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20260919003500 +0000" stop="20260919010000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260919003500 +0000" stop="20260919005000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20260919010000 +0000" stop="20260919013500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260919005000 +0000" stop="20260919010300 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Panorama Dnia</title>
+  </programme>
+  <programme start="20260919010300 +0000" stop="20260919013600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Po drugiej stronie (6)</title>
   </programme>
-  <programme start="20260919013500 +0000" stop="20260919020500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260919013600 +0000" stop="20260919020700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia V (50)</title>
   </programme>
-  <programme start="20260919020500 +0000" stop="20260919025100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260919020700 +0000" stop="20260919025100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">A nad Stutthof deszczyk pada</title>
   </programme>
   <programme start="20260919025100 +0000" stop="20260919031100 +0000" channel="TVP Info.webtv.sk">
