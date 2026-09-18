@@ -4333,8 +4333,20 @@
 <programme start="20260918040000 +0000" stop="20260918060000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Manchester United v Ipswich Town</title>
 </programme>
-<programme start="20260918120000 +0000" stop="20260918140000 +0000" channel="MUTV.virginmediatv">
-    <title>EFL Cup - Round 3: Manchester United v Brighton &amp; Hove Albion</title>
+<programme start="20260918120000 +0000" stop="20260918123000 +0000" channel="MUTV.virginmediatv">
+    <title>Premier League Highlights - 2026/27: Manchester United v Ipswich Town</title>
+</programme>
+<programme start="20260918123000 +0000" stop="20260918124500 +0000" channel="MUTV.virginmediatv">
+    <title>Manager&#039;s Press Conference - Uncut: Press Conference: Fulham (A)</title>
+</programme>
+<programme start="20260918124500 +0000" stop="20260918130000 +0000" channel="MUTV.virginmediatv">
+    <title>Top 20 Goals - Academy Graduates</title>
+</programme>
+<programme start="20260918130000 +0000" stop="20260918133000 +0000" channel="MUTV.virginmediatv">
+    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
+</programme>
+<programme start="20260918133000 +0000" stop="20260918140000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Andy Cole</title>
 </programme>
 <programme start="20260918140000 +0000" stop="20260918143000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>

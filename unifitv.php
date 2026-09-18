@@ -12335,8 +12335,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260918003300 +0000" stop="20260918010300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <title lang="en">Tech Now</title>
+    <desc lang="en">Shiona McCallum meets mums and hospital staff trialling first assisted birth innovation. Yasmin Morgan-Griffiths visits a firm building electric vehicle tech without rare earths.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260918010300 +0000" stop="20260918013300 +0000" channel="bbcworldnewshd.unifitv">
@@ -12556,14 +12556,14 @@
   </programme>
   <programme start="20260917193300 +0000" stop="20260917200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Guyana's President talks to Al Jazeera about how his country's oil industry has transformed its economy and position in the global energy market.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.494.</episode-num>
     <episode-num system="onscreen">S1E495</episode-num>
   </programme>
   <programme start="20260917200300 +0000" stop="20260917210300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Shootout in Glenvill</title>
-    <desc lang="en">Shootout in Glenvill</desc>
+    <title lang="en">Shootout in Glenville</title>
+    <desc lang="en">High school students in Cleveland, Ohio, investigate a deadly 1968 shootout and discover racism and injustice - and become Black activists demanding the truth.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260917210300 +0000" stop="20260917220300 +0000" channel="aljazeera.unifitv">
@@ -12578,7 +12578,7 @@
   </programme>
   <programme start="20260917223300 +0000" stop="20260917230300 +0000" channel="aljazeera.unifitv">
     <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc lang="en">101 East meets innovators across East Asia using digital technology to transform how we grieve those we love.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260917230300 +0000" stop="20260917233300 +0000" channel="aljazeera.unifitv">
@@ -12662,7 +12662,7 @@
   </programme>
   <programme start="20260918083300 +0000" stop="20260918090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">From Khamenei's succession to the Strait of Hormuz, Al Jazeera explains how Iran turns political architecture and geography into power.</desc>
+    <desc lang="en">Canada and Mexico live beside a superpower. Al Jazeera explains how U.S. pressure, trade and security expose the limits of power and dependence.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -12674,7 +12674,7 @@
   </programme>
   <programme start="20260918093300 +0000" stop="20260918100300 +0000" channel="aljazeera.unifitv">
     <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc lang="en">101 East meets innovators across East Asia using digital technology to transform how we grieve those we love.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260918100300 +0000" stop="20260918110300 +0000" channel="aljazeera.unifitv">
@@ -12695,8 +12695,8 @@
     <episode-num system="onscreen">S1E1443</episode-num>
   </programme>
   <programme start="20260918120300 +0000" stop="20260918130300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Shootout in Glenvill</title>
-    <desc lang="en">Shootout in Glenvill</desc>
+    <title lang="en">Shootout in Glenville</title>
+    <desc lang="en">High school students in Cleveland, Ohio, investigate a deadly 1968 shootout and discover racism and injustice - and become Black activists demanding the truth.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260918130300 +0000" stop="20260918140300 +0000" channel="aljazeera.unifitv">
@@ -14007,7 +14007,7 @@
   </programme>
   <programme start="20260917163300 +0000" stop="20260917170300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Working after retirement? A Vienna café shows how it's done. +++ In Romania, stray dogs are illegally turned into a lucrative business.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14020,8 +14020,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260917171800 +0000" stop="20260917173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Is Punk really dead? Not even close. Fifty years after the Sex Pistols, Ramones, Patti Smith and Nina Hagen helped launch a global movement, Punk is still shaping music, culture and politics around the world. DW reporter Annika Sost explores Berlin's legendary punk scene to find out why Punk continues to inspire new generations.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14041,9 +14041,9 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260917183300 +0000" stop="20260917190300 +0000" channel="dw.unifitv">
-    <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">Berlin Briefing</title>
+    <desc lang="en">For decades, Germany's security model was simple: America provided protection, Germany focused on prosperity. That deal is changing. _x000D_</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14062,15 +14062,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260917191800 +0000" stop="20260917193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Is Punk really dead? Not even close. Fifty years after the Sex Pistols, Ramones, Patti Smith and Nina Hagen helped launch a global movement, Punk is still shaping music, culture and politics around the world. DW reporter Annika Sost explores Berlin's legendary punk scene to find out why Punk continues to inspire new generations.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260917193300 +0000" stop="20260917200300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">AI insiders are warning of a rapid, uncontrolled surge in artificial intelligence. Is it time for governments to step in, or are we already too late to keep control? Our guests: Michael Kolain (Center for Digital rights and Democracy); Janosch Delcker (Tech Journalist) Vanessa Vohs (Bundeswehr University)</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14126,7 +14126,7 @@
   </programme>
   <programme start="20260917223300 +0000" stop="20260917230300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">AI insiders are warning of a rapid, uncontrolled surge in artificial intelligence. Is it time for governments to step in, or are we already too late to keep control? Our guests: Michael Kolain (Center for Digital rights and Democracy); Janosch Delcker (Tech Journalist) Vanessa Vohs (Bundeswehr University)</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14146,16 +14146,16 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260917231800 +0000" stop="20260917233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Is Punk really dead? Not even close. Fifty years after the Sex Pistols, Ramones, Patti Smith and Nina Hagen helped launch a global movement, Punk is still shaping music, culture and politics around the world. DW reporter Annika Sost explores Berlin's legendary punk scene to find out why Punk continues to inspire new generations.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260917233300 +0000" stop="20260918000300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">Made in Germany</title>
+    <desc lang="en">Wars, climate change, El Niño, and natural disasters are disrupting global food supplies. Added to this are blockades of key trade routes.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14175,7 +14175,7 @@
   </programme>
   <programme start="20260918003300 +0000" stop="20260918010300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">AI insiders are warning of a rapid, uncontrolled surge in artificial intelligence. Is it time for governments to step in, or are we already too late to keep control? Our guests: Michael Kolain (Center for Digital rights and Democracy); Janosch Delcker (Tech Journalist) Vanessa Vohs (Bundeswehr University)</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14217,7 +14217,7 @@
   </programme>
   <programme start="20260918023300 +0000" stop="20260918030300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Working after retirement? A Vienna café shows how it's done. +++ In Romania, stray dogs are illegally turned into a lucrative business.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14237,15 +14237,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260918031800 +0000" stop="20260918033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Is Punk really dead? Not even close. Fifty years after the Sex Pistols, Ramones, Patti Smith and Nina Hagen helped launch a global movement, Punk is still shaping music, culture and politics around the world. DW reporter Annika Sost explores Berlin's legendary punk scene to find out why Punk continues to inspire new generations.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260918033300 +0000" stop="20260918040300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Wars, climate change, El Niño, and natural disasters are disrupting global food supplies. Added to this are blockades of key trade routes.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14307,15 +14307,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260918061800 +0000" stop="20260918063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">Is Punk really dead? Not even close. Fifty years after the Sex Pistols, Ramones, Patti Smith and Nina Hagen helped launch a global movement, Punk is still shaping music, culture and politics around the world. DW reporter Annika Sost explores Berlin's legendary punk scene to find out why Punk continues to inspire new generations.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260918063300 +0000" stop="20260918070300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title lang="en">DocFilm</title>
+    <desc lang="en">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They're eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the 'Ndrangheta clan.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14350,7 +14350,7 @@
   </programme>
   <programme start="20260918080500 +0000" stop="20260918083300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">AI insiders are warning of a rapid, uncontrolled surge in artificial intelligence. Is it time for governments to step in, or are we already too late to keep control? Our guests: Michael Kolain (Center for Digital rights and Democracy); Janosch Delcker (Tech Journalist) Vanessa Vohs (Bundeswehr University)</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14413,15 +14413,15 @@
   </programme>
   <programme start="20260918110500 +0000" stop="20260918113300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">AI insiders are warning of a rapid, uncontrolled surge in artificial intelligence. Is it time for governments to step in, or are we already too late to keep control? Our guests: Michael Kolain (Center for Digital rights and Democracy); Janosch Delcker (Tech Journalist) Vanessa Vohs (Bundeswehr University)</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260918113300 +0000" stop="20260918120300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">Focus on Europe</title>
+    <desc lang="en">Working after retirement? A Vienna café shows how it's done. +++ In Romania, stray dogs are illegally turned into a lucrative business.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14461,8 +14461,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260918131800 +0000" stop="20260918133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Travel</title>
+    <desc lang="en">From the world-famous Neuschwanstein Castle and Munich's Oktoberfest to breathtaking Alpine scenery, Bavaria is packed with iconic destinations. Join us on our tour of 10 of Bavaria's most spectacular highlights - from historic Bamberg to the mighty Zugspitze!</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14504,7 +14504,7 @@
   </programme>
   <programme start="20260918153300 +0000" stop="20260918160300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">AI insiders are warning of a rapid, uncontrolled surge in artificial intelligence. Is it time for governments to step in, or are we already too late to keep control? Our guests: Michael Kolain (Center for Digital rights and Democracy); Janosch Delcker (Tech Journalist) Vanessa Vohs (Bundeswehr University)</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15184,7 +15184,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260917213000 +0000" stop="20260917232000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Levante vs Athletic Bilbao</title>
+    <title lang="en">LaLiga - Elche vs Real Madrid</title>
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>

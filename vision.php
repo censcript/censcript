@@ -625,9 +625,6 @@
 <programme start="20260919113000 +0000" stop="20260919121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260917230000 +0000" stop="20260918023000 +0000" channel="ANTV.vision">
-<title>Chak De! India</title>
-</programme>
 <programme start="20260918023000 +0000" stop="20260918060000 +0000" channel="ANTV.vision">
 <title>Kya Kehna</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260918070300 +0000" stop="20260918080000 +0000" channel="TVRI.vision">
 <title>Jejak Langkah</title>
+</programme>
+<programme start="20260918080000 +0000" stop="20260918080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>

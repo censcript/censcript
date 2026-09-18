@@ -469,17 +469,8 @@
 <programme start="20260918000000 +0000" stop="20260918003000 +0000" channel="Arirang.mncvision">
     <title>Vibe In Action: K-Initiative</title>
 </programme>
-<programme start="20260918003000 +0000" stop="20260918010000 +0000" channel="Arirang.mncvision">
-    <title>Moo No Plan</title>
-</programme>
-<programme start="20260918010000 +0000" stop="20260918013000 +0000" channel="Arirang.mncvision">
+<programme start="20260918003000 +0000" stop="20260918030000 +0000" channel="Arirang.mncvision">
     <title>New Day At Arirang</title>
-</programme>
-<programme start="20260918013000 +0000" stop="20260918020000 +0000" channel="Arirang.mncvision">
-    <title>News Generation (L)</title>
-</programme>
-<programme start="20260918020000 +0000" stop="20260918030000 +0000" channel="Arirang.mncvision">
-    <title>Culture Crunch (L)</title>
 </programme>
 <programme start="20260918030000 +0000" stop="20260918033000 +0000" channel="Arirang.mncvision">
     <title>Arirang News</title>
@@ -536,7 +527,7 @@
     <title>NewsCenter</title>
 </programme>
 <programme start="20260918113000 +0000" stop="20260918120000 +0000" channel="Arirang.mncvision">
-    <title>Within The Frame (L)</title>
+    <title>Within The Frame</title>
 </programme>
 <programme start="20260918120000 +0000" stop="20260918123000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
@@ -564,6 +555,15 @@
 </programme>
 <programme start="20260918150000 +0000" stop="20260918153000 +0000" channel="Arirang.mncvision">
     <title>News Generation</title>
+</programme>
+<programme start="20260918153000 +0000" stop="20260918160000 +0000" channel="Arirang.mncvision">
+    <title>Trip In Korea</title>
+</programme>
+<programme start="20260918160000 +0000" stop="20260918163000 +0000" channel="Arirang.mncvision">
+    <title>K-Stage Pan</title>
+</programme>
+<programme start="20260918163000 +0000" stop="20260917170000 +0000" channel="Arirang.mncvision">
+    <title>Drawing Diary</title>
 </programme>
 <programme start="20260917171500 +0000" stop="20260917174500 +0000" channel="AXN.mncvision">
     <title>Twisted Metal S2, Ep 10</title>
