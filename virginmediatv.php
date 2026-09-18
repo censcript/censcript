@@ -4486,10 +4486,10 @@
 <programme start="20260918160000 +0000" stop="20260918163000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>The Fantasy Show - Episode 5</title>
 </programme>
-<programme start="20260918163000 +0000" stop="20260918170100 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260918163000 +0000" stop="20260918170000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Premier League Stories - John Stones</title>
 </programme>
-<programme start="20260918170100 +0000" stop="20260918173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260918170000 +0000" stop="20260918173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Women&#039;s CPL T20 - Final</title>
 </programme>
 <programme start="20260918173000 +0000" stop="20260918180000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
@@ -6145,7 +6145,10 @@
 <programme start="20260917175800 +0000" stop="20260918015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260918015800 +0000" stop="20260918060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260918015800 +0000" stop="20260918050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260918050000 +0000" stop="20260918060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260918115500 +0000" stop="20260918120500 +0000" channel="CBBC.virginmediatv">

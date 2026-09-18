@@ -604,12 +604,6 @@
 <programme start="20260918123000 +0000" stop="20260918140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20260918140000 +0000" stop="20260918160000 +0000" channel="ANTV.vision">
-<title>Kampung Keramat</title>
-</programme>
-<programme start="20260918160000 +0000" stop="20260918173000 +0000" channel="ANTV.vision">
-<title>Misteri Gunung Merapi</title>
-</programme>
 <programme start="20260918173000 +0000" stop="20260918190000 +0000" channel="ANTV.vision">
 <title>The Haunted Cop Shop</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260918230000 +0000" stop="20260919000000 +0000" channel="TVRI.vision">
 <title>Klik Indonesia Pagi</title>
+</programme>
+<programme start="20260919000000 +0000" stop="20260919010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
+</programme>
+<programme start="20260919010000 +0000" stop="20260919020000 +0000" channel="TVRI.vision">
+<title>Bikin Asik Aja</title>
 </programme>
