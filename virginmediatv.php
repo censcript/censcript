@@ -182,7 +182,7 @@
     <title>Trasna na dTonnta - Episode 1</title>
 </programme>
 <programme start="20260918020000 +0000" stop="20260918025500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Contractors - Episode 1</title>
+    <title>Contractors - Contractors</title>
 </programme>
 <programme start="20260918025500 +0000" stop="20260918035000 +0000" channel="TG4_HD.virginmediatv">
     <title>Port - Galicia</title>
@@ -224,7 +224,7 @@
     <title>Murder, She Wrote - Murder, Plain and Simple</title>
 </programme>
 <programme start="20260918132500 +0000" stop="20260918142500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Contractors - Episode 1</title>
+    <title>Contractors - Contractors</title>
 </programme>
 <programme start="20260918142500 +0000" stop="20260918150000 +0000" channel="TG4_HD.virginmediatv">
     <title>Grand Tours of Scotland - The Charms of Nature</title>
@@ -4622,10 +4622,10 @@
     <title>LaLiga Highlights - Real Betis v Getafe CF</title>
 </programme>
 <programme start="20260918171500 +0000" stop="20260918172500 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>LaLiga Highlights - Levante UD v Athletic Club</title>
+    <title>LaLiga Highlights - Levante UD v FC Barcelona</title>
 </programme>
 <programme start="20260918172500 +0000" stop="20260918173500 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>LaLiga Highlights - Deportivo Alavés v Valencia CF</title>
+    <title>LaLiga Highlights - Villarreal CF v Real Betis</title>
 </programme>
 <programme start="20260918173500 +0000" stop="20260918174500 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>LaLiga Highlights - Rayo Vallecano v RCD Espanyol</title>
@@ -5147,7 +5147,7 @@
     <title>Trasna na dTonnta - Episode 1</title>
 </programme>
 <programme start="20260918030000 +0000" stop="20260918035500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Contractors - Episode 1</title>
+    <title>Contractors - Contractors</title>
 </programme>
 <programme start="20260918035500 +0000" stop="20260918045000 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Port - Galicia</title>

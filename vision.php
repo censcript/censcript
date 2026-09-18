@@ -61,41 +61,8 @@
 <programme start="20260919103000 +0000" stop="20260919120000 +0000" channel="RCTI.vision">
 <title>Ternyata Ini Cinta (RCTI)</title>
 </programme>
-<programme start="20260918000000 +0000" stop="20260918010000 +0000" channel="MNCTV.vision">
-<title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260918010000 +0000" stop="20260918040000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
-</programme>
-<programme start="20260918040000 +0000" stop="20260918051500 +0000" channel="MNCTV.vision">
-<title>Kiko</title>
-</programme>
-<programme start="20260918051500 +0000" stop="20260918054500 +0000" channel="MNCTV.vision">
-<title>Lintas iNews Siang</title>
-</programme>
-<programme start="20260918054500 +0000" stop="20260918061500 +0000" channel="MNCTV.vision">
-<title>Seleb On News</title>
-</programme>
-<programme start="20260918061500 +0000" stop="20260918073000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
-</programme>
-<programme start="20260918073000 +0000" stop="20260918090000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
-</programme>
-<programme start="20260918090000 +0000" stop="20260918110000 +0000" channel="MNCTV.vision">
-<title>Upin dan Ipin (MNCTV)</title>
-</programme>
-<programme start="20260918110000 +0000" stop="20260918120000 +0000" channel="MNCTV.vision">
-<title>Entong</title>
-</programme>
-<programme start="20260918120000 +0000" stop="20260918123000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
-</programme>
 <programme start="20260918123000 +0000" stop="20260918160000 +0000" channel="MNCTV.vision">
 <title>Liga DMD Panggung Rezeki (MNCTV)</title>
-</programme>
-<programme start="20260918160000 +0000" stop="20260918170000 +0000" channel="MNCTV.vision">
-<title>Candy Caddy</title>
 </programme>
 <programme start="20260918170000 +0000" stop="20260918190000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn</title>
@@ -433,22 +400,19 @@
 <programme start="20260918090000 +0000" stop="20260918093000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20260918093000 +0000" stop="20260918103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260918103000 +0000" stop="20260918114500 +0000" channel="Trans TV.vision">
+<programme start="20260918093000 +0000" stop="20260918104500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260918114500 +0000" stop="20260918130000 +0000" channel="Trans TV.vision">
+<programme start="20260918104500 +0000" stop="20260918120000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260918130000 +0000" stop="20260918150000 +0000" channel="Trans TV.vision">
+<programme start="20260918140000 +0000" stop="20260918160000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260918150000 +0000" stop="20260918170000 +0000" channel="Trans TV.vision">
+<programme start="20260918160000 +0000" stop="20260918180000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260918170000 +0000" stop="20260918220000 +0000" channel="Trans TV.vision">
+<programme start="20260918180000 +0000" stop="20260918220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20260918220000 +0000" stop="20260918233000 +0000" channel="Trans TV.vision">
@@ -636,9 +600,6 @@
 </programme>
 <programme start="20260918100000 +0000" stop="20260918110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
-</programme>
-<programme start="20260918110000 +0000" stop="20260918123000 +0000" channel="ANTV.vision">
-<title>Bajing Ireng &amp; Jaka Sembung</title>
 </programme>
 <programme start="20260918123000 +0000" stop="20260918140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -896,7 +857,7 @@
 <title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20260918123000 +0000" stop="20260918133000 +0000" channel="Kompas TV.vision">
-<title>Berita Utama (L)</title>
+<title>Berita Utama (Live)</title>
 </programme>
 <programme start="20260918133000 +0000" stop="20260918150000 +0000" channel="Kompas TV.vision">
 <title>Bola Liar</title>
@@ -1497,4 +1458,43 @@
 </programme>
 <programme start="20260918080300 +0000" stop="20260918090000 +0000" channel="TVRI.vision">
 <title>Bincang Olahraga</title>
+</programme>
+<programme start="20260918090000 +0000" stop="20260918090300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260918090300 +0000" stop="20260918093000 +0000" channel="TVRI.vision">
+<title>Teras Istana</title>
+</programme>
+<programme start="20260918093000 +0000" stop="20260918122000 +0000" channel="TVRI.vision">
+<title>Asian Games Ke-20 2026</title>
+</programme>
+<programme start="20260918122000 +0000" stop="20260918130000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Petang</title>
+</programme>
+<programme start="20260918130000 +0000" stop="20260918140000 +0000" channel="TVRI.vision">
+<title>Indonesia Bicara</title>
+</programme>
+<programme start="20260918140000 +0000" stop="20260918143000 +0000" channel="TVRI.vision">
+<title>Dunia Dalam Berita</title>
+</programme>
+<programme start="20260918143000 +0000" stop="20260918153000 +0000" channel="TVRI.vision">
+<title>Warung Pengkolan</title>
+</programme>
+<programme start="20260918153000 +0000" stop="20260918163000 +0000" channel="TVRI.vision">
+<title>D&#039;Teras</title>
+</programme>
+<programme start="20260918163000 +0000" stop="20260918170000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Malam</title>
+</programme>
+<programme start="20260918170000 +0000" stop="20260918173000 +0000" channel="TVRI.vision">
+<title>Spotlight</title>
+</programme>
+<programme start="20260918173000 +0000" stop="20260918213000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
+</programme>
+<programme start="20260918213000 +0000" stop="20260918230000 +0000" channel="TVRI.vision">
+<title>Serambi Islami</title>
+</programme>
+<programme start="20260918230000 +0000" stop="20260919000000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Pagi</title>
 </programme>
