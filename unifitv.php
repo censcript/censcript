@@ -615,8 +615,6 @@
     <title lang="en">Renovation Nation</title>
     <desc lang="en">Sebuah majalah yang memaparkan pengubahsuaian semula hartanah yang hampir runtuh.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260917160000 +0000" stop="20260917163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -627,57 +625,41 @@
     <title lang="en">Kau Perempuan Itu</title>
     <desc lang="en">Sarah yang diuji dengan kekecewaan cinta, konflik persahabatan dan rumah tangga selepas berkahwin dengan Ari Aqashah, lelaki yang keras dan ego. Kehadiran Haikal dan Tasha turut menguji kesetiaan serta kesabaran Sarah dalam mempertahankan rumah tangganya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260917173000 +0000" stop="20260917180000 +0000" channel="tv1.unifitv">
     <title lang="en">Undang-Undang Dan Hak Anda (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang membincangkan isu berkaitan perundangan dan akta-akta semasa. Dua panel jemputan mengupas isu dari aspek teknikal dan praktikal serta menjawab persoalan daripada hos dan penonton secara dalam talian.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260917180000 +0000" stop="20260917190000 +0000" channel="tv1.unifitv">
     <title lang="en">Hanya Dengan Bismillah (Sr.2)</title>
     <desc lang="en">Zulaikha dan Munir terus diuji dengan pelbagai konflik rumah tangga apabila kehadiran orang ketiga serta campur tangan pihak lain menggugat kesetiaan dan kepercayaan mereka. Dalam menghadapi hasad dengki dan dugaan, mereka berusaha mempertahankan perkahwinan yang dibina.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260917190000 +0000" stop="20260917193000 +0000" channel="tv1.unifitv">
     <title lang="en">Terowong Rahsia Melaka</title>
     <desc lang="en">Sebuah dokumentari yang merungkai misteri dan sejarah di sebalik kewujudan terowong rahsia peninggalan Kerajaan Melaka Lama.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260917193000 +0000" stop="20260917203000 +0000" channel="tv1.unifitv">
     <title lang="en">Waris Kampung Semarah Padi (Ulangan)</title>
     <desc lang="en">Tok Penghulu Siak dan penduduk kampung yang berdepan kehilangan, konflik keluarga serta pelbagai ujian hidup. Dalam masa yang sama, Wak dan Yanti membina kehidupan baharu bersama sebelum akhirnya berjaya mengubah nasib melalui usaha dan ketabahan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
   </programme>
   <programme start="20260917203000 +0000" stop="20260917210000 +0000" channel="tv1.unifitv">
     <title lang="en">Coklat</title>
     <desc lang="en">Cikgu Yasmin, Anis, Maya, Iyad dan Dayang mencari idea membantu mengumpul duit untuk pembedahan Dalila.Berjayakan mereka? Hamra pula teringin berjumpa ibu bapanya untuk memohon maaf.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260917210000 +0000" stop="20260917213000 +0000" channel="tv1.unifitv">
     <title lang="en">Ensiklopedia Kerja (Ulangan)</title>
     <desc lang="en">Dokumentari yang memaparkan fungsi agensi kerajaan serta pekerjaan di sebalik tabir yang menjadi tulang belakang operasi harian. Para petugas berkongsi tugas, pengalaman dan maklumat bagi memberi pemahaman kepada penonton tentang peranan mereka dalam memastikan perkhidmatan agensi berjalan lancar.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260917213000 +0000" stop="20260917213500 +0000" channel="tv1.unifitv">
     <title lang="en">Simply Arabic</title>
     <desc lang="en">Sebuah program pembelajaran bahasa Arab secara santai, dan mudah, merangkumi kosa kata, frasa harian serta sebutan yang pratikal untuk kegunaan dalam kehidupan seharian.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260917213500 +0000" stop="20260917220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Al-Waqiah (2026)</title>

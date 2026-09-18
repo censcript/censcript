@@ -2609,25 +2609,28 @@
     <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20260920000000 +0000" stop="20260920040000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Lidový Šlágr mišmaš</title>
+    <title lang="id">Lidoyvý Šlágr mišmaš</title>
   </programme>
-  <programme start="20260920040000 +0000" stop="20260920073000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260920040000 +0000" stop="20260920050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20260920073000 +0000" stop="20260920080000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260920050000 +0000" stop="20260920073000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Harmoniky</title>
+  </programme>
+  <programme start="20260920073000 +0000" stop="20260920080000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Country</title>
   </programme>
   <programme start="20260920080000 +0000" stop="20260920083000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Bylinkářovo království</title>
   </programme>
   <programme start="20260920083000 +0000" stop="20260920090000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Lidovky</title>
+    <title lang="id">Harmoniky</title>
   </programme>
   <programme start="20260920090000 +0000" stop="20260920093000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Nákupy z pohodlí domova</title>
   </programme>
   <programme start="20260920093000 +0000" stop="20260920100000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Country</title>
+    <title lang="id">Lidovky</title>
   </programme>
   <programme start="20260920100000 +0000" stop="20260920101500 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Poledne</title>
@@ -2650,8 +2653,14 @@
   <programme start="20260920163000 +0000" stop="20260920173000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
   </programme>
-  <programme start="20260920183000 +0000" stop="20260920200000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260920173000 +0000" stop="20260920183000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Jásalka band</title>
+  </programme>
+  <programme start="20260920183000 +0000" stop="20260920190000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Nákupy z pohodlí domova</title>
+  </programme>
+  <programme start="20260920190000 +0000" stop="20260920200000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Zpívejte si s námi</title>
   </programme>
   <programme start="20260920200000 +0000" stop="20260920220000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
@@ -3052,22 +3061,22 @@
   <programme start="20260920201300 +0000" stop="20260920210500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Doktor Martin II (6/16)</title>
   </programme>
-  <programme start="20260920210500 +0000" stop="20260920215000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260920210500 +0000" stop="20260920215100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVII (4)</title>
   </programme>
-  <programme start="20260920215000 +0000" stop="20260920220600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260920215100 +0000" stop="20260920220600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vstávej, cesta je dlouhá!</title>
   </programme>
   <programme start="20260919213000 +0000" stop="20260919230100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Po neznámých stezkách</title>
   </programme>
-  <programme start="20260919230100 +0000" stop="20260919232700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260919230100 +0000" stop="20260919232600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Království divočiny: Husy velké</title>
   </programme>
-  <programme start="20260919232700 +0000" stop="20260920002300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260919232600 +0000" stop="20260920002200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Lech Walesa</title>
   </programme>
-  <programme start="20260920002300 +0000" stop="20260920005000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920002200 +0000" stop="20260920005000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Klenoty naší krajiny</title>
   </programme>
   <programme start="20260920005000 +0000" stop="20260920011800 +0000" channel="ČT2.webtv.sk">
@@ -3133,10 +3142,10 @@
   <programme start="20260920112000 +0000" stop="20260920115000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Cesty víry</title>
   </programme>
-  <programme start="20260920115000 +0000" stop="20260920121600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920115000 +0000" stop="20260920121700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na plovárně s Rubénem Bladesem a Lubou Mason</title>
   </programme>
-  <programme start="20260920121600 +0000" stop="20260920131000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920121700 +0000" stop="20260920131000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Evropská Amazonie (2/2)</title>
   </programme>
   <programme start="20260920131000 +0000" stop="20260920133700 +0000" channel="ČT2.webtv.sk">
@@ -3154,13 +3163,13 @@
   <programme start="20260920150500 +0000" stop="20260920160000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Honosné evropské hrady a zámky</title>
   </programme>
-  <programme start="20260920160000 +0000" stop="20260920170100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920160000 +0000" stop="20260920170200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Divočinou se Simonem Reevem</title>
   </programme>
-  <programme start="20260920170100 +0000" stop="20260920172100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920170200 +0000" stop="20260920172200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zašlapané projekty</title>
   </programme>
-  <programme start="20260920172100 +0000" stop="20260920175000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920172200 +0000" stop="20260920175000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zajímavosti z regionů</title>
   </programme>
   <programme start="20260920175000 +0000" stop="20260920180000 +0000" channel="ČT2.webtv.sk">
@@ -16255,10 +16264,10 @@
   <programme start="20260920005000 +0000" stop="20260920010500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260920010500 +0000" stop="20260920015200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260920010500 +0000" stop="20260920015100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">100 pytan do... (50)</title>
   </programme>
-  <programme start="20260920015200 +0000" stop="20260920023100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260920015100 +0000" stop="20260920023100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Mazowsze bez kurtyny, tournee po Ameryce (1)</title>
   </programme>
   <programme start="20260920023100 +0000" stop="20260920032200 +0000" channel="TVP Info.webtv.sk">
@@ -18226,11 +18235,8 @@
   <programme start="20260920183000 +0000" stop="20260920190000 +0000" channel="Sky News.webtv.sk">
     <title lang="id">UK Tonight Highlights</title>
   </programme>
-  <programme start="20260920190000 +0000" stop="20260920193000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260920193000 +0000" stop="20260920200000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The World with Yalda Hakim</title>
+  <programme start="20260920190000 +0000" stop="20260920200000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Com: Online, Sadistic and Deadly</title>
   </programme>
   <programme start="20260920200000 +0000" stop="20260920203000 +0000" channel="Sky News.webtv.sk">
     <title lang="id">The Wrap With Gillian Joseph</title>

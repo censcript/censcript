@@ -242,10 +242,10 @@
 <title>E-Max</title>
 </programme>
 <programme start="20260918173000 +0000" stop="20260918180000 +0000" channel="iNews.vision">
-<title>Breaking News</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20260918180000 +0000" stop="20260918184500 +0000" channel="iNews.vision">
-<title>iNews Sore</title>
+<title>Breaking News</title>
 </programme>
 <programme start="20260918184500 +0000" stop="20260918193000 +0000" channel="iNews.vision">
 <title>iNews Malam</title>
@@ -268,10 +268,10 @@
 <programme start="20260918231000 +0000" stop="20260918233000 +0000" channel="iNews.vision">
 <title>iNews Sport</title>
 </programme>
-<programme start="20260918233000 +0000" stop="20260919001500 +0000" channel="iNews.vision">
+<programme start="20260918233000 +0000" stop="20260919003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260919001500 +0000" stop="20260919011500 +0000" channel="iNews.vision">
+<programme start="20260919003000 +0000" stop="20260919011500 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
 <programme start="20260919011500 +0000" stop="20260919020000 +0000" channel="iNews.vision">
@@ -624,9 +624,6 @@
 </programme>
 <programme start="20260919113000 +0000" stop="20260919121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20260918023000 +0000" stop="20260918060000 +0000" channel="ANTV.vision">
-<title>Kya Kehna</title>
 </programme>
 <programme start="20260918060000 +0000" stop="20260918073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260918080000 +0000" stop="20260918080300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20260918080300 +0000" stop="20260918090000 +0000" channel="TVRI.vision">
+<title>Bincang Olahraga</title>
 </programme>

@@ -151,24 +151,6 @@
     <programme start="20260918160000 +0000" stop="20260918163000 +0000" channel="Channel 5.mewatch">
         <title>Planet Action S4 - EP 6</title>
     </programme>
-    <programme start="20260917160000 +0000" stop="20260917170000 +0000" channel="Channel 8.mewatch">
-        <title>Love of Nirvana - EP 1</title>
-    </programme>
-    <programme start="20260917170000 +0000" stop="20260917180000 +0000" channel="Channel 8.mewatch">
-        <title>Old Taste Detective S5 - EP 6</title>
-    </programme>
-    <programme start="20260917180000 +0000" stop="20260917190000 +0000" channel="Channel 8.mewatch">
-        <title>You Are The One - EP 13</title>
-    </programme>
-    <programme start="20260917190000 +0000" stop="20260917200000 +0000" channel="Channel 8.mewatch">
-        <title>You Are The One - EP 14</title>
-    </programme>
-    <programme start="20260917200000 +0000" stop="20260917210000 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 683</title>
-    </programme>
-    <programme start="20260917210000 +0000" stop="20260917220000 +0000" channel="Channel 8.mewatch">
-        <title>Golden City - EP 684</title>
-    </programme>
     <programme start="20260917220000 +0000" stop="20260917230000 +0000" channel="Channel 8.mewatch">
         <title>Foodie Trio - EP 4</title>
     </programme>
@@ -265,11 +247,8 @@
     <programme start="20260918144500 +0000" stop="20260918150000 +0000" channel="Channel 8.mewatch">
         <title>The Wonder Shop - EP 316</title>
     </programme>
-    <programme start="20260918150000 +0000" stop="20260918160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260918150000 +0000" stop="20260918170000 +0000" channel="Channel 8.mewatch">
         <title>The Litchi Road - EP 19</title>
-    </programme>
-    <programme start="20260918160000 +0000" stop="20260918170000 +0000" channel="Channel 8.mewatch">
-        <title>Love of Nirvana - EP 2</title>
     </programme>
     <programme start="20260917153000 +0000" stop="20260917163000 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S18 - EP 10</title>
@@ -815,14 +794,14 @@
         <title>No Programme available now. Next Broadcast on 25th September, Friday 1pm. Singapore Tennis Open 2026: Women’s Singles QF Match 1</title>
     </programme>
     <programme start="20260917160000 +0000" stop="20260918160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
+        <title>No Programme available now. Next Broadcast on 25th September, Friday 5pm. FIFA ASEAN Cup 2026™: Bangladesh vs Malaysia</title>
     </programme>
     <programme start="20260918160000 +0000" stop="20260919160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
+        <title>No Programme available now. Next Broadcast on 25th September, Friday 5pm. FIFA ASEAN Cup 2026™: Bangladesh vs Malaysia</title>
     </programme>
     <programme start="20260917160000 +0000" stop="20260918160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th October, Thursday 8.15pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
+        <title>No Programme available now. Next Broadcast on 1st October, Thursday 8.30pm. FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
     </programme>
     <programme start="20260918160000 +0000" stop="20260919160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th October, Thursday 8.15pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
+        <title>No Programme available now. Next Broadcast on 1st October, Thursday 8.30pm. FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
     </programme>

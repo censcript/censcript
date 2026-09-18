@@ -8926,19 +8926,19 @@
 <programme start="20260918090000 +0000" stop="20260918093000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20260918093000 +0000" stop="20260918103000 +0000" channel="Trans TV.mncvision">
-    <title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260918103000 +0000" stop="20260918114500 +0000" channel="Trans TV.mncvision">
+<programme start="20260918093000 +0000" stop="20260918104500 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
 </programme>
-<programme start="20260918114500 +0000" stop="20260918130000 +0000" channel="Trans TV.mncvision">
+<programme start="20260918104500 +0000" stop="20260918120000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260918130000 +0000" stop="20260918150000 +0000" channel="Trans TV.mncvision">
+<programme start="20260918120000 +0000" stop="20260918140000 +0000" channel="Trans TV.mncvision">
+    <title>Malam Final Abang None JKT &#039;26</title>
+</programme>
+<programme start="20260918140000 +0000" stop="20260918160000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260918150000 +0000" stop="20260918153000 +0000" channel="Trans TV.mncvision">
+<programme start="20260918160000 +0000" stop="20260918163000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260917171500 +0000" stop="20260917183000 +0000" channel="tvN.mncvision">
