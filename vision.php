@@ -604,9 +604,6 @@
 <programme start="20260918123000 +0000" stop="20260918140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
-<programme start="20260918173000 +0000" stop="20260918190000 +0000" channel="ANTV.vision">
-<title>The Haunted Cop Shop</title>
-</programme>
 <programme start="20260918190000 +0000" stop="20260918210000 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260919010000 +0000" stop="20260919020000 +0000" channel="TVRI.vision">
 <title>Bikin Asik Aja</title>
+</programme>
+<programme start="20260919020000 +0000" stop="20260919020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>

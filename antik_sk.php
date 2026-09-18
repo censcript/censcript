@@ -3334,10 +3334,10 @@
   <programme start="20260920004700 +0000" stop="20260920014000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ladí neladí</title>
   </programme>
-  <programme start="20260920014000 +0000" stop="20260920024100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920014000 +0000" stop="20260920024200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ben Cristovao v Kofola Music Clubu</title>
   </programme>
-  <programme start="20260920024100 +0000" stop="20260920031000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920024200 +0000" stop="20260920031000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Před půlnocí</title>
   </programme>
   <programme start="20260920031000 +0000" stop="20260920040000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3382,10 +3382,10 @@
   <programme start="20260920093800 +0000" stop="20260920095700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kámoši v kuchyni</title>
   </programme>
-  <programme start="20260920095700 +0000" stop="20260920102500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920095700 +0000" stop="20260920102600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Čarodějky školou povinné IV (11/13)</title>
   </programme>
-  <programme start="20260920102500 +0000" stop="20260920103800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920102600 +0000" stop="20260920103800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Moucha Loyd</title>
   </programme>
   <programme start="20260920103800 +0000" stop="20260920110700 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3415,10 +3415,10 @@
   <programme start="20260920130200 +0000" stop="20260920130800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prasátko Peppa</title>
   </programme>
-  <programme start="20260920130800 +0000" stop="20260920133000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920130800 +0000" stop="20260920133100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ariel (22/30)</title>
   </programme>
-  <programme start="20260920133000 +0000" stop="20260920135500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920133100 +0000" stop="20260920135500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Dračí záchranáři: Hrdinové nebe (4/24)</title>
   </programme>
   <programme start="20260920135500 +0000" stop="20260920140600 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3445,16 +3445,16 @@
   <programme start="20260920151500 +0000" stop="20260920153000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Grace a úžasné stroje V</title>
   </programme>
-  <programme start="20260920153000 +0000" stop="20260920155200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920153000 +0000" stop="20260920155300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Sněžný kluk a neviditelné město II</title>
   </programme>
-  <programme start="20260920155200 +0000" stop="20260920160500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920155300 +0000" stop="20260920160500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Idefix a smečka Nepoddajných II</title>
   </programme>
-  <programme start="20260920160500 +0000" stop="20260920161600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920160500 +0000" stop="20260920161700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Isadora Měsíčková</title>
   </programme>
-  <programme start="20260920161600 +0000" stop="20260920162500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260920161700 +0000" stop="20260920162500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue II</title>
   </programme>
   <programme start="20260920162500 +0000" stop="20260920163200 +0000" channel="ČT :D - ČT art.webtv.sk">
