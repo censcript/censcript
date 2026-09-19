@@ -16546,8 +16546,11 @@
   <programme start="20260921001000 +0000" stop="20260921005500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Archiwista I (1)</title>
   </programme>
-  <programme start="20260921005500 +0000" stop="20260921015000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260921005500 +0000" stop="20260921014000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Archiwista I (2)</title>
+  </programme>
+  <programme start="20260921014000 +0000" stop="20260921015000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Lato z Radiem i Telewizja Polska (39)</title>
   </programme>
   <programme start="20260921015000 +0000" stop="20260921024000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Daje słowo - Maciej Orłos (42)</title>
@@ -16645,7 +16648,7 @@
   <programme start="20260921211500 +0000" stop="20260921214500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Panorama</title>
   </programme>
-  <programme start="20260921214500 +0000" stop="20260921223500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260921214500 +0000" stop="20260921222500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Zderzenia Schnepf z Nawrockim (5)</title>
   </programme>
   <programme start="20260920213000 +0000" stop="20260920223000 +0000" channel="UA TV.webtv.sk">

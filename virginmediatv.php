@@ -28,19 +28,19 @@
 <programme start="20260919170000 +0000" stop="20260919180000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Deal or No Deal - Orla</title>
 </programme>
-<programme start="20260918221500 +0000" stop="20260919001500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260918222000 +0000" stop="20260919002000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>9 to 5</title>
 </programme>
-<programme start="20260919001500 +0000" stop="20260919004600 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260919002000 +0000" stop="20260919005000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Nationwide - Episode 106</title>
 </programme>
-<programme start="20260919004600 +0000" stop="20260919013500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260919005000 +0000" stop="20260919014000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 10</title>
 </programme>
-<programme start="20260919013500 +0000" stop="20260919021500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260919014000 +0000" stop="20260919022500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 75</title>
 </programme>
-<programme start="20260919021500 +0000" stop="20260919050000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20260919022500 +0000" stop="20260919050000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260919050000 +0000" stop="20260919063500 +0000" channel="RTE_One_HD.virginmediatv">
@@ -289,19 +289,19 @@
 <programme start="20260919175500 +0000" stop="20260919190000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>River Monsters - Piranha</title>
 </programme>
-<programme start="20260918231500 +0000" stop="20260919011500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260918232000 +0000" stop="20260919012000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>9 to 5</title>
 </programme>
-<programme start="20260919011500 +0000" stop="20260919014600 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260919012000 +0000" stop="20260919015000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Nationwide - Episode 106</title>
 </programme>
-<programme start="20260919014600 +0000" stop="20260919023500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260919015000 +0000" stop="20260919024000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 10</title>
 </programme>
-<programme start="20260919023500 +0000" stop="20260919031500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260919024000 +0000" stop="20260919032500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 75</title>
 </programme>
-<programme start="20260919031500 +0000" stop="20260919060000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20260919032500 +0000" stop="20260919060000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20260919113500 +0000" stop="20260919121000 +0000" channel="RTE_One_+1.virginmediatv">
@@ -3880,10 +3880,13 @@
 <programme start="20260919050000 +0000" stop="20260919070000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Solheim Cup Women&#039;s Golf - Day 3: Highlights</title>
 </programme>
-<programme start="20260919080000 +0000" stop="20260919170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260919080000 +0000" stop="20260919163000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: BMW PGA Championship, DP World Tour Golf - Day 3</title>
 </programme>
-<programme start="20260919170000 +0000" stop="20260919200000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260919163000 +0000" stop="20260919170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: La Sella Open, Ladies European Tour Golf - Day 3</title>
+</programme>
+<programme start="20260919170000 +0000" stop="20260919190000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Biltmore Championship, PGA Tour Golf - Day 3</title>
 </programme>
 <programme start="20260919000000 +0000" stop="20260919010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4594,10 +4597,13 @@
 <programme start="20260919050000 +0000" stop="20260919070000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Solheim Cup Women&#039;s Golf - Day 3: Highlights</title>
 </programme>
-<programme start="20260919080000 +0000" stop="20260919170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260919080000 +0000" stop="20260919163000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: BMW PGA Championship, DP World Tour Golf - Day 3</title>
 </programme>
-<programme start="20260919170000 +0000" stop="20260919200000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260919163000 +0000" stop="20260919170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: La Sella Open, Ladies European Tour Golf - Day 3</title>
+</programme>
+<programme start="20260919170000 +0000" stop="20260919190000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Biltmore Championship, PGA Tour Golf - Day 3</title>
 </programme>
 <programme start="20260919000000 +0000" stop="20260919010000 +0000" channel="Sky_Sports_Action.virginmediatv">

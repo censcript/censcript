@@ -640,9 +640,6 @@
 <programme start="20260919100000 +0000" stop="20260919110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20260919110000 +0000" stop="20260919123000 +0000" channel="ANTV.vision">
-<title>Gadis Bionik</title>
-</programme>
 <programme start="20260919123000 +0000" stop="20260919140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260919130000 +0000" stop="20260919140000 +0000" channel="TVRI.vision">
 <title>Jurnal Asian Games Ke-20</title>
+</programme>
+<programme start="20260919140000 +0000" stop="20260919143000 +0000" channel="TVRI.vision">
+<title>Dunia Dalam Berita</title>
 </programme>
