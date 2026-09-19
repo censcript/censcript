@@ -4150,10 +4150,10 @@
 <programme start="20260919043000 +0000" stop="20260919050000 +0000" channel="MUTV.virginmediatv">
     <title>EFL Cup - Round 3: Manchester United v Brighton &amp; Hove Albion</title>
 </programme>
-<programme start="20260919050000 +0000" stop="20260919053000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Andy Cole</title>
+<programme start="20260919050000 +0000" stop="20260919052500 +0000" channel="MUTV.virginmediatv">
+    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
 </programme>
-<programme start="20260919053000 +0000" stop="20260919054000 +0000" channel="MUTV.virginmediatv">
+<programme start="20260919052500 +0000" stop="20260919054000 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference - Uncut: Press Conference: Fulham (A)</title>
 </programme>
 <programme start="20260919054000 +0000" stop="20260919074500 +0000" channel="MUTV.virginmediatv">
@@ -4172,16 +4172,16 @@
     <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
 </programme>
 <programme start="20260919133000 +0000" stop="20260919140000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Andy Cole</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260919140000 +0000" stop="20260919141000 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference - Uncut: Press Conference: Fulham (A)</title>
+    <title>Top 20 Goals - Defenders</title>
 </programme>
 <programme start="20260919141000 +0000" stop="20260919161500 +0000" channel="MUTV.virginmediatv">
     <title>Under 18 Premier League - Manchester United U18 v Wolverhampton Wanderers U18</title>
 </programme>
 <programme start="20260919161500 +0000" stop="20260919162500 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference - Uncut: Press Conference: Fulham (A)</title>
+    <title>Top 20 Goals - Equalisers</title>
 </programme>
 <programme start="20260919162500 +0000" stop="20260919183000 +0000" channel="MUTV.virginmediatv">
     <title>Live: Radio Commentary - WSL: Arsenal v Manchester United</title>

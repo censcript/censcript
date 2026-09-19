@@ -628,9 +628,6 @@
 <programme start="20260920114500 +0000" stop="20260920130000 +0000" channel="Trans 7.vision">
 <title>MotoGP 2026: Austria GP</title>
 </programme>
-<programme start="20260918230000 +0000" stop="20260919023000 +0000" channel="ANTV.vision">
-<title>Blue</title>
-</programme>
 <programme start="20260919023000 +0000" stop="20260919060000 +0000" channel="ANTV.vision">
 <title>My Name Is Khan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260919120000 +0000" stop="20260919123000 +0000" channel="TVRI.vision">
 <title>Bangga Buatan Indonesia</title>
+</programme>
+<programme start="20260919123000 +0000" stop="20260919130000 +0000" channel="TVRI.vision">
+<title>Rumah Cahaya</title>
 </programme>
