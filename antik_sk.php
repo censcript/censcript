@@ -4907,7 +4907,7 @@
     <title lang="id">Snooker: Shanghai Masters</title>
   </programme>
   <programme start="20260921063000 +0000" stop="20260921080000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Cyklistika: Mistrovství světa</title>
+    <title lang="id">Motorky: EWC</title>
   </programme>
   <programme start="20260921080000 +0000" stop="20260921093000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Jezdectví: Liga národů v St. Tropez</title>
@@ -4957,14 +4957,14 @@
   <programme start="20260921030000 +0000" stop="20260921050000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Motorky: EWC</title>
   </programme>
-  <programme start="20260921050000 +0000" stop="20260921063000 +0000" channel="Eurosport 2.webtv.sk">
+  <programme start="20260921050000 +0000" stop="20260921054500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Motokros: MS v Darwinu</title>
+  </programme>
+  <programme start="20260921054500 +0000" stop="20260921063000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Motokros: MS v Darwinu</title>
+  </programme>
+  <programme start="20260921063000 +0000" stop="20260921080000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Cyklistika: Mistrovství světa</title>
-  </programme>
-  <programme start="20260921063000 +0000" stop="20260921071500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Motokros: MS v Darwinu</title>
-  </programme>
-  <programme start="20260921071500 +0000" stop="20260921080000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Motokros: MS v Darwinu</title>
   </programme>
   <programme start="20260921080000 +0000" stop="20260921090000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Cyklistika: Mistrovství světa</title>
@@ -4972,11 +4972,8 @@
   <programme start="20260921090000 +0000" stop="20260921100000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Horská kola: SP v Soldier Hollow</title>
   </programme>
-  <programme start="20260921100000 +0000" stop="20260921113000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Wuhan Open</title>
-  </programme>
-  <programme start="20260921113000 +0000" stop="20260921120000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Vytrvalostní závody: Endurance Uncovered</title>
+  <programme start="20260921100000 +0000" stop="20260921120000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Motorky: EWC</title>
   </programme>
   <programme start="20260921120000 +0000" stop="20260921133000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Motorky: WEC</title>
@@ -4990,11 +4987,11 @@
   <programme start="20260921163000 +0000" stop="20260921180000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Snooker: Wuhan Open</title>
   </programme>
-  <programme start="20260921180000 +0000" stop="20260921200000 +0000" channel="Eurosport 2.webtv.sk">
+  <programme start="20260921180000 +0000" stop="20260921203000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Motorky: EWC</title>
   </programme>
-  <programme start="20260921200000 +0000" stop="20260921220000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Wuhan Open</title>
+  <programme start="20260921203000 +0000" stop="20260921220000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Mistrovství světa</title>
   </programme>
   <programme start="20260920204500 +0000" stop="20260920223000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Házená: GOG - OTP Bank-Pick Szeged</title>

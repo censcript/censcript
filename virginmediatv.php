@@ -3883,10 +3883,7 @@
 <programme start="20260919080000 +0000" stop="20260919163000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: BMW PGA Championship, DP World Tour Golf - Day 3</title>
 </programme>
-<programme start="20260919163000 +0000" stop="20260919170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Live: La Sella Open, Ladies European Tour Golf - Day 3</title>
-</programme>
-<programme start="20260919170000 +0000" stop="20260919190000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260919163000 +0000" stop="20260919190000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Biltmore Championship, PGA Tour Golf - Day 3</title>
 </programme>
 <programme start="20260919000000 +0000" stop="20260919010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4600,10 +4597,7 @@
 <programme start="20260919080000 +0000" stop="20260919163000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: BMW PGA Championship, DP World Tour Golf - Day 3</title>
 </programme>
-<programme start="20260919163000 +0000" stop="20260919170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Live: La Sella Open, Ladies European Tour Golf - Day 3</title>
-</programme>
-<programme start="20260919170000 +0000" stop="20260919190000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260919163000 +0000" stop="20260919190000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Biltmore Championship, PGA Tour Golf - Day 3</title>
 </programme>
 <programme start="20260919000000 +0000" stop="20260919010000 +0000" channel="Sky_Sports_Action.virginmediatv">
