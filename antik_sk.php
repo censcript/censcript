@@ -2995,13 +2995,13 @@
   <programme start="20260920232600 +0000" stop="20260920235900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
-  <programme start="20260920235900 +0000" stop="20260921005300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260920235900 +0000" stop="20260921005200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bolkoviny</title>
   </programme>
-  <programme start="20260921005300 +0000" stop="20260921012200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921005200 +0000" stop="20260921012100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
-  <programme start="20260921012200 +0000" stop="20260921020300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921012100 +0000" stop="20260921020300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Jak se vede, sousede?</title>
   </programme>
   <programme start="20260921020300 +0000" stop="20260921022600 +0000" channel="ČT1.webtv.sk">
@@ -3013,10 +3013,10 @@
   <programme start="20260921024900 +0000" stop="20260921031200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Pod pokličkou</title>
   </programme>
-  <programme start="20260921031200 +0000" stop="20260921033100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921031200 +0000" stop="20260921033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nové Hrady</title>
   </programme>
-  <programme start="20260921033100 +0000" stop="20260921035900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921033000 +0000" stop="20260921035900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zajímavosti z regionů</title>
   </programme>
   <programme start="20260921035900 +0000" stop="20260921070000 +0000" channel="ČT1.webtv.sk">
@@ -3079,31 +3079,31 @@
   <programme start="20260921181000 +0000" stop="20260921191000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Místo zločinu Ostrava (12/13)</title>
   </programme>
-  <programme start="20260921191000 +0000" stop="20260921195200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921191000 +0000" stop="20260921195100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři ČT</title>
   </programme>
-  <programme start="20260921195200 +0000" stop="20260921202000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921195100 +0000" stop="20260921202100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Galerie Selfie</title>
   </programme>
-  <programme start="20260921202000 +0000" stop="20260921202400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921202100 +0000" stop="20260921202400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
-  <programme start="20260921202400 +0000" stop="20260921212300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921202400 +0000" stop="20260921212400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ve výkonu služby (3/5)</title>
   </programme>
-  <programme start="20260921212300 +0000" stop="20260921221400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260921212400 +0000" stop="20260921221600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot (3)</title>
   </programme>
-  <programme start="20260920211100 +0000" stop="20260920221400 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920211000 +0000" stop="20260920221200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Laogai: Národ vězňů (2/2)</title>
   </programme>
-  <programme start="20260920221400 +0000" stop="20260920233400 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920221200 +0000" stop="20260920233300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Při zemi</title>
   </programme>
-  <programme start="20260920233400 +0000" stop="20260920234900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920233300 +0000" stop="20260920234800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Metuzalém</title>
   </programme>
-  <programme start="20260920234900 +0000" stop="20260921001500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260920234800 +0000" stop="20260921001500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Klenoty naší krajiny</title>
   </programme>
   <programme start="20260921001500 +0000" stop="20260921004200 +0000" channel="ČT2.webtv.sk">
@@ -3163,28 +3163,28 @@
   <programme start="20260921114200 +0000" stop="20260921123500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hitlerovi otroci (2/3)</title>
   </programme>
-  <programme start="20260921123500 +0000" stop="20260921132700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260921123500 +0000" stop="20260921132800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Věž inženýra Eiffela</title>
   </programme>
-  <programme start="20260921132700 +0000" stop="20260921135500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260921132800 +0000" stop="20260921135500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dobrodružství vědy a techniky</title>
   </programme>
   <programme start="20260921135500 +0000" stop="20260921144000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Letecké katastrofy</title>
   </programme>
-  <programme start="20260921144000 +0000" stop="20260921153500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260921144000 +0000" stop="20260921153600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tajemství ptačích obrů</title>
   </programme>
-  <programme start="20260921153500 +0000" stop="20260921160500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260921153600 +0000" stop="20260921160500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Hledání ztracených světů (5/6)</title>
   </programme>
   <programme start="20260921160500 +0000" stop="20260921170100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">S kuchařem kolem světa</title>
   </programme>
-  <programme start="20260921170100 +0000" stop="20260921172000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260921170100 +0000" stop="20260921172100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zašlapané projekty</title>
   </programme>
-  <programme start="20260921172000 +0000" stop="20260921175000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260921172100 +0000" stop="20260921175000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zajímavosti z regionů</title>
   </programme>
   <programme start="20260921175000 +0000" stop="20260921180000 +0000" channel="ČT2.webtv.sk">
@@ -3196,7 +3196,7 @@
   <programme start="20260921194000 +0000" stop="20260921212500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Případ Dominici</title>
   </programme>
-  <programme start="20260921212500 +0000" stop="20260921221400 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260921212500 +0000" stop="20260921221100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krvavý král (4/6)</title>
   </programme>
   <programme start="20260920220000 +0000" stop="20260920221000 +0000" channel="ČT24.webtv.sk">
@@ -3373,10 +3373,10 @@
   <programme start="20260920235600 +0000" stop="20260921001800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kanadská soda VI (10/14)</title>
   </programme>
-  <programme start="20260921001800 +0000" stop="20260921003200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260921001800 +0000" stop="20260921003300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Po Královské cestě s profesorem Františkem Dvořákem</title>
   </programme>
-  <programme start="20260921003200 +0000" stop="20260921005900 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260921003300 +0000" stop="20260921005900 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Anna Fusek versus Black Intention Maki Ishiiho</title>
   </programme>
   <programme start="20260921005900 +0000" stop="20260921011500 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3646,10 +3646,10 @@
   <programme start="20260921020000 +0000" stop="20260921023000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (72)</title>
   </programme>
-  <programme start="20260921023000 +0000" stop="20260921032000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260921023000 +0000" stop="20260921031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (202)</title>
   </programme>
-  <programme start="20260921032000 +0000" stop="20260921040000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260921031500 +0000" stop="20260921040000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Televizní noviny</title>
   </programme>
   <programme start="20260921040000 +0000" stop="20260921064000 +0000" channel="Nova International.webtv.sk">
@@ -4081,67 +4081,70 @@
   <programme start="20260921212500 +0000" stop="20260921222500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy (15)</title>
   </programme>
-  <programme start="20260920215000 +0000" stop="20260920223500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260920210500 +0000" stop="20260920220500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vraždy v Kitzbühelu I (6)</title>
+  </programme>
+  <programme start="20260920220500 +0000" stop="20260920224500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXXI (11)</title>
   </programme>
-  <programme start="20260920223500 +0000" stop="20260920231500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260920224500 +0000" stop="20260920232500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXXI (12)</title>
   </programme>
-  <programme start="20260920231500 +0000" stop="20260920235500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260920232500 +0000" stop="20260921001000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXXI (9)</title>
   </programme>
-  <programme start="20260920235500 +0000" stop="20260921003500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921001000 +0000" stop="20260921005000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXXI (10)</title>
   </programme>
-  <programme start="20260921003500 +0000" stop="20260921012000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921005000 +0000" stop="20260921013000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXX (25)</title>
   </programme>
-  <programme start="20260921012000 +0000" stop="20260921020000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921013000 +0000" stop="20260921021500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXX (26)</title>
   </programme>
-  <programme start="20260921020000 +0000" stop="20260921024000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921021500 +0000" stop="20260921025500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260921024000 +0000" stop="20260921032500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921025500 +0000" stop="20260921033500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260921032500 +0000" stop="20260921034500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921033500 +0000" stop="20260921034500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční Praha</title>
   </programme>
   <programme start="20260921034500 +0000" stop="20260921040000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20260921040000 +0000" stop="20260921042000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921040000 +0000" stop="20260921043000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční Praha</title>
   </programme>
-  <programme start="20260921042000 +0000" stop="20260921061500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921043000 +0000" stop="20260921062000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová II (1)</title>
   </programme>
-  <programme start="20260921061500 +0000" stop="20260921082000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921062000 +0000" stop="20260921082500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Hercule Poirot IX (1)</title>
   </programme>
-  <programme start="20260921082000 +0000" stop="20260921102000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921082500 +0000" stop="20260921102500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová II (7)</title>
   </programme>
-  <programme start="20260921102000 +0000" stop="20260921111500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921102500 +0000" stop="20260921112000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu II (3)</title>
   </programme>
-  <programme start="20260921111500 +0000" stop="20260921121500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921112000 +0000" stop="20260921122000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu II (4)</title>
   </programme>
-  <programme start="20260921121500 +0000" stop="20260921141000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921122000 +0000" stop="20260921141500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Midsomeru XVIII (6)</title>
   </programme>
-  <programme start="20260921141000 +0000" stop="20260921161500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921141500 +0000" stop="20260921161500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Julie Lescautová II (8)</title>
   </programme>
-  <programme start="20260921161500 +0000" stop="20260921171000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921161500 +0000" stop="20260921171500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu II (5)</title>
   </programme>
-  <programme start="20260921171000 +0000" stop="20260921181500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921171500 +0000" stop="20260921182000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu II (6)</title>
   </programme>
-  <programme start="20260921181500 +0000" stop="20260921201000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260921182000 +0000" stop="20260921201000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Hercule Poirot X (4)</title>
   </programme>
   <programme start="20260921201000 +0000" stop="20260921211000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -16676,7 +16679,7 @@
     <title lang="id">ОТКPОЙ МОЛДОВУ: На службе людям</title>
   </programme>
   <programme start="20260921023000 +0000" stop="20260921030000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW. ВТPЕНДde: Олег Орлов</title>
+    <title lang="id">DW. ВТPЕНДde: Иван Чувиляев</title>
   </programme>
   <programme start="20260921030000 +0000" stop="20260921033000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Европа в фокусе</title>
@@ -18662,7 +18665,7 @@
     <title lang="id">ÓČKO HITY</title>
   </programme>
   <programme start="20260921150000 +0000" stop="20260921151500 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">YZOMANDIAS WEEK: TOP 3 ŽIVÁKY</title>
+    <title lang="id">YZOMANDIAS WEEK: TOP 3 FEATY</title>
   </programme>
   <programme start="20260921151500 +0000" stop="20260921160000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO HITY</title>
@@ -18689,7 +18692,7 @@
     <title lang="id">NAKED ATTRACTION NĚMECKO</title>
   </programme>
   <programme start="20260921205000 +0000" stop="20260921210000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO FLIRT</title>
+    <title lang="id">ÓČKO HITY</title>
   </programme>
   <programme start="20260921210000 +0000" stop="20260921220000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">KlenotTV</title>

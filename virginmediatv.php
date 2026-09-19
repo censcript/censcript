@@ -3727,11 +3727,11 @@
 <programme start="20260919160000 +0000" stop="20260919190000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Saturday Night Football - Nottingham Forest v Coventry City</title>
 </programme>
-<programme start="20260919000000 +0000" stop="20260919020000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Prem Classics - 2010/11: Manchester City v Tottenham Hotspur</title>
+<programme start="20260918234500 +0000" stop="20260919001500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Netbusters - Round 4</title>
 </programme>
-<programme start="20260919020000 +0000" stop="20260919021500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2015: Manchester City v Liverpool</title>
+<programme start="20260919001500 +0000" stop="20260919021500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Prem Classics - 2010/11: Manchester City v Tottenham Hotspur</title>
 </programme>
 <programme start="20260919021500 +0000" stop="20260919023000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2013: Manchester City v Liverpool</title>
@@ -4172,7 +4172,7 @@
     <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
 </programme>
 <programme start="20260919133000 +0000" stop="20260919140000 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Official United Podcast - Inside Carrington Podcast - Ameesh Manek &amp; Matt Johnson</title>
 </programme>
 <programme start="20260919140000 +0000" stop="20260919141000 +0000" channel="MUTV.virginmediatv">
     <title>Top 20 Goals - Defenders</title>
@@ -4441,11 +4441,11 @@
 <programme start="20260919160000 +0000" stop="20260919190000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Saturday Night Football - Nottingham Forest v Coventry City</title>
 </programme>
-<programme start="20260919000000 +0000" stop="20260919020000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Prem Classics - 2010/11: Manchester City v Tottenham Hotspur</title>
+<programme start="20260918234500 +0000" stop="20260919001500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Netbusters - Round 4</title>
 </programme>
-<programme start="20260919020000 +0000" stop="20260919021500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Archive - Man City V Liverpool (1-4)</title>
+<programme start="20260919001500 +0000" stop="20260919021500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Prem Classics - 2010/11: Manchester City v Tottenham Hotspur</title>
 </programme>
 <programme start="20260919021500 +0000" stop="20260919023000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2013: Manchester City v Liverpool</title>

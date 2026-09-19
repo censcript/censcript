@@ -628,9 +628,6 @@
 <programme start="20260920114500 +0000" stop="20260920130000 +0000" channel="Trans 7.vision">
 <title>MotoGP 2026: Austria GP</title>
 </programme>
-<programme start="20260919023000 +0000" stop="20260919060000 +0000" channel="ANTV.vision">
-<title>My Name Is Khan</title>
-</programme>
 <programme start="20260919060000 +0000" stop="20260919073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260919123000 +0000" stop="20260919130000 +0000" channel="TVRI.vision">
 <title>Rumah Cahaya</title>
+</programme>
+<programme start="20260919130000 +0000" stop="20260919140000 +0000" channel="TVRI.vision">
+<title>Jurnal Asian Games Ke-20</title>
 </programme>
