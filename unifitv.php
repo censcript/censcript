@@ -14423,7 +14423,7 @@
   </channel>
   <programme start="20260918153500 +0000" stop="20260918160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">In Japan, Buddhist temple land has become the target of profiteers. Many temples in financial difficulty are being sold off, leading to cases where graves and entrusted remains are going missing.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5135.</episode-num>
     <episode-num system="onscreen">S1E5136</episode-num>
@@ -14528,7 +14528,7 @@
   </programme>
   <programme start="20260918213500 +0000" stop="20260918220500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">In Japan, Buddhist temple land has become the target of profiteers. Many temples in financial difficulty are being sold off, leading to cases where graves and entrusted remains are going missing.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5135.</episode-num>
     <episode-num system="onscreen">S1E5136</episode-num>
@@ -14604,8 +14604,8 @@
     <episode-num system="onscreen">S1E5044</episode-num>
   </programme>
   <programme start="20260919011500 +0000" stop="20260919020500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Meet the Giants</title>
+    <desc lang="en">Journey across Japan to discover its many giant trees. Some of these majestic arboreal colossi are over 1,000 years old and have been revered as sacred protectors of local communities and cultures.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
@@ -14744,8 +14744,8 @@
     <episode-num system="onscreen">S1E5030</episode-num>
   </programme>
   <programme start="20260919071500 +0000" stop="20260919080500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Meet the Giants</title>
+    <desc lang="en">Journey across Japan to discover its many giant trees. Some of these majestic arboreal colossi are over 1,000 years old and have been revered as sacred protectors of local communities and cultures.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
@@ -14884,8 +14884,8 @@
     <episode-num system="onscreen">S1E5035</episode-num>
   </programme>
   <programme start="20260919131500 +0000" stop="20260919140500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Meet the Giants</title>
+    <desc lang="en">Journey across Japan to discover its many giant trees. Some of these majestic arboreal colossi are over 1,000 years old and have been revered as sacred protectors of local communities and cultures.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
@@ -15558,12 +15558,17 @@
     <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260919120000 +0000" stop="20260919140000 +0000" channel="beinsports4.unifitv">
+  <programme start="20260919120000 +0000" stop="20260919133000 +0000" channel="beinsports4.unifitv">
     <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
     <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260919140000 +0000" stop="20260919160000 +0000" channel="beinsports4.unifitv">
+  <programme start="20260919133000 +0000" stop="20260919153000 +0000" channel="beinsports4.unifitv">
+    <title lang="en">(L) Bundesliga 2026/2027 - Werder Bremen vs Augsburg</title>
+    <desc lang="en">Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260919153000 +0000" stop="20260919160000 +0000" channel="beinsports4.unifitv">
     <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
     <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
     <category lang="en">Sports</category>
