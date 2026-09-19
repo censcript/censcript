@@ -6538,7 +6538,7 @@
   <programme start="20260921210000 +0000" stop="20260921215000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Demencia</title>
   </programme>
-  <programme start="20260921215000 +0000" stop="20260922005000 +0000" channel="Doktor TV.webtv.sk">
+  <programme start="20260921215000 +0000" stop="20260921220000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Konvičkovanie</title>
   </programme>
   <programme start="20260920220000 +0000" stop="20260920230000 +0000" channel="PARK TV.webtv.sk">

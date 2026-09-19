@@ -4237,13 +4237,13 @@
 <programme start="20260919050000 +0000" stop="20260919070000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Women&#039;s Australian Rules - Fremantle v Western Bulldogs</title>
 </programme>
-<programme start="20260919100000 +0000" stop="20260919140000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260919100000 +0000" stop="20260919141500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Premier League - Tottenham Hotspur v Aston Villa</title>
 </programme>
-<programme start="20260919140000 +0000" stop="20260919141500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260919141500 +0000" stop="20260919143000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Xtra Time - Tottenham Hotspur v Aston Villa</title>
 </programme>
-<programme start="20260919141500 +0000" stop="20260919150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260919143000 +0000" stop="20260919150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: SailGP - Switzerland SGP: Day 1</title>
 </programme>
 <programme start="20260919150000 +0000" stop="20260919163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4277,7 +4277,7 @@
     <title>CPL T20 - Qualifier 1</title>
 </programme>
 <programme start="20260919170000 +0000" stop="20260919173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>CPL T20 - Qualifier 2</title>
+    <title>CPL T20 - Qualifier 2: Jamaica Kingsmen vs. Guyana Amazon Warriors</title>
 </programme>
 <programme start="20260919173000 +0000" stop="20260919180000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>TNT Sports Reload - Episode 37</title>
@@ -5764,7 +5764,10 @@
 <programme start="20260918175800 +0000" stop="20260919015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260919015800 +0000" stop="20260919060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260919015800 +0000" stop="20260919050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260919115000 +0000" stop="20260919122000 +0000" channel="CBBC.virginmediatv">

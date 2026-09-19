@@ -556,12 +556,6 @@
 <programme start="20260919154500 +0000" stop="20260919163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260919163000 +0000" stop="20260919174500 +0000" channel="Trans 7.vision">
-<title>Surat Petaka</title>
-</programme>
-<programme start="20260919174500 +0000" stop="20260919183000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race Austria</title>
-</programme>
 <programme start="20260919183000 +0000" stop="20260919190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -642,15 +636,6 @@
 </programme>
 <programme start="20260919123000 +0000" stop="20260919140000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
-</programme>
-<programme start="20260919140000 +0000" stop="20260919153000 +0000" channel="ANTV.vision">
-<title>Bawang Merah Brebes Festival</title>
-</programme>
-<programme start="20260919153000 +0000" stop="20260919173000 +0000" channel="ANTV.vision">
-<title>Ken Arok &amp; Ken Dedes</title>
-</programme>
-<programme start="20260919173000 +0000" stop="20260919190000 +0000" channel="ANTV.vision">
-<title>Snake Fist</title>
 </programme>
 <programme start="20260919190000 +0000" stop="20260919210000 +0000" channel="ANTV.vision">
 <title>Karma</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260919140000 +0000" stop="20260919143000 +0000" channel="TVRI.vision">
 <title>Dunia Dalam Berita</title>
+</programme>
+<programme start="20260919143000 +0000" stop="20260919150000 +0000" channel="TVRI.vision">
+<title>Jelajah Kopi</title>
+</programme>
+<programme start="20260919150000 +0000" stop="20260919153000 +0000" channel="TVRI.vision">
+<title>Monitor Olahraga Malam</title>
+</programme>
+<programme start="20260919153000 +0000" stop="20260919163000 +0000" channel="TVRI.vision">
+<title>TVRI Klasik</title>
+</programme>
+<programme start="20260919163000 +0000" stop="20260919170000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Malam</title>
+</programme>
+<programme start="20260919170000 +0000" stop="20260919173000 +0000" channel="TVRI.vision">
+<title>Spotlight</title>
 </programme>
