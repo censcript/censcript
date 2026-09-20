@@ -541,9 +541,6 @@
 <programme start="20260920154500 +0000" stop="20260920163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260920163000 +0000" stop="20260920180000 +0000" channel="Trans 7.vision">
-<title>Haeundae</title>
-</programme>
 <programme start="20260920180000 +0000" stop="20260920190000 +0000" channel="Trans 7.vision">
 <title>Moto2 2026: Austria GP</title>
 </programme>
@@ -621,12 +618,6 @@
 </programme>
 <programme start="20260920123000 +0000" stop="20260920150000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20260920153000 +0000" stop="20260920170000 +0000" channel="ANTV.vision">
-<title>Rumah Hantu Pasar Malam</title>
-</programme>
-<programme start="20260920170000 +0000" stop="20260920181500 +0000" channel="ANTV.vision">
-<title>Buronan Gembong Wulung</title>
 </programme>
 <programme start="20260920181500 +0000" stop="20260920203000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260920025500 +0000" stop="20260920035500 +0000" channel="MDTV.vision">
 <title>Main Drama Casting</title>
+</programme>
+<programme start="20260920035500 +0000" stop="20260920050000 +0000" channel="MDTV.vision">
+<title>SUCI</title>
+</programme>
+<programme start="20260920050000 +0000" stop="20260920060000 +0000" channel="MDTV.vision">
+<title>Resep Chef Devina</title>
+</programme>
+<programme start="20260920060000 +0000" stop="20260920073000 +0000" channel="MDTV.vision">
+<title>Makan Enak Lagiii</title>
 </programme>

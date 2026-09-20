@@ -1153,41 +1153,44 @@
   <programme start="20260922210000 +0000" stop="20260922231000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Pomsta mafie</title>
   </programme>
-  <programme start="20260921214000 +0000" stop="20260922002500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260921194500 +0000" stop="20260921221500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Hokej - Tipsport liga</title>
+  </programme>
+  <programme start="20260921221500 +0000" stop="20260922002000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260922002500 +0000" stop="20260922024500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260922002000 +0000" stop="20260922024500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
   <programme start="20260922024500 +0000" stop="20260922041500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20260922041500 +0000" stop="20260922062500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260922041500 +0000" stop="20260922061000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
   </programme>
-  <programme start="20260922062500 +0000" stop="20260922085500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">U20 Eurobasket Divízia B</title>
-  </programme>
-  <programme start="20260922085500 +0000" stop="20260922115000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260922061000 +0000" stop="20260922093000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260922115000 +0000" stop="20260922125000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260922093000 +0000" stop="20260922120000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Hokej - Tipsport liga</title>
+  </programme>
+  <programme start="20260922120000 +0000" stop="20260922125000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Highlighty Európskej a Konferenčnej ligy UEFA</title>
   </programme>
-  <programme start="20260922125000 +0000" stop="20260922155000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260922125000 +0000" stop="20260922153000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
   </programme>
-  <programme start="20260922155000 +0000" stop="20260922183500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Hokej - Tipos SHL</title>
+  <programme start="20260922153000 +0000" stop="20260922183000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Hokej Univerzitná liga</title>
   </programme>
-  <programme start="20260922183500 +0000" stop="20260922212000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Futbal - Európska liga</title>
+  <programme start="20260922183000 +0000" stop="20260922213000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Ronaldinho show</title>
   </programme>
-  <programme start="20260922212000 +0000" stop="20260923000500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260922213000 +0000" stop="20260923000500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260921175500 +0000" stop="20260922002500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Automobilové preteky</title>
+  <programme start="20260921213500 +0000" stop="20260922002500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Hokej - Tipos SHL</title>
   </programme>
   <programme start="20260922002500 +0000" stop="20260922023000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
@@ -1195,11 +1198,11 @@
   <programme start="20260922023000 +0000" stop="20260922044000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260922044000 +0000" stop="20260922065000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Basketbal - Tipos extraliga ženy</title>
-  </programme>
-  <programme start="20260922065000 +0000" stop="20260922090500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260922044000 +0000" stop="20260922064500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
+  </programme>
+  <programme start="20260922064500 +0000" stop="20260922090500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20260922090500 +0000" stop="20260922111500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
@@ -1661,7 +1664,7 @@
     <title lang="id">Iný sen Martina L Kinga</title>
   </programme>
   <programme start="20260922014500 +0000" stop="20260922021500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Krimi Online</title>
+    <title lang="id">Krimi Online - Marek Para</title>
   </programme>
   <programme start="20260922021500 +0000" stop="20260922031000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Ničivá sila prírody (2)</title>
@@ -1673,13 +1676,13 @@
     <title lang="id">Svet z vtáčej perspektívy (9)</title>
   </programme>
   <programme start="20260922043000 +0000" stop="20260922050000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Krimi Online</title>
+    <title lang="id">Krimi Online - Marek Para</title>
   </programme>
   <programme start="20260922050000 +0000" stop="20260922052000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Bez extrémov (2)</title>
   </programme>
   <programme start="20260922052000 +0000" stop="20260922060000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Tomáš Taraba</title>
   </programme>
   <programme start="20260922060000 +0000" stop="20260922064000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Len peniaze nestačia - Milan Luknár</title>
@@ -1706,7 +1709,7 @@
     <title lang="id">Tom Cruise: Navždy mladý</title>
   </programme>
   <programme start="20260922130000 +0000" stop="20260922134000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Tomáš Taraba</title>
   </programme>
   <programme start="20260922134000 +0000" stop="20260922143500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Vzostupy a pády Michaela Chimina</title>
@@ -1718,7 +1721,7 @@
     <title lang="id">Babie leto</title>
   </programme>
   <programme start="20260922170000 +0000" stop="20260922173500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Bielik Online</title>
+    <title lang="id">Bielik Online - Ján Horecký</title>
   </programme>
   <programme start="20260922173500 +0000" stop="20260922181500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Téma s Petrom Bielikom</title>
@@ -2704,26 +2707,62 @@
   <programme start="20260921220000 +0000" stop="20260922000000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20260922000000 +0000" stop="20260922060000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260922000000 +0000" stop="20260922040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidoyvý Šlágr mišmaš</title>
   </programme>
-  <programme start="20260922060000 +0000" stop="20260922093000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Zábava na dvojce</title>
+  <programme start="20260922040000 +0000" stop="20260922050000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20260922093000 +0000" stop="20260922103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260922050000 +0000" stop="20260922073000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Ráno s harmonikou</title>
+  </programme>
+  <programme start="20260922073000 +0000" stop="20260922080000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Bylinkářovo království</title>
+  </programme>
+  <programme start="20260922080000 +0000" stop="20260922083000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Cimbálovky</title>
+  </programme>
+  <programme start="20260922083000 +0000" stop="20260922090000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
+  </programme>
+  <programme start="20260922090000 +0000" stop="20260922093000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Evergreeny</title>
+  </programme>
+  <programme start="20260922093000 +0000" stop="20260922100000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Harmoniky</title>
   </programme>
-  <programme start="20260922103000 +0000" stop="20260922123000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260922100000 +0000" stop="20260922101500 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Poledne</title>
+  </programme>
+  <programme start="20260922101500 +0000" stop="20260922103000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Chvilka s...</title>
+  </programme>
+  <programme start="20260922103000 +0000" stop="20260922113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
   </programme>
-  <programme start="20260922123000 +0000" stop="20260922140000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Zábava na dvojce</title>
+  <programme start="20260922113000 +0000" stop="20260922140000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20260922140000 +0000" stop="20260922173000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260922140000 +0000" stop="20260922143000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidovky</title>
   </programme>
-  <programme start="20260922173000 +0000" stop="20260922220000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Zábava na dvojce</title>
+  <programme start="20260922143000 +0000" stop="20260922153000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
+  </programme>
+  <programme start="20260922153000 +0000" stop="20260922163000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z písničky do písničky</title>
+  </programme>
+  <programme start="20260922163000 +0000" stop="20260922183000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Zpívejte si s námi</title>
+  </programme>
+  <programme start="20260922183000 +0000" stop="20260922190000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
+  </programme>
+  <programme start="20260922190000 +0000" stop="20260922200000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z písničky do písničky</title>
+  </programme>
+  <programme start="20260922200000 +0000" stop="20260922220000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20260921220000 +0000" stop="20260922000500 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">Zimný špeciál</title>
@@ -16180,11 +16219,8 @@
   <programme start="20260922025500 +0000" stop="20260922030000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260922030000 +0000" stop="20260922031500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260922031500 +0000" stop="20260922040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260922030000 +0000" stop="20260922040000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Madam Coach</title>
   </programme>
   <programme start="20260922040000 +0000" stop="20260922043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
