@@ -1463,7 +1463,7 @@
     <title>Two and a Half Men - Pie Hole, Herb</title>
 </programme>
 <programme start="20260920013500 +0000" stop="20260920020000 +0000" channel="ITV4.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Two and a Half Men - He Smelled the Ham, He Got Excited</title>
 </programme>
 <programme start="20260920020000 +0000" stop="20260920050000 +0000" channel="ITV4.virginmediatv">
     <title>Teleshopping</title>
