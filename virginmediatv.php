@@ -4261,10 +4261,13 @@
 <programme start="20260920154500 +0000" stop="20260920160000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>TNT Sports Reload - Episode 37</title>
 </programme>
-<programme start="20260920160000 +0000" stop="20260920163000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260920160000 +0000" stop="20260920161500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>The Gruppetto - Episode 33</title>
+</programme>
+<programme start="20260920161500 +0000" stop="20260920164500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>It&#039;s a Number&#039;s Game - Pedal Power</title>
 </programme>
-<programme start="20260920163000 +0000" stop="20260920194500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260920164500 +0000" stop="20260920194500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: UCI Road World Championships - Montréal: Men&#039;s Elite Individual Time Trial</title>
 </programme>
 <programme start="20260919230000 +0000" stop="20260920003000 +0000" channel="TNT_Sports_3_HD.virginmediatv">

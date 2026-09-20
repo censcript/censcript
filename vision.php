@@ -526,17 +526,11 @@
 <programme start="20260920080000 +0000" stop="20260920090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20260920090000 +0000" stop="20260920100000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026: Austria GP</title>
-</programme>
 <programme start="20260920100000 +0000" stop="20260920110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
 <programme start="20260920110000 +0000" stop="20260920114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
-</programme>
-<programme start="20260920114500 +0000" stop="20260920130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026: Austria GP</title>
 </programme>
 <programme start="20260920130000 +0000" stop="20260920143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -616,12 +610,6 @@
 <programme start="20260921114500 +0000" stop="20260921121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260919230000 +0000" stop="20260920023000 +0000" channel="ANTV.vision">
-<title>Jab Harry Met Sejal</title>
-</programme>
-<programme start="20260920023000 +0000" stop="20260920060000 +0000" channel="ANTV.vision">
-<title>Bodyguard</title>
-</programme>
 <programme start="20260920060000 +0000" stop="20260920073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -631,17 +619,8 @@
 <programme start="20260920090000 +0000" stop="20260920100000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20260920100000 +0000" stop="20260920110000 +0000" channel="ANTV.vision">
-<title>Naagin 7</title>
-</programme>
-<programme start="20260920110000 +0000" stop="20260920123000 +0000" channel="ANTV.vision">
-<title>Roro Mendut</title>
-</programme>
 <programme start="20260920123000 +0000" stop="20260920150000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20260920150000 +0000" stop="20260920153000 +0000" channel="ANTV.vision">
-<title>Total Football: Highlight</title>
 </programme>
 <programme start="20260920153000 +0000" stop="20260920170000 +0000" channel="ANTV.vision">
 <title>Rumah Hantu Pasar Malam</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260921000000 +0000" stop="20260921030000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
+</programme>
+<programme start="20260921030000 +0000" stop="20260921060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260921060000 +0000" stop="20260921090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260921090000 +0000" stop="20260921120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260919235000 +0000" stop="20260920010500 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260920010500 +0000" stop="20260920020000 +0000" channel="MDTV.vision">
+<title>Fakta +62 Weekend</title>
+</programme>
+<programme start="20260920020000 +0000" stop="20260920025500 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20260920025500 +0000" stop="20260920035500 +0000" channel="MDTV.vision">
+<title>Main Drama Casting</title>
 </programme>
