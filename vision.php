@@ -616,6 +616,9 @@
 <programme start="20260921114500 +0000" stop="20260921121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260919230000 +0000" stop="20260920023000 +0000" channel="ANTV.vision">
+<title>Jab Harry Met Sejal</title>
+</programme>
 <programme start="20260920023000 +0000" stop="20260920060000 +0000" channel="ANTV.vision">
 <title>Bodyguard</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260921000000 +0000" stop="20260921030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260921030000 +0000" stop="20260921060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

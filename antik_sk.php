@@ -739,10 +739,10 @@
   <programme start="20260921221500 +0000" stop="20260921230000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Komisár Rex IV (3)</title>
   </programme>
-  <programme start="20260921230000 +0000" stop="20260921234000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260921230000 +0000" stop="20260921234500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Stratený svet II (11)</title>
   </programme>
-  <programme start="20260921234000 +0000" stop="20260922001000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260921234500 +0000" stop="20260922001000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Anderov rebrinák (17)</title>
   </programme>
   <programme start="20260922001000 +0000" stop="20260922021500 +0000" channel="Markíza Klasik.webtv.sk">

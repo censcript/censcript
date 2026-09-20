@@ -3847,13 +3847,13 @@
 <programme start="20260920050000 +0000" stop="20260920053000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Chronicles of a Champion Golfer - Nick Faldo</title>
 </programme>
-<programme start="20260920053000 +0000" stop="20260920060000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260920053000 +0000" stop="20260920063000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Chronicles of a Champion Golfer - Shane Lowry</title>
 </programme>
-<programme start="20260920080000 +0000" stop="20260920170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260920073000 +0000" stop="20260920163000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: BMW PGA Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260920170000 +0000" stop="20260920200000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260920163000 +0000" stop="20260920190000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Biltmore Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20260919233000 +0000" stop="20260920030000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4576,13 +4576,13 @@
 <programme start="20260920050000 +0000" stop="20260920053000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Chronicles of a Champion Golfer - Nick Faldo</title>
 </programme>
-<programme start="20260920053000 +0000" stop="20260920060000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260920053000 +0000" stop="20260920063000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Chronicles of a Champion Golfer - Shane Lowry</title>
 </programme>
-<programme start="20260920080000 +0000" stop="20260920170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260920073000 +0000" stop="20260920163000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: BMW PGA Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260920170000 +0000" stop="20260920200000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260920163000 +0000" stop="20260920190000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Biltmore Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20260919233000 +0000" stop="20260920030000 +0000" channel="Sky_Sports_Action.virginmediatv">
