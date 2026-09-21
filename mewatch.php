@@ -109,16 +109,19 @@
     <programme start="20260921054500 +0000" stop="20260921055500 +0000" channel="Channel 5.mewatch">
         <title>Chimera Keepers: Adventures with Incredible Creatures - EP 34</title>
     </programme>
-    <programme start="20260921055500 +0000" stop="20260921073000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260921055500 +0000" stop="20260921063000 +0000" channel="Channel 5.mewatch">
+        <title>Mixed Martial Arts - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Traditional -60kg Final</title>
+    </programme>
+    <programme start="20260921063000 +0000" stop="20260921073000 +0000" channel="Channel 5.mewatch">
         <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Heats - 21 Sep 2026</title>
     </programme>
     <programme start="20260921073000 +0000" stop="20260921080000 +0000" channel="Channel 5.mewatch">
-        <title>Wushu - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Changquan &amp; Men&#039;s Taijiquan Finals</title>
+        <title>Wushu - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s Taijiquan Final</title>
     </programme>
-    <programme start="20260921080000 +0000" stop="20260921095500 +0000" channel="Channel 5.mewatch">
+    <programme start="20260921080000 +0000" stop="20260921100000 +0000" channel="Channel 5.mewatch">
         <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Finals - 21 Sep 2026</title>
     </programme>
-    <programme start="20260921095500 +0000" stop="20260921120000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260921100000 +0000" stop="20260921120000 +0000" channel="Channel 5.mewatch">
         <title>Artistic Gymnastics - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s All-Around Qualification - Subdivision 1 &amp; 2</title>
     </programme>
     <programme start="20260921120000 +0000" stop="20260921123000 +0000" channel="Channel 5.mewatch">

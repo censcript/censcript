@@ -643,25 +643,25 @@
   <programme start="20260923213000 +0000" stop="20260923225500 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Miesto zločinu České Budějovice (3)</title>
   </programme>
-  <programme start="20260922205000 +0000" stop="20260922221000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260922205000 +0000" stop="20260922220500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Farma XVIII (12)</title>
   </programme>
-  <programme start="20260922221000 +0000" stop="20260922232000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260922220500 +0000" stop="20260922232000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Love Island VI (13)</title>
   </programme>
-  <programme start="20260922232000 +0000" stop="20260923002000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260922232000 +0000" stop="20260923001500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXI (6)</title>
   </programme>
-  <programme start="20260923002000 +0000" stop="20260923011000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260923001500 +0000" stop="20260923010500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXI (7)</title>
   </programme>
-  <programme start="20260923011000 +0000" stop="20260923023500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260923010500 +0000" stop="20260923021500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260923023500 +0000" stop="20260923031500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260923021500 +0000" stop="20260923030000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Susedské prípady</title>
   </programme>
-  <programme start="20260923031500 +0000" stop="20260923040000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260923030000 +0000" stop="20260923040000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Rodinné prípady (29)</title>
   </programme>
   <programme start="20260923040000 +0000" stop="20260923050000 +0000" channel="Markíza +1.webtv.sk">
@@ -676,10 +676,10 @@
   <programme start="20260923085500 +0000" stop="20260923100000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Sľub IV (12)</title>
   </programme>
-  <programme start="20260923100000 +0000" stop="20260923111500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260923100000 +0000" stop="20260923112000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XV (7)</title>
   </programme>
-  <programme start="20260923111500 +0000" stop="20260923122000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20260923112000 +0000" stop="20260923122000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXI (8)</title>
   </programme>
   <programme start="20260923122000 +0000" stop="20260923133000 +0000" channel="Markíza +1.webtv.sk">
@@ -2683,7 +2683,7 @@
   <programme start="20260923000000 +0000" stop="20260923040000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidoyvý Šlágr mišmaš</title>
   </programme>
-  <programme start="20260923040000 +0000" stop="20260923080000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260923040000 +0000" stop="20260923050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Harmoniky</title>
   </programme>
   <programme start="20260923080000 +0000" stop="20260923090000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -17622,90 +17622,6 @@
   </programme>
   <programme start="20260922223000 +0000" stop="20260922225800 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Journeys in Japan</title>
-  </programme>
-  <programme start="20260922225800 +0000" stop="20260922225900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260922225900 +0000" stop="20260922230000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260922230000 +0000" stop="20260922231000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260922231000 +0000" stop="20260922233000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Time-lapse Journey</title>
-  </programme>
-  <programme start="20260922233000 +0000" stop="20260922235700 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">GRAND SUMO Highlights</title>
-  </programme>
-  <programme start="20260922235700 +0000" stop="20260922235900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Sumopedia #3</title>
-  </programme>
-  <programme start="20260922235900 +0000" stop="20260923000000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260923000000 +0000" stop="20260923001000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260923001000 +0000" stop="20260923002500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">The World Heritage Sites in Japan</title>
-  </programme>
-  <programme start="20260923002500 +0000" stop="20260923002800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Nun&apos;s Cookbook</title>
-  </programme>
-  <programme start="20260923002800 +0000" stop="20260923003000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260923003000 +0000" stop="20260923005800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Dining With the Chef</title>
-  </programme>
-  <programme start="20260923005800 +0000" stop="20260923005900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260923005900 +0000" stop="20260923010000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260923010000 +0000" stop="20260923011000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260923011000 +0000" stop="20260923012000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">MATSURI: The Heartbeat of Japan</title>
-  </programme>
-  <programme start="20260923012000 +0000" stop="20260923012500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">On the Wings 5min.</title>
-  </programme>
-  <programme start="20260923012500 +0000" stop="20260923012800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">The Masterpieces of Ukiyo-e producer Tsutaju</title>
-  </programme>
-  <programme start="20260923012800 +0000" stop="20260923014300 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Direct Talk #282</title>
-  </programme>
-  <programme start="20260923014300 +0000" stop="20260923015300 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Century Signboards</title>
-  </programme>
-  <programme start="20260923015300 +0000" stop="20260923015400 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260923015400 +0000" stop="20260923015500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260923015500 +0000" stop="20260923020000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Ukiyoe EDO-LIFE</title>
-  </programme>
-  <programme start="20260923020000 +0000" stop="20260923022700 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Today&apos;s Close-Up</title>
-  </programme>
-  <programme start="20260923022700 +0000" stop="20260923022800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260923022800 +0000" stop="20260923023000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260923023000 +0000" stop="20260923025900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Document 72 hours</title>
-  </programme>
-  <programme start="20260923025900 +0000" stop="20260923030000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
   </programme>
   <programme start="20260923030000 +0000" stop="20260923031500 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
