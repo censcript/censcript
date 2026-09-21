@@ -587,7 +587,7 @@
     <title>First Dates - Episode 1</title>
 </programme>
 <programme start="20260921024500 +0000" stop="20260921034000 +0000" channel="E4.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Ramsay&#039;s Kitchen Nightmares USA - Handlebar</title>
 </programme>
 <programme start="20260921034000 +0000" stop="20260921050000 +0000" channel="E4.virginmediatv">
     <title>Hollyoaks: Omnibus - Episode 38</title>
@@ -692,7 +692,7 @@
     <title>Road Wars - Episode 1</title>
 </programme>
 <programme start="20260921010000 +0000" stop="20260921020000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>The War Game - War Game, The 1</title>
+    <title>The Wargame - War Game, The 1</title>
 </programme>
 <programme start="20260921020000 +0000" stop="20260921030000 +0000" channel="SKY_One_HD.virginmediatv">
     <title>Road Wars - Episode 19</title>
@@ -4075,20 +4075,26 @@
 <programme start="20260921170000 +0000" stop="20260921180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Test Cricket - 3rd Test, Day 1: England v Pakistan</title>
 </programme>
-<programme start="20260921000000 +0000" stop="20260921010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260920233000 +0000" stop="20260921003000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 4: Highlights</title>
 </programme>
-<programme start="20260921010000 +0000" stop="20260921020000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260921003000 +0000" stop="20260921013000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>BMW PGA Championship, DP World Tour Golf - Day 4: Highlights</title>
+</programme>
+<programme start="20260921013000 +0000" stop="20260921023000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260921020000 +0000" stop="20260921030000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260921023000 +0000" stop="20260921033000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 3</title>
 </programme>
-<programme start="20260921030000 +0000" stop="20260921040000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260921033000 +0000" stop="20260921040000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260921040000 +0000" stop="20260921050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260921040000 +0000" stop="20260921043000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260921043000 +0000" stop="20260921050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Chronicles of a Champion Golfer - Padraig Harrington</title>
 </programme>
 <programme start="20260921050000 +0000" stop="20260921060000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 1: Highlights</title>
@@ -4099,7 +4105,7 @@
 <programme start="20260921140000 +0000" stop="20260921170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>La Sella Open, Ladies European Tour Golf - Day 4</title>
 </programme>
-<programme start="20260921170000 +0000" stop="20260921200000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20260921170000 +0000" stop="20260921201000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Biltmore Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20260920233000 +0000" stop="20260921001000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4303,7 +4309,7 @@
 <programme start="20260921010000 +0000" stop="20260921060000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Australian Racing</title>
 </programme>
-<programme start="20260921093000 +0000" stop="20260921123000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
+<programme start="20260921091500 +0000" stop="20260921123000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: International Raceday</title>
 </programme>
 <programme start="20260921123000 +0000" stop="20260921200000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
@@ -4894,20 +4900,26 @@
 <programme start="20260921170000 +0000" stop="20260921180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Test Cricket - 3rd Test, Day 1: England v Pakistan</title>
 </programme>
-<programme start="20260921000000 +0000" stop="20260921010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260920233000 +0000" stop="20260921003000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 4: Highlights</title>
 </programme>
-<programme start="20260921010000 +0000" stop="20260921020000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260921003000 +0000" stop="20260921013000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>BMW PGA Championship, DP World Tour Golf - Day 4: Highlights</title>
+</programme>
+<programme start="20260921013000 +0000" stop="20260921023000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260921020000 +0000" stop="20260921030000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260921023000 +0000" stop="20260921033000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 3</title>
 </programme>
-<programme start="20260921030000 +0000" stop="20260921040000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260921033000 +0000" stop="20260921040000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20260921040000 +0000" stop="20260921050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260921040000 +0000" stop="20260921043000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260921043000 +0000" stop="20260921050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Chronicles of a Champion Golfer - Padraig Harrington</title>
 </programme>
 <programme start="20260921050000 +0000" stop="20260921060000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW PGA Championship, DP World Tour Golf - Day 1: Highlights</title>
@@ -4918,7 +4930,7 @@
 <programme start="20260921140000 +0000" stop="20260921170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>La Sella Open, Ladies European Tour Golf - Day 4</title>
 </programme>
-<programme start="20260921170000 +0000" stop="20260921200000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20260921170000 +0000" stop="20260921201000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Biltmore Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20260920233000 +0000" stop="20260921001000 +0000" channel="Sky_Sports_Action.virginmediatv">
@@ -5264,7 +5276,7 @@
     <title>First Dates - Episode 1</title>
 </programme>
 <programme start="20260921034500 +0000" stop="20260921044000 +0000" channel="E4+1.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Ramsay&#039;s Kitchen Nightmares USA - Handlebar</title>
 </programme>
 <programme start="20260921044000 +0000" stop="20260921060000 +0000" channel="E4+1.virginmediatv">
     <title>Hollyoaks: Omnibus - Episode 38</title>
@@ -6734,7 +6746,7 @@
     <title>First Dates - Episode 1</title>
 </programme>
 <programme start="20260921024500 +0000" stop="20260921034000 +0000" channel="E4_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Ramsay&#039;s Kitchen Nightmares USA - Handlebar</title>
 </programme>
 <programme start="20260921034000 +0000" stop="20260921050000 +0000" channel="E4_HD.virginmediatv">
     <title>Hollyoaks: Omnibus - Episode 38</title>
@@ -7082,7 +7094,7 @@
     <title>Road Wars - Episode 1</title>
 </programme>
 <programme start="20260921010000 +0000" stop="20260921020000 +0000" channel="SKY_One.virginmediatv">
-    <title>The War Game - War Game, The 1</title>
+    <title>The Wargame - War Game, The 1</title>
 </programme>
 <programme start="20260921020000 +0000" stop="20260921030000 +0000" channel="SKY_One.virginmediatv">
     <title>Road Wars - Episode 19</title>

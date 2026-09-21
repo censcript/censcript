@@ -3664,13 +3664,13 @@
   <programme start="20260923155000 +0000" stop="20260923160300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Idefix a smečka Nepoddajných II</title>
   </programme>
-  <programme start="20260923160300 +0000" stop="20260923162000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260923160300 +0000" stop="20260923161500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Isadora Měsíčková</title>
   </programme>
-  <programme start="20260923162000 +0000" stop="20260923162400 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260923161500 +0000" stop="20260923162000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue II</title>
   </programme>
-  <programme start="20260923162400 +0000" stop="20260923163100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260923162000 +0000" stop="20260923163100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue II</title>
   </programme>
   <programme start="20260923163100 +0000" stop="20260923164000 +0000" channel="ČT :D - ČT art.webtv.sk">

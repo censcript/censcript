@@ -4084,26 +4084,20 @@
 <programme start="20260921053000 +0000" stop="20260921070000 +0000" channel="GTV.mncvision">
     <title>Kiko</title>
 </programme>
-<programme start="20260921070000 +0000" stop="20260921093000 +0000" channel="GTV.mncvision">
+<programme start="20260921070000 +0000" stop="20260921103000 +0000" channel="GTV.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20260921093000 +0000" stop="20260921110000 +0000" channel="GTV.mncvision">
-    <title>Pada Zaman Dahulu</title>
+<programme start="20260921103000 +0000" stop="20260921120000 +0000" channel="GTV.mncvision">
+    <title>Kambing Cerdas Penyelamat...</title>
 </programme>
-<programme start="20260921110000 +0000" stop="20260921123000 +0000" channel="GTV.mncvision">
-    <title>Film Keluarga</title>
-</programme>
-<programme start="20260921123000 +0000" stop="20260921133000 +0000" channel="GTV.mncvision">
-    <title>Entong</title>
+<programme start="20260921120000 +0000" stop="20260921133000 +0000" channel="GTV.mncvision">
+    <title>Akal Cerdik Kancil</title>
 </programme>
 <programme start="20260921133000 +0000" stop="20260921153000 +0000" channel="GTV.mncvision">
     <title>Belly Of The Beast</title>
 </programme>
-<programme start="20260921153000 +0000" stop="20260921163000 +0000" channel="GTV.mncvision">
-    <title>Eyang Mami Van Mounelen</title>
-</programme>
-<programme start="20260921163000 +0000" stop="20260920170000 +0000" channel="GTV.mncvision">
-    <title>Kisah Viral</title>
+<programme start="20260921153000 +0000" stop="20260921160000 +0000" channel="GTV.mncvision">
+    <title>Saat Dia Kembali Padaku, Pt 1</title>
 </programme>
 <programme start="20260920173000 +0000" stop="20260920190000 +0000" channel="GTV HD.mncvision">
     <title>1001 Kisah</title>
@@ -4129,26 +4123,20 @@
 <programme start="20260921053000 +0000" stop="20260921070000 +0000" channel="GTV HD.mncvision">
     <title>Kiko</title>
 </programme>
-<programme start="20260921070000 +0000" stop="20260921093000 +0000" channel="GTV HD.mncvision">
+<programme start="20260921070000 +0000" stop="20260921103000 +0000" channel="GTV HD.mncvision">
     <title>Entong</title>
 </programme>
-<programme start="20260921093000 +0000" stop="20260921110000 +0000" channel="GTV HD.mncvision">
-    <title>Pada Zaman Dahulu</title>
+<programme start="20260921103000 +0000" stop="20260921120000 +0000" channel="GTV HD.mncvision">
+    <title>Kambing Cerdas Penyelamat...</title>
 </programme>
-<programme start="20260921110000 +0000" stop="20260921123000 +0000" channel="GTV HD.mncvision">
-    <title>Film Keluarga</title>
-</programme>
-<programme start="20260921123000 +0000" stop="20260921133000 +0000" channel="GTV HD.mncvision">
-    <title>Entong</title>
+<programme start="20260921120000 +0000" stop="20260921133000 +0000" channel="GTV HD.mncvision">
+    <title>Akal Cerdik Kancil</title>
 </programme>
 <programme start="20260921133000 +0000" stop="20260921153000 +0000" channel="GTV HD.mncvision">
     <title>Belly Of The Beast</title>
 </programme>
-<programme start="20260921153000 +0000" stop="20260921163000 +0000" channel="GTV HD.mncvision">
-    <title>Eyang Mami Van Mounelen</title>
-</programme>
-<programme start="20260921163000 +0000" stop="20260920170000 +0000" channel="GTV HD.mncvision">
-    <title>Kisah Viral</title>
+<programme start="20260921153000 +0000" stop="20260921160000 +0000" channel="GTV HD.mncvision">
+    <title>Saat Dia Kembali Padaku, Pt 1</title>
 </programme>
 <programme start="20260920210000 +0000" stop="20260920213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
@@ -7600,14 +7588,14 @@
 <programme start="20260921112500 +0000" stop="20260921125900 +0000" channel="SCTV.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20260921125900 +0000" stop="20260921142600 +0000" channel="SCTV.mncvision">
+<programme start="20260921125900 +0000" stop="20260921142500 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260921142600 +0000" stop="20260921160700 +0000" channel="SCTV.mncvision">
+<programme start="20260921142500 +0000" stop="20260921160600 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260921160700 +0000" stop="20260921163700 +0000" channel="SCTV.mncvision">
-    <title>King Of Gendang Tiba-Tiba Nikah</title>
+<programme start="20260921160600 +0000" stop="20260921163600 +0000" channel="SCTV.mncvision">
+    <title>Gara-Gara Merit Sama Elo</title>
 </programme>
 <programme start="20260920174500 +0000" stop="20260920190000 +0000" channel="SCTV HD.mncvision">
     <title>Arafta: Terbelenggu Takdir</title>
@@ -7654,14 +7642,14 @@
 <programme start="20260921112500 +0000" stop="20260921125900 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20260921125900 +0000" stop="20260921142600 +0000" channel="SCTV HD.mncvision">
+<programme start="20260921125900 +0000" stop="20260921142500 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20260921142600 +0000" stop="20260921160700 +0000" channel="SCTV HD.mncvision">
+<programme start="20260921142500 +0000" stop="20260921160600 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260921160700 +0000" stop="20260921163700 +0000" channel="SCTV HD.mncvision">
-    <title>King Of Gendang Tiba-Tiba Nikah</title>
+<programme start="20260921160600 +0000" stop="20260921163600 +0000" channel="SCTV HD.mncvision">
+    <title>Gara-Gara Merit Sama Elo</title>
 </programme>
 <programme start="20260920170000 +0000" stop="20260920173000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>
