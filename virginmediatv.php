@@ -3905,7 +3905,7 @@
     <title>Premier League - Leeds United v Crystal Palace</title>
 </programme>
 <programme start="20260921020000 +0000" stop="20260921021500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Archive - Best Of Wenger: Chelsea V Arsenal 2011 (3-5)</title>
+    <title>The Premier League&#039;s Greatest Games - 1997: Chelsea v Arsenal</title>
 </programme>
 <programme start="20260921021500 +0000" stop="20260921023000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2005: Norwich City v Middlesbrough</title>
@@ -4136,7 +4136,7 @@
     <title>Good Morning Football - Episode 187</title>
 </programme>
 <programme start="20260921140000 +0000" stop="20260921141500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Pittsburgh Steelers at New England Patriots</title>
+    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
 </programme>
 <programme start="20260921141500 +0000" stop="20260921143000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Washington Commanders at Dallas Cowboys</title>
@@ -4291,17 +4291,14 @@
 <programme start="20260921103000 +0000" stop="20260921143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: WTA Singapore Open 2026 - Day 1</title>
 </programme>
-<programme start="20260921143000 +0000" stop="20260921144500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: WTA Qatar Open 2026 - Final</title>
+<programme start="20260921143000 +0000" stop="20260921160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live Tennis: WTA SP Open 2026 - Final</title>
 </programme>
-<programme start="20260921144500 +0000" stop="20260921150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Dubai Championship 2026 - WTA Final</title>
-</programme>
-<programme start="20260921150000 +0000" stop="20260921160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: WTA Guadalajara Open 2026 - Final</title>
-</programme>
-<programme start="20260921160000 +0000" stop="20260921180000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260921160000 +0000" stop="20260921170000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA SP Open 2026 - Final</title>
+</programme>
+<programme start="20260921170000 +0000" stop="20260921180000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>US Open 2026 - Women&#039;s Final: Aryna Sabalenka v Elena Rybakina</title>
 </programme>
 <programme start="20260921000000 +0000" stop="20260921010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -4565,7 +4562,7 @@
     <title>CPL T20 - Final: Antigua &amp; Barbuda Falcons v Jamaica Kingsmen</title>
 </programme>
 <programme start="20260921123000 +0000" stop="20260921130000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>ETPL - Final: Edinburgh Castle Rockers v Belfast Wolves</title>
+    <title>Le Mans Cup Motor Racing - Silverstone Round</title>
 </programme>
 <programme start="20260921130000 +0000" stop="20260921140000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Premier League Review - Episode 5</title>
@@ -4730,7 +4727,7 @@
     <title>Premier League - Leeds United v Crystal Palace</title>
 </programme>
 <programme start="20260921020000 +0000" stop="20260921021500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Archive - Best Of Wenger: Chelsea V Arsenal 2011 (3-5)</title>
+    <title>The Premier League&#039;s Greatest Games - 1997: Chelsea v Arsenal</title>
 </programme>
 <programme start="20260921021500 +0000" stop="20260921023000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>The Premier League&#039;s Greatest Games - 2005: Norwich City v Middlesbrough</title>
@@ -4961,7 +4958,7 @@
     <title>Good Morning Football - Episode 187</title>
 </programme>
 <programme start="20260921140000 +0000" stop="20260921141500 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Pittsburgh Steelers at New England Patriots</title>
+    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
 </programme>
 <programme start="20260921141500 +0000" stop="20260921143000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Washington Commanders at Dallas Cowboys</title>
@@ -5116,17 +5113,14 @@
 <programme start="20260921103000 +0000" stop="20260921143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: WTA Singapore Open 2026 - Day 1</title>
 </programme>
-<programme start="20260921143000 +0000" stop="20260921144500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: WTA Qatar Open 2026 - Final</title>
+<programme start="20260921143000 +0000" stop="20260921160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live Tennis: WTA SP Open 2026 - Final</title>
 </programme>
-<programme start="20260921144500 +0000" stop="20260921150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Dubai Championship 2026 - WTA Final</title>
-</programme>
-<programme start="20260921150000 +0000" stop="20260921160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: WTA Guadalajara Open 2026 - Final</title>
-</programme>
-<programme start="20260921160000 +0000" stop="20260921180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260921160000 +0000" stop="20260921170000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA SP Open 2026 - Final</title>
+</programme>
+<programme start="20260921170000 +0000" stop="20260921180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>US Open 2026 - Women&#039;s Final: Aryna Sabalenka v Elena Rybakina</title>
 </programme>
 <programme start="20260921000000 +0000" stop="20260921002500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best Of Australia 2026</title>
@@ -5930,7 +5924,7 @@
     <title>SpongeBob SquarePants - A Cabin in the Kelp / The Hankering</title>
 </programme>
 <programme start="20260921143000 +0000" stop="20260921150000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Max and the Midknights - Odds Bodkins, Part One</title>
+    <title>Max and the Midknights - Odds Bodkins, Part Two</title>
 </programme>
 <programme start="20260921150000 +0000" stop="20260921153000 +0000" channel="Nickelodeon_HD.virginmediatv">
     <title>Sonic Prime - Unwelcome to the Jungle</title>
@@ -6169,7 +6163,10 @@
 <programme start="20260920175800 +0000" stop="20260921015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260921015800 +0000" stop="20260921060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260921015800 +0000" stop="20260921050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260921050000 +0000" stop="20260921060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260921115000 +0000" stop="20260921120500 +0000" channel="CBBC.virginmediatv">
@@ -7483,17 +7480,56 @@
 <programme start="20260921035500 +0000" stop="20260921050000 +0000" channel="DCTV.virginmediatv">
     <title>National Women&#039;s Council of Ireland</title>
 </programme>
-<programme start="20260921050000 +0000" stop="20260921090000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260921050000 +0000" stop="20260921055900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260921055900 +0000" stop="20260921062400 +0000" channel="DCTV.virginmediatv">
+    <title>Read Write Now - A Family Affair</title>
+</programme>
+<programme start="20260921120000 +0000" stop="20260921125900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260921125900 +0000" stop="20260921130000 +0000" channel="DCTV.virginmediatv">
+    <title>DCTV interviews Amy Goodman and Tia Lessin</title>
+</programme>
+<programme start="20260921130000 +0000" stop="20260921130100 +0000" channel="DCTV.virginmediatv">
     <title>To Be Announced</title>
 </programme>
-<programme start="20260921090000 +0000" stop="20260921130000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260921130100 +0000" stop="20260921130500 +0000" channel="DCTV.virginmediatv">
+    <title>Dublin Archive_ Justice for Yves</title>
 </programme>
-<programme start="20260921130000 +0000" stop="20260921170000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260921130500 +0000" stop="20260921131000 +0000" channel="DCTV.virginmediatv">
+    <title>Dubliners Fight Transport Fare Hikes</title>
 </programme>
-<programme start="20260921170000 +0000" stop="20260921210000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20260921131000 +0000" stop="20260921131300 +0000" channel="DCTV.virginmediatv">
+    <title>Inchicore Library Reopens</title>
+</programme>
+<programme start="20260921131300 +0000" stop="20260921132800 +0000" channel="DCTV.virginmediatv">
+    <title>Rade: Recording Is Winning</title>
+</programme>
+<programme start="20260921132800 +0000" stop="20260921140000 +0000" channel="DCTV.virginmediatv">
+    <title>Ignite - Silent Movies</title>
+</programme>
+<programme start="20260921140000 +0000" stop="20260921151300 +0000" channel="DCTV.virginmediatv">
+    <title>Two Or Three Things About Activism</title>
+</programme>
+<programme start="20260921151300 +0000" stop="20260921154300 +0000" channel="DCTV.virginmediatv">
+    <title>Romancing Ireland - The Spaniard</title>
+</programme>
+<programme start="20260921154300 +0000" stop="20260921160300 +0000" channel="DCTV.virginmediatv">
+    <title>Home</title>
+</programme>
+<programme start="20260921160300 +0000" stop="20260921164800 +0000" channel="DCTV.virginmediatv">
+    <title>Engage TV - Episode 3</title>
+</programme>
+<programme start="20260921164800 +0000" stop="20260921170000 +0000" channel="DCTV.virginmediatv">
+    <title>Rade: the Girl In the Window</title>
+</programme>
+<programme start="20260921170000 +0000" stop="20260921175900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20260921175900 +0000" stop="20260921185900 +0000" channel="DCTV.virginmediatv">
+    <title>DCTV - Supporting Irish Music</title>
 </programme>
 <programme start="20260920210000 +0000" stop="20260921010000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>

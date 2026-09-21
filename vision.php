@@ -655,15 +655,6 @@
 <programme start="20260921110000 +0000" stop="20260921130000 +0000" channel="ANTV.vision">
 <title>Gadis Bionik</title>
 </programme>
-<programme start="20260921130000 +0000" stop="20260921150000 +0000" channel="ANTV.vision">
-<title>Iblis Dalam Kandungan</title>
-</programme>
-<programme start="20260921150000 +0000" stop="20260921170000 +0000" channel="ANTV.vision">
-<title>Rio Sang Juara</title>
-</programme>
-<programme start="20260921170000 +0000" stop="20260921183000 +0000" channel="ANTV.vision">
-<title>Bullet In The Head</title>
-</programme>
 <programme start="20260921183000 +0000" stop="20260921203000 +0000" channel="ANTV.vision">
 <title>Karma</title>
 </programme>
@@ -1496,5 +1487,14 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260921030000 +0000" stop="20260921060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260921060000 +0000" stop="20260921090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260921090000 +0000" stop="20260921120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260921120000 +0000" stop="20260921150000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
