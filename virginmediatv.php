@@ -443,7 +443,7 @@
     <title>The Edge - Episode 22</title>
 </programme>
 <programme start="20260922133000 +0000" stop="20260922144500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - Ed Davey delivers his keynote speech to the Lib Dem conference</title>
 </programme>
 <programme start="20260922144500 +0000" stop="20260922151500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Wonder of Animals - Bats</title>
@@ -2419,16 +2419,10 @@
 <programme start="20260922130000 +0000" stop="20260922133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20260922133000 +0000" stop="20260922134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
+<programme start="20260922133000 +0000" stop="20260922144500 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
-<programme start="20260922134500 +0000" stop="20260922140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260922140000 +0000" stop="20260922143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
-</programme>
-<programme start="20260922143000 +0000" stop="20260922150000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260922144500 +0000" stop="20260922150000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
 </programme>
 <programme start="20260922150000 +0000" stop="20260922153000 +0000" channel="BBC_News_24.virginmediatv">
@@ -3817,7 +3811,10 @@
 <programme start="20260922033000 +0000" stop="20260922040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260922040000 +0000" stop="20260922060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260922040000 +0000" stop="20260922050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260922050000 +0000" stop="20260922060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260922110000 +0000" stop="20260922193000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4184,7 +4181,7 @@
     <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20260922010000 +0000" stop="20260922020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260922020000 +0000" stop="20260922030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Winston-Salem Open 2026 - Final</title>
@@ -4991,7 +4988,7 @@
     <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20260922010000 +0000" stop="20260922020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260922020000 +0000" stop="20260922030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Winston-Salem Open 2026 - Final</title>

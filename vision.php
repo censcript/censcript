@@ -634,14 +634,8 @@
 <programme start="20260922110000 +0000" stop="20260922130000 +0000" channel="ANTV.vision">
 <title>Roro Mendut</title>
 </programme>
-<programme start="20260922130000 +0000" stop="20260922150000 +0000" channel="ANTV.vision">
-<title>Iblis Dalam Kandungan 2</title>
-</programme>
 <programme start="20260922150000 +0000" stop="20260922170000 +0000" channel="ANTV.vision">
 <title>Membakar Matahari</title>
-</programme>
-<programme start="20260922170000 +0000" stop="20260922183000 +0000" channel="ANTV.vision">
-<title>Longling Mystery Grotto</title>
 </programme>
 <programme start="20260922183000 +0000" stop="20260922203000 +0000" channel="ANTV.vision">
 <title>Karma</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260922033000 +0000" stop="20260922040000 +0000" channel="TVRI.vision">
 <title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20260922040000 +0000" stop="20260922040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260922040300 +0000" stop="20260922050000 +0000" channel="TVRI.vision">
+<title>Seblak Show</title>
 </programme>
