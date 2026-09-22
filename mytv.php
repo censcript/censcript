@@ -73,40 +73,40 @@
     <programme start="20260922104000 +0000" stop="20260922105500 +0000" channel="VTV1 HD.mytv">
         <title> Nét đẹp dân gian: Ca trù Thanh Tương </title>
     </programme>
-    <programme start="20260922105500 +0000" stop="20260922110000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922105500 +0000" stop="20260922110100 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260922110000 +0000" stop="20260922114500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922110100 +0000" stop="20260922114600 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20260922114500 +0000" stop="20260922120000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922114600 +0000" stop="20260922120000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260922120000 +0000" stop="20260922124500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922120000 +0000" stop="20260922124400 +0000" channel="VTV1 HD.mytv">
         <title> Nhịp sống tuổi bạc </title>
     </programme>
-    <programme start="20260922124500 +0000" stop="20260922130000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922124400 +0000" stop="20260922125700 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Vòm bàn chân cao biến dạng dáng đi </title>
     </programme>
-    <programme start="20260922130000 +0000" stop="20260922134500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922125700 +0000" stop="20260922134200 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Sắc hoa trên váy áo người Mông </title>
     </programme>
-    <programme start="20260922134500 +0000" stop="20260922140000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922134200 +0000" stop="20260922135900 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20260922140000 +0000" stop="20260922141500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922135900 +0000" stop="20260922141300 +0000" channel="VTV1 HD.mytv">
         <title> Gala sân khấu truyền thống: Gala Sân khấu Truyền thống 2026 </title>
     </programme>
-    <programme start="20260922141500 +0000" stop="20260922160000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922141300 +0000" stop="20260922160000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260922160000 +0000" stop="20260922161500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922160000 +0000" stop="20260922161300 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình Công thương: Đa dạng tiêu thụ nông sản Cam </title>
     </programme>
-    <programme start="20260922161500 +0000" stop="20260922163000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922161300 +0000" stop="20260922162900 +0000" channel="VTV1 HD.mytv">
         <title> Tạp chí Kinh tế cuối tuần </title>
     </programme>
-    <programme start="20260922163000 +0000" stop="20260922170000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922162900 +0000" stop="20260922170000 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
     <programme start="20260922170000 +0000" stop="20260922171000 +0000" channel="VTV1 HD.mytv">

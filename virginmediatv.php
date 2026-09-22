@@ -3814,10 +3814,10 @@
 <programme start="20260922000000 +0000" stop="20260922033000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: NFL Football - New York Giants at Los Angeles Rams</title>
 </programme>
-<programme start="20260922033000 +0000" stop="20260922050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260922033000 +0000" stop="20260922040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260922050000 +0000" stop="20260922060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260922040000 +0000" stop="20260922060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260922110000 +0000" stop="20260922193000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4624,10 +4624,7 @@
 <programme start="20260922033000 +0000" stop="20260922040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260922040000 +0000" stop="20260922050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260922050000 +0000" stop="20260922060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260922040000 +0000" stop="20260922060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260922110000 +0000" stop="20260922193000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
