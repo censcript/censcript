@@ -4181,7 +4181,7 @@
     <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20260922010000 +0000" stop="20260922020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260922020000 +0000" stop="20260922030000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP Winston-Salem Open 2026 - Final</title>
@@ -4621,7 +4621,10 @@
 <programme start="20260922033000 +0000" stop="20260922040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260922040000 +0000" stop="20260922060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260922040000 +0000" stop="20260922050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260922050000 +0000" stop="20260922060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260922110000 +0000" stop="20260922193000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4988,7 +4991,7 @@
     <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20260922010000 +0000" stop="20260922020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
 </programme>
 <programme start="20260922020000 +0000" stop="20260922030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP Winston-Salem Open 2026 - Final</title>
@@ -6079,7 +6082,10 @@
 <programme start="20260921175800 +0000" stop="20260922015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260922015800 +0000" stop="20260922060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260922015800 +0000" stop="20260922050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260922050000 +0000" stop="20260922060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260922115000 +0000" stop="20260922120500 +0000" channel="CBBC.virginmediatv">
