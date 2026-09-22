@@ -107,19 +107,19 @@
         <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Heats - 22 Sep 2026: Men&#039;s &amp; Women&#039;s Heats - 22 Sep 2026</title>
     </programme>
     <programme start="20260922070000 +0000" stop="20260922073000 +0000" channel="Channel 5.mewatch">
-        <title>Mixed Martial Arts - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Finals: Women&#039;s Finals</title>
+        <title>Karate - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Elimination | Semi-finals | Finals</title>
     </programme>
     <programme start="20260922073000 +0000" stop="20260922080000 +0000" channel="Channel 5.mewatch">
-        <title>Karate - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Elimination | Semi-finals | Finals: Men&#039;s &amp; Women&#039;s Elimination | Semi-finals | Finals</title>
+        <title>Mixed Martial Arts - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Finals</title>
     </programme>
     <programme start="20260922080000 +0000" stop="20260922100000 +0000" channel="Channel 5.mewatch">
-        <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Finals - 22 Sep 2026: Men&#039;s &amp; Women&#039;s Finals - 22 Sep 2026</title>
+        <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Finals - 22 Sep 2026</title>
     </programme>
     <programme start="20260922100000 +0000" stop="20260922120000 +0000" channel="Channel 5.mewatch">
-        <title>Artistic Gymnastics - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s All-Around Final &amp; Individual Qualification - Subdivision 1: Women&#039;s All-Around Final &amp; Individual Qualification - Subdivision 1</title>
+        <title>Artistic Gymnastics - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s All-Around Final &amp; Individual Qualification - Subdivision 1</title>
     </programme>
     <programme start="20260922120000 +0000" stop="20260922123000 +0000" channel="Channel 5.mewatch">
-        <title>3x3 Basketball - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s Round Robin: Men&#039;s Round Robin</title>
+        <title>3x3 Basketball - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s Round Robin</title>
     </programme>
     <programme start="20260922123000 +0000" stop="20260922130000 +0000" channel="Channel 5.mewatch">
         <title>Yes Captain! - EP 26</title>
@@ -779,14 +779,14 @@
         <title>No Programme available now. Next Broadcast on 25th September, Friday 1pm. Singapore Tennis Open 2026: Women’s Singles QF Match 1</title>
     </programme>
     <programme start="20260921160000 +0000" stop="20260922160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th September, Friday 5pm. FIFA ASEAN Cup 2026™: Bangladesh vs Malaysia</title>
+        <title>No Programme available now. Next Broadcast on 25th September, Friday 4.48pm. FIFA ASEAN Cup 2026™: Bangladesh vs Malaysia</title>
     </programme>
     <programme start="20260922160000 +0000" stop="20260923160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th September, Friday 5pm. FIFA ASEAN Cup 2026™: Bangladesh vs Malaysia</title>
+        <title>No Programme available now. Next Broadcast on 25th September, Friday 4.48pm. FIFA ASEAN Cup 2026™: Bangladesh vs Malaysia</title>
     </programme>
     <programme start="20260921160000 +0000" stop="20260922160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 1st October, Thursday 8.30pm. FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
+        <title>No Programme available now. Next Broadcast on 1st October, Thursday 8.18pm. FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
     </programme>
     <programme start="20260922160000 +0000" stop="20260923160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 1st October, Thursday 8.30pm. FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
+        <title>No Programme available now. Next Broadcast on 1st October, Thursday 8.18pm. FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
     </programme>

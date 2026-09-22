@@ -3019,16 +3019,16 @@
   <programme start="20260923215500 +0000" stop="20260923232500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisařka Florence IX (1)</title>
   </programme>
-  <programme start="20260923232500 +0000" stop="20260923235200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260923232500 +0000" stop="20260923235000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20260923235200 +0000" stop="20260924001600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260923235000 +0000" stop="20260924001500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Směšný název pro jídlo</title>
   </programme>
-  <programme start="20260924001600 +0000" stop="20260924024800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260924001500 +0000" stop="20260924024500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20260924024800 +0000" stop="20260924031500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260924024500 +0000" stop="20260924031500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kluci v akci</title>
   </programme>
   <programme start="20260924031500 +0000" stop="20260924033000 +0000" channel="ČT1.webtv.sk">
@@ -3616,10 +3616,10 @@
   <programme start="20260924160400 +0000" stop="20260924161500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Isadora Měsíčková</title>
   </programme>
-  <programme start="20260924161500 +0000" stop="20260924162000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260924161500 +0000" stop="20260924162400 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue II</title>
   </programme>
-  <programme start="20260924162000 +0000" stop="20260924163100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260924162400 +0000" stop="20260924163100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue III</title>
   </programme>
   <programme start="20260924163100 +0000" stop="20260924164000 +0000" channel="ČT :D - ČT art.webtv.sk">

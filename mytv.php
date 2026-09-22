@@ -46,28 +46,28 @@
     <programme start="20260922073000 +0000" stop="20260922074500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Sắc hoa trên váy áo người Mông </title>
     </programme>
-    <programme start="20260922074500 +0000" stop="20260922080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922074500 +0000" stop="20260922075800 +0000" channel="VTV1 HD.mytv">
         <title> Khát vọng sống </title>
     </programme>
-    <programme start="20260922080000 +0000" stop="20260922081500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922075800 +0000" stop="20260922081400 +0000" channel="VTV1 HD.mytv">
         <title> Sống an toàn </title>
     </programme>
-    <programme start="20260922081500 +0000" stop="20260922084500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922081400 +0000" stop="20260922084400 +0000" channel="VTV1 HD.mytv">
         <title> Cải cách hành chính: IOC trong quản lý điều hành đô thị </title>
     </programme>
-    <programme start="20260922084500 +0000" stop="20260922090000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922084400 +0000" stop="20260922090000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260922090000 +0000" stop="20260922091500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922090000 +0000" stop="20260922091400 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật </title>
     </programme>
-    <programme start="20260922091500 +0000" stop="20260922100000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922091400 +0000" stop="20260922095800 +0000" channel="VTV1 HD.mytv">
         <title> Hiểu sâu - Sống chất: Chơi sinh vật cảnh - Đừng để phạm pháp </title>
     </programme>
-    <programme start="20260922100000 +0000" stop="20260922103000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922095800 +0000" stop="20260922102800 +0000" channel="VTV1 HD.mytv">
         <title> An toàn thực phẩm: Kiểm soát thực phẩm mùa Trung thu </title>
     </programme>
-    <programme start="20260922103000 +0000" stop="20260922104000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260922102800 +0000" stop="20260922104000 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống: Bước qua giới hạn </title>
     </programme>
     <programme start="20260922104000 +0000" stop="20260922105500 +0000" channel="VTV1 HD.mytv">
@@ -157,10 +157,13 @@
     <programme start="20260922220000 +0000" stop="20260922223000 +0000" channel="VTV1 HD.mytv">
         <title> Đi cùng chúng tôi </title>
     </programme>
-    <programme start="20260922223000 +0000" stop="20260922230000 +0000" channel="VTV1 HD.mytv">
-        <title> VIETNAM 360 </title>
+    <programme start="20260922223000 +0000" stop="20260922225000 +0000" channel="VTV1 HD.mytv">
+        <title> VIETNAM 360: Xây dựng Trung tâm tài chính khu vực </title>
     </programme>
-    <programme start="20260922230000 +0000" stop="20260922233000 +0000" channel="VTV1 HD.mytv">
-        <title> Tổ quốc trong tim</title>
+    <programme start="20260922225000 +0000" stop="20260922232000 +0000" channel="VTV1 HD.mytv">
+        <title> Tổ quốc trong tim </title>
+    </programme>
+    <programme start="20260922232000 +0000" stop="20260922234500 +0000" channel="VTV1 HD.mytv">
+        <title> Khám phá Việt Nam: Sắc hoa trên váy áo người Mông</title>
     </programme>
     <channel>VTV1 HD</channel>
