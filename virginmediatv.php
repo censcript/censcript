@@ -4312,23 +4312,20 @@
 <programme start="20260922043000 +0000" stop="20260922050000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Fulham v Manchester United</title>
 </programme>
-<programme start="20260922050000 +0000" stop="20260922053000 +0000" channel="MUTV.virginmediatv">
+<programme start="20260922050000 +0000" stop="20260922054500 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington - Andy Cole</title>
 </programme>
-<programme start="20260922053000 +0000" stop="20260922060000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Premier League Free-Kicks</title>
+<programme start="20260922054500 +0000" stop="20260922060000 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - MUW At Old Trafford</title>
 </programme>
-<programme start="20260922120000 +0000" stop="20260922140000 +0000" channel="MUTV.virginmediatv">
+<programme start="20260922120000 +0000" stop="20260922134500 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Fulham v Manchester United</title>
 </programme>
-<programme start="20260922140000 +0000" stop="20260922143000 +0000" channel="MUTV.virginmediatv">
-    <title>Match Day Review - Premier League: Fulham v Manchester United</title>
+<programme start="20260922134500 +0000" stop="20260922143000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Andy Cole</title>
 </programme>
-<programme start="20260922143000 +0000" stop="20260922144500 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Michael Carrick</title>
-</programme>
-<programme start="20260922144500 +0000" stop="20260922150000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - MUW At Old Trafford</title>
+<programme start="20260922143000 +0000" stop="20260922150000 +0000" channel="MUTV.virginmediatv">
+    <title>Under 18 Premier League - Highlights: Manchester United U18 v Wolverhampton Wanderers U18</title>
 </programme>
 <programme start="20260922150000 +0000" stop="20260922153000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - 2026/27: Manchester United v Ipswich Town</title>
@@ -4342,11 +4339,11 @@
 <programme start="20260922163000 +0000" stop="20260922170000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Fulham v Manchester United</title>
 </programme>
-<programme start="20260922170000 +0000" stop="20260922173000 +0000" channel="MUTV.virginmediatv">
+<programme start="20260922170000 +0000" stop="20260922174500 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington - Andy Cole</title>
 </programme>
-<programme start="20260922173000 +0000" stop="20260922180000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Premier League Free-Kicks</title>
+<programme start="20260922174500 +0000" stop="20260922180000 +0000" channel="MUTV.virginmediatv">
+    <title>What Moves Me: Toone</title>
 </programme>
 <programme start="20260922000000 +0000" stop="20260922010000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>F1 Explained</title>

@@ -628,9 +628,6 @@
 <programme start="20260923114500 +0000" stop="20260923121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260921230000 +0000" stop="20260922023000 +0000" channel="ANTV.vision">
-<title>Golmaal Returns</title>
-</programme>
 <programme start="20260922023000 +0000" stop="20260922060000 +0000" channel="ANTV.vision">
 <title>Duplicate</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>Klik Indonesia Petang</title>
 </programme>
 <programme start="20260922000000 +0000" stop="20260922030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260922030000 +0000" stop="20260922060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
