@@ -416,7 +416,7 @@
     <title>Naagin 7</title>
 </programme>
 <programme start="20260923110000 +0000" stop="20260923130000 +0000" channel="ANTV.mncvision">
-    <title>Tutur Tinular: Pedang Naga...</title>
+    <title>Jampang</title>
 </programme>
 <programme start="20260923130000 +0000" stop="20260923150000 +0000" channel="ANTV.mncvision">
     <title>Air Terjun Pengantin</title>

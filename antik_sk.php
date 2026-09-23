@@ -4684,14 +4684,26 @@
   <programme start="20260925073000 +0000" stop="20260925080000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
   </programme>
-  <programme start="20260925080000 +0000" stop="20260925083000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260925080000 +0000" stop="20260925090000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Vytuningované jazdy Fínsko</title>
   </programme>
-  <programme start="20260925083000 +0000" stop="20260925103000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Saint-Tropez Open</title>
+  <programme start="20260925090000 +0000" stop="20260925093000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Cargo Magazín</title>
   </programme>
-  <programme start="20260925103000 +0000" stop="20260925123000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Saint-Tropez Open</title>
+  <programme start="20260925093000 +0000" stop="20260925100000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20260925100000 +0000" stop="20260925103000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260925103000 +0000" stop="20260925110000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  </programme>
+  <programme start="20260925110000 +0000" stop="20260925121500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Výběrová auta</title>
+  </programme>
+  <programme start="20260925121500 +0000" stop="20260925123000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
   </programme>
   <programme start="20260925123000 +0000" stop="20260925143000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Saint-Tropez Open</title>
@@ -4703,7 +4715,7 @@
     <title lang="id">Trier - Bonn</title>
   </programme>
   <programme start="20260925183000 +0000" stop="20260925190000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DominicCars</title>
+    <title lang="id">MarathonCast</title>
   </programme>
   <programme start="20260925190000 +0000" stop="20260925191500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>

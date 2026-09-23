@@ -4132,10 +4132,13 @@
 <programme start="20260923030000 +0000" stop="20260923050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis: WTA Korean Open 2026 - Day 3</title>
 </programme>
-<programme start="20260923050000 +0000" stop="20260923120000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260923050000 +0000" stop="20260923103000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis - WTA: Day 3</title>
 </programme>
-<programme start="20260923120000 +0000" stop="20260923143000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20260923113000 +0000" stop="20260923133000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Live Tennis - Day 3</title>
+</programme>
+<programme start="20260923133000 +0000" stop="20260923143000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis: WTA Singapore Open 2026 - Day 3</title>
 </programme>
 <programme start="20260923143000 +0000" stop="20260923160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4246,10 +4249,13 @@
 <programme start="20260923030000 +0000" stop="20260923050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: WTA Korean Open 2026 - Day 3</title>
 </programme>
-<programme start="20260923050000 +0000" stop="20260923120000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260923050000 +0000" stop="20260923103000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis - Day 3</title>
 </programme>
-<programme start="20260923120000 +0000" stop="20260923143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260923113000 +0000" stop="20260923133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live Tennis - Day 3</title>
+</programme>
+<programme start="20260923133000 +0000" stop="20260923143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: WTA Singapore Open 2026 - Day 3</title>
 </programme>
 <programme start="20260923143000 +0000" stop="20260923150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -5008,10 +5014,13 @@
 <programme start="20260923030000 +0000" stop="20260923050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis: WTA Korean Open 2026 - Day 3</title>
 </programme>
-<programme start="20260923050000 +0000" stop="20260923120000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260923050000 +0000" stop="20260923103000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis - WTA: Day 3</title>
 </programme>
-<programme start="20260923120000 +0000" stop="20260923143000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20260923113000 +0000" stop="20260923133000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Live Tennis - Day 3</title>
+</programme>
+<programme start="20260923133000 +0000" stop="20260923143000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis: WTA Singapore Open 2026 - Day 3</title>
 </programme>
 <programme start="20260923143000 +0000" stop="20260923160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
@@ -5122,10 +5131,13 @@
 <programme start="20260923030000 +0000" stop="20260923050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: WTA Korean Open 2026 - Day 3</title>
 </programme>
-<programme start="20260923050000 +0000" stop="20260923120000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260923050000 +0000" stop="20260923103000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis - Day 3</title>
 </programme>
-<programme start="20260923120000 +0000" stop="20260923143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260923113000 +0000" stop="20260923133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live Tennis - Day 3</title>
+</programme>
+<programme start="20260923133000 +0000" stop="20260923143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: WTA Singapore Open 2026 - Day 3</title>
 </programme>
 <programme start="20260923143000 +0000" stop="20260923150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">

@@ -12474,7 +12474,7 @@
   </programme>
   <programme start="20260922193300 +0000" stop="20260922200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Why is inflation rising again globally and are central banks right to raise interest rates?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.54.</episode-num>
     <episode-num system="onscreen">S1E55</episode-num>
@@ -12518,7 +12518,7 @@
   </programme>
   <programme start="20260923010300 +0000" stop="20260923020300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Let's Focus</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <desc lang="en">Josh Rushing, Briahna Joy Gray and Robby Soave examine whether Democrats and Republicans can still represent an increasingly divided American electorate.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -12545,7 +12545,7 @@
   </programme>
   <programme start="20260923043300 +0000" stop="20260923050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">From Khamenei's succession to the Strait of Hormuz, Al Jazeera explains how Iran turns political architecture and geography into power.</desc>
+    <desc lang="en">From xenophobia in South Africa to US refugee policy for white South Africans, Al Jazeera Explains the politics of race, belonging and blame.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -12569,7 +12569,7 @@
   </programme>
   <programme start="20260923063300 +0000" stop="20260923070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Journalist Akbar Shahid Ahmed's new book explains how the Biden administration's handling of Israel's War on Gaza continues to roil the Democratic Party.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.37.</episode-num>
     <episode-num system="onscreen">S1E38</episode-num>
@@ -12586,7 +12586,7 @@
   </programme>
   <programme start="20260923083300 +0000" stop="20260923090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">When tech CEOs warn AI could end humanity, does the media get the story right? Plus, a Nigerian publisher on who gets to tell African stories.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.33.</episode-num>
     <episode-num system="onscreen">S1E34</episode-num>
@@ -12635,10 +12635,8 @@
   </programme>
   <programme start="20260923143300 +0000" stop="20260923150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Africa's richest man Aliko Dangote tells Al Jazeera how his refinery in Nigeria has reshaped the country's fuel sector and what the facility means for Africa.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.496.</episode-num>
-    <episode-num system="onscreen">S1E497</episode-num>
   </programme>
   <programme start="20260923150300 +0000" stop="20260923160300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>

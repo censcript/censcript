@@ -106,11 +106,11 @@
     <programme start="20260923054500 +0000" stop="20260923055500 +0000" channel="Channel 5.mewatch">
         <title>Cosmicrew S1 - EP 52</title>
     </programme>
-    <programme start="20260923055500 +0000" stop="20260923073000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260923055500 +0000" stop="20260923071500 +0000" channel="Channel 5.mewatch">
         <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Heats - 23 Sep 2026</title>
     </programme>
-    <programme start="20260923073000 +0000" stop="20260923080000 +0000" channel="Channel 5.mewatch">
-        <title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026: Mixed Doubles Round of 32 - SGP vs JPN | SGP vs TPE</title>
+    <programme start="20260923071500 +0000" stop="20260923080000 +0000" channel="Channel 5.mewatch">
+        <title>Squash - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Singles Round of 32 - SGP vs UZB</title>
     </programme>
     <programme start="20260923080000 +0000" stop="20260923100000 +0000" channel="Channel 5.mewatch">
         <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Finals - 23 Sep 2026</title>
