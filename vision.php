@@ -646,12 +646,6 @@
 <programme start="20260923100000 +0000" stop="20260923110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20260923110000 +0000" stop="20260923130000 +0000" channel="ANTV.vision">
-<title>Jampang</title>
-</programme>
-<programme start="20260923130000 +0000" stop="20260923150000 +0000" channel="ANTV.vision">
-<title>Air Terjun Pengantin</title>
-</programme>
 <programme start="20260923150000 +0000" stop="20260923170000 +0000" channel="ANTV.vision">
 <title>Walet Merah</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260923020300 +0000" stop="20260923023000 +0000" channel="TVRI.vision">
 <title>Sepiring Rasa</title>
+</programme>
+<programme start="20260923023000 +0000" stop="20260923030000 +0000" channel="TVRI.vision">
+<title>Mimbar Agama</title>
+</programme>
+<programme start="20260923030000 +0000" stop="20260923030300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>

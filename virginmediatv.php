@@ -686,7 +686,7 @@
     <title>Road Wars - Episode 2</title>
 </programme>
 <programme start="20260923010000 +0000" stop="20260923020000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>The Wargame - Episode 3</title>
+    <title>The Wargame - The Wargame 3</title>
 </programme>
 <programme start="20260923020000 +0000" stop="20260923030000 +0000" channel="SKY_One_HD.virginmediatv">
     <title>Hawaii Five-0 - Ho&#039;opio &#039;ia e ka noho ali&#039;i a ka ua</title>
@@ -1159,11 +1159,8 @@
 <programme start="20260923023500 +0000" stop="20260923031500 +0000" channel="Comedy_HD.virginmediatv">
     <title>The Daily Show - September 21, 2026</title>
 </programme>
-<programme start="20260923031500 +0000" stop="20260923033500 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20260923031500 +0000" stop="20260923050000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With Ross&#039;s Denial</title>
-</programme>
-<programme start="20260923033500 +0000" stop="20260923050000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One Where Joey Loses His Insurance</title>
 </programme>
 <programme start="20260923050000 +0000" stop="20260923060000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Cruise TV with LoveitBookit</title>
@@ -7190,7 +7187,7 @@
     <title>Road Wars - Episode 2</title>
 </programme>
 <programme start="20260923010000 +0000" stop="20260923020000 +0000" channel="SKY_One.virginmediatv">
-    <title>The Wargame - Episode 3</title>
+    <title>The Wargame - The Wargame 3</title>
 </programme>
 <programme start="20260923020000 +0000" stop="20260923030000 +0000" channel="SKY_One.virginmediatv">
     <title>Hawaii Five-0 - Ho&#039;opio &#039;ia e ka noho ali&#039;i a ka ua</title>

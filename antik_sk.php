@@ -1111,31 +1111,31 @@
   <programme start="20260925213000 +0000" stop="20260925235000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Deviaty život Louisa Draxa</title>
   </programme>
-  <programme start="20260924213000 +0000" stop="20260924225500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260924214500 +0000" stop="20260924230000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej je na JOJke - Extra Shift</title>
   </programme>
-  <programme start="20260924225500 +0000" stop="20260925010000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260924230000 +0000" stop="20260925011000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260925010000 +0000" stop="20260925021500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260925011000 +0000" stop="20260925022500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20260925021500 +0000" stop="20260925034500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260925022500 +0000" stop="20260925035500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Svetový pohár vo vodnom slalome</title>
   </programme>
-  <programme start="20260925034500 +0000" stop="20260925052500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260925035500 +0000" stop="20260925053500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
   </programme>
-  <programme start="20260925052500 +0000" stop="20260925072000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260925053500 +0000" stop="20260925073500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Športové lezenie</title>
   </programme>
-  <programme start="20260925072000 +0000" stop="20260925100500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260925073500 +0000" stop="20260925102000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej Univerzitná liga</title>
   </programme>
-  <programme start="20260925100500 +0000" stop="20260925122500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260925102000 +0000" stop="20260925124500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal Euro Cup</title>
   </programme>
-  <programme start="20260925122500 +0000" stop="20260925153000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260925124500 +0000" stop="20260925153000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20260925153000 +0000" stop="20260925155500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1144,11 +1144,8 @@
   <programme start="20260925155500 +0000" stop="20260925185000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260925185000 +0000" stop="20260925213500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260925185000 +0000" stop="20260925220000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
-  </programme>
-  <programme start="20260925213500 +0000" stop="20260926002500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Atletika - Diamantová liga</title>
   </programme>
   <programme start="20260924214500 +0000" stop="20260925001000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
@@ -1156,31 +1153,31 @@
   <programme start="20260925001000 +0000" stop="20260925022000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260925022000 +0000" stop="20260925042000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925022000 +0000" stop="20260925042500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260925042000 +0000" stop="20260925064500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925042500 +0000" stop="20260925064500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20260925064500 +0000" stop="20260925085000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925064500 +0000" stop="20260925085500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futsal Tipos Extraliga</title>
   </programme>
-  <programme start="20260925085000 +0000" stop="20260925110500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925085500 +0000" stop="20260925112000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
   </programme>
-  <programme start="20260925110500 +0000" stop="20260925135000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925112000 +0000" stop="20260925135000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
   </programme>
-  <programme start="20260925135000 +0000" stop="20260925165000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925135000 +0000" stop="20260925161000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
   </programme>
-  <programme start="20260925165000 +0000" stop="20260925181500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925161000 +0000" stop="20260925180000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260925181500 +0000" stop="20260925201000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925180000 +0000" stop="20260925192500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260925201000 +0000" stop="20260925234000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260925192500 +0000" stop="20260925230500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Footgolf</title>
   </programme>
   <programme start="20260924215000 +0000" stop="20260924232500 +0000" channel="WAU.webtv.sk">
