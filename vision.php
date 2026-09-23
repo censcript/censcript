@@ -628,9 +628,6 @@
 <programme start="20260924114500 +0000" stop="20260924121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260922230000 +0000" stop="20260923023000 +0000" channel="ANTV.vision">
-<title>Mucize</title>
-</programme>
 <programme start="20260923023000 +0000" stop="20260923060000 +0000" channel="ANTV.vision">
 <title>Krrish</title>
 </programme>
@@ -645,6 +642,12 @@
 </programme>
 <programme start="20260923100000 +0000" stop="20260923110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
+</programme>
+<programme start="20260923110000 +0000" stop="20260923130000 +0000" channel="ANTV.vision">
+<title>Tutur Tinular: Pedang Naga...</title>
+</programme>
+<programme start="20260923130000 +0000" stop="20260923150000 +0000" channel="ANTV.vision">
+<title>Air Terjun Pengantin</title>
 </programme>
 <programme start="20260923150000 +0000" stop="20260923170000 +0000" channel="ANTV.vision">
 <title>Walet Merah</title>
@@ -680,7 +683,7 @@
 <title>Naagin 7</title>
 </programme>
 <programme start="20260924110000 +0000" stop="20260924130000 +0000" channel="ANTV.vision">
-<title>Jampang 2</title>
+<title>Tutur Tinular 3</title>
 </programme>
 <programme start="20260922220000 +0000" stop="20260923020000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260923023000 +0000" stop="20260923030000 +0000" channel="TVRI.vision">
 <title>Mimbar Agama</title>
-</programme>
-<programme start="20260923030000 +0000" stop="20260923030300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
 </programme>

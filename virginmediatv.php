@@ -4658,7 +4658,7 @@
     <title>Scottish Challenge Cup Football - East Kilbride v Celtic B</title>
 </programme>
 <programme start="20260923170000 +0000" stop="20260923173000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Women&#039;s Football Weekly - Episode 3</title>
+    <title>UEFA Champions League Magazine - Episode 3</title>
 </programme>
 <programme start="20260923173000 +0000" stop="20260923193000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>LaLiga - Atlético Madrid v Real Madrid</title>
@@ -6232,7 +6232,10 @@
 <programme start="20260922175800 +0000" stop="20260923015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260923015800 +0000" stop="20260923060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260923015800 +0000" stop="20260923050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260923050000 +0000" stop="20260923060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260923115500 +0000" stop="20260923120500 +0000" channel="CBBC.virginmediatv">
