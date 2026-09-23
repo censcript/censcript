@@ -1232,7 +1232,7 @@
     <title lang="id">Ochrana svedkov I (12/12)</title>
   </programme>
   <programme start="20260925170000 +0000" stop="20260925181000 +0000" channel="WAU.webtv.sk">
-    <title lang="id">Ochrana svedkov II (1/15)</title>
+    <title lang="id">Vtierka Castle V (1/24)</title>
   </programme>
   <programme start="20260925181000 +0000" stop="20260925193000 +0000" channel="WAU.webtv.sk">
     <title lang="id">Rapl II (8)</title>
@@ -1613,7 +1613,7 @@
     <title lang="id">Hľadači pravdy (5)</title>
   </programme>
   <programme start="20260925031500 +0000" stop="20260925035500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Len peniaze nestačia - Milan Luknár</title>
+    <title lang="id">Len peniaze nestačia - Ivica Ďuricová</title>
   </programme>
   <programme start="20260925035500 +0000" stop="20260925043500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">V tieni zločinu - Vincent Bujňák</title>
@@ -1625,7 +1625,7 @@
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20260925055500 +0000" stop="20260925062500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Krimi Online</title>
+    <title lang="id">Krimi Online - Dana Jelinková Dudzíková</title>
   </programme>
   <programme start="20260925062500 +0000" stop="20260925071000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Čo nové na Zemi VIII (2)</title>
@@ -1664,7 +1664,7 @@
     <title lang="id">Bielik Online</title>
   </programme>
   <programme start="20260925170000 +0000" stop="20260925174000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">V tieni zločinu</title>
+    <title lang="id">V tieni zločinu - Roman Benedikovič</title>
   </programme>
   <programme start="20260925174000 +0000" stop="20260925183500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Magické francúzsko (2)</title>
@@ -3391,10 +3391,10 @@
   <programme start="20260925002500 +0000" stop="20260925004500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">První dojem (1/12)</title>
   </programme>
-  <programme start="20260925004500 +0000" stop="20260925010700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260925004500 +0000" stop="20260925010600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kanadská soda VI (10/14)</title>
   </programme>
-  <programme start="20260925010700 +0000" stop="20260925013500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260925010600 +0000" stop="20260925013500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Otevřený dům</title>
   </programme>
   <programme start="20260925013500 +0000" stop="20260925015000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3469,13 +3469,13 @@
   <programme start="20260925070900 +0000" stop="20260925071500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Atomákov</title>
   </programme>
-  <programme start="20260925071500 +0000" stop="20260925072500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260925071500 +0000" stop="20260925072600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Země patří Luně VI</title>
   </programme>
-  <programme start="20260925072500 +0000" stop="20260925072600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260925072600 +0000" stop="20260925073100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Vegesauři</title>
   </programme>
-  <programme start="20260925072600 +0000" stop="20260925073600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260925073100 +0000" stop="20260925073600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Vegesauři</title>
   </programme>
   <programme start="20260925073600 +0000" stop="20260925074300 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3586,10 +3586,10 @@
   <programme start="20260925155100 +0000" stop="20260925160400 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Idefix a smečka Nepoddajných II</title>
   </programme>
-  <programme start="20260925160400 +0000" stop="20260925162300 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260925160400 +0000" stop="20260925161500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Isadora Měsíčková</title>
   </programme>
-  <programme start="20260925162300 +0000" stop="20260925162400 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260925161500 +0000" stop="20260925162400 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue III</title>
   </programme>
   <programme start="20260925162400 +0000" stop="20260925163000 +0000" channel="ČT :D - ČT art.webtv.sk">

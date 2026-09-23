@@ -580,6 +580,9 @@
     <programme start="20260925235000 +0000" stop="20260925235959 +0000" channel="387294.shahid">
         <title>Al Motawahesh Season 1 Episode 163</title>
     </programme>
+    <programme start="20260924000000 +0000" stop="20260925235959 +0000" channel="388566.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260924000000 +0000" stop="20260924002758 +0000" channel="963543.shahid">
         <title>Tash: Al Awda Season 19 Episode 1</title>
     </programme>
@@ -891,9 +894,6 @@
     </programme>
     <programme start="20260925233837 +0000" stop="20260925235959 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 6 Episode 8</title>
-    </programme>
-    <programme start="20260924000000 +0000" stop="20260925235959 +0000" channel="388566.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260924000000 +0000" stop="20260924001338 +0000" channel="988045.shahid">
         <title>Maraya 98 Episode 4</title>
@@ -2545,9 +2545,6 @@
     <programme start="20260924000000 +0000" stop="20260925235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260924000000 +0000" stop="20260925235959 +0000" channel="1007223.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260924000000 +0000" stop="20260924000900 +0000" channel="49923122575716.shahid">
         <title>Weld Al Ghalaba Season 1 Episode 8</title>
     </programme>
@@ -2880,6 +2877,9 @@
     </programme>
     <programme start="20260925232500 +0000" stop="20260925235959 +0000" channel="49923122575716.shahid">
         <title>Weld Al Ghalaba Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260924000000 +0000" stop="20260925235959 +0000" channel="1007223.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260924000000 +0000" stop="20260925235959 +0000" channel="946948.shahid">
         <title>TV guide is not available</title>
