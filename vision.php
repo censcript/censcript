@@ -628,9 +628,6 @@
 <programme start="20260924114500 +0000" stop="20260924121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260922230000 +0000" stop="20260923023000 +0000" channel="ANTV.vision">
-<title>Mucize</title>
-</programme>
 <programme start="20260923023000 +0000" stop="20260923060000 +0000" channel="ANTV.vision">
 <title>Krrish</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260923020300 +0000" stop="20260923023000 +0000" channel="TVRI.vision">
 <title>Sepiring Rasa</title>
+</programme>
+<programme start="20260923023000 +0000" stop="20260923030000 +0000" channel="TVRI.vision">
+<title>Mimbar Agama</title>
 </programme>
