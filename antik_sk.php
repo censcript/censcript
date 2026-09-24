@@ -8587,7 +8587,7 @@
   <programme start="20260926180000 +0000" stop="20260926201500 +0000" channel="Film +.webtv.sk">
     <title lang="id">Poslední lovec čarodějnic</title>
   </programme>
-  <programme start="20260926201500 +0000" stop="20260926220500 +0000" channel="Film +.webtv.sk">
+  <programme start="20260926201500 +0000" stop="20260926220000 +0000" channel="Film +.webtv.sk">
     <title lang="id">Jezdci Apokalypsy</title>
   </programme>
   <programme start="20260925214500 +0000" stop="20260925223000 +0000" channel="AXN.webtv.sk">
