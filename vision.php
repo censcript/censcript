@@ -631,9 +631,6 @@
 <programme start="20260925114500 +0000" stop="20260925121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260923230000 +0000" stop="20260924023000 +0000" channel="ANTV.vision">
-<title>Mucize 2: Ask</title>
-</programme>
 <programme start="20260924023000 +0000" stop="20260924060000 +0000" channel="ANTV.vision">
 <title>Dil Ka Rishta</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260924030300 +0000" stop="20260924033000 +0000" channel="TVRI.vision">
 <title>Pesona Indonesia</title>
+</programme>
+<programme start="20260924033000 +0000" stop="20260924040000 +0000" channel="TVRI.vision">
+<title>Inspirasi Indonesia</title>
 </programme>

@@ -4177,17 +4177,10 @@
     <episode-num system="xmltv_ns">3.20260923.</episode-num>
     <episode-num system="onscreen">S4E20260924</episode-num>
   </programme>
-  <programme start="20260924020300 +0000" stop="20260924023300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA INSIGHT</title>
-    <desc lang="en">The newly launched observation documentary program. Each issue takes a foreigner as the protagonist, travels all over China and observes China's social conditions and Chinese people's life from a close perspective.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260923.</episode-num>
-    <episode-num system="onscreen">S1E20260924</episode-num>
-  </programme>
-  <programme start="20260924023300 +0000" stop="20260924030300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20260924020300 +0000" stop="20260924030300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">XI JINPING STATE VISITS U.S. SPECIAL</title>
+    <desc lang="en">The show delivers comprehensive live reporting, real-time updates, and expert analysis surrounding top-level diplomatic summits between Chinese President Xi Jinping and U.S. leadership in Washington.</desc>
+    <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.20260923.</episode-num>
     <episode-num system="onscreen">S1E20260924</episode-num>
   </programme>
@@ -14977,43 +14970,78 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260923195500 +0000" stop="20260923200000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">LALIGA TOP GOALS  - GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <title lang="en">LALIGA TOP GOALS - GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260923200000 +0000" stop="20260924015500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Hooker vs. Parnasse - Main</title>
-    <desc lang="en">As UFC touches down at Accor Arena in Paris for the fifth consecutive year on Saturday, September 5, the main event features a fascinating lightweight pairing between Dan “The Hangman” Hooker and promotional newcomer Salahdine Parnasse. An all-action staple in the division for the last decade, New Zealand’s Hooker headlines for the fourth time in his UFC career, looking to add to a win total that includes victories over Mateusz Gamrot and Jalin Turner. Hailing from Aubervilliers, France, the 28-yearold Parnasse was a two-division champion under the KSW banner, amassing seven successful title defenses while standing as one of the top talents competing outside of UFC</desc>
+    <title lang="en">UFC 331: Van vs. Pantoja 2 - Main</title>
+    <desc lang="en">The most highly anticipated rematch of the year headlines UFC's return to Los Angeles as current flyweight titleholder Joshua “The Fearless” Van squares off with longtime champion Alexandre “The Cannibal” Pantoja in the main event of Crypto.com UFC 331 on Sunday, September 20 at Crypto.com Arena. Van wrapped up a breakthrough year in 2025 with a quick win over Pantoja at UFC 323 when the Brazilian suffered an arm injury early in their championship clash, following it up with a fifth-round stoppage win over Tatsuro Taira earlier this year at UFC 328.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260924015500 +0000" stop="20260924020000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">LALIGA TOP GOALS  - GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <title lang="en">LALIGA TOP GOALS - GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260924020000 +0000" stop="20260924042500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">TM ISTAF World Cup 2026 - SEMI-FINALS 1 - MALAYSIA vs INDONESIA  - (TEAM)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <title lang="en">TM ISTAF World Cup 2026 - SEMI-FINALS 1 - MALAYSIA vs INDONESIA - (TEAM)</title>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260924042500 +0000" stop="20260924043000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">LALIGA TOP GOALS  - GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <title lang="en">LALIGA TOP GOALS - GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260924043000 +0000" stop="20260924055500 +0000" channel="unifisports1.unifitv">
     <title lang="en">TM ISTAF World Cup 2026 - FINAL - INDIA vs MALAYSIA - (QUADRANT)</title>
-    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation’s historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
+    <desc lang="en">The ISTAF Sepaktakraw World Cup 2026 marks the official return of the Sepaktakraw World Cup to Malaysia, reaffirming the nation's historic and enduring role in the global development of the sport. This prestigious championship will be held from 16 to 23 May 2026 in Kuala Lumpur, Malaysia.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260924055500 +0000" stop="20260924060000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">LALIGA TOP GOALS  - GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <title lang="en">LALIGA TOP GOALS - GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260924060000 +0000" stop="20260924153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260924060000 +0000" stop="20260924083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 315: Muhammad vs Della Maddalena</title>
     <desc lang="en">When the Octagon returns to Montreal for the first time since 2015, fans are treated to a stacked card headlined by a championship doubleheader. In the main event, Belal Muhammad defends his welterweight crown for the first time against Australian powerhouse Jack Della Maddalena, and Manon Fiorot battles to be the first female French champion against Flyweight phenom Valentina Shevchenko. Plus, the return of Jose Aldo and much more on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260924083000 +0000" stop="20260924090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 4 - 8</title>
+    <desc lang="en">Program pencarian bakat bola sepak yang hebat diteruskan lagi dengan Musim Ke-4. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260924090000 +0000" stop="20260924093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 26</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260924093000 +0000" stop="20260924100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1004: Teixeira vs. Prochazka</title>
+    <desc lang="en">UFC 275 featured Czech MMA star Jiri Prochazka in his third Octagon outing as he sought UFC gold against newly minted light heavyweight champion, Glover Teixeira. Relive their fight with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 316: Devalishvili vs O'Malley 2</title>
+    <desc lang="en">A championship doubleheader headlines the Octagon's return to the Prudential Center in Newark, New Jersey for UFC 316 on June 7. In the main event, it's a highly anticipated rematch when relentless force Merab Dvalishvili defends his bantamweight crown against the man he took it from, “Suga” Sean O'Malley. Plus, the women's bantamweight title is on the line in the co-main event as Julianna Peña faces off with two-time Olympic gold medal winning judoka Kayla Harrison. All this and much more on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260924123000 +0000" stop="20260924132500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 313: Pereira vs Ankalaev</title>
+    <desc lang="en">UFC 313 Countdown takes an inside look at the promotion's return to Las Vegas, where light heavyweight king Alex Pereira attempts to defend his crown for the fourth time against the number one contender, Magomed Ankalaev</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260924132500 +0000" stop="20260924133000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA HISTORIC MOMENTS - GERARD PIQUE'S RETIREMENT</title>
+    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260924133000 +0000" stop="20260924195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Noche UFC: Silva vs Delgado - Main</title>
+    <desc lang="en">UFC Fight Night: Silva vs. Delgado (also known as UFC Fight Night 288 and Noche UFC 4) is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that is scheduled to take place on September 13, 2026, at the Desert Diamond Arena in Glendale, Arizona, United States</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">

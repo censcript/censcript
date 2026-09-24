@@ -7472,7 +7472,7 @@
     <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
 <programme start="20260924014500 +0000" stop="20260924031500 +0000" channel="RCTI.mncvision">
-    <title>Turun Ranjang Terindah</title>
+    <title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20260924031500 +0000" stop="20260924034500 +0000" channel="RCTI.mncvision">
     <title>Go Spot Eksklusif</title>
@@ -7520,7 +7520,7 @@
     <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
 <programme start="20260924014500 +0000" stop="20260924031500 +0000" channel="RCTI HD.mncvision">
-    <title>Turun Ranjang Terindah</title>
+    <title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20260924031500 +0000" stop="20260924034500 +0000" channel="RCTI HD.mncvision">
     <title>Go Spot Eksklusif</title>
@@ -8183,7 +8183,7 @@
     <title>Timnas Special</title>
 </programme>
 <programme start="20260924010000 +0000" stop="20260924030000 +0000" channel="Sportstars 3.mncvision">
-    <title>AFC Champions League Two</title>
+    <title>AFC Champions League Elite</title>
 </programme>
 <programme start="20260924030000 +0000" stop="20260924050000 +0000" channel="Sportstars 3.mncvision">
     <title>V-League Women</title>
@@ -8219,7 +8219,7 @@
     <title>Timnas Special</title>
 </programme>
 <programme start="20260924010000 +0000" stop="20260924030000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>AFC Champions League Two</title>
+    <title>AFC Champions League Elite</title>
 </programme>
 <programme start="20260924030000 +0000" stop="20260924050000 +0000" channel="sportstars 3 HD.mncvision">
     <title>V-League Women</title>
