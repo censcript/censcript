@@ -473,10 +473,10 @@
     <title>Flog It! - Sandon Hall 41</title>
 </programme>
 <programme start="20260924170000 +0000" stop="20260924173000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Richard Osman&#039;s House of Games - Week 9: Thursday</title>
+    <title>House of Games - Week 9: Thursday</title>
 </programme>
 <programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Richard Osman&#039;s House of Games - Week 9: Friday</title>
+    <title>House of Games - Week 9: Friday</title>
 </programme>
 <programme start="20260924000000 +0000" stop="20260924010000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Code of Silence - Episode 6</title>
@@ -1169,7 +1169,7 @@
     <title>Comedy Central Presents - Jeff Dunham</title>
 </programme>
 <programme start="20260924025000 +0000" stop="20260924031500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>The Daily Show - Episode 104</title>
+    <title>The Daily Show - Tom Morello</title>
 </programme>
 <programme start="20260924031500 +0000" stop="20260924033500 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With Joey&#039;s Porsche</title>
@@ -1226,7 +1226,7 @@
     <title>QI XL - H Anatomy</title>
 </programme>
 <programme start="20260924020000 +0000" stop="20260924023500 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Richard Osman&#039;s House of Games - Episode 23</title>
+    <title>House of Games - Episode 23</title>
 </programme>
 <programme start="20260924023500 +0000" stop="20260924030000 +0000" channel="UandDave_HD.virginmediatv">
     <title>Judge Romesh - Episode 5</title>
@@ -4321,8 +4321,14 @@
 <programme start="20260924150000 +0000" stop="20260924170500 +0000" channel="MUTV.virginmediatv">
     <title>FA Women&#039;s League Cup - Manchester United v Sheffield United</title>
 </programme>
-<programme start="20260924170500 +0000" stop="20260924183000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Marcus Rashford</title>
+<programme start="20260924170500 +0000" stop="20260924171500 +0000" channel="MUTV.virginmediatv">
+    <title>What Moves Me: Toone</title>
+</programme>
+<programme start="20260924171500 +0000" stop="20260924173000 +0000" channel="MUTV.virginmediatv">
+    <title>Access All Areas - Fulham</title>
+</programme>
+<programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="MUTV.virginmediatv">
+    <title>Premier League Highlights - Fulham v Manchester United</title>
 </programme>
 <programme start="20260924000000 +0000" stop="20260924010000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>F1 Explained</title>
@@ -5384,7 +5390,7 @@
     <title>Comedy Central Presents - Jeff Dunham</title>
 </programme>
 <programme start="20260924035000 +0000" stop="20260924041500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>The Daily Show - Episode 104</title>
+    <title>The Daily Show - Tom Morello</title>
 </programme>
 <programme start="20260924041500 +0000" stop="20260924043500 +0000" channel="Comedy_+1.virginmediatv">
     <title>Friends - The One With Joey&#039;s Porsche</title>
@@ -7241,7 +7247,7 @@
     <title>Comedy Central Presents - Jeff Dunham</title>
 </programme>
 <programme start="20260924025000 +0000" stop="20260924031500 +0000" channel="Comedy.virginmediatv">
-    <title>The Daily Show - Episode 104</title>
+    <title>The Daily Show - Tom Morello</title>
 </programme>
 <programme start="20260924031500 +0000" stop="20260924033500 +0000" channel="Comedy.virginmediatv">
     <title>Friends - The One With Joey&#039;s Porsche</title>

@@ -649,9 +649,6 @@
 <programme start="20260924100000 +0000" stop="20260924110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20260924110000 +0000" stop="20260924130000 +0000" channel="ANTV.vision">
-<title>Jampang 2</title>
-</programme>
 <programme start="20260924130000 +0000" stop="20260924150000 +0000" channel="ANTV.vision">
 <title>Serbuan Halilintar</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260924030300 +0000" stop="20260924033000 +0000" channel="TVRI.vision">
 <title>Pesona Indonesia</title>
+</programme>
+<programme start="20260924033000 +0000" stop="20260924040000 +0000" channel="TVRI.vision">
+<title>Inspirasi Indonesia</title>
 </programme>
