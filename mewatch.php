@@ -574,14 +574,17 @@
     <programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>
     </programme>
-    <programme start="20260924150000 +0000" stop="20260924153000 +0000" channel="CNA.mewatch">
+    <programme start="20260924150000 +0000" stop="20260924150300 +0000" channel="CNA.mewatch">
+        <title>(Live) Headline News</title>
+    </programme>
+    <programme start="20260924150300 +0000" stop="20260924153000 +0000" channel="CNA.mewatch">
         <title>Money Mind - EP 22</title>
     </programme>
     <programme start="20260924153000 +0000" stop="20260924160000 +0000" channel="CNA.mewatch">
         <title>CNA Correspondent - EP 21</title>
     </programme>
     <programme start="20260924160000 +0000" stop="20260924160300 +0000" channel="CNA.mewatch">
-        <title>Headline News</title>
+        <title>(Live) Headline News</title>
     </programme>
     <programme start="20260923150013 +0000" stop="20260923160024 +0000" channel="Oktolidays.mewatch">
         <title>X, Y &amp; Zeek/Jade Armor/One Page At A Time 伟人不见了!</title>

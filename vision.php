@@ -5,7 +5,7 @@
 <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
 <programme start="20260924014500 +0000" stop="20260924031500 +0000" channel="RCTI.vision">
-<title>Turun Ranjang Terindah</title>
+<title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20260924031500 +0000" stop="20260924034500 +0000" channel="RCTI.vision">
 <title>Go Spot Ekslusif (RCTI)</title>
@@ -53,7 +53,7 @@
 <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
 <programme start="20260925014500 +0000" stop="20260925031500 +0000" channel="RCTI.vision">
-<title>Turun Ranjang Terindah</title>
+<title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20260925031500 +0000" stop="20260925034500 +0000" channel="RCTI.vision">
 <title>Go Spot Ekslusif (RCTI)</title>
@@ -631,6 +631,9 @@
 <programme start="20260925114500 +0000" stop="20260925121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260923230000 +0000" stop="20260924023000 +0000" channel="ANTV.vision">
+<title>Mucize 2: Ask</title>
+</programme>
 <programme start="20260924023000 +0000" stop="20260924060000 +0000" channel="ANTV.vision">
 <title>Dil Ka Rishta</title>
 </programme>
@@ -650,10 +653,10 @@
 <title>Jampang 2</title>
 </programme>
 <programme start="20260924130000 +0000" stop="20260924150000 +0000" channel="ANTV.vision">
-<title>Rumah Kentang</title>
+<title>Serbuan Halilintar</title>
 </programme>
 <programme start="20260924150000 +0000" stop="20260924170000 +0000" channel="ANTV.vision">
-<title>Menantang Maut</title>
+<title>Malam Keramat</title>
 </programme>
 <programme start="20260924170000 +0000" stop="20260924183000 +0000" channel="ANTV.vision">
 <title>Three Wishes</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260924030300 +0000" stop="20260924033000 +0000" channel="TVRI.vision">
 <title>Pesona Indonesia</title>
-</programme>
-<programme start="20260924033000 +0000" stop="20260924040000 +0000" channel="TVRI.vision">
-<title>Inspirasi Indonesia</title>
 </programme>

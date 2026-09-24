@@ -25,26 +25,29 @@
 <programme start="20260924030000 +0000" stop="20260924032500 +0000" channel="ABC Australia.mncvision">
     <title>Bondi Rescue</title>
 </programme>
-<programme start="20260924032500 +0000" stop="20260924041500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924032500 +0000" stop="20260924041000 +0000" channel="ABC Australia.mncvision">
     <title>Great Australian Walks</title>
 </programme>
-<programme start="20260924041500 +0000" stop="20260924044500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924041000 +0000" stop="20260924044500 +0000" channel="ABC Australia.mncvision">
     <title>Foreign Correspondent</title>
 </programme>
-<programme start="20260924044500 +0000" stop="20260924051500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924044500 +0000" stop="20260924052000 +0000" channel="ABC Australia.mncvision">
     <title>Planet America</title>
 </programme>
-<programme start="20260924051500 +0000" stop="20260924055000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924052000 +0000" stop="20260924053500 +0000" channel="ABC Australia.mncvision">
     <title>Media Watch</title>
 </programme>
-<programme start="20260924055000 +0000" stop="20260924070000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924053500 +0000" stop="20260924070000 +0000" channel="ABC Australia.mncvision">
     <title>National Press Club Address</title>
 </programme>
 <programme start="20260924070000 +0000" stop="20260924080000 +0000" channel="ABC Australia.mncvision">
     <title>ABC News With Joe O&#039;Brien</title>
 </programme>
-<programme start="20260924080000 +0000" stop="20260924083000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924080000 +0000" stop="20260924082500 +0000" channel="ABC Australia.mncvision">
     <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20260924082500 +0000" stop="20260924083000 +0000" channel="ABC Australia.mncvision">
+    <title>Heywire</title>
 </programme>
 <programme start="20260924083000 +0000" stop="20260924090000 +0000" channel="ABC Australia.mncvision">
     <title>The Pacific</title>
@@ -55,8 +58,11 @@
 <programme start="20260924093000 +0000" stop="20260924100000 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20260924100000 +0000" stop="20260924110000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924100000 +0000" stop="20260924104500 +0000" channel="ABC Australia.mncvision">
     <title>Great Australian Walks</title>
+</programme>
+<programme start="20260924104500 +0000" stop="20260924110000 +0000" channel="ABC Australia.mncvision">
+    <title>Play On</title>
 </programme>
 <programme start="20260924110000 +0000" stop="20260924115500 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
@@ -79,10 +85,10 @@
 <programme start="20260924150500 +0000" stop="20260924160500 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20260924160500 +0000" stop="20260924165000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924160500 +0000" stop="20260924165500 +0000" channel="ABC Australia.mncvision">
     <title>Great Australian Walks</title>
 </programme>
-<programme start="20260924165000 +0000" stop="20260923172000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260924165500 +0000" stop="20260923172500 +0000" channel="ABC Australia.mncvision">
     <title>Media Watch</title>
 </programme>
 <programme start="20260923170000 +0000" stop="20260923173000 +0000" channel="Al Jazeera English.mncvision">
@@ -410,10 +416,10 @@
     <title>Jampang 2</title>
 </programme>
 <programme start="20260924130000 +0000" stop="20260924150000 +0000" channel="ANTV.mncvision">
-    <title>Rumah Kentang</title>
+    <title>Serbuan Halilintar</title>
 </programme>
 <programme start="20260924150000 +0000" stop="20260924153000 +0000" channel="ANTV.mncvision">
-    <title>Menantang Maut</title>
+    <title>Malam Keramat</title>
 </programme>
 <programme start="20260923170000 +0000" stop="20260923173000 +0000" channel="Arirang.mncvision">
     <title>I&#039;m Live</title>
@@ -4876,16 +4882,16 @@
 <programme start="20260924130000 +0000" stop="20260924130500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260924130500 +0000" stop="20260924140000 +0000" channel="iNews.mncvision">
+<programme start="20260924130500 +0000" stop="20260924140500 +0000" channel="iNews.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="iNews.mncvision">
+<programme start="20260924140500 +0000" stop="20260924150500 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260924150000 +0000" stop="20260924151000 +0000" channel="iNews.mncvision">
+<programme start="20260924150500 +0000" stop="20260924153000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260924151000 +0000" stop="20260924163000 +0000" channel="iNews.mncvision">
+<programme start="20260924153000 +0000" stop="20260924163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260924163000 +0000" stop="20260923170000 +0000" channel="iNews.mncvision">
@@ -4966,16 +4972,16 @@
 <programme start="20260924130000 +0000" stop="20260924130500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20260924130500 +0000" stop="20260924140000 +0000" channel="iNews HD.mncvision">
+<programme start="20260924130500 +0000" stop="20260924140500 +0000" channel="iNews HD.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260924140500 +0000" stop="20260924150500 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260924150000 +0000" stop="20260924151000 +0000" channel="iNews HD.mncvision">
+<programme start="20260924150500 +0000" stop="20260924153000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20260924151000 +0000" stop="20260924163000 +0000" channel="iNews HD.mncvision">
+<programme start="20260924153000 +0000" stop="20260924163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260924163000 +0000" stop="20260923170000 +0000" channel="iNews HD.mncvision">
@@ -6340,10 +6346,10 @@
 <programme start="20260924013000 +0000" stop="20260924020000 +0000" channel="Muslim TV.mncvision">
     <title>Hijrah Traveler</title>
 </programme>
-<programme start="20260924020000 +0000" stop="20260924031500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260924020000 +0000" stop="20260924030000 +0000" channel="Muslim TV.mncvision">
     <title>Kasih Jannah</title>
 </programme>
-<programme start="20260924031500 +0000" stop="20260924041500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260924030000 +0000" stop="20260924041500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S4</title>
 </programme>
 <programme start="20260924041500 +0000" stop="20260924053000 +0000" channel="Muslim TV.mncvision">
