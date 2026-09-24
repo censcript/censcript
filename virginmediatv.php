@@ -134,7 +134,7 @@
     <title>The Simpsons - Smart and Smarter</title>
 </programme>
 <programme start="20260924160000 +0000" stop="20260924163000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Young Sheldon - A Political Campaign and a Candy Land Cheater</title>
+    <title>Boxing - European Boxing Elite Championships</title>
 </programme>
 <programme start="20260924163000 +0000" stop="20260924170000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Big Bang Theory - The Septum Deviation</title>
@@ -3301,11 +3301,8 @@
 <programme start="20260924160000 +0000" stop="20260924170000 +0000" channel="Bloomberg.virginmediatv">
     <title>Bloomberg Real Yield</title>
 </programme>
-<programme start="20260924170000 +0000" stop="20260924173000 +0000" channel="Bloomberg.virginmediatv">
-    <title>The David Rubenstein Show - David Booth</title>
-</programme>
-<programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg Next Africa</title>
+<programme start="20260924170000 +0000" stop="20260924180000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg: Balance of Power</title>
 </programme>
 <programme start="20260923231500 +0000" stop="20260924010000 +0000" channel="Sky_Premiere_HD.virginmediatv">
     <title>Hungry</title>
@@ -3853,7 +3850,10 @@
 <programme start="20260924030000 +0000" stop="20260924040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260924040000 +0000" stop="20260924060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260924110000 +0000" stop="20260924193000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -3959,10 +3959,10 @@
     <title>EFL League Two - Goals</title>
 </programme>
 <programme start="20260924130000 +0000" stop="20260924140000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>The World Football Show</title>
+    <title>Bundesliga Highlights - Round 2</title>
 </programme>
 <programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>Bundesliga Highlights - Round 4</title>
+    <title>The World Football Show</title>
 </programme>
 <programme start="20260924150000 +0000" stop="20260924153000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>WSL - Arsenal v Manchester United</title>
@@ -4124,10 +4124,10 @@
     <title>Lunchtime Live</title>
 </programme>
 <programme start="20260924130000 +0000" stop="20260924140000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>The World Football Show</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sports Desk</title>
+    <title>The World Football Show</title>
 </programme>
 <programme start="20260924150000 +0000" stop="20260924160000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>Sports Desk</title>
@@ -4369,19 +4369,19 @@
 <programme start="20260924113000 +0000" stop="20260924131500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Live: Formula 1 - Azerbaijan Grand Prix: 2nd Practice</title>
 </programme>
-<programme start="20260924131500 +0000" stop="20260924141500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260924131500 +0000" stop="20260924142000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>The F1 Show - Azerbaijan</title>
 </programme>
-<programme start="20260924141500 +0000" stop="20260924153000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260924142000 +0000" stop="20260924153500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: 2nd Practice</title>
 </programme>
-<programme start="20260924153000 +0000" stop="20260924163000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260924153500 +0000" stop="20260924164500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>The F1 Show - Azerbaijan</title>
 </programme>
-<programme start="20260924163000 +0000" stop="20260924174500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260924164500 +0000" stop="20260924175500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: 1st Practice</title>
 </programme>
-<programme start="20260924174500 +0000" stop="20260924190000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260924175500 +0000" stop="20260924191000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: 2nd Practice</title>
 </programme>
 <programme start="20260923230000 +0000" stop="20260924020000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4391,7 +4391,7 @@
     <title>Live: Major League Baseball - Houston Astros at Seattle Mariners</title>
 </programme>
 <programme start="20260924050000 +0000" stop="20260924051500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Premier League Reload - Episode 5</title>
+    <title>Premier League Reload - Matchday 5</title>
 </programme>
 <programme start="20260924051500 +0000" stop="20260924053000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>British Superbikes Rewind - Round 9 Showdown: Assen GP</title>
@@ -4627,7 +4627,10 @@
 <programme start="20260924030000 +0000" stop="20260924040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260924040000 +0000" stop="20260924060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260924110000 +0000" stop="20260924193000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4733,10 +4736,10 @@
     <title>EFL League Two - Goals</title>
 </programme>
 <programme start="20260924130000 +0000" stop="20260924140000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>The World Football Show</title>
+    <title>Bundesliga Highlights - Round 2</title>
 </programme>
 <programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>Bundesliga Highlights - Round 4</title>
+    <title>The World Football Show</title>
 </programme>
 <programme start="20260924150000 +0000" stop="20260924153000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>WSL - Arsenal v Manchester United</title>
@@ -4898,10 +4901,10 @@
     <title>Lunchtime Live</title>
 </programme>
 <programme start="20260924130000 +0000" stop="20260924140000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>The World Football Show</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sports Desk</title>
+    <title>The World Football Show</title>
 </programme>
 <programme start="20260924150000 +0000" stop="20260924160000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>Sports Desk</title>
@@ -5017,19 +5020,19 @@
 <programme start="20260924113000 +0000" stop="20260924131500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Live: Formula 1 - Azerbaijan Grand Prix: 2nd Practice</title>
 </programme>
-<programme start="20260924131500 +0000" stop="20260924141500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260924131500 +0000" stop="20260924142000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>The F1 Show - Azerbaijan</title>
 </programme>
-<programme start="20260924141500 +0000" stop="20260924153000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260924142000 +0000" stop="20260924153500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: 2nd Practice</title>
 </programme>
-<programme start="20260924153000 +0000" stop="20260924163000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260924153500 +0000" stop="20260924164500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>The F1 Show - Azerbaijan</title>
 </programme>
-<programme start="20260924163000 +0000" stop="20260924174500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260924164500 +0000" stop="20260924175500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: 1st Practice</title>
 </programme>
-<programme start="20260924174500 +0000" stop="20260924190000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260924175500 +0000" stop="20260924191000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: 2nd Practice</title>
 </programme>
 <programme start="20260923230000 +0000" stop="20260924001700 +0000" channel="TG4+1_HD.virginmediatv">
@@ -5576,7 +5579,7 @@
     <title>The Simpsons - Smart and Smarter</title>
 </programme>
 <programme start="20260924160000 +0000" stop="20260924163000 +0000" channel="TRTE.virginmediatv">
-    <title>Young Sheldon - A Political Campaign and a Candy Land Cheater</title>
+    <title>Boxing - European Boxing Elite Championships</title>
 </programme>
 <programme start="20260924163000 +0000" stop="20260924203000 +0000" channel="TRTE.virginmediatv">
     <title>Channel Off Air</title>
