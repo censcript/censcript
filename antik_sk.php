@@ -2953,10 +2953,10 @@
   <programme start="20260927010800 +0000" stop="20260927022000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
-  <programme start="20260927022000 +0000" stop="20260927024500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260927022000 +0000" stop="20260927024600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nebojte se hovězího</title>
   </programme>
-  <programme start="20260927024500 +0000" stop="20260927031000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260927024600 +0000" stop="20260927031000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Přes nový práh</title>
   </programme>
   <programme start="20260927031000 +0000" stop="20260927033000 +0000" channel="ČT1.webtv.sk">

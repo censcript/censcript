@@ -430,7 +430,7 @@
 <programme start="20260925144500 +0000" stop="20260925154500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Great British Sewing Bee - Episode 4</title>
 </programme>
-<programme start="20260925154500 +0000" stop="20260925181500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20260925154500 +0000" stop="20260925182000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: UEFA Nations League Football - Group B2: Georgia v Northern Ireland</title>
 </programme>
 <programme start="20260925000000 +0000" stop="20260925011500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
