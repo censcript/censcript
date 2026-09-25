@@ -116,10 +116,13 @@
     <title>News2Day</title>
 </programme>
 <programme start="20260925153000 +0000" stop="20260925160000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Live: Boxing - European Boxing Elite Championships</title>
+</programme>
+<programme start="20260925160000 +0000" stop="20260925161000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Simpsons - Co-Dependent&#039;s Day</title>
 </programme>
-<programme start="20260925160000 +0000" stop="20260925163000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Young Sheldon - A Political Campaign and a Candy Land Cheater</title>
+<programme start="20260925161000 +0000" stop="20260925163000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Ancient Oceans - The Devonian</title>
 </programme>
 <programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="RTE_Two_HD.virginmediatv">
     <title>The Big Bang Theory - The Champagne Reflection</title>
@@ -4019,7 +4022,7 @@
     <title>NFL Football - Pittsburgh Steelers at New England Patriots</title>
 </programme>
 <programme start="20260925043000 +0000" stop="20260925044500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Washington Commanders at Dallas Cowboys</title>
+    <title>NFL Football - Washington Commanders at Philadelphia Eagles</title>
 </programme>
 <programme start="20260925044500 +0000" stop="20260925050000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Seattle Seahawks at Arizona Cardinals</title>
@@ -4186,10 +4189,7 @@
 <programme start="20260925011500 +0000" stop="20260925021500 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260925021500 +0000" stop="20260925041500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260925041500 +0000" stop="20260925051500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260925021500 +0000" stop="20260925051500 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
 <programme start="20260925051500 +0000" stop="20260925071500 +0000" channel="Racing_UK.virginmediatv">
@@ -4207,10 +4207,7 @@
 <programme start="20260925011500 +0000" stop="20260925021500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20260925021500 +0000" stop="20260925041500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260925041500 +0000" stop="20260925051500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260925021500 +0000" stop="20260925051500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
 <programme start="20260925051500 +0000" stop="20260925071500 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -4288,13 +4285,13 @@
 <programme start="20260925140000 +0000" stop="20260925143000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260925143000 +0000" stop="20260925163000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260925143000 +0000" stop="20260925164000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260925164000 +0000" stop="20260925171500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260925170000 +0000" stop="20260925190000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260925171500 +0000" stop="20260925192500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: Qualifying</title>
 </programme>
 <programme start="20260924224500 +0000" stop="20260925013000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4748,7 +4745,7 @@
     <title>NFL Football - Pittsburgh Steelers at New England Patriots</title>
 </programme>
 <programme start="20260925043000 +0000" stop="20260925044500 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Washington Commanders at Dallas Cowboys</title>
+    <title>NFL Football - Washington Commanders at Philadelphia Eagles</title>
 </programme>
 <programme start="20260925044500 +0000" stop="20260925050000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Seattle Seahawks at Arizona Cardinals</title>
@@ -4933,13 +4930,13 @@
 <programme start="20260925140000 +0000" stop="20260925143000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260925143000 +0000" stop="20260925163000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260925143000 +0000" stop="20260925164000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260925164000 +0000" stop="20260925171500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Qualifying</title>
 </programme>
-<programme start="20260925170000 +0000" stop="20260925190000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260925171500 +0000" stop="20260925192500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: Qualifying</title>
 </programme>
 <programme start="20260925000000 +0000" stop="20260925010500 +0000" channel="TG4+1_HD.virginmediatv">
@@ -5465,10 +5462,13 @@
     <title>News2Day</title>
 </programme>
 <programme start="20260925153000 +0000" stop="20260925160000 +0000" channel="TRTE.virginmediatv">
+    <title>Live: Boxing - European Boxing Elite Championships</title>
+</programme>
+<programme start="20260925160000 +0000" stop="20260925161000 +0000" channel="TRTE.virginmediatv">
     <title>The Simpsons - Co-Dependent&#039;s Day</title>
 </programme>
-<programme start="20260925160000 +0000" stop="20260925163000 +0000" channel="TRTE.virginmediatv">
-    <title>Young Sheldon - A Political Campaign and a Candy Land Cheater</title>
+<programme start="20260925161000 +0000" stop="20260925163000 +0000" channel="TRTE.virginmediatv">
+    <title>Ancient Oceans - The Devonian</title>
 </programme>
 <programme start="20260925163000 +0000" stop="20260925203000 +0000" channel="TRTE.virginmediatv">
     <title>Channel Off Air</title>

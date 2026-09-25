@@ -26,7 +26,7 @@
 <title>Terlanjur Mencintaimu (RCTI)</title>
 </programme>
 <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="RCTI.vision">
-<title>Cinta Dua Kasta</title>
+<title>Love By Accident</title>
 </programme>
 <programme start="20260925160000 +0000" stop="20260925171500 +0000" channel="RCTI.vision">
 <title>Cinta Dari Surga</title>
@@ -140,7 +140,7 @@
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20260925103000 +0000" stop="20260925120000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Merpati Lucu Mencari Sahabat</title>
 </programme>
 <programme start="20260925120000 +0000" stop="20260925133000 +0000" channel="GTV.vision">
 <title>Liga Bintang Juara (GTV)</title>
@@ -179,7 +179,7 @@
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20260926103000 +0000" stop="20260926120000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Kancil Yang Berhati Adil</title>
 </programme>
 <programme start="20260924234500 +0000" stop="20260925001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -253,11 +253,8 @@
 <programme start="20260925231000 +0000" stop="20260925233000 +0000" channel="iNews.vision">
 <title>iNews Sport</title>
 </programme>
-<programme start="20260925233000 +0000" stop="20260926000000 +0000" channel="iNews.vision">
+<programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="iNews.vision">
-<title>iNews Update: The One...</title>
 </programme>
 <programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="iNews.vision">
 <title>Realita</title>
@@ -269,15 +266,15 @@
 <title>Breaking News (Inews)</title>
 </programme>
 <programme start="20260926033000 +0000" stop="20260926050000 +0000" channel="iNews.vision">
-<title>Cahaya Hati Indonesia (L)</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260926060000 +0000" stop="20260926093000 +0000" channel="iNews.vision">
+<programme start="20260926050000 +0000" stop="20260926055000 +0000" channel="iNews.vision">
+<title>Best Of Cahaya Hati The Series</title>
+</programme>
+<programme start="20260926055000 +0000" stop="20260926092500 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260926093000 +0000" stop="20260926130000 +0000" channel="iNews.vision">
+<programme start="20260926092500 +0000" stop="20260926130000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260925000000 +0000" stop="20260925003000 +0000" channel="SindoNews.vision">
@@ -625,15 +622,6 @@
 <programme start="20260925100000 +0000" stop="20260925110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20260925110000 +0000" stop="20260925130000 +0000" channel="ANTV.vision">
-<title>Tutur Tinular: Pedang Naga...</title>
-</programme>
-<programme start="20260925130000 +0000" stop="20260925150000 +0000" channel="ANTV.vision">
-<title>Pendekar Bukit Tengkorak</title>
-</programme>
-<programme start="20260925150000 +0000" stop="20260925170000 +0000" channel="ANTV.vision">
-<title>Almarhum</title>
-</programme>
 <programme start="20260925170000 +0000" stop="20260925183000 +0000" channel="ANTV.vision">
 <title>Doctor Vampire</title>
 </programme>
@@ -665,7 +653,7 @@
 <title>Naagin 7</title>
 </programme>
 <programme start="20260926110000 +0000" stop="20260926130000 +0000" channel="ANTV.vision">
-<title>Tutur Tinular 3</title>
+<title>Si Rawing 2</title>
 </programme>
 <programme start="20260924220000 +0000" stop="20260925020000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260925060000 +0000" stop="20260925070000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
+</programme>
+<programme start="20260925070000 +0000" stop="20260925070300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260925070300 +0000" stop="20260925080000 +0000" channel="TVRI.vision">
+<title>Jejak Langkah</title>
+</programme>
+<programme start="20260925080000 +0000" stop="20260925080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260925080300 +0000" stop="20260925090000 +0000" channel="TVRI.vision">
+<title>Bincang Olahraga</title>
 </programme>
