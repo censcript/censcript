@@ -116,7 +116,7 @@
         <title>(Live) News Tonight</title>
     </programme>
     <programme start="20260925130000 +0000" stop="20260925150000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) FIFA Asean Cup 2026 - EP 1</title>
+        <title>(Live) FIFA Asean Cup 2026 (Division 1) - Episode 1: Group Stage - Indonesia vs Singapore</title>
     </programme>
     <programme start="20260925150000 +0000" stop="20260925153000 +0000" channel="Channel 5.mewatch">
         <title>On The Red Dot - EP 18</title>
@@ -772,10 +772,10 @@
     <programme start="20260925050000 +0000" stop="20260925063000 +0000" channel="Live 2.mewatch">
         <title>Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Elise Mertens BEL vs Maja Chwalinska POL</title>
     </programme>
-    <programme start="20260925063000 +0000" stop="20260925083000 +0000" channel="Live 2.mewatch">
+    <programme start="20260925063000 +0000" stop="20260925100000 +0000" channel="Live 2.mewatch">
         <title>Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Wang Xinyu CHN vs Tatiana Prozorova</title>
     </programme>
-    <programme start="20260925083000 +0000" stop="20260925103000 +0000" channel="Live 2.mewatch">
+    <programme start="20260925100000 +0000" stop="20260925103000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 25th September, Friday 6.30pm. Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Mirra Andreeva vs Leylah Fernandez CAN</title>
     </programme>
     <programme start="20260925103000 +0000" stop="20260925123000 +0000" channel="Live 2.mewatch">
@@ -796,10 +796,10 @@
     <programme start="20260925084800 +0000" stop="20260925110000 +0000" channel="Live 5.mewatch">
         <title>FIFA ASEAN Cup 2026™: Bangladesh vs Malaysia</title>
     </programme>
-    <programme start="20260925110000 +0000" stop="20260925124800 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th September, Friday 8.48pm. FIFA ASEAN Cup 2026™: Indonesia vs Singapore</title>
+    <programme start="20260925110000 +0000" stop="20260925124900 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 25th September, Friday 8.49pm. FIFA ASEAN Cup 2026™: Indonesia vs Singapore</title>
     </programme>
-    <programme start="20260925124800 +0000" stop="20260925150000 +0000" channel="Live 5.mewatch">
+    <programme start="20260925124900 +0000" stop="20260925150000 +0000" channel="Live 5.mewatch">
         <title>FIFA ASEAN Cup 2026™: Indonesia vs Singapore</title>
     </programme>
     <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="Live 5.mewatch">

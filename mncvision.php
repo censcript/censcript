@@ -7849,11 +7849,8 @@
 <programme start="20260925124500 +0000" stop="20260925143000 +0000" channel="Soccer Channel.mncvision">
     <title>Timnas Spesial: IDN Vs BHR</title>
 </programme>
-<programme start="20260925143000 +0000" stop="20260925150000 +0000" channel="Soccer Channel.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20260925150000 +0000" stop="20260925153000 +0000" channel="Soccer Channel.mncvision">
-    <title>Planet Football</title>
+<programme start="20260925143000 +0000" stop="20260925153000 +0000" channel="Soccer Channel.mncvision">
+    <title>Highlights UEFA Nations League</title>
 </programme>
 <programme start="20260925153000 +0000" stop="20260925154500 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
@@ -7903,11 +7900,8 @@
 <programme start="20260925124500 +0000" stop="20260925143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Timnas Spesial: IDN Vs BHR</title>
 </programme>
-<programme start="20260925143000 +0000" stop="20260925150000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20260925150000 +0000" stop="20260925153000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Planet Football</title>
+<programme start="20260925143000 +0000" stop="20260925153000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Highlights UEFA Nations League</title>
 </programme>
 <programme start="20260925153000 +0000" stop="20260925154500 +0000" channel="Soccer Channel HD.mncvision">
     <title>Top Goals</title>
@@ -8686,59 +8680,131 @@
 <programme start="20260925163000 +0000" stop="20260924170000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>
-<programme start="20260924175000 +0000" stop="20260924191500 +0000" channel="Thrill.mncvision">
+<programme start="20260924171500 +0000" stop="20260924174500 +0000" channel="Thrill.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20260924174500 +0000" stop="20260924175000 +0000" channel="Thrill.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20260924175000 +0000" stop="20260924183000 +0000" channel="Thrill.mncvision">
     <title>Detrimental</title>
 </programme>
-<programme start="20260924191500 +0000" stop="20260924201000 +0000" channel="Thrill.mncvision">
+<programme start="20260924183000 +0000" stop="20260924191500 +0000" channel="Thrill.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20260924191500 +0000" stop="20260924193000 +0000" channel="Thrill.mncvision">
     <title>3AM, Ep 5</title>
 </programme>
-<programme start="20260924201000 +0000" stop="20260924210000 +0000" channel="Thrill.mncvision">
+<programme start="20260924193000 +0000" stop="20260924201000 +0000" channel="Thrill.mncvision">
+    <title>Dracin</title>
+</programme>
+<programme start="20260924201000 +0000" stop="20260924201500 +0000" channel="Thrill.mncvision">
     <title>Sinister, Ep 1</title>
 </programme>
-<programme start="20260924210000 +0000" stop="20260924225500 +0000" channel="Thrill.mncvision">
+<programme start="20260924201500 +0000" stop="20260924210000 +0000" channel="Thrill.mncvision">
+    <title>LOL ComediHa!</title>
+</programme>
+<programme start="20260924210000 +0000" stop="20260924214500 +0000" channel="Thrill.mncvision">
     <title>The Elite Of Devils</title>
 </programme>
-<programme start="20260924225500 +0000" stop="20260925003000 +0000" channel="Thrill.mncvision">
+<programme start="20260924214500 +0000" stop="20260924223000 +0000" channel="Thrill.mncvision">
+    <title>Pesantrend</title>
+</programme>
+<programme start="20260924223000 +0000" stop="20260924225500 +0000" channel="Thrill.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20260924225500 +0000" stop="20260924233000 +0000" channel="Thrill.mncvision">
     <title>The Getaway</title>
 </programme>
-<programme start="20260925003000 +0000" stop="20260925015000 +0000" channel="Thrill.mncvision">
+<programme start="20260924233000 +0000" stop="20260925003000 +0000" channel="Thrill.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20260925003000 +0000" stop="20260925013000 +0000" channel="Thrill.mncvision">
     <title>Ten Minutes To Midnight</title>
 </programme>
-<programme start="20260925015000 +0000" stop="20260925031500 +0000" channel="Thrill.mncvision">
+<programme start="20260925013000 +0000" stop="20260925015000 +0000" channel="Thrill.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20260925015000 +0000" stop="20260925023000 +0000" channel="Thrill.mncvision">
     <title>Detrimental</title>
+</programme>
+<programme start="20260925023000 +0000" stop="20260925031500 +0000" channel="Thrill.mncvision">
+    <title>Selebrita Heits</title>
 </programme>
 <programme start="20260925031500 +0000" stop="20260925041000 +0000" channel="Thrill.mncvision">
     <title>3AM, Ep 5</title>
 </programme>
-<programme start="20260925041000 +0000" stop="20260925050000 +0000" channel="Thrill.mncvision">
+<programme start="20260925041000 +0000" stop="20260925041500 +0000" channel="Thrill.mncvision">
     <title>Sinister, Ep 1</title>
 </programme>
-<programme start="20260925050000 +0000" stop="20260925065500 +0000" channel="Thrill.mncvision">
+<programme start="20260925041500 +0000" stop="20260925050000 +0000" channel="Thrill.mncvision">
+    <title>Enah Bikin Enak</title>
+</programme>
+<programme start="20260925050000 +0000" stop="20260925054500 +0000" channel="Thrill.mncvision">
     <title>The Elite Of Devils</title>
 </programme>
-<programme start="20260925065500 +0000" stop="20260925083000 +0000" channel="Thrill.mncvision">
+<programme start="20260925054500 +0000" stop="20260925063000 +0000" channel="Thrill.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20260925063000 +0000" stop="20260925065500 +0000" channel="Thrill.mncvision">
+    <title>Kepo</title>
+</programme>
+<programme start="20260925065500 +0000" stop="20260925071500 +0000" channel="Thrill.mncvision">
     <title>The Getaway</title>
 </programme>
-<programme start="20260925083000 +0000" stop="20260925095000 +0000" channel="Thrill.mncvision">
+<programme start="20260925071500 +0000" stop="20260925074500 +0000" channel="Thrill.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20260925074500 +0000" stop="20260925081500 +0000" channel="Thrill.mncvision">
+    <title>Spotlite Anti Kudet</title>
+</programme>
+<programme start="20260925081500 +0000" stop="20260925083000 +0000" channel="Thrill.mncvision">
+    <title>Cuan Bos</title>
+</programme>
+<programme start="20260925083000 +0000" stop="20260925090000 +0000" channel="Thrill.mncvision">
     <title>Ten Minutes To Midnight</title>
 </programme>
-<programme start="20260925095000 +0000" stop="20260925111500 +0000" channel="Thrill.mncvision">
+<programme start="20260925090000 +0000" stop="20260925095000 +0000" channel="Thrill.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20260925095000 +0000" stop="20260925100000 +0000" channel="Thrill.mncvision">
     <title>Detrimental</title>
 </programme>
-<programme start="20260925111500 +0000" stop="20260925121000 +0000" channel="Thrill.mncvision">
+<programme start="20260925100000 +0000" stop="20260925110000 +0000" channel="Thrill.mncvision">
+    <title>Selebrita Update</title>
+</programme>
+<programme start="20260925110000 +0000" stop="20260925111500 +0000" channel="Thrill.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20260925111500 +0000" stop="20260925114500 +0000" channel="Thrill.mncvision">
     <title>3AM, Ep 5</title>
 </programme>
-<programme start="20260925121000 +0000" stop="20260925130000 +0000" channel="Thrill.mncvision">
+<programme start="20260925114500 +0000" stop="20260925121000 +0000" channel="Thrill.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20260925121000 +0000" stop="20260925121500 +0000" channel="Thrill.mncvision">
     <title>Sinister, Ep 1</title>
 </programme>
-<programme start="20260925130000 +0000" stop="20260925144000 +0000" channel="Thrill.mncvision">
+<programme start="20260925121500 +0000" stop="20260925130000 +0000" channel="Thrill.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260925130000 +0000" stop="20260925143000 +0000" channel="Thrill.mncvision">
     <title>Mid-Night Two</title>
 </programme>
-<programme start="20260925144000 +0000" stop="20260925161000 +0000" channel="Thrill.mncvision">
+<programme start="20260925143000 +0000" stop="20260925144000 +0000" channel="Thrill.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20260925144000 +0000" stop="20260925154500 +0000" channel="Thrill.mncvision">
     <title>Evie</title>
 </programme>
-<programme start="20260925161000 +0000" stop="20260925163500 +0000" channel="Thrill.mncvision">
+<programme start="20260925154500 +0000" stop="20260925161000 +0000" channel="Thrill.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20260925161000 +0000" stop="20260925163000 +0000" channel="Thrill.mncvision">
     <title>Model Family, Ep 5</title>
+</programme>
+<programme start="20260925163000 +0000" stop="20260925163500 +0000" channel="Thrill.mncvision">
+    <title>Misteri Dunia</title>
 </programme>
 <programme start="20260925163500 +0000" stop="20260924170500 +0000" channel="Thrill.mncvision">
     <title>Model Family, Ep 6</title>

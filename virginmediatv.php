@@ -2827,17 +2827,17 @@
 <programme start="20260925053000 +0000" stop="20260925070000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Committees Replay</title>
 </programme>
-<programme start="20260925113000 +0000" stop="20260925131000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20260925113000 +0000" stop="20260925134000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Artificial Intelligence</title>
 </programme>
-<programme start="20260925131000 +0000" stop="20260925140000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20260925134000 +0000" stop="20260925145000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Fisheries and Maritime Affairs</title>
 </programme>
-<programme start="20260925140000 +0000" stop="20260925160000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
-</programme>
-<programme start="20260925160000 +0000" stop="20260925190000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20260925145000 +0000" stop="20260925175000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Topical Issues</title>
+</programme>
+<programme start="20260925175000 +0000" stop="20260925201000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Seanad Commencement Debates</title>
 </programme>
 <programme start="20260925000000 +0000" stop="20260925020000 +0000" channel="Discovery_HD.virginmediatv">
     <title>Naked and Afraid: Shipwrecked - Abandon Ship</title>
@@ -3950,7 +3950,7 @@
     <title>Scottish Premiership Football - Celtic v Rangers</title>
 </programme>
 <programme start="20260925000000 +0000" stop="20260925003000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>World Cup Report</title>
+    <title>ICC Women&#039;s T20 World Cup - England v Ireland</title>
 </programme>
 <programme start="20260925003000 +0000" stop="20260925043000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
@@ -4364,7 +4364,7 @@
     <title>Sign Up: Into Football - Episode 1</title>
 </programme>
 <programme start="20260925174500 +0000" stop="20260925200000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Laver Cup - Match 3: Brandon Nakashima v Alexander Bublik</title>
+    <title>Live: Laver Cup - Match 3: Rafael Jodar v Alexander Bublik</title>
 </programme>
 <programme start="20260924233000 +0000" stop="20260925003000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>MotoGP - Austrian Grand Prix</title>
@@ -4679,7 +4679,7 @@
     <title>Scottish Premiership Football - Celtic v Rangers</title>
 </programme>
 <programme start="20260925000000 +0000" stop="20260925003000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>World Cup Report</title>
+    <title>ICC Women&#039;s T20 World Cup - England v Ireland</title>
 </programme>
 <programme start="20260925003000 +0000" stop="20260925043000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
